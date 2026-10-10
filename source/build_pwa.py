@@ -24,6 +24,8 @@ for l in open(B/'pay_codes.txt'):
     for x in l.strip().split('|'):
         c_,m_=x.split(); pay[c_]=[int(m_),names[int(m_)]]
 data['pay']=pay; data['minpay']=4806
+# budżetówka: płace z ogólnopolskich siatek, bez korekty miasta (grupy + nazwy z grupy mieszanej 541)
+data['nocity']={'g':['222','322','231','232','233','234','5312','2635','335','3355','111'],'re':'^(Strażak|Policjant|Dzielnicowy|Komendant|Inspektor policji|Detektyw w policji|Strażnik (więzienny|miejski|ruchu drogowego|w zakładzie)|Funkcjonariusz|Operator sprzętu pożarniczego|Dowódca zastępu)'}
 # rynek pracy: najnowszy source/market-<rok>.json (co rok podmienia się ten jeden plik)
 _mk=json.loads(sorted(B.glob('market-*.json'))[-1].read_text(encoding='utf-8'))
 for _s in _mk['sources'].values(): _s.pop('u',None)
@@ -62,7 +64,7 @@ page=t.replace(link,'<style>\n'+css+'</style>').replace('__DATA__',raw)
 json.dump({"name":"Future Advisor","short_name":"Future Advisor","description":"Drzewo zawodów: sprawdź, co można robić w życiu i zaplanuj drogę.","lang":"pl","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#F4F5FA","theme_color":"#F4F5FA",
  "icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"},{"src":"icon-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]},open(P/'manifest.webmanifest','w'),ensure_ascii=False)
 head='<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#F4F5FA"><meta name="description" content="Drzewo zawodów: sprawdź, co można robić w życiu i zaplanuj drogę."><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon-192.png"><link rel="apple-touch-icon" href="apple-touch-icon.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><style>body{margin:0}[hidden]{display:none!important}.app{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom);box-sizing:border-box}html,body{overscroll-behavior:none}</style></head><body>'
-tail="<script>if('serviceWorker' in navigator)addEventListener('load',function(){navigator.serviceWorker.register('sw.js')});</script></body></html>"
+tail="<script>if('serviceWorker' in navigator)addEventListener('load',function(){var had=!!navigator.serviceWorker.controller,done=0;navigator.serviceWorker.addEventListener('controllerchange',function(){if(had&&!done){done=1;location.reload()}});navigator.serviceWorker.register('sw.js').then(function(r){r.update()})});</script></body></html>"
 (P/'index.html').write_text(head+page+tail,encoding='utf-8')
 files=['./','index.html','manifest.webmanifest']+sorted(str(p.relative_to(P)) for p in P.rglob('*') if p.is_file() and p.name not in('index.html','manifest.webmanifest','sw.js','LICENCJE.txt') and not p.name.startswith('.'))
 ver=hashlib.md5((P/'index.html').read_bytes()).hexdigest()[:8]

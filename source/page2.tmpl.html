@@ -44,6 +44,9 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
 .avatar { width: 48px; height: 48px; flex-shrink: 0; border: 0; padding: 0; border-radius: 24px; background: var(--O-t); display: grid; place-items: center; }
 .avatar img { width: 36px; height: 36px; }
 
+.view > *, .onb-scroll > * { flex-shrink: 0; }
+.pm .card { min-width: 0; } .pm li, .card p, .mk dd, .skl span, .skl b { overflow-wrap: anywhere; } .pm li { hyphens: auto; }
+.hero h1, .hero .hmeta { overflow-wrap: anywhere; }
 .sec { display: flex; flex-direction: column; gap: 12px; padding-inline: 16px; }
 .sec-h { display: flex; flex-direction: column; gap: 2px; }
 .sec-h p { font-size: 14px; line-height: 20px; color: var(--muted); }
@@ -542,7 +545,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     return h;
   }
   var SK = DATA.sk || {}, MK = DATA.mk || null;
-  var PAY = DATA.pay || {}, CITIES = DATA.cities || [], MINPAY = DATA.minpay || 0, cityOpen = false;
+  var PAY = DATA.pay || {}, CITIES = DATA.cities || [], NOCITY = DATA.nocity || { g: [], re: '' }, NOCITY_RE = NOCITY.re ? new RegExp(NOCITY.re) : null, MINPAY = DATA.minpay || 0, cityOpen = false;
   var money = function (x) { return String(x).replace(/\B(?=(\d{3})+$)/g, '\u00a0'); };
   function payOf(n) {
     var k = String(n.gk || ''); if (!/^\d+$/.test(k)) return null;
@@ -577,17 +580,19 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
       '<p class="small">Stan na ' + MK.year + ' r. Źródła: ' + m.src.map(function (s) { var x = MK.sources[s]; return esc(x.n + ' (' + x.o + ', ' + x.d + ')'); }).join('; ') + '. Opisy złożyło AI z tych źródeł, nie sprawdzali ich praktycy.</p></div></section>';
     return h;
   }
+  function fixedPay(n) { return NOCITY.g.indexOf(String(n.gk)) >= 0 || (NOCITY_RE && NOCITY_RE.test(n.fn || n.n)); }
   function payCard(n) {
-    var p = payOf(n);
+    var p = payOf(n), fixed = fixedPay(n);
     if (!p) return '<section class="sec"><h2>Zarobki</h2><div class="card"><p>Dla tego zawodu nie ma wiarygodnych danych o zarobkach. Dochody bywają tu bardzo nierówne albo zależą od stopnia i stażu.</p></div></section>';
-    var city = S.city >= 0 && CITIES[S.city], r = payRange(p.med, S.city), base = payRange(p.med, -1), LO = 4000, HI = 26000;
+    var ci = fixed ? -1 : S.city, city = ci >= 0 && CITIES[ci], r = payRange(p.med, ci), base = payRange(p.med, -1), LO = 4000, HI = 26000;
     var pos = function (x) { return Math.max(0, Math.min(100, (x - LO) / (HI - LO) * 100)); };
     var h = '<section class="sec"><div class="sec-h"><h2>Zarobki</h2><p>Typowe widełki na etacie, brutto miesięcznie.</p></div><div class="card pay">' +
       '<span class="eyebrow">' + esc(city ? city[0] : 'Cała Polska') + '</span><b class="amt">' + money(r[0]) + ' – ' + money(r[1]) + ' <span>zł brutto</span></b>' +
       '<div class="track" role="img" aria-label="Widełki od ' + r[0] + ' do ' + r[1] + ' zł"><i style="left:' + pos(r[0]) + '%;width:' + Math.max(3, pos(r[1]) - pos(r[0])) + '%"></i>' + (city ? '<u style="left:' + pos((base[0] + base[1]) / 2) + '%" title="Środek widełek w całej Polsce"></u>' : '') + '</div>' +
       '<div class="scale"><span>4 tys.</span><span>15 tys.</span><span>26 tys. zł</span></div>';
     if (city) { var diff = Math.round((r[1] / base[1] - 1) * 100); h += '<p class="cmp">W całej Polsce: ' + money(base[0]) + ' – ' + money(base[1]) + ' zł. ' + (diff > 0 ? esc(city[0]) + ' płaci zwykle <b>ok. ' + diff + '% więcej</b>.' : diff < 0 ? esc(city[0]) + ' płaci zwykle ok. ' + (-diff) + '% mniej.' : 'Tu płace są zbliżone do średniej.') + (city ? ' Kreska na pasku to środek dla całej Polski.' : '') + '</p>'; }
-    h += cityPicker() + '<p class="small">To szacunek, nie oferta. Podstawa: mediana płac GUS dla grupy „' + esc(p.name) + '”, przesunięta o poziom płac w mieście. Na początku pracy zwykle zarabia się bliżej dolnej granicy.</p></div></section>';
+    if (fixed) h += '<p class="cmp" id="pay-fixed">Tu płace wyznaczają głównie ogólnopolskie siatki i przepisy, więc nie przeliczamy ich na miasto.</p>';
+    h += (fixed ? '' : cityPicker()) + '<p class="small">To szacunek, nie oferta. Podstawa: mediana płac GUS dla grupy „' + esc(p.name) + '”' + (fixed ? '.' : ', przesunięta o poziom płac w mieście.') + ' Na początku pracy zwykle zarabia się bliżej dolnej granicy.</p></div></section>';
     return h;
   }
   function fitCard(n) {
