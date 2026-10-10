@@ -16,6 +16,16 @@ for f in sorted(glob.glob(str(B/'gen/out/*.txt'))):
         gen[jobs[int(m.group(1))]]={'hook':d['H'],'tasks':[x.strip() for x in d['T'].split('|') if x.strip()],'day':day,'try':d['Y']}
 assert len(gen)==len(jobs),(len(gen),len(jobs))
 data=json.loads((B/'app.json').read_text(encoding='utf-8')); data['gen']=gen
+names={}
+import csv as _csv
+for l in open(B/'pay_raw.txt',encoding='utf-8'):
+    if '|' in l: n_,m_=l.strip().rsplit('|',1); names.setdefault(int(m_),n_)
+pay={}
+for l in open(B/'pay_codes.txt'):
+    for x in l.strip().split('|'):
+        c_,m_=x.split(); pay[c_]=[int(m_),names[int(m_)]]
+data['pay']=pay; data['minpay']=4806
+data['cities']=[['Kraków',139],['Warszawa',129],['Gdańsk',124],['Poznań',121],['Katowice',114],['Wrocław',108],['Szczecin',102],['Rzeszów',95],['Toruń',95],['Bydgoszcz',94],['Opole',93],['Łódź',89],['Zielona Góra',88],['Lublin',87],['Olsztyn',83],['Kielce',81],['Białystok',81],['Gorzów Wielkopolski',80]]
 raw=json.dumps(data,ensure_ascii=False,separators=(',',':')).replace('</','<\\/').replace('<!--','<\\u0021--')
 # 2. szablon bez AI
 t=(B/'page2.tmpl.html').read_text(encoding='utf-8')

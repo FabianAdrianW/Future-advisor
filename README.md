@@ -11,3 +11,6 @@ Aplikacja mobilna (PWA) dla młodych ludzi: drzewo zawodów, opisy pracy, potrze
 - Czcionki: Figtree, Bricolage Grotesque (SIL OFL 1.1).
 
 Opisy zawodów zostały napisane z pomocą AI i nie były weryfikowane przez praktyków.
+
+## Zarobki
+Widełki to szacunek: mediana płac GUS dla grupy zawodów („Struktura wynagrodzeń według zawodów", październik 2024, w przeliczeniu na 2025 wg kalkulatory-place.pl) × korekta miasta (połowa różnicy między przeciętną płacą w mieście wojewódzkim a średnią krajową, GUS, marzec 2026, wg wynagrodzenia.pl). Widełki: od −20% do +25% wokół mediany, nie mniej niż płaca minimalna.

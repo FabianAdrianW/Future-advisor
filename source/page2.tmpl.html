@@ -111,6 +111,19 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
 
 .card { background: var(--card); border-radius: 22px; padding: 16px; box-shadow: var(--sh); display: flex; flex-direction: column; gap: 10px; }
 .card p { font-size: 15px; line-height: 22px; text-wrap: pretty; }
+.pay .amt { font-family: var(--display); font-size: 30px; line-height: 34px; font-weight: 700; letter-spacing: -0.01em; }
+.pay .amt span { font-family: var(--body); font-size: 15px; font-weight: 600; color: var(--muted); letter-spacing: 0; }
+.pay .track { position: relative; height: 12px; border-radius: 6px; background: var(--wash); }
+.pay .track i { position: absolute; top: 0; bottom: 0; border-radius: 6px; background: var(--N); }
+.pay .track u { position: absolute; top: -3px; bottom: -3px; width: 2px; background: var(--ink); border-radius: 1px; }
+.pay .scale { display: flex; justify-content: space-between; font-size: 12px; line-height: 16px; color: var(--faint); font-weight: 600; }
+.pay .cmp { font-size: 14px; line-height: 20px; color: var(--muted); }
+.pay .cmp b { color: var(--N-d); }
+.citybtn { align-self: flex-start; display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 0 14px 0 8px; border: 0; border-radius: 20px; background: var(--N-t); color: var(--N-d); font-size: 14px; font-weight: 700; }
+.citybtn img { width: 24px; height: 24px; }
+.cities { display: flex; flex-wrap: wrap; gap: 6px; }
+.cities .pill { min-height: 36px; padding: 0 12px; font-size: 13px; box-shadow: inset 0 0 0 1.5px var(--line); }
+.cities .pill[aria-pressed="true"] { box-shadow: none; }
 .fitcard .top { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
 .fitcard .top b { font-family: var(--display); font-size: 18px; line-height: 22px; }
 .prose { font-size: 16px; line-height: 24px; text-wrap: pretty; }
@@ -314,13 +327,13 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   var snippet = function (d) { if (!d) return ''; var m = d.match(/^.{20,}?[.!?](\s|$)/); return (m ? m[0] : d).trim(); };
 
   // ---- stan i pamięć przeglądarki ----
-  var S = { interests: [], favs: [], onboarded: false, plans: [], stage: -1, planSel: 0 };
+  var S = { interests: [], favs: [], onboarded: false, plans: [], stage: -1, planSel: 0, city: -1 };
   try {
     var saved = JSON.parse(localStorage.getItem('fa.v2'));
     if (saved && Array.isArray(saved.interests)) {
       S.interests = saved.interests; S.favs = saved.favs || []; S.onboarded = !!saved.onboarded;
       S.plans = Array.isArray(saved.plans) ? saved.plans.filter(function (p) { return p && typeof p.job === 'string' && Array.isArray(p.done); }) : [];
-      S.stage = typeof saved.stage === 'number' ? saved.stage : -1; S.planSel = saved.planSel || 0;
+      S.stage = typeof saved.stage === 'number' ? saved.stage : -1; S.city = typeof saved.city === 'number' ? saved.city : -1; S.planSel = saved.planSel || 0;
     }
   } catch (e) {}
   var save = function () { try { localStorage.setItem('fa.v2', JSON.stringify(S)); } catch (e) {} };
@@ -510,6 +523,36 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
       (limit < all.length ? '<button type="button" class="more" data-act="more">Pokaż kolejne ' + Math.min(PAGE, all.length - limit) + ' <span>· zostało ' + (all.length - limit) + '</span></button>' : '') + '</div></section>';
     return h;
   }
+  var PAY = DATA.pay || {}, CITIES = DATA.cities || [], MINPAY = DATA.minpay || 0, cityOpen = false;
+  var money = function (x) { return String(x).replace(/\B(?=(\d{3})+$)/g, '\u00a0'); };
+  function payOf(n) {
+    var k = String(n.gk || ''); if (!/^\d+$/.test(k)) return null;
+    for (var len = Math.min(k.length, 3); len >= 1; len--) { var p = PAY[k.slice(0, len)]; if (p) return { med: p[0], name: p[1] }; }
+    return null;
+  }
+  function payRange(med, ci) {
+    var k = ci >= 0 && CITIES[ci] ? 1 + (CITIES[ci][1] - 100) / 200 : 1, r = function (x) { return Math.round(x / 100) * 100; };
+    return [Math.max(MINPAY, r(med * 0.8 * k)), Math.max(MINPAY + 500, r(med * 1.25 * k))];
+  }
+  function cityPicker() {
+    var cur = S.city >= 0 && CITIES[S.city] ? CITIES[S.city][0] : 'Cała Polska';
+    var h = '<button type="button" class="citybtn" data-act="city-toggle" aria-expanded="' + cityOpen + '">' + img('pushpin', '', 24) + esc(cur) + ' · ' + (cityOpen ? 'zwiń' : 'zmień miasto') + '</button>';
+    if (cityOpen) h += '<div class="cities"><button type="button" class="pill" data-act="city" data-i="-1" aria-pressed="' + (S.city < 0) + '">Cała Polska</button>' + CITIES.map(function (c, i) { return [c[0], i]; }).sort(function (a, b) { return a[0].localeCompare(b[0], 'pl'); }).map(function (c) { return '<button type="button" class="pill" data-act="city" data-i="' + c[1] + '" aria-pressed="' + (S.city === c[1]) + '">' + esc(c[0]) + '</button>'; }).join('') + '</div>';
+    return h;
+  }
+  function payCard(n) {
+    var p = payOf(n);
+    if (!p) return '<section class="sec"><h2>Zarobki</h2><div class="card"><p>Dla tego zawodu nie ma wiarygodnych danych o zarobkach. Dochody bywają tu bardzo nierówne albo zależą od stopnia i stażu.</p></div></section>';
+    var city = S.city >= 0 && CITIES[S.city], r = payRange(p.med, S.city), base = payRange(p.med, -1), LO = 4000, HI = 26000;
+    var pos = function (x) { return Math.max(0, Math.min(100, (x - LO) / (HI - LO) * 100)); };
+    var h = '<section class="sec"><div class="sec-h"><h2>Zarobki</h2><p>Typowe widełki na etacie, brutto miesięcznie.</p></div><div class="card pay">' +
+      '<span class="eyebrow">' + esc(city ? city[0] : 'Cała Polska') + '</span><b class="amt">' + money(r[0]) + ' – ' + money(r[1]) + ' <span>zł brutto</span></b>' +
+      '<div class="track" role="img" aria-label="Widełki od ' + r[0] + ' do ' + r[1] + ' zł"><i style="left:' + pos(r[0]) + '%;width:' + Math.max(3, pos(r[1]) - pos(r[0])) + '%"></i>' + (city ? '<u style="left:' + pos((base[0] + base[1]) / 2) + '%" title="Środek widełek w całej Polsce"></u>' : '') + '</div>' +
+      '<div class="scale"><span>4 tys.</span><span>15 tys.</span><span>26 tys. zł</span></div>';
+    if (city) { var diff = Math.round((r[1] / base[1] - 1) * 100); h += '<p class="cmp">W całej Polsce: ' + money(base[0]) + ' – ' + money(base[1]) + ' zł. ' + (diff > 0 ? esc(city[0]) + ' płaci zwykle <b>ok. ' + diff + '% więcej</b>.' : diff < 0 ? esc(city[0]) + ' płaci zwykle ok. ' + (-diff) + '% mniej.' : 'Tu płace są zbliżone do średniej.') + (city ? ' Kreska na pasku to środek dla całej Polski.' : '') + '</p>'; }
+    h += cityPicker() + '<p class="small">To szacunek, nie oferta. Podstawa: mediana płac GUS dla grupy „' + esc(p.name) + '”, przesunięta o poziom płac w mieście. Na początku pracy zwykle zarabia się bliżej dolnej granicy.</p></div></section>';
+    return h;
+  }
   function fitCard(n) {
     if (!hasProfile()) return '<section class="sec"><div class="card banner">' + img('bullseye', '', 64) + '<div class="txt"><b>Czy to zawód dla Ciebie?</b><span class="small">Zaznacz, co lubisz, a odpowiem przy każdym zawodzie.</span><button type="button" class="btn sm" data-act="edit">Zaznacz</button></div></div></section>';
     var l = level(n.w), tr = topRoots(n.w, 3, 0.2), mine = likes(tr, 3), p = profile();
@@ -552,6 +595,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     var desc = n.d || (n.fam ? 'Zawody z tej rodziny robią podobną pracę. Różnią się głównie branżą, maszyną albo produktem.' : '');
     h += '<section class="sec"><h2>Na czym polega</h2><p class="prose">' + esc(x && x.hook ? x.hook : desc) + '</p>' + (x && x.hook && desc ? '<p class="small">' + (n.own ? '' : 'Według klasyfikacji ESCO: ') + esc(desc) + '</p>' : '') + (n.own ? '<p class="small">Tego zawodu nie ma w naszej wersji klasyfikacji ESCO. Dodany na podstawie aktualnych zestawień nowych zawodów.</p>' : '') + '</section>';
     h += '<div id="details" style="display:flex;flex-direction:column;gap:26px">' + detailsBlock(n) + '</div>';
+    if (!n.c) h += payCard(n);
     if (n.s) h += '<section class="sec"><div class="sec-h"><h2>' + variants(n.s.length) + '</h2><p>Ta sama praca w różnych branżach lub specjalizacjach.</p></div><div class="specs">' + (n.s.length > 12 ? '<input class="field" id="specQ" type="search" placeholder="Filtruj odmiany" autocomplete="off" aria-label="Filtruj odmiany">' : '') +
       n.s.map(function (s, i) { return '<details' + (i === spec ? ' open class="hit"' : '') + ' data-h="' + esc(norm(s.n)) + '"><summary>' + esc(s.n.charAt(0).toUpperCase() + s.n.slice(1)) + '</summary><p>' + esc(s.d) + '</p></details>'; }).join('') + '</div></section>';
     if (n.a && n.a.length) h += '<p class="small" style="padding-inline:16px">Inne nazwy: ' + esc(n.a.join(', ')) + '</p>';
@@ -587,6 +631,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     var p = profile(), h = '<header class="hello"><div><h1>Twoja postać</h1><p class="small">To z niej aplikacja wie, co Ci pokazać najpierw.</p></div></header>';
     h += '<section class="sec"><div class="card me-card"><span class="tile" style="--a:var(--O-t);--b:var(--P-t)">' + img('student', '', 50) + '</span><div class="txt"><b>' + (hasProfile() ? 'Lubisz ' + S.interests.length + ' ' + pl(S.interests.length, 'rzecz', 'rzeczy', 'rzeczy') + ' z listy' : 'Jeszcze nic nie wiem') + '</b>' +
       (hasProfile() ? '<span class="chips">' + INTERESTS.filter(function (it) { return S.interests.indexOf(it[0]) >= 0; }).map(function (it) { return '<span class="chip" style="--t:' + v(it[2], '-t') + ';--d:' + v(it[2], '-d') + ';--c:' + v(it[2]) + '"><i></i>' + it[1] + '</span>'; }).join('') + '</span>' :'<span class="small">Zaznacz, co lubisz robić. Zajmie to pół minuty.</span>') + '<button type="button" class="btn sm ghost" data-act="edit">' + (hasProfile() ? 'Zmień wybór' : 'Zaznacz, co lubisz') + '</button></div></div></section>';
+    h += '<section class="sec"><div class="sec-h"><h2>Twoje miasto</h2><p>Pod nie przeliczam zarobki przy zawodach.</p></div><div class="card">' + cityPicker() + '</div></section>';
     h += '<section class="sec"><h2>Po co Ci postać?</h2><div class="card"><ul class="why">' +
       '<li>' + img('bullseye', '', 40) + '<div><b>Ustawia kierunki pod Ciebie</b><span>Na starcie widzisz te najbliższe temu, co lubisz.</span></div></li>' +
       '<li>' + img('magnifying-glass-tilted-left', '', 40) + '<div><b>Mówi, czy zawód pasuje</b><span>Przy każdym zawodzie tłumaczy dlaczego tak albo nie.</span></div></li>' +
@@ -596,7 +641,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     }).join('') + '</ul></div></section>';
     var favs = S.favs.map(function (k) { return BYNAME[k]; }).filter(Boolean);
     h += '<section class="sec"><h2>Obserwowane zawody</h2>' + (favs.length ? '<div class="list">' + favs.map(function (n) { return row(n, -1); }).join('') + '</div>' : '<div class="empty">Stuknij serce przy zawodzie, a pojawi się tutaj. Dzięki temu łatwo wrócisz do tego, co Cię zaciekawiło.</div>') + '</section>';
-    h += '<section class="sec"><h2>O prototypie</h2><p class="small">' + STATS.total + ' zawodów w ' + STATS.areas + ' kierunkach: klasyfikacja ESCO (Komisja Europejska) plus ' + (STATS.own || 0) + ' nowych zawodów dodanych ręcznie. Umiejętności, plusy, minusy i drogi kształcenia są rozpisane ręcznie dla ' + (STATS.groups || 0) + ' grup zawodów, a ' + STATS.detailed + ' zawodów ma własny pełny opis. Zadania i typowy dzień pozostałych dopisuje AI przy otwarciu zawodu. Przypisanie zawodów do korzeni to pierwsze przybliżenie. Ilustracje: Fluent Emoji (Microsoft, licencja MIT). Wybory zapisują się tylko w tej przeglądarce.</p></section>';
+    h += '<section class="sec"><h2>O aplikacji</h2><p class="small">' + STATS.total + ' zawodów w ' + STATS.areas + ' kierunkach: klasyfikacja ESCO (Komisja Europejska) plus ' + (STATS.own || 0) + ' nowych zawodów dodanych ręcznie. Umiejętności, plusy, minusy i drogi kształcenia są rozpisane ręcznie dla ' + (STATS.groups || 0) + ' grup zawodów, a ' + STATS.detailed + ' zawodów ma własny pełny opis. Zadania i typowy dzień pozostałych zostały napisane z pomocą AI i nie były sprawdzane przez praktyków. Zarobki to szacunek: mediany GUS dla grup zawodów (październik 2024, przeliczone na 2025) i przeciętne płace w miastach wojewódzkich (GUS, marzec 2026); do zawodu trafia połowa różnicy między miastem a średnią krajową. Przypisanie zawodów do korzeni to pierwsze przybliżenie. Ilustracje: Fluent Emoji (Microsoft, licencja MIT). Wybory zapisują się tylko w tej przeglądarce.</p></section>';
     return h;
   }
 
@@ -628,7 +673,8 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     else if (a === 'more') { limits.set(top.node, (limits.get(top.node) || PAGE) + PAGE); render(true); }
     else if (a === 'edit') openOnb();
     else if (a === 'fav') { var key = top.node.fn || top.node.n, i = S.favs.indexOf(key); if (i >= 0) S.favs.splice(i, 1); else S.favs.unshift(key); save(); render(true); }
-    else if (a === 'gen') generate(top.node);
+    else if (a === 'city-toggle') { cityOpen = !cityOpen; render(true); }
+    else if (a === 'city') { S.city = +t.dataset.i; cityOpen = false; save(); render(true); }
     else if (a === 'route') { jobRoute[top.node.fn || top.node.n] = +t.dataset.i; render(true); }
     else if (a === 'plan-add') { var k = top.node.fn || top.node.n, rs = routesOf(top.node) || [], rr = rs[Math.min(jobRoute[k] || 0, Math.max(rs.length - 1, 0))] || { n: '', s: [] }; S.plans.unshift({ job: k, name: rr.n, steps: rr.s, done: [] }); S.planSel = 0; save(); setTab('plan'); }
     else if (a === 'plan-open') { S.planSel = Math.max(planFor(top.node.fn || top.node.n), 0); save(); setTab('plan'); }

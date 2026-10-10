@@ -1,0 +1,168 @@
+Specjaliści|10288
+Robotnicy przemysłowi i rzemieślnicy|6971
+Operatorzy i monterzy maszyn i urządzeń|7319
+Technicy i inny średni personel|8490
+Pracownicy usług i sprzedawcy|5739
+Kierownicy i wyżsi urzędnicy|13243
+Specjaliści do spraw ekonomicznych i zarządzania|9856
+Specjaliści nauczania i wychowania|9635
+Pracownicy biurowi|6976
+Pracownicy wykonujący prace proste|5979
+Sprzedawcy i pokrewni|5673
+Kierowcy i operatorzy pojazdów|7649
+Średni personel do spraw biznesu i administracji|8621
+Operatorzy maszyn i urządzeń wydobywczych i przetwórczych|7270
+Nauczyciele szkół podstawowych i specjaliści do spraw wychowania małego dziecka|9402
+Pracownicy sprzedaży w sklepach|5513
+Specjaliści do spraw administracji i zarządzania|9781
+Robotnicy obróbki metali, mechanicy maszyn i urządzeń i pokrewni|7716
+Pracownicy do spraw finansowo-statystycznych i ewidencji materiałowej|6877
+Specjaliści nauk fizycznych, matematycznych i technicznych|10331
+Kierownicy do spraw zarządzania i handlu|14475
+Specjaliści do spraw zdrowia|11569
+Średni personel nauk fizycznych, chemicznych i technicznych|8832
+Kierowcy ciężarówek i autobusów|7951
+Pracownicy do spraw ewidencji materiałowej i transportu|6782
+Robotnicy w przetwórstwie spożywczym, obróbce drewna, produkcji wyrobów tekstylnych i pokrewni|5926
+Kierownicy do spraw produkcji i usług|12764
+Sekretarki, operatorzy urządzeń biurowych i pokrewni|7185
+Specjaliści do spraw sprzedaży, marketingu i public relations|9372
+Robotnicy budowlani i pokrewni (z wyłączeniem elektryków)|6566
+Specjaliści do spraw technologii informacyjno-komunikacyjnych|14421
+Pomoce domowe i sprzątaczki|5777
+Kierownicy do spraw obsługi biznesu i zarządzania|14483
+Pracownicy obsługi biurowej|7174
+Pomoce i sprzątaczki domowe, biurowe, hotelowe|5802
+Specjaliści do spraw finansowych|10488
+Inżynierowie (z wyłączeniem elektrotechnologii)|10573
+Kowale, ślusarze i pokrewni|7355
+Robotnicy wykonujący prace proste w górnictwie, przemyśle, budownictwie i transporcie|6250
+Technicy nauk fizycznych, chemicznych i technicznych|8607
+Przedstawiciele władz publicznych, wyżsi urzędnicy i dyrektorzy generalni|19567
+Pracownicy usług osobistych|6006
+Analitycy systemów komputerowych i programiści|15107
+Dyrektorzy generalni i zarządzający|19812
+Kierownicy w górnictwie, przemyśle, budownictwie i dystrybucji|11397
+Elektrycy i elektronicy|8379
+Inni specjaliści nauczania i wychowania|9029
+Średni personel do spraw finansowych|8549
+Pielęgniarki|11575
+Nauczyciele szkół ponadpodstawowych (z wyjątkiem nauczycieli kształcenia zawodowego)|10268
+Kierownicy w branży hotelarskiej, handlu i innych branżach usługowych|7883
+Robotnicy budowlani robót stanu surowego i pokrewni|6195
+Monterzy|6577
+Robotnicy wykonujący prace proste w przemyśle|6087
+Specjaliści z dziedziny prawa, dziedzin społecznych i kultury|10388
+Agenci i pośrednicy handlowi|8803
+Elektrycy budowlani, elektromechanicy i elektromonterzy|8621
+Pozostali pracownicy obsługi biura|7098
+Pracownicy obsługi klienta|6769
+Inni pracownicy sprzedaży i pokrewni|6800
+Pracownicy usług ochrony|5079
+Operatorzy pojazdów wolnobieżnych i pokrewni|7386
+Średni personel do spraw zdrowia|8040
+Mechanicy maszyn i urządzeń|8365
+Ładowacze nieczystości i inni pracownicy wykonujący prace proste|6156
+Pracownicy opieki osobistej i pokrewni|6295
+Nauczyciele akademiccy|11208
+Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych|6926
+Średni personel z dziedziny prawa, spraw społecznych, kultury i pokrewny|7728
+Robotnicy budowlani robót wykończeniowych i pokrewni|6977
+Formierze odlewniczy, spawacze, blacharze, monterzy konstrukcji metalowych i pokrewni|8025
+Robotnicy w przetwórstwie spożywczym i pokrewni|6206
+Kierownicy do spraw sprzedaży, marketingu i rozwoju|14459
+Kierowcy samochodów osobowych, dostawczych i motocykli|6186
+Kierownicy do spraw handlu detalicznego i hurtowego|7716
+Pracownicy administracyjni i sekretarze wyspecjalizowani|7780
+Kierownicy / dyrektorzy w instytucjach usług wyspecjalizowanych|13782
+Gospodarze obiektów|6196
+Pracownicy wykonujący prace proste związane z przygotowywaniem posiłków|5608
+Pracownicy do spraw informowania klientów|6778
+Robotnicy obróbki drewna, stolarze meblowi i pokrewni|5733
+Inni pracownicy wykonujący prace proste|6188
+Specjaliści do spraw baz danych i sieci komputerowych|12980
+Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni|5914
+Urzędnicy państwowi do spraw nadzoru|10454
+Opiekunowie dziecięcy i asystenci nauczycieli|6054
+Pośrednicy usług biznesowych|7651
+Operatorzy innych maszyn i urządzeń przetwórczych|7296
+Operatorzy maszyn i urządzeń do produkcji wyrobów spożywczych i pokrewni|7390
+Średni personel z dziedziny prawa, spraw społecznych i religii|8202
+Pracownicy do spraw finansowo-statystycznych|7455
+Inni specjaliści ochrony zdrowia|9360
+Kucharze|5869
+Inny średni personel do spraw zdrowia|8155
+Operatorzy maszyn i urządzeń do produkcji, przetwórstwa i obróbki wykończeniowej metalu|7400
+Operatorzy maszyn i urządzeń górniczych i pokrewni|13625
+Lekarze|16792
+Specjaliści z dziedziny prawa|16024
+Rzemieślnicy i robotnicy poligraficzni|6695
+Mistrzowie produkcji w przemyśle przetwórczym i budownictwie oraz osoby dozoru w górnictwie|10290
+Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych|5394
+Technicy medyczni i farmaceutyczni|7968
+Kontrolerzy (sterowniczy) procesów przemysłowych|8190
+Specjaliści nauk biologicznych i dziedzin pokrewnych|9785
+Nauczyciele kształcenia zawodowego|9430
+Robotnicy produkcji odzieży i pokrewni|5623
+Maszyniści kolejowi, dyżurni ruchu i pokrewni|9620
+Technicy informatycy|8893
+Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych|8075
+Pracownicy obrotu pieniężnego|6741
+Technicy do spraw technologii teleinformatycznych i pomocy użytkownikom urządzeń teleinformatycznych|8953
+Sekretarki (ogólne)|7251
+Robotnicy wykonujący prace proste w górnictwie i budownictwie|6875
+Specjaliści z dziedzin społecznych i religijnych|9528
+Architekci, geodeci i projektanci|8479
+Średni personel w zakresie działalności artystycznej, kulturalnej i kulinarnej|6686
+Robotnicy wykonujący prace proste w transporcie i proste prace magazynowe|6521
+Inżynierowie elektrotechnologii|12475
+Kasjerzy i sprzedawcy biletów|5503
+Kierownicy do spraw innych typów usług|10315
+Pracownicy opieki osobistej w ochronie zdrowia i pokrewni|7519
+Monterzy-elektronicy i monterzy instalacji i urządzeń telekomunikacyjnych|7481
+Ładowacze nieczystości i pokrewni|5996
+Robotnicy poligraficzni|6843
+Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru|6333
+Malarze, pracownicy czyszczący konstrukcje budowlane i pokrewni|7090
+Kierownicy do spraw technologii informatycznych i telekomunikacyjnych|21426
+Kelnerzy i barmani|5121
+Kierownicy w gastronomii i hotelarstwie|7350
+Rzemieślnicy|6531
+Technicy nauk biologicznych, rolniczych i technologii żywności|8737
+Myjący pojazdy, szyby, praczki i inni sprzątacze|5478
+Bibliotekoznawcy, archiwiści i muzealnicy|7915
+Rolnicy, ogrodnicy, leśnicy i rybacy|6001
+Położne|11528
+Farmaceuci|10604
+Rolnicy produkcji towarowej|6520
+Przedstawiciele władz publicznych i wyżsi urzędnicy|17690
+Literaci, dziennikarze i filolodzy|8774
+Diagności laboratoryjni|11310
+Fizycy, chemicy i specjaliści nauk o ziemi|9963
+Twórcy i artyści|8521
+Rolnicy produkcji roślinnej|5892
+Robotnicy wykonujący prace proste w rolnictwie, leśnictwie i rybactwie|5967
+Stewardzi, konduktorzy i przewodnicy|8606
+Pozostali pracownicy usług osobistych|5850
+Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)|13911
+Specjaliści do spraw rynku nieruchomości|10493
+Operatorzy urządzeń biurowych|7027
+Leśnicy i rybacy|4673
+Technicy telekomunikacji i urządzeń transmisyjnych|8591
+Matematycy, aktuariusze i statystycy|8958
+Hodowcy zwierząt|8055
+Robotnicy leśni i pokrewni|4673
+Lekarze weterynarii|12261
+Fryzjerzy, kosmetyczki i pokrewni|4673
+Sportowcy, trenerzy i zawody pokrewne|6932
+Kierownicy produkcji w rolnictwie, leśnictwie i rybactwie|12553
+Dietetycy i żywieniowcy|8189
+Lekarze dentyści|11253
+Technicy weterynarii|7481
+Rybacy|6694
+Marynarze i pokrewni|11313
+Specjaliści do spraw ratownictwa medycznego|13968
+Rolnicy produkcji roślinnej i zwierzęcej|7629
+Praktykujący niekonwencjonalne lub komplementarne metody terapii|8234
+Sprzedawcy uliczni i pracownicy świadczący usługi na ulicach|6894
+Pracownicy świadczący usługi na ulicach|6894
