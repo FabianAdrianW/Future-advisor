@@ -17,3 +17,12 @@ Opisy zawodów i listy umiejętności zostały napisane z pomocą AI i nie były
 
 ## Zarobki
 Widełki to szacunek: mediana płac GUS dla grupy zawodów („Struktura wynagrodzeń według zawodów", październik 2024, w przeliczeniu na 2025 wg kalkulatory-place.pl) × korekta miasta (połowa różnicy między przeciętną płacą w mieście wojewódzkim a średnią krajową, GUS, marzec 2026, wg wynagrodzenia.pl). Widełki: od −20% do +25% wokół mediany, nie mniej niż płaca minimalna.
+
+## Rynek pracy
+`source/market-2026.json` – karta „Rynek pracy w 2026” dla 163 grup zawodów i 7 zawodów własnych. Co rok podmienia się ten jeden plik (build bierze najnowszy `market-<rok>.json`). Plik składa `source/market/build_market.py` z:
+- Barometru zawodów 2026 (popyt i etykieta: deficyt → Rośnie, równowaga → Stabilnie, lokalne nadwyżki → Trudniej, brak oceny → Brak oceny),
+- komunikatu GUS „Struktura wynagrodzeń według zawodów za październik 2024 r.” (kierunek płac, tylko wielkie grupy),
+- indeksu ILO–NASK 2025 ekspozycji na generatywną AI (`source/market/ilo-genai-2025.csv`, Gmyrek i in., ILO Working Paper 140),
+- WEF Future of Jobs 2025 (tylko dla kilku zawodów własnych, perspektywa globalna).
+
+Przypisanie naszych grup do zawodów z Barometru (`MAP` w skrypcie) zrobiono ręcznie i nie było weryfikowane. Gdzie źródło milczy, karta mówi to wprost.

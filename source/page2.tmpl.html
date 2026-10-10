@@ -111,6 +111,16 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
 
 .card { background: var(--card); border-radius: 22px; padding: 16px; box-shadow: var(--sh); display: flex; flex-direction: column; gap: 10px; }
 .card p { font-size: 15px; line-height: 22px; text-wrap: pretty; }
+.mk { gap: 14px; }
+.mk .tag { align-self: flex-start; display: inline-flex; align-items: center; gap: 8px; min-height: 34px; padding: 4px 14px 4px 6px; border-radius: 17px; font-family: var(--display); font-size: 18px; line-height: 22px; font-weight: 700; background: var(--t); color: var(--d); }
+.mk .tag img { width: 26px; height: 26px; }
+.mk .tag.up { --t: var(--N-t); --d: var(--N-d); } .mk .tag.flat { --t: var(--L-t); --d: var(--L-d); } .mk .tag.down { --t: var(--R-t); --d: var(--R-d); } .mk .tag.none { --t: var(--wash); --d: var(--muted); }
+.mk dl { margin: 0; display: flex; flex-direction: column; gap: 12px; }
+.mk dt { font-size: 12px; line-height: 16px; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; color: var(--muted); display: flex; align-items: center; gap: 8px; }
+.mk dd { margin: 2px 0 0; font-size: 15px; line-height: 22px; text-wrap: pretty; }
+.mk dd + dd { margin-top: 6px; }
+.mk .lv { display: inline-flex; gap: 3px; } .mk .lv i { width: 14px; height: 6px; border-radius: 3px; background: var(--line); } .mk .lv i.on { background: var(--S); }
+.mk .why { border-top: 1.5px solid var(--line); padding-top: 12px; }
 .pay .amt { font-family: var(--display); font-size: 30px; line-height: 34px; font-weight: 700; letter-spacing: -0.01em; }
 .pay .amt span { font-family: var(--body); font-size: 15px; font-weight: 600; color: var(--muted); letter-spacing: 0; }
 .pay .track { position: relative; height: 12px; border-radius: 6px; background: var(--wash); }
@@ -531,7 +541,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
       (limit < all.length ? '<button type="button" class="more" data-act="more">Pokaż kolejne ' + Math.min(PAGE, all.length - limit) + ' <span>· zostało ' + (all.length - limit) + '</span></button>' : '') + '</div></section>';
     return h;
   }
-  var SK = DATA.sk || {};
+  var SK = DATA.sk || {}, MK = DATA.mk || null;
   var PAY = DATA.pay || {}, CITIES = DATA.cities || [], MINPAY = DATA.minpay || 0, cityOpen = false;
   var money = function (x) { return String(x).replace(/\B(?=(\d{3})+$)/g, '\u00a0'); };
   function payOf(n) {
@@ -547,6 +557,24 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     var cur = S.city >= 0 && CITIES[S.city] ? CITIES[S.city][0] : 'Cała Polska';
     var h = '<button type="button" class="citybtn" data-act="city-toggle" aria-expanded="' + cityOpen + '">' + img('pushpin', '', 24) + esc(cur) + ' · ' + (cityOpen ? 'zwiń' : 'zmień miasto') + '</button>';
     if (cityOpen) h += '<div class="cities"><button type="button" class="pill" data-act="city" data-i="-1" aria-pressed="' + (S.city < 0) + '">Cała Polska</button>' + CITIES.map(function (c, i) { return [c[0], i]; }).sort(function (a, b) { return a[0].localeCompare(b[0], 'pl'); }).map(function (c) { return '<button type="button" class="pill" data-act="city" data-i="' + c[1] + '" aria-pressed="' + (S.city === c[1]) + '">' + esc(c[0]) + '</button>'; }).join('') + '</div>';
+    return h;
+  }
+  function marketCard(n) {
+    if (!MK || n.c) return '';
+    var key = n.fn || n.n, g = MK.groups[n.gk], j = MK.jobs[key], m = {}, k;
+    if (!g) return '';
+    for (k in g) m[k] = g[k];
+    if (j) for (k in j) m[k] = j[k];
+    var lab = m.label || 'none', ico = { up: 'chart-increasing', flat: 'balance-scale', down: 'magnifying-glass-tilted-left', none: 'magnifying-glass-tilted-left' }[lab];
+    var note = j ? 'Dane dla tego zawodu, a o zarobkach i AI dla grupy „' + esc(g.n) + '”.' : n.own && /^\d+$/.test(String(n.gk)) ? 'To nowy zawód i nie ma dla niego osobnych danych. Pokazujemy grupę „' + esc(g.n) + '”.' : 'Dane dla grupy zawodów „' + esc(g.n) + '”, nie dla pojedynczego zawodu.';
+    var h = '<section class="sec" id="market"><div class="sec-h"><h2>Rynek pracy w ' + MK.year + '</h2><p>' + note + '</p></div><div class="card mk">' +
+      '<span class="tag ' + lab + '">' + img(ico, '', 26) + esc(MK.labels[lab]) + '</span><dl>' +
+      '<div><dt>Popyt na pracowników</dt>' + m.demand.map(function (d) { return '<dd>' + esc(d) + '</dd>'; }).join('') + '</div>' +
+      '<div><dt>Kierunek zarobków</dt><dd>' + esc(m.pay.t) + '</dd></div>' +
+      '<div><dt>Wpływ AI' + (m.ai.lvl === null ? '' : '<span class="lv" role="img" aria-label="Poziom ' + m.ai.lvl + ' z 3">' + [1, 2, 3].map(function (i) { return '<i' + (i <= m.ai.lvl ? ' class="on"' : '') + '></i>'; }).join('') + '</span>') + '</dt><dd>' + esc(m.ai.t) + '</dd></div>' +
+      '<div class="why"><dt>Dlaczego</dt><dd>' + esc(m.why) + '</dd></div></dl>' +
+      '<p class="small">' + esc(m.legend || MK.legend) + '</p>' +
+      '<p class="small">Stan na ' + MK.year + ' r. Źródła: ' + m.src.map(function (s) { var x = MK.sources[s]; return esc(x.n + ' (' + x.o + ', ' + x.d + ')'); }).join('; ') + '. Opisy złożyło AI z tych źródeł, nie sprawdzali ich praktycy.</p></div></section>';
     return h;
   }
   function payCard(n) {
@@ -607,7 +635,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     var desc = n.d || (n.fam ? 'Zawody z tej rodziny robią podobną pracę. Różnią się głównie branżą, maszyną albo produktem.' : '');
     h += '<section class="sec"><h2>Na czym polega</h2><p class="prose">' + esc(x && x.hook ? x.hook : desc) + '</p>' + (x && x.hook && desc ? '<p class="small">' + (n.own ? '' : 'Według klasyfikacji ESCO: ') + esc(desc) + '</p>' : '') + (n.own ? '<p class="small">Tego zawodu nie ma w naszej wersji klasyfikacji ESCO. Dodany na podstawie aktualnych zestawień nowych zawodów.</p>' : '') + '</section>';
     h += '<div id="details" style="display:flex;flex-direction:column;gap:26px">' + detailsBlock(n) + '</div>';
-    if (!n.c) h += payCard(n);
+    if (!n.c) h += marketCard(n) + payCard(n);
     if (n.s) h += '<section class="sec"><div class="sec-h"><h2>' + variants(n.s.length) + '</h2><p>Ta sama praca w różnych branżach lub specjalizacjach.</p></div><div class="specs">' + (n.s.length > 12 ? '<input class="field" id="specQ" type="search" placeholder="Filtruj odmiany" autocomplete="off" aria-label="Filtruj odmiany">' : '') +
       n.s.map(function (s, i) { return '<details' + (i === spec ? ' open class="hit"' : '') + ' data-h="' + esc(norm(s.n)) + '"><summary>' + esc(s.n.charAt(0).toUpperCase() + s.n.slice(1)) + '</summary><p>' + esc(s.d) + '</p></details>'; }).join('') + '</div></section>';
     if (n.a && n.a.length) h += '<p class="small" style="padding-inline:16px">Inne nazwy: ' + esc(n.a.join(', ')) + '</p>';
@@ -653,7 +681,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     }).join('') + '</ul></div></section>';
     var favs = S.favs.map(function (k) { return BYNAME[k]; }).filter(Boolean);
     h += '<section class="sec"><h2>Obserwowane zawody</h2>' + (favs.length ? '<div class="list">' + favs.map(function (n) { return row(n, -1); }).join('') + '</div>' : '<div class="empty">Stuknij serce przy zawodzie, a pojawi się tutaj. Dzięki temu łatwo wrócisz do tego, co Cię zaciekawiło.</div>') + '</section>';
-    h += '<section class="sec"><h2>O aplikacji</h2><p class="small">' + STATS.total + ' zawodów w ' + STATS.areas + ' kierunkach: klasyfikacja ESCO (Komisja Europejska) plus ' + (STATS.own || 0) + ' nowych zawodów dodanych ręcznie. Umiejętności, plusy, minusy i drogi kształcenia są rozpisane ręcznie dla ' + (STATS.groups || 0) + ' grup zawodów, a ' + STATS.detailed + ' zawodów ma własny pełny opis. Zadania i typowy dzień pozostałych zostały napisane z pomocą AI i nie były sprawdzane przez praktyków. Zarobki to szacunek: mediany GUS dla grup zawodów (październik 2024, przeliczone na 2025) i przeciętne płace w miastach wojewódzkich (GUS, marzec 2026); do zawodu trafia połowa różnicy między miastem a średnią krajową. Przypisanie zawodów do korzeni to pierwsze przybliżenie. Ilustracje: Fluent Emoji (Microsoft, licencja MIT). Wybory zapisują się tylko w tej przeglądarce.</p></section>';
+    h += '<section class="sec"><h2>O aplikacji</h2><p class="small">' + STATS.total + ' zawodów w ' + STATS.areas + ' kierunkach: klasyfikacja ESCO (Komisja Europejska) plus ' + (STATS.own || 0) + ' nowych zawodów dodanych ręcznie. Umiejętności, plusy, minusy i drogi kształcenia są rozpisane ręcznie dla ' + (STATS.groups || 0) + ' grup zawodów, a ' + STATS.detailed + ' zawodów ma własny pełny opis. Zadania i typowy dzień pozostałych zostały napisane z pomocą AI i nie były sprawdzane przez praktyków. Zarobki to szacunek: mediany GUS dla grup zawodów (październik 2024, przeliczone na 2025) i przeciętne płace w miastach wojewódzkich (GUS, marzec 2026); do zawodu trafia połowa różnicy między miastem a średnią krajową. Karta „Rynek pracy” opiera się na Barometrze zawodów 2026 (popyt), komunikacie GUS o wynagrodzeniach według zawodów (kierunek płac) i indeksie ILO–NASK z 2025 r. (ekspozycja na generatywną AI); dotyczy grup zawodów, a nie pojedynczych stanowisk. Przypisanie zawodów do korzeni to pierwsze przybliżenie. Ilustracje: Fluent Emoji (Microsoft, licencja MIT). Wybory zapisują się tylko w tej przeglądarce.</p></section>';
     return h;
   }
 

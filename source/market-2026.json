@@ -1,0 +1,4226 @@
+{
+ "year": 2026,
+ "updated": "2026-10",
+ "labels": {
+  "up": "Rośnie",
+  "flat": "Stabilnie",
+  "down": "Trudniej",
+  "none": "Brak oceny"
+ },
+ "legend": "Rośnie: pracodawcom brakuje ludzi (deficyt w Barometrze). Stabilnie: równowaga. Trudniej: lokalnie więcej chętnych niż ofert.",
+ "sources": {
+  "barometr": {
+   "n": "Barometr zawodów 2026",
+   "o": "WUP w Krakowie na zlecenie MRPiPS",
+   "d": "prognoza na 2026 r., panele ekspertów VIII–X 2025",
+   "u": "https://barometrzawodow.pl/forecast-card-zip/2026/report_pl/raport_ogolnopolski_2026.pdf"
+  },
+  "ilo": {
+   "n": "Indeks ekspozycji zawodów na generatywną AI",
+   "o": "ILO i NASK (Gmyrek i in., ILO Working Paper 140)",
+   "d": "2025",
+   "u": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure"
+  },
+  "nask": {
+   "n": "Generatywna sztuczna inteligencja a polski rynek pracy",
+   "o": "NASK-PIB i ILO",
+   "d": "czerwiec 2025",
+   "u": "https://www.nask.pl/media/2025/06/Generatywna-sztuczna-inteligencja-a-polski-rynek-pracy.pdf"
+  },
+  "gus": {
+   "n": "Struktura wynagrodzeń według zawodów za październik 2024 r.",
+   "o": "GUS",
+   "d": "publikacja 14.10.2025",
+   "u": "https://stat.gov.pl/obszary-tematyczne/rynek-pracy/pracujacy-zatrudnieni-wynagrodzenia-koszty-pracy/struktura-wynagrodzen-wedlug-zawodow-za-pazdziernik-2024-r-,5,9.html"
+  },
+  "wef": {
+   "n": "Future of Jobs Report 2025",
+   "o": "Światowe Forum Ekonomiczne",
+   "d": "styczeń 2025, ankieta ponad 1000 pracodawców z 55 gospodarek",
+   "u": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest/"
+  }
+ },
+ "groups": {
+  "011": {
+   "n": "Oficerowie",
+   "label": "up",
+   "demand": [
+    "Pracownicy służb mundurowych: brakuje pracowników w 260 z 380 powiatów (rok wcześniej 293)."
+   ],
+   "pay": {
+    "dir": null,
+    "t": "Brak danych: badanie GUS wynagrodzeń według zawodów nie obejmuje żołnierzy zawodowych."
+   },
+   "ai": {
+    "lvl": null,
+    "t": "Indeks ILO–NASK nie obejmuje tej grupy, więc nie oceniamy wpływu AI."
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Deficyt nadal jest duży, ale zmalał o 33 powiaty. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr"
+   ]
+  },
+  "021": {
+   "n": "Podoficerowie",
+   "label": "up",
+   "demand": [
+    "Pracownicy służb mundurowych: brakuje pracowników w 260 z 380 powiatów (rok wcześniej 293)."
+   ],
+   "pay": {
+    "dir": null,
+    "t": "Brak danych: badanie GUS wynagrodzeń według zawodów nie obejmuje żołnierzy zawodowych."
+   },
+   "ai": {
+    "lvl": null,
+    "t": "Indeks ILO–NASK nie obejmuje tej grupy, więc nie oceniamy wpływu AI."
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Deficyt nadal jest duży, ale zmalał o 33 powiaty. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr"
+   ]
+  },
+  "031": {
+   "n": "Żołnierze",
+   "label": "up",
+   "demand": [
+    "Pracownicy służb mundurowych: brakuje pracowników w 260 z 380 powiatów (rok wcześniej 293)."
+   ],
+   "pay": {
+    "dir": null,
+    "t": "Brak danych: badanie GUS wynagrodzeń według zawodów nie obejmuje żołnierzy zawodowych."
+   },
+   "ai": {
+    "lvl": null,
+    "t": "Indeks ILO–NASK nie obejmuje tej grupy, więc nie oceniamy wpływu AI."
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Deficyt nadal jest duży, ale zmalał o 33 powiaty. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr"
+   ]
+  },
+  "111": {
+   "n": "Politycy i wyżsi urzędnicy",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, ale najwolniej ze wszystkich: +21% nominalnie między X 2022 a X 2024 w całej grupie kierowników (GUS)."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 4 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 4,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.32
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "112": {
+   "n": "Dyrektorzy generalni",
+   "label": "flat",
+   "demand": [
+    "Kadra kierownicza, menadżerowie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, ale najwolniej ze wszystkich: +21% nominalnie między X 2022 a X 2024 w całej grupie kierowników (GUS)."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK ta grupa zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.38
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "121": {
+   "n": "Kierownicy administracji i strategii",
+   "label": "flat",
+   "demand": [
+    "Kadra kierownicza, menadżerowie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, ale najwolniej ze wszystkich: +21% nominalnie między X 2022 a X 2024 w całej grupie kierowników (GUS)."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 4 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 4,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.38
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "122": {
+   "n": "Kierownicy sprzedaży i marketingu",
+   "label": "flat",
+   "demand": [
+    "Kadra kierownicza, menadżerowie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, ale najwolniej ze wszystkich: +21% nominalnie między X 2022 a X 2024 w całej grupie kierowników (GUS)."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 3,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.4
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "131": {
+   "n": "Kierownicy w rolnictwie i rybactwie",
+   "label": "flat",
+   "demand": [
+    "Kadra kierownicza, menadżerowie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, ale najwolniej ze wszystkich: +21% nominalnie między X 2022 a X 2024 w całej grupie kierowników (GUS)."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.24
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "132": {
+   "n": "Kierownicy produkcji",
+   "label": "flat",
+   "demand": [
+    "Kadra kierownicza, menadżerowie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, ale najwolniej ze wszystkich: +21% nominalnie między X 2022 a X 2024 w całej grupie kierowników (GUS)."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 4 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 4,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.36
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "133": {
+   "n": "Kierownicy IT",
+   "label": "flat",
+   "demand": [
+    "Kadra kierownicza, menadżerowie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, ale najwolniej ze wszystkich: +21% nominalnie między X 2022 a X 2024 w całej grupie kierowników (GUS)."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK ta grupa zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.44
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "134": {
+   "n": "Kierownicy usług profesjonalnych",
+   "label": "flat",
+   "demand": [
+    "Kadra kierownicza, menadżerowie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, ale najwolniej ze wszystkich: +21% nominalnie między X 2022 a X 2024 w całej grupie kierowników (GUS)."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 7 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 7,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.37
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "141": {
+   "n": "Kierownicy hoteli i restauracji",
+   "label": "flat",
+   "demand": [
+    "Kadra kierownicza, menadżerowie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, ale najwolniej ze wszystkich: +21% nominalnie między X 2022 a X 2024 w całej grupie kierowników (GUS)."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 1 z 2 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 2,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.36
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "142": {
+   "n": "Kierownicy sklepów i hurtowni",
+   "label": "flat",
+   "demand": [
+    "Kadra kierownicza, menadżerowie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, ale najwolniej ze wszystkich: +21% nominalnie między X 2022 a X 2024 w całej grupie kierowników (GUS)."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK ta grupa zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.44
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "143": {
+   "n": "Kierownicy sportu, rekreacji i kultury",
+   "label": "flat",
+   "demand": [
+    "Kadra kierownicza, menadżerowie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, ale najwolniej ze wszystkich: +21% nominalnie między X 2022 a X 2024 w całej grupie kierowników (GUS)."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK ta grupa zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.32
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "211": {
+   "n": "Fizycy, chemicy i geolodzy",
+   "label": "flat",
+   "demand": [
+    "Chemicy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Meteorolodzy, geolodzy, geografowie: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Fizycy i matematycy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 2 z 4 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 4,
+    "exp": 2,
+    "high": 1,
+    "mean": 0.42
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "212": {
+   "n": "Matematycy i statystycy",
+   "label": "flat",
+   "demand": [
+    "Fizycy i matematycy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK ta grupa zawodów jest w jednym z dwóch najwyższych stopni ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 1,
+    "mean": 0.56
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "213": {
+   "n": "Biolodzy i specjaliści środowiska",
+   "label": "flat",
+   "demand": [
+    "Biolodzy i biotechnolodzy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pracownicy ds. ochrony środowiska i zrównoważonego rozwoju: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Specjaliści rolnictwa i leśnictwa: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 3,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.36
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "214": {
+   "n": "Inżynierowie",
+   "label": "flat",
+   "demand": [
+    "Specjaliści technologii produkcyjnych: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Specjaliści mechanicy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Inżynierowie budownictwa: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Inżynierowie inżynierii środowiska: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 7 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 7,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.33
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "215": {
+   "n": "Inżynierowie elektrycy i elektronicy",
+   "label": "flat",
+   "demand": [
+    "Inżynierowie elektrycy i energetycy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Elektronicy, automatycy i robotycy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Specjaliści telekomunikacji: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 2 z 3 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 3,
+    "exp": 2,
+    "high": 0,
+    "mean": 0.4
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "216": {
+   "n": "Architekci i projektanci",
+   "label": "flat",
+   "demand": [
+    "Architekci i urbaniści: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Projektanci wzornictwa przemysłowego i operatorzy CAD: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 6 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 6,
+    "exp": 2,
+    "high": 0,
+    "mean": 0.4
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "2161": {
+   "n": "Architekci budowlani",
+   "label": "flat",
+   "demand": [
+    "Architekci i urbaniści: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK ta grupa zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.37
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "2162": {
+   "n": "Architekci krajobrazu",
+   "label": "flat",
+   "demand": [
+    "Architekci krajobrazu: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK ta grupa zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.37
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "2164": {
+   "n": "Urbaniści i inżynierowie ruchu",
+   "label": "flat",
+   "demand": [
+    "Architekci i urbaniści: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK ta grupa zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.41
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "2165": {
+   "n": "Kartografowie i geodeci",
+   "label": "flat",
+   "demand": [
+    "Geodeci i kartografowie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK ta grupa zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.44
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "2166": {
+   "n": "Projektanci grafiki i multimediów",
+   "label": "flat",
+   "demand": [
+    "Graficy komputerowi: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK ta grupa zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.49
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "221": {
+   "n": "Lekarze",
+   "label": "up",
+   "demand": [
+    "Lekarze: brakuje pracowników w 323 z 380 powiatów (rok wcześniej 315)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.28
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Barometr wiąże rosnący niedobór lekarzy ze starzeniem się społeczeństwa i przechodzeniem praktyk do sektora prywatnego. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "222": {
+   "n": "Pielęgniarki i położne",
+   "label": "up",
+   "demand": [
+    "Pielęgniarki i położne: brakuje pracowników w 287 z 380 powiatów (rok wcześniej 300)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.28
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Barometr wiąże braki w zawodach medyczno-opiekuńczych ze starzeniem się społeczeństwa. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "223": {
+   "n": "Medycyna komplementarna",
+   "label": "flat",
+   "demand": [
+    "Praktykujący niekonwencjonalne metody terapii: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK ta grupa zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.32
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "225": {
+   "n": "Lekarze weterynarii",
+   "label": "flat",
+   "demand": [
+    "Weterynarze: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.14
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "226": {
+   "n": "Dentyści, farmaceuci, fizjoterapeuci",
+   "label": "flat",
+   "demand": [
+    "Dentyści: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Farmaceuci: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Fizjoterapeuci i masażyści: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Logopedzi i audiofonolodzy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 8 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 8,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.27
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "231": {
+   "n": "Nauczyciele akademiccy",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK ta grupa zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.37
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "232": {
+   "n": "Nauczyciele zawodu",
+   "label": "up",
+   "demand": [
+    "Nauczyciele przedmiotów zawodowych: brakuje pracowników w 252 z 380 powiatów (rok wcześniej 267).",
+    "Nauczyciele praktycznej nauki zawodu: brakuje pracowników w 256 z 380 powiatów (rok wcześniej 246)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK ta grupa zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.35
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Według Barometru brakuje doświadczonych praktyków, którzy chcą uczyć w szkole. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "233": {
+   "n": "Nauczyciele szkół średnich",
+   "label": "up",
+   "demand": [
+    "Nauczyciele przedmiotów ogólnokształcących i języków obcych: brakuje pracowników w 196 z 380 powiatów (rok wcześniej 207)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.3
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "234": {
+   "n": "Nauczyciele szkół podstawowych i przedszkoli",
+   "label": "up",
+   "demand": [
+    "Nauczyciele przedmiotów ogólnokształcących i języków obcych: brakuje pracowników w 196 z 380 powiatów (rok wcześniej 207).",
+    "Nauczyciele nauczania wczesnoszkolnego: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Nauczyciele przedszkoli: rok temu deficyt, teraz równowaga w 189 powiatach."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.23
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "235": {
+   "n": "Pedagodzy, lektorzy i instruktorzy",
+   "label": "up",
+   "demand": [
+    "Nauczyciele szkół specjalnych i oddziałów integracyjnych: brakuje pracowników w 243 z 380 powiatów (rok wcześniej 251).",
+    "Pedagodzy i nauczyciele wspierający: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pozostali specjaliści edukacji: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 7 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 7,
+    "exp": 2,
+    "high": 0,
+    "mean": 0.36
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "241": {
+   "n": "Księgowi, doradcy i analitycy finansowi",
+   "label": "up",
+   "demand": [
+    "Samodzielni księgowi: brakuje pracowników w 226 z 380 powiatów (rok wcześniej 256).",
+    "Specjaliści ds. finansowych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK 3 z 3 podgrup tej grupy zawodów jest w dwóch najwyższych stopniach ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 3,
+    "exp": 3,
+    "high": 3,
+    "mean": 0.57
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%). Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "242": {
+   "n": "Specjaliści HR i organizacji",
+   "label": "flat",
+   "demand": [
+    "Specjaliści ds. zarządzania zasobami ludzkimi i rekrutacji: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Specjaliści ds. zarządzania i konsultanci biznesu: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Specjaliści ds. administracji: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 3 z 4 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 4,
+    "exp": 3,
+    "high": 0,
+    "mean": 0.43
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "243": {
+   "n": "Specjaliści marketingu, PR i sprzedaży",
+   "label": "flat",
+   "demand": [
+    "Specjaliści ds. PR, reklamy, marketingu i sprzedaży: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK 3 z 4 podgrup tej grupy zawodów jest w dwóch najwyższych stopniach ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 4,
+    "exp": 4,
+    "high": 3,
+    "mean": 0.5
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "251": {
+   "n": "Programiści i analitycy",
+   "label": "flat",
+   "demand": [
+    "Programiści: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Analitycy, testerzy i operatorzy systemów komputerowych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK 4 z 5 podgrup tej grupy zawodów jest w dwóch najwyższych stopniach ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 5,
+    "exp": 5,
+    "high": 4,
+    "mean": 0.55
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "2513": {
+   "n": "Projektanci stron internetowych i multimediów",
+   "label": "flat",
+   "demand": [
+    "Administratorzy stron internetowych: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Graficy komputerowi: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK ta grupa zawodów jest w jednym z dwóch najwyższych stopni ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 1,
+    "mean": 0.6
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "252": {
+   "n": "Bazy danych i sieci",
+   "label": "flat",
+   "demand": [
+    "Specjaliści ds. baz danych i sieci komputerowych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK 3 z 4 podgrup tej grupy zawodów jest w dwóch najwyższych stopniach ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 4,
+    "exp": 4,
+    "high": 3,
+    "mean": 0.54
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "261": {
+   "n": "Prawnicy",
+   "label": "flat",
+   "demand": [
+    "Prawnicy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.35
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "262": {
+   "n": "Archiwiści, muzealnicy, bibliotekarze",
+   "label": "flat",
+   "demand": [
+    "Archiwiści i muzealnicy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Bibliotekoznawcy, bibliotekarze i specjaliści informacji naukowej: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK 1 z 2 podgrup tej grupy zawodów jest w dwóch najwyższych stopniach ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 2,
+    "exp": 2,
+    "high": 1,
+    "mean": 0.51
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "263": {
+   "n": "Nauki społeczne i religia",
+   "label": "down",
+   "demand": [
+    "Specjaliści nauk humanistycznych: w kraju równowaga, ale w 35 powiatach chętnych jest więcej niż ofert (rok wcześniej 38).",
+    "Specjaliści ds. badań społeczno-ekonomicznych i analizy danych: w kraju równowaga, ale w 39 powiatach chętnych jest więcej niż ofert (rok wcześniej 23)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 4 z 6 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 6,
+    "exp": 4,
+    "high": 1,
+    "mean": 0.39
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert. Barometr łączy nadwyżki kandydatów w części zawodów z tym, że proste czynności łatwo zastąpić AI.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "2631": {
+   "n": "Ekonomiści",
+   "label": "down",
+   "demand": [
+    "Specjaliści ds. badań społeczno-ekonomicznych i analizy danych: w kraju równowaga, ale w 39 powiatach chętnych jest więcej niż ofert (rok wcześniej 23)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK ta grupa zawodów jest w jednym z dwóch najwyższych stopni ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 1,
+    "mean": 0.55
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert. Barometr łączy nadwyżki kandydatów w części zawodów z tym, że proste czynności łatwo zastąpić AI. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "2634": {
+   "n": "Psycholodzy",
+   "label": "up",
+   "demand": [
+    "Psycholodzy i terapeuci: brakuje pracowników w 309 z 380 powiatów (rok wcześniej 334)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK ta grupa zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.39
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. To trzeci największy deficyt w kraju, choć mniejszy niż rok wcześniej. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "2635": {
+   "n": "Praca socjalna i doradztwo",
+   "label": "flat",
+   "demand": [
+    "Pracownicy socjalni i mediatorzy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.28
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "2636": {
+   "n": "Działalność religijna",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.17
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "264": {
+   "n": "Pisarze, dziennikarze, tłumacze",
+   "label": "flat",
+   "demand": [
+    "Dziennikarze i redaktorzy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Filolodzy i tłumacze: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK 3 z 3 podgrup tej grupy zawodów jest w dwóch najwyższych stopniach ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 3,
+    "exp": 3,
+    "high": 3,
+    "mean": 0.56
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "265": {
+   "n": "Artyści i twórcy",
+   "label": "flat",
+   "demand": [
+    "Plastycy, dekoratorzy wnętrz i konserwatorzy zabytków: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Personel związany z produkcją filmową, teatralną, telewizyjną i radiową: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 7 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 7,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.28
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "2656": {
+   "n": "Prezenterzy radiowi i telewizyjni",
+   "label": "flat",
+   "demand": [
+    "Personel związany z produkcją filmową, teatralną, telewizyjną i radiową: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK ta grupa zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.47
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "311": {
+   "n": "Technicy",
+   "label": "down",
+   "demand": [
+    "Technicy mechanicy: w kraju równowaga, ale w 29 powiatach chętnych jest więcej niż ofert (rok wcześniej 33).",
+    "Elektronicy, automatycy i robotycy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Projektanci wzornictwa przemysłowego i operatorzy CAD: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pracownicy ds. jakości i organizacji produkcji: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 9 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 9,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.3
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "3111": {
+   "n": "Technicy nauk chemicznych i fizycznych",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.26
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "3112": {
+   "n": "Technicy budownictwa",
+   "label": "flat",
+   "demand": [
+    "Technicy budownictwa: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Inspektorzy nadzoru budowlanego: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Geodeci i kartografowie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.28
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "312": {
+   "n": "Mistrzowie produkcji",
+   "label": "flat",
+   "demand": [
+    "Pracownicy ds. jakości i organizacji produkcji: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.31
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "313": {
+   "n": "Energetyka i sterowanie procesami",
+   "label": "up",
+   "demand": [
+    "Elektrycy i energetycy: brakuje pracowników w 258 z 380 powiatów (rok wcześniej 294).",
+    "Operatorzy maszyn do produkcji wyrobów chemicznych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 5 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 5,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.29
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Deficyt nadal jest duży, ale zmalał o 36 powiatów. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "314": {
+   "n": "Technicy biologii, rolnictwa i leśnictwa",
+   "label": "flat",
+   "demand": [
+    "Specjaliści rolnictwa i leśnictwa: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 3,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.28
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "315": {
+   "n": "Piloci, oficerowie statków, kontrolerzy lotów",
+   "label": "flat",
+   "demand": [
+    "Pracownicy obsługi ruchu lotniczego: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Marynarze, pracownicy obsługi statków i portów: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 5 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 5,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.29
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "321": {
+   "n": "Technicy medyczni i farmaceutyczni",
+   "label": "flat",
+   "demand": [
+    "Operatorzy aparatury medycznej: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Diagności laboratoryjni medyczni: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pracownicy ds. techniki dentystycznej: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Optycy i pracownicy wytwarzający protezy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 4 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 4,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.25
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "322": {
+   "n": "Asystenci pielęgniarstwa i położnictwa",
+   "label": "flat",
+   "demand": [
+    "Opiekunowie wspomagający opiekę nad pacjentem: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.21
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "323": {
+   "n": "Asystenci medycyny komplementarnej",
+   "label": "flat",
+   "demand": [
+    "Praktykujący niekonwencjonalne metody terapii: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.19
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "324": {
+   "n": "Technicy weterynarii",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.14
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "325": {
+   "n": "Asystenci i technicy ochrony zdrowia",
+   "label": "flat",
+   "demand": [
+    "Ratownicy medyczni: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Fizjoterapeuci i masażyści: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Optycy i pracownicy wytwarzający protezy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Opiekunowie wspomagający opiekę nad pacjentem: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 9 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 9,
+    "exp": 2,
+    "high": 1,
+    "mean": 0.27
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "3257": {
+   "n": "Inspektorzy BHP i ochrony środowiska",
+   "label": "flat",
+   "demand": [
+    "Pracownicy ds. BHP i zarządzania kryzysowego: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pracownicy ds. ochrony środowiska i zrównoważonego rozwoju: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.24
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "331": {
+   "n": "Maklerzy, kredyty, rachunkowość",
+   "label": "down",
+   "demand": [
+    "Technicy ekonomiści: w kraju równowaga, ale w 88 powiatach chętnych jest więcej niż ofert (rok wcześniej 118).",
+    "Pracownicy ds. rachunkowości i księgowości: rok temu deficyt, teraz równowaga w 209 powiatach.",
+    "Specjaliści ds. finansowych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK 3 z 5 podgrup tej grupy zawodów jest w dwóch najwyższych stopniach ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 5,
+    "exp": 5,
+    "high": 3,
+    "mean": 0.55
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert. To zawód z największą lokalną nadwyżką chętnych, choć mniejszą niż rok wcześniej. Barometr łączy nadwyżki kandydatów w części zawodów z tym, że proste czynności łatwo zastąpić AI.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "332": {
+   "n": "Agenci, handlowcy i zaopatrzeniowcy",
+   "label": "flat",
+   "demand": [
+    "Agenci ubezpieczeniowi: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Przedstawiciele handlowi: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Zaopatrzeniowcy i dostawcy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 3 z 4 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 4,
+    "exp": 3,
+    "high": 1,
+    "mean": 0.46
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "333": {
+   "n": "Agenci usług biznesowych",
+   "label": "flat",
+   "demand": [
+    "Specjaliści ds. rynku nieruchomości: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Animatorzy kultury i organizatorzy imprez: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 3 z 5 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 5,
+    "exp": 3,
+    "high": 1,
+    "mean": 0.45
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "3331": {
+   "n": "Spedytorzy",
+   "label": "down",
+   "demand": [
+    "Spedytorzy i logistycy: w kraju równowaga, ale w 20 powiatach chętnych jest więcej niż ofert (rok wcześniej 15)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK ta grupa zawodów jest w jednym z dwóch najwyższych stopni ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 1,
+    "mean": 0.57
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert. Barometr łączy nadwyżki kandydatów w części zawodów z tym, że proste czynności łatwo zastąpić AI. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "3332": {
+   "n": "Organizatorzy wydarzeń",
+   "label": "flat",
+   "demand": [
+    "Animatorzy kultury i organizatorzy imprez: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK ta grupa zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.48
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "334": {
+   "n": "Kierownicy biura i sekretarze",
+   "label": "down",
+   "demand": [
+    "Sekretarki i asystenci: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pracownicy administracyjni i biurowi: w kraju równowaga, ale w 48 powiatach chętnych jest więcej niż ofert (rok wcześniej 45)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK 3 z 4 podgrup tej grupy zawodów jest w dwóch najwyższych stopniach ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 4,
+    "exp": 4,
+    "high": 3,
+    "mean": 0.51
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert. Barometr łączy nadwyżki kandydatów w części zawodów z tym, że proste czynności łatwo zastąpić AI. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "335": {
+   "n": "Urzędnicy kontroli i nadzoru",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 3 z 6 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 6,
+    "exp": 3,
+    "high": 0,
+    "mean": 0.38
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "3355": {
+   "n": "Policjanci służby kryminalnej",
+   "label": "up",
+   "demand": [
+    "Pracownicy służb mundurowych: brakuje pracowników w 260 z 380 powiatów (rok wcześniej 293)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.23
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Deficyt nadal jest duży, ale zmalał o 33 powiaty. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "341": {
+   "n": "Pomoc społeczna, prawo, religia",
+   "label": "flat",
+   "demand": [
+    "Pracownicy socjalni i mediatorzy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Wychowawcy w placówkach oświatowych i opiekuńczych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 3,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.28
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "3411": {
+   "n": "Asystenci prawni",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK ta grupa zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.39
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "3413": {
+   "n": "Pracownicy działalności religijnej",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.12
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "342": {
+   "n": "Sportowcy, trenerzy, instruktorzy",
+   "label": "flat",
+   "demand": [
+    "Instruktorzy rekreacji i sportu: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.28
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "343": {
+   "n": "Technicy sztuki i kultury",
+   "label": "flat",
+   "demand": [
+    "Personel związany z produkcją filmową, teatralną, telewizyjną i radiową: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Plastycy, dekoratorzy wnętrz i konserwatorzy zabytków: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 2 z 4 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 4,
+    "exp": 2,
+    "high": 0,
+    "mean": 0.34
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "3431": {
+   "n": "Fotografowie",
+   "label": "flat",
+   "demand": [
+    "Fotografowie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK ta grupa zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.39
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "3432": {
+   "n": "Projektanci i dekoratorzy wnętrz",
+   "label": "flat",
+   "demand": [
+    "Plastycy, dekoratorzy wnętrz i konserwatorzy zabytków: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK ta grupa zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.37
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "3434": {
+   "n": "Szefowie kuchni",
+   "label": "flat",
+   "demand": [
+    "Szefowie kuchni: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.25
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "351": {
+   "n": "Technicy IT i wsparcie użytkowników",
+   "label": "down",
+   "demand": [
+    "Technicy informatycy: w kraju równowaga, ale w 64 powiatach chętnych jest więcej niż ofert (rok wcześniej 51)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 4 z 4 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 4,
+    "exp": 4,
+    "high": 1,
+    "mean": 0.46
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert. Liczba powiatów z nadwyżką techników informatyków wzrosła w ciągu roku z 51 do 64. Barometr łączy nadwyżki kandydatów w części zawodów z tym, że proste czynności łatwo zastąpić AI.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "352": {
+   "n": "Technicy dźwięku, obrazu i nadawania",
+   "label": "flat",
+   "demand": [
+    "Personel związany z produkcją filmową, teatralną, telewizyjną i radiową: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Specjaliści telekomunikacji: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.4
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "411": {
+   "n": "Pracownicy biurowi",
+   "label": "down",
+   "demand": [
+    "Pracownicy administracyjni i biurowi: w kraju równowaga, ale w 48 powiatach chętnych jest więcej niż ofert (rok wcześniej 45)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK ta grupa zawodów jest w jednym z dwóch najwyższych stopni ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 1,
+    "mean": 0.6
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert. Barometr łączy nadwyżki kandydatów w części zawodów z tym, że proste czynności łatwo zastąpić AI. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "412": {
+   "n": "Sekretarze",
+   "label": "down",
+   "demand": [
+    "Sekretarki i asystenci: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pracownicy administracyjni i biurowi: w kraju równowaga, ale w 48 powiatach chętnych jest więcej niż ofert (rok wcześniej 45)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK ta grupa zawodów jest w jednym z dwóch najwyższych stopni ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 1,
+    "mean": 0.58
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert. Barometr łączy nadwyżki kandydatów w części zawodów z tym, że proste czynności łatwo zastąpić AI. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "413": {
+   "n": "Wprowadzanie danych",
+   "label": "down",
+   "demand": [
+    "Pracownicy administracyjni i biurowi: w kraju równowaga, ale w 48 powiatach chętnych jest więcej niż ofert (rok wcześniej 45)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK 2 z 2 podgrup tej grupy zawodów jest w dwóch najwyższych stopniach ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 2,
+    "exp": 2,
+    "high": 2,
+    "mean": 0.68
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert. Barometr łączy nadwyżki kandydatów w części zawodów z tym, że proste czynności łatwo zastąpić AI. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "421": {
+   "n": "Kasjerzy, krupierzy, windykatorzy",
+   "label": "flat",
+   "demand": [
+    "Windykatorzy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 4 z 4 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 4,
+    "exp": 4,
+    "high": 1,
+    "mean": 0.48
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "422": {
+   "n": "Recepcja i informacja",
+   "label": "flat",
+   "demand": [
+    "Recepcjoniści i rejestratorzy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pracownicy telefonicznej i elektronicznej obsługi klienta, ankieterzy, teleankieterzy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK 7 z 8 podgrup tej grupy zawodów jest w dwóch najwyższych stopniach ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 8,
+    "exp": 8,
+    "high": 7,
+    "mean": 0.54
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "4221": {
+   "n": "Biura podróży",
+   "label": "down",
+   "demand": [
+    "Pracownicy biur podróży i obsługi turystycznej: w kraju równowaga, ale w 30 powiatach chętnych jest więcej niż ofert (rok wcześniej 35)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK ta grupa zawodów jest w jednym z dwóch najwyższych stopni ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 1,
+    "mean": 0.56
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert. Barometr łączy nadwyżki kandydatów w części zawodów z tym, że proste czynności łatwo zastąpić AI. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "4224": {
+   "n": "Recepcjoniści hotelowi",
+   "label": "flat",
+   "demand": [
+    "Recepcjoniści i rejestratorzy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK ta grupa zawodów jest w jednym z dwóch najwyższych stopni ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 1,
+    "mean": 0.51
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "431": {
+   "n": "Pracownicy księgowości i statystyki",
+   "label": "flat",
+   "demand": [
+    "Pracownicy ds. rachunkowości i księgowości: rok temu deficyt, teraz równowaga w 209 powiatach."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK 3 z 3 podgrup tej grupy zawodów jest w dwóch najwyższych stopniach ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 3,
+    "exp": 3,
+    "high": 3,
+    "mean": 0.63
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "432": {
+   "n": "Magazyn i ewidencja transportu",
+   "label": "up",
+   "demand": [
+    "Magazynierzy: brakuje pracowników w 198 z 380 powiatów (rok wcześniej 213)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 2 z 3 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 3,
+    "exp": 2,
+    "high": 1,
+    "mean": 0.44
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "441": {
+   "n": "Inni pracownicy biurowi",
+   "label": "down",
+   "demand": [
+    "Pracownicy administracyjni i biurowi: w kraju równowaga, ale w 48 powiatach chętnych jest więcej niż ofert (rok wcześniej 45).",
+    "Pracownicy poczty: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 3,
+    "t": "Duży. W indeksie ILO–NASK 4 z 7 podgrup tej grupy zawodów jest w dwóch najwyższych stopniach ekspozycji: AI może wspierać lub przejąć dużą część zadań.",
+    "n": 7,
+    "exp": 7,
+    "high": 4,
+    "mean": 0.51
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert. Barometr łączy nadwyżki kandydatów w części zawodów z tym, że proste czynności łatwo zastąpić AI. Wysoka ekspozycja na AI nie oznacza, że zawód zniknie: autorzy indeksu podkreślają, że zmienia się głównie zakres zadań.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "511": {
+   "n": "Stewardzi i konduktorzy",
+   "label": "flat",
+   "demand": [
+    "Pracownicy obsługi ruchu szynowego: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.26
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "5113": {
+   "n": "Przewodnicy",
+   "label": "down",
+   "demand": [
+    "Pracownicy biur podróży i obsługi turystycznej: w kraju równowaga, ale w 30 powiatach chętnych jest więcej niż ofert (rok wcześniej 35)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK ta grupa zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.32
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "512": {
+   "n": "Kucharze",
+   "label": "flat",
+   "demand": [
+    "Kucharze: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.18
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "513": {
+   "n": "Kelnerzy i barmani",
+   "label": "flat",
+   "demand": [
+    "Kelnerzy i barmani: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.27
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "514": {
+   "n": "Fryzjerzy i kosmetyczki",
+   "label": "down",
+   "demand": [
+    "Fryzjerzy: w kraju równowaga, ale w 25 powiatach chętnych jest więcej niż ofert (rok wcześniej 28).",
+    "Pracownicy usług kosmetycznych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.17
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "515": {
+   "n": "Gospodarze budynków i domów",
+   "label": "flat",
+   "demand": [
+    "Gospodarze obiektów, portierzy, woźni i dozorcy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.23
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "516": {
+   "n": "Inne usługi osobiste",
+   "label": "flat",
+   "demand": [
+    "Pracownicy usług pogrzebowych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 6 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 6,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.21
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "5164": {
+   "n": "Opiekunowie zwierząt",
+   "label": "flat",
+   "demand": [
+    "Pracownicy zajmujący się zwierzętami: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.14
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "5165": {
+   "n": "Instruktorzy nauki jazdy",
+   "label": "flat",
+   "demand": [
+    "Instruktorzy nauki jazdy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.2
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "521": {
+   "n": "Sprzedawcy uliczni i targowi",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 1 z 2 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 2,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.28
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "522": {
+   "n": "Sprzedawcy w sklepach",
+   "label": "down",
+   "demand": [
+    "Sprzedawcy i kasjerzy: w kraju równowaga, ale w 20 powiatach chętnych jest więcej niż ofert (rok wcześniej 23)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 2 z 3 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 3,
+    "exp": 2,
+    "high": 0,
+    "mean": 0.39
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert. Barometr łączy nadwyżki kandydatów w części zawodów z tym, że proste czynności łatwo zastąpić AI.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "523": {
+   "n": "Kasjerzy i sprzedawcy biletów",
+   "label": "down",
+   "demand": [
+    "Sprzedawcy i kasjerzy: w kraju równowaga, ale w 20 powiatach chętnych jest więcej niż ofert (rok wcześniej 23)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK ta grupa zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 1,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.39
+   },
+   "why": "W skali kraju jest równowaga, ale lokalnie chętnych bywa więcej niż ofert. Barometr łączy nadwyżki kandydatów w części zawodów z tym, że proste czynności łatwo zastąpić AI.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "524": {
+   "n": "Inni sprzedawcy",
+   "label": "flat",
+   "demand": [
+    "Pracownicy sprzedaży internetowej: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pracownicy telefonicznej i elektronicznej obsługi klienta, ankieterzy, teleankieterzy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 3 z 6 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 6,
+    "exp": 3,
+    "high": 1,
+    "mean": 0.37
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "5241": {
+   "n": "Modele i modelki",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.25
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "5246": {
+   "n": "Bufetowi",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.24
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "531": {
+   "n": "Opieka nad dziećmi",
+   "label": "flat",
+   "demand": [
+    "Opiekunki dziecięce: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.21
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "5312": {
+   "n": "Pomocnicy nauczycieli",
+   "label": "flat",
+   "demand": [
+    "Asystenci w edukacji: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.24
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "532": {
+   "n": "Opiekunowie medyczni",
+   "label": "up",
+   "demand": [
+    "Opiekunowie osoby starszej lub z niepełnosprawnością: brakuje pracowników w 202 z 380 powiatów (rok wcześniej 197).",
+    "Opiekunowie wspomagający opiekę nad pacjentem: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.18
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Barometr wiąże rosnące braki w zawodach medyczno-opiekuńczych ze starzeniem się społeczeństwa. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "541": {
+   "n": "Strażacy, policjanci, ochrona",
+   "label": "up",
+   "demand": [
+    "Pracownicy służb mundurowych: brakuje pracowników w 260 z 380 powiatów (rok wcześniej 293).",
+    "Pracownicy ochrony fizycznej: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 5 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 5,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.17
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Deficyt nadal jest duży, ale zmalał o 33 powiaty. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "611": {
+   "n": "Rolnicy, sadownicy, ogrodnicy",
+   "label": "flat",
+   "demand": [
+    "Ogrodnicy i sadownicy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Rolnicy i hodowcy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 4 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 4,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.17
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "612": {
+   "n": "Hodowcy zwierząt",
+   "label": "flat",
+   "demand": [
+    "Rolnicy i hodowcy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 4 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 4,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.2
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "613": {
+   "n": "Rolnicy upraw i hodowli",
+   "label": "flat",
+   "demand": [
+    "Rolnicy i hodowcy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.19
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "621": {
+   "n": "Robotnicy leśni",
+   "label": "flat",
+   "demand": [
+    "Robotnicy leśni: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.12
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "622": {
+   "n": "Rybacy i hodowcy ryb",
+   "label": "flat",
+   "demand": [
+    "Rybacy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 4 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 4,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.17
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "711": {
+   "n": "Murarze, betoniarze, cieśle",
+   "label": "flat",
+   "demand": [
+    "Murarze i tynkarze: rok temu deficyt, teraz równowaga w 213 powiatach.",
+    "Robotnicy budowlani: rok temu deficyt, teraz równowaga w 238 powiatach.",
+    "Betoniarze i zbrojarze: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Cieśle i stolarze budowlani: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Kamieniarze: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Brukarze: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 6 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 6,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.11
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju. Barometr tłumaczy mniejsze braki w budownictwie spadkiem produkcji budowlano-montażowej.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "712": {
+   "n": "Wykończenia i instalacje",
+   "label": "up",
+   "demand": [
+    "Monterzy instalacji budowlanych: brakuje pracowników w 196 z 380 powiatów (rok wcześniej 210).",
+    "Dekarze i blacharze budowlani: rok temu deficyt, teraz równowaga w 194 powiatach.",
+    "Pracownicy robót wykończeniowych w budownictwie: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Monterzy okien i szklarze: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 7 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 7,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.14
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. To jeden z zawodów budowlanych, w których deficyt utrzymuje się od lat. Barometr tłumaczy mniejsze braki w budownictwie spadkiem produkcji budowlano-montażowej.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "713": {
+   "n": "Malarze i lakiernicy",
+   "label": "flat",
+   "demand": [
+    "Lakiernicy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Blacharze i lakiernicy samochodowi: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pracownicy robót wykończeniowych w budownictwie: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.11
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "721": {
+   "n": "Spawacze, blacharze, monterzy konstrukcji",
+   "label": "up",
+   "demand": [
+    "Spawacze: brakuje pracowników w 274 z 380 powiatów (rok wcześniej 297).",
+    "Monterzy konstrukcji metalowych: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Blacharze i lakiernicy samochodowi: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 5 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 5,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.14
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "722": {
+   "n": "Kowale, ślusarze, operatorzy obrabiarek",
+   "label": "flat",
+   "demand": [
+    "Ślusarze: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Operatorzy obrabiarek skrawających: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pracownicy przetwórstwa metali: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 4 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 4,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.18
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "723": {
+   "n": "Mechanicy maszyn i pojazdów",
+   "label": "flat",
+   "demand": [
+    "Mechanicy pojazdów samochodowych: rok temu deficyt, teraz równowaga w 194 powiatach, a w 20 nadwyżka chętnych.",
+    "Mechanicy-monterzy maszyn, urządzeń i instrumentów: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Diagności samochodowi: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 4 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 4,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.17
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "731": {
+   "n": "Rzemieślnicy artystyczni i precyzyjni",
+   "label": "flat",
+   "demand": [
+    "Pracownicy obróbki szkła, kamieni i metali szlachetnych: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Ceramicy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 8 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 8,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.17
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "732": {
+   "n": "Poligrafia i druk",
+   "label": "flat",
+   "demand": [
+    "Pracownicy poligraficzni: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 3,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.28
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "741": {
+   "n": "Elektrycy i elektromonterzy",
+   "label": "up",
+   "demand": [
+    "Elektrycy i energetycy: brakuje pracowników w 258 z 380 powiatów (rok wcześniej 294)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.17
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. Deficyt nadal jest duży, ale zmalał o 36 powiatów. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "742": {
+   "n": "Elektronicy i monterzy telekomunikacji",
+   "label": "flat",
+   "demand": [
+    "Monterzy elektronicy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Specjaliści telekomunikacji: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.24
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "751": {
+   "n": "Przetwórstwo spożywcze",
+   "label": "flat",
+   "demand": [
+    "Przetwórcy mięsa i ryb: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pracownicy przetwórstwa spożywczego: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 6 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 6,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.19
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "7512": {
+   "n": "Piekarze i cukiernicy",
+   "label": "flat",
+   "demand": [
+    "Piekarze: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Cukiernicy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.17
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "752": {
+   "n": "Stolarze i obróbka drewna",
+   "label": "flat",
+   "demand": [
+    "Robotnicy obróbki drewna i stolarze: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.2
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "753": {
+   "n": "Krawcy, szewcy, tapicerzy",
+   "label": "flat",
+   "demand": [
+    "Krawcy i pracownicy produkcji odzieży: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Obuwnicy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Tapicerzy: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Robotnicy obróbki skóry: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 6 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 6,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.15
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "754": {
+   "n": "Kontrolerzy jakości i inni",
+   "label": "flat",
+   "demand": [
+    "Pracownicy ds. jakości i organizacji produkcji: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 5 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 5,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.17
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "811": {
+   "n": "Górnictwo i wydobycie",
+   "label": "flat",
+   "demand": [
+    "Górnicy i operatorzy maszyn i urządzeń wydobywczych: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Operatorzy maszyn do produkcji wyrobów cementowych i kamiennych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 4 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 4,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.2
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "812": {
+   "n": "Obróbka metalu",
+   "label": "flat",
+   "demand": [
+    "Pracownicy przetwórstwa metali: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.23
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "813": {
+   "n": "Produkcja chemiczna",
+   "label": "flat",
+   "demand": [
+    "Operatorzy maszyn do produkcji wyrobów chemicznych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.26
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "814": {
+   "n": "Guma, tworzywa i papier",
+   "label": "flat",
+   "demand": [
+    "Operatorzy maszyn do produkcji wyrobów z gumy i tworzyw sztucznych: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Operatorzy maszyn do produkcji i przetwórstwa papieru: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.18
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "815": {
+   "n": "Tekstylia, skóra i obuwie",
+   "label": "flat",
+   "demand": [
+    "Operatorzy maszyn włókienniczych: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Robotnicy obróbki skóry: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 8 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 8,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.16
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "816": {
+   "n": "Maszyny przemysłu spożywczego",
+   "label": "flat",
+   "demand": [
+    "Pracownicy przetwórstwa spożywczego: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.15
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "817": {
+   "n": "Obróbka drewna i produkcja papieru",
+   "label": "flat",
+   "demand": [
+    "Robotnicy obróbki drewna i stolarze: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Operatorzy maszyn do produkcji i przetwórstwa papieru: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.21
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "818": {
+   "n": "Inne maszyny przetwórcze",
+   "label": "flat",
+   "demand": [
+    "Pracownicy fizyczni w produkcji i pracach prostych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.2
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "821": {
+   "n": "Monterzy maszyn i sprzętu",
+   "label": "flat",
+   "demand": [
+    "Mechanicy-monterzy maszyn, urządzeń i instrumentów: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Monterzy elektronicy: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.29
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "831": {
+   "n": "Kolej",
+   "label": "flat",
+   "demand": [
+    "Maszyniści: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pracownicy obsługi ruchu szynowego: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.18
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "832": {
+   "n": "Kierowcy aut osobowych i motocykli",
+   "label": "flat",
+   "demand": [
+    "Kierowcy samochodów osobowych: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Kurierzy i listonosze: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 2,
+    "t": "Średni. W indeksie ILO–NASK 1 z 2 podgrup tej grupy zawodów ma podwyższoną ekspozycję: AI może wspierać część zadań.",
+    "n": 2,
+    "exp": 1,
+    "high": 0,
+    "mean": 0.27
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "833": {
+   "n": "Kierowcy ciężarówek i autobusów",
+   "label": "up",
+   "demand": [
+    "Kierowcy samochodów ciężarowych i ciągników siodłowych: brakuje pracowników w 326 z 380 powiatów (rok wcześniej 331).",
+    "Kierowcy autobusów: brakuje pracowników w 232 z 380 powiatów (rok wcześniej 271)."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.21
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. To największy deficyt w kraju według liczby powiatów. Deficyt kierowców autobusów zmalał najmocniej ze wszystkich zawodów (o 39 powiatów).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "834": {
+   "n": "Operatorzy koparek, dźwigów i maszyn",
+   "label": "up",
+   "demand": [
+    "Operatorzy i mechanicy sprzętu do robót ziemnych: brakuje pracowników w 252 z 380 powiatów (rok wcześniej 263).",
+    "Operatorzy urządzeń dźwigowo-transportowych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 4 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 4,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.16
+   },
+   "why": "Pracodawcom brakuje ludzi w co najmniej jednym zawodzie z tej grupy. To jeden z zawodów budowlanych, w których deficyt utrzymuje się od lat. Najczęstsze powody deficytów według Barometru to brak kandydatów (47%), niespełnianie wymagań (32%) i niechęć do pracy w zawodzie (18%).",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "8341": {
+   "n": "Operatorzy maszyn rolniczych i leśnych",
+   "label": "flat",
+   "demand": [
+    "Operatorzy maszyn rolniczych i ogrodniczych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.12
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "835": {
+   "n": "Marynarze",
+   "label": "flat",
+   "demand": [
+    "Marynarze, pracownicy obsługi statków i portów: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę: między X 2022 a X 2024 płace wzrosły nominalnie we wszystkich wielkich grupach zawodów, o 21–33% (GUS). Dokładnej liczby dla tej grupy GUS w komunikacie nie podaje."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.14
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "911": {
+   "n": "Sprzątanie domów, hoteli i biur",
+   "label": "flat",
+   "demand": [
+    "Personel sprzątający: równowaga, liczba chętnych jest zbliżona do liczby ofert.",
+    "Pomoce w gospodarstwie domowym: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, najszybciej ze wszystkich: +33,4% nominalnie między X 2022 a X 2024 w pracach prostych (GUS). To wciąż najniższe płace."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.13
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "912": {
+   "n": "Mycie pojazdów, okien i pranie",
+   "label": "flat",
+   "demand": [
+    "Pracownicy myjni, pralni i prasowalni: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, najszybciej ze wszystkich: +33,4% nominalnie między X 2022 a X 2024 w pracach prostych (GUS). To wciąż najniższe płace."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 4 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 4,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.11
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "921": {
+   "n": "Pomocnicy w rolnictwie i leśnictwie",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, najszybciej ze wszystkich: +33,4% nominalnie między X 2022 a X 2024 w pracach prostych (GUS). To wciąż najniższe płace."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 6 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 6,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.11
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "931": {
+   "n": "Pomocnicy w budownictwie i górnictwie",
+   "label": "flat",
+   "demand": [
+    "Robotnicy budowlani: rok temu deficyt, teraz równowaga w 238 powiatach.",
+    "Pracownicy ds. budownictwa drogowego i kolejowego: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, najszybciej ze wszystkich: +33,4% nominalnie między X 2022 a X 2024 w pracach prostych (GUS). To wciąż najniższe płace."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.1
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju. Barometr tłumaczy mniejsze braki w budownictwie spadkiem produkcji budowlano-montażowej.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "932": {
+   "n": "Pakowacze i prace proste w przemyśle",
+   "label": "flat",
+   "demand": [
+    "Pracownicy fizyczni w produkcji i pracach prostych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, najszybciej ze wszystkich: +33,4% nominalnie między X 2022 a X 2024 w pracach prostych (GUS). To wciąż najniższe płace."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.16
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "933": {
+   "n": "Ładowacze i pomocnicy transportu",
+   "label": "flat",
+   "demand": [
+    "Pracownicy fizyczni w produkcji i pracach prostych: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, najszybciej ze wszystkich: +33,4% nominalnie między X 2022 a X 2024 w pracach prostych (GUS). To wciąż najniższe płace."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 4 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 4,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.17
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "941": {
+   "n": "Pomoce kuchenne",
+   "label": "flat",
+   "demand": [
+    "Pomoce kuchenne: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, najszybciej ze wszystkich: +33,4% nominalnie między X 2022 a X 2024 w pracach prostych (GUS). To wciąż najniższe płace."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 2 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 2,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.15
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "951": {
+   "n": "Usługi uliczne",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, najszybciej ze wszystkich: +33,4% nominalnie między X 2022 a X 2024 w pracach prostych (GUS). To wciąż najniższe płace."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.18
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "952": {
+   "n": "Sprzedawcy uliczni",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, najszybciej ze wszystkich: +33,4% nominalnie między X 2022 a X 2024 w pracach prostych (GUS). To wciąż najniższe płace."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK ta grupa zawodów nie jest eksponowana na generatywną AI.",
+    "n": 1,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.2
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "961": {
+   "n": "Odpady i recykling",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, najszybciej ze wszystkich: +33,4% nominalnie między X 2022 a X 2024 w pracach prostych (GUS). To wciąż najniższe płace."
+   },
+   "ai": {
+    "lvl": 0,
+    "t": "Znikomy. W indeksie ILO–NASK większość z 3 podgrup tej grupy zawodów nie jest eksponowana na generatywną AI.",
+    "n": 3,
+    "exp": 0,
+    "high": 0,
+    "mean": 0.12
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": [
+    "ilo",
+    "gus"
+   ]
+  },
+  "962": {
+   "n": "Kurierzy i prace dorywcze",
+   "label": "flat",
+   "demand": [
+    "Kurierzy i listonosze: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": "up",
+    "t": "W górę, najszybciej ze wszystkich: +33,4% nominalnie między X 2022 a X 2024 w pracach prostych (GUS). To wciąż najniższe płace."
+   },
+   "ai": {
+    "lvl": 1,
+    "t": "Niewielki. W indeksie ILO–NASK większość z 5 podgrup tej grupy zawodów ma ekspozycję minimalną lub podwyższoną tylko w części zadań.",
+    "n": 5,
+    "exp": 2,
+    "high": 0,
+    "mean": 0.25
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr",
+    "ilo",
+    "gus"
+   ]
+  },
+  "X-doula": {
+   "n": "Doule",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": null,
+    "t": "Brak danych GUS: dochody w tym zawodzie nie są ujęte w badaniu wynagrodzeń według zawodów."
+   },
+   "ai": {
+    "lvl": null,
+    "t": "Indeks ILO–NASK nie obejmuje tej grupy, więc nie oceniamy wpływu AI."
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": []
+  },
+  "X-dron": {
+   "n": "Operatorzy dronów",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": null,
+    "t": "Brak danych GUS: dochody w tym zawodzie nie są ujęte w badaniu wynagrodzeń według zawodów."
+   },
+   "ai": {
+    "lvl": null,
+    "t": "Indeks ILO–NASK nie obejmuje tej grupy, więc nie oceniamy wpływu AI."
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": []
+  },
+  "X-esport": {
+   "n": "E-sport",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": null,
+    "t": "Brak danych GUS: dochody w tym zawodzie nie są ujęte w badaniu wynagrodzeń według zawodów."
+   },
+   "ai": {
+    "lvl": null,
+    "t": "Indeks ILO–NASK nie obejmuje tej grupy, więc nie oceniamy wpływu AI."
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": []
+  },
+  "X-florysta": {
+   "n": "Floryści",
+   "label": "flat",
+   "demand": [
+    "Floryści: równowaga, liczba chętnych jest zbliżona do liczby ofert."
+   ],
+   "pay": {
+    "dir": null,
+    "t": "Brak danych GUS: dochody w tym zawodzie nie są ujęte w badaniu wynagrodzeń według zawodów."
+   },
+   "ai": {
+    "lvl": null,
+    "t": "Indeks ILO–NASK nie obejmuje tej grupy, więc nie oceniamy wpływu AI."
+   },
+   "why": "Barometr ocenia tę grupę jako zrównoważoną: nie ma ani deficytu, ani nadwyżki w skali kraju.",
+   "src": [
+    "barometr"
+   ]
+  },
+  "X-startup": {
+   "n": "Założyciele firm",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": null,
+    "t": "Brak danych GUS: dochody w tym zawodzie nie są ujęte w badaniu wynagrodzeń według zawodów."
+   },
+   "ai": {
+    "lvl": null,
+    "t": "Indeks ILO–NASK nie obejmuje tej grupy, więc nie oceniamy wpływu AI."
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": []
+  },
+  "X-tworca": {
+   "n": "Twórcy internetowi",
+   "label": null,
+   "demand": [
+    "Barometr zawodów 2026 nie ocenia tej grupy osobno, więc nie wiemy, czy pracowników brakuje, czy jest ich za dużo."
+   ],
+   "pay": {
+    "dir": null,
+    "t": "Brak danych GUS: dochody w tym zawodzie nie są ujęte w badaniu wynagrodzeń według zawodów."
+   },
+   "ai": {
+    "lvl": null,
+    "t": "Indeks ILO–NASK nie obejmuje tej grupy, więc nie oceniamy wpływu AI."
+   },
+   "why": "Nie mamy wiarygodnego źródła o popycie na ten zawód w Polsce, dlatego nie dajemy etykiety.",
+   "src": []
+  }
+ },
+ "jobs": {
+  "Inżynier AI": {
+   "label": "up",
+   "demand": [
+    "Na świecie: „AI and Machine Learning Specialists” (specjaliści AI i uczenia maszynowego) są wśród najszybciej rosnących ról do 2030 r. w ankiecie pracodawców WEF.",
+    "W Polsce: Barometr nie ocenia tego zawodu osobno; „Programiści” są w równowadze."
+   ],
+   "why": "Etykieta opiera się na globalnej ankiecie pracodawców, a nie na polskich danych, więc traktuj ją ostrożnie. To oczekiwania firm, a nie pomiar rynku.",
+   "src": [
+    "wef",
+    "barometr"
+   ],
+   "legend": "Rośnie oznacza tu: rola rośnie w globalnej ankiecie pracodawców WEF. W polskim Barometrze nie ma dla niej osobnej oceny."
+  },
+  "Inżynier uczenia maszynowego": {
+   "label": "up",
+   "demand": [
+    "Na świecie: „AI and Machine Learning Specialists” (specjaliści AI i uczenia maszynowego) są wśród najszybciej rosnących ról do 2030 r. w ankiecie pracodawców WEF.",
+    "W Polsce: Barometr nie ocenia tego zawodu osobno; „Programiści” są w równowadze."
+   ],
+   "why": "Etykieta opiera się na globalnej ankiecie pracodawców, a nie na polskich danych, więc traktuj ją ostrożnie. To oczekiwania firm, a nie pomiar rynku.",
+   "src": [
+    "wef",
+    "barometr"
+   ],
+   "legend": "Rośnie oznacza tu: rola rośnie w globalnej ankiecie pracodawców WEF. W polskim Barometrze nie ma dla niej osobnej oceny."
+  },
+  "Badacz AI": {
+   "label": "up",
+   "demand": [
+    "Na świecie: „AI and Machine Learning Specialists” (specjaliści AI i uczenia maszynowego) są wśród najszybciej rosnących ról do 2030 r. w ankiecie pracodawców WEF.",
+    "W Polsce: Barometr nie ocenia tego zawodu osobno; „Programiści” są w równowadze."
+   ],
+   "why": "Etykieta opiera się na globalnej ankiecie pracodawców, a nie na polskich danych, więc traktuj ją ostrożnie. To oczekiwania firm, a nie pomiar rynku.",
+   "src": [
+    "wef",
+    "barometr"
+   ],
+   "legend": "Rośnie oznacza tu: rola rośnie w globalnej ankiecie pracodawców WEF. W polskim Barometrze nie ma dla niej osobnej oceny."
+  },
+  "Inżynier wizji komputerowej": {
+   "label": "up",
+   "demand": [
+    "Na świecie: „AI and Machine Learning Specialists” (specjaliści AI i uczenia maszynowego) są wśród najszybciej rosnących ról do 2030 r. w ankiecie pracodawców WEF.",
+    "W Polsce: Barometr nie ocenia tego zawodu osobno; „Programiści” są w równowadze."
+   ],
+   "why": "Etykieta opiera się na globalnej ankiecie pracodawców, a nie na polskich danych, więc traktuj ją ostrożnie. To oczekiwania firm, a nie pomiar rynku.",
+   "src": [
+    "wef",
+    "barometr"
+   ],
+   "legend": "Rośnie oznacza tu: rola rośnie w globalnej ankiecie pracodawców WEF. W polskim Barometrze nie ma dla niej osobnej oceny."
+  },
+  "Inżynier MLOps": {
+   "label": "up",
+   "demand": [
+    "Na świecie: „AI and Machine Learning Specialists” (specjaliści AI i uczenia maszynowego) są wśród najszybciej rosnących ról do 2030 r. w ankiecie pracodawców WEF.",
+    "W Polsce: Barometr nie ocenia tego zawodu osobno; „Programiści” są w równowadze."
+   ],
+   "why": "Etykieta opiera się na globalnej ankiecie pracodawców, a nie na polskich danych, więc traktuj ją ostrożnie. To oczekiwania firm, a nie pomiar rynku.",
+   "src": [
+    "wef",
+    "barometr"
+   ],
+   "legend": "Rośnie oznacza tu: rola rośnie w globalnej ankiecie pracodawców WEF. W polskim Barometrze nie ma dla niej osobnej oceny."
+  },
+  "Inżynier danych": {
+   "label": "up",
+   "demand": [
+    "Na świecie: „Big Data Specialists” (specjaliści big data) są wśród najszybciej rosnących ról do 2030 r. w ankiecie pracodawców WEF.",
+    "W Polsce: Barometr nie ocenia tego zawodu osobno; „Programiści” są w równowadze."
+   ],
+   "why": "Etykieta opiera się na globalnej ankiecie pracodawców, a nie na polskich danych, więc traktuj ją ostrożnie. To oczekiwania firm, a nie pomiar rynku.",
+   "src": [
+    "wef",
+    "barometr"
+   ],
+   "legend": "Rośnie oznacza tu: rola rośnie w globalnej ankiecie pracodawców WEF. W polskim Barometrze nie ma dla niej osobnej oceny."
+  },
+  "Technik elektromobilności": {
+   "label": "up",
+   "demand": [
+    "Na świecie: „Autonomous and Electric Vehicle Specialists” (specjaliści pojazdów autonomicznych i elektrycznych) są wśród najszybciej rosnących ról do 2030 r. w ankiecie pracodawców WEF.",
+    "W Polsce: Barometr nie ocenia tego zawodu osobno; „Mechanicy pojazdów samochodowych” są w równowadze."
+   ],
+   "why": "Etykieta opiera się na globalnej ankiecie pracodawców, a nie na polskich danych, więc traktuj ją ostrożnie. To oczekiwania firm, a nie pomiar rynku.",
+   "src": [
+    "wef",
+    "barometr"
+   ],
+   "legend": "Rośnie oznacza tu: rola rośnie w globalnej ankiecie pracodawców WEF. W polskim Barometrze nie ma dla niej osobnej oceny."
+  }
+ }
+}

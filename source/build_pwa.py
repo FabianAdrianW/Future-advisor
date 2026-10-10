@@ -24,6 +24,11 @@ for l in open(B/'pay_codes.txt'):
     for x in l.strip().split('|'):
         c_,m_=x.split(); pay[c_]=[int(m_),names[int(m_)]]
 data['pay']=pay; data['minpay']=4806
+# rynek pracy: najnowszy source/market-<rok>.json (co rok podmienia się ten jeden plik)
+_mk=json.loads(sorted(B.glob('market-*.json'))[-1].read_text(encoding='utf-8'))
+for _s in _mk['sources'].values(): _s.pop('u',None)
+for _g in _mk['groups'].values(): _g['ai']={'lvl':_g['ai']['lvl'],'t':_g['ai']['t']}
+data['mk']=_mk
 # umiejętności per zawód (skills/out, klucz = nazwa zawodu)
 sys.path.insert(0,str(B/'skills'))
 import validate as _sv
