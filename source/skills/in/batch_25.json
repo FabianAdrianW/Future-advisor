@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1500,
+  "name": "Doradca ds. pomocy humanitarnej",
+  "desc": "Doradcy ds. pomocy humanitarnej zapewniają strategie mające na celu ograniczenie skutków kryzysów humanitarnych na szczeblu krajowym lub międzynarodowym. Zapewniają profesjonalne doradztwo i wsparcie we współpracy z różnymi partnerami.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Analizujesz sytuację w regionie objętym kryzysem",
+   "Planujesz dostawy pomocy i priorytety",
+   "Doradzasz partnerom i organizacjom lokalnym",
+   "Piszesz raporty o skutkach działań"
+  ]
+ },
+ {
+  "id": 1501,
+  "name": "Doradca polityczny",
+  "desc": "Doradcy polityczni analizują zmiany w polityce zagranicznej i inne kwestie polityki, monitorują konflikty i prowadzą konsultacje w sprawie środków mediacji, a także innych strategii rozwoju. Sporządzają sprawozdania służące komunikacji z organami rządowymi oraz opracowują polityki i metody wdrażania.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Analizujesz zmiany w polityce zagranicznej",
+   "Monitorujesz konflikty i ich przebieg",
+   "Doradzasz w sprawie mediacji w konfliktach",
+   "Piszesz sprawozdania dla organów rządowych"
+  ]
+ },
+ {
+  "id": 1502,
+  "name": "Ekspert ds. usług socjalnych",
+  "desc": "Eksperci ds. usług socjalnych wspierają opracowywanie polityki i procedury programów usług socjalnych. Badają programy usług socjalnych i określają obszary wymagające poprawy, a także wspierają opracowanie nowych programów. Pełnią funkcje doradcze dla organizacji świadczących usługi socjalne.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Współtworzysz politykę i procedury programów",
+   "Badasz programy usług socjalnych",
+   "Wskazujesz obszary wymagające poprawy",
+   "Pomagasz tworzyć nowe programy pomocy"
+  ]
+ },
+ {
+  "id": 1503,
+  "name": "Funkcjonariusz wywiadu",
+  "desc": "Funkcjonariusze wywiadu opracowują i realizują plany gromadzenia informacji i danych wywiadowczych. Badają kierunki postępowania, które zapewnią im niezbędne dane wywiadowcze oraz kontaktują się i prowadzą rozmowy z osobami, które mogą dostarczyć danych wywiadowczych. Sporządzają sprawozdania z efektów i wykonują obowiązki administracyjne, żeby zapewnić prowadzenie dokumentacji.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Opracowujesz plany zbierania informacji",
+   "Ustalasz, skąd wziąć potrzebne dane",
+   "Rozmawiasz z osobami mogącymi dać informacje",
+   "Piszesz sprawozdania i prowadzisz dokumentację"
+  ]
+ },
+ {
+  "id": 1504,
+  "name": "Koordynator programów sportowych",
+  "desc": "Koordynatorzy programów sportowych koordynują działalność sportową i rekreacyjną oraz realizację polityk. Opracowują nowe programy i prowadzą działania w celu ich promowania i realizacji, a także zapewniają utrzymanie obiektów sportowych i rekreacyjnych.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Koordynujesz zajęcia sportowe i rekreacyjne",
+   "Opracowujesz nowe programy sportowe",
+   "Promujesz zajęcia wśród mieszkańców",
+   "Dopilnowujesz utrzymania obiektów sportowych"
+  ]
+ },
+ {
+  "id": 1505,
+  "name": "Koordynator programów zatrudnienia",
+  "desc": "Koordynatorzy programów zatrudnienia prowadzą badania i opracowują programy i polityki w zakresie zatrudnienia, mające na celu poprawę standardów zatrudnienia i ograniczenie takich problemów, jak bezrobocie. Nadzorują wprowadzanie planów polityk i koordynują ich realizację.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Badasz problemy zatrudnienia w regionie",
+   "Opracowujesz programy ograniczające bezrobocie",
+   "Piszesz polityki poprawiające standardy zatrudnienia",
+   "Nadzorujesz wdrażanie planów i ich realizację"
+  ]
+ },
+ {
+  "id": 1506,
+  "name": "Planista w administracji publicznej",
+  "desc": "Planiści w administracji publicznej monitorują opracowywanie i wdrażanie rządowych planów i polityk, rozpatrywanie proponowanych planów i polityk oraz kontrolowanie procedur planowania.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Monitorujesz powstawanie planów rządowych",
+   "Oceniasz proponowane polityki i plany",
+   "Kontrolujesz procedury planowania",
+   "Sprawdzasz postępy ich wdrażania"
+  ]
+ },
+ {
+  "id": 1507,
+  "name": "Referent",
+  "desc": "Referenci prowadzą badania, analizują i opracowują polityki dotyczące różnych sektorów publicznych oraz kształtują i wdrażają te polityki w celu udoskonalenia istniejących przepisów dotyczących sektora. Oceniają skutki istniejących polityk i przedstawiają dokonane ustalenia rządowi i obywatelom. Referenci ściśle współpracują z partnerami, organizacjami zewnętrznymi i innymi zainteresowanymi podmiotami i regularnie przekazują im aktualne informacje.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Badasz i analizujesz polityki publiczne",
+   "Oceniasz skutki istniejących przepisów",
+   "Wdrażasz zmiany w przepisach sektora",
+   "Informujesz partnerów i organizacje o ustaleniach"
+  ]
+ },
+ {
+  "id": 1508,
+  "name": "Specjalista ds. administracyjnych w administracji publicznej",
+  "desc": "Specjaliści ds. administracyjnych w administracji publicznej wykonują obowiązki administracyjne w ramach organizacji służby cywilnej i jednostek rządowych. Zapewniają prowadzenie dokumentacji, obsługują zapytania i podają informacje do wiadomości publicznej, osobiście, za pośrednictwem poczty elektronicznej lub przez telefon. Wspierają kadrę wyższego szczebla i zapewniają płynny wewnętrzny przepływ informacji.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Prowadzisz dokumentację urzędu",
+   "Odpowiadasz na zapytania mieszkańców",
+   "Udzielasz informacji publicznych przez telefon",
+   "Wspierasz kadrę wyższego szczebla"
+  ]
+ },
+ {
+  "id": 1509,
+  "name": "Specjalista ds. polityki handlowej",
+  "desc": "Specjaliści ds. polityki handlowej opracowują i wdrażają polityki handlowe, zarówno wewnętrznie, jak i w ramach międzynarodowych stosunków w dziedzinie importu i eksportu. Analizują rynek krajowy i zagraniczny w celu promowania i prowadzenia działalności gospodarczej, a także zapewniają zgodność postępowań w sprawie handlu z przepisami i ochronę przedsiębiorstw przed zakłóceniami.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Opracowujesz polityki handlowe",
+   "Analizujesz rynek krajowy i zagraniczny",
+   "Sprawdzasz zgodność handlu z przepisami",
+   "Chronisz firmy przed zakłóceniami handlu"
+  ]
+ },
+ {
+  "id": 1510,
+  "name": "Specjalista ds. rozwoju społeczności lokalnej",
+  "desc": "Specjaliści ds. rozwoju społeczności lokalnej opracowują plany poprawy jakości życia w społecznościach lokalnych. Badają i oceniają problemy i potrzeby społeczności, zarządzają zasobami oraz opracowują strategie wdrażania. Komunikują się ze społecznością w celach badania i informowania o planach rozwoju.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Badasz problemy i potrzeby mieszkańców",
+   "Opracowujesz plany poprawy życia społeczności",
+   "Zarządzasz dostępnymi zasobami",
+   "Informujesz mieszkańców o planach rozwoju"
+  ]
+ },
+ {
+  "id": 1511,
+  "name": "Specjalista ds. stosunków międzynarodowych",
+  "desc": "Specjaliści ds. stosunków międzynarodowych dbają o rozwój współpracy między międzynarodowymi organizacjami publicznymi a rządami. Ułatwiają komunikację między własną organizacją a organizacjami zagranicznymi oraz opracowują strategie współpracy, promując relację współpracy korzystną dla obu stron.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Ułatwiasz komunikację z organizacjami zagranicznymi",
+   "Opracowujesz strategie współpracy",
+   "Szukasz rozwiązań korzystnych dla obu stron",
+   "Rozwijasz relacje z rządami i organizacjami"
+  ]
+ },
+ {
+  "id": 1512,
+  "name": "Specjalista organizacji i zarządzania w ochronie zdrowia",
+  "desc": "Specjaliści organizacji i zarządzania w ochronie zdrowia doradzają organizacjom opieki zdrowotnej w sprawie opracowywania planów poprawy opieki nad pacjentami i bezpieczeństwa pacjentów. Analizują polityki ochrony zdrowia i określają problemy, a także wspierają opracowywanie strategii poprawy.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Analizujesz polityki ochrony zdrowia",
+   "Wykrywasz problemy w opiece nad pacjentami",
+   "Doradzasz organizacjom opieki zdrowotnej",
+   "Pomagasz opracować strategie poprawy"
+  ]
+ },
+ {
+  "id": 1513,
+  "name": "Analityk pracy",
+  "desc": "Analitycy pracy zbierają i analizują informacje zawodowe w jednej dziedzinie lub przedsiębiorstwie w celu sformułowania zaleceń dotyczących redukcji kosztów i ogólnej poprawy działalności. Zapewniają pracodawcom pomoc techniczną w rozwiązywaniu problemów związanych z rekrutacją i rozwojem pracowników oraz restrukturyzacją personelu. Analitycy pracy analizują i sporządzają opisy stanowisk pracy oraz przygotowują systemy klasyfikacji zawodowych.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Zbierasz i analizujesz informacje o pracy",
+   "Piszesz opisy stanowisk pracy",
+   "Tworzysz systemy klasyfikacji zawodowych",
+   "Doradzasz w rekrutacji i restrukturyzacji personelu"
+  ]
+ },
+ {
+  "id": 1514,
+  "name": "Kierownik urzędu pracy",
+  "desc": "Kierownicy urzędu pracy nadzorują działalność publicznych agencji zatrudnienia. Nadzorują pracowników, którzy pomagają w znalezieniu pracy lub zapewnieniu poradnictwa zawodowego.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Nadzorujesz pracowników urzędu pracy",
+   "Pilnujesz, by klienci dostawali pomoc w szukaniu pracy",
+   "Organizujesz poradnictwo zawodowe w urzędzie",
+   "Rozdzielasz zadania w zespole"
+  ]
+ },
+ {
+  "id": 1515,
+  "name": "Konsultant ds. pracy i szkolenia zawodowego",
+  "desc": "Konsultanci ds. pracy i szkolenia zawodowego zapewniają pomoc osobom bezrobotnym w znalezieniu zatrudnienia lub możliwości szkolenia zawodowego, odpowiednio do ich wykształcenia i doświadczenia zawodowego. Doradzają bezrobotnym, jak prezentować swoje umiejętności podczas szukania zatrudnienia. Konsultanci ds. pracy i szkolenia zawodowego pomagają osobom poszukującym pracy w przygotowywaniu życiorysów i listów motywacyjnych i w przygotowaniu się na rozmowę kwalifikacyjną oraz wskazują, gdzie szukać nowych możliwości pracy lub szkoleń.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Pomagasz pisać życiorysy i listy motywacyjne",
+   "Przygotowujesz do rozmowy kwalifikacyjnej",
+   "Dobierasz oferty pracy do doświadczenia",
+   "Wskazujesz, gdzie szukać pracy lub szkoleń"
+  ]
+ },
+ {
+  "id": 1516,
+  "name": "Specjalista ds. relacji pracowniczych",
+  "desc": "Specjaliści ds. relacji pracowniczych wdrażają politykę pracy w organizacji i doradzają związkom zawodowym w kwestiach polityk i negocjacji. Rozstrzygają spory, doradzają kierownictwu w zakresie polityki kadrowej, a także ułatwiają komunikację między związkami zawodowymi a kadrą kierowniczą.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Wdrażasz politykę pracy w organizacji",
+   "Doradzasz związkom zawodowym w negocjacjach",
+   "Rozstrzygasz spory między pracownikami a firmą",
+   "Podpowiadasz kierownictwu, jak prowadzić politykę kadrową"
+  ]
+ },
+ {
+  "id": 1517,
+  "name": "Specjalista ds. kosztów produkcji",
+  "desc": "Specjaliści ds. kosztów produkcji gromadzą i analizują dane w celu oszacowania środków pieniężnych, materiałów, pracy i czasu wymaganych do prowadzenia procesów produkcyjnych. Przeprowadzają analizy w celu określenia (alternatywnych) efektywnych pod względem kosztów projektów technicznych i procesów produkcyjnych. Opracowują i stosują metody i narzędzia służące planowaniu, kontrolowaniu i analizowaniu kosztów. Przeprowadzają również ilościowe i jakościowe analizy ryzyka oraz składają sprawozdania na temat zmian kosztów.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Szacujesz materiały, pracę i czas produkcji",
+   "Porównujesz koszty alternatywnych projektów technicznych",
+   "Analizujesz ryzyko ilościowo i jakościowo",
+   "Raportujesz zmiany kosztów"
+  ]
+ },
+ {
+  "id": 1518,
+  "name": "Doradca biznesowy",
+  "desc": "Doradcy biznesowi analizują sytuację, strukturę i procesy przedsiębiorstw oraz oferują usługi lub doradztwo służące ich doskonaleniu. Badają i określają procesy biznesowe, np. nieefektywność finansową lub zarządzanie pracownikami, oraz opracowują plany strategiczne pokonania tych trudności. Pracują w zewnętrznych firmach konsultingowych; prezentują strukturę przedsiębiorstwa oraz procesy metodologiczne z obiektywnego punktu widzenia.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Analizujesz strukturę i procesy firmy klienta",
+   "Wykrywasz nieefektywności finansowe i kadrowe",
+   "Układasz plany strategiczne rozwiązań",
+   "Prezentujesz wnioski z obiektywnego punktu widzenia"
+  ]
+ },
+ {
+  "id": 1519,
+  "name": "Specjalista ds. inteligentnej analizy danych",
+  "desc": "Specjaliści ds. inteligentnej analizy danych zdobywają wiedzę na temat branży i przebiegających w niej innowacyjnych procesów i z uzyskanej perspektywy analizują działalność przedsiębiorstwa w celu jej udoskonalenia. Ich analiza skupia się na procesach łańcucha dostaw, magazynach, przechowywaniu i sprzedaży, żeby ułatwić komunikację i poprawę dochodów.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Analizujesz procesy łańcucha dostaw",
+   "Badasz działanie magazynów i przechowywania",
+   "Sprawdzasz dane o sprzedaży i dochodach",
+   "Szukasz usprawnień komunikacji między działami"
+  ]
+ },
+ {
+  "id": 1520,
+  "name": "Menedżer szkoleń",
+  "desc": "Menedżerowie szkoleń koordynują wszystkie działania szkoleniowe i programy rozwoju w przedsiębiorstwie. Planują również i opracowują nowe moduły szkoleniowe oraz nadzorują wszystkie działania związane z planowaniem i realizacją tych programów.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Koordynujesz szkolenia i programy rozwoju",
+   "Planujesz nowe moduły szkoleniowe",
+   "Opracowujesz materiały do kursów",
+   "Nadzorujesz realizację programów szkoleniowych"
+  ]
+ },
+ {
+  "id": 1521,
+  "name": "Trener biznesu",
+  "desc": "Trenerzy biznesu udzielają wskazówek pracownikom przedsiębiorstwa lub innej instytucji w celu poprawy ich efektywności osobistej, zwiększenia zadowolenia z pracy i uzyskania pozytywnego wpływu na rozwój ich kariery zawodowej w otoczeniu biznesowym. W tym celu pomagają im samodzielnie pokonać trudności. Trenerzy biznesu mają na celu realizację konkretnych zadań lub osiągnięcie konkretnych celów, w przeciwieństwie do ogólnego rozwoju.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Prowadzisz rozmowy coachingowe z pracownikami",
+   "Pomagasz klientowi samodzielnie pokonać trudność",
+   "Ustalasz konkretny cel do osiągnięcia",
+   "Zadajesz pytania zamiast dawać gotowe rady"
+  ]
+ },
+ {
+  "id": 1522,
+  "name": "Trener wewnętrzny",
+  "desc": "Trenerzy wewnętrzni szkolą pracowników i udzielają im wskazówek w celu przekazania i poprawy ich umiejętności, kompetencji i wiedzy w zależności od potrzeb przedsiębiorstwa. Przyczyniają się do rozwoju istniejącego potencjału pracowników w celu zwiększenia ich wydajności, motywacji, zadowolenia z pracy i szans na zatrudnienie.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Prowadzisz szkolenia dla pracowników firmy",
+   "Dopasowujesz zajęcia do potrzeb przedsiębiorstwa",
+   "Pokazujesz, jak wykonywać zadania",
+   "Rozwijasz potencjał, który pracownicy już mają"
+  ]
+ },
+ {
+  "id": 1523,
+  "name": "Kierownik ds. serwisu",
+  "desc": "Kierownicy ds. serwisu są odpowiedzialni za nadzór i koordynację świadczenia różnych usług zawodowych i technicznych na rzecz klientów. Zapewniają oni bezproblemowe kontakty z klientami i wysoki poziom zadowolenia po zakończeniu usługi. Zawód ten obejmuje sprawowanie usług nadzorowania, poprawczych, bibliotecznych, prawnych i straży pożarnej.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Koordynujesz pracę zespołu świadczącego usługi",
+   "Nadzorujesz wykonanie usług dla klientów",
+   "Utrzymujesz kontakt z klientami",
+   "Sprawdzasz zadowolenie klientów po usłudze"
+  ]
+ },
+ {
+  "id": 1524,
+  "name": "Kierownik działu prawnego",
+  "desc": "Kierownicy działów prawnych nadzorują ogólne zarządzanie biurem usług prawnych. Nie tylko dążą do jak największej skuteczności i efektywności przy świadczeniu usług prawnych i doradztwa, ale również koordynują zespół wyszkolonych prawników. Zarządzają różnymi profilami klientów i dostosowują je do swoich potrzeb.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Koordynujesz pracę zespołu prawników",
+   "Nadzorujesz biuro usług prawnych",
+   "Przydzielasz sprawy klientów odpowiednim prawnikom",
+   "Sprawdzasz, czy porady prawne są skuteczne"
+  ]
+ },
+ {
+  "id": 1525,
+  "name": "Administrator ds. sportu",
+  "desc": "Administratorzy ds. sportu pełnią rolę średniego szczebla kierowniczego w organizacjach sportowych na wszystkich poziomach, w każdym sporcie lub kraju w Europie (np. kluby sportowe, federacje i władze lokalne). Wykonują zadania organizacyjne obejmujące szeroki zakres funkcji zgodnie ze strategią i polityką ustaloną przez zarząd, radę dyrektorów i komitety. Odgrywają oni kluczową rolę w całym sporcie, a ich praca w organizacjach sportowych ma bezpośredni wpływ na uwalnianie potencjału tego sektora w Europie w zakresie zdrowia, włączenia społecznego i gospodarki.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Organizujesz zawody i imprezy sportowe",
+   "Realizujesz strategię ustaloną przez zarząd",
+   "Zarządzasz sprawami klubu lub dyscypliny",
+   "Współpracujesz z federacjami i władzami lokalnymi"
+  ]
+ },
+ {
+  "id": 1526,
+  "name": "Dowódca zastępu straży pożarnej",
+  "desc": "Dowódcy zastępów straży pożarnej nadzorują służbę pożarową. Koordynują oni działania wydziału oraz nadzorują i kierują personelem straży pożarnej i służb ratowniczych podczas działań ratowniczych w celu zapewnienia bezpieczeństwa personelu i ograniczenia ryzyka. Pełnią oni obowiązki administracyjne w celu zapewnienia prowadzenia rejestrów i wdrażają politykę mającą na celu poprawę funkcjonowania wydziału.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Kierujesz strażakami podczas akcji ratowniczych",
+   "Ograniczasz ryzyko dla ludzi i personelu",
+   "Koordynujesz działania jednostki",
+   "Prowadzisz rejestry i dokumentację służby"
+  ]
+ },
+ {
+  "id": 1527,
+  "name": "Dyrektor agencji tłumaczeń ustnych",
+  "desc": "Dyrektorzy agencji tłumaczeń ustnych sprawują nadzór nad działaniami w zakresie świadczenia usług tłumaczenia ustnego. Koordynują wysiłki zespołu tłumaczy ustnych, którzy rozumieją i przekładają komunikację z jednego języka na drugi. Zapewniają oni jakość usług i zarządzanie agencji tłumaczeń ustnych.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Przydzielasz tłumaczy do zleceń",
+   "Rozmawiasz z klientami o ich potrzebach",
+   "Sprawdzasz jakość pracy tłumaczy",
+   "Pilnujesz budżetu i terminów firmy"
+  ]
+ },
+ {
+  "id": 1528,
+  "name": "Dyrektor archiwum",
+  "desc": "Dyrektorzy archiwum zapewniają opiekę i zachowanie instytucji kultury oraz archiwów. Dyrektorzy archiwum wraz z kuratorami i konserwatorami odgrywają bardzo ważną rolę pod względem opieki nad instytucją i wszystkich zbiorów w ramach tej instytucji.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Decydujesz, jak chronić najcenniejsze zbiory",
+   "Planujesz budżet i pracę zespołu",
+   "Ustalasz zasady udostępniania dokumentów badaczom",
+   "Naradzasz się z kuratorami i konserwatorami"
+  ]
+ },
+ {
+  "id": 1529,
+  "name": "Dyrektor komercyjnej galerii sztuki",
+  "desc": "Dyrektorzy komercyjnych galerii sztuki zarządzają sukcesem komercyjnym i artystycznym galerii.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Wybierasz artystów i planujesz wystawy",
+   "Rozmawiasz z kolekcjonerami o zakupie dzieł",
+   "Ustalasz ceny obrazów z artystami",
+   "Organizujesz otwarcia wystaw i promocję"
+  ]
+ },
+ {
+  "id": 1530,
+  "name": "Dyrektor muzeum",
+  "desc": "Dyrektorzy muzeum nadzorują zarządzanie zbiorami dzieł sztuki, artefaktami i obiektami znajdującymi się w ich ekspozycji. Z jednej strony zabezpieczają i sprzedają dzieła sztuki, a z drugiej dążą do zachowania i utrzymania kolekcji w muzeum. Ponadto zarządzają finansami, pracownikami i działaniami marketingowymi muzeum.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Nadzorujesz opiekę nad eksponatami",
+   "Planujesz wystawy i ich promocję",
+   "Układasz budżet muzeum",
+   "Kierujesz zespołem kuratorów i opiekunów sal"
+  ]
+ },
+ {
+  "id": 1531,
+  "name": "Dyrektor sądu",
+  "desc": "Dyrektorzy sądów wykonują zadania zarządcze w instytucji sądowej, takie jak nadzór nad personelem, administracja, komunikacja z sędziami i dokonywanie przeglądu procedur. Zarządzają również finansami sądu i nadzorują utrzymanie obiektu i wyposażenia.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Kierujesz pracą urzędników sądu",
+   "Planujesz wydatki na sąd",
+   "Poprawiasz procedury obsługi spraw",
+   "Ustalasz z sędziami sprawy organizacyjne"
+  ]
+ },
+ {
+  "id": 1532,
+  "name": "Dyrektor zakładu karnego",
+  "desc": "Dyrektorzy zakładów karnych zarządzają operacjami zakładu karnego. Nadzorują personel, opracowują i nadzorują procedury w zakładach poprawczych i więzieniach oraz zapewniają zgodność operacji z przepisami prawnymi. Wykonują obowiązki administracyjne i ułatwiają współpracę z instytucjami zewnętrznymi i personelem udzielającym pomocy.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Nadzorujesz funkcjonariuszy i ich grafik",
+   "Tworzysz i sprawdzasz procedury bezpieczeństwa",
+   "Pilnujesz zgodności pracy z przepisami",
+   "Współpracujesz z instytucjami spoza zakładu"
+  ]
+ },
+ {
+  "id": 1533,
+  "name": "Kierownik agencji tłumaczeń pisemnych",
+  "desc": "Kierownicy agencji tłumaczeń pisemnych sprawują nadzór nad działaniami w zakresie świadczenia usług tłumaczenia pisemnego. Koordynują wysiłki zespołu tłumaczy pisemnych, którzy tłumaczą materiały pisemne z jednego języka na drugi. Zapewniają oni jakość usług i zarządzanie agencji tłumaczeń pisemnych.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Wyceniasz zlecenia i ustalasz terminy",
+   "Dobierasz tłumacza do dziedziny tekstu",
+   "Zlecasz sprawdzenie gotowych przekładów",
+   "Odpowiadasz na reklamacje klientów"
+  ]
+ },
+ {
+  "id": 1534,
+  "name": "Kierownik artystyczny",
+  "desc": "Kierownicy artystyczni są odpowiedzialni za program artystyczny lub organizację kulturalną. Odpowiadają za wizję strategiczną, widoczność i jakość wszelkiego rodzaju działalności artystycznej i usług, takich jak firmy teatralne i taneczne. Dyrektorzy artystyczni zarządzają również personelem, finansami i polityką.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Wybierasz repertuar na cały sezon",
+   "Dobierasz reżyserów, dyrygentów lub choreografów",
+   "Rozmawiasz z artystami o ich pomysłach",
+   "Pilnujesz budżetu i planu finansowego"
+  ]
+ },
+ {
+  "id": 1535,
+  "name": "Kierownik biblioteki",
+  "desc": "Kierownicy bibliotek nadzorują prawidłowe korzystanie z wyposażenia i przedmiotów bibliotecznych. Zarządzają świadczonymi przez biblioteki usługami bibliotecznymi i obsługą wydziałów w ramach biblioteki. Kierownicy bibliotek zapewniają również szkolenia dla nowych pracowników i zarządzają budżetem biblioteki.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Układasz grafik bibliotekarzy",
+   "Planujesz zakup nowych książek z budżetu",
+   "Szkolisz nowych pracowników",
+   "Pilnujesz, jak działają wypożyczalnia i czytelnia"
+  ]
+ },
+ {
+  "id": 1536,
+  "name": "Kierownik ds. energii",
+  "desc": "Kierownicy ds. energii koordynują wykorzystanie energii w danej organizacji i dążą do realizacji polityki na rzecz zwiększenia zrównoważonego rozwoju oraz minimalizacji kosztów i wpływu na środowisko. Monitorują zapotrzebowania energii i wykorzystują i opracowują strategie poprawy, a także prowadzą badania najbardziej korzystnego źródła energii dla potrzeb organizacji.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Analizujesz zużycie energii w budynkach",
+   "Szukasz miejsc, w których energia się marnuje",
+   "Porównujesz źródła energii pod kątem kosztów",
+   "Przygotowujesz plany oszczędzania dla zarządu"
+  ]
+ },
+ {
+  "id": 1537,
+  "name": "Kierownik ds. ochrony środowiska",
+  "desc": "Kierownicy ds. ochrony środowiska doradzają instytucjom rządowym i oficjalnym w opracowywaniu polityki ochrony środowiska. Analizują możliwe zagrożenia dobrostanu ludzi i środowiska w danym regionie i zarządzają kampaniami ukierunkowanymi na rozwiązywanie problemów, takich jak zbiórka odpadów, składowiska i ochrona terenów zielonych.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Oceniasz zagrożenia dla przyrody w regionie",
+   "Doradzasz urzędom przy tworzeniu przepisów",
+   "Planujesz kampanie o segregacji odpadów",
+   "Pilnujesz składowisk i terenów zielonych"
+  ]
+ },
+ {
+  "id": 1538,
+  "name": "Kierownik laboratorium analiz medycznych",
+  "desc": "Kierownicy laboratoriów analiz medycznych sprawują nadzór nad codzienną działalnością laboratorium medycznego. Zarządzają pracownikami i informują o harmonogramie działań. Monitorują i zapewniają wykonywanie wszystkich czynności laboratoryjnych zgodnie ze specyfikacjami, zapewniają niezbędny sprzęt laboratoryjny oraz zapewniają przestrzeganie odpowiednich norm bezpieczeństwa i higieny pracy.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Układasz harmonogram pracy diagnostów",
+   "Sprawdzasz, czy badania idą zgodnie z procedurami",
+   "Zamawiasz odczynniki i naprawy sprzętu",
+   "Pilnujesz zasad higieny i bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 1539,
+  "name": "Kierownik stacji ratownictwa",
+  "desc": "Kierownicy stacji ratownictwa nadzorują prowadzenie działalności przez stację ratownictwa, wykonywanie obowiązków administracyjnych i nadzór nad personelem. Zapewniają oni, aby stacja działała zgodnie z polityką, a personel prowadził misje ratownicze w sposób bezpieczny, sprawny i zgodny z przepisami.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Układasz grafik dyżurów ratowników",
+   "Sprawdzasz gotowość sprzętu i pojazdów",
+   "Omawiasz z zespołem przebieg trudnych akcji",
+   "Załatwiasz sprawy administracyjne stacji"
+  ]
+ },
+ {
+  "id": 1540,
+  "name": "Kierownik widowni i foyer",
+  "desc": "Kierownicy widowni i foyer są odpowiedzialni za te obszary, w których znajdują się miejsca zamieszkania i które są dostępne publicznie. Dbają o to, by kontakty z klientami lub odwiedzającymi odbywały się sprawnie i profesjonalnie. Kierownicy widowni i foyer są odpowiedzialni za sprzedaż biletów, poczęstunek i dbają o to, by przestrzenie dostępne publicznie były prawidłowo określone. Wchodzą w interakcję z kierownikiem miejsca i kierownikiem planu filmowego.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Pilnujesz sprzedaży biletów i wejść",
+   "Organizujesz obsługę bufetu i poczęstunku",
+   "Kierujesz zespołem obsługi widowni",
+   "Uzgadniasz z kierownikiem miejsca godzinę otwarcia drzwi"
+  ]
+ },
+ {
+  "id": 1541,
+  "name": "Koordynator ds. publikacji",
+  "desc": "Koordynatorzy ds. publikacji są odpowiedzialni za produkcję materiałów drukowanych i internetowych, takich jak newslettery, procedury przedsiębiorstw, dokumenty techniczne i inne publikacje dla instytucji i przedsiębiorstw. Nadzorują zespoły wydawnicze i dbają o to, by publikacje docierały do odbiorców docelowych.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Planujesz harmonogram wydania publikacji",
+   "Rozdzielasz teksty między redaktorów i grafików",
+   "Sprawdzasz gotowe materiały przed publikacją",
+   "Ustalasz, jakimi kanałami publikacja dotrze do odbiorców"
+  ]
+ },
+ {
+  "id": 1542,
+  "name": "Specjalista ds. bezpieczeństwa w części lotniczej lotniska",
+  "desc": "Specjaliści ds. bezpieczeństwa w części lotniczej lotniska sprawują nadzór nad bezpieczeństwem i ochroną operacji lotniska oraz informują organy lotnictwa cywilnego o zmianach w systemach informacyjnych portu lotniczego. Sporządzają sprawozdania z analizy bezpieczeństwa, zapewniają zgodność z normami i przepisami oraz poprawiają procedury bezpieczeństwa w strefie operacyjnej. \\",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Analizujesz zagrożenia na płycie lotniska",
+   "Piszesz sprawozdania z kontroli bezpieczeństwa",
+   "Sprawdzasz zgodność pracy z przepisami lotniczymi",
+   "Poprawiasz procedury dla pracowników strefy operacyjnej"
+  ]
+ },
+ {
+  "id": 1543,
+  "name": "Specjalista ds. dozorowania lotniczego i koordynacji kodów",
+  "desc": "Specjaliści ds. dozorowania lotniczego i koordynacji kodów zapewniają, że wszystkie elementy infrastruktury dozorowania, zarówno naziemnej, jak i powietrznej, działają w sposób bezpieczny, spójny i kompatybilny.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Sprawdzasz, czy systemy dozorowania pasują do siebie",
+   "Analizujesz dane techniczne urządzeń naziemnych i pokładowych",
+   "Koordynujesz przydział kodów identyfikacyjnych",
+   "Uzgadniasz wspólne zasady z innymi instytucjami lotniczymi"
+  ]
+ },
+ {
+  "id": 1544,
+  "name": "Specjalista ds. zarządzania przestrzenią powietrzną",
+  "desc": "Specjaliści ds. zarządzania przestrzenią powietrzną kontrolują działania mające na celu rozwój europejskiej przestrzeni powietrznej w sposób elastyczny i ukierunkowany na zmiany potrzeb użytkowników w przestrzeni powietrznej. Ich celem jest optymalizacja przepustowości sieci i poprawa wyników.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Analizujesz natężenie ruchu lotniczego",
+   "Planujesz nowe podziały i trasy w przestrzeni powietrznej",
+   "Szukasz sposobów na większą przepustowość sieci",
+   "Uzgadniasz zmiany z liniami lotniczymi i służbami"
+  ]
+ },
+ {
+  "id": 1545,
+  "name": "Specjalista ds. łączności lotniczej i koordynacji częstotliwości",
+  "desc": "Kierownicy ds. łączności lotniczej i koordynacji częstotliwości są odpowiedzialni za działania i projekty mające na celu zapewnienie odpowiedniej infrastruktury komunikacyjnej, która wspiera wymianę informacji między użytkownikami przestrzeni powietrznej.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Planujesz projekty infrastruktury łączności lotniczej",
+   "Przydzielasz częstotliwości radiowe różnym użytkownikom",
+   "Sprawdzasz, czy kanały łączności się nie zagłuszają",
+   "Uzgadniasz rozwiązania z innymi krajami"
+  ]
+ },
+ {
+  "id": 1546,
+  "name": "Wydawca książek",
+  "desc": "Wydawcy książek są odpowiedzialni za wybór nowych materiałów. Decydują oni, które rękopisy dostarczone przez redaktora wydawniczego są publikowane. Wydawcy książek nadzorują produkcję, wprowadzanie do obrotu i dystrybucję tych tekstów.",
+  "path": "Zarządzanie i biznes > Kierownicy usług profesjonalnych",
+  "tasks": [
+   "Wybierasz rękopisy do wydania",
+   "Rozmawiasz z redaktorami o ich propozycjach",
+   "Zatwierdzasz projekt i druk książki",
+   "Planujesz promocję i dystrybucję nowości"
+  ]
+ },
+ {
+  "id": 1547,
+  "name": "Dyrektor elektrowni",
+  "desc": "Dyrektorzy elektrowni nadzorują działalność elektrowni produkujących i transportujących energię. Koordynują produkcję energii w zakładzie i nadzorują budowę, eksploatację i utrzymanie sieci i systemów przesyłu i dystrybucji energii.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Koordynujesz produkcję energii w zakładzie",
+   "Nadzorujesz przeglądy i remonty urządzeń",
+   "Planujesz budowę i rozbudowę linii przesyłowych",
+   "Podejmujesz decyzje podczas awarii zasilania"
+  ]
+ },
+ {
+  "id": 1548,
+  "name": "Kierownik ds. zakładów produkcyjnych",
+  "desc": "Kierownicy ds. zakładów produkcyjnych przewidują konserwację i rutynowe planowanie operacyjne budynków przeznaczonych do działalności wytwórczej. Kontrolują i zarządzają kwestiami związanymi ze zdrowiem i bezpieczeństwem, nadzorują pracę wykonawców, opracowują plan i zajmują się konserwacją budynków, kwestiami ochrony przeciwpożarowej i bezpieczeństwa oraz nadzorują sprzątanie budynków.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Planujesz przeglądy i naprawy hal",
+   "Nadzorujesz pracę firm zewnętrznych",
+   "Kontrolujesz zasady BHP i ochrony przeciwpożarowej",
+   "Sprawdzasz, czy firma sprzątająca robi swoje"
+  ]
+ },
+ {
+  "id": 1549,
+  "name": "Kierownik odlewni",
+  "desc": "Kierownicy odlewni koordynują i wdrażają krótko- i średnioterminowe planowanie produkcji odlewni oraz koordynują rozwój, wsparcie i doskonalenie procesów odlewniczych oraz niezawodność działań działów ds. konserwacji i inżynierii. Są również partnerami w bieżących inicjatywach w zakresie środków zaradczych.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Układasz plan produkcji na najbliższe miesiące",
+   "Rozmawiasz z działem konserwacji o maszynach",
+   "Ulepszasz procesy odlewnicze razem z inżynierami",
+   "Szukasz przyczyn wadliwych odlewów"
+  ]
+ },
+ {
+  "id": 1550,
+  "name": "Kierownik stacji uzdatniania wody",
+  "desc": "Kierownicy stacji uzdatniania wody sprawują nadzór nad uzdatnianiem wody, przechowywaniem i dystrybucją w zakładzie wodnym. Gwarantują oni, że działania zakładu są zgodne z regulacjami prawnymi i nadzorują pracowników. Wdrażają również nowe polityki oraz nadzorują utrzymanie sprzętu.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Nadzorujesz oczyszczanie i magazynowanie wody",
+   "Pilnujesz zgodności pracy stacji z przepisami",
+   "Kierujesz zespołem obsługi i konserwatorów",
+   "Planujesz konserwację i wymianę sprzętu"
+  ]
+ },
+ {
+  "id": 1551,
+  "name": "Kierownik zakładu produkcji drzewnej",
+  "desc": "Kierownicy zakładów produkcji drzewnej realizują zadania związane z planowaniem, działalnością handlową i doradczą w odniesieniu do fabryk drewna i handlu drewnem. Zarządzają oni również nabywaniem, sprzedażą, obsługą klienta oraz wprowadzaniem do obrotu drewna i wyrobów z drewna.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Kupujesz drewno od dostawców",
+   "Planujesz sprzedaż desek i wyrobów z drewna",
+   "Rozmawiasz z klientami o zamówieniach",
+   "Kontrolujesz plan i koszty zakładu"
+  ]
+ },
+ {
+  "id": 1552,
+  "name": "Kierownik zakładu w przemyśle chemicznym",
+  "desc": "Kierownicy zakładu w przemyśle chemicznym koordynują bieżącą produkcję wyrobów chemicznych, zapewniając jakość produktów i urządzeń, bezpieczeństwo pracowników i ochronę środowiska. Definiują i wdrażają budżet inwestycyjny, realizują cele przemysłowe i zarządzają jednostką jako centrum zysków reprezentujące przedsiębiorstwo w środowisku gospodarczym i społecznym.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Koordynujesz bieżącą produkcję w zakładzie",
+   "Pilnujesz bezpieczeństwa załogi i środowiska",
+   "Planujesz inwestycje i budżet zakładu",
+   "Reprezentujesz zakład wobec urzędów i mieszkańców"
+  ]
+ },
+ {
+  "id": 1553,
+  "name": "Kierownik ds. budynków",
+  "desc": "Kierownicy ds. budynków realizują planowanie strategiczne, jak również rutynowe planowanie operacyjne związane z administracją i utrzymaniem budynków. Kontrolują i zarządzają kwestiami związanymi ze zdrowiem i bezpieczeństwem, nadzorują pracę wykonawców, opracowują plan i zajmują się konserwacją budynków, kwestiami ochrony przeciwpożarowej i bezpieczeństwa, nadzorują sprzątanie budynków, infrastruktury użytkowej oraz są odpowiedzialni za zarządzanie przestrzenią.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Planujesz konserwację i naprawy budynku",
+   "Nadzorujesz firmy sprzątające i remontowe",
+   "Kontrolujesz zgodność budynku z przepisami BHP",
+   "Rozdzielasz biura i sale między działy"
+  ]
+ },
+ {
+  "id": 1554,
+  "name": "Kierownik ds. obsługi biznesu",
+  "desc": "Kierownicy ds. obsługi biznesu ponoszą odpowiedzialność za świadczenie usług przedsiębiorstwom. Organizują świadczenie usług dostosowanych do potrzeb klienta i nawiązują kontakt z klientami w celu uzgodnienia zobowiązań umownych dla obu stron.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Rozmawiasz z klientem o jego potrzebach",
+   "Dopasowujesz zakres usługi do wymagań klienta",
+   "Uzgadniasz warunki umowy dla obu stron",
+   "Sprawdzasz, czy zespół dotrzymuje obietnic"
+  ]
+ },
+ {
+  "id": 1555,
+  "name": "Kierownik ds. ochrony",
+  "desc": "Kierownicy ds. ochrony zapewniają bezpieczeństwo osobom, takim jak klienci i pracownicy, oraz rzeczom takim jak majątek przedsiębiorstwa, ruchomości, maszyny, pojazdy i nieruchomości. Zapewniają oni bezpieczeństwo poprzez egzekwowanie polityki bezpieczeństwa, śledzenie różnych wydarzeń, wdrażanie protokołów bezpieczeństwa, tworzenie procedur reagowania kryzysowego, przeprowadzanie ocen bezpieczeństwa oraz nadzorowanie pracowników ochrony.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Oceniasz słabe punkty w ochronie obiektu",
+   "Piszesz procedury reagowania na kryzysy",
+   "Kierujesz zespołem pracowników ochrony",
+   "Sprawdzasz, czy wszyscy stosują zasady bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 1556,
+  "name": "Kierownik ds. jakości",
+  "desc": "Kierownicy ds. jakości zarządzają jakością usług w organizacjach biznesowych. Zapewniają oni jakość wewnętrznych operacji przedsiębiorstwa, takich jak wymagania wobec klienta i normy jakości usług. Kierownicy ds. jakości monitorują wyniki przedsiębiorstwa i w razie konieczności wprowadzają w życie zmiany.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Ustalasz normy jakości usług",
+   "Mierzysz wyniki i zbierasz opinie klientów",
+   "Szukasz przyczyn powtarzających się błędów",
+   "Wprowadzasz zmiany w sposobie pracy zespołów"
+  ]
+ },
+ {
+  "id": 1557,
+  "name": "Kierownik ds. odpowiedzialności społecznej (CSR)",
+  "desc": "Kierownicy ds. odpowiedzialności społecznej przedsiębiorstw monitorują praktyki organizacji i przedsiębiorstw w odniesieniu do etyki i wpływu na większą społeczność. Doradzają im w kwestiach odpowiedzialności społecznej i zrównoważonego rozwoju, w zależności od potrzeb przedsiębiorstwa. Kierownicy ds. odpowiedzialności społecznej przedsiębiorstw propagują działania, które są świadome pod względem środowiskowym, dobroczynne lub związane z prawami człowieka.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Oceniasz wpływ firmy na środowisko i ludzi",
+   "Doradzasz zarządowi w sprawach etyki",
+   "Planujesz akcje pomocowe i ekologiczne",
+   "Pilnujesz, czy obietnice firmy są dotrzymywane"
+  ]
+ },
+ {
+  "id": 1558,
+  "name": "Kierownik działu",
+  "desc": "Kierownicy działów są odpowiedzialni za działalność niektórych działów lub wydziałów przedsiębiorstwa. Zapewniają oni osiągnięcie celów, a także zarządzanie pracownikami.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Rozdzielasz zadania między pracowników",
+   "Sprawdzasz, czy dział osiąga cele",
+   "Rozmawiasz z pracownikami o ich wynikach",
+   "Ustalasz plan pracy na tydzień"
+  ]
+ },
+ {
+  "id": 1559,
+  "name": "Urzędnik ds. administracji w instytucji obronnej",
+  "desc": "Urzędnicy ds. administracji w instytucji obronnej wykonują obowiązki zarządcze i administracyjne w instytucjach obrony, takie jak prowadzenie rejestrów, zarządzanie pracownikami i obsługa klientów.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Prowadzisz rejestry i dokumentację",
+   "Obsługujesz interesantów przy okienku",
+   "Pilnujesz terminów w sprawach pracowniczych",
+   "Przygotowujesz pisma i zestawienia"
+  ]
+ }
+]

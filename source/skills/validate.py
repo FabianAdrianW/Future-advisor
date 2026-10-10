@@ -18,8 +18,8 @@ def ok(d):
     for it in m+w:
         if len(it)!=2 or not it[0] or not it[1]: return 'format'
         n,t=it; names.append(n.lower())
-        if len(n.split())>5 or len(n)>42: return 'nazwa: '+n
-        if not 6<=len(t.split())<=22: return 'zdanie: '+t
+        if len(n.split())>6 or len(n)>48: return 'nazwa: '+n
+        if not 5<=len(t.split())<=24: return 'zdanie: '+t
         if BAN.search(n): return 'ogólnik: '+n
     if len(set(names))!=len(names): return 'powtórka'
     return ''

@@ -1,0 +1,722 @@
+[
+ {
+  "id": 720,
+  "name": "Pracownik obsługi wypożyczalni",
+  "desc": "Pracownicy obsługi wypożyczalni są odpowiedzialni za wynajem sprzętu i określanie konkretnych okresów użytkowania. Dokumentują zawierane transakcje, ubezpieczenia i płatności.",
+  "path": "Sprzedaż i marketing > Inni sprzedawcy",
+  "tasks": [
+   "Pokazujesz klientowi dostępny sprzęt",
+   "Ustalasz okres wypożyczenia",
+   "Wpisujesz umowę, płatność i ubezpieczenie",
+   "Oglądasz sprzęt po zwrocie i notujesz uszkodzenia"
+  ]
+ },
+ {
+  "id": 721,
+  "name": "Pracownik wypożyczalni samochodów",
+  "desc": "Pracownicy wypożyczalni samochodów reprezentują przedsiębiorstwa zajmujące się wynajmowaniem pojazdów i ustalają krótkie okresy ich użytkowania. Dokumentują zawierane transakcje, ubezpieczenia i płatności.",
+  "path": "Sprzedaż i marketing > Inni sprzedawcy",
+  "tasks": [
+   "Sprawdzasz prawo jazdy przed wynajęciem",
+   "Oglądasz z klientem auto i spisujesz rysy",
+   "Wyjaśniasz ubezpieczenie i opłaty",
+   "Odbierasz auto i sprawdzasz poziom paliwa"
+  ]
+ },
+ {
+  "id": 722,
+  "name": "Sprzedawca na stacji paliw",
+  "desc": "Sprzedawcy na stacji paliw sprzedają paliwo, środki smarne i chłodzące do pojazdów silnikowych i motocykli na stacji paliw.",
+  "path": "Sprzedaż i marketing > Inni sprzedawcy",
+  "tasks": [
+   "Rozliczasz tankowania przy kasie",
+   "Sprzedajesz oleje i płyny do aut",
+   "Pilnujesz porządku przy dystrybutorach",
+   "Sprawdzasz zapasy produktów na półkach"
+  ]
+ },
+ {
+  "id": 723,
+  "name": "Sprzedawca w centrum sprzedaży telefonicznej",
+  "desc": "Sprzedawcy w centrum sprzedaży telefonicznej odbierają połączenia przychodzące lub wykonują połączenia wychodzące w imieniu firmy. Telefonują do istniejących i potencjalnych klientów w celu promowania towarów i usług. Prowadzą również sprzedaż i organizują wizyty sprzedażowe.",
+  "path": "Sprzedaż i marketing > Inni sprzedawcy",
+  "tasks": [
+   "Odbierasz połączenia od klientów",
+   "Dzwonisz do potencjalnych klientów z ofertą",
+   "Odpowiadasz na pytania o towary i usługi",
+   "Umawiasz wizyty sprzedażowe u klientów"
+  ]
+ },
+ {
+  "id": 724,
+  "name": "Dyrektor ds. marketingu",
+  "desc": "Dyrektorzy ds. marketingu prowadzą operacje marketingowe wysokiego szczebla w przedsiębiorstwie. Koordynują wszystkie czynności związane z działaniami marketingowymi, promocyjnymi i reklamowymi we wszystkich jednostkach lub obszarach geograficznych. Zapewniają oni, że różne działania mające na celu zwiększenie świadomości na temat produktów są dla spółki opłacalne. Podejmują decyzje i przygotowują sprawozdania na temat projektów marketingowych i związanych z nimi kosztów.",
+  "path": "Sprzedaż i marketing > Kierownicy sprzedaży i marketingu",
+  "tasks": [
+   "Ustalasz kierunek działań marketingowych firmy",
+   "Decydujesz, na jaką reklamę idą pieniądze",
+   "Koordynujesz marketing w różnych oddziałach firmy",
+   "Przygotowujesz raporty o kosztach i efektach"
+  ]
+ },
+ {
+  "id": 725,
+  "name": "Dyrektor handlowy",
+  "desc": "Dyrektorzy handlowi są odpowiedzialni za generowanie dochodów w sektorze komercyjnym swojego przedsiębiorstwa. Zarządzają oni kilkoma zadaniami handlowymi, takimi jak ustalanie celów, nadzór nad opracowywaniem produktów, planowanie i opracowywanie sposobów sprzedaży, zarządzanie agentami sprzedaży oraz ustalanie cen produktów.",
+  "path": "Sprzedaż i marketing > Kierownicy sprzedaży i marketingu",
+  "tasks": [
+   "Ustalasz cele sprzedaży dla zespołu",
+   "Decydujesz o cenach produktów",
+   "Planujesz, jak i gdzie sprzedawać",
+   "Rozmawiasz z handlowcami o wynikach"
+  ]
+ },
+ {
+  "id": 726,
+  "name": "Kierownik domu aukcyjnego",
+  "desc": "Kierownicy domów aukcyjnych są odpowiedzialni za pracowników i działalność w domu aukcyjnym. Ponadto zarządzają finansami i marketingiem domu aukcyjnego.",
+  "path": "Sprzedaż i marketing > Kierownicy sprzedaży i marketingu",
+  "tasks": [
+   "Kierujesz pracownikami domu aukcyjnego",
+   "Pilnujesz budżetu i rozliczeń sprzedaży",
+   "Planujesz kalendarz i promocję aukcji",
+   "Rozmawiasz ze sprzedającymi o przedmiotach"
+  ]
+ },
+ {
+  "id": 727,
+  "name": "Kierownik ds. komunikacji",
+  "desc": "Kierownicy ds. komunikacji, jako rzecznicy, informują o komunikatach wydanych przez przedsiębiorstwo zarówno klientów wewnętrznych, jak i zewnętrznych. W przypadku klientów wewnętrznych (pracowników), kierownicy ds. komunikacji zapewniają, że komunikacja dotrze do każdego z pracowników i udzielą odpowiedzi na dalsze pytania. W przypadku stron zewnętrznych koordynują spójność komunikatów przesyłanych pocztą, materiałów drukowanych, artykułów prasowych i materiałów promocyjnych dla przedsiębiorstw. Dążą do zachowania rzetelnych komunikatów.",
+  "path": "Sprzedaż i marketing > Kierownicy sprzedaży i marketingu",
+  "tasks": [
+   "Informujesz pracowników o decyzjach firmy",
+   "Odpowiadasz na ich dalsze pytania",
+   "Pilnujesz spójności komunikatów prasowych i ulotek",
+   "Występujesz jako rzecznik firmy wobec mediów"
+  ]
+ },
+ {
+  "id": 728,
+  "name": "Kierownik ds. public relations",
+  "desc": "Kierownicy ds. public relations dążą do przekazania i zachowania pożądanego wizerunku lub reputacji przedsiębiorstwa, jednostki, instytucji rządowej lub organizacji ogółem dla ogółu społeczeństwa i zainteresowanych stron. Korzystają oni ze wszystkich rodzajów mediów i wydarzeń w celu promowania pozytywnego wizerunku produktów, przyczyn humanitarnych lub organizacji. Starają się zapewnić, by wszystkie publiczne środki komunikacji przedstawiały klientów w sposób, w jaki chcą być postrzegani.",
+  "path": "Sprzedaż i marketing > Kierownicy sprzedaży i marketingu",
+  "tasks": [
+   "Planujesz wydarzenia dla mediów i publiczności",
+   "Piszesz informacje dla prasy",
+   "Sprawdzasz, jak media opisują klienta",
+   "Doradzasz klientowi, jak mówić publicznie"
+  ]
+ },
+ {
+  "id": 729,
+  "name": "Kierownik ds. reklamy",
+  "desc": "Kierownicy ds. reklamy wykonują działania w zakresie reklamy planowane w strategicznym planie marketingowym. Organizują i przygotowują zasoby potrzebne do rozpoczęcia kampanii reklamowych i operacji w agencjach reklamowych. Przygotowują i dostosowują kanały komunikacji, negocjują umowy i zapewniają zgodność operacji z budżetami.",
+  "path": "Sprzedaż i marketing > Kierownicy sprzedaży i marketingu",
+  "tasks": [
+   "Przygotowujesz kampanię reklamową do startu",
+   "Wybierasz kanały komunikacji z klientami",
+   "Negocjujesz umowy z mediami",
+   "Pilnujesz, żeby wydatki mieściły się w budżecie"
+  ]
+ },
+ {
+  "id": 730,
+  "name": "Menedżer oferty turystycznej",
+  "desc": "Menedżerowie ofert turystycznych analizują rynek, potencjalne oferty, opracowują produkty, planują i organizują procesy dystrybucji i wprowadzania do obrotu.",
+  "path": "Sprzedaż i marketing > Kierownicy sprzedaży i marketingu",
+  "tasks": [
+   "Analizujesz, dokąd ludzie chcą jeździć",
+   "Układasz plan nowej wycieczki",
+   "Wybierasz, gdzie i jak sprzedawać ofertę",
+   "Sprawdzasz, które oferty sprzedają się najlepiej"
+  ]
+ },
+ {
+  "id": 731,
+  "name": "Menedżer produktów bankowych",
+  "desc": "Menedżerowie produktów bankowych badają rynek produktów bankowych i dostosowują istniejące produkty do charakterystyki tych zmian lub tworzą nowe produkty w odpowiedzi na potrzeby klientów. Monitorują i oceniają wskaźniki skuteczności tych produktów i proponują ulepszenia. Menedżerowie produktów bankowych wspierają strategię sprzedaży i marketingu banku.",
+  "path": "Sprzedaż i marketing > Kierownicy sprzedaży i marketingu",
+  "tasks": [
+   "Badasz potrzeby klientów banku",
+   "Śledzisz, jak sprzedają się produkty",
+   "Proponujesz poprawki do istniejących usług",
+   "Wspierasz sprzedaż i marketing banku"
+  ]
+ },
+ {
+  "id": 732,
+  "name": "Kasjer biletowy",
+  "desc": "Kasjerzy biletowi obsługują klientów, sprzedają bilety i dostosowują ofertę rezerwacji do potrzeb klientów. Sprzedają bilety na wszelkie wydarzenia, w tym imprezy sportowe, kulturalne i rekreacyjne. Udzielają klientom informacji na temat ofert i dokonują niezbędnych uzgodnień.",
+  "path": "Sprzedaż i marketing > Kasjerzy i sprzedawcy biletów",
+  "tasks": [
+   "Sprzedajesz bilety na wydarzenia",
+   "Dobierasz miejsca do potrzeb klienta",
+   "Odpowiadasz na pytania o ofertę",
+   "Przyjmujesz i zapisujesz rezerwacje"
+  ]
+ },
+ {
+  "id": 733,
+  "name": "Kasjer w kolekturze",
+  "desc": "Kasjerzy w kolekturze pobierają opłaty za zarejestrowanie zestawu liczb lub symboli oraz wydają graczom kupony. Wypłacają nagrody i uzyskują podpisy klientów i dowód ich tożsamości. Kontrolują i przeliczają gotówkę w kasie, egzekwując przepisy mające na celu zapobieganie praniu pieniędzy.",
+  "path": "Sprzedaż i marketing > Kasjerzy i sprzedawcy biletów",
+  "tasks": [
+   "Przyjmujesz opłaty i wydajesz kupony",
+   "Wypłacasz wygrane i sprawdzasz dowód tożsamości",
+   "Przeliczasz gotówkę w kasie",
+   "Pilnujesz przepisów przeciw praniu pieniędzy"
+  ]
+ },
+ {
+  "id": 734,
+  "name": "Sprzedawca na targowisku i bazarze",
+  "desc": "Sprzedawcy na targowisku i bazarze sprzedają produkty, takie jak owoce, warzywa i produkty gospodarstwa domowego, na zorganizowanych targowiskach na wolnym powietrzu lub w halach targowych. Wykorzystują techniki sprzedaży do polecania swoich towarów przechodniom.",
+  "path": "Sprzedaż i marketing > Sprzedawcy uliczni i targowi",
+  "tasks": [
+   "Układasz towar na stoisku",
+   "Zachęcasz przechodniów do spróbowania i zakupu",
+   "Ważysz towar i przyjmujesz zapłatę",
+   "Obniżasz ceny, gdy dzień się kończy"
+  ]
+ },
+ {
+  "id": 735,
+  "name": "Sprzedawca uliczny żywności",
+  "desc": "Sprzedawcy uliczni żywności sprzedają przetwory spożywcze, dania i produkty zorganizowanych targowiskach na wolnym powietrzu, w halach targowych lub na ulicy. Przygotowują żywność na swoich stoiskach. Sprzedawcy uliczni żywności wykorzystują techniki sprzedaży do polecania swoich produktów przechodniom.",
+  "path": "Sprzedaż i marketing > Sprzedawcy uliczni i targowi",
+  "tasks": [
+   "Przygotowujesz dania na stoisku",
+   "Wydajesz porcje klientom",
+   "Zachęcasz przechodniów do spróbowania",
+   "Dbasz o czystość stoiska i produktów"
+  ]
+ },
+ {
+  "id": 736,
+  "name": "Sprzedawca uliczny",
+  "desc": "Sprzedawcy uliczni sprzedają towary i usługi na ustalonych drogach, lokalizacjach na ulicach i rynkach.",
+  "path": "Sprzedaż i marketing",
+  "tasks": [
+   "Rozkładasz towar w stałym miejscu",
+   "Zagadujesz ludzi mijających twoje stoisko",
+   "Przyjmujesz zapłatę i wydajesz resztę",
+   "Obchodzisz stałą trasę i szukasz klientów"
+  ]
+ },
+ {
+  "id": 737,
+  "name": "Dyrektor portu lotniczego",
+  "desc": "Dyrektorzy portów lotniczych sprawują nadzór nad grupą osób zarządzających, którzy prowadzą lub nadzorują określony obszar portu lotniczego, programu lub projektu.",
+  "path": "Transport i logistyka > Kierownicy ds. logistyki",
+  "tasks": [
+   "Nadzorujesz menedżerów poszczególnych obszarów lotniska",
+   "Zatwierdzasz plany i projekty rozwoju portu",
+   "Omawiasz z zespołem problemy operacyjne",
+   "Pilnujesz budżetu i bezpieczeństwa portu"
+  ]
+ },
+ {
+  "id": 738,
+  "name": "Dyrektor sieci transportu rurociągowego",
+  "desc": "Dyrektorzy sieci transportu rurociągowego odpowiadają za kierowanie i ogólny rozwój projektów w dziedzinie transportu rurociągowego. Nadzorują oni planowanie, wybór trasy, zarządzanie zasobami oraz codzienne działania. Opracowują długoterminową wizję zapewniającą efektywność infrastruktury.",
+  "path": "Transport i logistyka > Kierownicy ds. logistyki",
+  "tasks": [
+   "Planujesz trasy nowych rurociągów",
+   "Zarządzasz zasobami i budżetem projektu",
+   "Nadzorujesz codzienną pracę sieci",
+   "Opracowujesz plan rozwoju na wiele lat"
+  ]
+ },
+ {
+  "id": 739,
+  "name": "Dystrybutor filmowy",
+  "desc": "Dystrybutorzy filmowi są odpowiedzialni za koordynację dystrybucji filmów i seriali. Nadzorują oni również sprzedaż tych filmów na płytach DVD, Blu ray i na innych nośnikach.",
+  "path": "Transport i logistyka > Kierownicy ds. logistyki",
+  "tasks": [
+   "Koordynujesz dystrybucję filmów i seriali",
+   "Negocjujesz z kinami i stacjami emisję",
+   "Nadzorujesz sprzedaż filmów na nośnikach",
+   "Planujesz premiery w różnych miejscach"
+  ]
+ },
+ {
+  "id": 740,
+  "name": "Kierownik ds. logistyki i dystrybucji",
+  "desc": "Kierownicy ds. logistyki i dystrybucji podejmują decyzje w sprawie usług logistycznych, operacji i przepisów. Uwzględniają zmienne wewnętrzne i zewnętrzne dla efektownych i skutecznych organizacyjnych usług logistycznych. Zapewniają oni od początku odpowiednie wsparcie dla wszystkich działań w ramach łańcucha dostaw. Specjaliści ci organizują przechowywanie i dystrybucję towarów oraz zapewniają, że odpowiednie produkty są dostarczane do właściwego miejsca w odpowiednim czasie i po przystępnych cenach.",
+  "path": "Transport i logistyka > Kierownicy ds. logistyki",
+  "tasks": [
+   "Planujesz magazynowanie i dystrybucję towarów",
+   "Wybierasz usługi i firmy transportowe",
+   "Pilnujesz terminów i kosztów dostaw",
+   "Dopilnowujesz przepisów w pracy magazynu"
+  ]
+ },
+ {
+  "id": 741,
+  "name": "Kierownik stacji kolejowej",
+  "desc": "Kierownicy stacji kolejowych są odpowiedzialni za organizację zadań związanych z eksploatacją stacji kolejowych. Ich zadania obejmują organizację prac konserwacyjnych i naprawczych budynków i wyposażenia wnętrz. Zapewniają oni komfort, obsługę, bezpieczeństwo i ochronę pasażerów, innych klientów oraz komercyjne użytkowanie budynków. W zależności od wielkości stacji liczba pracowników, za którą bezpośrednio odpowiadają kierownicy stacji kolejowych, może być wysoka.",
+  "path": "Transport i logistyka > Kierownicy ds. logistyki",
+  "tasks": [
+   "Organizujesz sprzątanie, konserwację i naprawy dworca",
+   "Dbasz o bezpieczeństwo i komfort pasażerów",
+   "Kierujesz pracownikami stacji",
+   "Pilnujesz, jak działają sklepy w budynku"
+  ]
+ },
+ {
+  "id": 742,
+  "name": "Kierownik w firmie przeprowadzkowej",
+  "desc": "Kierownicy w firmach przeprowadzkowych koordynują wszystkie zasoby i działania składające się na usługi w zakresie przeprowadzek. Współpracują z klientami w celu określenia wymogów usługi i dostosowania jej do ich potrzeb. Zarządzają komunikacją z przedsiębiorstwami dostawczymi, planistami i osobami organizującymi przeprowadzkę w celu zapewnienia zgodności z przepisami, efektywności biznesowej i zadowolenia klientów.",
+  "path": "Transport i logistyka > Kierownicy ds. logistyki",
+  "tasks": [
+   "Ustalasz z klientem zakres przeprowadzki",
+   "Przydzielasz ekipy i samochody do zleceń",
+   "Kontaktujesz się z firmami dostawczymi",
+   "Pilnujesz przepisów i zadowolenia klientów"
+  ]
+ },
+ {
+  "id": 743,
+  "name": "Specjalista ds. zarządzania ruchem lotniczym",
+  "desc": "Specjaliści ds. zarządzania ruchem lotniczym koordynują planowanie kontroli naziemnej, obsługę techniczną statków powietrznych oraz obsługę klientów. Dążą do jak najefektywniejszego wykorzystania zasobów w kierowaniu statkiem powietrznym. Zarządzają oni bezpieczeństwem, jakością i ryzykiem w codziennej pracy. Planują oni również i porównują wyniki z innymi instytucjami zapewniającymi usługi żeglugi powietrznej.",
+  "path": "Transport i logistyka > Kierownicy ds. logistyki",
+  "tasks": [
+   "Koordynujesz planowanie obsługi naziemnej samolotów",
+   "Planujesz obsługę techniczną statków powietrznych",
+   "Pilnujesz bezpieczeństwa i oceniasz ryzyko",
+   "Porównujesz wyniki z innymi instytucjami żeglugi powietrznej"
+  ]
+ },
+ {
+  "id": 744,
+  "name": "Agent celny",
+  "desc": "Agenci celni zatwierdzają lub odrzucają przepływ towarów przez bariery celne dla przedsiębiorstw międzynarodowych i zapewniają zgodność z prawem przewozowym. Ułatwiają komunikację między instytucjami zajmującymi się przywozem i wywozem a urzędnikami państwowymi, a także są odpowiedzialni za obliczanie podatków i zapewnianie płatności.",
+  "path": "Transport i logistyka > Spedytorzy",
+  "tasks": [
+   "Zatwierdzasz lub odrzucasz przepływ towarów przez granicę",
+   "Sprawdzasz zgodność przesyłki z przepisami",
+   "Obliczasz podatki i opłaty celne",
+   "Rozmawiasz z urzędnikami w imieniu firmy"
+  ]
+ },
+ {
+  "id": 745,
+  "name": "Koordynator spedycji międzynarodowej",
+  "desc": "Koordynatorzy spedycji międzynarodowej realizują i monitorują międzynarodowe operacje spedycyjne poprzez rozwiązywanie problemów i podejmowanie decyzji związanych z transportem i wsparciem. Zajmują się obciążeniami administracyjnymi związanymi z działalnością międzynarodową, takimi jak przepisy dotyczące przywozu i wywozu w różnych kontekstach krajowych. Zależnie od potrzeb zapewniają wsparcie dla przedsiębiorstw, koordynację projektów, ocenę i zarządzanie obecnymi systemami oraz zarządzaniem międzynarodowym łańcuchem dostaw i procedurami.",
+  "path": "Transport i logistyka > Spedytorzy",
+  "tasks": [
+   "Monitorujesz międzynarodowe przesyłki",
+   "Rozwiązujesz problemy z transportem",
+   "Załatwiasz formalności przywozowe i wywozowe",
+   "Koordynujesz łańcuch dostaw w kilku krajach"
+  ]
+ },
+ {
+  "id": 746,
+  "name": "Doradca do spraw bezpieczeństwa przewozu towarów niebezpiecznych w zakresie transportu drogowego",
+  "desc": "Doradcy do spraw bezpieczeństwa przewozu towarów niebezpiecznych w zakresie transportu drogowego kontrolują i przedstawiają zalecenia dotyczące transportu zgodnie z europejskimi przepisami w sprawie transportu towarów niebezpiecznych. Mogą pełnić funkcję doradczą w kwestii transportu drogowego, kolejowego, morskiego i lotniczego towarów niebezpiecznych. Doradcy do spraw bezpieczeństwa przewozu towarów niebezpiecznych w zakresie transportu drogowego przygotowują również raporty bezpieczeństwa i badają naruszenia bezpieczeństwa.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Kontrolujesz, czy transport spełnia przepisy",
+   "Piszesz zalecenia dla firmy przewozowej",
+   "Przygotowujesz raporty bezpieczeństwa",
+   "Badasz naruszenia zasad bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 747,
+  "name": "Dyspozytor lotniczy",
+  "desc": "Dyspozytorzy lotniczy zatwierdzają, regulują i kontrolują komercyjne loty zgodnie z przepisami rządowymi i firmowymi. Usprawniają i gwarantują przebieg lotu dzięki przygotowaniu dzienników pokładowych dla lotów, opóźnień, odwołanych lotów oraz zmian w rozkładach lub planach lotu.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Zatwierdzasz plan lotu przed startem",
+   "Przygotowujesz dokumentację każdego lotu",
+   "Reagujesz na opóźnienia i odwołane loty",
+   "Zmieniasz rozkłady i plany lotów"
+  ]
+ },
+ {
+  "id": 748,
+  "name": "Dyspozytor stacji pilotowej",
+  "desc": "Dyspozytorzy stacji pilotowej koordynują wejścia i wyjścia statków z portu. Sporządzają zlecenia zawierające nazwę statku, stanowisko cumownicze, nazwę firmy holowniczej oraz czas wejścia i wyjścia z portu, a następnie powiadamiają pilota morskiego o przydzieleniu zlecenia. Otrzymują od pilota rachunki za pilotaż po powrocie ze statku.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Przyjmujesz zgłoszenia wejścia i wyjścia statków",
+   "Wpisujesz do zlecenia statek, nabrzeże i holownik",
+   "Powiadamiasz pilota morskiego o przydzielonym zleceniu",
+   "Odbierasz od pilotów rachunki po pilotażu"
+  ]
+ },
+ {
+  "id": 749,
+  "name": "Dyspozytor taxi",
+  "desc": "Dyspozytorzy taxi dokonują rezerwacji, wysyłają pojazdy i są odpowiedzialni za koordynowanie kierowców przy jednoczesnym utrzymywaniu kontaktów z klientami.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Przyjmujesz zamówienia od klientów",
+   "Wysyłasz kierowcę pod wskazany adres",
+   "Koordynujesz pracę wielu kierowców",
+   "Informujesz klientów, kiedy auto dojedzie"
+  ]
+ },
+ {
+  "id": 750,
+  "name": "Dyspozytor tramwajów",
+  "desc": "Dyspozytorzy tramwajów są odpowiedzialni za przydzielanie i zarządzanie tramwajami i kierowcami przewożącymi pasażerów, w tym za prowadzenie rejestru pokonywanych odległości i wykonanych napraw.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Przydzielasz tramwaje i motorniczych do linii",
+   "Reagujesz, gdy tramwaj jest spóźniony",
+   "Prowadzisz rejestr przebiegu pojazdów",
+   "Zapisujesz naprawy wykonane w zajezdni"
+  ]
+ },
+ {
+  "id": 751,
+  "name": "Dyspozytor transportu samochodowego",
+  "desc": "Dyspozytorzy transportu samochodowego koordynują ruch pojazdów, trasy i kierowców, a także mogą nadzorować załadunek, rozładunek i sprawdzanie bagażu lub przesyłek ekspresowych wysyłanych autobusem.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Przydzielasz kierowców do tras",
+   "Ustalasz drogę i godziny przejazdu",
+   "Kontrolujesz załadunek i rozładunek",
+   "Sprawdzasz bagaże i przesyłki ekspresowe"
+  ]
+ },
+ {
+  "id": 752,
+  "name": "Ekspedytor",
+  "desc": "Ekspedytorzy otrzymują i przekazują wiarygodne komunikaty, pojazdy i sprzęt oraz rejestrują inne ważne informacje. Nadzorują operacje planowania wysyłki poprzez koordynację różnych środków transportu. Ekspedytorzy organizują trasy lub usługi i określają odpowiedni rodzaj transportu. Odpowiadają również za konserwację sprzętu i pojazdów oraz wysyłanie pracowników. Dyspozytorzy transportu towarowego przekazują dokumentację prawną i umowną dla stron transportujących.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Planujesz wysyłkę i wybierasz rodzaj transportu",
+   "Organizujesz trasy i usługi przewozu",
+   "Wysyłasz pracowników i pojazdy do zadań",
+   "Przekazujesz dokumenty prawne stronom przewozu"
+  ]
+ },
+ {
+  "id": 753,
+  "name": "Kierownik eksploatacji rurociągów",
+  "desc": "Kierownicy eksploatacji rurociągów nadzorują bieżące aspekty operacyjne transportu towarów za pośrednictwem infrastruktury rurociągowej. Posiadają oni ogólny ogląd sieci i planują różne trasy przewozu towarów z jednego miejsca do drugiego. Dążą do wyboru najbardziej wydajnego i najmniej kosztownego sposobu. Rozwiązują problemy powstające w sieciach i lokalizacjach, zapewniają wdrażanie przepisów i monitorują realizację celów w zakresie transportu.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Śledzisz przepływ towarów w całej sieci",
+   "Planujesz najwydajniejsze trasy przewozu",
+   "Rozwiązujesz problemy w różnych punktach sieci",
+   "Sprawdzasz zgodność pracy z przepisami"
+  ]
+ },
+ {
+  "id": 754,
+  "name": "Kontroler ruchu kolejowego",
+  "desc": "Kontrolerzy ruchu kolejowego obsługują sygnały i punkty, które pomagają zapewnić bezpieczne i punktualne przejazdy pociągów. Pracują w nastawni, skąd kontrolują kolejność i ruch pociągów oraz zapewniają stałe bezpieczeństwo. Są odpowiedzialni za utrzymanie norm bezpieczeństwa podczas normalnego ruchu pociągów, a także w sytuacjach awaryjnych lub kryzysowych.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Ustawiasz sygnały i rozjazdy",
+   "Kontrolujesz kolejność pociągów na trasie",
+   "Pilnujesz norm bezpieczeństwa w ruchu",
+   "Reagujesz w sytuacjach awaryjnych"
+  ]
+ },
+ {
+  "id": 755,
+  "name": "Koordynator ds. przeprowadzek",
+  "desc": "Koordynatorzy ds. przeprowadzek planują wszystkie czynności niezbędne do sprawnej przeprowadzki. Otrzymują oni informacje od klienta, a następnie przekładają je na działania i czynności, które umożliwiają sprawną i zadowalającą przeprowadzkę w konkurencyjnej cenie.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Zbierasz od klienta informacje o przeprowadzce",
+   "Układasz plan czynności krok po kroku",
+   "Wyceniasz usługę w konkurencyjnej cenie",
+   "Sprawdzasz, czy klient jest zadowolony"
+  ]
+ },
+ {
+  "id": 756,
+  "name": "Koordynator eksploatacji statków",
+  "desc": "Koordynatorzy eksploatacji statków zarządzają przewozami statkami czarterowymi i ich wydajnością poprzez optymalizację dyspozytorów, ale także ocenę zdolności i zagrożeń dla statków w zależności od różnych typów ładunku, np. ropy naftowej lub innych ładunków chemicznych. Sprawdzają, czy wszystkie certyfikaty są zgodne z przepisami, a wszyscy pracownicy mają aktualne paszporty i licencje. Koordynatorzy eksploatacji statków planują i prowadzą rejestry obsługi technicznej statków. Na poziomie operacyjnym kontaktują się z klientami rozpatrując ich zażalenia, określając nowe możliwości i dostarczając rozwiązań dla klientów.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Zarządzasz przewozami statków czarterowych",
+   "Oceniasz ryzyko dla różnych ładunków",
+   "Sprawdzasz certyfikaty, paszporty i licencje załogi",
+   "Prowadzisz rejestry obsługi technicznej statków"
+  ]
+ },
+ {
+  "id": 757,
+  "name": "Koordynator ruchu statków",
+  "desc": "Koordynatorzy ruchu statków zarządzają ruchem statków w portach i drogach wodnych. Zapewniają oni efektywne rozmieszczenie statków przedsiębiorstwa żeglugowego.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Śledzisz położenie statków na wodzie",
+   "Ustalasz kolejność wejścia do portu",
+   "Rozmieszczasz statki firmy w różnych portach",
+   "Informujesz porty o planowanych przybyciach"
+  ]
+ },
+ {
+  "id": 758,
+  "name": "Operator systemu przesyłu bagażu",
+  "desc": "Operatorzy systemu przepływu bagażu monitorują przepływ bagażu w portach lotniczych, dbając o transfer bagażu przy przesiadkach i terminowe dostarczenie bagażu w miejscu przeznaczenia. Kontaktują się z kierownikami obsługi bagażowej w celu zapewnienia zgodności z przepisami i stosowania prawidłowych rozwiązań.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Monitorujesz przepływ bagażu na ekranie",
+   "Pilnujesz transferu bagażu przy przesiadkach",
+   "Kontaktujesz się z kierownikami obsługi bagażowej",
+   "Stosujesz przepisy dotyczące bagażu"
+  ]
+ },
+ {
+  "id": 759,
+  "name": "Pracownik systemu przesyłowego gazu ziemnego",
+  "desc": "Pracownicy systemu przesyłowego gazu ziemnego transportują energię w postaci gazu ziemnego. Odbierają gaz ziemny ze stacji produkcyjnej, transportują go za pośrednictwem rurociągów, zapewniając dostawy do stacji dystrybucji gazu.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Odbierasz gaz ze stacji produkcyjnej",
+   "Przesyłasz go rurociągami do dystrybucji",
+   "Monitorujesz przepływ w sieci",
+   "Pilnujesz dostaw do stacji dystrybucyjnych"
+  ]
+ },
+ {
+  "id": 760,
+  "name": "Specjalista ds. dystrybucji gazu",
+  "desc": "Specjaliści ds. dystrybucji gazu monitorują i sterują przepływem gazu ziemnego między gazociągami a systemem dystrybucji zgodne z harmonogramami i wymaganiami. Sporządzają oni sprawozdania z przepływu gazu ziemnego, dbają o przestrzeganie harmonogramu, a w przypadku problemów dokonują zmian w harmonogramie w celu spełnienia wymagań.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Sterujesz przepływem gazu w sieci",
+   "Pilnujesz harmonogramu dostaw",
+   "Piszesz sprawozdania z przepływu gazu",
+   "Zmieniasz harmonogram, gdy pojawia się problem"
+  ]
+ },
+ {
+  "id": 761,
+  "name": "Specjalista ds. logistyki kolejowej",
+  "desc": "Specjaliści ds. logistyki kolejowej zarządzają transportem kolejowym, wraz z innymi środkami transportu lub bez nich. Koordynują terminową alokację środków transportu i sprzętu oraz zapewniają terminową realizację. Opracowują i utrzymują efektywne łańcuchy dostaw dla klientów i nadawców ładunków.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Przydzielasz wagony i sprzęt do przewozów",
+   "Pilnujesz terminów dostaw koleją",
+   "Łączysz kolej z innymi środkami transportu",
+   "Budujesz sprawne łańcuchy dostaw dla klientów"
+  ]
+ },
+ {
+  "id": 762,
+  "name": "Specjalista ds. planowania statków",
+  "desc": "Specjaliści ds. planowania statków zarządzają wydajnością statku. Zapewniają oni bezpieczeństwo statku i jego ładunku, jego operacyjność oraz łączą dostępne statki z dostępnymi ładunkami w celu maksymalizacji rentowności rejsów. Dopilnowują, aby każdy kontenerowiec był załadowany do optymalnej ładowności, przy jednoczesnej minimalizacji czasu postoju i kosztów obsługi. Planują również konserwację i naprawę statku, jak również wymaganą załogę.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Dopasowujesz statki do ładunków",
+   "Planujesz rozmieszczenie kontenerów na statku",
+   "Skracasz czas postoju i koszty obsługi",
+   "Układasz plan konserwacji, napraw i załogi"
+  ]
+ },
+ {
+  "id": 763,
+  "name": "Specjalista ds. spedycji lotniczej",
+  "desc": "Specjaliści ds. spedycji lotniczej są odpowiedzialni za kierowanie działaniami i koordynowanie działań związanych z obsługą terminali ładunków lotniczych i ramp. Dokonują oni przeglądu danych dotyczących lotów przychodzących w celu planowania pracy. Kierują oni przygotowaniem planów załadunku dla każdego odlatującego lotu i konsultują się z personelem nadzorującym, aby zapewnić dostępność pracowników i wyposażenia na potrzeby załadunku, rozładunku i obsługi ładunków lotniczych i bagażu.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Przeglądasz dane o lotach przychodzących",
+   "Układasz plany załadunku odlatujących lotów",
+   "Ustalasz z nadzorcami obsadę i sprzęt",
+   "Kierujesz obsługą ładunków i bagażu"
+  ]
+ },
+ {
+  "id": 764,
+  "name": "Specjalista ds. techniki taboru",
+  "desc": "Specjalista ds. techniki naboru odpowiada za efektywną realizację wszystkich procedur kontroli w zakresie utrzymania pojazdów w transporcie miejskim oraz za skuteczne i efektywne wykorzystanie planowania i ustalanie harmonogramu wszystkich zasobów do prowadzenia działań związanych z konserwacją.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Pilnujesz procedur kontroli pojazdów",
+   "Układasz harmonogram przeglądów i konserwacji",
+   "Planujesz, które pojazdy zjadą z linii",
+   "Przydzielasz mechaników i sprzęt do przeglądów"
+  ]
+ },
+ {
+  "id": 765,
+  "name": "Zarządca portu",
+  "desc": "Zarządcy portów kierują operacjami jednostki władz portowych zarządzającej ruchem. Egzekwują oni zasady i przepisy dotyczące cumowania statków, przeładunku i przechowywania ładunku oraz korzystania z obiektów portowych. Kierują oni działaniami w zakresie utrzymania porządku i sprzątania obszarów lądowych, ulic, budynków i obszarów wodnych na terenie portu. Zarządcy portów dbają także o dokumentowanie czynności przynoszących dochody i ich przekazywane do działu księgowego. Doradzają oni władzom portowym w zakresie stawek i zmian opłat portowych, a także zabiegają, aby spółki żeglugowych korzystały z obiektów portowych.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Egzekwujesz przepisy cumowania i przeładunku",
+   "Kontrolujesz porządek na nabrzeżach i w budynkach",
+   "Przekazujesz dokumenty o opłatach do księgowości",
+   "Doradzasz władzom portu w sprawie stawek"
+  ]
+ },
+ {
+  "id": 766,
+  "name": "Magazynier surowców",
+  "desc": "Magazynierzy surowców organizują i monitorują odbiór i przechowywanie surowców w magazynie zgodnie z wymaganymi warunkami. Monitorują oni poziom zapasów.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Odbierasz dostawy surowców od kierowców",
+   "Układasz surowce w odpowiednich warunkach",
+   "Monitorujesz poziom zapasów",
+   "Zgłaszasz, kiedy trzeba domówić surowiec"
+  ]
+ },
+ {
+  "id": 767,
+  "name": "Magazynier w fabryce obuwia",
+  "desc": "Magazynierzy w fabryce obuwia są odpowiedzialni za przechowywanie surowców i materiałów pomocniczych, urządzeń roboczych i komponentów do produkcji obuwia. Dopilnowują, aby wszystkie komponenty niezbędne do produkcji obuwia były gotowe do wykorzystania w łańcuchu produkcji poprzez dokonanie klasyfikacji i rejestracji zakupionego komponentu, prognozowanie zakupów i ich dystrybucję w różnych departamentach.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Klasyfikujesz i rejestrujesz kupione komponenty",
+   "Prognozujesz, ile materiałów trzeba zamówić",
+   "Wydajesz komponenty do działów produkcji",
+   "Pilnujesz, by niczego nie zabrakło na linii"
+  ]
+ },
+ {
+  "id": 768,
+  "name": "Magazynier w fabryce wyrobów skórzanych",
+  "desc": "Magazynierzy w fabryce wyrobów skórzanych odpowiadają za magazyn skór, komponentów, innych materiałów i urządzeń produkcyjnych. Klasyfikują i rejestrują zakupione materiały i komponenty, prognozują zakupy i dystrybuują je do różnych departamentów. Gwarantują, że wszystkie niezbędne surowce i składniki produkcji są gotowe do użycia i wprowadzenia do łańcucha produkcji.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Przyjmujesz i rejestrujesz skóry oraz dodatki",
+   "Sortujesz materiały według rodzaju",
+   "Rozdzielasz materiały do departamentów",
+   "Planujesz zakupy na podstawie zużycia"
+  ]
+ },
+ {
+  "id": 769,
+  "name": "Operator przyjęć surowców",
+  "desc": "Operatorzy przyjęć surowców zajmują się obsługą i konserwacją narzędzi i sprzętu w celu zapewnienia spełnienia wymogów jakościowych i ilościowych dotyczących przyjęcia surowca. Wykorzystują oni sprzęt do oceny produktów takich jak zboża, ziemniaki, maniok itp. Przechowują i dystrybuują produkty do różnych jednostek zakładu przetwórczego.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Oceniasz jakość surowca specjalnym sprzętem",
+   "Sprawdzasz ilość przywiezionego towaru",
+   "Obsługujesz i konserwujesz sprzęt przyjęć",
+   "Kierujesz surowiec do różnych jednostek zakładu"
+  ]
+ },
+ {
+  "id": 770,
+  "name": "Pracownik magazynu odzieżowego",
+  "desc": "Pracownicy magazynów odzieżowych są odpowiedzialni za przechowywanie tkanin, akcesoriów i komponentów do produkcji odzieży. Dopilnowują, aby wszystkie komponenty niezbędne do produkcji odzieży były gotowe do wykorzystania w łańcuchu produkcji poprzez dokonanie klasyfikacji i rejestracji zakupionego komponentu, prognozowanie zakupów i ich dystrybucję w różnych departamentach.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Rejestrujesz rolki tkanin i akcesoria",
+   "Klasyfikujesz komponenty według rodzaju i koloru",
+   "Prognozujesz zakupy materiałów",
+   "Wydajesz tkaniny do działów produkcji"
+  ]
+ },
+ {
+  "id": 771,
+  "name": "Planista produkcyjny",
+  "desc": "Planiści produkcyjni opracowują i planują produkcję maszyn. Monitorują cały proces produkcji i zapewniają terminowe dostarczanie pojedynczych zespołów i zasobów.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Układasz harmonogram produkcji maszyn",
+   "Sprawdzasz, czy zespoły i materiały są na czas",
+   "Monitorujesz przebieg całego procesu produkcji",
+   "Zmieniasz plan, gdy coś się opóźnia"
+  ]
+ },
+ {
+  "id": 772,
+  "name": "Instruktor pilotażu",
+  "desc": "Instruktorzy pilotażu szkolą zarówno nowych, jak i doświadczonych pilotów, którzy chcą zdobyć licencję lub doświadczenie w lataniu nowym statkiem powietrznym, w zakresie prawidłowej obsługi statku powietrznego zgodnie z przepisami. Przekazują uczniom wiedzę teoretyczną i praktyczną dotyczącą optymalnego sposobu latania i utrzymania samolotu, a także obserwują i oceniają technikę ucznia. Koncentrują się również na przepisach dotyczących procedur postępowania i bezpieczeństwa właściwych dla różnych (komercyjnych) statków powietrznych należących do linii lotniczych.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Tłumaczysz uczniom teorię lotu i przepisy",
+   "Pokazujesz w powietrzu prawidłową technikę",
+   "Obserwujesz i oceniasz loty ucznia",
+   "Uczysz procedur bezpieczeństwa dla różnych samolotów"
+  ]
+ },
+ {
+  "id": 773,
+  "name": "Mechanik pokładowy",
+  "desc": "Mechanicy pokładowi są odpowiedzialni za monitorowanie i kontrolowanie różnych systemów statków powietrznych, w tym stałopłatów i wiropłatów. Pracują w ścisłej koordynacji z dwoma pilotami podczas wszystkich etapów lotu. Wykonują inspekcje, regulacje i małe naprawy przed rozpoczęciem, w trakcie i po zakończeniu lotu. Sprawdzają takie parametry, jak rozmieszczenie pasażerów i ładunku, ilość paliwa, parametry pracy samolotu i prędkość obrotowa silnika, zgodnie z instrukcjami pilotów.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Monitorujesz systemy statku powietrznego w locie",
+   "Sprawdzasz ilość paliwa i obroty silnika",
+   "Kontrolujesz rozmieszczenie pasażerów i ładunku",
+   "Wykonujesz drobne regulacje i naprawy"
+  ]
+ },
+ {
+  "id": 774,
+  "name": "Pierwszy oficer - lotnictwo",
+  "desc": "Pierwsi oficerowie w lotnictwie wspierają kapitanów poprzez monitorowanie przyrządów lotniczych, obsługę łączności radiowej, obserwację ruchu lotniczego oraz zastępowanie pilota w razie potrzeby. Stosują się do poleceń pilota, planów lotu oraz regulaminów i procedur krajowych władz lotniczych, przedsiębiorstw i portów lotniczych.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Monitorujesz przyrządy lotnicze w kabinie",
+   "Prowadzisz łączność radiową z kontrolą",
+   "Obserwujesz inny ruch w powietrzu",
+   "Zastępujesz kapitana przy sterach"
+  ]
+ },
+ {
+  "id": 775,
+  "name": "Pilot samolotowy zawodowy",
+  "desc": "Piloci samolotowi zawodowi nawigują podczas lotu stałopłatów i wielosilnikowych statków powietrznych do przewozu pasażerów i ładunków.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Prowadzisz samolot wielosilnikowy od startu do lądowania",
+   "Nawigujesz według mapy i przyrządów",
+   "Sprawdzasz maszynę przed każdym lotem",
+   "Rozmieszczasz ładunek tak, by samolot był wyważony"
+  ]
+ },
+ {
+  "id": 776,
+  "name": "Pilot śmigłowcowy",
+  "desc": "Piloci śmigłowcowi pilotują helikoptery w celu przetransportowania pasażerów i ładunków z jednego miejsca do drugiego. Planują loty z wykorzystaniem map lotniczych i przyrządów nawigacyjnych. Przed odlotem przeprowadzają inspekcje śmigłowców na podstawie list kontrolnych pod kątem wycieku płynu hydraulicznego, niesprawnego układu sterowania, niskiego poziomu paliwa lub innych niebezpiecznych okoliczności.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Planujesz lot na mapach lotniczych",
+   "Sprawdzasz śmigłowiec według listy kontrolnej",
+   "Szukasz wycieków płynów i usterek sterowania",
+   "Przewozisz pasażerów i ładunki"
+  ]
+ },
+ {
+  "id": 777,
+  "name": "Prywatny pilot",
+  "desc": "Prywatni piloci latają niekomercyjnymi samolotami rekreacyjnymi z ograniczoną liczbą miejsc oraz o ograniczonej mocy silnika. Zapewniają również prywatny transport osobowy.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Latasz małym samolotem o ograniczonej mocy",
+   "Planujesz lot na wybranej trasie",
+   "Zapewniasz prywatny transport osobowy",
+   "Sprawdzasz maszynę przed każdym startem"
+  ]
+ },
+ {
+  "id": 778,
+  "name": "Technik mechanik lotniczy",
+  "desc": "Technicy mechanicy lotniczy wykonują inspekcje, regulacje i małe naprawy przed rozpoczęciem i po zakończeniu lotu w celu zapewnienia bezpiecznej i niezawodnej eksploatacji samolotów. Przeprowadzają inspekcje samolotów przed startem w celu wykrycia nieprawidłowości, takich jak wycieki oleju oraz problemy z układami elektrycznymi lub hydraulicznymi. Sprawdzają rozmieszczenie pasażerów i ładunku oraz ilość paliwa, aby zapewnić zgodność ze specyfikacjami dotyczącymi ciężaru i wyważenia.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Oglądasz samolot przed startem",
+   "Szukasz wycieków oleju i usterek instalacji",
+   "Wykonujesz regulacje i małe naprawy",
+   "Sprawdzasz paliwo i wyważenie ładunku"
+  ]
+ },
+ {
+  "id": 779,
+  "name": "Informator służby informacji powietrznej",
+  "desc": "Informatorzy służby informacji lotniczej zapewniają wysokiej jakości usługi w zakresie zarządzania informacją lotniczą za pomocą środków technicznych. Zapewniają wsparcie dla starszych specjalistów w dziedzinie informacji lotniczej i oceniają zmiany w informacjach lotniczych mające wpływ na mapy lotnicze i inne produkty. Odpowiadają na wnioski o dane lotnicze ze strony grup i systemów operacyjnych przedsiębiorstw lotniczych.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Oceniasz zmiany w informacjach lotniczych",
+   "Aktualizujesz mapy i inne produkty lotnicze",
+   "Odpowiadasz na wnioski o dane lotnicze",
+   "Wspierasz starszych specjalistów informacji lotniczej"
+  ]
+ }
+]

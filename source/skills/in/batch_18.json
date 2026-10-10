@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1080,
+  "name": "Operator drążarki elektroiskrowej",
+  "desc": "Operatorzy drążarki elektroiskrowej konfigurują i obsługują drążarki elektroiskrowe przeznaczone do ścinania nadmiaru materiału z detalu metalowego przez zastosowanie wyładowań elektrycznych lub iskrzenia w wyniku napięcia elektrycznego i oddzielanie go przez płyn dielektryczny usuwający elementy metalowe z elektrod. Te procesy mogą obejmować mikroskopię transmisyjną i optyczną.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Mocujesz detal i ustawiasz elektrodę",
+   "Ustawiasz parametry wyładowań dla danego metalu",
+   "Pilnujesz płynu i pracy maszyny",
+   "Oglądasz powierzchnię i sprawdzasz wymiary"
+  ]
+ },
+ {
+  "id": 1081,
+  "name": "Operator frezarki górnowrzecionowej",
+  "desc": "Operatorzy frezarki górnowrzecionowej konfigurują i obsługują frezarki wielowrzecionowe w celu wydrążenia lub cięcia różnych twardych materiałów, takich jak drewno, kompozyty, aluminium, stal, tworzywa sztuczne i inne, np. pianki. Posiadają także umiejętność czytania schematów w celu określenia miejsc cięcia i wymaganych rozmiarów.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Czytasz rysunek i ustalasz miejsca cięcia",
+   "Mocujesz materiał na stole maszyny",
+   "Zakładasz i wymieniasz frezy",
+   "Sprawdzasz wymiary wyciętych elementów"
+  ]
+ },
+ {
+  "id": 1082,
+  "name": "Operator gwinciarki",
+  "desc": "Operatorzy gwinciarki konfigurują i obsługują gwinciarki mechaniczne przeznaczone do wytwarzania wkrętów (gwintowanych) z obrabianych detali metalowych, w szczególności w rozmiarach od małego do średniego, po ich obróbce na tokarce.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Ustawiasz gwinciarkę pod daną średnicę",
+   "Mocujesz toczone detale w maszynie",
+   "Nacinasz gwint na kolejnych częściach",
+   "Sprawdzasz gwint sprawdzianem lub nakrętką"
+  ]
+ },
+ {
+  "id": 1083,
+  "name": "Operator kowarki",
+  "desc": "Operatorzy kowarki konfigurują i obsługują obrotowe kowarki przeznaczone do zmiany kształtu okrągłych metalowych detali żelaznych i nieżelaznych na wymagany kształt, najpierw przez ich zbicie do zmniejszenia ich średnicy przy użyciu siły ściskającej dwóch lub większej liczby matryc, a następnie przez ich znakowanie przy użyciu obrotowej kowarki, w którym to procesie nie dochodzi do utraty nadmiaru materiału.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Wybierasz i zakładasz matryce w kowarce",
+   "Podajesz okrągłe pręty do maszyny",
+   "Kontrolujesz średnicę zwężonego końca",
+   "Konserwujesz maszynę i wymieniasz zużyte części"
+  ]
+ },
+ {
+  "id": 1084,
+  "name": "Operator kuźniarki",
+  "desc": "Operatorzy kuźniarki konfigurują i obsługują kuźniarki, głównie prasy kuźnicze, przeznaczone do formowania detali metalowych w procesach kucia, głównie drutów, prętów lub sztab, nadając im wymagany kształt przez ściskanie obrabianych detali na długość w rozdzielonych matrycach o licznych otworach, w ten sposób zwiększając ich średnicę.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Zakładasz matryce i ustawiasz prasę",
+   "Podajesz drut lub pręt do maszyny",
+   "Obserwujesz kształt wykutych elementów",
+   "Poprawiasz ustawienia, gdy wyroby się różnią"
+  ]
+ },
+ {
+  "id": 1085,
+  "name": "Operator maszyn i urządzeń do sporządzania form odlewniczych",
+  "desc": "Operatorzy maszyn i urządzeń do sporządzania form odlewniczych obsługują maszyny, które są częścią procesu produkcji form do produkcji odlewów lub innych materiałów profilowanych. Obsługują maszyny do tworzenia form, wykorzystujące odpowiednie materiały, takie jak piasek, tworzywa sztuczne lub ceramika, w celu uzyskania materiału do formowania. Następnie używają wzorca i rdzenia lub rdzeni, aby uzyskać odcisk o odpowiednim kształcie w materiale. Następnie uformowany materiał jest pozostawiany do zastygnięcia, aby użyć go później jako formę do produkcji wyrobów profilowanych, takich jak metalowe odlewy żelazne i nieżelazne.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Przygotowujesz piasek lub inny materiał formierski",
+   "Ustawiasz wzorzec i rdzenie w skrzynce",
+   "Zagęszczasz materiał wokół wzorca na maszynie",
+   "Wyjmujesz wzorzec i sprawdzasz odcisk"
+  ]
+ },
+ {
+  "id": 1086,
+  "name": "Operator palnika paliwowo-tlenowego",
+  "desc": "Operatorzy palnika paliwowo-tlenowego konfigurują i obsługują maszyny przeznaczone do ścinania, a raczej wypalania, nadmiaru materiału z detalu metalowego przy użyciu palnika, który podgrzewa ten metalowy detal do temperatury tlenia się i następnie spala go do powstania tlenku metalu w reakcji z emitowanym strumieniem tlenu, który wypływa ze szczeliny powstałej w detalu w postaci żużla.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Ustawiasz palnik nad blachą",
+   "Wybierasz ustawienia dla grubości metalu",
+   "Pilnujesz cięcia i jakości krawędzi",
+   "Usuwasz żużel z wypalonych elementów"
+  ]
+ },
+ {
+  "id": 1087,
+  "name": "Operator pieca odlewniczego",
+  "desc": "Operatorzy pieca odlewniczego nadzorują proces obróbki cieplnej odlewów. Kontrolują piece do obróbki i kierują wszystkimi działaniami związanymi z pracą pieców, w tym interpretują dane komputerowe, pomiarowe i regulacyjne, a także kierują załadunkiem zbiorników. Kontrolują obróbkę chemiczną i cieplną odlewów w celu osiągnięcia wymagań zawartych w standardach.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Ładujesz odlewy do pieca",
+   "Ustawiasz temperaturę i czas obróbki",
+   "Odczytujesz dane z komputera i przyrządów",
+   "Sprawdzasz, czy odlewy spełniają normy"
+  ]
+ },
+ {
+  "id": 1088,
+  "name": "Operator prasy brykietowej",
+  "desc": "Operatorzy prasy brykietowej obsługują sprzęt do suszenia, mieszania i kompresowania zrębków w brykiety przeznaczone do wykorzystania w hucie.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Wsypujesz zrębki do suszarki",
+   "Sprawdzasz wilgotność i skład mieszanki",
+   "Obsługujesz prasę formującą brykiety",
+   "Układasz gotowe brykiety na palecie"
+  ]
+ },
+ {
+  "id": 1089,
+  "name": "Operator prasy do tłoczenia",
+  "desc": "Operatorzy prasy do tłoczenia konfigurują i obsługują prasy do tłoczenia przeznaczone do formowania detali metalowych o odpowiednim kształcie przez zastosowanie nacisku na metal w wyniku ruchu w górę i w dół płyty matrycowej i matrycy przymocowanej do tłoka, w wyniku czego matryca tworzy mniejsze metalowe części detalu umieszczonego w prasie.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Zakładasz matrycę i ustawiasz skok prasy",
+   "Podajesz blachę lub detal pod matrycę",
+   "Sprawdzasz kształt pierwszych wytłoczek",
+   "Usuwasz zacięcia i konserwujesz maszynę"
+  ]
+ },
+ {
+  "id": 1090,
+  "name": "Operator prostownicy",
+  "desc": "Operatorzy prostownicy konfigurują i obsługują prostownice przeznaczone do tworzenia detali metalowych o wymaganym kształcie przez zastosowanie nacisku. Dostosowują kąt i wysokości rolek prostujących i wybierają ustawienia dla sił nacisku wymaganych do prostowania obrabianego detalu, biorąc pod uwagę wytrzymałość i rozmiary wyrobu końcowego, bez nadmiernego utwardzania.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Ustawiasz kąt i wysokość rolek",
+   "Dobierasz siłę nacisku do wytrzymałości metalu",
+   "Przepuszczasz krzywe pręty lub blachy przez maszynę",
+   "Kontrolujesz prostość gotowych elementów"
+  ]
+ },
+ {
+  "id": 1091,
+  "name": "Operator strugarki",
+  "desc": "Operatorzy strugarki konfigurują i obsługują strugarkę, która jest maszyną do obróbki metalu, służącą do ścinania nadmiaru materiału z detalu metalowego przy użyciu liniowego ruchu względnego pomiędzy przyrządem tnącym strugarki i obrabianym detalem w celu stworzenia liniowej ścieżki narzędzia i wykonania cięcia.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Mocujesz metalowy detal na stole maszyny",
+   "Ustawiasz głębokość i długość posuwu",
+   "Prowadzisz narzędzie wzdłuż prostej ścieżki",
+   "Mierzysz powierzchnię po każdym przejściu"
+  ]
+ },
+ {
+  "id": 1092,
+  "name": "Operator urządzenia do cięcia blach",
+  "desc": "Operatorzy urządzenia do cięcia blach wycinają szczegółowe wzorce na powierzchniach metalowych przy użyciu ręcznych lub zasilanych urządzeń do cięcia blach, takich jak ręczne wiertło wibracyjne lub nożyce wibracyjne.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Odczytujesz rysunek i znakujesz blachę",
+   "Wycinasz kształty nożycami do blach",
+   "Wygładzasz ostre krawędzie po cięciu",
+   "Sprawdzasz wymiary wyciętych elementów"
+  ]
+ },
+ {
+  "id": 1093,
+  "name": "Operator urządzeń do cięcia plazmą",
+  "desc": "Operatorzy urządzeń do cięcia plazmą konfigurują i obsługują urządzenia do ciecia plazmą przeznaczone do ścinania i kształtowania nadmiaru materiału z metalowego detalu przy użyciu palnika plazmowego w wystarczająco wysokiej temperaturze do topienia i cięcia metalu przez wypalenie go oraz z prędkością pozwalającą na zdmuchnięcie stopionego metalu z wykonanego cięcia.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Układasz blachę na stole do cięcia",
+   "Ustawiasz palnik plazmowy i prędkość",
+   "Uruchamiasz program z kształtami",
+   "Oceniasz krawędź i poprawiasz parametry cięcia"
+  ]
+ },
+ {
+  "id": 1094,
+  "name": "Operator urządzeń do obróbki laserowej",
+  "desc": "Operatorzy urządzeń do obróbki laserowej konfigurują i obsługują urządzenia do obróbki laserowej i grawerowania laserowego przeznaczone do precyzyjnego wycinania wzorów na powierzchni detalu metalowego przy użyciu sterownika ruchomego oraz zamontowanego na nim źródła wiązki lasera do grawerowania, który obrysowuje wzory na powierzchni detalu metalowego. Konfigurują maszynę pod względem intensywności, kierunku i prędkości ruchu wiązki laserowej. Zapewniają również, że ploter laserowy, używany do wykonywania grawerowania laserowego i prowadzenia wiązki laserowej, jest właściwie ustawiony.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Ustawiasz moc i prędkość lasera",
+   "Sprawdzasz, czy ploter jest ustawiony prawidłowo",
+   "Wczytujesz wzór do grawerowania",
+   "Oglądasz efekt i poprawiasz ustawienia"
+  ]
+ },
+ {
+  "id": 1095,
+  "name": "Operator walcarki do gwintów",
+  "desc": "Operatorzy walcarki do gwintów konfigurują i obsługują walcarki do gwintów przeznaczone do formowania zewnętrznych i wewnętrznych gwintów śrubowych z detali metalowych przez odciśnięcie matrycy walcarki do gwintów na nieobrobionych prętach metalowych, tworząc większą średnicę niż średnica pierwotnych nieobrobionych detali.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Zakładasz matryce walcarki",
+   "Wkładasz pręty w maszynę",
+   "Sprawdzasz średnicę i kształt gwintu",
+   "Wyrzucasz wadliwe sztuki i poprawiasz ustawienie"
+  ]
+ },
+ {
+  "id": 1096,
+  "name": "Operator wiertarki",
+  "desc": "Operatorzy wiertarki przygotowują, obsługują oraz powadzą konserwację urządzeń jednowrzecionowych i wielowrzecionowych z zastosowaniem wytaczadeł z utwardzanym, obrotowym, wielopunktowym narzędziem tnącym w celu powiększenia istniejącego otworu w wytwarzanym detalu.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Mocujesz detal z otworem na stole",
+   "Ustawiasz narzędzie na wymiar otworu",
+   "Powiększasz otwór do wymaganej średnicy",
+   "Konserwujesz maszynę i wymieniasz narzędzia"
+  ]
+ },
+ {
+  "id": 1097,
+  "name": "Operator wytaczarki",
+  "desc": "Operatorzy wytłaczaki konfigurują i obsługują wytłaczarkę przeznaczoną do ścinania nadmiaru materiału z formowanego detalu metalowego lub do powiększania otworu w nim przy użyciu utwardzonego, obrotowego, wielopunktowego przyrządu tnącego, który osiowo wprowadza wiertło w obrabiany detal.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Mocujesz formowany detal w uchwycie",
+   "Prowadzisz narzędzie wzdłuż osi otworu",
+   "Ścinasz nadmiar materiału z wnętrza",
+   "Kontrolujesz średnicę i gładkość otworu"
+  ]
+ },
+ {
+  "id": 1098,
+  "name": "Operator wytaczarki poziomej",
+  "desc": "Operatorzy wytaczarki poziomej konfigurują i programują wytaczarki poziome oraz sterują nimi w celu wydrążenia otworów w detalach przy użyciu obrotowego, wielopunktowego przyrządu tnącego, który osiowo wprowadza wiertło w obrabiany detal. Odczytują schematy wytaczarek poziomych i instrukcje oprzyrządowania, przeprowadzają regularną konserwację maszyn i dokonują korekt sterowania wytaczaniem, np. w zakresie głębokości wierteł lub prędkości obrotowej.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Czytasz schematy i instrukcje oprzyrządowania",
+   "Programujesz ruchy wytaczarki",
+   "Korygujesz głębokość i prędkość obrotową",
+   "Prowadzisz regularną konserwację maszyny"
+  ]
+ },
+ {
+  "id": 1099,
+  "name": "Tokarz frezer",
+  "desc": "Tokarze frezerzy wykorzystują obrabiarki do tworzenia i modyfikowania części metalowych zgodnie z ustalonymi specyfikacjami w celu dopasowania części do maszyn. Dbają o to, by gotowe części były gotowe do montażu.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Czytasz rysunek i planujesz kolejność obróbki",
+   "Toczysz okrągłe części, na przykład wałki",
+   "Frezujesz rowki, płaskie ścianki i otwory",
+   "Sprawdzasz pasowanie części przed montażem"
+  ]
+ },
+ {
+  "id": 1100,
+  "name": "Wytwórca łańcuchów",
+  "desc": "Wytwórcy łańcuchów obsługują odpowiedni sprzęt i urządzenia do tworzenia metalowych łańcuchów, w tym łańcuszków z metali szlachetnych wykorzystywanych w wyrobach jubilerskich, oraz wytwarzają je na wszystkich etapach procesu produkcji. Umieszczają drut w maszynie do produkcji łańcuchów, używają szczypiec do zagięcia i połączenia końców łańcucha wytworzonego w maszynie oraz wykańczają i przycinają krawędzie przez lutowanie na gładką powierzchnię.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Zakładasz drut w maszynie do łańcuchów",
+   "Zaginasz i łączysz końce ogniw szczypcami",
+   "Lutujesz złączenia na gładko",
+   "Przycinasz i wygładzasz końce łańcuszka"
+  ]
+ },
+ {
+  "id": 1101,
+  "name": "Kowal",
+  "desc": "Kowale podgrzewają metal, zwykle stal, w kuźni i nadają mu kształt za pomocą młota, dłuta i kowadła. Współcześnie tworzą głównie metalowe wyroby rzemieślnicze własnej produkcji, w tym przedmioty ozdobne, a także podkowy; jest to jeden procesów przetwarzania metalu, który nie został uprzemysłowiony.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Rozgrzewasz stalowy pręt w palenisku kuźni",
+   "Uderzasz młotem, nadając metalowi kształt",
+   "Dłutem odcinasz i wycinasz detale",
+   "Wykańczasz ozdobne wyroby i sprawdzasz kształt"
+  ]
+ },
+ {
+  "id": 1102,
+  "name": "Kowal podkuwacz koni",
+  "desc": "Kowale podkuwacze koni sprawdzają i przycinają kopyta koni i nadają im odpowiedni kształt oraz wykonują podkowy i podkuwają konie, zgodnie z wszelkimi wymogami regulacyjnymi wydanymi przez krajowy organ regulacyjny.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Oglądasz kopyto i sposób chodzenia konia",
+   "Przycinasz i wyrównujesz kopyto",
+   "Dopasowujesz podkowę do kształtu kopyta",
+   "Przybijasz podkowę i sprawdzasz, jak koń stąpa"
+  ]
+ },
+ {
+  "id": 1103,
+  "name": "Operator młota hydraulicznego",
+  "desc": "Operatorzy młota hydraulicznego konfigurują i obsługują młoty hydrauliczne, służące do tworzenia metalowych detali żelaznych i nieżelaznych, w tym rur, przewodów i profili drążonych oraz innych produktów wstępnej obróbki stali o wymaganym kształcie przez użycie sił ściskających wytwarzanych przez tłok i ciśnienie cieczy.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Ustawiasz ciśnienie i skok tłoka",
+   "Wkładasz detal między matryce",
+   "Obserwujesz kształtowanie rur i profili",
+   "Sprawdzasz wymiary po każdej partii"
+  ]
+ },
+ {
+  "id": 1104,
+  "name": "Operator młota mechanicznego",
+  "desc": "Operatorzy młota mechanicznego wykorzystują maszyny i sprzęt do kucia, młoty po specjalnej obróbce w celu formowania metalowych detali żelaznych i nieżelaznych o wymaganym kształcie. Obsługują młoty kuźnicze, które są upuszczane na obrabiany detal w celu zmiany jego kształtu zgodnie z formą matrycy, która może być zamknięta lub otwarta, całkowicie zakrywający obrabiany detal lub nie.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Zakładasz matryce otwarte lub zamknięte",
+   "Układasz detal na matrycy",
+   "Uruchamiasz młot i kontrolujesz uderzenia",
+   "Sprawdzasz, czy wyrób ma wymagany kształt"
+  ]
+ },
+ {
+  "id": 1105,
+  "name": "Operator prasy mechanicznej",
+  "desc": "Operatorzy prasy mechanicznej konfigurują i obsługują prasy mechaniczne, służące do formowania metalowych detali żelaznych i nieżelaznych, w tym rur, przewodów i profili drążonych oraz innych produktów wstępnej obróbki stali o wymaganym kształcie przez użycie ustawionych sił ściskających wytwarzanych przez korby, krzywki i kolanka, działające na zasadzie powtarzalnych udarów.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Ustawiasz skok i siłę prasy",
+   "Podajesz detale pod stempel",
+   "Kontrolujesz powtarzalność kolejnych uderzeń",
+   "Smarujesz i czyścisz ruchome części"
+  ]
+ },
+ {
+  "id": 1106,
+  "name": "Mechanik precyzyjny",
+  "desc": "Mechanicy precyzyjni wytwarzają precyzyjne elementy metalowe do maszyn i montują je, tworząc jednostki funkcjonalne. Tworzą również elektroniczne elementy pomiarowe i sterujące. Mechanicy precyzyjni korzystają z frezarek, wiertarek, szlifierek i gładzarek.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Wykonujesz części na frezarce, wiertarce i szlifierce",
+   "Gładzisz powierzchnie do dokładnego wymiaru",
+   "Montujesz części w działające zespoły",
+   "Składasz elementy pomiarowe i sterujące"
+  ]
+ },
+ {
+  "id": 1107,
+  "name": "Modelarz odlewniczy",
+  "desc": "Modelarze odlewnicy tworzą metalowe, drewniane lub plastikowe modele gotowych wyrobów do wykonania odlewów. Te wzorce są następnie wykorzystywane do tworzenia odlewów, co ostatecznie prowadzi do wykonania odlewu wyrobu o takim samym kształcie co wzór.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Czytasz rysunek odlewanego wyrobu",
+   "Rzeźbisz model z drewna lub tworzywa",
+   "Dopasowujesz wymiary modelu do odlewu",
+   "Wygładzasz i sprawdzasz model przed formowaniem"
+  ]
+ },
+ {
+  "id": 1108,
+  "name": "Rusznikarz",
+  "desc": "Rusznikarze modyfikują i naprawiają metalową broń palną zgodnie ze specjalnymi specyfikacjami klientów. Wykorzystują maszyny i narzędzia ręczne, takie jak strugarki, szlifierki i frezarki, aby zmodyfikować i odrestaurować broń, a także mogą stosować grawerowanie, rzeźbienie i innego rodzaju dekoracyjne wykończenia gotowego wyrobu.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Rozbierasz broń i oceniasz uszkodzenia",
+   "Obrabiasz części szlifierką, frezarką i pilnikiem",
+   "Dopasowujesz zmiany do wymagań klienta",
+   "Grawerujesz i wykańczasz gotowy wyrób"
+  ]
+ },
+ {
+  "id": 1109,
+  "name": "Ślusarz narzędziowy",
+  "desc": "Ślusarze narzędziowi obsługują różne urządzenia i maszyny przeznaczone do tworzenia metalowych narzędzi i matryc, potrzebnych w różnych dziedzinach produkcji, oraz wytwarzają te narzędzia na wszystkich etapach procesu produkcji. Projektują narzędzia i matryce, a następnie wycinają je i nadają im odpowiedni rozmiar, a także wykańczają je przy użyciu ręcznych obrabiarek, elektronarzędzi, narzędzi ręcznych lub za pomocą programowania i obsługi obrabiarek CNC oraz urządzeń do produkcji matryc.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Projektujesz narzędzie lub matrycę do wyrobu",
+   "Wycinasz i obrabiasz metal do odpowiedniego rozmiaru",
+   "Wykańczasz powierzchnie narzędziami ręcznymi",
+   "Programujesz maszyny CNC do trudnych kształtów"
+  ]
+ },
+ {
+  "id": 1110,
+  "name": "Szlifierz-ostrzarz",
+  "desc": "Szlifierze-ostrzarze przeprowadzają procesy precyzyjnego szlifowania przedmiotów i narzędzi metalowych. Szlifują, ostrzą lub wygładzają powierzchnie metalowe przy użyciu odpowiednich narzędzi i przyrządów. Szlifierze-ostrzarze postępują zgodnie z instrukcjami oprzyrządowania oraz zapewniają zgodność obrabianego detalu z wymaganymi specyfikacjami.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Mocujesz narzędzie lub detal na szlifierce",
+   "Ostrzysz noże, frezy i wiertła",
+   "Wygładzasz powierzchnie do wymaganej gładkości",
+   "Mierzysz efekt zgodnie z instrukcją"
+  ]
+ },
+ {
+  "id": 1111,
+  "name": "Szlifierz-polerowacz",
+  "desc": "Szlifierze-polerowacze wykorzystują urządzenia i maszyny do obróbki metalu w celu polerowania i szorstkowania prawie wykończonych detali metalowych, aby poprawić ich gładkość i wygląd oraz aby usunąć rdzę i zmatowienie metalu po innych procesach wytwórczych. Mogą obsługiwać sprzęt wykorzystujący przyrządy diamentowe, tarcze polerskie wykonane z silikonu lub koła robocze ze skórzanym pasem do polerowania oraz dbają o te materiały, zapewniając ich skuteczność.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Mocujesz prawie gotowy detal",
+   "Usuwasz rdzę i zmatowienie z powierzchni",
+   "Polerujesz tarczą do wysokiego połysku",
+   "Wymieniasz zużyte tarcze polerskie"
+  ]
+ },
+ {
+  "id": 1112,
+  "name": "Mechanik maszyn rolniczych",
+  "desc": "Mechanicy maszyn rolniczych dokonują napraw, remontów i konserwacji sprzętu rolniczego, w tym ciągników, sprzętu polowego, sprzętu do obsiewu oraz sprzętu do zbioru. Przeprowadzają oceny sprzętu, prowadzą działania w zakresie konserwacji zapobiegawczej i usuwają usterki.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Oceniasz stan ciągnika lub kombajnu",
+   "Robisz przeglądy przed sezonem prac polowych",
+   "Szukasz usterek w hydraulice i napędzie",
+   "Wymieniasz zużyte części i smarujesz mechanizmy"
+  ]
+ },
+ {
+  "id": 1113,
+  "name": "Technik maszyn leśnych",
+  "desc": "Technicy maszyn leśnych dokonują konserwacji maszyn leśnych i transportują je. W ramach konserwacji maszyn leśnych wykorzystują specjalistyczne oprogramowanie oraz systemy i przyrządy do rejestrowania danych.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Konserwujesz maszyny używane w lesie",
+   "Odczytujesz dane o pracy z systemów komputerowych",
+   "Naprawiasz usterki w terenie",
+   "Przewozisz maszyny na miejsce wycinki"
+  ]
+ },
+ {
+  "id": 1114,
+  "name": "Technik maszyn rolniczych",
+  "desc": "Technicy maszyn rolniczych dokonują konserwacji, remontów i napraw urządzeń i maszyn rolniczych.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Przeglądasz maszyny przed sezonem żniw",
+   "Wymieniasz zużyte noże i łożyska",
+   "Szukasz przyczyny awarii w polu",
+   "Smarujesz i regulujesz ruchome części"
+  ]
+ },
+ {
+  "id": 1115,
+  "name": "Mechanik konserwator urządzeń dźwignicowych",
+  "desc": "Mechanicy konserwatorzy urządzeń dźwignicowych instalują części składowe dźwigów przemysłowych i portowych. Instalują przenośniki i urządzenia sterujące. Mechanicy konserwatorzy urządzeń dźwignicowych dokonują ostatecznego montażu na miejscu oraz konserwacji i naprawy dźwigów.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Składasz części dźwigu na miejscu",
+   "Instalujesz przenośniki i urządzenia sterujące",
+   "Konserwujesz liny, przekładnie i mechanizmy",
+   "Naprawiasz dźwig po awarii"
+  ]
+ },
+ {
+  "id": 1116,
+  "name": "Mechanik maszyn ciężkich",
+  "desc": "Mechanicy maszyn ciężkich dokonują przeglądów, konserwacji i napraw pojazdów ciężarowych wykorzystywanych w budownictwie, leśnictwie i robotach ziemnych, takie jak spychacze, koparki i kombajny. Dokonują oceny wyposażenia i zapewniają bezpieczeństwo i optymalną sprawność maszyn.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Przeglądasz koparki i spychacze",
+   "Oceniasz stan sprzętu i jego bezpieczeństwo",
+   "Wymieniasz zużyte części maszyn",
+   "Naprawiasz usterki na placu budowy"
+  ]
+ },
+ {
+  "id": 1117,
+  "name": "Mechanik maszyn i urządzeń odlewniczych",
+  "desc": "Mechanicy maszyn i urządzeń odlewniczych dokonują serwisowania maszyn wykorzystywanych do odlewania i formowania tworzyw sztucznych i innych materiałów. Dokonują kalibracji urządzeń, prowadzą czynności konserwacyjne, badają wyroby gotowe i usuwają usterki.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Kalibrujesz maszyny do formowania",
+   "Wykonujesz regularną konserwację urządzeń",
+   "Badasz gotowe wyroby pod kątem wad",
+   "Usuwasz usterki w trakcie produkcji"
+  ]
+ },
+ {
+  "id": 1118,
+  "name": "Mechanik okrętowy",
+  "desc": "Mechanicy okrętowi są odpowiedzialni za silniki i części mechaniczne statku oraz wymieniają wadliwe części i sprzęt. Komunikują się z innymi członkami załogi na poziomie operacyjnym. Mechanicy okrętowi prowadzą konserwację i naprawy silników, a także pozostałych maszyn, takich jak kotły, generatory i sprzęt elektryczny.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Pilnujesz pracy silników podczas rejsu",
+   "Wymieniasz wadliwe części i sprzęt",
+   "Konserwujesz kotły i generatory",
+   "Ustalasz z załogą, co jest potrzebne"
+  ]
+ },
+ {
+  "id": 1119,
+  "name": "Mechanik sprzętu górniczego",
+  "desc": "Mechanicy sprzętu górniczego dokonują instalacji, usuwania, konserwacji i napraw sprzętu górniczego.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Montujesz maszyny górnicze w nowych wyrobiskach",
+   "Demontujesz sprzęt po zakończeniu pracy",
+   "Konserwujesz maszyny według harmonogramu przeglądów",
+   "Naprawiasz uszkodzony sprzęt na miejscu"
+  ]
+ },
+ {
+  "id": 1120,
+  "name": "Mechanik urządzeń przemysłowych",
+  "desc": "Mechanicy urządzeń przemysłowych wykonują prace w zakresie nowych pracujących maszyn i urządzeń. W razie potrzeby tworzą konfiguracje do specjalnych zastosowań i wytwarzają osprzęt, wykonują prace konserwacyjne i naprawcze oraz przeprowadzają diagnostykę w celu wykrycia usterek w systemach lub częściach, które wymagają wymiany.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Uruchamiasz nowe maszyny w zakładzie",
+   "Konfigurujesz sprzęt do nietypowych zadań",
+   "Wykonujesz brakujący osprzęt do maszyn",
+   "Diagnozujesz usterki i wymieniasz części"
+  ]
+ },
+ {
+  "id": 1121,
+  "name": "Pomocnik starszego mechanika statku rybackiego",
+  "desc": "Pomocnicy starszego mechanika statku rybackiego pomagają głównemu inżynierowi okrętowemu w czynnościach sprawdzających oraz w konserwacji maszyny napędowej, maszyn oraz wyposażenia pomocniczego statku. Współpracują w zakresie bezpieczeństwa, przetrwania i opieki zdrowotnej na pokładzie, przestrzegając krajowych i międzynarodowych standardów stosowania.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Pomagasz sprawdzać silnik napędowy",
+   "Konserwujesz maszyny i urządzenia pomocnicze",
+   "Uczysz się procedur przetrwania i pierwszej pomocy",
+   "Wykonujesz polecenia głównego mechanika"
+  ]
+ },
+ {
+  "id": 1122,
+  "name": "Smarownik",
+  "desc": "Smarownicy zapewniają, że maszyny przemysłowe są właściwie nasmarowane w celu utrzymania ich funkcjonowania. Wykorzystują smarownice do olejenia maszyn. Smarownicy wykonują również podstawowe zadania konserwacyjne i naprawcze.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Olejujesz maszyny smarownicą",
+   "Obchodzisz urządzenia według planu smarowania",
+   "Wykonujesz podstawowe naprawy i konserwację",
+   "Zgłaszasz maszyny, które pracują nierówno"
+  ]
+ },
+ {
+  "id": 1123,
+  "name": "Technik maszyn włókienniczych",
+  "desc": "Technicy maszyn włókienniczych prowadzą konfigurację, konserwację, przeglądy i naprawy sterowanych komputerowo maszyn wykorzystywanych do produkcji materiałów tekstylnych, takich jak maszyny do tkania, barwienia i wykańczania.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Konfigurujesz maszyny do tkania i barwienia",
+   "Przeglądasz maszyny sterowane komputerowo",
+   "Naprawiasz urządzenia do wykańczania tkanin",
+   "Konserwujesz je według harmonogramu"
+  ]
+ },
+ {
+  "id": 1124,
+  "name": "Technik oprzyrządowania kuźniczego",
+  "desc": "Technicy oprzyrządowania kuźniczego prowadzą konserwację i naprawy maszyn takich jak prasy i sprzęt do obróbki materiałów. Przeprowadzają oceny sprzętu, prowadzą działania w zakresie konserwacji zapobiegawczej i usuwają usterki. Pomagają również w instalowaniu sprzętu i zapewniają jego odpowiednie funkcjonowanie.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Konserwujesz prasy i narzędzia obróbkowe",
+   "Oceniasz stan sprzętu podczas przeglądu",
+   "Usuwasz usterki w prasie",
+   "Pomagasz w instalacji nowego sprzętu"
+  ]
+ },
+ {
+  "id": 1125,
+  "name": "Technik systemów pneumatycznych",
+  "desc": "Technicy systemów pneumatycznych wykorzystują schematy i dokumentację techniczną do montażu i instalacji urządzeń zasilanych gazem lub powietrzem pod ciśnieniem. Dokonują konfiguracji systemów zgodnie ze specyfikacjami technicznymi i testują je w celu zapewnienia ich prawidłowego funkcjonowania. Mogą również wykonywać prace konserwacyjne i naprawcze zainstalowanego sprzętu pneumatycznego.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Czytasz schematy i dokumentację techniczną",
+   "Montujesz elementy zasilane sprężonym powietrzem",
+   "Ustawiasz system zgodnie ze specyfikacją",
+   "Testujesz szczelność i działanie instalacji"
+  ]
+ },
+ {
+  "id": 1126,
+  "name": "Technik urządzeń hydraulicznych i pneumatycznych",
+  "desc": "Technicy urządzeń hydraulicznych i pneumatycznych instalują i montują sprzęt wykorzystujący ciśnienie cieczy lub gazu do przekazywania lub regulowania mocy. Przeprowadzają również testy i konserwację tego sprzętu.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Instalujesz zespoły hydrauliczne i pneumatyczne",
+   "Przeprowadzasz próby ciśnieniowe",
+   "Regulujesz moc przekazywaną przez układ",
+   "Konserwujesz i serwisujesz sprzęt"
+  ]
+ },
+ {
+  "id": 1127,
+  "name": "Technik urządzeń wirujących",
+  "desc": "Technicy urządzeń wirujących są odpowiedzialni za konserwację zapobiegawczą i naprawczą urządzeń wirujących, takich jak turbiny, sprężarki, silniki i pompy. Zapewniają dostępność i integralność zainstalowanych systemów i urządzeń pod względem bezpieczeństwa i niezawodności.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Konserwujesz turbiny i sprężarki",
+   "Przeglądasz pompy i silniki",
+   "Naprawiasz urządzenia wirujące po awarii",
+   "Sprawdzasz, czy systemy są niezawodne"
+  ]
+ },
+ {
+  "id": 1128,
+  "name": "Kierownik serwisu samochodowego",
+  "desc": "Kierownicy serwisu samochodowego są odpowiedzialni za codzienne czynności realizowane w stacji serwisowej.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Rozdzielasz zlecenia między mechaników",
+   "Rozmawiasz z klientami o terminach i naprawach",
+   "Sprawdzasz, czy naprawy są ukończone",
+   "Zamawiasz części i pilnujesz harmonogramu"
+  ]
+ },
+ {
+  "id": 1129,
+  "name": "Konserwator zabytkowych pojazdów samochodowych",
+  "desc": "Konserwatorzy zabytkowych pojazdów samochodowych remontują stare i klasyczne samochody.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Rozbierasz stare auto na części",
+   "Remontujesz elementy zabytkowego pojazdu",
+   "Szukasz lub odtwarzasz rzadkie części",
+   "Składasz auto z powrotem po remoncie"
+  ]
+ },
+ {
+  "id": 1130,
+  "name": "Mechanik oponiarz",
+  "desc": "Mechanicy oponiarze dokonują przeglądów, konserwacji, napraw i montażu opon w pojazdach. Doradzają klientom różne typy opon i kół. Ponadto wyważają opony, sprawdzają, czy koła są prawidłowo ustawione i zapewniają zgodność z normami i przepisami bezpieczeństwa.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Zdejmujesz i zakładasz opony na felgi",
+   "Wyważasz koła po zamontowaniu opon",
+   "Sprawdzasz ustawienie kół w pojeździe",
+   "Doradzasz klientom wybór opon"
+  ]
+ },
+ {
+  "id": 1131,
+  "name": "Mechanik pracownik pomocy drogowej",
+  "desc": "Mechanicy pracownicy pomocy drogowej dokonują napraw, badań i konserwacji pojazdów na poboczu drogi. W celu świadczenia usług, takich jak wymiana opon i naprawy silników, lokalizują i dojeżdżają do pojazdów klienta.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Lokalizujesz i odnajdujesz uszkodzony pojazd",
+   "Wymieniasz koło na poboczu",
+   "Diagnozujesz awarię silnika na miejscu",
+   "Decydujesz, czy da się naprawić auto na miejscu"
+  ]
+ },
+ {
+  "id": 1132,
+  "name": "Mechanik renowator części samochodowych",
+  "desc": "Mechanicy renowatorzy części samochodowych remontują i odnawiają wewnętrzne części pojazdów, takie jak części silnika i pompy Diesla.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Rozbierasz silnik na pojedyncze części",
+   "Remontujesz wnętrze pompy Diesla",
+   "Sprawdzasz wymiary i zużycie elementów",
+   "Składasz odnowiony podzespół z powrotem"
+  ]
+ },
+ {
+  "id": 1133,
+  "name": "Mechanik silników spalinowych",
+  "desc": "Mechanicy silników spalinowych naprawiają wszystkie typy silników Diesla i prowadzą ich konserwację. Korzystają z narzędzi ręcznych, precyzyjnych przyrządów pomiarowych oraz obrabiarek do diagnozowania problemów, demontowania silników oraz do badania i wymiany wadliwych i nadmiernie zużytych części.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Diagnozujesz usterki silnika",
+   "Rozbierasz silnik narzędziami ręcznymi",
+   "Mierzysz części precyzyjnymi przyrządami",
+   "Wymieniasz wadliwe i zużyte elementy"
+  ]
+ },
+ {
+  "id": 1134,
+  "name": "Mechanik układów hamulcowych, sterowania i zawieszenia",
+  "desc": "Mechanicy układów hamulcowych, sterowania i zawieszenia dokonują przeglądów, konserwacji, diagnozowania i napraw układu hamulcowego, kierowniczego i zawieszenia, a także kół i opon.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Diagnozujesz hamulce i zawieszenie",
+   "Naprawiasz układ kierowniczy",
+   "Wymieniasz zużyte elementy zawieszenia",
+   "Kontrolujesz koła i opony"
+  ]
+ },
+ {
+  "id": 1135,
+  "name": "Pracownik produkcji nadwozi",
+  "desc": "Pracownicy produkcji nadwozi prowadzą prace związane z nadwoziami pojazdów i karoserią i posiadają zdolność formowania części nadwozi z paneli, wytwarzania i montażu ram i części pojazdów.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Formujesz panele w części nadwozia",
+   "Wytwarzasz ramy i elementy pojazdu",
+   "Montujesz części karoserii",
+   "Dopasowujesz elementy nadwozia do siebie"
+  ]
+ },
+ {
+  "id": 1136,
+  "name": "Serwisant pojazdów",
+  "desc": "Serwisanci pojazdów wykonują podstawowe zadania, takie jak wymiana oleju, filtrów czy też świec zapłonowych w stacji konserwacji pojazdów.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Spuszczasz zużyty olej i nalewasz nowy",
+   "Wymieniasz filtry powietrza i oleju",
+   "Wymieniasz świece zapłonowe",
+   "Sprawdzasz poziomy płynów w aucie"
+  ]
+ },
+ {
+  "id": 1137,
+  "name": "Koordynator prac obsługi hangarowej",
+  "desc": "Koordynatorzy prac obsługi hangarowej planują prace przygotowawcze i konserwacyjne w hangarach i warsztatach, tworzą harmonogramy tych prac i zarządzają nimi. Komunikują się z kadrą zarządzającą wyższego szczebla w celu przygotowania niezbędnych zasobów na potrzeby sprawnych i skutecznych operacji w portach lotniczych.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Planujesz prace przygotowawcze i konserwacyjne",
+   "Układasz harmonogram prac w hangarze",
+   "Zamawiasz zasoby potrzebne do prac",
+   "Raportujesz postępy kierownictwu"
+  ]
+ },
+ {
+  "id": 1138,
+  "name": "Monter systemów odladzania",
+  "desc": "Monterzy systemów odladzania przeprowadzają montaż, instalację, testy, konserwację i naprawy mechanicznych urządzeń do odladzania i przeciwoblodzeniowych, które zapobiegają gromadzeniu się lodu na samolotach i statkach kosmicznych lub ich pokrywaniu się lodem.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Montujesz i instalujesz urządzenia odladzające",
+   "Testujesz systemy przeciwoblodzeniowe",
+   "Konserwujesz mechaniczne części systemów",
+   "Naprawiasz uszkodzone urządzenia odladzania"
+  ]
+ },
+ {
+  "id": 1139,
+  "name": "Specjalista ds. silników lotniczych",
+  "desc": "Specjaliści ds. silników lotniczych doradzają w zakresie procedur konserwacji silników samolotów i śmigłowców. Przeprowadzają badania eksploatacyjne podzespołów i części samolotów w celu zdiagnozowania ich przydatności do użycia i możliwych działań w celu poprawy ich wydajności. Dokonują interpretacji specyfikacji technicznych przekazanych przez producentów do stosowania w obiektach portu lotniczego i udzielają wsparcia w zakresie ich zrozumienia.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Doradzasz w sprawie przeglądów silników",
+   "Badasz podzespoły i oceniasz ich przydatność",
+   "Interpretujesz specyfikacje techniczne producentów",
+   "Pomagasz mechanikom zrozumieć wytyczne"
+  ]
+ }
+]

@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1860,
+  "name": "Inspektor ds. danych",
+  "desc": "Inspektorzy ds. danych zarządzają całą działalnością przedsiębiorstw w zakresie zarządzania i eksploracji danych. Zapewniają oni wykorzystanie danych jako strategicznego składnika aktywów dla przedsiębiorstw na szczeblu wykonawczym oraz wdrażają i wspierają większą współpracę i dopasowaną infrastrukturę zarządzania informacjami z korzyścią dla całej organizacji.",
+  "path": "Informatyka i dane > Kierownicy IT",
+  "tasks": [
+   "Zarządzasz działaniami firmy na danych",
+   "Ustalasz, jak dane służą strategii firmy",
+   "Wdrażasz wspólne zasady zarządzania informacją",
+   "Uzgadniasz z działami, kto korzysta z których danych"
+  ]
+ },
+ {
+  "id": 1861,
+  "name": "Kierownik ds. zarządzania wiedzą i informacją w zakresie technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy ds. zarządzania wiedzą i informacją w zakresie technologii informacyjno-telekomunikacyjnych przyczyniają się do określenia organizacyjnej strategii informacyjnej i stosują politykę dotyczącą tworzenia, edytowania, przechowywania i dystrybucji wiedzy. Zarządzają utrzymaniem i rozwojem informacji ustrukturyzowanych i nieustrukturyzowanych. Tworzą struktury cyfrowe w celu umożliwienia wykorzystania i optymalizacji informacji i wiedzy, zarządzania analizą danych i umożliwienia rozwiązania business intelligence.",
+  "path": "Informatyka i dane > Kierownicy IT",
+  "tasks": [
+   "Określasz strategię zarządzania informacją w firmie",
+   "Wdrażasz zasady tworzenia i przechowywania wiedzy",
+   "Porządkujesz bazy danych, dokumenty i notatki",
+   "Budujesz struktury cyfrowe do analizy danych"
+  ]
+ },
+ {
+  "id": 1862,
+  "name": "Kierownik ds. eksploatacji technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy ds. eksploatacji technologii informacyjno-telekomunikacyjnych koordynują usługi ICT i infrastrukturę, dbając o to, by organizacja posiadała wymagane zasoby infrastrukturalne. Ponadto planują i monitorują etapy procesu biznesowego lub procesu komputerowego, negocjują umowy i podejmują działania łagodzące w przypadku niespełnienia warunków porozumienia. Nadzorują bieżące zadania związane z elementami infrastruktury, systemami technologii informacyjno-telekomunikacyjnych i oprogramowaniem.",
+  "path": "Informatyka i dane > Kierownicy IT",
+  "tasks": [
+   "Koordynujesz usługi informatyczne i infrastrukturę",
+   "Planujesz i monitorujesz procesy komputerowe",
+   "Negocjujesz umowy z dostawcami usług",
+   "Nadzorujesz bieżące zadania zespołu przy systemach"
+  ]
+ },
+ {
+  "id": 1863,
+  "name": "Kierownik ds. oprogramowania",
+  "desc": "Kierownicy ds. oprogramowania nadzorują nabywanie i rozwój oprogramowania w celu zapewnienia wsparcia dla wszystkich jednostek organizacyjnych. Monitorują również wyniki i jakość różnych rozwiązań w zakresie oprogramowania i projektów wdrażanych w ramach organizacji.",
+  "path": "Informatyka i dane > Kierownicy IT",
+  "tasks": [
+   "Nadzorujesz zakup i rozwój oprogramowania",
+   "Monitorujesz wyniki projektów informatycznych",
+   "Oceniasz jakość wdrożonych rozwiązań",
+   "Zbierasz potrzeby wszystkich działów firmy"
+  ]
+ },
+ {
+  "id": 1864,
+  "name": "Dyrektor ds. informatyzacji",
+  "desc": "Dyrektorzy ds. informacji określają i wdrażają strategię i zarządzanie technologii informacyjno-telekomunikacyjnych. Określają niezbędne zasoby na potrzeby wdrażania strategii technologii informacyjno-telekomunikacyjnych, przewidują zmiany na rynku technologii informacyjno-telekomunikacyjnych oraz potrzeby przedsiębiorstw. Przyczyniają się do rozwoju strategicznego planu organizacji i zapewniają, że infrastruktura technologii informacyjno-telekomunikacyjnych wspiera ogólne działania i priorytety organizacji.",
+  "path": "Informatyka i dane > Kierownicy IT",
+  "tasks": [
+   "Ustalasz strategię technologii informacyjnych firmy",
+   "Określasz zasoby potrzebne do jej wdrożenia",
+   "Przewidujesz zmiany na rynku technologii",
+   "Pilnujesz, żeby infrastruktura wspierała priorytety firmy"
+  ]
+ },
+ {
+  "id": 1865,
+  "name": "Dyrektor ds. technologii",
+  "desc": "Dyrektorzy ds. technologii przyczyniają się do realizacji wizji technicznej przedsiębiorstwa i prowadzą wszystkie aspekty rozwoju technologii, zgodnie ze swoim kierunkiem strategicznym i celami w zakresie wzrostu. Odpowiadają oni na potrzeby przedsiębiorstw w zakresie technologii.",
+  "path": "Informatyka i dane > Kierownicy IT",
+  "tasks": [
+   "Współtworzysz wizję techniczną firmy",
+   "Prowadzisz rozwój wszystkich technologii firmy",
+   "Dopasowujesz kierunek technologii do celów wzrostu",
+   "Odpowiadasz na potrzeby technologiczne przedsiębiorstwa"
+  ]
+ },
+ {
+  "id": 1866,
+  "name": "Kierownik ds. dokumentacji technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy ds. dokumentacji technologii informacyjno-telekomunikacyjnych są odpowiedzialni za zarządzanie procesem opracowywania dokumentacji zgodnie z wymogami prawnymi, normami, strategiami organizacyjnymi i celami. Planują, kontrolują i kierują zasobami, ludźmi, finansami i infrastrukturą departamentu dokumentacji (w tym ustalanie budżetów i harmonogramów, analiza ryzyka i zarządzanie jakością). Opracowują również normy dokumentacji, metody konstruowania i koncepcje mediów w celu skutecznego informowania o koncepcjach produktu i jego stosowania.",
+  "path": "Informatyka i dane > Kierownicy IT",
+  "tasks": [
+   "Planujesz zasoby, ludzi i budżet działu dokumentacji",
+   "Pilnujesz zgodności z normami i przepisami",
+   "Ustalasz standardy pisania instrukcji",
+   "Sprawdzasz jakość i terminy dokumentów"
+  ]
+ },
+ {
+  "id": 1867,
+  "name": "Kierownik ds. relacji z dostawcami technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy ds. relacji z dostawcami technologii informacyjno-telekomunikacyjnych tworzą i utrzymują pozytywne relacje biznesowe między zainteresowanymi stronami (zewnętrznymi lub wewnętrznymi) poprzez wdrażanie działań, które są zgodne z procesami organizacyjnymi. Zarządzają również procesem outsourcingu w odniesieniu do działu technologii informacyjno-telekomunikacyjnych organizacji i komunikacji w ramach łańcucha dostaw.",
+  "path": "Informatyka i dane > Kierownicy IT",
+  "tasks": [
+   "Utrzymujesz relacje z dostawcami usług informatycznych",
+   "Zarządzasz zleceniami dla zewnętrznych firm",
+   "Pilnujesz komunikacji w całym łańcuchu dostaw",
+   "Wdrażasz działania zgodne z procesami organizacji"
+  ]
+ },
+ {
+  "id": 1868,
+  "name": "Kierownik działu telekomunikacji",
+  "desc": "Kierownicy działu telekomunikacji koordynują działania personelu telekomunikacyjnego w zakresie instalowania, rozwiązywania problemów, napraw i konserwacji urządzeń telekomunikacyjnych i infrastruktury telekomunikacyjnej. Nadzorują oni badania, ocenę i wdrażanie nowych technologii oraz zapewniają bezpieczne środowisko pracy dla pracowników. Nadzorują oni spis dostaw oraz działania z zakresu pomocy dla użytkowników i klientów.",
+  "path": "Informatyka i dane > Kierownicy IT",
+  "tasks": [
+   "Koordynujesz instalacje, naprawy i konserwację urządzeń",
+   "Nadzorujesz badanie i wdrażanie nowych technologii",
+   "Zapewniasz pracownikom bezpieczne środowisko pracy",
+   "Nadzorujesz spis zapasów i pomoc dla klientów"
+  ]
+ },
+ {
+  "id": 1869,
+  "name": "Kierownik produktów w zakresie technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy produktów w zakresie technologii informacyjno-telekomunikacyjnych analizują i definiują bieżący status celu w odniesieniu do produktów, usług lub rozwiązań technologii informacyjno-telekomunikacyjnych. Szacują oni opłacalność, punkty ryzyka, szanse, mocne i słabe strony produktów lub usług. Kierownicy produktów w zakresie technologii informacyjno-telekomunikacyjnych tworzą ustrukturyzowane plany i ustanawiają przedziały czasowe i kamienie milowe, zapewniając optymalizację działań i zasobów.",
+  "path": "Informatyka i dane > Kierownicy IT",
+  "tasks": [
+   "Analizujesz stan produktu lub usługi",
+   "Oceniasz opłacalność, ryzyka i szanse",
+   "Układasz plan z terminami i kamieniami milowymi",
+   "Ustalasz, czym zajmie się zespół najpierw"
+  ]
+ },
+ {
+  "id": 1870,
+  "name": "Kierownik projektów w zakresie technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy projektów w zakresie technologii informacyjno-telekomunikacyjnych wyznaczają, kontrolują i kierują zasobami, ludźmi, finansami i infrastrukturą dla realizacji celów projektów technologii informacyjno-telekomunikacyjnych. Ustanawiają oni budżety i harmonogramy, przeprowadzają analizę ryzyka i zarządzanie jakością oraz uzupełniają sprawozdania z zamknięcia projektów.",
+  "path": "Informatyka i dane > Kierownicy IT",
+  "tasks": [
+   "Ustalasz budżet i harmonogram projektu",
+   "Przydzielasz ludzi i zasoby do zadań",
+   "Analizujesz ryzyka i pilnujesz jakości",
+   "Piszesz sprawozdanie z zamknięcia projektu"
+  ]
+ },
+ {
+  "id": 1871,
+  "name": "Administrator stron internetowych",
+  "desc": "Administratorzy stron internetowych rozmieszczają, konserwują, monitorują i zapewniają wsparcie dla serwera internetowego w celu spełnienia wymogów dotyczących usług. Zapewniają oni optymalną integralność systemu, bezpieczeństwo, tworzenie kopii zapasowych i wydajność. Koordynują treść, jakość i styl stron internetowych, realizują strategię stron internetowych oraz aktualizują i dodają nowe elementy do stron internetowych.",
+  "path": "Informatyka i dane > Technicy IT i wsparcie użytkowników",
+  "tasks": [
+   "Wdrażasz i utrzymujesz serwer internetowy",
+   "Monitorujesz działanie i bezpieczeństwo strony",
+   "Robisz kopie zapasowe całej strony",
+   "Aktualizujesz treść i dodajesz nowe elementy"
+  ]
+ },
+ {
+  "id": 1872,
+  "name": "Kierownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych monitorują świadczenie usług wsparcia technicznego dla klientów w ustalonych terminach. Planują i organizują działania wspierające użytkowników oraz rozwiązują problemy w zakresie technologii informacyjno-telekomunikacyjnych. Kierownicy działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych nadzorują zespół obsługi technicznej, dbając o to, by odbiorcy otrzymywali odpowiednie informacje zwrotne i wsparcie. Uczestniczą również w opracowywaniu wytycznych dotyczących obsługi klienta i wzmacnianiu zespołu.",
+  "path": "Informatyka i dane > Technicy IT i wsparcie użytkowników",
+  "tasks": [
+   "Planujesz dyżury zespołu pomocy",
+   "Pilnujesz terminów odpowiedzi na zgłoszenia",
+   "Rozwiązujesz najtrudniejsze problemy użytkowników",
+   "Ustalasz wytyczne obsługi klienta"
+  ]
+ },
+ {
+  "id": 1873,
+  "name": "Konserwator sieci informacyjno-telekomunikacyjnej",
+  "desc": "Konserwatorzy sieci informacyjno-telekomunikacyjnej instalują, konserwują i rozwiązują problemy dotyczące sieci, sprzętu służącego do komunikacji oraz urządzeń podłączonych do sieci, takich jak drukarki i sieci pamięci masowej. Analizują oni również i rozwiązują problemy związane z siecią zgłaszane przez użytkowników.",
+  "path": "Informatyka i dane > Technicy IT i wsparcie użytkowników",
+  "tasks": [
+   "Instalujesz sprzęt sieciowy",
+   "Konserwujesz urządzenia podłączone do sieci",
+   "Analizujesz problemy zgłoszone przez użytkowników",
+   "Naprawiasz drukarki i połączenia"
+  ]
+ },
+ {
+  "id": 1874,
+  "name": "Operator centrum danych",
+  "desc": "Operatorzy centrów danych prowadzą operacje komputerowe w centrum danych. Zarządzają codziennymi działaniami w centrum w celu rozwiązania problemów, utrzymania dostępności systemu oraz oceny parametrów systemu.",
+  "path": "Informatyka i dane > Technicy IT i wsparcie użytkowników",
+  "tasks": [
+   "Prowadzisz codzienne operacje komputerowe w centrum danych",
+   "Obserwujesz wskaźniki pracy systemu",
+   "Rozwiązujesz problemy zgłaszane przez alarmy",
+   "Pilnujesz, żeby systemy były dostępne całą dobę"
+  ]
+ },
+ {
+  "id": 1875,
+  "name": "Technik technologii informacyjno-telekomunikacyjnych",
+  "desc": "Technicy technologii informacyjno-telekomunikacyjnych instalują, konserwują, naprawiają i obsługują systemy informatyczne oraz wszelkie urządzenia informacyjno-telekomunikacyjne (laptopy, komputery stacjonarne, serwery, tablety, smartfony, urządzenia komunikacyjne, drukarki i wszelkie elementy sieci peryferyjnych) oraz wszelkiego rodzaju oprogramowanie (sterowniki, systemy operacyjne, aplikacje).",
+  "path": "Informatyka i dane > Technicy IT i wsparcie użytkowników",
+  "tasks": [
+   "Instalujesz laptopy, komputery, telefony i drukarki",
+   "Naprawiasz uszkodzone urządzenia",
+   "Instalujesz sterowniki, systemy operacyjne i aplikacje",
+   "Konserwujesz serwery i elementy sieci"
+  ]
+ },
+ {
+  "id": 1876,
+  "name": "Zarządca lotniczych danych teleinformatycznych",
+  "desc": "Zarządcy lotniczych danych teleinformatycznych dokonują planowania, wdrażania i utrzymywania sieci transmisji danych. Wspierają oni systemy przetwarzania danych, łącząc agencje użytkowników z komputerami centralnymi.",
+  "path": "Informatyka i dane > Technicy IT i wsparcie użytkowników",
+  "tasks": [
+   "Planujesz sieć do przesyłania danych",
+   "Wdrażasz i uruchamiasz połączenia",
+   "Utrzymujesz sieć w ciągłej gotowości do pracy",
+   "Łączysz instytucje użytkowników z komputerami centralnymi"
+  ]
+ },
+ {
+  "id": 1877,
+  "name": "Technik telekomunikacji",
+  "desc": "Technicy telekomunikacji rozmieszczają, konserwują i monitorują system telekomunikacyjny zapewniający interakcje między danymi a łącznością głosową, taką jak telefonia, telekonferencje, komputery i systemy poczty głosowej. Zajmują się również projektowaniem, produkcją, konstrukcją, konserwacją i naprawą systemów telekomunikacyjnych. Technicy telekomunikacji udzielają pomocy technicznej w zakresie badań i rozwoju urządzeń telekomunikacyjnych.",
+  "path": "Informatyka i dane",
+  "tasks": [
+   "Rozmieszczasz urządzenia systemu telekomunikacyjnego",
+   "Monitorujesz działanie rozmów i transmisji danych",
+   "Konserwujesz i naprawiasz urządzenia",
+   "Pomagasz w badaniach nad nowymi urządzeniami"
+  ]
+ },
+ {
+  "id": 1878,
+  "name": "Inżynier wiedzy",
+  "desc": "Inżynierowie wiedzy zajmują się wykorzystaniem ustrukturyzowanej wiedzy w systemach komputerowych (podstawy wiedzy) w celu rozwiązywania złożonych problemów, które zazwyczaj wymagają wysokiego poziomu wiedzy fachowej lub sztucznej inteligencji. Są również odpowiedzialni za uzyskanie lub wydobycie wiedzy ze źródeł informacji, zachowanie tej wiedzy i udostępnienie jej organizacji lub użytkownikom. W tym celu potrzebują znajomości technik przedstawiania i zachowania wiedzy (zasad, ram, sieci semantycznych, ontologii) i posługują się technikami i narzędziami wydobywania wiedzy.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Wydobywasz wiedzę z dokumentów i rozmów",
+   "Zapisujesz ją w zasadach i powiązaniach",
+   "Budujesz bazy wiedzy dla systemów komputerowych",
+   "Udostępniasz wiedzę organizacji lub użytkownikom"
+  ]
+ },
+ {
+  "id": 1879,
+  "name": "Inżynier języka naturalnego",
+  "desc": "Inżynierowie języka naturalnego pracują w dziedzinie informatyki, w szczególności w dziedzinie przetwarzania języka naturalnego. Ich celem jest wypełnienie luki w tłumaczeniu między dokładnym tłumaczem ludzkim a tłumaczeniami maszynowymi.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Pracujesz nad przetwarzaniem języka naturalnego",
+   "Porównujesz tłumaczenia maszynowe z ludzkimi",
+   "Szukasz błędów w tłumaczeniach komputera",
+   "Poprawiasz sposób, w jaki program rozumie zdania"
+  ]
+ },
+ {
+  "id": 1880,
+  "name": "Konsultant ds. cyberbezpieczeństwa",
+  "desc": "Konsultanci ds. bezpieczeństwa technologii informacyjno-telekomunikacyjnych doradzają i wdrażają rozwiązania w zakresie kontroli dostępu do danych i programów. Propagują bezpieczną wymianę informacji.",
+  "path": "Informatyka i dane > Cyberbezpieczeństwo",
+  "tasks": [
+   "Oceniasz, kto w firmie widzi jakie dane",
+   "Proponujesz zasady dostępu do programów",
+   "Pomagasz wdrożyć wybrane zabezpieczenia",
+   "Tłumaczysz pracownikom bezpieczne wysyłanie informacji"
+  ]
+ },
+ {
+  "id": 1881,
+  "name": "Technik bezpieczeństwa IT",
+  "desc": "W razie potrzeby technicy ds. bezpieczeństwa systemów informacyjno-telekomunikacyjnych proponują i wdrażają niezbędne aktualizacje i środki bezpieczeństwa. Udzielają porad i wsparcia, przekazują informację i prowadzą szkolenia oraz przekazują wiedzę na temat bezpieczeństwa.",
+  "path": "Informatyka i dane > Cyberbezpieczeństwo",
+  "tasks": [
+   "Instalujesz aktualizacje zabezpieczeń na komputerach",
+   "Konfigurujesz ustawienia ochrony według zaleceń",
+   "Odpowiadasz na pytania pracowników o podejrzane wiadomości",
+   "Prowadzisz krótkie szkolenia z bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 1882,
+  "name": "Konsultant ds. odchudzania i odżywania / konsultantka ds. odchudzania i odżywiania",
+  "desc": "Konsultanci ds. odchudzania i odżywania pomagają klientom w osiągnięciu i utrzymywaniu zdrowego trybu życia. Doradzają, jak schudnąć, znajdując równowagę między zdrową żywnością a ćwiczeniami. Konsultanci ds. odchudzania i odżywania wyznaczają wspólnie z klientami cele i śledzą postępy w ich realizacji podczas cotygodniowych spotkań.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Rozmawiasz o nawykach żywieniowych klienta",
+   "Ustalasz z klientem realne cele",
+   "Układasz prosty plan posiłków i ćwiczeń",
+   "Śledzisz postępy na cotygodniowych spotkaniach"
+  ]
+ },
+ {
+  "id": 1883,
+  "name": "Konsultant w solarium / konsultantka w solarium",
+  "desc": "Konsultanci w solarium pomagają klientom w zakresie ich potrzeb związanych z opalaniem. Oferują porady na temat zakupów i zabiegów w solarium i salonach opalania.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Pytasz klienta o typ skóry i opalanie",
+   "Dobierasz czas i rodzaj zabiegu",
+   "Tłumaczysz ryzyko zbyt długiego opalania",
+   "Sprzedajesz karnety i kosmetyki do opalania"
+  ]
+ },
+ {
+  "id": 1884,
+  "name": "Pedikiurzysta/pedikiurzystka",
+  "desc": "Pedikiurzyści/pedikiurzystki oferują zabiegi kosmetyczne i pielęgnacyjne stóp i paznokci u nóg. Obcinają i nadają odpowiedni kształt paznokciom u nóg, wykonują kąpiele stóp i zabiegi złuszczające oraz nakładają lakier do paznokci.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Przygotowujesz kąpiel stóp",
+   "Skracasz i kształtujesz paznokcie u nóg",
+   "Złuszczasz suchy naskórek",
+   "Nakładasz lakier lub krem"
+  ]
+ },
+ {
+  "id": 1885,
+  "name": "Pracownik salonu piękności / pracownica salonu piękności",
+  "desc": "Pracownicy salonu piękności umawiają klientów/klientki na wizyty, witają klientów/klientki w lokalu, udzielają szczegółowych informacji na temat usług i zabiegów wykonywanych w salonie oraz przyjmują od klientów/klientek skargi i reklamacje. Regularnie sprzątają salon i dbają o utrzymanie zapasów i odpowiednie rozmieszczenie produktów. Pracownicy salonu piękności przyjmują płatności od klientów i mogą sprzedawać różne produkty kosmetyczne.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Umawiasz klientów na wizyty",
+   "Informujesz o usługach i cenach",
+   "Przyjmujesz płatności i reklamacje",
+   "Sprawdzasz zapasy i układasz kosmetyki"
+  ]
+ },
+ {
+  "id": 1886,
+  "name": "Pracownik spa / pracownica spa",
+  "desc": "Pracownicy spa rozmawiają z gośćmi w recepcji, udzielając im wskazówek oraz wyjaśnień na temat dostępnych usług w centrum spa. Osoby te są również odpowiedzialne za sprzątanie pomieszczeń w spa po ich użyciu, utrzymywanie czystości w pomieszczeniach magazynowych oraz uzupełnianie zapasu czystych ręczników. Pracownicy spa monitorują bezpieczeństwo obiektu i są odpowiedzialne za sprzedaż dostępnych produktów i usług, takich jak pakiety zabiegów.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Witasz gości i opisujesz dostępne zabiegi",
+   "Sprzątasz pokoje zabiegowe po wizytach",
+   "Uzupełniasz zapas czystych ręczników",
+   "Sprzedajesz pakiety zabiegów"
+  ]
+ },
+ {
+  "id": 1887,
+  "name": "Specjalista ds. depilacji",
+  "desc": "Specjaliści ds. depilacji oferują klientom usługi kosmetyczne w zakresie usuwania zbędnego owłosienia z różnych części ciała. Mogą stosować różne techniki tymczasowego usuwania włosków, takie jak depilacja i epilacja lub trwałe metody usuwania owłosienia, takie jak depilacja elektrolizą lub intensywnym światłem pulsującym.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Pytasz o uczulenia i stan skóry",
+   "Usuwasz włoski woskiem lub pastą cukrową",
+   "Wykonujesz trwałą depilację światłem lub elektrolizą",
+   "Łagodzisz skórę po zabiegu"
+  ]
+ },
+ {
+  "id": 1888,
+  "name": "Stylista osobisty/stylistka osobista",
+  "desc": "Styliści osobiści/stylistyki osobiste pomagają klientom w dokonywaniu wyborów związanych z modą. Doradzają im w zakresie najnowszych trendów związanych z ubiorem, biżuterią i dodatkami oraz pomagają klientom w doborze odpowiedniego stroju w zależności od okazji, preferencji i typu sylwetki. Styliści osobiści/stylistyki osobiste uczą swoich klientów, jak podejmować decyzje dotyczące wyglądu i wizerunku.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Rozmawiasz z klientem o stylu i okazjach",
+   "Przeglądasz szafę klienta i wybierasz najlepsze rzeczy",
+   "Dobierasz dodatki i biżuterię",
+   "Robisz listę zakupów"
+  ]
+ },
+ {
+  "id": 1889,
+  "name": "Asystent fryzjera / asystentka fryzjera",
+  "desc": "Asystenci fryzjera / asystentki fryzjera sprzątają włosy klientów, nakładają odżywkę do włosów i produkty do koloryzacji w salonach kosmetycznych. Nakładają szampon, masują skórę głowy i płuczą włosy. Mogą również wykonywać zabiegi pielęgnacyjne skóry głowy oraz zabiegi rozjaśniania, farbowania i masażu. Asystenci myjący włosy używają specjalistycznych balsamów, szamponów, odżywek i innych produktów do pielęgnacji włosów zgodnie z potrzebami i preferencjami klientów/klientek.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Myjesz włosy i masujesz skórę głowy",
+   "Nakładasz odżywkę lub farbę według zlecenia",
+   "Płuczesz włosy po koloryzacji",
+   "Zamiatasz ścięte włosy i sprzątasz stanowisko"
+  ]
+ },
+ {
+  "id": 1890,
+  "name": "Fryzjer filmowo-teatralny",
+  "desc": "Fryzjerzy filmowo-teatralni pomagają artystom przed występem, w jego trakcie i po nim, dbając, aby ich fryzury były zgodne z wizją artystyczną dyrektora scenicznego i zespołu artystycznego. Dbają, sprawdzają i naprawiają peruki oraz pomagają przy szybkich zmianach.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Układasz fryzury zgodnie z wizją scenicznej ekipy",
+   "Zakładasz i mocujesz peruki",
+   "Naprawiasz zniszczone peruki",
+   "Zmieniasz fryzury w kilka minut w kulisach"
+  ]
+ },
+ {
+  "id": 1891,
+  "name": "Stylista fryzur / stylistka fryzur",
+  "desc": "Styliści/stylistyki fryzur myją, suszą, obcinają i układają włosy piosenkarzy/piosenkarek i prezenterów/prezenterek oraz różnego rodzaju aktorów i aktorek, w tym aktorów i aktorek występujących w teatrze, filmach, telewizji i teledyskach. We współpracy z dyrektorem artystycznym przygotowują stylizację dla każdej osoby. Styliści/stylistyki fryzur zakładają również peruki i akcesoria do włosów. Osoby te pozostają w gotowości na planie podczas pracy aktorów, aby w razie konieczności poprawić ich fryzury i peruki.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Układasz stylizację z dyrektorem artystycznym",
+   "Myjesz i suszysz włosy przed zdjęciami",
+   "Zakładasz peruki i dodatki do włosów",
+   "Poprawiasz fryzury między ujęciami"
+  ]
+ },
+ {
+  "id": 1892,
+  "name": "Astrolog",
+  "desc": "Astrologowie dokonują analizy konstelacji i ruchu ciał niebieskich oraz określonych pozycji gwiazd i planet. Przedstawiają swoją analizę wraz z własnymi interpretacjami co do temperamentu klienta, predyspozycji związanych ze zdrowiem, z życiem uczuciowym i małżeństwem, możliwościami biznesowymi i zawodowymi oraz innymi aspektami osobistymi.",
+  "path": "Uroda, dom i usługi osobiste > Inne usługi osobiste",
+  "tasks": [
+   "Układasz wykres planet w chwili urodzenia",
+   "Interpretujesz położenie planet i gwiazd",
+   "Opisujesz klientowi temperament i predyspozycje",
+   "Doradzasz w sprawach pracy i uczuć"
+  ]
+ },
+ {
+  "id": 1893,
+  "name": "Medium",
+  "desc": "Osoby będące medium twierdzą, że są pośrednikami w komunikacji między światem fizycznym a światem duchowym. Przedstawiają one informacje lub obrazy przekazane im rzekomo przez duchy, które mogą mieć istotne, a często bardzo osobiste znaczenie dla ich klientów.",
+  "path": "Uroda, dom i usługi osobiste > Inne usługi osobiste",
+  "tasks": [
+   "Prowadzisz spotkania z klientami",
+   "Przekazujesz obrazy rzekomo pochodzące od zmarłych",
+   "Wysłuchujesz osoby w żałobie",
+   "Ustalasz zasady spotkania i granice"
+  ]
+ },
+ {
+  "id": 1894,
+  "name": "Parapsycholog",
+  "desc": "Parapsychologowie twierdzą, że mają zdolności pozazmysłowe umożliwiające im zbieranie informacji i wgląd w życie osób, wydarzenia lub sytuacje. Udzielają porad klientom dotyczących istotnych kwestii dla klientów, takich jak zdrowie, pieniądze i miłość. Parapsychologowie często wykorzystują w swojej pracy tradycyjne praktyki, takie jak czytanie z kart tarota, dłoni i tablic astrologicznych.",
+  "path": "Uroda, dom i usługi osobiste > Inne usługi osobiste",
+  "tasks": [
+   "Rozkładasz karty tarota",
+   "Czytasz z linii dłoni",
+   "Doradzasz w sprawach pieniędzy i miłości",
+   "Wyjaśniasz klientowi znaczenie symboli"
+  ]
+ },
+ {
+  "id": 1895,
+  "name": "Wróżbita/wróżbiarka",
+  "desc": "Wróżbici/wróżbiarki twierdzą, że potrafią przewidzieć przyszłe zdarzenia w życiu danej osoby i przedstawić klientom ich interpretację. Często wykorzystują różne techniki, takie jak czytanie z kart, dłoni lub fusów herbacianych.",
+  "path": "Uroda, dom i usługi osobiste > Inne usługi osobiste",
+  "tasks": [
+   "Rozkładasz karty i interpretujesz układ",
+   "Czytasz wzory z fusów herbacianych",
+   "Opisujesz klientowi możliwe wydarzenia",
+   "Dopytujesz klienta o to, co go trapi"
+  ]
+ },
+ {
+  "id": 1896,
+  "name": "Kierownik zakładu usług pogrzebowych",
+  "desc": "Kierownicy zakładów usług pogrzebowych zajmują się organizacją pogrzebów. Pomagają rodzinie zmarłego, załatwiając formalności związane z miejscem i terminem pochówku i mszy pogrzebowej. Kierownicy zakładów usług pogrzebowych kontaktują się z przedstawicielami cmentarza w celu przygotowania miejsca pochówku, zaplanowania przewozu zwłok, a także doradzają w sprawie nagrobków i wymogów prawnych lub dokumentacji. Kierownicy zakładów usług pogrzebowych organizują codzienną pracę w krematorium. Nadzorują pracę personelu w krematorium i dbają, aby usługi świadczone były zgodnie z wymogami prawnymi.",
+  "path": "Uroda, dom i usługi osobiste > Inne usługi osobiste",
+  "tasks": [
+   "Rozmawiasz z rodziną o jej życzeniach",
+   "Załatwiasz formalności i dokumenty",
+   "Umawiasz miejsce na cmentarzu i termin mszy",
+   "Nadzorujesz pracę personelu krematorium"
+  ]
+ },
+ {
+  "id": 1897,
+  "name": "Pracownik cmentarza",
+  "desc": "Pracownicy cmentarza utrzymują teren cmentarza w dobrym stanie. Dbają, aby groby były gotowe do pochówku przed pogrzebem oraz o prawidłowe prowadzenie rejestru pochówków. Pracownicy cmentarza udzielają porad kierownikom zakładów usług pogrzebowych i ogółowi społeczeństwa.",
+  "path": "Uroda, dom i usługi osobiste > Inne usługi osobiste",
+  "tasks": [
+   "Kosisz trawę i porządkujesz alejki",
+   "Przygotowujesz grób przed pogrzebem",
+   "Prowadzisz rejestr pochówków",
+   "Pomagasz odwiedzającym znaleźć grób"
+  ]
+ },
+ {
+  "id": 1898,
+  "name": "Pracownik zakładu pogrzebowego",
+  "desc": "Pracownicy zakładu pogrzebowego ponoszą i niosą trumny przed i po pogrzebie oraz wnoszą je do kaplicy i na cmentarz. Układają kwiaty wokół trumny, kierują żałobników i pomagają w usunięciu sprzętu po pogrzebie.",
+  "path": "Uroda, dom i usługi osobiste > Inne usługi osobiste",
+  "tasks": [
+   "Niesiesz trumnę z innymi pracownikami",
+   "Układasz kwiaty i wieńce wokół trumny",
+   "Wskazujesz żałobnikom miejsca i drogę",
+   "Sprzątasz kaplicę po uroczystości"
+  ]
+ },
+ {
+  "id": 1899,
+  "name": "Tanatoprakser",
+  "desc": "Tanatoprakserzy organizują usunięcie zwłok zmarłych z miejsca zgonu i przygotowują ciała dla pochówku i kremacji. Myją i dezynfekują ciała, a następnie nakładają makijaż, aby stworzyć wrażenie bardziej naturalnego wyglądu i ukryć wszelkie widoczne uszkodzenia. Pozostają w ścisłym kontakcie z kierownikami zakładów usług pogrzebowych, aby spełnić życzenia rodziny zmarłego.",
+  "path": "Uroda, dom i usługi osobiste > Inne usługi osobiste",
+  "tasks": [
+   "Odbierasz ciało z miejsca zgonu",
+   "Myjesz i dezynfekujesz ciało",
+   "Nakładasz makijaż ukrywający widoczne uszkodzenia",
+   "Ustalasz z kierownikiem życzenia rodziny"
+  ]
+ },
+ {
+  "id": 1900,
+  "name": "Doradca matrymonialny / doradczyni matrymonialna",
+  "desc": "Doradcy matrymonialni/doradczynie matrymonialne pomagają klientom w znalezieniu partnera/partnerki oraz umówieniu się na randkę. Udzielają oni spersonalizowanych porad, aby pomóc klientom w realizacji ich celów dotyczących randek. Pracują również w środowisku wirtualnym, gdzie pomagają użytkownikom w zarządzaniu profilami osobistymi, wysyłaniu wiadomości i nawiązywaniu kontaktów z innymi użytkownikami.",
+  "path": "Uroda, dom i usługi osobiste > Inne usługi osobiste",
+  "tasks": [
+   "Pytasz klienta, kogo szuka",
+   "Pomagasz napisać opis profilu",
+   "Doradzasz, jak zacząć rozmowę",
+   "Planujesz miejsce i przebieg pierwszej randki"
+  ]
+ },
+ {
+  "id": 1901,
+  "name": "Host/hostessa",
+  "desc": "Hostowie/hostessy witają klientów wchodzących do klubu. Dbają o to, aby klienci zostali dobrze obsłużeni i byli zadowoleni.",
+  "path": "Uroda, dom i usługi osobiste > Inne usługi osobiste",
+  "tasks": [
+   "Witasz gości przy wejściu",
+   "Sprawdzasz listę rezerwacji",
+   "Wskazujesz stolik lub szatnię",
+   "Reagujesz na skargi gości"
+  ]
+ },
+ {
+  "id": 1902,
+  "name": "Osoba do towarzystwa",
+  "desc": "Osoby do towarzystwa towarzyszą klientom podczas wydarzeń towarzyskich, a także podczas prywatnych wyjść, na przykład na kolację lub do klubów nocnych. Mogą one być odpowiedzialne za organizację transportu i zakup biletów do miejsc, w które chce udać się klient. Może to obejmować świadczenie usług erotycznych lub seksualnych na rzecz klienta, w przypadku gdy jest to prawnie dozwolone w danym kraju.",
+  "path": "Uroda, dom i usługi osobiste > Inne usługi osobiste",
+  "tasks": [
+   "Towarzyszysz klientowi na kolacji lub imprezie",
+   "Prowadzisz rozmowę i dbasz o dobrą atmosferę",
+   "Organizujesz transport i kupujesz bilety",
+   "Ustalasz granice i zasady spotkania"
+  ]
+ },
+ {
+  "id": 1903,
+  "name": "Osoba do towarzystwa dla starszej osoby",
+  "desc": "Osoby do towarzystwa dla starszej osoby wykonują czynności związane z prowadzeniem domu i przygotowaniem posiłków dla osób, którym pomagają w ich własnych domach. Mogą to być osoby w podeszłym wieku, osoby o szczególnych potrzebach lub osoby chore. Zapewniają im oni również rozrywkę, taką jak gra w karty lub czytanie opowieści. Mogą oni robić zakupy, a także dbać o punktualny dowóz podopiecznych na wizyty lekarskie itp.",
+  "path": "Uroda, dom i usługi osobiste > Inne usługi osobiste",
+  "tasks": [
+   "Przygotowujesz posiłki i sprzątasz kuchnię",
+   "Robisz codzienne zakupy",
+   "Czytasz na głos i grasz w karty",
+   "Dbasz o punktualne dotarcie na wizyty lekarskie"
+  ]
+ },
+ {
+  "id": 1904,
+  "name": "Bileter/bileterka",
+  "desc": "Bileterzy/bileterki pomagają zwiedzającym, pokazując im drogę w dużym budynku, takim jak teatr, stadion lub sala koncertowa. Kontrolują oni bilety wstępu, udzielają wskazówek dotarcia na miejsce i udzielają odpowiedzi na pytania. Bileterki/bileterzy mogą podejmować zadania związane z monitorowaniem bezpieczeństwa i w razie potrzeby ostrzegać pracowników ochrony.",
+  "path": "Uroda, dom i usługi osobiste > Kurierzy i prace dorywcze",
+  "tasks": [
+   "Sprawdzasz bilety przy wejściu",
+   "Pokazujesz drogę do właściwego miejsca",
+   "Odpowiadasz na pytania widzów",
+   "Zawiadamiasz ochronę o problemach"
+  ]
+ },
+ {
+  "id": 1905,
+  "name": "Montażysta reklam",
+  "desc": "Montażyści reklam mocują plakaty i inne materiały reklamowe w budynkach, autobusach i transporcie podziemnym oraz w innych miejscach publicznych, takich jak centra handlowe, w celu przyciągnięcia uwagi przechodniów. Wykorzystują oni sprzęt do wspinania się na budynki i docierania do wyższych miejsc, zgodnie z przepisami i procedurami w zakresie zdrowia i bezpieczeństwa.",
+  "path": "Uroda, dom i usługi osobiste > Kurierzy i prace dorywcze",
+  "tasks": [
+   "Przyklejasz plakaty na tablicach i szybach",
+   "Mocujesz reklamy w autobusach i metrze",
+   "Używasz sprzętu do pracy na wysokości",
+   "Przestrzegasz przepisów bezpieczeństwa pracy"
+  ]
+ },
+ {
+  "id": 1906,
+  "name": "Operator atrakcji turystycznej",
+  "desc": "Operatorzy atrakcji turystycznych kontrolują przejazdy i monitorują atrakcję. Udzielają oni pierwszej pomocy i, w razie potrzeby, dostarczają materiałów i niezwłocznie przekazują zgłoszenie do osoby nadzorującej dany obszar. Prowadzą procedury otwierania i zamykania na wyznaczonych obszarach.",
+  "path": "Uroda, dom i usługi osobiste > Kurierzy i prace dorywcze",
+  "tasks": [
+   "Otwierasz i zamykasz atrakcję według procedury",
+   "Kontrolujesz przejazd i obserwujesz gości",
+   "Dostarczasz potrzebne materiały",
+   "Udzielasz pierwszej pomocy i zgłaszasz usterki"
+  ]
+ },
+ {
+  "id": 1907,
+  "name": "Pracownik obsługi w wesołych miasteczkach i parkach rozrywki",
+  "desc": "Pracownicy obsługi w wesołych miasteczkach i parkach rozrywki wykonują różne obowiązki w wesołych miasteczkach i parkach rozrywki. Mogą planować wykorzystanie obiektów rekreacyjnych, konserwować i dostarczać sprzęt uczestnikom wydarzeń sportowych lub zajęć rekreacyjnych bądź obsługiwać koncesje na usługi rekreacyjne i przejazdy.",
+  "path": "Uroda, dom i usługi osobiste > Kurierzy i prace dorywcze",
+  "tasks": [
+   "Obsługujesz stoisko z grami lub przejazdami",
+   "Wydajesz sprzęt uczestnikom zajęć",
+   "Konserwujesz i czyścisz urządzenia",
+   "Planujesz wykorzystanie obiektów"
+  ]
+ },
+ {
+  "id": 1908,
+  "name": "Pracownik pralni samoobsługowej",
+  "desc": "Pracownicy pralni samoobsługowych pomagają klientom samoobsługowych pralni w kwestiach związanych z maszynami na monety, suszarkami lub automatami do sprzedaży. Utrzymują ogólną czystość w pralni.",
+  "path": "Uroda, dom i usługi osobiste > Kurierzy i prace dorywcze",
+  "tasks": [
+   "Tłumaczysz klientom obsługę pralek",
+   "Rozwiązujesz problemy z automatem na monety",
+   "Uzupełniasz automat sprzedający proszek",
+   "Sprzątasz pralnię i wycierasz maszyny"
+  ]
+ },
+ {
+  "id": 1909,
+  "name": "Pracownik przechowalni bagażu",
+  "desc": "Pracownicy przechowalni bagażu pomagają klientom w obchodzeniu się z przedmiotami osobistymi i artykułami w szatniach, zwykle w salach sportowych lub teatralnych. Utrzymują oni również ogólną czystość wyznaczonych obszarów oraz pomagają w przypadku zagubienia rzeczy i stwierdzenia problemów.",
+  "path": "Uroda, dom i usługi osobiste > Kurierzy i prace dorywcze",
+  "tasks": [
+   "Przyjmujesz plecaki i torby klientów",
+   "Oznaczasz bagaż i zapisujesz miejsce",
+   "Oddajesz rzeczy po okazaniu numerka",
+   "Pomagasz szukać zgubionych rzeczy"
+  ]
+ },
+ {
+  "id": 1910,
+  "name": "Szatniarz/szatniarka",
+  "desc": "Szatniarze/szatniarki dopilnowują, aby kurtki/płaszcze i torby klientów były bezpiecznie przechowywane w szatni. Kontaktują się z klientami, odbierając artykuły, wymieniają żetony na odpowiednie przedmioty i zwracają je właścicielom. Mogą pomóc w rozpatrywaniu wniosków i skarg.",
+  "path": "Uroda, dom i usługi osobiste > Kurierzy i prace dorywcze",
+  "tasks": [
+   "Przyjmujesz kurtki i torby od gości",
+   "Wydajesz żetony lub numerki",
+   "Wieszasz rzeczy w ustalonej kolejności",
+   "Oddajesz właściwe rzeczy właściwej osobie"
+  ]
+ },
+ {
+  "id": 1911,
+  "name": "Odźwierny",
+  "desc": "Odźwierni przyjmują gości w placówce hotelarsko-gastronomicznej i świadczą dodatkowe usługi związane z pomocą w niesieniu bagażu, bezpieczeństwem gości, przy zapewnieniu zabezpieczenia.",
+  "path": "Uroda, dom i usługi osobiste > Kurierzy i prace dorywcze",
+  "tasks": [
+   "Witasz gości i otwierasz im drzwi",
+   "Pomagasz w niesieniu bagażu",
+   "Pilnujesz, kto wchodzi do obiektu",
+   "Wzywasz taksówkę lub ochronę"
+  ]
+ },
+ {
+  "id": 1912,
+  "name": "Portier hotelowy",
+  "desc": "Portierzy hotelowi witają gości w obiektach zakwaterowania, pomagają im w niesieniu bagażu i świadczą usługi w rodzaju okazjonalnego czyszczenia.",
+  "path": "Uroda, dom i usługi osobiste > Kurierzy i prace dorywcze",
+  "tasks": [
+   "Witasz gości przed wejściem do hotelu",
+   "Przewozisz bagaże wózkiem do pokoju",
+   "Wskazujesz drogę do windy i sal",
+   "Czyścisz drobne rzeczy na prośbę gości"
+  ]
+ },
+ {
+  "id": 1913,
+  "name": "Odczytywacz liczników",
+  "desc": "Odczytywacze liczników odwiedzają budynki i obiekty mieszkalne i biznesowe bądź przemysłowe w celu zanotowania odczytów liczników mierzących zużycie gazu, wody, energii elektrycznej i innych mediów. Przekazują oni wyniki klientowi i dostawcy.",
+  "path": "Uroda, dom i usługi osobiste > Kurierzy i prace dorywcze",
+  "tasks": [
+   "Odwiedzasz mieszkania i zakłady z listą adresów",
+   "Odczytujesz stany liczników",
+   "Zapisujesz wyniki bez pomyłek",
+   "Przekazujesz odczyty dostawcy"
+  ]
+ },
+ {
+  "id": 1914,
+  "name": "Wybieracz monet/żetonów z automatów",
+  "desc": "Wybieracze monet/żetonów z automatów usuwają środki pieniężne, przeprowadzają oględziny maszyny, zapewniają podstawowe usługi konserwacji i uzupełniania towary sprzedawane w maszynach i inne urządzenia uruchamiane przez wrzucenie monet.",
+  "path": "Uroda, dom i usługi osobiste > Kurierzy i prace dorywcze",
+  "tasks": [
+   "Opróżniasz automaty z monet i żetonów",
+   "Oglądasz maszynę i zgłaszasz usterki",
+   "Uzupełniasz towar w automatach",
+   "Wykonujesz podstawową konserwację"
+  ]
+ },
+ {
+  "id": 1915,
+  "name": "Konserwator",
+  "desc": "Konserwatorzy wykonują różne czynności związane z konserwacją i naprawą budynków, terenów i innych obiektów. Dokonują napraw i renowacji konstrukcji i elementów, ogrodzeń, bram i dachów, montują meble i wykonują prace związane z hydrauliką i elektrycznością. Sprawdzają oni systemy ogrzewania i wentylacji, jakość powietrza i wilgotność w budynku.",
+  "path": "Uroda, dom i usługi osobiste > Kurierzy i prace dorywcze",
+  "tasks": [
+   "Naprawiasz ogrodzenia, bramy i drobne elementy",
+   "Montujesz meble",
+   "Sprawdzasz ogrzewanie, wentylację i wilgoć",
+   "Wykonujesz proste prace hydrauliczne i elektryczne"
+  ]
+ },
+ {
+  "id": 1916,
+  "name": "Majordomus",
+  "desc": "Majordomusowie podają oficjalne posiłki, nadzorują przygotowanie posiłków i nakrywanie do stołu oraz kierują służbą domową. Mogą oni również oferować pomoc przy dokonywaniu rezerwacji podróży i restauracji, być lokajem oraz zajmować się odzieżą swojego pracodawcy.",
+  "path": "Uroda, dom i usługi osobiste > Gospodarze budynków i domów",
+  "tasks": [
+   "Nadzorujesz przygotowanie posiłków i nakrycie stołu",
+   "Podajesz oficjalne obiady",
+   "Kierujesz służbą domową",
+   "Rezerwujesz podróże i stoliki dla pracodawcy"
+  ]
+ },
+ {
+  "id": 1917,
+  "name": "Organizator usług domowych / organizatorka usług domowych",
+  "desc": "Organizatorzy usług domowych są odpowiedzialni za wszystkie czynności związane z prowadzeniem domu. Nadzorują i wykonują obowiązki zgodnie z potrzebami pracodawcy, takie jak gotowanie, sprzątanie i pranie, opieka nad dziećmi i praca w ogrodzie. Zamawiają produkty spożywcze i odpowiadają za wydatki. Organizatorzy usług domowych mogą nadzorować i instruować personel w dużych gospodarstwach domowych.",
+  "path": "Uroda, dom i usługi osobiste > Gospodarze budynków i domów",
+  "tasks": [
+   "Planujesz posiłki i zamawiasz produkty",
+   "Sprzątasz i dbasz o pranie",
+   "Zajmujesz się dziećmi i ogrodem",
+   "Pilnujesz wydatków domowych"
+  ]
+ },
+ {
+  "id": 1918,
+  "name": "Gospodarz domu",
+  "desc": "Gospodarze domów zajmują się konserwacją i monitorowaniem stanu i bezpieczeństwa budynków. Sprzątają, pomagają w drobnych naprawach i dbają, aby mieszkańcy mogli korzystać z udogodnień, takich jak ogrzewanie i ciepła woda. Gospodarze domów są odpowiedzialni za jakość budynków i pełnią rolę osoby do kontaktu dla mieszkańców.",
+  "path": "Uroda, dom i usługi osobiste > Gospodarze budynków i domów",
+  "tasks": [
+   "Sprzątasz klatki schodowe i teren",
+   "Robisz drobne naprawy",
+   "Sprawdzasz ogrzewanie i ciepłą wodę",
+   "Przyjmujesz zgłoszenia od mieszkańców"
+  ]
+ },
+ {
+  "id": 1919,
+  "name": "Kamerdyner",
+  "desc": "Kamerdynerzy zajmują się spersonalizowaną obsługą gości w wysokiej klasy hotelach. Kierują pracą personelu służby pięter, dbając o czystość w pomieszczeniach i znakomitą obsługę klienta. Kamerdynerzy są odpowiedzialni za dobre samopoczucie i zadowolenie gości.",
+  "path": "Uroda, dom i usługi osobiste > Gospodarze budynków i domów",
+  "tasks": [
+   "Przyjmujesz prośby gości i je realizujesz",
+   "Kierujesz pracą służby pięter",
+   "Kontrolujesz czystość pokoi",
+   "Dbasz o dobre samopoczucie gości"
+  ]
+ }
+]

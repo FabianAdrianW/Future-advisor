@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1920,
+  "name": "Kościelny",
+  "desc": "Kościelni wykonują zadania administracyjne w kościołach i parafiach, dbają o konserwację sprzętu i pomagają proboszczowi lub innym przełożonym. Wykonują oni również zadania pomocnicze przed mszą i po zakończeniu mszy obejmujące m.in. prace porządkowe, przygotowanie sprzętu i udzielanie pomocy księdzu.",
+  "path": "Uroda, dom i usługi osobiste > Gospodarze budynków i domów",
+  "tasks": [
+   "Przygotowujesz kościół i sprzęt przed mszą",
+   "Sprzątasz po nabożeństwie",
+   "Dbasz o konserwację sprzętu kościoła",
+   "Pomagasz proboszczowi w sprawach administracyjnych"
+  ]
+ },
+ {
+  "id": 1921,
+  "name": "Opiekun domu",
+  "desc": "Opiekunowie domu patrolują domy swoich pracodawców, aby utrzymać bezpieczeństwo mienia podczas ich nieobecności. Monitorują oni strefy wejścia i nie dopuszczają do przedostania się do domu osób nieupoważnionych, sprawdzają warunki panujące w pomieszczeniach, w tym instalacje hydrauliczne i ogrzewanie, a w razie konieczności kontaktują się z osobami wykonującymi naprawy. Opiekunowie domu mogą również wykonywać pewne czynności w zakresie sprzątania, przekazywać pocztę i płacić rachunki.",
+  "path": "Uroda, dom i usługi osobiste > Gospodarze budynków i domów",
+  "tasks": [
+   "Obchodzisz dom i sprawdzasz wejścia",
+   "Kontrolujesz hydraulikę i ogrzewanie",
+   "Wzywasz fachowców do napraw",
+   "Przekazujesz pocztę i płacisz rachunki"
+  ]
+ },
+ {
+  "id": 1922,
+  "name": "Osoba prowadząca pensjonat",
+  "desc": "Osoby prowadzące pensjonat wykonują codzienne czynności związane z prowadzeniem pensjonatu. Dbają o zaspokajanie potrzeb gości.",
+  "path": "Uroda, dom i usługi osobiste > Gospodarze budynków i domów",
+  "tasks": [
+   "Przyjmujesz gości i wydajesz klucze",
+   "Układasz plan sprzątania pokoi",
+   "Przygotowujesz śniadania dla gości",
+   "Odpowiadasz na rezerwacje i pytania"
+  ]
+ },
+ {
+  "id": 1923,
+  "name": "Przełożony serwisu sprzątającego / przełożona serwisu sprzątającego",
+  "desc": "Przełożeni serwisu sprzątającego są odpowiedzialni za nadzór i koordynację codziennych operacji sprzątania i służby pięter w placówkach świadczących usługi noclegowe.",
+  "path": "Uroda, dom i usługi osobiste > Gospodarze budynków i domów",
+  "tasks": [
+   "Rozdzielasz pokoje pokojowym na zmianę",
+   "Kontrolujesz posprzątane pokoje",
+   "Zamawiasz środki czystości i pościel",
+   "Reagujesz na zgłoszenia gości"
+  ]
+ },
+ {
+  "id": 1924,
+  "name": "Sprzątacz wesołych miasteczek",
+  "desc": "Sprzątacze wesołych miasteczek zajmują się utrzymaniem czystości w wesołym miasteczku i wykonują drobne naprawy. Sprzątacze wesołych miasteczek na ogół pracują w nocy, kiedy miasteczko jest zamknięte, ale pilne czynności związane z utrzymaniem i sprzątaniem wykonywane są w ciągu dnia.",
+  "path": "Uroda, dom i usługi osobiste > Gospodarze budynków i domów",
+  "tasks": [
+   "Zbierasz śmieci spomiędzy karuzel",
+   "Myjesz alejki i toalety",
+   "Naprawiasz drobne usterki, na przykład ławki",
+   "Zgłaszasz rzeczy, które mogą zagrażać gościom"
+  ]
+ },
+ {
+  "id": 1925,
+  "name": "Czyściciel basenów pływackich",
+  "desc": "Czyściciele basenów pływackich zajmują się codziennymi działaniami w miejscu przeznaczonym do pływania, takim jak basen, plaża i jezioro. Oczyszczają dane miejsce, zachowują dobre nastawienie do klientów i zapewniają ogólne bezpieczeństwo w danym miejscu.",
+  "path": "Uroda, dom i usługi osobiste > Mycie pojazdów, okien i pranie",
+  "tasks": [
+   "Wyławiasz liście i brud z wody",
+   "Szorujesz brzeg i schodki",
+   "Sprawdzasz, czy nic nie zagraża pływakom",
+   "Odpowiadasz uprzejmie na pytania odwiedzających"
+  ]
+ },
+ {
+  "id": 1926,
+  "name": "Czyściciel dywanów",
+  "desc": "Czyściciele dywanów czyszczą zasłony i dywany dla swoich klientów poprzez usuwanie plam, kurzu lub zapachów. Dokonują tego poprzez zastosowanie chemikaliów i roztworów repelentów oraz za pomocą szczotek lub sprzętu mechanicznego.",
+  "path": "Uroda, dom i usługi osobiste > Mycie pojazdów, okien i pranie",
+  "tasks": [
+   "Usuwasz plamy z dywanów i zasłon",
+   "Neutralizujesz nieprzyjemne zapachy",
+   "Szorujesz szczotkami i maszyną",
+   "Dobierasz metodę do rodzaju włókna"
+  ]
+ },
+ {
+  "id": 1927,
+  "name": "Opiekun pralni",
+  "desc": "Opiekunowie pralni zbierają bieliznę pościelową lub umundurowanie do czyszczenia. Utrzymują oni dostępność pościeli i prowadzą zapisy stanów magazynowych.",
+  "path": "Uroda, dom i usługi osobiste > Mycie pojazdów, okien i pranie",
+  "tasks": [
+   "Zbierasz brudną pościel i uniformy",
+   "Sortujesz pranie według rodzaju",
+   "Rozwozisz czyste rzeczy do działów",
+   "Zapisujesz stany magazynowe"
+  ]
+ },
+ {
+  "id": 1928,
+  "name": "Osoba do czyszczenia i udrażniania kanalizacji",
+  "desc": "Osoby do czyszczenia i udrażniania kanalizacji konserwują i czyszczą systemy kanalizacyjne i rury w obrębie gminy. Usuwają blokady, które uniemożliwiają przepływ ścieków w celu zapewnienia sprawnego funkcjonowania systemów.",
+  "path": "Uroda, dom i usługi osobiste > Mycie pojazdów, okien i pranie",
+  "tasks": [
+   "Usuwasz zatory w rurach",
+   "Czyścisz kanały specjalistycznym sprzętem",
+   "Oglądasz stan rur i zapisujesz uszkodzenia",
+   "Zgłaszasz awarie sieci kanalizacyjnej"
+  ]
+ },
+ {
+  "id": 1929,
+  "name": "Prasowacz/prasowaczka",
+  "desc": "Prasowacze/prasowaczki używają żelazek parowych, pras próżniowych lub pras ręcznych do nadania kształtu noszonej odzieży.",
+  "path": "Uroda, dom i usługi osobiste > Mycie pojazdów, okien i pranie",
+  "tasks": [
+   "Prasujesz koszule, spodnie i garnitury",
+   "Obsługujesz prasę parową i próżniową",
+   "Układasz ubrania na wieszakach",
+   "Wyłapujesz zagniecenia i plamy"
+  ]
+ },
+ {
+  "id": 1930,
+  "name": "Sprzątacz pojazdów/sprzątaczka pojazdów",
+  "desc": "Sprzątacze/sprzątaczki pojazdów czyszczą i polerują powierzchnie zewnętrznych i wewnętrznych części pojazdów.",
+  "path": "Uroda, dom i usługi osobiste > Mycie pojazdów, okien i pranie",
+  "tasks": [
+   "Odkurzasz wnętrze i fotele",
+   "Myjesz karoserię i szyby",
+   "Polerujesz lakier i plastiki",
+   "Wyjmujesz śmieci spod siedzeń"
+  ]
+ },
+ {
+  "id": 1931,
+  "name": "Zmywacz okien",
+  "desc": "Zmywacze okien stosują narzędzia do czyszczenia, takie jak gąbki i detergenty, do czyszczenia okien, luster i innych powierzchni szklanych w budynkach, zarówno wewnątrz, jak i na zewnątrz. Korzystają oni ze specjalnych drabin do czyszczenia wyższych budynków, przy użyciu pasów zabezpieczających w celu podparcia.",
+  "path": "Uroda, dom i usługi osobiste > Mycie pojazdów, okien i pranie",
+  "tasks": [
+   "Zmywasz szyby gąbką i detergentem",
+   "Dobierasz drabinę do wysokości",
+   "Zakładasz pasy zabezpieczające",
+   "Polerujesz lustra i szklane drzwi"
+  ]
+ },
+ {
+  "id": 1932,
+  "name": "Czyściciel mebli",
+  "desc": "Czyściciele mebli konserwują meble poprzez usuwanie kurzu, stosowanie środków do polerowania mebli, czyszczenie plam i konserwację koloru.",
+  "path": "Uroda, dom i usługi osobiste > Sprzątanie domów, hoteli i biur",
+  "tasks": [
+   "Odkurzasz i wycierasz meble z kurzu",
+   "Usuwasz plamy z tapicerki",
+   "Nakładasz środek do polerowania drewna",
+   "Odświeżasz kolor zmatowiałych powierzchni"
+  ]
+ },
+ {
+  "id": 1933,
+  "name": "Pokojowy/pokojowa",
+  "desc": "Pokojowi/pokojowe czyszczą, porządkują pokoje gościnne i inne obszary publiczne, w zależności od zaleceń, i uzupełniają w nich zapasy.",
+  "path": "Uroda, dom i usługi osobiste > Sprzątanie domów, hoteli i biur",
+  "tasks": [
+   "Ścielisz łóżka i zmieniasz pościel",
+   "Myjesz łazienkę i wymieniasz ręczniki",
+   "Uzupełniasz kosmetyki i wodę",
+   "Zgłaszasz zgubione rzeczy i usterki"
+  ]
+ },
+ {
+  "id": 1934,
+  "name": "Sprzątacz budynków/sprzątaczka budynków",
+  "desc": "Sprzątacze/sprzątaczki budynków utrzymują czystość i ogólną funkcjonalność różnych typów budynków, takich jak biura, szpitale i instytucje publiczne. Wykonują oni obowiązki w zakresie czyszczenia, takie jak zamiatanie, odkurzanie i czyszczenie podłóg mopem, opróżnianie koszy na śmieci i sprawdzanie systemów zabezpieczeń, śluz i okien. Sprzątacze/sprzątaczki budynków sprawdzają systemy klimatyzacji i powiadamiają odpowiednie osoby w przypadku nieprawidłowości lub problemów.",
+  "path": "Uroda, dom i usługi osobiste > Sprzątanie domów, hoteli i biur",
+  "tasks": [
+   "Zamiatasz i myjesz podłogi mopem",
+   "Opróżniasz kosze na śmieci",
+   "Sprawdzasz zamknięcie okien i drzwi",
+   "Zgłaszasz awarie klimatyzacji"
+  ]
+ },
+ {
+  "id": 1935,
+  "name": "Sprzątacz domowy/sprzątaczka domowa",
+  "desc": "Sprzątacze domowi/sprzątaczki domowe wykonują wszelkie niezbędne czynności porządkowe w celu oczyszczenia domów swoich klientów. Odkurzają i zamiatają podłogi, myją naczynia, piorą odzież, ścierają kurze, szorują i polerują powierzchnie i dezynfekują urządzenia i materiały.",
+  "path": "Uroda, dom i usługi osobiste > Sprzątanie domów, hoteli i biur",
+  "tasks": [
+   "Zamiatasz i odkurzasz podłogi",
+   "Zmywasz naczynia i pierzesz odzież",
+   "Ścierasz kurze i szorujesz powierzchnie",
+   "Dezynfekujesz klamki i blaty"
+  ]
+ },
+ {
+  "id": 1936,
+  "name": "Sprzątacz samolotów/sprzątaczka samolotów",
+  "desc": "Sprzątacze/sprzątaczki samolotów czyszczą kabiny statków powietrznych i samoloty po ich użyciu. Odkurzają lub zamiatają wnętrze kabiny, oczyszczają siedzenia z pozostałości i układają pasy bezpieczeństwa. Usuwają śmieci i pozostałości z kieszeni przy siedzeniach i umieszczone magazyny pokładowe, karty bezpieczeństwa i torebki na wypadek choroby lokomocyjnej. Czyszczą również kuchnię pokładową i toalety.",
+  "path": "Uroda, dom i usługi osobiste > Sprzątanie domów, hoteli i biur",
+  "tasks": [
+   "Zbierasz śmieci z kieszeni foteli",
+   "Odkurzasz kabinę i siedzenia",
+   "Układasz pasy bezpieczeństwa",
+   "Czyścisz kuchnię pokładową i toalety"
+  ]
+ },
+ {
+  "id": 1937,
+  "name": "Sprzątacz toalet/sprzątaczka toalet",
+  "desc": "Sprzątacze/sprzątaczki toalet czyszczą i konserwują wyposażenie toalet zgodnie ze standardami i polityką firmy. Wykorzystują oni sprzęt do czyszczenia luster, podłóg, toalet i umywalek. Wykonują czynności czyszczenia przed, w trakcie i po godzinach pracy firmy. Sprzątacze/sprzątaczki toalet w razie potrzeb uzupełniają zapasy i prowadzą rejestr codziennych działań.",
+  "path": "Uroda, dom i usługi osobiste > Sprzątanie domów, hoteli i biur",
+  "tasks": [
+   "Myjesz umywalki, lustra i podłogi",
+   "Czyścisz sedesy i pisuary",
+   "Uzupełniasz papier, mydło i ręczniki",
+   "Wpisujesz godziny sprzątania do rejestru"
+  ]
+ },
+ {
+  "id": 1938,
+  "name": "Sprzątacz wagonów kolejowych",
+  "desc": "Sprzątacze wagonów kolejowych utrzymują czystość i porządek we wnętrzu pociągów. Opróżniają kosze w różnych przedziałach i wykonują inne czynności związane z czyszczeniem, takie jak odkurzanie, czyszczenie mopem i głębokie czyszczenie.",
+  "path": "Uroda, dom i usługi osobiste > Sprzątanie domów, hoteli i biur",
+  "tasks": [
+   "Opróżniasz kosze w przedziałach",
+   "Odkurzasz fotele i podłogi w wagonie",
+   "Myjesz stoliki i okna",
+   "Robisz gruntowne sprzątanie na postoju"
+  ]
+ },
+ {
+  "id": 1939,
+  "name": "Kierownik biura podróży",
+  "desc": "Kierownicy biur podróży są odpowiedzialni za zarządzanie pracownikami i działalność biura podróży. Organizują, reklamują i sprzedają oferty turystyczne do konkretnych regionów.",
+  "path": "Uroda, dom i usługi osobiste > Inne: kierownicy ds. usług",
+  "tasks": [
+   "Układasz ofertę wycieczek",
+   "Kierujesz pracownikami biura",
+   "Reklamujesz wyjazdy w lokalnych mediach",
+   "Rozmawiasz z klientami o planach urlopu"
+  ]
+ },
+ {
+  "id": 1940,
+  "name": "Kierownik centrum informacji turystycznej",
+  "desc": "Kierownicy centrów informacji turystycznych zajmują się zarządzaniem pracownikami i działaniami centrum, które zapewniają podróżnym i odwiedzającym informacje i porady na temat lokalnych atrakcji, imprez, podróży i zakwaterowania.",
+  "path": "Uroda, dom i usługi osobiste > Inne: kierownicy ds. usług",
+  "tasks": [
+   "Układasz grafik pracowników punktu",
+   "Aktualizujesz informacje o lokalnych imprezach",
+   "Zamawiasz mapy i ulotki",
+   "Odpowiadasz na trudniejsze pytania turystów"
+  ]
+ },
+ {
+  "id": 1941,
+  "name": "Kierownik centrum obsługi klienta",
+  "desc": "Kierownicy centrów obsługi klienta koordynują i planują codzienne operacje obsługi klienta. Zapewniają oni, że dochodzenia klientów są skuteczne i zgodne z zasadami polityki. Zarządzają pracownikami, zasobami i procedurami służącymi poprawie najlepszych praktyk i osiągnięciu wysokiego poziomu zadowolenia klientów.",
+  "path": "Uroda, dom i usługi osobiste > Inne: kierownicy ds. usług",
+  "tasks": [
+   "Rozdzielasz zgłoszenia klientów w zespole",
+   "Sprawdzasz, jak rozwiązano trudne sprawy",
+   "Układasz grafik konsultantów",
+   "Zmieniasz procedury, gdy problemy się powtarzają"
+  ]
+ },
+ {
+  "id": 1942,
+  "name": "Kierownik pralni",
+  "desc": "Kierownicy pralni nadzorują pranie w pralniach instytucjonalnych. Sprawują nadzór nad pracownikami pralni, planują i egzekwują procedury bezpieczeństwa, zamawiają dostawy i nadzorują budżet pralni. Kierownicy pralni zapewniają standardy jakości i spełniają oczekiwania klientów.",
+  "path": "Uroda, dom i usługi osobiste > Inne: kierownicy ds. usług",
+  "tasks": [
+   "Układasz plan pracy pralni",
+   "Pilnujesz zasad bezpieczeństwa przy maszynach",
+   "Zamawiasz środki i materiały",
+   "Pilnujesz budżetu i terminów"
+  ]
+ },
+ {
+  "id": 1943,
+  "name": "Kierownik warsztatu samochodowego",
+  "desc": "Kierownicy warsztatów samochodowych nadzorują pracę mechaników pojazdów drogowych i personelu administracyjnego. Organizują codzienną pracę i zajmują się klientami.",
+  "path": "Uroda, dom i usługi osobiste > Inne: kierownicy ds. usług",
+  "tasks": [
+   "Przydzielasz auta mechanikom",
+   "Rozmawiasz z klientami o terminie naprawy",
+   "Nadzorujesz pracę biura warsztatu",
+   "Sprawdzasz naprawione auta przed wydaniem"
+  ]
+ },
+ {
+  "id": 1944,
+  "name": "Zarządca terenu kempingowego",
+  "desc": "Zarządcy terenów kempingowych planują i koordynują wszystkie urządzenia kempingowe oraz kierują nimi i zarządzają pracownikami.",
+  "path": "Uroda, dom i usługi osobiste > Inne: kierownicy ds. usług",
+  "tasks": [
+   "Planujesz rozmieszczenie miejsc dla namiotów",
+   "Zarządzasz obsługą kempingu",
+   "Pilnujesz łazienek i wody",
+   "Rozwiązujesz problemy gości"
+  ]
+ },
+ {
+  "id": 1945,
+  "name": "Dystrybutor ulotek",
+  "desc": "Dystrybutorzy ulotek przekazują ulotki i reklamy w celu poinformowania osób lub sprzedaży produktów i usług. Rozprowadzają je bezpośrednio do ludzi na ulicach lub za pośrednictwem skrzynek pocztowych.",
+  "path": "Uroda, dom i usługi osobiste",
+  "tasks": [
+   "Rozdajesz ulotki przechodniom",
+   "Wrzucasz reklamy do skrzynek",
+   "Mówisz krótko, czego dotyczy oferta",
+   "Pilnujesz, żeby rozdać cały nakład"
+  ]
+ },
+ {
+  "id": 1946,
+  "name": "Biochemik",
+  "desc": "Biochemicy studiują i przeprowadzają badania reakcji wywołanych przez substancje chemiczne w organizmach żywych. Obejmuje to prowadzenie badań nad rozwojem lub poprawą produktów na bazie substancji chemicznych (np. leków) mających na celu poprawę zdrowia żywych organizmów i lepsze zrozumienie ich reakcji.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Planujesz doświadczenia w laboratorium",
+   "Badasz reakcje chemiczne w komórkach",
+   "Analizujesz wyniki pomiarów",
+   "Pracujesz nad nowymi substancjami, na przykład lekami"
+  ]
+ },
+ {
+  "id": 1947,
+  "name": "Biofizyk",
+  "desc": "Biofizycy badają istniejące związki między żywymi organizmami i fizyką. Prowadzą badania na żywych organizmach w oparciu o metody fizyki mające na celu wyjaśnienie złożoności życia, przewidywanie wzorców i wyciąganie wniosków na temat aspektów życia. Pola badawcze biofizyków obejmują DNA, białka, cząsteczki, komórki i środowiska.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Mierzysz właściwości białek i cząsteczek",
+   "Budujesz modele zachowania komórek",
+   "Analizujesz dane z doświadczeń",
+   "Piszesz raporty z badań"
+  ]
+ },
+ {
+  "id": 1948,
+  "name": "Biomedyk",
+  "desc": "Biomedycy prowadzą prace w departamencie lub obszarze specjalistycznym, w charakterze partnera diagnostycznego zespołu medycznego (badającego i diagnozującego choroby pacjentów, takie jak cukrzyca, zaburzenia hematologiczne, koagulacja, biologia molekularna lub genomika) lub podejmujących badania kliniczne.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Analizujesz próbki krwi i tkanek",
+   "Wykonujesz badania na cukrzycę i krzepliwość",
+   "Sprawdzasz, czy wyniki są wiarygodne",
+   "Przekazujesz wyniki lekarzom"
+  ]
+ },
+ {
+  "id": 1949,
+  "name": "Biomedyk - badania zaawansowane",
+  "desc": "Biomedycy w dziedzinie badań zaawansowanych zobowiązują się do prowadzenia zaawansowanych badań translacyjnych w dziedzinie nauk biomedycznych oraz do pracy w charakterze edukatorów swoich zawodów lub innych specjalistów.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Projektujesz badania nad chorobami",
+   "Analizujesz dane z prób klinicznych",
+   "Uczysz studentów i młodszych kolegów",
+   "Piszesz publikacje naukowe"
+  ]
+ },
+ {
+  "id": 1950,
+  "name": "Botanik",
+  "desc": "Botanicy zajmują się konserwacją szeregu roślin z całego świata, często w ogrodzie botanicznym. Prowadzą badania naukowe i podróżują w celu badań roślin dziko rosnących. Botanicy są odpowiedzialni za utrzymanie i rozwój ogrodu botanicznego.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Opisujesz i badasz gatunki roślin",
+   "Pielęgnujesz rośliny w szklarniach",
+   "Wyjeżdżasz zbierać rośliny dziko rosnące",
+   "Planujesz rozwój ogrodu"
+  ]
+ },
+ {
+  "id": 1951,
+  "name": "Epidemiolog",
+  "desc": "Epidemiolodzy prowadzą badania nad pochodzeniem i przyczynami erupcji chorób u ludzi. Określają sposoby rozprzestrzeniania się chorób i proponują środki zapobiegawcze przeciwko organizmom polityki zdrowotnej.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Zbierasz dane o zachorowaniach",
+   "Szukasz źródła i dróg zakażenia",
+   "Porównujesz grupy chorych i zdrowych",
+   "Proponujesz sposoby zapobiegania"
+  ]
+ },
+ {
+  "id": 1952,
+  "name": "Fizjolog",
+  "desc": "Fizjolodzy przeprowadzają badania dotyczące funkcjonowania różnych żywych organizmów, ich części oraz ich interakcji. Rozumieją oni, w jaki sposób systemy życia reagują na czynniki takie jak choroby, aktywność fizyczną i stres, oraz wykorzystują te informacje do opracowywania metod i rozwiązań, aby nawet wykluczyć, że te czynniki występują w organizmach żyjących.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Mierzysz tętno, oddech i ciśnienie badanych",
+   "Planujesz doświadczenia z wysiłkiem",
+   "Porównujesz reakcje zdrowych i chorych",
+   "Opisujesz działanie narządów"
+  ]
+ },
+ {
+  "id": 1953,
+  "name": "Kurator kolekcji roślin",
+  "desc": "Kuratorzy kolekcji roślin rozwijają i utrzymują zbiory botaniczne oraz przedmioty i krajobrazy w ogrodzie botanicznym.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Rozbudowujesz kolekcję o nowe gatunki",
+   "Katalogujesz rośliny w bazie",
+   "Planujesz układ rabat",
+   "Wymieniasz okazy z innymi ogrodami"
+  ]
+ },
+ {
+  "id": 1954,
+  "name": "Specjalista ds. akwakultury",
+  "desc": "Specjaliści ds. akwakultury stosują wiedzę zdobytą dzięki badaniom dotyczącym zwierząt wodnych i roślin wodnych oraz ich wzajemnym interakcjom i środowisku, w celu poprawy produkcji w sektorze akwakultury, zapobiegania problemom związanym ze zdrowiem zwierząt i ochroną środowiska oraz w celu znalezienia w razie potrzeby rozwiązań.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Sprawdzasz stan zwierząt w basenach hodowlanych",
+   "Mierzysz parametry wody",
+   "Szukasz przyczyn chorób ryb",
+   "Proponujesz zmiany w hodowli"
+  ]
+ },
+ {
+  "id": 1955,
+  "name": "Specjalista w zakresie substancji roślinnych",
+  "desc": "Specjaliści w zakresie substancji roślinnych przedstawiają pogłębioną wiedzę na temat roślin i substancji roślinnych do produkcji napojów alkoholowych w oparciu o zioła. Specjaliści ci łączą wiedzę o procesach chemicznych o smaku, naukach biologicznych i procesach technologicznych. Mogą oni operować maszynami mielącymi zapewniając, że proces zgniatania zachowuje jak najwięcej smaku i aromatu.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Dobierasz zioła i rośliny do receptury",
+   "Mielisz surowce, by zachować aromat",
+   "Oceniasz zapach i smak surowców",
+   "Notujesz wyniki prób"
+  ]
+ },
+ {
+  "id": 1956,
+  "name": "Toksykolog",
+  "desc": "Toksykolodzy badają wpływ substancji chemicznych lub czynników biologicznych i fizycznych na organizmy żywe, a dokładniej na środowisko i zdrowie zwierząt i ludzi. Określają oni dawki narażenia na substancje powodujące toksyczne działanie w środowiskach, ludziach i organizmach żywych, a także prowadzą eksperymenty na zwierzętach i w hodowlach komórkowych.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Badasz, jak substancje szkodzą organizmom",
+   "Ustalasz dawki, od których zaczyna się szkodliwość",
+   "Prowadzisz badania w hodowlach komórek",
+   "Oceniasz wpływ na środowisko"
+  ]
+ },
+ {
+  "id": 1957,
+  "name": "Biotechnolog żywności",
+  "desc": "Biotechnolodzy żywności badają cykl życia żywności od konserwacji po psucie się i patogeny przenoszone przez żywność. Badają i starają się zrozumieć choroby przenoszone przez żywność w celu ich zapobiegania. Gwarantują, że produkty spożywcze są zgodne z przepisami rządowymi dotyczącymi zdrowia i bezpieczeństwa żywności.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Badasz, jak psują się produkty",
+   "Szukasz bakterii wywołujących zatrucia",
+   "Sprawdzasz zgodność z przepisami",
+   "Testujesz sposoby konserwacji"
+  ]
+ },
+ {
+  "id": 1958,
+  "name": "Farmakolog",
+  "desc": "Farmakolodzy badają sposób interakcji leków i leków z organizmami, żywymi systemami i ich częściami (tj. komórkami, tkankami lub narządami). Ich badania mają na celu identyfikację substancji, które mogą być spożywane przez ludzi i które wywierają odpowiednie biochemiczne funkcje leczenia chorób.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Badasz działanie leków na komórki i narządy",
+   "Szukasz substancji o działaniu leczniczym",
+   "Sprawdzasz skutki uboczne",
+   "Porównujesz dawki i efekty"
+  ]
+ },
+ {
+  "id": 1959,
+  "name": "Immunolog",
+  "desc": "Immunolodzy prowadzą badania nad systemem odpornościowym żywych organizmów (np. ciałem ludzkim) oraz sposobem, w jaki reaguje na zakażenia zewnętrzne lub inwazyjne szkodliwe czynniki (np. wirusy, bakterie, pasożyty). Badania ich koncentrują się na tych chorobach, które mają wpływ na immunologię żywych organizmów w celu zaklasyfikowania ich do leczenia.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Badasz reakcję organizmu na wirusy i bakterie",
+   "Analizujesz próbki krwi pacjentów",
+   "Badasz choroby związane z odpornością",
+   "Szukasz sposobów leczenia"
+  ]
+ },
+ {
+  "id": 1960,
+  "name": "Technolog żywienia ds. pasz",
+  "desc": "Technolodzy żywienia ds. pasz dokonują analizy wartości odżywczej paszy dla zwierząt w celu zapewnienia porad żywieniowych personelowi sektora rolnego, wytwórczego, zoologicznego i sektora usług publicznych. Podejmują oni badania dotyczące środków spożywczych, które są zrównoważone pod względem żywieniowym, oraz prowadzą badania na temat postępu technicznego i naukowego w tej dziedzinie.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Analizujesz skład i wartość odżywczą pasz",
+   "Układasz dawki pokarmowe dla zwierząt",
+   "Doradzasz rolnikom i hodowcom",
+   "Śledzisz nowe badania o żywieniu"
+  ]
+ },
+ {
+  "id": 1961,
+  "name": "Analityk ds. środowiska akwakultury",
+  "desc": "Analitycy ds. środowiska akwakultury oceniają, planują i wdrażają programy mające na celu uznawanie, monitorowanie i kontrolowanie czynników środowiskowych, które mogą mieć wpływ na zdrowie zwierząt i roślin wodnych.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Monitorujesz warunki w wodzie hodowli",
+   "Szukasz zagrożeń dla ryb i roślin",
+   "Planujesz programy kontroli",
+   "Piszesz zalecenia dla hodowców"
+  ]
+ },
+ {
+  "id": 1962,
+  "name": "Doradca ds. zasobów naturalnych",
+  "desc": "Doradcy ds. zasobów naturalnych świadczą usługi doradcze w zakresie ochrony zasobów naturalnych i zarządzania nimi, a mianowicie fauny, flory, gleby i wody dla przedsiębiorstw i rządów, które wykorzystują te zasoby. Starają się kierować przedsiębiorstwami w ramach odpowiedniej polityki na rzecz eksploatacji zasobów naturalnych w kontekście przemysłowym, podnoszenia świadomości na temat kwestii zdrowotnych oraz zapewnienia ochrony ekosystemów na potrzeby zrównoważonych interwencji w siedliskach przyrodniczych.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Doradzasz firmom w ochronie wody, gleby i lasów",
+   "Oceniasz wpływ działalności firm na przyrodę",
+   "Przygotowujesz zalecenia dla władz",
+   "Tłumaczysz skutki dla zdrowia"
+  ]
+ },
+ {
+  "id": 1963,
+  "name": "Gleboznawca",
+  "desc": "Gleboznawcy badają i studiują dyscyplinę naukową dotyczącą gleby. Doradzają, jak poprawić jakość gleby, wspierając przyrodę, produkcję żywności lub infrastrukturę ludzką przy wykorzystaniu technik pomiarów, nawadniania i środków ograniczania erozji. Zapewniają oni ochronę i odbudowę ziemi, która cierpi z powodu intensywnego rolnictwa lub interakcji ludzi.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Pobierasz próbki gleby z pola",
+   "Oceniasz jakość i skład gleby",
+   "Doradzasz, jak chronić glebę przed erozją",
+   "Planujesz nawadnianie"
+  ]
+ },
+ {
+  "id": 1964,
+  "name": "Inspektor ochrony środowiska",
+  "desc": "Inspektorzy ochrony środowiska są odpowiedzialni za szereg działań, które zarządzają i utrzymują środowisko naturalne oraz związane z nimi publiczne dostępy i rekreacja. Zachęcają zwiedzających do otwartych przestrzeni/terenów wiejskich, podnoszą świadomość na temat środowiska naturalnego oraz chronią i zachowują otwartą przestrzeń/tereny wiejskie na potrzeby przyszłego korzystania.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Obchodzisz tereny zielone",
+   "Rozmawiasz ze zwiedzającymi o zasadach",
+   "Zgłaszasz zniszczenia",
+   "Organizujesz akcje edukacyjne"
+  ]
+ },
+ {
+  "id": 1965,
+  "name": "Konserwator przyrody",
+  "desc": "Konserwatorzy przyrody zarządzają i poprawiają środowisko lokalne we wszystkich sektorach lokalnej społeczności. Promują świadomość i wiedzę na temat środowiska naturalnego. Prace te mogą być bardzo zróżnicowane i obejmować projekty związane z gatunkami, siedliskami i społecznościami. Uczą ludzi i podnoszą ogólny poziom wiedzy na temat kwestii środowiskowych.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Realizujesz projekty ochrony gatunków",
+   "Poprawiasz stan siedlisk w gminie",
+   "Organizujesz warsztaty dla mieszkańców",
+   "Współpracujesz z lokalnymi społecznościami"
+  ]
+ },
+ {
+  "id": 1966,
+  "name": "Koordynator programów ochrony środowiska",
+  "desc": "Koordynatorzy programów ochrony środowiska opracowują programy poprawy zrównoważonego rozwoju środowiskowego i efektywności środowiskowej w ramach organizacji lub instytucji. Kontrolują oni obiekty w celu monitorowania zgodności organizacji lub instytucji z prawem ochrony środowiska. Zapewniają również obywatelom edukację w zakresie ochrony środowiska.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Opracowujesz programy poprawy efektywności środowiskowej",
+   "Kontrolujesz obiekty pod kątem przepisów",
+   "Edukujesz mieszkańców",
+   "Raportujesz wyniki zarządowi"
+  ]
+ },
+ {
+  "id": 1967,
+  "name": "Menedżer projektów ochrony środowiska związanych z budową rurociągu",
+  "desc": "Menedżerowie projektów ochrony środowiska związanych z budową rurociągu zapewniają ochronę środowiska w ramach projektów w dziedzinie transportu rurociągowego. Wspólnie z grupą kierowników i specjalistów analizują miejsca i trasy rurociągów w celu zasięgnięcia opinii i rozpatrzenia kwestii środowiskowych.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Analizujesz trasę rurociągu pod kątem przyrody",
+   "Zbierasz opinie specjalistów",
+   "Oceniasz kwestie środowiskowe",
+   "Pilnujesz, by projekt spełniał przepisy"
+  ]
+ },
+ {
+  "id": 1968,
+  "name": "Sozolog",
+  "desc": "Sozolodzy identyfikują problemy i znajdują rozwiązania służące zminimalizowaniu zagrożeń dla środowiska dzięki prowadzeniu analiz na takich próbkach, jak powietrze, woda lub gleba. Doradzają lub opracowują politykę ochrony środowiska i mają na celu poprawę zaopatrzenia w wodę oraz zarządzanie składowiskami odpadów. Sozolodzy przeprowadzają oceny ryzyka środowiskowego i analizują wpływ środowiskowy na nowe rozwiązania, obiekty budowlane lub zmiany w środowisku, zapewniając przestrzeganie przepisów środowiskowych.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Pobierasz próbki powietrza, wody i gleby",
+   "Oceniasz ryzyko środowiskowe",
+   "Doradzasz w sprawie odpadów i wody",
+   "Sprawdzasz zgodność z przepisami"
+  ]
+ },
+ {
+  "id": 1969,
+  "name": "Specjalista ds. biologii konserwatorskiej",
+  "desc": "Specjaliści ds. biologii konserwatorskiej zarządzają jakością poszczególnych lasów, parków i innych zasobów naturalnych. Chronią oni siedlisko dzikiej przyrody, różnorodność biologiczną, wartość krajobrazową i inne unikalne właściwości rezerwatów i gruntów chronionych. Specjaliści ds. biologii konserwatorskiej prowadzą prace w terenie.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Chronisz siedliska dzikich zwierząt",
+   "Oceniasz różnorodność biologiczną lasu",
+   "Prowadzisz prace w terenie",
+   "Zarządzasz obszarem chronionym"
+  ]
+ },
+ {
+  "id": 1970,
+  "name": "Specjalista ds. jakości wody",
+  "desc": "Specjaliści ds. jakości wody chronią jakość wody dzięki analizie naukowej, zapewniając przestrzeganie norm jakości i bezpieczeństwa. Pobierają próbki wody i przeprowadzają badania laboratoryjne oraz opracowują procedury oczyszczania, które mogą służyć jako woda pitna, do celów nawadniania oraz innych celów zaopatrzenia w wodę.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Pobierasz próbki wody",
+   "Badasz je w laboratorium",
+   "Opracowujesz procedury oczyszczania",
+   "Pilnujesz norm wody pitnej"
+  ]
+ },
+ {
+  "id": 1971,
+  "name": "Specjalista ds. ochrony środowiska na lotnisku",
+  "desc": "Specjaliści ds. ochrony środowiska na lotnisku monitorują kwestie środowiskowe, takie jak emisje zanieczyszczeń, zanieczyszczenie oraz działalność w zakresie dzikiej przyrody w pomieszczeniach portów lotniczych. Informują oni o środowiskowych uwarunkowaniach dla zwierząt, takich jak pobliskie wysypiska śmieci czy tereny podmokłe. Mogą zaangażować się w badanie wpływu na środowisko, jakim są porty lotnicze w okolicznych społecznościach, w odniesieniu do różnego rodzaju zanieczyszczeń wytwarzanych przez porty lotnicze. Wdrażają zasady mające na celu zapewnienie zrównoważonego rozwoju portu lotniczego.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Monitorujesz emisje i hałas wokół lotniska",
+   "Obserwujesz dziką zwierzynę przy pasie",
+   "Badasz wpływ lotniska na okolicę",
+   "Wdrażasz zasady zrównoważonego rozwoju"
+  ]
+ },
+ {
+  "id": 1972,
+  "name": "Doradca ds. gospodarki leśnej",
+  "desc": "Doradcy ds. gospodarki leśnej świadczą usługi i doradztwo w sprawach gospodarczych i środowiskowych zgodnie z przepisami ustawowymi i wykonawczymi.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Doradzasz właścicielom lasów",
+   "Wyjaśniasz przepisy o gospodarce leśnej",
+   "Oceniasz stan drzewostanu",
+   "Planujesz zalesienia i cięcia"
+  ]
+ },
+ {
+  "id": 1973,
+  "name": "Doradca ds. żywego inwentarza",
+  "desc": "Doradcy ds. żywego inwentarza świadczą złożone specjalistyczne porady dla rolników i hodowców zwierząt, aby zapewnić optymalizację ich działalności i produkcji.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Doradzasz rolnikom w żywieniu zwierząt",
+   "Oceniasz wyniki produkcji mleka lub mięsa",
+   "Sprawdzasz warunki w oborze",
+   "Planujesz zmiany w hodowli"
+  ]
+ },
+ {
+  "id": 1974,
+  "name": "Doradca rolniczy",
+  "desc": "Doradcy rolniczy świadczą usługi doradcze dla przedsiębiorstw, spółdzielni rolniczych, plantatorów upraw rolnych oraz plantatorów upraw ogrodniczych przy uprawie roślin spożywczych. Badają oni naukę, technologię i działalność gospodarczą związane z roślinami uprawnymi. Badają oni uprawy i prowadzą eksperymenty w celu poprawy plonów i produkcji gospodarstw. Doradcy rolniczy badają również najskuteczniejsze sposoby pozyskiwania i uprawy roślin.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Doradzasz plantatorom w uprawie roślin",
+   "Prowadzisz doświadczenia na poletkach",
+   "Badasz plony",
+   "Oceniasz opłacalność uprawy"
+  ]
+ },
+ {
+  "id": 1975,
+  "name": "Inżynier rybactwa",
+  "desc": "Inżynierowie rybactwa zapewniają doradztwo w zakresie zasobów rybnych i ich siedlisk. Zarządzają modernizacją działalności połowowej na obszarach przybrzeżnych i dostarczają rozwiązań usprawniających. Inżynierowie rybactwa opracowują plany i polityki w zakresie zarządzania rybołówstwem. Mogą oni udzielać porad w sprawie chronionych gospodarstw rolnych i zasobów ryb dziko żyjących.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Doradzasz w zarządzaniu zasobami ryb",
+   "Planujesz modernizację połowów",
+   "Piszesz plany zarządzania rybołówstwem",
+   "Doradzasz w sprawie hodowli ryb"
+  ]
+ },
+ {
+  "id": 1976,
+  "name": "Specjalista ds. akwakultury w systemie recyrkulacji wody",
+  "desc": "Specjaliści ds. akwakultury w systemie recyrkulacji wody kontrolują produkcję organizmów wodnych w naziemnych systemach recyrkulacji, zarządzają procesami ponownego wykorzystania wody i nadzorują skomplikowany obieg, napowietrzanie i systemy filtra biologicznego.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Mierzysz tlen i odczyn wody w zbiornikach",
+   "Kontrolujesz pompy, napowietrzanie i filtry biologiczne",
+   "Karmisz ryby i obserwujesz ich zachowanie",
+   "Wyławiasz chore lub martwe osobniki"
+  ]
+ },
+ {
+  "id": 1977,
+  "name": "Specjalista nauk rolniczych",
+  "desc": "Specjaliści nauk rolniczych studiują i przeprowadzają badania gleby, zwierząt i roślin w celu poprawy procesów rolniczych, jakości produktów rolnych lub wpływu procesów rolnych na środowisko. Planują i realizują projekty, takie jak projekty rozwojowe w imieniu klientów lub instytucji.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Pobierasz próbki gleby z pól",
+   "Planujesz doświadczenia z nawozami i odmianami",
+   "Opisujesz wyniki w raportach",
+   "Doradzasz rolnikom, co zmienić w uprawie"
+  ]
+ },
+ {
+  "id": 1978,
+  "name": "Technik analityki laboratoryjnej",
+  "desc": "Technicy analityki laboratoryjnej prowadzą badania, analizy i testy laboratoryjne oraz wspierają osoby zawodowo związane z naukami przyrodniczymi. Pobierają próbki oraz wykonują testy, pomiary, badania i analizy w takich dziedzinach, jak biologia, biotechnologia, nauka o środowisku, medycyna sądowa i farmakologia. Technicy analityki laboratoryjnej wykonują i monitorują prace laboratoryjne, rejestrują sekwencje badań i analizują ich wyniki.",
+  "path": "Przyroda i środowisko > Technicy biologii, rolnictwa i leśnictwa",
+  "tasks": [
+   "Pobierasz i opisujesz próbki",
+   "Wykonujesz testy i pomiary na aparatach",
+   "Zapisujesz kolejne etapy badania",
+   "Sprawdzasz, czy wyniki wyglądają wiarygodnie"
+  ]
+ },
+ {
+  "id": 1979,
+  "name": "Technik bakteriolog",
+  "desc": "Technicy bakteriolodzy zapewniają pomoc techniczną w badaniu bakterii i wykonywaniu na nich testów przy użyciu sprzętu laboratoryjnego. Gromadzą i analizują dane do eksperymentów, sporządzają raporty i dbają o zasoby laboratorium.",
+  "path": "Przyroda i środowisko > Technicy biologii, rolnictwa i leśnictwa",
+  "tasks": [
+   "Wysiewasz bakterie na płytki z pożywką",
+   "Oglądasz preparaty pod mikroskopem",
+   "Liczysz kolonie i notujesz wyniki",
+   "Dbasz o sterylność narzędzi i stanowiska"
+  ]
+ }
+]

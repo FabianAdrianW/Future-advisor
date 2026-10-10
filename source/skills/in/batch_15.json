@@ -1,0 +1,722 @@
+[
+ {
+  "id": 900,
+  "name": "Inżynier papiernik",
+  "desc": "Inżynierowie papiernicy zapewniają optymalny proces produkcji papieru i produktów pochodnych. Wybierają oni surowce pierwotne i wtórne oraz sprawdzają ich jakość. Ponadto optymalizują wykorzystanie maszyn i urządzeń oraz dodatków chemicznych do produkcji papieru.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Wybierasz surowce pierwotne i z recyklingu",
+   "Sprawdzasz jakość masy i gotowego papieru",
+   "Optymalizujesz pracę maszyn papierniczych",
+   "Dobierasz dodatki do produkcji papieru"
+  ]
+ },
+ {
+  "id": 901,
+  "name": "Mistrz procesu warzenia",
+  "desc": "Mistrzowie procesu warzenia zapewniają jakość produktów warzenia i tworzy mieszaniny do opracowywania nowych produktów. W odniesieniu do obecnych produktów nadzorują cały proces warzenia według jednego z wielu procesów warzenia. W odniesieniu do nowych produktów opracowują nowe wzorce piwowarskie i techniki przetwarzania lub modyfikują istniejące metody tworzenia nowych produktów.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Nadzorujesz cały proces warzenia piwa",
+   "Pilnujesz jakości produktu na każdym etapie",
+   "Tworzysz mieszaniny do nowych produktów",
+   "Zmieniasz receptury i techniki przetwarzania"
+  ]
+ },
+ {
+  "id": 902,
+  "name": "Mistrz produkcji cydru",
+  "desc": "Mistrzowie produkcji cydru przewidują proces wytwarzania cydru. Zapewniają oni jakość warzenia i postępują zgodnie z jednym z kilku procesów warzenia. Modyfikują istniejące formuły warzenia i techniki przetwarzania w celu opracowania nowego cydru i napojów na bazie cydru.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Planujesz proces wytwarzania cydru",
+   "Kontrolujesz jakość na etapach produkcji",
+   "Zmieniasz receptury i techniki przetwarzania",
+   "Opracowujesz nowe napoje na bazie cydru"
+  ]
+ },
+ {
+  "id": 903,
+  "name": "Inżynier inżynierii materiałów syntetycznych",
+  "desc": "Inżynierowie inżynierii materiałów syntetycznych rozwijają nowe procesy materiałów syntetycznych lub poprawiają istniejące. Projektują i konstruują instalacje i maszyny do produkcji materiałów syntetycznych oraz testują próbki surowców w celu zapewnienia ich jakości.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Rozwijasz nowe procesy produkcji materiałów syntetycznych",
+   "Ulepszasz istniejące procesy wytwarzania",
+   "Projektujesz instalacje i maszyny produkcyjne",
+   "Testujesz próbki surowców pod kątem jakości"
+  ]
+ },
+ {
+  "id": 904,
+  "name": "Technik kontroli jakości",
+  "desc": "Technicy kontroli jakości współpracują z inżynierami lub kierownikami ds. jakości w celu analizowania i rozwiązywania problemów związanych z jakością oraz poprawy wydajności. Badają maszyny pod kątem defektów i kontrolują produkty w celu upewnienia się, że spełniają one normy. Ponadto szkolą pracowników w zakresie technik kontrolnych i przygotowują plany inspekcji.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Sprawdzasz produkty pod kątem defektów",
+   "Badasz maszyny, które mogą powodować wady",
+   "Przygotowujesz plany inspekcji",
+   "Szkolisz pracowników z technik kontrolnych"
+  ]
+ },
+ {
+  "id": 905,
+  "name": "Technik kontroli jakości - laboratoryjne testy obuwia",
+  "desc": "Technicy kontroli jakości w zakresie laboratoryjnych testów obuwia wykonują wszystkie laboratoryjne badania obuwia oraz materiałów i elementów zgodnie z normami krajowymi i międzynarodowymi. Analizują i interpretują wyniki oraz przygotowują sprawozdania dla kierownika ds. jakości, doradzając w kwestii odrzucenia lub przyjęcia. Stosują uprzednio określone narzędzia do zarządzania jakością, dążąc do osiągnięcia celów określonych w polityce jakości. Uczestniczą w monitorowaniu i kontroli systemu jakości, tzn. w audycie wewnętrznym i zewnętrznym.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Wykonujesz laboratoryjne badania obuwia",
+   "Analizujesz i interpretujesz wyniki testów",
+   "Przygotowujesz sprawozdania dla kierownika jakości",
+   "Uczestniczysz w audytach systemu jakości"
+  ]
+ },
+ {
+  "id": 906,
+  "name": "Technik kontroli jakości - laboratoryjne testy wyrobów skórzanych",
+  "desc": "Technicy kontroli jakości w zakresie laboratoryjnych testów wyrobów skórzanych wykonują laboratoryjne badania kontrolne zgodnie z normami krajowymi i międzynarodowymi. Podczas laboratoryjnych badań kontrolnych przygotowują próbki, stosują procedury badań, analizują i interpretują wyniki, porównują je z wytycznymi i normami oraz przygotowują sprawozdania. Współpracują z zewnętrznymi laboratoriami w przypadku badań, które nie mogą być przeprowadzone w obrębie przedsiębiorstwa. Proponują środki naprawcze i zapobiegawcze.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Przygotowujesz próbki skóry do badań",
+   "Stosujesz procedury badawcze zgodnie z normami",
+   "Porównujesz wyniki z wytycznymi",
+   "Współpracujesz z zewnętrznymi laboratoriami"
+  ]
+ },
+ {
+  "id": 907,
+  "name": "Technik kontroli jakości chemicznej wyrobów włókienniczych",
+  "desc": "Technicy kontroli jakości chemicznej wyrobów włókienniczych przeprowadzają chemiczne badania laboratoryjne materiałów i wyrobów włókienniczych. Interpretują wyniki oraz asystują przy farbowaniu i wykańczaniu materiałów włókienniczych.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Wykonujesz chemiczne badania laboratoryjne tkanin",
+   "Interpretujesz wyniki i oceniasz materiał",
+   "Asystujesz przy farbowaniu materiałów",
+   "Uczestniczysz w wykańczaniu tkanin"
+  ]
+ },
+ {
+  "id": 908,
+  "name": "Technik kontroli jakości obuwia",
+  "desc": "Technicy kontroli jakości obuwia zarządzają wszystkimi normami i technikami odnoszącymi się do procesów i produktów. Wykonują zadania z wykorzystaniem systemów jakości opartych na normach krajowych i międzynarodowych. Analizują i interpretują wyniki, przygotowują sprawozdania, doradzają w sprawie środków naprawczych i zapobiegawczych oraz przyczyniają się do spełnienia wymogów i osiągnięcia celów dotyczących ciągłych usprawnień i zadowolenia klientów.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Pilnujesz norm jakości procesów i produktów",
+   "Analizujesz i interpretujesz wyniki kontroli",
+   "Piszesz sprawozdania i zalecenia naprawcze",
+   "Doradzasz, jak zapobiegać powtarzaniu się wad"
+  ]
+ },
+ {
+  "id": 909,
+  "name": "Technik kontroli jakości wyrobów skórzanych",
+  "desc": "Technicy kontroli jakości wyrobów skórzanych wykonują zadania związane z systemem jakości, kontrolując jakość i wykonując badania laboratoryjne (wyrobów gotowych, używanych materiałów i składników) zgodnie z normami krajowymi i międzynarodowymi. Analizują i interpretują wyniki badań laboratoryjnych, przygotowują sprawozdania oraz doradzają w sprawie środków naprawczych i zapobiegawczych, przyczyniając się do spełnienia wymogów i osiągnięcia celów dotyczących ciągłych usprawnień i zadowolenia klientów.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Kontrolujesz gotowe wyroby i używane materiały",
+   "Wykonujesz badania laboratoryjne według norm",
+   "Analizujesz wyniki i piszesz sprawozdania",
+   "Doradzasz, jak naprawić i zapobiec błędom"
+  ]
+ },
+ {
+  "id": 910,
+  "name": "Technik kontroli jakości wyrobów włókienniczych",
+  "desc": "Technicy kontroli jakości wyrobów włókienniczych wykonują fizyczne badania laboratoryjne materiałów i wyrobów włókienniczych. Porównują właściwości materiałów i wyrobów włókienniczych z normami i interpretują wyniki.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Wykonujesz fizyczne badania tkanin w laboratorium",
+   "Porównujesz właściwości z wymaganymi normami",
+   "Interpretujesz wyniki badań",
+   "Zapisujesz wyniki każdej partii w dokumentacji"
+  ]
+ },
+ {
+  "id": 911,
+  "name": "Technik automatyk",
+  "desc": "Technicy automatycy współpracują z inżynierami automatyki przy opracowywaniu aplikacji i systemów automatyzacji procesu produkcji. Technicy automatycy budują, testują, monitorują i utrzymują sterowane komputerowo systemy stosowane w zautomatyzowanych systemach produkcji.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Budujesz sterowane komputerowo systemy automatyki",
+   "Testujesz, czy system robi to, co trzeba",
+   "Monitorujesz pracę zautomatyzowanej linii",
+   "Naprawiasz i utrzymujesz układy sterowania"
+  ]
+ },
+ {
+  "id": 912,
+  "name": "Technik robotyk",
+  "desc": "Technicy robotycy współpracują z inżynierami w zakresie rozwoju urządzeń i aplikacji robotyki poprzez połączenie wiedzy dotyczącej techniki budowy maszyn, elektroniki i techniki komputerowej. Technicy robotycy wykonują, testują, instalują i kalibrują urządzenia z zakresu robotyki.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Wykonujesz elementy i zespoły urządzeń robotycznych",
+   "Testujesz roboty i sprawdzasz ich ruchy",
+   "Instalujesz roboty w miejscu pracy",
+   "Kalibrujesz urządzenia, żeby były dokładne"
+  ]
+ },
+ {
+  "id": 913,
+  "name": "Inspektor bezpieczeństwa lotniczego",
+  "desc": "Inspektorzy bezpieczeństwa lotniczego planują i opracowują procedury bezpieczeństwa dla przedsiębiorstw lotniczych. Analizują przepisy i ograniczenia w zakresie bezpieczeństwa odnoszące się do działalności przedsiębiorstw lotniczych. W związku z tym kierują działaniami personelu w celu zagwarantowania stosowania środków bezpieczeństwa zgodnie z przepisami.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Opracowujesz procedury bezpieczeństwa dla firm lotniczych",
+   "Analizujesz przepisy i ograniczenia",
+   "Organizujesz pracę personelu zgodnie z procedurami",
+   "Sprawdzasz, czy środki bezpieczeństwa są stosowane"
+  ]
+ },
+ {
+  "id": 914,
+  "name": "Kontroler procesów w przemyśle włókienniczym",
+  "desc": "Kontrolerzy procesów w przemyśle włókienniczym przeprowadzają czynności z zakresu obróbki materiałów włókienniczych oraz realizują funkcje techniczne dotyczące różnych aspektów projektowania, produkcji i kontroli jakości wyrobów włókienniczych, a także kontroli kosztów procesów. Korzystają z narzędzi do produkcji wspomaganej komputerowo (CAM) oraz produkcji zintegrowanej komputerowo (CIM) w celu zapewnienia zgodności całego procesu produkcji ze specyfikacjami. Porównują i wymieniają poszczególne procesy z innymi działami (np. działem kosztorysów) oraz podejmują odpowiednie działania.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Wykonujesz czynności obróbki materiałów włókienniczych",
+   "Kontrolujesz zgodność procesu ze specyfikacjami",
+   "Korzystasz z narzędzi do produkcji wspomaganej komputerowo",
+   "Porównujesz koszty procesów z innymi działami"
+  ]
+ },
+ {
+  "id": 915,
+  "name": "Koordynator ds. zgodności rurociągów",
+  "desc": "Koordynatorzy ds. zgodności rurociągów śledzą, opracowują i podsumowują wszystkie działania dotyczące zapewnienia zgodności infrastruktury rurociągowej i w terenie. Zapewniają, aby prace były prowadzone w ramach regulacyjnych. Dążą do opracowania i wdrożenia polityk w zakresie zgodności oraz zalecają sposoby minimalizowania ryzyka. Kontrolują obiekty, gromadzą dowody i zgłaszają kierownictwu informacje dotyczące potrzeb w dziedzinie zgodności z przepisami.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Śledzisz zgodność działań na rurociągach z przepisami",
+   "Kontrolujesz obiekty i gromadzisz dowody",
+   "Wdrażasz polityki zgodności w firmie",
+   "Zalecasz sposoby zmniejszenia ryzyka"
+  ]
+ },
+ {
+  "id": 916,
+  "name": "Specjalista ds. kontroli urządzeń użyteczności publicznej",
+  "desc": "Specjaliści ds. kontroli urządzeń użyteczności publicznej badają wyroby, systemy i maszyny, takie jak turbiny w sieci kanalizacyjnej oraz turbiny wodne, gazowe lub elektryczne, zapewniając, aby ich budowa i funkcjonowanie były zgodne z przepisami. Sporządzają sprawozdania z kontroli i przedstawiają zalecenia mające na celu ulepszenie systemów i naprawę uszkodzonych części.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Badasz turbiny i systemy użyteczności publicznej",
+   "Sprawdzasz zgodność budowy z przepisami",
+   "Sporządzasz sprawozdania z kontroli",
+   "Zalecasz ulepszenia i naprawę uszkodzonych części"
+  ]
+ },
+ {
+  "id": 917,
+  "name": "Technik inżynierii fotonicznej",
+  "desc": "Technicy inżynierii fotonicznej współpracują z inżynierami przy rozwijaniu systemów lub elementów fotonicznych, zwykle w postaci urządzeń optycznych, takich jak lasery, soczewki i sprzęt światłowodowy. Technicy inżynierii fotonicznej wykonują, testują, instalują i kalibrują urządzenia optyczne. Kierują się schematami i innymi rysunkami technicznymi, żeby opracować procedury testowania i kalibracji.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Wykonujesz urządzenia optyczne według schematów",
+   "Testujesz lasery, soczewki i światłowody",
+   "Instalujesz sprzęt optyczny",
+   "Opracowujesz procedury testowania i kalibracji"
+  ]
+ },
+ {
+  "id": 918,
+  "name": "Technik inżynierii procesu",
+  "desc": "Technicy inżynierii procesu ściśle współpracują z inżynierami w celu oceny istniejących procesów i konfiguracji systemów produkcji, dążąc do obniżenia kosztów, poprawy zrównoważonego charakteru produkcji oraz opracowania najlepszych praktyk w procesie produkcji.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Oceniasz istniejące procesy i konfiguracje systemów",
+   "Zbierasz dane do porównania wariantów",
+   "Szukasz sposobów na niższe koszty produkcji",
+   "Opisujesz najlepsze praktyki dla zespołu"
+  ]
+ },
+ {
+  "id": 919,
+  "name": "Technik inżynierii przemysłowej",
+  "desc": "Technicy inżynierii przemysłowej pomagają inżynierom organizacji produkcji w poprawie wydajności, bezpieczeństwa i wyników zakładów produkcyjnych. Prowadzą badania produkcji, przygotowują projekty maszyn i urządzeń oraz proponują rozwiązania mające na celu usunięcie problemów dotyczących jakości.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Prowadzisz badania przebiegu produkcji",
+   "Przygotowujesz projekty maszyn i urządzeń",
+   "Proponujesz rozwiązania problemów z jakością",
+   "Pomagasz inżynierom poprawiać bezpieczeństwo zakładu"
+  ]
+ },
+ {
+  "id": 920,
+  "name": "Technik konstruktor obuwia",
+  "desc": "Technicy konstruktorzy obuwia są łącznikiem między etapami projektowania i produkcji. Wykonują prototypy obuwia sporządzone wcześniej przez projektantów. Wybierają, projektują lub przeprojektowują kopyta szewskie i elementy obuwia, wykonują wykroje cholewek, podszewek i elementów podeszwy oraz tworzą rysunki techniczne różnych narzędzi (np. matryc do cięcia, form itp.). Produkują i oceniają także prototypy obuwia, klasyfikują i wytwarzają próbki rozmiarów, przeprowadzają wymagane testy próbek oraz weryfikują ograniczenia jakościowe i cenowe klienta.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Wykonujesz prototypy obuwia według projektu",
+   "Dobierasz lub przeprojektowujesz kopyta i elementy",
+   "Tworzysz wykroje cholewek i podeszew",
+   "Rysujesz narzędzia, na przykład matryce do cięcia"
+  ]
+ },
+ {
+  "id": 921,
+  "name": "Technik konstruktor wyrobów skórzanych",
+  "desc": "Technicy konstruktorzy wyrobów skórzanych są łącznikiem między etapami projektowania i faktycznej produkcji. Analizują i badają specyfikacje projektanta i opracowują na ich podstawie wymagania techniczne, aktualizując koncepcje linii produkcyjnych, określając lub nawet projektując elementy składowe oraz wybierając materiały. Technicy konstruktorzy wyrobów skórzanych projektują również wykroje, tzn. wykonują je ręcznie, oraz sporządzają rysunki techniczne różnych narzędzi, w szczególności do cięcia.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Analizujesz specyfikację projektanta wyrobu",
+   "Określasz elementy składowe i materiały",
+   "Wykonujesz ręcznie wykroje",
+   "Rysujesz narzędzia, zwłaszcza do cięcia"
+  ]
+ },
+ {
+  "id": 922,
+  "name": "Technik lotniskowych służb operacyjnych",
+  "desc": "Technicy lotniskowych służb operacyjnych są odpowiedzialni za utrzymanie wszystkich urządzeń niezbędnych do zapewnienia funkcjonalności portu lotniczego, takich jak pomoce wizualne, instalacje elektryczne lotnisk, systemy związane z bagażami, systemy zabezpieczeń, systemy bezpieczeństwa, chodniki i odwodnienie, oraz utrzymanie obszarów nieutwardzonych.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Utrzymujesz instalacje i pomoce wizualne lotniska",
+   "Sprawdzasz systemy bagażowe i zabezpieczeń",
+   "Pilnujesz stanu nawierzchni i odwodnienia",
+   "Pilnujesz stanu terenów nieutwardzonych"
+  ]
+ },
+ {
+  "id": 923,
+  "name": "Technik obuwnik",
+  "desc": "Technicy obuwnicy prowadzą szereg działań w zakresie produkcji obuwia. Wykonują prace na wszystkich etapach procesu, w tym w zakresie technologii i różnych rodzajów prac konstrukcyjnych. Ich celem jest maksymalizacja produktywności i zmniejszenie kosztów produkcji przy zapewnieniu funkcjonalności i jakości wyrobów oraz zadowolenia klientów.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Pracujesz na wszystkich etapach produkcji obuwia",
+   "Wykonujesz prace konstrukcyjne i technologiczne",
+   "Szukasz sposobów na krótszy czas produkcji",
+   "Obniżasz koszty, utrzymując jakość butów"
+  ]
+ },
+ {
+  "id": 924,
+  "name": "Technik produkcji wyrobów skórzanych",
+  "desc": "Technicy produkcji wyrobów skórzanych realizują szeroki zakres działań i zadań związanych z procesem wytwarzania wyrobów skórzanych, takich jak cięcie, zamykanie i wykańczanie, zgodnie z uprzednio określonymi kryteriami jakości na podstawie bezpośredniej relacji z klientem. Stosują techniki ręczne wspierane przez proste tradycyjne urządzenia do produkcji niepowtarzalnych modeli lub bardzo małych zamówień.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Tniesz skórę według wykroju",
+   "Zszywasz elementy wyrobu",
+   "Wykańczasz krawędzie i powierzchnie",
+   "Rozmawiasz z klientem o wymaganiach zamówienia"
+  ]
+ },
+ {
+  "id": 925,
+  "name": "Technik rozruchu",
+  "desc": "Technicy rozruchu pracują z inżynierami dokonującymi odbioru końcowego w zakresie nadzorowania ostatecznych etapów realizacji projektu po zainstalowaniu i przetestowaniu systemów. Kontrolują prawidłowe funkcjonowanie maszyn i urządzeń, obiektów i instalacji oraz, w razie konieczności, wykonują naprawy i prace konserwacyjne.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Nadzorujesz końcowe etapy realizacji projektu",
+   "Sprawdzasz działanie maszyn i instalacji",
+   "Kontrolujesz obiekty przed odbiorem",
+   "Wykonujesz naprawy i prace konserwacyjne"
+  ]
+ },
+ {
+  "id": 926,
+  "name": "Technik rozwoju produktu",
+  "desc": "Technicy rozwoju produktu zwiększają efektywność rozwoju produktów, konfigurują sprzęt oraz opracowują i testują rozwiązania techniczne w celu usunięcia problemów technicznych. Ściśle współpracują z inżynierami i technologami, kontrolują produkty, przeprowadzają badania i gromadzą dane.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Konfigurujesz sprzęt do prób",
+   "Testujesz prototypy i nowe rozwiązania",
+   "Zbierasz dane z pomiarów",
+   "Szukasz przyczyny problemu technicznego"
+  ]
+ },
+ {
+  "id": 927,
+  "name": "Technik żywności",
+  "desc": "Technicy żywności wspomagają technologów żywności w opracowywaniu procesów wytwarzania artykułów spożywczych i powiązanych produktów w oparciu o zasady chemiczne, fizyczne i biologiczne. Prowadzą badania i eksperymenty ze składnikami, dodatkami i opakowaniami. Technicy żywności sprawdzają również jakość produktu w celu zapewnienia zgodności z przepisami ustawowymi i wykonawczymi.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Próbujesz nowych składników i dodatków",
+   "Testujesz, jak opakowanie chroni produkt",
+   "Pobierasz próbki z linii produkcyjnej",
+   "Sprawdzasz zgodność produktu z przepisami"
+  ]
+ },
+ {
+  "id": 928,
+  "name": "Diagnosta silników lotniczych",
+  "desc": "Diagności silników lotniczych sprawdzają sprawność wszystkich silników przeznaczonych do statków powietrznych w specjalistycznych jednostkach, np. laboratoriach. Ustawiają silniki na stanowisku testowym lub przekazują odpowiednie instrukcje pracownikom, którzy wykonują tę czynność. Korzystają z narzędzi i maszyn ręcznych do ustawiania i łączenia silnika ze stanowiskiem testowym. Wykorzystują sprzęt komputerowy do wprowadzania, odczytu i zapisu danych testowych, takich jak temperatura, prędkość, zużycie paliwa, ciśnienie oleju i spalin.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Montujesz silnik na stanowisku testowym",
+   "Łączysz go narzędziami ręcznymi z instalacją",
+   "Odczytujesz temperaturę, obroty i ciśnienie oleju",
+   "Zapisujesz zużycie paliwa i ciśnienie spalin"
+  ]
+ },
+ {
+  "id": 929,
+  "name": "Inspektor bezpieczeństwa żeglugi morskiej",
+  "desc": "Inspektorzy bezpieczeństwa żeglugi morskiej dokonują inspekcji statków przeznaczonych do prowadzenia operacji na wodach morskich lub na otwartym morzu. Dbają, żeby statki i sprzęt były zgodne z przepisami ustanowionymi przez Międzynarodową Organizację Morską (IMO). Mogą również pełnić funkcję stron trzecich w zakresie przeglądu obiektów na morzu i projektów budowlanych.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Wchodzisz na pokład i oglądasz statek",
+   "Sprawdzasz sprzęt pod kątem międzynarodowych przepisów",
+   "Oceniasz obiekty i projekty na morzu",
+   "Piszesz raport z zaleceniami poprawek"
+  ]
+ },
+ {
+  "id": 930,
+  "name": "Inżynier analiz strukturalnych",
+  "desc": "Inżynierowie analiz strukturalnych planują i wykorzystują oprogramowanie do przeprowadzania analiz strukturalnych, w tym analiz statycznych, stabilności i zmęczenia na różnych urządzeniach. Opracowują analizę struktur pierwotnych i wtórnych. Przygotowują sprawozdania techniczne na potrzeby dokumentowania wyników analiz, uczestniczą w przeglądach projektu i zalecają udoskonalenia procesu. Pomagają również w opracowywaniu planów badań strukturalnych.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Planujesz analizy wytrzymałości konstrukcji",
+   "Liczysz obciążenia statyczne i zmęczenie materiału",
+   "Piszesz raporty techniczne z wynikami",
+   "Proponujesz zmiany w projekcie"
+  ]
+ },
+ {
+  "id": 931,
+  "name": "Kierownik prac konserwacyjnych i remontowych",
+  "desc": "Kierownicy prac konserwacyjnych i remontowych organizują i nadzorują czynności związane z obsługą i utrzymaniem maszyn, systemów i urządzeń. Dbają, aby inspekcje były przeprowadzone zgodnie ze normami w zakresie higieny, bezpieczeństwa i ochrony środowiska oraz wymogami dotyczącymi wydajności i jakości.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Planujesz przeglądy maszyn na cały tydzień",
+   "Przydzielasz zadania zespołowi konserwatorów",
+   "Sprawdzasz, czy przeglądy spełniają normy bezpieczeństwa",
+   "Reagujesz, gdy maszyna się zatrzyma"
+  ]
+ },
+ {
+  "id": 932,
+  "name": "Mechanik kontroler silników lotniczych",
+  "desc": "Mechanicy kontrolerzy silników lotniczych przeprowadzają inspekcje wszystkich typów silników wykorzystywanych w samolotach w zakładach produkcyjnych w celu zapewnienia zgodności z normami i przepisami bezpieczeństwa. Przeprowadzają inspekcje okresowe, po przeglądzie, przed przekazaniem do eksploatacji i powypadkowe. Dostarczają dokumentację dotyczącą działań naprawczych i wsparcia technicznego dla centrów obsługi technicznej i napraw. Prowadzą przeglądy rejestrów administracyjnych, analizują efektywność operacyjną silników i zgłaszają swoje ustalenia.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Kontrolujesz silnik po przeglądzie lub wypadku",
+   "Porównujesz stan silnika z normami",
+   "Przeglądasz dokumentację napraw i rejestry",
+   "Zgłaszasz ustalenia do obsługi technicznej"
+  ]
+ },
+ {
+  "id": 933,
+  "name": "Specjalista ds. kontroli jakości silników kolejowych",
+  "desc": "Specjaliści ds. kontroli jakości silników kolejowych przeprowadzają inspekcje silników wysokoprężnych i silników elektrycznych wykorzystywanych w lokomotywach w celu zapewnienia zgodności z normami i przepisami. Przeprowadzają inspekcje okresowe, po przeglądzie, przed przekazaniem do eksploatacji i powypadkowe. Dostarczają dokumentację dotyczącą działań naprawczych i wsparcia technicznego dla centrów obsługi technicznej i napraw. Prowadzą przeglądy rejestrów administracyjnych, analizują efektywność operacyjną silników i zgłaszają swoje ustalenia.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Oglądasz silniki wysokoprężne i elektryczne lokomotyw",
+   "Wykonujesz kontrole okresowe i powypadkowe",
+   "Przygotowujesz dokumentację działań naprawczych",
+   "Analizujesz, jak sprawnie pracują silniki"
+  ]
+ },
+ {
+  "id": 934,
+  "name": "Specjalista ds. kontroli jakości silników pojazdów mechanicznych",
+  "desc": "Specjaliści ds. kontroli jakości silników pojazdów mechanicznych przeprowadzają inspekcje silników wysokoprężnych, gazowych, benzynowych i elektrycznych wykorzystywanych w samochodach osobowych, autobusach, samochodach ciężarowych itp. w zakładach montażowych, takich jak zakłady i warsztaty mechaniczne, w celu zapewnienia zgodności z normami i przepisami bezpieczeństwa. Przeprowadzają inspekcje okresowe, po przeglądzie, przed przekazaniem do eksploatacji i powypadkowe. Dostarczają dokumentację dotyczącą działań naprawczych i wsparcia technicznego dla centrów obsługi technicznej i napraw.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Kontrolujesz silniki różnych typów napędu",
+   "Robisz kontrole po przeglądzie i wypadku",
+   "Opisujesz wymagane działania naprawcze",
+   "Wspierasz warsztaty radą techniczną"
+  ]
+ },
+ {
+  "id": 935,
+  "name": "Specjalista ds. kontroli jakości taboru kolejowego",
+  "desc": "Specjaliści ds. kontroli jakości taboru kolejowego oceniają stan techniczny wagonów towarowych i pasażerskich, zgrupowanych i przed ich użyciem do przewozu. Sprawdzają urządzenia techniczne, zapewniają pełną i prawidłową eksploatację taboru oraz przygotowują wymagane dokumenty techniczne i/lub listy kontrolne. W zależności od organizacji pracy są również odpowiedzialni za ograniczoną doraźną obsługę techniczną lub wymianę, a także za przeprowadzanie badań hamulców.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Oceniasz stan techniczny wagonów",
+   "Sprawdzasz urządzenia techniczne i hamulce",
+   "Wypełniasz listy kontrolne i dokumenty",
+   "Wykonujesz drobne naprawy lub wymiany"
+  ]
+ },
+ {
+  "id": 936,
+  "name": "Specjalista ds. kontroli robót spawalniczych",
+  "desc": "Specjaliści ds. kontroli robót spawalniczych badają połączenia i wiązania między metalami. Wykorzystują narzędzia wizualne i przyrządy elektryczne do kontroli i zapewnienia jakości i bezpieczeństwa połączeń. Specjaliści ds. kontroli robót spawalniczych zapewniają, aby wszystkie powiązane działania i plany dotyczące spawania oraz materiały spawalnicze były zgodne z odpowiednimi wytycznymi, zgodnie z przepisami bezpieczeństwa. Oprócz pracy w terenie podczas badań robót spawalniczych specjaliści spędzają czas w biurze przy opracowywaniu sprawozdań.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Oglądasz spoiny i oceniasz ich jakość",
+   "Badasz połączenia metali przyrządami",
+   "Sprawdzasz zgodność materiałów z wytycznymi",
+   "Piszesz sprawozdania w biurze"
+  ]
+ },
+ {
+  "id": 937,
+  "name": "Specjalista ds. kontroli silników jednostek pływających",
+  "desc": "Specjaliści ds. kontroli silników jednostek pływających przeprowadzają inspekcje silników statków i łodzi, takich jak silniki elektryczne, reaktory jądrowe, silniki turbospalinowe, silniki przyczepne, dwusuwowe lub czterosuwowe silniki Diesla, LNG, silniki z zasilaniem dwupaliwowym oraz, w niektórych przypadkach, okrętowe silniki parowe, w zakładach montażowych w celu zapewnienia zgodności z normami i przepisami bezpieczeństwa. Przeprowadzają inspekcje okresowe, po przeglądzie, przed przekazaniem do eksploatacji i powypadkowe.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Kontrolujesz silniki statków i łodzi",
+   "Sprawdzasz zgodność z normami bezpieczeństwa",
+   "Robisz inspekcje przed oddaniem do eksploatacji",
+   "Oceniasz silnik po przeglądzie lub wypadku"
+  ]
+ },
+ {
+  "id": 938,
+  "name": "Specjalista ds. testowania silników kolejowych",
+  "desc": "Specjaliści ds. testowania silników kolejowych sprawdzają wydajność silników wysokoprężnych i silników elektrycznych do lokomotyw. Ustawiają silniki na stanowisku testowym lub przekazują odpowiednie instrukcje pracownikom, którzy wykonują tę czynność. Korzystają z narzędzi i maszyn ręcznych do ustawiania i łączenia silnika ze stanowiskiem testowym. Wykorzystują sprzęt komputerowy do wprowadzania, odczytu i zapisu danych testowych, takich jak temperatura, prędkość, zużycie paliwa, ciśnienie oleju i spalin.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Ustawiasz silnik lokomotywy na stanowisku",
+   "Łączysz go narzędziami z aparaturą pomiarową",
+   "Odczytujesz temperaturę, obroty i zużycie paliwa",
+   "Zapisujesz dane próby w komputerze"
+  ]
+ },
+ {
+  "id": 939,
+  "name": "Specjalista ds. testowania silników pojazdów mechanicznych",
+  "desc": "Specjaliści ds. testowania silników pojazdów mechanicznych sprawdzają sprawność silników wysokoprężnych, benzynowych, gazowych i elektrycznych w specjalistycznych jednostkach, np. laboratoriach. Ustawiają silniki na stanowisku testowym lub przekazują odpowiednie instrukcje pracownikom, którzy wykonują tę czynność. Korzystają z narzędzi ręcznych i maszyn do ustawiania i łączenia silnika ze stanowiskiem testowym. Wykorzystują sprzęt komputerowy do wprowadzania, odczytu i zapisu danych testowych, takich jak temperatura, prędkość, zużycie paliwa, ciśnienie oleju i spalin.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Testujesz silniki różnych rodzajów paliwa",
+   "Podłączasz silnik do aparatury narzędziami ręcznymi",
+   "Mierzysz zużycie paliwa i ciśnienie spalin",
+   "Wprowadzasz wyniki do komputera"
+  ]
+ },
+ {
+  "id": 940,
+  "name": "Specjalista ds. testów silników jednostek pływających",
+  "desc": "Specjaliści ds. testów silników jednostek pływających badają parametry działania silników statków, takich jak silniki elektryczne, reaktory jądrowe, silniki turbospalinowe, silniki przyczepne, dwusuwowe lub czterosuwowe silniki Diesla, LNG, silniki z zasilaniem dwupaliwowym oraz, w niektórych przypadkach, morskie silniki parowe w specjalistycznych zakładach, takich jak laboratoria. Ustawiają silniki na stanowisku testowym lub przekazują odpowiednie instrukcje pracownikom, którzy wykonują tę czynność. Korzystają z narzędzi i maszyn ręcznych do ustawiania i łączenia silnika ze stanowiskiem testowym.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Dajesz ekipie instrukcje ustawienia silnika",
+   "Łączysz silnik z aparaturą narzędziami ręcznymi",
+   "Badasz parametry pracy silnika okrętowego",
+   "Zapisujesz wyniki do dalszej analizy"
+  ]
+ },
+ {
+  "id": 941,
+  "name": "Technik mechanik",
+  "desc": "Technicy mechanicy zapewniają wsparcie techniczne inżynierom mechanikom przy produkcji urządzeń mechanicznych. Pomagają w opracowywaniu projektów i modyfikacji oraz przeprowadzają testy. Opracowują również układy i rysunki, zestawiają i interpretują dane oraz sporządzają sprawozdania.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Rysujesz układy i rysunki techniczne",
+   "Pomagasz w projektach i modyfikacjach",
+   "Przeprowadzasz testy urządzeń",
+   "Zestawiasz dane i piszesz sprawozdania"
+  ]
+ },
+ {
+  "id": 942,
+  "name": "Technik mechanik lotnictwa i kosmonautyki",
+  "desc": "Technicy mechanicy lotnictwa i kosmonautyki współpracują z inżynierami lotnictwa i kosmonautyki w celu eksploatacji, konserwacji i testowania sprzętu wykorzystywanego w statkach powietrznych i statkach kosmicznych. Dokonują przeglądu schematów i instrukcji w celu określenia specyfikacji i procedur testowych. Korzystają z oprogramowania, żeby się upewnić, że części statków kosmicznych lub powietrznych funkcjonują prawidłowo. Rejestrują procedury badań i ich wyniki oraz formułują zalecenia dotyczące zmian.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Czytasz schematy i instrukcje testów",
+   "Sprawdzasz, czy części statku działają",
+   "Konserwujesz sprzęt statków powietrznych",
+   "Zapisujesz wyniki badań i zalecenia"
+  ]
+ },
+ {
+  "id": 943,
+  "name": "Technik mechanik okrętowy",
+  "desc": "Technicy mechanicy okrętowi pełnią techniczne funkcje pomocnicze wobec inżynierów w zakresie projektowania, opracowania, procesów produkcji i testowania, instalacji i konserwacji wszystkich rodzajów łodzi, od rekreacyjnych po okręty wojenne, w tym okręty podwodne. Prowadzą również eksperymenty, gromadzą i analizują dane oraz przedstawiają swoje ustalenia.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Pomagasz przy projekcie i budowie łodzi",
+   "Instalujesz i testujesz urządzenia okrętowe",
+   "Prowadzisz eksperymenty i zbierasz dane",
+   "Przedstawiasz ustalenia inżynierom"
+  ]
+ },
+ {
+  "id": 944,
+  "name": "Technik mechanik silników kolejowych",
+  "desc": "Technicy mechanicy silników kolejowych pełnią funkcje techniczne, pomagając inżynierom taboru w zakresie projektowania, opracowania, procesów produkcji i testowania, instalacji i konserwacji pojazdów szynowych, takich jak wagony, zespoły trakcyjne, wózki i lokomotywy. Prowadzą również eksperymenty, gromadzą i analizują dane oraz przedstawiają swoje ustalenia.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Pomagasz przy projektach pojazdów szynowych",
+   "Instalujesz i konserwujesz wózki i zespoły",
+   "Testujesz lokomotywy i wagony",
+   "Analizujesz dane z eksperymentów"
+  ]
+ },
+ {
+  "id": 945,
+  "name": "Technik mechanik urządzeń przemysłowych",
+  "desc": "Technicy mechanicy urządzeń przemysłowych planują produkcję, śledzą procesy produkcyjne oraz opracowują i testują rozwiązania problemów technicznych. Ściśle współpracują z inżynierami i technologami, kontrolują produkty, przeprowadzają badania, testy i gromadzą dane.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Planujesz produkcję na kolejne dni",
+   "Śledzisz przebieg procesu na linii",
+   "Kontrolujesz gotowe produkty",
+   "Testujesz rozwiązania problemów technicznych"
+  ]
+ },
+ {
+  "id": 946,
+  "name": "Technik optomechanik",
+  "desc": "Technicy optomechanicy współpracują z inżynierami przy opracowaniu urządzeń optomechanicznych, takich jak tablice optyczne, zwierciadła odkształcalne i mocowania optyczne. Technicy optomechanicy konstruują, instalują, testują i konserwują prototypy urządzeń optomechanicznych. Określają wymagania materiałowe i montażowe.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Konstruujesz prototypy urządzeń optomechanicznych",
+   "Montujesz zwierciadła i mocowania optyczne",
+   "Testujesz i konserwujesz gotowe układy",
+   "Określasz wymagane materiały i sposób montażu"
+  ]
+ },
+ {
+  "id": 947,
+  "name": "Technik pojazdów samochodowych",
+  "desc": "Technicy pojazdów samochodowych współpracują z inżynierami pojazdów samochodowych w celu eksploatacji, napraw, konserwacji i testowania sprzętu wykorzystywanego w pojazdach samochodowych. W niektórych miejscach, takich jak lotnisko, są odpowiedzialni za utrzymanie sprzętu i pojazdów w stanie zdatnym do użytku. Dokonują przeglądu schematów i projektów w celu określenia specyfikacji i procedur testowych. Technicy pojazdów samochodowych korzystają z oprogramowania, żeby się upewnić, że części pojazdu silnikowego funkcjonują prawidłowo. Rejestrują procedury badań i ich wyniki oraz formułują zalecenia dotyczące zmian.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Czytasz schematy i plany pojazdu",
+   "Naprawiasz i konserwujesz sprzęt pojazdowy",
+   "Testujesz części i zapisujesz wyniki",
+   "Proponujesz zmiany po badaniach"
+  ]
+ },
+ {
+  "id": 948,
+  "name": "Technik projektant systemów i podzespołów pneumatycznych",
+  "desc": "Technicy projektanci systemów i podzespołów pneumatycznych oceniają działające układy i zespoły pneumatyczne, takie jak sprężarki, i zalecają zmiany służące zwiększeniu efektywności. Biorą również udział w projektowaniu układów pneumatycznych i ich części składowych, takich jak obwody.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Oceniasz działanie sprężarek i układów",
+   "Zalecasz zmiany zwiększające efektywność",
+   "Projektujesz obwody pneumatyczne",
+   "Rysujesz podzespoły układu"
+  ]
+ },
+ {
+  "id": 949,
+  "name": "Technik systemów grzewczych, wentylacyjnych, klimatyzacji i chłodzenia",
+  "desc": "Technicy systemów grzewczych, wentylacyjnych, klimatyzacji i chłodzenia pomagają przy projektowaniu urządzeń służących do ogrzewania, wentylacji, klimatyzacji i ewentualnie chłodzenia budynków. Zapewniają zgodność sprzętu z normami ochrony środowiska. Zajmują się materiałami niebezpiecznymi używanymi w systemach i zapewniają stosowanie środków ostrożności.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Pomagasz projektować ogrzewanie i wentylację",
+   "Dobierasz urządzenia do klimatyzacji i chłodzenia",
+   "Sprawdzasz zgodność sprzętu z normami środowiska",
+   "Dbasz o ostrożne obchodzenie się z substancjami"
+  ]
+ },
+ {
+  "id": 950,
+  "name": "Kreślarz",
+  "desc": "Kreślarze przygotowują i tworzą rysunki techniczne z wykorzystaniem specjalnego oprogramowania lub technik manualnych w celu pokazania, w jaki sposób coś jest zbudowane lub funkcjonuje.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Rysujesz plany i rysunki techniczne",
+   "Przenosisz szkice inżyniera na dokumentację",
+   "Dobierasz wymiary i opisy do rysunku",
+   "Poprawiasz rysunki po uwagach"
+  ]
+ },
+ {
+  "id": 951,
+  "name": "Projektant obwodów drukowanych",
+  "desc": "Projektanci obwodów drukowanych tworzą schematy i projektują płyty obwodów drukowanych. Planują logiczne rozmieszczenie torów przewodzących, elementów miedzianych i styków na płycie. Do projektów używają specjalistycznego oprogramowania komputerowego.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Rysujesz schematy elektroniczne",
+   "Układasz elementy na płytce obwodu",
+   "Prowadzisz ścieżki miedziane i styki",
+   "Sprawdzasz logiczne rozmieszczenie torów"
+  ]
+ },
+ {
+  "id": 952,
+  "name": "Rysownik odzieży - operator CAD",
+  "desc": "Rysownicy odzieży – operatorzy CAD używają oprogramowania do projektowania odzieży. Pracują na modelu 2D (modelowanie powierzchniowe) lub 3D (modelowanie bryłowe). Wykorzystują modelowanie powierzchniowe do rysowania płaskiej reprezentacji produktu odzieżowego. W przypadku modelowania bryłowego tworzą trójwymiarowy widok przedmiotu lub elementu, aby zobaczyć produkt odzieżowy w wersji wirtualnej.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Rysujesz płaski wygląd ubrania",
+   "Budujesz trójwymiarowy model odzieży",
+   "Oglądasz produkt w wersji wirtualnej",
+   "Poprawiasz projekt przed szyciem"
+  ]
+ },
+ {
+  "id": 953,
+  "name": "Geotechnik",
+  "desc": "Geotechnicy zbierają i przetwarzają próbki skał i gleby do badań geomechanicznych. Opisują również jakość górotworu, w tym budowę, granice sejsmiczne, barwę i wietrzenie. Geotechnicy mogą mierzyć rozmiar podziemnych pustek. Zgodnie z wymogami przekazują zgromadzone informacje geologom i inżynierom.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Pobierasz próbki skał i gleby",
+   "Opisujesz budowę, barwę i wietrzenie górotworu",
+   "Przygotowujesz próbki do badań",
+   "Mierzysz rozmiar podziemnych pustek"
+  ]
+ },
+ {
+  "id": 954,
+  "name": "Inspektor bezpieczeństwa i higieny pracy w górnictwie",
+  "desc": "Inspektorzy bezpieczeństwa i higieny pracy w górnictwie nadzorują systemy bezpieczeństwa i higieny pracy w kopalniach. Zgłaszają wypadki w miejscu pracy, opracowują statystyki wypadków, oceniają zagrożenia dla bezpieczeństwa i zdrowia pracowników oraz proponują rozwiązania lub nowe pomiary i techniki.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Oceniasz zagrożenia dla zdrowia i bezpieczeństwa",
+   "Zgłaszasz wypadki w miejscu pracy",
+   "Opracowujesz statystyki wypadków",
+   "Proponujesz nowe środki i techniki ochrony"
+  ]
+ },
+ {
+  "id": 955,
+  "name": "Technik geodeta - górnictwo",
+  "desc": "Technicy geodeci w zakresie górnictwa prowadzą pomiary geodezyjne i topograficzne oraz badania dotyczące postępów w działalności wydobywczej. Obsługują urządzenia geodezyjne i wykorzystują programy do pobierania i interpretacji odpowiednich danych, a także przeprowadzają obliczenia zgodnie z wymogami.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Wykonujesz pomiary geodezyjne i topograficzne",
+   "Obsługujesz przyrządy pomiarowe w terenie",
+   "Liczysz wyniki pomiarów",
+   "Sprawdzasz postęp prac wydobywczych"
+  ]
+ },
+ {
+  "id": 956,
+  "name": "Technik metalurgii",
+  "desc": "Technicy metalurgii zapewniają wsparcie techniczne w zakresie badań i eksperymentów dotyczących minerałów, metali, stopów, ropy naftowej i gazu. Pomagają również w usprawnianiu metod wydobycia.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Pomagasz w badaniach minerałów i metali",
+   "Prowadzisz eksperymenty na stopach",
+   "Zbierasz i zapisujesz wyniki prób",
+   "Pomagasz usprawniać metody wydobycia"
+  ]
+ },
+ {
+  "id": 957,
+  "name": "Technik obsługi urządzeń odsalania wody morskiej",
+  "desc": "Technicy obsługi urządzeń odsalania wody morskiej obsługują, monitorują i utrzymują w ruchu urządzenia do odsalania wody. Zapewniają zgodność z przepisami prawnymi oraz wymogami w zakresie bezpieczeństwa i ochrony zdrowia.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Obsługujesz urządzenia do odsalania wody",
+   "Monitorujesz parametry pracy instalacji",
+   "Utrzymujesz urządzenia w ruchu",
+   "Pilnujesz zgodności z przepisami bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 958,
+  "name": "Kolorysta skór / kolorystka skór",
+  "desc": "Koloryści/kolorystki skór przygotowują receptury kolorów i mieszanek barwiących. Zapewniają spójność koloru przy użyciu materiałów pochodzących z różnych źródeł.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Tworzysz receptury kolorów do skór",
+   "Przygotowujesz mieszanki barwiące",
+   "Porównujesz próbki koloru ze wzorcem",
+   "Wyrównujesz kolor między partiami materiału"
+  ]
+ },
+ {
+  "id": 959,
+  "name": "Technik diagnosta nawierzchni asfaltowych",
+  "desc": "Technicy diagności nawierzchni asfaltowych przeprowadzają kontrole asfaltu i powiązanych surowców oraz badania laboratoryjne, zapewniając wysoką jakość produktów. Biorą również udział w pracach przy rozwiązywaniu problemów technicznych na placach budowy.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Kontrolujesz asfalt i powiązane surowce",
+   "Wykonujesz badania laboratoryjne próbek",
+   "Oceniasz jakość produktów nawierzchniowych",
+   "Pomagasz rozwiązywać problemy na placu budowy"
+  ]
+ }
+]

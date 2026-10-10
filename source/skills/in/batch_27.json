@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1620,
+  "name": "Sofrolog",
+  "desc": "Sofrolodzy starają się zmniejszyć stres klientów oraz zapewnić optymalny stan zdrowia i dobre samopoczucie dzięki zastosowaniu metody dynamicznej relaksacji, obejmującej specjalny zestaw ćwiczeń fizycznych i psychologicznych na zlecenie lekarza.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Uczysz ćwiczeń dynamicznej relaksacji",
+   "Prowadzisz ćwiczenia fizyczne i psychologiczne",
+   "Oceniasz poziom stresu klienta",
+   "Pracujesz z lekarzem nad planem terapii"
+  ]
+ },
+ {
+  "id": 1621,
+  "name": "Koder medyczny",
+  "desc": "Koderzy medyczni czytają dokumentację medyczną pacjentów. Analizują i interpretują orzeczenia lekarskie dotyczące chorób, urazów i zabiegów. Koderzy medyczni przekształcają te informacje w kody klasyfikacji zdrowotnej w celu obliczenia zwrotów kosztów leczenia, sporządzania statystyk i monitorowania wyników opieki zdrowotnej.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Czytasz dokumentację medyczną pacjenta",
+   "Interpretujesz orzeczenia lekarskie o chorobach i zabiegach",
+   "Przypisujesz kody klasyfikacji zdrowotnej",
+   "Sprawdzasz, czy kod pasuje do opisu leczenia"
+  ]
+ },
+ {
+  "id": 1622,
+  "name": "Rejestrator medyczny / rejestratorka medyczna",
+  "desc": "Rejestratorzy medyczni/rejestratorki medyczne organizują, aktualizują i archiwizują dokumentację pacjentów dostępną dla personelu medycznego. Przenoszą informacje medyczne z dokumentacji papierowej pacjentów do formatu elektronicznego.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Porządkujesz dokumentację pacjentów",
+   "Aktualizujesz karty po kolejnych wizytach",
+   "Przenosisz dane z papieru do formy elektronicznej",
+   "Archiwizujesz zakończone dokumentacje w odpowiednich miejscach"
+  ]
+ },
+ {
+  "id": 1623,
+  "name": "Administrator systemu archiwizacji i dystrybucji obrazów medycznych",
+  "desc": "Administratorzy systemu archiwizacji i dystrybucji obrazów medycznych zarządzają systemami archiwizacji i dystrybucji obrazów medycznych (PACS). Zapisują obrazy wykonane przy użyciu różnych urządzeń medycznych, takich jak aparaty rentgenowskie, aby umożliwić łatwy dostęp do tych obrazów do celów medycznych. Administratorzy systemów PACS zapewniają codzienne zarządzanie systemem i jego konserwację.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Pilnujesz, żeby obrazy z aparatów trafiały do systemu",
+   "Zarządzasz kopiami i archiwum obrazów",
+   "Naprawiasz usterki, gdy lekarze nie mogą otworzyć zdjęć",
+   "Konserwujesz system na co dzień"
+  ]
+ },
+ {
+  "id": 1624,
+  "name": "Koordynator szpitalnego bloku operacyjnego",
+  "desc": "Koordynatorzy szpitalnego bloku operacyjnego gwarantują bieżące zarządzanie listami oczekujących. Planują terminy dostępności sal operacyjnych i wzywają pacjentów, którzy mają być operowani. Koordynatorzy szpitalnego bloku operacyjnego dbają o optymalizację wykorzystania zasobów.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Prowadzisz listy oczekujących na operacje",
+   "Planujesz terminy zajęcia sal operacyjnych",
+   "Dzwonisz do pacjentów i wzywasz ich na zabieg",
+   "Zmieniasz plan, gdy operacja trwa dłużej"
+  ]
+ },
+ {
+  "id": 1625,
+  "name": "Menedżer ds. zarządzania dokumentacją medyczną",
+  "desc": "Menedżerowie ds. zarządzania dokumentacją medyczną są odpowiedzialni za zarządzanie pracą działów dokumentacji medycznej, które przechowują i zabezpieczają dane pacjentów. Nadzorują i szkolą pracowników podczas wdrażania polityki działu medycznego.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Nadzorujesz pracę działu dokumentacji",
+   "Szkolisz pracowników z zasad przechowywania danych",
+   "Wdrażasz politykę działu medycznego",
+   "Pilnujesz, żeby dane pacjentów były zabezpieczone"
+  ]
+ },
+ {
+  "id": 1626,
+  "name": "Asystent / asystentka anestezjologii",
+  "desc": "Asystenci / asystentki anestezjologii zapewniają pomoc lekarzom anestezjologom. Przygotowują sale operacyjne i inne wyspecjalizowane kliniki do przeprowadzania zabiegów znieczulających, przygotowują sprzęt do znieczulenia oraz asystują poprzez wywoływanie i utrzymywanie odpowiedniego znieczulenia, a także w zabiegach po znieczuleniu. Czynności te wykonują pod nadzorem, na polecenie lekarza.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Przygotowujesz salę operacyjną do znieczulenia",
+   "Przygotowujesz sprzęt anestezjologiczny",
+   "Asystujesz lekarzowi przy podawaniu znieczulenia",
+   "Pomagasz w opiece po znieczuleniu"
+  ]
+ },
+ {
+  "id": 1627,
+  "name": "Asystent – psycholog kliniczny",
+  "desc": "Asystenci psycholodzy kliniczni wspierają psychologów w pracy. Pracują w placówkach opieki zdrowotnej lub w prywatnych praktykach, gdzie pomagają psychologom w leczeniu pacjentów. Asystenci psycholodzy kliniczni to pracownicy służby zdrowia, którzy mogą ocenić stan pacjentów na podstawie testów psychologicznych, zapewnić pomoc w terapii, a także wykonywać czynności administracyjne.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Przeprowadzasz testy psychologiczne z pacjentami",
+   "Oceniasz stan pacjenta na podstawie wyników",
+   "Pomagasz psychologowi w prowadzeniu terapii",
+   "Prowadzisz dokumentację i umawiasz wizyty"
+  ]
+ },
+ {
+  "id": 1628,
+  "name": "Osteopata",
+  "desc": "Osteopaci zajmują się leczeniem zaburzeń układu mięśniowo-szkieletowego u pacjentów, u których występują problemy dotyczące ciała, takie jak ból pleców, ból stawów i zaburzenia trawienne. Wykorzystują głównie manipulacje tkankami ciała, dotyk, rozciąganie i techniki masażu w celu złagodzenia bólu pacjentów i promowania zdrowego trybu życia.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Badasz napięcie tkanek dotykiem",
+   "Rozciągasz i masujesz mięśnie pacjenta",
+   "Wykonujesz manipulacje tkankami ciała",
+   "Doradzasz zdrowy tryb życia"
+  ]
+ },
+ {
+  "id": 1629,
+  "name": "Technik dietetyki szpitalnej",
+  "desc": "Technicy dietetyki szpitalnej wspierają dietetyków w planowaniu programów żywieniowych i jadłospisów dla pacjentów w ramach ogólnego planu leczenia, pod nadzorem dietetyka. Pod nadzorem dietetyka wspomagają dietetyków w ocenie stanu pacjenta, planowaniu żywienia dojelitowego oraz badaniu klinicznym obejmującym kontrolę wartości odżywczych.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Układasz jadłospisy dla pacjentów",
+   "Pomagasz oceniać stan odżywienia pacjenta",
+   "Planujesz żywienie dojelitowe",
+   "Sprawdzasz wartości odżywcze posiłków"
+  ]
+ },
+ {
+  "id": 1630,
+  "name": "Technik medyczny diagnostyki oddechowej",
+  "desc": "Technicy medyczni diagnostyki oddechowej pomagają lekarzom i chirurgom w przypadku problemów z układem oddechowym. Pracują w szpitalach i placówkach medycznych, gdzie obsługują sprzęt medyczny w celu badania zaburzeń oddechowych pacjentów i pomocy w ich leczeniu. Technicy medyczni diagnostyki oddechowej zajmują się również urządzeniami i maszynami do oddychania podczas zabiegów chirurgicznych.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Badasz oddech pacjentów specjalistycznym sprzętem",
+   "Obsługujesz aparaty do oddychania na operacjach",
+   "Pomagasz w leczeniu zaburzeń oddechowych",
+   "Dbasz o sprawność i czystość sprzętu"
+  ]
+ },
+ {
+  "id": 1631,
+  "name": "Asystent stomatologiczny / asystentka stomatologiczna",
+  "desc": "Asystenci stomatologiczni/asystentki stomatologiczne wspierają lekarzy dentystów w leczeniu klinicznym, wykonując czynności przygotowawcze i zapewniając pomoc przy zabiegach i dalszych działaniach, a także realizując zadania administracyjne pod nadzorem i na zlecenie lekarza dentysty.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Przygotowujesz gabinet i narzędzia",
+   "Podajesz lekarzowi narzędzia w trakcie zabiegu",
+   "Asystujesz lekarzowi przy leczeniu pacjenta",
+   "Zajmujesz się dokumentami i rejestracją"
+  ]
+ },
+ {
+  "id": 1632,
+  "name": "Kierowca karetki sanitarnej",
+  "desc": "Kierowcy karetek sanitarnych korzystają z pojazdów ratowniczych w nagłych wypadkach i wspierają ratowników medycznych, bezpiecznie transportują pacjentów, obserwują zmiany funkcji życiowych pacjenta i zgłaszają je ratownikom, a także zapewniają odpowiednie przechowywanie, transportowanie i funkcjonowanie sprzętu medycznego, pod nadzorem i na polecenie lekarza.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Jedziesz karetką do miejsca wypadku",
+   "Bezpiecznie przewozisz pacjentów",
+   "Obserwujesz funkcje życiowe pacjenta w czasie jazdy",
+   "Dbasz o sprzęt medyczny w karetce"
+  ]
+ },
+ {
+  "id": 1633,
+  "name": "Optyk okularowy",
+  "desc": "Optycy okularowi przyczyniają się do poprawy i korekty wzroku na podstawie recepty wydanej przez okulistę lub optometrystę. Mocują soczewki okularowe i oprawki, soczewki kontaktowe i inne urządzenia według wskazówek użytkownika i zgodnie z receptą. Optycy okularowi nie badają wzroku pacjentów ani nie wydają recept dotyczących korekcji wzroku. Ich zakres pracy zależy od przepisów krajowych.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Czytasz receptę i dobierasz szkła",
+   "Pomagasz klientowi wybrać oprawki",
+   "Mocujesz soczewki w oprawce",
+   "Dopasowujesz okulary do twarzy klienta"
+  ]
+ },
+ {
+  "id": 1634,
+  "name": "Technik optyk",
+  "desc": "Technicy optycy montują, naprawiają i projektują różne części okularów, takie jak soczewki, oprawki, wzory i okulary. Zajmują się cięciem, kontrolowaniem, montowaniem i polerowaniem wszystkich części przy użyciu różnych maszyn i narzędzi ręcznych. Technicy optycy kształtują, szlifują i powlekają soczewki do okularów na podstawie recepty. Mocują wykonane soczewki w oprawkach szkieł korekcyjnych. Technicy optycy dbają o to, aby soczewki były zgodne z receptą wydaną przez optyka, okulistę lub optometrystę. Mogą również pracować z innymi powiązanymi urządzeniami optycznymi i zajmować się ich konserwacją.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Szlifujesz i polerujesz soczewki na maszynach",
+   "Powlekasz soczewki specjalnymi warstwami",
+   "Mocujesz soczewki w oprawkach",
+   "Sprawdzasz zgodność okularów z receptą"
+  ]
+ },
+ {
+  "id": 1635,
+  "name": "Instruktor / instruktorka pierwszej pomocy",
+  "desc": "Instruktorzy / instruktorki pierwszej pomocy przekazują uczestnikom szkoleń wiedzę z zakresu natychmiastowego postępowania ratunkowego, m.in. na temat resuscytacji krążeniowo-oddechowej, pozycji bocznej ustalonej i postępowania z urazami. Udostępniają materiały ćwiczeniowe, takie jak specjalny manekin.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Pokazujesz resuscytację na manekinie",
+   "Uczysz pozycji bocznej ustalonej",
+   "Pokazujesz, jak postępować z urazami",
+   "Przygotowujesz sprzęt do ćwiczeń"
+  ]
+ },
+ {
+  "id": 1636,
+  "name": "Środowiskowy pracownik ochrony zdrowia",
+  "desc": "Środowiskowi pracownicy ochrony zdrowia udzielają członkom społeczności porad i informacji na temat różnych zagadnień związanych ze zdrowiem. Mogą pomagać w opiece przed- i poporodowej, udzielają porad żywieniowych oraz pomagają w rzuceniu palenia. Środowiskowi pracownicy ochrony zdrowia opracowują programy profilaktyki zdrowotnej.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Doradzasz w sprawach żywienia",
+   "Wspierasz osoby rzucające palenie",
+   "Pomagasz w opiece przed porodem i po nim",
+   "Planujesz programy profilaktyki zdrowotnej"
+  ]
+ },
+ {
+  "id": 1637,
+  "name": "Asystent / asystentka chirurga",
+  "desc": "Asystenci / asystentki chirurgów wspierają lekarzy w zakresie czynności medycznych, wykonując proste czynności pomocnicze podczas zabiegów medycznych, realizacji znormalizowanych programów diagnostycznych i znormalizowanych badań w miejscu świadczenia usług opieki zdrowotnej. Zapewniają higienę podczas zabiegów chirurgicznych oraz zajmują się czyszczeniem, dezynfekcją, sterylizacją i konserwacją urządzeń medycznych, a także wykonują zadania organizacyjne i administracyjne wymagane do przeprowadzania zabiegów pod nadzorem i na polecenie lekarza.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Podajesz narzędzia chirurgowi podczas zabiegu",
+   "Przygotowujesz salę zabiegową do operacji",
+   "Czyścisz, dezynfekujesz i sterylizujesz sprzęt",
+   "Wykonujesz dokumentację zabiegów"
+  ]
+ },
+ {
+  "id": 1638,
+  "name": "Technik cytodiagnostyki",
+  "desc": "Technicy cytodiagnostyki badają pod mikroskopem próbki komórek ludzkich pochodzących z różnych części ciała, takich jak żeński układ rozrodczy, płuco lub przewód pokarmowy, pomagają w rozpoznawaniu nieprawidłowości i chorób komórek, takich jak nowotwór czy czynniki zakaźne, pod nadzorem, na zlecenie lekarza. Nieprawidłowe komórki są przekazywane patologowi w celu postawienia diagnozy. Technicy ci mogą również pracować pod nadzorem naukowca prowadzącego badania biomedyczne. Nie zajmują się leczeniem pacjentów ani nie pomagają w leczeniu.",
+  "path": "Medycyna i zdrowie > Technicy medyczni i farmaceutyczni",
+  "tasks": [
+   "Oglądasz preparaty komórek pod mikroskopem",
+   "Wyszukujesz nieprawidłowe komórki",
+   "Przekazujesz podejrzane przypadki patologowi",
+   "Opisujesz każdy preparat w dokumentacji"
+  ]
+ },
+ {
+  "id": 1639,
+  "name": "Technik patomorfologii",
+  "desc": "Technicy patomorfologii pomagają lekarzom patologom w przeprowadzaniu sekcji zwłok, rejestracji próbek, obiektów, narządów i odpowiednich ustaleń oraz odpowiednim usuwaniu pod nadzorem, na zlecenie lekarza.",
+  "path": "Medycyna i zdrowie > Technicy medyczni i farmaceutyczni",
+  "tasks": [
+   "Pomagasz patologowi przy sekcjach zwłok",
+   "Rejestrujesz próbki i narządy",
+   "Zapisujesz ustalenia z sekcji",
+   "Zajmujesz się właściwym usuwaniem materiału"
+  ]
+ },
+ {
+  "id": 1640,
+  "name": "Protetyk",
+  "desc": "Protetycy projektują i zakładają na zamówienie protezy i ortezy dla osób pozbawionych kończyny w związku z wypadkiem lub chorobą bądź z powodu wad wrodzonych lub osób z upośledzeniem, niedorozwojem lub niewydolnością w związku z uszkodzeniem ciała, patologią lub z powodu wad wrodzonych. Zajmują się opieką nad pacjentami oraz projektowaniem i wytwarzaniem tych wyrobów w celu zaspokojenia potrzeb pacjentów.",
+  "path": "Medycyna i zdrowie > Technicy medyczni i farmaceutyczni",
+  "tasks": [
+   "Mierzysz pacjenta do protezy",
+   "Projektujesz protezy i ortezy na zamówienie",
+   "Wytwarzasz je i dopasowujesz",
+   "Rozmawiasz z pacjentem o jego potrzebach"
+  ]
+ },
+ {
+  "id": 1641,
+  "name": "Technik ortopeda",
+  "desc": "Technicy ortopedzi projektują, wykonują, zakładają i naprawiają urządzenia pomocnicze, takie jak klamry, przeguby, wzmocnienia podbicia i inne urządzenia chirurgiczne i medyczne.",
+  "path": "Medycyna i zdrowie > Technicy medyczni i farmaceutyczni",
+  "tasks": [
+   "Wykonujesz klamry, przeguby i wzmocnienia",
+   "Zakładasz sprzęt ortopedyczny pacjentowi",
+   "Naprawiasz uszkodzone urządzenia",
+   "Dopasowujesz wkładki i wzmocnienia podbicia"
+  ]
+ },
+ {
+  "id": 1642,
+  "name": "Asystent / asystentka w laboratorium medycznym",
+  "desc": "Asystenci / asystentki w laboratorium medycznym pracują pod nadzorem naukowca prowadzącego badania biomedyczne i wykonują podstawowe procedury laboratoryjne. Wykonują prace z próbkami przed analizą, takie jak sprawdzanie danych dotyczących próbek pobranych do analizy, obsługa analizatorów, ładowanie odczynników oraz pakowanie próbek. Wykonują również czynności biurowe, takie jak monitorowanie poziomu zapasów odczynników wykorzystywanych w analizie.",
+  "path": "Medycyna i zdrowie > Technicy medyczni i farmaceutyczni",
+  "tasks": [
+   "Sprawdzasz dane na pobranych próbkach",
+   "Ładujesz próbki i odczynniki do analizatorów",
+   "Pakujesz próbki do dalszych badań",
+   "Pilnujesz zapasów odczynników"
+  ]
+ },
+ {
+  "id": 1643,
+  "name": "Asystent farmaceutyczny / asystentka farmaceutyczna",
+  "desc": "Asystenci farmaceutyczni / asystentki farmaceutyczne wykonują ogólne zadania, takie jak zarządzanie zapasami, obsługa przy okienku czy wykonywanie czynności administracyjnych. Zajmują się inwentaryzacją w aptece pod nadzorem farmaceuty.",
+  "path": "Medycyna i zdrowie > Technicy medyczni i farmaceutyczni",
+  "tasks": [
+   "Obsługujesz klientów przy okienku",
+   "Liczysz zapasy w aptece",
+   "Układasz towar na półkach",
+   "Wprowadzasz dostawy i faktury do systemu"
+  ]
+ },
+ {
+  "id": 1644,
+  "name": "Perfuzjonista / perfuzjonistka",
+  "desc": "Perfuzjoniści / perfuzjonistki obsługują sztuczne płuco-serce podczas operacji chirurgicznych w celu zapewnienia oddychania i krążenia krwi. Pracują w ramach zespołu chirurgicznego, podłączają pacjentów do sztucznych płuco-serc w trakcie przygotowań do operacji, monitorują ich stan podczas operacji, informują zespół o stanie pacjentów i określają niezbędne techniki zgodnie z ich potrzebami.",
+  "path": "Medycyna i zdrowie > Technicy medyczni i farmaceutyczni",
+  "tasks": [
+   "Przygotowujesz sztuczne płuco-serce do operacji",
+   "Podłączasz pacjenta do aparatu",
+   "Monitorujesz krążenie i oddychanie pacjenta",
+   "Informujesz zespół o stanie pacjenta"
+  ]
+ },
+ {
+  "id": 1645,
+  "name": "Technik audiolog",
+  "desc": "Technicy audiolodzy tworzą i serwisują aparaty słuchowe i produkty do ochrony słuchu. Wydają, zakładają i zapewniają aparaty słuchowe dla osób, które ich potrzebują.",
+  "path": "Medycyna i zdrowie > Technicy medyczni i farmaceutyczni",
+  "tasks": [
+   "Wykonujesz wkładki i obudowy aparatów",
+   "Serwisujesz aparaty słuchowe",
+   "Dobierasz aparat do potrzeb klienta",
+   "Zakładasz i ustawiasz aparat w uchu"
+  ]
+ },
+ {
+  "id": 1646,
+  "name": "Asystent pielęgniarski / asystentka pielęgniarska",
+  "desc": "Asystenci pielęgniarscy/asystentki pielęgniarskie pracują w zespołach pielęgniarek specjalizujących się w dziedzinie pielęgniarstwa, opieki społecznej, opieki klinicznej i opieki nad osobami ze wszystkich grup wiekowych. Pomagają w promocji i przywracaniu zdrowia pacjentów, zapewniając wsparcie fizyczne i psychologiczne pacjentom, ich przyjaciołom i rodzinom.",
+  "path": "Medycyna i zdrowie > Opiekunowie medyczni",
+  "tasks": [
+   "Pomagasz pacjentom w codziennych czynnościach",
+   "Wspierasz pielęgniarki przy opiece",
+   "Rozmawiasz z pacjentami i ich rodzinami",
+   "Zauważasz zmiany w samopoczuciu pacjenta"
+  ]
+ },
+ {
+  "id": 1647,
+  "name": "Opiekunka domowa / opiekun domowy",
+  "desc": "Opiekunki domowe / opiekunowie domowi zapewniają osobistą pomoc i wspomagają samodzielność osób, które nie są w stanie same się sobą zajmować z powodu choroby, starzenia się lub niepełnosprawności. Pomagają im w wykonywaniu czynności w zakresie higieny osobistej, karmienia, komunikowania się lub przyjmowania leków zgodnie z instrukcjami fachowego personelu medycznego.",
+  "path": "Medycyna i zdrowie > Opiekunowie medyczni",
+  "tasks": [
+   "Pomagasz w higienie osobistej",
+   "Karmisz i przygotowujesz posiłki",
+   "Przypominasz o lekach zgodnie z zaleceniami",
+   "Rozmawiasz i pomagasz się porozumiewać"
+  ]
+ },
+ {
+  "id": 1648,
+  "name": "Osoba pobierająca krew",
+  "desc": "Osoby pobierające krew pobierają próbki krwi od pacjentów do badań laboratoryjnych, dbając o bezpieczeństwo pacjenta podczas pobierania krwi. Przewożą próbki do laboratorium zgodnie ze ścisłymi instrukcjami otrzymanymi od lekarza.",
+  "path": "Medycyna i zdrowie > Opiekunowie medyczni",
+  "tasks": [
+   "Pobierasz krew z żyły pacjenta",
+   "Uspokajasz osoby, które boją się igły",
+   "Opisujesz probówki z próbkami",
+   "Transportujesz próbki do laboratorium"
+  ]
+ },
+ {
+  "id": 1649,
+  "name": "Sanitariusz szpitalny",
+  "desc": "Sanitariusze szpitalni to profesjonalni opiekunowie medyczni, którzy transportują osoby na noszach na terenie szpitala, a także przenoszą różne przedmioty.",
+  "path": "Medycyna i zdrowie > Opiekunowie medyczni",
+  "tasks": [
+   "Przewozisz pacjentów na noszach i wózkach",
+   "Przenosisz sprzęt i przedmioty między oddziałami",
+   "Przekładasz pacjentów z łóżka na łóżko",
+   "Odbierasz zlecenia transportu od personelu"
+  ]
+ },
+ {
+  "id": 1650,
+  "name": "Technik sterylizacji medycznej",
+  "desc": "Technicy sterylizacji medycznej odkażają wyroby medyczne zgodnie ze ścisłymi procedurami higienicznymi. Demontują, a następnie składają na nowo zaawansowany sprzęt medyczny w celu jego sterylizacji, czyszczenia i przepakowania do dalszego użytku pod nadzorem, zgodnie ze poleceniami lekarza lub innej wykwalifikowanej osoby z personelu medycznego.",
+  "path": "Medycyna i zdrowie > Opiekunowie medyczni",
+  "tasks": [
+   "Demontujesz zużyty sprzęt medyczny",
+   "Odkażasz narzędzia według ścisłych procedur",
+   "Składasz sprzęt z powrotem i pakujesz",
+   "Sprawdzasz, czy zestawy narzędzi są kompletne"
+  ]
+ },
+ {
+  "id": 1651,
+  "name": "Akupunkturzysta/akupunkturzystka",
+  "desc": "Akupunkturzyści wykorzystują cienkie igły i wsadzają je do punktów akupunktury w organizmie w celu przywrócenia równowagi ciała ludzkiego i ogólnie dobrego stanu zdrowia. Akupunkturzyści koncentrują się na meridianach w celu leczenia różnych schorzeń.",
+  "path": "Medycyna i zdrowie > Medycyna komplementarna",
+  "tasks": [
+   "Rozmawiasz z klientem o dolegliwościach",
+   "Wybierasz punkty akupunktury na meridianach",
+   "Wkładasz i usuwasz cienkie igły",
+   "Dobierasz terapię do schorzenia klienta"
+  ]
+ },
+ {
+  "id": 1652,
+  "name": "Homeopata",
+  "desc": "Homeopaci leczą klientów na podstawie selekcji i przepisywania homeopatycznych środków zaradczych, stosując zasadę homeopatii „podobne leczyć podobnym”.",
+  "path": "Medycyna i zdrowie > Medycyna komplementarna",
+  "tasks": [
+   "Rozmawiasz z klientem o dolegliwościach",
+   "Zbierasz szczegółowy wywiad o objawach",
+   "Dobierasz środek homeopatyczny",
+   "Zalecasz sposób stosowania środka"
+  ]
+ },
+ {
+  "id": 1653,
+  "name": "Terapeuta tradycyjnej medycyny chińskiej",
+  "desc": "Terapeuci tradycyjnej medycyny chińskiej stosują alternatywne metody medycyny w celu leczenia chorób we wszystkich jego formach. Wykorzystują oni również różne terapie, takie jak stosowanie leków ziołowych, akupunktura, masaże i terapie dietetyczne, aby zwiększyć ogólny stan zdrowia pacjenta i zapobiec wystąpieniu choroby.",
+  "path": "Medycyna i zdrowie > Medycyna komplementarna",
+  "tasks": [
+   "Dobierasz mieszanki ziołowe",
+   "Stosujesz akupunkturę i masaże",
+   "Układasz zalecenia dietetyczne",
+   "Rozmawiasz z pacjentem o zdrowiu i stylu życia"
+  ]
+ },
+ {
+  "id": 1654,
+  "name": "Terapeuta w dziedzinie medycyny komplementarnej",
+  "desc": "Terapeuci w dziedzinie medycyny komplementarnej wykorzystują szereg terapii komplementarnych i alternatywnych, które mają współpracować jednocześnie z ciałem, umysłem i duchem klienta w podejściu holistycznym. Oferują oni praktyki i usługi na rzecz holistycznego dobrostanu, utrzymania zdrowia, edukacji zdrowotnej, promocji zdrowia i profilaktyki chorób, a także zrównoważonego leczenia niektórych chorób, zwłaszcza chorób przewlekłych. Ich praktyki dotyczą między innymi akupunktury, aromaterapii, banoterapii, homeopatii i ziołolecznictwa.",
+  "path": "Medycyna i zdrowie > Medycyna komplementarna",
+  "tasks": [
+   "Rozmawiasz z klientem o jego samopoczuciu",
+   "Dobierasz terapie uzupełniające do potrzeb",
+   "Prowadzisz zajęcia o zdrowym stylu życia",
+   "Wspierasz osoby z chorobami przewlekłymi obok leczenia"
+  ]
+ },
+ {
+  "id": 1655,
+  "name": "Pielęgniarz - specjalista/pielęgniarka – specjalista",
+  "desc": "Pielęgniarze specjaliści wspierają i przywracają zdrowie ludzi oraz diagnozują i dbają o opiekę w ramach określonej gałęzi pielęgniarskiej.",
+  "path": "Medycyna i zdrowie > Pielęgniarki i położne",
+  "tasks": [
+   "Opiekujesz się pacjentami w swojej specjalizacji",
+   "Oceniasz stan zdrowia pacjentów",
+   "Planujesz opiekę pielęgniarską",
+   "Uczysz pacjentów, jak radzić sobie z chorobą"
+  ]
+ },
+ {
+  "id": 1656,
+  "name": "Pielęgniarz zaawansowanej praktyki/pielęgniarka zaawansowanej praktyki",
+  "desc": "Pielęgniarze zaawansowanej praktyki zajmują się promowaniem i przywracaniem stanu zdrowia pacjentów, stawiają diagnozę i zapewniają opiekę nad chorymi w sposób zaawansowany, koordynując opiekę w obszarach, na których występują choroby przewlekłe, zapewniając zintegrowaną opiekę oraz nadzorując wyznaczonych członków zespołu. Pielęgniarze zaawansowanej praktyki to pielęgniarze odpowiedzialni za opiekę ogólną, którzy nabyli fachową wiedzę, umiejętności w podejmowaniu złożonych decyzji i kompetencje kliniczne do celów rozszerzonej praktyki klinicznej na zaawansowanym poziomie.",
+  "path": "Medycyna i zdrowie > Pielęgniarki i położne",
+  "tasks": [
+   "Stawiasz diagnozy w trudnych przypadkach",
+   "Koordynujesz opiekę nad chorymi przewlekle",
+   "Podejmujesz złożone decyzje kliniczne",
+   "Nadzorujesz pracę wyznaczonych osób"
+  ]
+ },
+ {
+  "id": 1657,
+  "name": "Kierownik ds. informatyki medycznej",
+  "desc": "Kierownicy ds. informatyki medycznej nadzorują codzienne działania systemów informacyjnych stosowanych w instytucjach medycznych. Prowadzą również badania, wykorzystując swoje zrozumienie praktyk medycznych w celu znalezienia sposobów poprawy usług opieki zdrowotnej.",
+  "path": "Medycyna i zdrowie > Kierownicy ds. usług zdrowotnych",
+  "tasks": [
+   "Nadzorujesz działanie systemów z dokumentacją pacjentów",
+   "Rozmawiasz z lekarzami o tym, co im przeszkadza",
+   "Planujesz wdrożenia nowych rozwiązań",
+   "Analizujesz dane, by poprawić opiekę nad pacjentami"
+  ]
+ },
+ {
+  "id": 1658,
+  "name": "Kierownik zakładu opieki zdrowotnej",
+  "desc": "Kierownicy zakładu opieki zdrowotnej nadzorują działalność instytucji opieki zdrowotnej, takich jak szpitale, ośrodki rehabilitacyjne, ośrodki opieki w domu i instytucje opieki nad osobami starszymi, aby zapewnić spełnianie przez organizację wymogów, opiekę nad pacjentami i mieszkańcami, utrzymanie organizacji oraz utrzymanie niezbędnego wyposażenia. Nadzorują również pracowników i zapewniają prowadzenie rejestrów.",
+  "path": "Medycyna i zdrowie > Kierownicy ds. usług zdrowotnych",
+  "tasks": [
+   "Układasz grafik i pilnujesz obsady personelu",
+   "Sprawdzasz, czy sprzęt jest sprawny i uzupełniony",
+   "Kontrolujesz dokumentację i wymagane rejestry",
+   "Rozmawiasz z pacjentami, rodzinami i pracownikami"
+  ]
+ },
+ {
+  "id": 1659,
+  "name": "Asystent / asystentka zespołu porodowego",
+  "desc": "Asystenci/asystentki zespołu porodowego pracują wspólnie z położnymi i pracownikami służby zdrowia w obszarze pielęgniarstwa i położnictwa. Pomagają położnym i kobietom w związku z porodem, zapewniając niezbędne wsparcie, opiekę i doradztwo podczas ciąży i porodu oraz w okresie połogu, asystują w narodzinach oraz pomagają w zapewnieniu opieki nad noworodkami.",
+  "path": "Medycyna i zdrowie",
+  "tasks": [
+   "Pomagasz położnej przy porodzie",
+   "Przygotowujesz salę i potrzebny sprzęt",
+   "Wspierasz rodzącą rozmową i obecnością",
+   "Pomagasz przy karmieniu i pielęgnacji noworodka"
+  ]
+ },
+ {
+  "id": 1660,
+  "name": "Terapeuta ziołolecznictwa",
+  "desc": "Terapeuci ziołolecznictwa stosują medycynę ziołową do łagodzenia bólu i leczenia chorób, takich jak alergie, przewlekłe schorzenia fizyczne lub związane ze stresem. Badają właściwości roślin i związane z nimi korzyści oraz opracowują spersonalizowany plan leczenia dla pacjentów.",
+  "path": "Medycyna i zdrowie",
+  "tasks": [
+   "Pytasz pacjenta o objawy i styl życia",
+   "Badasz właściwości i działanie roślin",
+   "Układasz indywidualny plan stosowania ziół",
+   "Sprawdzasz, jak pacjent reaguje na terapię"
+  ]
+ },
+ {
+  "id": 1661,
+  "name": "Instruktor psów przewodników",
+  "desc": "Instruktorzy psów przewodników szkolą psy, które mają być przewodnikami osób niewidomych i umożliwiać im skuteczne przemieszczanie się. Planują oni szkolenia, dopasowują psy przewodników do swoich klientów i zapewniają ogólną rutynową opiekę nad szkolonymi psami. Instruktorzy psów przewodników udzielają również porad dla osób niewidomych w zakresie korzystania z technik wspomagających psy w zdobywaniu umiejętności i mobilności.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Uczysz psa komend i omijania przeszkód",
+   "Planujesz etapy szkolenia kolejnych psów",
+   "Dobierasz psa do klienta i jego tempa",
+   "Pokazujesz niewidomej osobie, jak pracować z psem"
+  ]
+ },
+ {
+  "id": 1662,
+  "name": "Trener koni/trenerka koni",
+  "desc": "Trenerzy/trenerki koni szkolą zwierzęta i/lub jeźdźców w celach ogólnych i szczegółowych w zakresie pomocy, bezpieczeństwa, wypoczynku, konkurencji, transportu, posłuszeństwa oraz rutynowego postępowania, rozrywki i edukacji zgodnie z krajowymi przepisami.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Ćwiczysz konia z ziemi i w siodle",
+   "Uczysz konia spokojnie znosić transport",
+   "Prowadzisz lekcje dla jeźdźców",
+   "Przygotowujesz konia do zawodów lub pokazów"
+  ]
+ },
+ {
+  "id": 1663,
+  "name": "Treser i opiekun zwierząt",
+  "desc": "Treserzy i opiekunowie zwierząt zawodowo zajmują się zwierzętami i prowadzą dalszy trening zwierzęcia zgodnie z krajowymi przepisami.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Karmisz zwierzęta i sprawdzasz ich kondycję",
+   "Powtarzasz z nimi wyuczone zachowania",
+   "Uczysz nowych poleceń nagrodami",
+   "Zapisujesz postępy i niepokojące objawy"
+  ]
+ },
+ {
+  "id": 1664,
+  "name": "Treser zwierząt",
+  "desc": "Treserzy zwierząt zajmują się szkoleniem zwierząt i/lub ich opiekunów w celach ogólnych i szczegółowych w zakresie pomocy, bezpieczeństwa, wypoczynku, konkurencji, transportu, posłuszeństwa oraz rutynowego postępowania, rozrywki i edukacji zgodnie z krajowymi przepisami.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Rozkładasz trudną sztuczkę na małe kroki",
+   "Nagradzasz zwierzę za każdy dobry ruch",
+   "Ćwiczysz występ z muzyką i publicznością",
+   "Uczysz opiekuna, jak utrzymać wyuczone zachowania"
+  ]
+ },
+ {
+  "id": 1665,
+  "name": "Opiekun dzikich zwierząt",
+  "desc": "Opiekunowie dzikich zwierząt zajmują się zwierzętami trzymanymi w niewoli w celu ich ochrony, prowadzenia działań edukacyjnych i badań i/lub wystawiania na pokaz. Są oni zazwyczaj odpowiedzialni za karmienie i codzienną opiekę nad zwierzętami i ich dobrostan. W ramach swojej codziennej pracy opiekunowie dzikich zwierząt myją zwierzęta i zgłaszają ewentualne problemy zdrowotne. W szczególności mogą oni uczestniczyć w badaniach naukowych lub działaniach edukacyjnych skierowanych do ogółu społeczeństwa, takich jak oprowadzanie wycieczek i udzielanie odpowiedzi na pytania.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Przygotowujesz karmę i karmisz zwierzęta",
+   "Myjesz zwierzęta i ich wybiegi",
+   "Zauważasz i zgłaszasz objawy choroby",
+   "Odpowiadasz na pytania zwiedzających"
+  ]
+ },
+ {
+  "id": 1666,
+  "name": "Pracownik ds. opieki nad zwierzętami",
+  "desc": "Pracownicy ds. opieki nad zwierzętami zapewniają rutynową opiekę nad zwierzętami niegospodarczymi, która może obejmować karmienie, pojenie, mycie, ćwiczenia fizyczne i wzbogacanie środowiska, czynności pielęgnacyjne, tresurę oraz monitorowanie stanu zdrowia i dobrostanu zwierząt zgodnie z krajowymi przepisami.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Karmisz i poisz zwierzęta o stałych porach",
+   "Wyprowadzasz je i organizujesz ruch",
+   "Wymyślasz zabawki i zajęcia dla zwierząt",
+   "Zapisujesz zmiany w wyglądzie i zachowaniu"
+  ]
+ },
+ {
+  "id": 1667,
+  "name": "Pracownik hotelu dla zwierząt",
+  "desc": "Pracownicy hoteli dla zwierząt zajmują się zwierzętami w hotelach dla psów i kotów oraz zapewniają opiekę nad zwierzętami domowymi. Karmią oni zwierzęta, czyszczą ich klatki, zajmują się chorymi i starymi zwierzętami, wykonują czynności pielęgnacyjne i wyprowadzają je na spacery.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Sprzątasz klatki i legowiska",
+   "Karmisz według instrukcji właścicieli",
+   "Wyprowadzasz psy na spacery",
+   "Pilnujesz chorych i starszych zwierząt"
+  ]
+ },
+ {
+  "id": 1668,
+  "name": "Asystent weterynarza wykonujący korektę i pielęgnację kopyt bydła",
+  "desc": "Asystenci weterynarza wykonujący korektę i pielęgnację kopyt bydła są specjalistami w zakresie pielęgnacji kopyt bydła zgodnie ze wszelkimi wymogami prawnymi określonymi przez właściwy organ krajowy.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Oglądasz racice krowy i szukasz uszkodzeń",
+   "Przycinasz nadmiernie wyrośnięte racice",
+   "Ustawiasz krowę tak, by bezpiecznie pracować",
+   "Opatrujesz rany i informujesz hodowcę"
+  ]
+ },
+ {
+  "id": 1669,
+  "name": "Hodowca psów",
+  "desc": "Hodowcy psów nadzorują chów i codzienną opiekę nad psami. Dbają o zdrowie i dobrostan psów.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Karmisz psy i sprzątasz kojce",
+   "Pilnujesz zdrowia dorosłych psów i szczeniąt",
+   "Prowadzisz dokumentację psów i szczepień",
+   "Szukasz dobrych domów dla szczeniąt"
+  ]
+ },
+ {
+  "id": 1670,
+  "name": "Inspektor weterynaryjny ds. zdrowia zwierząt",
+  "desc": "Inspektorzy weterynaryjni ds. zdrowia zwierząt prowadzą czynności wyjaśniające w przypadku otrzymania zgłoszeń domniemanego okrucieństwa lub zaniedbywania zwierząt, ratują lub odbierają zwierzęta w sytuacjach bezpośredniego lub potencjalnego zagrożenia, współpracują z agencjami wewnętrznymi i zewnętrznymi oraz innymi placówkami zajmującymi się dobrostanem zwierząt, edukują i doradzają właścicielom i opiekunom zwierząt, dążą do poprawy lub utrzymania dobrostanu zwierząt, a także zapobiegają cierpieniu zwierząt lub je łagodzą.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Jedziesz na kontrolę po zgłoszeniu",
+   "Oceniasz stan i warunki życia zwierzęcia",
+   "Piszesz notatki i dokumentujesz dowody",
+   "Tłumaczysz właścicielowi, co trzeba poprawić"
+  ]
+ },
+ {
+  "id": 1671,
+  "name": "Kierownik schroniska dla psów",
+  "desc": "Kierownicy schronisk dla psów monitorują codzienne działania schroniska będącego pod ich nadzorem. Dbają, aby zwierzęta przebywające w schroniskach były odpowiednio traktowane i objęte opieką. Kierownicy schronisk dla psów sprawują nadzór nad personelem i utrzymują kontakty z właścicielami zwierząt przywożących i odbierających zwierzęta.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Układasz zadania i grafik pracowników",
+   "Sprawdzasz, czy psy mają dobrą opiekę",
+   "Rozmawiasz z osobami oddającymi i odbierającymi psy",
+   "Pilnujesz zapasów karmy i czystości"
+  ]
+ },
+ {
+  "id": 1672,
+  "name": "Opiekun zwierząt domowych",
+  "desc": "Opiekunowie zwierząt domowych świadczą usługi w zakresie opieki nad zwierzętami, takie jak wyprowadzanie psa na spacery, opieka nad psem z pobytem w domu opiekuna, opieka nad psem w domu właściciela, opieka nad psem w domu opiekuna w ciągu dnia oraz przewóz zwierząt. Prowadzą oni dokumentację, stosują odpowiednie i bezpieczne techniki postępowania ze zwierzętami oraz rutynowo monitorują stan zdrowia i dobrostan zwierzęcia.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Wyprowadzasz psy na spacery",
+   "Karmisz zwierzęta w domu właściciela",
+   "Zapisujesz, jak zwierzę jadło i się zachowywało",
+   "Przewozisz zwierzęta, gdy trzeba"
+  ]
+ },
+ {
+  "id": 1673,
+  "name": "Szef zespołu opiekunów zwierząt w zoo",
+  "desc": "Szefowie zespołu opiekunów zwierząt w zoo są odpowiedzialni za kierowanie zespołem dozorców w zoo. Wykonują oni codzienne czynności związane z opieką nad zwierzętami i chowem, a we współpracy z kolegami zajmują się długoterminowym chowem i pozyskiwaniem gatunków i eksponatów do swojej sekcji. Są oni również odpowiedzialni za różne aspekty zarządzania dozorcami w swojej sekcji. W zależności od wielkości ogrodu zoologicznego i sekcji zwierząt mogą oni dodatkowo odpowiadać za przydzielanie pracowników i sporządzanie budżetu.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Przydzielasz zadania opiekunom w sekcji",
+   "Opiekujesz się zwierzętami razem z zespołem",
+   "Planujesz długoterminowy chów gatunków",
+   "Rozmawiasz z dyrekcją o potrzebach sekcji"
+  ]
+ },
+ {
+  "id": 1674,
+  "name": "Łowczy",
+  "desc": "Owczy zarządzają siedliskiem i populacją zwierząt łownych na określonym obszarze.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Obchodzisz teren i liczysz zwierzynę",
+   "Dokarmiasz zwierzęta zimą i naprawiasz paśniki",
+   "Obserwujesz ślady i stan siedlisk",
+   "Planujesz gospodarkę łowiecką z myśliwymi"
+  ]
+ },
+ {
+  "id": 1675,
+  "name": "Arborysta",
+  "desc": "Chirurdzy pielęgniarze drzew zajmują się pielęgnacją drzew. Wykorzystują ciężkie maszyny do przycinania i wycinki drzew. Często muszą wspinać się na drzewa w celu ich konserwacji.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Oceniasz zdrowie drzewa z ziemi i z korony",
+   "Przycinasz gałęzie specjalistycznymi maszynami",
+   "Wspinasz się na drzewo z asekuracją",
+   "Tniesz i rozdrabniasz wycięte drzewo"
+  ]
+ },
+ {
+  "id": 1676,
+  "name": "Kierownik produkcji w przedsiębiorstwie ogrodniczym",
+  "desc": "Kierownicy produkcji w przedsiębiorstwie ogrodniczym planują produkcję, zarządzają przedsiębiorstwem i uczestniczą w produkcji.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Planujesz, co i kiedy się sieje",
+   "Przydzielasz pracę zespołowi",
+   "Kontrolujesz stan roślin w szklarniach i na polu",
+   "Pilnujesz zamówień i kosztów firmy"
+  ]
+ },
+ {
+  "id": 1677,
+  "name": "Koordynator zespołu ds. produkcji ogrodniczej",
+  "desc": "Koordynatorzy zespołu ds. produkcji ogrodniczej są odpowiedzialni za kierowanie i współpracę z zespołem. Układają codzienne harmonogramy prac w zakresie produkcji ogrodniczej i uczestniczą w produkcji.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Układasz dzienny plan prac dla brygady",
+   "Pokazujesz nowym osobom, jak wykonać zadanie",
+   "Pracujesz razem z zespołem przy roślinach",
+   "Zgłaszasz kierownikowi braki i problemy"
+  ]
+ },
+ {
+  "id": 1678,
+  "name": "Pracownik gospodarstwa ogrodniczego",
+  "desc": "Pracownicy gospodarstw ogrodniczych wykonują praktyczne zadania i pomagają w szkółkach lub szklarniach przy produkcji upraw ogrodniczych.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Siejesz nasiona i przesadzasz rozsady",
+   "Podlewasz rośliny w szklarni",
+   "Usuwasz chwasty i zwiędnięte liście",
+   "Przenosisz i układasz doniczki"
+  ]
+ },
+ {
+  "id": 1679,
+  "name": "Projektant wewnętrznych terenów zielonych",
+  "desc": "Projektanci wewnętrznych terenów zielonych projektują, instalują i utrzymują zielone przestrzenie we wnętrzach zgodnie z wymogami klienta.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Mierzysz wnętrze i sprawdzasz, ile jest światła",
+   "Dobierasz rośliny do warunków i życzeń klienta",
+   "Rozmieszczasz rośliny i donice we wnętrzu",
+   "Pielęgnujesz i wymieniasz rośliny u klienta"
+  ]
+ }
+]

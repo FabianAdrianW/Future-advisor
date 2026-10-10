@@ -1,0 +1,119 @@
+@330
+M: Obsługa skręcarki :: Uruchamiasz maszynę, która skręca kilka nitek w jedną przędzę. | Zakładanie szpul :: Zakładasz szpule z kilkoma nitkami i prowadzisz je przez prowadniki. | Ustawianie skrętu :: Dobierasz liczbę skrętów na metr do wymagań przędzy. | Kontrola równości skrętu :: Sprawdzasz, czy skręt jest jednakowy na całej długości przędzy. | Konserwacja skręcarki :: Czyścisz i smarujesz mechanizmy zgodnie z instrukcją.
+W: Przędza wielożyłowa :: Rozumiesz, jak łączenie nitek zmienia wytrzymałość i wygląd przędzy. | Numeracja przędzy :: Odczytujesz oznaczenia grubości przędzy. | Rodzaje włókien :: Znasz właściwości włókien naturalnych i chemicznych. | Usuwanie zerwań :: Szybko łączysz zerwane nitki, aby maszyna nie stała bez potrzeby.
+
+@331
+M: Obsługa nawijarki :: Uruchamiasz maszynę, która nawija sznurki, nici i tasiemki na szpule. | Rodzaje nawojów :: Rozróżniasz bobiny, szpule i rolki oraz wiesz, do czego służą. | Zakładanie rdzeni :: Zakładasz puste szpule lub rdzenie i mocujesz początek nitki. | Kontrola naprężenia nici :: Pilnujesz, żeby nić nie była za luźna ani za napięta. | Konserwacja nawijarki :: Czyścisz i smarujesz mechanizmy maszyny.
+W: Nawijanie krzyżowe :: Znasz sposób układania nitek, który zapobiega zsuwaniu się nawoju. | Rodzaje nici i tasiemek :: Rozróżniasz materiały i grubości nawijanych wyrobów. | Znakowanie nawojów :: Opisujesz szpule numerem partii i parametrami przędzy. | Usuwanie zerwań :: Szybko łączysz zerwane nitki i wznawiasz nawijanie.
+
+@332
+M: Obsługa odziarniarki :: Podajesz surową bawełnę do maszyny i uruchamiasz proces. | Oddzielanie włókien od nasion :: Pilnujesz, czy maszyna dokładnie oddziela włókno od nasion. | Obsługa prasy belującej :: Dozorujesz prasę, która zgniata włókno w zwarte bele. | Zdejmowanie bel :: Zdejmujesz i opisujesz gotowe bele z maszyny. | Konserwacja maszyn :: Czyścisz i smarujesz odziarniarkę oraz prasę.
+W: Rodzaje bawełny :: Rozróżniasz odmiany bawełny pod względem długości i jakości włókna. | Ocena jakości włókna :: Sprawdzasz czystość, wilgotność i długość włókien. | Przygotowanie bel do transportu :: Oznaczasz i wiążesz bele według zasad magazynowania. | Bezpieczna praca przy prasach :: Znasz zasady BHP przy urządzeniach o dużym nacisku.
+
+@333
+M: Ustawianie maszyn przędzalniczych :: Przygotowujesz maszyny pod nowe zamówienie według specyfikacji. | Dobór parametrów do włókna :: Ustalasz prędkość i skręt zależnie od rodzaju włókna. | Pobieranie próbek przędzy :: Odcinasz próbki z maszyn, aby je ocenić. | Badanie przędzy :: Mierzysz grubość, wytrzymałość i równomierność przędzy. | Dokumentowanie ustawień :: Zapisujesz parametry, które dały dobrą przędzę.
+W: Numeracja przędzy :: Odczytujesz i obliczasz oznaczenia grubości, na przykład tex. | Analiza przyczyn nierówności :: Szukasz powodu, dla którego przędza jest cienka lub gruba w miejscach. | Mieszanie włókien :: Dobierasz proporcje włókien w mieszance. | Optymalizacja procesu :: Zmieniasz ustawienia, aby zwiększyć wydajność bez utraty jakości.
+
+@334
+M: Szycie odzieży ochronnej :: Szyjesz kombinezony i kurtki z materiałów chroniących przed zagrożeniami. | Dobór materiałów do zagrożeń :: Wybierasz tkaniny odporne na ogień, chemikalia, zimno lub deszcz. | Normy dla odzieży ochronnej :: Wiesz, że wyrób musi spełniać wymagania norm, i sprawdzasz zgodność. | Znakowanie odblaskowe :: Przyszywasz pasy odblaskowe w miejscach i w sposób wymagany dla odzieży ostrzegawczej. | Kontrola zgodności wyrobu :: Porównujesz gotowy wyrób z wymaganiami i dokumentacją.
+W: Zgrzewanie szwów :: Uszczelniasz szwy taśmą lub ciepłem, aby odzież nie przepuszczała wody. | Materiały trudnopalne :: Znasz tkaniny stosowane w odzieży dla spawaczy i strażaków. | Odzież wysokiej widoczności :: Rozumiesz zasady rozmieszczenia tkanin fluorescencyjnych i odblaskowych. | Dokumentacja wyrobu :: Prowadzisz zapisy partii i wyników kontroli.
+
+@335
+M: Obsługa maszyn do szycia :: Uruchamiasz i prowadzisz przemysłowe maszyny szwalnicze na linii. | Rodzaje ściegów :: Rozróżniasz ścieg prosty, zygzak i overlock oraz wiesz, do czego służą. | Łączenie elementów odzieży :: Zszywasz kolejne części ubrania w prawidłowej kolejności. | Wzmacnianie szwów :: Zabezpieczasz szwy ryglowaniem lub dodatkowym przeszyciem tam, gdzie materiał się rozchodzi. | Wymiana igieł i nici :: Dobierasz igłę i nić do materiału i zakładasz je w maszynie.
+W: Maszyny overlock :: Obsługujesz maszynę, która jednocześnie obszywa brzeg i go zabezpiecza. | Naprawa odzieży :: Poprawiasz wadliwie uszyte miejsca bez uszkodzenia materiału. | Szycie dzianin :: Znasz sposoby szycia materiałów rozciągliwych bez falowania szwów. | Regulacja naprężenia nici :: Ustawiasz maszynę tak, aby szew był równy po obu stronach.
+
+@336
+M: Szycie skóry maszyną :: Zszywasz części skórzane na maszynach przemysłowych. | Dobór nici do skóry :: Dobierasz grubość i rodzaj nici do grubości skóry. | Nawlekanie maszyny :: Przeciągasz nić przez prowadnice i igłę w prawidłowej kolejności. | Maszyny płaskie i ramieniowe :: Wybierasz typ maszyny zależnie od kształtu szytej części. | Układanie części do szycia :: Porządkujesz elementy skórzane w kolejności szycia.
+W: Maszyny kolumnowe :: Obsługujesz maszyny do szycia trudno dostępnych miejsc. | Ścienianie skóry :: Zmniejszasz grubość skóry w miejscu szwu. | Wykończenie szwów :: Prasujesz, kleisz i zabezpieczasz szwy skórzane. | Regulacja docisku stopki :: Ustawiasz docisk tak, by skóra nie ślizgała się ani nie marszczyła.
+
+@337
+M: Obsługa hafciarki :: Uruchamiasz i nadzorujesz maszynę, która haftuje wzory na odzieży. | Naciąganie materiału w ramie :: Mocujesz tkaninę w ramie tak, aby haft się nie marszczył. | Dobór nici haftu :: Zakładasz nici w kolorach przewidzianych we wzorze. | Wczytywanie wzorów haftu :: Wgrywasz plik ze wzorem do maszyny i wybierasz jego rozmiar oraz położenie. | Kontrola ściegu :: Obserwujesz haft i reagujesz na zerwania nici lub pominięte ściegi.
+W: Digitalizacja wzorów haftu :: Zamieniasz rysunek na plik z przebiegiem ściegów w programie. | Haft wielogłowicowy :: Obsługujesz maszyny, które haftują kilka sztuk jednocześnie. | Podkłady pod haft :: Dobierasz materiał podkładowy do rodzaju tkaniny i gęstości wzoru. | Konserwacja hafciarki :: Czyścisz, smarujesz i wymieniasz igły.
+
+@338
+M: Szycie prototypów odzieży :: Szyjesz pierwszą próbkę według projektu i wskazówek konstruktora. | Czytanie projektów :: Odczytujesz rysunki techniczne i opisy modelu. | Konstrukcja pod produkcję seryjną :: Wybierasz taką kolejność i sposób szycia, który da się powtórzyć na linii. | Prasowanie odzieży :: Prasujesz poszczególne etapy i gotową odzież tak, aby nie zniszczyć tkaniny. | Kontrola jakości próbki :: Sprawdzasz wymiary, szwy i wykończenie.
+W: Cięcie wykrojów :: Wycinasz części według szablonów. | Szablony odzieży :: Rozumiesz, jak z projektu powstają szablony poszczególnych części. | Rodzaje tkanin :: Rozróżniasz tkaniny pod względem zachowania podczas szycia. | Dokumentacja techniczna :: Zapisujesz uwagi do produkcji seryjnej na podstawie wykonanej próbki.
+
+@339
+M: Skracanie odzieży :: Skracasz nogawki, rękawy i dół ubrań tak, aby zachować prawidłowy wygląd. | Zwężanie i dopasowywanie :: Zmieniasz kształt ubrania, żeby pasowało do sylwetki klienta. | Pomiary krawieckie :: Mierzysz sylwetkę lub ubranie i zaznaczasz miejsca poprawek. | Szycie ręczne i maszynowe :: Łączysz obie techniki w zależności od tkaniny i miejsca. | Kontrola jakości poprawek :: Sprawdzasz, czy szwy są równe, a ubranie leży poprawnie.
+W: Przeróbki marynarek i płaszczy :: Wprowadzasz zmiany w ubraniach z podszewką i usztywnieniami. | Naprawa podszewek :: Wymieniasz lub zszywasz uszkodzoną podszewkę. | Rozpoznawanie tkanin :: Określasz rodzaj materiału i dobierasz sposób prasowania oraz szycia. | Wytyczne marki :: Stosujesz zasady prezentacji i oznakowania ubrań zgodne z wymaganiami marki.
+
+@340
+M: Obsługa bębnów garbarskich :: Programujesz i uruchamiasz bęben, w którym skóry są myte i garbowane. | Pomiar pH i temperatury :: Sprawdzasz kwasowość i temperaturę roztworu w trakcie procesu. | Odwłaszczanie skór :: Usuwasz włosy z surowych skór według instrukcji. | Garbowanie skór :: Przekształcasz skórę surową w trwały, niegnijący materiał. | Barwienie skór :: Dobierasz barwniki i kąpiel tak, aby uzyskać wymagany kolor.
+W: Wytrawianie skór :: Usuwasz z nich pozostałości po odwłaszczaniu, aby skóra była gładka. | Rodzaje skór surowych :: Rozróżniasz skóry bydlęce, świńskie i owcze oraz ich obróbkę. | Bezpieczna praca z chemikaliami :: Stosujesz zasady BHP przy kwasach i środkach garbujących. | Gospodarka ściekami garbarskimi :: Wiesz, jak postępować z odpadami powstającymi w garbarni.
+
+@341
+M: Programy garbarskie :: Uruchamiasz maszyny według wybranego programu obróbki skóry. | Obsługa maszyn garbarskich :: Obsługujesz urządzenia do mycia, garbowania i wykańczania skór. | Etapy obróbki skóry :: Znasz kolejność operacji i przenosisz skóry z jednego etapu na następny. | Kontrola skór :: Sprawdzasz, czy skóry spełniają normy działu pod względem wyglądu i właściwości. | Konserwacja maszyn :: Czyścisz i smarujesz urządzenia po zmianie.
+W: Rodzaje skór :: Rozróżniasz skóry i ich zastosowanie w produkcji. | Normy działu :: Znasz kryteria, według których ocenia się wyrób w danym oddziale. | Bezpieczna praca w garbarni :: Znasz zasady BHP przy chemikaliach i ruchomych maszynach. | Dokumentacja produkcji :: Zapisujesz parametry i wyniki kontroli partii.
+
+@342
+M: Wykańczanie powierzchni skóry :: Obsługujesz maszyny nadające skórze wymagany wygląd i właściwości. | Dozowanie mieszanek wykończeniowych :: Odmierzasz i nakładasz mieszanki zgodnie z recepturą. | Dopasowanie koloru :: Porównujesz odcień skóry z próbką klienta i korygujesz go. | Natryskiwanie wykończeń :: Nanosisz mieszankę na skórę w równej warstwie. | Testy wodoodporności :: Sprawdzasz, czy wykończona skóra odpowiada wymaganiom klienta.
+W: Tłoczenie wzorów :: Odciskasz w skórze fakturę lub wzór prasą. | Skóry ognioodporne :: Znasz wykończenia opóźniające palenie się skóry. | Kontrola jakości wykończenia :: Oceniasz połysk, odcień i przyczepność powłoki. | Konserwacja maszyn :: Czyścisz dysze, wałki i inne elementy maszyn.
+
+@343
+M: Czytanie receptur :: Odczytujesz skład mieszanki i jej proporcje. | Odmierzanie składników :: Ważysz i odmierzasz pigmenty, barwniki i spoiwa. | Mieszanie pigmentów :: Obsługujesz urządzenie mieszające składniki do jednolitej barwy. | Nanoszenie wykończeń :: Nakładasz gotową mieszankę na skórę. | Porównywanie koloru ze wzorcem :: Oceniasz odcień i poprawiasz mieszankę, gdy nie pasuje.
+W: Teoria barw :: Rozumiesz, jak łączy się kolory i jak zmienić odcień. | Waga laboratoryjna :: Ważysz składniki z dużą dokładnością. | Bezpieczna praca z chemikaliami :: Stosujesz zasady BHP przy barwnikach i rozpuszczalnikach. | Czyszczenie urządzeń :: Myjesz zbiorniki i mieszalniki, aby kolory się nie mieszały.
+
+@344
+M: Obsługa maszyn barwiących :: Ustawiasz i nadzorujesz maszyny, w których barwi się tkaniny i przędzę. | Receptury barwienia :: Odczytujesz skład kąpieli i dobierasz barwniki. | Obliczanie składników :: Przeliczasz ilość barwnika i środków pomocniczych na masę partii. | Barwienie próbek :: Barwisz małą próbkę, aby sprawdzić kolor przed dużą partią. | Rodzaje barwników :: Rozróżniasz barwniki do bawełny, wełny i włókien syntetycznych.
+W: Barwienie przędzy :: Znasz sposób barwienia nitek przed tkaniem lub dzianiem. | Kolorymetria :: Mierzysz kolor przyrządem i porównujesz go ze wzorcem. | Bezpieczna praca z chemikaliami :: Stosujesz zasady BHP przy barwnikach i środkach pomocniczych. | Korekta odcienia :: Poprawiasz kąpiel, gdy kolor odbiega od wzoru.
+
+@345
+M: Obsługa maszyn wykończalniczych :: Uruchamiasz i nadzorujesz maszyny nadające tkaninie końcowe właściwości. | Etapy wykańczania tkanin :: Znasz kolejność zabiegów, takich jak pranie, suszenie i prasowanie. | Kontrola gotowej tkaniny :: Oceniasz wygląd, dotyk i wymiary po wykończeniu. | Parametry procesu :: Odczytujesz temperaturę, prędkość i wilgotność oraz pilnujesz ich wartości. | Konserwacja maszyn :: Czyścisz i smarujesz maszyny zgodnie z instrukcją.
+W: Apretura :: Nakładasz na tkaninę środki zmieniające jej sztywność, miękkość lub odporność. | Kalandrowanie :: Obsługujesz walce, które wygładzają i nadają tkaninie połysk. | Rodzaje tkanin :: Rozróżniasz materiały i wiesz, jak reagują na wykończenie. | Dokumentacja procesu :: Zapisujesz parametry i wyniki kontroli partii.
+
+@346
+M: Ustawianie parametrów barwienia :: Ustalasz temperaturę, czas i skład kąpieli dla nowej partii. | Receptury barwienia :: Układasz i poprawiasz receptury na podstawie wyników próbek. | Pomiar koloru :: Porównujesz barwę próbki ze wzorcem przy użyciu przyrządów i oceny wzrokowej. | Przyczyny różnic w odcieniu :: Szukasz powodu, dla którego partia różni się kolorem od wzorca. | Dokumentowanie ustawień :: Zapisujesz parametry sprawdzone w produkcji.
+W: Spektrofotometr :: Obsługujesz przyrząd mierzący kolor liczbowo. | Barwniki do włókien :: Znasz grupy barwników i ich zastosowanie do różnych włókien. | Oczyszczanie ścieków :: Wiesz, jak ograniczać zanieczyszczenia w ściekach z barwienia. | Optymalizacja kąpieli :: Zmniejszasz zużycie barwników, wody i energii.
+
+@347
+M: Ustawianie maszyn wykończalniczych :: Dobierasz parametry maszyn do rodzaju tkaniny i wykończenia. | Dobór wykończenia :: Wybierasz zabieg odpowiedni dla tkaniny, na przykład zmiękczanie lub impregnację. | Ocena właściwości materiału :: Sprawdzasz wygląd, dotyk, kurczliwość i odporność wykończonej tkaniny. | Pobieranie próbek :: Odcinasz próbki z linii i oceniasz je przed dalszą produkcją. | Dokumentowanie procesu :: Zapisujesz ustawienia i wyniki kontroli.
+W: Wykończenia funkcjonalne :: Znasz zabiegi nadające tkaninie hydrofobowość, trudnopalność lub odporność na plamy. | Normy badań tekstyliów :: Znasz metody badania wytrzymałości i trwałości kolorów. | Optymalizacja procesu :: Szukasz ustawień, które poprawiają jakość i zmniejszają zużycie energii. | Analiza reklamacji :: Ustalasz, czy wadę spowodowało wykończenie.
+
+@348
+M: Sortowanie według tkanin :: Rozdzielasz rzeczy według rodzaju materiału, koloru i stopnia zabrudzenia. | Czytanie metek :: Odczytujesz symbole pielęgnacji i wybierasz odpowiednią technikę czyszczenia. | Obsługa pralnic przemysłowych :: Ładujesz, ustawiasz program i uruchamiasz maszyny. | Czyszczenie chemiczne :: Obsługujesz maszyny, które czyszczą odzież rozpuszczalnikiem zamiast wody. | Usuwanie plam :: Dobierasz środek do rodzaju plamy i tkaniny.
+W: Pranie dywanów i zasłon :: Znasz sposoby czyszczenia dużych, ciężkich wyrobów włókienniczych. | Czyszczenie skóry :: Wiesz, jak pielęgnować odzież skórzaną bez uszkodzenia koloru. | Dobór środków piorących :: Dobierasz detergenty, temperaturę i czas prania do materiału. | Obsługa suszarek :: Ustawiasz suszenie tak, aby tkanina się nie kurczyła.
+
+@349
+M: Prasowanie odzieży :: Usuwasz zagniecenia i nadajesz ubraniom kształt żelazkiem i parownicą. | Obsługa pras pralniczych :: Prasujesz większe wyroby na prasie, ustawiając temperaturę i nacisk. | Usuwanie zagnieceń parą :: Wygładzasz delikatne tkaniny parownicą bez przypalania. | Układanie według zamówień :: Sortujesz wyprasowane rzeczy i przygotowujesz je do wydania. | Dobór temperatury do tkaniny :: Rozpoznajesz materiały i ustawiasz żelazko tak, aby ich nie uszkodzić.
+W: Prasowanie bielizny pościelowej :: Obsługujesz prasownice walcowe do pościeli i obrusów. | Usuwanie plam :: Dobierasz środek do rodzaju plamy przed prasowaniem. | Konserwacja pras i żelazek :: Czyścisz i odkamieniasz urządzenia parowe. | Składanie odzieży :: Składasz koszule i spodnie w jednakowy sposób dla klienta.
+
+@350
+M: Harmonogram produkcji w pralni :: Planujesz kolejność prania i prasowania zleceń na dany dzień. | Przydzielanie zadań :: Rozdzielasz pracę między stanowiska zależnie od obciążenia. | Kontrola jakości prania :: Sprawdzasz czystość i wygląd wypranych oraz wyprasowanych rzeczy. | Szkolenie na stanowisku :: Uczysz nowych pracowników obsługi maszyn i procedur. | BHP w pralni :: Pilnujesz zasad bezpiecznej pracy przy maszynach, parze i środkach chemicznych.
+W: Rekrutacja pracowników :: Prowadzisz rozmowy i dobierasz osoby na stanowiska w pralni. | Gospodarka środkami chemicznymi :: Planujesz zakupy i bezpieczne przechowywanie detergentów. | Raportowanie produkcji :: Przygotowujesz zestawienia wykonanych zleceń i reklamacji. | Rozliczanie czasu pracy :: Prowadzisz ewidencję czasu pracy zespołu.
+
+@351
+M: Zgrzewanie ogniw :: Łączysz elementy baterii zgrzewaniem lub spawaniem punktowym. | Montaż przewodów :: Układasz i mocujesz przewody między ogniwami. | Montaż osłon ogniw :: Zakładasz obudowy i osłonki chroniące ogniwa. | Lutowanie :: Łączysz elementy elektroniczne lutownicą. | Pomiar napięcia :: Sprawdzasz multimetrem, czy połączenia działają i bateria daje właściwe napięcie.
+W: Układy zarządzania baterią :: Znasz elektronikę pilnującą ładowania i bezpieczeństwa baterii. | Ogniwa litowo-jonowe :: Rozumiesz budowę i zasady bezpiecznego obchodzenia się z nimi. | Bezpieczna praca z bateriami :: Stosujesz zasady BHP przy zwarciach i przegrzaniu. | Czytanie schematów :: Odczytujesz rysunki montażowe baterii.
+
+@352
+M: Czytanie schematów płytek :: Odczytujesz plany i rysunki, aby wiedzieć, gdzie wstawić każdy element. | Lutowanie ręczne :: Łączysz elementy z płytką lutownicą. | Montaż elementów SMD :: Układasz maleńkie elementy powierzchniowe na płytce. | Lutowanie maszynowe :: Obsługujesz piec lub falę lutowniczą do masowego łączenia elementów. | Kontrola wzrokowa płytek :: Oglądasz lutowania pod lupą i wyłapujesz zwarcia oraz zimne luty.
+W: Montaż elementów THT :: Wkładasz elementy z wyprowadzeniami w otwory płytki i lutujesz od drugiej strony. | Ochrona przed ESD :: Stosujesz opaski i maty, aby ładunki nie uszkodziły elementów. | Lutowanie gorącym powietrzem :: Wymieniasz elementy SMD stacją na gorące powietrze. | Pomiary multimetrem :: Mierzysz napięcie i ciągłość, aby sprawdzić działanie płytki.
+
+@353
+M: Praca w pomieszczeniu czystym :: Znasz zasady ubioru i zachowania, które chronią układy przed zanieczyszczeniem. | Montaż układów scalonych :: Umieszczasz kostki krzemowe w obudowach i łączysz je z wyprowadzeniami. | Testowanie elementów :: Sprawdzasz, czy gotowe układy działają zgodnie z parametrami. | Ochrona przed ESD :: Stosujesz środki, które chronią elementy przed wyładowaniami elektrostatycznymi. | Praca z mikroskopem :: Oglądasz i oceniasz bardzo drobne elementy pod powiększeniem.
+W: Łączenie drutowe :: Znasz technikę łączenia układu z wyprowadzeniami cienkimi drucikami. | Naprawa urządzeń półprzewodnikowych :: Wymieniasz uszkodzone elementy w gotowych urządzeniach. | Klasy czystości pomieszczeń :: Rozumiesz, czym różnią się poziomy czystości powietrza. | Dokumentacja jakościowa :: Zapisujesz wyniki testów dla każdej partii.
+
+@354
+M: Czytanie schematów montażowych :: Odczytujesz schematy i rysunki, aby wiedzieć, co gdzie montować. | Montaż komponentów :: Umieszczasz elementy elektroniczne w obudowie urządzenia. | Montaż przewodów :: Zakładasz i mocujesz przewody według schematu. | Lutowanie :: Łączysz przewody i elementy lutownicą. | Pomiary multimetrem :: Sprawdzasz napięcie, rezystancję i ciągłość obwodów.
+W: Kontrola jakości montażu :: Porównujesz gotowe urządzenie z dokumentacją i wychwytujesz błędy. | Uruchamianie urządzeń :: Włączasz zmontowane urządzenie i sprawdzasz podstawowe funkcje. | Ochrona przed ESD :: Stosujesz środki chroniące elementy przed wyładowaniami elektrostatycznymi. | Konserwacja sprzętu :: Wykonujesz podstawowe przeglądy i naprawy.
+
+@355
+M: Montaż elementów optycznych :: Zakładasz soczewki i lustra w aparacie, nie zostawiając śladów ani kurzu. | Składanie mechanizmów :: Montujesz drobne części mechaniczne narzędziami precyzyjnymi. | Montaż elektroniki aparatu :: Instalujesz akumulator, procesor obrazu i połączenia elektryczne. | Ustawianie ostrości :: Regulujesz położenie soczewek tak, aby obraz był ostry. | Testy obrazu :: Wykonujesz zdjęcia próbne i oceniasz ostrość, kolory i działanie funkcji.
+W: Czyszczenie optyki :: Usuwasz kurz i smugi z soczewek bez zarysowań. | Lutowanie drobnych elementów :: Łączysz małe elementy elektroniczne lutownicą. | Rodzaje obiektywów :: Rozróżniasz obiektywy stałoogniskowe i zmiennoogniskowe oraz ich budowę. | Montaż w warunkach czystych :: Pracujesz tak, aby kurz nie dostał się do wnętrza aparatu.
+
+@356
+M: Czytanie rysunków montażowych :: Odczytujesz plany i instrukcje, aby wiedzieć, co z czym połączyć. | Montaż mechaniczny :: Składasz części mechaniczne za pomocą śrub, nitów i narzędzi ręcznych. | Montaż elektryczny :: Podłączasz przewody, styczniki i silniki zgodnie ze schematem. | Testowanie zespołów :: Sprawdzasz, czy gotowy zespół działa i spełnia normy. | Modyfikacja urządzeń :: Przerabiasz sprzęt według nowych instrukcji i dokumentacji.
+W: Pneumatyka :: Montujesz proste elementy zasilane sprężonym powietrzem. | Pomiary elektryczne :: Mierzysz napięcie i rezystancję multimetrem. | Sterowniki programowalne :: Znasz podstawy sterowników PLC w urządzeniach. | Dokumentacja kontroli :: Zapisujesz wyniki prób i odchyłki.
+
+@357
+M: Czytanie schematów instrumentów :: Odczytujesz schematy elektryczne i rysunki montażowe instrumentu. | Lutowanie elektroniki :: Łączysz przewody i elementy lutownicą. | Montaż przetworników :: Instalujesz przetworniki zamieniające drgania lub ruch na sygnał elektryczny. | Testowanie brzmienia :: Sprawdzasz, czy instrument gra czysto i bez szumów. | Montaż obudowy :: Składasz części instrumentu w całość i czyścisz gotowy wyrób.
+W: Praca z oscyloskopem :: Obserwujesz sygnał elektryczny, aby znaleźć usterkę. | Strojenie instrumentów :: Ustawiasz brzmienie zgodnie z wymaganiami. | Standard MIDI :: Znasz protokół łączący instrumenty elektroniczne z komputerem. | Naprawa instrumentów :: Znajdujesz i usuwasz usterki w gotowych instrumentach.
+
+@358
+M: Odczyt schematów aparatury :: Odczytujesz rysunki schematyczne zespołów sterowania i rozdzielni. | Okablowanie szaf :: Układasz przewody i kable w zespole według schematu. | Montaż łączników :: Instalujesz przełączniki, styczniki i inne aparaty. | Montaż urządzeń pomiarowych :: Mocujesz mierniki i przekaźniki oraz podłączasz je do obwodu. | Oznaczanie przewodów :: Opisujesz przewody numerami zgodnie ze schematem.
+W: Zaciskanie końcówek :: Zakładasz na przewody końcówki zaciskane specjalnymi szczypcami. | Pomiary elektryczne :: Sprawdzasz ciągłość i izolację przewodów. | Rozdzielnice niskiego napięcia :: Znasz budowę i działanie typowych rozdzielnic. | Normy montażu :: Stosujesz zasady wykonywania zespołów aparatury.
+
+@359
+M: Cięcie kabli na długość :: Odmierzasz i przycinasz przewody zgodnie z dokumentacją. | Zdejmowanie izolacji :: Odsłaniasz żyły przewodów bez uszkodzenia metalu. | Zaciskanie końcówek :: Zakładasz końcówki i wtyki na przewody. | Układanie wiązek kablowych :: Łączysz przewody w wiązki zgodnie z rysunkiem. | Testowanie ciągłości :: Sprawdzasz miernikiem, czy każdy przewód łączy właściwe punkty.
+W: Lutowanie przewodów :: Łączysz żyły z końcówkami lutownicą. | Rodzaje przewodów :: Rozróżniasz przewody miedziane i aluminiowe oraz ich przekroje. | Rysunki wiązek :: Odczytujesz plany układu przewodów w urządzeniu. | Kontrola jakości połączeń :: Sprawdzasz zaciski, izolację i oznaczenia.

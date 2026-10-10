@@ -1,0 +1,722 @@
+[
+ {
+  "id": 2220,
+  "name": "Prywatny szef kuchni",
+  "desc": "Prywatni szefowie kuchni stosują się do przepisów dotyczących żywności i warunków sanitarnych w celu przygotowania posiłków dla swoich pracodawców. Uwzględniają oni nietolerancje pracodawcy na określone składniki lub ich preferencje i gotują posiłki w domu pracodawcy. Można również zwrócić się do prywatnych szefów kuchni z prośbą o organizowanie niewielkich przyjęć lub innych uroczystości przy specjalnych okazjach.",
+  "path": "Gastronomia, hotele, turystyka > Szef kuchni",
+  "tasks": [
+   "Poznajesz smaki i alergie domowników",
+   "Planujesz menu na cały tydzień",
+   "Gotujesz w kuchni pracodawcy",
+   "Organizujesz małe przyjęcia rodzinne"
+  ]
+ },
+ {
+  "id": 2221,
+  "name": "Kierownik ds. konferencji i bankietów",
+  "desc": "Kierownicy ds. konferencji i bankietów planują i organizują działania związane z konferencjami, bankietami i miejscami wydarzeń w obiekcie hotelarsko-gastronomicznym zgodnie z potrzebami klientów. Odpowiadają za imprezy promocyjne, konferencje, seminaria, wystawy, wydarzenia biznesowe oraz wydarzenia społeczne i miejsca spotkań.",
+  "path": "Gastronomia, hotele, turystyka > Organizatorzy konferencji i imprez zbiorowych",
+  "tasks": [
+   "Rozmawiasz z klientem o liczbie gości i budżecie",
+   "Układasz plan sali i menu z kuchnią",
+   "Zamawiasz sprzęt i obsługę kelnerską",
+   "Pilnujesz przebiegu imprezy na miejscu"
+  ]
+ },
+ {
+  "id": 2222,
+  "name": "Organizator imprez zbiorowych",
+  "desc": "Organizatorzy imprez zbiorowych planują i nadzorują wydarzenia, takie jak festiwale, konferencje, uroczystości, wydarzenia kulturalne, wystawy, oficjalne przyjęcia, koncerty lub konwencje. Organizują każdy etap wydarzeń, planując ich miejsca oraz udział pracowników, dostawców i mediów, a także ubezpieczenia w ramach przyznanych limitów budżetowych i czasowych. Organizatorzy imprez zbiorowych zapewniają przestrzeganie zobowiązań prawnych oraz spełnienie oczekiwań odbiorców docelowych.",
+  "path": "Gastronomia, hotele, turystyka > Organizatorzy konferencji i imprez zbiorowych",
+  "tasks": [
+   "Wybierasz miejsce i negocjujesz z dostawcami",
+   "Układasz harmonogram i budżet wydarzenia",
+   "Załatwiasz ubezpieczenie i wymagane zgody",
+   "Koordynujesz ekipę i media w dniu imprezy"
+  ]
+ },
+ {
+  "id": 2223,
+  "name": "Asystent organizatora imprez zbiorowych",
+  "desc": "Asystenci organizatora imprez zbiorowych wdrażają i realizują plany szczegółowo opisane przez organizatorów imprez zbiorowych. Specjalizują się w pewnym zakresie planowania: w koordynacji cateringu, transportu lub udogodnień.",
+  "path": "Gastronomia, hotele, turystyka > Organizatorzy konferencji i imprez zbiorowych",
+  "tasks": [
+   "Potwierdzasz zamówienia u dostawców cateringu",
+   "Rezerwujesz transport dla gości i ekipy",
+   "Sprawdzasz, czy udogodnienia na miejscu działają",
+   "Zgłaszasz organizatorowi problemy i zmiany"
+  ]
+ },
+ {
+  "id": 2224,
+  "name": "Asystent kuchenny",
+  "desc": "Asystenci kuchenni pomagają w przygotowaniu żywności i oczyszczeniu obszaru kuchni.",
+  "path": "Gastronomia, hotele, turystyka > Pomoce kuchenne",
+  "tasks": [
+   "Przygotowujesz składniki według polecenia kucharza",
+   "Odmierzasz i układasz produkty na stanowisku",
+   "Sprzątasz blaty i naczynia",
+   "Odbierasz dostawy i układasz je w chłodni"
+  ]
+ },
+ {
+  "id": 2225,
+  "name": "Pizzer",
+  "desc": "Pizzerzy odpowiadają za przygotowanie i pieczenie pizzy.",
+  "path": "Gastronomia, hotele, turystyka > Pomoce kuchenne",
+  "tasks": [
+   "Wyrabiasz i rozciągasz ciasto",
+   "Nakładasz sos, ser i dodatki",
+   "Wsuwasz pizzę do pieca i pilnujesz czasu",
+   "Przygotowujesz składniki przed otwarciem lokalu"
+  ]
+ },
+ {
+  "id": 2226,
+  "name": "Pomocnik kuchenny",
+  "desc": "Pomocnicy kuchenni myją i czyszczą pomieszczenia kuchenne, w tym garnki, patelnie, przybory, sztućce i naczynia. Przygotowują obszar kuchni przed rozpoczęciem pracy oraz odbierają i przechowują dostawy.",
+  "path": "Gastronomia, hotele, turystyka > Pomoce kuchenne",
+  "tasks": [
+   "Myjesz garnki, patelnie i naczynia",
+   "Czyścisz podłogi i stanowiska",
+   "Przyjmujesz dostawy i układasz je w magazynie",
+   "Przygotowujesz kuchnię przed rozpoczęciem pracy"
+  ]
+ },
+ {
+  "id": 2227,
+  "name": "Pracownik dydaktyczny w ZOO",
+  "desc": "Pracownicy dydaktyczni w zoo opowiadają zwiedzającym o zwierzętach mieszkających w ogrodzie zoologicznym/oceanarium, a także o innych gatunkach i siedliskach. Udzielają oni informacji na temat prowadzenia ogrodu zoologicznego, znajdującej się w nim kolekcji zwierząt oraz ochrony dzikich gatunków. Pracownicy dydaktyczni w zoo mogą być zaangażowani zarówno w formalne, jak i nieformalne działania edukacyjne, począwszy od przygotowania znaków informacyjnych na ogrodzenia po prowadzenie zajęć dydaktycznych w ramach programów nauczania w szkołach lub na uniwersytetach.",
+  "path": "Gastronomia, hotele, turystyka > Przewodnik",
+  "tasks": [
+   "Prowadzisz zajęcia dla klas w zoo",
+   "Opowiadasz zwiedzającym o zwierzętach",
+   "Przygotowujesz tablice i materiały przy wybiegach",
+   "Tłumaczysz, jak chronić dzikie gatunki"
+  ]
+ },
+ {
+  "id": 2228,
+  "name": "Przewodnik zajęć i wycieczek",
+  "desc": "Przewodnicy zajęć i wycieczek pomagają zwiedzającym, interpretują dziedzictwo kulturowe i przyrodnicze oraz udzielają informacji i wskazówek turystom w parkach, w tym w rezerwatach przyrody, parkach rozrywki i parkach krajobrazowych.",
+  "path": "Gastronomia, hotele, turystyka > Przewodnik",
+  "tasks": [
+   "Wyjaśniasz zwiedzającym zasady poruszania się po parku",
+   "Opowiadasz o roślinach, zwierzętach i krajobrazie",
+   "Podpowiadasz trasy i atrakcje",
+   "Pomagasz gościom, którzy się zgubili"
+  ]
+ },
+ {
+  "id": 2229,
+  "name": "Specjalista ds. edukacji ekologicznej",
+  "desc": "Specjaliści ds. edukacji ekologicznej są odpowiedzialni za propagowanie ochrony środowiska i rozwoju środowiskowego. Odwiedzają szkoły i przedsiębiorstwa, gdzie wygłaszają wykłady, przygotowują materiały edukacyjne i strony internetowe, są przewodnikami podczas spacerów na łonie przyrody, prowadzą odpowiednie szkolenia i pomagają w prowadzeniu wolontariatu i projektów w zakresie ochrony środowiska. Wiele ogrodów zatrudnia specjalistę ds. edukacji ekologicznej, który jest przewodnikiem dla wycieczek szkolnych.",
+  "path": "Gastronomia, hotele, turystyka > Przewodnik",
+  "tasks": [
+   "Prowadzisz warsztaty w szkołach i firmach",
+   "Przygotowujesz materiały i strony o ochronie przyrody",
+   "Oprowadzasz wycieczki szkolne po ogrodzie",
+   "Organizujesz wolontariat przy projektach ekologicznych"
+  ]
+ },
+ {
+  "id": 2230,
+  "name": "Kierownik ds. zakwaterowania",
+  "desc": "Kierownicy ds. zakwaterowania są odpowiedzialni za zarządzanie operacjami i nadzór nad strategią w zakresie usług hotelarsko-gastronomicznych. Zarządzają zasobami ludzkimi, finansami, marketingiem i operacjami takimi jak nadzorowanie pracowników, prowadzenie rejestrów finansowych i organizowanie działań.",
+  "path": "Gastronomia, hotele, turystyka > Kierownicy hoteli i restauracji",
+  "tasks": [
+   "Ustalasz grafik i nadzorujesz pracowników",
+   "Prowadzisz rejestry finansowe obiektu",
+   "Planujesz promocje i kontakt z gośćmi",
+   "Rozwiązujesz problemy zgłaszane przez gości i personel"
+  ]
+ },
+ {
+  "id": 2231,
+  "name": "Kierownik działu obsługi pokoi",
+  "desc": "Kierownicy działu obsługi pokoi są odpowiedzialni za zarządzanie zespołem pracowników znajdujących się w dziale obsługi klienta, rezerwacjach, gospodarstwach domowych i stanowiskach obsługi technicznej oraz za ich koordynację.",
+  "path": "Gastronomia, hotele, turystyka > Kierownicy hoteli i restauracji",
+  "tasks": [
+   "Przydzielasz pokoje pokojowym na dany dzień",
+   "Sprawdzasz rezerwacje i przyjazdy gości",
+   "Zgłaszasz usterki służbie technicznej",
+   "Kontrolujesz czystość wybranych pokoi"
+  ]
+ },
+ {
+  "id": 2232,
+  "name": "Lider zespołu w restauracji szybkiej obsługi",
+  "desc": "Liderzy zespołu w restauracji szybkiej obsługi kierują operacjami w restauracji szybkiej obsługi.",
+  "path": "Gastronomia, hotele, turystyka > Bufetowi",
+  "tasks": [
+   "Rozdzielasz stanowiska pracownikom na zmianie",
+   "Pilnujesz czasu obsługi i zapasów",
+   "Wdrażasz nowych pracowników w obowiązki",
+   "Rozwiązujesz problemy z zamówieniami gości"
+  ]
+ },
+ {
+  "id": 2233,
+  "name": "Pracownik usług gastronomicznych linii lotniczych",
+  "desc": "Pracownicy usług gastronomicznych linii lotniczych przygotowują żywność i podają ją klientom. Przygotowują proste potrawy nadające się do podania w miejscach, w których serwuje się posiłki, takich jak restauracje, stołówki, hotele i szpitale oraz dbają o sprawne i sprawne funkcjonowanie kuchni.",
+  "path": "Gastronomia, hotele, turystyka > Bufetowi",
+  "tasks": [
+   "Przygotowujesz proste dania według przepisu",
+   "Pakujesz porcje posiłków na tace",
+   "Wydajesz jedzenie na stanowisku",
+   "Dbasz o porządek w kuchni"
+  ]
+ },
+ {
+  "id": 2234,
+  "name": "Zarządca kempingu",
+  "desc": "Zarządcy kempingów świadczą usługi w zakresie opieki nad klientem na kempingu oraz inne prace operacyjne.",
+  "path": "Gastronomia, hotele, turystyka > Recepcjonista w placówce hotelarskiej / recepcjonistka w placówce hotelarskiej",
+  "tasks": [
+   "Meldujesz gości i przydzielasz im miejsca",
+   "Sprawdzasz porządek i sanitariaty",
+   "Odpowiadasz na pytania o okolicę i zasady",
+   "Naprawiasz drobne usterki na terenie"
+  ]
+ },
+ {
+  "id": 2235,
+  "name": "Asystent ds. pozyskiwania funduszy",
+  "desc": "Asystenci ds. pozyskiwania funduszy zapewniają wsparcie administracyjne kierowników ds. pozyskiwania funduszy. Określają potencjalnych ofiarodawców lub sponsorów poprzez ankiety. Obsługują darowizny i dotacje, elektroniczne i papierowe systemy archiwizacji w odniesieniu do wszystkich dotacji i darowizn, potwierdzają przyjęcie darowizn, piszą pisma z podziękowaniem oraz prowadzą dokumentację dotyczącą pozyskiwania funduszy.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Szukasz potencjalnych sponsorów i darczyńców",
+   "Rejestrujesz darowizny i dotacje",
+   "Piszesz podziękowania do darczyńców",
+   "Prowadzisz dokumentację zbiórek"
+  ]
+ },
+ {
+  "id": 2236,
+  "name": "Asystent ds. łańcucha dostaw",
+  "desc": "Asystenci ds. łańcucha dostaw ściśle współpracują z kierownikami w zakresie procesów zakupu, produkcji i dystrybucji. Pomagają pod względem administracyjnym i praktycznym w takich działaniach, jak fakturowanie, sporządzanie i przygotowywanie umów i zamówień, inwentaryzacja oraz komunikacja z kanałami dystrybucji.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Wystawiasz faktury i sprawdzasz płatności",
+   "Przygotowujesz umowy i zamówienia",
+   "Liczysz zapasy w magazynie",
+   "Kontaktujesz się z dostawcami i dystrybutorami"
+  ]
+ },
+ {
+  "id": 2237,
+  "name": "Koordynator międzynarodowej wymiany studenckiej",
+  "desc": "Koordynatorzy międzynarodowej wymiany studenckiej zajmują się całym procesem międzynarodowej wymiany studentów. Zarządzają wnioskami i przyjęciem studentów, organizują zakwaterowanie w kampusach wyższych uczelni i rodzinach goszczących oraz wykonują wszystkie zadania administracyjne związane z tymi działaniami, m.in. dotyczące stopni i oficjalnych wyjazdów studentów. Pełnią funkcję przewodników dla (młodych) studentów zagranicznych, pomagając w przystosowaniu się do lokalnej kultury.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Sprawdzasz wnioski studentów",
+   "Organizujesz akademik lub rodzinę goszczącą",
+   "Załatwiasz dokumenty i oceny",
+   "Pomagasz zagranicznym studentom w nowym miejscu"
+  ]
+ },
+ {
+  "id": 2238,
+  "name": "Pracownik administracji w placówce edukacyjnej",
+  "desc": "Pracownicy administracji w placówce edukacyjnej zajmują się administracją, systemami wsparcia i działaniami (studentów) placówki edukacyjnej oraz zarządzają nimi. Wykonują szereg zadań administracyjnych, sekretarskich, finansowych i pomocniczych, aby umożliwić efektywną i opłacalną działalność szkoły. Mogą świadczyć pomoc w zakresie rekrutacji studentów, stosunków z absolwentami, finansowania, prac w komisjach, w tym rad naukowych, oraz zapewnienia jakości.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Przyjmujesz dokumenty kandydatów",
+   "Prowadzisz sekretariat i korespondencję",
+   "Przygotowujesz dokumenty na posiedzenia komisji",
+   "Pomagasz w sprawach finansowych placówki"
+  ]
+ },
+ {
+  "id": 2239,
+  "name": "Stenograf-protokolant",
+  "desc": "Stenografowie-protokolanci zapisują za pomocą edytorów tekstów lub innego oprogramowania każde słowo wypowiedziane na sali rozpraw. Sporządzają transkrypcję przesłuchań odbywających się w sądzie w celu wydania oficjalnego przesłuchania w toku sprawy sądowej. Dzięki nim sprawy mogą być później dokładnie badane przez strony.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Zapisujesz wypowiedzi na sali rozpraw",
+   "Sporządzasz transkrypcję przesłuchań",
+   "Sprawdzasz zgodność zapisu z tym, co padło",
+   "Przekazujesz gotowy protokół do sprawy"
+  ]
+ },
+ {
+  "id": 2240,
+  "name": "Technik administracji",
+  "desc": "Technicy administracji wspierają przełożonych w zakresie prac administracyjnych i biurowych. Wykonują szereg zadań, takich jak odbieranie telefonów, przyjmowanie i kierowanie gości, zamawianie materiałów biurowych, dbałość o sprawne funkcjonowanie zaplecza biurowego oraz zapewnienie właściwego funkcjonowania urządzeń i sprzętu.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Odbierasz telefony i kierujesz gości",
+   "Zamawiasz materiały biurowe",
+   "Dbasz o drukarki i inny sprzęt",
+   "Wykonujesz zadania zlecone przez przełożonego"
+  ]
+ },
+ {
+  "id": 2241,
+  "name": "Asystent dyrektora",
+  "desc": "Asystenci dyrektora wykonują różne rodzaje prac zazwyczaj pod ogólnym nadzorem. Realizują zadania administracyjne i wspierają kadrę kierowniczą, aby zapewnić sprawne funkcjonowanie całego działu.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Przygotowujesz dokumenty i pisma dla dyrektora",
+   "Umawiasz spotkania i pilnujesz terminów",
+   "Zbierasz informacje potrzebne do decyzji",
+   "Przekazujesz polecenia i ustalenia w dziale"
+  ]
+ },
+ {
+  "id": 2242,
+  "name": "Korektor protokołów sądowych",
+  "desc": "Korektorzy protokołów sądowych edytują transkrypcje sporządzone przez stenografów-protokolantów, aby nadać im postać czytelnego profesjonalnego dokumentu prawnego. Słuchają przekazanych im protokołów lub czytają je, aby wprowadzić znaki interpunkcyjne i brakujące słowa, zastosować format i poprawić dokładność dokumentu.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Czytasz transkrypcje i szukasz błędów",
+   "Dodajesz interpunkcję i brakujące słowa",
+   "Słuchasz nagrań i porównujesz z tekstem",
+   "Nadajesz dokumentowi właściwy format"
+  ]
+ },
+ {
+  "id": 2243,
+  "name": "Sekretarz redakcji",
+  "desc": "Sekretarze redakcji wspierają pracowników redakcji na wszystkich etapach procesu publikacji gazet, stron internetowych, biuletynów internetowych, książek i czasopism. Gromadzą, sprawdzają i przetwarzają informacje, pozyskują zezwolenia i zajmują się prawami. Sekretarze redakcji pełnią funkcję punktu kontaktowego dla pracowników redakcji oraz planują spotkania i wywiady. Dokonują weryfikacji i przedstawiają zalecenia dotyczące treści.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Umawiasz wywiady i spotkania dla redakcji",
+   "Sprawdzasz informacje przed publikacją",
+   "Załatwiasz zezwolenia i prawa do treści",
+   "Przekazujesz redaktorom zalecenia dotyczące tekstów"
+  ]
+ },
+ {
+  "id": 2244,
+  "name": "Analityk call centre",
+  "desc": "Analitycy call centre analizują dane dotyczące przychodzących lub wychodzących połączeń z klientami. Przygotowują sprawozdania i wizualizacje.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Pobierasz dane o połączeniach przychodzących",
+   "Liczysz czas rozmów i oczekiwania",
+   "Przygotowujesz raporty i wykresy",
+   "Wskazujesz godziny z największym obciążeniem"
+  ]
+ },
+ {
+  "id": 2245,
+  "name": "Audytor jakości call centre",
+  "desc": "Audytorzy jakości call centre słuchają rozmów prowadzonych przez operatorów call centre, nagranych lub na żywo, w celu oceny zgodności z protokołami i parametrami jakości. Oceniają pracowników i przekazują informacje zwrotne na temat kwestii, które wymagają poprawy. Interpretują i rozpowszechniają parametry jakości otrzymane przez kierownictwo.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Słuchasz nagrań rozmów z klientami",
+   "Oceniasz rozmowy według karty jakości",
+   "Spisujesz uwagi dla konsultantów",
+   "Omawiasz wyniki z zespołem"
+  ]
+ },
+ {
+  "id": 2246,
+  "name": "Kierownik badania ankietowego",
+  "desc": "Kierownicy badania ankietowego organizują i nadzorują badania i ankiety na wniosek sponsora. Monitorują ich realizację zgodnie z wymogami i kierują zespołem ankieterów terenowych.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Ustalasz z klientem cel badania",
+   "Instruujesz zespół ankieterów terenowych",
+   "Sprawdzasz postępy zbierania odpowiedzi",
+   "Pilnujesz zgodności z wymogami badania"
+  ]
+ },
+ {
+  "id": 2247,
+  "name": "Kierownik biura",
+  "desc": "Kierownicy biura nadzorują pracę administracyjną zlecaną pracownikom biurowym w różnego rodzaju organizacjach lub stowarzyszeniach. Zajmują się mikrozarządzaniem i ściśle monitorują procesy administracyjne, takie jak kontrola korespondencji, opracowywanie zbiorów danych, dokonywanie przeglądów i zatwierdzanie zamówień materiałów biurowych, przydzielanie i monitorowanie stanowisk w biurze. Podlegają kierownikom w tym samym dziale lub dyrektorom naczelnym w przedsiębiorstwach w zależności od wielkości organizacji.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Kontrolujesz korespondencję i obieg dokumentów",
+   "Zatwierdzasz zamówienia materiałów biurowych",
+   "Przydzielasz stanowiska i zadania pracownikom",
+   "Przeglądasz zbiory danych"
+  ]
+ },
+ {
+  "id": 2248,
+  "name": "Kierownik call centre",
+  "desc": "Kierownicy call centre wyznaczają miesięczne, tygodniowe i dzienne cele call centre. Zajmują się mikrozarządzaniem wynikami uzyskanymi przez call centre, aby aktywnie reagować poprzez plany, szkolenia lub plany motywacyjne w zależności od problemów, z którymi boryka się call centre. Dążą do osiągnięcia kluczowych wskaźników wydajności, takich jak minimalny czas pracy, dzienna sprzedaż i zgodność z parametrami jakościowymi.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Wyznaczasz cele dzienne i tygodniowe",
+   "Śledzisz wyniki zespołu na bieżąco",
+   "Planujesz szkolenia i premie motywacyjne",
+   "Pilnujesz jakości i czasu rozmów"
+  ]
+ },
+ {
+  "id": 2249,
+  "name": "Koordynator call centre",
+  "desc": "Koordynatorzy call centre nadzorują pracowników call centre, zarządzają projektami i znają techniczne aspekty działalności call centre.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Nadzorujesz pracę konsultantów na sali",
+   "Zarządzasz projektami dla infolinii",
+   "Pomagasz rozwiązywać problemy z systemem telefonicznym",
+   "Zgłaszasz awarie działowi technicznemu"
+  ]
+ },
+ {
+  "id": 2250,
+  "name": "Koordynator centrum obsługi klienta",
+  "desc": "Koordynatorzy centrum obsługi klienta nadzorują i koordynują działania pracowników centrum obsługi klienta. Zapewniają sprawny przebieg codziennej działalności poprzez rozwiązywanie problemów, instruowanie i szkolenie pracowników oraz nadzorowanie zadań.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Rozdzielasz zadania w zespole obsługi",
+   "Szkolisz nowych pracowników",
+   "Rozwiązujesz trudne sprawy klientów",
+   "Sprawdzasz, czy dzień pracy przebiega sprawnie"
+  ]
+ },
+ {
+  "id": 2251,
+  "name": "Koordynator działu wprowadzania danych",
+  "desc": "Koordynatorzy działu wprowadzania danych zarządzają bieżącą działalnością pracowników zajmujących się wprowadzaniem danych. Organizują przebieg pracy i zadania.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Rozdzielasz partie dokumentów do wpisania",
+   "Ustalasz kolejność zadań i terminy",
+   "Sprawdzasz losowo poprawność wpisanych danych",
+   "Pomagasz pracownikom z trudnymi dokumentami"
+  ]
+ },
+ {
+  "id": 2252,
+  "name": "Asystent chiropraktyka",
+  "desc": "Asystenci chiropraktyków wykonują rutynowe i administracyjne zadania wspierające opiekę nad pacjentem oraz pracują pod wyłącznym kierownictwem i nadzorem kręgarza lub kręgarza specjalisty. Mogą zbierać wywiady od pacjentów, prowadzić dokumentację choroby, pomagać kręgarzom lub kręgarzom specjalistom w badaniach pacjentów oraz wykonują zadania administracyjne. Asystenci chiropraktyków pracują w określonych kontekstach na podstawie uzgodnionych protokołów i procedur.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Zbierasz od pacjentów informacje o dolegliwościach",
+   "Prowadzisz dokumentację pacjentów",
+   "Pomagasz kręgarzowi przy badaniach",
+   "Wykonujesz zadania administracyjne gabinetu"
+  ]
+ },
+ {
+  "id": 2253,
+  "name": "Asystent ds. transkrypcji medycznej",
+  "desc": "Asystenci ds. transkrypcji medycznej interpretują informacje podyktowane przez lekarza lub innych pracowników służby zdrowia i przekształcają je w dokumenty. Tworzą, formatują i edytują dokumentację medyczną pacjentów w oparciu o dostarczone dane oraz dbają o stosowanie zasad interpunkcyjnych i gramatycznych.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Słuchasz nagrań dyktowanych przez lekarzy",
+   "Przepisujesz je do dokumentacji pacjenta",
+   "Formatujesz i edytujesz dokumenty",
+   "Pilnujesz interpunkcji i gramatyki"
+  ]
+ },
+ {
+  "id": 2254,
+  "name": "Kierownik przychodni",
+  "desc": "Kierownicy przychodni zarządzają codzienną działalnością przychodni. Nadzorują pracowników i sprawy gospodarcze przychodni.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Układasz grafiki lekarzy i personelu",
+   "Pilnujesz budżetu i rachunków",
+   "Rozwiązujesz skargi pacjentów",
+   "Zamawiasz sprzęt i materiały"
+  ]
+ },
+ {
+  "id": 2255,
+  "name": "Sekretarz medyczny / sekretarka medyczna",
+  "desc": "Sekretarze medyczni / sekretarki medyczne ściśle współpracują z pracownikami służby zdrowia. Zajmują się pracami biurowymi, takimi jak obsługa korespondencji, ustalanie terminów spotkań i udzielanie odpowiedzi na pytania pacjentów.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Umawiasz wizyty i prowadzisz kalendarz lekarza",
+   "Obsługujesz korespondencję placówki",
+   "Odpowiadasz na pytania pacjentów",
+   "Porządkujesz dokumenty medyczne"
+  ]
+ },
+ {
+  "id": 2256,
+  "name": "Sekretarz prawny / sekretarka prawna",
+  "desc": "Sekretarze prawni / sekretarki prawne wykonują codzienne zadania administracyjne w firmach, biurach notariuszy i spółkach. Zajmują się takimi pracami, jak pisanie wiadomości e-mail, odpowiadanie na telefony oraz pisanie na klawiaturze. Wykonują te czynności w oparciu o wiedzę specjalistyczną oraz znajomość procedur i przepisów stosowanych w działach prawnych.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Piszesz pisma i wiadomości e-mail",
+   "Odbierasz telefony od klientów kancelarii",
+   "Przygotowujesz dokumenty według wzorów",
+   "Pilnujesz terminów składania pism"
+  ]
+ },
+ {
+  "id": 2257,
+  "name": "Urzędnik stanu cywilnego",
+  "desc": "Urzędnicy stanu cywilnego przyjmują i rejestrują akty urodzenia, małżeństwa, związku partnerskiego i zgonu.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Rejestrujesz akty urodzenia",
+   "Rejestrujesz małżeństwa i związki partnerskie",
+   "Rejestrujesz akty zgonu",
+   "Sprawdzasz dokumenty osób składających wniosek"
+  ]
+ },
+ {
+  "id": 2258,
+  "name": "Recepcjonista medyczny / recepcjonistka medyczna",
+  "desc": "Recepcjoniści medyczni witają klientów i pacjentów w momencie ich przybycia do placówki medycznej i sprawdzają ich dane, zbierają informacje o pacjentach i ustalają wizyty pod nadzorem i kierownictwem kierownika instytucji opieki zdrowotnej.",
+  "path": "Biuro i administracja > Recepcja i informacja",
+  "tasks": [
+   "Witasz pacjentów i sprawdzasz ich dane",
+   "Zbierasz informacje do karty pacjenta",
+   "Rejestrujesz na wizyty",
+   "Informujesz o kolejności i miejscu gabinetu"
+  ]
+ },
+ {
+  "id": 2259,
+  "name": "Recepcjonista w placówce weterynaryjnej",
+  "desc": "Recepcjoniści w placówkach weterynaryjnych zapewniają przyjmowanie i wsparcie biurowe/administracyjne w gabinecie weterynaryjnym, ustalają wizyty i przyjęcia klientów, sprzedaż i doradztwo w zakresie produktów dla zwierząt, zgodnie z ustawodawstwem krajowym.",
+  "path": "Biuro i administracja > Recepcja i informacja",
+  "tasks": [
+   "Umawiasz wizyty i przyjęcia zwierząt",
+   "Rejestrujesz właścicieli i ich pupili",
+   "Doradzasz przy wyborze produktów dla zwierząt",
+   "Prowadzisz sprawy biurowe gabinetu"
+  ]
+ },
+ {
+  "id": 2260,
+  "name": "Nocny recepcjonista",
+  "desc": "Nocni recepcjoniści sprawują nocną opiekę nad gośćmi w placówce hotelarskiej oraz wykonują szeroki zakres działań od punktu obsługi po prowadzenie księgowości.",
+  "path": "Biuro i administracja > Recepcja i informacja",
+  "tasks": [
+   "Meldujesz gości przyjeżdżających po północy",
+   "Odpowiadasz na prośby i pytania gości",
+   "Zamykasz rozliczenia dnia",
+   "Pilnujesz bezpieczeństwa w holu"
+  ]
+ },
+ {
+  "id": 2261,
+  "name": "Ankieter",
+  "desc": "Ankieterzy przeprowadzają wywiady i wypełniają formularze w celu zebrania danych od respondentów. Mogą oni zbierać informacje telefonicznie, za pośrednictwem poczty, osobistych wizyt lub na ulicy. Prowadzą i pomagają uczestnikom wywiadów w przekazaniu informacji, jakimi zainteresowany jest ankieter, zazwyczaj związanych z informacjami demograficznymi dla rządowych celów statystycznych.",
+  "path": "Biuro i administracja > Recepcja i informacja",
+  "tasks": [
+   "Dzwonisz do respondentów lub zagadujesz ich na ulicy",
+   "Zadajesz pytania z formularza",
+   "Zapisujesz odpowiedzi dokładnie",
+   "Wyjaśniasz, po co jest badanie"
+  ]
+ },
+ {
+  "id": 2262,
+  "name": "Ankieter w dziale analiz i badań rynkowych",
+  "desc": "Ankieterzy w dziale analiz i badań rynkowych dążą do gromadzenia informacji na temat postrzegania, opinii i preferencji klientów w odniesieniu do produktów lub usług komercyjnych. Korzystają z technik wywiadu, aby uzyskać jak najwięcej informacji, kontaktując się z ludźmi poprzez rozmowy telefoniczne, kontakt osobisty lub za pomocą środków wirtualnych. Przekazują te informacje ekspertom w celu dokonania analizy.",
+  "path": "Biuro i administracja > Recepcja i informacja",
+  "tasks": [
+   "Rozmawiasz z klientami o produktach i usługach",
+   "Zadajesz pytania pogłębiające",
+   "Zapisujesz opinie i preferencje",
+   "Przekazujesz wyniki analitykom"
+  ]
+ },
+ {
+  "id": 2263,
+  "name": "Operator centrali telefonicznej",
+  "desc": "Operatorzy centrali telefonicznej nawiązują połączenia telefoniczne przy użyciu tablic rozdzielczych i konsoli. Udzielają również odpowiedzi na zapytania klientów i obsługują raporty dotyczące problemów.",
+  "path": "Biuro i administracja > Recepcja i informacja",
+  "tasks": [
+   "Odbierasz i przełączasz połączenia",
+   "Odpowiadasz na zapytania klientów",
+   "Obsługujesz tablicę lub konsolę",
+   "Zgłaszasz raporty o problemach"
+  ]
+ },
+ {
+  "id": 2264,
+  "name": "Konsultant ds. internetowej obsługi klienta",
+  "desc": "Konsultanci ds. internetowej obsługi klienta reagują na wszelkiego rodzaju odpowiedzi i wnioski ze strony klientów za pośrednictwem różnych platform internetowych na stronach internetowych i w usługach wsparcia online w czasie rzeczywistym. Są oni dostępni w celu świadczenia usług za pośrednictwem platform czatów i mogą udzielać odpowiedzi na zapytania klientów jedynie w formie pisemnej.",
+  "path": "Biuro i administracja > Recepcja i informacja",
+  "tasks": [
+   "Odpisujesz na czacie w czasie rzeczywistym",
+   "Odpowiadasz na wnioski przesłane przez stronę",
+   "Rozwiązujesz proste problemy klientów",
+   "Przekazujesz trudne sprawy dalej"
+  ]
+ },
+ {
+  "id": 2265,
+  "name": "Konsjerż hotelowy",
+  "desc": "Konsjerże hotelowi dostarczają klientom informacji, pomagają gościom w różnych zadaniach, takich jak dokonywanie rezerwacji w restauracji, polecanie najważniejszych atrakcji, zamawianie transportu (limuzyny, samoloty, łodzie itp.) i inne usługi, zamawianie biletów na imprezy specjalne oraz pomoc w organizacji różnych wycieczek i zwiedzaniu lokalnych atrakcji.",
+  "path": "Biuro i administracja > Recepcja i informacja",
+  "tasks": [
+   "Rezerwujesz stoliki w restauracjach",
+   "Zamawiasz bilety na wydarzenia",
+   "Organizujesz transport i wycieczki",
+   "Polecasz atrakcje w okolicy"
+  ]
+ },
+ {
+  "id": 2266,
+  "name": "Pracownik działu obsługi klienta",
+  "desc": "Pracownicy działu obsługi klienta rozpatrują reklamacje i są odpowiedzialni za utrzymanie ogólnego dobrego imienia firmy między organizacją a jej klientami. Zarządzają danymi dotyczącymi zadowolenia klientów i raportują te dane.",
+  "path": "Biuro i administracja > Recepcja i informacja",
+  "tasks": [
+   "Rozpatrujesz reklamacje klientów",
+   "Rozmawiasz z niezadowolonymi klientami",
+   "Zbierasz dane o zadowoleniu klientów",
+   "Przygotowujesz raporty dla firmy"
+  ]
+ },
+ {
+  "id": 2267,
+  "name": "Archiwista zakładowy",
+  "desc": "Archiwiści zakładowi odpowiadają za prowadzenie rejestrów spółki oraz za zarządzanie formularzami i informacjami. W razie konieczności organizują i odzyskują dokumenty oraz dbają o wydajność systemu pracy.",
+  "path": "Biuro i administracja > Inni pracownicy biurowi",
+  "tasks": [
+   "Segregujesz i opisujesz dokumenty",
+   "Układasz akta na regałach według systemu",
+   "Odnajdujesz dokumenty na prośbę",
+   "Prowadzisz rejestr wypożyczeń"
+  ]
+ },
+ {
+  "id": 2268,
+  "name": "Asystent ds. reklamy",
+  "desc": "Asystenci ds. reklamy udzielają wsparcia we wszystkich działaniach prowadzonych przez działy reklamy lub agencje reklamowe. Dbają o sprawne wykonywanie czynności administracyjnych. Komunikują się z pracownikami działu reklamy i z klientami zewnętrznymi. Ponadto mają ogólną wiedzę na temat operacji w reklamie, dzięki czemu mogą pomagać w pragmatycznym wprowadzaniu w życie planów i zadań wykonywanych przez kierowników i konsultantów oraz uczestniczyć w tworzeniu treści przeznaczonych do wykorzystania w internecie i materiałach drukowanych.",
+  "path": "Biuro i administracja > Inni pracownicy biurowi",
+  "tasks": [
+   "Kontaktujesz się z klientami agencji",
+   "Pilnujesz terminów i dokumentów kampanii",
+   "Pomagasz przy tekstach i grafikach do internetu",
+   "Przygotowujesz materiały do druku"
+  ]
+ },
+ {
+  "id": 2269,
+  "name": "Asystent działu kadr",
+  "desc": "Asystenci działu kadr zapewniają wsparcie we wszystkich procesach i działaniach wykonywanych przez kierowników działu kadr. Pomagają w przygotowaniu procesów rekrutacyjnych, skanując CV i zawężając wybór do kandydatów, którzy najlepiej nadają się na dane stanowisko. Wykonują one zadania administracyjne, przygotowują komunikaty i listy oraz przedstawiają tabelaryczne zestawienia ankiet i ocen przeprowadzonych przez dany dział.",
+  "path": "Biuro i administracja > Inni pracownicy biurowi",
+  "tasks": [
+   "Czytasz CV i wybierasz kandydatów",
+   "Przygotowujesz ogłoszenia i listy",
+   "Układasz tabele z ankiet i ocen",
+   "Wykonujesz zadania administracyjne działu"
+  ]
+ },
+ {
+  "id": 2270,
+  "name": "Ekspedient pocztowy",
+  "desc": "Ekspedienci pocztowi zajmują się obsługą, sortowaniem, rejestrowaniem korespondencji oraz wykonują inne obowiązki związane z usługami pocztowymi w urzędach pocztowych lub organizacjach powiązanych. Prowadzą oni dokumentację dotyczącą listów i przesyłek przychodzących i wychodzących w placówce.",
+  "path": "Biuro i administracja > Inni pracownicy biurowi",
+  "tasks": [
+   "Sortujesz listy i paczki",
+   "Rejestrujesz przesyłki przychodzące i wychodzące",
+   "Obsługujesz klientów przy okienku",
+   "Prowadzisz dokumentację przesyłek"
+  ]
+ },
+ {
+  "id": 2271,
+  "name": "Korektor tekstu",
+  "desc": "Korektorzy tekstu analizują kopie gotowych produktów, takich jak książki, gazety i czasopisma. Poprawiają błędy gramatyczne, typograficzne i ortograficzne w celu zapewnienia wysokiej jakości drukowanego produktu.",
+  "path": "Biuro i administracja > Inni pracownicy biurowi",
+  "tasks": [
+   "Czytasz gotowy tekst przed drukiem",
+   "Poprawiasz błędy ortograficzne i gramatyczne",
+   "Wyłapujesz błędy typograficzne",
+   "Zaznaczasz poprawki na kopii tekstu"
+  ]
+ },
+ {
+  "id": 2272,
+  "name": "Korespondent języków obcych",
+  "desc": "Korespondenci języków obcych czytają korespondencję przedsiębiorstwa w językach obcych i udzielają na nią odpowiedzi. Wykonują oni również zadania biurowe.",
+  "path": "Biuro i administracja > Inni pracownicy biurowi",
+  "tasks": [
+   "Czytasz wiadomości od zagranicznych kontrahentów",
+   "Piszesz odpowiedzi w obcym języku",
+   "Sprawdzasz pisownię i formalny ton",
+   "Archiwizujesz korespondencję i porządkujesz dokumenty"
+  ]
+ },
+ {
+  "id": 2273,
+  "name": "Pomocnik biblioteczny",
+  "desc": "Pomocnicy biblioteczni pomagają bibliotekarzowi w codziennej działalności biblioteki. Pomagają użytkownikom w znalezieniu potrzebnych im materiałów, sprawdzają materiały biblioteczne i odkładają zwrócone książki na półki.",
+  "path": "Biuro i administracja > Inni pracownicy biurowi",
+  "tasks": [
+   "Przyjmujesz zwrócone książki",
+   "Odkładasz książki na właściwe półki",
+   "Pomagasz czytelnikom znaleźć potrzebny tytuł",
+   "Sprawdzasz stan wypożyczonych materiałów"
+  ]
+ },
+ {
+  "id": 2274,
+  "name": "Asystent inżyniera",
+  "desc": "Asystenci inżyniera zapewniają administrację i monitorowanie dokumentacji technicznej i inżynierskiej w odniesieniu do projektów, zadań i kwestii jakościowych. Pomagają inżynierom w eksperymentach, uczestniczą w wizytach na miejscu i administrują gromadzeniem informacji.",
+  "path": "Biuro i administracja > Pracownicy biurowi",
+  "tasks": [
+   "Prowadzisz dokumentację techniczną projektu",
+   "Pomagasz w przeprowadzaniu eksperymentów",
+   "Jeździsz z inżynierem na wizje lokalne",
+   "Zbierasz i porządkujesz dane z pomiarów"
+  ]
+ },
+ {
+  "id": 2275,
+  "name": "Pracownik ds. członkowskich",
+  "desc": "Pracownicy ds. członkowskich zapewniają skuteczne administrowanie, dokumentowanie i komunikację w sprawach członkowskich. Wspierają oni proces przystępowania do członkostwa, bieżące zapytania w sprawie członkostwa i procesy wznowienia.",
+  "path": "Biuro i administracja > Pracownicy biurowi",
+  "tasks": [
+   "Przyjmujesz zgłoszenia nowych członków",
+   "Odpowiadasz na pytania o członkostwo",
+   "Przypominasz o wznowieniu członkostwa",
+   "Aktualizujesz dokumentację członków"
+  ]
+ },
+ {
+  "id": 2276,
+  "name": "Technik prac biurowych",
+  "desc": "Technicy prac biurowych są odpowiedzialni za wykonywanie zadań biurowych i administracyjnych na stanowisku biurowym i za wspomaganie działalności gospodarczej w ramach departamentu. Wspomagają wszystkich pracowników administracyjnych, sekretarki i asystentów poprzez sortowanie przesyłek pocztowych, wypełnianie formularzy i dokumentów, odbieranie telefonów, przywitanie klientów, planowanie spotkań i serwowanie napojów.",
+  "path": "Biuro i administracja > Pracownicy biurowi",
+  "tasks": [
+   "Sortujesz przychodzącą pocztę",
+   "Odbierasz telefony i witasz klientów",
+   "Wypełniasz formularze i dokumenty",
+   "Planujesz spotkania i przygotowujesz napoje"
+  ]
+ },
+ {
+  "id": 2277,
+  "name": "Maszynistka",
+  "desc": "Maszynistki obsługują komputery, pisząc i weryfikując dokumenty i gromadząc materiały do przepisania, takie jak korespondencja, sprawozdania, tabele statystyczne, formularze i nagrania audio. Zapoznają się z instrukcjami dołączonymi do materiałów lub przestrzegają ustnych instrukcji określających wymagania takie jak liczba potrzebnych egzemplarzy, priorytet i pożądany format.",
+  "path": "Biuro i administracja > Wprowadzanie danych",
+  "tasks": [
+   "Przepisujesz listy i sprawozdania",
+   "Spisujesz nagrania audio",
+   "Sprawdzasz tekst pod kątem błędów",
+   "Dopasowujesz format i liczbę egzemplarzy"
+  ]
+ },
+ {
+  "id": 2278,
+  "name": "Specjalista ds. wprowadzania danych",
+  "desc": "Specjaliści ds. wprowadzania danych aktualizują, utrzymują i odzyskują informacje przechowywane w systemach komputerowych. Przygotowują dane źródłowe do wprowadzenia do komputera, gromadząc i sortując informacje, przetwarzają dokumentację źródłową klienta i rachunku poprzez przegląd danych w odniesieniu do braków i weryfikują wprowadzane dane dotyczące klientów i rachunków.",
+  "path": "Biuro i administracja > Wprowadzanie danych",
+  "tasks": [
+   "Sortujesz dokumenty źródłowe przed wpisaniem",
+   "Wprowadzasz dane do systemu",
+   "Szukasz braków i niezgodności",
+   "Weryfikujesz poprawność wpisanych informacji"
+  ]
+ },
+ {
+  "id": 2279,
+  "name": "Sekretarka",
+  "desc": "Sekretarki wykonują szereg zadań administracyjnych mających na celu zapewnienie sprawnego funkcjonowania organizacji. Odbierają telefony, sporządzają i wysyłają e-maile, prowadzą terminarze, umawiają spotkania, odbierają wiadomości, archiwizują dokumenty, organizują i obsługują spotkania oraz zarządzają bazami danych.",
+  "path": "Biuro i administracja",
+  "tasks": [
+   "Odbierasz telefony i wiadomości",
+   "Prowadzisz kalendarz i umawiasz spotkania",
+   "Piszesz i wysyłasz e-maile",
+   "Archiwizujesz dokumenty i prowadzisz bazy danych"
+  ]
+ }
+]

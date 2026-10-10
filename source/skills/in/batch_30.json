@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1800,
+  "name": "Sufler",
+  "desc": "Suflerzy podpowiadają i udzielają wskazówek wykonawcom, kiedy zapomną oni swoich kwestii lub pominą przejście do odpowiedniej pozycji na scenie.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Śledzisz tekst sztuki słowo po słowie",
+   "Podpowiadasz kwestię, gdy aktor zapomni",
+   "Przypominasz miejsce na scenie",
+   "Reagujesz na ciszę natychmiast"
+  ]
+ },
+ {
+  "id": 1801,
+  "name": "Technik obsługi sztankietów",
+  "desc": "Technicy obsługi sztankietów kontrolują poruszanie dekoracji i innych elementów w spektaklu w oparciu o koncepcję artystyczną lub twórczą, we współpracy z wykonawcami. Ich praca ma wpływ na wyniki innych techników obsługi i pozostaje pod ich wpływem. W związku z tym technicy obsługi sztankietów ściśle współpracują z projektantami, technikami obsługi i wykonawcami. Technicy obsługi sztankietów przygotowują i nadzorują instalacje, programują urządzenia i obsługują sztankiety, systemy linowe lub systemy poruszania poziomego. Ich praca opiera się na planach, instrukcjach i obliczeniach.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Programujesz ruch dekoracji nad sceną",
+   "Obsługujesz sztankiety i systemy linowe",
+   "Czytasz plany i wykonujesz obliczenia",
+   "Sprawdzasz instalację przed spektaklem"
+  ]
+ },
+ {
+  "id": 1802,
+  "name": "Wykonawca rekwizytów",
+  "desc": "Wykonawcy rekwizytów konstruują, budują, przygotowują, dostosowują i konserwują rekwizyty stosowane na scenie oraz podczas nagrywania filmów i programów telewizyjnych. Rekwizyty mogą być imitacjami prawdziwych przedmiotów lub mogą obejmować efekty elektroniczne, pirotechniczne lub inne. Ich praca opiera się na wizji artystycznej, szkicach i planach. Pracują oni w ścisłej współpracy z projektantami zaangażowanymi w produkcję.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Czytasz szkice i plany rekwizytów",
+   "Budujesz imitacje prawdziwych przedmiotów",
+   "Dopasowujesz rekwizyt do potrzeb aktora",
+   "Naprawiasz zużyte rekwizyty"
+  ]
+ },
+ {
+  "id": 1803,
+  "name": "Archiwista danych big data",
+  "desc": "Archiwiści danych big data dokonują klasyfikacji, katalogowania i prowadzą biblioteki mediów cyfrowych. Oceniają oni również i stosują się do norm w zakresie metadanych dotyczących treści cyfrowych oraz aktualizują nieaktualne dane i systemy zapisu.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Klasyfikujesz pliki cyfrowe",
+   "Dopisujesz opisy ułatwiające znalezienie plików",
+   "Prowadzisz bibliotekę materiałów cyfrowych",
+   "Zamieniasz stare formaty zapisu na nowe"
+  ]
+ },
+ {
+  "id": 1804,
+  "name": "Pracownik magazynu dzieł sztuki",
+  "desc": "Pracownicy magazynów dzieł sztuki to przeszkolone osoby, które pracują bezpośrednio z przedmiotami znajdującymi się w muzeach i galeriach sztuki. Pracują oni między innymi w porozumieniu z archiwistami wystaw, kierownikami zbiorów, konserwatorami i kuratorami, aby zapewnić bezpieczne obchodzenie się z eksponatami i opiekę nad nimi. Często odpowiadają za pakowanie i rozpakowywanie dzieł sztuki, instalowanie i demontowanie dzieł sztuki na wystawach, a także za przemieszczanie dzieł sztuki w obrębie muzeum i w przestrzeniach magazynowych.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Pakujesz i rozpakowujesz dzieła sztuki",
+   "Wieszasz i demontujesz wystawy",
+   "Przenosisz obrazy i rzeźby w muzeum",
+   "Układasz eksponaty w magazynie"
+  ]
+ },
+ {
+  "id": 1805,
+  "name": "Preparator zwierząt",
+  "desc": "Preparatorzy zwierząt oprawiają i odtwarzają martwe zwierzęta lub części zwierząt takie jak głowy trofeum do celu pokazów publicznych lub edukacji, na przykład w muzeum lub na monumencie, lub do innych źródeł badań naukowych bądź do kolekcji prywatnych.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Oprawiasz martwe zwierzęta",
+   "Odtwarzasz kształt ciała zwierzęcia",
+   "Przygotowujesz okazy dla muzeów",
+   "Układasz sierść lub pióra na gotowym okazie"
+  ]
+ },
+ {
+  "id": 1806,
+  "name": "Artysta dźwiękowy",
+  "desc": "Artyści dźwiękowi używają dźwięku jako głównego medium kreatywnego. Poprzez tworzenie dźwięków wyrażają oni swoje intencje i tożsamość. Sztuka dźwięku ma charakter interdyscyplinarny i przybiera formy hybrydowe.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Nagrywasz dźwięki z otoczenia",
+   "Łączysz i przetwarzasz nagrania",
+   "Budujesz instalacje dźwiękowe",
+   "Pokazujesz prace w galerii lub na koncercie"
+  ]
+ },
+ {
+  "id": 1807,
+  "name": "Asystent operatora dźwięku",
+  "desc": "Asystenci operatora dźwięku instalują i obsługują mikrofon pałąkowy, ręcznie, na ramieniu albo na platformie ruchomej. Dopilnowują, aby każdy mikrofon został właściwie rozmieszczony na dekoracji i w najlepszym położeniu, aby móc uchwycić dialogi. Asystenci operatora dźwięku odpowiadają również za mikrofony na ubraniu aktorów.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Trzymasz mikrofon na wysięgniku nad aktorami",
+   "Przypinasz mikrofony do ubrań aktorów",
+   "Ukrywasz mikrofony w dekoracji",
+   "Sprawdzasz, czy dialogi dobrze brzmią"
+  ]
+ },
+ {
+  "id": 1808,
+  "name": "Inżynier masteringu",
+  "desc": "Inżynierowie masteringu dokonują konwersji gotowych nagrań do pożądanego formatu, takiego jak CD, płyty winylowe i nagrania cyfrowe. Zapewniają oni jakość dźwięku we wszystkich formatach.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Odsłuchujesz nagrania na różnym sprzęcie",
+   "Poprawiasz brzmienie gotowego utworu",
+   "Przygotowujesz pliki dla CD, winylu i internetu",
+   "Porównujesz jakość dźwięku w każdym formacie"
+  ]
+ },
+ {
+  "id": 1809,
+  "name": "Kinooperator",
+  "desc": "Kinooperatorzy obsługują i konserwują sprzęt do projekcji w salach kinowych. Kontrolują oni filmy przed załadowaniem ich do projektora. Kinooperator upewnia się, czy podczas projekcji filmu wszystko przebiega sprawnie. Odpowiadają oni również za właściwe przechowywanie filmów.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Sprawdzasz film przed załadowaniem",
+   "Ładujesz film do projektora",
+   "Obserwujesz projekcję i reagujesz na usterki",
+   "Konserwujesz sprzęt i przechowujesz filmy"
+  ]
+ },
+ {
+  "id": 1810,
+  "name": "Montażysta dźwięku",
+  "desc": "Montażyści dźwięku tworzą ścieżkę dźwiękową i efekty dźwiękowe do filmów, seriali telewizyjnych lub innych produkcji multimedialnych. Odpowiadają oni za wszystkie utwory muzyczne i dźwięk w filmie, serialu lub grach wideo. Montażyści dźwięku wykorzystują sprzęt do montażu i miksowania nagrań obrazu i dźwięku oraz dbają o to, by muzyka, dźwięk i dialog były zsynchronizowane i zgodne ze scenariuszem. Ściśle współpracują oni z reżyserem filmowym.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Synchronizujesz dźwięk z obrazem",
+   "Dobierasz efekty dźwiękowe do scen",
+   "Miksujesz dialogi, muzykę i szumy",
+   "Dopasowujesz dźwięk do wizji reżysera"
+  ]
+ },
+ {
+  "id": 1811,
+  "name": "Realizator filmu wideo",
+  "desc": "Realizatorzy filmów wideo kontrolują (wyświetlane) obrazy w spektaklu w oparciu o koncepcję artystyczną lub twórczą, w interakcji z wykonawcami. Ich praca ma wpływ na wyniki innych techników obsługi i pozostaje pod ich wpływem. W związku z tym realizatorzy filmu wideo ściśle współpracują z projektantami, technikami obsługi i wykonawcami. Realizatorzy filmów wideo przygotowują fragmenty mediów, nadzorują ustawienia, kierują ekipą techniczną, programują urządzenia i obsługują system wideo. Ich praca opiera się na planach, instrukcjach i innych dokumentach.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Przygotowujesz fragmenty filmów i animacji do spektaklu",
+   "Ustawiasz projektory i ekrany na scenie",
+   "Programujesz kolejność wyświetlania obrazów",
+   "Uruchamiasz projekcje na próbach i przedstawieniach"
+  ]
+ },
+ {
+  "id": 1812,
+  "name": "Reżyser dźwięku",
+  "desc": "Reżyserzy dźwięku opracowują racjonalną koncepcję projektu dla przedstawienia i nadzorują jej realizację. Ich praca opiera się na badaniu informacji i wizji artystycznej. Ich projekt powstaje pod wpływem innych projektów i wpływa na nie i musi być zgodny z tymi projektami i ogólną wizją artystyczną. W związku z tym reżyserzy dźwięku ściśle współpracują z dyrektorami artystycznymi, operatorami i zespołem artystycznym. Reżyserzy dźwięku przygotowują fragmenty dźwięku, które mają być użyte w przedstawieniu, co może obejmować zapis, komponowanie, manipulację i edycję.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Tworzysz koncepcję dźwiękową całego przedstawienia",
+   "Nagrywasz odgłosy i komponujesz krótkie motywy",
+   "Edytujesz i przerabiasz nagrania do konkretnych scen",
+   "Ustalasz z zespołem artystycznym, jak brzmi scena"
+  ]
+ },
+ {
+  "id": 1813,
+  "name": "Technik estradowy",
+  "desc": "Technicy estradowi zarządzają wyposażeniem technicznym podczas koncertów i innych dużych imprez.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Rozstawiasz kolumny, mikrofony i pulpity na scenie",
+   "Sprawdzasz dźwięk w próbie przed koncertem",
+   "Ustawiasz głośność w czasie występu",
+   "Zwijasz kable i pakujesz sprzęt po imprezie"
+  ]
+ },
+ {
+  "id": 1814,
+  "name": "Technik realizacji dźwięku",
+  "desc": "Technicy realizacji dźwięku instalują, przygotowują, sprawdzają i konserwują sprzęt w celu zapewnienia optymalnej jakości dźwięku dla występów na żywo. Współpracują z ekipą techniczną w rozładowywaniu, instalacji i obsłudze urządzeń i przyrządów audio.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Rozładowujesz i instalujesz sprzęt audio",
+   "Sprawdzasz każdy mikrofon i kabel",
+   "Konserwujesz i naprawiasz zużyty sprzęt",
+   "Obsługujesz urządzenia audio w trakcie występu"
+  ]
+ },
+ {
+  "id": 1815,
+  "name": "Technik realizacji nagrań i nagłośnień",
+  "desc": "Technicy realizacji nagrań i nagłośnień obsługują i konserwują mikrofony i słuchawki w kabinach nagraniowych w studiach nagrań. Obsługują oni pulpity sterujące miksera. Technicy realizacji nagrań i nagłośnień zarządzają wszystkimi wymaganiami w zakresie produkcji dźwięku. Doradzają śpiewakom w kwestii korzystania z głosu. Technicy realizacji nagrań i nagłośnień edytują nagrania do uzyskania gotowego produktu.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Ustawiasz mikrofony w kabinie nagraniowej",
+   "Obsługujesz pulpit miksera",
+   "Doradzasz śpiewakom, jak używać głosu",
+   "Montujesz nagrania do gotowej wersji"
+  ]
+ },
+ {
+  "id": 1816,
+  "name": "Technik urządzeń audiowizualnych",
+  "desc": "Technicy urządzeń audiowizualnych instalują, obsługują i konserwują urządzenia do rejestracji i edycji obrazów i dźwięku do celów przekazu radiowego i telewizyjnego podczas wydarzeń na żywo i do nadawania sygnałów telekomunikacyjnych.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Instalujesz kamery i mikrofony na wydarzeniu",
+   "Obsługujesz sprzęt do rejestracji obrazu i dźwięku",
+   "Montujesz nagrany materiał",
+   "Konserwujesz sprzęt i wysyłasz sygnał do nadawcy"
+  ]
+ },
+ {
+  "id": 1817,
+  "name": "Technik wideo",
+  "desc": "Technicy wideo instalują, przygotowują, kontrolują i konserwują urządzenia w celu zapewnienia optymalnej jakości wyświetlanego obrazu podczas występu na żywo. Współpracują z ekipą techniczną w rozładowywaniu, instalacji i obsłudze sprzętu i przyrządów wideo.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Rozładowujesz i ustawiasz projektory i ekrany",
+   "Podłączasz kable wideo do sterowania",
+   "Regulujesz ostrość, jasność i kolory obrazu",
+   "Konserwujesz sprzęt wideo po każdym wydarzeniu"
+  ]
+ },
+ {
+  "id": 1818,
+  "name": "Technik urządzeń nadawczych",
+  "desc": "Technicy urządzeń nadawczych instalują, uruchamiają, konserwują, monitorują i naprawiają urządzenia wykorzystywane do transmisji i odbioru sygnału telewizyjnego i radiowego. Zapewniają dostępność wszystkich materiałów w odpowiednim formacie w jakości nadającej się do przekazu zgodnie z terminem transmisji. Ponadto technicy urządzeń nadawczych konserwują i naprawiają ten sprzęt.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Uruchamiasz i konfigurujesz urządzenia nadawcze",
+   "Monitorujesz sygnał na ekranach kontrolnych",
+   "Naprawiasz uszkodzone urządzenia nadawcze i odbiorcze",
+   "Sprawdzasz, czy materiał jest w dobrym formacie przed emisją"
+  ]
+ },
+ {
+  "id": 1819,
+  "name": "Model do pozowania / modelka do pozowania",
+  "desc": "Modele/modelki do pozowania pozują dla artystów wizualnych, stanowiąc dla nich punkt odniesienia lub inspirację dla ich pracy twórczej. Pozują w pozycji stojącej dla artystów, którzy rysują postaci, malują, rzeźbią lub zajmują się sztuką fotografii. Modele/modelki do pozowania są profesjonalnymi modelami/modelkami wykorzystującymi swoje ciało jako przedmiot kreacji artystycznej.",
+  "path": "Sztuka, scena i film > Modele i modelki",
+  "tasks": [
+   "Przyjmujesz pozę uzgodnioną z artystą",
+   "Zachowujesz bezruch przez długi czas",
+   "Robisz krótkie przerwy na rozprostowanie mięśni",
+   "Zmieniasz pozę, gdy artysta o to prosi"
+  ]
+ },
+ {
+  "id": 1820,
+  "name": "Analityk biznesowy w dziedzinie technologii informacyjno-telekomunikacyjnych",
+  "desc": "Analitycy biznesowi w dziedzinie technologii informacyjno-telekomunikacyjnych zajmują się analizą i opracowaniem procesów i systemów organizacji, oceniając model biznesowy i jego integrację z technologią. Określają również potrzeby w zakresie zmian, oceniają wpływ zmiany, precyzują i dokumentują wymogi dotyczące dokumentacji, a następnie dbają, żeby wymogi te były spełniane, wspierając przedsiębiorstwa w procesie wdrażania.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Analizujesz, jak firma pracuje na co dzień",
+   "Rozmawiasz z pracownikami o ich potrzebach",
+   "Spisujesz wymagania dla zmian w systemie",
+   "Oceniasz, co zmieni się po wdrożeniu"
+  ]
+ },
+ {
+  "id": 1821,
+  "name": "Analityk systemów informacyjno-telekomunikacyjnych",
+  "desc": "Analitycy systemów informacyjno-telekomunikacyjnych określają potrzeby, jakie musi zaspokajać system, żeby spełniać wymogi użytkowników końcowych. Analizują funkcje systemu z zamiarem określenia ich celów oraz ustalenia działań i procedur służących ich najefektywniejszemu osiągnięciu. Opracowują również nowe rozwiązania informatyczne w celu poprawy efektywności i wydajności przedsiębiorstw, przedstawiają zarysy projektów i szacują koszty nowych systemów, określają działania wykonywane przez system oraz sposób wyświetlania danych przez użytkownika końcowego.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Pytasz użytkowników, czego brakuje w systemie",
+   "Analizujesz funkcje działającego systemu",
+   "Opisujesz zarys projektu nowego rozwiązania",
+   "Szacujesz koszty nowego systemu"
+  ]
+ },
+ {
+  "id": 1822,
+  "name": "Audytor systemów informatycznych",
+  "desc": "Audytorzy systemów informatycznych przeprowadzają audyty systemów informatycznych, platform i procedur operacyjnych zgodnie z ustanowionymi standardami firmy dotyczącymi skuteczności, dokładności i bezpieczeństwa. Dokonują oceny infrastruktury TIK pod kątem ryzyka dla organizacji i wprowadzają mechanizmy kontroli służące ograniczeniu strat. Określają i zalecają usprawnienia w zakresie bieżącej kontroli zarządzania ryzykiem oraz we wdrażaniu zmian lub modernizacji systemu.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Sprawdzasz systemy według standardów firmy",
+   "Oceniasz ryzyko dla infrastruktury informatycznej",
+   "Wprowadzasz mechanizmy kontroli ograniczające straty",
+   "Piszesz raport z zaleceniami dla zarządu"
+  ]
+ },
+ {
+  "id": 1823,
+  "name": "Inżynier integracji technologii informatycznych",
+  "desc": "Inżynierowie integracji technologii informatycznych opracowują i wdrażają rozwiązania służące koordynowaniu zastosowań w całym przedsiębiorstwie lub jego jednostkach i działach. Oceniają istniejące elementy lub systemy w celu określenia wymogów integracyjnych i dbają, żeby ostateczne rozwiązania spełniały potrzeby organizacyjne. W miarę możliwości ponownie wykorzystują elementy i pomagają kierownictwu w podejmowaniu decyzji. Zajmują się wykrywaniem i usuwaniem usterek z zakresu integracji systemów TIK.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Oceniasz, jakie systemy trzeba połączyć",
+   "Projektujesz sposób wymiany danych między nimi",
+   "Wykorzystujesz gotowe elementy zamiast pisać od nowa",
+   "Wykrywasz i usuwasz usterki w połączeniach"
+  ]
+ },
+ {
+  "id": 1824,
+  "name": "Kierownik ds. analizy biznesowej w zakresie technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy ds. analiz biznesowych w zakresie technologii informacyjno-telekomunikacyjnych określają obszary, w których potrzebne są zmiany systemów informacyjnych w celu wsparcia biznesplanów i monitorowania skutków w zakresie zarządzania zmianą. Działają na rzecz spełnienia ogólnych wymogów organizacji biznesowej w zakresie funkcjonalności TIK. Kierownicy ds. analiz biznesowych w zakresie technologii informacyjno-telekomunikacyjnych analizują potrzeby biznesowe i przekładają je na rozwiązania TIK.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Wskazujesz obszary wymagające zmian w systemach",
+   "Przekładasz potrzeby biznesu na rozwiązania informatyczne",
+   "Pilnujesz, żeby systemy spełniały wymagania organizacji",
+   "Monitorujesz skutki wprowadzonych zmian"
+  ]
+ },
+ {
+  "id": 1825,
+  "name": "Konsultant ds. badań technologii informacyjno-telekomunikacyjnych",
+  "desc": "Konsultanci ds. badań technologii informacyjno-telekomunikacyjnych prowadzą ukierunkowane badania w dziedzinie TIK i przedstawiają klientowi sprawozdanie końcowe. Wykorzystują również narzędzia TIK do opracowania kwestionariuszy do badań, analizują wyniki, sporządzają sprawozdania, przedstawiają wyniki i formułują zalecenia na podstawie wyników badań.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Planujesz badanie zgodnie z pytaniem klienta",
+   "Układasz kwestionariusze do ankiet",
+   "Analizujesz zebrane odpowiedzi",
+   "Prezentujesz wyniki i zalecenia klientowi"
+  ]
+ },
+ {
+  "id": 1826,
+  "name": "Konsultant ds. integracji systemów technologii informacyjno-telekomunikacyjnych",
+  "desc": "Konsultanci ds. integracji systemów technologii informacyjno-telekomunikacyjnych doradzają w kwestii łączenia różnych systemów w celu współdziałania w ramach organizacji, żeby umożliwić wymianę danych i ograniczyć redundancję.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Sprawdzasz, które systemy firmy nie współpracują ze sobą",
+   "Doradzasz sposób łączenia systemów",
+   "Wskazujesz miejsca, gdzie te same dane wpisuje się dwa razy",
+   "Tłumaczysz klientowi plan wymiany danych"
+  ]
+ },
+ {
+  "id": 1827,
+  "name": "Konsultant ds. technologii informacyjno-telekomunikacyjnych",
+  "desc": "Konsultanci ds. technologii informacyjno-telekomunikacyjnych doradzają, w jaki sposób zoptymalizować wykorzystanie istniejących narzędzi i systemów, sformułować zalecenia dotyczące opracowania i wdrożenia projektu biznesowego lub rozwiązania technologicznego oraz biorą udział w definiowaniu projektów. Zwiększają świadomość innowacji w zakresie technologii informacyjnych i ich potencjalnej wartości dla przedsiębiorstwa. Biorą również udział w ocenie i wyborze rozwiązań TIK.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Oceniasz narzędzia, których firma używa",
+   "Doradzasz, jak lepiej je wykorzystać",
+   "Porównujesz nowe rozwiązania technologiczne",
+   "Pomagasz zdefiniować projekt wdrożenia"
+  ]
+ },
+ {
+  "id": 1828,
+  "name": "Konsultant ds. technologii informacyjno-telekomunikacyjnych przyjaznych środowisku",
+  "desc": "Konsultanci ds. technologii informacyjno-telekomunikacyjnych przyjaznych środowisku doradzają organizacjom w dziedzinie ich strategii TIK przyjaznych środowisku i jej wdrażania w sposób jak najbardziej skuteczny i efektywny, żeby umożliwić organizacji osiągnięcie krótko-, średnio- i długoterminowych celów w zakresie ochrony środowiska.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Oceniasz, ile zasobów zużywa informatyka firmy",
+   "Układasz strategię ekologicznych rozwiązań IT",
+   "Ustalasz cele krótkie, średnie i długie",
+   "Pomagasz wdrożyć plan w firmie"
+  ]
+ },
+ {
+  "id": 1829,
+  "name": "Projektant infrastruktury informacyjno-telekomunikacyjnej przedsiębiorstwa",
+  "desc": "Rolą projektantów infrastruktury informacyjno-telekomunikacyjnej przedsiębiorstwa jest zrównoważenie możliwości technologicznych i wymogów biznesowych. Określają oni również całościowy obraz strategii organizacji, jej procesów, zasobów informatycznych i zasobów TIK oraz ustalają powiązania misji, strategii i procesów biznesowych ze strategią TIK.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Opisujesz strategię i procesy organizacji",
+   "Łączysz cele firmy z planem technologii",
+   "Mapujesz zasoby informatyczne firmy",
+   "Równoważysz możliwości techniczne i potrzeby biznesu"
+  ]
+ },
+ {
+  "id": 1830,
+  "name": "Projektant systemów informacyjno-telekomunikacyjnych",
+  "desc": "Projektanci systemów informacyjno-telekomunikacyjnych projektują architekturę, elementy, moduły, interfejsy i dane wieloelementowych systemów z myślą o spełnieniu określonych wymogów.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Projektujesz architekturę systemu z wielu elementów",
+   "Dzielisz system na moduły",
+   "Ustalasz, jak moduły wymieniają dane",
+   "Sprawdzasz, czy projekt spełnia wymagania"
+  ]
+ },
+ {
+  "id": 1831,
+  "name": "Projektant systemów wbudowanych",
+  "desc": "Projektanci systemów wbudowanych odnoszą i projektują wymogi oraz plan lub strukturę wysokiego szczebla wbudowanego systemu sterowania, kierując się specyfikacjami oprogramowania technicznego.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Czytasz specyfikacje oprogramowania technicznego",
+   "Spisujesz wymagania dla układu sterującego",
+   "Projektujesz ogólną strukturę systemu wbudowanego",
+   "Dzielisz zadania sterowania na mniejsze części"
+  ]
+ },
+ {
+  "id": 1832,
+  "name": "Twórca systemów informacyjno-telekomunikacyjnych",
+  "desc": "Twórcy systemów informacyjno-telekomunikacyjnych utrzymują, kontrolują i udoskonalają organizacyjne systemy wsparcia. W celu zaspokojenia szczególnych potrzeb korzystają z istniejących lub nowych technologii. Sprawdzają zarówno elementy sprzętu komputerowego, jak i oprogramowania, diagnozują i usuwają usterki systemu.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Utrzymujesz i udoskonalasz systemy wspierające organizację",
+   "Sprawdzasz elementy sprzętu i oprogramowania",
+   "Diagnozujesz usterki systemu",
+   "Dobierasz technologię do konkretnej potrzeby"
+  ]
+ },
+ {
+  "id": 1833,
+  "name": "Tester dostępności technologii informacyjno-telekomunikacyjnych",
+  "desc": "Testerzy dostępności technologii informacyjno-telekomunikacyjnych oceniają strony internetowe, aplikacje, systemy lub elementy interfejsu użytkownika w kontekście przyjazności, nawigacji i widoczności dla wszystkich rodzajów użytkowników, zwłaszcza dla osób o szczególnych potrzebach lub niepełnosprawnych.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Przechodzisz po stronie samą klawiaturą",
+   "Sprawdzasz czytelność kolorów i wielkość tekstu",
+   "Testujesz aplikację z czytnikiem ekranu",
+   "Zgłaszasz miejsca, w których ktoś utknie"
+  ]
+ },
+ {
+  "id": 1834,
+  "name": "Tester integracji technologii informacyjno-telekomunikacyjnych",
+  "desc": "Testerzy integracji technologii informacyjno-telekomunikacyjnych przeprowadzają testy w grupach elementów systemu, jednostek, a nawet zastosowań. Grupy do testów obejmują większe pule i są uwzględniane w planach testów integracji. Testerzy integracji technologii informacyjno-telekomunikacyjnych nadzorują złożoność relacji między poszczególnymi elementami.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Testujesz grupy elementów systemu razem",
+   "Pracujesz według planów testów integracji",
+   "Sprawdzasz, czy dane przechodzą między modułami",
+   "Obserwujesz złożone zależności między częściami"
+  ]
+ },
+ {
+  "id": 1835,
+  "name": "Tester systemów informacyjno-telekomunikacyjnych",
+  "desc": "Testerzy systemów informacyjno-telekomunikacyjnych prowadzą testy i niektóre działania w zakresie planowania testów. Mogą także usuwać usterki i wykonywać naprawy systemów i elementów TIK, choć te zadania należą głównie do projektantów i twórców. Zapewniają właściwe funkcjonowanie wszystkich systemów i elementów przed ich przekazaniem klientom wewnętrznym i zewnętrznym.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Testujesz cały system przed oddaniem użytkownikom",
+   "Planujesz część testów systemu",
+   "Sprawdzasz elementy sprzętowe i programowe",
+   "Zgłaszasz usterki projektantom i twórcom"
+  ]
+ },
+ {
+  "id": 1836,
+  "name": "Tester użyteczności technologii informacyjno-telekomunikacyjnych",
+  "desc": "Testerzy użyteczności technologii informacyjno-telekomunikacyjnych zapewniają zgodność z wymogami i dążą do optymalnej użyteczności w fazach cyklu projektowania oprogramowania (analiza, projektowanie, realizacja i wdrożenie). Współpracują również ściśle z użytkownikami (analitykami) w celu badania i sporządzania opisów profili użytkowników, analizują zadania, przepływy pracy i scenariusze użytkowników.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Obserwujesz, jak użytkownicy wykonują zadania w aplikacji",
+   "Opisujesz profile i scenariusze typowych użytkowników",
+   "Notujesz miejsca, w których ktoś się gubi",
+   "Przekazujesz twórcom uwagi o poprawkach w projekcie"
+  ]
+ },
+ {
+  "id": 1837,
+  "name": "Analityk odtwarzania awaryjnego technologii informacyjno-telekomunikacyjnych",
+  "desc": "Analitycy odtwarzania awaryjnego technologii informacyjno-telekomunikacyjnych opracowują, utrzymują i wdrażają strategie i rozwiązania w zakresie ciągłości TIK oraz przywrócenia gotowości do pracy po wystąpieniu sytuacji nadzwyczajnej. Wspierają zespoły techniczne, oceniają ryzyko, projektują i opracowują procedury, dokumentację i strategie w zakresie przywracania gotowości do pracy po wystąpieniu sytuacji nadzwyczajnej w celu kontynuowania funkcji biznesowych i powrotu do normalnego stanu przy minimalnej utracie danych. Koordynują również testy tworzenia wersji zapasowych i walidacji systemów.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Oceniasz, co w firmie może się zepsuć",
+   "Piszesz procedury przywracania systemów po awarii",
+   "Koordynujesz testy kopii zapasowych",
+   "Wspierasz techników podczas ćwiczeń awaryjnych"
+  ]
+ },
+ {
+  "id": 1838,
+  "name": "Analityk testów technologii informacyjno-telekomunikacyjnych",
+  "desc": "Analitycy testów pracują w środowisku testowym, oceniając produkty, sprawdzając ich jakość i dokładność lub tworząc scenariusze testowe. Tworzone przez nich testy są następnie wdrażane przez testerów.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Czytasz wymagania i szukasz miejsc ryzykownych",
+   "Piszesz scenariusze testowe krok po kroku",
+   "Przewidujesz nietypowe zachowania użytkownika",
+   "Oceniasz jakość i dokładność produktu"
+  ]
+ },
+ {
+  "id": 1839,
+  "name": "Kierownik działu audytorów technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy działu audytorów technologii informacyjno-telekomunikacyjnych monitorują audytorów systemów informatycznych odpowiedzialnych za audyty systemów informatycznych, platform i procedur operacyjnych zgodnie z ustanowionymi standardami firmy dotyczącymi skuteczności, dokładności i bezpieczeństwa. Dokonują oceny infrastruktury TIK pod kątem ryzyka dla organizacji i wprowadzają mechanizmy kontroli służące ograniczeniu strat. Określają i zalecają usprawnienia w zakresie bieżącej kontroli zarządzania ryzykiem oraz we wdrażaniu zmian lub modernizacji systemu.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Przydzielasz audytorom systemy do sprawdzenia",
+   "Czytasz raporty z audytów",
+   "Oceniasz ryzyko dla całej organizacji",
+   "Zalecasz usprawnienia kontroli i zmian w systemie"
+  ]
+ },
+ {
+  "id": 1840,
+  "name": "Kierownik kontroli jakości technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy kontroli jakości technologii informacyjno-telekomunikacyjnych określają i stosują podejście bazujące na jakości TIK, korzystając z systemów zarządzania jakością, zgodnie z normami wewnętrznymi i zewnętrznymi oraz kulturą organizacji. Zapewniają prawidłowe wdrażanie zarządczych mechanizmów kontroli w celu zabezpieczenia zasobów, integralności danych i operacji. Koncentrują się na osiąganiu celów w zakresie jakości, w tym na utrzymaniu certyfikacji zewnętrznej zgodnie z normami jakości oraz na monitorowaniu danych statystycznych w celu prognozowania jakości.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Wprowadzasz systemy zarządzania jakością w dziale IT",
+   "Pilnujesz zgodności z normami i certyfikatami",
+   "Analizujesz dane i prognozujesz problemy z jakością",
+   "Sprawdzasz, czy zabezpieczenia danych działają"
+  ]
+ },
+ {
+  "id": 1841,
+  "name": "Specjalista ds. zapewnienia jakości danych",
+  "desc": "Specjaliści ds. zapewnienia jakości danych dokonują przeglądu poprawności danych organizacji, zalecają usprawnienia systemów rejestracji danych i procesów pozyskiwania danych oraz oceniają referencyjną i historyczną spójność danych. Opracowują również dokumenty, utrzymują cele i standardy w zakresie jakości danych oraz nadzorują politykę ochrony danych w organizacji i monitorują zgodność przepływów danych z normami jakości danych.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Przeglądasz dane i wyłapujesz błędy",
+   "Sprawdzasz spójność danych między systemami",
+   "Piszesz standardy jakości danych",
+   "Monitorujesz przepływy danych i ich zgodność z normami"
+  ]
+ },
+ {
+  "id": 1842,
+  "name": "Twórca oprogramowania komputerowego technologii informacyjno-telekomunikacyjnych",
+  "desc": "Twórcy oprogramowania komputerowego technologii informacyjno-telekomunikacyjnych wdrażają aplikacje (oprogramowanie) TIK na podstawie przekazanych projektów, stosując języki, narzędzia, platformy i doświadczenie właściwe dla dziedziny aplikacji.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Piszesz kod według przekazanego projektu",
+   "Dobierasz język i narzędzia do zadania",
+   "Uruchamiasz program i szukasz błędów",
+   "Łączysz swoją część z kodem kolegów"
+  ]
+ },
+ {
+  "id": 1843,
+  "name": "Twórca oprogramowania systemów wbudowanych",
+  "desc": "Twórcy oprogramowania systemów wbudowanych odpowiadają za tworzenie, wdrożenie, dokumentację i utrzymanie oprogramowania uruchamianego w systemie wbudowanym.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Piszesz oprogramowanie dla układu w urządzeniu",
+   "Wgrywasz program na płytkę i sprawdzasz działanie",
+   "Dokumentujesz, jak działa kod",
+   "Utrzymujesz i poprawiasz starsze wersje oprogramowania"
+  ]
+ },
+ {
+  "id": 1844,
+  "name": "Programista narzędzi sterowanych numerycznie i kontroli procesu",
+  "desc": "Programiści narzędzi sterowanych numerycznie i kontroli procesu opracowują programy komputerowe sterujące automatycznymi maszynami i urządzeniami w procesach produkcyjnych. Analizują projekty i zamówienia, wykonują symulacje komputerowe i uruchomienia próbne.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Analizujesz projekt części i zamówienie",
+   "Piszesz program sterujący ruchem maszyny",
+   "Robisz symulację komputerową przed uruchomieniem",
+   "Prowadzisz uruchomienia próbne na hali"
+  ]
+ },
+ {
+  "id": 1845,
+  "name": "Programista przemysłowych aplikacji mobilnych",
+  "desc": "Programiści przemysłowych aplikacji mobilnych wdrażają oprogramowanie aplikacji dla konkretnych, profesjonalnych przemysłowych urządzeń mobilnych (ręcznych), kierując się potrzebami zakładu, z wykorzystaniem ogólnych lub specjalnych narzędzi programowania dla systemów operacyjnych urządzeń.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Programujesz aplikacje na ręczne urządzenia przemysłowe",
+   "Rozmawiasz z pracownikami zakładu o potrzebach",
+   "Dopasowujesz ekrany do pracy w rękawicach",
+   "Testujesz aplikację w hali, nie tylko przy biurku"
+  ]
+ },
+ {
+  "id": 1846,
+  "name": "Specjalista ds. konfiguracji oprogramowania technologii informacyjno-telekomunikacyjnych",
+  "desc": "Specjaliści ds. konfiguracji oprogramowania technologii informacyjno-telekomunikacyjnych identyfikują, zapisują i utrzymują właściwe dla danego użytkownika konfiguracje aplikacji, bazując na wymaganiach użytkowników i zasadach biznesowych. Konfigurują systemy ogólne w celu stworzenia konkretnej wersji przeznaczonej do kontekstu danej organizacji. Konfigurowanie może obejmować od dostosowania parametrów podstawowych, przez tworzenie zasad i ról biznesowych w systemie TIK po opracowanie konkretnych modułów (w tym konfigurację komercyjnych gotowych wersji systemów (COTS)).",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Zbierasz wymagania użytkowników i zasady firmy",
+   "Ustawiasz parametry i role w systemie",
+   "Zapisujesz każdą konfigurację dla danego klienta",
+   "Przygotowujesz konkretne moduły pod potrzeby firmy"
+  ]
+ },
+ {
+  "id": 1847,
+  "name": "Analityk oprogramowania",
+  "desc": "Analitycy oprogramowania uzyskują i określają wzajemną wagę wymagań użytkowników, tworzą i dokumentują specyfikacje oprogramowania, sprawdzają ich zastosowania, a także dokonują ich przeglądu podczas opracowywania oprogramowania. Pośredniczą między użytkownikami oprogramowania a zespołem ds. opracowania oprogramowania.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Rozmawiasz z użytkownikami o ich potrzebach",
+   "Ustalasz, które wymagania są najważniejsze",
+   "Piszesz specyfikację oprogramowania",
+   "Sprawdzasz, czy gotowy program spełnia opis"
+  ]
+ },
+ {
+  "id": 1848,
+  "name": "Projektant oprogramowania",
+  "desc": "Projektanci oprogramowania tworzą model techniczny i model funkcjonalny systemu na podstawie specyfikacji funkcjonalnych. Opracowują oni również architekturę systemu lub poszczególne moduły i elementy związane z wymaganiami przedsiębiorstwa lub klienta, platformą, językiem programowania lub środowiskiem.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Tworzysz model techniczny i funkcjonalny systemu",
+   "Rysujesz architekturę z modułami i połączeniami",
+   "Dobierasz platformę i język programowania",
+   "Omawiasz projekt z programistami i klientem"
+  ]
+ },
+ {
+  "id": 1849,
+  "name": "Dyrektor ds. bezpieczeństwa technologii informacyjno-telekomunikacyjnych",
+  "desc": "Dyrektorzy ds. bezpieczeństwa technologii informacyjno-telekomunikacyjnych chronią dane przedsiębiorstwa i pracowników przed nieupoważnionym dostępem. Określają również politykę bezpieczeństwa systemu informatycznego, zarządzają środkami bezpieczeństwa we wszystkich systemach informatycznych i zapewniają dostępność informacji.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Określasz politykę bezpieczeństwa systemów informatycznych",
+   "Zarządzasz środkami ochrony we wszystkich systemach",
+   "Pilnujesz, żeby informacje były dostępne w razie potrzeby",
+   "Informujesz zarząd o zagrożeniach i decyzjach"
+  ]
+ },
+ {
+  "id": 1850,
+  "name": "Kierownik ds. bezpieczeństwa technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy ds. bezpieczeństwa technologii informacyjno-telekomunikacyjnych proponują i wdrażają niezbędne aktualizacje dotyczące bezpieczeństwa. Doradzają, wspierają, informują i zapewniają szkolenia i wiedzę na temat bezpieczeństwa oraz podejmują bezpośrednie działania w odniesieniu do całości lub części sieci lub systemu.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Proponujesz aktualizacje zabezpieczeń",
+   "Szkolisz pracowników z zasad bezpieczeństwa",
+   "Doradzasz zespołom, jak chronić systemy",
+   "Reagujesz na zagrożenia w sieci lub systemie"
+  ]
+ },
+ {
+  "id": 1851,
+  "name": "Kierownik ds. odporności technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy ds. odporności technologii informacyjno-telekomunikacyjnych prowadzą badania, planują i opracowują modele, polityki, metody, techniki i narzędzia, które zwiększają cyberbezpieczeństwo organizacji, jej odporność na zagrożenia i możliwość przywracania gotowości do pracy po wystąpieniu sytuacji nadzwyczajnej.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Prowadzisz badania nad zagrożeniami cyfrowymi",
+   "Opracowujesz modele i polityki odporności",
+   "Planujesz narzędzia do odzyskiwania po awarii",
+   "Oceniasz, jak organizacja zniesie atak"
+  ]
+ },
+ {
+  "id": 1852,
+  "name": "Integrator baz danych",
+  "desc": "Integratorzy baz danych przeprowadzają integrację baz danych. Utrzymują integrację i zapewniają współdziałanie.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Łączysz różne bazy danych w jedną całość",
+   "Ustalasz, które pola odpowiadają sobie w bazach",
+   "Utrzymujesz działające połączenia między systemami",
+   "Naprawiasz połączenie, gdy dane przestają się przesyłać"
+  ]
+ },
+ {
+  "id": 1853,
+  "name": "Projektant baz danych",
+  "desc": "Projektanci baz danych określają strukturę logiczną, procesy i przepływy informacji bazy danych. Opracowują modele danych i bazy danych służące do pozyskiwania danych.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Określasz strukturę logiczną bazy danych",
+   "Rysujesz modele danych",
+   "Planujesz przepływy informacji między tabelami",
+   "Ustalasz, jakie dane trzeba zbierać"
+  ]
+ },
+ {
+  "id": 1854,
+  "name": "Projektant hurtowni danych",
+  "desc": "Projektanci hurtowni danych są odpowiedzialni za planowanie, łączenie, projektowanie, ustalenie harmonogramu i wdrażanie systemów hurtowni danych. Opracowują, monitorują i utrzymują procesy ETL, aplikacje do tworzenia raportów i strukturę hurtowni danych.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Planujesz strukturę hurtowni danych",
+   "Tworzysz procesy ETL pobierające dane",
+   "Ustalasz harmonogram ładowania danych",
+   "Utrzymujesz raporty i monitorujesz ładowanie"
+  ]
+ },
+ {
+  "id": 1855,
+  "name": "Twórca baz danych",
+  "desc": "Twórcy baz danych tworzą, wdrażają i koordynują zmiany komputerowych baz danych, kierując się wiedzą fachową dotyczącą systemów zarządzania bazami danych.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Tworzysz tabele i zapytania w bazie",
+   "Wdrażasz zmiany w istniejącej bazie",
+   "Koordynujesz zmiany z innymi programistami",
+   "Sprawdzasz, czy po zmianie dane nadal się zgadzają"
+  ]
+ },
+ {
+  "id": 1856,
+  "name": "Specjalista ds. konfiguracji systemów",
+  "desc": "Specjaliści ds. konfiguracji systemów dostosowują system komputerowy do potrzeb organizacji i użytkowników. Dopasowują system podstawowy i oprogramowanie do potrzeb klienta. Wykonują czynności konfiguracyjne i tworzą skrypty oraz zapewniają łączność z użytkownikami.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Dopasowujesz system podstawowy do klienta",
+   "Wykonujesz czynności konfiguracyjne krok po kroku",
+   "Piszesz skrypty do powtarzalnej konfiguracji",
+   "Kontaktujesz się z użytkownikami w sprawie ustawień"
+  ]
+ },
+ {
+  "id": 1857,
+  "name": "Inżynier sieci informacyjno-telekomunikacyjnej",
+  "desc": "Inżynierowie sieci informacyjno-telekomunikacyjnej wdrażają, utrzymują i wspierają sieci komputerowe. Wykonują również modelowanie, analizę i planowanie sieci. Mogą także opracować środki bezpieczeństwa dotyczące sieci i komputerów oraz analizować i zalecać sprzęt i oprogramowanie komunikacyjne w zakresie sieci i danych.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Wdrażasz i utrzymujesz sieci komputerowe",
+   "Modelujesz i analizujesz ruch w sieci",
+   "Projektujesz zabezpieczenia sieci i komputerów",
+   "Zalecasz sprzęt i oprogramowanie komunikacyjne"
+  ]
+ },
+ {
+  "id": 1858,
+  "name": "Planista przepustowości technologii informacyjno-telekomunikacyjnych",
+  "desc": "Planiści przepustowości technologii informacyjno-telekomunikacyjnych zapewniają, aby przepustowość usług TIK i infrastruktury TIK pozwalała realizować uzgodnione cele w zakresie poziomu usług w sposób terminowy i racjonalny pod względem kosztów. Uwzględniają również wszystkie zasoby potrzebne do świadczenia odpowiedniej usługi TIK oraz tworzą plany dotyczące krótko-, średnio- i długoterminowych wymogów biznesowych.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Mierzysz obciążenie usług i infrastruktury",
+   "Prognozujesz zapotrzebowanie na moc na kolejne miesiące",
+   "Planujesz zasoby potrzebne do świadczenia usług",
+   "Dobierasz rozwiązania, które mieszczą się w kosztach"
+  ]
+ },
+ {
+  "id": 1859,
+  "name": "Projektant sieci informacyjno-telekomunikacyjnej",
+  "desc": "Projektanci sieci informacyjno-telekomunikacyjnej projektują topologię i łączność sieci TIK, np. sprzęt, infrastrukturę, komunikację i elementy sprzętu komputerowego.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Planujesz topologię sieci",
+   "Dobierasz sprzęt i elementy infrastruktury",
+   "Rysujesz schematy połączeń między budynkami",
+   "Uwzględniasz potrzeby komunikacji w nowym biurze"
+  ]
+ }
+]

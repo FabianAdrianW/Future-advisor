@@ -1,0 +1,722 @@
+[
+ {
+  "id": 2040,
+  "name": "Koordynator opieki nad dziećmi",
+  "desc": "Koordynatorzy opieki nad dziećmi organizują usługi w zakresie opieki nad dziećmi, działania i imprezy po zakończeniu zajęć szkolnych oraz w ciągu wakacji. Pomagają w rozwoju dzieci poprzez realizację programów opieki. Koordynatorzy opieki nad dziećmi zabawiają również dzieci i utrzymują dla nich bezpieczne otoczenie.",
+  "path": "Opieka i pomoc ludziom > Kierownicy ds. usług opieki nad dziećmi",
+  "tasks": [
+   "Układasz program zajęć na wakacje",
+   "Dobierasz opiekunów do grup",
+   "Planujesz imprezy i wyjścia dla dzieci",
+   "Sprawdzasz, czy miejsce jest bezpieczne"
+  ]
+ },
+ {
+  "id": 2041,
+  "name": "Kierownik domu spokojnej starości",
+  "desc": "Kierownicy domu spokojnej starości nadzorują, planują, organizują i oceniają świadczenie usług opieki nad osobami starszymi w przypadku osób, które potrzebują tych usług ze względu na skutki starzenia się. Zarządzają oni opieką nad osobami starszymi i nadzorują pracę personelu.",
+  "path": "Opieka i pomoc ludziom",
+  "tasks": [
+   "Układasz grafiki zmian opiekunów",
+   "Rozmawiasz z rodzinami mieszkańców",
+   "Zamawiasz leki, jedzenie i sprzęt",
+   "Oceniasz, czy opieka nad seniorami działa dobrze"
+  ]
+ },
+ {
+  "id": 2042,
+  "name": "Radca dyplomatyczny",
+  "desc": "Radcy dyplomatyczni nadzorują określone sekcje w ambasadzie, takie jak ekonomia, obrona lub sprawy polityczne. Pełnią oni funkcje doradcze ambasadora i wykonują funkcje dyplomatyczne w swojej sekcji lub specjalizacji. Opracowują oni polityki i metody realizacji oraz nadzorują pracowników sekcji ambasady.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Śledzisz sprawy swojej dziedziny w kraju gospodarza",
+   "Doradzasz ambasadorowi przy trudnych decyzjach",
+   "Spotykasz się z lokalnymi urzędnikami",
+   "Kierujesz pracą ludzi w swojej sekcji"
+  ]
+ },
+ {
+  "id": 2043,
+  "name": "Wyższy urzędnik placówki dyplomatycznej",
+  "desc": "Wyżsi urzędnicy placówki dyplomatycznej reprezentują swój kraj i rząd w organizacjach międzynarodowych. Negocjują z urzędnikami organizacji w zakresie ochrony interesów kraju pochodzenia, a także ułatwiają owocną i przyjazną komunikację między krajem pochodzenia a organizacją międzynarodową.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Negocjujesz stanowisko kraju z urzędnikami organizacji",
+   "Uczestniczysz w posiedzeniach i głosowaniach",
+   "Przesyłasz do stolicy raporty z rozmów",
+   "Pilnujesz, by interesy kraju były uwzględnione"
+  ]
+ },
+ {
+  "id": 2044,
+  "name": "Komendant policji",
+  "desc": "Komendanci policji nadzorują cały wydział policji poprzez monitorowanie i regulowanie działalności administracyjnej i operacyjnej policji, a także opracowywanie polityk i metod postępowania. Są oni odpowiedzialni za współpracę między różnymi działami departamentu oraz za nadzorowanie pracy pracowników.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Ustalasz, gdzie i kiedy służą patrole",
+   "Analizujesz zgłoszenia i dane o przestępstwach",
+   "Ułatwiasz współpracę między wydziałami",
+   "Rozmawiasz z mieszkańcami i władzami miasta"
+  ]
+ },
+ {
+  "id": 2045,
+  "name": "Komendant straży pożarnej",
+  "desc": "Komendanci straży pożarnej nadzorują pracę służb pożarniczych, zapewniając skuteczność świadczonych usług i niezbędne wyposażenie. Opracowują i zarządzają polityką biznesową zapewniającą ustawodawstwo w tej dziedzinie. Komendanci straży pożarnej przeprowadzają inspekcje bezpieczeństwa i promują edukację w zakresie zapobiegania pożarom.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Sprawdzasz stan wozów i sprzętu",
+   "Prowadzisz kontrole zabezpieczeń przeciwpożarowych",
+   "Organizujesz szkolenia dla strażaków",
+   "Uczysz mieszkańców zapobiegania pożarom"
+  ]
+ },
+ {
+  "id": 2046,
+  "name": "Konsul",
+  "desc": "Konsulowie reprezentują rządy w zagranicznych instytucjach, takich jak ambasady, aby ułatwić współpracę gospodarczą i polityczną między oboma narodami. Chronią oni interesy kraju pochodzenia i zapewniają pomoc biurokratyczną obywatelom mieszkającym za granicą lub podróżującym w kraju przyjmującym.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Wydajesz i przedłużasz dokumenty obywatelom",
+   "Pomagasz, gdy ktoś straci paszport",
+   "Odwiedzasz obywateli w szpitalu lub areszcie",
+   "Wspierasz współpracę gospodarczą z krajem gospodarza"
+  ]
+ },
+ {
+  "id": 2047,
+  "name": "Prezes banku centralnego",
+  "desc": "Prezesi banków centralnych ustalają politykę pieniężną i regulacyjną, określają stopy procentowe, utrzymują stabilność cen, kontrolują podaż i emisję pieniądza krajowego oraz kursy wymiany walut i rezerw złota. Nadzorują i kontrolują sektor bankowy.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Ustalasz wysokość stóp procentowych",
+   "Śledzisz ceny i kurs waluty",
+   "Nadzorujesz banki komercyjne w kraju",
+   "Wyjaśniasz decyzje publicznie na konferencjach"
+  ]
+ },
+ {
+  "id": 2048,
+  "name": "Sekretarz generalny/sekretarz generalna",
+  "desc": "Sekretarze generalni przewodzą międzynarodowymi organizacjami rządowymi lub pozarządowymi. Nadzorują oni pracowników, politykę bezpośrednią i rozwój strategii oraz pełnią funkcję głównego przedstawiciela organizacji.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Ustalasz kierunek działania organizacji",
+   "Kierujesz zespołem pracowników z wielu krajów",
+   "Przemawiasz w imieniu organizacji",
+   "Spotykasz się z przywódcami państw i partnerami"
+  ]
+ },
+ {
+  "id": 2049,
+  "name": "Wyższy urzędnik państwowy",
+  "desc": "Wyżsi urzędnicy państwowi kierują, monitorują i oceniają wdrażanie polityki rządu. Nadzorują pracowników i zarządzają zasobami wykorzystywanymi do wdrażania oraz sporządzają sprawozdania z procesu wdrażania. Komunikują się oni również z urzędnikami państwowymi i obywatelami, aby informować ich o politykach. Wyżsi urzędnicy państwowi mogą również uczestniczyć w projektowaniu i tworzeniu polityki publicznej.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Przekładasz decyzje rządu na plany pracy",
+   "Zarządzasz zespołem i budżetem urzędu",
+   "Piszesz sprawozdania z wykonania polityk",
+   "Tłumaczysz obywatelom i urzędnikom nowe zasady"
+  ]
+ },
+ {
+  "id": 2050,
+  "name": "Minister",
+  "desc": "Ministrowie pełnią funkcję decydentów w rządach krajowych lub regionalnych oraz w ministerstwach administracji rządowej. Pełnią oni obowiązki ustawodawcze i nadzorują pracę swoich departamentów.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Decydujesz o priorytetach swojego resortu",
+   "Przygotowujesz projekty ustaw",
+   "Prowadzisz posiedzenia ministerstwa",
+   "Odpowiadasz na pytania posłów i mediów"
+  ]
+ },
+ {
+  "id": 2051,
+  "name": "Radny/radna",
+  "desc": "Radni reprezentują mieszkańców miasta w radzie miasta i wykonują zadania ustawodawcze na szczeblu lokalnym. Analizują oni obawy mieszkańców i odpowiednio na nie reagują, a także reprezentują politykę i programy partii politycznych w radzie miasta. Komunikują się oni z urzędnikami rządowymi, aby zapewnić reprezentację miasta i jego programu oraz nadzorują wszystkie działania wchodzące w zakres odpowiedzialności rady miejskiej.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Głosujesz nad uchwałami rady miasta",
+   "Wysłuchujesz skarg i pomysłów mieszkańców",
+   "Zgłaszasz sprawy do urzędu miasta",
+   "Pracujesz w komisjach rady nad budżetem"
+  ]
+ },
+ {
+  "id": 2052,
+  "name": "Sekretarz stanu",
+  "desc": "Sekretarze stanu wspierają szefów departamentów rządowych, takich jak ministrowie, oraz pomagają w zakresie nadzoru nad pracami prowadzonymi w ramach departamentu. Pomagają oni w kierowaniu polityką, działaniami i personelem departamentu oraz w planowaniu, przydzielaniu zasobów i podejmowaniu decyzji.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Zastępujesz ministra na spotkaniach",
+   "Nadzorujesz wybrane departamenty ministerstwa",
+   "Pomagasz planować wydatki i zasoby",
+   "Podejmujesz decyzje w sprawach bieżących"
+  ]
+ },
+ {
+  "id": 2053,
+  "name": "Senator",
+  "desc": "Senatorowie wykonują obowiązki ustawodawcze na szczeblu centralnym, na przykład pracują nad reformami konstytucyjnymi, negocjując projekty ustawy i rozwiązując konflikty między innymi instytucjami rządowymi.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Czytasz i poprawiasz projekty ustaw",
+   "Negocjujesz zapisy z innymi senatorami",
+   "Głosujesz nad zmianami konstytucji",
+   "Łagodzisz spory między instytucjami państwa"
+  ]
+ },
+ {
+  "id": 2054,
+  "name": "Wojewoda",
+  "desc": "Wojewodowie są głównymi ustawodawcami jednostki narodowej, takiej jak państwo lub prowincja. Nadzorują oni pracowników, wykonują obowiązki administracyjne i protokolarne oraz pełnią funkcję głównego przedstawiciela w zarządzanym przez siebie regionie. Regulują oni samorządy lokalne w swoim regionie.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Nadzorujesz pracę samorządów w regionie",
+   "Kierujesz urzędem i jego pracownikami",
+   "Uczestniczysz w uroczystościach państwowych",
+   "Podpisujesz zarządzenia dla całego regionu"
+  ]
+ },
+ {
+  "id": 2055,
+  "name": "Zawodowy działacz organizacji członkowskiej",
+  "desc": "Zawodowi działacze organizacji członkowskich reprezentują i działają w imieniu grup tematycznych, takich jak związki zawodowe, organizacje pracodawców, stowarzyszenia handlowe i branżowe, stowarzyszenia sportowe i organizacje humanitarne. Opracowują oni polityki i zapewniają ich realizację. Zawodowi działacze organizacji członkowskich wypowiadają się w imieniu swoich członków w negocjacjach dotyczących takich zagadnień jak warunki pracy i bezpieczeństwo.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Negocjujesz z pracodawcami warunki dla członków",
+   "Piszesz stanowiska organizacji w ważnych sprawach",
+   "Tłumaczysz członkom nowe przepisy",
+   "Pilnujesz wykonania ustaleń po negocjacjach"
+  ]
+ },
+ {
+  "id": 2056,
+  "name": "Inspektor ds. przewozu towarów",
+  "desc": "Inspektorzy ds. przewozu towarów określają, czy ładunek jest bezpieczny i posiada odpowiednią dokumentację. Kontrolują, zarządzają i dokumentują transport ładunku, a jednocześnie sprawdzają, czy zawartość jest zgodna z lokalnymi, krajowymi i międzynarodowymi przepisami.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Sprawdzasz dokumenty przewozowe kierowców",
+   "Oglądasz zabezpieczenie i zawartość ładunku",
+   "Zapisujesz naruszenia w protokole",
+   "Wyjaśniasz przewoźnikom wymagane przepisy"
+  ]
+ },
+ {
+  "id": 2057,
+  "name": "Inspektor frachtu morskiego",
+  "desc": "Inspektorzy frachtu morskiego badają cały bagaż i towary wymienione w manifeście okrętowym. Odpowiadają za sprawdzenie stanu ładunku i weryfikację dokumentacji ładunku oraz przestrzeganie zasad i przepisów. Inspektorzy frachtu morskiego analizują zdolności statków, komory paliwowe, wyposażenie ochronne i wymagane licencje specjalne.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Porównujesz ładunek z manifestem okrętowym",
+   "Oglądasz stan towarów w ładowniach",
+   "Kontrolujesz wyposażenie ochronne statku",
+   "Sprawdzasz licencje i zbiorniki paliwa"
+  ]
+ },
+ {
+  "id": 2058,
+  "name": "Inspektor do spraw miar i wag",
+  "desc": "Inspektorzy ds. miar i wag zapewniają zgodność z przepisami i umowami dotyczącymi miar i wag towarów pakowanych. Badają i dokumentują oni kwestie zgodności i naruszenia w celu wspierania najlepszych praktyk. Inspektorzy ds. miar i wag potwierdzają, że towary pakowane są zgodne z umowami co do ilości, zawartości i opakowania.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Ważysz zapakowane produkty na wzorcowej wadze",
+   "Porównujesz wynik z napisem na opakowaniu",
+   "Spisujesz naruszenia w protokole",
+   "Doradzasz firmom, jak zgodnie pakować towar"
+  ]
+ },
+ {
+  "id": 2059,
+  "name": "Inspektor leśny",
+  "desc": "Inspektorzy leśni monitorują działalność w dziedzinie gospodarki leśnej w celu zagwarantowania, że pracownicy i ich działania spełniają obowiązujące przepisy i normy. Przeprowadzają oni inspekcje w celu przeanalizowania działań, płac, kosztów oraz środków w zakresie bezpieczeństwa i higieny. Inspektorzy leśni analizują również swoje ustalenia i składają sprawozdania na ten temat.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Odwiedzasz miejsca prac leśnych",
+   "Sprawdzasz przestrzeganie przepisów i norm",
+   "Oceniasz środki bezpieczeństwa pracy",
+   "Piszesz sprawozdania z ustaleń"
+  ]
+ },
+ {
+  "id": 2060,
+  "name": "Inspektor pracy",
+  "desc": "Inspektorzy pracy badają wdrażanie i stosowanie norm pracy i polityki w miejscu pracy. Doradzają oni pracodawcom i pracownikom w kwestii poprawy wdrażania polityki i prawodawstwa, dopilnowują przestrzegania prawa oraz kwestii równości i praw pracowniczych. Sporządzają sprawozdania i komunikują się z władzami.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Odwiedzasz zakłady pracy na kontrolach",
+   "Sprawdzasz umowy i normy czasu pracy",
+   "Oceniasz warunki bezpieczeństwa i higieny",
+   "Piszesz protokoły i zalecenia"
+  ]
+ },
+ {
+  "id": 2061,
+  "name": "Inspektor rolny",
+  "desc": "Inspektorzy rolni monitorują działalność rolniczą w gospodarstwach rolnych i innych obiektach rolnych. Kontrolują oni działania takie jak środki w zakresie bezpieczeństwa i higieny, koszty i procesy produkcyjne w celu zapewnienia, że pracownicy i ich działania spełniają wymagania odpowiednich przepisów i norm. Inspektorzy rolni analizują również swoje ustalenia i składają sprawozdania na ten temat.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Odwiedzasz gospodarstwa i obiekty rolnicze",
+   "Oglądasz pomieszczenia i miejsca przechowywania plonów",
+   "Sprawdzasz zapisy kosztów i produkcji",
+   "Piszesz raport z ustaleniami"
+  ]
+ },
+ {
+  "id": 2062,
+  "name": "Obserwator połowów",
+  "desc": "Obserwatorzy połowów rejestrują i przekazują informacje na temat działalności połowowej oraz poziomu zgodności i egzekwowania środków ochronnych obowiązujących w danym obszarze roboczym poprzez kontrolę pozycji statku, zastosowania narzędzi połowowych i połowów. Dostarczają oni sprawozdań wymaganych do naukowego monitorowania obszaru połowów, zapewniają doradztwo w zakresie polityki oraz planują i koordynują działania.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Zapisujesz pozycję statku i miejsca połowów",
+   "Sprawdzasz, jakich narzędzi połowowych używa załoga",
+   "Rejestrujesz gatunki i ilość złowionych ryb",
+   "Przygotowujesz raporty dla naukowców"
+  ]
+ },
+ {
+  "id": 2063,
+  "name": "Rzecznik praw konsumentów",
+  "desc": "Rzecznicy praw konsumentów pomagają konsumentom w kwestii reklamacji oraz udzielają porad i informacji na temat praw konsumenta po zakupie produktów lub usług. Monitorują oni organizacje dla zapewnienia przestrzegania norm w zakresie praw konsumentów oraz pomagają konsumentom w rozpatrywaniu sporów.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Odbierasz reklamacje i skargi konsumentów",
+   "Tłumaczysz prawa po zakupie towarów i usług",
+   "Piszesz pisma do sprzedawców",
+   "Sprawdzasz, czy firmy przestrzegają norm"
+  ]
+ },
+ {
+  "id": 2064,
+  "name": "Specjalista ds. kontroli gier i zakładów",
+  "desc": "Specjaliści ds. kontroli gier i zakładów mogą prowadzić transakcje we wszystkich stosownych grach i kontrolować te gry oraz wykonywać wszystkie operacje w zakresie gier hazardowych zgodnie z najwyższymi możliwymi standardami w zakresie efektywności, bezpieczeństwa i obsługi klienta według procedur przedsiębiorstw i obowiązującymi przepisami. Ich zadaniem jest nadzorowanie wszystkich stosownych rozgrywanych gier oraz zagwarantowanie, aby przestrzegane były zasady i aby gracze nie oszukiwali. Odpowiadają za utrzymanie sprzętu i obsługę wszystkich zapytań i zażaleń klientów.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Prowadzisz gry przy stole zgodnie z zasadami",
+   "Obserwujesz graczy, czy nie oszukują",
+   "Sprawdzasz sprzęt do gier",
+   "Odpowiadasz na pytania i skargi graczy"
+  ]
+ },
+ {
+  "id": 2065,
+  "name": "Specjalista ds. emerytur",
+  "desc": "Specjaliści ds. emerytur wykonują obowiązki administracyjne w zakresie zarządzania systemami emerytalno-rentowymi, zapewniając prawidłowe obliczanie wysokości świadczeń emerytalnych klienta, zgodność z wymogami prawa, sporządzanie sprawozdań i przekazywanie istotnych informacji klientom. Pracują w sektorze prywatnym lub publicznym.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Obliczasz wysokość świadczeń emerytalnych",
+   "Sprawdzasz zgodność wypłat z przepisami",
+   "Przygotowujesz sprawozdania dla instytucji",
+   "Tłumaczysz klientom, jak działa ich plan"
+  ]
+ },
+ {
+  "id": 2066,
+  "name": "Urzędnik ds. ubezpieczeń społecznych",
+  "desc": "Urzędnicy ds. ubezpieczeń społecznych doradzają klientom w zakresie świadczeń z tytułu ubezpieczeń społecznych i dopilnowują, aby ubiegali się oni o przysługujące im świadczenia, a także udzielają porad w zakresie awansów i innych dostępnych usług wsparcia, takich jak świadczenia z tytułu zatrudnienia. Pomagają oni klientom w sprawie wniosków o świadczenia, np. z tytułu choroby, urodzenia dziecka, emerytury, renty inwalidzkiej, zasiłków dla bezrobotnych i zasiłków rodzinnych.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Tłumaczysz, jakie świadczenia przysługują klientowi",
+   "Pomagasz wypełnić wnioski o zasiłek",
+   "Sprawdzasz dokumenty potwierdzające prawo do świadczeń",
+   "Informujesz o dodatkowym wsparciu"
+  ]
+ },
+ {
+  "id": 2067,
+  "name": "Inspektor ds. ubezpieczeń społecznych",
+  "desc": "Inspektorzy ds. ubezpieczeń społecznych rozpatrują nadużycia w zakresie ubezpieczeń społecznych, które mają wpływ na prawa pracownicze. Kontrolują i badają wnioski o przyznanie świadczeń oraz analizują działania przedsiębiorstw w oparciu o skargi pracowników. Kontrole obejmują działania związane z zatrudnieniem, takie jak brak opłacania pensji lub kosztów. Inspektorzy ds. ubezpieczeń społecznych zapewniają sprawiedliwe i zgodne z prawem traktowanie pracowników. Rejestrują i sporządzają sprawozdania ze swoich ustaleń w celu zagwarantowania ważności skarg, które analizują.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Analizujesz skargi pracowników na firmy",
+   "Kontrolujesz firmy na miejscu",
+   "Sprawdzasz wnioski o przyznanie świadczeń",
+   "Spisujesz ustalenia w sprawozdaniach"
+  ]
+ },
+ {
+  "id": 2068,
+  "name": "Doradca imigracyjny",
+  "desc": "Doradcy imigracyjni udzielają pomocy osobom chcącym przenieść się z jednego kraju do drugiego, doradzając im w kwestii ustawodawstwa imigracyjnego i pomagając im w uzyskaniu niezbędnej dokumentacji, w celu zapewnienia, że proces imigracyjny przebiega zgodnie z przepisami imigracyjnymi.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Tłumaczysz klientom przepisy imigracyjne",
+   "Ustalasz, jakie dokumenty są potrzebne",
+   "Pomagasz wypełnić i złożyć wnioski",
+   "Pilnujesz terminów w urzędach"
+  ]
+ },
+ {
+  "id": 2069,
+  "name": "Urzędnik do spraw licencji",
+  "desc": "Urzędnicy ds. licencji rozpatrują wnioski o wydanie licencji i udzielają porad w zakresie prawa licencyjnego. Wykonują również czynności badawcze w celu upewnienia się, czy wnioskodawca kwalifikuje się do uzyskania wnioskowanej licencji, zagwarantowania terminowej wpłaty opłat licencyjnych oraz zapewnienia zgodności z przepisami.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Czytasz i oceniasz wnioski o licencje",
+   "Sprawdzasz, czy wnioskodawca spełnia wymagania",
+   "Pilnujesz wpłat opłat licencyjnych",
+   "Doradzasz, jak poprawić brakujący wniosek"
+  ]
+ },
+ {
+  "id": 2070,
+  "name": "Urzędnik do spraw paszportów",
+  "desc": "Urzędnicy ds. paszportów wydają paszporty i inne dokumenty podróży, takie jak świadectwa tożsamości i dokumenty podróży dla uchodźców. Prowadzą również rejestr wszystkich wydanych paszportów.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Przyjmujesz wnioski o paszport",
+   "Sprawdzasz tożsamość wnioskodawców",
+   "Wystawiasz dokumenty podróży",
+   "Wpisujesz wydane paszporty do rejestru"
+  ]
+ },
+ {
+  "id": 2071,
+  "name": "Kontroler rozliczeń podatkowych",
+  "desc": "Kontrolerzy rozliczeń podatkowych odpowiadają za obliczanie opodatkowania i zagwarantowanie terminowej płatności przez osoby i organizacje. Dostarczają oni informacji i wskazówek dotyczących przepisów podatkowych oraz analizują dokumentację finansową i rachunki w celu zapewnienia zgodności z przepisami. Badają również dokumentację w celu sprawdzenia nadużyć finansowych.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Analizujesz rachunki i dokumentację finansową",
+   "Obliczasz należny podatek",
+   "Wyjaśniasz podatnikom przepisy",
+   "Szukasz oznak oszustw w dokumentach"
+  ]
+ },
+ {
+  "id": 2072,
+  "name": "Urzędnik podatkowy",
+  "desc": "Urzędnicy podatkowi pobierają opłaty, należności i podatki w imieniu instytucji rządowych w miastach, gminach i innych jurysdykcjach. Pełnią oni obowiązki administracyjne i komunikują się z innymi urzędnikami i instytucjami w celu zapewnienia, że działania są prawidłowe i zgodne z polityką.",
+  "path": "Prawo i urzędy > Urzędnicy kontroli i nadzoru",
+  "tasks": [
+   "Przyjmujesz wpłaty podatków i opłat lokalnych",
+   "Wydajesz potwierdzenia płatności",
+   "Przygotowujesz zestawienia wpływów",
+   "Wyjaśniasz mieszkańcom, ile i do kiedy zapłacić"
+  ]
+ },
+ {
+  "id": 2073,
+  "name": "Doradca ds. strategii prowadzenia sporów sądowych",
+  "desc": "Doradcy ds. strategii prowadzenia sporów sądowych pomagają prawnikom w przygotowaniu do rozprawy, badając skład ławy przysięgłych. Pomagają w opracowywaniu strategii procesowych, analizują postępowanie ławy przysięgłych podczas procesu i doradzają prawnikom w kwestii postępowania. Pomagają również w przygotowaniu świadków i budowaniu argumentacji.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Badasz skład ławy przysięgłych",
+   "Ćwiczysz ze świadkami odpowiedzi na pytania",
+   "Obserwujesz reakcje przysięgłych w trakcie procesu",
+   "Podpowiadasz prawnikom strategię i argumenty"
+  ]
+ },
+ {
+  "id": 2074,
+  "name": "Doradca prawny",
+  "desc": "Doradcy prawni doradzają zróżnicowanej grupie klientów, od przedsiębiorstw i osób prywatnych po kancelarie prawne. Zapewniają doradztwo prawne poza salą rozpraw w kwestiach prawnych uzależnionych od specyfiki klienta. Doradzają w takich kwestiach, jak połączenie przedsiębiorstw międzynarodowych, zakup nieruchomości, zmiana umów i ich skutki. Pomagają klientom ogólnie przestrzegać przepisów i unikać popełniania czynów niezgodnych z prawem.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Czytasz i poprawiasz umowy",
+   "Doradzasz przy zakupie nieruchomości",
+   "Tłumaczysz klientom skutki ich decyzji",
+   "Przygotowujesz opinie prawne na piśmie"
+  ]
+ },
+ {
+  "id": 2075,
+  "name": "Kierownik działu spraw regulacyjnych",
+  "desc": "Kierownicy działów spraw regulacyjnych są odpowiedzialni za kwestie regulacyjne i prawne w kilku sektorach, takich jak opieka zdrowotna, energetyka i bankowość. Nadzorują opracowanie produktów i usług od momentu ich powstania do wprowadzenia na rynek, upewniając się, że wszystko jest zgodne z lokalnymi przepisami i spełnia wymogi regulacyjne. Mają doświadczenie w zakresie różnych faz procesów regulacyjnych i pośredniczą między komisjami prawnymi i regulacyjnymi przedsiębiorstw i rządów.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Sprawdzasz przepisy dla nowych produktów",
+   "Przygotowujesz dokumenty dla urzędów",
+   "Rozmawiasz z prawnikami i regulatorami",
+   "Kierujesz zespołem od zgodności z prawem"
+  ]
+ },
+ {
+  "id": 2076,
+  "name": "Lekarz medycyny sądowej",
+  "desc": "Lekarze medycyny sądowej nadzorują badanie osób zmarłych w celu ustalenia przyczyny zgonu w wyjątkowych okolicznościach. Dbają o prowadzenie dokumentacji zgonów na podległym im terenie oraz ułatwiają kontakty z innymi urzędnikami w celu zapewnienia kompletności dochodzenia.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Ustalasz przyczynę śmierci po badaniu",
+   "Opisujesz ustalenia w dokumentach",
+   "Współpracujesz z policją i prokuratorem",
+   "Przedstawiasz wnioski w sądzie"
+  ]
+ },
+ {
+  "id": 2077,
+  "name": "Obserwator wyborów",
+  "desc": "Obserwatorzy wyborów są wykwalifikowanymi i przeszkolonymi obserwatorami działającymi podczas wyborów w sprawnie funkcjonującej demokracji; ich zadaniem jest zwiększenie przejrzystości i wiarygodności obserwowanych wyborów.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Obserwujesz otwarcie lokalu wyborczego",
+   "Patrzysz, jak ludzie głosują i liczy się głosy",
+   "Notujesz wszelkie nieprawidłowości",
+   "Piszesz raport dla organizacji, która cię wysyła"
+  ]
+ },
+ {
+  "id": 2078,
+  "name": "Redaktor legislacyjny",
+  "desc": "Redaktorzy legislacyjni badają i redagują przepisy w celu nadania im wyrazistszego i precyzyjniejszego charakteru. Sporadycznie dodają również nowe koncepcje, które nie były wcześniej uwzględnione w przepisach lub projekcie ustawy.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Czytasz projekty przepisów zdanie po zdaniu",
+   "Upraszczasz niejasne i sprzeczne zapisy",
+   "Porównujesz projekt z obowiązującym prawem",
+   "Dodajesz brakujące pojęcia do tekstu"
+  ]
+ },
+ {
+  "id": 2079,
+  "name": "Rzecznik praw obywatelskich",
+  "desc": "Rzecznicy praw obywatelskich rozstrzygają spory między dwiema stronami, w przypadku gdy istnieje nierównowaga sił, występując w charakterze bezstronnego mediatora. Przeprowadzają rozmowy ze stronami i badają sprawę w celu uzyskania rozstrzygnięcia korzystnego dla obu stron. Doradzają w sprawie rozwiązania konfliktu i oferują wsparcie. Kierowane roszczenia dotyczą głównie instytucji i organów władz publicznych.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Przyjmujesz skargi obywateli na instytucje",
+   "Rozmawiasz z obiema stronami sporu",
+   "Badasz sprawę i dokumenty",
+   "Doradzasz, jak rozwiązać konflikt"
+  ]
+ },
+ {
+  "id": 2080,
+  "name": "Urzędnik ds. kontroli przestrzegania praw człowieka",
+  "desc": "Urzędnicy ds. kontroli przestrzegania praw człowieka badają i rozpatrują przypadki naruszania praw człowieka oraz opracowują plany mające na celu ograniczenie naruszeń i zapewnienie zgodności z prawodawstwem w zakresie praw człowieka. Analizują skargi, badając informacje i rozmawiając z ofiarami i sprawcami, oraz kontaktują się z organizacjami zaangażowanymi w działania na rzecz praw człowieka.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Analizujesz skargi o łamaniu praw człowieka",
+   "Rozmawiasz z poszkodowanymi i drugą stroną",
+   "Zbierasz i sprawdzasz informacje",
+   "Piszesz plany ograniczania naruszeń"
+  ]
+ },
+ {
+  "id": 2081,
+  "name": "Sędzia Sądu Najwyższego",
+  "desc": "Sędziowie Sądu Najwyższego orzekają w sądach wyższej instancji i zajmują się skomplikowanymi sprawami karnymi i cywilnymi. Rozpatrują sprawę w trakcie rozpraw, żeby sformułować orzeczenie lub pomóc ławie przysięgłych dokonać podsumowania, oraz podejmują decyzje w sprawie nałożenia kar w przypadku stwierdzenia winy sprawcy. Prowadzą postępowanie i zapewniają sprawiedliwy i zgodny z prawem proces.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Rozpatrujesz trudne sprawy karne i cywilne",
+   "Kierujesz rozprawą i pomagasz ławie przysięgłych",
+   "Ustalasz kary po stwierdzeniu winy",
+   "Sprawdzasz, czy proces był uczciwy i zgodny z prawem"
+  ]
+ },
+ {
+  "id": 2082,
+  "name": "Sędzia pokoju",
+  "desc": "Sędziowie pokoju zajmują się drobnymi roszczeniami i sporami oraz drobnymi przestępstwami. Zapewniają utrzymanie pokoju na swoim obszarze i zapewniają mediację między stronami sporu.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Rozpatrujesz drobne roszczenia i spory",
+   "Sądzisz sprawy o małe przestępstwa",
+   "Mediujesz między skłóconymi stronami",
+   "Dbasz o spokój na swoim obszarze"
+  ]
+ },
+ {
+  "id": 2083,
+  "name": "Detektyw sklepowy",
+  "desc": "Detektywi sklepowi monitorują działalność w sklepie w celu zapobiegania i wykrywania kradzieży w sklepach. Po zatrzymaniu danej osoby na gorącym uczynku podejmują wszelkie środki prawne, w tym powiadamiają policję.",
+  "path": "Prawo i urzędy > Średni personel w dziedzinie prawa",
+  "tasks": [
+   "Obserwujesz klientów na sali i na monitorach",
+   "Rozpoznajesz zachowania typowe dla kradzieży",
+   "Zatrzymujesz złapaną osobę zgodnie z prawem",
+   "Wzywasz policję i spisujesz zdarzenie"
+  ]
+ },
+ {
+  "id": 2084,
+  "name": "Asystent prawny",
+  "desc": "Asystenci prawni ściśle współpracują z prawnikami i przedstawicielami prawnymi w zakresie badań i przygotowywania spraw sądowych. Pomagają oni w pracach nad papierową dokumentacją spraw oraz w zarządzaniu administracyjną stroną postępowania sądowego.",
+  "path": "Prawo i urzędy > Średni personel w dziedzinie prawa",
+  "tasks": [
+   "Szukasz przepisów i orzeczeń do sprawy",
+   "Przygotowujesz i porządkujesz dokumentację",
+   "Pilnujesz terminów i spraw administracyjnych",
+   "Pomagasz prawnikom w przygotowaniu rozprawy"
+  ]
+ },
+ {
+  "id": 2085,
+  "name": "Asystent sędziego",
+  "desc": "Asystenci sędziów udzielają pomocy sędziom w instytucji sądowej. Obsługują oni zapytania dotyczące postępowań sądowych i pomagają sędziom w wykonywaniu różnych zadań, takich jak prowadzenie analiz prawnych w celu przygotowania spraw lub sporządzanie pisemnych opinii. Kontaktują się również ze stronami uczestniczącymi w sprawach oraz przekazują informacje sędziom i innym urzędników sądowych.",
+  "path": "Prawo i urzędy > Średni personel w dziedzinie prawa",
+  "tasks": [
+   "Analizujesz przepisy do konkretnej sprawy",
+   "Przygotowujesz projekty opinii i orzeczeń",
+   "Odpowiadasz na pytania stron postępowania",
+   "Przekazujesz informacje sędziemu i urzędnikom"
+  ]
+ },
+ {
+  "id": 2086,
+  "name": "Pracownik administracji sądowej",
+  "desc": "Pracownicy administracji sądowej wykonują obowiązki administracyjne i pomocnicze dla sądu i sędziów. Osoby te są uprawnione do przyjmowania lub odrzucania wniosków o nieformalne poświadczenie i nieformalne mianowanie osobistego przedstawiciela. Zarządzają rozliczeniami spraw i obsługują dokumentację urzędową. Pracownicy administracji sądowej pełnią obowiązki pomocnicze podczas postępowania sądowego, takie jak wyczytywanie spraw i identyfikacja stron, prowadzenie notatek oraz zapisywanie nakazów wydanych przez sędziego.",
+  "path": "Prawo i urzędy > Średni personel w dziedzinie prawa",
+  "tasks": [
+   "Przyjmujesz wnioski i sprawdzasz ich kompletność",
+   "Prowadzisz rejestry i akta spraw",
+   "Wyczytujesz sprawy i strony na sali",
+   "Zapisujesz nakazy wydane przez sędziego"
+  ]
+ },
+ {
+  "id": 2087,
+  "name": "Sekretarz sądowy",
+  "desc": "Sekretarze sądowi nadzorują postępy w sprawach karnych i cywilnych od momentu ich otwarcia do zamknięcia. Dokonują przeglądu akt sprawy i postępu spraw w celu zapewnienia, że postępowanie jest prowadzone zgodnie z przepisami. Gwarantują oni również, że postępowanie odbywa się w odpowiednim czasie i że przed zamknięciem spraw wszystkie działania zostały zakończone.",
+  "path": "Prawo i urzędy > Średni personel w dziedzinie prawa",
+  "tasks": [
+   "Śledzisz postęp spraw od otwarcia do zamknięcia",
+   "Przeglądasz akta pod kątem zgodności z przepisami",
+   "Pilnujesz terminów w każdej sprawie",
+   "Sprawdzasz, czy wszystko zostało wykonane przed zamknięciem"
+  ]
+ },
+ {
+  "id": 2088,
+  "name": "Urzędnik ds. wieczystoksięgowych",
+  "desc": "Urzędnicy do spraw wieczystoksięgowych świadczą usługi w zakresie prawnego przeniesienia tytułów prawnych i własności z jednej strony na drugą. Wymieniają oni niezbędne umowy i zapewniają przekazanie wszystkich nieruchomości, tytułów i praw.",
+  "path": "Prawo i urzędy > Średni personel w dziedzinie prawa",
+  "tasks": [
+   "Przygotowujesz dokumenty przeniesienia własności",
+   "Sprawdzasz tytuły prawne do nieruchomości",
+   "Wymieniasz umowy między stronami transakcji",
+   "Dbasz o przekazanie wszystkich praw"
+  ]
+ },
+ {
+  "id": 2089,
+  "name": "Woźny sądowy",
+  "desc": "Woźni sądowi utrzymują porządek i bezpieczeństwo w salach rozpraw. Transportują oni przestępców do i z sali rozpraw, zapewniają niezbędne zaopatrzenie w sali rozpraw, a także badają pomieszczenia i osoby fizyczne, aby zagwarantować brak zagrożeń. Poza tym otwierają i zamykają oni sąd i wzywają świadków.",
+  "path": "Prawo i urzędy > Średni personel w dziedzinie prawa",
+  "tasks": [
+   "Sprawdzasz osoby i pomieszczenia pod kątem zagrożeń",
+   "Doprowadzasz zatrzymanych na salę rozpraw",
+   "Wzywasz świadków i otwierasz sąd",
+   "Pilnujesz spokoju podczas rozprawy"
+  ]
+ },
+ {
+  "id": 2090,
+  "name": "Geochemik",
+  "desc": "Geochemicy badają właściwości i pierwiastki chemiczne w minerałach, skałach i glebie oraz w jaki sposób oddziałują one na systemy hydrologiczne. Koordynują oni pobieranie próbek i określają zestaw metali, które mają być poddane analizie.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Planujesz pobieranie próbek skał i gleby",
+   "Wybierasz metale do analizy",
+   "Interpretujesz wyniki badań składu chemicznego",
+   "Badasz wpływ minerałów na wody"
+  ]
+ },
+ {
+  "id": 2091,
+  "name": "Geolog - mud logger",
+  "desc": "Geolodzy (mud logger) analizują płyny wiertnicze po ich wywierceniu. Dokonują analizy płynów w laboratorium. Geolodzy (mud logger) określają stan węglowodorów w odniesieniu do głębokości. Monitorują również gaz ziemny i identyfikują litologię.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Pobierasz próbki płynu wiertniczego",
+   "Analizujesz je w laboratorium",
+   "Określasz rodzaj skał na danej głębokości",
+   "Monitorujesz gaz ziemny podczas wiercenia"
+  ]
+ },
+ {
+  "id": 2092,
+  "name": "Geolog górniczy",
+  "desc": "Geolodzy górniczy lokalizują, identyfikują, kwantyfikują i klasyfikują zasoby mineralne oraz ich cechy i strukturę geologiczną. Świadczą oni doradztwo dla dyrektorów kopalni i inżynierów przy istniejących i przyszłych działaniach w zakresie wydobycia minerałów.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Lokalizujesz zasoby mineralne",
+   "Oceniasz ilość i jakość złoża",
+   "Opisujesz budowę geologiczną wyrobiska",
+   "Doradzasz kierownictwu kopalni, gdzie kopać"
+  ]
+ },
+ {
+  "id": 2093,
+  "name": "Geolog złóż",
+  "desc": "Geolodzy złóż badają i przeszukują złoża mineralne. Identyfikują, definiują i nabywają tytuł prawny do ekonomicznie opłacalnego złoża minerałów. Są odpowiedzialni za opracowanie programu badań, zarządzanie nim i jego realizację.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Szukasz złóż minerałów w terenie",
+   "Planujesz i prowadzisz program badań",
+   "Zlecasz wiercenia i analizujesz próbki",
+   "Zabiegasz o prawo do eksploatacji złoża"
+  ]
+ },
+ {
+  "id": 2094,
+  "name": "Geolog środowiskowy",
+  "desc": "Geolodzy środowiskowi badają sposób, w jaki eksploatacja złóż mineralnych może mieć wpływ na skład i właściwości fizyczne ziemi i jej zasobów. Udzielają porad na temat takich kwestii, jak rekultywacja gruntów i zanieczyszczenie środowiska.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Badasz wpływ kopalni na grunt i wodę",
+   "Wykrywasz skażenia gleby",
+   "Doradzasz, jak rekultywować tereny",
+   "Przygotowujesz opinie o skutkach wydobycia"
+  ]
+ },
+ {
+  "id": 2095,
+  "name": "Hydrolog",
+  "desc": "Hydrolodzy badają i studiują jakość, bieżące wyzwania i dystrybucję wody na ziemi. Studiują dostawy wody z rzek, strumieni i źródeł w celu ustalenia ich odpowiedniego i zrównoważonego użytkowania. Wraz z funkcjonalnym zespołem specjalistów planują i rozwijają, w jaki sposób woda może być dostarczana do miast i obszarów miejskich przy jednoczesnym zapewnieniu efektywności i ochrony zasobów.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Mierzysz przepływ i jakość wody w rzekach",
+   "Badasz dostawy ze źródeł i strumieni",
+   "Planujesz zaopatrzenie miast w wodę",
+   "Opracowujesz dane razem z zespołem specjalistów"
+  ]
+ },
+ {
+  "id": 2096,
+  "name": "Inżynier geolog - hydrologia górnicza",
+  "desc": "Inżynierowie geolodzy z hydrologii górniczej badają dystrybucję, jakość i przepływ wody w celu utrzymania wyrobisk górniczych wolnych od immisji oraz zapewnienia odpowiedniej dostawy wody procesowej. Dostarczają i oceniają informacje, które chronią wody gruntowe i powierzchniowe przed zanieczyszczeniem.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Badasz przepływ wód podziemnych w kopalni",
+   "Oceniasz jakość wody w wyrobiskach",
+   "Zapewniasz wodę potrzebną do procesów",
+   "Chronisz wody gruntowe przed zanieczyszczeniem"
+  ]
+ },
+ {
+  "id": 2097,
+  "name": "Oceanolog",
+  "desc": "Oceanolodzy studiują i wykonują badania dotyczące kwestii związanych z morzem i oceanem. Oceanolodzy dzielą swoją wiedzę fachową na cztery główne ośrodki badawcze: oceanolodzy fizyczni, którzy koncentrują się na falach i pływów, oceanolodzy chemiczni, których badania dotyczą składu chemicznego wód morskich, biolodzy morscy, których zadaniem jest badanie żywych organizmów, ekosystemów i ich interakcji pod wodą, a także oceanolodzy geologiczny, których badania odnoszą się do dna mórz i ich osadu.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Mierzysz fale, prądy i pływy",
+   "Badasz skład chemiczny wody morskiej",
+   "Obserwujesz organizmy i ekosystemy pod wodą",
+   "Analizujesz osady z dna morza"
+  ]
+ },
+ {
+  "id": 2098,
+  "name": "Paleontolog",
+  "desc": "Paleontolodzy badają i analizują formy życia w czasach starożytnych na Ziemi. Dążą oni do określenia ścieżki ewolucji i interakcji z różnymi obszarami geologicznymi wszystkich rodzajów organizmów i roślin, pyłków i zarodników, bezkręgowców i kręgowców, ludzi, śladów takich jak odciski stopy oraz ekologia i klimat.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Wykopujesz skamieniałości w terenie",
+   "Oczyszczasz i opisujesz znalezione szczątki",
+   "Porównujesz organizmy dawne i współczesne",
+   "Odtwarzasz dawny klimat z pyłków i odcisków"
+  ]
+ },
+ {
+  "id": 2099,
+  "name": "Sejsmolog",
+  "desc": "Sejsmolodzy badają ruch płytek tektonicznych na Ziemi, który powoduje rozprzestrzenianie się fal sejsmicznych i trzęsień ziemi. Badania te są zgodne z różnymi źródłami wywołującymi trzęsienia ziemi, takimi jak aktywność wulkaniczna, zjawiska atmosferyczne czy zachowanie oceanów. Przedstawiają swoje uwagi naukowe w celu zapobiegania niebezpieczeństwom w budownictwie i infrastrukturze.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Analizujesz zapisy ruchów skorupy ziemskiej",
+   "Badasz ruchy płyt tektonicznych",
+   "Lokalizujesz źródła trzęsień ziemi",
+   "Doradzasz budowniczym, jak chronić konstrukcje"
+  ]
+ }
+]

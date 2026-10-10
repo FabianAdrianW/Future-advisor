@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1740,
+  "name": "Kierownik w gospodarce leśnej",
+  "desc": "Kierownicy w gospodarce leśnej są odpowiedzialni za monitorowanie naturalnej i ekonomicznej żywotności terenu leśnego lub lasu oraz za działania związane z jego zarządzaniem i konserwacją.",
+  "path": "Rolnictwo, las i zwierzęta > Kierownicy w rolnictwie i rybactwie",
+  "tasks": [
+   "Objeżdżasz las i oceniasz stan drzew",
+   "Planujesz wycinki i nowe nasadzenia",
+   "Dajesz zadania robotnikom leśnym",
+   "Prowadzisz dokumentację i rozliczenia lasu"
+  ]
+ },
+ {
+  "id": 1741,
+  "name": "Nadzorca maszyn rolniczych",
+  "desc": "Nadzorcy maszyn rolniczych planują i organizują usługi maszyn stacjonarnych do produkcji rolnej i architektury krajobrazu w ścisłej współpracy z klientami.",
+  "path": "Rolnictwo, las i zwierzęta > Operatorzy pojazdów wolnobieżnych rolniczych i leśnych",
+  "tasks": [
+   "Rozmawiasz z klientami o zakresie usług",
+   "Układasz harmonogram pracy maszyn",
+   "Przydzielasz operatorów do sprzętu",
+   "Sprawdzasz, czy zlecenie zostało wykonane"
+  ]
+ },
+ {
+  "id": 1742,
+  "name": "Operator maszyn leśnych",
+  "desc": "Operatorzy maszyn leśnych prowadzą operacje przy użyciu specjalistycznego sprzętu w lesie do utrzymywania, zbierania, ekstrakcji i przekazywania drewna do wytwarzania towarów konsumpcyjnych i produktów przemysłowych.",
+  "path": "Rolnictwo, las i zwierzęta > Operatorzy pojazdów wolnobieżnych rolniczych i leśnych",
+  "tasks": [
+   "Ścinasz i przycinasz drzewa maszyną",
+   "Przewozisz drewno do miejsca załadunku",
+   "Sprawdzasz stan maszyny przed pracą",
+   "Wybierasz trasę, żeby nie niszczyć gleby"
+  ]
+ },
+ {
+  "id": 1743,
+  "name": "Operator maszyn rolniczych",
+  "desc": "Operatorzy maszyn rolniczych obsługują specjalistyczny sprzęt i maszyny do produkcji rolnej i utrzymania krajobrazu.",
+  "path": "Rolnictwo, las i zwierzęta > Operatorzy pojazdów wolnobieżnych rolniczych i leśnych",
+  "tasks": [
+   "Uprawiasz ziemię maszyną przed siewem",
+   "Wysiewasz nasiona maszyną",
+   "Podłączasz osprzęt do ciągnika",
+   "Naprawiasz drobne usterki sprzętu"
+  ]
+ },
+ {
+  "id": 1744,
+  "name": "Zarządca gospodarstwa rolnego",
+  "desc": "Zarządcy gospodarstwa rolnego planują i organizują codzienne operacje, pozyskiwanie zasobów i zarządzanie działalnością gospodarstw zajmujących się hodowlą zwierząt.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy upraw i hodowli",
+  "tasks": [
+   "Rozdzielasz zadania pracownikom gospodarstwa",
+   "Zamawiasz paszę, leki i materiały",
+   "Kontrolujesz stan zwierząt i budynków",
+   "Rozliczasz koszty i prowadzisz dokumentację"
+  ]
+ },
+ {
+  "id": 1745,
+  "name": "Artysta konceptualny",
+  "desc": "Artyści konceptualni mają możliwość wyboru dowolnego materiału jako narzędzia lub materiału artystycznego do wyrażenia idei twórczej, która ma zostać zaprezentowana publicznie jako doświadczenie artystyczne. Ich praca, z dziedziny sztuk pięknych, może mieć charakter dwuwymiarowy (rysunek, obraz, kolaż), trójwymiarowy (rzeźba, instalacja) lub czterowymiarowy (ruchome obrazy, performance).",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Szukasz idei i zapisujesz szkice",
+   "Wybierasz materiał lub formę do pomysłu",
+   "Budujesz instalację albo przygotowujesz performance",
+   "Pokazujesz pracę publiczności i rozmawiasz o niej"
+  ]
+ },
+ {
+  "id": 1746,
+  "name": "Artysta rzeźbiarz",
+  "desc": "Artyści rzeźbiarze mogą korzystać z wielu różnych materiałów do tworzenia rzeźb, np. kamienia, gliny, szkła, drewna, gipsu i dowolnego wybranego przez siebie materiału. Materiały te mogą być rzeźbione, modelowane, formowane, odlewane, obrobione, kute, spawane itp., żeby osiągnąć pożądany kształt.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Wybierasz materiał do pomysłu",
+   "Rzeźbisz lub modelujesz bryłę",
+   "Odlewasz, kujesz lub spawasz elementy",
+   "Szlifujesz i wykańczasz powierzchnię rzeźby"
+  ]
+ },
+ {
+  "id": 1747,
+  "name": "Artysta szkła",
+  "desc": "Artyści szkła tworzą oryginalne dzieła z połączenia elementów szklanych. Mogą być zaangażowani w renowacje (np. w katedrach, kościołach itp.) i mogą tworzyć akcesoria, okna lub ozdoby.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Projektujesz wzór na papierze",
+   "Tniesz kolorowe szkło na kawałki",
+   "Łączysz kawałki w jedną całość",
+   "Naprawiasz stare okna witrażowe"
+  ]
+ },
+ {
+  "id": 1748,
+  "name": "Artysta sztuki wideo",
+  "desc": "Artyści sztuki wideo tworzą nagrania wideo z wykorzystaniem techniki analogowej lub cyfrowej, aby uzyskać specjalne efekty, animację lub inne animowane materiały graficzne wykorzystujące filmy, nagrania wideo, obrazy, komputery i inne narzędzia elektroniczne.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Nagrywasz materiał kamerą",
+   "Montujesz obraz i dźwięk",
+   "Dodajesz efekty specjalne i animacje",
+   "Pokazujesz gotowe wideo na wystawie"
+  ]
+ },
+ {
+  "id": 1749,
+  "name": "Ceramik",
+  "desc": "Ceramicy mają dogłębną wiedzę na temat materiałów i odpowiednią wiedzę praktyczną, pozwalające im opracować własne metody ekspresji i indywidualne projekty z użyciem ceramiki. Ich dzieła mogą obejmować: rzeźby ceramiczne, biżuterię, domowe i komercyjne sztućce i artykuły kuchenne, upominki, ceramikę ogrodową, płytki ścienne i podłogowe.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Wyrabiasz glinę i formujesz przedmioty",
+   "Toczysz naczynia lub lepisz ręcznie",
+   "Zdobisz i glazurujesz przedmioty",
+   "Wypalasz i oceniasz gotowe wyroby"
+  ]
+ },
+ {
+  "id": 1750,
+  "name": "Restaurator dzieł sztuki",
+  "desc": "Konserwatorzy prowadzą działania korygujące na podstawie oceny estetycznych, historycznych i naukowych cech dzieła sztuki. Określają stabilność konstrukcyjną dzieł i rozwiązują problemy związane z degradacją chemiczną i fizyczną.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Oglądasz dzieło i dokumentujesz uszkodzenia",
+   "Badasz materiały i historię obrazu lub rzeźby",
+   "Czyścisz i zabezpieczasz powierzchnię",
+   "Uzupełniasz ubytki zgodnie z zasadami konserwacji"
+  ]
+ },
+ {
+  "id": 1751,
+  "name": "Rysownik satyryczny",
+  "desc": "Rysownicy satyryczni przedstawiają ludzi, przedmioty, zdarzenia itp. w sposób komiczny lub obraźliwy. Wyolbrzymiają cechy fizyczne i cechy osobowości. Przedstawiają również wydarzenia o charakterze politycznym, gospodarczym, kulturalnym i społecznym w sposób humorystyczny.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Śledzisz wiadomości i szukasz tematu",
+   "Wyolbrzymiasz cechy postaci na rysunku",
+   "Układasz krótki podpis lub dialog",
+   "Oddajesz rysunek do gazety lub publikujesz go"
+  ]
+ },
+ {
+  "id": 1752,
+  "name": "Rysownik storyboardów",
+  "desc": "Rysownicy storyboardów rysują sceny z filmu lub serialu telewizyjnego według scenariusza, aby stwierdzić, co będzie możliwe podczas produkcji. Współpracują z producentem i reżyserem.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Czytasz scenariusz i wyobrażasz sobie sceny",
+   "Rysujesz kadry z ustawieniem kamery",
+   "Omawiasz ujęcia z reżyserem",
+   "Poprawiasz kadry po zmianach w scenariuszu"
+  ]
+ },
+ {
+  "id": 1753,
+  "name": "Rytownik",
+  "desc": "Rytownicy grawerują lub trawią metal, drewno, gumę i inne materiały, w celu tworzenia obrazów przenoszonych na inne powierzchnie, na ogół z wykorzystaniem prasy drukarskiej. Rytownicy często korzystają z narzędzi do wytrawiania, grawerowania z pantografem i sitodruku.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Przenosisz rysunek na płytę",
+   "Wycinasz lub trawisz wzór w materiale",
+   "Nakładasz farbę i odbijasz na prasie",
+   "Sprawdzasz odbitkę i poprawiasz płytę"
+  ]
+ },
+ {
+  "id": 1754,
+  "name": "Twórca masek",
+  "desc": "Twórcy masek tworzą, dostosowują i utrzymują maski do występów na żywo. Pracują na podstawie szkiców, obrazów i wizji artystycznej w połączeniu ze znajomością ludzkiego ciała, żeby zapewnić użytkownikowi maksymalny zakres ruchu. Pracują w ścisłej współpracy z projektantami.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Rozmawiasz z projektantem o wizji maski",
+   "Formujesz maskę z lekkich materiałów",
+   "Dopasowujesz ją do głowy aktora",
+   "Naprawiasz maski po przedstawieniach"
+  ]
+ },
+ {
+  "id": 1755,
+  "name": "Aktor cyrkowy / aktorka cyrkowa",
+  "desc": "Aktorzy cyrkowi opracowują oryginalne występy, wykazując się dużymi umiejętnościami artystycznymi i estradowymi, prezentując głębię emocji i propozycje artystyczne dla widowni. Mogą występować, w zespole lub w pojedynkę, prezentując jedną lub więcej tradycyjnych lub oryginalnych dyscyplin cyrkowych, które zazwyczaj bazują na możliwościach fizycznych, takich jak wytrzymałość, równowaga, zwinność, elastyczność, sprawność i koordynacja ciała, oraz w połączeniu z dyscyplinami estradowymi, takimi jak taniec, teatr, występy mimów itd. Fizyczny charakter wykonywanych ćwiczeń często wiąże się z pewnym ryzykiem dla wykonawcy.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Ćwiczysz akrobacje i elementy występu",
+   "Opracowujesz własny numer i choreografię",
+   "Rozgrzewasz i wzmacniasz ciało przed występem",
+   "Występujesz przed publicznością w zespole lub solo"
+  ]
+ },
+ {
+  "id": 1756,
+  "name": "Aktor lalkarz",
+  "desc": "Aktorzy lalkarze animują lalki, np. pacynki lub marionetki. Ich występ bazuje na scenariuszu, a ruchy pacynek muszą być zsynchronizowane z tekstem i muzyką. Aktorzy lalkarze mogą sami tworzyć scenariusze oraz projektować i wykonywać pacynki.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Uczysz się roli i tekstu",
+   "Poruszasz lalką w rytm tekstu i muzyki",
+   "Ćwiczysz mimikę i ruch lalki przed lustrem",
+   "Projektujesz i naprawiasz lalki"
+  ]
+ },
+ {
+  "id": 1757,
+  "name": "Artysta estradowy / artystka estradowa",
+  "desc": "Artyści estradowi są artystami multidyscyplinarnymi, którzy opanowali co najmniej dwie z następujących dyscyplin: komedia, dramat, śpiew, sztuki cyrkowe, manipulacja przedmiotami i iluzja. Występują solo lub w zespole, mogą się pojawiać w przedstawieniach muzycznych, kabarecie, musicalach i na innych imprezach rozrywkowych. Ich działalność artystyczna charakteryzuje się mieszaniem sztuk, stylów i dyscyplin.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Układasz program łączący kilka sztuk",
+   "Ćwiczysz śpiew, ruch i sztuczki",
+   "Przygotowujesz kostiumy i rekwizyty",
+   "Występujesz na scenie lub na imprezie"
+  ]
+ },
+ {
+  "id": 1758,
+  "name": "Artysta performer / artystka performerka",
+  "desc": "Artyści performerzy tworzą występ, którym może być dowolna sytuacja obejmująca cztery podstawowe elementy: czas, miejsce, ciało performera lub obecność w medium i relacja między performerem a widownią lub obserwatorami. Występ może bazować na scenariuszu lub być spontaniczny, z udziałem publiczności lub bez. Może być realizowany na żywo lub za pośrednictwem mediów. Występ może odbyć w dowolnym miejscu i sytuacji, bez ograniczeń czasowych.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Wymyślasz zamysł i warunki występu",
+   "Wybierasz miejsce i czas akcji",
+   "Używasz ciała, gestu i ciszy jako materiału",
+   "Reagujesz na widzów podczas występu"
+  ]
+ },
+ {
+  "id": 1759,
+  "name": "Artysta uliczny / artystka uliczna",
+  "desc": "Artyści uliczni tworzą spektakle uliczne do przestrzeni publicznych, wykorzystując przestrzeń i widownię jako zasób kreatywny. Tworzą swoje przedstawienia na zasadzie zabawnego poszukiwania i eksperymentu służących rozrywce i ewentualnie dzieleniu się krytycznymi opiniami na temat kwestii społecznych. Stymulują udział publiczności jako element występu przy jednoczesnym poszanowaniu bezpieczeństwa i integralności odbiorcy.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Wybierasz miejsce i godzinę występu",
+   "Przyciągasz uwagę przechodniów",
+   "Włączasz widzów do swojego numeru",
+   "Pilnujesz, żeby nikomu nic się nie stało"
+  ]
+ },
+ {
+  "id": 1760,
+  "name": "Prezenter muzyczny",
+  "desc": "Prezenterzy muzyczni układają muzykę z różnych źródeł, korzystając z gramofonów lub konsoli, i odtwarzają muzykę podczas wydarzeń na żywo. Mogą odtwarzać muzykę przez radio. Wybierają muzykę odtwarzaną w radiu i dbają o jej nadawanie zgodnie z programem. Prezenterzy muzyczni mogą również tworzyć zestawienia do późniejszej dystrybucji i odtwarzania.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Wybierasz utwory pod nastrój publiczności",
+   "Płynnie przechodzisz z jednego utworu w drugi",
+   "Układasz listy utworów na program",
+   "Obserwujesz parkiet i reagujesz na tłum"
+  ]
+ },
+ {
+  "id": 1761,
+  "name": "Animator kultury",
+  "desc": "Animatorzy kultury badają, planują, organizują i prowadzą działania artystyczne dla ludzi związanych wspólnymi interesami, zdolnościami, środowiskiem lub sytuacją. Zarządzają i koordynują projekty kreatywne z lokalnymi grupami i jednostkami w celu wspierania ich twórczości artystycznej i poprawy jakości życia. Animatorzy kultury sprawiają, że sztuka staje się dostępna dla społeczności, na rzecz której pracują, a jednocześnie dają uczestnikom możliwości kształtowania własnego programu artystycznego.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Poznajesz potrzeby i zainteresowania grupy",
+   "Planujesz warsztaty i wydarzenia",
+   "Prowadzisz zajęcia w domu kultury lub na osiedlu",
+   "Szukasz miejsca, ludzi i materiałów do projektu"
+  ]
+ },
+ {
+  "id": 1762,
+  "name": "Animator turystyki",
+  "desc": "Animatorzy turystyki opracowują i organizują działania rozrywkowe dla gości obiektu hotelarsko-gastronomicznego. Tworzą i koordynują działania służące rozrywce klientów.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Układasz program zajęć dla gości",
+   "Prowadzisz zabawy dla dzieci i dorosłych",
+   "Zapraszasz gości do konkursów i gier",
+   "Przygotowujesz scenę i rekwizyty na wieczór"
+  ]
+ },
+ {
+  "id": 1763,
+  "name": "Artysta sztuki ulicznej / artystka sztuki ulicznej",
+  "desc": "Artyści sztuki ulicznej tworzą grafikę, np. graffiti lub wlepki w miejscach publicznych w przestrzeniach miejskich i na ulicach, zazwyczaj wyrażając uczucia lub poglądy polityczne i idee, wybierając nietradycyjne miejsca dla sztuki.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Rysujesz szkice projektu na papierze",
+   "Wybierasz ścianę lub inne miejsce",
+   "Uzgadniasz z właścicielem, gdzie wolno malować",
+   "Malujesz albo naklejasz gotową pracę"
+  ]
+ },
+ {
+  "id": 1764,
+  "name": "Dyrygent",
+  "desc": "Dyrygenci kierują zespołami muzyków podczas prób, pomagając im przygotować jak najlepszych występ. Mogą pracować z różnymi zespołami, takimi jak chóry i orkiestry. Dyrygenci dostosowują tempo, rytm, dynamikę (głośno lub delikatnie) i artykulację (płynnie lub ostro) muzyki, używając gestów, a niekiedy ruchu całego ciała, żeby inspirować muzyków do gry zgodnie z partyturą.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Uczysz się partytury przed próbą",
+   "Pokazujesz gestami tempo i rytm",
+   "Zatrzymujesz próbę i poprawiasz fragment",
+   "Prowadzisz zespół podczas koncertu"
+  ]
+ },
+ {
+  "id": 1765,
+  "name": "Kierownik chóru",
+  "desc": "Kierownicy chórów zarządzają różnymi aspektami występów wokalnych, a niekiedy instrumentalnych, grup muzycznych, takich jak chóry lub zespoły.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Wybierasz utwory dla całego chóru",
+   "Prowadzisz próby poszczególnych głosów",
+   "Ustalasz terminy prób i koncertów",
+   "Uzgadniasz szczegóły występu z organizatorem"
+  ]
+ },
+ {
+  "id": 1766,
+  "name": "Aranżer",
+  "desc": "Aranżerzy tworzą aranże muzyki po jej napisaniu przez kompozytora. Interpretują, adaptują lub przepisują utwór na inne instrumenty lub głosy lub w innym stylu. Aranżerzy są ekspertami w dziedzinie instrumentów i orkiestracji, harmonii, polifonii i technik kompozycji.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Słuchasz utworu i analizujesz jego budowę",
+   "Przypisujesz melodie różnym instrumentom",
+   "Zmieniasz styl albo harmonię piosenki",
+   "Zapisujesz nuty dla każdego muzyka"
+  ]
+ },
+ {
+  "id": 1767,
+  "name": "Korepetytor",
+  "desc": "Korepetytorzy towarzyszą wykonawcom, zazwyczaj wokalistom, zgodnie z instrukcjami dyrygentów, kierując próbami i udzielając artystom wskazówek w trakcie prób.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Grasz akompaniament na fortepianie",
+   "Uczysz śpiewaków trudnych fragmentów",
+   "Prowadzisz próbę według planu dyrygenta",
+   "Przekazujesz uwagi artystom po próbie"
+  ]
+ },
+ {
+  "id": 1768,
+  "name": "Reżyser muzyczny",
+  "desc": "Reżyserzy muzyczni kierują grupami muzycznymi, takimi jak orkiestry i zespoły podczas widowisk na żywo lub sesji nagrań. Organizują muzykę i skład, koordynują muzyków i nagrywają występ. Reżyserzy muzyczni są specjalistami działającymi w różnych miejscach, takich jak branża filmowa, nagrania wideo z muzyką, stacje radiowe, zespoły muzyczne i szkoły.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Dobierasz muzyków do projektu",
+   "Ustalasz brzmienie utworów",
+   "Koordynujesz muzyków podczas nagrań",
+   "Nagrywasz i sprawdzasz zapis występu"
+  ]
+ },
+ {
+  "id": 1769,
+  "name": "Producent",
+  "desc": "Producenci są odpowiedzialni za zarządzanie produkcją muzyki, filmów lub seriali. Planują i koordynują wszystkie aspekty produkcji, takie jak reżyserowanie, publikowanie i finansowanie. Producenci nadzorują produkcję i zarządzanie wszystkimi technicznymi i logistycznymi aspektami nagrań i montażu.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Układasz harmonogram całej produkcji",
+   "Pilnujesz budżetu i rachunków",
+   "Zatrudniasz reżysera i ekipę",
+   "Rozwiązujesz problemy na planie lub w studiu"
+  ]
+ },
+ {
+  "id": 1770,
+  "name": "Producent audiowizualny",
+  "desc": "Producenci audiowizualni nadzorują cały proces produkcji filmu lub programu telewizyjnego. Wybierają scenariusze, na których powstanie film lub serial. Producenci audiowizualni zdobywają środki na realizację filmu lub serialu telewizyjnego. Mają ostatnie słowo w całym projekcie, od opracowania i montażu po dystrybucję. Podczas produkcji na dużą skalę producenci audiowizualni mogą być częścią zespołu producentów i mogą być odpowiedzialni za niektóre z tych zadań.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Wybierasz scenariusze do realizacji",
+   "Zdobywasz fundusze na film",
+   "Nadzorujesz zdjęcia i montaż",
+   "Decydujesz, gdzie film trafi do widzów"
+  ]
+ },
+ {
+  "id": 1771,
+  "name": "Kierownik postprodukcji",
+  "desc": "Kierownicy postprodukcji nadzorują cały proces postprodukcji. Współpracują z montażystą muzyki i montażystą obrazu. Kierownicy postprodukcji pomagają planować przepływ procesu produkcji, aby dopilnować uwzględnienia fazy produkcji i ujęcia jej w budżecie. Dbają o dostarczenie i dystrybucję produktu końcowego.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Układasz plan montażu i dźwięku",
+   "Koordynujesz pracę montażystów obrazu i dźwięku",
+   "Pilnujesz budżetu etapu po zdjęciach",
+   "Dostarczasz gotowy film do dystrybucji"
+  ]
+ },
+ {
+  "id": 1772,
+  "name": "Producent radiowy",
+  "desc": "Producenci radiowi są odpowiedzialni za organizację produkcji audycji radiowych. Nadzorują takie aspekty audycji radiowych jak treść, realizacja dźwięku, planowanie zasobów i nadzór nad personelem.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Wymyślasz temat i plan audycji",
+   "Zapraszasz gości do studia",
+   "Pilnujesz czasu i dźwięku na antenie",
+   "Układasz grafik pracy zespołu"
+  ]
+ },
+ {
+  "id": 1773,
+  "name": "Choreolog",
+  "desc": "Choreolodzy są wyspecjalizowanymi twórcami tańca w konkretnych stylach lub tradycjach, takich jak taniec etniczny, taniec dawny lub taniec barokowy. Ich praca jest postrzegana w szerszym kontekście historycznym i socjologicznym jako forma wyrazu grupy ludzkiej, w której powstała. Choreolodzy analizują taniec z perspektywy aspektów wewnętrznych: teorii, praktyki i epistemologii ruchu jako takiego. Ponadto badają taniec z perspektywy zewnętrznej: kontekstu społecznego, etnologicznego, etnograficznego i socjologicznego, w którym powstaje taniec.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Analizujesz ruchy w wybranym stylu tańca",
+   "Czytasz o historii i obyczajach",
+   "Oglądasz archiwalne nagrania tańca",
+   "Opisujesz taniec w tekstach naukowych"
+  ]
+ },
+ {
+  "id": 1774,
+  "name": "Korepetytor tańca",
+  "desc": "Korepetytorzy tańca pomagają dyrygentom i choreografom w prowadzeniu prób i kierowaniu artystami podczas prób. Niezależnie od ich charakteru i zakresu, działania korepetytorów tańca, z etycznego i praktycznego punktu widzenia, bazują na zobowiązaniu do poszanowania integralności dzieła.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Uczysz układu krok po kroku",
+   "Pamiętasz szczegóły całej choreografii",
+   "Prowadzisz próby, gdy choreografa nie ma",
+   "Poprawiasz pojedynczych tancerzy"
+  ]
+ },
+ {
+  "id": 1775,
+  "name": "Brygadier sceny",
+  "desc": "Brygadierzy sceny kontrolują różne aspekty przedstawienia w oparciu o koncepcję artystyczną lub twórczą, w interakcji z wykonawcami. Przygotowują i wykonują instalację, programują urządzenia i obsługują różne systemy. Brygadierzy sceny zajmują się oświetleniem, dźwiękiem, nagraniem wideo, scenografią i/lub systemami linowymi. Ich praca opiera się na planach, instrukcjach i obliczeniach. Mogą pracować w małych lokalach, teatrach i przy innych małych produkcjach artystycznych.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Czytasz plany i instrukcje techniczne",
+   "Montujesz światło i dźwięk na scenie",
+   "Programujesz urządzenia przed spektaklem",
+   "Obsługujesz sprzęt w trakcie występu"
+  ]
+ },
+ {
+  "id": 1776,
+  "name": "Maszynista sceny",
+  "desc": "Maszyniści sceny manipulują dekoracjami i innymi elementami w przedstawieniu w oparciu o koncepcję artystyczną lub twórczą, w interakcji z wykonawcami. Ich praca ma wpływ na wyniki innych techników obsługi i pozostaje pod ich wpływem. W związku z tym maszyniści sceny ściśle współpracują z projektantami, technikami obsługi i wykonawcami. Maszyniści sceny przygotowują i wykonują instalacje, realizują zmiany i obsługują ręczne sztankiety. Ich praca opiera się na planach, instrukcjach i obliczeniach.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Przygotowujesz dekoracje przed przedstawieniem",
+   "Zmieniasz sceny w ciemności",
+   "Obsługujesz ręczne sztankiety",
+   "Czytasz plany i obliczenia ustawień"
+  ]
+ },
+ {
+  "id": 1777,
+  "name": "Operator reflektora punktowego",
+  "desc": "Operatorzy reflektorów punktowych kontrolują reflektory punktowe w oparciu o koncepcję artystyczną lub twórczą, w interakcji z wykonawcami. Reflektory punktowe są specjalistycznymi urządzeniami oświetleniowymi, przeznaczonymi do podążania za wykonawcami lub ruchem na scenie. Ruch, wielkość, szerokość wiązki i kolor są sterowane ręcznie. W związku z tym operatorzy reflektorów punktowych ściśle współpracują z operatorami tablic świetlnych i wykonawcami. Ich praca opiera się na instrukcjach i innych dokumentach. Ich praca może obejmować pracę na wysokości, na mostkach lub nad widownią.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Śledzisz artystę wiązką światła",
+   "Zmieniasz kolor i wielkość plamy światła",
+   "Słuchasz poleceń od operatora tablicy",
+   "Przygotowujesz reflektor przed spektaklem"
+  ]
+ },
+ {
+  "id": 1778,
+  "name": "Oświetleniowiec",
+  "desc": "Oświetleniowcy kontrolują oświetlenie spektaklu w oparciu o koncepcję artystyczną lub twórczą, w interakcji z wykonawcami. Ich praca ma wpływ na wyniki innych techników obsługi i pozostaje pod ich wpływem. W związku z tym oświetleniowcy ściśle współpracują z projektantami, technikami obsługi i wykonawcami. Oświetleniowcy przygotowują i nadzorują instalację, kierują ekipą techniczną, programują urządzenia i obsługują system oświetlenia. Mogą odpowiadać za konwencjonalne lub automatyczne elementy instalacji oświetleniowej, a w niektórych przypadkach również za kontrolę wideo.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Planujesz ustawienie reflektorów",
+   "Programujesz sceny świetlne na pulpicie",
+   "Kierujesz ekipą techniczną",
+   "Włączasz światła na hasło w spektaklu"
+  ]
+ },
+ {
+  "id": 1779,
+  "name": "Technik sceny",
+  "desc": "Technicy sceny instalują, przygotowują, kontrolują i konserwują wcześniej zmontowane dekoracje w celu zapewnienia optymalnej jakości scenografii podczas występu na żywo. Współpracują z ekipą techniczną w rozładowywaniu, instalacji i przemieszczaniu urządzeń i dekoracji.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Rozładowujesz dekoracje i sprzęt z transportu",
+   "Składasz elementy sceny",
+   "Sprawdzasz stan dekoracji przed występem",
+   "Naprawiasz drobne uszkodzenia dekoracji"
+  ]
+ },
+ {
+  "id": 1780,
+  "name": "Technik teatralny",
+  "desc": "Technicy teatralni wykonują wszystkie zadania techniczne wspomagające występy na żywo. Budują i rozbierają sceny i dekoracje, instalują i obsługują dźwięk, światło, urządzenia do nagrań dźwiękowych i wideo oraz organizują transport dekoracji i urządzeń technicznych do przedstawień w przypadku przemieszczania.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Budujesz i rozbierasz scenę",
+   "Ustawiasz dźwięk i światło",
+   "Obsługujesz sprzęt do nagrań wideo",
+   "Pakujesz i transportujesz sprzęt na występy"
+  ]
+ },
+ {
+  "id": 1781,
+  "name": "Asystent kostiumografa",
+  "desc": "Asystent kostiumografa pomaga w ubieraniu aktorów i statystów. Upewnia się, czy wszystko jest zgodne z wizją kostiumografa i zapewnia ciągłość wyglądu wykonawców. Asystenci kostiumografa konserwują i naprawiają kostiumy. Po nagraniach przechowują je w prawidłowy i bezpieczny sposób.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Ubierasz aktorów i statystów",
+   "Pilnujesz, żeby strój wyglądał tak samo w każdym ujęciu",
+   "Zszywasz i naprawiasz kostiumy",
+   "Pakujesz i przechowujesz stroje po zdjęciach"
+  ]
+ },
+ {
+  "id": 1782,
+  "name": "Garderobiany/garderobiana",
+  "desc": "Garderobiani/garderobiane pomagają artystom przed przedstawieniem, w jego trakcie i po nim w celu zapewnienia zgodności kostiumów wykonawców z wizją artystyczną dyrektora i zespołu artystycznego. Dopilnowują jakości kostiumów, ich konserwacji, sprawdzenia i naprawy oraz pomagają w szybkiej zmianie kostiumów.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Przygotowujesz kostiumy przed spektaklem",
+   "Naprawiasz i czyścisz stroje",
+   "Pomagasz w szybkich zmianach kostiumu",
+   "Układasz stroje po przedstawieniu"
+  ]
+ },
+ {
+  "id": 1783,
+  "name": "Oświetlacz",
+  "desc": "Oświetlacze instalują, przygotowują, sprawdzają i konserwują sprzęt w celu zapewnienia optymalnej jakości oświetlenia do występów na żywo i filmów. Współpracują z ekipą techniczną w rozładowywaniu, instalacji i obsłudze sprzętu oświetleniowego i przyrządów.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Rozładowujesz lampy i statywy",
+   "Ustawiasz oświetlenie według planu",
+   "Sprawdzasz sprzęt przed zdjęciami",
+   "Przestawiasz lampy między ujęciami"
+  ]
+ },
+ {
+  "id": 1784,
+  "name": "Specjalista ds. inteligentnego oświetlenia",
+  "desc": "Specjaliści ds. inteligentnego oświetlenia tworzą, przygotowują, sprawdzają i konserwują cyfrowe i zautomatyzowane urządzenia oświetleniowe w celu zapewnienia optymalnej jakości oświetlenia w przedstawieniach na żywo. Współpracują z ekipą techniczną w rozładowywaniu, instalacji i obsłudze sprzętu oświetleniowego i przyrządów.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Przygotowujesz sterowane cyfrowo lampy",
+   "Sprawdzasz działanie urządzeń przed koncertem",
+   "Konserwujesz zautomatyzowany sprzęt",
+   "Instalujesz lampy razem z ekipą"
+  ]
+ },
+ {
+  "id": 1785,
+  "name": "Asystent reżysera filmowego",
+  "desc": "Asystenci reżysera filmowego są odpowiedzialni za organizację, sporządzenie harmonogramów i planowanie obsady, ekipy i czynności na planie. Wspierają oni reżyserów filmowych, prowadzą budżet i dopilnowują, aby wszystkie czynności związane z produkcją przebiegały zgodnie z harmonogramem.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Układasz harmonogram dnia zdjęciowego",
+   "Wzywasz aktorów i ekipę na plan",
+   "Pilnujesz, żeby zdjęcia szły zgodnie z czasem",
+   "Informujesz reżysera o opóźnieniach i kosztach"
+  ]
+ },
+ {
+  "id": 1786,
+  "name": "Asystent reżysera teatralnego",
+  "desc": "Asystenci reżyserów teatralnych wspomagają reżysera teatralnego i produkcję przy produkcji każdego wyznaczonego etapu, a także pełnią rolę łącznika między wykonawcami, personelem teatru i reżyserami. Sporządzają notatki, przekazują informacje zwrotne, koordynują harmonogram prób, notują ustalone miejsca na scenie, dokonują przesłuchania lub przeglądu scen, przygotowują i rozprowadzają notatki dla aktorów i ułatwiają komunikację między projektantami, ekipą produkcyjną i reżyserem.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Notujesz ustalenia z prób",
+   "Zapisujesz miejsca aktorów na scenie",
+   "Przekazujesz uwagi reżysera aktorom",
+   "Koordynujesz terminy prób"
+  ]
+ },
+ {
+  "id": 1787,
+  "name": "Choreograf scen latania",
+  "desc": "Choreografowie scen latania projektują efekty latania osób do celów przedstawienia lub je realizują. Ich praca opiera się na badaniu informacji i wizji artystycznej. Ich projekt powstaje pod wpływem innych projektów i wpływa na nie i musi być zgodny z tymi projektami i ogólną wizją artystyczną. Szkolą oni aktorów w choreografii i manewrują nimi w trakcie przedstawienia. W związku z tym choreografowie scen latania ściśle współpracują z reżyseriami artystycznymi, technikami obsługi, wykonawcami i zespołem artystycznym.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Projektujesz tor i ruchy lotu",
+   "Uczysz aktorów choreografii w powietrzu",
+   "Współpracujesz z technikami obsługi lin",
+   "Prowadzisz lot aktora w trakcie spektaklu"
+  ]
+ },
+ {
+  "id": 1788,
+  "name": "Choreograf scen walki",
+  "desc": "Choreografowie scen walki instruują wykonawców, aby bezpiecznie wykonywali sekwencje walki. Kierują oni walkami do celów przedstawień takich jak występy taneczne, filmy i telewizja, cyrk, rewia i inne. Choreografowie scen walki mogą mieć doświadczenie w sporcie takim jak szermierka, strzelectwo lub boks, sztuki walki takie jak judo, wushu lub karate lub przeszkolenie wojskowe.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Układasz sekwencje ciosów i uników",
+   "Uczysz wykonawców bezpiecznych ruchów",
+   "Ćwiczysz walkę w zwolnionym tempie",
+   "Dostosowujesz walkę do kamery lub sceny"
+  ]
+ },
+ {
+  "id": 1789,
+  "name": "Dubler",
+  "desc": "Dublerzy zastępują aktorów przed rozpoczęciem filmowania. Wykonują oni działania aktorów podczas instalacji oświetlenia i urządzeń audiowizualnych, aby podczas rzeczywistego nagrania z aktorami wszystko znajdowało się w odpowiednim miejscu.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Stajesz w miejscu aktora",
+   "Powtarzasz jego ruchy na planie",
+   "Czekasz, aż ekipa ustawi światło",
+   "Ustalasz, gdzie dokładnie ma stać aktor"
+  ]
+ },
+ {
+  "id": 1790,
+  "name": "Dyrektor programowy",
+  "desc": "Dyrektorzy programowi tworzą harmonogram programów. Decydują oni, jaki czas nadawania otrzyma program i kiedy będzie transmitowany, na podstawie kilku czynników takich jak oceny, dane demograficzne widzów itp.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Układasz harmonogram programów",
+   "Sprawdzasz wyniki oglądalności",
+   "Przesuwasz audycje na lepszą godzinę",
+   "Analizujesz, kim są widzowie"
+  ]
+ },
+ {
+  "id": 1791,
+  "name": "Inspicjent",
+  "desc": "Inspicjenci odpowiadają za ciągłość filmu lub programu telewizyjnego. Przyglądają się każdemu ujęciu, aby upewnić się, czy jest ono zgodne ze scenariuszem. Inspicjenci dopilnowują, aby podczas montażu historia miała sens wizualny i werbalny i nie zawierała błędów w ciągłości.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Oglądasz każde ujęcie i porównujesz ze scenariuszem",
+   "Zapisujesz położenie rekwizytów i ubrań",
+   "Notujesz zmiany w dialogach",
+   "Zgłaszasz błędy w ciągłości"
+  ]
+ },
+ {
+  "id": 1792,
+  "name": "Kierownik planu filmowego",
+  "desc": "Kierownicy planu filmowego koordynują i nadzorują przygotowanie i realizację pokazu w celu zapewnienia zgodności obrazu scenicznego i akcji na scenie z wizją artystyczną dyrektora i zespołu artystycznego. Określają potrzeby, monitorują procesy techniczne i artystyczne podczas prób i przedstawień na żywo oraz wydarzeń, zgodnie z projektem artystycznym, charakterystyką sceny oraz warunkami technicznymi, ekonomicznymi, ludzkimi i dotyczącymi bezpieczeństwa.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Ustalasz, jakich ludzi i sprzętu potrzeba",
+   "Kontrolujesz pracę techniki podczas prób",
+   "Pilnujesz kosztów i bezpieczeństwa ekipy",
+   "Dopasowujesz obraz sceny do wizji artystycznej"
+  ]
+ },
+ {
+  "id": 1793,
+  "name": "Kierownik produkcji ds. lokacji",
+  "desc": "Kierownicy produkcji ds. lokacji odpowiadają za zamawianie miejsc do filmowania poza studiem oraz za wszystkie związane z tym działania logistyczne. Prowadzą negocjacje w sprawie korzystania z obiektu oraz zarządzania obiektem i jego utrzymywania podczas nagrań. Kierownicy produkcji ds. lokacji zarządzają bezpieczeństwem i ochroną ekipy filmowej na miejscu.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Szukasz miejsc pasujących do scenariusza",
+   "Negocjujesz warunki z właścicielem obiektu",
+   "Organizujesz logistykę dnia zdjęciowego",
+   "Odpowiadasz za bezpieczeństwo ekipy na miejscu"
+  ]
+ },
+ {
+  "id": 1794,
+  "name": "Kierownik techniczny",
+  "desc": "Kierownicy techniczni koordynują specjalistyczne warsztaty, które konstruują, budują, przygotowują, dostosowują i konserwują elementy wykorzystywane na scenie. Ich praca opiera się na wizji artystycznej, harmonogramach i ogólnej dokumentacji produkcji. Współpracują oni z projektantami zaangażowanymi w produkcję, ekipą produkcyjną i innymi służbami organizacji.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Czytasz projekty i dokumentację produkcji",
+   "Rozdzielasz zadania między warsztaty",
+   "Pilnujesz terminów budowy dekoracji",
+   "Uzgadniasz poprawki z projektantami"
+  ]
+ },
+ {
+  "id": 1795,
+  "name": "Pirotechnik",
+  "desc": "Pirotechnicy kontrolują elementy pirotechniczne przedstawienia w oparciu o koncepcję artystyczną lub twórczą, w interakcji z wykonawcami. Ich praca ma wpływ na wyniki innych techników obsługi i pozostaje pod ich wpływem. W związku z tym technicy obsługi ściśle współpracują z projektantami, technikami obsługi i wykonawcami. Pirotechnicy przygotowują materiały pirotechniczne, nadzorują instalację, kierują ekipą techniczną, programują urządzenia i obsługują system pirotechniczny. Stosowanie materiałów wybuchowych i materiału łatwopalnego w pobliżu wykonawców i widowni sprawia, że jest to zawód wysokiego ryzyka.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Przygotowujesz materiały pirotechniczne",
+   "Nadzorujesz instalację efektów",
+   "Programujesz urządzenia odpalające",
+   "Obsługujesz system podczas przedstawienia"
+  ]
+ },
+ {
+  "id": 1796,
+  "name": "Realizator światła",
+  "desc": "Realizatorzy światła opracowują koncepcję oświetlenia dla przedstawienia i nadzorują jej realizację. Ich praca opiera się na badaniu informacji i wizji artystycznej. Ich projekt powstaje pod wpływem innych projektów i wpływa na nie i musi być zgodny z tymi projektami i ogólną wizją artystyczną. W związku z tym realizatorzy światła ściśle współpracują z dyrektorami artystycznymi, operatorami i zespołem artystycznym. Podczas prób i przedstawień udzielają wskazówek operatorom w celu uzyskania optymalnej synchronizacji i manewrowania.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Wymyślasz koncepcję oświetlenia spektaklu",
+   "Zgrywasz pomysł z reżyserem i scenografem",
+   "Oglądasz próby i dopracowujesz światło",
+   "Dajesz wskazówki operatorom o czasie zmian"
+  ]
+ },
+ {
+  "id": 1797,
+  "name": "Rekwizytor",
+  "desc": "Rekwizytorzy ustawiają, przygotowują, sprawdzają i konserwują przedmioty używane na scenie przez aktorów lub inne małe ruchome przedmioty zwane rekwizytami. Współpracują z ekipą techniczną w rozładowywaniu, instalacji i przygotowaniu rekwizytów. W trakcie przedstawienia umieszczają rekwizyty, przekazują je aktorom lub odbierają je od nich.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Przygotowujesz rekwizyty przed przedstawieniem",
+   "Sprawdzasz, czy wszystko działa",
+   "Układasz przedmioty za kulisami według listy",
+   "Podajesz rekwizyty aktorom w trakcie"
+  ]
+ },
+ {
+  "id": 1798,
+  "name": "Reżyser pokazów pirotechnicznych",
+  "desc": "Reżyserzy pokazów pirotechnicznych opracowują koncepcję konstrukcji pirotechnicznej dla przedstawienia i nadzorują jej realizację. Ich praca opiera się na badaniu informacji i wizji artystycznej. Ich projekt powstaje pod wpływem innych projektów i wpływa na nie i musi być zgodny z tymi projektami i ogólną wizją artystyczną. W związku z tym reżyserzy pokazów pirotechnicznych ściśle współpracują z dyrektorami artystycznymi, operatorami i zespołem artystycznym. Podczas prób i przedstawień udzielają wskazówek operatorom w celu uzyskania optymalnej synchronizacji i manewrowania.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Projektujesz układ efektów pirotechnicznych",
+   "Dopasowujesz pokaz do muzyki i wizji",
+   "Układasz scenariusz pokazu w czasie",
+   "Kierujesz operatorami podczas prób"
+  ]
+ },
+ {
+  "id": 1799,
+  "name": "Statysta",
+  "desc": "Statyści wykonują czynności w tle lub w tłumie podczas filmowania. Nie wpływają oni bezpośrednio na akcję, ale są istotni dla stworzenia pewnej atmosfery.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Czekasz na wezwanie na plan",
+   "Wykonujesz proste czynności w tle",
+   "Powtarzasz te same ruchy w każdym ujęciu",
+   "Słuchasz poleceń asystenta reżysera"
+  ]
+ }
+]

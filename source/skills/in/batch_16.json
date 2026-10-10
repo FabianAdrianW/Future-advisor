@@ -1,0 +1,722 @@
+[
+ {
+  "id": 960,
+  "name": "Technik ds. kontroli jakości w przemyśle chemicznym",
+  "desc": "Technicy ds. kontroli jakości w przemyśle chemicznym przeprowadzają kontrole i precyzyjne pomiary w celu zbadania i zapewnienia jakości produktów za pomocą sterowanych komputerowo maszyn i systemów.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Wykonujesz kontrole i precyzyjne pomiary",
+   "Obsługujesz maszyny sterowane komputerowo",
+   "Badasz jakość próbek produktu",
+   "Zapisujesz wyniki i zgłaszasz odchylenia"
+  ]
+ },
+ {
+  "id": 961,
+  "name": "Technik logistyki odpadów niebezpiecznych",
+  "desc": "Technicy logistyki odpadów niebezpiecznych unieszkodliwiają materiały, które są zapalne, korozyjne, reaktywne lub toksyczne bądź mają kilka takich niebezpiecznych cech lub stykały się z substancjami o takich cechach. Usuwają odpady z zakładów przemysłowych lub gospodarstw domowych i transportują je do zakładu przetwarzania w celu zapewnienia, że są one unieszkodliwiane i usuwane zgodnie z przepisami. Mogą również doradzać w kwestii właściwego przetwarzania odpadów niebezpiecznych oraz pomagać przy usuwaniu wycieków niebezpiecznych odpadów.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Zbierasz odpady niebezpieczne z zakładów",
+   "Transportujesz je do zakładu przetwarzania",
+   "Pomagasz usuwać wycieki odpadów",
+   "Doradzasz, jak je prawidłowo przetwarzać"
+  ]
+ },
+ {
+  "id": 962,
+  "name": "Technik technologii chemicznej",
+  "desc": "Technicy technologii chemicznej przetwarzają surowce w celu opracowania i testowania produktów chemicznych. Pracują również nad poprawą funkcjonowania zakładów i procesów chemicznych.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Przetwarzasz surowce na produkty chemiczne",
+   "Testujesz nowe produkty w laboratorium",
+   "Obserwujesz przebieg procesów w zakładzie",
+   "Wskazujesz, jak poprawić proces"
+  ]
+ },
+ {
+  "id": 963,
+  "name": "Technik ds. kalibracji",
+  "desc": "Technicy ds. kalibracji testują i kalibrują sprzęt elektryczny i elektroniczny. Kierują się schematami i innymi rysunkami technicznymi, żeby opracować procedury badawcze dla każdego produktu.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Testujesz sprzęt elektryczny i elektroniczny",
+   "Kalibrujesz przyrządy do wzorca",
+   "Czytasz schematy i rysunki techniczne",
+   "Piszesz procedurę badań dla produktu"
+  ]
+ },
+ {
+  "id": 964,
+  "name": "Technik elektromechanik",
+  "desc": "Technicy elektromechanicy współpracują z inżynierami elektromechaniki przy opracowywaniu urządzeń elektromechanicznych. Technicy elektromechanicy są odpowiedzialni za konstruowanie, instalację, testowanie, monitorowanie i konserwację urządzeń, obwodów i systemów elektromechanicznych. Badanie przeprowadzają przy użyciu przyrządów do badania, takich jak oscyloskopy i woltomierze. Technicy elektromechanicy wykorzystują również sprzęt do lutowania i narzędzia ręczne do prowadzenia napraw urządzeń elektromechanicznych.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Konstruujesz urządzenia elektromechaniczne",
+   "Testujesz obwody oscyloskopem i woltomierzem",
+   "Lutujesz uszkodzone połączenia w urządzeniach",
+   "Monitorujesz i konserwujesz systemy"
+  ]
+ },
+ {
+  "id": 965,
+  "name": "Technik elektryk",
+  "desc": "Technicy elektrycy współpracują z inżynierami elektrykami przy prowadzeniu elektrycznych badań technicznych. Wykonują zadania techniczne i pomagają w projektowaniu, testowaniu, wytwarzaniu i eksploatacji urządzeń i instalacji elektrycznych.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Wykonujesz elektryczne badania techniczne",
+   "Pomagasz projektować instalacje elektryczne",
+   "Testujesz urządzenia przed uruchomieniem",
+   "Obsługujesz instalacje i urządzenia w eksploatacji"
+  ]
+ },
+ {
+  "id": 966,
+  "name": "Technik urządzeń i systemów energetyki wodnej",
+  "desc": "Technicy urządzeń i systemów energetyki wodnej instalują i utrzymują systemy w elektrowniach wodnych. Przeprowadzają kontrole, analizują problemy i dokonują napraw. Zapewniają funkcjonowanie turbin zgodnie z regulacjami oraz pomagają inżynierom elektrowni wodnych w budowie turbin.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Instalujesz systemy w elektrowni wodnej",
+   "Kontrolujesz turbiny i pozostałe urządzenia",
+   "Analizujesz problemy i naprawiasz usterki",
+   "Pilnujesz zgodności pracy turbin z przepisami"
+  ]
+ },
+ {
+  "id": 967,
+  "name": "Inżynier ds. dystrybucji energii elektrycznej",
+  "desc": "Inżynierowie ds. dystrybucji energii elektrycznej projektują i eksploatują obiekty, które przesyłają energię z systemu dystrybucyjnego do konsumentów. Badają metody służące do optymalizacji dystrybucji energii i zapewniają zaspokojenie potrzeb konsumentów. Zapewniają również zgodność z przepisami w zakresie bezpieczeństwa poprzez monitorowanie zautomatyzowanych procesów w zakładach i kierowanie procesem.",
+  "path": "Inżynieria i technika > Inżynierowie elektrycy i elektronicy",
+  "tasks": [
+   "Projektujesz obiekty rozdzielające energię",
+   "Badasz sposoby optymalizacji dystrybucji",
+   "Monitorujesz zautomatyzowane procesy w zakładach",
+   "Sprawdzasz zgodność z przepisami bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 968,
+  "name": "Inżynier ds. technologii elektromagnetycznych",
+  "desc": "Inżynierowie ds. technologii elektromagnetycznych projektują i opracowują systemy, urządzenia i części elektromagnetyczne, takie jak elektromagnesy w głośnikach, blokady elektromagnetyczne, magnesy przewodzące w magnetycznym rezonansie oraz magnesy w silnikach elektrycznych.",
+  "path": "Inżynieria i technika > Inżynierowie elektrycy i elektronicy",
+  "tasks": [
+   "Projektujesz elektromagnesy do głośników i silników",
+   "Opracowujesz magnesy do rezonansu magnetycznego",
+   "Tworzysz blokady elektromagnetyczne",
+   "Symulujesz pola elektromagnetyczne w komputerze"
+  ]
+ },
+ {
+  "id": 969,
+  "name": "Inżynier elektroenergetyk",
+  "desc": "Inżynierowie elektroenergetycy projektują i opracowują systemy, które generują energię elektryczną, oraz opracowują strategie na rzecz poprawy istniejących systemów wytwarzania energii elektrycznej. Dążą do pogodzenia zrównoważonych rozwiązań ze skutecznymi i przystępnymi rozwiązaniami. Angażują się w projekty, w których wymagana jest dostawa energii elektrycznej.",
+  "path": "Inżynieria i technika > Inżynierowie elektrycy i elektronicy",
+  "tasks": [
+   "Projektujesz systemy wytwarzania energii",
+   "Planujesz ulepszenia istniejących elektrowni",
+   "Porównujesz rozwiązania pod kątem zrównoważenia",
+   "Włączasz się w projekty wymagające dostaw energii"
+  ]
+ },
+ {
+  "id": 970,
+  "name": "Inżynier elektromechanik",
+  "desc": "Inżynierowie elektromechanicy projektują i opracowują sprzęt i maszyny wykorzystujące zarówno technologię elektryczną, jak i mechaniczną. Wykonują szkice i przygotowują dokumenty określające zamówienia materiałowe, proces montażu i inne specyfikacje techniczne. Inżynierowie elektromechanicy badają i oceniają prototypy. Nadzorują proces wytwarzania.",
+  "path": "Inżynieria i technika > Inżynierowie elektrycy i elektronicy",
+  "tasks": [
+   "Szkicujesz maszyny i ich układ",
+   "Przygotowujesz dokumenty z materiałami i montażem",
+   "Badasz i oceniasz prototypy",
+   "Nadzorujesz wytwarzanie urządzeń"
+  ]
+ },
+ {
+  "id": 971,
+  "name": "Inżynier górnik elektryk",
+  "desc": "Inżynierowie górnicy elektrycy nadzorują zakup, instalację i konserwację sprzętu elektrycznego, wykorzystując znajomość zasad elektrycznych i elektronicznych. Organizują wymianę i naprawę sprzętu elektrycznego i jego części składowych.",
+  "path": "Inżynieria i technika > Inżynierowie elektrycy i elektronicy",
+  "tasks": [
+   "Nadzorujesz zakup sprzętu elektrycznego",
+   "Pilnujesz instalacji urządzeń w kopalni",
+   "Organizujesz konserwację i naprawy",
+   "Organizujesz wymianę zużytych części"
+  ]
+ },
+ {
+  "id": 972,
+  "name": "Inżynier-projektant podstacji",
+  "desc": "Inżynierowie-projektanci podstacji projektują podstacje średniego i wysokiego napięcia, wykorzystywane do przesyłania, dystrybucji i wytwarzania energii elektrycznej. Opracowują metody efektywnego funkcjonowania procesu energetycznego i zapewniają zgodność z normami bezpieczeństwa i ochrony środowiska.",
+  "path": "Inżynieria i technika > Inżynierowie elektrycy i elektronicy",
+  "tasks": [
+   "Projektujesz podstacje średniego i wysokiego napięcia",
+   "Opracowujesz układ urządzeń na terenie podstacji",
+   "Sprawdzasz zgodność z normami bezpieczeństwa",
+   "Oceniasz wpływ obiektu na środowisko"
+  ]
+ },
+ {
+  "id": 973,
+  "name": "Analityk systemów telekomunikacyjnych",
+  "desc": "Analitycy systemów telekomunikacyjnych dokonują przeglądu, analizują i oceniają potrzeby i systemy telekomunikacyjne organizacji. Zapewniają szkolenia w zakresie cech i funkcji systemu telekomunikacyjnego.",
+  "path": "Inżynieria i technika > Inżynierowie elektrycy i elektronicy",
+  "tasks": [
+   "Analizujesz potrzeby łączności w organizacji",
+   "Oceniasz działanie istniejących systemów",
+   "Porównujesz możliwości systemów z wymaganiami",
+   "Szkolisz użytkowników z funkcji systemu"
+  ]
+ },
+ {
+  "id": 974,
+  "name": "Inżynier ds. komunikacji",
+  "desc": "Inżynierowie ds. komunikacji projektują, budują, testują i utrzymują systemy i sieci telekomunikacyjne, w tym urządzenia radiowe i nadawcze. \\ Analizują oni potrzeby i wymogi klientów, zapewniają, aby sprzęt spełniał przepisy, oraz przygotowują i przedstawiają sprawozdania i wnioski dotyczące problemów związanych z telekomunikacją. Inżynierowie ds. komunikacji projektują i nadzorują świadczenie usług na wszystkich etapach, nadzorując instalację i użytkowanie sprzętu i urządzeń telekomunikacyjnych, przygotowując dokumentację i zapewniając szkolenia dla pracowników przedsiębiorstwa po zainstalowaniu nowego wyposażenia.",
+  "path": "Inżynieria i technika > Inżynierowie elektrycy i elektronicy",
+  "tasks": [
+   "Projektujesz systemy i sieci telekomunikacyjne",
+   "Analizujesz wymagania klientów",
+   "Nadzorujesz instalację sprzętu",
+   "Szkolisz pracowników po uruchomieniu systemu"
+  ]
+ },
+ {
+  "id": 975,
+  "name": "Mistrz produkcji w budownictwie",
+  "desc": "Mistrzowie produkcji w budownictwie śledzą realizację wszystkich etapów procesu budowy. Koordynują pracę różnych zespołów, przydzielają zadania i rozwiązują problemy.",
+  "path": "Budownictwo i architektura > Mistrzowie produkcji w budownictwie",
+  "tasks": [
+   "Śledzisz postęp wszystkich etapów budowy",
+   "Koordynujesz pracę różnych brygad",
+   "Przydzielasz zadania na dany dzień",
+   "Rozwiązujesz problemy na placu budowy"
+  ]
+ },
+ {
+  "id": 976,
+  "name": "Mistrz produkcji w budownictwie podwodnym",
+  "desc": "Mistrzowie produkcji w budownictwie podwodnym monitorują podwodne projekty budowlane, takie jak tunele, śluzy i filary mostów. Kierują pracą nurków zatrudnionych na budowie, instruują ich oraz dbają, aby nurkowie przestrzegali przepisów bezpieczeństwa.",
+  "path": "Budownictwo i architektura > Mistrzowie produkcji w budownictwie",
+  "tasks": [
+   "Monitorujesz podwodne prace budowlane",
+   "Kierujesz pracą nurków na budowie",
+   "Instruujesz nurków przed zadaniem",
+   "Pilnujesz przestrzegania przepisów bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 977,
+  "name": "Instalator sieci wodno-kanalizacyjnej",
+  "desc": "Instalatorzy sieci wodno-kanalizacyjnej instalują rury kanalizacyjne do transportowania ścieków poza budynki do jednolitej części wód lub oczyszczalni ścieków. Wykopują rowy i kładą w nich rury, upewniając się, że są umieszczone pod właściwym kątem i są wodoszczelnie podłączone. Instalatorzy sieci wodno-kanalizacyjnej budują również inne elementy infrastruktury kanalizacyjnej, takie jak studzienki, oraz utrzymują i naprawiają istniejące systemy.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Wykopujesz rowy pod rury",
+   "Układasz rury pod właściwym kątem",
+   "Łączysz rury tak, by były wodoszczelne",
+   "Budujesz studzienki i naprawiasz sieci"
+  ]
+ },
+ {
+  "id": 978,
+  "name": "Instalator systemów odwadniania i nawadniania",
+  "desc": "Instalatorzy systemów odwadniania i nawadniania budują niezbędną infrastrukturę do nawadniania gleby, zwykle do celów rolniczych. Mogą specjalizować się w co najmniej jednym typie stacjonarnych systemów nawadniania.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Planujesz przebieg instalacji nawadniającej",
+   "Układasz rury i przewody na polu",
+   "Montujesz stałe systemy nawadniania",
+   "Sprawdzasz, czy woda dociera do całego pola"
+  ]
+ },
+ {
+  "id": 979,
+  "name": "Konserwator urządzeń oczyszczania ścieków",
+  "desc": "Konserwatorzy urządzeń oczyszczania ścieków zajmują się czyszczeniem i konserwacją systemów septycznych. Naprawiają uszkodzenia i usterki, dbają, aby zbiorniki były czyszczone i konserwowane oraz obsługują maszyny do czyszczenia i konserwacji zgodnie z procedurami bezpieczeństwa.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Czyścisz zbiorniki i systemy septyczne",
+   "Naprawiasz uszkodzenia i usterki",
+   "Obsługujesz maszyny do czyszczenia",
+   "Stosujesz procedury bezpieczeństwa przy pracy"
+  ]
+ },
+ {
+  "id": 980,
+  "name": "Monter instalacji gazowych",
+  "desc": "Monterzy instalacji gazowych instalują i konserwują urządzenia i instalacje gazowe w obiektach lub budynkach. Montują urządzenia zgodnie z przepisami, naprawiają usterki oraz badają wycieki i inne problemy. Dokonują przeglądów urządzeń i doradzają w zakresie użytkowania i serwisowania urządzeń i instalacji gazowych.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Montujesz rury i urządzenia gazowe",
+   "Badasz instalację pod kątem nieszczelności",
+   "Naprawiasz usterki w istniejących instalacjach",
+   "Doradzasz, jak bezpiecznie korzystać z urządzeń"
+  ]
+ },
+ {
+  "id": 981,
+  "name": "Monter instalacji i urządzeń grzewczych",
+  "desc": "Monterzy instalacji i urządzeń grzewczych zajmują się instalacją i utrzymaniem instalacji i urządzeń gazowych, elektrycznych, grzewczych na paliwa stałe i wielopaliwowe oraz wentylacyjne działających jako samodzielne systemy grzewcze i wentylacyjne lub wbudowanych w maszyny i urządzenia transportowe. Postępują zgodnie z instrukcjami i planami, wykonują prace w zakresie utrzymania systemów, przeprowadzają kontrole bezpieczeństwa i dokonują napraw systemów.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Czytasz plany i instrukcje montażu",
+   "Podłączasz urządzenia grzewcze i wentylację",
+   "Kontrolujesz bezpieczeństwo działających systemów",
+   "Znajdujesz przyczynę awarii i naprawiasz"
+  ]
+ },
+ {
+  "id": 982,
+  "name": "Monter instalacji i urządzeń sanitarnych",
+  "desc": "Monterzy instalacji i urządzeń sanitarnych instalują elementy łazienkowe. Wykonują niezbędne pomiary, przygotowują pomieszczenie, usuwają w razie potrzeby stare elementy, a następnie instalują nowe wyposażenie łazienki wraz z podłączeniem przewodów wodociągowych, gazowych i kanalizacyjnych oraz linii elektrycznych.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Mierzysz łazienkę i przygotowujesz pomieszczenie",
+   "Demontujesz stare urządzenia sanitarne",
+   "Montujesz umywalkę, wannę i toaletę",
+   "Podłączasz rury wodne i kanalizacyjne"
+  ]
+ },
+ {
+  "id": 983,
+  "name": "Monter sieci wodnych i kanalizacyjnych",
+  "desc": "Monterzy sieci wodnych i kanalizacyjnych zajmują się montażem i utrzymaniem urządzeń odwadniających wykorzystywanych w systemach kanalizacyjnych, takich jak rury i zawory. Analizują projekt i zapewniają prawidłową instalację systemu odwadniania oraz wykonują prace konserwacyjne i naprawcze.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Analizujesz projekt sieci przed montażem",
+   "Układasz rury i montujesz zawory",
+   "Sprawdzasz, czy odwodnienie działa prawidłowo",
+   "Konserwujesz i naprawiasz uszkodzone odcinki"
+  ]
+ },
+ {
+  "id": 984,
+  "name": "Monter wodnych instalacji przeciwpożarowych",
+  "desc": "Monterzy wodnych instalacji przeciwpożarowych są odpowiedzialni za instalację systemów ochrony przeciwpożarowej wyposażonych w tryskacze wody. Łączą przewody, zestawy rur i niezbędne akcesoria. Monterzy wodnych instalacji przeciwpożarowych sprawdzają również systemy pod kątem wycieków.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Łączysz przewody i zestawy rur",
+   "Montujesz tryskacze pod sufitem hali",
+   "Dobierasz i mocujesz potrzebne akcesoria",
+   "Sprawdzasz system pod kątem wycieków"
+  ]
+ },
+ {
+  "id": 985,
+  "name": "Pracownik obsługi rurociągu",
+  "desc": "Pracownicy obsługi rurociągów obsługują różne urządzenia w celu utrzymania rurociągów w odpowiednim stanie technicznym. Przeprowadzają kontrole odchyleń i stosują substancje chemiczne w zależności od potrzeb i celu czyszczenia (np. korozja).",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Obsługujesz urządzenia do utrzymania rurociągu",
+   "Kontrolujesz odchylenia od normalnego stanu",
+   "Czyścisz rury z osadów i korozji",
+   "Zapisujesz wyniki kontroli odcinków"
+  ]
+ },
+ {
+  "id": 986,
+  "name": "Pracownik obsługi sieci wodno-kanalizacyjnej",
+  "desc": "Pracownicy obsługi sieci wodno-kanalizacyjnej zajmują się utrzymaniem systemów kanalizacyjnych, które usuwają i transportują ścieki. Dokonują inspekcji rur, pompowni i kanałów ściekowych pod kątem wycieków lub innych usterek oraz dokonują niezbędnych napraw. Usuwają zatory i wykonują prace konserwacyjne, wykorzystując w tym celu mapy sieci i specjalistyczne oprogramowanie.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Sprawdzasz rury, kanały i pompownie pod kątem usterek",
+   "Udrażniasz zatory w kanalizacji",
+   "Naprawiasz uszkodzone odcinki sieci",
+   "Szukasz miejsca awarii na mapie sieci"
+  ]
+ },
+ {
+  "id": 987,
+  "name": "Pracownik obsługi sieci wodociągowej",
+  "desc": "Pracownicy obsługi sieci wodociągowej zajmują się utrzymaniem rur i pompowni wykorzystywanych do dostaw wody, odprowadzania ścieków i kanalizacji. Wykonują one planowane prace konserwacyjne i naprawy oraz usuwają zatory w rurach i kanalizacji.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Wykonujesz planowane przeglądy rur i pomp",
+   "Naprawiasz pęknięte przewody wodociągowe",
+   "Usuwasz zatory w rurach i kanalizacji",
+   "Zamykasz i otwierasz zasuwy w sieci"
+  ]
+ },
+ {
+  "id": 988,
+  "name": "Specjalista ds. obsługi systemów nawadniania i odwadniania",
+  "desc": "Specjaliści ds. obsługi systemów nawadniania i odwadniania specjalizują się w instalacji, utrzymaniu i naprawie tryskaczy, rur i innych systemów nawadniania. Obsługują maszyny wykorzystywane do obsługi systemów nawadniających i zapewniają zgodność z normami w zakresie ochrony środowiska.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Montujesz zraszacze i rury nawadniające",
+   "Naprawiasz uszkodzone elementy systemów",
+   "Obsługujesz maszyny do kopania rowów pod rury",
+   "Pilnujesz zgodności z normami środowiskowymi"
+  ]
+ },
+ {
+  "id": 989,
+  "name": "Specjalista ds. uzdatniania wody",
+  "desc": "Specjaliści ds. uzdatniania wody instalują systemy odzysku, filtrowania, przechowywania i dystrybucji wody z różnych źródeł, takich jak woda deszczowa i szara woda.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Montujesz zbiorniki na wodę deszczową",
+   "Instalujesz filtry i układy odzysku wody",
+   "Podłączasz rury, którymi woda trafia do budynku",
+   "Sprawdzasz, czy system działa poprawnie"
+  ]
+ },
+ {
+  "id": 990,
+  "name": "Glazurnik",
+  "desc": "Glazurnicy kładą płytki na ściany i podłogi. Tną płytki, aby uzyskać właściwy rozmiar i kształt, przygotowują powierzchnię i umieszczają płytki w miejscu, upewniając się, że są równo położone. Glazurnicy mogą również brać udział projektach artystycznych, które mogą obejmować wykonywanie mozaik.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Przygotowujesz ścianę lub podłogę pod płytki",
+   "Tniesz płytki na właściwy rozmiar",
+   "Przyklejasz płytki i wyrównujesz je",
+   "Układasz mozaiki i wzory"
+  ]
+ },
+ {
+  "id": 991,
+  "name": "Monter podłóg drewnianych",
+  "desc": "Monterzy podłóg drewnianych układają podłogi wykonane z litego drewna. Przygotowują powierzchnię, przycinają parkiet lub elementy desek na wymiar, a następnie kładą je według ustalonego wzoru, upewniając się, że są równo położone.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Przygotowujesz i wyrównujesz podłoże",
+   "Przycinasz deski i klepki na wymiar",
+   "Układasz parkiet w ustalonym wzorze",
+   "Sprawdzasz, czy powierzchnia jest równa"
+  ]
+ },
+ {
+  "id": 992,
+  "name": "Posadzkarz",
+  "desc": "Posadzkarze kładą płytki z prefabrykatów lub zwoje materiałów podłogowych, takich jak linoleum, panele winylowe, guma lub korek, które służą jako pokrycie podłogi.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Przygotowujesz podłoże pod nowe pokrycie",
+   "Odmierzasz i tniesz rolki materiału",
+   "Układasz linoleum, panele winylowe lub korek",
+   "Dopasowujesz brzegi przy ścianach"
+  ]
+ },
+ {
+  "id": 993,
+  "name": "Układacz wykładziny",
+  "desc": "Układacze wykładziny układają wykładzinę jako pokrycia podłogi. Przycinają wykładzinę na wymiar, przygotowują powierzchnię i rozkładają wykładzinę.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Mierzysz pomieszczenie i liczysz materiał",
+   "Przycinasz wykładzinę nożem na wymiar",
+   "Przygotowujesz podłoże i usuwasz nierówności",
+   "Rozkładasz i mocujesz wykładzinę przy listwach"
+  ]
+ },
+ {
+  "id": 994,
+  "name": "Szklarz",
+  "desc": "Szklarze umieszczają szyby w oknach i innych elementach konstrukcyjnych, takich jak szklane drzwi, ściany, elewacje i inne konstrukcje.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Mierzysz otwory okienne i drzwiowe",
+   "Przygotowujesz ramę przed wstawieniem szkła",
+   "Wstawiasz i mocujesz szyby",
+   "Uszczelniasz krawędzie wstawionej szyby"
+  ]
+ },
+ {
+  "id": 995,
+  "name": "Szklarz samochodowy",
+  "desc": "Szklarze samochodowi montują szyby w pojazdach silnikowych z uwzględnieniem specyfikacji producenta samochodu, takich jak rodzaj szkła, grubość, wielkość i kształt. Zamawiają i dokonują przeglądu szyb w poszczególnych modelach samochodowych i przygotowują uszkodzone powierzchnie do montażu nowego szkła.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Sprawdzasz uszkodzoną szybę i model auta",
+   "Zamawiasz szybę o właściwych parametrach",
+   "Usuwasz pękniętą szybę i czyścisz ramkę",
+   "Montujesz nową szybę zgodnie z wymaganiami producenta"
+  ]
+ },
+ {
+  "id": 996,
+  "name": "Monter sufitów",
+  "desc": "Monterzy sufitów instalują sufity w budynkach. Stosują różne techniki w zależności od sytuacji – na przykład jeśli szczególnie ważna jest odporność ogniowa lub gdy potrzebna jest przestrzeń między sufitem podwieszanym a następnym piętrem – lub specjalizują się w jednej z nich.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Wyznaczasz poziom sufitu na ścianach",
+   "Montujesz stelaż pod sufit podwieszany",
+   "Mocujesz płyty lub panele sufitowe",
+   "Dobierasz technikę do wymagań budynku"
+  ]
+ },
+ {
+  "id": 997,
+  "name": "Tynkarz",
+  "desc": "Tynkarze kładą tynki wykonane z gipsu, cementu lub innych roztworów jako gładkie wykończenie ścian. Mieszają suchy tynk z wodą, a następnie rozprowadzają otrzymaną pastę na ścianie. Przed utwardzeniem tynk jest wygładzany i tworzy trwałą powłokę na ścianie.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Mieszasz suchy tynk z wodą",
+   "Nakładasz pastę tynkarską na ścianę",
+   "Wygładzasz tynk przed stwardnieniem",
+   "Wykonujesz ozdobne elementy sztukatorskie"
+  ]
+ },
+ {
+  "id": 998,
+  "name": "Monter izolacji budowlanych",
+  "desc": "Monterzy izolacji budowlanych instalują różne materiały izolacyjne w celu ochrony konstrukcji lub materiałów przed ciepłem, zimnem i hałasem z otoczenia.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Mierzysz powierzchnie do ocieplenia",
+   "Tniesz płyty i maty izolacyjne",
+   "Mocujesz izolację na ścianach i dachu",
+   "Uszczelniasz miejsca, gdzie ucieka ciepło"
+  ]
+ },
+ {
+  "id": 999,
+  "name": "Specjalista obsługi systemów grzewczych, wentylacyjnych, klimatyzacji i chłodzenia",
+  "desc": "Specjaliści obsługi systemów grzewczych, wentylacyjnych, klimatyzacji i chłodzenia zajmują się instalacją i utrzymaniem przemysłowych systemów grzewczych, klimatyzacji i ewentualnie chłodzenia. Konfigurują piece, termostaty, przewody, otwory wentylacyjne i inne urządzenia niezbędne do zapewnienia kontrolowanego przepływu i oczyszczania powietrza. Wykonują również naprawy.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Montujesz piece, termostaty i przewody powietrzne",
+   "Ustawiasz otwory wentylacyjne w hali",
+   "Regulujesz przepływ i oczyszczanie powietrza",
+   "Naprawiasz awarie klimatyzacji i chłodzenia"
+  ]
+ },
+ {
+  "id": 1000,
+  "name": "Audytor efektywności energetycznej",
+  "desc": "Audytorzy efektywności energetycznej określają charakterystykę energetyczną budynków. Tworzą świadectwo charakterystyki energetycznej (EPC), które wskazuje, jakie jest szacowane zużycie energii przez daną nieruchomość. Ponadto udzielają porad na temat sposobów lepszego oszczędzania energii.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Oglądasz budynek, ściany, okna i dach",
+   "Oceniasz szacowane zużycie energii",
+   "Przygotowujesz świadectwo charakterystyki energetycznej",
+   "Doradzasz właścicielowi, gdzie oszczędzić energię"
+  ]
+ },
+ {
+  "id": 1001,
+  "name": "Audytor energetyczny",
+  "desc": "Audytorzy energetyczni doradzają osobom prywatnym w zakresie dostaw energii do domów. Oceniają indywidualne potrzeby i polecają odpowiednie źródło energii i dostawcę, próbując zapewnić sprzedaż energii. Udzielają również porad w zakresie ekonomicznych i środowiskowych zalet różnych rodzajów energii oraz opracowują plany energetyczne zgodne z przepisami oraz wymaganiami technicznymi i warunkami zamieszkania.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Rozmawiasz z klientem o potrzebach domu",
+   "Porównujesz źródła energii i dostawców",
+   "Tłumaczysz zalety ekonomiczne i środowiskowe",
+   "Układasz plan energetyczny zgodny z przepisami"
+  ]
+ },
+ {
+  "id": 1002,
+  "name": "Inspektor budowy mostów",
+  "desc": "Inspektorzy budowy mostów prowadzą inspekcje mostów pod kątem stanu połączeń, pęknięć, rdzy i innych usterek. Prowadzą również lub organizują konserwację budowli.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Sprawdzasz połączenia i łożyska mostu",
+   "Szukasz pęknięć, rdzy i ubytków",
+   "Robisz zdjęcia i notatki z kontroli",
+   "Organizujesz naprawy i konserwację mostu"
+  ]
+ },
+ {
+  "id": 1003,
+  "name": "Inspektor jakości obiektów budowlanych",
+  "desc": "Inspektorzy jakości obiektów budowlanych monitorują działania na większych placach budów, żeby upewnić się, że wszystko odbywa się zgodnie z normami i specyfikacjami. Zwracają szczególną uwagę na potencjalne problemy związane z bezpieczeństwem i pobierają próbki produktów w celu sprawdzenia ich zgodności z normami i specyfikacjami.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Obchodzisz plac budowy i oglądasz roboty",
+   "Porównujesz wykonanie ze specyfikacją",
+   "Pobierasz próbki materiałów do badań",
+   "Zgłaszasz zagrożenia dla bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 1004,
+  "name": "Inspektor nadzoru budowlanego",
+  "desc": "Inspektorzy nadzoru budowlanego przeprowadzają inspekcje budynków w celu określenia ich zgodności ze specyfikacjami dotyczącymi różnych aspektów oceny. Ustalają stosowność budowy, jakość i wytrzymałość oraz ogólną zgodność z przepisami.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Kontrolujesz budynek według listy wymagań",
+   "Oceniasz jakość i wytrzymałość konstrukcji",
+   "Porównujesz stan budynku z przepisami",
+   "Piszesz protokół z zaleceniami do poprawy"
+  ]
+ },
+ {
+  "id": 1005,
+  "name": "Inspektor ochrony przeciwpożarowej",
+  "desc": "Inspektorzy ochrony przeciwpożarowej przeprowadzają inspekcje budynków i nieruchomości w celu zapewnienia ich zgodności z przepisami w zakresie zapobiegania pożarom i bezpieczeństwa pożarowego oraz egzekwują przestrzeganie przepisów w obiektach naruszających przepisy. Prowadzą również działania edukacyjne, pouczając w zakresie bezpieczeństwa przeciwpożarowego i metod zapobiegania pożarom, polityk w tym zakresie oraz reagowania w razie katastrof.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Kontrolujesz drogi ewakuacyjne i oznaczenia",
+   "Sprawdzasz, czy budynek spełnia przepisy",
+   "Egzekwujesz poprawki w obiektach z naruszeniami",
+   "Szkolisz ludzi z zapobiegania pożarom"
+  ]
+ },
+ {
+  "id": 1006,
+  "name": "Inspektor składowiska odpadów",
+  "desc": "Inspektorzy składowiska odpadów koordynują działania i operacje dotyczące składowisk odpadów i ich pracowników. Analizują przepisy dotyczące gospodarowania odpadami, dbają, aby funkcjonowanie składowiska było zgodne z przepisami i kierują unieszkodliwianiem odpadów.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Czytasz przepisy o gospodarowaniu odpadami",
+   "Koordynujesz pracę ludzi i maszyn",
+   "Kontrolujesz, jak odpady są unieszkodliwiane",
+   "Zgłaszasz nieprawidłowości i ustalasz poprawki"
+  ]
+ },
+ {
+  "id": 1007,
+  "name": "Konserwator dróg",
+  "desc": "Konserwatorzy dróg przeprowadzają inspekcje i zarządzają drogami w strefach wyznaczonych do konserwacji i napraw. Przyczyniają się do bezpiecznego i bezproblemowego usprawnienia ruchu oraz sprawdzają, czy znaki drogowe, drogi i chodniki są w dobrym stanie.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Sprawdzasz stan jezdni i chodników",
+   "Oceniasz, czy znaki drogowe są czytelne",
+   "Zgłaszasz dziury i uszkodzenia nawierzchni",
+   "Organizujesz naprawy na swoim odcinku"
+  ]
+ },
+ {
+  "id": 1008,
+  "name": "Konserwator infrastruktury kolejowej",
+  "desc": "Konserwatorzy infrastruktury kolejowej przeprowadzają rutynowe kontrole torów kolejowych, linii energetycznych, punktów oznakowania, zwrotnic i innych obiektów infrastruktury kolejowej. Są również wysyłani do usuwania usterek szybko, bezpiecznie i o każdej porze dnia lub nocy.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Kontrolujesz tory, zwrotnice i oznakowanie",
+   "Sprawdzasz stan linii energetycznych przy torach",
+   "Usuwasz usterki szybko i bezpiecznie",
+   "Naprawiasz uszkodzone elementy po wezwaniu"
+  ]
+ },
+ {
+  "id": 1009,
+  "name": "Konserwator urządzeń kanalizacyjnych",
+  "desc": "Konserwatorzy urządzeń kanalizacyjnych dokonują inspekcji systemów kanalizacji i rurociągów. Robią to za pomocą przesuwanych kamer wideo, których zapisy informują, czy jest konieczność konserwacji i napraw tych systemów.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Wprowadzasz kamerę do rury lub kanału",
+   "Oglądasz nagranie i szukasz uszkodzeń",
+   "Decydujesz, co wymaga czyszczenia lub naprawy",
+   "Opisujesz stan sieci w raporcie"
+  ]
+ },
+ {
+  "id": 1010,
+  "name": "Menedżer jakości obiektów budowlanych",
+  "desc": "Menedżerowie jakości obiektów budowlanych dbają, żeby jakość robót spełniała normy określone w umowie, a także minimalne normy legislacyjne. Ustanawiają procedury sprawdzania jakości, przeprowadzania inspekcji i proponowania rozwiązań w zakresie niedociągnięć jakościowych.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Ustalasz procedury sprawdzania jakości robót",
+   "Planujesz inspekcje na kolejnych etapach budowy",
+   "Porównujesz wykonane prace z umową",
+   "Proponujesz rozwiązania dla niedociągnięć"
+  ]
+ },
+ {
+  "id": 1011,
+  "name": "Technik inżynierii lądowej",
+  "desc": "Technicy inżynierii lądowej pomagają projektować i realizować plany budowlane i wykonują zadania organizacyjne, na przykład w zakresie planowania i monitorowania oraz w zakresie przetargów i fakturowania robót budowlanych. Ponadto wyliczają zapotrzebowanie oraz pomagają w zakupie i organizacji materiałów budowlanych oraz zapewniają ich jakość. Technicy inżynierii lądowej mogą wykonywać zadania techniczne w dziedzinie inżynierii lądowej i wodnej oraz opracowywać strategie realizacji polityk w zakresie robót drogowych, sygnalizacji świetlnej, systemów kanalizacyjnych i systemów gospodarki wodnej oraz udzielać porad w tym zakresie.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Pomagasz przy projektach budowlanych",
+   "Liczysz zapotrzebowanie na materiały",
+   "Planujesz i monitorujesz postęp robót",
+   "Przygotowujesz przetargi i faktury za roboty"
+  ]
+ },
+ {
+  "id": 1012,
+  "name": "Technik inżynierii wodnej",
+  "desc": "Technicy inżynierii wodnej pomagają inżynierom w opracowywaniu i wdrażaniu systemów zaopatrzenia w wodę i uzdatniania wody. Monitorują działania w celu zapewnienia zgodności z przepisami w zakresie zdrowia i bezpieczeństwa, sprawdzają jakość wody i zapewniają wdrożenie prawodawstwa dotyczącego wody.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Pobierasz próbki wody do badań",
+   "Sprawdzasz jakość wody w systemie",
+   "Monitorujesz przestrzeganie przepisów zdrowotnych",
+   "Pomagasz projektować systemy zaopatrzenia w wodę"
+  ]
+ },
+ {
+  "id": 1013,
+  "name": "Technik ochrony przeciwpożarowej",
+  "desc": "Technicy ochrony przeciwpożarowej instalują i konserwują urządzenia ochrony przeciwpożarowej, takie jak gaśnice, alarmy pożarowe, systemy wykrywania pożaru i instalacje tryskaczowe w obiektach w celu zapewnienia zgodności z normami bezpieczeństwa i ochrony przed zagrożeniami pożarowymi. Sprawdzają sprzęt w celu zapewnienia jego funkcjonalności i dokonują napraw.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Montujesz alarmy i czujki pożarowe",
+   "Sprawdzasz gaśnice i instalacje tryskaczowe",
+   "Testujesz, czy sprzęt na pewno działa",
+   "Naprawiasz usterki w systemach pożarowych"
+  ]
+ },
+ {
+  "id": 1014,
+  "name": "Tester bezpieczeństwa pożarowego",
+  "desc": "Testerzy bezpieczeństwa pożarowego przeprowadzają szereg testów materiałów takich, jak materiały budowlane, transportowe i tekstylne, a także systemów zapobiegania pożarom i przeciwpożarowe. Mierzą między innymi odporność na działanie ognia i reakcję materiałów w skrajnych okolicznościach.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Przygotowujesz próbki materiałów do testu",
+   "Przeprowadzasz testy odporności na ogień",
+   "Mierzysz reakcję materiału w skrajnych warunkach",
+   "Testujesz systemy zapobiegania pożarom"
+  ]
+ },
+ {
+  "id": 1015,
+  "name": "Analityk ds. efektywności energetycznej",
+  "desc": "Analitycy ds. efektywności energetycznej oceniają zużycie energii w budynkach będących własnością konsumentów i przedsiębiorstw. Analizując istniejące systemy zasilania, zalecają opłacalne rozwiązania alternatywne. Analitycy ds. efektywności energetycznej sugerują poprawę efektywności, przeprowadzają analizy biznesowe i uczestniczą w opracowywaniu polityk dotyczących stosowania paliw tradycyjnych, transportu i innych czynników związanych ze zużyciem energii.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Oceniasz zużycie energii w budynkach",
+   "Analizujesz istniejące systemy zasilania",
+   "Zalecasz opłacalne rozwiązania alternatywne",
+   "Uczestniczysz w opracowywaniu polityk energetycznych"
+  ]
+ },
+ {
+  "id": 1016,
+  "name": "Doradca ds. efektywności energetycznej",
+  "desc": "Doradcy ds. efektywności energetycznej doradzają klientom w kwestiach zalet i wad różnych źródeł energii. Pomagają klientom zrozumieć taryfy energetyczne i starają się zmniejszyć zużycie energii i ślad węglowy dzięki zastosowaniu energooszczędnych produktów i metod.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Porównujesz źródła energii z klientem",
+   "Tłumaczysz, jak działają taryfy energetyczne",
+   "Proponujesz energooszczędne produkty i metody",
+   "Wyliczasz, jak zmniejszyć ślad węglowy"
+  ]
+ },
+ {
+  "id": 1017,
+  "name": "Doradca ds. oszczędzania energii",
+  "desc": "Doradcy ds. oszczędzania energii propagują oszczędzanie energii zarówno w gospodarstwach domowych, jak i w przedsiębiorstwach. Doradzają, w jaki sposób zmniejszyć zużycie energii, poprawiając efektywność energetyczną i wdrażając polityki zarządzania zapotrzebowaniem na energię.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Prowadzisz pogadanki o oszczędzaniu energii",
+   "Przygotowujesz ulotki z praktycznymi radami",
+   "Doradzasz firmie, gdzie ciąć zużycie",
+   "Pomagasz wprowadzić zasady zarządzania zapotrzebowaniem"
+  ]
+ },
+ {
+  "id": 1018,
+  "name": "Inspektor BHP na placach budów",
+  "desc": "Inspektorzy BHP na placach budów monitorują place budów i ich zgodność z przepisami w zakresie bezpieczeństwa i higieny. Przeprowadzają kontrole, określają zagrożenia dla bezpieczeństwa i zgłaszają swoje ustalenia.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Obchodzisz plac budowy z listą kontrolną",
+   "Wskazujesz zagrożenia dla bezpieczeństwa",
+   "Sprawdzasz, czy ludzie noszą kaski i uprzęże",
+   "Zgłaszasz swoje ustalenia kierownikowi"
+  ]
+ },
+ {
+  "id": 1019,
+  "name": "Inspektor do spraw kontroli infrastruktury kolejowej",
+  "desc": "Inspektorzy do spraw kontroli infrastruktury kolejowej są odpowiedzialni za sprawdzanie stanu kolei. Monitorują zgodność z normami w zakresie higieny i bezpieczeństwa oraz przeprowadzają inspekcje infrastruktury w celu wykrycia uszkodzeń lub usterek. Wykonują analizy i składają sprawozdania z ustaleń, żeby zapewnić bezpieczne utrzymanie kolei.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Oglądasz tory i inne obiekty kolejowe",
+   "Wykrywasz uszkodzenia i usterki",
+   "Sprawdzasz zgodność z normami bezpieczeństwa",
+   "Piszesz sprawozdania z ustaleń"
+  ]
+ }
+]

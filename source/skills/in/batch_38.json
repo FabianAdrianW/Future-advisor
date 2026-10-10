@@ -1,0 +1,722 @@
+[
+ {
+  "id": 2280,
+  "name": "Instruktor kulturalno-oświatowy",
+  "desc": "Instruktorzy kulturalno-oświatowi świadczą usługi rekreacyjne dla osób i dzieci na wakacjach. Organizują oni aktywności takie jak gry dla dzieci, zawody sportowe, wycieczki rowerowe, pokazy i wizyty w muzeum. Animatorzy rekreacji również reklamują swoją działalność, zarządzają budżetem dostępnym dla każdego wydarzenia i konsultują się ze swoimi kolegami.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Prowadzisz gry i zabawy dla dzieci",
+   "Organizujesz zawody sportowe i wycieczki rowerowe",
+   "Zapraszasz gości na pokazy",
+   "Pilnujesz budżetu każdego wydarzenia"
+  ]
+ },
+ {
+  "id": 2281,
+  "name": "Instruktor rekreacji ruchowej",
+  "desc": "Instruktorzy rekreacji ruchowej są odpowiedzialni za planowanie i organizowanie aktywności na wolnym powietrzu. Czasami mogą być zaangażowani w aspekty administracyjne, zadania biurowe i zadania związane z podstawą działalności i konserwacją sprzętu. Miejscem pracy instruktora rekreacji ruchowej jest głównie „teren”, ale może także pracować w pomieszczeniach.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Planujesz trasę i program zajęć",
+   "Prowadzisz grupę w terenie",
+   "Sprawdzasz i konserwujesz sprzęt",
+   "Wypełniasz dokumenty i rezerwacje"
+  ]
+ },
+ {
+  "id": 2282,
+  "name": "Instruktor survivalu",
+  "desc": "Instruktorzy survivalu prowadzą grupy na rozległe, naturalne obszary i pomagają im w samodzielnym szkoleniu podstawowych potrzeb w zakresie przetrwania, bez żadnych udogodnień ani nowoczesnych narzędzi, z których można skorzystać. Trenują oni uczestników w wyćwiczeniu umiejętności przetrwania, takich jak rozpalanie ognia, tworzenie prymitywnych urządzeń, budowa schronienia oraz zaopatrzenie w wodę i pożywienie. Dopilnowują, aby uczestnicy byli świadomi pewnych środków bezpieczeństwa, bez obniżenia poziomu przygody, ochrony środowiska i zarządzania ryzykiem.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Pokazujesz, jak budować schronienie",
+   "Uczysz rozpalania ognia w lesie",
+   "Wyjaśniasz, jak zdobyć wodę i pożywienie",
+   "Omawiasz zasady bezpieczeństwa i ochrony przyrody"
+  ]
+ },
+ {
+  "id": 2283,
+  "name": "Instruktor zajęć na wolnym powietrzu",
+  "desc": "Instruktorzy zajęć na wolnym powietrzu organizują i prowadzą rekreacyjne wycieczki plenerowe, dzięki którym uczestnicy zdobywają umiejętności takie jak piesze wędrówki, wspinaczka, jazda na nartach, jazda na snowboardzie, kajakarstwo, rafting, wspinanie po linie itp. Organizują również ćwiczenia zespołowe i warsztaty aktywnościowe dla osób znajdujących się w trudnej sytuacji materialnej. Zapewniają bezpieczeństwo uczestników i sprzętu oraz wyjaśniają środki bezpieczeństwa dla uczestników, aby także i oni się rozumieli.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Prowadzisz wędrówki, spływy i wspinaczki",
+   "Tłumaczysz uczestnikom zasady bezpieczeństwa",
+   "Sprawdzasz sprzęt przed wyjściem",
+   "Organizujesz ćwiczenia zespołowe dla grup"
+  ]
+ },
+ {
+  "id": 2284,
+  "name": "Koordynator zajęć na wolnym powietrzu",
+  "desc": "Koordynatorzy zajęć na wolnym powietrzu organizują programy robocze i zasoby (zwłaszcza personel) oraz zarządzają nimi w celu dostarczenia produktów i usług w ramach organizacji. Nadzorują i zarządzają pracownikami. Mogą oni szkolić i rozwijać personel lub planować i zarządzać tym procesem przez inne osoby. Mają dużą świadomość swoich obowiązków wobec klientów, kwestii technicznych, kwestii środowiskowych i kwestii bezpieczeństwa. Rola koordynatora zajęć na wolnym powietrzu to często rola „w terenie”, ale może ona również obejmować aspekty zarządzania i administracji.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Układasz grafik instruktorów",
+   "Nadzorujesz pracę zespołu w terenie",
+   "Szkolisz nowych pracowników",
+   "Sprawdzasz zgodność z zasadami bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 2285,
+  "name": "Pomocnik animatora",
+  "desc": "Pomocnicy animatorów pomagają w planowaniu aktywności na wolnym powietrzu, ocenie ryzyka i monitorowaniu sprzętu na wolnym powietrzu. Zarządzają zasobami i grupami na wolnym powietrzu. Pomocnicy animatorów mogą pomagać w administracji biurowej i obsłudze technicznej, a więc mogą pracować w pomieszczeniach.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Przygotowujesz sprzęt do zajęć",
+   "Oceniasz ryzyko na trasie",
+   "Pilnujesz grupy podczas aktywności",
+   "Pomagasz w biurze i obsłudze technicznej"
+  ]
+ },
+ {
+  "id": 2286,
+  "name": "Wyspecjalizowany instruktor rekreacji ruchowej",
+  "desc": "Wyspecjalizowani instruktorzy rekreacji ruchowej planują, organizują i bezpiecznie prowadzą działania instruktorów animacji ruchowej. Mogą również wspierać jednego lub więcej pomocników animatorów oraz uczestniczyć w działaniach administracyjnych, zadaniach biurowych i zadaniach związanych z podstawą działalności i utrzymaniem urządzeń. Pracują z wymagającymi klientami pod względem ich specjalnych potrzeb, umiejętności lub niepełnosprawności lub na wyższych poziomach umiejętności i w niebezpiecznych środowiskach lub warunkach.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Dostosowujesz zajęcia do potrzeb uczestnika",
+   "Prowadzisz aktywności w trudnych warunkach",
+   "Instruujesz i wspierasz pomocników",
+   "Konserwujesz specjalistyczny sprzęt"
+  ]
+ },
+ {
+  "id": 2287,
+  "name": "Asystent rekreacji ruchowej",
+  "desc": "Asystenci rekreacji ruchowej promują zdrowie i uczestnictwo w zajęciach fitness dla nowych i obecnych członków. Zapewniają czyste, bezpieczne i przyjazne otoczenie, które sprzyja regularnej obecności i zadowoleniu uczestników. Są źródłem informacji i zachęt dla wszystkich członków i w miarę możliwości aktywnie wspierają instruktorów fitness i innych pracowników.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Witasz i informujesz członków klubu",
+   "Sprzątasz i sprawdzasz sprzęt",
+   "Zachęcasz nowych do udziału w zajęciach",
+   "Pomagasz instruktorom przy grupach"
+  ]
+ },
+ {
+  "id": 2288,
+  "name": "Instruktor pilates",
+  "desc": "Instruktorzy pilates planują, uczą i dostosowują ćwiczenia na podstawie pracy i zasad Josepha Pilatesa. Gromadzą i analizują informacje dla każdego klienta, aby zagwarantować bezpieczne, właściwe i efektywne programy. Stosują zasady Pilatesa poprzez planowanie i udzielanie wspomagających, niewyczynowych lekcji. Motywują i zachęcają klientów, aby zagwarantować ich regularne uczestnictwo w sesjach.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Pytasz klientów o zdrowie i cele",
+   "Dopasowujesz ćwiczenia do osoby",
+   "Prowadzisz spokojne lekcje bez wysiłku wyczynowego",
+   "Zachęcasz do regularnych zajęć"
+  ]
+ },
+ {
+  "id": 2289,
+  "name": "Terapeuta sportowy",
+  "desc": "Terapeuci sportowi programują i nadzorują ćwiczenia rehabilitacyjne dla osób indywidualnych i grup. Pracują oni z osobami mającymi przewlekle schorzenia lub narażonymi na wysokie ryzyko ich wystąpienia. Komunikują się z pracownikami służby zdrowia i opieki zdrowotnej w kwestii stanu uczestników, używając prawidłowej terminologii medycznej oraz rozumiejąc standardowe możliwości leczenia dla stanu danej osoby. Terapeuci sportowi przyjmują holistyczne podejście do dobrostanu swoich klientów, obejmujące doradztwo w zakresie stylu życia, odżywiania i zarządzania czasem.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Planujesz ćwiczenia rehabilitacyjne",
+   "Nadzorujesz trening osób z chorobami przewlekłymi",
+   "Konsultujesz stan uczestnika z lekarzem",
+   "Doradzasz w sprawie odżywiania i stylu życia"
+  ]
+ },
+ {
+  "id": 2290,
+  "name": "Instruktor jazdy konnej",
+  "desc": "Instruktorzy jazdy konnej udzielają porad i wskazówek osobom indywidualnym i grupom w dziedzinie jazdy konnej. Prowadzą lekcje i uczą technik jazdy konnej, w tym zatrzymywania się, skręcania, jazdy pokazowej i skoków konnych. Motywują klientów i przyczyniają się do poprawy ich osiągnięć.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Uczysz zatrzymywania i skręcania",
+   "Prowadzisz lekcje skoków przez przeszkody",
+   "Pomagasz dobrać konia do jeźdźca",
+   "Poprawiasz postawę jeźdźca"
+  ]
+ },
+ {
+  "id": 2291,
+  "name": "Instruktor żeglarstwa",
+  "desc": "Instruktorzy żeglarstwa uczą teorii i praktyki bezpiecznego prowadzenia jednostki pływającej zgodnie z przepisami. Pomagają uczniom w rozwijaniu umiejętności potrzebnych do sterowania i przygotowują ich do teorii kierowania i egzaminów z kierowania. Mogą również nadzorować egzaminy kierowania obiektami pływającymi.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Tłumaczysz teorię i przepisy żeglarskie",
+   "Uczysz sterowania łodzią na wodzie",
+   "Przygotowujesz kursantów do egzaminu",
+   "Sprawdzasz łódź i kamizelki przed rejsem"
+  ]
+ },
+ {
+  "id": 2292,
+  "name": "Instruktor snowboardu",
+  "desc": "Instruktorzy snowboardu uczą grupy lub osoby indywidualne jazdy na snowboardzie. Udzielają instrukcji uczniom w różnym wieku i o różnym poziomie umiejętności, indywidualnie lub w grupach. Instruktorzy snowboardu uczą podstawowych i zaawansowanych technik jazdy na snowboardzie, pokazując ćwiczenia i przekazując uczniom informacje zwrotne. Udzielają porad na temat bezpieczeństwa i sprzętu snowboardowego.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Uczysz jazdy od podstaw",
+   "Demonstrujesz zjazdy i skręty",
+   "Doradzasz w sprawie ustawienia i sprzętu",
+   "Przekazujesz uwagi i zasady bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 2293,
+  "name": "Instruktor sportu",
+  "desc": "Instruktorzy sportu wdrażają ludzi w sport i uczą ich umiejętności wymaganych do uprawiania sportu. Mają dobrze opanowany jeden lub więcej sportów, które są często sportami ekstremalnymi i wiedzą, jak motywować innych i dzielić z nimi przyjemność z aktywności.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Pokazujesz podstawy wybranej dyscypliny",
+   "Uczysz zasad i techniki",
+   "Dobierasz ćwiczenia do poziomu",
+   "Zachęcasz osoby, które się wahają"
+  ]
+ },
+ {
+  "id": 2294,
+  "name": "Trener boksu",
+  "desc": "Trenerzy boksu szkolą osoby indywidualne lub grupy w dziedzinie boksu. Instruują klientów podczas szkoleń i uczą technik bokserskich, takich jak postawa, obrona i różnego rodzaju ciosy.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Uczysz postawy i pracy nóg",
+   "Pokazujesz proste ciosy i uniki",
+   "Trzymasz łapy do ćwiczeń",
+   "Korygujesz technikę zawodników na sparingu"
+  ]
+ },
+ {
+  "id": 2295,
+  "name": "Trener golfa",
+  "desc": "Trenerzy golfa szkolą i uczą osoby indywidualne lub grupy gry w golfa. Szkolą swoich klientów, demonstrując i objaśniając techniki takie jak prawidłowa postawa i techniki uderzeń. Udzielają uczniom informacji zwrotnych na temat tego, w jaki sposób mogą lepiej wykonywać ćwiczenia i poprawić poziom umiejętności. Trener golfa doradza, jaki sprzęt jest najlepszy dla danego ucznia.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Pokazujesz postawę i chwyt kija",
+   "Demonstrujesz techniki uderzenia",
+   "Dajesz uwagi po każdym uderzeniu",
+   "Doradzasz w wyborze kijów"
+  ]
+ },
+ {
+  "id": 2296,
+  "name": "Trener tenisa",
+  "desc": "Trenerzy tenisa udzielają porad i wskazówek osobom indywidualnym i grupom w dziedzinie gry w tenisa. Prowadzą lekcje oraz uczą zasad i technik sportowych, takich jak chwyty, uderzenia i serwy. Motywują klientów i przyczyniają się do poprawy ich osiągnięć.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Uczysz chwytów rakiety",
+   "Pokazujesz forhend, bekhend i serwis",
+   "Podajesz piłki do ćwiczeń",
+   "Wskazujesz błędy i dajesz wskazówki"
+  ]
+ },
+ {
+  "id": 2297,
+  "name": "Trener łyżwiarstwa",
+  "desc": "Trenerzy łyżwiarstwa uczą i szkolą osoby indywidualne lub grupy w łyżwiarstwie i w powiązanych dyscyplinach, takich jak łyżwiarstwo figurowe i łyżwiarstwo szybkie. Przekazują swoim klientom wiedzę teoretyczną oraz szkolą sprawność, siłę i koordynację fizyczną. Trenerzy łyżwiarstwa przygotowują i prowadzą sesje szkoleniowe. Wspierają swoich klientów w razie udziału w konkursach.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Uczysz jazdy i obrotów",
+   "Trenujesz siłę i koordynację",
+   "Planujesz sesje na lodzie",
+   "Towarzyszysz zawodnikom na zawodach"
+  ]
+ },
+ {
+  "id": 2298,
+  "name": "Trener sportu",
+  "desc": "Trenerzy sportu udzielają instruktażu w dziedzinie sportu będącej ich specjalizacją w kontekście rekreacyjnym w odniesieniu do uczestników bez uwzględnienia wieku i z uwzględnieniem wieku. Identyfikują już zdobyte umiejętności i wdrażają odpowiednie programy szkoleniowe dla grup lub osób indywidualnych, które uczą w celu rozwijania sprawności fizycznej i psychicznej uczestników. Tworzą najbardziej optymalne środowisko dla zwiększenia umiejętności uczestników i umożliwiają im maksymalizację ich osiągnięć, a jednocześnie propagują sportowe zachowania i charakter u wszystkich uczestników.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Sprawdzasz, co uczestnicy już umieją",
+   "Układasz program dla grup lub osób",
+   "Uczysz fair play",
+   "Oceniasz poprawę wyników uczestników"
+  ]
+ },
+ {
+  "id": 2299,
+  "name": "Instruktor ratownictwa",
+  "desc": "Instruktorzy ratownictwa uczą przyszłych (profesjonalnych) ratowników niezbędnych programów i metod niezbędnych do uzyskania licencji ratownika. Prowadzą szkolenia w zakresie nadzoru nad bezpieczeństwem wszystkich pływających, oceny potencjalnie niebezpiecznych sytuacji, technik pływania i nurkowania specyficznych dla danej akcji ratowniczej, czynności z zakresu pierwszej pomocy w związku z urazami związanymi z pływaniem oraz informują uczniów o obowiązkach ratowników w zakresie profilaktyki.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Uczysz rozpoznawać niebezpieczne sytuacje",
+   "Ćwiczysz ratownicze pływanie i nurkowanie",
+   "Pokazujesz pierwszą pomoc po urazach",
+   "Omawiasz profilaktykę i obowiązki ratownika"
+  ]
+ },
+ {
+  "id": 2300,
+  "name": "Pracownik do spraw kultury fizycznej i sportu",
+  "desc": "Pracownicy do spraw kultury fizycznej i sportu są odpowiedzialni za administrowanie zasadami i przepisami dotyczącymi sportu oraz za zapewnienie uczciwej gry zgodnie z zasadami i przepisami. Rola ta obejmuje stosowanie przepisów/przepisów w trakcie uprawiania sportu lub aktywności, wpływ na zdrowie, bezpieczeństwo i ochronę uczestników i innych osób podczas uprawiania sportu lub aktywności, organizowanie imprez sportowych, nawiązywanie i utrzymywanie efektywnych kontaktów roboczych z konkurentami i innymi podmiotami oraz efektywne porozumiewanie się.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Stosujesz przepisy podczas zawodów",
+   "Sprawdzasz bezpieczeństwo uczestników i obiektu",
+   "Organizujesz imprezy sportowe",
+   "Utrzymujesz kontakt z klubami i rywalami"
+  ]
+ },
+ {
+  "id": 2301,
+  "name": "Trener artystyczny",
+  "desc": "Trenerzy artystyczni badają, planują, organizują i prowadzą działalność artystyczną dla osób zajmujących się sportem w celu zapewnienia im umiejętności artystycznych, takich jak taniec, aktorstwo, ekspresja i przekaz, które są ważne dla ich działalności sportowej. Trenerzy artystyczni udostępniają osobom uprawiającym sport umiejętności techniczne, dotyczące wystąpień i artystyczne w celu udoskonalenia ich działalności sportowej.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Planujesz zajęcia z tańca i ekspresji",
+   "Uczysz sportowców występów przed publicznością",
+   "Pokazujesz ćwiczenia aktorskie",
+   "Łączysz ruch artystyczny z techniką sportu"
+  ]
+ },
+ {
+  "id": 2302,
+  "name": "Kierownik gabinetu kosmetycznego",
+  "desc": "Kierownicy gabinetów kosmetycznych nadzorują codzienne czynności i zarządzanie personelem gabinecie kosmetycznym. Zapewniają oni zadowolenie klientów, kontrolę budżetową i zarządzanie zapasami. Kierownicy gabinetów kosmetycznych tworzą i egzekwują zasady dotyczące gabinetu oraz wytyczne dotyczące czystości. Są oni również odpowiedzialni za promowanie gabinetu w celu przyciągnięcia nowych klientów.",
+  "path": "Sport i rekreacja > Kierownicy sportu, rekreacji i kultury",
+  "tasks": [
+   "Układasz grafik pracowników",
+   "Zamawiasz kosmetyki i pilnujesz zapasów",
+   "Kontrolujesz budżet gabinetu",
+   "Ustalasz zasady czystości i higieny"
+  ]
+ },
+ {
+  "id": 2303,
+  "name": "Kierownik kasyna",
+  "desc": "Kierownicy kasyna organizują i koordynują działalność zakładów oferujących gry hazardowe. Nadzorują oni codzienne operacje i ułatwiają komunikację między pracownikami a klientami. Zarządzają i szkolą pracowników i dążą do poprawy rentowności ich działalności. Przyjmują odpowiedzialność za wszystkie rodzaje działalności w zakresie gier hazardowych i zapewniają przestrzeganie odpowiednich przepisów i regulacji dotyczących hazardu.",
+  "path": "Sport i rekreacja > Kierownicy sportu, rekreacji i kultury",
+  "tasks": [
+   "Nadzorujesz codzienną pracę kasyna",
+   "Szkolisz krupierów i obsługę",
+   "Sprawdzasz zgodność z przepisami",
+   "Analizujesz rentowność całego zakładu"
+  ]
+ },
+ {
+  "id": 2304,
+  "name": "Kierownik loterii",
+  "desc": "Kierownicy loterii organizują i koordynują działania organizacji loterii. Nadzorują oni codzienne operacje i ułatwiają komunikację między pracownikami a klientami. Kontrolują oni procedury loteryjne, organizują ceny personelu szkolącego i dążą do poprawy rentowności ich działalności. Przyjmują odpowiedzialność za wszystkie działania w zakresie loterii oraz zapewniają przestrzeganie stosownych zasad i przepisów dotyczących loterii.",
+  "path": "Sport i rekreacja > Kierownicy sportu, rekreacji i kultury",
+  "tasks": [
+   "Kontrolujesz procedury losowania",
+   "Nadzorujesz pracę zespołu",
+   "Pilnujesz zgodności z przepisami loteryjnymi",
+   "Planujesz nagrody i szkolenia zespołu"
+  ]
+ },
+ {
+  "id": 2305,
+  "name": "Kierownik ośrodka spa",
+  "desc": "Kierownicy ośrodka spa koordynują bieżącą działalność spa, aby zapewnić gościom najlepsze doświadczenia. Nadzorują działalność i wydajność pracowników, zarządzają aspektami finansowymi spa, zajmują się dostawcami i prowadzą kampanie reklamowe spa w celu przyciągnięcia większej liczby klientów.",
+  "path": "Sport i rekreacja > Kierownicy sportu, rekreacji i kultury",
+  "tasks": [
+   "Nadzorujesz pracę zespołu spa",
+   "Pilnujesz finansów ośrodka",
+   "Zamawiasz u dostawców",
+   "Planujesz reklamę i promocje"
+  ]
+ },
+ {
+  "id": 2306,
+  "name": "Kierownik ośrodków rekreacji i rozrywki",
+  "desc": "Kierownicy ośrodków rekreacji i rozrywki kierują działalnością obiektów, które świadczą usługi rekreacyjne, takie jak ogrody, spa, ogrody zoologiczne, obiekty gier hazardowych i loteryjnych. Planują i organizują codzienne działania związanych z nimi pracowników i infrastruktury oraz zapewniają, że organizacja będzie śledzić najnowsze wydarzenia w swojej dziedzinie. Koordynują różne działy w ramach tej infrastruktury i zarządzają prawidłowym wykorzystaniem zasobów i budżetów.",
+  "path": "Sport i rekreacja > Kierownicy sportu, rekreacji i kultury",
+  "tasks": [
+   "Planujesz pracę działów obiektu",
+   "Koordynujesz pracowników i infrastrukturę",
+   "Pilnujesz budżetu i zasobów",
+   "Śledzisz nowości w branży"
+  ]
+ },
+ {
+  "id": 2307,
+  "name": "Kierownik punktu zakładów bukmacherskich",
+  "desc": "Kierownicy punktów załadunków bukmacherskich organizują i koordynują działalność punktów przyjmowania zakładów. Nadzorują codzienną działalność i ułatwiają komunikację między pracownikami a klientami. Wykonują oni obowiązki kasjera, szkolą pracowników i dążą do poprawy rentowności ich działalności. Przyjmują odpowiedzialność za wszystkie rodzaje działalności w zakresie zakładów bukmacherskich i zapewniają przestrzeganie odpowiednich przepisów i regulacji dotyczących obstawiania.",
+  "path": "Sport i rekreacja > Kierownicy sportu, rekreacji i kultury",
+  "tasks": [
+   "Obsługujesz kasę i wypłaty",
+   "Szkolisz nowych pracowników",
+   "Nadzorujesz przestrzeganie przepisów",
+   "Analizujesz wyniki sprzedaży punktu"
+  ]
+ },
+ {
+  "id": 2308,
+  "name": "Kierownik sekcji w ogrodzie zoologicznym",
+  "desc": "Kierownicy sekcji w ogrodach zoologicznych zwykle zajmują stanowisko średniego szczebla kierowniczego w danej instytucji. Duża część ich pracy obejmuje nadzór, zarządzanie i rozwój zbiorów zwierząt. Często odnosi się to do hodowli zwierząt i polityki w zakresie dobrostanu zwierząt, nabywania i dysponowania zwierzętami w ogrodach zoologicznych oraz rozwoju nowych eksponatów. Ogrody zoologiczne zwykle nabywają zwierzęta za pośrednictwem programów hodowli w niewoli. Kolekcja ogrodów zoologicznych, handel i transport zwierzętami regulują agencje rządowe, a także organizacje zajmujące się członkostwem w ogrodach zoologicznych.",
+  "path": "Sport i rekreacja > Kierownicy sportu, rekreacji i kultury",
+  "tasks": [
+   "Nadzorujesz hodowlę zwierząt",
+   "Planujesz dobrostan i opiekę",
+   "Organizujesz przyjęcie i transport zwierząt",
+   "Rozwijasz projekty nowych wybiegów"
+  ]
+ },
+ {
+  "id": 2309,
+  "name": "Kierownik domu kultury",
+  "desc": "Kierownicy domów kultury zarządzają działalnością centrum wspólnoty kulturowej, organizują i promują działania i wydarzenia kulturalne, zarządzają personelem, a ich celem jest promowanie ogólnej integracji programów kulturalnych w danej społeczności.",
+  "path": "Sport i rekreacja > Kierownicy sportu, rekreacji i kultury",
+  "tasks": [
+   "Układasz program wydarzeń i warsztatów",
+   "Promujesz imprezy wśród mieszkańców",
+   "Zarządzasz zespołem i salami",
+   "Rozliczasz budżet wydarzeń"
+  ]
+ },
+ {
+  "id": 2310,
+  "name": "Kierownik placówki kulturalnej",
+  "desc": "Kierownicy placówek kulturalnych kierują działalnością obiektów, które świadczą usługi kulturalne, takie jak teatr, filmy i muzyka. Planują i organizują codzienne działania związanych z nimi pracowników i infrastruktury oraz zapewniają, by organizacja śledziła najnowsze wydarzenia w swojej dziedzinie. Koordynują różne działy w ramach tej infrastruktury i zarządzają prawidłowym wykorzystaniem zasobów, polityk i budżetów.",
+  "path": "Sport i rekreacja > Kierownicy sportu, rekreacji i kultury",
+  "tasks": [
+   "Planujesz repertuar na kolejne miesiące",
+   "Koordynujesz działy teatru i obsługi",
+   "Zarządzasz budżetem i polityką placówki",
+   "Śledzisz nowości w kulturze"
+  ]
+ },
+ {
+  "id": 2311,
+  "name": "Kierownik produkcji widowisk",
+  "desc": "Kierownicy produkcji widowisk zajmują się wieloma praktycznymi kwestiami dotyczącymi produkcji. Dotyczą one różnych kwestii: od rekrutacji pracowników, zamawiania materiałów i usług, do transportu, koordynacji celnej, telekomunikacji, pracy, logistyki, technologii informacyjnej, kontaktów rządowych, rezerwacji miejsc, planowania, zarządzania operacjami, rozwiązywania problemów związanych z opóźnieniem i bezpieczeństwem w miejscu pracy.",
+  "path": "Sport i rekreacja > Kierownicy sportu, rekreacji i kultury",
+  "tasks": [
+   "Rekrutujesz ekipę techniczną i obsługę",
+   "Zamawiasz materiały i usługi",
+   "Planujesz transport i harmonogram prób",
+   "Rozwiązujesz problemy i pilnujesz bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 2312,
+  "name": "Kierownik ośrodka sportowego",
+  "desc": "Kierownicy ośrodków sportowych prowadzą infrastrukturę lub obiekt sportowy i zarządzają nim, w tym jego operacje, programy, sprzedaż, promocję, zdrowie i bezpieczeństwo, rozwój oraz personel. Zapewniają oni doskonałą obsługę klienta przy realizacji celów biznesowych, finansowych i operacyjnych.",
+  "path": "Sport i rekreacja > Kierownicy sportu, rekreacji i kultury",
+  "tasks": [
+   "Planujesz grafik zajęć i obiektu",
+   "Zarządzasz personelem",
+   "Sprawdzasz bezpieczeństwo i stan obiektu",
+   "Promujesz ofertę i sprzedaż karnetów"
+  ]
+ },
+ {
+  "id": 2313,
+  "name": "Dziennikarz ekonomiczny",
+  "desc": "Dziennikarze ekonomiczni poszukują informacji i redagują artykuły na temat gospodarki i wydarzeń gospodarczych dla gazet, magazynów, telewizji i innych mediów. Prowadzą rozmowy i uczestniczą w wydarzeniach.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Szukasz informacji o gospodarce",
+   "Przeprowadzasz rozmowy z ekspertami",
+   "Piszesz artykuły o firmach i rynkach",
+   "Relacjonujesz konferencje i wydarzenia"
+  ]
+ },
+ {
+  "id": 2314,
+  "name": "Dziennikarz informacyjny",
+  "desc": "Dziennikarze informacyjni decydują o tym, które wiadomości będą relacjonowane w trakcie nadawania wiadomości. Każdej wiadomości przydzielają dziennikarza. Dziennikarze informacyjni decydują także o długości relacji na temat każdej wiadomości i o miejscu jej prezentacji w trakcie nadawania.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Wybierasz tematy do serwisu",
+   "Przydzielasz reporterów do wiadomości",
+   "Ustalasz długość każdego materiału",
+   "Układasz kolejność w serwisie"
+  ]
+ },
+ {
+  "id": 2315,
+  "name": "Dziennikarz kryminalny",
+  "desc": "Dziennikarze kryminalni poszukują informacji i redagują artykuły na temat wydarzeń kryminalnych dla gazet, magazynów, telewizji i innych mediów. Prowadzą rozmowy i uczestniczą w przesłuchaniach w sądzie.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Zbierasz informacje o wydarzeniach kryminalnych",
+   "Siedzisz na rozprawach w sądzie",
+   "Przeprowadzasz rozmowy z osobami z tej sprawy",
+   "Piszesz sprawozdania z procesów"
+  ]
+ },
+ {
+  "id": 2316,
+  "name": "Dziennikarz kulturalny",
+  "desc": "Dziennikarze kulturalni poszukują informacji i redagują artykuły na temat wydarzeń kulturalnych i towarzyskich dla gazet, magazynów, telewizji i innych mediów. Przeprowadzają wywiady z artystami i gwiazdami, a także biorą udział w wydarzeniach.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Chodzisz na premiery i wernisaże",
+   "Przeprowadzasz wywiady z artystami",
+   "Piszesz recenzje i relacje",
+   "Wyszukujesz ciekawe wydarzenia kulturalne"
+  ]
+ },
+ {
+  "id": 2317,
+  "name": "Dziennikarz polityczny",
+  "desc": "Dziennikarze polityczni poszukują informacji i redagują artykuły na temat polityki i polityków dla gazet, magazynów, telewizji i innych mediów. Prowadzą rozmowy i uczestniczą w wydarzeniach.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Śledzisz decyzje polityków",
+   "Przeprowadzasz wywiady z politykami",
+   "Sprawdzasz wypowiedzi i obietnice",
+   "Relacjonujesz obrady i konferencje"
+  ]
+ },
+ {
+  "id": 2318,
+  "name": "Dziennikarz-dokumentalista",
+  "desc": "Dziennikarze-dokumentaliści pilnują, aby wszystkie informacje zawarte w tekstach gotowych do publikacji były prawidłowe. Dokładnie sprawdzają fakty i korygują błędy.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Sprawdzasz fakty z podanych źródeł",
+   "Weryfikujesz daty, nazwiska i liczby",
+   "Poprawiasz błędy w tekstach",
+   "Szukasz dokumentów potwierdzających informacje"
+  ]
+ },
+ {
+  "id": 2319,
+  "name": "Fotoedytor",
+  "desc": "Fotoedytorzy wybierają i zatwierdzają zdjęcia i ilustracje do gazet, czasopism i magazynów. Fotoedytorzy dbają o to, aby zdjęcia zostały dostarczone w terminie umożliwiającym ich publikację.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Przeglądasz setki zdjęć od fotoreporterów",
+   "Wybierasz najlepsze ujęcia do wydania",
+   "Zatwierdzasz ilustracje do tekstów",
+   "Pilnujesz terminu oddania materiałów"
+  ]
+ },
+ {
+  "id": 2320,
+  "name": "Korespondent zagraniczny",
+  "desc": "Korespondenci zagraniczni sprawdzają i redagują wiadomości o znaczeniu międzynarodowym dla gazet, czasopism, magazynów, radia, telewizji i innych mediów. Ich siedziba znajduje się za granicą.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Sprawdzasz wiadomości w lokalnych źródłach",
+   "Rozmawiasz z rozmówcami w obcym języku",
+   "Redagujesz relację dla redakcji w kraju",
+   "Zgłaszasz się na żywo do radia lub telewizji"
+  ]
+ },
+ {
+  "id": 2321,
+  "name": "Krytyk",
+  "desc": "Krytycy piszą recenzje dzieł literackich, muzycznych i artystycznych, restauracji, filmów, programów telewizyjnych i innych tematów dla gazet, czasopism, magazynów, radia, telewizji i innych mediów. Oceniają temat, sposób wypowiedzi i technikę. Krytycy dokonują oceny na podstawie własnych doświadczeń i wiedzy.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Oglądasz film lub słuchasz płyty przed premierą",
+   "Porównujesz dzieło z innymi z tego gatunku",
+   "Piszesz recenzję z oceną i uzasadnieniem",
+   "Pilnujesz terminu oddania tekstu do redakcji"
+  ]
+ },
+ {
+  "id": 2322,
+  "name": "Publicysta / publicystka",
+  "desc": "Publicyści sprawdzają i piszą felietony na temat wydarzeń informacyjnych dla gazet, czasopism, magazynów i innych mediów. Mają pewien obszar zainteresowań i można ich rozpoznać po stylu pisania.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Wybierasz wydarzenie, które chcesz skomentować",
+   "Zbierasz fakty i sprawdzasz źródła",
+   "Piszesz tekst z wyraźną tezą",
+   "Odpowiadasz na reakcje czytelników"
+  ]
+ },
+ {
+  "id": 2323,
+  "name": "Redaktor czasopisma",
+  "desc": "Redaktorzy czasopism decydują o tym, które wiadomości są dostatecznie interesujące i zostaną zrelacjonowane w czasopiśmie. Każdej wiadomości przydzielają dziennikarza. Redaktorzy czasopism określają długość każdego artykułu i miejsce jego umieszczenia w magazynie. Dbają również o to, aby artykuły były gotowe do publikacji na czas.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Wybierasz tematy do najbliższego numeru",
+   "Zlecasz artykuły dziennikarzom",
+   "Ustalasz długość tekstów i ich miejsce na stronach",
+   "Pilnujesz terminów oddania materiałów"
+  ]
+ },
+ {
+  "id": 2324,
+  "name": "Redaktor gazety",
+  "desc": "Redaktorzy gazet decydują, które wiadomości są wystarczająco interesujące i zostaną zrelacjonowane w gazecie. Każdej wiadomości przydzielają dziennikarza. Redaktorzy gazet decydują o długości każdego artykułu informacyjnego i o miejscu jego umieszczenia w gazecie. Dbają również, aby publikacje były gotowe do publikacji na czas.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Wybierasz najważniejsze wiadomości dnia",
+   "Wysyłasz reporterów na miejsce wydarzeń",
+   "Decydujesz, co trafia na pierwszą stronę",
+   "Przycinasz teksty tuż przed zamknięciem wydania"
+  ]
+ },
+ {
+  "id": 2325,
+  "name": "Redaktor tekstów i sloganów reklamowych",
+  "desc": "Redaktorzy tekstów i sloganów reklamowych pilnują, żeby tekst był przyjemny w odbiorze. Dbają, żeby tekst był zgodny z zasadami gramatyki i ortografii. Redaktorzy tekstów i sloganów reklamowych czytają i sprawdzają materiały do książek, czasopism, magazynów i innych środków przekazu.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Poprawiasz ortografię i interpunkcję",
+   "Wygładzasz niezgrabne zdania",
+   "Sprawdzasz spójność nazw i zapisów",
+   "Uzgadniasz poprawki z autorem"
+  ]
+ },
+ {
+  "id": 2326,
+  "name": "Twórca napisów filmowych",
+  "desc": "Twórcy napisów filmowych mogą pracować w ramach jednego języka lub w różnych językach. Twórcy wewnątrzjęzykowych napisów filmowych tworzą napisy dla widzów niedosłyszących, natomiast twórcy międzyjęzykowych napisów filmowych tworzą napisy do filmów lub programów telewizyjnych w innym języku niż słyszany w materiale audiowizualnym. Dbają o to, aby podpisy i napisy były zsynchronizowane z dźwiękiem, obrazami i dialogiem dzieła audiowizualnego.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Słuchasz dialogów i dzielisz je na linijki",
+   "Tłumaczysz lub skracasz wypowiedzi do napisów",
+   "Ustawiasz czas pojawienia się każdego napisu",
+   "Opisujesz ważne dźwięki dla niesłyszących"
+  ]
+ },
+ {
+  "id": 2327,
+  "name": "Tłumacz-lokalizator",
+  "desc": "Tłumacze-lokalizatorzy przekładają i dostosowują teksty do języka i kultury konkretnej grupy docelowej. Tłumaczenie standardowe przekształcają na język zrozumiały lokalnie, z zachowaniem cech kultury, powiedzeń i innych niuansów, które sprawiają, że tłumaczenie jest dla kulturowej grupy docelowej bogatsze i bardziej zrozumiałe niż wcześniej.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Zamieniasz żart na odpowiednik zrozumiały lokalnie",
+   "Dopasowujesz daty, jednostki i nazwy do kraju",
+   "Sprawdzasz, czy napis mieści się na ekranie",
+   "Testujesz przetłumaczoną wersję i zgłaszasz błędy"
+  ]
+ },
+ {
+  "id": 2328,
+  "name": "Filolog",
+  "desc": "Filolodzy zajmują się naukowo językami. Opanowują języki i potrafią je interpretować pod względem cech gramatycznych, semantycznych i fonetycznych. Badają ewolucję języka i sposób jego wykorzystania przez społeczeństwa.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Analizujesz gramatykę i znaczenia słów",
+   "Badasz, jak zmienia się język",
+   "Czytasz i interpretujesz dawne teksty",
+   "Piszesz artykuły naukowe i prowadzisz zajęcia"
+  ]
+ },
+ {
+  "id": 2329,
+  "name": "Prawnik lingwista",
+  "desc": "Prawnicy lingwiści interpretują i tłumaczą teksty prawne z jednego języka na drugi. Zapewniają analizę prawną tłumaczonych informacji oraz pomagają w zrozumieniu aspektów technicznych treści wyrażonych w innych językach.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Czytasz umowy i przepisy w dwóch językach",
+   "Szukasz prawnych odpowiedników obcych pojęć",
+   "Tłumaczysz tekst i sprawdzasz skutki prawne",
+   "Wyjaśniasz trudne zapisy klientom"
+  ]
+ },
+ {
+  "id": 2330,
+  "name": "Grafolog",
+  "desc": "Grafolodzy analizują materiały pisemne lub drukowane w celu uzyskania wniosków i dowodów na temat cech, osobowości, umiejętności i autorstwa piszącego. Interpretują kształt liter, styl pisania i charakterystyczne układy w piśmie.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Porównujesz próbki pisma z dokumentem",
+   "Mierzysz nachylenie i wielkość liter",
+   "Opisujesz charakterystyczne zawijasy i łączenia",
+   "Piszesz opinię o autorstwie tekstu"
+  ]
+ },
+ {
+  "id": 2331,
+  "name": "Leksykograf",
+  "desc": "Leksykografowie sporządzają i opracowują treść słowników. Określają również, które nowe słowa są powszechnie stosowane i powinny być ujęte w słowniku.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Zbierasz przykłady użycia nowych słów",
+   "Piszesz definicje do haseł słownikowych",
+   "Sprawdzasz, jak często słowo występuje",
+   "Decydujesz, które słowa trafią do słownika"
+  ]
+ },
+ {
+  "id": 2332,
+  "name": "Tłumacz języka migowego",
+  "desc": "Tłumacze języka migowego rozumieją i przekształcają język migowy na język mówiony i vice versa. Zachowują niuanse i akcenty komunikatu w języku odbiorcy.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Słuchasz i migasz przekład niemal od razu",
+   "Odczytujesz migi i mówisz na głos",
+   "Oddajesz ton i emocje wypowiedzi",
+   "Przygotowujesz słownictwo przed tematem spotkania"
+  ]
+ },
+ {
+  "id": 2333,
+  "name": "Autor tekstów utworów muzycznych",
+  "desc": "Autorzy tekstów utworów muzycznych interpretują styl muzyki i piszą słowa do melodii. Współpracują z kompozytorem muzycznym.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Słuchasz melodii i łapiesz jej nastrój",
+   "Układasz zwrotki i refren",
+   "Szukasz rymów i rytmu pasującego do muzyki",
+   "Poprawiasz tekst z kompozytorem"
+  ]
+ },
+ {
+  "id": 2334,
+  "name": "Specjalista ds. komunikacji technicznej",
+  "desc": "Specjaliści ds. komunikacji technicznej przygotowują jasne, zwięzłe i profesjonalne wiadomości od twórców produktu do użytkowników, dotyczące np. pomocy internetowej, podręczników użytkownika, białych ksiąg, specyfikacji i przemysłowych materiałów wideo. W tym celu przeprowadzają analizę produktów, wymogów prawnych, rynków, klientów i użytkowników. Opracowują koncepcje informacyjne i mediowe, normy, struktury i wsparcie w zakresie narzędzi oprogramowania.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Testujesz produkt, żeby go zrozumieć",
+   "Piszesz instrukcje krok po kroku",
+   "Układasz strukturę pomocy i podręczników",
+   "Pytasz konstruktorów o niejasne szczegóły"
+  ]
+ },
+ {
+  "id": 2335,
+  "name": "Twórca przemówień",
+  "desc": "Twórcy przemówień badają i piszą przemówienia na różne tematy. Muszą pozyskać i utrzymać zainteresowanie publiczności. Twórcy przemówień tworzą prezentacje o tonie konwersacyjnym, żeby tekst wyglądał na spontaniczny. Piszą w sposób zrozumiały, żeby publiczność odczytała główną wiadomość.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Rozmawiasz z mówcą o tym, co chce przekazać",
+   "Badasz temat i odbiorców",
+   "Piszesz tekst brzmiący jak mowa",
+   "Ćwiczysz z mówcą wygłaszanie"
+  ]
+ },
+ {
+  "id": 2336,
+  "name": "Dramaturg",
+  "desc": "Dramaturdzy czytają nowe sztuki i dzieła oraz proponują je reżyserowi i/lub radzie ds. sztuki w teatrze. Zbierają dokumentację na temat dzieła, autora, problemów, którymi się zajmuje, czasów i opisanych środowisk. Biorą również udział w analizie tematów, postaci, konstrukcji dramatycznej itp.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Czytasz nowe sztuki i oceniasz je",
+   "Zbierasz informacje o autorze i czasach",
+   "Analizujesz tematy i postaci z reżyserem",
+   "Piszesz teksty do programu przedstawienia"
+  ]
+ },
+ {
+  "id": 2337,
+  "name": "Literaturoznawca",
+  "desc": "Literaturoznawcy badają dzieła literackie, historię literatury, gatunki i krytykę literacką w celu oceny dzieł i otaczających je aspektów w odpowiednim kontekście oraz w celu uzyskania wyników badań na konkretne tematy w dziedzinie literatury.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Czytasz utwory i dawną krytykę",
+   "Porównujesz dzieła z różnych epok",
+   "Szukasz w bibliotece listów i rękopisów",
+   "Piszesz prace naukowe i uczysz studentów"
+  ]
+ },
+ {
+  "id": 2338,
+  "name": "Redaktor wydawniczy",
+  "desc": "Redaktorzy wydawniczy znajdują teksty, które mogą zostać opublikowane. Dokonują przeglądu tekstów sporządzanych przez pisarzy w celu oceny ich potencjału komercyjnego lub zwracają się do pisarzy o realizację projektów, które dom wydawniczy zamierza opublikować. Redaktorzy wydawniczy utrzymują dobre relacje z pisarzami.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Czytasz nadesłane rękopisy",
+   "Oceniasz, czy książka się sprzeda",
+   "Proponujesz autorom zmiany w tekście",
+   "Pilnujesz harmonogramu wydania książki"
+  ]
+ },
+ {
+  "id": 2339,
+  "name": "Audiodeskryptor",
+  "desc": "Audiodeskryptorzy opisują wydarzenia na ekranie lub na scenie dla osób niewidomych i niedowidzących, żeby mogły one korzystać z przedstawień audiowizualnych, występów na żywo i imprez sportowych. Tworzą scenariusze audiodeskrypcji do programów i wydarzeń oraz wykonują nagrania głosowe.",
+  "path": "Media, język i literatura > Prezenterzy radiowi, telewizyjni",
+  "tasks": [
+   "Oglądasz film i notujesz, co widać",
+   "Piszesz krótkie opisy między dialogami",
+   "Wybierasz tylko to, co ważne dla fabuły",
+   "Nagrywasz opis głosem"
+  ]
+ }
+]

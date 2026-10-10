@@ -1,0 +1,722 @@
+[
+ {
+  "id": 780,
+  "name": "Pracownik ds. operacji lotniskowych",
+  "desc": "Pracownicy ds. operacji lotniskowych zajmują się nadzorem i administracją, monitorując działania operacyjne w czasie wyznaczonej zmiany w dużym porcie lotniczym. Zapewniają bezpieczne startowanie i lądowanie samolotów.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Monitorujesz działania operacyjne na lotnisku",
+   "Kontrolujesz stan pasa startowego i płyty",
+   "Reagujesz na zdarzenia zakłócające ruch samolotów",
+   "Pilnujesz bezpiecznych startów i lądowań"
+  ]
+ },
+ {
+  "id": 781,
+  "name": "Pracownik służby informacji lotniczej",
+  "desc": "Pracownicy służby informacji lotniczej zapewniają synchronizację od wschodu do zachodu słońca w celu zapewnienia autentyczności informacji przekazywanych przez agencje. Ich zadaniem jest zapewnienie bezpieczeństwa, regularności i efektywności.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Sprawdzasz wiarygodność informacji lotniczych",
+   "Porównujesz dane z różnych agencji",
+   "Przekazujesz aktualne komunikaty dalej",
+   "Pilnujesz, by informacje nie były spóźnione"
+  ]
+ },
+ {
+  "id": 782,
+  "name": "Inspektor lotniczy",
+  "desc": "Inspektorzy lotniczy przeprowadzają kontrole procedur stosowanych w zakresie obsługi technicznej, lotniczych urządzeń nawigacyjnych, kontroli ruchu lotniczego oraz sprzętu łączności. Sprawdzają zgodność z normami ICAO, UE, krajowymi i środowiskowymi.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Kontrolujesz procedury obsługi technicznej",
+   "Sprawdzasz urządzenia nawigacji i łączności",
+   "Porównujesz praktykę z normami międzynarodowymi",
+   "Opisujesz uwagi i zalecenia po kontroli"
+  ]
+ },
+ {
+  "id": 783,
+  "name": "Pracownik lotniczych służb operacyjnych",
+  "desc": "Pracownicy lotniczych służb operacyjnych zestawiają informacje o lotach, aby przyspieszyć ruch statków powietrznych między portami lotniczymi i na ich terenie. Gromadzą dane dotyczące ruchu statków powietrznych, takie jak planowe godziny przylotu i odlotu w punktach kontroli i na planowych przystankach, ilość paliwa potrzebnego do wykonania lotu oraz maksymalny dopuszczalny ciężar startowy i przy lądowaniu.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Zbierasz planowe godziny przylotów i odlotów",
+   "Wyliczasz potrzebną ilość paliwa na lot",
+   "Sprawdzasz maksymalny ciężar startowy i lądowania",
+   "Zestawiasz informacje o lotach w jeden komplet"
+  ]
+ },
+ {
+  "id": 784,
+  "name": "Kapitan żeglugi śródlądowej",
+  "desc": "Kapitanowie żeglugi śródlądowej mają największą władzę na pokładzie statku na śródlądowych drogach wodnych, są odpowiedzialni za statek oraz bezpieczeństwo i dobrostan klientów i załogi. Posiadają licencję wydaną przez właściwy organ i zawsze kierują funkcjonowaniem statku. Jako najwyższa instancja odpowiadają za załogę, statek, ładunek i/lub pasażerów oraz podróż.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Prowadzisz statek po rzekach i kanałach",
+   "Wydajesz polecenia załodze podczas manewrów",
+   "Odpowiadasz za ładunek lub pasażerów",
+   "Planujesz podróż i pilnujesz bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 785,
+  "name": "Oficer pokładowy",
+  "desc": "Oficerowie pokładowi pełnią obowiązki wachtowe na pokładzie statków, takie jak określanie kursu i prędkości, manewrowanie w celu uniknięcia zagrożeń oraz ciągłe monitorowanie pozycji statków przy użyciu map i pomocy nawigacyjnych. Prowadzą dzienniki i inne rejestry śledzenia ruchu statku. Zapewniają, że przestrzegane są odpowiednie procedury i praktyki w zakresie bezpieczeństwa, sprawdzają, czy sprzęt jest w dobrym stanie, oraz nadzorują załadunek i rozładunek towarów lub ruch pasażerów. Sprawują nadzór nad członkami załogi zajmującymi się obsługą techniczną i podstawowym utrzymaniem statku.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Wyznaczasz kurs i prędkość statku",
+   "Śledzisz pozycję statku na mapach",
+   "Prowadzisz dziennik i rejestry ruchu",
+   "Nadzorujesz załadunek i rozładunek towarów"
+  ]
+ },
+ {
+  "id": 786,
+  "name": "Pilot morski",
+  "desc": "Piloci morscy to marynarze, którzy prowadzą statki przez niebezpieczne lub zatłoczone wody m.in. w portach lub ujściach rzek. Są ekspertami w dziedzinie prowadzenia statków, dysponującymi szczegółową wiedzą na temat lokalnych dróg wodnych.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Prowadzisz statki przez zatłoczone wody",
+   "Korzystasz ze szczegółowej wiedzy o lokalnych drogach wodnych",
+   "Komunikujesz się z kapitanem i załogą",
+   "Manewrujesz statkiem w wąskich miejscach portu"
+  ]
+ },
+ {
+  "id": 787,
+  "name": "Stermotorzysta żeglugi śródlądowej",
+  "desc": "Stermotorzyści żeglugi śródlądowej są członkami załogi o najwyższej randze na poziomie operacyjnym na statku śródlądowym. Wykonują szereg obowiązków związanych z eksploatacją i utrzymaniem stref pokładu, silnika i innego wyposażenia, cumowania i odcumowania, jak również sterowaniem statkiem jako głównym zadaniem.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Sterujesz statkiem na śródlądowej drodze wodnej",
+   "Cumujesz i odcumowujesz statek",
+   "Utrzymujesz w porządku strefy pokładu",
+   "Sprawdzasz silnik i inne wyposażenie"
+  ]
+ },
+ {
+  "id": 788,
+  "name": "Drugi oficer mechanik",
+  "desc": "Drudzy oficerowie mechanicy pomagają oficerowi mechanikowi i mechanikowi wachtowemu w pracach w kadłubie statku. Wspierają funkcjonowanie głównych silników, mechanizmu steru, wytwarzania energii elektrycznej i innych ważnych podsystemów. Komunikują się z inżynierami morskimi na temat wykonywania prac technicznych. Zapewniają również zgodność z odpowiednimi normami i przepisami bezpieczeństwa i w razie potrzeby mogą zajmować wyższe stanowiska.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Pomagasz przy pracach w kadłubie statku",
+   "Wspierasz pracę głównych silników i steru",
+   "Pilnujesz wytwarzania energii elektrycznej na statku",
+   "Komunikujesz się z inżynierami morskimi"
+  ]
+ },
+ {
+  "id": 789,
+  "name": "Mechanik urządzeń chłodniczych w rybołówstwie",
+  "desc": "Mechanicy urządzeń chłodniczych w rybołówstwie zajmują się konserwacją i naprawą maszyn i urządzeń w instalacji do przechowywania i chłodzenia ryb na pokładzie statków rybackich.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Konserwujesz instalację chłodzenia ryb",
+   "Naprawiasz maszyny do przechowywania połowu",
+   "Kontrolujesz temperaturę w pomieszczeniach z rybami",
+   "Reagujesz na awarię, zanim ryby się zepsują"
+  ]
+ },
+ {
+  "id": 790,
+  "name": "Mechanik wachtowy",
+  "desc": "Mechanicy wachtowi odpowiadają za większość elementów znajdujących się w kadłubie statku. Zapewniają funkcjonowanie głównych silników, mechanizmu steru, wytwarzania energii elektrycznej i innych ważnych podsystemów. Komunikują się z oficerem mechanikiem w celu wykonywania prac technicznych.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Pilnujesz pracy głównych silników na wachcie",
+   "Kontrolujesz mechanizm steru",
+   "Sprawdzasz wytwarzanie energii elektrycznej",
+   "Zgłaszasz usterki oficerowi mechanikowi"
+  ]
+ },
+ {
+  "id": 791,
+  "name": "Oficer mechanik",
+  "desc": "Oficerowie mechanicy są odpowiedzialni za wszystkie prace techniczne na statku, w tym układy maszynowni, elektryczne i mechaniczne. Są kierownikami odpowiadającymi za funkcjonowanie całej maszynowni na statku. Ponoszą ogólną odpowiedzialność za wszystkie prace techniczne i wyposażenie na statku. Oficerowie mechanicy współpracują w zakresie bezpieczeństwa, przetrwania i opieki zdrowotnej oraz dbają o przestrzeganie krajowych i międzynarodowych norm stosowania.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Kierujesz zespołem w maszynowni",
+   "Planujesz przeglądy i naprawy układów",
+   "Odpowiadasz za wyposażenie techniczne statku",
+   "Dopilnowujesz zgodności z normami i przepisami"
+  ]
+ },
+ {
+  "id": 792,
+  "name": "Technik urządzeń ruchu lotniczego",
+  "desc": "Technicy urządzeń ruchu lotniczego udzielają wsparcia technicznego w zakresie bezpieczeństwa systemów kontroli ruchu lotniczego i systemów nawigacji lotniczej. Zajmują się projektowaniem, konserwacją, instalacją i obsługą tych systemów w porcie lotniczym, jak i na pokładzie samolotu zgodnie z przepisami.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Instalujesz systemy kontroli ruchu lotniczego",
+   "Konserwujesz urządzenia nawigacji lotniczej",
+   "Projektujesz zmiany w istniejących systemach",
+   "Udzielasz wsparcia technicznego przy awariach"
+  ]
+ },
+ {
+  "id": 793,
+  "name": "Pracownik magazynu",
+  "desc": "Pracownicy magazynu wykonują dokładne czynności związane z obsługą, pakowaniem i przechowywaniem materiałów w magazynie. Otrzymują oni towary, etykietują je, kontrolują jakość, przechowują towary i dokumentują wszelkie uszkodzenia. Pracownicy magazynu monitorują również poziom zapasów poszczególnych pozycji, prowadzą spis inwentarza i wysyłają towary.",
+  "path": "Transport i logistyka > Ładowacze i pomocnicy transportu",
+  "tasks": [
+   "Przyjmujesz towary i sprawdzasz ich jakość",
+   "Etykietujesz i odkładasz produkty na regały",
+   "Opisujesz uszkodzone sztuki w dokumentach",
+   "Pakujesz i wysyłasz zamówienia"
+  ]
+ },
+ {
+  "id": 794,
+  "name": "Pracownik magazynu kompletujący zamówienia",
+  "desc": "Pracownicy magazynu kompletujący zamówienia ręcznie przygotowują zamówienia. Zbierają oni zamówienia i przenoszą je na platformę dostaw w celu ich przetworzenia lub do sektora handlowego, aby umożliwić klientom ich odbiór. Oczekuje się od nich realizacji zamówień do wysyłki, z uwzględnieniem ilości i rodzaju określonych towarów oraz spełnienia kryteriów jakościowych ustalonych przez przedsiębiorstwo. Gromadzą również różne rodzaje towarów do wysyłki i zlecenia transportu do lokalizacji odbiorczych w sposób określony przez przełożonego.",
+  "path": "Transport i logistyka > Ładowacze i pomocnicy transportu",
+  "tasks": [
+   "Zbierasz towary z regałów według zamówienia",
+   "Sprawdzasz ilość, rodzaj i jakość",
+   "Przenosisz zamówienia na platformę dostaw",
+   "Przygotowujesz towar do wysyłki"
+  ]
+ },
+ {
+  "id": 795,
+  "name": "Brygadzista portowej ekipy przeładunkowej",
+  "desc": "Brygadziści portowej ekipy przeładunkowej nadzorują i monitorują obsługę ładunku i pracę w obiektach przybrzeżnych stoczni okrętowej w celu maksymalizacji wydajności. Zarządzają załadunkiem i rozładowaniem ładunku oraz monitorują bezpieczeństwo obszaru roboczego. Brygadziści portowej ekipy przeładunkowej mogą również prowadzić postępowanie wyjaśniające dotyczące incydentów i sporządzać sprawozdania z wypadków.",
+  "path": "Transport i logistyka > Ładowacze i pomocnicy transportu",
+  "tasks": [
+   "Nadzorujesz załadunek i rozładunek statków",
+   "Monitorujesz bezpieczeństwo na obszarze roboczym",
+   "Rozdzielasz zadania w ekipie przeładunkowej",
+   "Opisujesz wypadki w sprawozdaniach"
+  ]
+ },
+ {
+  "id": 796,
+  "name": "Dyspozytor centrum dystrybucyjnego",
+  "desc": "Dyspozytorzy centrum dystrybucyjnego zapewniają sprawną wysyłkę wyprodukowanych towarów. Określają oni trasy i wypełniają dokumenty przewozowe.",
+  "path": "Transport i logistyka > Ładowacze i pomocnicy transportu",
+  "tasks": [
+   "Ustalasz trasy dla wysyłanych towarów",
+   "Wypełniasz dokumenty przewozowe",
+   "Planujesz kolejność wyjazdów samochodów",
+   "Pilnujesz, by towar wyjechał na czas"
+  ]
+ },
+ {
+  "id": 797,
+  "name": "Operator sprzętu intermodalnego transportu kolejowego",
+  "desc": "Operatorzy sprzętu intermodalnego transportu kolejowego pomagają w załadunku przyczep i kontenerów na wagony i podwozia/ z wagonów i podwozi. Manewrują oni kombinacjami ciągnika i naczepy w ciasnych narożnikach, a także w miejscach parkingowych i poza nimi. Korzystają z peryferii komputera pokładowego w celu komunikowania się z systemem komputerowym do zarządzania placem składowym oraz do identyfikacji wagonów silnikowych.",
+  "path": "Transport i logistyka > Ładowacze i pomocnicy transportu",
+  "tasks": [
+   "Ładujesz kontenery i naczepy na wagony",
+   "Zdejmujesz kontenery z wagonów i podwozi",
+   "Manewrujesz ciągnikiem z naczepą w ciasnych miejscach",
+   "Komunikujesz się z systemem placu przez komputer"
+  ]
+ },
+ {
+  "id": 798,
+  "name": "Pracownik przeprowadzkowy",
+  "desc": "Pracownicy przeprowadzkowi są odpowiedzialni za fizyczną obsługę towarów i rzeczy osobistych przemieszczanych lub transportowanych z jednego miejsca do drugiego. Demontują towary, maszyny lub rzeczy osobiste do transportu i montują lub instalują je w nowej lokalizacji. Dopilnowują, aby przedmioty były dobrze chronione i opakowane, zabezpieczone i prawidłowo umieszczone w samochodach ciężarowych i transportowych.",
+  "path": "Transport i logistyka > Ładowacze i pomocnicy transportu",
+  "tasks": [
+   "Demontujesz meble i urządzenia",
+   "Pakujesz i zabezpieczasz rzeczy do transportu",
+   "Układasz ładunek w samochodzie",
+   "Montujesz meble w nowym miejscu"
+  ]
+ },
+ {
+  "id": 799,
+  "name": "Pracownik sortowni bagażu",
+  "desc": "Pracownicy sortowni bagażu przyjmują i zwracają bagaż pasażerów w terminalach portu lotniczego. Przygotowują i dołączają zlecenie kontroli bagażu, ustawiają bagaż na wózkach lub przenośnikach i mogą zwrócić bagaż do klientów po otrzymaniu wniosku o kontrolę.",
+  "path": "Transport i logistyka > Ładowacze i pomocnicy transportu",
+  "tasks": [
+   "Przyjmujesz bagaż pasażerów w terminalu",
+   "Dołączasz zlecenie kontroli bagażu",
+   "Ustawiasz walizki na wózkach lub przenośnikach",
+   "Zwracasz bagaż po otrzymaniu wniosku"
+  ]
+ },
+ {
+  "id": 800,
+  "name": "Robotnik magazynowy",
+  "desc": "Robotnicy magazynowi zajmują się obsługą i przechowywaniem materiałów poprzez czynności takie jak załadunek, rozładunek i przemieszczanie wyrobów w magazynie lub przechowalni. Pracują oni zgodnie ze zleceniami kontroli materiałów i dostarczają dokumentację dotyczącą postępowania z danymi pozycjami. Robotnicy magazynowi zarządzają również zapasami i zapewniają bezpieczną utylizację odpadów.",
+  "path": "Transport i logistyka > Ładowacze i pomocnicy transportu",
+  "tasks": [
+   "Ładujesz i rozładowujesz wyroby w magazynie",
+   "Przemieszczasz materiały według zleceń",
+   "Przekazujesz dalej dokumenty do danej partii towaru",
+   "Zapewniasz bezpieczną utylizację odpadów"
+  ]
+ },
+ {
+  "id": 801,
+  "name": "Robotnik portowy",
+  "desc": "Robotnicy portowi sortują, obsługują, ładują i rozładowują ładunek do urządzeń naziemnych zgodnie z instrukcjami ustnymi i pisemnymi, a także z przepisami państwowymi. Przewożą towary takie jak pudła, przedmioty o dużej objętości lub nawet duże palety towarów do i z miejsc składowania oraz do pojazdów transportowych.",
+  "path": "Transport i logistyka > Ładowacze i pomocnicy transportu",
+  "tasks": [
+   "Sortujesz ładunek przed przeładunkiem",
+   "Przewozisz palety i duże paczki",
+   "Ładujesz towar do pojazdów transportowych",
+   "Wykonujesz polecenia ustne i pisemne"
+  ]
+ },
+ {
+  "id": 802,
+  "name": "Kurier rowerowy",
+  "desc": "Kurierzy rowerowi zbierają i dostarczają paczki i pocztę przy użyciu roweru.",
+  "path": "Transport i logistyka > Ładowacze i pomocnicy transportu",
+  "tasks": [
+   "Odbierasz paczki i pocztę z punktu",
+   "Układasz trasę dostaw po mieście",
+   "Dowozisz przesyłki rowerem pod wskazane miejsca",
+   "Oddajesz przesyłkę i zbierasz potwierdzenie"
+  ]
+ },
+ {
+  "id": 803,
+  "name": "Pracownik rozkładający towar na półkach",
+  "desc": "Pracownicy rozkładający towar na półkach zapełniają półki i rotują towar na półkach, identyfikując i usuwając przeterminowane produkty. Sprzątają sklep po godzinach pracy, dbając o to, by półki były w całości wypełnione na następny dzień. Pracownicy rozkładający towar na półkach mogą wykorzystywać wózki, małe wózki widłowe do przenoszenia zapasów oraz drabinki, aby uzyskać dostęp do wysokich półek. Udzielają również klientom wskazówek odnośnie do lokalizacji określonych produktów.",
+  "path": "Transport i logistyka > Ładowacze i pomocnicy transportu",
+  "tasks": [
+   "Uzupełniasz półki i rotujesz towar",
+   "Usuwasz przeterminowane produkty",
+   "Sprzątasz sklep po godzinach pracy",
+   "Wskazujesz klientom lokalizację produktów"
+  ]
+ },
+ {
+  "id": 804,
+  "name": "Prowadzący pojazdy ciągnięte przez zwierzęta",
+  "desc": "Prowadzący pojazdy ciągnięte przez zwierzęta transportują pasażerów w pojazdach ciągniętych przez konie. Zapewniają oni bezpieczeństwo pasażerom i opiekę dla koni.",
+  "path": "Transport i logistyka > Ładowacze i pomocnicy transportu",
+  "tasks": [
+   "Prowadzisz powóz zaprzężony w konie",
+   "Dbasz o bezpieczeństwo pasażerów w trasie",
+   "Zajmujesz się opieką nad końmi",
+   "Sprawdzasz uprząż i powóz przed kursem"
+  ]
+ },
+ {
+  "id": 805,
+  "name": "Kierowca - operator tankowania statków powietrznych",
+  "desc": "Kierowcy - operatorzy tankowania statków powietrznych konserwują systemy dystrybucji paliwa i dopilnowują ponownego tankowania samolotów.",
+  "path": "Transport i logistyka > Kierowcy ciężarówek i autobusów",
+  "tasks": [
+   "Prowadzisz cysternę po terenie lotniska",
+   "Tankujesz samoloty przed odlotem",
+   "Konserwujesz systemy dystrybucji paliwa",
+   "Sprawdzasz ilość paliwa zgodnie ze zleceniem"
+  ]
+ },
+ {
+  "id": 806,
+  "name": "Kierowca - pracownik przeprowadzkowy",
+  "desc": "Kierowcy - pracownicy przeprowadzkowi obsługują samochody ciężarowe przeznaczone do przemieszczenia i transportu towarów, rzeczy osobistych, maszyn i innych. Pomagają oni w umieszczaniu towarów w samochodzie ciężarowym w celu skutecznego wykorzystania przestrzeni i zapewnienia bezpieczeństwa.",
+  "path": "Transport i logistyka > Kierowcy ciężarówek i autobusów",
+  "tasks": [
+   "Prowadzisz ciężarówkę z rzeczami klienta",
+   "Układasz ładunek, by wykorzystać przestrzeń",
+   "Zabezpieczasz meble i maszyny na czas jazdy",
+   "Pomagasz przy załadunku i rozładunku"
+  ]
+ },
+ {
+  "id": 807,
+  "name": "Kierowca betoniarki",
+  "desc": "Kierowcy betoniarek prowadzą i obsługują ciężarówki do transportu betonu z zakładu do miejsca budowy i obsługują pompy w celu rozproszenia betonu w miejscu budowy. Poza tym czyszczą i konserwują ciężarówkę i jej części mechaniczne.",
+  "path": "Transport i logistyka > Kierowcy ciężarówek i autobusów",
+  "tasks": [
+   "Wozisz świeży beton na budowę",
+   "Obsługujesz pompę rozprowadzającą beton",
+   "Czyścisz ciężarówkę po każdym rozładunku",
+   "Konserwujesz mechaniczne części pojazdu"
+  ]
+ },
+ {
+  "id": 808,
+  "name": "Kierowca przewożący towary niebezpieczne",
+  "desc": "Kierowcy przewożący towary niebezpieczne transportują paliwa i ciecze luzem, produkty niebezpieczne i substancje chemiczne w transporcie drogowym.",
+  "path": "Transport i logistyka > Kierowcy ciężarówek i autobusów",
+  "tasks": [
+   "Przewozisz paliwa i ciecze luzem",
+   "Transportujesz substancje chemiczne drogą",
+   "Sprawdzasz dokumenty ładunku niebezpiecznego",
+   "Kontrolujesz zabezpieczenie cysterny przed jazdą"
+  ]
+ },
+ {
+  "id": 809,
+  "name": "Kierowca wozu strażackiego",
+  "desc": "Kierowcy wozów strażackich kierują pojazdami strażackimi w sytuacjach nagłych, takimi jak wozy strażackie. Specjalizują się kierowaniu w sytuacjach nagłych i wspomagają operacje gaśnicze. Dopilnowują, aby cały materiał był dobrze przechowywany w pojeździe, transportowany i gotowy do użycia.",
+  "path": "Transport i logistyka > Kierowcy ciężarówek i autobusów",
+  "tasks": [
+   "Prowadzisz wóz strażacki podczas wyjazdu alarmowego",
+   "Wspierasz akcję gaśniczą na miejscu",
+   "Układasz i zabezpieczasz sprzęt w wozie",
+   "Sprawdzasz, czy sprzęt jest gotowy do użycia"
+  ]
+ },
+ {
+  "id": 810,
+  "name": "Kierowca-ładowacz",
+  "desc": "Kierowcy-ładowacze kierują dużymi pojazdami, które są używane do odbioru odpadów. Kierują pojazdami z domów i obiektów, w których odpady zbierane są przez firmy odbierające odpady na ciężarówkach i transportują odpady do zakładów uzdatniania i utylizacji odpadów.",
+  "path": "Transport i logistyka > Kierowcy ciężarówek i autobusów",
+  "tasks": [
+   "Prowadzisz śmieciarkę po trasie odbioru odpadów",
+   "Opróżniasz pojemniki do pojazdu",
+   "Wozisz odpady do zakładu utylizacji",
+   "Zgłaszasz źle wystawione lub uszkodzone pojemniki"
+  ]
+ },
+ {
+  "id": 811,
+  "name": "Pracownik ds. transportu żywych zwierząt",
+  "desc": "Pracownicy ds. transportu żywych zwierząt zapewniają transport i przewóz żywych zwierząt, w tym monitorowanie zdrowia i dobrostanu zwierząt, planowanie i przygotowanie do podróży, załadunek i rozładunek zwierząt, zgodnie z ustawodawstwem krajowym i międzynarodowym.",
+  "path": "Transport i logistyka > Kierowcy ciężarówek i autobusów",
+  "tasks": [
+   "Planujesz podróż i przygotowujesz transport",
+   "Ładujesz i rozładowujesz zwierzęta",
+   "Obserwujesz zdrowie i zachowanie zwierząt w drodze",
+   "Stosujesz przepisy krajowe i międzynarodowe"
+  ]
+ },
+ {
+  "id": 812,
+  "name": "Kierowca trolejbusu",
+  "desc": "Kierujący trolejbusów jeżdżą trolejbusami lub autobusami torowymi, pobierają opłaty i opiekują się pasażerami.",
+  "path": "Transport i logistyka > Kierowcy ciężarówek i autobusów",
+  "tasks": [
+   "Prowadzisz trolejbus po trasie pod siecią",
+   "Zatrzymujesz się na przystankach według rozkładu",
+   "Pobierasz opłaty za przejazd",
+   "Opiekujesz się pasażerami podczas jazdy"
+  ]
+ },
+ {
+  "id": 813,
+  "name": "Kierujący tramwajem",
+  "desc": "Kierujący tramwajami jeżdżą tramwajami, pobierają opłaty i opiekują się pasażerami.",
+  "path": "Transport i logistyka > Kierowcy ciężarówek i autobusów",
+  "tasks": [
+   "Prowadzisz tramwaj po szynach",
+   "Zatrzymujesz skład na przystankach według rozkładu",
+   "Pobierasz opłaty od pasażerów",
+   "Obserwujesz ruch wokół torowiska"
+  ]
+ },
+ {
+  "id": 814,
+  "name": "Asystent lotu",
+  "desc": "Asystenci lotu wykonują różne usługi osobiste mające zapewnić bezpieczeństwo i komfort pasażerów linii lotniczych podczas lotu. Witają pasażerów, sprawdzają bilety i kierują pasażerów do przydzielonych miejsc. Po wylądowaniu przygotowują sprawozdania opisujące przebieg lotu pod względem operacji, procedur i nieprawidłowości.",
+  "path": "Transport i logistyka > Stewardzi i konduktorzy",
+  "tasks": [
+   "Witasz pasażerów i sprawdzasz bilety",
+   "Kierujesz pasażerów na przydzielone miejsca",
+   "Wyjaśniasz zasady bezpieczeństwa",
+   "Piszesz sprawozdanie po lądowaniu"
+  ]
+ },
+ {
+  "id": 815,
+  "name": "Asystent obsługi podróżnego",
+  "desc": "Asystenci obsługi podróżnego pracują w pociągach, świadcząc usługi na rzecz pasażerów, obejmujące m.in. witanie pasażerów, odpowiadanie na ich pytania i serwowanie posiłków.",
+  "path": "Transport i logistyka > Stewardzi i konduktorzy",
+  "tasks": [
+   "Witasz pasażerów przy wejściu do wagonu",
+   "Odpowiadasz na pytania o trasę i przesiadki",
+   "Serwujesz posiłki i napoje",
+   "Sprawdzasz bilety podczas jazdy"
+  ]
+ },
+ {
+  "id": 816,
+  "name": "Steward statku / stewardesa statku",
+  "desc": "Stewardzi/stewardessy statku pracują na pokładzie statku, gdzie zajmują się obsługą pasażerów, obejmującą serwowanie posiłków, służbę pokojową, witanie pasażerów i wyjaśnianie procedur bezpieczeństwa.",
+  "path": "Transport i logistyka > Stewardzi i konduktorzy",
+  "tasks": [
+   "Serwujesz posiłki pasażerom na statku",
+   "Sprzątasz kajuty w ramach służby pokojowej",
+   "Witasz pasażerów przy wejściu na pokład",
+   "Wyjaśniasz procedury bezpieczeństwa na statku"
+  ]
+ },
+ {
+  "id": 817,
+  "name": "Konduktor",
+  "desc": "Konduktorzy pomagają pasażerom podczas wsiadania i wysiadania z pociągu. Udzielają oni odpowiedzi na pytania pasażerów dotyczące przepisów kolejowych i stacji oraz przekazują informacje dotyczące rozkładu jazdy. Sprawdzają bilety jednorazowe i wieloprzejazdowe, pobierają od pasażerów opłaty za przejazd oraz pomagają kierownikowi pociągu w wykonywaniu zadań operacyjnych związanych m.in. z zamykaniem drzwi i przekazywaniem określonych informacji operacyjnych. Dbają o bezpieczeństwo pasażerów i reagują w razie problemów technicznych i sytuacji nadzwyczajnych.",
+  "path": "Transport i logistyka > Stewardzi i konduktorzy",
+  "tasks": [
+   "Sprawdzasz bilety i pobierasz opłaty za przejazd",
+   "Odpowiadasz na pytania o rozkład i przesiadki",
+   "Pomagasz kierownikowi przy zamykaniu drzwi",
+   "Reagujesz, gdy pociąg się psuje lub ktoś zasłabnie"
+  ]
+ },
+ {
+  "id": 818,
+  "name": "Kontroler biletów",
+  "desc": "Kontrolerzy biletów sprawdzają bilety jednorazowe i wieloprzejazdowe oraz pobierają od pasażerów opłaty za przejazd. Udzielają oni odpowiedzi na pytania pasażerów dotyczące przepisów przewozowych, informacji o stacjach i rozkładach jazdy.",
+  "path": "Transport i logistyka > Stewardzi i konduktorzy",
+  "tasks": [
+   "Oglądasz bilety papierowe i elektroniczne",
+   "Pobierasz opłaty od osób bez biletu",
+   "Wyjaśniasz przepisy przewozowe",
+   "Podpowiadasz, jak dojechać do stacji"
+  ]
+ },
+ {
+  "id": 819,
+  "name": "Kierownik pociągu",
+  "desc": "Kierownicy pociągów są odpowiedzialni za bezpieczne wykonanie wszystkich zadań operacyjnych na pokładzie pociągów pasażerskich poza kabiną maszynisty, takich jak nadzorowanie bezpiecznego otwierania i zamykania drzwi pociągu. Nadzorują i stale dbają o bezpieczeństwo pasażerów, zwłaszcza w przypadku problemów technicznych i sytuacji nadzwyczajnych. Zapewniają oni komunikację operacyjną maszynisty z personelem kontroli ruchu zgodnie z przepisami operacyjnymi. W przypadku kilku członków personelu obsługi nadzorują pracę zespołu konduktorów.",
+  "path": "Transport i logistyka > Stewardzi i konduktorzy",
+  "tasks": [
+   "Nadzorujesz otwieranie i zamykanie drzwi",
+   "Utrzymujesz łączność z maszynistą i kontrolą ruchu",
+   "Kierujesz pracą zespołu konduktorów",
+   "Organizujesz pomoc pasażerom podczas awarii"
+  ]
+ },
+ {
+  "id": 820,
+  "name": "Pracownik obsługi podróżnych na stacjach kolejowych",
+  "desc": "Pracownicy obsługi podróżnych na stacjach kolejowych obsługują klientów na dworcach kolejowych, udzielają odpowiedzi na ich pytania i szybko reagują na nieprzewidziane sytuacje zgodnie z zasadami bezpieczeństwa. Udzielają oni informacji i wsparcia w zakresie mobilności oraz dbają o bezpieczeństwo na dworcach kolejowych. Dostarczają oni dokładnych i aktualnych informacji na temat czasu przyjazdu i odjazdu pociągów i połączeń kolejowych oraz pomagają klientom w planowaniu podróży.",
+  "path": "Transport i logistyka > Stewardzi i konduktorzy",
+  "tasks": [
+   "Podajesz godziny i perony pociągów",
+   "Pomagasz zaplanować podróż z przesiadkami",
+   "Pomagasz osobom z niepełnosprawnością wsiąść do pociągu",
+   "Reagujesz na zgubione rzeczy i zasłabnięcia"
+  ]
+ },
+ {
+  "id": 821,
+  "name": "Szef pokładu / szefowa pokładu",
+  "desc": "Szefowie/szefowie pokładu są odpowiedzialni za motywowanie personelu pokładowego do spełniania najwyższych oczekiwań pasażerów oraz do stosowania przepisów bezpieczeństwa na pokładzie samolotu.",
+  "path": "Transport i logistyka > Stewardzi i konduktorzy",
+  "tasks": [
+   "Prowadzisz odprawę załogi przed lotem",
+   "Sprawdzasz wyposażenie awaryjne na pokładzie",
+   "Przekazujesz pasażerom komunikaty z kabiny",
+   "Rozwiązujesz problemy z pasażerami i załogą"
+  ]
+ },
+ {
+  "id": 822,
+  "name": "Kierowca bankowozu",
+  "desc": "Kierowcy bankowozów prowadzą opancerzone samochody do przewozu cennych przedmiotów, takich jak pieniądze, do różnych lokalizacji. Nigdy nie opuszczają samochodu. Współpracują ze strażnikami samochodów opancerzonych, którzy dostarczają przedmioty wartościowe do odbiorców końcowych. Kierowcy bankowozów zapewniają bezpieczeństwo pojazdów przez cały czas, przestrzegając polityki firmy.",
+  "path": "Transport i logistyka > Kierowcy aut osobowych i motocykli",
+  "tasks": [
+   "Prowadzisz opancerzony pojazd po ustalonej trasie",
+   "Pilnujesz pojazdu przez cały czas",
+   "Utrzymujesz łączność ze strażnikami i centralą",
+   "Sprawdzasz stan techniczny auta przed wyjazdem"
+  ]
+ },
+ {
+  "id": 823,
+  "name": "Kierowca karawanu",
+  "desc": "Kierowcy karawanów prowadzą i konserwują wyspecjalizowane pojazdy do przewozu osób zmarłych z ich domów, szpitali lub domów pogrzebowych na miejsce wiecznego spoczynku. Pomagają również pracownikom firmy pogrzebowej w ich obowiązkach.",
+  "path": "Transport i logistyka > Kierowcy aut osobowych i motocykli",
+  "tasks": [
+   "Prowadzisz karawan spokojnie i płynnie",
+   "Pomagasz przy przenoszeniu trumny",
+   "Myjesz i konserwujesz specjalny pojazd",
+   "Przyjeżdżasz punktualnie na ceremonię"
+  ]
+ },
+ {
+  "id": 824,
+  "name": "Kierowca samochodu dostawczego",
+  "desc": "Kierowcy samochodów dostawczych dostarczają towary i paczki do określonych miejsc, korzystając z motocykla, samochodu lub furgonetki. Załadowują i rozładowują towary zgodnie z harmonogramem, zapewniają właściwe obchodzenie się z paczkami, przestrzegają wskazówek i planują najlepszą trasę do każdego miejsca przeznaczenia.",
+  "path": "Transport i logistyka > Kierowcy aut osobowych i motocykli",
+  "tasks": [
+   "Układasz paczki w aucie według trasy",
+   "Planujesz najkrótszą kolejność dostaw",
+   "Wnosisz paczki do klientów i sklepów",
+   "Zbierasz podpisy potwierdzające odbiór"
+  ]
+ },
+ {
+  "id": 825,
+  "name": "Kierowca transportu medycznego",
+  "desc": "Kierowcy transportu medycznego przewożą osoby niepełnosprawne, osoby znajdujące się w trudnej sytuacji oraz osoby w podeszłym do placówek opieki zdrowotnej, takich jak szpitale lub ośrodki opieki społecznej, i z powrotem. Prowadzą oni ambulans i konserwują całe związane z nim wyposażenie, ale w sytuacjach innych niż nagłe.",
+  "path": "Transport i logistyka > Kierowcy aut osobowych i motocykli",
+  "tasks": [
+   "Pomagasz pasażerom wsiąść i wysiąść",
+   "Zabezpieczasz wózek lub nosze w pojeździe",
+   "Dowozisz pacjentów na wizyty i terapie",
+   "Sprawdzasz wyposażenie ambulansu po kursie"
+  ]
+ },
+ {
+  "id": 826,
+  "name": "Kurier motocyklowy",
+  "desc": "Kurierzy motocyklowi wykonują transport wszelkiego rodzaju paczek zawierających przedmioty, luźne elementy, gotowe posiłki, leki i dokumenty, które wymagają specjalnego traktowania pod względem pilności, wartości lub delikatności. Przewożą oni i przekazują paczki na motocyklu.",
+  "path": "Transport i logistyka > Kierowcy aut osobowych i motocykli",
+  "tasks": [
+   "Odbierasz paczkę i sprawdzasz adres",
+   "Pakujesz przesyłkę, by się nie uszkodziła",
+   "Wybierasz najszybszą trasę przez miasto",
+   "Przekazujesz paczkę i bierzesz potwierdzenie"
+  ]
+ },
+ {
+  "id": 827,
+  "name": "Parkingowy",
+  "desc": "Parkingowi zapewniają pomoc klientom, przemieszczając ich pojazdy do określonego miejsca parkingowego. Mogą oni również pomóc w obsłudze bagażu klientów i dostarczać informacji na temat stawek parkingowych. Parkingowi utrzymują przyjazny stosunek do klientów i przestrzegają polityki oraz procedur firmy.",
+  "path": "Transport i logistyka > Kierowcy aut osobowych i motocykli",
+  "tasks": [
+   "Odbierasz kluczyki i oglądasz auto z klientem",
+   "Parkujesz pojazdy precyzyjnie na ciasnym parkingu",
+   "Wydajesz auta na prośbę klientów",
+   "Informujesz o stawkach i zasadach parkowania"
+  ]
+ },
+ {
+  "id": 828,
+  "name": "Prywatny kierowca",
+  "desc": "Prywatni kierowcy bezpiecznie i na czas przewożą swoich pracodawców do określonego miejsca przeznaczenia. Korzystają z urządzeń nawigacyjnych, aby dotrzeć do miejsca przeznaczenia w najkrótszym możliwym czasie, doradzają w sprawie pogody i warunków drogowych oraz spełniają wymogi prawne w zakresie kierowania.",
+  "path": "Transport i logistyka > Kierowcy aut osobowych i motocykli",
+  "tasks": [
+   "Planujesz trasę z wyprzedzeniem",
+   "Sprawdzasz pogodę i warunki na drodze",
+   "Utrzymujesz auto w czystości i gotowe do jazdy",
+   "Zachowujesz dyskrecję w sprawach pasażera"
+  ]
+ },
+ {
+  "id": 829,
+  "name": "Bosman",
+  "desc": "Bosmani organizują załogę na pokładzie i w ładowni do wykonania zleceń otrzymanych od przełożonego. Koordynują oni działania w zakresie konserwacji, manewrowania, montażu i naprawy narzędzi połowowych oraz sortowania, przetwarzania i konserwowania połowów, przestrzegając norm sanitarnych i ustalonych przepisów w zakresie bezpieczeństwa.",
+  "path": "Transport i logistyka > Marynarze",
+  "tasks": [
+   "Przydzielasz załodze zadania na pokładzie",
+   "Nadzorujesz naprawę sieci i innych narzędzi połowowych",
+   "Pilnujesz sortowania i konserwowania połowu",
+   "Pilnujesz przepisów bezpieczeństwa i higieny"
+  ]
+ },
+ {
+  "id": 830,
+  "name": "Marynarz motorzysta żeglugi śródlądowej",
+  "desc": "Marynarze motorzyści żeglugi śródlądowej wykonują prace związane z oddziałem pokładowym statku żeglugi śródlądowej. Korzystają z własnego doświadczenia na pokładzie silnikowego statku żeglugi śródlądowej jako zwykli członkowie załogi i mają podstawową wiedzę na temat silników.",
+  "path": "Transport i logistyka > Marynarze",
+  "tasks": [
+   "Odcumowujesz i cumujesz statek przy nabrzeżu",
+   "Zmywasz pokład i konserwujesz sprzęt",
+   "Sprawdzasz poziom oleju i pracę silnika",
+   "Pomagasz mechanikowi przy drobnych usterkach"
+  ]
+ },
+ {
+  "id": 831,
+  "name": "Marynarz statku morskiego",
+  "desc": "Marynarze statków morskich pomagają kapitanom statków i załodze wyższej w hierarchii w eksploatacji statków. Odkurzają i woskują meble oraz polerują drewniane wykończenia, zamiatają podłogi i pokłady oraz polerują mosiądz i pozostałe części metalowe. Kontrolują, naprawiają i konserwują żagle i olinowanie oraz powierzchnie pokryte farbami i lakierem. Dokonują napraw awaryjnych silnika pomocniczego. Marynarze mogą składować materiały i sprzęt oraz rejestrować dane w dzienniku, takie jak warunki pogodowe i przebyta odległość.",
+  "path": "Transport i logistyka > Marynarze",
+  "tasks": [
+   "Szorujesz pokłady i polerujesz mosiądz",
+   "Kontrolujesz i naprawiasz żagle i olinowanie",
+   "Malujesz i lakierujesz powierzchnie statku",
+   "Zapisujesz pogodę i dystans w dzienniku"
+  ]
+ },
+ {
+  "id": 832,
+  "name": "Marynarz żeglugi śródlądowej",
+  "desc": "Marynarze żeglugi śródlądowej są członkami oddziału pokładowego statku żeglugi śródlądowej. Mogą pracować na kole sterowym, na pokładzie, w ładowni i w maszynowni. Mogą być wezwani w celu użycia urządzeń awaryjnych, ratujących życie, kontrolujących uszkodzenia oraz sprzętu bezpieczeństwa. Wykonują one wszystkie czynności związane z uruchomieniem sprzętu ratującego życie i oczekuje się, że będą w stanie obsługiwać maszyny pokładowe, urządzenia cumownicze i urządzenia kotwiczące.",
+  "path": "Transport i logistyka > Marynarze",
+  "tasks": [
+   "Stoisz przy kole sterowym podczas rejsu",
+   "Obsługujesz kotwicę i liny cumownicze",
+   "Pracujesz na pokładzie, w ładowni i maszynowni",
+   "Uruchamiasz sprzęt ratunkowy w razie zagrożenia"
+  ]
+ },
+ {
+  "id": 833,
+  "name": "Młodszy marynarz na statkach morskich",
+  "desc": "Młodsi marynarze na statkach morskich zajmują najniższą pozycję w załodze na pokładzie statku morskiego. Stanowią oni główną siłę roboczą na pokładzie statku, gdzie pomagają w eksploatacji statku. Są oni nadzorowani przez kapitana statku i inżyniera i mogą otrzymywać instrukcje od każdej osoby znajdującej się nad nimi w hierarchii.",
+  "path": "Transport i logistyka > Marynarze",
+  "tasks": [
+   "Szorujesz i konserwujesz pokład",
+   "Pomagasz przy cumowaniu i kotwiczeniu",
+   "Wykonujesz polecenia oficerów i starszych marynarzy",
+   "Przenosisz i układasz sprzęt oraz zapasy"
+  ]
+ },
+ {
+  "id": 834,
+  "name": "Młodszy marynarz żeglugi śródlądowej",
+  "desc": "Młodsi marynarze żeglugi śródlądowej są nielicencjonowanymi członkami oddziału pokładowego statku żeglugi śródlądowej. Stanowisko to jest zazwyczaj pierwszym krokiem na drodze do stanowiska uprawnionego marynarza lub wyższej pozycji. Wykonują oni szereg obowiązków związanych z eksploatacją i utrzymaniem stref oddziału pokładowego, silnika i innego sprzętu, cumowania i odcumowania, jak również (do pewnego stopnia) sterowania statkiem.",
+  "path": "Transport i logistyka > Marynarze",
+  "tasks": [
+   "Podajesz liny starszym marynarzom przy cumowaniu",
+   "Sprzątasz i konserwujesz pokład",
+   "Pomagasz przy silniku i sprzęcie",
+   "Uczysz się sterowania pod nadzorem"
+  ]
+ },
+ {
+  "id": 835,
+  "name": "Rybak",
+  "desc": "Rybacy prowadzą prace na statkach rybackich, gdzie wykonują działalność związaną z połowami. Podejmują oni szeroki zakres działalności połowowej i morskiej na lądzie i na morzu, takiej jak obsługa narzędzi połowowych i połowów, łączność, zaopatrzenie, praktyka morska, usługi hotelarskie i magazynowe.",
+  "path": "Transport i logistyka > Marynarze",
+  "tasks": [
+   "Zarzucasz i wyciągasz sieci",
+   "Sortujesz i chłodzisz złowione ryby",
+   "Naprawiasz sprzęt połowowy",
+   "Pilnujesz łączności radiowej i zapasów na statku"
+  ]
+ },
+ {
+  "id": 836,
+  "name": "Dróżnik przejazdowy",
+  "desc": "Dróżnicy przejazdowi obsługują sprzęt służący do ochrony przejazdów kolejowych, zgodnie z przepisami bezpieczeństwa. Nadzorują oni sytuacje w ruchu na przejeździe kolejowym i w razie konieczności komunikują się z kontrolerami ruchu, maszynistami i innymi sygnalistami.",
+  "path": "Transport i logistyka > Kolej",
+  "tasks": [
+   "Opuszczasz i podnosisz zapory przejazdu",
+   "Obserwujesz samochody, pieszych i tory",
+   "Rozmawiasz przez radio z dyżurnym ruchu",
+   "Alarmujesz, gdy coś blokuje przejazd"
+  ]
+ },
+ {
+  "id": 837,
+  "name": "Dyżurny ruchu",
+  "desc": "Dyżurni ruchu zapewniają bezpieczną i sprawną obsługę pociągu. Ich głównym priorytetem jest bezpieczeństwo klientów. Podczas wykonywania obowiązków w zakresie odprawy pociągu sprawdzają oni sygnały ruchu i szybko porozumiewają się z maszynistami i przewodnikami pociągów w kwestii bezpiecznego odjazdu pociągu.",
+  "path": "Transport i logistyka > Kolej",
+  "tasks": [
+   "Przyjmujesz i wypuszczasz pociągi ze stacji",
+   "Ustawiasz drogi przejazdu dla pociągów",
+   "Rozmawiasz z maszynistami przez radio",
+   "Sprawdzasz sygnały i rozkład jazdy"
+  ]
+ },
+ {
+  "id": 838,
+  "name": "Manewrowy",
+  "desc": "Manewrowi przemieszczają jednostki manewrowe z wagonami lub grupami wagonów lub bez nich w celu budowy pociągów. Zajmują się oni kierowaniem lokomotywami i biorą udział w przełączaniu wagonów, tworzeniu lub rozdzielaniu pociągów na stacjach rozrządowych lub na bocznicach. Działają oni zgodnie z właściwościami technicznymi, takimi jak kontrola ruchu przez urządzenie zdalnego sterowania.",
+  "path": "Transport i logistyka > Kolej",
+  "tasks": [
+   "Układasz pociągi z wagonów według zlecenia",
+   "Rozłączasz wagony na stacji rozrządowej",
+   "Dajesz maszyniście sygnały ręką lub radiem",
+   "Przechodzisz po torach i sprawdzasz sprzęgi"
+  ]
+ },
+ {
+  "id": 839,
+  "name": "Przygotowujący pociąg",
+  "desc": "Przygotowujący pociągi odpowiadają za sprawdzanie i testowanie urządzeń i systemów w pojazdach kolejowych przed ich uruchomieniem. Dopilnowują, aby pociąg był w stanie kwalifikującym do rozpoczęcia pracy, aby wyposażenie pociągu było prawidłowo rozmieszczone, a formacja pociągu odpowiadała wyznaczonej trasie. W zależności od organizacji pracy podmiotu przeprowadzają oni również inspekcje techniczne przed wprowadzeniem pociągu do eksploatacji.",
+  "path": "Transport i logistyka > Kolej",
+  "tasks": [
+   "Testujesz drzwi, światła i systemy w wagonach",
+   "Sprawdzasz hamulce przed wyjazdem",
+   "Sprawdzasz, czy wagony mają wymagane wyposażenie",
+   "Potwierdzasz, że skład pasuje do trasy"
+  ]
+ }
+]

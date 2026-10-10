@@ -1,0 +1,722 @@
+[
+ {
+  "id": 660,
+  "name": "Specjalista ds. reklamy",
+  "desc": "Specjaliści ds. reklamy udzielają porad przedsiębiorstwom i organizacjom na temat opracowania ich strategii reklamowych oraz na tematy związane z reklamą, obejmujące ogólniejsze podejście strategiczne. Łączą wiedzę z zakresu marketingu, budżetów i psychologii z kreatywnym myśleniem, żeby na tej podstawie opracowywać kampanie reklamowe. Proponują klientom alternatywne sposoby promowania ich organizacji, produktów lub projektów.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Rozmawiasz z klientem o jego celach",
+   "Układasz plan kampanii reklamowej",
+   "Dobierasz kanały, w których reklama zadziała",
+   "Proponujesz alternatywne pomysły na promocję"
+  ]
+ },
+ {
+  "id": 661,
+  "name": "Specjalista ds. rozwoju biznesu",
+  "desc": "Specjaliści ds. rozwoju biznesu dążą do zwiększenia udziału firmy w rynku. Przeprowadzają analizy strategiczne podstawowych korzyści zapewnianych przez produkty lub usługi firmy, współpracują przy opracowywaniu kampanii marketingowych służących generowaniu zainteresowania i wspierają działania sprzedażowe.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Analizujesz, czym oferta firmy wyróżnia się",
+   "Szukasz nowych rynków i klientów",
+   "Współtworzysz kampanie marketingowe",
+   "Wspierasz handlowców w rozmowach z klientami"
+  ]
+ },
+ {
+  "id": 662,
+  "name": "Specjalista ds. zakupu mediów",
+  "desc": "Specjaliści ds. zakupu mediów kupują, w imieniu swoich klientów, przestrzeń reklamową w mediach drukowanych, radiu, telewizji i internecie. Analizują skuteczność i odpowiedniość poszczególnych kanałów w zależności od towaru lub usługi, doradzając przy podejmowaniu decyzji. Próbują wynegocjować najkorzystniejszą cenę bez uszczerbku dla jakości reklam. Wspierają opracowywanie i realizację planów komunikacji w zakresie marketingu i reklamy za pośrednictwem najodpowiedniejszych środków przekazu.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Wybierasz kanały pasujące do produktu",
+   "Negocjujesz ceny reklam z mediami",
+   "Porównujesz zasięg i skuteczność reklam",
+   "Układasz plan emisji reklam"
+  ]
+ },
+ {
+  "id": 663,
+  "name": "Doradca techniczny–przedstawiciel handlowy",
+  "desc": "Doradcy techniczni–przedstawiciele handlowi reprezentują przedsiębiorstwo w zakresie sprzedaży jego produktów, zapewniając klientom wiedzę techniczną.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Odwiedzasz klientów i poznajesz ich potrzeby",
+   "Pokazujesz działanie produktu",
+   "Odpowiadasz na techniczne pytania",
+   "Przygotowujesz oferty i negocjujesz warunki"
+  ]
+ },
+ {
+  "id": 664,
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży maszyn górniczych i budowlanych",
+  "desc": "Przedstawiciele techniczno-handlowi ds. sprzedaży maszyn górniczych i budowlanych reprezentują przedsiębiorstwo w zakresie sprzedaży jego produktów, zapewniając klientom wiedzę techniczną.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Dobierasz maszynę do rodzaju prac klienta",
+   "Prezentujesz sprzęt na placu budowy",
+   "Tłumaczysz parametry i możliwości maszyn",
+   "Negocjujesz warunki dużych zamówień"
+  ]
+ },
+ {
+  "id": 665,
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży maszyn i urządzeń przemysłowych",
+  "desc": "Przedstawiciele techniczno-handlowi ds. sprzedaży maszyn i urządzeń przemysłowych reprezentują przedsiębiorstwo w zakresie sprzedaży jego produktów, zapewniając klientom wiedzę techniczną.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Poznajesz proces produkcji w zakładzie klienta",
+   "Proponujesz maszyny pasujące do linii",
+   "Omawiasz z technikami parametry urządzeń",
+   "Przygotowujesz oferty i harmonogram dostaw"
+  ]
+ },
+ {
+  "id": 666,
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży maszyn rolniczych",
+  "desc": "Przedstawiciele techniczno-handlowi ds. sprzedaży maszyn rolniczych reprezentują przedsiębiorstwo w zakresie sprzedaży jego produktów, zapewniając klientom wiedzę techniczną.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Odwiedzasz gospodarstwa rolne",
+   "Doradzasz, jaki ciągnik lub kombajn wybrać",
+   "Pokazujesz maszyny na demonstracjach w polu",
+   "Ustalasz warunki zakupu i serwisu"
+  ]
+ },
+ {
+  "id": 667,
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży maszyn włókienniczych",
+  "desc": "Przedstawiciele techniczno-handlowi ds. sprzedaży maszyn włókienniczych reprezentują przedsiębiorstwo w zakresie sprzedaży jego produktów, zapewniając klientom wiedzę techniczną.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Prezentujesz maszyny do tkania lub dziania",
+   "Omawiasz z klientem rodzaj produkowanych tkanin",
+   "Wyjaśniasz parametry i możliwości sprzętu",
+   "Przygotowujesz oferty dla zakładów włókienniczych"
+  ]
+ },
+ {
+  "id": 668,
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży produktów chemicznych",
+  "desc": "Przedstawiciele techniczno-handlowi ds. sprzedaży produktów chemicznych reprezentują przedsiębiorstwo w zakresie sprzedaży jego produktów, zapewniając klientom wiedzę techniczną.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Doradzasz, który produkt pasuje do zadania",
+   "Tłumaczysz właściwości i zastosowanie produktów",
+   "Odwiedzasz klientów i budowy",
+   "Przygotowujesz oferty i omawiasz dostawy"
+  ]
+ },
+ {
+  "id": 669,
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży sprzętu biurowego",
+  "desc": "Przedstawiciele techniczno-handlowi ds. sprzedaży sprzętu biurowego reprezentują przedsiębiorstwo w zakresie sprzedaży jego produktów, zapewniając klientom wiedzę techniczną.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Odwiedzasz biura i sprawdzasz ich potrzeby",
+   "Pokazujesz działanie drukarek i innych urządzeń",
+   "Liczysz, ile kosztuje wyposażenie biura",
+   "Odnawiasz umowy z dotychczasowymi klientami"
+  ]
+ },
+ {
+  "id": 670,
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży sprzętu hydraulicznego i grzejnego",
+  "desc": "Przedstawiciele techniczno-handlowi ds. sprzedaży sprzętu hydraulicznego i grzejnego reprezentują przedsiębiorstwo w zakresie sprzedaży jego produktów, zapewniając klientom wiedzę techniczną.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Doradzasz instalatorom w doborze sprzętu",
+   "Tłumaczysz różnice między grzejnikami i kotłami",
+   "Odwiedzasz hurtownie i firmy instalacyjne",
+   "Przygotowujesz oferty na dostawy"
+  ]
+ },
+ {
+  "id": 671,
+  "name": "Doradca ds. energii odnawialnej",
+  "desc": "Doradcy ds. energii odnawialnej doradzają klientom w kwestiach zalet i wad różnych odnawialnych źródeł energii. Prowadzą ankiety i wywiady służące badaniu zapotrzebowania na energię ze źródeł odnawialnych i badaniu opinii w tej dziedzinie oraz starają się doradzić klientom źródło takiej energii najkorzystniejsze dla ich potrzeb.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Prowadzisz ankiety i rozmowy z klientami",
+   "Badasz zapotrzebowanie klienta na energię",
+   "Porównujesz zalety i wady różnych źródeł",
+   "Rekomendujesz rozwiązanie pasujące do klienta"
+  ]
+ },
+ {
+  "id": 672,
+  "name": "Inżynier sprzedaży",
+  "desc": "Inżynierowie sprzedaży zapewniają dostosowanie techniczne produktów odpowiednio do życzeń i potrzeb klientów (głównie sprzętu ciężkiego), np. sprzętu budowlanego. Zajmują się kontaktami z przedsiębiorstwami i odpowiadają za kompleksowe naprawy i działania konserwacyjne.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Poznajesz potrzeby firmy kupującej sprzęt",
+   "Dostosowujesz techniczne wyposażenie maszyny",
+   "Negocjujesz warunki z przedsiębiorstwami",
+   "Organizujesz naprawy i konserwację sprzętu"
+  ]
+ },
+ {
+  "id": 673,
+  "name": "Przedstawiciel medyczny",
+  "desc": "Przedstawiciele medyczni promują i sprzedają wyroby medyczne, sprzęt i produkty farmaceutyczne pracownikom służby zdrowia. Zapewniają informacje o produktach i prezentują ich cechy pracownikom służby zdrowia. Przedstawiciele medyczni negocjują i zawierają umowy sprzedaży.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Odwiedzasz gabinety i apteki",
+   "Prezentujesz cechy leków lub sprzętu",
+   "Odpowiadasz na pytania personelu medycznego",
+   "Negocjujesz i zawierasz umowy sprzedaży"
+  ]
+ },
+ {
+  "id": 674,
+  "name": "Specjalista ds. fotowoltaiki",
+  "desc": "Specjaliści ds. fotowoltaiki udzielają porad w zakresie wykorzystania energii słonecznej do celów domowych lub przemysłowych i mają na celu promowanie wykorzystania tej energii jako alternatywnego i bardziej zrównoważonego źródła energii. Kontaktują się z potencjalnymi klientami i uczestniczą w wydarzeniach służących nawiązywaniu kontaktów, żeby zapewnić większą sprzedaż produktów dotyczących energetyki solarnej.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Kontaktujesz się z potencjalnymi klientami",
+   "Wyjaśniasz, jak panele wytwarzają energię",
+   "Liczysz, ile może dać instalacja",
+   "Bywasz na targach i spotkaniach branżowych"
+  ]
+ },
+ {
+  "id": 675,
+  "name": "Specjalista ds. obsługi posprzedażowej",
+  "desc": "Specjaliści ds. obsługi posprzedażowej oferują klientom wsparcie posprzedażowe, takie jak instalacja, konserwacja i naprawa sprzedawanych produktów. Podejmują działania naprawcze w celu zapewnienia zadowolenia klientów, rozstrzygają kwestie techniczne związane z produktem oraz sporządzają sprawozdania podsumowujące z działalności.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Umawiasz instalację i serwis produktów",
+   "Diagnozujesz problemy techniczne zgłaszane przez klientów",
+   "Naprawiasz usterki lub zlecasz naprawę",
+   "Piszesz sprawozdania z wykonanych zgłoszeń"
+  ]
+ },
+ {
+  "id": 676,
+  "name": "Agitator wyborczy",
+  "desc": "Agitatorzy wyborczy działają w terenie, żeby przekonać obywateli do głosowania na reprezentowanego przez siebie kandydata. Prowadzą bezpośrednie rozmowy w miejscach publicznych i gromadzą informacje na temat opinii obywateli, a także prowadzą działania dotarcie informacji o kampanii do szerokiego grona odbiorców.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Rozmawiasz z przechodniami o kandydacie",
+   "Rozdajesz ulotki i materiały kampanii",
+   "Zapisujesz, jakie sprawy ludzi niepokoją",
+   "Przekazujesz sztabowi opinie z terenu"
+  ]
+ },
+ {
+  "id": 677,
+  "name": "Specjalista ds. kampanii politycznych",
+  "desc": "Specjaliści ds. kampanii politycznych udzielają wsparcia podczas kampanii politycznych, doradzając kandydatowi i osobom kierującym kampanią w zakresie strategii kampanii i koordynowania sztabu kampanii, a także opracowując strategie reklamowe i badawcze.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Doradzasz kandydatowi w sprawie strategii",
+   "Koordynujesz pracę sztabu kampanii",
+   "Planujesz reklamy i wystąpienia kandydata",
+   "Zlecasz i czytasz badania opinii"
+  ]
+ },
+ {
+  "id": 678,
+  "name": "Rzecznik prasowy",
+  "desc": "Rzecznicy prasowi wypowiadają się w imieniu przedsiębiorstw lub organizacji. Stosują strategie komunikacyjne w celu reprezentowania klientów za pośrednictwem ogłoszeń i konferencji. Przestawiają swoich klientów w pozytywnym świetle i działają na rzecz lepszego rozumienia ich działań i interesów.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Piszesz komunikaty prasowe",
+   "Odpowiadasz na pytania dziennikarzy",
+   "Prowadzisz konferencje prasowe",
+   "Przygotowujesz stanowisko na trudne sytuacje"
+  ]
+ },
+ {
+  "id": 679,
+  "name": "Community manager",
+  "desc": "Kierownicy ds. społeczności internetowych zapewniają i utrzymują interaktywne środowisko z wykorzystaniem mediów społecznościowych, forów i wiki. Utrzymują relacje między różnymi społecznościami cyfrowymi.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Odpowiadasz na komentarze i wiadomości",
+   "Moderujesz dyskusje i usuwasz obraźliwe wpisy",
+   "Planujesz posty i konkursy dla społeczności",
+   "Sprawdzasz, które wpisy ludzie lubią najbardziej"
+  ]
+ },
+ {
+  "id": 680,
+  "name": "Lobbysta",
+  "desc": "Lobbyści działają w charakterze przedstawicieli celów klienta. Starają się przekonać organy prawodawcze i decydentów politycznych do wdrożenia przepisów ustawowych lub wykonawczych zgodnych z życzeniem klienta, a także negocjują ze stronami o potencjalnie sprzecznych interesach. Wykonują zadania analityczne i badawcze w celu zapewnienia, że interesy klienta zostaną we właściwy sposób przedstawione odpowiednim stronom. Konsultują się również ze swoimi klientami w sprawie ich interesów i polityk.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Analizujesz projekty przepisów",
+   "Spotykasz się z urzędnikami i politykami",
+   "Przygotowujesz argumenty dla klienta",
+   "Negocjujesz ze stronami o sprzecznych interesach"
+  ]
+ },
+ {
+  "id": 681,
+  "name": "Pracownik partii politycznej",
+  "desc": "Pracownicy partii politycznych zarządzają zadaniami administracyjnymi partii politycznych, takimi jak zarządzanie budżetem, prowadzenie dokumentacji, pisanie programów itp. Dbają również o produktywną komunikację z organami rządowymi oraz prasą i mediami.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Prowadzisz dokumentację i rozliczenia partii",
+   "Pilnujesz budżetu i wydatków partii",
+   "Piszesz fragmenty programu partii",
+   "Kontaktujesz się z mediami i urzędami"
+  ]
+ },
+ {
+  "id": 682,
+  "name": "Specjalista ds. komunikacji międzykulturowej",
+  "desc": "Specjaliści ds. komunikacji międzykulturowej specjalizują się w interakcjach społecznych między stronami wywodzącymi się z różnych kultur, doradzają organizacjom w zakresie interakcji międzynarodowych w celu optymalizacji ich wyników oraz ułatwiają współpracę i pozytywne kontakty z organizacjami i osobami wywodzącymi się z innych kultur.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Tłumaczysz różnice w zwyczajach i etykiecie",
+   "Doradzasz firmom w kontaktach z zagranicą",
+   "Pomagasz rozwiązywać nieporozumienia między kulturami",
+   "Przygotowujesz szkolenia o współpracy międzynarodowej"
+  ]
+ },
+ {
+  "id": 683,
+  "name": "Specjalista ds. pozyskiwania funduszy",
+  "desc": "Specjaliści ds. pozyskiwania funduszy są odpowiedzialni za pozyskiwanie środków w imieniu organizacji, często non-profit, np. organizacji charytatywnych. Ponadto zarządzają pozyskanymi środkami, opracowując programy ich wykorzystania. Wykonują szereg zadań w celu pozyskiwania środków, np. umacnianie współpracy z firmami, koordynowanie kampanii mailingu bezpośredniego, organizowanie zbiórek, kontaktowanie się z darczyńcami lub sponsorami oraz pozyskiwanie środków z funduszy powierniczych, fundacji i innych organów statutowych.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Piszesz wnioski o dofinansowanie",
+   "Kontaktujesz się z darczyńcami i sponsorami",
+   "Organizujesz zbiórki i kampanie mailowe",
+   "Opracowujesz plan wykorzystania zebranych środków"
+  ]
+ },
+ {
+  "id": 684,
+  "name": "Szef sztabu wyborczego / szefowa sztabu wyborczego",
+  "desc": "Szefowie sztabów wyborczych zarządzają kampanią wyborczą i nadzorują przebieg wyborów, żeby zapewnić ich rzetelność. Opracowują strategie wsparcia kandydatów i przekonują obywateli do głosowania na reprezentowanego przez siebie kandydata. Prowadzą badania w celu określenia, który wizerunek i pomysły byłyby dla kandydata najkorzystniejsze z punktu widzenia uzyskania największej liczby głosów.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Układasz strategię kampanii",
+   "Prowadzisz badania nad wizerunkiem kandydata",
+   "Dzielisz zadania między członków sztabu",
+   "Pilnujesz uczciwego przebiegu wyborów"
+  ]
+ },
+ {
+  "id": 685,
+  "name": "Zawodowy działacz",
+  "desc": "Zawodowi działacze wspierają lub utrudniają zmiany społeczne, polityczne, gospodarcze lub środowiskowe poprzez stosowanie różnych taktyk, takich jak analizy perswazyjne, presja medialna czy kampanie publiczne.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Planujesz kampanie społeczne",
+   "Piszesz petycje i apele",
+   "Zdobywasz uwagę mediów dla sprawy",
+   "Przekonujesz ludzi i decydentów argumentami"
+  ]
+ },
+ {
+  "id": 686,
+  "name": "Inżynier przedsprzedaży technologii informacyjno-telekomunikacyjnych",
+  "desc": "Inżynierowie przedsprzedaży technologii informacyjno-telekomunikacyjnych są czynnymi uczestnikami i zarządzającymi etapu oceny TIK w procesie sprzedaży, współpracując z zespołem ds. sprzedaży. Zapewniają doradztwo techniczne dla pracowników zajmujących się przedsprzedażą oraz planują i modyfikują konfiguracje TIK produktów w celu spełnienia wymogów klienta. Wykorzystują dodatkowe możliwości rozwoju działalności gospodarczej.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Doradzasz handlowcom w sprawach technicznych",
+   "Konfigurujesz sprzęt i usługi pod klienta",
+   "Sprawdzasz, czy oferta spełnia wymagania",
+   "Pokazujesz klientom działanie rozwiązania"
+  ]
+ },
+ {
+  "id": 687,
+  "name": "Kierownik ds. rozwoju przedsiębiorstwa w dziedzinie systemów informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy ds. rozwoju przedsiębiorstwa w dziedzinie systemów informacyjno-telekomunikacyjnych zwiększają możliwości biznesowe organizacji i opracowują strategie, które będą sprzyjać sprawnemu funkcjonowaniu organizacji, rozwijaniu produktów i ich dystrybucji. Negocjują ceny i ustalają warunki umów.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Szukasz nowych szans biznesowych dla firmy",
+   "Układasz strategię rozwoju produktów",
+   "Negocjujesz ceny z klientami i dystrybutorami",
+   "Ustalasz warunki umów o współpracy"
+  ]
+ },
+ {
+  "id": 688,
+  "name": "Opiekun klienta w dziedzinie technologii informacyjno-telekomunikacyjnych",
+  "desc": "Opiekunowie klienta w dziedzinie technologii informacyjno-telekomunikacyjnych tworzą relacje biznesowe z klientami w celu ułatwienia sprzedaży sprzętu komputerowego, oprogramowania, usług telekomunikacyjnych lub usług TIK. Określają również możliwości oraz zarządzają pozyskiwaniem i dostarczaniem produktów klientom. Realizują cele sprzedażowe i utrzymują rentowność.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Utrzymujesz stały kontakt z klientami firmowymi",
+   "Wyszukujesz okazje do kolejnej sprzedaży",
+   "Pilnujesz realizacji zamówień i dostaw",
+   "Realizujesz cele sprzedażowe"
+  ]
+ },
+ {
+  "id": 689,
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży urządzeń elektronicznych i telekomunikacyjnych",
+  "desc": "Przedstawiciele techniczno-handlowi ds. sprzedaży urządzeń elektronicznych i telekomunikacyjnych reprezentują przedsiębiorstwo w zakresie sprzedaży jego produktów, zapewniając klientom wiedzę techniczną.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Dobierasz urządzenia do potrzeb klienta",
+   "Pokazujesz możliwości sprzętu telekomunikacyjnego",
+   "Odpowiadasz na pytania o parametry",
+   "Przygotowujesz oferty i zamówienia"
+  ]
+ },
+ {
+  "id": 690,
+  "name": "Asystent sprzedaży / asystentka sprzedaży",
+  "desc": "Asystenci/asystentki sprzedaży pracują w sklepach, w których wykonują zadania związane z obsługą klientów. Pomagają właścicielom sklepu w codziennej pracy, w tym m.in. w składaniu zamówień i uzupełnianiu stanu towarów i zapasów, udzielaniu ogólnych porad klientom, sprzedaży produktów i prowadzeniu sklepu.",
+  "path": "Sprzedaż i marketing > Sprzedawcy w sklepach",
+  "tasks": [
+   "Obsługujesz klientów przy ladzie",
+   "Uzupełniasz towar na półkach",
+   "Składasz zamówienia do dostawców",
+   "Doradzasz klientom przy wyborze"
+  ]
+ },
+ {
+  "id": 691,
+  "name": "Doradca handlowy ds. części zamiennych",
+  "desc": "Doradcy handlowi ds. części zamiennych sprzedają części do pojazdów silnikowych, zamawiają części i wskazują alternatywne części zamienne.",
+  "path": "Sprzedaż i marketing > Sprzedawcy w sklepach",
+  "tasks": [
+   "Dopasowujesz część do modelu auta",
+   "Zamawiasz brakujące części u dostawców",
+   "Proponujesz tańsze lub inne zamienniki",
+   "Doradzasz mechanikom i kierowcom"
+  ]
+ },
+ {
+  "id": 692,
+  "name": "Osobisty doradca ds. wizerunku i zakupów",
+  "desc": "Osobiści doradcy ds. wizerunku i zakupów pomagają indywidualnym klientom w wyborze i zakupie odzieży i innych produktów, takich jak prezenty, zgodnie z ich gustem, życzeniami i stylem.",
+  "path": "Sprzedaż i marketing > Sprzedawcy w sklepach",
+  "tasks": [
+   "Rozmawiasz z klientem o jego stylu",
+   "Dobierasz ubrania i dodatki",
+   "Chodzisz z klientem po sklepach",
+   "Podpowiadasz prezenty dla jego bliskich"
+  ]
+ },
+ {
+  "id": 693,
+  "name": "Przedstawiciel leasingowy",
+  "desc": "Przedstawiciele leasingowi reprezentują przedsiębiorstwa zajmujące się finansowaniem pojazdów, oferujące odpowiednie programy leasingowe i dodatkowe usługi związane z pojazdem. Dokumentują zawierane transakcje, ubezpieczenia i raty.",
+  "path": "Sprzedaż i marketing > Sprzedawcy w sklepach",
+  "tasks": [
+   "Przedstawiasz programy leasingowe klientom",
+   "Wyliczasz raty dla wybranego samochodu",
+   "Przygotowujesz umowy i dokumenty",
+   "Proponujesz dodatkowe usługi do pojazdu"
+  ]
+ },
+ {
+  "id": 694,
+  "name": "Specjalista ds. administracji sprzedaży",
+  "desc": "Specjaliści ds. administracji sprzedaży zajmują się obsługą sprzedaży, wybierają kanały dostaw, realizują zamówienia i informują klientów o wysyłce i procedurach. Kontaktują się z klientami w celu uzupełnienia brakujących danych i/lub uzyskania dodatkowych informacji.",
+  "path": "Sprzedaż i marketing > Sprzedawcy w sklepach",
+  "tasks": [
+   "Wprowadzasz zamówienia klientów do systemu",
+   "Wybierasz sposób i termin wysyłki",
+   "Informujesz klientów o statusie przesyłki",
+   "Dzwonisz po brakujące dane zamówienia"
+  ]
+ },
+ {
+  "id": 695,
+  "name": "Wyspecjalizowany sprzedawca",
+  "desc": "Wyspecjalizowani sprzedawcy sprzedają towary w wyspecjalizowanych sklepach.",
+  "path": "Sprzedaż i marketing > Sprzedawcy w sklepach",
+  "tasks": [
+   "Doradzasz w wyborze specjalistycznego sprzętu",
+   "Odpowiadasz na szczegółowe pytania o produkty",
+   "Śledzisz nowości w swojej branży",
+   "Zamawiasz towar u wyspecjalizowanych dostawców"
+  ]
+ },
+ {
+  "id": 696,
+  "name": "Kierownik kas",
+  "desc": "Kierownicy kas nadzorują pracę kasjerów w domach towarowych i innych dużych sklepach.",
+  "path": "Sprzedaż i marketing > Sprzedawcy w sklepach",
+  "tasks": [
+   "Układasz grafik kasjerów",
+   "Rozwiązujesz problemy z płatnościami i zwrotami",
+   "Rozliczasz kasy po zmianie",
+   "Szkolisz nowych kasjerów"
+  ]
+ },
+ {
+  "id": 697,
+  "name": "Kierownik w sklepie",
+  "desc": "Kierownicy w sklepach są odpowiedzialni za sprawne prowadzenie sklepów zgodnie z przepisami i polityką przedsiębiorstwa. Nadzorują oni czynności wykonywane w ramach prowadzonej działalność, obejmujące budżet, spis inwentarza i obsługę klienta. Kierownicy w sklepach monitorują również wyniki pracy pracowników i dbają o realizację celów.",
+  "path": "Sprzedaż i marketing > Sprzedawcy w sklepach",
+  "tasks": [
+   "Układasz grafik pracowników",
+   "Pilnujesz spisu towarów i zamówień",
+   "Oceniasz wyniki pracy sprzedawców",
+   "Rozmawiasz z trudnymi klientami"
+  ]
+ },
+ {
+  "id": 698,
+  "name": "Przedsiębiorca prowadzący jednostkę handlu detalicznego",
+  "desc": "Przedsiębiorcy prowadzący jednostkę handlu detalicznego organizują procesy i koncepcje biznesowe w ramach własnej działalności gospodarczej.",
+  "path": "Sprzedaż i marketing > Sprzedawcy w sklepach",
+  "tasks": [
+   "Wybierasz towary i dostawców",
+   "Ustalasz ceny i promocje",
+   "Stoisz za ladą i obsługujesz klientów",
+   "Pilnujesz rachunków i opłat za lokal"
+  ]
+ },
+ {
+  "id": 699,
+  "name": "Doradca ds. ochrony własności intelektualnej",
+  "desc": "Doradcy ds. ochrony własności intelektualnej doradzają w zakresie korzystania z własności intelektualnej obejmującej między innymi patenty, prawa autorskie i znaki towarowe. Pomagają klientom w wycenie wartości pieniężnej portfeli praw własności intelektualnej, w przestrzeganiu odpowiednich procedur prawnych dotyczących ochrony takiej własności oraz w prowadzeniu działalności w zakresie pośrednictwa w dziedzinie patentów.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Sprawdzasz, czy pomysł można opatentować",
+   "Zgłaszasz wynalazki i znaki towarowe",
+   "Doradzasz w sprawach praw autorskich",
+   "Wyceniasz wartość praw klienta"
+  ]
+ },
+ {
+  "id": 700,
+  "name": "Kierownik ds. imprez rozrywkowych",
+  "desc": "Kierownicy ds. imprez rozrywkowych odpowiadają za zarządzanie zespołem, który prowadzi działalność rozrywkową dla gości w obiekcie hotelarsko-gastronomicznym.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Układasz program zajęć dla gości",
+   "Kierujesz animatorami i artystami",
+   "Dobierasz atrakcje do wieku gości",
+   "Sprawdzasz, czy impreza przebiega gładko"
+  ]
+ },
+ {
+  "id": 701,
+  "name": "Kierownik organizatorów wycieczek",
+  "desc": "Kierownicy organizatorów wycieczek są odpowiedzialni za zarządzanie pracownikami i działalność organizatorów wycieczek w związku z organizacją wycieczek i innych usług turystycznych.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Przydzielasz zadania zespołowi organizatorów",
+   "Sprawdzasz plany wycieczek i terminy",
+   "Rozwiązujesz problemy z rezerwacjami",
+   "Kontaktujesz się z hotelami i przewoźnikami"
+  ]
+ },
+ {
+  "id": 702,
+  "name": "Licytator",
+  "desc": "Licytatorzy prowadzą aukcje poprzez przyjmowanie ofert i ogłaszanie sprzedaży towarów.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Przedstawiasz przedmioty przed licytacją",
+   "Przyjmujesz oferty od uczestników",
+   "Podbijasz cenę po kolejnych ofertach",
+   "Ogłaszasz sprzedaż najwyższej oferty"
+  ]
+ },
+ {
+  "id": 703,
+  "name": "Menedżer artystyczny",
+  "desc": "Menedżerowie artystyczni reprezentują artystów, autorów, wykonawców i sportowców. Promują swoich klientów, aby przyciągnąć potencjalnych pracodawców. Menedżerowie artystyczni organizują wystąpienia publiczne, przesłuchania i występy. Dbają o negocjacje w sprawie umów.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Promujesz swoich klientów u organizatorów",
+   "Organizujesz przesłuchania i występy",
+   "Negocjujesz umowy i honoraria",
+   "Pilnujesz terminarza artysty"
+  ]
+ },
+ {
+  "id": 704,
+  "name": "Negocjator kontraktów wycieczkowych",
+  "desc": "Negocjatorzy kontraktów wycieczkowych negocjują umowy związane z turystyką między organizatorem wycieczek a dostawcami usług turystycznych.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Negocjujesz ceny z hotelami i przewoźnikami",
+   "Porównujesz oferty dostawców usług",
+   "Sprawdzasz zapisy umów",
+   "Uzgadniasz terminy i zasady rezygnacji"
+  ]
+ },
+ {
+  "id": 705,
+  "name": "Organizator koncertów",
+  "desc": "Organizatorzy koncertów współpracują z artystami (lub ich agentami) i miejscami koncertów w celu zorganizowania występu. Kontaktują się z grupami muzycznymi i agentami w celu uzgodnienia daty koncertu i wynegocjowania umowy. Rezerwują miejsce imprezy i promują nadchodzące występy. Zapewniają dostępność wszystkiego, czego potrzebuje grupa, a także ustalają czas próby dźwięku oraz przebieg występu. Niektórzy organizatorzy koncertów pracują samodzielnie, ale mogą być również związani z jednym miejscem koncertów lub festiwalem.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Umawiasz terminy i umowy z agentami",
+   "Rezerwujesz salę lub klub",
+   "Promujesz koncert w mediach",
+   "Ustalasz próbę dźwięku i przebieg występu"
+  ]
+ },
+ {
+  "id": 706,
+  "name": "Specjalista ds. prawa do publikacji w formie drukowanej",
+  "desc": "Specjaliści ds. prawa do publikacji w formie drukowanej są odpowiedzialni za prawa autorskie do książek. Organizują sprzedaż tych praw, aby umożliwić tłumaczenie książek, produkcję filmów na ich podstawie itp.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Oferujesz prawa do książek zagranicznym wydawcom",
+   "Negocjujesz warunki licencji",
+   "Przygotowujesz i sprawdzasz umowy",
+   "Pilnujesz terminów i rozliczeń praw"
+  ]
+ },
+ {
+  "id": 707,
+  "name": "Specjalista ds. programowych",
+  "desc": "Specjaliści ds. programowych odpowiadają za program artystyczny w miejscach występów (teatrach, ośrodkach kultury, salach koncertowych itp.) lub w tymczasowych lokalizacjach (na festiwalach). Śledzą trendy artystyczne oraz interesują się nowymi artystami, utrzymują kontakty z impresariami i agentami w celu stworzenia spójnego programu i zachęcania do twórczości artystycznej. Wszystko to odbywa się w granicach artystycznego i finansowego zakresu organizacji, w której działają.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Śledzisz nowych artystów i trendy",
+   "Rozmawiasz z impresariami i agentami",
+   "Układasz sezonowy program występów",
+   "Pilnujesz budżetu programu"
+  ]
+ },
+ {
+  "id": 708,
+  "name": "Specjalista ds. przeprowadzek",
+  "desc": "Specjaliści ds. przeprowadzek pomagają przedsiębiorstwom i organizacjom w przemieszczaniu pracowników. Planują całą przeprowadzkę. Specjaliści ds. przeprowadzek doradzają w sprawie nieruchomości. Planują usługi przeprowadzkowe i opiekę nad ogólnym dobrobytem pracowników i ich rodzin.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Planujesz przeprowadzkę krok po kroku",
+   "Doradzasz w wyborze mieszkania lub domu",
+   "Umawiasz firmy przewozowe i terminy",
+   "Pomagasz rodzinom odnaleźć się na miejscu"
+  ]
+ },
+ {
+  "id": 709,
+  "name": "Sprzedawca reklam",
+  "desc": "Sprzedawcy reklam sprzedają powierzchnię reklamową i czas w mediach przedsiębiorstwom i osobom fizycznym. Dokonują prezentacji handlowych potencjalnym klientom i zajmują się działaniami po sprzedaży.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Prezentujesz ofertę reklamową klientom",
+   "Dobierasz miejsce i czas emisji",
+   "Negocjujesz warunki umowy",
+   "Sprawdzasz po kampanii, czy klient jest zadowolony"
+  ]
+ },
+ {
+  "id": 710,
+  "name": "Inwestor w nieruchomości",
+  "desc": "Inwestorzy w nieruchomości kupują i sprzedają własne nieruchomości, takie jak apartamenty, budynki mieszkalne, grunty oraz budynki inne niż mieszkalne, aby osiągnąć zysk. Mogą aktywnie inwestować w te nieruchomości w celu zwiększenia ich wartości poprzez naprawę, renowację lub poprawę dostępnej infrastruktury. Inne zadania mogą obejmować badania cen na rynku nieruchomości oraz badania nieruchomości.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Sprawdzasz ceny podobnych nieruchomości w okolicy",
+   "Oglądasz budynki i oceniasz ich stan",
+   "Nadzorujesz remont kupionego lokalu",
+   "Negocjujesz cenę zakupu i sprzedaży"
+  ]
+ },
+ {
+  "id": 711,
+  "name": "Specjalista ds. wynajmu nieruchomości",
+  "desc": "Specjaliści ds. wynajmu nieruchomości planują spotkania z klientami w celu pokazywania i wynajmowania nieruchomości potencjalnym mieszkańcom. Pomagają w reklamowaniu nieruchomości na wynajem poprzez reklamy i kampanie informacyjne w społeczności. Zajmują się także codzienną komunikacją i zadaniami administracyjnymi.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Umawiasz terminy oglądania mieszkań",
+   "Pokazujesz lokale przyszłym lokatorom",
+   "Układasz ogłoszenia o wolnych mieszkaniach",
+   "Odpowiadasz na wiadomości i uzupełniasz dokumenty"
+  ]
+ },
+ {
+  "id": 712,
+  "name": "Agent do spraw pozyskiwania nieruchomości",
+  "desc": "Agenci do spraw pozyskiwania nieruchomości zajmują się transakcjami nabywania gruntów lub nieruchomości. Współpracują z odpowiednimi zainteresowanymi stronami w zakresie aspektów finansowych i ryzyka związanego z nabyciem nieruchomości. Agenci do spraw pozyskiwania nieruchomości zapewniają zgodność z wymogami prawnymi w zakresie nabywania nieruchomości i dbają o wszelką dokumentację i techniki zamknięcia.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Szukasz działek i budynków do kupna",
+   "Oceniasz ryzyko finansowe zakupu",
+   "Sprawdzasz, czy zakup jest zgodny z prawem",
+   "Pilnujesz dokumentów do podpisania umowy"
+  ]
+ },
+ {
+  "id": 713,
+  "name": "Specjalista ds. finalizacji transakcji",
+  "desc": "Specjaliści ds. finalizacji transakcji zajmują się wszystkimi dokumentami potrzebnymi do sprzedaży nieruchomości, w tym umowami, rozliczeniami, kredytami hipotecznymi, polisami ubezpieczeniowymi itp., oraz badają je. Zapewniają zgodność z wymogami prawnymi i dokonują przeglądu wszystkich opłat związanych z procesem sprzedaży nieruchomości.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Zbierasz umowy, rozliczenia i polisy",
+   "Sprawdzasz zgodność papierów z przepisami",
+   "Przeglądasz opłaty związane ze sprzedażą",
+   "Przypominasz stronom o brakujących podpisach"
+  ]
+ },
+ {
+  "id": 714,
+  "name": "Administrator nieruchomości",
+  "desc": "Administratorzy nieruchomości sprawują nadzór nad usługami mieszkaniowymi dla najemców lub lokatorów. Pracują na rzecz wspólnot mieszkaniowych lub organizacji prywatnych, dla których pobierają opłaty czynszowe, kontrolują nieruchomości, proponują i wdrażają ulepszenia w zakresie napraw lub problemów sąsiedzkich, utrzymują kontakty z najemcami, rozpatrują wnioski o zakwaterowanie oraz współpracują z władzami lokalnymi i podmiotami zarządzającymi nieruchomościami. Zatrudniają i szkolą pracowników oraz nadzorują ich.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Zbierasz opłaty czynszowe",
+   "Obchodzisz budynek i szukasz usterek",
+   "Zlecasz naprawy i pilnujesz ich wykonania",
+   "Rozmawiasz z lokatorami o problemach sąsiedzkich"
+  ]
+ },
+ {
+  "id": 715,
+  "name": "Specjalista ds. zarządzania najmem",
+  "desc": "Specjaliści ds. zarządzania najmem organizują wynajem lub dzierżawę lokali i nieruchomości nie w ramach współwłasności, a także zarządzają pracownikami zajmującymi się najmem. Sporządzają i śledzą dokumenty najmu i dzierżawy i zarządzają nimi oraz zajmują się wpłatami. Nadzorują również zarządzanie dzierżawą i przygotowują budżety najmu w ujęciu rocznym i miesięcznym. Aktywnie promują również dostępne wolne miejsca w celu pozyskania nowych mieszkańców, prezentują nieruchomości potencjalnym najemcom oraz są obecni przy zawieraniu umów między właścicielami a najemcami w przypadku zajmowania się własnością prywatną.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Przygotowujesz i archiwizujesz umowy najmu",
+   "Sprawdzasz wpłaty czynszu",
+   "Układasz miesięczny i roczny budżet najmu",
+   "Pokazujesz wolne lokale potencjalnym najemcom"
+  ]
+ },
+ {
+  "id": 716,
+  "name": "Zarządca nieruchomości",
+  "desc": "Zarządcy nieruchomości zajmują się aspektami funkcjonowania nieruchomości komercyjnych lub mieszkalnych, takich jak mieszkania prywatne, budynki biurowe i sklepy detaliczne, oraz nadzorują takie aspekty. Negocjują umowy najmu, określają i planują nowe projekty w zakresie nieruchomości i budowę nowych budynków poprzez partnerstwo z deweloperem w celu określenia właściwego miejsca nowych budynków, koordynują studium wykonalności dotyczące nowych budynków oraz nadzorują wszystkie aspekty administracyjne i techniczne związane z rozwojem działalności. Zajmują się utrzymaniem nieruchomości i dążą do zwiększenia jej wartości.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Negocjujesz umowy najmu z firmami",
+   "Planujesz konserwację i remonty budynku",
+   "Oceniasz miejsce pod nowy budynek",
+   "Nadzorujesz sprawy administracyjne i techniczne"
+  ]
+ },
+ {
+  "id": 717,
+  "name": "Demonstrator wyrobów",
+  "desc": "Demonstratorzy wyrobów aktywnie poszukują nowych potencjalnych klientów i nawiązują z nimi kontakt. Udzielają porad dotyczących konkretnych produktów i demonstrują promocyjne towary lub usługi.",
+  "path": "Sprzedaż i marketing > Inni sprzedawcy",
+  "tasks": [
+   "Zagadujesz klientów przy stoisku",
+   "Pokazujesz, jak działa produkt",
+   "Odpowiadasz na pytania o towar",
+   "Zapraszasz do wypróbowania promocyjnych produktów"
+  ]
+ },
+ {
+  "id": 718,
+  "name": "Komiwojażer",
+  "desc": "Komiwojażerowie sprzedają towary i usługi od drzwi do drzwi.",
+  "path": "Sprzedaż i marketing > Inni sprzedawcy",
+  "tasks": [
+   "Pukasz do drzwi i się przedstawiasz",
+   "Pokazujesz towar i mówisz, do czego służy",
+   "Odpowiadasz na wątpliwości domowników",
+   "Przyjmujesz zamówienia i zapisujesz je"
+  ]
+ },
+ {
+  "id": 719,
+  "name": "Menedżer wypożyczalni",
+  "desc": "Menedżerowie wypożyczalni są odpowiedzialni za nadzorowanie działalności wypożyczalni lub punktu wynajmu i jego personelu.",
+  "path": "Sprzedaż i marketing > Inni sprzedawcy",
+  "tasks": [
+   "Układasz grafik pracowników wypożyczalni",
+   "Kontrolujesz stan i dostępność sprzętu",
+   "Rozpatrujesz reklamacje i spory z klientami",
+   "Sprawdzasz dzienne rozliczenia wypożyczeń"
+  ]
+ }
+]

@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1380,
+  "name": "Falcerz",
+  "desc": "Falcerze obsługują maszyny składające papier i pliki papierowe.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Ustawiasz maszynę na właściwy format",
+   "Zakładasz stos papieru do podajnika",
+   "Sprawdzasz, czy zgięcia są równe",
+   "Usuwasz zacięcia i wygładzasz pomięte arkusze"
+  ]
+ },
+ {
+  "id": 1381,
+  "name": "Konserwator książek",
+  "desc": "Konserwatorzy książek usuwają uszkodzenia i konserwuje książki w oparciu o ocenę ich cech estetycznych, historycznych i naukowych. Określają oni trwałość książki i rozwiązują problemy związane z pogorszeniem jej stanu spowodowanym przez czynniki fizyczne i chemiczne.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Oceniasz stan i wartość historyczną książki",
+   "Szukasz przyczyn zniszczeń fizycznych i chemicznych",
+   "Naprawiasz podarte kartki i oprawę",
+   "Dobierasz sposób przechowywania książki"
+  ]
+ },
+ {
+  "id": 1382,
+  "name": "Operator maszyn introligatorskich",
+  "desc": "Operatorzy maszyn introligatorskich obsługują maszyny wiążące papier zadrukowany lub niezadrukowany w tomy przy użyciu zszywek, szpagatu, kleju lub innych technologii łączenia.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Ustawiasz maszynę pod rodzaj oprawy",
+   "Podajesz arkusze do wiązania",
+   "Sprawdzasz, czy zszywki lub klej trzymają",
+   "Uzupełniasz zszywki, szpagat lub klej w maszynie"
+  ]
+ },
+ {
+  "id": 1383,
+  "name": "Operator zszywarki introligatorskiej",
+  "desc": "Operatorzy zszywarek introligatorskich obsługują maszyny zszywające papier w tom. Sprawdzają oni, czy sygnatury są wprowadzane w odpowiedni sposób, a w maszynie nie powstają zatory.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Ładujesz sygnatury do podajnika",
+   "Kontrolujesz, czy wchodzą we właściwy sposób",
+   "Zatrzymujesz maszynę, gdy powstaje zator",
+   "Sprawdzasz zszyte tomy na wyrywkę"
+  ]
+ },
+ {
+  "id": 1384,
+  "name": "Bednarz",
+  "desc": "Bednarze wytwarzają beczki i tym podobne produkty – takie jak drewniane koszyki – wykonywane z kawałków drewna. Formują oni drewno, umieszczają na nim obręcze i nadają beczce kształt umożliwiający przechowywanie produktów, którymi w obecnych czasach zazwyczaj są napoje alkoholowe wyższej klasy.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Dopasowujesz drewniane klepki do siebie",
+   "Formujesz drewno w kształt beczki",
+   "Zakładasz obręcze i zaciskasz je",
+   "Sprawdzasz, czy beczka jest szczelna"
+  ]
+ },
+ {
+  "id": 1385,
+  "name": "Ramiarz",
+  "desc": "Ramiarze wytwarzają ramy do obrazów i luster, przede wszystkim z drewna. Omawiają oni specyfikacje z klientami i wytwarzają lub adaptują odpowiednio ramę. Przycinają, kształtują i łączą elementy drewniane, a także nasączają je substancjami w celu uzyskania pożądanego koloru i ochrony przed korozją i ogniem. Przycinają szkło i osadzają je w ramie. W niektórych przypadkach rzeźbią i dekorują ramy. Mogą również naprawiać, restaurować lub odtwarzać ramy starsze lub zabytkowe.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Ustalasz z klientem rozmiar i wygląd ramy",
+   "Przycinasz i łączysz drewniane listwy",
+   "Wycinasz szkło i osadzasz je w ramie",
+   "Barwisz drewno i naprawiasz stare ramy"
+  ]
+ },
+ {
+  "id": 1386,
+  "name": "Renowator mebli",
+  "desc": "Renowatorzy mebli analizują materiały i techniki w celu oceny stanu zabytkowego mebla oraz jego identyfikacji i klasyfikacji zgodnej z historią sztuki i kultury. Wykorzystują oni stare lub nowoczesne narzędzia i techniki w celu odtworzenia mebla udzielania klientom porad w zakresie restaurowania, konserwacji i przechowywania takich przedmiotów.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Oglądasz materiały i ślady narzędzi na meblu",
+   "Określasz wiek i styl zabytku",
+   "Odtwarzasz brakujące części dawnymi technikami",
+   "Radzisz klientom, jak dbać o stary mebel"
+  ]
+ },
+ {
+  "id": 1387,
+  "name": "Stolarz meblowy wykończeniowy",
+  "desc": "Stolarze meblowi wykończeniowi obrabiają powierzchnię drewnianych mebli z wykorzystaniem narzędzi ręcznych i elektrycznych do piaskowania, czyszczenia i polerowania. Nakładają oni na powierzchnię drewna odpowiednie powłoki, stosując różne techniki, takie jak szczotkowanie lub używanie pistoletu. Wybierają i nakładają odpowiednie powłoki do celów ochronnych i/lub dekoracyjnych.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Szlifujesz i czyścisz powierzchnię drewna",
+   "Dobierasz powłokę ochronną lub dekoracyjną",
+   "Nakładasz ją pędzlem lub pistoletem",
+   "Polerujesz wyschnięty mebel"
+  ]
+ },
+ {
+  "id": 1388,
+  "name": "Stolarz wykonawca imitacji mebli zabytkowych",
+  "desc": "Stolarze wykonawcy imitacji mebli zabytkowych kopiują i odtwarzają zabytkowe meble. Przygotowują oni rysunki i wzory artykułu, tworzą, dopasowują i montują części oraz wykańczają produkty zgodnie z oryginalnymi specyfikacjami.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Mierzysz i rysujesz oryginalny mebel",
+   "Wykonujesz wzory poszczególnych części",
+   "Dopasowujesz i montujesz części",
+   "Wykańczasz mebel tak jak oryginał"
+  ]
+ },
+ {
+  "id": 1389,
+  "name": "Wykonawca modeli redukcyjnych",
+  "desc": "Wykonawcy modeli redukcyjnych projektują i konstruują modele w skali z różnych materiałów, takich jak tworzywa sztuczne, drewno, wosk i metale, głównie ręcznie.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Wymierzasz oryginał i przeliczasz wymiary",
+   "Projektujesz model w wybranej skali",
+   "Wycinasz i rzeźbisz części z materiału",
+   "Łączysz i wykańczasz części modelu"
+  ]
+ },
+ {
+  "id": 1390,
+  "name": "Operator maszyn do produkcji mebli drewnianych",
+  "desc": "Operatorzy maszyn do produkcji mebli drewnianych obsługują maszyn wytwarzające drewniane części mebli zgodnie z ustaloną procedurą działania. Zapewniają oni niezakłóconą pracę maszyny, a w razie potrzeby naprawiają części.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Uruchamiasz maszynę zgodnie z procedurą",
+   "Podajesz drewno do obróbki",
+   "Kontrolujesz wymiary wykonanych części",
+   "Naprawiasz zużyte części maszyny"
+  ]
+ },
+ {
+  "id": 1391,
+  "name": "Operator zbijarki",
+  "desc": "Operatorzy zbijarek obsługują maszyny łączące gwoździami elementy drewniane, zazwyczaj hydraulicznie. Ustawiają oni te elementy w odpowiedniej do połączenia gwoździami pozycji i nadzorują proces, aby nie dopuszczać do przestojów.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Układasz drewniane elementy w pozycji do zbicia",
+   "Uruchamiasz maszynę łączącą gwoździami",
+   "Nadzorujesz pracę i reagujesz na przestoje",
+   "Wyjmujesz zbite elementy i sprawdzasz połączenia"
+  ]
+ },
+ {
+  "id": 1392,
+  "name": "Polerowacz wyrobów z drewna",
+  "desc": "Polerowacze wyrobów z drewna wygładzają powierzchnie przedmiotów drewnianych, używając różnych przyrządów do piaskowania. Używają oni powierzchni ściernych – zwykle papieru ściernego – do usuwania nierówności.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Dobierasz papier ścierny o odpowiedniej gradacji",
+   "Szlifujesz płaskie i zaokrąglone powierzchnie",
+   "Sprawdzasz dłonią, czy zniknęły nierówności",
+   "Poprawiasz miejsca z zadziorami i wgłębieniami"
+  ]
+ },
+ {
+  "id": 1393,
+  "name": "Tokarz w drewnie",
+  "desc": "Tokarze w drewnie używają tokarki w celu usunięcia zbędnego materiału z drewna. Tokarka obraca obrabiany przedmiot wokół jego osi i nadaje mu pożądany kształt przy użyciu narzędzi kształtujących.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Mocujesz kawałek drewna w tokarce",
+   "Prowadzisz narzędzie wzdłuż obracającego się drewna",
+   "Zdejmujesz nadmiar materiału warstwami",
+   "Mierzysz średnicę i kształt detalu"
+  ]
+ },
+ {
+  "id": 1394,
+  "name": "Wiertacz w drewnie",
+  "desc": "Wiertacze w drewnie używają frezarek lub specjalnych wierteł do wycinania otworów w częściach drewnianych. Wiercenie w drewnie różni się od frezowania przede wszystkim tym, że podstawowy ruch wykonuje się do wnętrza danej części, a nie na jego powierzchni.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Zaznaczasz miejsca otworów na elemencie",
+   "Dobierasz wiertło do średnicy otworu",
+   "Wiercisz otwory na zadaną głębokość",
+   "Sprawdzasz położenie i średnicę otworów"
+  ]
+ },
+ {
+  "id": 1395,
+  "name": "Zbijacz palet",
+  "desc": "Zbijacz palet wytwarza palety drewniane służące do składowania, transportu i przenoszenia towarów. Zbijacze palet obsługują maszynę łączącą gwoździami deski – zazwyczaj z niskiej jakości miękkiego drewna – poddane obróbce ciepłem lub produktami chemicznymi. Materiał i kształt palet, metody obróbki oraz liczba i rodzaj gwoździ są w pełni ujednolicone, aby umożliwić wymianę zużytych palet.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Podajesz deski do maszyny zbijającej",
+   "Pilnujesz liczby i rodzaju gwoździ",
+   "Sprawdzasz, czy paleta ma wzorcowy wymiar",
+   "Odrzucasz uszkodzone deski i palety"
+  ]
+ },
+ {
+  "id": 1396,
+  "name": "Impregnator drewna",
+  "desc": "Impregnatorzy drewna nakładają na drewno substancje uodparniające je na czynniki środowiskowe, takie jak pleśń, zimno, wilgoć lub powstawanie plam. Substancje te mogą również barwić drewno. Impregnatorzy drewna mogą stosować produkty chemiczne, ciepło, gazy, promieniowanie UV lub połączenie tych czynników w celu obróbki drewna.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Przygotowujesz drewno do impregnacji",
+   "Dobierasz środek do rodzaju zagrożenia",
+   "Nakładasz środek lub poddajesz drewno ciepłu",
+   "Sprawdzasz, czy drewno jest równomiernie zabezpieczone"
+  ]
+ },
+ {
+  "id": 1397,
+  "name": "Suszarniowy drewna",
+  "desc": "Suszarniowi drewna kontrolują proces ogrzewania wilgotnego lub „zielonego” drewna w celu produkcji suchego drewna nadającego się do wykorzystania. W zależności od rodzaju pieca suszarniowy odpowiada za przeniesienie drewna do pieca i wyjęcie go z pieca, kontrolę temperatury i wentylację.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Układasz wilgotne drewno w suszarni",
+   "Ustawiasz temperaturę i wentylację",
+   "Sprawdzasz wilgotność drewna w trakcie suszenia",
+   "Wyjmujesz suche drewno z pieca"
+  ]
+ },
+ {
+  "id": 1398,
+  "name": "Asystent inwestycyjny",
+  "desc": "Asystenci inwestycyjni zapewniają klientom doradztwo w zakresie planowania finansowego dotyczące produktów finansowych i pełnią funkcję głównego punktu kontaktowego dla nowych i starszych klientów. Pomagają przy i wykonują prace przygotowawcze w zakresie tworzenia funduszy i zarządzania nimi oraz pomagają we wdrażaniu decyzji w zakresie zarządzania funduszem podejmowanych przez zarządzającego portfelem lub zarządzającego funduszem.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Odpowiadasz na pytania nowych i dawnych klientów",
+   "Przygotowujesz materiały do tworzenia funduszu",
+   "Pomagasz wprowadzać decyzje zarządzającego funduszem",
+   "Tłumaczysz klientom produkty finansowe"
+  ]
+ },
+ {
+  "id": 1399,
+  "name": "Menedżer ds. relacji inwestorskich",
+  "desc": "Menedżerowie ds. relacji inwestorskich rozpowszechniają strategię inwestycyjną przedsiębiorstwa i monitorują reakcje społeczności inwestycyjnej na nią. Wykorzystują wiedzę w zakresie marketingu, finansów, komunikacji i bezpieczeństwa w celu zapewnienia przejrzystej komunikacji z większą społecznością. Odpowiadają na pytania akcjonariuszy i inwestorów dotyczące stabilności finansowej, zapasów lub polityki przedsiębiorstw.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Przygotowujesz komunikaty o strategii firmy",
+   "Odpowiadasz na pytania akcjonariuszy",
+   "Śledzisz reakcje inwestorów na decyzje firmy",
+   "Ustalasz z działem finansów, co można ogłosić"
+  ]
+ },
+ {
+  "id": 1400,
+  "name": "Menedżer inwestycyjny",
+  "desc": "Menedżerowie inwestycyjni zarządzają portfelem inwestycji, który posiada spółka. Ściśle monitorują inwestycje, których celem jest znalezienie najbardziej opłacalnych rozwiązań w zakresie produktów finansowych lub papierów wartościowych. Analizują zachowanie na rynkach finansowych, stopy procentowe i pozycję spółek w celu doradzania klientom w kwestii ryzyka i rentowności.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Monitorujesz inwestycje należące do firmy",
+   "Porównujesz produkty i papiery wartościowe",
+   "Analizujesz rynki i stopy procentowe",
+   "Przedstawiasz klientom ryzyko i możliwy zysk"
+  ]
+ },
+ {
+  "id": 1401,
+  "name": "Specjalista ds. inwestycji korporacyjnych",
+  "desc": "Specjaliści ds. inwestycji korporacyjnych oferują firmom i innym instytucjom doradztwo strategiczne w zakresie usług finansowych. Dbają o to, by ich klienci podejmowali działania zmierzające do pozyskania kapitału. Dzielą się techniczną wiedzą fachową oraz informacjami na temat połączeń i przejęć, obligacji i akcji, prywatyzacji i reorganizacji, podwyższania kapitału i gwarancji papierów wartościowych, w tym rynków kapitałowych i dłużnych.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Doradzasz firmom w pozyskiwaniu kapitału",
+   "Przygotowujesz analizy przy połączeniach i przejęciach",
+   "Wyjaśniasz zasady emisji akcji i obligacji",
+   "Prowadzisz rozmowy z zarządami klientów"
+  ]
+ },
+ {
+  "id": 1402,
+  "name": "Planer finansowy",
+  "desc": "Planerzy finansowi pomagają ludziom w radzeniu sobie z różnymi osobistymi problemami finansowymi. Specjalizują się w planowaniu finansowym, takim jak planowanie emerytur, planowanie inwestycji, zarządzanie ryzykiem i planowanie ubezpieczeń oraz planowanie podatkowe. Doradzają strategię dostosowaną do potrzeb klienta. Zapewniają dokładność dokumentacji bankowej i innej dokumentacji finansowej przy jednoczesnym utrzymaniu podejścia zorientowanego na klienta i przestrzegania norm etycznych.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Rozmawiasz z klientem o jego celach i dochodach",
+   "Planujesz oszczędności na emeryturę",
+   "Dobierasz ubezpieczenia i inwestycje",
+   "Sprawdzasz dokumenty bankowe pod kątem poprawności"
+  ]
+ },
+ {
+  "id": 1403,
+  "name": "Specjalista ds. bankowości relacyjnej",
+  "desc": "Specjaliści ds. bankowości relacyjnej utrzymują i rozszerzają istniejące i przyszłe relacje z klientami. Korzystają z technik sprzedaży wiązanej, aby doradzać i sprzedawać klientom różne produkty i usługi bankowe i finansowe. Zarządzają oni ogółem relacji z klientami i odpowiadają za optymalizację wyników działalności i zadowolenia klientów.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Utrzymujesz kontakt ze stałymi klientami",
+   "Szukasz nowych klientów dla banku",
+   "Doradzasz i proponujesz dodatkowe produkty bankowe",
+   "Sprawdzasz, czy klienci są zadowoleni z usług"
+  ]
+ },
+ {
+  "id": 1404,
+  "name": "Doradca ds. środków publicznych",
+  "desc": "Doradcy ds. środków publicznych doradzają osobom indywidualnym i przedsiębiorcom w kwestii możliwości finansowania przez rząd. Analizują oni potrzeby klientów, zasięgają ich opinii w sprawie funduszy, dotacji i grantów, które mają do nich zastosowanie, oraz pomagają w przejściu procedury rekrutacyjnej. Doradcy ds. środków publicznych tworzą również publiczne organy administracji publicznej w organizacjach.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Rozmawiasz z klientem o jego potrzebach",
+   "Szukasz dotacji i grantów pasujących do projektu",
+   "Wypełniasz wnioski razem z klientem",
+   "Pilnujesz terminów naboru"
+  ]
+ },
+ {
+  "id": 1405,
+  "name": "Inwestor venture capital",
+  "desc": "Inwestorzy venture capital inwestują w młode lub małe startupy, zapewniając finansowanie ze środków prywatnych. Badają oni potencjalne rynki i szczególne możliwości produktowe, aby pomóc właścicielom przedsiębiorstw w rozwoju lub rozszerzeniu działalności. Zapewniają oni doradztwo w zakresie działalności gospodarczej, wiedzę techniczną oraz kontakty w ramach sieci w oparciu o ich doświadczenia i działania. Nie zajmują stanowiska kierowniczego w przedsiębiorstwie, ale mają prawo głosu w jego kierunku strategicznym.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Badasz rynek i produkt młodej firmy",
+   "Zapewniasz finansowanie ze środków prywatnych",
+   "Doradzasz założycielom i dzielisz się kontaktami",
+   "Głosujesz w sprawach strategii firmy"
+  ]
+ },
+ {
+  "id": 1406,
+  "name": "Menedżer funduszu inwestycyjnego",
+  "desc": "Menedżerowie funduszu inwestycyjnego wdrażają i monitorują strategię inwestycyjną funduszu. Zarządzają działalnością w zakresie obrotu portfelem i nadzorują analityków finansowych, papierów wartościowych i inwestycyjnych odpowiedzialnych za prowadzenie badań nad inwestycjami, a następnie sporządzają zalecenia dotyczące kupna i sprzedaży. Podejmują decyzje w sprawie zakupu lub sprzedaży aktywów wchodzących w skład portfela. Kierownik taki pracuje w różnych placówkach, takich jak banki, przedsiębiorstwa i firmy maklerskie; ściśle współpracuje z analitykami inwestycyjnymi.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Wdrażasz strategię inwestycyjną funduszu",
+   "Czytasz rekomendacje analityków",
+   "Decydujesz o kupnie i sprzedaży aktywów",
+   "Nadzorujesz pracę zespołu analityków"
+  ]
+ },
+ {
+  "id": 1407,
+  "name": "Menedżer ryzyka",
+  "desc": "Menedżerowie ryzyka identyfikują i oceniają potencjalne zagrożenia i ryzyka dla przedsiębiorstwa oraz udzielają porad na temat tego, w jaki sposób sobie z nimi radzić. Tworzą plany zapobiegawcze, których celem jest uniknięcie i ograniczenie ryzyka, oraz wprowadzają plany na wypadek zagrożenia przedsiębiorstwa.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Wyszukujesz potencjalne zagrożenia dla firmy",
+   "Oceniasz prawdopodobieństwo i skutki każdego z nich",
+   "Piszesz plany zapobiegawcze",
+   "Wprowadzasz plany awaryjne"
+  ]
+ },
+ {
+  "id": 1408,
+  "name": "Specjalista ds. bankowości korporacyjnej",
+  "desc": "Specjaliści ds. bankowości korporacyjnej oferują instytucjom i organizacjom doradztwo w zakresie szerokiej gamy dóbr i usług finansowych, takich jak usługi w zakresie papierów wartościowych, usługi kredytowe, zarządzanie środkami pieniężnymi, produkty ubezpieczeniowe, leasing, informacje na temat połączeń i przejęć oraz działalność na rynkach kapitałowych.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Doradzasz firmom w sprawie kredytów i leasingu",
+   "Pomagasz zarządzać środkami pieniężnymi klienta",
+   "Przedstawiasz ofertę ubezpieczeń i papierów wartościowych",
+   "Przygotowujesz dla klienta informacje o przejęciach firm"
+  ]
+ },
+ {
+  "id": 1409,
+  "name": "Specjalista ds. finansowania programów",
+  "desc": "Specjaliści ds. finansowania programów odgrywają wiodącą rolę w opracowywaniu i realizacji strategii finansowania programów organizacji.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Opracowujesz strategię finansowania programów",
+   "Ustalasz, ile pieniędzy potrzebuje każdy program",
+   "Szukasz źródeł finansowania",
+   "Wdrażasz plan i sprawdzasz jego wykonanie"
+  ]
+ },
+ {
+  "id": 1410,
+  "name": "Specjalista ds. polityki gospodarczej",
+  "desc": "Specjaliści ds. polityki gospodarczej opracowują strategie gospodarcze. Monitorują aspekty gospodarcze, takie jak konkurencyjność, innowacje i handel. Specjaliści ds. polityki gospodarczej przyczyniają się do rozwoju polityk, projektów i programów gospodarczych. Prowadzą badania, analizują i oceniają problemy związane z polityką publiczną i zalecają odpowiednie działania.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Monitorujesz konkurencyjność, handel i innowacje",
+   "Prowadzisz badania nad problemami gospodarczymi",
+   "Oceniasz skutki istniejących polityk i programów",
+   "Piszesz zalecenia dla urzędników"
+  ]
+ },
+ {
+  "id": 1411,
+  "name": "Specjalista ds. wyceny przedsiębiorstw",
+  "desc": "Specjaliści ds. wyceny przedsiębiorstw świadczą usługi wyceny podmiotów gospodarczych, akcji uprzywilejowanych i innych papierów wartościowych oraz wartości niematerialnych i prawnych, aby pomóc swoim klientom w strategicznych procedurach decyzyjnych, takich jak połączenia i przejęcia, sprawy sądowe, upadłość, przestrzeganie przepisów podatkowych oraz ogólna restrukturyzacja przedsiębiorstw.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Zbierasz dane finansowe wycenianej firmy",
+   "Liczysz wartość spółki i jej akcji",
+   "Wyceniasz wartości niematerialne i prawne",
+   "Piszesz raport z wyceną dla klienta"
+  ]
+ },
+ {
+  "id": 1412,
+  "name": "Zarządzający funduszem osobistym",
+  "desc": "Zarządzający funduszem osobistym monitorują i administrują funduszami osobistymi. Dokonują odpowiedniej interpretacji dokumentów powierniczych i testamentowych, współpracują z doradcami finansowymi w celu określenia celu inwestycyjnego dla osiągnięcia celów w zakresie zaufania, koordynowania zakupu i sprzedaży papierów wartościowych na rzecz osób odpowiedzialnych za zarządzanie rachunkiem oraz dokonywania regularnych przeglądów sprawozdań finansowych klientów.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Interpretujesz dokumenty powiernicze i testamenty",
+   "Ustalasz cel inwestycyjny z doradcami finansowymi",
+   "Zlecasz kupno i sprzedaż papierów wartościowych",
+   "Regularnie przeglądasz sprawozdania finansowe klientów"
+  ]
+ },
+ {
+  "id": 1413,
+  "name": "Analityk budżetu",
+  "desc": "Analitycy budżetu monitorują działalność w zakresie wydatków przez instytucje i przedsiębiorstwa publiczne i prywatne. Przygotowują oni sprawozdania budżetowe, dokonują przeglądu modelu budżetu stosowanego w przedsiębiorstwie i zapewniają zgodność z zasadami polityki budżetowej i innymi przepisami prawnymi.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Monitorujesz wydatki instytucji",
+   "Przygotowujesz sprawozdania budżetowe",
+   "Sprawdzasz model budżetu stosowany w firmie",
+   "Weryfikujesz zgodność wydatków z przepisami"
+  ]
+ },
+ {
+  "id": 1414,
+  "name": "Analityk kosztów",
+  "desc": "Analitycy kosztów przygotowują regularne analizy kosztów, budżetu i sprawozdania, aby przyczynić się do ogólnego planowania kosztów i prognozowania działalności przedsiębiorstwa. Dokonują przeglądu i uzgodnienia kluczowych bilansów i identyfikują nowe możliwości oszczędzania kosztów.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Przygotowujesz regularne analizy kosztów",
+   "Uzgadniasz kluczowe salda",
+   "Porównujesz koszty z budżetem",
+   "Wskazujesz nowe możliwości oszczędności"
+  ]
+ },
+ {
+  "id": 1415,
+  "name": "Analityk księgowy",
+  "desc": "Analitycy księgowi oceniają sprawozdania finansowe klientów, zazwyczaj przedsiębiorstw, które zawierają arkusz przychodów, bilans, zestawienie przepływów pieniężnych oraz dodatkowe noty do innych sprawozdań finansowych. Dokonują oni interpretacji i wdrożenia nowych systemów rachunkowości i procedur księgowych oraz dokonają analizy i ustalają, czy proponowane systemy są zgodne z zasadami rachunkowości i spełniają wymogi informacyjne dla użytkowników.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Analizujesz bilans i arkusz przychodów",
+   "Czytasz noty do sprawozdań finansowych",
+   "Wdrażasz nowe procedury księgowe",
+   "Sprawdzasz, czy proponowany system spełnia zasady rachunkowości"
+  ]
+ },
+ {
+  "id": 1416,
+  "name": "Biegły ds. zapobiegania i wykrywania przestępstw gospodarczych i korupcji",
+  "desc": "Biegli ds. zapobiegania i wykrywania przestępstw gospodarczych i korupcji przeprowadzają dochodzenia w sprawie nadużyć finansowych, w tym w zakresie nieprawidłowości sprawozdań finansowych, nadużyć na rynku papierów wartościowych oraz wykrywania nadużyć na rynku. Zarządzają ocenami ryzyka nadużyć finansowych i przygotowują sprawozdania kryminalistyczne, w tym analizę i weryfikację dowodów. Biegli ds. zapobiegania i wykrywania przestępstw gospodarczych i korupcji współpracują z organami regulacyjnymi.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Prowadzisz dochodzenia w sprawie nadużyć finansowych",
+   "Analizujesz i weryfikujesz dowody",
+   "Oceniasz ryzyko nadużyć w firmie",
+   "Przygotowujesz raporty kryminalistyczne"
+  ]
+ },
+ {
+  "id": 1417,
+  "name": "Główny księgowy w sektorze finansów publicznych",
+  "desc": "Główni księgowi w sektorze finansów publicznych przewodzą departamentem skarbu w instytucji rządowej. Zarządzają działalnością w zakresie administracji finansowej, wydatków i dochodów instytucji oraz przestrzegania przepisów podatkowych i innych przepisów finansowych. Pełnią obowiązki administracyjne w celu zapewnienia prowadzenia rejestrów, opracowywania planów zarządzania budżetem i sporządzania prognoz finansowych.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Zarządzasz administracją finansową instytucji",
+   "Kontrolujesz wydatki i dochody",
+   "Pilnujesz przestrzegania przepisów finansowych i podatkowych",
+   "Opracowujesz plan budżetu i prognozy"
+  ]
+ },
+ {
+  "id": 1418,
+  "name": "Kierownik działu audytu",
+  "desc": "Kierownicy działu audytu nadzorują personel przeprowadzający audyt, planowanie i sprawozdawczość, a także dokonują przeglądu dokumentów dotyczących audytu zautomatyzowanego instytucji audytowych w celu zapewnienia zgodności z metodyką przedsiębiorstwa. Przygotowują sprawozdania, oceniają ogólny audyt i praktyki operacyjne oraz informują o ustaleniach w ramach zarządzania wyższego szczebla.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Planujesz pracę zespołu audytorów",
+   "Przeglądasz dokumentację audytu",
+   "Oceniasz praktyki operacyjne firmy",
+   "Informujesz zarząd o ustaleniach"
+  ]
+ },
+ {
+  "id": 1419,
+  "name": "Kontroler finansowy",
+  "desc": "Kontrolerzy finansowi wykonują wszystkie zadania związane z planowaniem budżetowym i rachunkowością przedsiębiorstwa lub organizacji. Wdrażają i zapewniają zgodność z wewnętrznymi procedurami finansowymi i księgowymi oraz przygotowują dokumentację do audytów zewnętrznych. Gromadzą informacje dotyczące sprawozdań finansowych, takich jak aktywa, zobowiązania, kapitał własny i przepływy pieniężne, w celu oceny sytuacji finansowej przedsiębiorstwa, aby przygotować roczne budżety i prognozy",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Układasz roczny budżet firmy",
+   "Porównujesz plan z faktycznymi wydatkami",
+   "Przygotowujesz dokumenty dla audytorów",
+   "Prognozujesz przepływy pieniężne na kolejne miesiące"
+  ]
+ },
+ {
+  "id": 1420,
+  "name": "Specjalista ds. dywidend",
+  "desc": "Specjaliści ds. dywidend obliczają i przydzielają dywidendy i dochody odsetkowe zysków przedsiębiorstwa do danej kategorii swoich udziałowców. Dokonują oceny systemów i procesów biznesowych w celu określenia potrzeb użytkowników i dostarczenia odpowiednich rozwiązań. Przyjmują również prognozy dotyczące dywidend w odniesieniu do kwot i harmonogramów płatności oraz określają potencjalne zagrożenia w oparciu o ich wiedzę fachową w zakresie cen finansowych i rynkowych.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Obliczasz kwoty dywidend dla każdej grupy udziałowców",
+   "Ustalasz harmonogram wypłat",
+   "Oceniasz ryzyko zmian cen rynkowych",
+   "Sprawdzasz, czy procesy firmy działają poprawnie"
+  ]
+ },
+ {
+  "id": 1421,
+  "name": "Specjalista ds. rozpatrywania wniosków o dotacje",
+  "desc": "Specjaliści ds. rozpatrywania wniosków o dotacje działają zawodowo w zakresie administrowania funduszami dotacyjnymi i zarządzania nimi. Rozpatrują wnioski o dotacje od osób fizycznych, organizacji charytatywnych, grup społecznych lub uniwersyteckich wydziałów badawczych i podejmują decyzję, czy przyznać finansowanie udzielone przez fundusze powiernicze, instytucje rządowe i organy publiczne, czy też nie. Jednakże czasem mogą oni skierować wniosek o dotację do wyższej rangi urzędnika lub komitetu.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Czytasz i oceniasz wnioski o dotacje",
+   "Sprawdzasz, czy projekt spełnia warunki funduszu",
+   "Decydujesz o przyznaniu lub odrzuceniu finansowania",
+   "Przekazujesz trudne wnioski komitetowi"
+  ]
+ },
+ {
+  "id": 1422,
+  "name": "Syndyk masy upadłościowej",
+  "desc": "Syndycy masy upadłościowej zarządzają upadłością klienta, prowadzą dochodzenie w sprawie dokumentacji prawnej dotyczącej możliwości nadużyć finansowych i zarządzają środkami pieniężnymi otrzymanymi ze sprzedaży nieruchomości niepodlegającej zwolnieniu, w celu ich podziału na wierzytelności wierzycieli.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Prowadzisz dochodzenie w dokumentach upadłego",
+   "Sprawdzasz, czy nie doszło do nadużyć finansowych",
+   "Sprzedajesz majątek niepodlegający zwolnieniu",
+   "Dzielisz uzyskane pieniądze między wierzycieli"
+  ]
+ },
+ {
+  "id": 1423,
+  "name": "Analityk ds. fuzji i przejęć",
+  "desc": "Analitycy ds. fuzji i przejęć nadzorują realizację transakcji kupna, sprzedaży, łączenia lub przejmowania spółek. Negocjują i wypełniają umowę w imieniu klienta, ściśle współpracując z prawnikami i księgowymi. Analitycy ds. fuzji i przejęć prowadzą operacyjną i prawną ocenę ryzyka przedsiębiorstwa, oceniają porównywalne przedsiębiorstwa na rynku i pomagają w integracji po połączeniu.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Oceniasz wartość przejmowanej firmy",
+   "Porównujesz ją z podobnymi firmami na rynku",
+   "Negocjujesz warunki umowy w imieniu klienta",
+   "Z prawnikami sprawdzasz zobowiązania i ryzyko prawne"
+  ]
+ },
+ {
+  "id": 1424,
+  "name": "Analityk inwestycyjny",
+  "desc": "Analitycy inwestycyjni prowadzą badania w celu wydania merytorycznych zaleceń dla zarządzających funduszami. Badają inwestycje w skali globalnej, ale w zależności od specyfiki i obszaru działania pracodawcy mogą się specjalizować w takich dziedzinach jak: handel detaliczny, infrastruktura, energetyka, usługi bankowe i finansowe. Skupiają się na informacjach finansowych i ekonomicznych, takich jak zmiany polityczne i gospodarcze, które mogą mieć wpływ na rynki finansowe, lub wyniki finansowe badanych przedsiębiorstw, i na podstawie interpretacji danych pochodzących z różnych źródeł określają wpływ tych danych na decyzje inwestycyjne.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Czytasz wyniki finansowe badanych firm",
+   "Śledzisz zmiany polityczne wpływające na rynki",
+   "Specjalizujesz się w jednej branży, np. energetyce",
+   "Piszesz zalecenia dla zarządzających funduszami"
+  ]
+ },
+ {
+  "id": 1425,
+  "name": "Analityk rynku papierów wartościowych",
+  "desc": "Analitycy rynku papierów wartościowych prowadzą działalność badawczą w celu gromadzenia i analizowania informacji finansowych, prawnych i gospodarczych. Dokonują interpretacji danych dotyczących trendów cenowych, stabilności i przyszłych inwestycji w określonym obszarze gospodarczym, a także sporządzają zalecenia i prognozy dla klientów biznesowych.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Zbierasz informacje finansowe, prawne i gospodarcze",
+   "Analizujesz trendy cen akcji i obligacji",
+   "Oceniasz stabilność wybranego obszaru gospodarki",
+   "Sporządzasz prognozy dla klientów biznesowych"
+  ]
+ },
+ {
+  "id": 1426,
+  "name": "Analityk ryzyka finansowego",
+  "desc": "Analitycy ryzyka finansowego prawidłowo określają i oceniają potencjalne obszary ryzyka, które stanowią zagrożenie dla aktywów lub kapitału organizacji. Specjalizują się w analizie ryzyka kredytowego, rynkowego, operacyjnego lub regulacyjnego. Wykorzystują analizę statystyczną do oceny ryzyka, sporządzają zalecenia służące ograniczeniu i kontroli ryzyka oraz przeprowadzają przeglądy dokumentacji pod kątem zgodności z przepisami prawa.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Wskazujesz zagrożenia dla majątku firmy",
+   "Liczysz ryzyko kredytowe, rynkowe lub operacyjne",
+   "Używasz statystyki do oceny prawdopodobieństwa strat",
+   "Sprawdzasz dokumenty pod kątem zgodności z prawem"
+  ]
+ },
+ {
+  "id": 1427,
+  "name": "Analityk ubezpieczeniowy",
+  "desc": "Analitycy ubezpieczeniowi analizują informacje dotyczące rynków ubezpieczeń i ich ratingu kredytowego, sporządzają raporty ratingowe i faktury, opracowują dane finansowe oraz przedstawiają i wyjaśniają opinie ratingów kredytowych na rzecz zainteresowanych stron, klientów i podmiotów zewnętrznych. Pracują oni na rzecz towarzystw ubezpieczeniowych i obliczają składki i stawki ubezpieczeniowe dla klientów firmy, wykorzystując w tym celu zarówno metody ręczne, jak i zautomatyzowane.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Obliczasz składki dla klientów firmy",
+   "Opracowujesz raporty ratingowe i dane finansowe",
+   "Analizujesz informacje o rynkach ubezpieczeń",
+   "Wyjaśniasz oceny kredytowe klientom i partnerom"
+  ]
+ },
+ {
+  "id": 1428,
+  "name": "Pracownik middle office",
+  "desc": "Pracownicy middle office pracują w działach finansów spółek finansowych, zapewniając zgodność z polityką firmy i przepisami prawa, prowadząc badania i analizy w sprawach finansowych, dokonując pomiaru ryzyka i wspierając działania front office.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Sprawdzasz transakcje pod kątem zgodności z przepisami",
+   "Mierzysz ryzyko po stronie firmy",
+   "Przygotowujesz analizy i raporty finansowe",
+   "Dostarczasz handlowcom potrzebne dane i wyliczenia"
+  ]
+ },
+ {
+  "id": 1429,
+  "name": "Broker funduszy wspólnego inwestowania",
+  "desc": "Brokerzy funduszy wspólnego inwestowania dysponują środkami pieniężnymi i pozyskują je od akcjonariuszy w celu inwestowania ich w akcje, obligacje i papiery wartościowe rynku pieniężnego. Współpracują z inwestorami poprzez zapytania dotyczące stanu rachunków funduszy wspólnego inwestowania klienta oraz procedur transakcji. Brokerzy funduszy wspólnego inwestowania wykorzystują swoją fachową wiedzę w zakresie teorii inwestowania, doświadczenie rynkowe i badania, aby wybierać najbardziej odpowiednie inwestycje dla posiadanego portfela funduszy. Zapewniają oni, że działania funduszu wspólnego inwestowania są zgodne z wymogami prawnymi.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Wybierasz akcje i obligacje do portfela funduszu",
+   "Odpowiadasz na pytania o stan rachunku klienta",
+   "Wyjaśniasz inwestorom zasady transakcji",
+   "Pilnujesz, by działania funduszu były zgodne z prawem"
+  ]
+ },
+ {
+  "id": 1430,
+  "name": "Dealer walutowy",
+  "desc": "Dealerzy walutowi kupują i sprzedają waluty obce w imieniu swoich klientów, aby zapewnić zysk z wahań kursów wymiany walut. Przeprowadzają analizę techniczną na podstawie informacji gospodarczych, dotyczących m.in. płynności i zmienności rynku, w celu przewidywania przyszłych kursów walut na rynku walutowym.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Kupujesz i sprzedajesz waluty obce dla klientów",
+   "Analizujesz płynność i zmienność rynku",
+   "Przewidujesz przyszłe kursy wymiany",
+   "Składasz zlecenia, gdy kurs osiąga potrzebny poziom"
+  ]
+ },
+ {
+  "id": 1431,
+  "name": "Makler papierów wartościowych",
+  "desc": "Maklerzy papierów wartościowych łączą inwestorów z dostępnymi możliwościami inwestowania. Nabywają i sprzedają papiery wartościowe w imieniu klientów na podstawie swojej fachowej wiedzy o rynkach finansowych. Monitorują wyniki papierów wartościowych klientów, oceniając ich stabilność lub tendencje do spekulacji. Maklerzy papierów wartościowych obliczają cenę papierów wartościowych i składają zlecenia.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Dobierasz klientom odpowiednie papiery wartościowe",
+   "Obliczasz cenę papieru przed złożeniem zlecenia",
+   "Monitorujesz wyniki papierów klientów",
+   "Oceniasz, czy dany papier jest stabilny, czy spekulacyjny"
+  ]
+ },
+ {
+  "id": 1432,
+  "name": "Pośrednik finansowy",
+  "desc": "Pośrednicy finansowi prowadzą działalność na rynkach finansowych w imieniu klientów. Monitorują papiery wartościowe, dokumentację finansową klientów, trendy i warunki rynkowe oraz inne wymogi prawne. Planują kupno i sprzedaż oraz obliczają koszty transakcji.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Monitorujesz papiery wartościowe i trendy rynkowe",
+   "Sprawdzasz dokumentację finansową klientów",
+   "Planujesz kupno i sprzedaż",
+   "Obliczasz koszty transakcji"
+  ]
+ },
+ {
+  "id": 1433,
+  "name": "Pośrednik kredytowy",
+  "desc": "Pośrednicy kredytowi rozpatrują wnioski klientów dotyczące kredytów hipotecznych, gromadzą dokumentację kredytową i poszukują nowych możliwości udzielania kredytów hipotecznych. Realizują i zamykają dla swoich klientów procesy związane z kredytem hipotecznym.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Rozpatrujesz wnioski klientów o kredyt hipoteczny",
+   "Zbierasz dokumenty kredytowe",
+   "Szukasz nowych możliwości udzielania kredytów",
+   "Doprowadzasz sprawę do podpisania umowy"
+  ]
+ },
+ {
+  "id": 1434,
+  "name": "Specjalista ds. emisji papierów wartościowych",
+  "desc": "Specjaliści ds. emisji papierów wartościowych zarządzają działalnością w zakresie dystrybucji nowych papierów wartościowych spółek. Pracują w ścisłej współpracy z organem emitującym papiery wartościowe w celu ustalenia ceny oraz kupują i sprzedają je innym inwestorom. Otrzymują wynagrodzenie z tytułu emisji od klientów dokonujących emisji.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Ustalasz z emitentem cenę nowych papierów",
+   "Zarządzasz dystrybucją nowych papierów wartościowych",
+   "Sprzedajesz papiery innym inwestorom",
+   "Rozliczasz prowizję od klienta emitującego"
+  ]
+ },
+ {
+  "id": 1435,
+  "name": "Specjalista ds. handlu energią",
+  "desc": "Specjaliści ds. handlu energią sprzedają lub kupują energię, czasami z różnych źródeł. Analizują rynek energii i badają trendy cenowe, aby podjąć decyzję o zakupie lub sprzedaży udziałów w celu osiągnięcia jak największego zysku. Dokonują obliczeń i sporządzają sprawozdania na temat procedur dotyczących handlu energią oraz przedstawiają prognozy dotyczące rozwoju rynku.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Analizujesz rynek energii i trendy cenowe",
+   "Decydujesz o kupnie lub sprzedaży udziałów",
+   "Sporządzasz sprawozdania z procedur handlowych",
+   "Przedstawiasz prognozy rozwoju rynku"
+  ]
+ },
+ {
+  "id": 1436,
+  "name": "Trader giełdowy",
+  "desc": "Traderzy giełdowi wykorzystują swoją wiedzę techniczną dotyczącą wyników rynków finansowych, aby doradzać i formułować zalecenia dla podmiotów zarządzających aktywami lub akcjonariuszy na temat rentownej strategii inwestycyjnej przy uwzględnieniu wyników przedsiębiorstw. Prowadzą operacje na rynku papierów wartościowych i zajmują się szeroką gamą podatków, prowizji i obowiązków podatkowych. Traderzy giełdowi kupują i sprzedają obligacje, akcje, kontrakty terminowe typu futures i udziały w funduszach hedgingowych. Prowadzą szczegółową analizę mikro- i makroekonomiczną oraz analizę techniczną dotyczącą konkretnej branży.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Kupujesz i sprzedajesz akcje oraz obligacje",
+   "Analizujesz wyniki konkretnej branży",
+   "Doradzasz strategię inwestycyjną zarządzającym aktywami",
+   "Rozliczasz prowizje i podatki od transakcji"
+  ]
+ },
+ {
+  "id": 1437,
+  "name": "Trader kontraktów terminowych",
+  "desc": "Traderzy kontraktów terminowych prowadzą codzienną działalność handlową na rynku kontraktów terminowych typu futures poprzez kupno i sprzedaż kontraktów terminowych typu futures. Spekulują na temat kierunku zmiany wartości kontraktów terminowych typu futures i starają się osiągnąć zysk, kupując kontrakty terminowe typu futures, których cena według nich wzrośnie, oraz sprzedając te, których cena według nich spadnie.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Kupujesz kontrakty, których cena twoim zdaniem wzrośnie",
+   "Sprzedajesz te, które według ciebie stanieją",
+   "Spekulujesz na kierunku zmiany wartości kontraktów",
+   "Zamykasz pozycje na koniec dnia"
+  ]
+ },
+ {
+  "id": 1438,
+  "name": "Trader papierów wartościowych",
+  "desc": "Traderzy papierów wartościowych nabywają i sprzedają papiery wartościowe, takie jak akcje, obligacje i udziały, na własny rachunek lub na rachunek pracodawców na podstawie swojej fachowej wiedzy o rynkach finansowych. Monitorują wyniki papierów wartościowych będących przedmiotem obrotu, oceniając ich stabilność lub tendencję do spekulacji. Traderzy papierów wartościowych obliczają cenę papierów wartościowych i składają zlecenia. Rejestrują i dokumentują wszystkie transakcje dotyczące papierów wartościowych i zajmują się dokumentami finansowymi.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Kupujesz i sprzedajesz akcje, obligacje i udziały",
+   "Obliczasz cenę papieru i składasz zlecenie",
+   "Rejestrujesz każdą transakcję w dokumentach",
+   "Oceniasz, czy papier jest stabilny, czy spekulacyjny"
+  ]
+ },
+ {
+  "id": 1439,
+  "name": "Trader rynków finansowych",
+  "desc": "Traderzy rynków finansowych kupują i sprzedają produkty finansowe, takie jak aktywa, akcje i obligacje, w imieniu klientów prywatnych, banków lub spółek. Ściśle monitorują rynki finansowe i poprzez transakcje dążą do maksymalizacji zysku oraz minimalizacji ryzyka.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Kupujesz i sprzedajesz akcje, obligacje i inne aktywa",
+   "Ściśle obserwujesz rynki finansowe",
+   "Ograniczasz ryzyko, rozkładając pieniądze na różne produkty",
+   "Realizujesz transakcje dla klientów, banków i firm"
+  ]
+ }
+]

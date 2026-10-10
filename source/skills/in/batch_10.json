@@ -1,0 +1,722 @@
+[
+ {
+  "id": 600,
+  "name": "Operator piły poprzecznej",
+  "desc": "Operatorzy pił poprzecznych korzystają z ręcznej piły poprzecznej. Cięcie piłą poprzeczną stosuje się do wycinki i przerzynania drzew bądź do odcinania konarów w celu uzyskania bali. Operatorzy pił poprzecznych mogą także pracować z mniejszymi piłami poprzecznymi w celu wykonania cięć ręcznych.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Oceniasz, w którą stronę upadnie drzewo",
+   "Nacinasz pień i ścinasz drzewo",
+   "Odcinasz konary od powalonego pnia",
+   "Przecinasz pień na bale"
+  ]
+ },
+ {
+  "id": 601,
+  "name": "Operator rębaka",
+  "desc": "Operatorzy rębaków dozorują maszyny, które kroją drewno na małe kawałki do stosowania w płytach wiórowych, w celu dalszego przetworzenia na masę papierową lub do samodzielnego stosowania. Drewno jest podawane do rębaka i cięte na kawałki lub rozdrabniane przy użyciu różnych mechanizmów.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Zasilasz rębak pniami i kawałkami drewna",
+   "Obserwujesz, czy nic nie blokuje podawania",
+   "Sprawdzasz wielkość wyprodukowanych wiórów",
+   "Zatrzymujesz maszynę, gdy coś się zaklinuje"
+  ]
+ },
+ {
+  "id": 602,
+  "name": "Operator laminatora",
+  "desc": "Operatorzy laminatorów dozorują maszynę, która nanosi warstwę tworzywa sztucznego na papier w celu jego wzmocnienia i ochrony przed wilgocią i plamami.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Zakładasz rolki papieru i folii w maszynie",
+   "Ustawiasz maszynę pod rodzaj papieru",
+   "Obserwujesz, czy warstwa nakłada się równo",
+   "Odrzucasz arkusze z bąblami lub zmarszczkami"
+  ]
+ },
+ {
+  "id": 603,
+  "name": "Operator maszyn do flotacyjnego odbarwiania makulatury",
+  "desc": "Operatorzy maszyn do flotacyjnego odbarwiania makulatury dozorują zbiornik, który pobiera papier z recyklingu i miesza go z wodą. Roztwór jest doprowadzany do temperatury około 50°C, po czym do zbiornika są wdmuchiwane pęcherzyki powietrza. Pęcherzyki powietrza podnoszą cząstki farb drukarskich na powierzchnię zawiesiny i tworzą pianę, która jest następnie usuwana.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Napełniasz zbiornik makulaturą i wodą",
+   "Pilnujesz temperatury roztworu",
+   "Kontrolujesz wdmuchiwanie pęcherzyków powietrza",
+   "Zbierasz i usuwasz pianę z farbą"
+  ]
+ },
+ {
+  "id": 604,
+  "name": "Operator maszyn do odbarwiania makulatury metodą mycia",
+  "desc": "Operatorzy maszyn do odbarwiania makulatury metodą mycia obsługują zbiornik, w którym papier z recyklingu jest mieszany z wodą i środkami dyspergującymi w celu wymycia farb drukarskich. Roztwór, zwany zawiesiną włóknistą, jest następnie odwadniany, aby wypłukać rozpuszczone farby drukarskie.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Mieszasz makulaturę z wodą i dodatkami",
+   "Pilnujesz, żeby farba odeszła od włókien",
+   "Odwadniasz zawiesinę i płuczesz masę",
+   "Oceniasz jasność oczyszczonej masy"
+  ]
+ },
+ {
+  "id": 605,
+  "name": "Operator maszyn do produkcji papierowych artykułów piśmiennych",
+  "desc": "Operatorzy maszyn do produkcji papierowych artykułów piśmiennych pracują z maszynami, które wykonują jedną lub więcej operacji na papierze tak, aby nadawał się na konkretne rynki, np. dziurkowanie, perforacje, zaginanie i zestawianie z kalką.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Ustawiasz maszynę na dany wzór papieru",
+   "Wkładasz stosy papieru do podajnika",
+   "Sprawdzasz dziurki, perforacje i zagięcia",
+   "Zbierasz gotowe zestawy i układasz je do pakowania"
+  ]
+ },
+ {
+  "id": 606,
+  "name": "Operator maszyn do wybielania masy papierniczej",
+  "desc": "Operatorzy maszyn do wybielania masy papierniczej dozorują maszynę, która wybiela masę papierniczą służącą do produkcji papieru białego. Różne techniki bielenia stosowane są do uzupełnienia różnych metod rozwłókniania i uzyskania różnych klas bieli.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Kontrolujesz przepływ masy przez wybielanie",
+   "Ustawiasz sposób wybielania pod rodzaj masy",
+   "Pobierasz próbki i oceniasz stopień bieli",
+   "Zapisujesz parametry procesu w dzienniku"
+  ]
+ },
+ {
+  "id": 607,
+  "name": "Operator maszyny papierniczej",
+  "desc": "Operatorzy maszyn papierniczych dozorują maszynę, która pobiera zawiesinę masy celulozowej, rozprowadzają ją na sicie i odsączają wodę. Odsączona zawiesina jest następnie prasowana i tłoczona w celu produkcji papieru.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Pilnujesz rozlewania masy na sito",
+   "Kontrolujesz odsączanie i prasowanie wstęgi",
+   "Reagujesz, gdy wstęga papieru się zerwie",
+   "Sprawdzasz grubość i wygląd papieru"
+  ]
+ },
+ {
+  "id": 608,
+  "name": "Operator pras do formowania wyrobów z masy papierniczej",
+  "desc": "Operatorzy pras do formowania wyrobów z masy papierniczej dozorują maszynę, która formuje masę papierniczą w różne kształty, zazwyczaj do stosowania w lekkich, ale sztywnych materiałach opakowaniowych, takich jak opakowania na jajka.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Pilnujesz zasilania prasy masą papierniczą",
+   "Sprawdzasz kształt i grubość wytłoczek",
+   "Zdejmujesz gotowe wyroby z formy",
+   "Usuwasz zniekształcone sztuki i resztki masy"
+  ]
+ },
+ {
+  "id": 609,
+  "name": "Operator warnika",
+  "desc": "Operatorzy warników albo kucharze, gotują wióry drzewne z węglanem sodu lub kwasem, aby oddzielić masę celulozową od niepożądanych składników. Testują oni otrzymany roztwór.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Napełniasz warnik wiórami drzewnymi",
+   "Ustawiasz warunki gotowania w warniku",
+   "Pobierasz próbki roztworu do badania",
+   "Decydujesz po badaniu, kiedy zakończyć gotowanie"
+  ]
+ },
+ {
+  "id": 610,
+  "name": "Technik ds. produkcji masy papierniczej",
+  "desc": "Technicy ds. produkcji masy papierniczej wykonują zadania techniczne w produkcji masy papierniczej. Pracują w zespołach produkcji masy papierniczej, gdzie konserwują maszyny, usuwają usterki techniczne i dopilnowują, aby proces produkcji przebiegał zgodnie ze specyfikacjami.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Przeglądasz i konserwujesz maszyny",
+   "Szukasz przyczyny usterki i ją usuwasz",
+   "Porównujesz parametry masy ze specyfikacją",
+   "Ustalasz z operatorami, co poprawić w produkcji"
+  ]
+ },
+ {
+  "id": 611,
+  "name": "Operator ciągarki",
+  "desc": "Operatorzy ciągarek ustawiają i obsługują ciągarki do wyrobów z metali żelaznych i nieżelaznych, przeznaczone do wykonywania drutów, prętów, rur, profili drążonych i tubek o określonej formie, poprzez zmniejszanie ich przekroju poprzecznego i przeciąganie materiałów roboczych przez szereg ciągadeł.",
+  "path": "Przemysł i produkcja > Obróbka metalu",
+  "tasks": [
+   "Zakładasz zwój lub pręt metalu do maszyny",
+   "Ustawiasz szereg ciągadeł do wybranej grubości",
+   "Mierzysz średnicę drutu lub pręta",
+   "Zatrzymujesz maszynę, gdy materiał pęka"
+  ]
+ },
+ {
+  "id": 612,
+  "name": "Operator maszyn do produkcji siatek metalowych",
+  "desc": "Operatorzy maszyn do produkcji siatek metalowych ustawiają i dozorują maszyny do produkcji siatek metalowych, przeznaczone do produkcji tkanin z drutu metalowego ze stopów lub ciągliwego metalu, które można wyciągać w drut.",
+  "path": "Przemysł i produkcja > Obróbka metalu",
+  "tasks": [
+   "Zakładasz szpule z drutem na maszynę",
+   "Ustawiasz maszynę na wymiar oczek siatki",
+   "Obserwujesz splot i szukasz błędów",
+   "Odcinasz i zwijasz gotową siatkę w rolki"
+  ]
+ },
+ {
+  "id": 613,
+  "name": "Operator maszyn do produkcji sprężyn",
+  "desc": "Operatorzy maszyn do produkcji sprężyn obsługują różnorodne urządzenia i maszyny przeznaczone do wytwarzania różnych rodzajów sprężyn, w tym płytkowych, śrubowych, walcowych skrętowych, zegarowych, naciągowych i rozciąganych.",
+  "path": "Przemysł i produkcja > Obróbka metalu",
+  "tasks": [
+   "Ustawiasz maszynę pod wybrany rodzaj sprężyny",
+   "Zakładasz drut i uruchamiasz formowanie",
+   "Mierzysz długość i liczbę zwojów",
+   "Sprawdzasz, czy sprężyna wraca do kształtu"
+  ]
+ },
+ {
+  "id": 614,
+  "name": "Operator maszyn odlewniczych",
+  "desc": "Operatorzy maszyn odlewniczych obsługują maszyny do odlewania do kształtowania substancji metalowych. Ustawiają i dozorują maszyny do odlewania w celu przetwarzania roztopionych metali żelaznych i nieżelaznych do wytworzenia materiałów metalowych. Dokonują oni przepływu roztopionych metali do odlewów, dbając o stworzenie odpowiednich warunków do uzyskania metalu najwyższej jakości. Obserwują oni przepływ metalu w celu wykrycia usterek. W przypadku usterki powiadamiają oni upoważniony personel i biorą udział w usuwaniu usterki.",
+  "path": "Przemysł i produkcja > Obróbka metalu",
+  "tasks": [
+   "Ustawiasz maszynę i formy do odlewu",
+   "Kierujesz roztopiony metal do form",
+   "Obserwujesz przepływ metalu i szukasz wad",
+   "Zgłaszasz usterkę i pomagasz ją usunąć"
+  ]
+ },
+ {
+  "id": 615,
+  "name": "Operator walcarki",
+  "desc": "Operatorzy walcarek ustawiają i dozorują walcarki przeznaczone do formowania metalowych elementów w pożądany kształt przez przepuszczenie ich przez jedną lub kilka par walców w celu zmniejszenia grubości metalu i ich ujednorodnienia. Uwzględniają oni również właściwą temperaturę tego procesu walcowania.",
+  "path": "Przemysł i produkcja > Obróbka metalu",
+  "tasks": [
+   "Ustawiasz odstęp między walcami",
+   "Prowadzisz metal przez kolejne pary walców",
+   "Kontrolujesz temperaturę metalu w procesie",
+   "Mierzysz grubość i równość gotowego wyrobu"
+  ]
+ },
+ {
+  "id": 616,
+  "name": "Operator wytłaczarki",
+  "desc": "Operatorzy wytłaczarek ustawiają, monitorują i konserwują maszyny, które ogrzewają lub stapiają surowce i przeciągają lub przepychają ogrzany materiał przez matrycę kształtową w celu utworzenia ciągłego profilu o ustalonym przekroju takiego jak tuby, rury i folia. Mogą oni także czyścić i konserwować sprzęt.",
+  "path": "Przemysł i produkcja > Obróbka metalu",
+  "tasks": [
+   "Ustawiasz maszynę i matrycę pod dany profil",
+   "Kontrolujesz nagrzewanie i przepływ surowca",
+   "Sprawdzasz wymiar i wygląd wychodzącego profilu",
+   "Czyścisz i konserwujesz maszynę"
+  ]
+ },
+ {
+  "id": 617,
+  "name": "Operator wyżarzarki",
+  "desc": "Operatorzy wyżarzarek obsługują piece elektryczne lub gazowe w celu zmiękczenia metalu, aby można było go łatwiej kroić i formować. Ogrzewają metal do określonej temperatury i/lub barwy, a następnie powoli go schładzają, zgodnie ze specyfikacjami. Operatorzy wyżarzarek kontrolują metale w ciągu całego procesu w celu wykrycia wad.",
+  "path": "Przemysł i produkcja > Obróbka metalu",
+  "tasks": [
+   "Układasz metalowe elementy w piecu",
+   "Ustawiasz temperaturę i czas nagrzewania",
+   "Pilnujesz powolnego schładzania metalu",
+   "Oglądasz metal, szukając pęknięć i innych wad"
+  ]
+ },
+ {
+  "id": 618,
+  "name": "Urządzenia do obróbki powierzchniowej metali i nakładania powłok",
+  "desc": "",
+  "path": "Przemysł i produkcja > Obróbka metalu",
+  "tasks": [
+   "Przygotowujesz elementy do obróbki powierzchni",
+   "Zawieszasz lub układasz elementy w urządzeniu",
+   "Pilnujesz ustawień i czasu procesu",
+   "Sprawdzasz grubość i wygląd powłoki"
+  ]
+ },
+ {
+  "id": 619,
+  "name": "Pakowacz ręczny/pakowaczka ręczna",
+  "desc": "Pakowacze ręczni/pakowaczki ręczne zbierają, pakują i etykietują towary i materiały ręcznie. Dopilnowują, aby wszystkie towary i materiały były pakowane zgodnie z instrukcjami i wymogami.",
+  "path": "Przemysł i produkcja > Pakowacze i prace proste w przemyśle",
+  "tasks": [
+   "Zbierasz towary według listy zamówienia",
+   "Układasz je w kartonach lub workach",
+   "Naklejasz etykiety na gotowe paczki",
+   "Porównujesz zawartość paczki z instrukcją"
+  ]
+ },
+ {
+  "id": 620,
+  "name": "Pracownik do uszczelniania pokładów",
+  "desc": "Pracownicy do uszczelniania pokładów umieszczają pakuły w łączeniach między poszyciem na pokładzie lub kadłubie drewnianych statków, aby zapewnić ich wodoodporność. Używają oni głównie narzędzi ręcznych do ogrzewania kleju morskiego i wepchnięcia go do łączeń. Mogą oni również wbijać liny konopne i liny bawełniane w łączenia i smarować je gorącą smołą.",
+  "path": "Przemysł i produkcja > Pakowacze i prace proste w przemyśle",
+  "tasks": [
+   "Wbijasz pakuły w szczeliny między deskami",
+   "Podgrzewasz klej morski i wciskasz go w łączenia",
+   "Wbijasz liny konopne lub bawełniane w szwy",
+   "Smarujesz łączenia gorącą smołą"
+  ]
+ },
+ {
+  "id": 621,
+  "name": "Pracownik do wykańczania odzieży",
+  "desc": "Pracownicy do wykańczania odzieży zakładają pasmanterię (np. nasadki, zamki błyskawiczne i wstążki) i odcinają nici. Ważą, pakują, etykietują materiały i produkty.",
+  "path": "Przemysł i produkcja > Pakowacze i prace proste w przemyśle",
+  "tasks": [
+   "Zakładasz zamki, nasadki i wstążki",
+   "Obcinasz zwisające nitki",
+   "Ważysz i liczysz gotowe ubrania",
+   "Pakujesz i etykietujesz produkty"
+  ]
+ },
+ {
+  "id": 622,
+  "name": "Pracownik porządkowy w fabryce",
+  "desc": "Pracownicy porządkowi w fabryce wspomagają operatorów maszyn i montażystów produktów. Oczyszczają maszyny i powierzchnie robocze. Pracownicy porządkowi w fabryce dopilnowują, aby zapasy i materiały były uzupełniane.",
+  "path": "Przemysł i produkcja > Pakowacze i prace proste w przemyśle",
+  "tasks": [
+   "Czyścisz maszyny i powierzchnie robocze",
+   "Zamiatasz i zbierasz odpady z hali",
+   "Uzupełniasz zapasy materiałów przy stanowiskach",
+   "Donosisz części i materiały do stanowisk"
+  ]
+ },
+ {
+  "id": 623,
+  "name": "Operatorzy maszyn w przemyśle spożywczym",
+  "desc": "",
+  "path": "Przemysł i produkcja",
+  "tasks": [
+   "Uruchamiasz linię produkcyjną i ustawiasz ją",
+   "Dozujesz składniki lub podajesz surowiec",
+   "Kontrolujesz wygląd, wagę i opakowanie produktu",
+   "Myjesz maszynę zgodnie z zasadami higieny"
+  ]
+ },
+ {
+  "id": 624,
+  "name": "Makler morski",
+  "desc": "Maklerzy morscy działają jako pośrednicy między nabywcami i sprzedawcami statków, przestrzeni ładunkowej na statkach i statków czarterowych do przewozu ładunku. Informują klientów o mechanizmach i ruchach na rynku frachtowym, cenach i sprzedaży statków i przestrzeni ładunkowej oraz negocjują koszt statków, przestrzeni ładunkowej lub ładunku, a także wymagania logistyczne dotyczące transportu statku lub ładunku towarów do nabywców.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Szukasz kupców i sprzedawców statków",
+   "Negocjujesz cenę statku lub miejsca na ładunek",
+   "Informujesz klientów o cenach frachtu na rynku",
+   "Ustalasz, jak ładunek dotrze do odbiorcy"
+  ]
+ },
+ {
+  "id": 625,
+  "name": "Pośrednik handlowy",
+  "desc": "Pośrednicy handlowi pośredniczą w kontaktach między nabywcami a sprzedawcami ruchomości i nieruchomości, takich jak surowce, inwentarz żywy lub nieruchomości. Negocjują ceny i otrzymują prowizję od transakcji. Badają warunki rynkowe dla określonych towarów w celu informowania o nich klientów. Składają oferty i obliczają koszt transakcji.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Szukasz sprzedających i kupujących towaru",
+   "Badasz aktualne ceny na rynku",
+   "Negocjujesz cenę z obiema stronami",
+   "Przygotowujesz ofertę i liczysz koszty transakcji"
+  ]
+ },
+ {
+  "id": 626,
+  "name": "Pośrednik w obrocie odpadami",
+  "desc": "Pośrednicy w obrocie odpadami działają jako pośrednicy między klientami a przedsiębiorstwami zajmującymi się gospodarką odpadami. Zapewniają oni, że odpady są odbierane od klienta przez wyspecjalizowany podmiot i transportowane do zakładu utylizacji odpadów, w którym są one przetwarzane.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Ustalasz z klientem, jakie ma odpady",
+   "Wybierasz firmę, która je odbierze",
+   "Organizujesz transport do zakładu przetwarzania",
+   "Sprawdzasz, czy odpady dotarły we właściwe miejsce"
+  ]
+ },
+ {
+  "id": 627,
+  "name": "Armator wirtualny",
+  "desc": "Armatorzy wirtualni (NCVCC) są pośrednikami w handlu oceanicznym, którzy kupują przestrzeń od przewoźnika i odsprzedają ją mniejszym spedytorom. Wystawiają konosamenty, publikują taryfy i w inny sposób prowadzą działalność jako przewoźnicy publiczni specjalizujący się w transporcie oceanicznym.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Kupujesz miejsce na statku od przewoźnika",
+   "Odsprzedajesz je mniejszym nadawcom towaru",
+   "Wystawiasz konosamenty, czyli dokumenty przewozu",
+   "Publikujesz cennik przewozów morskich"
+  ]
+ },
+ {
+  "id": 628,
+  "name": "Hurtownik",
+  "desc": "Hurtownicy szukają potencjalnych hurtowych nabywców i dostawców oraz kojarzą ich na podstawie potrzeb. Zawierają transakcje obejmujące duże ilości towarów.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Szukasz hurtowych nabywców i dostawców",
+   "Sprawdzasz, czego potrzebuje każda strona",
+   "Kojarzysz kupującego z odpowiednim dostawcą",
+   "Ustalasz cenę i ilość w umowie"
+  ]
+ },
+ {
+  "id": 629,
+  "name": "Makler giełd towarowych",
+  "desc": "Maklerzy giełd towarowych wykorzystują techniki negocjacyjne do sprzedaży i zakupu na giełdzie dóbr materialnych i surowców, takich jak złoto, bydło, olej, bawełna i pszenica. Otrzymują i realizują zlecenia zakupu i sprzedaży oraz negocjują warunki sprzedaży i dostawy towarów. Maklerzy giełd towarowych badają warunki rynkowe dotyczące określonych towarów, ich trendy cenowe i popyt na te towary, aby informować pracodawców, oraz składają oferty i obliczają koszt transakcji.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Realizujesz zlecenia kupna i sprzedaży surowców",
+   "Negocjujesz warunki sprzedaży i dostawy",
+   "Analizujesz trendy cen i popyt",
+   "Informujesz pracodawcę o sytuacji na rynku"
+  ]
+ },
+ {
+  "id": 630,
+  "name": "Specjalista ds. planowania zakupów",
+  "desc": "Specjaliści ds. planowania zakupów organizują ciągłe dostawy towarów w oparciu o istniejące umowy.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Sprawdzasz stan magazynu i zużycie towarów",
+   "Planujesz terminy kolejnych zamówień",
+   "Przypominasz dostawcom o umówionych dostawach",
+   "Reagujesz, gdy dostawa się opóźnia"
+  ]
+ },
+ {
+  "id": 631,
+  "name": "Specjalista ds. zakupu tkanin",
+  "desc": "Specjaliści ds. zakupu tkanin prowadzą działania na rzecz producentów wyrobów włókienniczych w zakresie od włókien po produkty końcowe.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Oceniasz próbki tkanin dotykiem i wzrokiem",
+   "Porównujesz oferty dostawców włókien i tkanin",
+   "Zamawiasz materiały dla producenta",
+   "Pilnujesz terminów i jakości dostaw"
+  ]
+ },
+ {
+  "id": 632,
+  "name": "Specjalista ds. zakupów technologii informacyjno-telekomunikacyjnych",
+  "desc": "Specjaliści ds. zakupów technologii informacyjno-telekomunikacyjnych opracowują i składają zamówienia na produkty i usługi z zakresu technologii informacyjno-telekomunikacyjnych, zajmują się odbiorem i wystawianiem faktur, oceniają bieżące praktyki dotyczące zaopatrzenia oraz efektywnie stosują metody zaopatrzenia strategicznego. Budują relacje ze sprzedawcami strategicznymi i negocjują cenę, jakość, poziom usług i warunki dostawy.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Przygotowujesz zamówienia na sprzęt i usługi",
+   "Porównujesz oferty dostawców technologii",
+   "Negocjujesz cenę, jakość i termin dostawy",
+   "Sprawdzasz faktury i odbiór zamówionych rzeczy"
+  ]
+ },
+ {
+  "id": 633,
+  "name": "Specjalista ds. zakupów zielonej kawy",
+  "desc": "Specjaliści ds. zakupów zielonej kawy kupują ziarna zielonej kawy od producentów z całego świata zamówione przez palarnie kawy. Posiadają szeroką wiedzę na temat procesu uzyskiwania kawy na wszystkich etapach: od owoców do filiżanki.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Szukasz producentów kawy na świecie",
+   "Oceniasz próbki ziaren i ich jakość",
+   "Negocjujesz cenę i wielkość partii",
+   "Uzgadniasz z palarnią, jakiej kawy potrzebuje"
+  ]
+ },
+ {
+  "id": 634,
+  "name": "Zaopatrzeniowiec",
+  "desc": "Zaopatrzeniowcy wybierają i kupują zapasy, materiały, usługi lub towary. Organizują procedury przetargowe i wybierają dostawców.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Zbierasz zapotrzebowania od działów firmy",
+   "Ogłaszasz przetarg i zbierasz oferty",
+   "Porównujesz oferty dostawców",
+   "Wybierasz dostawcę i składasz zamówienie"
+  ]
+ },
+ {
+  "id": 635,
+  "name": "Agent ds. zakupów - kostiumy",
+  "desc": "Agenci ds. zakupów kostiumów pracują z kostiumografem w celu określenia materiałów na kostiumy. Kupują i wynajmują tkaniny, nici, akcesoria i inne artykuły potrzebne do wykonania garderoby. Agenci ds. zakupów kostiumów mogą również kupować gotową odzież „z wieszaka”. Ich zakupy opierają się na szkicach kostiumografa.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Czytasz szkice kostiumografa i listy potrzeb",
+   "Szukasz tkanin, nici i dodatków",
+   "Kupujesz lub wypożyczasz gotowe ubrania",
+   "Pilnujesz budżetu i terminów zakupów"
+  ]
+ },
+ {
+  "id": 636,
+  "name": "Specjalista ds. zakupów - scenografia i rekwizyty",
+  "desc": "Specjaliści ds. zakupów w zakresie scenografii i rekwizytów analizują scenariusz, aby określić dekorację sceniczną i rekwizyty niezbędne we wszystkich scenach. Konsultują się również ze scenografem i zespołem zajmującym się rekwizytami i przygotowaniem sceny. Specjaliści ds. zakupów w zakresie scenografii i rekwizytów kupują lub wynajmują rekwizyty bądź zlecają ich produkcję. Specjaliści ds. zakupów w zakresie scenografii i rekwizytów dbają o to, aby dekoracje były autentyczne i wiarygodne.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Analizujesz scenariusz scena po scenie",
+   "Konsultujesz się ze scenografem i ekipą rekwizytorów",
+   "Kupujesz, wypożyczasz lub zlecasz wykonanie rekwizytów",
+   "Sprawdzasz, czy przedmioty pasują do epoki"
+  ]
+ },
+ {
+  "id": 637,
+  "name": "Specjalista ds. zakupów drewna",
+  "desc": "Specjaliści ds. zakupów drewna oceniają jakość, ilość i wartość rynkową drewna i produktów z drewna na potrzeby handlu. Organizują proces sprzedaży nowego drewna i kupują jego zapasy.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Oceniasz jakość i ilość drewna",
+   "Sprawdzasz aktualne ceny drewna na rynku",
+   "Negocjujesz cenę zakupu z dostawcami drewna",
+   "Zamawiasz drewno i organizujesz jego odbiór"
+  ]
+ },
+ {
+  "id": 638,
+  "name": "Agent ubezpieczeń nieruchomości",
+  "desc": "Agenci ubezpieczeń nieruchomości oceniają i określają ryzyko i zakres ubezpieczenia majątkowego klienta. Analizują politykę dotyczącą udzielania ubezpieczeń oraz dokonują jej przeglądu zgodnie z przepisami prawnymi.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Szacujesz wartość domu, mieszkania lub majątku",
+   "Oceniasz zagrożenia, na przykład powódź czy kradzież",
+   "Ustalasz zakres ochrony w polisie",
+   "Sprawdzasz zgodność warunków z przepisami"
+  ]
+ },
+ {
+  "id": 639,
+  "name": "Broker ubezpieczeniowy",
+  "desc": "Brokerzy ubezpieczeniowi promują i sprzedają różne polisy ubezpieczeniowe, takie jak ubezpieczenia na życie, zdrowotne, od nieszczęśliwych wypadków i od ognia dla osób fizycznych i organizacji, oraz udzielają porad na temat tych ubezpieczeń. Są również pośrednikami między osobami fizycznymi lub organizacjami a towarzystwami ubezpieczeniowymi oraz negocjują najlepsze warunki polis ubezpieczeniowych dla swoich klientów, zapewniając ochronę ubezpieczeniową w wymaganym zakresie.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Pytasz klienta, czego chce chronić",
+   "Porównujesz oferty towarzystw ubezpieczeniowych",
+   "Negocjujesz warunki i zakres polisy",
+   "Tłumaczysz, co polisa obejmuje, a czego nie"
+  ]
+ },
+ {
+  "id": 640,
+  "name": "Specjalista ds. oceny ryzyka ubezpieczeniowego",
+  "desc": "Specjaliści ds. oceny ryzyka ubezpieczeniowego przygotowują sprawozdania dla ubezpieczycieli. W tym celu wykonują badania, aby określić potencjalne ryzyko finansowe dotyczące przedmiotów osobistych, nieruchomości lub terenów.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Zbierasz informacje o ubezpieczanym majątku",
+   "Sprawdzasz zapisy o szkodach w danym miejscu",
+   "Szacujesz możliwą wielkość strat",
+   "Piszesz sprawozdanie z oceną ryzyka"
+  ]
+ },
+ {
+  "id": 641,
+  "name": "Przedstawiciel handlowy zakładu energetycznego",
+  "desc": "Przedstawiciele handlowi zakładu energetycznego oceniają zapotrzebowanie klientów na energię i zalecają zakup energii elektrycznej od przedsiębiorstwa, które reprezentują. Promują usługi swojego przedsiębiorstwa i negocjują warunki sprzedaży z klientami.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Pytasz klienta, na co zużywa energię",
+   "Szacujesz jego roczne zapotrzebowanie na energię",
+   "Przedstawiasz ofertę swojej firmy",
+   "Negocjujesz warunki umowy"
+  ]
+ },
+ {
+  "id": 642,
+  "name": "Sprzedawca energii odnawialnej",
+  "desc": "Sprzedawcy energii odnawialnej oceniają zapotrzebowanie klientów na dostawy energii i starają się zapewnić sprzedaż energii ze źródeł odnawialnych. Promują dostawców energii ze źródeł odnawialnych i wykorzystanie produktów opartych na energii odnawialnej oraz współpracują z odbiorcami w celu zwiększenia sprzedaży.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Oceniasz zapotrzebowanie klienta na energię",
+   "Przedstawiasz zalety energii odnawialnej",
+   "Promujesz dostawców i produkty z odnawialnych źródeł",
+   "Odpowiadasz na wątpliwości klientów co do kosztów"
+  ]
+ },
+ {
+  "id": 643,
+  "name": "Dyrektor domu towarowego",
+  "desc": "Dyrektorzy domów towarowych organizują i kontrolują operacje i personel instytucji świadczących usługi detaliczne.",
+  "path": "Sprzedaż i marketing > Kierownicy sklepów i hurtowni",
+  "tasks": [
+   "Układasz grafik i zadania dla kierowników działów",
+   "Czytasz raporty sprzedaży z wszystkich działów",
+   "Rozwiązujesz poważne skargi klientów",
+   "Decydujesz o organizacji i wyglądzie sklepu"
+  ]
+ },
+ {
+  "id": 644,
+  "name": "Dyrektor supermarketu",
+  "desc": "Dyrektorzy supermarketu są odpowiedzialni za działania i personel w supermarkecie.",
+  "path": "Sprzedaż i marketing > Kierownicy sklepów i hurtowni",
+  "tasks": [
+   "Sprawdzasz dostawy i stan półek",
+   "Układasz grafik pracy kasjerów i magazynierów",
+   "Reagujesz na braki towaru i awarie",
+   "Rozmawiasz z dostawcami o terminach i cenach"
+  ]
+ },
+ {
+  "id": 645,
+  "name": "Kierownik działu w domu towarowym",
+  "desc": "Kierownicy działów domach towarowych są odpowiedzialni za działania i personel w danym dziale w sklepie.",
+  "path": "Sprzedaż i marketing > Kierownicy sklepów i hurtowni",
+  "tasks": [
+   "Układasz grafik sprzedawców w swoim dziale",
+   "Zamawiasz towar i ustawiasz go na półkach",
+   "Pomagasz sprzedawcom przy trudnych klientach",
+   "Sprawdzasz, ile dział sprzedaje danego dnia"
+  ]
+ },
+ {
+  "id": 646,
+  "name": "Opiekun klienta",
+  "desc": "Opiekunowie klienta działają jako pośrednicy między klientami a organizacją, zarządzając zarówno sprzedażą, jak i długoterminowymi relacjami z klientem. Posiadają wiedzę na temat produktów i usług oraz opracowują umowy z klientami.",
+  "path": "Sprzedaż i marketing > Kierownicy sklepów i hurtowni",
+  "tasks": [
+   "Rozmawiasz z klientem o jego potrzebach",
+   "Proponujesz produkty i usługi firmy",
+   "Przygotowujesz umowy i warunki współpracy",
+   "Odpowiadasz na pytania klientów po sprzedaży"
+  ]
+ },
+ {
+  "id": 647,
+  "name": "Regionalny dyrektor handlowy",
+  "desc": "Regionalni dyrektorzy handlowi są odpowiedzialni za działania i personel w wyznaczonym regionie w ramach określonego łańcucha dostaw.",
+  "path": "Sprzedaż i marketing > Kierownicy sklepów i hurtowni",
+  "tasks": [
+   "Jeździsz po sklepach w swoim regionie",
+   "Porównujesz wyniki sprzedaży placówek",
+   "Rozmawiasz z kierownikami o problemach",
+   "Ustalasz cele sprzedaży na kolejny okres"
+  ]
+ },
+ {
+  "id": 648,
+  "name": "Asystent ds. marketingu",
+  "desc": "Asystenci ds. marketingu wspierają wszelkie wysiłki i działania podejmowane przez kadrę zarządzającą i menedżerów ds. marketingu. Przygotowują sprawozdania z działań marketingowych potrzebne innym działom, zwłaszcza księgowości i finansów. Dbają o dostępność pracowników potrzebnych z punktu widzenia organizacji pracy.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Przygotowujesz sprawozdania z działań marketingowych",
+   "Wysyłasz zestawienia do księgowości i finansów",
+   "Pilnujesz, żeby na zadania byli ludzie",
+   "Wspierasz kierownika przy organizacji kampanii"
+  ]
+ },
+ {
+  "id": 649,
+  "name": "Kierownik ds. usług elektronicznych",
+  "desc": "Kierownicy ds. usług elektronicznych tworzą i realizują plan strategii elektronicznej przedsiębiorstwa dotyczący sprzedaży produktów i usług przez internet. Poprawiają również spójność danych, umiejscowienie narzędzi internetowych i ekspozycję marki oraz monitorują sprzedaż firm, które wprowadzają produkty do obrotu za pośrednictwem internetu. Współpracują z zespołem ds. marketingu i zarządzania sprzedażą, korzystając z narzędzi TIK w celu osiągania zakładanej sprzedaży i dostarczania dokładnych informacji i ofert partnerom biznesowym.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Układasz strategię sprzedaży przez internet",
+   "Sprawdzasz, czy dane o produktach są spójne",
+   "Śledzisz wyniki sprzedaży w sklepie internetowym",
+   "Ustalasz z marketingiem i sprzedażą wspólne cele"
+  ]
+ },
+ {
+  "id": 650,
+  "name": "Specjalista ds. planowania mediów",
+  "desc": "Specjaliści ds. planowania mediów doradzają w kwestii najlepszych mediowych platform komunikacji do przekazywania myśli. Analizują plany reklamowe z zamiarem oceny celu i zamysłu strategii marketingowej. Oceniają potencjał i wskaźnik odpowiedzi oferowane przez poszczególne kanały komunikacji w kontekście przekazu dotyczącego produktu, firmy lub marki.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Analizujesz plan reklamowy i cel kampanii",
+   "Porównujesz kanały komunikacji i ich zasięg",
+   "Oceniasz, który kanał przyniesie najwięcej odpowiedzi",
+   "Doradzasz klientowi, gdzie kupić miejsce na reklamę"
+  ]
+ },
+ {
+  "id": 651,
+  "name": "Asystent ds. promocji",
+  "desc": "Asystenci ds. promocji udzielają wsparcia w realizacji programów i działań promocyjnych w punktach sprzedaży. Prowadzą badania i zarządzają wszelkimi informacjami wymaganymi przez kadrę kierowniczą w celu podjęcia decyzji, czy programy promocyjne są potrzebne. Jeżeli tak, udzielają wsparcia w pozyskaniu materiałów i zasobów do działań promocyjnych.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Zbierasz informacje o sprzedaży i cenach",
+   "Sprawdzasz, czy promocja jest potrzebna",
+   "Zamawiasz plakaty, stojaki i inne materiały",
+   "Sprawdzasz w sklepach, jak przebiega promocja"
+  ]
+ },
+ {
+  "id": 652,
+  "name": "Dyrektor kreatywny",
+  "desc": "Dyrektorzy kreatywni zarządzają zespołem odpowiedzialnym za tworzenie reklam. Nadzorują cały proces tworzenia. Prezentują klientowi projekty opracowane przez zespół.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Oceniasz szkice i hasła zespołu",
+   "Wskazujesz, co poprawić w projekcie",
+   "Prezentujesz kampanię klientowi",
+   "Pilnujesz, żeby reklama trzymała jeden styl"
+  ]
+ },
+ {
+  "id": 653,
+  "name": "Kierownik ds. obsługi klienta",
+  "desc": "Kierownicy ds. obsługi klienta monitorują doświadczenia klientów poprzez tworzenie, ocenę i poprawę organizacji interakcji z klientem w branży hotelarsko-gastronomicznej, rekreacyjnej lub rozrywkowej. Opracowują plany działania służące optymalizacji wszystkich aspektów doświadczenia klienta. Kierownicy ds. obsługi klienta dążą do zapewnienia zadowolenia klientów i zwiększenia zysków firmy.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Sprawdzasz, jak goście oceniają obsługę",
+   "Poprawiasz sposób witania i obsługi gości",
+   "Układasz plan zmian w obiekcie",
+   "Rozmawiasz z niezadowolonymi gośćmi"
+  ]
+ },
+ {
+  "id": 654,
+  "name": "Menedżer ds. przychodów z hotelarstwa",
+  "desc": "Menedżerowie ds. przychodów z hotelarstwa maksymalizują dochody z obiektów, takich jak hotele, kurorty wakacyjne i pola kempingowe, analizując tendencje i konkurencję. Pomagają zarządzającym w podejmowaniu decyzji strategicznych. Menedżerowie ds. przychodów z hotelarstwa analizują i optymalizują potencjał finansowy obiektów i zarządzają personelem obiektów.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Analizujesz, ile pokoi jest zarezerwowanych",
+   "Porównujesz ceny z pobliskimi hotelami",
+   "Zmieniasz ceny noclegów na kolejne tygodnie",
+   "Doradzasz dyrekcji, jak zwiększyć dochody"
+  ]
+ },
+ {
+  "id": 655,
+  "name": "Menedżer produktów i usług",
+  "desc": "Menedżerowie produktów i usług są odpowiedzialni za określenie treści i struktury katalogu lub portfela przedsiębiorstwa.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Układasz katalog produktów firmy",
+   "Decydujesz, co dodać do oferty",
+   "Wycofujesz produkty, które się nie sprzedają",
+   "Zbierasz opinie klientów i sprzedawców"
+  ]
+ },
+ {
+  "id": 656,
+  "name": "Specjalista do spraw członkowskich",
+  "desc": "Specjaliści do spraw członkowskich nadzorują i koordynują plan członkostwa, wspierają obecnych członków i kontaktują się z ewentualnymi nowymi członkami. Analizują sprawozdania dotyczące tendencji rynkowych i opracowują odpowiednie plany marketingowe. Specjaliści do spraw członkowskich monitorują procesy, systemy i strategie oraz dbają o ich skuteczność.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Odpowiadasz na pytania obecnych członków",
+   "Kontaktujesz się z osobami chętnymi do wstąpienia",
+   "Układasz plan pozyskiwania nowych członków",
+   "Sprawdzasz, ilu członków odchodzi i dlaczego"
+  ]
+ },
+ {
+  "id": 657,
+  "name": "Specjalista ds. badań rynku",
+  "desc": "Specjaliści ds. badań rynku gromadzą informacje zebrane w ramach badań rynkowych i analizują je w celu wyciągnięcia wniosków. Określają potencjalnych nabywców danego produktu, grupę docelową i sposób dotarcia do klientów. Specjaliści ds. badań rynku analizują sytuację produktów na rynku z różnych perspektyw, np. cech, cen i konkurencji. Analizują sprzedaż wiązaną i współzależności między różnymi produktami oraz ich lokowaniem. Specjaliści ds. badań rynku przygotowują informacje pomocne w opracowywaniu strategii marketingowych.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Zbierasz dane z ankiet i badań",
+   "Określasz grupę docelową produktu",
+   "Porównujesz ceny i cechy produktów konkurencji",
+   "Przygotowujesz wnioski dla działu marketingu"
+  ]
+ },
+ {
+  "id": 658,
+  "name": "Specjalista ds. marketingu sieciowego",
+  "desc": "Specjaliści ds. marketingu sieciowego stosują różne strategie marketingowe, w tym strategie marketingu sieciowego, w celu sprzedaży produktów i przekonania nowych osób do przyłączenia się do sieci i podjęcia sprzedaży produktów. Wykorzystują relacje osobiste w celu przyciągnięcia klientów i sprzedaży różnych rodzajów produktów.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Prezentujesz produkty znajomym i nowym osobom",
+   "Rozmawiasz o ofercie na spotkaniach",
+   "Zachęcasz osoby do dołączenia do sieci",
+   "Pokazujesz nowym sprzedawcom, jak zacząć"
+  ]
+ },
+ {
+  "id": 659,
+  "name": "Specjalista ds. polityki cenowej",
+  "desc": "Specjaliści ds. polityki cenowej analizują koszty produkcji, tendencje rynkowe i konkurencję w celu ustalenia właściwej ceny, biorąc pod uwagę koncepcje marki i marketingu.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Liczysz koszt wyprodukowania produktu",
+   "Sprawdzasz ceny u konkurencji",
+   "Analizujesz, jak zmiana ceny wpływa na sprzedaż",
+   "Proponujesz nowe ceny dla działu sprzedaży"
+  ]
+ }
+]

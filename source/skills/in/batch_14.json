@@ -1,0 +1,722 @@
+[
+ {
+  "id": 840,
+  "name": "Zwrotniczy",
+  "desc": "Zwrotniczy pomagają w wykonywaniu zadań dyżurnego ruchu. Obsługują oni przełączniki i sygnały zgodnie z instrukcjami dotyczącymi kontroli ruchu kolejowego, zgodnie z przepisami oraz zasadami bezpieczeństwa.",
+  "path": "Transport i logistyka > Kolej",
+  "tasks": [
+   "Przestawiasz zwrotnice według poleceń dyżurnego",
+   "Obsługujesz sygnały na stacji",
+   "Sprawdzasz, czy zwrotnica jest dobrze ustawiona",
+   "Zgłaszasz usterki toru i urządzeń"
+  ]
+ },
+ {
+  "id": 841,
+  "name": "Instruktor nauki jazdy autobusem",
+  "desc": "Instruktorzy nauki jazdy autobusem uczą kursantów teorii i praktyki prowadzenia autobusu w sposób bezpieczny i zgodny z przepisami. Pomagają oni kursantom w rozwijaniu umiejętności potrzebnych do prowadzenia i przygotowują ich do egzaminu teoretycznego i praktycznego.",
+  "path": "Transport i logistyka > Instruktor nauki jazdy",
+  "tasks": [
+   "Pokazujesz, jak pokonać ciasny zakręt długim pojazdem",
+   "Uczysz zatrzymywania autobusu przy krawędzi przystanku",
+   "Tłumaczysz obsługę drzwi i hamulców",
+   "Przygotowujesz do egzaminu na prawo jazdy autobusem"
+  ]
+ },
+ {
+  "id": 842,
+  "name": "Instruktor nauki jazdy motorem",
+  "desc": "Instruktorzy nauki jazdy motorem uczą kursantów teorii i praktyki kierowania motocyklem w sposób bezpieczny i zgodny z przepisami. Pomagają oni kursantom w rozwijaniu umiejętności potrzebnych do jazdy i przygotowują ich do egzaminu teoretycznego i praktycznego.",
+  "path": "Transport i logistyka > Instruktor nauki jazdy",
+  "tasks": [
+   "Uczysz równowagi i panowania nad motocyklem",
+   "Pokazujesz hamowanie i pokonywanie łuków",
+   "Sprawdzasz kask i odzież ochronną kursanta",
+   "Omawiasz błędy po każdej jeździe"
+  ]
+ },
+ {
+  "id": 843,
+  "name": "Instruktor nauki jazdy samochodem ciężarowym",
+  "desc": "Instruktorzy nauki jazdy samochodem ciężarowym uczą kursantów teorii i praktyki prowadzenia samochodu ciężarowego w sposób bezpieczny i zgodny z przepisami. Pomagają oni kursantom w rozwijaniu umiejętności potrzebnych do prowadzenia i przygotowują ich do egzaminu teoretycznego i praktycznego.",
+  "path": "Transport i logistyka > Instruktor nauki jazdy",
+  "tasks": [
+   "Uczysz cofania i manewrów z naczepą",
+   "Tłumaczysz długą drogę hamowania ciężarówki",
+   "Pokazujesz ustawianie lusterek i martwe pola",
+   "Prowadzisz zajęcia z teorii i przepisów"
+  ]
+ },
+ {
+  "id": 844,
+  "name": "Instruktor nauki jazdy samochodem osobowym",
+  "desc": "Instruktorzy nauki jazdy samochodem osobowym uczą kursantów teorii i praktyki prowadzenia samochodu osobowego w sposób bezpieczny i zgodny z przepisami. Pomagają oni kursantom w rozwijaniu umiejętności potrzebnych do prowadzenia i przygotowują ich do egzaminu teoretycznego i praktycznego.",
+  "path": "Transport i logistyka > Instruktor nauki jazdy",
+  "tasks": [
+   "Pokazujesz ruszanie, zmianę biegów i hamowanie",
+   "Uczysz parkowania równoległego i prostopadłego",
+   "Jeździsz z kursantem po trasach egzaminacyjnych",
+   "Uspokajasz zestresowanego kursanta przed egzaminem"
+  ]
+ },
+ {
+  "id": 845,
+  "name": "Inżynier ds. energetyki cieplnej",
+  "desc": "Inżynierowie ds. energetyki cieplnej projektują systemy, które zapewniają ogrzewanie lub chłodzenie z wykorzystaniem termodynamiki i przekazują ciepło lub energię za pomocą płynów i gazów. Konstruują również te systemy i przeprowadzają testy w celu zapewnienia odpowiedniej funkcjonalności.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Obliczasz, ile ciepła trzeba przenieść",
+   "Projektujesz instalacje ogrzewania lub chłodzenia",
+   "Dobierasz rury, pompy i wymienniki ciepła",
+   "Testujesz zbudowany system w praktyce"
+  ]
+ },
+ {
+  "id": 846,
+  "name": "Inżynier ds. energetyki słonecznej",
+  "desc": "Inżynierowie ds. energetyki słonecznej projektują systemy wytwarzające energię elektryczną ze światła słonecznego, takie jak systemy fotowoltaiczne. Projektują i konstruują systemy optymalizujące energię słoneczną oraz zrównoważony charakter procesu produkcji systemów wykorzystujących energię słoneczną.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Mierzysz nasłonecznienie dachu lub terenu",
+   "Liczysz, ile paneli zmieści się i jak je ustawić",
+   "Projektujesz schemat połączeń paneli",
+   "Szukasz sposobów na ekologiczniejszą produkcję paneli"
+  ]
+ },
+ {
+  "id": 847,
+  "name": "Inżynier ds. energetyki wiatrowej",
+  "desc": "Inżynierowie ds. energetyki wiatrowej opracowują i instalują farmy wiatrowe i sprzęt do produkcji energii wiatrowej. Badają i testują lokalizacje w celu znalezienia najbardziej produktywnej lokalizacji, testują sprzęt, taki jak skrzydła do turbin wiatrowych, oraz opracowują strategie na rzecz bardziej wydajnej produkcji energii oraz zrównoważenia środowiskowego.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Badasz wiatr i teren pod nową farmę",
+   "Testujesz łopaty i inne części turbin",
+   "Projektujesz rozmieszczenie turbin",
+   "Pracujesz nad wydajniejszą i bardziej ekologiczną produkcją"
+  ]
+ },
+ {
+  "id": 848,
+  "name": "Inżynier ds. systemów energetycznych",
+  "desc": "Inżynierowie ds. systemów energetycznych nadzorują procesy konwersji i dystrybucji energii. Analizują efektywność dostaw i zużycia energii, opracowując nowe sposoby poprawy istniejących procesów, biorąc pod uwagę zarówno aspekty techniczne, jak i finansowe. Badają również wpływ zużycia energii na środowisko i łączą produkcję energii ze źródeł odnawialnych w obecnych systemach energetycznych.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Analizujesz zużycie i dostawy energii w danych",
+   "Wyszukujesz miejsca marnowania energii",
+   "Porównujesz koszty techniczne i finansowe rozwiązań",
+   "Włączasz źródła odnawialne do istniejącej sieci"
+  ]
+ },
+ {
+  "id": 849,
+  "name": "Inżynier energetyki",
+  "desc": "Inżynierowie energetyki opracowują nowe, wydajne i czyste sposoby wytwarzania, przekształcania i dystrybucji energii w celu poprawy zrównoważenia środowiskowego i efektywności energetycznej. Pobierają energię za pośrednictwem zasobów naturalnych, takich jak ropa naftowa lub gaz, lub źródeł odnawialnych i zrównoważonych, takich jak energia wiatru lub energia słoneczna.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Porównujesz różne źródła energii pod względem emisji",
+   "Projektujesz sposoby wytwarzania energii",
+   "Doradzasz firmom, jak zużywać mniej energii",
+   "Sprawdzasz sprawność urządzeń i instalacji"
+  ]
+ },
+ {
+  "id": 850,
+  "name": "Inżynier inżynierii materiałowej",
+  "desc": "Inżynierowie inżynierii materiałowej badają i projektują nowe lub ulepszone materiały dla zróżnicowanej liczby zastosowań. Analizują oni skład materiałów, prowadzą eksperymenty i opracowują nowe materiały na potrzeby specyficznych dla przemysłu zastosowań, które mogą przybierać różną postać: kauczuk, tekstylia, szkło, metale i chemikalia. Doradzają przedsiębiorstwom w zakresie oceny szkód, zapewniania jakości materiałów oraz recyklingu materiałów.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Analizujesz skład materiałów",
+   "Prowadzisz eksperymenty wytrzymałościowe",
+   "Opracowujesz nowe materiały do zastosowań przemysłowych",
+   "Doradzasz firmom w sprawie uszkodzeń i recyklingu"
+  ]
+ },
+ {
+  "id": 851,
+  "name": "Inżynier technologii drewna",
+  "desc": "Inżynierowie technologii drewna opracowują materiały i części składowe wykonane z drewna, tworzą zakłady produkcyjne oraz kontrolują i monitorują produkcję. Badają oni również produkty i materiały oraz doradzają klientom.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Opracowujesz materiały i części z drewna",
+   "Planujesz organizację zakładu produkcyjnego",
+   "Kontrolujesz produkcję i jakość wyrobów",
+   "Doradzasz klientom, jakiego drewna użyć"
+  ]
+ },
+ {
+  "id": 852,
+  "name": "Nanotechnolog",
+  "desc": "Nanotechnolodzy łączą wiedzę naukową dotyczącą cząsteczek masy atomowej i cząsteczek molekularnych z podstawami inżynierii dla zastosowań w różnych zakresach pól. Stosują oni ustalenia w dziedzinie chemii, biologii i inżynierii materiałowej itp. Posiadają wiedzę techniczną na potrzeby ulepszania istniejących aplikacji lub tworzenia mikroobiektów.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Badasz zachowanie cząsteczek w mikroskali",
+   "Tworzysz mikroskopijne struktury o nowych właściwościach",
+   "Łączysz wiedzę z chemii, biologii i inżynierii",
+   "Ulepszasz istniejące zastosowania materiałów"
+  ]
+ },
+ {
+  "id": 853,
+  "name": "Bioinżynier",
+  "desc": "Bioinżynierowie łączą najnowsze ustalenia w dziedzinie biologii z logiką inżynieryjną w celu opracowania rozwiązań mających na celu poprawę dobrobytu społeczeństwa. Mogą opracować systemy ulepszeń w zakresie ochrony zasobów naturalnych, rolnictwa, produkcji żywności, modyfikacji genetycznej oraz wykorzystania gospodarczego.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz rozwiązania oparte na biologii",
+   "Prowadzisz doświadczenia z żywymi organizmami",
+   "Szukasz sposobów na wydajniejsze rolnictwo i żywność",
+   "Oceniasz, czy rozwiązanie się opłaca i jest bezpieczne"
+  ]
+ },
+ {
+  "id": 854,
+  "name": "Inżynier biocybernetyki i inżynierii biomedycznej",
+  "desc": "Inżynierowie biocybernetyki i inżynierii biomedycznej łączą wiedzę na temat zasad inżynieryjnych i odkryć biologicznych na potrzeby rozwoju leczenia, leków i ogólnej opieki zdrowotnej. Mogą oni opracowywać rozwiązania, począwszy od poprawy komponentów w tradycyjnych produktach leczniczych aż po procesy powstawania zagnieżdżonych zarodków, a także do leczenia tkanek.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz urządzenia medyczne dla pacjentów",
+   "Testujesz nowe rozwiązania w laboratorium",
+   "Dopasowujesz rozwiązanie do potrzeb lekarzy i pacjentów",
+   "Analizujesz dane z badań medycznych"
+  ]
+ },
+ {
+  "id": 855,
+  "name": "Inżynier bezpieczeństwa i higieny pracy",
+  "desc": "Inżynierowie bezpieczeństwa i higieny pracy projektują obiekty i programy poprzez połączenie podstaw inżynierii z wymogami w zakresie bezpieczeństwa i higieny pracy. Zapewniają ochronę i dobrostan osób korzystających z zaprojektowanych przedmiotów lub wykonujących prace w ramach opracowanych programów ochrony zdrowia i bezpieczeństwa. Dokonują oceny obiektów i zagrożeń, jakie mogą stwarzać (np. materiały zanieczyszczające, ergonomia, obchodzenie się z substancjami niebezpiecznymi itp.) w celu opracowania i poprawy środków w zakresie zdrowia i bezpieczeństwa.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Oceniasz zagrożenia na stanowiskach pracy",
+   "Projektujesz zasady i programy ochrony zdrowia",
+   "Sprawdzasz ergonomię stanowiska pracy",
+   "Proponujesz poprawki zmniejszające ryzyko wypadków"
+  ]
+ },
+ {
+  "id": 856,
+  "name": "Inżynier pożarnictwa",
+  "desc": "Inżynierowie pożarnictwa badają, projektują i opracowują innowacyjne rozwiązania mające na celu zapobieganie pożarom oraz ochronę ludzi, terenów przyrodniczych i obszarów miejskich. Proponują odpowiednie materiały do budowy, odzieży lub innych zastosowań oraz projektują systemy wykrywania, których celem jest zapobieganie pożarom lub rozprzestrzenianiu się ognia.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Dobierasz materiały odporne na ogień",
+   "Projektujesz systemy wykrywania pożaru",
+   "Analizujesz drogi rozprzestrzeniania się ognia w budynku",
+   "Badasz zabezpieczenia dla ludzi i terenów przyrodniczych"
+  ]
+ },
+ {
+  "id": 857,
+  "name": "Inżynier fotoniki",
+  "desc": "Inżynierowie fotoniki zajmują się wytwarzaniem, przesyłem, przekształcaniem i wykrywaniem światła. Prowadzą badania, projektują, zbierają, testują i rozmieszczają komponenty lub systemy fotoniczne w wielu polach użytkowych, od łączności optycznej do przyrządów medycznych, przetwarzania materiału lub techniki czujnikowej.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz układy do przesyłu światła",
+   "Budujesz i testujesz elementy z użyciem światła",
+   "Mierzysz, jak światło zachowuje się w układzie",
+   "Wdrażasz rozwiązania w łączności lub czujnikach"
+  ]
+ },
+ {
+  "id": 858,
+  "name": "Inżynier optyk",
+  "desc": "Inżynierowie optycy projektują i opracowują różne zastosowania przemysłowe z optyką. Posiadają wiedzę na temat lekkich zasad transmisji oraz optyki w celu projektowania elementów konstrukcyjnych urządzeń, takich jak mikroskopy, obiektywy, teleskopy i inne urządzenia optyczne.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz soczewki i zwierciadła",
+   "Obliczasz bieg promieni światła",
+   "Dobierasz kształt i rodzaj szkła soczewek",
+   "Testujesz ostrość obrazu w gotowym urządzeniu"
+  ]
+ },
+ {
+  "id": 859,
+  "name": "Inżynier akustyk",
+  "desc": "Inżynierowie akustycy studiują i stosują wiedzę naukową w zakresie dźwięku do różnych zastosowań. Pracują oni w wielu różnych dziedzinach, w tym prowadzą konsultacje dotyczące akustyki i elementów mających wpływ na przepuszczanie dźwięku w pomieszczeniach użytkowych lub dotyczących nagrywania. Mogą również konsultować się w sprawie poziomów zakłócania porządku hałasem w odniesieniu do tych działań, które wymagają przestrzegania norm w tej dziedzinie.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Mierzysz, jak dźwięk odbija się w sali",
+   "Dobierasz panele i materiały wygłuszające",
+   "Sprawdzasz poziom hałasu zgodnie z normami",
+   "Doradzasz przy budowie studia nagrań"
+  ]
+ },
+ {
+  "id": 860,
+  "name": "Inżynier ds. badań i rozwoju technologii włókienniczych, przetwórstwa skóry i produkcji obuwia",
+  "desc": "Inżynierowie ds. badań i rozwoju technologii włókienniczych, przetwórstwa skóry i produkcji obuwia łączą wiedzę na temat materiałoznawstwa, chemii, fizyki, technologii procesowych, zarządzania oraz inżynierii, aby przyczynić się do przyszłych innowacji w dziedzinie przemysłu tekstylnego, odzieżowego, skórzanego i obuwniczego. Współpracują w ramach multidyscyplinarnych projektów w celu połączenia ustaleń z różnych dziedzin nauki w zakresie rozwoju produktów.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Badasz właściwości tkanin i skór",
+   "Testujesz, jak materiały wytrzymują zginanie i tarcie",
+   "Opracowujesz nowe materiały do ubrań i butów",
+   "Łączysz pomysły projektantów z możliwościami produkcji"
+  ]
+ },
+ {
+  "id": 861,
+  "name": "Inżynier ds. demontażu i wyburzania obiektów",
+  "desc": "Inżynierowie ds. demontażu i wyburzania obiektów prowadzą badania i planują optymalny sposób demontażu urządzeń przemysłowych, maszyn i budynków, które osiągnęły etap wycofany z eksploatacji. Analizują oni wymagane prace i harmonogram poszczególnych operacji. Przekazują oni instrukcje kierownikom zespołów i nadzorują ich pracę.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Badasz konstrukcję budynku przed rozbiórką",
+   "Planujesz kolejność i harmonogram prac",
+   "Przekazujesz instrukcje kierownikom ekip",
+   "Nadzorujesz przebieg rozbiórki na miejscu"
+  ]
+ },
+ {
+  "id": 862,
+  "name": "Inżynier ds. lotniczych urządzeń naziemnych",
+  "desc": "Inżynierowie ds. lotniczych urządzeń naziemnych są odpowiedzialni za nadzorowanie utrzymania wyposażenia lotniska, takich jak pomoce wizualne, systemy elektryczne na lotniskach, systemy bagażowe, systemy bezpieczeństwa, chodniki, drenaż, utrzymanie nieutwardzonych obszarów oraz wyposażenia i pojazdów.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Nadzorujesz przeglądy oświetlenia i znaków na lotnisku",
+   "Kontrolujesz stan nawierzchni i odwodnienia",
+   "Planujesz naprawy systemu bagażowego",
+   "Zarządzasz przeglądami pojazdów i sprzętu"
+  ]
+ },
+ {
+  "id": 863,
+  "name": "Inżynier ds. rozliczeń",
+  "desc": "Inżynierowie ds. rozliczeń w ramach swoich kompetencji prowadzą pełne zarządzanie kosztami związanymi z projektami budowlanymi i konstrukcyjnymi od momentu rozpoczęcia realizacji projektu do momentu dostarczenia tych projektów. Dążą oni do efektywnego wykorzystania zasobów przy jednoczesnym zachowaniu jakości, standardów jakości i wymagań klienta.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Liczysz koszty materiałów i robót",
+   "Porównujesz wydatki z budżetem projektu",
+   "Rozliczasz wykonane prace z wykonawcami",
+   "Zgłaszasz, gdy koszty wychodzą poza plan"
+  ]
+ },
+ {
+  "id": 864,
+  "name": "Inżynier ds. rozruchu",
+  "desc": "Inżynierowie ds. rozruchu nadzorują ostatnie etapy projektu przy instalowaniu i testowaniu systemów. Kontrolują oni prawidłowe funkcjonowanie urządzeń, obiektów i instalacji, aby upewnić się, że spełniają one wymogi i specyfikacje. Przeprowadzają niezbędne weryfikacje i wyrażają zgodę na sfinalizowanie projektu.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Uruchamiasz zainstalowane urządzenia po raz pierwszy",
+   "Sprawdzasz, czy spełniają wymagania i specyfikacje",
+   "Zapisujesz usterki i pilnujesz ich poprawy",
+   "Podpisujesz zakończenie projektu po pomyślnych testach"
+  ]
+ },
+ {
+  "id": 865,
+  "name": "Inżynier ds. testów",
+  "desc": "Inżynierowie ds. testów planują i przeprowadzają szczegółowe badania jakości na różnych etapach procesu projektowania, aby upewnić się, że systemy są właściwie zainstalowane i funkcjonują prawidłowo. Analizują oni dane zebrane podczas badań i sporządzają sprawozdania. Są również odpowiedzialni za bezpieczeństwo operacji testowych.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Planujesz przebieg badań i prób",
+   "Przeprowadzasz testy na kolejnych etapach projektu",
+   "Analizujesz zebrane dane",
+   "Piszesz sprawozdania i pilnujesz bezpieczeństwa prób"
+  ]
+ },
+ {
+  "id": 866,
+  "name": "Inżynier ds. wdrożeń",
+  "desc": "Inżynierowie ds. wdrożeń zajmują się wymaganiami technicznymi, zarządzaniem i projektowaniem dla rozwoju różnych zastosowań inżynieryjnych, takich jak systemy, nowe konstrukcje produktów lub ulepszenia procesów. Są oni odpowiedzialni za wdrożenie udoskonalenia projektu lub procesu, oferują wsparcie techniczne dla produktów, udzielają odpowiedzi na pytania dotyczące technicznej funkcjonalności i pomagają zespołowi ds. sprzedaży.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Wdrażasz ulepszenie projektu lub procesu",
+   "Udzielasz wsparcia technicznego klientom",
+   "Tłumaczysz klientom, jak działa produkt",
+   "Pomagasz sprzedawcom w sprawach technicznych"
+  ]
+ },
+ {
+  "id": 867,
+  "name": "Inżynier patentowy",
+  "desc": "Inżynierowie patentowi doradzają przedsiębiorstwom w zakresie różnych aspektów prawa własności intelektualnej. Analizują wynalazki i badają ich potencjał ekonomiczny. Sprawdzają, czy prawa patentowe zostały już przyznane wynalazkom i czy ich prawa nie zostały naruszone lub złamane.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Analizujesz opisy wynalazków",
+   "Szukasz istniejących patentów w bazach",
+   "Oceniasz potencjał rynkowy wynalazku",
+   "Doradzasz, czy ktoś nie narusza cudzych praw"
+  ]
+ },
+ {
+  "id": 868,
+  "name": "Inżynier organizacji i planowania produkcji",
+  "desc": "Inżynierowie organizacji i planowania produkcji dokonują przeglądu i oceny wyników produkcji, przeprowadzają analizę danych i identyfikują niepełne systemy produkcji. Szukają oni rozwiązań długo- lub krótkoterminowych, ulepszeń planowania produkcji i optymalizacji procesu.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Analizujesz dane o wynikach produkcji",
+   "Wskazujesz wąskie gardła w procesie",
+   "Układasz harmonogram pracy maszyn i ludzi",
+   "Wprowadzasz zmiany, które przyspieszają produkcję"
+  ]
+ },
+ {
+  "id": 869,
+  "name": "Inżynier powierzchni",
+  "desc": "Inżynierowie powierzchni badają i opracowują technologie procesów wytwarzania, które przyczyniają się do zmiany właściwości powierzchni materiału, takiego jak metal, w celu zmniejszenia degradacji przez korozję lub zużycie. Analizują i opracowują, w jaki sposób chronić powierzchnie (metalowych) przedmiotów obrabianych i produktów z wykorzystaniem zrównoważonych materiałów i badań z minimalną ilością odpadów.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Badasz, jak metal ulega korozji i zużyciu",
+   "Dobierasz powłoki chroniące powierzchnię części",
+   "Testujesz próbki po obróbce powierzchni",
+   "Szukasz metod z mniejszą ilością odpadów"
+  ]
+ },
+ {
+  "id": 870,
+  "name": "Inżynier produkcji",
+  "desc": "Inżynierowie produkcji projektują procesy produkcyjne w odniesieniu do różnych rodzajów procesów produkcyjnych. Uwzględniają oni tę specyfikę i ograniczenia stwarzane przez przemysł lub produkowane przez niego produkty z ogólnymi i powszechnie stosowanymi zasadami inżynierii w procesie projektowania i planowania procesów produkcyjnych.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz kolejność etapów produkcji",
+   "Dobierasz maszyny i stanowiska pracy",
+   "Sprawdzasz, czy proces da się wykonać",
+   "Poprawiasz miejsca, które spowalniają linię"
+  ]
+ },
+ {
+  "id": 871,
+  "name": "Inżynier produkcji żywności",
+  "desc": "Inżynierowie produkcji żywności sprawują nadzór nad potrzebami elektrycznymi i mechanicznymi urządzeń i maszyn wymaganych w procesie produkcji żywności lub napojów. Dążą oni do maksymalizacji wydajności elektrowni poprzez podejmowanie działań zapobiegawczych w odniesieniu do bezpieczeństwa i higieny pracy, dobrych praktyk wytwarzania, przestrzegania zasad higieny i rutynowej konserwacji maszyn i urządzeń.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Nadzorujesz pracę maszyn do produkcji żywności",
+   "Planujesz rutynowe przeglądy i konserwację",
+   "Pilnujesz zasad higieny i bezpieczeństwa",
+   "Reagujesz na awarie na linii"
+  ]
+ },
+ {
+  "id": 872,
+  "name": "Inżynier przemysłowy",
+  "desc": "Inżynierowie przemysłowi opracowują szeroki wachlarz systemów produkcji, których celem jest przedstawienie efektywnych i skutecznych rozwiązań. Obejmują oni różną liczbę zmiennych, takich jak: pracownicy, technologia, ergonomia, przepływy produkcji oraz specyfikacje produktów w odniesieniu do projektowania i wdrażania systemów produkcji. Mogą oni również określać i projektować mikrosystemy.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz układ stanowisk i przepływ materiałów",
+   "Mierzysz czas wykonywania czynności",
+   "Poprawiasz ergonomię pracy",
+   "Wdrażasz nowy sposób organizacji produkcji"
+  ]
+ },
+ {
+  "id": 873,
+  "name": "Inżynier ds. serwisu technicznego",
+  "desc": "Inżynierowie ds. serwisu technicznego koncentrują się na optymalizacji urządzeń, procedur, maszyn i infrastruktury. Zapewniają maksymalną dostępność przy minimalnych kosztach.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Planujesz przeglądy maszyn i urządzeń",
+   "Analizujesz, co i jak często się psuje",
+   "Dobierasz części zamienne i procedury napraw",
+   "Szukasz sposobów, by awarii było mniej"
+  ]
+ },
+ {
+  "id": 874,
+  "name": "Inżynier procesu",
+  "desc": "Inżynierowie procesu stosują koncepcje inżynieryjne w celu poprawy wszystkich rodzajów procesów produkcji i wytwarzania pod względem wydajności i produktywności. Oceniają zmienne i ograniczenia występujące w ramach określonych procesów oraz przedstawiają rozwiązania inżynieryjne w celu ich optymalizacji.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Zbierasz dane z linii produkcyjnej",
+   "Szukasz wąskich gardeł w procesie",
+   "Testujesz zmiany ustawień maszyn",
+   "Wdrażasz sprawdzone rozwiązania"
+  ]
+ },
+ {
+  "id": 875,
+  "name": "Inżynier technologii przetwórstwa skóry",
+  "desc": "Inżynierowie technologii przetwórstwa skóry są odpowiedzialni za planowanie i monitorowanie planowania produkcji. Pracują oni z kierownikiem ds. produktu w celu śledzenia postępów w realizacji harmonogramu. Współpracują z magazynem w celu zapewnienia optymalnego poziomu i jakości materiałów, a także wraz z departamentem marketingu i sprzedaży w celu spełnienia wymagań stawianych przez klienta.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Planujesz harmonogram produkcji wyrobów ze skóry",
+   "Śledzisz postępy w realizacji zamówień",
+   "Sprawdzasz z magazynem ilość i jakość materiałów",
+   "Ustalasz z działem sprzedaży wymagania klienta"
+  ]
+ },
+ {
+  "id": 876,
+  "name": "Inżynier włókiennik",
+  "desc": "Inżynierowie włókiennicy opracowują i nadzorują systemy produkcji wyrobów włókienniczych.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Planujesz proces produkcji tkanin i dzianin",
+   "Dobierasz włókna i ustawienia maszyn",
+   "Nadzorujesz pracę zmiany na hali",
+   "Badasz, czy materiał spełnia wymagania"
+  ]
+ },
+ {
+  "id": 877,
+  "name": "Specjalista ds. logistyki",
+  "desc": "Specjaliści ds. logistyki usprawniają wytwarzanie produktów, ich transport, przechowywanie i dystrybucję. Oceniają oni problemy związane z łańcuchem produkcji i dostaw w celu określenia ekonomicznie efektywnych rozwiązań. Pomagają kierownikom przedsiębiorstw w procesach decyzyjnych i programach bezpośrednich, których celem jest zapewnienie podwykonawcom, kierownikom i klientom technologii logistycznej.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Analizujesz łańcuch dostaw i znajdujesz problemy",
+   "Porównujesz koszty różnych sposobów transportu",
+   "Planujesz magazynowanie i dystrybucję towarów",
+   "Doradzasz kierownikom, jak usprawnić dostawy"
+  ]
+ },
+ {
+  "id": 878,
+  "name": "Specjalista ds. pakowania i opakowań",
+  "desc": "Specjaliści ds. pakowania i opakowań opracowują i analizują zestawy opakowań w celu uniknięcia szkód lub utraty jakości towarów zapakowanych. Projektują oni również opakowania zgodne ze specyfikacjami produktu i oferują rozwiązania w celu rozwiązania problemów związanych z opakowaniami.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz opakowania do konkretnych produktów",
+   "Testujesz, czy towar przetrwa transport",
+   "Analizujesz uszkodzone przesyłki",
+   "Dobierasz kształt i materiał opakowania"
+  ]
+ },
+ {
+  "id": 879,
+  "name": "Technik technologii wyrobów skórzanych",
+  "desc": "Technicy technologii wyrobów skórzanych analizują specyfikacje techniczne produktów, określają działania produkcyjne i ich sekwencję, udoskonalają metody pracy, obliczają okresy operacyjne przy użyciu technik pomiaru czasu. Odnoszą się oni do zasobów ludzkich i technologicznych do każdej operacji oraz określają rozkład pracy w zależności od mocy produkcyjnych. Wszystkie ich działania i zadania mają na celu maksymalizację wydajności i obniżenie kosztów produkcji, zapewniając funkcjonalność i jakość produktu oraz zadowolenie klientów.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Analizujesz specyfikacje techniczne wyrobów skórzanych",
+   "Ustalasz kolejność operacji produkcyjnych",
+   "Mierzysz czas pracy przy każdej operacji",
+   "Rozdzielasz pracę zgodnie z mocami produkcyjnymi"
+  ]
+ },
+ {
+  "id": 880,
+  "name": "Technolog odzieży",
+  "desc": "Technolodzy odzieży pracują nad projektowaniem, rozwijaniem i produkcją wyrobów włókienniczych i odzieżowych. Prowadzą oni szereg działań w zakresie kontroli technicznej, dochodzeniowej i kontroli jakości w celu zapewnienia produktu końcowego (od odzieży do artykułów gospodarstwa domowego aż po przemysłowe wyroby włókiennicze). Spełniają oni specyfikacje, poprawiają wydajność i jakość produkcji, współpracując przy tym z podmiotami zaangażowanymi w proces produkcji.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Sprawdzasz próbki odzieży pod kątem wad",
+   "Dopasowujesz specyfikację do możliwości produkcji",
+   "Kontrolujesz materiały i wykonanie szwów",
+   "Rozmawiasz ze szwalnią o poprawkach"
+  ]
+ },
+ {
+  "id": 881,
+  "name": "Technolog pakowania żywności i napojów",
+  "desc": "Technolodzy pakowania żywności i napojów oceniają opakowanie różnych produktów spożywczych. Zarządzają sprawami dotyczącymi opakowań, zapewniając jednocześnie specyfikacje i cele przedsiębiorstwa. W miarę potrzeb opracowują projekty dotyczące opakowań.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Oceniasz opakowania różnych produktów spożywczych",
+   "Sprawdzasz, czy opakowanie chroni żywność",
+   "Pilnujesz specyfikacji i wymagań firmy",
+   "Opracowujesz projekty nowych opakowań"
+  ]
+ },
+ {
+  "id": 882,
+  "name": "Metalurg",
+  "desc": "Metalurdzy specjalizują się w wydobyciu i przetwarzaniu metali, takich jak żelazo, stal, cynk, miedź i aluminium. Pracują, aby formować lub łączyć zarówno czyste, jak i mieszane metale (stopy) w nowe kształty i właściwości. Metalurdzy zajmują się wydobyciem rud metali i rozwijają ich stosowanie w technice przetwarzania metali. Mogą pracować zarówno w zakresie produkcji, jak i badań naukowych dotyczących właściwości metali.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Badasz właściwości metali i ich stopów",
+   "Dobierasz skład stopu do zastosowania",
+   "Nadzorujesz przetwarzanie i formowanie metalu",
+   "Sprawdzasz próbki pod kątem wytrzymałości"
+  ]
+ },
+ {
+  "id": 883,
+  "name": "Specjalista ds. metalurgii chemicznej",
+  "desc": "Specjaliści ds. metalurgii chemicznej biorą udział w ekstrakcji olejów użytkowych z rud i materiałów poddawanych recyklingowi. Badają oni właściwości metalu, takie jak korozja i zmęczenie.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Uczestniczysz w odzyskiwaniu składników z rud",
+   "Przetwarzasz materiały z recyklingu",
+   "Badasz korozję metalu w laboratorium",
+   "Sprawdzasz zmęczenie materiału po wielu obciążeniach"
+  ]
+ },
+ {
+  "id": 884,
+  "name": "Specjalista ds. metalurgii procesowej",
+  "desc": "Specjaliści ds. metalurgii procesowej badają właściwości rud, w tym rud miedzi, niklu i żelaza oraz wydajności różnych metali i stopów.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Badasz właściwości rud w laboratorium",
+   "Porównujesz wydajność różnych metali i stopów",
+   "Analizujesz wyniki prób i pomiarów",
+   "Proponujesz zmiany w procesie przetwarzania rudy"
+  ]
+ },
+ {
+  "id": 885,
+  "name": "Inżynier bezpieczeństwa i higieny pracy w górnictwie",
+  "desc": "Inżynierowie bezpieczeństwa i higieny pracy w górnictwie opracowują i wdrażają systemy i procedury zapobiegania urazom i chorobom pracowników, poprawy warunków pracy w kopalniach, zmniejszenia zagrożeń dla zdrowia i bezpieczeństwa oraz zapobiegania szkodom w sprzęcie i mieniu.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Opracowujesz procedury bezpiecznej pracy w kopalni",
+   "Wyszukujesz zagrożenia dla zdrowia pracowników",
+   "Badasz przyczyny wypadków i uszkodzeń sprzętu",
+   "Sprawdzasz, czy zasady są przestrzegane"
+  ]
+ },
+ {
+  "id": 886,
+  "name": "Inżynier ds. planowania w górnictwie",
+  "desc": "Inżynierowie ds. planowania w górnictwie projektują przyszłe plany kopalń, zdolne do osiągania celów w zakresie produkcji i rozwoju górniczego, z uwzględnieniem charakterystyki geologicznej i struktury zasobów mineralnych. Przygotowują harmonogramy produkcji i rozwoju oraz monitorują postępy w ich realizacji.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz przyszłe plany wydobycia w kopalni",
+   "Analizujesz budowę geologiczną i zasoby",
+   "Przygotowujesz harmonogramy produkcji",
+   "Porównujesz plan z faktycznym postępem prac"
+  ]
+ },
+ {
+  "id": 887,
+  "name": "Inżynier ds. przeróbki surowców mineralnych",
+  "desc": "Inżynierowie ds. przeróbki surowców mineralnych opracowują i zarządzają sprzętem i technikami w celu skutecznego przetwarzania i udoskonalania cennych minerałów z rudy lub surowego surowca mineralnego.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz układ maszyn do przeróbki rudy",
+   "Dobierasz sposób oddzielania minerałów od skały",
+   "Zarządzasz pracą zakładu przeróbczego",
+   "Mierzysz, ile cennego surowca odzyskujesz"
+  ]
+ },
+ {
+  "id": 888,
+  "name": "Inżynier ds. rozwoju kopalni",
+  "desc": "Inżynierowie ds. rozwoju kopalni projektują i koordynują działania związane z rozwojem kopalni, takie jak: drążenie przekopu, zatapianie, drążenie tuneli, prowadzenie wyrobiska, podnoszenie oraz usuwanie i zastępowanie nadkładu.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz drążenie tuneli i przekopów",
+   "Planujesz wyrobiska i dojścia do nowych pokładów",
+   "Koordynujesz brygady pracujące przy rozbudowie kopalni",
+   "Planujesz usuwanie skał leżących nad złożem"
+  ]
+ },
+ {
+  "id": 889,
+  "name": "Inżynier górnik - górnictwo odkrywkowe",
+  "desc": "Inżynierowie górnicy w górnictwie odkrywkowym analizują, które metody wydobycia, takie jak kopanie, wiercenia i roboty strumieniowe, są najbardziej odpowiednie do wydobycia surowców z ziemi. Opracowują plany przed otwarciem nowego kamieniołomu, oceniając, czy kamieniołom jest rentowny. Inżynierowie górnicy w górnictwie odkrywkowym zarządzają codzienną działalnością w kamieniołomie, tworzą i utrzymują sprawozdania z postępów, nadzorują personel, zapewniają bezpieczeństwo i higienę pracy oraz oceniają wpływ kamieniołomu na środowisko.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Wybierasz metodę wydobycia: kopanie lub wiercenie",
+   "Oceniasz, czy nowy kamieniołom się opłaca",
+   "Nadzorujesz codzienną pracę załogi",
+   "Piszesz sprawozdania i oceniasz wpływ na środowisko"
+  ]
+ },
+ {
+  "id": 890,
+  "name": "Inżynier górnik - górnictwo paliw płynnych",
+  "desc": "Inżynierowie górnicy w górnictwie paliw płynnych oceniają zakłady wydobycia paliwa płynnego. Projektują i opracowują metody wydobywania paliw płynnych spod powierzchni ziemi, do których zalicza się ropa naftowa, gaz ziemny, gaz płynny, nieropopochodne paliwa kopalne, biodiesel i alkohole. Maksymalizują odzyskiwanie węglowodorów przy minimalnych kosztach, które mają minimalny wpływ na środowisko.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Oceniasz zakłady wydobycia paliw płynnych",
+   "Projektujesz metody wydobycia spod ziemi",
+   "Szukasz sposobu na większy odzysk paliwa",
+   "Liczysz koszty i wpływ na środowisko"
+  ]
+ },
+ {
+  "id": 891,
+  "name": "Inżynier górnik - wiertnictwo",
+  "desc": "Inżynierowie górnicy w wiertnictwie opracowują i nadzorują odwierty gazu i ropy naftowej. Pomagają w projektowaniu, testowaniu i tworzeniu odwiertów oraz są zatrudnieni na lądzie lub na platformach morskich. Inżynierowie górnicy w wiertnictwie pracują z innymi specjalistami w dziedzinie górnictwa i nadzorują postęp w zakresie odwiertów oraz bezpieczeństwo składowiska.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz odwierty gazu i ropy",
+   "Testujesz gotowy odwiert",
+   "Nadzorujesz postęp wiercenia",
+   "Pilnujesz bezpieczeństwa na stanowisku wiertniczym"
+  ]
+ },
+ {
+  "id": 892,
+  "name": "Inżynier naftowy",
+  "desc": "Inżynierowie naftowi oceniają pola gazowe i olejowe. Projektują i opracowują metody wydobycia ropy naftowej i gazu ziemnego pod powierzchnią ziemi. Maksymalizują odzyskiwanie węglowodorów przy minimalnych kosztach, które mają minimalny wpływ na środowisko.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Oceniasz zasoby pól gazowych i olejowych",
+   "Projektujesz metody wydobycia ropy i gazu",
+   "Liczysz, ile da się odzyskać ze złoża",
+   "Porównujesz koszt wydobycia z wpływem na środowisko"
+  ]
+ },
+ {
+  "id": 893,
+  "name": "Probierz",
+  "desc": "Probierze testują i analizują metale szlachetne, takie jak srebro i złoto, w celu określenia wartości i właściwości składników przy użyciu technik chemicznych i fizycznych. Oddzielają również metale szlachetne lub inne składniki od innych materiałów.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Testujesz złoto i srebro metodami fizycznymi",
+   "Wykonujesz badania chemiczne próbek metalu",
+   "Oddzielasz metal szlachetny od domieszek",
+   "Określasz wartość i skład badanego przedmiotu"
+  ]
+ },
+ {
+  "id": 894,
+  "name": "Specjalista ds. materiałów wybuchowych",
+  "desc": "Specjaliści ds. materiałów wybuchowych projektują wzorce wiercenia i określają wymaganą ilość materiałów wybuchowych. Organizują i nadzorują kontrolowane wybuchy i badają przypadki niewypałów. Zarządzają magazynami materiałów wybuchowych.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz układ otworów do wiercenia",
+   "Obliczasz ilość potrzebnego materiału wybuchowego",
+   "Nadzorujesz kontrolowane wybuchy",
+   "Badasz niewypały i zarządzasz magazynem"
+  ]
+ },
+ {
+  "id": 895,
+  "name": "Enolog",
+  "desc": "Enolodzy śledzą proces produkcji wytwarzania wina w całości i nadzorują pracowników w winiarniach. Nadzorują i koordynują produkcję w celu zapewnienia jakości wina, a także udzielają porad poprzez określenie wartości i klasyfikacji produkowanych win.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Śledzisz całą produkcję wina w winiarni",
+   "Koordynujesz pracę ludzi w winiarni",
+   "Kontrolujesz jakość wina na kolejnych etapach",
+   "Oceniasz i klasyfikujesz gotowe wina"
+  ]
+ },
+ {
+  "id": 896,
+  "name": "Inżynier biochemik",
+  "desc": "Inżynierowie biochemicy prowadzą badania w dziedzinie nauk przyrodniczych, aby dokonywać nowych odkryć. Przekształcają te wyniki w rozwiązania chemiczne, które mogą poprawić dobrostan społeczeństwa, takie jak szczepionki, naprawa tkanek, uprawy roślin, a także postępy w zakresie zielonych technologii, takie jak czystsze paliwa pochodzące z zasobów naturalnych.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Prowadzisz badania w laboratorium",
+   "Zamieniasz wyniki badań w praktyczne rozwiązania",
+   "Pracujesz nad szczepionkami, uprawami lub czystszymi paliwami",
+   "Opisujesz doświadczenia i omawiasz wyniki"
+  ]
+ },
+ {
+  "id": 897,
+  "name": "Inżynier ds. chemii farmaceutycznej",
+  "desc": "Inżynierowie ds. chemii farmaceutycznej projektują i opracowują technologie stosowane w badaniach farmaceutycznych i produkcji leków, doradzając zakładom produkcji farmaceutycznej w kwestii utrzymania i eksploatacji tych technologii oraz zapewnienia zaspokojenia potrzeb klientów i pracowników w zakresie bezpieczeństwa. Mogą oni również uczestniczyć w opracowywaniu i projektowaniu zakładów produkcji farmaceutycznej i centrów badawczych.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz technologie badań i produkcji leków",
+   "Doradzasz zakładom w sprawie ich utrzymania",
+   "Sprawdzasz, czy instalacje są bezpieczne dla pracowników",
+   "Uczestniczysz w projektowaniu fabryk i laboratoriów"
+  ]
+ },
+ {
+  "id": 898,
+  "name": "Inżynier gazownictwa - dystrybucja gazu",
+  "desc": "Inżynierowie gazownictwa w dystrybucji gazu projektują i budują systemy transportu gazu ziemnego, łącząc sieć dystrybucji gazu z konsumentem poprzez projektowanie instalacji rurociągowych i sieci wodociągowych. Badania te mają na celu zapewnienie zrównoważonego charakteru oraz zmniejszenie oddziaływania na środowisko, a także optymalizację opłacalności.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz rurociągi rozprowadzające gaz do odbiorców",
+   "Łączysz sieć dystrybucji z przyłączami klientów",
+   "Planujesz trasę nowej instalacji",
+   "Szukasz rozwiązań tańszych i lepszych dla środowiska"
+  ]
+ },
+ {
+  "id": 899,
+  "name": "Inżynier gazownictwa - produkcja gazu",
+  "desc": "Inżynierowie gazownictwa w produkcji gazu opracowują metody optymalizacji wydobycia i produkcji gazu w sektorze energetycznym i użyteczności publicznej. Opracowują oni systemy produkcji gazu, nadzorują działalność produkcyjną i opracowują udoskonalenia w odniesieniu do istniejących systemów.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Opracowujesz systemy produkcji gazu",
+   "Nadzorujesz bieżącą pracę zakładu produkcyjnego",
+   "Analizujesz wydajność istniejących instalacji",
+   "Wprowadzasz usprawnienia w działających systemach"
+  ]
+ }
+]

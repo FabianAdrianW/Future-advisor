@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1440,
+  "name": "Trader walutowy",
+  "desc": "Traderzy walutowi kupują i sprzedają waluty obce w celu osiągnięcia zysku z wahań kursów wymiany walut. Przeprowadzają analizę techniczną na podstawie informacji gospodarczych (dotyczących płynności i zmienności rynku) w celu przewidywania przyszłych kursów walut na rynku walutowym. Prowadzą działalność handlową pod własną firmą lub na rzecz pracodawców.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Kupujesz i sprzedajesz waluty obce",
+   "Analizujesz płynność i zmienność rynku",
+   "Przewidujesz kursy na podstawie danych gospodarczych",
+   "Prowadzisz handel pod własną firmą lub dla pracodawcy"
+  ]
+ },
+ {
+  "id": 1441,
+  "name": "Menedżer portfela inwestycyjnego",
+  "desc": "Menedżerowie portfela inwestycyjnego inwestują pieniądze klienta w aktywa finansowe poprzez takie instrumenty jak fundusze inwestycyjne lub zarządzają portfelami klientów indywidualnych. Obejmuje to zarządzanie aktywami finansowymi w ramach polityki inwestycyjnej i ram ryzyka, dostarczanie informacji oraz ocenę i monitorowanie ryzyka.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Inwestujesz środki klienta w fundusze i aktywa",
+   "Pilnujesz polityki inwestycyjnej i limitów ryzyka",
+   "Oceniasz i monitorujesz ryzyko portfela",
+   "Przygotowujesz dla klientów informacje o wynikach"
+  ]
+ },
+ {
+  "id": 1442,
+  "name": "Analityk kredytowy",
+  "desc": "Analitycy kredytowi rozpatrują wnioski o kredyt składane przez klientów i oceniają, czy wnioski te są zgodne z przepisami i wytycznymi instytucji finansowej udzielającej kredytu. Na podstawie analiz kredytowych doradzają instytucjom finansowym, czy warto udzielić pożyczki określonym klientom. Wykonują takie zadania, jak gromadzenie danych dotyczących osoby ubiegającej się o kredyt, zdobywanie dodatkowych informacji w innych departamentach lub instytucjach oraz wskazywanie rodzaju umów, które instytucja finansowa powinna zawrzeć z ubiegającym się o kredyt. Analitycy kredytowi śledzą również rozwój portfela kredytów klientów.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Rozpatrujesz wnioski o kredyt złożone przez klientów",
+   "Zbierasz dane o osobie ubiegającej się o kredyt",
+   "Sprawdzasz zgodność wniosku z wytycznymi banku",
+   "Śledzisz rozwój portfela kredytów klientów"
+  ]
+ },
+ {
+  "id": 1443,
+  "name": "Analityk ryzyka kredytowego",
+  "desc": "Analitycy ryzyka kredytowego zarządzają indywidualnym ryzykiem kredytowym oraz zajmują się zapobieganiem nadużyciom finansowym, analizą transakcji biznesowych, analizą dokumentów prawnych i zaleceniami dotyczącymi poziomu ryzyka.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Zarządzasz ryzykiem kredytowym pojedynczych klientów",
+   "Zapobiegasz nadużyciom finansowym",
+   "Analizujesz transakcje biznesowe klienta",
+   "Czytasz dokumenty prawne i zalecasz poziom ryzyka"
+  ]
+ },
+ {
+  "id": 1444,
+  "name": "Doradca ds. rachunków bankowych",
+  "desc": "Doradcy ds. rachunków bankowych udzielają potencjalnym klientom informacji dotyczących rodzaju rachunków bankowych adekwatnych do potrzeb klientów. Współpracują z klientami w celu otwarcia rachunku bankowego i pozostają głównym punktem kontaktowym w banku, pomagając przy wszystkich niezbędnych dokumentach. Doradcy ds. rachunków bankowych mogą zalecić swoim klientom skontaktowanie się z innymi departamentami banku w związku z innymi potrzebami.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Wyjaśniasz różnice między rodzajami rachunków",
+   "Pomagasz klientom otworzyć rachunek bankowy",
+   "Wypełniasz z klientem wymagane dokumenty",
+   "Kierujesz klientów do innych działów banku"
+  ]
+ },
+ {
+  "id": 1445,
+  "name": "Kierownik ds. kredytów",
+  "desc": "Kierownicy ds. kredytów nadzorują stosowanie polityki kredytowej w banku. Ustalają przyjęte limity kredytów, uzasadnione poziomy dopuszczalnego ryzyka oraz warunki płatności na rzecz klientów. Kontrolują pobieranie płatności od klientów i zarządzają departamentem kredytowym banku.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Ustalasz limity i warunki kredytów",
+   "Oceniasz, jakie ryzyko jest jeszcze dopuszczalne",
+   "Kontrolujesz, czy klienci płacą w terminie",
+   "Zarządzasz pracą działu kredytowego"
+  ]
+ },
+ {
+  "id": 1446,
+  "name": "Koordynator ds. wsparcia finansowego studentów",
+  "desc": "Koordynatorzy ds. wsparcia finansowego studentów pomagają studentom i pracownikom administracji w placówce edukacyjnej w zarządzaniu opłatami za naukę i kredytami studenckimi. Określają kwoty kredytów studenckich i warunki ubiegania się o nie oraz udzielają porad na ten temat, doradzają studentom w sprawie dostępnych odpowiednich kredytów oraz utrzymują kontakt z zewnętrznymi kredytodawcami, takimi jak banki, w celu usprawnienia procesu udzielania kredytów studenckich.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Wyjaśniasz, jak ubiegać się o kredyt",
+   "Ustalasz kwoty i warunki kredytów studenckich",
+   "Doradzasz, który kredyt pasuje do studenta",
+   "Kontaktujesz się z bankami w sprawie wniosków"
+  ]
+ },
+ {
+  "id": 1447,
+  "name": "Pracownik do spraw kredytów hipotecznych",
+  "desc": "Pracownicy do spraw kredytów hipotecznych zapewniają zgodność z wytycznymi dotyczącymi przyznawania kredytu. Uczestniczą w realizacji nowych wytycznych dotyczących przyznawania kredytu. Dokonują przeglądu kredytów zamkniętych oraz przypadków, w których odmówiono udzielenia kredytu.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Sprawdzasz zgodność kredytu z wytycznymi",
+   "Wdrażasz nowe zasady przyznawania kredytu",
+   "Przeglądasz kredyty już zamknięte",
+   "Analizujesz przypadki odmowy kredytu"
+  ]
+ },
+ {
+  "id": 1448,
+  "name": "Pracownik do spraw pożyczek",
+  "desc": "Pracownicy do spraw pożyczek oceniają i zatwierdzają wnioski o udzielenie pożyczki dla osób fizycznych i przedsiębiorstw. Zapewniają pełną realizację transakcji między organizacjami udzielającymi pożyczek, pożyczkobiorcami a sprzedającymi. Pracownicy ds. pożyczek są specjalistami w dziedzinie kredytowania konsumentów, kredytów hipotecznych i kredytów komercyjnych.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Oceniasz wnioski o pożyczki osób i firm",
+   "Sprawdzasz, czy klient da radę spłacać",
+   "Zatwierdzasz lub odrzucasz wnioski",
+   "Dopilnowujesz transakcji między pożyczającym a sprzedającym"
+  ]
+ },
+ {
+  "id": 1449,
+  "name": "Gemmolog",
+  "desc": "Gemmolodzy wyceniają kamienie szlachetne, analizując ich cechy, szlif i pochodzenie do celów obrotu lub dalszych prac szlifierskich. Oceniają minerały i kamienie szlachetne, aby określić ich wartość rynkową.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Oglądasz kamień z bliska i opisujesz cechy",
+   "Oceniasz szlif i jakość kamienia",
+   "Ustalasz pochodzenie minerału",
+   "Określasz wartość rynkową do sprzedaży"
+  ]
+ },
+ {
+  "id": 1450,
+  "name": "Likwidator szkód",
+  "desc": "Likwidatorzy szkód obsługują i oceniają roszczenia ubezpieczeniowe poprzez prowadzenie dochodzeń w tych sprawach oraz określanie odpowiedzialności i szkód zgodnie z polityką towarzystwa ubezpieczeniowego. Przeprowadzają wywiady z osobami zgłaszającymi roszczenia i świadkami oraz opracowują sprawozdania dla ubezpieczyciela z odpowiednimi zaleceniami dotyczącymi rozstrzygnięcia. Zadania likwidatorów szkód obejmują dokonywanie płatności na rzecz ubezpieczonego w związku z jego roszczeniem, konsultowanie się z ekspertami w zakresie szkód oraz informowanie klientów drogą telefoniczną.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Rozmawiasz ze zgłaszającymi i świadkami",
+   "Ustalasz odpowiedzialność i wysokość szkody",
+   "Piszesz sprawozdanie z zaleceniem dla ubezpieczyciela",
+   "Konsultujesz się z ekspertami od szkód"
+  ]
+ },
+ {
+  "id": 1451,
+  "name": "Rzeczoznawca",
+  "desc": "Rzeczoznawcy przeprowadzają szczegółową analizę i badania przedmiotów osobistych, takich jak książki, wina, dzieła sztuki i antyki, aby ustalić ich wartości do celów sprzedaży i ubezpieczeń. Oceniają wartość przedmiotów, uwzględniając ich wiek, obecny stan, jakość oraz konieczność ewentualnych napraw. Rzeczoznawcy przygotowują sprawozdania z oceny.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Badasz wiek i stan przedmiotu",
+   "Oceniasz jakość i potrzebę napraw",
+   "Ustalasz wartość do sprzedaży lub ubezpieczenia",
+   "Piszesz sprawozdanie z wyceny"
+  ]
+ },
+ {
+  "id": 1452,
+  "name": "Rzeczoznawca majątkowy",
+  "desc": "Rzeczoznawcy majątkowi prowadzą badania w celu oszacowania wartości nieruchomości do celów podatkowych. Badają jednocześnie wiele nieruchomości, stosując precyzyjne techniki oceny. Zazwyczaj świadczą usługi organom lokalnym i rządowym w celach podatkowych.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Badasz i szacujesz wartość nieruchomości",
+   "Wyceniasz całe grupy nieruchomości hurtowo",
+   "Stosujesz precyzyjne techniki oceny",
+   "Przygotowujesz wyceny dla urzędów"
+  ]
+ },
+ {
+  "id": 1453,
+  "name": "Specjalista ds. obsługi roszczeń",
+  "desc": "Specjaliści ds. obsługi roszczeń zapewniają, aby wszystkie roszczenia ubezpieczeniowe były odpowiednio obsługiwane oraz aby dokonywano płatności na rzecz ubezpieczonych z tytułu ważnych roszczeń. Wykorzystują dane statystyczne i sprawozdania, aby w razie potrzeby obliczyć i dostosować roszczenia, komunikują się z posiadaczami polis i wskazują im konieczne działania oraz monitorują postępy w obsłudze roszczeń.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Pilnujesz obsługi każdego roszczenia",
+   "Liczysz i korygujesz kwoty na podstawie danych",
+   "Informujesz klientów o koniecznych krokach",
+   "Monitorujesz postęp spraw"
+  ]
+ },
+ {
+  "id": 1454,
+  "name": "Specjalista ds. sprzedaży egzekucyjnej nieruchomości",
+  "desc": "Specjaliści ds. sprzedaży egzekucyjnej nieruchomości dokonują przeglądu dokumentacji związanej z nieruchomościami zajętymi w związku z egzekucją. Udzielają pomocy klientom, których majątek został przejęty przez banki z powodu braku spłaty kredytu hipotecznego, poprzez ocenę możliwości zachowania nieruchomości przez właściciela.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Czytasz dokumentację zajętych nieruchomości",
+   "Oceniasz szanse zachowania domu przez właściciela",
+   "Rozmawiasz z właścicielami o możliwych wyjściach",
+   "Współpracujesz z bankiem przejmującym majątek"
+  ]
+ },
+ {
+  "id": 1455,
+  "name": "Specjalista ds. wyceny nieruchomości",
+  "desc": "Specjaliści ds. wyceny nieruchomości przeprowadzają szczegółową analizę i badanie nieruchomości w celu ustalenia ich wartości do celów sprzedaży, kredytu hipotecznego i ubezpieczenia. Porównują wartość nieruchomości z uwzględnieniem jej wieku, rzeczywistego stanu i jakości, koniecznych napraw i ogólnej trwałości. Specjaliści ds. wyceny nieruchomości sporządzają spis wyposażenia, opracowują sprawozdanie na temat stanu nieruchomości i przygotowują sprawozdania z oceny nieruchomości handlowych, jak i mieszkalnych.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Oglądasz nieruchomość i oceniasz jej stan",
+   "Sporządzasz spis wyposażenia",
+   "Porównujesz wartość z podobnymi nieruchomościami",
+   "Piszesz raport dla kredytu lub ubezpieczenia"
+  ]
+ },
+ {
+  "id": 1456,
+  "name": "Specjalista ds. wykrywania i zwalczania oszustw ubezpieczeniowych",
+  "desc": "Specjaliści ds. wykrywania i zwalczania oszustw ubezpieczeniowych zwalczają nadużycia finansowe poprzez badanie okoliczności podejrzanych roszczeń, działań związanych z nowymi klientami, zakupu produktów ubezpieczeniowych i obliczeń składek. Specjaliści ds. wykrywania i zwalczania oszustw ubezpieczeniowych odsyłają potencjalnie nieuczciwe wnioski specjalistom ds. ubezpieczeniowych, którzy następnie prowadzą badania i dochodzenia w celu pozytywnego lub negatywnego rozpatrzenia wniosku osób zgłaszających roszczenie.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Badasz okoliczności podejrzanych roszczeń",
+   "Przyglądasz się nowym klientom i zakupom polis",
+   "Weryfikujesz obliczenia składek",
+   "Przekazujesz podejrzane wnioski do dochodzenia"
+  ]
+ },
+ {
+  "id": 1457,
+  "name": "Asystent / asystentka ds. księgowości",
+  "desc": "Asystenci / asystentki ds. księgowości rejestrują i zgłaszają rozliczenia biletów księgowemu, z którym pracują, weryfikują zaliczki oraz sporządzają dzienne sprawozdania i zestawienia finansowe. Zapewniają zatwierdzone kwity upoważniające do zwrotu, prowadzą rachunki zwrotów oraz komunikują się z kierownikami zarządzającymi sprzedażą biletów w zakresie wszelkich problemów związanych z systemami sprzedaży biletów.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Rejestrujesz rozliczenia biletów dla księgowego",
+   "Sprawdzasz zaliczki i ich rozliczenia",
+   "Sporządzasz dzienne sprawozdania i zestawienia",
+   "Prowadzisz rachunki zwrotów"
+  ]
+ },
+ {
+  "id": 1458,
+  "name": "Kontysta / kontystka",
+  "desc": "Kontyści / kontystki odnotowują i gromadzą codzienne transakcje finansowe organizacji lub przedsiębiorstwa, zazwyczaj obejmujące sprzedaż, zakupy, płatności i pokwitowania. Zapewniają, że wszystkie transakcje finansowe są udokumentowane w odpowiedniej księdze (dzienniku sprzedaży) i księdze głównej oraz że są one zbilansowane. Kontyści sporządzają księgi rachunkowe i rejestry transakcji finansowych dla księgowego, aby następnie przeanalizować bilanse i zestawienia finansowe.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Zapisujesz sprzedaż, zakupy i płatności",
+   "Wpisujesz transakcje do księgi głównej",
+   "Sprawdzasz, czy zapisy się bilansują",
+   "Przygotowujesz rejestry dla księgowego"
+  ]
+ },
+ {
+  "id": 1459,
+  "name": "Specjalista ds. obsługi i rozliczania dotacji badawczych",
+  "desc": "Specjaliści ds. obsługi i rozliczania dotacji badawczych śledzą oferty dotacji, które są często przyznawane beneficjentom dotacji przez rząd. Przygotowują dokumenty, takie jak wnioski o dotację, i przekazują dotacje. Odpowiadają również za zapewnienie, że beneficjent dotacji wydaje pieniądze zgodnie z określonymi warunkami.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Śledzisz nowe oferty dotacji",
+   "Przygotowujesz wnioski o dotację",
+   "Przekazujesz przyznane środki beneficjentom",
+   "Kontrolujesz, czy pieniądze idą zgodnie z warunkami"
+  ]
+ },
+ {
+  "id": 1460,
+  "name": "Asystent / asystentka ds. statystyki",
+  "desc": "Asystenci / asystentki ds. statystyki gromadzą dane i wykorzystują wzory statystyczne do badań statystycznych i tworzenia sprawozdań. Opracowują wykresy, diagramy i badania.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Zbierasz dane do badań",
+   "Stosujesz wzory statystyczne",
+   "Rysujesz wykresy i diagramy",
+   "Przygotowujesz sprawozdania z badań"
+  ]
+ },
+ {
+  "id": 1461,
+  "name": "Asystent aktuarialny",
+  "desc": "Asystenci aktuarialni prowadzą badania danych statystycznych w celu określenia stawek składek i polis ubezpieczeniowych. Dokonują przeglądu prawdopodobieństwa wypadków, obrażeń i szkód majątkowych przy użyciu wzorów i modeli statystycznych.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Analizujesz dane statystyczne o zdarzeniach",
+   "Liczysz prawdopodobieństwo wypadków i szkód",
+   "Budujesz modele statystyczne dla ubezpieczeń",
+   "Pomagasz ustalać stawki składek"
+  ]
+ },
+ {
+  "id": 1462,
+  "name": "Kierownik kasyna gry",
+  "desc": "Kierownicy kasyn gry sprawują nadzór nad bieżącą działalnością placówek gier hazardowych. Nadzorują oni personel, monitorują obszary gier, nadzorują usługi w zakresie bezpieczeństwa, zapewniają przestrzeganie wszystkich przepisów dotyczących gier oraz monitorują przestrzeganie wymogów regulacyjnych, odpowiadają za wdrażanie operacyjnych celów działalności.",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Nadzorujesz pracę personelu",
+   "Monitorujesz sale gier",
+   "Pilnujesz usług ochrony",
+   "Sprawdzasz zgodność z przepisami o grach"
+  ]
+ },
+ {
+  "id": 1463,
+  "name": "Kierownik sali w kasynie",
+  "desc": "Kierownicy sali w kasynie wspierają zespół kierownictwa i mogą zarządzać wszystkimi grami hazardowymi, kontrolować je i obsługiwać wszystkie związane z nimi czynności. Nadzorują oni działalność związaną z salą gier i są odpowiedzialni za wpływanie na wydatki i przychody na osobę w celu osiągnięcia wymaganego marginesu, przy jednoczesnym zapewnieniu najwyższych standardów w zakresie efektywności, bezpieczeństwa i norm dotyczących obsługi podpisów zgodnie ze wszystkimi procedurami przedsiębiorstw i obowiązującymi przepisami.",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Nadzorujesz gry i stoły na sali",
+   "Kontrolujesz przebieg gier i procedur",
+   "Pilnujesz bezpieczeństwa gości i obsługi",
+   "Śledzisz przychody i wydatki sali"
+  ]
+ },
+ {
+  "id": 1464,
+  "name": "Bukmacher",
+  "desc": "Bukmacherzy przyjmują zakłady sportowe i dotyczące innych wydarzeń na podstawie ustalonych notowań, obliczają notowania i wypłacają wygrane. Odpowiadają oni za zarządzanie ryzykiem.",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Przyjmujesz zakłady od klientów",
+   "Obliczasz notowania wydarzeń sportowych",
+   "Wypłacasz klientom ich wygrane",
+   "Zarządzasz ryzykiem przy popularnych zakładach"
+  ]
+ },
+ {
+  "id": 1465,
+  "name": "Kasjer w kasynie",
+  "desc": "Kasjerzy w kasynach wymieniają tokeny, monety lub żetony na pieniądze. Organizują oni wypłaty i otrzymują podpisy i dane identyfikacyjne klientów. Przeprowadzają oni kontrolę i wyliczają środki pieniężne w rejestrze kasowym, egzekwując przepisy dotyczące prania pieniędzy.",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Wymieniasz żetony i tokeny na pieniądze",
+   "Odbierasz podpisy i dane identyfikacyjne klientów",
+   "Przeliczasz gotówkę w kasie na koniec zmiany",
+   "Stosujesz przepisy o praniu pieniędzy"
+  ]
+ },
+ {
+  "id": 1466,
+  "name": "Osoba wystawiająca kursy",
+  "desc": "Osoby wystawiające kursy zbierają notowania w grach hazardowych. Są oni zatrudniani przez bukmachera, giełdy zakładów, loterie oraz cyfrowo/internetowo, a także w kasynach, gdzie wystawiają kursy w związku z wydarzeniami (takimi jak wyniki sportowe) dla klientów celem stawiania zakładów. Poza rynkami cenowymi, angażują się oni również we wszelkie działania dotyczące aspektów handlowych związanych z grami losowymi, takich jak monitorowanie rachunków klientów i rentowności ich działalności. Od osoby wystawiającej kursy może być wymagane kontrolowanie pozycji finansowej bukmachera i stosowna korekta jego pozycji (i notowań).",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Wystawiasz kursy na wydarzenia sportowe",
+   "Korygujesz notowania po zmianie sytuacji",
+   "Monitorujesz rachunki klientów",
+   "Sprawdzasz pozycję finansową bukmachera"
+  ]
+ },
+ {
+  "id": 1467,
+  "name": "Pracownik kolektury",
+  "desc": "Pracownicy kolektur prowadzą bieżącą działalność w zakresie loterii. Weryfikują oni i wprowadzają dane do systemu, przygotowują sprawozdania i pomagają w wysyłaniu sprzętu firmowego. Obsługują oni stosowane narzędzia komunikacji. Operatorzy instalują, likwidują i konserwują sprzęt.",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Wprowadzasz i weryfikujesz dane w systemie",
+   "Przygotowujesz sprawozdania z działalności loterii",
+   "Pomagasz w wysyłce sprzętu firmowego",
+   "Instalujesz i konserwujesz sprzęt"
+  ]
+ },
+ {
+  "id": 1468,
+  "name": "Pracownik totalizatora",
+  "desc": "Pracownicy totalizatora prowadzą bieżącą działalność w zakresie totalizatora na torach wyścigów konnych, taką jak wprowadzanie i weryfikacja danych do systemu totalizatora, przygotowywanie sprawozdań dla biura toru wyścigowego, pomoc w przekazywaniu wyposażenia i części zamiennych firmy. Konserwują i obsługują tablice wyników i pomocnicze tablice notowań i rozwiązują związane z nimi problemy. Obsługują oni narzędzia komunikacji wykorzystywane na torze wyścigowym. Instalują, likwidują i konserwują sprzęt.",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Wprowadzasz i sprawdzasz dane totalizatora",
+   "Przygotowujesz sprawozdania dla biura toru",
+   "Obsługujesz tablice wyników i notowań",
+   "Rozwiązujesz problemy z tablicami i łącznością"
+  ]
+ },
+ {
+  "id": 1469,
+  "name": "Prowadzący grę bingo",
+  "desc": "Prowadzący grę bingo organizują i prowadzą grę w bingo w hali do gry w bingo, w klubie towarzyskim lub innym obiekcie rozrywkowym. Główni prowadzący mają wiedzę na temat wszystkich odpowiednich przepisów regulujących obsługę gry w bingo i zasad klubowych w odniesieniu do wszystkich odmian gry w bingo.",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Organizujesz grę w bingo",
+   "Wywołujesz kolejne wylosowane numery",
+   "Sprawdzasz zgłoszone wygrane",
+   "Egzekwujesz przepisy i zasady klubu"
+  ]
+ },
+ {
+  "id": 1470,
+  "name": "Asystent usług pocztowych",
+  "desc": "Asystenci usług pocztowych sprzedają produkty i usługi w urzędzie pocztowym. Pomagają klientom w odbieraniu i wysyłaniu poczty. Asystenci usług pocztowych sprzedają również produkty finansowe.",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Sprzedajesz znaczki i usługi pocztowe",
+   "Pomagasz klientom nadać przesyłkę",
+   "Wydajesz odebrane paczki i listy",
+   "Sprzedajesz produkty finansowe"
+  ]
+ },
+ {
+  "id": 1471,
+  "name": "Windykator",
+  "desc": "Windykatorzy zajmują się zbiórką papierów dłużnych należących do organizacji lub osób trzecich, głównie w przypadku długów przeterminowanych.",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Kontaktujesz się z dłużnikami",
+   "Przypominasz o zaległych płatnościach",
+   "Ustalasz sposób i termin spłaty",
+   "Prowadzisz dokumentację każdej sprawy"
+  ]
+ },
+ {
+  "id": 1472,
+  "name": "Windykator składek",
+  "desc": "Windykatorzy składek pobierają opłaty za zaległe rachunki ubezpieczeniowe. Specjalizują się we wszystkich obszarach ubezpieczenia, takich jak ubezpieczenia medyczne, ubezpieczenia na życie, samochodowe, podróżne itp., i często kontaktują się z osobami prywatnymi w celu zaoferowania pomocy w zakresie płatności lub ułatwienia realizacji planów płatności w zależności od sytuacji finansowej danej osoby.",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Przypominasz o zaległych składkach ubezpieczeniowych",
+   "Proponujesz plan spłaty dopasowany do sytuacji",
+   "Pomagasz klientowi w realizacji płatności",
+   "Znasz rodzaje ubezpieczeń: zdrowotne, życiowe, samochodowe"
+  ]
+ },
+ {
+  "id": 1473,
+  "name": "Pracownik lombardu",
+  "desc": "Pracownicy lombardów oferują klientom pożyczki z zabezpieczeniem w postaci przedmiotów lub artykułów osobistych. Oceniają artykuły osobiste przekazane w zamian za pożyczkę, określają ich wartość i kwotę dostępnej pożyczki oraz prowadzą wykaz zapasów.",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Oglądasz przedmiot i sprawdzasz jego stan",
+   "Wyceniasz rzecz i ustalasz kwotę pożyczki",
+   "Spisujesz umowę i wydajesz pokwitowanie",
+   "Prowadzisz wykaz przedmiotów w magazynie"
+  ]
+ },
+ {
+  "id": 1474,
+  "name": "Pracownik back office",
+  "desc": "Pracownicy back office prowadzą działalność administracyjną i organizacyjną w związku z prowadzeniem przedsiębiorstwa finansowego. We współpracy z innymi oddziałami przedsiębiorstwa przetwarzają dane administracyjne, zajmują się transakcjami finansowymi, wykonują zadania dodatkowe i inne rodzaje działalności związanej z obsługą zaplecza administracyjnego.",
+  "path": "Finanse > Pracownicy księgowości i statystyki",
+  "tasks": [
+   "Wprowadzasz dane z umów do systemu",
+   "Sprawdzasz, czy dokumenty są kompletne",
+   "Rozliczasz zlecenia przekazane z innych działów",
+   "Poprawiasz rozbieżności w zapisach"
+  ]
+ },
+ {
+  "id": 1475,
+  "name": "Pracownik back office operacji rynków finansowych",
+  "desc": "Pracownicy back office operacji rynków finansowych wykonują zadania administracyjne w odniesieniu do wszystkich transakcji zarejestrowanych w sali notowań. Przetwarzają transakcje obejmujące papiery wartościowe, instrumenty pochodne, waluty obce, towary oraz zarządzają rozliczaniem i regulowaniem transakcji.",
+  "path": "Finanse > Pracownicy księgowości i statystyki",
+  "tasks": [
+   "Rejestrujesz zawarte transakcje w systemie",
+   "Porównujesz zapisy ze stronami transakcji",
+   "Pilnujesz terminów rozliczenia i płatności",
+   "Wyjaśniasz różnice w kwotach i ilościach"
+  ]
+ },
+ {
+  "id": 1476,
+  "name": "Asystent ds. nieruchomości",
+  "desc": "Asystenci ds. nieruchomości wykonują różne obowiązki, w tym zadania administracyjne w sektorze nieruchomości. Dostarczają oni klientom informacji finansowych o nieruchomościach i udzielają im porad, planują spotkania i organizują oglądanie nieruchomości, przygotowują umowy i pomagają w wycenie nieruchomości.",
+  "path": "Finanse > Pracownicy księgowości i statystyki",
+  "tasks": [
+   "Umawiasz terminy oglądania mieszkań",
+   "Przygotowujesz projekty umów i dokumenty",
+   "Zbierasz informacje o cenach podobnych lokali",
+   "Odpowiadasz klientom na pytania o koszty"
+  ]
+ },
+ {
+  "id": 1477,
+  "name": "Kasjer walutowy / kasjerka walutowa",
+  "desc": "Kasjerzy walutowi przetwarzają transakcje gotówkowe klientów w walutach krajowych i obcych. Dostarczają informacji na temat warunków i kursów wymiany dla zakupu i sprzedaży walut obcych, dokonują depozytów środków pieniężnych, prowadzą rejestr wszystkich transakcji walutowych i sprawdzają ważność pieniędzy.",
+  "path": "Finanse > Pracownicy księgowości i statystyki",
+  "tasks": [
+   "Podajesz klientom aktualny kurs wymiany",
+   "Przeliczasz kwoty i wypłacasz walutę",
+   "Sprawdzasz autentyczność banknotów",
+   "Zapisujesz każdą transakcję w rejestrze"
+  ]
+ },
+ {
+  "id": 1478,
+  "name": "Pracownik ds. audytu",
+  "desc": "Pracownicy ds. audytu zbierają i badają dane finansowe, takie jak transakcje inwentaryzacyjne, dla organizacji i przedsiębiorstw, i sprawdzają, czy są one dokładne, właściwie prowadzone i czy dają poprawny wynik. Dokonują przeglądu liczb w bazach danych i dokumentach, oceniają i w razie konieczności konsultują się ze źródłem transakcji i udzielają mu pomocy (obejmuje to księgowych, kierowników lub innych pracowników biurowych).",
+  "path": "Finanse > Pracownicy księgowości i statystyki",
+  "tasks": [
+   "Porównujesz zapisy w bazie z dokumentami",
+   "Szukasz błędów i podejrzanych transakcji",
+   "Pytasz księgowych o źródło danej kwoty",
+   "Opisujesz wyniki kontroli w raporcie"
+  ]
+ },
+ {
+  "id": 1479,
+  "name": "Pracownik ds. inwestycji",
+  "desc": "Pracownicy ds. inwestycji pomagają w zarządzaniu inwestycjami takimi jak akcje, obligacje lub inne papiery wartościowe i wykonują ogólne obowiązki administracyjne w sektorze inwestycyjnym spółki finansowej.",
+  "path": "Finanse > Pracownicy księgowości i statystyki",
+  "tasks": [
+   "Przygotowujesz dokumenty do zleceń kupna i sprzedaży",
+   "Aktualizujesz zestawienia posiadanych papierów wartościowych",
+   "Odpowiadasz klientom na pytania o ich portfel",
+   "Sprawdzasz notowania i zapisujesz zmiany"
+  ]
+ },
+ {
+  "id": 1480,
+  "name": "Pracownik ds. podatków",
+  "desc": "Pracownicy ds. podatków gromadzą informacje finansowe w celu przygotowania dokumentów księgowych i podatkowych. Wykonują oni również zadania biurowe.",
+  "path": "Finanse > Pracownicy księgowości i statystyki",
+  "tasks": [
+   "Zbierasz faktury i inne dokumenty finansowe",
+   "Przygotowujesz zestawienia do deklaracji podatkowych",
+   "Sprawdzasz, czy w papierach niczego nie brakuje",
+   "Pilnujesz terminów składania rozliczeń"
+  ]
+ },
+ {
+  "id": 1481,
+  "name": "Pracownik ds. ubezpieczeń",
+  "desc": "Urzędnicy do spraw ubezpieczeń wykonują ogólne obowiązki biurowe i administracyjne w zakładzie ubezpieczeń, innej instytucji usługowej, dla samozatrudnionego agenta ds. ubezpieczeń, pośrednika ubezpieczeniowego lub instytucji rządowej. Oferują oni pomoc i dostarczają klientom informacji na temat ubezpieczeń oraz zarządzają formalnościami związanymi z umowami ubezpieczeniowymi.",
+  "path": "Finanse > Pracownicy księgowości i statystyki",
+  "tasks": [
+   "Tłumaczysz klientom zakres polisy",
+   "Przygotowujesz i wysyłasz umowy ubezpieczeniowe",
+   "Wprowadzasz zmiany w danych polis",
+   "Przyjmujesz zgłoszenia i pilnujesz dokumentów"
+  ]
+ },
+ {
+  "id": 1482,
+  "name": "Asystent ds. wsparcia sprzedaży",
+  "desc": "Asystenci ds. wsparcia sprzedaży realizują różne zadania ogólne w zakresie wspierania sprzedaży, takie jak wspieranie opracowywania planów sprzedaży, zarządzanie działalnością administracyjną związaną ze sprzedażą, sprawdzanie faktur klientów i innych dokumentów księgowych lub zapisów księgowych, gromadzenie danych oraz przygotowywanie sprawozdań dla innych wydziałów firmy.",
+  "path": "Finanse > Pracownicy księgowości i statystyki",
+  "tasks": [
+   "Sprawdzasz faktury klientów i zapisy księgowe",
+   "Zbierasz dane o sprzedaży z różnych źródeł",
+   "Przygotowujesz raporty dla innych działów",
+   "Pomagasz układać plan sprzedaży"
+  ]
+ },
+ {
+  "id": 1483,
+  "name": "Fakturzysta",
+  "desc": "Fakturzyści tworzą faktury i faktury korygujące, wystawiając je klientom za pomocą wszelkich niezbędnych środków i aktualizując dokumentację klientów. Wystawiają faktury dla klientów i miesięczne deklaracje klientów, aktualizują dokumentację klienta, przetwarzają faktury korygujące, wprowadzają i przekazują faktury itp.",
+  "path": "Finanse > Pracownicy księgowości i statystyki",
+  "tasks": [
+   "Wystawiasz faktury po zakończonej sprzedaży",
+   "Poprawiasz błędy fakturami korygującymi",
+   "Wysyłasz dokumenty do klientów",
+   "Aktualizujesz dane klientów w kartotece"
+  ]
+ },
+ {
+  "id": 1484,
+  "name": "Pracownik obsługi płacowej",
+  "desc": "Pracownicy obsługi placowej zarządzają arkuszami czasu pracy i wypłatami pracowników. Sprawdzają, czy informacje te są prawidłowe. Pracownicy obsługi płacowej kontrolują pracę w godzinach nadliczbowych, zwolnienia chorobowe i urlopy. Dystrybuują oni wynagrodzenia.",
+  "path": "Finanse > Pracownicy księgowości i statystyki",
+  "tasks": [
+   "Sprawdzasz karty czasu pracy pracowników",
+   "Liczysz nadgodziny, urlopy i zwolnienia",
+   "Przygotowujesz listy płac",
+   "Wyjaśniasz pracownikom kwoty na pasku"
+  ]
+ },
+ {
+  "id": 1485,
+  "name": "Dyrektor domu maklerskiego",
+  "desc": "Dyrektorzy domów maklerskich organizują działalność i osoby zaangażowane w handel papierami wartościowymi. Nadzorują strategie mające na celu zwiększenie efektywności obrotu aktywami, ze szczególnym naciskiem na rentowność. Mogą również doradzać klientom w sprawie odpowiednich transakcji.",
+  "path": "Finanse > Kierownicy oddziałów ds. usług finansowych i ubezpieczeniowych",
+  "tasks": [
+   "Ustalasz strategię handlu papierami wartościowymi",
+   "Nadzorujesz maklerów i dział rozliczeń",
+   "Analizujesz wyniki i rentowność firmy",
+   "Doradzasz klientom przy dużych transakcjach"
+  ]
+ },
+ {
+  "id": 1486,
+  "name": "Kierownik agencji ubezpieczeniowej",
+  "desc": "Kierownicy agencji ubezpieczeniowych koordynują i nadzorują działalność instytucji lub oddziału instytucji oferujących usługi ubezpieczeniowe. Udzielają klientom porad w zakresie produktów ubezpieczeniowych.",
+  "path": "Finanse > Kierownicy oddziałów ds. usług finansowych i ubezpieczeniowych",
+  "tasks": [
+   "Układasz grafik pracy agentów",
+   "Doradzasz klientom przy wyborze ubezpieczenia",
+   "Sprawdzasz wyniki sprzedaży oddziału",
+   "Rozwiązujesz trudne sprawy i reklamacje"
+  ]
+ },
+ {
+  "id": 1487,
+  "name": "Kierownik programu emerytalnego",
+  "desc": "Kierownicy programów emerytalnych koordynują systemy emerytalne w celu zapewnienia świadczeń emerytalnych osobom fizycznym lub organizacjom. Zapewniają codzienne rozmieszczenie funduszu emerytalnego i definiują politykę strategiczną w zakresie opracowywania nowych pakietów emerytalnych.",
+  "path": "Finanse > Kierownicy oddziałów ds. usług finansowych i ubezpieczeniowych",
+  "tasks": [
+   "Nadzorujesz codzienne lokowanie funduszu emerytalnego",
+   "Planujesz nowe pakiety świadczeń",
+   "Odpowiadasz na pytania o przyszłe świadczenia",
+   "Przygotowujesz raporty dla zarządu"
+  ]
+ },
+ {
+  "id": 1488,
+  "name": "Kierownik unii kredytowej",
+  "desc": "Kierownicy unii kredytowych nadzorują usługi członków i zarządzają nimi, nadzorują personel i operacje prowadzone przez unie kredytowe. Informują pracowników o ostatnich procedurach i polityce unii kredytowej oraz przygotowują sprawozdania finansowe.",
+  "path": "Finanse > Kierownicy oddziałów ds. usług finansowych i ubezpieczeniowych",
+  "tasks": [
+   "Kierujesz pracą pracowników kasy",
+   "Informujesz zespół o zmianach w procedurach",
+   "Rozpatrujesz trudne wnioski o pożyczkę",
+   "Przygotowujesz sprawozdania finansowe kasy"
+  ]
+ },
+ {
+  "id": 1489,
+  "name": "Menedżer banku",
+  "desc": "Menedżerowie banku nadzorują zarządzanie jednym lub większą liczbą działań bankowych. Określają polityki, które promują bezpieczne operacje bankowe, zapewniają realizację celów gospodarczych, społecznych i handlowych, a wszystkie departamenty banków, ich działalność i polityka handlowa są zgodne z wymogami prawnymi. Zarządzają pracownikami i utrzymują skuteczną współpracę między nimi.",
+  "path": "Finanse > Kierownicy oddziałów ds. usług finansowych i ubezpieczeniowych",
+  "tasks": [
+   "Ustalasz zasady bezpiecznych operacji bankowych",
+   "Sprawdzasz zgodność działań z przepisami",
+   "Kierujesz pracownikami oddziałów",
+   "Analizujesz wyniki i cele handlowe banku"
+  ]
+ },
+ {
+  "id": 1490,
+  "name": "Specjalista ds. odszkodowań",
+  "desc": "Specjaliści ds. odszkodowań kierują zespołem pracowników ds. roszczeń ubezpieczeniowych w celu zapewnienia prawidłowego i sprawnego rozpatrywania roszczeń ubezpieczeniowych. Zajmują się bardziej złożonymi skargami klientów i pomagają w nieuczciwych sprawach. Specjaliści ds. odszkodowań współpracują z brokerami ubezpieczeniowymi, agentami, rzeczoznawcami ubezpieczeniowymi i klientami.",
+  "path": "Finanse > Kierownicy oddziałów ds. usług finansowych i ubezpieczeniowych",
+  "tasks": [
+   "Rozpatrujesz złożone zgłoszenia szkód",
+   "Kierujesz zespołem likwidatorów szkód",
+   "Weryfikujesz podejrzane roszczenia",
+   "Rozmawiasz z rzeczoznawcami i brokerami"
+  ]
+ },
+ {
+  "id": 1491,
+  "name": "Dyrektor ds. budżetowania",
+  "desc": "Dyrektorzy ds. budżetowania oceniają propozycje finansowe różnych departamentów przed przyznaniem środków finansowych na projekty. Monitorują oni wdrażanie polityk i procedur budżetowych. Ściśle współpracują z innymi departamentami w zakresie oceny programów, ich wpływu na organizację, dochodów, jakie mogą one uzyskać, oraz wymaganych nakładów finansowych.",
+  "path": "Finanse > Dyrektor finansowy",
+  "tasks": [
+   "Oceniasz propozycje finansowe poszczególnych działów",
+   "Decydujesz o przyznaniu środków na projekty",
+   "Monitorujesz wydatki względem budżetu",
+   "Liczysz, ile projekt może przynieść dochodu"
+  ]
+ },
+ {
+  "id": 1492,
+  "name": "Dyrektor ds. płynności finansowej",
+  "desc": "Dyrektorzy ds. płynności finansowej określają i nadzorują strategiczną politykę finansową przedsiębiorstwa lub organizacji. Stosują oni techniki zarządzania środkami pieniężnymi, takie jak organizacja kont, monitorowanie przepływu środków pieniężnych, planowanie i kontrola płynności, zarządzanie ryzykiem, w tym ryzyko walutowe i ryzyko cen towarów, oraz utrzymują ścisłe powiązania z bankami i agencjami ratingowymi.",
+  "path": "Finanse > Dyrektor finansowy",
+  "tasks": [
+   "Monitorujesz przepływ pieniędzy na kontach",
+   "Planujesz, kiedy wpłyną i wypłyną środki",
+   "Ograniczasz ryzyko kursów walut i cen surowców",
+   "Kontaktujesz się z bankami i agencjami ratingowymi"
+  ]
+ },
+ {
+  "id": 1493,
+  "name": "Dyrektor finansowy banku",
+  "desc": "Dyrektorzy finansowy banku nadzorują wszystkie aspekty zarządzania finansami banku. Zarządzają płynnością i wypłacalnością banku. Zarządzają i przedstawiają bieżące budżety, dokonują przeglądu prognoz finansowych, przygotowują sprawozdania finansowe na potrzeby audytu, zarządzają rachunkami bankowymi i zapewniają prawidłowe przechowywanie dokumentacji finansowej.",
+  "path": "Finanse > Dyrektor finansowy",
+  "tasks": [
+   "Pilnujesz płynności i wypłacalności banku",
+   "Przedstawiasz budżet i prognozy finansowe",
+   "Przygotowujesz sprawozdania dla audytorów",
+   "Nadzorujesz rachunki bankowe i dokumentację"
+  ]
+ },
+ {
+  "id": 1494,
+  "name": "Główny księgowy",
+  "desc": "Główni księgowi przyjmują na siebie odpowiedzialność za wszystkie działania rachunkowe związane ze sprawozdawczością finansową. Opracowują i utrzymują zasady i procedury rachunkowości w celu zapewnienia terminowego i dokładnego sporządzania sprawozdań finansowych, nadzorują pracowników księgowości i zarządzają działalnością księgową w odpowiednich ramach czasowych i w odpowiednim budżecie.",
+  "path": "Finanse > Dyrektor finansowy",
+  "tasks": [
+   "Ustalasz zasady i procedury księgowania",
+   "Nadzorujesz pracę księgowych",
+   "Zatwierdzasz sprawozdania finansowe firmy",
+   "Pilnujesz terminów zamknięcia miesiąca"
+  ]
+ },
+ {
+  "id": 1495,
+  "name": "Doradca do spraw rozwoju gospodarczego",
+  "desc": "Doradcy do spraw rozwoju gospodarczego określają i wdrażają polityki na rzecz poprawy wzrostu gospodarczego i stabilności w społeczności, rządzie lub instytucji. Badają tendencje gospodarcze i koordynują współpracę między instytucjami zajmującymi się rozwojem gospodarczym. Analizują potencjalne zagrożenia i konflikty gospodarcze oraz opracowują plany ich rozwiązania. Doradcy do spraw rozwoju gospodarczego doradzają w kwestii stabilności gospodarczej instytucji i wzrostu gospodarczego.",
+  "path": "Finanse > Ekonomista",
+  "tasks": [
+   "Badasz trendy gospodarcze w regionie",
+   "Wskazujesz zagrożenia dla lokalnej gospodarki",
+   "Łączysz instytucje, które wspierają rozwój",
+   "Piszesz plan działań i przedstawiasz go"
+  ]
+ },
+ {
+  "id": 1496,
+  "name": "Doradca ds. polityki podatkowej",
+  "desc": "Doradcy ds. polityki podatkowej prowadzą badania i opracowują polityki i przepisy podatkowe w celu udoskonalenia i opracowania polityk fiskalnych. Doradzają organom publicznym w zakresie realizacji polityki i operacji finansowych, a także prognozują konsekwencje finansowe zmian polityk fiskalnych.",
+  "path": "Finanse > Ekonomista",
+  "tasks": [
+   "Badasz skutki obecnych przepisów podatkowych",
+   "Piszesz projekty zmian w przepisach",
+   "Prognozujesz wpływ zmian na budżet",
+   "Doradzasz organom publicznym w sprawach finansów"
+  ]
+ },
+ {
+  "id": 1497,
+  "name": "Doradca ekonomiczny",
+  "desc": "Doradcy ekonomiczni śledzą rozwój sytuacji gospodarczej i doradzają w zakresie problemów gospodarczych. Prognozują tendencje i zachowania gospodarcze oraz doradzają w kwestiach finansowych, handlowych, fiskalnych i pokrewnych. Doradzają przedsiębiorstwom i organizacjom w zakresie technik uzyskiwania korzyści ekonomicznych.",
+  "path": "Finanse > Ekonomista",
+  "tasks": [
+   "Śledzisz wskaźniki i wiadomości gospodarcze",
+   "Prognozujesz zmiany cen i popytu",
+   "Piszesz rekomendacje dla klientów",
+   "Tłumaczysz klientom ryzyka i szanse"
+  ]
+ },
+ {
+  "id": 1498,
+  "name": "Ekonomista biznesu",
+  "desc": "Ekonomiści biznesu badają zagadnienia dotyczące gospodarki, organizacji i strategii. Analizują tendencje makroekonomiczne i mikroekonomiczne i wykorzystują te informacje do analizy sytuacji branż lub konkretnych przedsiębiorstw. Świadczą doradztwo w zakresie planowania strategicznego, wykonalności produktu, tendencji prognoz, rynków wschodzących, polityk podatkowych i tendencji w konsumpcji.",
+  "path": "Finanse > Ekonomista",
+  "tasks": [
+   "Analizujesz sytuację konkretnej branży",
+   "Oceniasz opłacalność nowego produktu",
+   "Prognozujesz konsumpcję i rynki wschodzące",
+   "Doradzasz w planowaniu strategicznym"
+  ]
+ },
+ {
+  "id": 1499,
+  "name": "Asystent posła",
+  "desc": "Asystenci posłów wspierają urzędników i polityków parlamentów regionalnych, krajowych i międzynarodowych oraz wykonują zadania logistyczne. Dokonują przeglądu dokumentów urzędowych i stosują procedury określone przez odpowiednie parlamenty. Wspierają komunikację z zainteresowanymi stronami i zapewniają wsparcie logistyczne niezbędne do obsługi procesów urzędowych.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Czytasz projekty ustaw i streszczasz je",
+   "Układasz kalendarz spotkań posła",
+   "Odpowiadasz na listy i wiadomości od mieszkańców",
+   "Organizujesz logistykę posiedzeń i wyjazdów"
+  ]
+ }
+]

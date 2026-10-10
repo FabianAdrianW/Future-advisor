@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1320,
+  "name": "Wytwórca dywanów",
+  "desc": "Wytwórcy dywanów wykorzystują techniki rzemieślnicze do wytwarzania tekstylnych pokryć podłogowych. Wytwarzają oni dywany i chodniki z wełny lub innych materiałów włókienniczych przy użyciu tradycyjnych technik pracy. Mogą stosować różnorodne metody, takie jak tkanie, wiązanie lub strzyżenie, w celu tworzenia dywanów różnych rodzajów.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Dobierasz kolory wełny do wzoru",
+   "Wiążesz kolejne węzły z kolorowej wełny",
+   "Układasz wzór rząd po rzędzie",
+   "Strzyżesz włosie do równej wysokości"
+  ]
+ },
+ {
+  "id": 1321,
+  "name": "Wytwórca dywanów metodą mechaniczną",
+  "desc": "Wytwórcy dywanów metodą mechaniczną obsługują maszyny w celu wytwarzania tekstylnych pokryć podłogowych. Wytwarzają oni dywany i chodniki z wełny lub syntetycznych materiałów włókienniczych przy użyciu specjalistycznego sprzętu. Wytwórcy dywanów metodą mechaniczną mogą stosować różnorodne metody, takie jak tkanie, wiązanie lub strzyżenie, w celu tworzenia dywanów różnych rodzajów.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Ustawiasz maszynę do wybranego rodzaju dywanu",
+   "Zakładasz szpule z przędzą na maszynę",
+   "Obserwujesz pracę maszyny i wzór",
+   "Zatrzymujesz urządzenie, gdy pojawi się wada"
+  ]
+ },
+ {
+  "id": 1322,
+  "name": "Cegielnik",
+  "desc": "Cegielnicy tworzą unikatowe cegły, rury i inne wyroby żaroodporne za pomocą ręcznych narzędzi formierskich. Tworzą formy zgodnie ze specyfikacjami, czyszczą je i smarują olejem, wkładają do niej mieszankę i wyjmują ją. Następnie suszą cegły w piecu, po czym wykańczają i wygładzają produkty końcowe.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Przygotowujesz formy według podanych wymiarów",
+   "Czyścisz formy i smarujesz je olejem",
+   "Wypełniasz formę mieszanką i wyjmujesz cegłę",
+   "Suszysz cegły w piecu i wygładzasz je"
+  ]
+ },
+ {
+  "id": 1323,
+  "name": "Garncarz",
+  "desc": "Garncarze przetwarzają i formują glinę ręcznie lub za pomocą koła, wytwarzając z niej naczynia, wyroby kamionkowe, wyroby z ceramiki porowatej i porcelany. Wprowadzają oni już ukształtowaną glinę do pieców i ogrzewają ją w wysokiej temperaturze w celu usunięcia wody z gliny.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Ugniatasz glinę przed formowaniem",
+   "Formujesz kubek lub miskę na kole",
+   "Ręcznie lepisz talerze i dzbanki",
+   "Wstawiasz suche naczynia do pieca"
+  ]
+ },
+ {
+  "id": 1324,
+  "name": "Hutnik dmuchacz szkła",
+  "desc": "Hutnicy dmuchacze szkła projektują, wytwarzają i dekorują produkty szklane, takie jak takich jak witraże, lustra i szkło architektoniczne. Niektórzy hutnicy dmuchacze szkła specjalizują się w odnowie, renowacji i naprawie oryginalnych przedmiotów. Mogą oni również pracować jako dmuchacze szkła do celów naukowych projektujący i naprawiający laboratoryjne wyroby szklane.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Projektujesz szklany przedmiot lub witraż",
+   "Wytwarzasz wyroby szklane w pracowni",
+   "Dekorujesz szkło wzorami",
+   "Naprawiasz i odnawiasz stare szklane przedmioty"
+  ]
+ },
+ {
+  "id": 1325,
+  "name": "Krajacz szkła",
+  "desc": "Krajacz szkła mierzy, tnie, montuje i instaluje szkło płaskie oraz lustra. Ponadto zajmują się załadunkiem i rozładunkiem szkła, luster i urządzeń, jeżdżą na instalacje, instalują metalowe lub drewniane ramy przeznaczone do wypełnienia szkłem i pracują zgodnie ze specyfikacją klienta.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Mierzysz otwór i ustalasz wymiar szkła",
+   "Tniesz szkło płaskie i lustra",
+   "Ładujesz i rozładowujesz szyby ostrożnie",
+   "Montujesz szkło w ramach u klienta"
+  ]
+ },
+ {
+  "id": 1326,
+  "name": "Specjalista naprawy sprzętu sportowego i turystycznego",
+  "desc": "Specjaliści naprawy sprzętu sportowego i turystycznego konserwują i naprawiają rekreacyjne urządzenia sportowe, takie jak rakiety do tenisa ziemnego, sprzęt łuczniczy i wyposażenie kempingowe. W celu odtworzenia uszkodzonych części używają specjalistycznych narzędzi ręcznych lub mechanicznych.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Oceniasz, co jest zepsute w sprzęcie",
+   "Wymieniasz zerwane struny i uszkodzone części",
+   "Łatasz namioty i wyposażenie kempingowe",
+   "Konserwujesz sprzęt łuczniczy i sportowy"
+  ]
+ },
+ {
+  "id": 1327,
+  "name": "Wytwórca świec",
+  "desc": "Wytwórcy świec odlewają świece, umieszczają knot w środku formy odlewniczej i napełniają ją woskiem ręcznie lub maszynowo. Wyjmują świecę z formy, usuwają nadmiar wosku i kontrolują świecę pod kątem wszelkich zniekształceń.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Mocujesz knot w środku formy",
+   "Zalewasz formę woskiem ręcznie lub maszynowo",
+   "Wyjmujesz świecę z formy",
+   "Usuwasz nadmiar wosku i kontrolujesz kształt"
+  ]
+ },
+ {
+  "id": 1328,
+  "name": "Konstruktor-modelarz obuwia operator CAD",
+  "desc": "Konstruktorzy-modelarze obuwia operatorzy CAD projektują, przystosowują i modyfikują wzory dla wszystkich rodzajów obuwia przy użyciu systemów CAD. Sprawdzają oni warianty układania przy użyciu modułów osadzania systemu CAD i zużycie materiałów. Po zatwierdzeniu modelu próby do produkcji, specjaliści ci wykonują szereg wzorów (stopniowanie) do wytworzenia asortymentu tego samego modelu obuwia w różnych rozmiarach.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Rysujesz na ekranie wzór buta",
+   "Modyfikujesz wzór po próbnym modelu",
+   "Sprawdzasz, jak ułożyć elementy na materiale",
+   "Tworzysz serię wzorów w różnych rozmiarach"
+  ]
+ },
+ {
+  "id": 1329,
+  "name": "Obuwnik",
+  "desc": "Obuwnicy wykonują różne operacje ręczne lub maszynowe do tradycyjnego wytwarzania różnych rodzajów obuwia. Naprawiają oni również wszystkie rodzaje obuwia w warsztacie naprawczym.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Wykonujesz kolejne etapy powstawania buta",
+   "Pracujesz ręcznie i na maszynach",
+   "Łączysz cholewkę z podeszwą",
+   "Naprawiasz zużyte obuwie w warsztacie"
+  ]
+ },
+ {
+  "id": 1330,
+  "name": "Obuwnik miarowy",
+  "desc": "Obuwnicy miarowi pracują w małych środowiskach produkcyjnych (np. warsztaty), gdzie obuwie jest zwykle wykonywane na zamówienie. Projektują, przygotowują, wykrawają i szyją, składają i wykańczają obuwie wykonane na zamówienie.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Mierzysz stopy klienta i notujesz wymiary",
+   "Projektujesz wzór buta na zamówienie",
+   "Wykrawasz, szyjesz i składasz elementy",
+   "Wykańczasz but i poprawiasz po przymiarce"
+  ]
+ },
+ {
+  "id": 1331,
+  "name": "Obuwnik montażysta",
+  "desc": "Obuwnicy montażyści ręcznie kształtują i zabezpieczają wyściółki i cholewki na kopycie szewskim. Obuwnicy montażyści naciągają część przednią, przewężenie i siodełko cholewki na kopyto szewskie przy użyciu narzędzi ręcznych w celu uzyskania ostatecznego kształtu modelu obuwia. Zaczynają od naciągnięcia krawędzi części przedniej cholewki na kopyto szewskie i dociśnięcia przewężenia i siodełka. Następnie spłaszczają oni starte krawędzie i odcinają nadmiar części na palce i wyściółki i stosują szycie lub klejenie do ustalenia kształtu.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Naciągasz przód cholewki na kopyto",
+   "Dociskasz przewężenie i siodełko do kopyta",
+   "Spłaszczasz krawędzie i odcinasz nadmiar skóry",
+   "Utrwalasz kształt szyciem lub klejeniem"
+  ]
+ },
+ {
+  "id": 1332,
+  "name": "Obuwnik ortopedyczny",
+  "desc": "Obuwnicy ortopedyczni projektują obuwie i tworzą wzory przy zastosowaniu technologii wytwarzania. Kompensują oni i uwzględniają problemy związane z dopasowaniem do stopy i kostki, konstruują i wytwarzają obuwie i jego elementy ortopedyczne, w tym ortezy, wkładki, podeszwy i inne.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Oceniasz kształt stopy i problem z dopasowaniem",
+   "Projektujesz wzór buta dla konkretnej stopy",
+   "Wykonujesz wkładki i podeszwy ortopedyczne",
+   "Wytwarzasz ortezy i inne elementy ortopedyczne"
+  ]
+ },
+ {
+  "id": 1333,
+  "name": "Obuwnik szwacz ręczny",
+  "desc": "Obuwnicy szwacze ręczni łączą wykrojone kawałki skóry i innych materiałów przy użyciu prostych narzędzi, takich jak igły, szczypce i nożyczki, aby wytworzyć cholewki. Ponadto wykonują oni szwy ręczne do celów dekoracyjnych lub do zamocowania cholewek do podeszwy w przypadku pełnego obuwia.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Łączysz wykrojone kawałki skóry w cholewkę",
+   "Używasz igieł, szczypiec i nożyczek",
+   "Robisz ozdobne szwy na wierzchu buta",
+   "Przyszywasz cholewkę do podeszwy"
+  ]
+ },
+ {
+  "id": 1334,
+  "name": "Obuwnik-modelarz",
+  "desc": "Obuwnicy-modelarza projektują i wykrawają wzory dla wszystkich rodzajów obuwia, z wykorzystaniem różnych narzędzi ręcznych i prostych narzędzi maszynowych. Sprawdzają oni różne warianty osadzania i oszacowują zużycie materiału. Po zatwierdzeniu próbnego modelu do produkcji wytwarzają oni serię wzorów dla danego asortymentu obuwia w różnych rozmiarach.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Projektujesz wzory dla różnych rodzajów obuwia",
+   "Wykrawasz wzory narzędziami ręcznymi",
+   "Szacujesz, ile materiału zużyje but",
+   "Tworzysz serię wzorów w kolejnych rozmiarach"
+  ]
+ },
+ {
+  "id": 1335,
+  "name": "Formowacz wyrobów skórzanych",
+  "desc": "Formowacze wyrobów skórzanych obsługują narzędzia do sporządzania połączenia elementów w celu przygotowania części do zszycia lub zamknięcia już istniejących zszytych elementów, aby nadać kształt wyrobom ze skóry.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Przygotowujesz brzegi skórzanych części do łączenia",
+   "Łączysz elementy przed zszyciem",
+   "Zamykasz już zszyte części wyrobu",
+   "Nadajesz płaskiej skórze przestrzenny kształt"
+  ]
+ },
+ {
+  "id": 1336,
+  "name": "Pracownik wykańczalni wyrobów skórzanych",
+  "desc": "Pracownicy wykańczalni wyrobów skórzanych uporządkowują wyroby skórzane, które mają być wykańczane przy użyciu różnych rodzajów wykończenia (np. kremowe, oleiste, woskowe, polerowane, pokryte tworzywem sztucznym itp.). Stosują narzędzia, środki i materiały do przyłączenia uchwytów i metalowych aplikacji do toreb, walizek i innych akcesoriów. Analizują oni kolejność działań zgodnie z informacjami otrzymanymi od osoby nadzorującej i z arkusza technicznego danego modelu.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Czytasz arkusz techniczny modelu i polecenia",
+   "Mocujesz uchwyty i metalowe aplikacje",
+   "Nakładasz wybrane wykończenie powierzchni skóry",
+   "Porządkujesz wyroby przed wykończeniem"
+  ]
+ },
+ {
+  "id": 1337,
+  "name": "Szwacz ręczny wyrobów skórzanych/szwaczka ręczna wyrobów skórzanych",
+  "desc": "Szwacze ręczni/szwaczki ręczne wyrobów skórzanych łączą wykrojone kawałki skóry i innych materiałów przy użyciu prostych narzędzi, takich jak igły, szczypce i nożyczki, aby zamknąć wyrób. Wykonują oni także szwy ręczne do celów dekoracyjnych.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Łączysz kawałki skóry igłą i nicią",
+   "Zamykasz wyrób, na przykład torbę lub etui",
+   "Robisz ozdobne szwy ręczne",
+   "Używasz szczypiec, żeby przeciągnąć igłę przez skórę"
+  ]
+ },
+ {
+  "id": 1338,
+  "name": "Wykrawacz wyrobów skórzanych",
+  "desc": "Wykrawacze wyrobów skórzanych dokonują kontroli skóry oraz ich materiałów i matryc tnących, wybierają obszary do wykrawania, umieszczają części na skórze i innych materiałach, dopasowują elementy (części) wyrobów skórzanych i sprawdzają, czy wykrojone części odpowiadają specyfikacji i wymaganiom jakościowym. Wszystkie ich działania i zadania wykonywane są ręcznie.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Oglądasz skórę i szukasz wad",
+   "Układasz matryce tnące na najlepszych miejscach",
+   "Wykrawasz części ręcznie",
+   "Sprawdzasz, czy wykrojone elementy spełniają wymagania"
+  ]
+ },
+ {
+  "id": 1339,
+  "name": "Konstruktor odzieży",
+  "desc": "Konstruktorzy odzieży interpretują szkice projektowe i kroją modele wszelkich rodzajów odzieży, stosując różne narzędzia ręczne lub maszyny przemysłowe zgodnie z wymaganiami klientów. Wykonują próbki i prototypy w celu seryjnej produkcji odzieży w różnych rozmiarach.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Odczytujesz szkic projektanta i wymiary",
+   "Rysujesz wykrój na papierze",
+   "Kroisz próbki i prototypy ubrań",
+   "Przygotowujesz wzory na kolejne rozmiary"
+  ]
+ },
+ {
+  "id": 1340,
+  "name": "Konstruktor odzieży – operator CAD",
+  "desc": "Konstruktorzy odzieży – operatorzy CAD projektują, adaptują i modyfikują modele wszystkich rodzajów odzieży z wykorzystaniem systemów CAD. Sprawdzają oni warianty rozplanowania produktu i zużycie materiałów przy użyciu modułów rozkroju CAD. Po zatwierdzeniu modelu próbnego do produkcji specjaliści ci wykonują serię modeli (klas) w celu produkcji tych samych modeli odzieży w różnych rozmiarach.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Rysujesz i zmieniasz wykroje na ekranie",
+   "Sprawdzasz rozkład elementów na materiale",
+   "Liczysz zużycie tkaniny",
+   "Tworzysz serię wzorów w kolejnych rozmiarach"
+  ]
+ },
+ {
+  "id": 1341,
+  "name": "Konstruktor wyrobów skórzanych",
+  "desc": "Konstruktorzy wyrobów skórzanych projektują i wycinają modele różnych wyrobów skórzanych z wykorzystaniem różnych narzędzi ręcznych i prostych maszyn. Sprawdzają oni warianty rozkroju i szacują zużycie materiału.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Projektujesz model wyrobu skórzanego",
+   "Wycinasz modele ręcznie i prostymi maszynami",
+   "Sprawdzasz różne układy części na skórze",
+   "Szacujesz zużycie materiału na jedną sztukę"
+  ]
+ },
+ {
+  "id": 1342,
+  "name": "Konstruktor wyrobów skórzanych - operator CAD",
+  "desc": "Konstruktorzy wyrobów skórzanych - operatorzy CAD projektują, korygują i modyfikują modele 2D przy użyciu systemów CAD. Sprawdzają oni warianty rozplanowania produktu przy użyciu modułów rozkroju CAD. Szacują zużycie materiałów.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Rysujesz płaskie modele 2D na ekranie",
+   "Korygujesz kształt części po uwagach",
+   "Sprawdzasz ułożenie elementów na skórze",
+   "Szacujesz zużycie materiału na zamówienie"
+  ]
+ },
+ {
+  "id": 1343,
+  "name": "Krawiec-modelarz",
+  "desc": "Krawcy-modelarze tworzą modele w różnych rozmiarach (np. powiększone i zmniejszone), aby odtworzyć tę samą odzież w różnych rozmiarach. Projektują oni modele ręcznie lub za pomocą oprogramowania na podstawie tabel rozmiarów.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Czytasz tabele rozmiarów i wymiary",
+   "Powiększasz wzór ubrania do większych rozmiarów",
+   "Zmniejszasz wzór do mniejszych rozmiarów",
+   "Przerysowujesz wykroje ręcznie lub na ekranie"
+  ]
+ },
+ {
+  "id": 1344,
+  "name": "Krojczy",
+  "desc": "Krojczowie oznaczają, tną, formują i przycinają materiały tekstylne lub podobne zgodnie z dokumentacją lub specyfikacją w procesie produkcji odzieży.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Rozkładasz tkaninę warstwami na stole",
+   "Oznaczasz na materiale linie cięcia",
+   "Tniesz materiał według dokumentacji",
+   "Przycinasz i układasz wykrojone części"
+  ]
+ },
+ {
+  "id": 1345,
+  "name": "Wykonawca cyfrowych prototypów odzieży",
+  "desc": "Wykonawcy cyfrowych prototypów odzieży przekształcają model zaprojektowany na papierze do postaci cyfrowej przy użyciu specjalistycznego oprogramowania komputerowego. Obsługują oni i nadzorują maszyny wytwarzające różne produkty odzieżowe.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Przenosisz wzór z papieru do komputera",
+   "Poprawiasz cyfrowy model ubrania",
+   "Uruchamiasz maszynę wytwarzającą prototyp",
+   "Nadzorujesz pracę maszyn przy produkcji"
+  ]
+ },
+ {
+  "id": 1346,
+  "name": "Tapicer jachtowy",
+  "desc": "Tapicerzy jachtowi wytwarzają, montują i naprawiają elementy wnętrz wszystkich rodzajów łodzi. Używają oni narzędzi ręcznych, narzędzi elektrycznych i urządzeń warsztatowych do przygotowania i mocowania materiałów oraz nakładania wykończeń. Kontrolują oni również otrzymywane materiały i przygotowują wnętrze łodzi do instalacji nowych komponentów.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Wykonujesz siedzenia i obicia do wnętrz łodzi",
+   "Kontrolujesz dostarczone materiały",
+   "Przygotowujesz wnętrze łodzi pod nowe elementy",
+   "Montujesz i mocujesz gotowe obicia"
+  ]
+ },
+ {
+  "id": 1347,
+  "name": "Tapicer kolejowy",
+  "desc": "Tapicerzy kolejowi tworzą wzory produkcyjne, produkują i montują elementy wnętrz wagonów kolejowych. Używają oni narzędzi ręcznych, narzędzi elektrycznych i obrabiarek sterowanych cyfrowo do przygotowania i mocowania materiałów. Kontrolują oni również otrzymywane materiały i przygotowują wnętrze wagonu do instalacji elementów wykończenia.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Tworzysz wzory elementów wnętrza wagonu",
+   "Obsługujesz obrabiarki sterowane cyfrowo",
+   "Kontrolujesz dostarczone materiały",
+   "Mocujesz elementy wykończenia w wagonie"
+  ]
+ },
+ {
+  "id": 1348,
+  "name": "Tapicer meblowy",
+  "desc": "Tapicerzy meblowi wyposażają meble w materiał wyściełający, sprężyny, taśmy tapicerskie i pokrycia. Czasami muszą usunąć stary materiał wyściełający, wypełnienie i popękane naciągi przed ich wymianą przy użyciu narzędzi takich jak wyciągacz gwoździ, dłuto lub pobijak. Ma to na celu zapewnienie komfortu i pięknego wyglądu siedzeniom i oparciom mebli.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Wyciągasz gwoździe i zdejmujesz stare obicie",
+   "Wymieniasz popękane naciągi i wypełnienie",
+   "Zakładasz sprężyny i taśmy tapicerskie",
+   "Naciągasz nowe pokrycie na siedzisko i oparcie"
+  ]
+ },
+ {
+  "id": 1349,
+  "name": "Tapicer samochodowy",
+  "desc": "Tapicerzy samochodowi tworzą wzorce do produkcji, wytwarzają i montują elementy wnętrza do samochodów, autobusów, samochodów ciężarowych itp. Stosują elektronarzędzia, narzędzia ręczne i wyposażenie warsztatów do przygotowania i zamocowania materiałów. Kontrolują oni również otrzymane materiały i przygotowują wnętrze pojazdu na elementy tapicerki.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Robisz wzorce do elementów wnętrza pojazdu",
+   "Wytwarzasz obicia siedzeń i paneli",
+   "Przygotowujesz wnętrze pojazdu do montażu",
+   "Montujesz gotowe elementy tapicerki"
+  ]
+ },
+ {
+  "id": 1350,
+  "name": "Monter wyposażenia wnętrz samolotów",
+  "desc": "Monterzy wyposażenia wnętrz samolotów wytwarzają, montują i naprawiają elementy wyposażenia wewnętrznego statków powietrznych takie jak siedzenia, wykładziny dywanowe, panele drzwiowe, sufity, oświetlenie itp. Wymieniają oni także systemy rozrywki takie jak systemy wideo. Kontrolują otrzymane materiały i przygotowują wnętrze pojazdu na nowe elementy.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Montujesz siedzenia i panele w kabinie",
+   "Układasz wykładzinę i sufity",
+   "Wymieniasz systemy rozrywki wideo",
+   "Kontrolujesz materiały i przygotowujesz kabinę"
+  ]
+ },
+ {
+  "id": 1351,
+  "name": "Wytwórca materacy metodą rzemieślniczą",
+  "desc": "Wytwórcy materacy metodą rzemieślniczą produkują materace, wytwarzając wkłady i pokrycia. Ręcznie pikują i tną materace, rozciągają i przymocowują materiał wyściełający i pokrywający na układach sprężyn.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Wykonujesz wkłady i pokrycia materacy",
+   "Przycinasz materiał wyściełający do wymiaru",
+   "Rozciągasz warstwy na układzie sprężyn",
+   "Ręcznie pikujesz materac, spinając warstwy"
+  ]
+ },
+ {
+  "id": 1352,
+  "name": "Kapelusznik-czapnik",
+  "desc": "Kapelusznicy-czapnicy projektują i wytwarzają kapelusze i inne nakrycia głowy.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Szkicujesz projekt nakrycia głowy",
+   "Dobierasz materiał na kapelusz lub czapkę",
+   "Formujesz i zszywasz poszczególne części",
+   "Dopasowujesz gotowy kapelusz do głowy klienta"
+  ]
+ },
+ {
+  "id": 1353,
+  "name": "Klasyfikator skór",
+  "desc": "Klasyfikatorzy skór sortują skóry, skóry surowe, chromowane i skóry crust według ich cech naturalnych, kategorii i wagi, a także rozmiarów, lokalizacji, liczby i rodzaju wad. Porównują oni daną partię ze specyfikacjami, zaliczają ją do określonej klasy i odpowiadają za cyplowanie.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Oglądasz skóry i szukasz wad",
+   "Ważysz i mierzysz skóry",
+   "Porównujesz partię ze specyfikacją",
+   "Przypisujesz skórę do odpowiedniej klasy"
+  ]
+ },
+ {
+  "id": 1354,
+  "name": "Krawiec artystyczny / krawcowa artystyczna",
+  "desc": "Krawcy artystyczni / krawcowe artystyczne konstruują, szyją, zszywają, adaptują i konserwują kostiumy wykorzystywane w przedstawieniach na żywo oraz w filmach lub programach telewizyjnych. W pracy wykorzystują wizje artystyczne, szkice lub gotowe wzory w połączeniu z wiedzą o ciele ludzkim w celu zapewnienia użytkownikowi maksymalnego zakresu ruchu. Pracują oni w ścisłej współpracy z projektantami.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Czytasz szkic projektanta kostiumów",
+   "Szyjesz i zszywasz elementy kostiumu",
+   "Dopasowujesz strój do ruchów aktora",
+   "Naprawiasz kostiumy między przedstawieniami"
+  ]
+ },
+ {
+  "id": 1355,
+  "name": "Krawiec odzieży męskiej / krawcowa odzieży męskiej",
+  "desc": "Krawcy/krawcowe odzieży męskiej projektują, wytwarzają lub dopasowują, przerabiają i naprawiają odzież męską wytwarzaną dla określonego klienta, na indywidualne zamówienie lub ręcznie z materiałów włókienniczych, skór lekkich, futer i innych materiałów, lub wytwarzają czapki lub peruki męskie. Wytwarzają oni odzież na miarę zgodnie ze specyfikacjami klienta lub producenta odzieży. Są w stanie odczytać i zrozumieć tabele rozmiarów, szczegóły pomiarów wyrobów gotowych itp.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Zdejmujesz miarę do marynarki lub spodni",
+   "Szyjesz odzież męską na indywidualne zamówienie",
+   "Przerabiasz i naprawiasz gotowe ubrania",
+   "Dopasowujesz długość rękawów i nogawek"
+  ]
+ },
+ {
+  "id": 1356,
+  "name": "Perukarz",
+  "desc": "Perukarze wytwarzają, adaptują i konserwują protezy włosów przeznaczone do codziennego użytku. W pracy wykorzystują szkice, zdjęcia i wizje artystyczne w połączeniu z wiedzą o ciele ludzkim w celu zapewnienia użytkownikowi maksymalnego zakresu ruchu. Pracują oni w ścisłej współpracy z projektantami.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Oglądasz szkice i zdjęcia fryzury",
+   "Wykonujesz perukę lub protezę włosów",
+   "Dopasowujesz ją do głowy użytkownika",
+   "Naprawiasz i konserwujesz gotowe peruki"
+  ]
+ },
+ {
+  "id": 1357,
+  "name": "Hafciarz/hafciarka",
+  "desc": "Hafciarze/hafciarki projektują i dekorują powierzchnie tekstylne ręcznie lub za pomocą maszyny haftującej. Stosują oni szereg tradycyjnych technik wyszywania do wytwarzania złożonych wzorów na odzieży, dodatkach oraz artykułach do dekoracji domu. Profesjonalni hafciarze/hafciarki łączą tradycyjne umiejętności w zakresie szycia z nowoczesnym oprogramowaniem w celu projektowania i tworzenia ozdób określonych przedmiotów.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Projektujesz wzór haftu",
+   "Wyszywasz ręcznie tradycyjnymi ściegami",
+   "Ustawiasz i uruchamiasz maszynę haftującą",
+   "Kończysz haft i sprawdzasz dokładność wzoru"
+  ]
+ },
+ {
+  "id": 1358,
+  "name": "Rękawicznik",
+  "desc": "Rękawicznicy projektują i produkują rękawice techniczne, sportowe lub odzieżowe.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Projektujesz rękawice techniczne, sportowe lub odzieżowe",
+   "Rysujesz wykrój dłoni i palców",
+   "Kroisz materiał i skórę na rękawice",
+   "Szyjesz palce i zszywasz całą rękawicę"
+  ]
+ },
+ {
+  "id": 1359,
+  "name": "Szwacz/szwaczka",
+  "desc": "Szwacze/szwaczki zszywają elementy odzieży. Mogą dokonywać napraw i renowacji odzieży ręcznie lub przy użyciu różnych maszyn do szycia.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Zszywasz elementy odzieży na maszynie",
+   "Przyszywasz kieszenie, rękawy i kołnierze",
+   "Naprawiasz i odnawiasz ubrania ręcznie",
+   "Sprawdzasz, czy szwy są proste i mocne"
+  ]
+ },
+ {
+  "id": 1360,
+  "name": "Wytwórca lalek",
+  "desc": "Wytwórcy lalek projektują, wytwarzają i naprawiają lalki, wykorzystując różne materiały, takie jak porcelana, drewno lub tworzywa sztuczne. Wytwarzają oni formy odlewnicze i łączą części za pomocą klejów i narzędzi ręcznych.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Projektujesz wygląd lalki i dobierasz materiał",
+   "Robisz formy odlewnicze do części lalki",
+   "Łączysz części klejem i narzędziami",
+   "Naprawiasz zniszczone lalki"
+  ]
+ },
+ {
+  "id": 1361,
+  "name": "Wytwórca wyrobów tekstylnych",
+  "desc": "Wytwórcy wyrobów tekstylnych wytwarzają artykuły gotowe z materiałów włókienniczych, z wyjątkiem odzieży. Wytwarzają one produkty takie jak wyroby włókiennicze do użytku domowego (np. bielizna pościelowa, poduszki, pufy, dywany) i gotowe wyroby włókiennicze do użytku na wolnym powietrzu.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Kroisz tkaninę na elementy wyrobu",
+   "Zszywasz poszewki, pufy i poduszki",
+   "Wykonujesz wyroby do użytku na zewnątrz",
+   "Wypychasz i zamykasz gotowy wyrób"
+  ]
+ },
+ {
+  "id": 1362,
+  "name": "Sortowacz skór",
+  "desc": "Sortowacze skór kontrolują i klasyfikują skórę w trakcie i pod koniec procesu produkcji według cech jakościowych, planowanego zastosowania i wymagań klienta. Pracują w garbarni i w magazynach sprawdzając jakość, kolor, wielkość, grubość, miękkość i wady naturalne.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Oceniasz kolor, grubość i miękkość skóry",
+   "Szukasz wad naturalnych",
+   "Porównujesz skórę z wymaganiami klienta",
+   "Dobierasz skóry do konkretnego zastosowania"
+  ]
+ },
+ {
+  "id": 1363,
+  "name": "Drukarz offsetowy",
+  "desc": "Drukarze offsetowi drukują obrazy przy użyciu pras offsetowych. Prasa offsetowa przenosi obraz nasączony tuszem z płyty na płat gumy, po czym drukuje go na nośniku.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Zakładasz płyty drukarskie w prasie",
+   "Regulujesz ilość tuszu na płycie",
+   "Porównujesz odbitki ze wzorem klienta",
+   "Usuwasz zacięcia i drobne usterki"
+  ]
+ },
+ {
+  "id": 1364,
+  "name": "Drukarz sitodrukowy",
+  "desc": "Drukarze sitodrukowi obsługują prasę przeciskającą farbę przez sito. Sitodruk przemysłowy jest często wykorzystywany do drukowania na materiałach, które trudno zadrukować przy zastosowaniu innych procesów, takich jak twarde powierzchnie z tworzyw sztucznych.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Mocujesz sito w prasie",
+   "Przeciskasz farbę przez sito",
+   "Układasz przedmioty do zadruku",
+   "Sprawdzasz, czy nadruk jest równy"
+  ]
+ },
+ {
+  "id": 1365,
+  "name": "Drukarz tkanin",
+  "desc": "Drukarze tkanin wykonują czynności związane z drukiem na materiałach włókienniczych.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Przygotowujesz tkaninę do zadruku",
+   "Ustawiasz urządzenie do druku na materiale",
+   "Pilnujesz, czy wzór się nie przesuwa",
+   "Oglądasz gotowy materiał i odrzucasz wadliwe fragmenty"
+  ]
+ },
+ {
+  "id": 1366,
+  "name": "Operator drukarki",
+  "desc": "Operatorzy drukarek obsługują maszyny drukujące bezpośrednio na nośnik, bez płyty. Operatorzy drukarek zwykle wykorzystują technologię laserową lub technologię atramentową do drukowania pojedynczych stron bez czasochłonnych lub pracochłonnych etapów technicznych między gotowym produktem cyfrowym a drukiem.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Wysyłasz pliki do druku",
+   "Wkładasz papier i wymieniasz tusz",
+   "Oglądasz pierwsze wydruki pod kątem błędów",
+   "Usuwasz zacięcia papieru i rozdzielasz zlecenia"
+  ]
+ },
+ {
+  "id": 1367,
+  "name": "Operator maszyn do nadruku foliowego",
+  "desc": "Operatorzy maszyn do nadruku foliowego obsługują maszyny nakładające folię metalową na inne materiały przy użyciu wałków dociskowych i wysokiej temperatury. Mieszają oni również kolory, przygotowują odpowiednie maszyny i monitorują druk.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Mieszasz kolory i przygotowujesz maszynę",
+   "Zakładasz rolki folii metalicznej",
+   "Ustawiasz temperaturę i docisk wałków",
+   "Kontrolujesz nadruk w trakcie pracy"
+  ]
+ },
+ {
+  "id": 1368,
+  "name": "Operator maszyn fleksograficznych",
+  "desc": "Operatorzy maszyn fleksograficznych używają płyt do druku fleksograficznego do drukowania na prawie wszystkich materiałach. Płyta ta jest pokrywana farbą i dociskana do materiału, który ma zostać pokryty nadrukiem.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Montujesz płyty fleksograficzne w maszynie",
+   "Uzupełniasz farbę w maszynie",
+   "Ustawiasz docisk płyty do materiału",
+   "Sprawdzasz, czy kolory i napisy się zgadzają"
+  ]
+ },
+ {
+  "id": 1369,
+  "name": "Operator maszyny rotograwiurowej",
+  "desc": "Operatorzy maszyn rotograwiurowych obsługują prasy rotograwiurowe, w których obraz jest wygrawerowany bezpośrednio na wałku. Przygotowują oni prasę i kontrolują ją podczas pracy, dbając o bezpieczeństwo i rozwiązując problemy.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Zakładasz wygrawerowany wałek w prasie",
+   "Przygotowujesz maszynę do nowego zlecenia",
+   "Obserwujesz druk i reagujesz na usterki",
+   "Przestrzegasz zasad bezpieczeństwa przy ruchomych częściach"
+  ]
+ },
+ {
+  "id": 1370,
+  "name": "Operator prasy tłoczącej",
+  "desc": "Operatorzy pras tłoczących używają pras w celu podwyższenia lub wgłębienia niektórych obszarów podłoża w celu uzyskania wypukłości druku. Dwie pasujące do siebie wygrawerowane matryce są umieszczone na papierze, po czym stosuje się nacisk w celu zmiany powierzchni materiału.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Mocujesz matryce, aby do siebie pasowały",
+   "Układasz papier w prasie",
+   "Ustawiasz nacisk prasy",
+   "Sprawdzasz głębokość i ostrość tłoczenia"
+  ]
+ },
+ {
+  "id": 1371,
+  "name": "Specjalista ds. reprografii",
+  "desc": "Specjaliści ds. reprografii są odpowiedzialni za pełny lub częściowy proces powielania dokumentów graficznych przy użyciu środków mechanicznych lub cyfrowych, takich jak fotografia, skanowanie lub druk cyfrowy. Czynności te wykonuje się zazwyczaj w celu prowadzenia archiwów lub innych katalogów zorganizowanych.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Kopiujesz duże rysunki i dokumenty graficzne",
+   "Skanujesz dokumenty do archiwum",
+   "Drukujesz cyfrowo kopie zleconych materiałów",
+   "Porównujesz kopię z oryginałem"
+  ]
+ },
+ {
+  "id": 1372,
+  "name": "Technik druku na tkaninach",
+  "desc": "Technicy druku na tkaninach wykonują czynności związane z organizacją procesów drukarskich.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Układasz plan zleceń na zmianę",
+   "Przekazujesz drukarzom wytyczne do wzoru",
+   "Obchodzisz maszyny i sprawdzasz przebieg druku",
+   "Notujesz problemy i terminy zamówień"
+  ]
+ },
+ {
+  "id": 1373,
+  "name": "Montażysta ilustracji",
+  "desc": "Montażyści ilustracji poddają obróbce obrazy i wzory graficzne za pomocą maszyn do fotoskładu. Optymalizują oni wzorce w celu osiągnięcia jak najlepszego efektu poprzez określenie właściwego układu tekstu i obrazu na wydruku. Produkt jest następnie umieszczany na papierze fotograficznym lub folii.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Obrabiasz obrazy i wzory graficzne",
+   "Dobierasz układ tekstu i obrazu",
+   "Optymalizujesz wzór pod wydruk",
+   "Przenosisz gotowy układ na papier fotograficzny lub folię"
+  ]
+ },
+ {
+  "id": 1374,
+  "name": "Operator DTP",
+  "desc": "Operator DTP weryfikuje poprawność składu i estetykę tekstu. Niegdyś czynności te były wykonywane ręcznie. Później zaczęto stosować techniki takie jak linotyp i fotoskład. Obecnie prace te niemal w całości są wykonywane za pomocą cyfrowych programów do projektowania lub specjalistycznych programów do składu tekstu.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Składasz tekst w łamy i akapity",
+   "Poprawiasz odstępy i dzielenie wyrazów",
+   "Ustawiasz nagłówki, tytuły i zdjęcia",
+   "Sprawdzasz próbny wydruk strony"
+  ]
+ },
+ {
+  "id": 1375,
+  "name": "Operator skanera",
+  "desc": "Operatorzy skanerów obsługują skanery. Umieszczają oni materiały drukarskie w urządzeniu i ustawiają elementy sterujące urządzenia lub sterującego nim komputera w sposób zapewniający otrzymanie skanu o jak najwyższej rozdzielczości.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Układasz oryginał prosto na skanerze",
+   "Ustawiasz rozdzielczość skanowania",
+   "Porównujesz skan z oryginałem",
+   "Czyścisz szybę z kurzu i smug"
+  ]
+ },
+ {
+  "id": 1376,
+  "name": "Pracownik poligraficzny – formatowanie/przygotowanie materiałów do druku",
+  "desc": "Pracownicy poligraficzni ds. formatowania/przygotowania materiałów do druku przygotowują procesy drukowania poprzez formatowanie, układanie i skład tekstu oraz grafiki w odpowiedniej formie. Obejmuje to przygotowanie tekstów i obrazów oraz przetwarzanie ich w formie elektronicznej. Ponadto przygotowują, konserwują i naprawiają prasy drukarskie.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Układasz tekst i grafikę na stronie",
+   "Przetwarzasz teksty i obrazy do postaci elektronicznej",
+   "Przygotowujesz pliki do druku",
+   "Konserwujesz i naprawiasz prasy drukarskie"
+  ]
+ },
+ {
+  "id": 1377,
+  "name": "Pracownik poligraficzny – wykonywanie wydruków próbnych",
+  "desc": "Pracownicy poligraficzni wykonujący wydruki próbne wytwarzają odbitki próbne, czyli próbkę produktu gotowego. W wielu umowach na druk klient podejmuje na tym etapie decyzję, czy druk może nastąpić zgodnie z planem. Procesy drukowania na potrzeby wydruków próbnych różnią się od procesów stosowanych w procesie końcowym, dlatego odbitki próbne zawsze stanowią przybliżenie.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Drukujesz odbitki próbne z pliku klienta",
+   "Dopasowujesz kolory do przewidywanego efektu",
+   "Wyjaśniasz, czym próba różni się od końcowego druku",
+   "Przekazujesz uwagi klienta dalej"
+  ]
+ },
+ {
+  "id": 1378,
+  "name": "Specjalista wykonania form drukowych",
+  "desc": "Specjaliści wykonania form drukowych wytwarzają i przygotowują płyty metalowe używane jako oryginał w różnych procesach drukarskich i na różnych nośnikach. Płyty są zazwyczaj wycinane laserowo ze źródeł cyfrowych przy użyciu technologii „z komputera na płytę”, ale mogą być również wykonane poprzez nałożenie na płytę drukarską specjalnej emulsji.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Przesyłasz plik cyfrowy do urządzenia na płyty",
+   "Wycinasz laserem obraz na metalowej płycie",
+   "Nakładasz emulsję przy tradycyjnej metodzie",
+   "Sprawdzasz płytę przed oddaniem do druku"
+  ]
+ },
+ {
+  "id": 1379,
+  "name": "Specjalista wykonania form drukowych do sitodruku",
+  "desc": "Specjaliści wykonania form drukowych do sitodruku grawerują lub nacinają ekrany do druku na materiałach włókienniczych.",
+  "path": "Rzemiosło > Poligrafia i druk",
+  "tasks": [
+   "Przenosisz wzór na sito",
+   "Nacinasz lub grawerujesz wzór w sicie",
+   "Poprawiasz drobne błędy krawędzi",
+   "Sprawdzasz, czy sito jest gotowe do druku"
+  ]
+ }
+]

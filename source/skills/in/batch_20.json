@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1200,
+  "name": "Technik serwisant elektroniki użytkowej",
+  "desc": "Technicy serwisanci elektroniki użytkowej używają sprzętu elektrycznego do diagnozowania usterek i przeprowadzania testów funkcjonowania elektroniki użytkowej, takiej jak telewizory, systemy audio i wideo oraz kamery cyfrowe. Zapoznają się oni z instrukcjami producentów i przeprowadzają niezbędne naprawy lub wymiany.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Testujesz sprzęt i szukasz usterki",
+   "Czytasz instrukcje producenta",
+   "Wymieniasz uszkodzone elementy",
+   "Sprawdzasz, czy sprzęt działa po naprawie"
+  ]
+ },
+ {
+  "id": 1201,
+  "name": "Edukator pracy socjalnej",
+  "desc": "Edukatorzy pracy socjalnej uczą, nadzorują i oceniają studentów wykonujących prace społeczne przed uzyskaniem dyplomu, w trakcie jego trwania i po jego zakończeniu. Przyczyniają się do ich umieszczania i mają prawo polecać studentów na podstawie odpowiednich dowodów.",
+  "path": "Edukacja > Nauczyciele akademiccy",
+  "tasks": [
+   "Prowadzisz zajęcia ze studentami",
+   "Nadzorujesz ich praktyki w terenie",
+   "Oceniasz prace i postępy studentów",
+   "Polecasz studentów do miejsc praktyk"
+  ]
+ },
+ {
+  "id": 1202,
+  "name": "Twórca kursów online",
+  "desc": "Autorzy programów nauczania przez internet projektują i opracowują uproszczone formy naukowych treści cyfrowych, w tym materiałów referencyjnych, slajdów, ocen, screencastów, nagrań wideo i podcastów. Piszą i przekazują treść aplikacji do uczenia się w oparciu o komputer.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Piszesz treść lekcji i zadań",
+   "Nagrywasz wideo i podcasty",
+   "Projektujesz slajdy i materiały pomocnicze",
+   "Układasz testy sprawdzające wiedzę"
+  ]
+ },
+ {
+  "id": 1203,
+  "name": "Doradca edukacyjny",
+  "desc": "Doradcy edukacyjni zapewniają praktyczne i emocjonalne wsparcie dla uczniów w instytucji edukacyjnej – albo w małych grupach, albo w klasach, albo indywidualnie. Pełnią funkcję dostępnego urzędnika szkoły, z którym uczniowie mogą się kontaktować w wielu różnych sprawach. Doradcy edukacyjni mogą udzielać porad na temat problemów osobistych, takich jak integracja społeczna i kwestie behawioralne, oraz w kwestiach związanych ze szkołą, takich jak tworzenie odpowiednich programów nauczania, omawianie wyników testów i informowanie uczniów na temat dalszych możliwości edukacyjnych.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Rozmawiasz z uczniami o ich problemach",
+   "Omawiasz wyniki testów",
+   "Pomagasz dobrać odpowiedni program nauki",
+   "Informujesz o dalszych drogach kształcenia"
+  ]
+ },
+ {
+  "id": 1204,
+  "name": "Doradca edukacyjny i zawodowy",
+  "desc": "Doradcy edukacyjni i zawodowi pomagają studentom, na poziomie pomaturalnym, w rozpoznawaniu i osiąganiu celów edukacyjnych. Udzielają studentom porad w zakresie harmonogramu wyboru programów szkolnych, informują o ich wymaganiach oraz pomagają im w planowaniu kariery zawodowej. Doradcy edukacyjni i zawodowi omawiają również wyniki akademickie studentów i ich skutki oraz przedstawiają sugestie dotyczące usprawnień, w tym porady w zakresie nauki. Ściśle współpracują również z innymi administratorami i profesorami uniwersytetów oraz dbają o to, by były one aktualne w odniesieniu do uregulowań, programów lub wymogów na uniwersytetach.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Ustalasz ze studentem plan zajęć",
+   "Wyjaśniasz wymagania programów studiów",
+   "Omawiasz wyniki i podpowiadasz sposoby nauki",
+   "Pomagasz zaplanować karierę zawodową"
+  ]
+ },
+ {
+  "id": 1205,
+  "name": "Koordynator do spraw rekrutacji",
+  "desc": "Koordynatorzy do spraw rekrutacji są odpowiedzialni za wnioski i przyjmowanie uczniów do szkoły (prywatnej) lub uniwersytetu. W oparciu o przepisy i życzenia przyjęte przez radę dyrektorów i administrację szkolną oceniają ewentualne przyszłe kwalifikacje studentów, a następnie zatwierdzają lub odrzucają ich wniosek. Pomagają również zatwierdzonym studentom w zapisie na wybrane programy i zajęcia.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Czytasz wnioski i dokumenty kandydatów",
+   "Porównujesz je z regułami przyjęć",
+   "Zatwierdzasz lub odrzucasz wnioski",
+   "Pomagasz przyjętym zapisać się na zajęcia"
+  ]
+ },
+ {
+  "id": 1206,
+  "name": "Kurator penitencjarny",
+  "desc": "Kuratorzy penitencjarni szkolą przestępców, w tym więźniów, w temacie rehabilitacji społecznej i poprawczych zachowań. Pomagają więźniom w zdobywaniu umiejętności, które mogą ułatwić ich reintegrację społeczną i zwiększyć ich szanse na znalezienie zatrudnienia po zwolnieniu. Kuratorzy penitencjarni analizują indywidualne potrzeby uczniów w zakresie uczenia się, planują i przygotowują materiały i sesje dydaktyczne oraz aktualizują swoje zapisy edukacyjne. Zapewniają oni również, że obszar roboczy i materiały są wolne od niebezpieczeństwa i rozliczane, i nadzorują uczniów przez cały czas.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Oceniasz potrzeby uczenia się każdego więźnia",
+   "Planujesz zajęcia i przygotowujesz materiały",
+   "Uczysz umiejętności przydatnych po wyjściu",
+   "Pilnujesz bezpieczeństwa i liczysz materiały"
+  ]
+ },
+ {
+  "id": 1207,
+  "name": "Mentor edukacyjny",
+  "desc": "Mentorzy edukacyjni wspierają uczniów o gorszych wynikach, zarówno w klasie, jak i poza nią, w celu zwiększenia ich akademickiego sukcesu. Pomagają uczniom doświadczającym (wielu) niepowodzeń, takich jak trudności w uczeniu się, kwestie behawioralne i problemy z frekwencją, a także pomagają uzdolnionym uczniom, którzy chcą pracować więcej. Mogą również pracować z dorosłymi studentami w ramach systemu dalszego kształcenia. Mentorzy edukacyjni opracowują z uczniami harmonogramy i plany działania w celu zaplanowania niezbędnych działań mentorskich i monitorowania postępów.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Rozmawiasz z uczniem o trudnościach",
+   "Układasz harmonogram i plan działania",
+   "Wspierasz go w klasie i poza nią",
+   "Monitorujesz postępy z tygodnia na tydzień"
+  ]
+ },
+ {
+  "id": 1208,
+  "name": "Nauczyciel osób dorosłych/nauczycielka osób dorosłych",
+  "desc": "Nauczyciele osób dorosłych organizują programy przygotowane specjalnie dla uczących się dorosłych i uczą ich. Dotykają oni szerokiego spektrum tematów, począwszy od dziedzin akademickich, takich jak matematyka i historia, aż po szkolenia z zakresu rozwoju osobistego, wiedzy technicznej lub kursów praktycznych, takich jak języki i technologie informacyjno-telekomunikacyjne. Uczą i wspierają dorosłych pragnących poszerzać swoją wiedzę i umiejętności osobiste i zawodowe i/lub osiągać dalsze kwalifikacje. Nauczyciele osób dorosłych biorą pod uwagę wcześniejszą wiedzę oraz doświadczenie zawodowe i życiowe uczniów.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Układasz kurs dla dorosłej grupy",
+   "Prowadzisz zajęcia o praktycznych umiejętnościach",
+   "Odwołujesz się do doświadczeń uczestników",
+   "Wspierasz uczących się po zajęciach"
+  ]
+ },
+ {
+  "id": 1209,
+  "name": "Projektant materiałów szkoleniowych",
+  "desc": "Projektanci materiałów szkoleniowych opracowują materiały instruktażowe na potrzeby szkoleń z wykorzystaniem technologii multimedialnych i narzędzi projektowych. Ich celem jest stworzenie doświadczeń instruktażowych, które sprawią, że zdobywanie wiedzy i umiejętności stanie się bardziej wydajne, skuteczne i atrakcyjne.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Zamieniasz wiedzę fachową w lekcje",
+   "Projektujesz grafiki, filmy i ćwiczenia",
+   "Testujesz materiały na uczestnikach",
+   "Poprawiasz szkolenie po opiniach"
+  ]
+ },
+ {
+  "id": 1210,
+  "name": "Projektant systemów nauczania przez internet",
+  "desc": "Projektanci systemów nauczania przez internet określają cele i procedury dotyczące stosowania technologii uczenia się w ramach organizacji i tworzenia infrastruktury, która będzie wspierać te cele i procedury.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Określasz cele nauki online w organizacji",
+   "Ustalasz zasady korzystania z platformy",
+   "Planujesz infrastrukturę techniczną",
+   "Sprawdzasz, czy system wspiera cele"
+  ]
+ },
+ {
+  "id": 1211,
+  "name": "Specjalista do spraw studenckich",
+  "desc": "Specjaliści do spraw studenckich pomagają studentom w rozwiązywaniu problemów edukacyjnych i pełnią funkcję głównego punktu kontaktowego dla tych studentów. Zapewniają oni dodatkowe nauczanie i programy edukacyjne dla osób, które mają gorsze wyniki w kwestiach akademickich lub osobistych. Organizują również szereg działań społecznych przez cały rok akademicki.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Odpowiadasz na zgłoszenia studentów",
+   "Organizujesz dodatkowe zajęcia wyrównawcze",
+   "Planujesz wydarzenia społeczne",
+   "Kierujesz studentów do odpowiedniej pomocy"
+  ]
+ },
+ {
+  "id": 1212,
+  "name": "Trener wystąpień publicznych",
+  "desc": "Trenerzy wystąpień publicznych często prywatnie, przekazują klientom teorię i techniki na temat tego, w jaki sposób poprawić swoje umiejętności dotyczące wystąpień publicznych. Określają oni mocne i słabe strony każdego klienta oraz dostosowują swoje instrukcje do ich szczególnych potrzeb, co może obejmować poprawę sposobu mówienia, artykulacji, zdolności do prezentacji i mowy ciała klienta. W zależności od sytuacji klienta (praca w przedsiębiorstwie, szkolnictwie czy inne), trenerzy wystąpień publicznych zachęcają klientów lub studentów do technik przekonujących argumentów, mowy retorycznej i debaty.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Oceniasz mocne i słabe strony klienta",
+   "Ćwiczysz z nim artykulację i głos",
+   "Uczysz mowy ciała i prezentacji",
+   "Pokazujesz techniki argumentowania i debaty"
+  ]
+ },
+ {
+  "id": 1213,
+  "name": "Tutor/tutorka",
+  "desc": "Tutorzy zapewniają zindywidualizowane kształcenie dzieciom pracodawców lub osobom dorosłym, poza głównym systemem edukacji. Pomagają oni uczniom w zwiększaniu ich wiedzy i kompetencji w konkretnej dziedzinie, w ich własnym tempie. Tutorzy będą nauczać technik i strategii nauki w celu zapewnienia ich rozwoju akademickiego oraz ocenią postępy ucznia w trakcie sesji szkoleniowych.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Dobierasz materiał do poziomu ucznia",
+   "Tłumaczysz zagadnienie krok po kroku",
+   "Uczysz technik i strategii nauki",
+   "Oceniasz postępy w trakcie lekcji"
+  ]
+ },
+ {
+  "id": 1214,
+  "name": "Nauczyciel dzieci ze specjalnymi potrzebami edukacyjnymi w warunkach pozaszkolnych/nauczycielka dzieci ze specjalnymi potrzebami edukacyjnymi w warunkach pozaszkolnych",
+  "desc": "Nauczyciele dzieci ze specjalnymi potrzebami edukacyjnymi w warunkach pozaszkolnych uczą dzieci niepełnosprawne lub chore w ich domach. Są to wyspecjalizowani nauczyciele zatrudnieni w szkołach (publicznych), którzy uczą tych, którzy nie mogą uczęszczać do szkoły, ale również pomagają uczniowi, rodzicom i szkole w komunikacji. Pełnią również funkcję pracownika szkoły społecznej, pomagając uczniom i rodzicom w radzeniu sobie z potencjalnymi problemami behawioralnymi i w razie konieczności egzekwują przepisy dotyczące uczęszczania do szkoły.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Jeździsz do domów uczniów na lekcje",
+   "Dostosowujesz materiał do możliwości dziecka",
+   "Pośredniczysz między rodzicami a szkołą",
+   "Pomagasz rozwiązywać problemy z zachowaniem"
+  ]
+ },
+ {
+  "id": 1215,
+  "name": "Nauczyciel nauczania przedszkolnego dzieci ze specjalnymi potrzebami edukacyjnymi/nauczycielka nauczania przedszkolnego dzieci ze specjalnymi potrzebami edukacyjnymi",
+  "desc": "Nauczyciele nauczania przedszkolnego dzieci ze specjalnymi potrzebami edukacyjnymi uczą uczniów z różnymi rodzajami niepełnosprawności w specjalnie opracowany sposób na poziomie przedszkolnym i zapewniają, że osiągną swój potencjał nauki. Niektórzy nauczyciele nauczania przedszkolnego dzieci ze specjalnymi potrzebami edukacyjnymi pracują z dziećmi, które doświadczają łagodnej i umiarkowanej niepełnosprawności, wdrażając zmodyfikowany program nauczania w celu dostosowania ich do specyficznych potrzeb każdego ucznia.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Prowadzisz zabawy edukacyjne w małej grupie",
+   "Dostosowujesz program do potrzeb dziecka",
+   "Ćwiczysz z dziećmi podstawowe umiejętności",
+   "Obserwujesz, co dziecko już potrafi"
+  ]
+ },
+ {
+  "id": 1216,
+  "name": "Nauczyciel osób ze specjalnymi potrzebami edukacyjnymi w szkole podstawowej/nauczycielka osób ze specjalnymi potrzebami edukacyjnymi w szkole podstawowej",
+  "desc": "Nauczyciele osób ze specjalnymi potrzebami edukacyjnymi zapewniają specjalnie opracowane lekcje dla uczniów o różnym stopniu niepełnosprawności na poziomie szkoły podstawowej i zapewniają im możliwość uczenia się. Niektórzy nauczyciele osób ze specjalnymi potrzebami edukacyjnymi w szkole podstawowej pracują z dziećmi, które doświadczają łagodnej i umiarkowanej niepełnosprawności, wdrażając zmodyfikowany program nauczania w celu dostosowania ich do specyficznych potrzeb każdego ucznia.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Układasz lekcje dopasowane do możliwości uczniów",
+   "Modyfikujesz program nauczania dla dziecka",
+   "Uczysz czytania, liczenia i pisania",
+   "Sprawdzasz, co uczeń opanował"
+  ]
+ },
+ {
+  "id": 1217,
+  "name": "Nauczyciel osób ze specjalnymi potrzebami edukacyjnymi w szkole ponadpodstawowej/nauczycielka osób ze specjalnymi potrzebami edukacyjnymi w szkole ponadpodstawowej",
+  "desc": "Nauczyciele osób ze specjalnymi potrzebami edukacyjnymi w szkole ponadpodstawowej przygotowują specjalnie opracowane zajęcia dla uczniów o różnych formach niepełnosprawności na poziomie szkoły ponadpodstawowej i zapewniają im możliwość uczenia się. Niektórzy nauczyciele osób ze specjalnymi potrzebami edukacyjnymi pracują z dziećmi, które doświadczają łagodnej i umiarkowanej niepełnosprawności, wdrażając zmodyfikowany program nauczania w celu dostosowania ich do specyficznych potrzeb każdego ucznia.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Przygotowujesz lekcje dla nastolatków z różnymi potrzebami",
+   "Upraszczasz materiał, ale nie traktujesz ich jak dzieci",
+   "Modyfikujesz program do możliwości ucznia",
+   "Oceniasz postępy uczniów w nauce"
+  ]
+ },
+ {
+  "id": 1218,
+  "name": "Nauczyciel umiejętności czytania i pisania dla osób dorosłych/nauczycielka umiejętności czytania i pisania dla osób dorosłych",
+  "desc": "Nauczyciele umiejętności czytania i pisania dla osób dorosłych prowadzą szkolenia dla dorosłych uczniów, w tym niedawnych imigrantów i osób przedwcześnie kończących naukę szkolną, w podstawowym zakresie umiejętności czytania i pisania, zwykle na poziomie szkoły podstawowej. Nauczyciele umiejętności czytania i pisania dla osób dorosłych angażują uczniów w planowanie i wykonywanie czynności w zakresie czytania, a także oceniają je indywidualnie za pomocą zadań i egzaminów.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Uczysz dorosłych liter i prostych tekstów",
+   "Planujesz z uczniami czytanie",
+   "Dobierasz teksty z życia codziennego",
+   "Sprawdzasz postępy zadaniami i egzaminami"
+  ]
+ },
+ {
+  "id": 1219,
+  "name": "Nauczyciel wsparcia dzieci w uczeniu się/nauczycielka wsparcia dzieci w uczeniu się",
+  "desc": "Nauczyciele wsparcia dzieci w uczeniu się pomagają uczniom mającym ogólne trudności w uczeniu się. Nauczyciele wsparcia dzieci w uczeniu się skupiają się na podstawowych umiejętności, takich jak umiejętność liczenia i czytania, a tym samym uczą podstawowych przedmiotów, takich jak pisanie, czytanie, matematyka i języki, oraz pracują dla instytucji edukacyjnej, takiej jak szkoła podstawowa lub średnia. Wspierają uczniów w ich pracy szkolnej, opracowują strategie uczenia się, określają ich potrzeby i postęp w zakresie uczenia się, a także podejmują odpowiednie działania.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Ćwiczysz z uczniem czytanie i liczenie",
+   "Wymyślasz strategie uczenia się",
+   "Określasz potrzeby i postępy ucznia",
+   "Wspierasz go przy pracy szkolnej"
+  ]
+ },
+ {
+  "id": 1220,
+  "name": "Nauczyciel uczniów szczególnie uzdolnionych/nauczycielka uczniów szczególnie uzdolnionych",
+  "desc": "Nauczyciele uczniów szczególnie uzdolnionych zapewniają odpowiednią edukację utalentowanym i uzdolnionym uczniom, często dzieciom i nastolatkom, na różnych poziomach. Nadzorują wdrażanie polityki szkolnej osób uzdolnionych, monitorują postępy uczniów i proponują dodatkowe działania w celu wydłużenia i stymulacji.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Proponujesz dodatkowe, trudniejsze zadania",
+   "Pilnujesz zasad pracy z uzdolnionymi",
+   "Obserwujesz postępy utalentowanych uczniów",
+   "Organizujesz zajęcia rozszerzające wiedzę"
+  ]
+ },
+ {
+  "id": 1221,
+  "name": "Nauczyciel fotografii/nauczycielka fotografii",
+  "desc": "Nauczyciele fotografii instruują uczniów w zakresie różnych technik i stylów fotografowania, takich jak: portret (grupowy), zdjęcia natury, podróże, makro, podwodne, czarno-białe, panoramiczne, zdjęcia w ruchu itp. Przekazują uczniom historię fotografii, ale przede wszystkim koncentrują się na praktycznym podejściu do swoich kursów, w ramach których pomagają uczniom w eksperymentowaniu z różnymi technikami fotograficznymi oraz w ich opanowaniu, a także zachęcają do rozwijania własnego stylu fotografii. Nauczyciele fotografii monitorują postępy uczniów i przygotowują wystawy, aby pokazać społeczeństwu pracę uczniów.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Pokazujesz techniki portretu, makro i zdjęć w ruchu",
+   "Prowadzisz uczniów na zdjęcia w plener",
+   "Oceniasz postępy uczniów",
+   "Przygotowujesz wystawę prac kursantów"
+  ]
+ },
+ {
+  "id": 1222,
+  "name": "Nauczyciel sztuk wizualnych/nauczycielka sztuk wizualnych",
+  "desc": "Nauczyciele sztuk wizualnych instruują uczniów w różnych stylach sztuk wizualnych, takich jak rysowanie, malowanie i rzeźbienie, w kontekście rekreacyjnym. Przekazują uczniom przegląd historii sztuki, ale przede wszystkim koncentrują się na praktycznym podejściu do swoich kursów, w ramach których pomagają uczniom eksperymentować z różnymi technikami artystycznymi oraz pomagają je opanować, a także zachęcają do rozwijania własnego stylu.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Pokazujesz techniki rysunku i malarstwa",
+   "Uczysz podstaw rzeźbienia",
+   "Opowiadasz o historii sztuki na przykładach",
+   "Pomagasz uczestnikom znaleźć własny styl"
+  ]
+ },
+ {
+  "id": 1223,
+  "name": "Nauczyciel sztuki cyrkowej/nauczycielka sztuki cyrkowej",
+  "desc": "Nauczyciele sztuki cyrkowej instruują uczniów w kontekście rekreacyjnym w ramach różnych technik cyrkowych i występów, takich jak: trapezy, żonglerka, sztuka mima, akrobatyka, pokazy z obręczami, lina do akrobacji, manipulacja przedmiotami, sztuczki na monocyklu itp. Przekazują uczniom historię i repertuar cyrkowy, ale przede wszystkim koncentrują się na praktycznym podejściu do swoich kursów, w ramach których pomagają uczniom w eksperymentowaniu z różnymi technikami cyrkowymi i technikami cyrkami oraz w ich opanowaniu, a także zachęcają ich do rozwijania własnego stylu.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Pokazujesz wolno ruch żonglerski krok po kroku",
+   "Asekurujesz uczniów przy akrobatyce i trapezie",
+   "Opowiadasz o historii cyrku i znanych numerach",
+   "Pomagasz każdemu wymyślić własny numer"
+  ]
+ },
+ {
+  "id": 1224,
+  "name": "Nauczyciel tańca/nauczycielka tańca",
+  "desc": "Nauczyciele tańca instruują uczniów w kontekście rekreacji w różnych rodzajach i formach tańca, takich jak balet, jazz, stepowanie, taniec towarzyski, hip-hop, taniec latynoamerykański, taniec ludowy itp. Przekazują uczniom historię i repertuar taneczny, ale przede wszystkim koncentrują się na praktycznym podejściu do swoich kursów, w ramach których pomagają uczniom w eksperymentowaniu z różnymi tańcami oraz w ich opanowaniu, a także zachęcają do opracowania własnego stylu. Prowadzą, układają choreografię i produkują występy oraz koordynują produkcję techniczną i scenografię, rekwizyty i korzystanie ze strojów na scenie.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Pokazujesz kroki i liczysz takt na głos",
+   "Układasz choreografię do wybranej muzyki",
+   "Poprawiasz postawę i ruchy uczniów",
+   "Koordynujesz stroje, rekwizyty i scenografię przed występem"
+  ]
+ },
+ {
+  "id": 1225,
+  "name": "Nauczyciel technik teatralnych/nauczycielka technik teatralnych",
+  "desc": "Nauczyciele technik teatralnych instruują uczniów w kontekście rekreacji w różnych rodzajach teatralnych i w formach ekspresji w teatrze, takich jak komedia, tragedia, proza, poezja, improwizacja, monologi, dialogi itp. Przekazują uczniom historię teatru, ale przede wszystkim koncentrują się na praktycznym podejściu do swoich kursów, w ramach których pomagają uczniom w eksperymentowaniu z różnymi stylami i technikami ekspresji oraz w ich opanowaniu, a także zachęcają uczniów do rozwijania własnego stylu.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Prowadzisz ćwiczenia z głosem i oddechem",
+   "Uczysz improwizować krótkie scenki",
+   "Pracujesz z uczniami nad monologiem lub dialogiem",
+   "Pokazujesz różnicę między komedią a tragedią w graniu"
+  ]
+ },
+ {
+  "id": 1226,
+  "name": "Doradca do spraw doskonalenia procesów edukacyjnych",
+  "desc": "Doradcy do spraw doskonalenia procesów edukacyjnych wykonują badania w dziedzinie edukacji. Dążą do poszerzenia wiedzy na temat tego, jak procesy edukacyjne, systemy edukacyjne i osoby (nauczyciele i osoby uczące się) pracują. Przewidują obszary, w których można wprowadzić ulepszenia i opracowują plany wdrożenia innowacji. Doradzają pracodawcom i decydentom w kwestiach związanych z edukacją i pomagają w planowaniu polityki edukacyjnej.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Zbierasz dane o tym, jak przebiega nauka",
+   "Analizujesz, co w szkołach działa gorzej",
+   "Piszesz raporty z propozycjami zmian",
+   "Doradzasz urzędnikom i pracodawcom w sprawach edukacji"
+  ]
+ },
+ {
+  "id": 1227,
+  "name": "Koordynator do spraw specjalnych potrzeb edukacyjnych",
+  "desc": "Koordynatorzy do spraw specjalnych potrzeb edukacyjnych nadzorują programy i działania, które zapewniają wsparcie edukacyjne dzieciom z różnego rodzaju niepełnosprawnościami. Zapewniają , że są one aktualne wraz z najnowszymi opracowaniami w dziedzinie badań specjalnych w celu ułatwienia specjalnych procesów kształcenia niezbędnych do maksymalnego zwiększenia potencjału nauki u uczniów ze specjalnymi potrzebami edukacyjnymi oraz doradzają dyrektorowi szkolnictwa specjalnego odniesieniu do tych opracowań i nowych propozycji programów.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Sprawdzasz, jakiej pomocy potrzebują poszczególni uczniowie",
+   "Nadzorujesz programy wsparcia w szkole",
+   "Śledzisz nowe badania o specjalnych potrzebach",
+   "Doradzasz dyrektorowi w sprawie nowych programów"
+  ]
+ },
+ {
+  "id": 1228,
+  "name": "Specjalista do spraw programowych i dydaktycznych",
+  "desc": "Specjaliści do spraw programowych i dydaktycznych opracowują i doskonalą programy nauczania instytucji edukacyjnych. Analizują jakość istniejących programów nauczania i pracują na rzecz ulepszeń. Komunikują się z profesjonalistami z dziedziny edukacji w celu zapewnienia dokładnej analizy. Składają sprawozdania na temat zmian w programie nauczania i wykonują obowiązki administracyjne.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Analizujesz jakość obecnych programów nauczania",
+   "Rozmawiasz z nauczycielami o tym, co nie działa",
+   "Piszesz poprawione plany zajęć",
+   "Przygotowujesz sprawozdania ze zmian w programie"
+  ]
+ },
+ {
+  "id": 1229,
+  "name": "Wizytator",
+  "desc": "Wizytatorzy odwiedzają szkoły, aby zapewnić, że pracownicy wykonują swoje zadania zgodnie z zasadami i przepisami edukacyjnymi, a także nadzorują, czy administracja szkoły, jej obiekty i wyposażenie są zgodne z przepisami. Obserwują zajęcia i oceniają zapisy, aby ocenić funkcjonowanie szkoły i sporządzają sprawozdania z ich wyników. Przekazują informacje zwrotne i udzielają porad na temat usprawnień, a także przedstawiają wyniki wyższym urzędnikom. Czasem przygotowują również kursy szkoleniowe i organizują konferencje, w których powinni uczestniczyć nauczyciele.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Obserwujesz lekcje, siedząc z tyłu klasy",
+   "Sprawdzasz dokumenty, wyposażenie i przepisy w szkole",
+   "Piszesz sprawozdanie z wizyty dla przełożonych",
+   "Dajesz nauczycielom uwagi i porady"
+  ]
+ },
+ {
+  "id": 1230,
+  "name": "Instruktor obsługi technologii informacyjno-telekomunikacyjnych",
+  "desc": "Instruktorzy obsługi technologii informacyjno-telekomunikacyjnych prowadzą analizę potrzeb szkoleniowych i opracowują programy szkoleń dla uczniów w zakresie korzystania z pakietów oprogramowania i systemów informacyjnych. Tworzą i aktualizują istniejące materiały szkoleniowe (treść i metoda), prowadzą skuteczne szkolenia w klasie, w internecie lub w sposób nieformalny, monitorują, oceniają i informują o skuteczności szkoleń. Podtrzymują i uaktualniają wiedzę fachową na temat specjalistycznych przedmiotów technologii informacyjno-telekomunikacyjnych oraz oceniają i tworzą raporty na temat wyników uczniów.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Badasz, czego uczestnicy szkolenia jeszcze nie umieją",
+   "Układasz plan szkolenia i materiały",
+   "Prowadzisz zajęcia w sali lub przez internet",
+   "Sprawdzasz postępy uczestników i piszesz raport"
+  ]
+ },
+ {
+  "id": 1231,
+  "name": "Nauczyciel umiejętności cyfrowych/nauczycielka umiejętności cyfrowych",
+  "desc": "Nauczyciele umiejętności cyfrowych instruują uczniów w teorii i praktyce z (podstawowego) korzystania z komputerów. Uczą uczniów umiejętności cyfrowych i, opcjonalnie, bardziej zaawansowanych zasad informatyki. Przekazują uczniom wiedzę na temat programów komputerowych i zapewniają, że sprzęt komputerowy jest właściwie wykorzystywany. Nauczyciele umiejętności cyfrowych tworzą i zmieniają treść i zadania kursu oraz aktualizują je w zależności od rozwoju technologicznego.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Pokazujesz, jak obsługiwać mysz, klawiaturę i pliki",
+   "Tłumaczysz zasady bezpiecznego korzystania z internetu",
+   "Tworzysz ćwiczenia dla początkujących",
+   "Zmieniasz kurs, gdy pojawiają się nowe technologie"
+  ]
+ },
+ {
+  "id": 1232,
+  "name": "Lektor języka migowego/lektorka języka migowego",
+  "desc": "Nauczyciele języka migowego edukują uczniów bez podziału wiekowego na temat języka migowego. Uczą języka migowego zarówno uczniów wymagających specjalnych potrzeb edukacyjnych, jak i tych bez takich potrzeb (np. głuchota). Organizują swoje zajęcia z wykorzystaniem szeregu materiałów lekcyjnych, współpracują ze sobą w ramach grupy, a także oceniają ich indywidualne postępy poprzez zadania i egzaminy.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Pokazujesz znaki i prosisz o ich powtórzenie",
+   "Ćwiczysz z grupą krótkie rozmowy na migi",
+   "Przygotowujesz materiały: filmy, obrazki, ćwiczenia",
+   "Oceniasz postępy zadaniami i egzaminem"
+  ]
+ },
+ {
+  "id": 1233,
+  "name": "Instruktor personelu pokładowego",
+  "desc": "Instruktorzy personelu pokładowego uczą stażystów wszystkich spraw dotyczących operacji w kabinie lotniczej. Uczą, w zależności od typu samolotu, czynności przeprowadzanych na pokładzie samolotu, kontroli przed lotem i po jego zakończeniu, procedur bezpieczeństwa, sprzętu roboczego oraz procedur i formalności związanych z obsługą klienta.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Uczysz procedur bezpieczeństwa i ewakuacji",
+   "Pokazujesz obsługę sprzętu ratunkowego na pokładzie",
+   "Ćwiczysz kontrolę kabiny przed lotem i po nim",
+   "Uczysz obsługi pasażerów w trudnych sytuacjach"
+  ]
+ },
+ {
+  "id": 1234,
+  "name": "Instruktor szkolenia kierowców zawodowych",
+  "desc": "Instruktorzy szkolenia kierowców zawodowych uczą kierowców zawodowych, w jaki sposób prowadzić pojazdy zgodnie z przepisami prawa jazdy. Uczą oni teorii i technik studentów na temat sposobów optymalnego kierowania i konserwacji konkretnego pojazdu, obserwują i oceniają praktykę studentów. Koncentrują się również na kwestiach niezwiązanych z prowadzeniem, takich jak obsługa klienta (w przypadku kierowców przewożących osoby) i przepisy dotyczące środków bezpieczeństwa.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Tłumaczysz przepisy i zasady jazdy zawodowej",
+   "Siedzisz obok kursanta i oceniasz jazdę",
+   "Pokazujesz podstawową obsługę pojazdu",
+   "Uczysz kontaktu z pasażerami i przepisów bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 1235,
+  "name": "Instruktor szkolenia maszynistów pojazdów trakcyjnych",
+  "desc": "Instruktorzy szkolenia maszynistów pojazdów trakcyjnych uczą przyszłych zawodowych kierowców transportu kolejowego, takich jak maszyniści pociągów, motorniczych, kierowców metro i trolejbusów obsługi pojazdów kolejowych zgodnie z przepisami. Uczą oni teorii i technik studentów na temat sposobów optymalnego kierowania i konserwacji konkretnego pojazdu kolejowego, obserwują i oceniają praktykę studentów. Koncentrują się również na kwestiach niezwiązanych z prowadzeniem, takich jak obsługa klienta (przewozu osób) i przepisy dotyczące środków bezpieczeństwa.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Tłumaczysz sygnały i przepisy ruchu kolejowego",
+   "Pokazujesz, jak ruszać i hamować płynnie",
+   "Obserwujesz jazdę kursanta i notujesz błędy",
+   "Uczysz zasad bezpieczeństwa i kontaktu z pasażerami"
+  ]
+ },
+ {
+  "id": 1236,
+  "name": "Instruktor szkolenia pilotów morskich i żeglugi śródlądowej",
+  "desc": "Instruktorzy szkolenia pilotów morskich i żeglugi śródlądowej uczą wszystkie osoby pilotujące łódź lub statek, takie jak szyprzy i kapitanowie statków, w jaki sposób mogą eksploatować swoje łodzie śródlądowe lub statki morskie zgodnie z przepisami. Uczą oni teorii i technik na temat sposobów optymalnego pilotażu, kierowania i żeglowania oraz konserwacji konkretnej łodzi lub statku, obserwują i oceniają praktykę studentów. Koncentrują się również na kwestiach niezwiązanych z kierowaniem, takich jak obsługa klienta (w przypadku przewozu osób) i przepisy dotyczące środków bezpieczeństwa.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Tłumaczysz przepisy żeglugi i zasady nawigacji",
+   "Pokazujesz, jak sterować i konserwować łódź lub statek",
+   "Obserwujesz praktykę kursanta na wodzie",
+   "Uczysz zasad bezpieczeństwa i obsługi pasażerów"
+  ]
+ },
+ {
+  "id": 1237,
+  "name": "Instruktor szkolenia w zakresie kontroli ruchu lotniczego",
+  "desc": "Instruktorzy szkolenia w zakresie kontroli ruchu lotniczego szkolą osoby we wszystkich sprawach dotyczących operacji powietrznych takich jak zarządzanie ruchem lotniczym i komunikacja w zakresie nawigacji na lotniskach. Uczą oni wszystkich dyrektyw wydawanych w ramach kontroli ruchu lotniczego w celu przekazywania stażystom poczucia bezpieczeństwa i sprawnego przepływu ruchu lotniczego.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Uczysz dyrektyw wydawanych przez kontrolę ruchu",
+   "Ćwiczysz z kursantami rozmowy z pilotami",
+   "Tłumaczysz zasady nawigacji na lotnisku",
+   "Sprawdzasz, czy kursant zachowuje spokój i precyzję"
+  ]
+ },
+ {
+  "id": 1238,
+  "name": "Instruktor szkolenia w zakresie pomocy pielęgniarskiej i położnictwa",
+  "desc": "Instruktorzy szkolenia w zakresie pomocy pielęgniarskiej i położnictwa instruują uczniów w swojej specjalistycznej dziedzinie nauki, pomocy pielęgniarskiej i położnictwa, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować. Instruktorzy szkolenia w zakresie pomocy pielęgniarskiej i położnictwa monitorują postępy uczniów, w razie konieczności indywidualnie pomagają i oceniają ich wiedzę i wyniki w dziedzinie pomocy pielęgniarskiej i położnictwa, dzięki zadaniom, testom i egzaminom.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Tłumaczysz techniki opieki nad pacjentem",
+   "Pokazujesz zabiegi na fantomie",
+   "Pomagasz indywidualnie uczniom, którym coś nie wychodzi",
+   "Oceniasz wiedzę testami i egzaminem praktycznym"
+  ]
+ },
+ {
+  "id": 1239,
+  "name": "Instruktor szkolenia wojskowego służby przygotowawczej i oficerskiej",
+  "desc": "Instruktorzy szkolenia wojskowego służby przygotowawczej i oficerskiej szkolą i uczą nowych rekrutów akademii, czyli kadetów z teorii i praktyki niezbędnej do stania się żołnierzem lub oficerem wojskowym, a także sami muszą posiadać doświadczenie jako oficer wojskowy jako wymóg prowadzenia szkolenia. Przygotowują i prezentują teoretyczne kursy i materiały podczas szkolenia w dziedzinach takich jak prawo, przepisy krajowe i międzynarodowe, modele obrony i ataku, sprawy światowe itd.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Prowadzisz wykłady o prawie krajowym i międzynarodowym",
+   "Omawiasz modele obrony i ataku",
+   "Tłumaczysz, co dzieje się w sprawach światowych",
+   "Przygotowujesz materiały i kursy dla kadetów"
+  ]
+ },
+ {
+  "id": 1240,
+  "name": "Nauczyciel akademicki wzornictwa i sztuki użytkowej",
+  "desc": "Nauczyciele akademiccy wzornictwa i sztuki użytkowej instruują uczniów w swojej specjalistycznej dziedzinie nauki, wzornictwa i sztuki użytkowej, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie wzornictwa i sztuki użytkowej, w przypadku zawodów takich jak grafik czy projektant wnętrz.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Tłumaczysz zasady projektowania grafiki i wnętrz",
+   "Pokazujesz techniki rysunku i projektu",
+   "Oceniasz prace studentów i omawiasz poprawki",
+   "Układasz zadania projektowe na semestr"
+  ]
+ },
+ {
+  "id": 1241,
+  "name": "Nauczyciel kształcenia zawodowego w dziedzinie fryzjerstwa",
+  "desc": "Nauczyciele kształcenia zawodowego w zakresie fryzjerstwa instruują uczniów w swojej specjalistycznej dziedzinie nauki, fryzjerstwa, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować. Nauczyciele kształcenia zawodowego w zakresie fryzjerstwa monitorują postępy uczniów, w razie konieczności indywidualnie pomagają i oceniają ich wiedzę i wyniki w dziedzinie fryzjerstwa, dzięki testom i egzaminom.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Pokazujesz cięcie i modelowanie na główce treningowej",
+   "Tłumaczysz teorię fryzjerstwa przed praktyką",
+   "Poprawiasz chwyt nożyczek i ruchy ucznia",
+   "Oceniasz wiedzę i umiejętności testem i egzaminem"
+  ]
+ },
+ {
+  "id": 1242,
+  "name": "Nauczyciel kształcenia zawodowego w zakresie biznesu i marketingu",
+  "desc": "Nauczyciele kształcenia zawodowego w zakresie biznesu i marketingu instruują uczniów w swojej specjalistycznej dziedzinie nauki, sprzedaży i marketingu, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie sprzedaży i marketingu. Nauczyciele kształcenia zawodowego w zakresie biznesu i marketingu monitorują postępy uczniów, w razie konieczności indywidualnie pomagają i oceniają ich wiedzę i wyniki w dziedzinie sprzedaży i marketingu, dzięki zadaniom, testom i egzaminom.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Tłumaczysz techniki sprzedaży i obsługi klienta",
+   "Układasz zadania z reklamy i promocji",
+   "Prowadzisz scenki sprzedaży z udziałem uczniów",
+   "Oceniasz wiedzę zadaniami, testami i egzaminem"
+  ]
+ },
+ {
+  "id": 1243,
+  "name": "Nauczyciel kształcenia zawodowego w zakresie elektroniki i automatyki/nauczycielka kształcenia zawodowego w zakresie elektroniki i automatyki",
+  "desc": "Nauczyciele kształcenia zawodowego w zakresie elektroniki i automatyki instruują uczniów w swojej specjalistycznej dziedzinie nauki, obsługi podróży i elektroniki i automatyki, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie elektroniki automatyki, w przypadku zawodów takich jak elektryk lub technik zaangażowany w procesy produkcji zautomatyzowanej.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Tłumaczysz schematy układów elektronicznych",
+   "Pokazujesz montaż i sprawdzanie prostych układów",
+   "Pokazujesz, jak zastosować teorię w pracy elektryka",
+   "Układasz ćwiczenia z automatyki procesów produkcyjnych"
+  ]
+ },
+ {
+  "id": 1244,
+  "name": "Nauczyciel kształcenia zawodowego w zakresie gastronomii/nauczycielka kształcenia zawodowego w zakresie gastronomii",
+  "desc": "Nauczyciele kształcenia zawodowego w zakresie gastronomii instruują uczniów w swojej specjalistycznej dziedzinie nauki, gastronomii, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie gastronomii. Nauczyciele kształcenia zawodowego w zakresie gastronomii monitorują postępy uczniów, w razie konieczności indywidualnie pomagają i oceniają ich wiedzę i wyniki w dziedzinie gastronomii, dzięki praktykom, zadaniom, testom i egzaminom.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Pokazujesz techniki przygotowania potraw",
+   "Tłumaczysz zasady higieny w kuchni",
+   "Pilnujesz uczniów przy pracy na stanowiskach",
+   "Oceniasz praktyki, zadania i egzaminy"
+  ]
+ },
+ {
+  "id": 1245,
+  "name": "Nauczyciel kształcenia zawodowego w zakresie hotelarstwa/nauczycielka kształcenia zawodowego w zakresie hotelarstwa",
+  "desc": "Nauczyciele kształcenia zawodowego w zakresie hotelarstwa uczą uczniów w swojej specjalistycznej dziedzinie nauki, hotelarstwie, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie hotelarstwa, w przypadku zawodów takich jak recepcjonista hotelowy i pokojówka. Nauczyciele kształcenia zawodowego w zakresie hotelarstwa monitorują postępy uczniów, w razie konieczności indywidualnie pomagają i oceniają ich wiedzę i wyniki w dziedzinie hotelarstwa, dzięki zadaniom, testom i egzaminom.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Pokazujesz, jak zameldować gościa w recepcji",
+   "Uczysz przygotowania pokoju do przyjazdu gości",
+   "Ćwiczysz z uczniami scenki z trudnym klientem",
+   "Oceniasz wiedzę zadaniami, testami i egzaminem"
+  ]
+ },
+ {
+  "id": 1246,
+  "name": "Nauczyciel kształcenia zawodowego w zakresie kosmetyki upiększającej/nauczycielka kształcenia zawodowego w zakresie kosmetyki upiększającej",
+  "desc": "Nauczyciele kształcenia zawodowego w zakresie kosmetyki upiększającej instruują uczniów w swojej specjalistycznej dziedzinie nauki, kosmetyki upiększającej, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie kosmetologii, w przypadku zawodów takich jak manikiurzystka czy wizażystka i stylistka fryzur.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Pokazujesz zabieg krok po kroku",
+   "Uczysz doboru kolorów i techniki makijażu",
+   "Tłumaczysz teorię kosmetologii",
+   "Poprawiasz ruchy ucznia na modelu"
+  ]
+ },
+ {
+  "id": 1247,
+  "name": "Nauczyciel kształcenia zawodowego w zakresie laboratoryjnej technologii medycznej/nauczycielka kształcenia zawodowego w zakresie laboratoryjnej technologii medycznej",
+  "desc": "Nauczyciele kształcenia zawodowego w zakresie laboratoryjnej technologii medycznej instruują uczniów w swojej specjalistycznej dziedzinie nauki, laboratoryjnej technologii medycznej, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie laboratoryjnej technologii medycznej.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Tłumaczysz teorię badań laboratoryjnych",
+   "Pokazujesz technikę pracy z próbkami",
+   "Pilnujesz zasad czystości i bezpieczeństwa w pracowni",
+   "Oceniasz wiedzę uczniów zadaniami i testami"
+  ]
+ },
+ {
+  "id": 1248,
+  "name": "Nauczyciel kształcenia zawodowego w zakresie rolnictwa, leśnictwa i rybołówstwa/nauczycielka kształcenia zawodowego w zakresie rolnictwa, leśnictwa i rybołówstwa",
+  "desc": "Nauczyciele kształcenia zawodowego w zakresie rolnictwa, leśnictwa i rybołówstwa instruują uczniów w swojej specjalistycznej dziedzinie nauki, rolnictwie, leśnictwie i rybołówstwie, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie rolnictwa, leśnictwa i rybołówstwa.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Tłumaczysz podstawy uprawy roślin i gospodarki leśnej",
+   "Pokazujesz praktyczne techniki pracy w terenie",
+   "Uczysz rozpoznawać rośliny, drzewa i zwierzęta",
+   "Oceniasz wiedzę i umiejętności uczniów"
+  ]
+ },
+ {
+  "id": 1249,
+  "name": "Nauczyciel kształcenia zawodowego w zakresie sztuki użytkowej/nauczycielka kształcenia zawodowego w zakresie sztuki użytkowej",
+  "desc": "Nauczyciele kształcenia zawodowego w zakresie sztuki użytkowej instruują uczniów w swojej specjalistycznej dziedzinie nauki, sztuki użytkowej, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie sztuki użytkowej, w przypadku zawodów takich jak cieśla czy blacharz budowlany. Nauczyciele kształcenia zawodowego w zakresie sztuki użytkowej monitorują postępy uczniów, w razie konieczności indywidualnie pomagają i oceniają ich wiedzę i wyniki w dziedzinie sztuki użytkowej, dzięki zadaniom, testom i egzaminom.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Pokazujesz obróbkę drewna i blachy",
+   "Uczysz czytać rysunki techniczne i mierzyć",
+   "Pilnujesz bezpiecznego używania narzędzi",
+   "Oceniasz wykonane prace, zadania i testy"
+  ]
+ },
+ {
+  "id": 1250,
+  "name": "Nauczyciel kształcenia zawodowego w zakresie zarządzania biznesem/nauczycielka kształcenia zawodowego w zakresie zarządzania biznesem",
+  "desc": "Nauczyciele kształcenia zawodowego w zakresie zarządzania biznesem instruują uczniów w swojej specjalistycznej dziedzinie nauki, zarządzania biznesem, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie zarządzania, w przypadku zawodów takich jak księgowy czy bankier. Nauczyciele kształcenia zawodowego w zakresie zarządzania biznesem monitorują postępy uczniów, w razie konieczności indywidualnie pomagają i oceniają ich wiedzę i wyniki w dziedzinie zarządzania biznesem, dzięki praktykom, zadaniom, testom i egzaminom.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Tłumaczysz podstawy księgowości i finansów firmy",
+   "Układasz przykłady z życia firmy do ćwiczeń",
+   "Sprawdzasz zadania i wskazujesz błędy w rachunkach",
+   "Oceniasz wiedzę testami i praktyką"
+  ]
+ },
+ {
+  "id": 1251,
+  "name": "Nauczyciel kształcenia zawodowego – elektrotechnika i energetyka/nauczycielka kształcenia zawodowego – elektrotechnika i energetyka",
+  "desc": "Nauczyciele kształcenia zawodowego w zakresie elektrotechniki i energetyki instruują uczniów w swojej specjalistycznej dziedzinie nauki – elektrotechnice i energetyce, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie elektrotechniki i energii. Nauczyciele kształcenia zawodowego w zakresie elektrotechniki i energetyki monitorują postępy uczniów, w razie konieczności indywidualnie pomagają i oceniają ich wiedzę i wyniki w dziedzinie elektrotechniki i energetyki, dzięki zadaniom, testom i egzaminom.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Tłumaczysz zasady działania instalacji",
+   "Pokazujesz uczniom ćwiczenia na stanowisku",
+   "Poprawiasz błędy w wykonaniu zadań",
+   "Układasz testy i oceniasz egzaminy"
+  ]
+ },
+ {
+  "id": 1252,
+  "name": "Nauczyciel kształcenia zawodowego/nauczycielka kształcenia zawodowego",
+  "desc": "Nauczyciele kształcenia zawodowego instruują uczniów w swojej specjalistycznej dziedzinie nauki, kształcenia zawodowego, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w ramach wyspecjalizowanego zawodu i pomagają przy opracowywaniu podejścia do pracy i wartości. Nauczyciele kształcenia zawodowego monitorują postępy uczniów, w razie konieczności indywidualnie pomagają i oceniają ich wiedzę i wyniki w dziedzinie dzięki zadaniom, testom i egzaminom.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Przekazujesz teorię potrzebną w zawodzie",
+   "Pokazujesz technikę i patrzysz, jak uczniowie ją powtarzają",
+   "Pomagasz indywidualnie tym, którym nie wychodzi",
+   "Oceniasz zadania, testy i egzaminy"
+  ]
+ },
+ {
+  "id": 1253,
+  "name": "Wykładowca kształcenia zawodowego w zakresie obsługi podróży i turystyki",
+  "desc": "Wykładowcy kształcenia zawodowego w zakresie obsługi podróży i turystyki instruują uczniów w swojej specjalistycznej dziedzinie nauki, obsługi podróży i turystyki, która ma charakter głównie praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie obsługi podróży i turystyki. Wykładowcy kształcenia zawodowego w zakresie obsługi podróży i turystyki monitorują postępy uczniów, w razie konieczności indywidualnie pomagają i oceniają ich wiedzę i wyniki w dziedzinie obsługi podróży i turystyki, dzięki zadaniom, testom i egzaminom.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Uczysz układania programu wycieczki",
+   "Ćwiczysz z uczniami rozmowy z klientem",
+   "Tłumaczysz zasady rezerwacji i dokumentów podróży",
+   "Oceniasz zadania, testy i egzaminy"
+  ]
+ },
+ {
+  "id": 1254,
+  "name": "Wykładowca kształcenia zawodowego w zakresie technologii transportu",
+  "desc": "Wykładowcy kształcenia zawodowego w zakresie technologii transportu instruują uczniów w swojej specjalistycznej dziedzinie studiów, technologii transportu, która ma przede wszystkim charakter praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie technologii transportu, w przypadku zawodów takich jak mechanik układów hamulcowych, sterowania i zawieszenia.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Tłumaczysz budowę hamulców i zawieszenia",
+   "Pokazujesz demontaż części w warsztacie",
+   "Pilnujesz zasad bezpieczeństwa przy pracy",
+   "Sprawdzasz wiedzę uczniów testami i egzaminami"
+  ]
+ },
+ {
+  "id": 1255,
+  "name": "Wykładowca kształcenia zawodowego w zakresie wychowania fizycznego",
+  "desc": "Wykładowcy kształcenia zawodowego w zakresie wychowania fizycznego instruują uczniów w swojej specjalistycznej dziedzinie studiów, wychowania fizycznego, która ma przede wszystkim charakter praktyczny. Przekazują oni teoretyczne instrukcje dotyczące praktycznych umiejętności i technik, które studenci muszą opanować w dziedzinie wychowania fizycznego, w przypadku zawodów takich jak specjalista ds. zdrowia lub organizator aktywności fizycznych na świeżym powietrzu. Zachęcają studentów do tworzenia dogodnych ram społecznych w swojej dziedzinie studiów i uczą ich odpowiedniego podejścia do pracy i wartości.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Pokazujesz prawidłową technikę ćwiczeń",
+   "Tłumaczysz, jak planować zajęcia dla grupy",
+   "Uczysz uczniów budować dobrą atmosferę w grupie",
+   "Oceniasz sprawdziany i praktyczne zaliczenia"
+  ]
+ },
+ {
+  "id": 1256,
+  "name": "Wykładowca przedmiotów zawodowych w zakresie szkolenia w zawodzie strażak",
+  "desc": "Wykładowcy przedmiotów zawodowych w zakresie szkolenia w zawodzie strażak szkolą rekrutów akademii, czyli kadetów w zakresie teorii i praktyki niezbędnej do stania się strażakiem. Prowadzą oni wykłady teoretyczne na tematy akademickie, takie jak prawo, chemia podstawowa, przepisy bezpieczeństwa, zarządzanie ryzykiem, zapobieganie pożarom, odczytywanie planów działania itp.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Prowadzisz wykłady o prawie i bezpieczeństwie",
+   "Uczysz zarządzania ryzykiem i zapobiegania pożarom",
+   "Pokazujesz, jak czytać plany działania",
+   "Prowadzisz ćwiczenia praktyczne z kadetami"
+  ]
+ },
+ {
+  "id": 1257,
+  "name": "Wykładowca w zakresie kształcenia i doskonalenia zawodowego policji",
+  "desc": "Wykładowcy w zakresie kształcenia i doskonalenia zawodowego policji szkolą nowych rekrutów akademii, czyli kadetów i weteranów na temat teorii i praktyk niezbędnych do stania się policjantem. Prowadzą wykłady teoretyczne na tematy akademickie, takie jak prawo, przepisy rządowe, stosunki społeczności i różnorodność ludzka. Instruktorzy akademii policji zapewniają również bardziej bezpośrednie, praktyczne wskazówki dotyczące treningu fizycznego, obchodzenia się z bronią palną, pierwszej pomocy przedmedycznej, taktyki samoobrony i obsługiwania pojazdu.",
+  "path": "Edukacja > Nauczyciele zawodu",
+  "tasks": [
+   "Prowadzisz wykłady z prawa i przepisów",
+   "Uczysz pierwszej pomocy przedmedycznej",
+   "Prowadzisz trening fizyczny i samoobronę",
+   "Ćwiczysz z kadetami kontakt z mieszkańcami"
+  ]
+ },
+ {
+  "id": 1258,
+  "name": "Dyrektor szkoły podstawowej",
+  "desc": "Dyrektorzy szkół podstawowych zarządzają bieżącą działalnością szkoły podstawowej. Zarządzają personelem, podejmują decyzje w sprawie naboru i odpowiadają za przestrzeganie standardów w zakresie programów nauczania, które są dostosowane do wieku uczniów szkoły podstawowej i ułatwiają edukację w zakresie rozwoju społecznego i akademickiego. Ponadto zapewniają, że placówka spełnia ustanowione przez prawo krajowe wymogi w zakresie edukacji.",
+  "path": "Edukacja > Dyrektor szkoły",
+  "tasks": [
+   "Układasz zespół nauczycieli i obsługi",
+   "Decydujesz o przyjęciach nowych uczniów",
+   "Dopasowujesz program do wieku dzieci",
+   "Sprawdzasz, czy szkoła spełnia przepisy"
+  ]
+ },
+ {
+  "id": 1259,
+  "name": "Dyrektor szkoły pomaturalnej",
+  "desc": "Dyrektorzy szkół pomaturalnych zarządzają bieżącymi działaniami instytucji szkolnictwa pomaturalnego, takich jak instytuty techniczne i inne szkoły policealne. Dyrektorzy szkół pomaturalnych podejmują decyzje w sprawie naboru i są odpowiedzialni za przestrzeganie standardów w zakresie programów nauczania, które ułatwiają studentom rozwój akademicki. Zarządzają pracownikami, budżetem szkoły i programami oraz nadzorują komunikację między departamentami. Ponadto zapewniają, że placówka spełnia ustanowione przez prawo krajowe wymogi w zakresie edukacji.",
+  "path": "Edukacja > Dyrektor szkoły",
+  "tasks": [
+   "Decydujesz o naborze słuchaczy",
+   "Zarządzasz budżetem szkoły i programami",
+   "Nadzorujesz komunikację między działami szkoły",
+   "Pilnujesz zgodności z wymogami prawa"
+  ]
+ }
+]

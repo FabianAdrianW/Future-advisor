@@ -1,0 +1,722 @@
+[
+ {
+  "id": 540,
+  "name": "Operator pieca tunelowego",
+  "desc": "Operatorzy pieców tunelowych kontrolują komory do wstępnego ogrzewania pomieszczeń i piece tunelowe w celu wstępnego ogrzania i wypalania produktów z gliny, takich jak cegły, rury kanalizacyjne, w tym cegły, mozaika, ceramika lub płytki kamienne. Obserwują oni pomiary i przyrządy i w razie potrzeby dokonują regulacji za pomocą zaworów odcinających. Wsuwają i wysuwają załadowane wózki do grzejników i z powrotem i przemieszczają je do obszaru sortowania.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Wsuwasz załadowane wózki do komory nagrzewania",
+   "Odczytujesz przyrządy pomiarowe wzdłuż pieca",
+   "Regulujesz zawory odcinające przy odchyleniach",
+   "Wysuwasz wypalone wózki do strefy sortowania"
+  ]
+ },
+ {
+  "id": 541,
+  "name": "Operator suszarni do gliny",
+  "desc": "Operatorzy suszarni do gliny zarządzają tunelami do suszenia, które są przeznaczone do suszenia produktów z gliny przed ich obróbką w piecu.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Ustawiasz parametry w tunelach suszących",
+   "Wprowadzasz wyroby na wózkach do suszarni",
+   "Sprawdzasz, czy wysuszone wyroby nie pękają",
+   "Wyprowadzasz suche partie przed wypałem"
+  ]
+ },
+ {
+  "id": 542,
+  "name": "Maszynowy szlifierz-polerowacz szkła",
+  "desc": "Maszynowi szlifierze-polerowacze szkła wykańczają płyty szkła do produkcji różnych wyrobów szklanych. Polerują krawędzie szkła przy użyciu ściernic i tarcz polerskich oraz rozpylają na szkło roztwory lub obsługują próżniowe maszyny powlekające w celu uzyskania powierzchni lustrzanej.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Mocujesz płytę szkła na stole maszyny",
+   "Szlifujesz i polerujesz krawędzie ściernicami",
+   "Nakładasz powłokę lustrzaną na szybę",
+   "Oglądasz szkło pod światło w poszukiwaniu rys"
+  ]
+ },
+ {
+  "id": 543,
+  "name": "Operator automatów do formowania wyrobów szklanych",
+  "desc": "Operatorzy automatów do formowania wyrobów szklanych obsługują i konserwują maszyny, które tłoczą lub rozdmuchują szkło w formach w celu uformowania produktów lub nadania im kształtu, np. neonów, butelek, słoików i szklanek. Ustawiają i dostosowują maszyny oraz dokonują ważenia, pomiaru i sprawdzania próbek produkcyjnych w celu sprawdzenia zgodności z ustalonymi specyfikacjami.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Ustawiasz i regulujesz automat formujący",
+   "Ważysz i mierzysz próbki z produkcji",
+   "Porównujesz wyroby ze specyfikacją",
+   "Dostosowujesz ustawienia po zmianie wyrobu"
+  ]
+ },
+ {
+  "id": 544,
+  "name": "Operator ceglarki",
+  "desc": "Operatorzy ceglarek tłoczą glinę lub krzemionkę hartowaną na sucho w cegły lub inne kształty. Wybierają i mocują matryce tłoczące, korzystając z przymiaru i kluczy. Operatorzy ceglarki wyjmują cegły z prasy i ustawiają je w określonym układzie w wózku pieca.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Dobierasz matryce do rodzaju cegły",
+   "Mocujesz matryce kluczami i sprawdzasz przymiarem",
+   "Wyjmujesz świeże cegły z prasy",
+   "Układasz cegły na wózku w ustalonym wzorze"
+  ]
+ },
+ {
+  "id": 545,
+  "name": "Operator maszyn do formowania włókna szklanego",
+  "desc": "Operatorzy maszyn do formowania włókna szklanego obserwują i konserwują wytłaczarki do formowania taśm z włókien ciągłych. Pracują z materiałami syntetycznymi, takimi jak włókna szklane lub ciekły polimer lub z materiałami niesyntetycznymi, takimi jak włókna wiskozowe.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Obserwujesz pracę wytłaczarek i ciągłość włókna",
+   "Ustawiasz maszynę pod rodzaj materiału",
+   "Reagujesz, gdy włókno się zrywa",
+   "Konserwujesz wytłaczarkę według harmonogramu"
+  ]
+ },
+ {
+  "id": 546,
+  "name": "Operator maszyn do produkcji cegieł i płytek ceramicznych",
+  "desc": "Operatorzy maszyn do produkcji cegieł i płytek ceramicznych obsługują i konserwują maszyny do mieszania stosowane w produkcji cegieł i płytek ceramicznych.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Uruchamiasz i ustawiasz maszyny mieszające",
+   "Pilnujesz dopływu składników do mieszalnika",
+   "Oglądasz masę i sprawdzasz, czy jest jednolita",
+   "Czyścisz i konserwujesz mieszalniki"
+  ]
+ },
+ {
+  "id": 547,
+  "name": "Operator odprężarek wyrobów szklanych",
+  "desc": "Operatorzy odprężarek wyrobów szklanych obsługują piece elektryczne lub gazowe stosowane do wzmocnienia wyrobów szklanych w procesie ogrzewania-chłodzenia, dopilnowując, aby ustawienia temperatury były zgodne ze specyfikacjami. Kontrolują oni wyroby ze szkła przez cały proces w celu obserwacji pod kątem wad.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Ustawiasz temperatury pieca według specyfikacji",
+   "Wprowadzasz wyroby szklane do odprężarki",
+   "Kontrolujesz szkło w trakcie całego procesu",
+   "Wyłapujesz wyroby z wadami i odkładasz je"
+  ]
+ },
+ {
+  "id": 548,
+  "name": "Operator pieca do produkcji szkła ciągnionego",
+  "desc": "Operatorzy pieców do produkcji szkła ciągnionego są odpowiedzialni za produkcję ciągłych arkuszy szkła płaskiego poprzez manipulowanie piecem do produkcji szkła ciągnionego przetwarzającego stopione szkło.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Obsługujesz piec ze stopionym szkłem",
+   "Prowadzisz ciągłą taśmę szkła płaskiego",
+   "Obserwujesz grubość i wygląd taśmy szkła",
+   "Reagujesz na zmiany w pracy pieca"
+  ]
+ },
+ {
+  "id": 549,
+  "name": "Operator prasy ślimakowej do gliny",
+  "desc": "Operatorzy prasy ślimakowej do gliny kontrolują i dostosowują prasę ślimakową w celu wykonania operacji formowania, wytłaczania i cięcia gliny na produktach według specyfikacji.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Ustawiasz prasę ślimakową pod dany wyrób",
+   "Kontrolujesz wytłaczanie gliny z prasy",
+   "Nastawiasz długość cięcia wytłoczonej gliny",
+   "Mierzysz kawałki i porównujesz je ze specyfikacją"
+  ]
+ },
+ {
+  "id": 550,
+  "name": "Operator urządzeń do formowania wyrobów ceramicznych",
+  "desc": "Operatorzy urządzeń do formowania wyrobów ceramicznych wypełniają formy gliną w celu odlewania wyrobów ceramicznych i porcelanowych. W razie potrzeby odlewają nadwyżki ciekłej masy z formy, osuszają formy, wyjmują odlewy z formy, wygładzają odlane powierzchnie w celu usunięcia śladów i umieszczają odlewy na deskach do wyschnięcia.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Wypełniasz formy płynną gliną",
+   "Wylewasz nadmiar masy z formy",
+   "Wyjmujesz odlew i wygładzasz ślady",
+   "Układasz odlewy na deskach do wyschnięcia"
+  ]
+ },
+ {
+  "id": 551,
+  "name": "Szkliwierz ceramiki",
+  "desc": "Szkliwierze ceramiki obsługują piece w celu wypalenia dekoracji lub glazury. Określają poziom i jednolitość temperatury pieca, regulują temperaturę i udzielają wskazówek pomocnikowi przy przygotowywaniu skrzyni paleniskowej i rozpaleniu ognia.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Sprawdzasz poziom i równomierność temperatury pieca",
+   "Regulujesz temperaturę podczas wypału",
+   "Pokazujesz pomocnikowi, jak przygotować skrzynię paleniskową",
+   "Układasz ozdobioną ceramikę do wypału w piecu"
+  ]
+ },
+ {
+  "id": 552,
+  "name": "Napełniacz butli gazowych",
+  "desc": "Napełniacze butli gazowych obsługują i konserwują urządzenia i pojemniki używane do napełniania butli gazem w postaci ciekłej lub sprężonej.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Podłączasz butle do urządzenia napełniającego",
+   "Napełniasz butle gazem ciekłym lub sprężonym",
+   "Sprawdzasz szczelność butli i zaworów",
+   "Konserwujesz urządzenia i pojemniki"
+  ]
+ },
+ {
+  "id": 553,
+  "name": "Operator linii puszkowania i butelkowania",
+  "desc": "Operatorzy linii puszkowania i butelkowania obserwują przejeżdżające butelki i puszki w trakcie procesu produkcji. Stoją obok taśm transportowych, sprawdzając, czy butelki są napełniane na standardowym poziomie i, czy nie występują poważne odchylenia. Usuwają uszkodzone butelki lub puszki.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Obserwujesz butelki i puszki na taśmie",
+   "Sprawdzasz poziom napełnienia",
+   "Zdejmujesz uszkodzone opakowania z linii",
+   "Zauważasz poważne odchylenia i zgłaszasz je"
+  ]
+ },
+ {
+  "id": 554,
+  "name": "Operator urządzeń do pakowania i napełniania",
+  "desc": "Operatorzy urządzeń do pakowania i napełniania dozorują maszyny do przygotowywania i pakowania produktów spożywczych w różne pojemniki, takie jak słoje, kartony, puszki i inne.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Dozorujesz maszynę napełniającą słoje i kartony",
+   "Dopilnowujesz zapasu opakowań i produktu",
+   "Sprawdzasz zamknięcie i wygląd opakowań",
+   "Zatrzymujesz linię przy zacięciu maszyny"
+  ]
+ },
+ {
+  "id": 555,
+  "name": "Operator urządzeń do pakowania wyrobów skórzanych",
+  "desc": "Operatorzy urządzeń do pakowania wyrobów skórzanych dokonują ostatecznego sprawdzenia wyrobów skórzanych. Zakładają akcesoria takie jak uchwyty, kłódki lub inne elementy produktu (np. etykiety). W stosownych przypadkach wprowadzają produkty do materiałowych woreczków, wypełniają je papierem w celu utrzymania kształtu produktu, a następnie umieszczają produkty w pudełkach przy użyciu odpowiednich narzędzi dla ochrony produktów. Odpowiadają za ogólne pakowanie i kontrolują kompletację każdego zamówienia poprzez umieszczenie pudełek w paczkach i przygotowanie dokumentacji do wysyłki przez firmę transportową.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Oglądasz wyrób skórzany przed spakowaniem",
+   "Zakładasz uchwyty, kłódki i etykiety",
+   "Wypełniasz wyrób papierem i wkładasz do woreczka",
+   "Układasz pudełka w paczkach i przygotowujesz dokumenty"
+  ]
+ },
+ {
+  "id": 556,
+  "name": "Operator urządzeń do wykańczania i pakowania obuwia",
+  "desc": "Operatorzy urządzeń do wykańczania i pakowania obuwia stosują różne techniki w celu zapewnienia właściwego ostatecznego wyglądu zapakowanych par obuwia, które są przeznaczone do sprzedaży. Działają zgodnie z otrzymanymi od przełożonego informacjami na temat butów, które mają zostać wykończone, na temat środków i materiałów, które mają zostać użyte, oraz kolejności działań.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Czytasz instrukcję przełożonego dla danej partii",
+   "Wykańczasz gotowe buty według kolejności działań",
+   "Oglądasz pary butów pod kątem wyglądu",
+   "Układasz parę w pudełku do sprzedaży"
+  ]
+ },
+ {
+  "id": 557,
+  "name": "Operator zgrzewarki",
+  "desc": "Operatorzy zgrzewarek obsługują zgrzewarki i klejarki w celu połączenia elementów do dalszego przetwarzania lub sklejania produktów lub opakowań przy użyciu ciepła.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Ustawiasz zgrzewarkę lub klejarkę",
+   "Podajesz elementy do połączenia ciepłem",
+   "Sprawdzasz, czy połączenie jest mocne i szczelne",
+   "Zatrzymujesz maszynę przy zacięciach"
+  ]
+ },
+ {
+  "id": 558,
+  "name": "Znawca gatunków cygar",
+  "desc": "Znawcy gatunków cygar dozorują maszyny, które znakują marki na owijkach cygar. Dopilnowują, aby wszystkie wymagane materiały wsadowe były dostarczane do maszyn i prowadzą obserwacje, czy procesy nie uległy zablokowaniu. Prewencyjnie czyszczą wałki barwiące.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Dozorujesz maszynę znakującą owijki cygar",
+   "Dopilnowujesz dostaw materiałów do maszyny",
+   "Obserwujesz, czy proces się nie zablokował",
+   "Czyścisz wałki barwiące zapobiegawczo"
+  ]
+ },
+ {
+  "id": 559,
+  "name": "Maszynista kotła",
+  "desc": "Maszyniści kotłów konserwują systemy grzewcze, takie jak kotły niskociśnieniowe, kotły wysokociśnieniowe i kotły elektryczne. Pracują głównie w dużych budynkach, takich jak elektrownie lub kotłownie, i zapewniają bezpieczną i przyjazną dla środowiska eksploatację systemów kotłów.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Obserwujesz wskazania kotłów niskiego i wysokiego ciśnienia",
+   "Konserwujesz systemy grzewcze",
+   "Reagujesz na alarmy i odchylenia od normy",
+   "Pilnujesz zgodności pracy z przepisami"
+  ]
+ },
+ {
+  "id": 560,
+  "name": "Palacz kotłów parowych",
+  "desc": "Palacze kotłów parowych obsługują i konserwują urządzenia mechaniczne, takie jak silniki stacjonarne i kotły, w celu dostarczania mediów do użytku domowego lub przemysłowego. Monitorują oni działania w celu zapewnienia zgodności z przepisami bezpieczeństwa oraz przeprowadzają testy w celu zagwarantowania jakości.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Obsługujesz kocioł parowy i silnik stacjonarny",
+   "Monitorujesz pracę urządzeń pod kątem bezpieczeństwa",
+   "Wykonujesz testy zapewniające jakość",
+   "Konserwujesz urządzenia mechaniczne według harmonogramu"
+  ]
+ },
+ {
+  "id": 561,
+  "name": "Operator maszyn do cięcia wzdłużnego",
+  "desc": "Operatorzy maszyn do cięcia wzdłużnego ustawiają, obsługują i dozorują maszyny w celu cięcia, wykonania nacięć, zginania lub prostowania arkuszy metalu, papieru lub innych materiałów na określoną szerokość. Operatorzy maszyn do cięcia wzdłużnego muszą również zapewnić jakość poprzez badanie różnych produktów końcowych i przestrzeganie ustalonych granic tolerancji.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Ustawiasz maszynę na zadaną szerokość pasów",
+   "Zakładasz rolkę materiału i uruchamiasz cięcie",
+   "Mierzysz pasy i porównujesz z tolerancją",
+   "Odrzucasz pasy poza dopuszczalnymi granicami"
+  ]
+ },
+ {
+  "id": 562,
+  "name": "Operator okleiniarki",
+  "desc": "Operatorzy okleiniarek dozorują maszyny, które okleinują materiały, głównie drewno, w celu zwiększenia trwałości i sprawiają, że są one atrakcyjne pod względem estetycznym. Regulują oni także prędkość pasa, ustawiają kontrolę temperatury w celu regulacji ciepła, pokrywają brzegi paneli klejem oraz uruchamiają i regulują maszynę.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Ustawiasz prędkość pasa okleiniarki",
+   "Ustawiasz kontrolę temperatury maszyny",
+   "Pokrywasz brzegi paneli klejem",
+   "Uruchamiasz maszynę i oglądasz oklejone brzegi"
+  ]
+ },
+ {
+  "id": 563,
+  "name": "Dyrektor kopalni",
+  "desc": "Dyrektorzy kopalni kontrolują, kierują, planują i koordynują działalność produkcyjną w zakresie górnictwa. Ponoszą oni ustawową odpowiedzialność za bezpieczeństwo i są również odpowiedzialni za wpływ na środowisko. Nadzorują nabywanie, instalację, konserwację i przechowywanie obiektów i urządzeń górniczych. Kierują i zarządzają zgodnie z kodeksem postępowania danej organizacji.",
+  "path": "Przemysł i produkcja > Kierownicy produkcji",
+  "tasks": [
+   "Planujesz i koordynujesz produkcję w kopalni",
+   "Odpowiadasz prawnie za bezpieczeństwo załogi",
+   "Pilnujesz wpływu kopalni na środowisko",
+   "Nadzorujesz zakup i konserwację urządzeń górniczych"
+  ]
+ },
+ {
+  "id": 564,
+  "name": "Kierownik ds. produkcji w górnictwie ropy naftowej i gazu",
+  "desc": "Kierownicy ds. produkcji w górnictwie ropy naftowej i gazu koordynują i wdrażają krótko- i średnioterminowe harmonogramy i plany produkcji ropy naftowej i gazu, takie jak wiercenie, wydobycie i gospodarowanie odpadami. Wyznaczają oni jedną lub większą liczbę jednostek i nadzorują wdrażanie środków technicznych i ludzkich w ramach celów dotyczących wielkości, jakości i planowania. Kierownicy ds. produkcji w górnictwie ropy naftowej i gazu projektują i zapewniają, aby plany i harmonogramy produkcji zostały zrealizowane.",
+  "path": "Przemysł i produkcja > Kierownicy produkcji",
+  "tasks": [
+   "Układasz krótko- i średnioterminowe plany produkcji",
+   "Przydzielasz jednostki, ludzi i sprzęt",
+   "Nadzorujesz wdrażanie środków technicznych",
+   "Sprawdzasz wielkość i jakość wydobycia"
+  ]
+ },
+ {
+  "id": 565,
+  "name": "Kierownik ds. produkcji w kopalni",
+  "desc": "Kierownicy ds. produkcji w kopalni koordynują i wdrażają krótko- i średnioterminowe harmonogramy i plany w zakresie wydobycia, takie jak wydobycie, obróbka strumieniowa, wydobycie rudy i minerałów oraz gospodarowanie odpadami.",
+  "path": "Przemysł i produkcja > Kierownicy produkcji",
+  "tasks": [
+   "Układasz plany wydobycia rudy i minerałów",
+   "Koordynujesz obróbkę urobku",
+   "Planujesz, co dzieje się z odpadami",
+   "Wdrażasz harmonogramy dla kolejnych zmian"
+  ]
+ },
+ {
+  "id": 566,
+  "name": "Dyrektor kamieniołomu",
+  "desc": "Dyrektorzy kamieniołomów nadzorują i koordynują działalność kamieniołomu. Koordynują oni wydobycie, przetwarzanie i transport oraz zapewniają sprawne funkcjonowanie tych procesów zgodnie z normami bezpieczeństwa i higieny pracy. Dyrektorzy kamieniołomów zapewniają skuteczne funkcjonowanie kamieniołomu oraz wdrażają strategie i wytyczne przedsiębiorstwa.",
+  "path": "Przemysł i produkcja > Kierownicy produkcji",
+  "tasks": [
+   "Koordynujesz wydobycie, przerób i transport kamienia",
+   "Sprawdzasz przestrzeganie zasad BHP",
+   "Wdrażasz wytyczne przedsiębiorstwa",
+   "Omawiasz z załogą bieżące problemy"
+  ]
+ },
+ {
+  "id": 567,
+  "name": "Kierownik ds. produkcji",
+  "desc": "Kierownicy ds. produkcji planują, nadzorują i kierują procesem wytwarzania w danej organizacji. Zapewniają oni, że produkty i usługi są sprawnie produkowane w ramach czasowych i budżetowych.",
+  "path": "Przemysł i produkcja > Kierownicy produkcji",
+  "tasks": [
+   "Planujesz produkcję pod terminy i budżet",
+   "Nadzorujesz pracę zmian produkcyjnych",
+   "Reagujesz, gdy proces się opóźnia",
+   "Omawiasz wyniki z dyrekcją"
+  ]
+ },
+ {
+  "id": 568,
+  "name": "Masarz halal",
+  "desc": "Masarze halal zamawiają, kontrolują i kupują mięso w celu przygotowania i sprzedaży w formie mięsnych produktów spożywczych zgodnych z przepisami islamu. Wykonują oni czynności takie jak cięcie, przycinanie, odkostnianie, wiązanie i mielenie mięsa wołowego i drobiowego. Przygotowują mięso halal do konsumpcji.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Zamawiasz i kontrolujesz mięso halal",
+   "Tniesz, przycinasz i odkostniasz mięso wołowe i drobiowe",
+   "Mielisz mięso i wiążesz je sznurkiem",
+   "Sprawdzasz zgodność mięsa z przepisami islamu"
+  ]
+ },
+ {
+  "id": 569,
+  "name": "Masarz koszerny",
+  "desc": "Masarze koszerni zamawiają, kontrolują i kupują mięso w celu przygotowania i sprzedaży w formie mięsnych produktów spożywczych zgodnych z przepisami judaizmu. Wykonują oni czynności, takie jak cięcie, przycinanie, odkostnianie, wiązanie i mielenie mięsa zwierząt koszernych, takich jak krowy, owce i kozy. Przygotowują mięso koszerne do konsumpcji.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Zamawiasz i kontrolujesz mięso koszerne",
+   "Tniesz i przycinasz mięso na porcje",
+   "Odkostniasz, wiążesz i mielisz mięso",
+   "Pilnujesz, żeby mięso pochodziło od dozwolonych zwierząt"
+  ]
+ },
+ {
+  "id": 570,
+  "name": "Rzeźnik",
+  "desc": "Rzeźnicy zamawiają, kontrolują i kupują mięso w celu przygotowania i sprzedaży w formie mięsnych produktów spożywczych. Wykonują oni czynności takie jak cięcie, przycinanie, odkostnianie, wiązanie i mielenie mięsa wołowego, wieprzowego i drobiowego. Przygotowują wspomniane rodzaje mięsa do spożycia.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Zamawiasz i kontrolujesz dostawy mięsa",
+   "Rozbierasz tusze wołowe, wieprzowe i drobiowe",
+   "Odkostniasz, przycinasz i mielisz mięso",
+   "Przygotowujesz porcje do sprzedaży"
+  ]
+ },
+ {
+  "id": 571,
+  "name": "Ubojowy",
+  "desc": "Ubojowi dokonują uboju zwierząt i przygotowują tusze do dalszego przetwarzania i dystrybucji.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Przeprowadzasz ubój zwierząt zgodnie z procedurą",
+   "Przygotowujesz tusze do dalszej obróbki",
+   "Myjesz narzędzia i stanowisko pracy",
+   "Przekazujesz tusze do dalszego przetwarzania"
+  ]
+ },
+ {
+  "id": 572,
+  "name": "Ubojowy rytualny halal",
+  "desc": "Ubojowi rytualni halal dokonują uboju zwierząt i przygotowują tusze mięsa wołowego i kurzego halal do dalszego przetwarzania i dystrybucji. Dokonują oni uboju zwierząt zgodnie z prawem islamskim i zapewniają odpowiednie żywienie, ubój i wieszanie zwierząt.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Przeprowadzasz ubój zgodnie z prawem islamskim",
+   "Pilnujesz właściwego żywienia zwierząt",
+   "Wieszasz tusze i przygotowujesz je do obróbki",
+   "Przekazujesz mięso halal do dystrybucji"
+  ]
+ },
+ {
+  "id": 573,
+  "name": "Ubojowy rytualny według reguł koszerności",
+  "desc": "Ubojowi rytualni według reguł koszerności dokonują uboju zwierząt i przygotowują tusze mięsa koszernego do dalszego przetwarzania i dystrybucji. Dokonują oni uboju zwierząt zgodnie z prawem żydowskim i rytuałami.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Przeprowadzasz ubój według prawa żydowskiego",
+   "Stosujesz rytuały wymagane dla mięsa koszernego",
+   "Przygotowujesz tusze do przetwarzania",
+   "Przekazujesz mięso koszerne do dystrybucji"
+  ]
+ },
+ {
+  "id": 574,
+  "name": "Operator przetwórstwa mięsa",
+  "desc": "Operatorzy przetwórstwa mięsa przygotowują świeże mięso ze składnikami takimi jak przyprawy, zioła lub dodatki w celu przygotowania gotowych do sprzedaży wyrobów mięsnych.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Odmierzasz przyprawy, zioła i dodatki",
+   "Mieszasz je ze świeżym mięsem",
+   "Przygotowujesz wyroby mięsne do sprzedaży",
+   "Myjesz sprzęt i pilnujesz higieny stanowiska"
+  ]
+ },
+ {
+  "id": 575,
+  "name": "Oprawiacz ryb",
+  "desc": "Oprawiacze ryb odcinają głowy ryb i usuwają narządy wewnętrzne ryb i owoców morza. Usuwają oni narządy za pomocą skrobania i przemywania, wycinają fragmenty wadliwe oraz pakują przetworzone ryby w odpowiednie pojemniki.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Odcinasz głowy ryb",
+   "Usuwasz narządy wewnętrzne skrobaniem i przemywaniem",
+   "Wycinasz wadliwe fragmenty",
+   "Pakujesz oprawione ryby w pojemniki"
+  ]
+ },
+ {
+  "id": 576,
+  "name": "Robotnik w przetwórstwie ryb",
+  "desc": "Robotnicy w przetwórstwie ryb przygotowują ryby i skorupiaki zgodnie z przepisami dotyczącymi higieny i bezpieczeństwa żywności oraz przepisami obowiązującymi w handlu. \\Wykonują oni czynności w zakresie przetwarzania ryb i prowadzą działalność w zakresie handlu detalicznego.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Przygotowujesz ryby i skorupiaki do dalszej obróbki",
+   "Stosujesz przepisy o higienie żywności",
+   "Przetwarzasz ryby na produkty do sprzedaży",
+   "Obsługujesz klientów w sprzedaży detalicznej"
+  ]
+ },
+ {
+  "id": 577,
+  "name": "Rozbieracz – wykrawacz",
+  "desc": "Rozbieracze – wykrawacze kroją tusze zwierzęce na duże i mniejsze części w celu dalszego przetworzenia. Usuwają oni kości z wstępnie przetworzonych tusz zwierzęcych ręcznie lub maszynowo.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Dzielisz tusze na duże części",
+   "Rozcinasz je na mniejsze kawałki",
+   "Usuwasz kości ręcznie lub maszynowo",
+   "Przekazujesz mięso do dalszej obróbki"
+  ]
+ },
+ {
+  "id": 578,
+  "name": "Degustator kawy",
+  "desc": "Degustatorzy kawy degustują próbki kawy w celu dokonania oceny cech produktu lub przygotowania receptur mieszanek. Określają oni klasę produktu, oceniają jego wartość rynkową i badają, w jaki sposób produkty te mogą odpowiadać konsumentom o różnych gustach. Opracowują oni receptury mieszanek dla pracowników przygotowujących wyroby kawowe do celów handlowych.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Degustujesz próbki kawy",
+   "Określasz klasę i wartość rynkową produktu",
+   "Oceniasz, czy kawa spodoba się różnym gustom",
+   "Opracowujesz receptury mieszanek dla pracowników"
+  ]
+ },
+ {
+  "id": 579,
+  "name": "Klasyfikator żywności",
+  "desc": "Klasyfikatorzy żywności kontrolują, sortują i klasyfikują produkty spożywcze. Klasyfikują oni produkty spożywcze zgodnie z kryteriami sensorycznymi lub za pomocą maszyny. Decydują oni o przeznaczeniu produktu, zaliczając go do odpowiednich klas i odrzucając produkty uszkodzone lub przeterminowane. Klasyfikatorzy żywności dokonują pomiarów i ważenia produktów i zgłaszają swoje ustalenia, aby umożliwić dalsze przetwarzanie żywności.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Oglądasz produkty i dzielisz je na klasy",
+   "Odrzucasz uszkodzone lub przeterminowane",
+   "Ważysz i mierzysz produkty",
+   "Zgłaszasz wyniki do dalszego przetwarzania"
+  ]
+ },
+ {
+  "id": 580,
+  "name": "Kontroler jakości mleka w gospodarstwie rolnym",
+  "desc": "Kontrolerzy jakości mleka w gospodarstwach rolnych są odpowiedzialni za pomiar i analizę produkcji i jakości mleka oraz odpowiednie doradztwo.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Pobierasz próbki mleka w gospodarstwie",
+   "Mierzysz ilość mleka",
+   "Analizujesz jakość mleka",
+   "Doradzasz rolnikowi, jak poprawić wyniki"
+  ]
+ },
+ {
+  "id": 581,
+  "name": "Mistrz palenia kawy",
+  "desc": "Mistrzowie palenia kawy tworzą nowe rodzaje kawy i pragmatycznie zapewniają jakość mieszanek i receptur. Opracowują oni receptury mieszanek dla pracowników przygotowujących mieszanki kawy do celów handlowych.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Tworzysz nowe rodzaje kawy",
+   "Ustalasz sposób palenia ziaren",
+   "Opracowujesz receptury mieszanek",
+   "Przekazujesz receptury pracownikom produkcji"
+  ]
+ },
+ {
+  "id": 582,
+  "name": "Mistrz słodowania",
+  "desc": "Mistrzowie słodowania sensorycznie oceniają i klasyfikują różne słody do celów warzenia piwa. Oceniają oni wygląd, zapach i smak surowców i półfabrykatów w celu zachowania spójnej jakości produktów. Wykorzystują swoją wiedzę do przygotowywania mieszanek w procesie opracowywania produktów.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Oceniasz wygląd, zapach i smak słodów",
+   "Klasyfikujesz słody do warzenia piwa",
+   "Sprawdzasz surowce i półfabrykaty",
+   "Przygotowujesz mieszanki przy nowych produktach"
+  ]
+ },
+ {
+  "id": 583,
+  "name": "Pracownik działu sezonowania",
+  "desc": "Pracownicy działu sezonowania pomagają w mieszaniu, starzeniu i fermentacji stripsu tytoniowego do produkcji cygar, tytoniu do żucia i tabaki.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Mieszasz partie stripsu tytoniowego",
+   "Układasz strips do starzenia",
+   "Pilnujesz przebiegu fermentacji",
+   "Zapisujesz, co dzieje się z partiami"
+  ]
+ },
+ {
+  "id": 584,
+  "name": "Sortowacz liści",
+  "desc": "Sortowacze liści analizują kolor i stan liści tytoniu w celu ustalenia, czy powinny być one używane jako pokrywy lub owijki cygar. Selekcjonują oni liście bez widocznych wad, uwzględniając różnice barw, rozerwania, plamy smoły, ziarnistość i rozmiary zgodnie ze specyfikacjami. Łączą oni liście pokrywowe w wiązki w celu produkcji stripsu.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Oglądasz kolor i stan liści",
+   "Wybierasz liście bez rozdarć i plam",
+   "Dzielisz liście na pokrywy i owijki",
+   "Łączysz liście pokrywowe w wiązki"
+  ]
+ },
+ {
+  "id": 585,
+  "name": "Wiązacz liści",
+  "desc": "Wiązacze liści łączą tytoń ręcznie w wiązki do przetwarzania. Selekcjonują oni liście i wiążą je ogonkami w jedną stronę. Ogonki wiążą liściem wiążącym.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Wybierasz liście do wiązki",
+   "Układasz liście ogonkami w jedną stronę",
+   "Owijasz ogonki liściem wiążącym",
+   "Odkładasz gotowe wiązki do dalszej obróbki"
+  ]
+ },
+ {
+  "id": 586,
+  "name": "Konserwator owoców i warzyw",
+  "desc": "Konserwatorzy owoców i warzyw obsługują maszyny do przygotowania i konserwacji wyrobów owocowych i warzywnych. Ich celem jest utrzymanie trwałej postaci łatwo psujących się produktów spożywczych. W związku z tym wykonują oni czynności takie jak zamrażanie, konserwowanie, pakowanie po sortowaniu, sortowanie, mycie, obieranie, przycinanie i krojenie produktów rolnych.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Sortujesz i myjesz owoce oraz warzywa",
+   "Obierasz, przycinasz i kroisz na maszynach",
+   "Zamrażasz lub konserwujesz produkty",
+   "Pakujesz produkty po sortowaniu"
+  ]
+ },
+ {
+  "id": 587,
+  "name": "Operator prasy olejowej",
+  "desc": "Operatorzy pras olejowych obsługują młyny wyciskające olej z nasion roślin oleistych przy użyciu metod rzemieślniczych.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Oglądasz nasiona przed tłoczeniem",
+   "Wsypujesz nasiona do młyna",
+   "Obsługujesz prasę wyciskającą olej",
+   "Zbierasz wyciśnięty olej do pojemników"
+  ]
+ },
+ {
+  "id": 588,
+  "name": "Pracownik tłoczenia oleju",
+  "desc": "Pracownicy tłoczenia oleju obsługują prasy hydrauliczne wyciskające olej z nasion roślin oleistych.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Napełniasz prasę hydrauliczną nasionami",
+   "Uruchamiasz cykl tłoczenia",
+   "Odbierasz wyciśnięty olej",
+   "Sprawdzasz, czy prasa pracuje bez usterek"
+  ]
+ },
+ {
+  "id": 589,
+  "name": "Operator odbioru mleka",
+  "desc": "Operatorzy odbioru mleka używają urządzeń zapewniających prawidłowy jakościowy i ilościowy odbiór mleka surowego. Wykonują oni wstępne czyszczenie, a także przechowują i dystrybuują surowce w różnych zakładach przetwórczych.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Przyjmujesz dostawy surowego mleka",
+   "Mierzysz ilość i sprawdzasz jakość mleka",
+   "Wstępnie oczyszczasz mleko",
+   "Kierujesz mleko do zakładów przetwórczych"
+  ]
+ },
+ {
+  "id": 590,
+  "name": "Robotnik w produkcji wyrobów mleczarskich",
+  "desc": "Robotnicy w produkcji wyrobów mleczarskich metodami rzemieślniczymi przetwarzają mleko surowe w celu wytworzenia przetworów mlecznych, takich jak masło, ser, śmietana i mleko.",
+  "path": "Przemysł i produkcja > Przetwórstwo spożywcze",
+  "tasks": [
+   "Przerabiasz surowe mleko na ser i masło",
+   "Przygotowujesz śmietanę i mleko do sprzedaży",
+   "Formujesz sery i odsączasz je",
+   "Pakujesz gotowe wyroby mleczne"
+  ]
+ },
+ {
+  "id": 591,
+  "name": "Operator frezarki",
+  "desc": "Operatorzy frezarek pracują z frezarkami przemysłowymi w celu cięcia drewna w pożądany kształt. Frezarki mają głowicę frezującą, która przesuwa się nad drewnem, poruszając się w górę i w dół w celu regulacji głębokości nacięcia. Współczesne przemysłowe frezarki do drewna są zwykle sterowane komputerowo, by uzyskać precyzyjne i spójne wyniki.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Wgrywasz wzór do sterowania maszyny",
+   "Mocujesz drewno na stole frezarki",
+   "Ustawiasz głębokość nacięcia",
+   "Mierzysz gotowe elementy"
+  ]
+ },
+ {
+  "id": 592,
+  "name": "Operator pilarki tarczowej",
+  "desc": "Operatorzy pilarek tarczowych pracują z pilarkami przemysłowymi, które tną przy użyciu obrotowego kołowego ostrza. Pilarka jest wbudowana w stół. Operator ustawia wysokość pilarki, aby kontrolować głębokość cięcia. Szczególną uwagę zwraca się na bezpieczeństwo, ponieważ czynniki, takie jak naturalne obciążenia w drewnie mogą wytwarzać nieprzewidywalne siły.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Ustawiasz wysokość tarczy na głębokość cięcia",
+   "Prowadzisz drewno wzdłuż prowadnicy",
+   "Tniesz elementy na zadane wymiary",
+   "Oceniasz drewno pod kątem naprężeń"
+  ]
+ },
+ {
+  "id": 593,
+  "name": "Operator piły taśmowej",
+  "desc": "Operatorzy pił taśmowych pracują z pilarkami przemysłowymi, które są wyposażone w ciągłe elastyczne ostrze, obracające się wokół dwóch lub więcej kół. Piły taśmowe są najskuteczniejsze w produkcji nieregularnych kształtów.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Zakładasz i ustawiasz taśmę piły",
+   "Prowadzisz drewno po narysowanej linii",
+   "Wycinasz łuki i nieregularne kształty",
+   "Sprawdzasz wycięty kształt względem wzoru"
+  ]
+ },
+ {
+  "id": 594,
+  "name": "Operator wyrówniarko-grubościówki",
+  "desc": "Operatorzy wyrówniarko-grubościówek wykorzystują maszyny do heblowania desek drewnianych do jednolitej grubości. Maszyna zwykle hebluje obie strony deski podczas jednej operacji. Ostrożnie podają oni deski do maszyny, aby uniknąć nadmiernego heblowania na krawędzi określanego jako „dubelt”.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Podajesz deski do maszyny",
+   "Ustawiasz grubość heblowania",
+   "Mierzysz grubość deski po przejściu",
+   "Pilnujesz, by nie powstał dubelt na krawędzi"
+  ]
+ },
+ {
+  "id": 595,
+  "name": "Operator łuszczarki do forniru",
+  "desc": "Operatorzy łuszczarek do forniru kroją tarcicę na cienkie arkusze stosowane jako pokrycie dla innych materiałów, takich jak płyta wiórowa lub płyta pilśniowa. Operatorzy łuszczarek do forniru stosują różne maszyny do uzyskania różnych cięć drewna: obrotową tokarkę do uzyskania cięć prostopadłych do słojów, maszynę krojącą do utworzenia cięć zbliżonych do deski, lub półokrągłą tokarkę, która daje operatorowi możliwość wyboru najbardziej interesujących cięć.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Wybierasz maszynę do danego rodzaju cięcia",
+   "Mocujesz drewno w tokarce lub maszynie krojącej",
+   "Wycinasz cienkie arkusze forniru",
+   "Oglądasz rysunek słojów na arkuszach"
+  ]
+ },
+ {
+  "id": 596,
+  "name": "Tartacznik",
+  "desc": "Tartacznicy pracują z automatycznymi urządzeniami mielącymi tarcicę, które piłują drewno na surową tarcicę. Obsługują oni również różne pilarki, które dalej przetwarzają tarcicę w różne kształty i rozmiary. Procesy te są obecnie często kontrolowane komputerowo.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Obsługujesz urządzenia piłujące drewno na tarcicę",
+   "Ustawiasz pilarki na wymiary desek",
+   "Tniesz tarcicę na zadane kształty",
+   "Pilnujesz komputerowego sterowania linią"
+  ]
+ },
+ {
+  "id": 597,
+  "name": "Operator korowarki",
+  "desc": "Operatorzy korowarek obsługują korowarki w celu pozbawienia ściętych drzew kory. Drzewo jest podawane do maszyny, po czym kora jest usuwana przy użyciu ścierania lub cięcia.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Podajesz ścięte pnie do korowarki",
+   "Obserwujesz usuwanie kory z drewna",
+   "Zatrzymujesz maszynę, gdy pień się zablokuje",
+   "Sprawdzasz, czy pnie są czyste z kory"
+  ]
+ },
+ {
+  "id": 598,
+  "name": "Operator maszyn do produkcji płyt drewnopochodnych",
+  "desc": "Operatorzy maszyn do produkcji płyt drewnopochodnych pracują z maszynami w celu związania cząstek lub włókien wytworzonych z drewna lub korka. Stosowane są różne kleje przemysłowe lub żywice w celu uzyskania płyty pilśniowej, płyty wiórowej lub płyty korkowej.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Pilnujesz dozowania kleju do wiórów",
+   "Obserwujesz pracę prasy i panelu maszyny",
+   "Sprawdzasz grubość i wygląd gotowych płyt",
+   "Usuwasz zacięcia i odrzucasz wadliwe płyty"
+  ]
+ },
+ {
+  "id": 599,
+  "name": "Operator peleciarki",
+  "desc": "Operatorzy peleciarek obsługują młyn młotkowy w celu przekształcenia odpadowych produktów drewnianych w granulat wykorzystywany jako paliwo. Zmielony produkt jest następnie przeciskany przez matrycę, tworząc znormalizowany kształt i rozmiar granulatu.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Podajesz odpady drewniane do młyna",
+   "Kontrolujesz pracę prasy z matrycą",
+   "Sprawdzasz kształt i rozmiar granulek",
+   "Czyścisz maszynę z pyłu i resztek"
+  ]
+ }
+]

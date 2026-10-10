@@ -1,0 +1,722 @@
+[
+ {
+  "id": 360,
+  "name": "Monter sprzętu elektrycznego",
+  "desc": "Monterzy sprzętu elektrycznego odpowiadają za montaż urządzeń elektrycznych. Montują elementy składowe i przewody zgodnie ze schematami.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Czytasz schemat montażowy",
+   "Mocujesz elementy w obudowie",
+   "Łączysz przewody według oznaczeń",
+   "Sprawdzasz zmontowane urządzenie przed oddaniem"
+  ]
+ },
+ {
+  "id": 361,
+  "name": "Monter wiązek elektrycznych",
+  "desc": "Monterzy wiązek elektrycznych łączą druty lub kable w celu uformowania wiązek przewodów stosowanych w systemach i urządzeniach elektronicznych i elektrycznych. Zapoznają się z planami instalacji elektrycznej i łączą przewody zgodnie ze specyfikacjami, przy użyciu łączy kablowych, lin kablowych, kanałów elektrycznych i rękawów.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Układasz przewody na tablicy montażowej",
+   "Odmierzasz i dobierasz kable według planu",
+   "Zaciskasz końcówki i łączysz przewody",
+   "Owijasz wiązkę rękawem lub opaską"
+  ]
+ },
+ {
+  "id": 362,
+  "name": "Monter sprzętu stomatologicznego",
+  "desc": "Monterzy sprzętu stomatologicznego montują różne sprzęty stomatologiczne, takie jak wiertarki, lasery, sondy, lusterka i urządzenia do obrazowania stomatologicznego. Wykorzystują oni różne maszyny, narzędzia ręczne, chemikalia, kleje i materiały epoksydowe do montażu narzędzi dentystycznych. Wykorzystują narzędzia precyzyjne i pracują w pomieszczeniach czystych.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Montujesz małe części precyzyjnymi narzędziami",
+   "Sklejasz elementy specjalnym klejem",
+   "Pracujesz w czystym pomieszczeniu w odzieży ochronnej",
+   "Sprawdzasz, czy narzędzie działa bez luzów"
+  ]
+ },
+ {
+  "id": 363,
+  "name": "Operator maszyn do montażu powierzchniowego",
+  "desc": "Operatorzy maszyn do montażu powierzchniowego stosują urządzenia do montażu powierzchniowego (SMT) do montowania i lutowania małych komponentów elektronicznych na płytkach obwodów drukowanych w celu utworzenia urządzeń zamontowanych powierzchniowo (SMD).",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Ładujesz do maszyny rolki z elementami",
+   "Ustawiasz maszynę według programu płytki",
+   "Oglądasz płytki po montażu pod powiększeniem",
+   "Usuwasz zacięcia i poprawiasz ustawienia"
+  ]
+ },
+ {
+  "id": 364,
+  "name": "Operator maszyny do lutowania na fali",
+  "desc": "Operatorzy maszyny do lutowania na fali ustawiają i obsługują maszyny do lutowania komponentów elektronicznych do płytek obwodów drukowanych. Zapoznają się ze schematami i projektami rozplanowania.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Ustawiasz maszynę według schematu i projektu",
+   "Mocujesz płytki w ramkach transportowych",
+   "Obserwujesz, jak płytki przechodzą przez maszynę",
+   "Oglądasz lutowane połączenia i zgłaszasz błędy"
+  ]
+ },
+ {
+  "id": 365,
+  "name": "Elaborant amunicji",
+  "desc": "Elaboranci amunicji zestawiają materiały wybuchowe i inne komponenty amunicji. Wykonują tę pracę na masową skalę w fabrykach amunicji. Sama produkcja koncentruje się na produkcji nabojów lub pocisków.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Zestawiasz komponenty naboi według instrukcji",
+   "Odmierzasz materiały na wadze",
+   "Obsługujesz maszyny składające naboje",
+   "Prowadzisz dokumentację każdej partii"
+  ]
+ },
+ {
+  "id": 366,
+  "name": "Konfekcjoner wyrobów gumowych",
+  "desc": "Konfekcjonerzy wyrobów gumowych wytwarzają produkty gumowe takie jak butelki na wodę, płetwy do pływania i rękawice gumowe. Mocują skuwki, sprzączki i paski do wyrobów z gumy, a także owijają materiałową taśmę wokół zapięć i skuwek.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Mocujesz skuwki i sprzączki do gumy",
+   "Przyczepiasz paski do gotowych wyrobów",
+   "Owijasz zapięcia taśmą materiałową",
+   "Odkładasz wyroby z wadami"
+  ]
+ },
+ {
+  "id": 367,
+  "name": "Monter fajerwerków",
+  "desc": "Monterzy fajerwerków tworzą urządzenia wybuchowe, kolorowe światła i zestawiają elementy do użytku jako wyroby pirotechniczne. Przestrzegają planów lub rysunków, wytwarzają różne proszki, umieszczają proszek w osłonkach lub rurkach, montują wszystkie części i kontrolują produkt końcowy.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Czytasz plan i rysunek wyrobu",
+   "Przygotowujesz osłonki i rurki do składania",
+   "Składasz części w gotowy wyrób",
+   "Kontrolujesz produkt końcowy przed zapakowaniem"
+  ]
+ },
+ {
+  "id": 368,
+  "name": "Monter konstrukcji stalowych",
+  "desc": "Monterzy konstrukcji stalowych dopasowują i mocują materiały metalowe zgodnie z ściśle określonymi procedurami w celu produkcji różnych części lub produktów końcowych przy użyciu elektronarzędzi, narzędzi ręcznych i innych maszyn.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Czytasz rysunki techniczne konstrukcji",
+   "Docinasz i dopasowujesz elementy metalowe",
+   "Łączysz części elektronarzędziami",
+   "Sprawdzasz wymiary gotowego elementu"
+  ]
+ },
+ {
+  "id": 369,
+  "name": "Monter mebli",
+  "desc": "Monterzy mebli gromadzą wszystkie części mebli i elementy pomocnicze, takie jak nogi i poduchy mebli. Mogą również dopasowywać sprężyny lub mechanizmy specjalne. Monterzy mebli przestrzegają instrukcji lub planów montażu mebli i korzystają z narzędzi ręcznych i elektronarzędzi.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Czytasz instrukcję lub plan montażu",
+   "Łączysz korpus, nogi i fronty",
+   "Montujesz sprężyny i mechanizmy",
+   "Sprawdzasz, czy mebel stoi prosto"
+  ]
+ },
+ {
+  "id": 370,
+  "name": "Monter rowerów",
+  "desc": "Monterzy rowerów budują, regulują i zapewniają sprawny tryb pracy wszystkich rodzajów rowerów, takich jak rowery górskie, rowery drogowe, rowery dziecięce itp. Montują oni również akcesoria dodatkowe, takie jak zawieszki i przyczepy.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Składasz ramę, koła i kierownicę",
+   "Ustawiasz hamulce i przerzutki",
+   "Montujesz błotniki, przyczepki i inne dodatki",
+   "Sprawdzasz działanie roweru na stojaku"
+  ]
+ },
+ {
+  "id": 371,
+  "name": "Monter urządzeń medycznych",
+  "desc": "Monterzy urządzeń medycznych wytwarzają przyrządy, maszyny i urządzenia, które mogą być używane do profilaktyki, diagnostyki lub leczenia stanów chorobowych. Urządzenia medyczne mogą być nieelektryczne, takie jak rurki, igły, zestawy do drenażu i jałowe pipety, a także elektryczne, takie jak rozruszniki serca, urządzenia RM i urządzenia rentgenowskie. Niektórzy mogą również pracować przy produkcji mebli medycznych, takich jak łóżka szpitalne i stoły operacyjne.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Składasz elementy według dokumentacji",
+   "Pracujesz w czystych warunkach",
+   "Sprawdzasz szczelność i działanie wyrobu",
+   "Zapisujesz numery partii i wyniki"
+  ]
+ },
+ {
+  "id": 372,
+  "name": "Monter wyrobów z drewna",
+  "desc": "Monterzy wyrobów z drewna składają produkty z wcześniej wykonanych elementów drewnianych. Obsługują maszyny, często hydrauliczne, które łączą różne elementy produktu przy użyciu połączeń, kleju lub innych elementów łączących. Monterzy układają elementy w miejscu, obsługują maszynę i zwracają uwagę na problemy.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Układasz drewniane elementy w maszynie",
+   "Nakładasz klej na złącza",
+   "Obsługujesz prasę dociskającą części",
+   "Wyłapujesz krzywe lub pęknięte elementy"
+  ]
+ },
+ {
+  "id": 373,
+  "name": "Monter wyrobów z tworzyw sztucznych",
+  "desc": "Monterzy wyrobów z tworzyw sztucznych dopasowują i mocują części i gotowe produkty z tworzyw sztucznych zgodnie z ściśle określonymi procedurami. Monterzy wyrobów z tworzyw sztucznych mogą również ciąć i kształtować części z tworzyw sztucznych przy użyciu narzędzi ręcznych, elektronarzędzi i maszyn.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Dopasowujesz części z tworzywa sztucznego",
+   "Mocujesz je zatrzaskami, wkrętami lub klejem",
+   "Przycinasz nadmiar tworzywa",
+   "Sprawdzasz, czy produkt spełnia wymagania"
+  ]
+ },
+ {
+  "id": 374,
+  "name": "Operator maszyn do produkcji mebli metalowych",
+  "desc": "Operatorzy maszyn do produkcji mebli metalowych wykorzystują maszyny i elektronarzędzia do cięcia, kształtowania i łączenia elementów metalowych w celu wyprodukowania mebli metalowych, od wyposażenia biurowego do wyposażenia zewnętrznego. Korzystają z różnych rodzajów metali, takich jak aluminium, żelazo i stal nierdzewna, oraz z różnych rodzajów procesów, takich jak formowanie i odlewanie metali. Polerują, nanoszą warstwy ochronne, a w niektórych przypadkach dekoracyjne wykończenie na elementy metalowe. Montują i łączą elementy w celu uzyskania produktu końcowego.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Tniesz i wyginasz elementy z metalu",
+   "Łączysz części maszynami i elektronarzędziami",
+   "Polerujesz i zabezpieczasz powierzchnię",
+   "Montujesz gotowy mebel i go oglądasz"
+  ]
+ },
+ {
+  "id": 375,
+  "name": "Składacz biżuterii",
+  "desc": "Składacze biżuterii montują części biżuterii w celu utworzenia różnych rodzajów biżuterii, takich jak bransoletki, naszyjniki lub kolczyki. Chwytają łączniki szczypcami lub umieszczają łącznik w szczelinie kółka łączącego, rozkręcają połączenia ogniw do ich otwarcia przy użyciu szczypiec, łączą wszystkie części i naprawiają przerwane łańcuszki.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Otwierasz i zamykasz ogniwa szczypcami",
+   "Nanizujesz koraliki i zawieszki na łańcuszek",
+   "Mocujesz zapięcia do końców łańcuszka",
+   "Naprawiasz zerwane łańcuszki"
+  ]
+ },
+ {
+  "id": 376,
+  "name": "Monter części samochodowych",
+  "desc": "Monterzy części samochodowych łączą części i komponenty pojazdów silnikowych. Korzystają z narzędzi ręcznych i elektronarzędzi do łączenia drutów i przewodów, umieszczania i dopasowania części. Monterzy części samochodowych ustawiają również programowalne urządzenia lub roboty. Testują oni montaż i urządzenia elektryczne i kontrolują poszczególne części pod kątem nieprawidłowości. Sprawdzają jakość montażu, aby upewnić się, czy spełnione zostały normy i czy przestrzegane są specyfikacje.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Montujesz podzespoły narzędziami ręcznymi",
+   "Łączysz przewody i wtyki",
+   "Ustawiasz urządzenia programowalne i roboty",
+   "Testujesz zmontowany element i szukasz wad"
+  ]
+ },
+ {
+  "id": 377,
+  "name": "Monter nadwozi",
+  "desc": "Monterzy nadwozi zajmują się montażem mocują razem części i elementy nadwozia pojazdów silnikowych, takie jak ramy, drzwi, podwozie i okapy. Korzystają z narzędzi ręcznych, elektronarzędzi i innych urządzeń, takich jak maszyny CNC lub roboty. Zapoznają się z planami technicznymi i korzystają ze zautomatyzowanych urządzeń montażowych w celu budowy nadwozia pojazdów silnikowych. Kontrolują oni poszczególne części pod kątem nieprawidłowego działania i sprawdzają jakość montażu, aby upewnić się, czy spełnione zostały normy i czy przestrzegane są specyfikacje.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Zgrywasz drzwi, ramy i pokrywy",
+   "Łączysz blachy narzędziami i urządzeniami",
+   "Obsługujesz roboty i zautomatyzowane stanowiska",
+   "Mierzysz szczeliny i sprawdzasz zgodność z planem"
+  ]
+ },
+ {
+  "id": 378,
+  "name": "Monter pojazdów samochodowych",
+  "desc": "Monterzy pojazdów samochodowych instalują i składają prefabrykowane części i komponenty samochodowe. Kontrolują oni pojazdy silnikowe pod kątem wad oraz testują zmontowane wyposażenie w celu jego właściwego działania i zgodności z normami jakościowymi.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Instalujesz prefabrykowane podzespoły w pojeździe",
+   "Sprawdzasz pojazd pod kątem wad",
+   "Testujesz zamontowane wyposażenie",
+   "Porównujesz wynik z normami jakości"
+  ]
+ },
+ {
+  "id": 379,
+  "name": "Monter silników pojazdów samochodowych",
+  "desc": "Monterzy silników pojazdów samochodowych budują i instalują prefabrykowane części do formowania silników pojazdów silnikowych, takich jak silniki wysokoprężne, gazowe, benzynowe i elektryczne. Zapoznają się ze specyfikacjami i rysunkami technicznymi w celu określenia instrukcji dotyczących materiałów i montażu. Kontrolują i badają silniki i odrzucają niesprawne elementy.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Czytasz rysunki techniczne i specyfikacje",
+   "Montujesz kolejne podzespoły silnika według instrukcji",
+   "Dokręcasz śruby z wymaganą siłą",
+   "Badasz gotowy silnik i odrzucasz wadliwe części"
+  ]
+ },
+ {
+  "id": 380,
+  "name": "Monter lotniczy",
+  "desc": "Monterzy lotniczy korzystają z narzędzi ręcznych, elektronarzędzi i innych urządzeń, takich jak maszyny CNC lub roboty, do budowy, wyposażenia i instalacji części prefabrykowanych do produkcji stałopłatów oraz statków powietrznych ze skrzydłami obrotowymi, takimi jak kontrolery lotu, powłoki statków powietrznych, takielunek i inne systemy mechaniczne itp. Zapoznają się z planami i interpretują je. Obsługują systemy kontroli w celu określenia charakterystyki funkcjonalnej zespołów i odpowiednio się do nich dostosowują.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Czytasz plany i rysunki techniczne",
+   "Montujesz poszycie i elementy sterowania",
+   "Instalujesz układy mechaniczne w kadłubie",
+   "Sprawdzasz, jak działa zmontowany zespół"
+  ]
+ },
+ {
+  "id": 381,
+  "name": "Monter silników lotniczych",
+  "desc": "Monterzy silników lotniczych budują i instalują części prefabrykowane, aby tworzyć silniki lotnicze, takie jak lekkie silniki tłokowe i turbiny gazowe. Zapoznają się ze specyfikacjami i rysunkami technicznymi w celu określenia instrukcji dotyczących materiałów i montażu. Kontrolują i badają silniki i odrzucają niesprawne elementy.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Montujesz części silnika według rysunków",
+   "Dopasowujesz łopatki, wały i obudowy",
+   "Badasz silnik po złożeniu",
+   "Zapisujesz w dokumentacji numery zamontowanych części"
+  ]
+ },
+ {
+  "id": 382,
+  "name": "Monter maszyn i urządzeń okrętowych",
+  "desc": "Monterzy maszyn i urządzeń okrętowych budują i instalują części prefabrykowane do formowania silników stosowanych dla wszystkich rodzajów statków, takich jak silniki elektryczne, reaktory jądrowe, silniki z turbinami gazowymi, silniki przyczepne, dwusuwowe lub czterosuwowe silniki wysokoprężne oraz, w niektórych przypadkach, morskie silniki parowe. Zapoznają się ze specyfikacjami i rysunkami technicznymi w celu określenia instrukcji dotyczących materiałów i montażu. Kontrolują i badają silniki i odrzucają niesprawne elementy.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Czytasz rysunki i specyfikacje silnika",
+   "Przenosisz ciężkie części suwnicą",
+   "Instalujesz wały, cylindry i osprzęt",
+   "Badasz silnik i odrzucasz wadliwe części"
+  ]
+ },
+ {
+  "id": 383,
+  "name": "Monter maszyn i urządzeń przemysłowych",
+  "desc": "Monterzy maszyn i urządzeń przemysłowych wytwarzają urządzenia przemysłowe, takie jak roboty przemysłowe, maszyny do montażu i maszyny do etykietowania. Korzystają z narzędzi ręcznych i maszyn sterowanych komputerowo.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Składasz ramy i mechanizmy maszyn",
+   "Montujesz napędy, prowadnice i czujniki",
+   "Korzystasz z maszyn sterowanych komputerowo",
+   "Uruchamiasz maszynę i usuwasz usterki"
+  ]
+ },
+ {
+  "id": 384,
+  "name": "Monter mechatronik",
+  "desc": "Monterzy mechatronicy montują i konserwują złożone urządzenia i maszyny mechatroniczne, takie jak roboty, windy i zaawansowane urządzenia gospodarstwa domowego. Budują oni komponenty mechaniczne, elektryczne i elektroniczne, instalują oprogramowanie, ustawiają działanie systemów oraz konserwują i naprawiają komponenty i systemy.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Składasz części mechaniczne i elektryczne",
+   "Instalujesz oprogramowanie w urządzeniu",
+   "Ustawiasz i uruchamiasz cały system",
+   "Szukasz usterek i naprawiasz podzespoły"
+  ]
+ },
+ {
+  "id": 385,
+  "name": "Monter motocykli",
+  "desc": "Monterzy motocykli montują części i elementy motocykli, takie jak ramy, koła, silniki itd. W tym celu korzystają z narzędzi ręcznych, elektronarzędzi i innych urządzeń, takich jak maszyny CNC i roboty. Zapoznają się z planami technicznymi i korzystają ze zautomatyzowanych urządzeń montażowych do budowy motocykli. Kontrolują oni poszczególne części pod kątem nieprawidłowego działania i sprawdzają jakość montażu, aby upewnić się, czy spełnione zostały normy i czy przestrzegane są specyfikacje.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Mocujesz silnik w ramie",
+   "Zakładasz koła, zawieszenie i hamulce",
+   "Korzystasz z zautomatyzowanych urządzeń montażowych",
+   "Kontrolujesz części i jakość montażu"
+  ]
+ },
+ {
+  "id": 386,
+  "name": "Monter taboru szynowego",
+  "desc": "Monterzy taboru szynowego korzystają z narzędzi ręcznych, elektronarzędzi i innych urządzeń, takich jak podnośniki lub roboty, do budowy, wyposażenia i instalacji części prefabrykowanych do produkcji podzespołów taboru i konstrukcji nadwozia. Zapoznają się z planami i interpretują je. Obsługują systemy kontroli w celu określenia charakterystyki funkcjonalnej zespołów i odpowiednio się do nich dostosowują.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Czytasz plany i interpretujesz rysunki",
+   "Montujesz podzespoły i konstrukcję nadwozia",
+   "Używasz podnośników do dużych elementów",
+   "Sprawdzasz działanie zespołów systemem kontrolnym"
+  ]
+ },
+ {
+  "id": 387,
+  "name": "Operator urządzeń do tłoczenia dysków optycznych",
+  "desc": "Operatorzy urządzeń do tłoczenia dysków optycznych dozorują maszyny do tłoczenia, które stapiają peletki z poliwęglanu i wstrzykują tworzywo sztuczne do zagłębienia formy. Tworzywo sztuczne jest wówczas schładzane i ulega zestaleniu, opatrzone znakami, które można cyfrowo odczytać.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Dozorujesz maszynę do tłoczenia",
+   "Uzupełniasz granulat w podajniku",
+   "Obserwujesz proces chłodzenia płyt",
+   "Wyławiasz wadliwe płyty z partii"
+  ]
+ },
+ {
+  "id": 388,
+  "name": "Operator wtryskarki",
+  "desc": "Operatorzy wtryskarek obsługują i monitorują maszyny do formowania wtryskowego, w celu odlewania produktów z materiałów termoplastycznych. Regulują oni temperaturę, ciśnienie i objętość tworzywa sztucznego, zgodnie z wcześniej określonymi specyfikacjami. Operatorzy wtryskarek zdejmują również gotowe produkty i odcinają nadwyżki materiału przy użyciu noża lub innych narzędzi ręcznych.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Ustawiasz temperaturę, ciśnienie i ilość tworzywa",
+   "Zdejmujesz gotowe wyroby z formy",
+   "Obcinasz nadmiar nożykiem",
+   "Monitorujesz pracę maszyny cykl po cyklu"
+  ]
+ },
+ {
+  "id": 389,
+  "name": "Laminator włóknem szklanym",
+  "desc": "Laminatorzy włóknem szklanym formują materiały z włókna szklanego w celu utworzenia kadłubów i pokładów łodzi. Czytają plany i stosują narzędzia ręczne i elektronarzędzia do cięcia materiałów kompozytowych. Nanoszą woski i lakiery oraz przygotowują powierzchnie do umieszczenia mat z włókien szklanych. Stosują włókno szklane nasycone żywicą do związania wzmacniających skrawków z drewna w strukturach kabin i pokładów. Przygotowują również materiały, poddając je ekspozycji na właściwą temperaturę. Sprawdzają gotowe produkty pod kątem wad i dopilnowują, aby były one zgodne ze specyfikacjami.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Przygotowujesz formę woskiem i lakierem",
+   "Tniesz maty ze szkła według planu",
+   "Układasz maty i nasycasz je żywicą",
+   "Sprawdzasz gotowy element pod kątem wad"
+  ]
+ },
+ {
+  "id": 390,
+  "name": "Operator maszyn do formowania próżniowego",
+  "desc": "Operatorzy maszyn do formowania próżniowego obsługują, kontrolują i konserwują maszyny ogrzewające arkusze tworzywa sztucznego przed obróceniem ich w formie, przy użyciu przyssawki próżniowej; po schłodzeniu tych arkuszy są one trwale zestalone w kształt formy.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Wkładasz arkusze tworzywa do maszyny",
+   "Pilnujesz nagrzewania i zasysania",
+   "Wyjmujesz schłodzone wyroby z formy",
+   "Konserwujesz maszynę i sprawdzasz formy"
+  ]
+ },
+ {
+  "id": 391,
+  "name": "Operator maszyn do nawijania rurek izolacyjnych",
+  "desc": "Operatorzy maszyn do nawijania rurek izolacyjnych ustawiają i obsługują maszynę do nawijania rurek izolacyjnych i cięcia ich na określone wymiary.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Ustawiasz maszynę na wymiar zamówienia",
+   "Zakładasz materiał do nawijania",
+   "Kontrolujesz długość pociętych rurek",
+   "Odkładasz gotowe rurki do skrzyń"
+  ]
+ },
+ {
+  "id": 392,
+  "name": "Operator maszyn do produkcji mebli z tworzyw sztucznych",
+  "desc": "Operatorzy maszyn do produkcji mebli z tworzyw sztucznych dozorują maszyny do obróbki tworzyw sztucznych, które wytwarzają elementy, takie jak krzesła i stoły z tworzyw sztucznych. Sprawdzają oni każdy otrzymany produkt, wykrywają nieprawidłowości i usuwają nieodpowiednie części. W niektórych przypadkach mogą montować różne części z tworzyw sztucznych w celu uzyskania produktu końcowego.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Dozorujesz maszyny do obróbki tworzyw",
+   "Sprawdzasz każdy wyrób pod kątem wad",
+   "Usuwasz niewłaściwe części z linii",
+   "Montujesz nogi i oparcia z tworzywa"
+  ]
+ },
+ {
+  "id": 393,
+  "name": "Operator maszyn do pultruzji",
+  "desc": "Operatorzy maszyn do pultruzji obsługują, kontrolują i konserwują maszyny, które umożliwiają wytwarzanie materiałów kompozytowych o spójnych przekrojach, poprzez dodanie włókien wzmacniających, takich jak włókna szklane, do istniejącego materiału i powlekanie uzyskanego w ten sposób materiału żywicą; następnie jest on przeciągany przez ogrzaną matrycę, gdzie ulega utwardzeniu.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Zakładasz szpule z włóknem do maszyny",
+   "Kontrolujesz nasycenie włókien żywicą",
+   "Pilnujesz temperatury i prędkości przeciągania",
+   "Tniesz gotowy profil na zadane długości"
+  ]
+ },
+ {
+  "id": 394,
+  "name": "Operator maszyn do walcowania tworzyw sztucznych",
+  "desc": "Operatorzy maszyn do walcowania tworzyw sztucznych obsługują i monitorują maszyny do wytwarzania walców z tworzyw sztucznych lub do spłaszczania i redukowania materiału. Badają oni surowce i produkty gotowe, aby upewnić się, czy są one zgodne ze specyfikacjami.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Ustawiasz walce na grubość materiału",
+   "Ładujesz surowiec do maszyny",
+   "Mierzysz grubość gotowej folii",
+   "Zdejmujesz rolki i opisujesz je"
+  ]
+ },
+ {
+  "id": 395,
+  "name": "Operator nawijarki do włókien",
+  "desc": "Operatorzy nawijarek do włókien obsługują, kontrolują i konserwują maszyny do powlekania nici, zwykle z włókna szklanego lub węglowych, w żywicy i nawijania ich wokół obrotowej formy w celu wytworzenia rur, pojemników, tub i innych wydrążonych produktów cylindrycznych.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Zakładasz szpule z nićmi szklanymi lub węglowymi",
+   "Kontrolujesz powlekanie nici żywicą",
+   "Pilnujesz kąta i naciągu nawijania",
+   "Zdejmujesz utwardzoną rurę z formy"
+  ]
+ },
+ {
+  "id": 396,
+  "name": "Operator pras do formowania tłocznego",
+  "desc": "Operatorzy pras do formowania tłocznego ustawiają i obsługują maszyny do formowania produktów z tworzyw sztucznych, zgodnie z wymogami. Wybierają i instalują matryce na prasie. Operatorzy pras do formowania tłocznego odważają wymaganą ilość przedmieszki związku i wlewają ją do dołka w matrycy. Regulują temperaturę matryc.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Wybierasz i zakładasz matryce na prasę",
+   "Odważasz porcję materiału do formy",
+   "Regulujesz temperaturę matryc",
+   "Wyjmujesz wyprasowane wyroby i oceniasz je"
+  ]
+ },
+ {
+  "id": 397,
+  "name": "Operator prasy do form do pieczenia ciast",
+  "desc": "Operatorzy prasy do form do pieczenia ciast ustawiają i dozorują prasy hydrauliczne, które zgniatają i wypiekają plastikowe wióry w formy do pieczenia ciast w celu wytworzenia arkuszy tworzywa sztucznego. Regulują i dostosowują ciśnienie i temperaturę.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Ustawiasz prasę hydrauliczną",
+   "Wsypujesz plastikowe wióry do formy",
+   "Regulujesz ciśnienie i temperaturę",
+   "Wyjmujesz arkusze i sprawdzasz ich wygląd"
+  ]
+ },
+ {
+  "id": 398,
+  "name": "Operator rozdmuchiwarki",
+  "desc": "Operatorzy rozdmuchiwarek obsługują i monitorują rozdmuchiwarkę do formowania wyrobów z tworzyw sztucznych, zgodnie z wymogami. Regulują temperaturę, ciśnienie powietrza i objętość tworzywa sztucznego, zgodnie ze specyfikacjami. Operatorzy rozdmuchiwarek usuwają wyroby gotowe i odcinają nadwyżki materiału przy użyciu noża. Przeszlifowują przy użyciu szlifierki nadwyżki materiału i odrzucone obrabiane materiały do ponownego wykorzystania.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Ustawiasz temperaturę i ciśnienie powietrza",
+   "Kontrolujesz ilość tworzywa w cyklu",
+   "Odcinasz nadmiar nożem",
+   "Mielisz odpady do ponownego użycia"
+  ]
+ },
+ {
+  "id": 399,
+  "name": "Operator urządzeń do natryskowego laminowania włóknem szklanym",
+  "desc": "Operatorzy urządzeń do natryskowego laminowania włóknem szklanym kontrolują i konserwują maszynę, która rozpyla mieszankę żywicy i włókien szklanych na produkty takie jak wanny lub kadłuby łodzi, aby uzyskać mocne i lekkie kompozytowe produkty końcowe.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Obsługujesz urządzenie natryskowe",
+   "Kontrolujesz grubość nakładanej warstwy",
+   "Konserwujesz maszynę i czyścisz dysze",
+   "Sprawdzasz gotowy produkt pod kątem wad"
+  ]
+ },
+ {
+  "id": 400,
+  "name": "Operator urządzeń do obróbki cieplnej tworzyw sztucznych",
+  "desc": "Operatorzy urządzeń do obróbki cieplnej tworzyw sztucznych manipulują produktami z tworzyw sztucznych, wykorzystując maszyny takie jak piece lub maszyny do utwardzania płomieniowego w celu zahartowania, wyżarzenia lub obróbki cieplnej. Ustawiają maszyny i czytają instrukcje produkcyjne w celu ustalenia temperatury pieca. Operatorzy urządzeń do obróbki cieplnej tworzyw sztucznych zdejmują produkty z maszyn, pozostawiają je do schłodzenia, badają i testują produkty, aby sprawdzić, czy są zgodne ze specyfikacjami.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Ustawiasz piec według instrukcji produkcji",
+   "Ładujesz wyroby do pieca",
+   "Zdejmujesz i studzisz gotowe produkty",
+   "Badasz, czy wyrób spełnia wymagania"
+  ]
+ },
+ {
+  "id": 401,
+  "name": "Operator urządzeń do tłoczenia płyt winylowych",
+  "desc": "Operatorzy urządzeń do tłoczenia płyt winylowych dozorują maszynę, która tłoczy płytę winylową z negatywnym wytłoczeniem płyty wzorcowej. Po przyłożeniu nacisku płyta winylowa jest wciskana do rowków płyty wzorcowej i uzyskuje się nagranie nadające się do odtwarzania.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Zakładasz matryce i krążki winylu",
+   "Obsługujesz prasę tłoczącą płyty",
+   "Obcinasz brzegi tłoczonej płyty",
+   "Oglądasz płyty i odkładasz wadliwe"
+  ]
+ },
+ {
+  "id": 402,
+  "name": "Operator krajarki do papieru",
+  "desc": "Operatorzy krajarek do papieru dozorują maszynę, która tnie papier do pożądanego rozmiaru i kształtu. Operatorzy krajarek do papieru mogą także ciąć i perforować inne materiały w arkuszach, takie jak folia metalowa.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Ustawiasz wymiary cięcia na maszynie",
+   "Układasz stos papieru pod nóż",
+   "Tniesz i perforujesz arkusze",
+   "Mierzysz pocięte arkusze"
+  ]
+ },
+ {
+  "id": 403,
+  "name": "Operator maszyn do produkcji kopert",
+  "desc": "Operatorzy maszyn do produkcji kopert dozorują maszynę, która pobiera papier i wykonuje kolejne etapy wytwarzania kopert: tnie i zagina papier, klei go, następnie nanosi słabszy klej gatunku spożywczego na klapkę koperty, aby konsument mógł ją zakleić.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Ładujesz papier do podajnika maszyny",
+   "Kontrolujesz cięcie, zagięcia i klejenie",
+   "Uzupełniasz klej na klapki",
+   "Sprawdzasz koperty i wyjmujesz wadliwe"
+  ]
+ },
+ {
+  "id": 404,
+  "name": "Operator maszyn do produkcji toreb papierowych",
+  "desc": "Operatorzy maszyn do produkcji toreb papierowych dozorują maszynę, która pobiera papier, zagina go i klei w celu wytworzenia toreb papierowych o różnych rozmiarach, kształtach i stopniach wytrzymałości.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Zakładasz rolki lub arkusze papieru",
+   "Ustawiasz maszynę na rozmiar toreb",
+   "Sprawdzasz dno i szwy",
+   "Układasz gotowe torby w paczkach"
+  ]
+ },
+ {
+  "id": 405,
+  "name": "Operator maszyn do produkcji wkładów chłonnych",
+  "desc": "Operatorzy maszyn do produkcji wkładów chłonnych dozorują maszynę, która pobiera włókna celulozowe i zgniata je do wysoce chłonnego materiału podkładowego do stosowania w produktach higienicznych takich jak pieluszki i tampony.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Zasilasz maszynę włóknami celulozowymi",
+   "Kontrolujesz grubość i gęstość materiału",
+   "Usuwasz zacięcia na linii",
+   "Pobierasz próbki do sprawdzenia chłonności"
+  ]
+ },
+ {
+  "id": 406,
+  "name": "Operator maszyn do składania produktów z tektury",
+  "desc": "Operatorzy maszyn do składania produktów z tektury tworzą elementy lub części wykonane z tektury według ściśle ustalonych procedur. Składają oni produkty takie jak tuby, szpule, pudełka kartonowe, talerzyki papierowe i tektury do prac plastycznych.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Zakładasz arkusze tektury do podajnika",
+   "Ustawiasz maszynę do składania konkretnego produktu",
+   "Kontrolujesz kształt i wymiary",
+   "Układasz złożone produkty w kartonach"
+  ]
+ },
+ {
+  "id": 407,
+  "name": "Operator przewijarki do papieru toaletowego",
+  "desc": "Operatorzy przewijarek do papieru toaletowego dozorują maszynę, która pobiera bibułę, wykonuje perforacje i przewija ją w celu wytworzenia różnych rodzajów papieru toaletowego.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Zakładasz duże rolki bibuły",
+   "Ustawiasz długość i perforację",
+   "Obserwujesz przewijanie rolek",
+   "Wyjmujesz zgniecione i luźne rolki"
+  ]
+ },
+ {
+  "id": 408,
+  "name": "Operator tekturnicy",
+  "desc": "Operatorzy tekturnic dozorują maszynę, która zagina arkusz ciężkiego papieru w falisty wzór i pokrywa go po obu stronach, aby utworzyć lekkie, wytrzymałe materiały nadające się do pakowania.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Zakładasz rolki papieru do maszyny",
+   "Kontrolujesz fale i klejenie warstw",
+   "Mierzysz grubość gotowej tektury",
+   "Tniesz tekturę na arkusze"
+  ]
+ },
+ {
+  "id": 409,
+  "name": "Operator maszyn do produkcji wyrobów gumowych",
+  "desc": "Operatorzy maszyn do produkcji wyrobów gumowych obsługują maszyny, które ugniatają, mieszają, kalandrują, formują, wytłaczają i utwardzają produkty gumowe z kauczuku naturalnego i syntetycznego. Odmierzają oni składniki do mieszania i załadowują je do maszyny. Operatorzy maszyn do produkcji wyrobów gumowych monitorują i kontrolują temperaturę, ciśnienie i prędkość podczas produkcji.",
+  "path": "Przemysł i produkcja > Guma, tworzywa i papier",
+  "tasks": [
+   "Odmierzasz składniki gumy",
+   "Ładujesz je do mieszarki lub maszyny",
+   "Pilnujesz temperatury, ciśnienia i prędkości",
+   "Wytłaczasz i utwardzasz wyroby gumowe"
+  ]
+ },
+ {
+  "id": 410,
+  "name": "Inspektor budownictwa okrętowego",
+  "desc": "Inspektorzy budownictwa okrętowego stosują urządzenia pomiarowe i testujące do kontroli i monitorowania montażu łodzi i statków w celu zapewnienia zgodności ze specyfikacjami technicznymi oraz z normami i przepisami dotyczącymi bezpieczeństwa. Analizują oni zespoły w celu wykrycia nieprawidłowości i uszkodzeń oraz dokonują kontroli prac naprawczych. Dostarczają oni również szczegółowej dokumentacji kontrolnej i zalecają działania w przypadku wykrycia problemów.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Mierzysz zespoły okrętu urządzeniami pomiarowymi",
+   "Szukasz uszkodzeń i nieprawidłowości",
+   "Kontrolujesz wykonane naprawy",
+   "Piszesz raport z zaleceniami"
+  ]
+ },
+ {
+  "id": 411,
+  "name": "Inspektor montażu pojazdów",
+  "desc": "Inspektorzy montażu pojazdów stosują urządzenia pomiarowe i testujące do kontroli i monitorowania montażu pojazdów silnikowych w celu zapewnienia zgodności ze specyfikacjami technicznymi i produkcyjnymi oraz z normami i przepisami dotyczącymi jakości i bezpieczeństwa. Wykrywają nieprawidłowości i uszkodzenia oraz dokonują kontroli prac naprawczych. Dostarczają oni również szczegółowej dokumentacji kontrolnej i zalecają działania w przypadku wykrycia problemów.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Mierzysz i testujesz zmontowane pojazdy",
+   "Szukasz wad lakieru, szczelin i usterek",
+   "Kontrolujesz naprawy po zgłoszeniu wad",
+   "Wypełniasz protokół i zalecasz poprawki"
+  ]
+ },
+ {
+  "id": 412,
+  "name": "Inspektor montażu statków powietrznych",
+  "desc": "Inspektorzy montażu statków powietrznych stosują urządzenia pomiarowe i testujące do kontroli i monitorowania montażu statków powietrznych w celu zapewnienia zgodności ze specyfikacjami technicznymi oraz z normami i przepisami dotyczącymi bezpieczeństwa. Kontrolują oni montaż w celu wykrycia nieprawidłowości lub uszkodzeń oraz dokonują kontroli prac naprawczych. Dostarczają oni również szczegółowej dokumentacji kontrolnej i zalecają działania w przypadku wykrycia problemów.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Oglądasz połączenia i mocowania",
+   "Mierzysz luzy i zgodność z planem",
+   "Kontrolujesz prace naprawcze",
+   "Prowadzisz szczegółową dokumentację kontroli"
+  ]
+ },
+ {
+  "id": 413,
+  "name": "Inspektor montażu taboru kolejowego",
+  "desc": "Inspektorzy montażu taboru kolejowego stosują urządzenia pomiarowe i testujące do kontroli i monitorowania montażu taboru kolejowego w celu zapewnienia zgodności ze specyfikacjami technicznymi oraz normami i przepisami dotyczącymi bezpieczeństwa. Analizują oni zespoły w celu wykrycia nieprawidłowości i uszkodzeń oraz dokonują kontroli prac naprawczych. Dostarczają oni również szczegółowej dokumentacji kontrolnej i zalecają działania w przypadku wykrycia problemów.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Analizujesz zespoły taboru pod kątem uszkodzeń",
+   "Mierzysz wymiary podzespołów",
+   "Sprawdzasz poprawność wykonanych napraw",
+   "Dokumentujesz wyniki kontroli"
+  ]
+ },
+ {
+  "id": 414,
+  "name": "Inspektor montażu wyrobów",
+  "desc": "Inspektorzy montażu wyrobów oceniają produkty pod kątem zgodności ze specyfikacjami i wad zgodnie z wymogami klientów i polityką organizacji. Wykorzystują urządzenia pomiarowe i testujące do zapewnienia zgodności ze specyfikacjami technicznymi i produkcyjnymi, a także normami i przepisami dotyczącymi jakości i bezpieczeństwa. Dostarczają oni również szczegółowej dokumentacji kontrolnej i zalecają działania w przypadku wykrycia problemów.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Oceniasz produkty pod kątem wad",
+   "Mierzysz i testujesz urządzeniami kontrolnymi",
+   "Porównujesz wynik z wymaganiami klienta",
+   "Piszesz zalecenia przy wykryciu problemów"
+  ]
+ },
+ {
+  "id": 415,
+  "name": "Kontroler jakości sprzętu elektronicznego",
+  "desc": "Kontrolerzy jakości sprzętu elektronicznego sprawdzają sprzęt elektroniczny pod kątem wszelkich wad i usterek. Dopilnowują oni, aby sprzęt został prawidłowo zmontowany zgodnie ze specyfikacjami oraz krajowymi i międzynarodowymi przepisami.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Oglądasz płytki i obudowy pod powiększeniem",
+   "Porównujesz montaż z dokumentacją",
+   "Zgłaszasz wady do produkcji",
+   "Dopilnowujesz zgodności z przepisami"
+  ]
+ },
+ {
+  "id": 416,
+  "name": "Kontroler jakości sprzętu elektrycznego",
+  "desc": "Kontrolerzy jakości sprzętu elektrycznego sprawdzają gotowe produkty elektryczne pod kątem wad fizycznych i wadliwych połączeń elektrycznych. Rejestrują wyniki inspekcji i odsyłają wadliwe zespoły do produkcji.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Oglądasz obudowy i połączenia przewodów",
+   "Odnotowujesz wyniki inspekcji w rejestrze",
+   "Odsyłasz wadliwe zespoły do produkcji",
+   "Przyglądasz się oznaczeniom i wtykom"
+  ]
+ },
+ {
+  "id": 417,
+  "name": "Kontroler jakości wyrobów użytkowych",
+  "desc": "Kontrolerzy jakości wyrobów użytkowych oceniają zmontowane części towarów konsumpcyjnych i produktów pod kątem zgodności ze specyfikacjami i wad zgodnie z wymogami klientów i polityką organizacji. Kontrolerzy jakości wyrobów użytkowych przedstawiają wyniki i ustalenia do sprawozdań. Kontrolowane usterki można identyfikować jako pęknięcia, rysy, wady szlifowania oraz wady ruchomych części.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Oglądasz pęknięcia, rysy i wady szlifu",
+   "Sprawdzasz, czy ruchome części chodzą gładko",
+   "Porównujesz wyrób z wymaganiami klienta",
+   "Opisujesz wyniki w sprawozdaniu"
+  ]
+ },
+ {
+  "id": 418,
+  "name": "Inspektor jakości",
+  "desc": "Inspektorzy jakości kontrolują produkty w celu oceny ich zgodności z normami lub referencyjnymi wytycznymi. Dokonują obserwacji, pomiarów, testują i formułują pytania w celu wypełnienia formularzy i przedstawienia poziomów zgodności z uwagami po zakończeniu procesu kontroli. Inspektorzy jakości są zatrudnieni lub pracują zewnętrznie dla przedsiębiorstw.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Obserwujesz proces i mierzysz produkty",
+   "Testujesz próbki z partii",
+   "Zadajesz pytania pracownikom produkcji",
+   "Wypełniasz formularz z uwagami"
+  ]
+ },
+ {
+  "id": 419,
+  "name": "Inspektor jakości instrumentów precyzyjnych",
+  "desc": "Inspektorzy jakości instrumentów precyzyjnych dbają o to, aby urządzenia precyzyjne, takie jak mikrometry i przyrządy pomiarowe, działały zgodnie ze specyfikacjami projektowymi. Mogą oni regulować urządzenia precyzyjne i ich elementy w przypadku jakichkolwiek usterek.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Sprawdzasz dokładność przyrządów pomiarowych",
+   "Porównujesz wskazania ze wzorcem",
+   "Regulujesz instrument i jego elementy",
+   "Odsyłasz przyrząd, który nie spełnia normy"
+  ]
+ }
+]

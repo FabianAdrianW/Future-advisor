@@ -1,0 +1,722 @@
+[
+ {
+  "id": 2160,
+  "name": "Major",
+  "desc": "Majorzy dowodzą dużymi jednostkami oficerów i żołnierzy, nadzorują ich szkolenie dobrostan. Nadzorują oni również ich administrację i zarządzanie sprzętem.",
+  "path": "Bezpieczeństwo i wojsko > Oficerowie",
+  "tasks": [
+   "Dowodzisz batalionem lub sekcją sztabu",
+   "Nadzorujesz szkolenie podwładnych",
+   "Zarządzasz sprzętem i dokumentacją",
+   "Rozmawiasz z żołnierzami o ich problemach"
+  ]
+ },
+ {
+  "id": 2161,
+  "name": "Oficer Marynarki Wojennej",
+  "desc": "Oficerowie Marynarki Wojennej dowodzą misjami w czasie konfliktu i pokoju oraz nadzorują szkolenia i rozwój swoich zespołów. Nadzorują oni działania swoich zespołów, a także misje pomocy i misje patrolowe, aby zapewnić utrzymanie pokoju. Często współpracują regularnie z Departamentem ds. zasobów ludzkich HQCS w celu najlepszego zaplanowania przyszłych potrzeb.",
+  "path": "Bezpieczeństwo i wojsko > Oficerowie",
+  "tasks": [
+   "Dowodzisz wachtą na okręcie",
+   "Planujesz patrole i misje pomocowe",
+   "Szkolisz podwładnych marynarzy",
+   "Planujesz potrzeby kadrowe z działem personalnym"
+  ]
+ },
+ {
+  "id": 2162,
+  "name": "Oficer artylerii",
+  "desc": "Oficerowie artylerii oferują wsparcie w walce w dziedzinie oznaczania celów, koordynacji informacji, nadzoru i broni. Są oni odpowiedzialni za taktykę i rozmieszczanie broni na polu. Są również dowodzącymi żołnierzami.",
+  "path": "Bezpieczeństwo i wojsko > Oficerowie",
+  "tasks": [
+   "Rozmieszczasz działa i wozy na stanowiskach",
+   "Wyznaczasz cele na podstawie danych",
+   "Koordynujesz informacje od obserwatorów",
+   "Dowodzisz obsługami dział"
+  ]
+ },
+ {
+  "id": 2163,
+  "name": "Oficer sił powietrznych",
+  "desc": "Oficerowie sił powietrznych specjalizują się w wykonywaniu obowiązków powietrznych lub naziemnych, a także sprawują nadzór nad zespołem personelu sił powietrznych. Koordynują szkolenia i dobrostan swojego zespołu oraz wykonują obowiązki specyficzne dla swojego obszaru specjalizacji.",
+  "path": "Bezpieczeństwo i wojsko > Oficerowie",
+  "tasks": [
+   "Nadzorujesz zespół personelu lotniczego",
+   "Koordynujesz szkolenia podwładnych",
+   "Wykonujesz zadania swojej specjalizacji",
+   "Kierujesz pracą na stanowisku dowodzenia"
+  ]
+ },
+ {
+  "id": 2164,
+  "name": "Porucznik",
+  "desc": "Porucznicy dowodzą oddziałami plutonów żołnierzy i prowadzą ich w ramach ćwiczeń szkoleniowych i dyscyplinarnych. Wykonują oni również zadania administracyjne i działają jako doradcy.",
+  "path": "Bezpieczeństwo i wojsko > Oficerowie",
+  "tasks": [
+   "Prowadzisz pluton na ćwiczeniach",
+   "Pilnujesz dyscypliny i porządku",
+   "Wypełniasz dokumenty administracyjne",
+   "Doradzasz dowódcy kompanii w sprawach plutonu"
+  ]
+ },
+ {
+  "id": 2165,
+  "name": "Pułkownik",
+  "desc": "Pułkownicy służą personelowi dowódcy wojskowego i pełnią funkcję głównych doradców w procesie podejmowania decyzji o charakterze operacyjnym i strategicznym dla oficerów wyższego szczebla.",
+  "path": "Bezpieczeństwo i wojsko > Oficerowie",
+  "tasks": [
+   "Doradzasz dowódcom w sprawach operacji",
+   "Przygotowujesz analizy do decyzji strategicznych",
+   "Kierujesz pracą sztabu",
+   "Opiniujesz plany wyższych oficerów"
+  ]
+ },
+ {
+  "id": 2166,
+  "name": "Inżynier wojskowy",
+  "desc": "Inżynierowie wojskowi wykonują w wojsku funkcje o charakterze technicznym i naukowym, takie jak opracowywanie koncepcji wojskowego sprzętu technicznego, wspieranie produkcji sprzętu wojskowego, badania techniczne, konserwację i zapewnianie jakości.",
+  "path": "Bezpieczeństwo i wojsko > Żołnierze",
+  "tasks": [
+   "Opracowujesz koncepcje sprzętu wojskowego",
+   "Prowadzisz badania techniczne",
+   "Sprawdzasz jakość produkcji",
+   "Planujesz konserwację sprzętu"
+  ]
+ },
+ {
+  "id": 2167,
+  "name": "Specjalista przechwytywania transmisji komunikacyjnych",
+  "desc": "Specjaliści przechwytywania transmisji komunikacyjnych pracują w siłach powietrznych w rozwoju działań wywiadowczych w miejscach takich jak siedziby główne i stanowiska. Wyszukują i przechwytują fale elektromagnetyczne emitowane w różnych językach.",
+  "path": "Bezpieczeństwo i wojsko > Żołnierze",
+  "tasks": [
+   "Wyszukujesz sygnały radiowe w eterze",
+   "Przechwytujesz transmisje w obcych językach",
+   "Tłumaczysz i analizujesz nagrania",
+   "Przekazujesz informacje wywiadowcze dowództwu"
+  ]
+ },
+ {
+  "id": 2168,
+  "name": "Kapral",
+  "desc": "Kaprale nadzorują odcinki żołnierzy i wykonują polecenia. Zarządzają oni również sprzętem, takim jak maszyny ciężkie i broń.",
+  "path": "Bezpieczeństwo i wojsko > Podoficerowie",
+  "tasks": [
+   "Przydzielasz zadania w drużynie",
+   "Wykonujesz rozkazy dowódcy plutonu",
+   "Nadzorujesz obsługę maszyn i broni",
+   "Sprawdzasz obecność i wyposażenie żołnierzy"
+  ]
+ },
+ {
+  "id": 2169,
+  "name": "Podoficer sił specjalnych",
+  "desc": "Podoficerowie sił specjalnych działają w wyspecjalizowanych misjach, takich jak misje dotyczące walki z terroryzmem. Wykonują misję bojową i wywiadowczą w celu zablokowania sprzętów i instalacji oraz gromadzenia informacji na temat strategii wroga i przemieszczania się.",
+  "path": "Bezpieczeństwo i wojsko > Podoficerowie",
+  "tasks": [
+   "Wykonujesz misje antyterrorystyczne",
+   "Zbierasz informacje o ruchach przeciwnika",
+   "Planujesz misję w małym zespole",
+   "Trenujesz wytrzymałość, strzelanie i łączność"
+  ]
+ },
+ {
+  "id": 2170,
+  "name": "Sierżant",
+  "desc": "Sierżanci dowodzą jednostkami jako drudzy pod względem dowodzenia. Przydzielają oni zadania i obowiązki, nadzorują działanie sprzętu i zapewniają właściwe przeszkolenie personelu. Doradzają również oficerom dowodzącym i pełnią obowiązki w zakresie wsparcia.",
+  "path": "Bezpieczeństwo i wojsko > Podoficerowie",
+  "tasks": [
+   "Przydzielasz zadania żołnierzom",
+   "Nadzorujesz sprzęt i jego obsługę",
+   "Szkolisz podwładnych na ćwiczeniach",
+   "Doradzasz oficerowi dowodzącemu"
+  ]
+ },
+ {
+  "id": 2171,
+  "name": "Specjalista w zakresie działań wojennych",
+  "desc": "Specjalista w zakresie działań wojennych wykonuje zadania strategiczne, takie jak podejmowanie decyzji taktycznych, wykrywanie i identyfikowanie potencjalnych zagrożeń oraz namierzanie celów. Komunikują się oni ze swoim i innymi zespołami w celu zapewnienia skuteczności operacji, a także nadzorują bezpieczeństwo zespołu.",
+  "path": "Bezpieczeństwo i wojsko > Podoficerowie",
+  "tasks": [
+   "Wykrywasz i rozpoznajesz zagrożenia",
+   "Namierzasz cele na ekranach",
+   "Przekazujesz informacje innym zespołom",
+   "Podejmujesz decyzje taktyczne"
+  ]
+ },
+ {
+  "id": 2172,
+  "name": "Funkcjonariusz celny",
+  "desc": "Funkcjonariusze celni walczą z przywozem nielegalnych towarów, broni palnej, narkotyków lub innych niebezpiecznych lub nielegalnych przedmiotów, kontrolując jednocześnie legalność towarów przewożonych przez granice kraju. Są to urzędnicy państwowi, którzy kontrolują dokumenty, aby zapewnić przestrzeganie kryteriów wjazdu i przepisów prawa celnego, oraz kontrolują prawidłowe opłacanie podatków celnych.",
+  "path": "Bezpieczeństwo i wojsko > Funkcjonariusze celni i ochrony granic",
+  "tasks": [
+   "Sprawdzasz dokumenty przewożonych towarów",
+   "Kontrolujesz samochody i ładunki",
+   "Szukasz broni, narkotyków i towarów nielegalnych",
+   "Pilnujesz opłat celnych i podatków"
+  ]
+ },
+ {
+  "id": 2173,
+  "name": "Pracownik ds. kontroli bezpieczeństwa bagażu",
+  "desc": "Pracownicy ds. kontroli bezpieczeństwa bagażu przeprowadzają kontrolę bagażu osób w celu wykrycia potencjalnych przedmiotów zagrażających bezpieczeństwu. Ich działania są zgodne z przepisami dotyczącymi bezpieczeństwa publicznego i procedurą firmy.",
+  "path": "Bezpieczeństwo i wojsko > Funkcjonariusze celni i ochrony granic",
+  "tasks": [
+   "Oglądasz obrazy bagaży na ekranie",
+   "Rozpoznajesz niebezpieczne przedmioty po kształcie",
+   "Prosisz o otwarcie podejrzanej torby",
+   "Stosujesz procedury kontroli"
+  ]
+ },
+ {
+  "id": 2174,
+  "name": "Urzędnik do spraw imigracji",
+  "desc": "Urzędnicy ds. imigracji monitorują kwalifikowalność osób, żywności, urządzeń elektronicznych i towarów wprowadzanych do danego kraju przez miejsce wprowadzenia. Stosują metody nadzoru oraz kontrolują tożsamość i dokumenty, aby zapewnić przestrzeganie kryteriów wjazdu i przepisów celnych. Mogą również przeprowadzać rozmowy z przyszłymi imigrantami w celu sprawdzenia ich kwalifikowalności oraz kontrolować ładunki w celu stwierdzenia i wykrycia naruszeń.",
+  "path": "Bezpieczeństwo i wojsko > Funkcjonariusze celni i ochrony granic",
+  "tasks": [
+   "Sprawdzasz paszporty i wizy",
+   "Przeprowadzasz rozmowy z przyjezdnymi",
+   "Weryfikujesz tożsamość i cel wjazdu",
+   "Kontrolujesz ładunki i towary"
+  ]
+ },
+ {
+  "id": 2175,
+  "name": "Detektyw w policji",
+  "desc": "Detektywi w policji zbierają i opracowują dowody pomocne w rozwiązywaniu problemu przestępstw. Wykorzystują oni techniki śledcze do gromadzenia dowodów i przeprowadzania rozmów ze wszystkimi stronami w związku z postępowaniem oraz współpracują z innymi oddziałami policji w zakresie gromadzenia dowodów.",
+  "path": "Bezpieczeństwo i wojsko > Policjanci służby kryminalnej",
+  "tasks": [
+   "Zbierasz i zabezpieczasz dowody",
+   "Przesłuchujesz świadków i podejrzanych",
+   "Analizujesz akta sprawy",
+   "Współpracujesz z innymi wydziałami policji"
+  ]
+ },
+ {
+  "id": 2176,
+  "name": "Inspektor policji",
+  "desc": "Inspektorzy policji koordynują i nadzorują wydział w departamencie policji. Zapewniają oni przestrzeganie przez wydział zasad i przepisów oraz monitorują pracę personelu oraz przydzielanie mu zadań. Pełnią oni obowiązki administracyjne w celu zagwarantowania prowadzenia rejestrów i sprawozdań, a także mogą opracowywać wytyczne regulacyjne.",
+  "path": "Bezpieczeństwo i wojsko > Policjanci służby kryminalnej",
+  "tasks": [
+   "Nadzorujesz pracę wydziału policji",
+   "Przydzielasz zadania funkcjonariuszom",
+   "Sprawdzasz rejestry i sprawozdania",
+   "Opracowujesz wytyczne dla podwładnych"
+  ]
+ },
+ {
+  "id": 2177,
+  "name": "Specjalista do spraw animacji multimedialnej",
+  "desc": "Specjaliści do spraw animacji multimedialnej używają oprogramowania do tworzenia animacji, czyli obrazów ułożonych w jedną sekwencję, aby stworzyć złudzenie ruchu.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Rysujesz ruchome elementy animacji",
+   "Układasz obrazy w sekwencję",
+   "Dopasowujesz animację do dźwięku i tekstu",
+   "Przygotowujesz pliki dla stron i aplikacji"
+  ]
+ },
+ {
+  "id": 2178,
+  "name": "Animator poklatkowy",
+  "desc": "Animatorzy poklatkowi tworzą animacje z wykorzystaniem kukiełek lub modeli z gliny.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Lepisz postacie i dekoracje z gliny",
+   "Poruszasz lalki o milimetry",
+   "Fotografujesz każdą klatkę osobno",
+   "Montujesz zdjęcia w film"
+  ]
+ },
+ {
+  "id": 2179,
+  "name": "Artysta sztuki cyfrowej",
+  "desc": "Artyści sztuki cyfrowej tworzą sztukę, która wykorzystuje technologię cyfrową jako zasadniczą część procesu twórczego. Sztuka cyfrowa jest zwykle tworzona za pomocą komputerów lub bardziej specjalistycznego sprzętu cyfrowego. Może korzystać z tych samych instrumentów, udostępnianych przez internet lub przedstawianych za pomocą bardziej tradycyjnych mediów.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Szkicujesz pomysł i dobierasz technikę",
+   "Tworzysz obraz lub animację na komputerze",
+   "Programujesz reakcję pracy na ruch widza",
+   "Przygotowujesz pracę do pokazu na wystawie"
+  ]
+ },
+ {
+  "id": 2180,
+  "name": "Dyrektor artystyczny",
+  "desc": "Dyrektorzy artystyczni kształtują układ wizualny koncepcji. Tworzą oni innowacyjne projekty, opracowują projekty artystyczne i zarządzają współpracą między wszystkimi zaangażowanymi aspektami. Dyrektorzy artystyczni mogą prowadzić działalność twórczą w teatrze, w ramach marketingu, w reklamie, podczas nagrań filmów w branży modowej oraz w spółkach online. Gwarantują, że wykonane prace będą wizualnie atrakcyjne dla odbiorców.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Opracowujesz wizualną koncepcję projektu",
+   "Dobierasz kolory, zdjęcia i styl",
+   "Wydajesz zespołowi wskazówki do pracy",
+   "Oceniasz gotowe materiały przed oddaniem klientowi"
+  ]
+ },
+ {
+  "id": 2181,
+  "name": "Grafik komputerowy DTP",
+  "desc": "Graficy komputerowi DTP są odpowiedzialni za układ publikacji. Korzystają z oprogramowania komputerowego w celu przygotowania tekstów, fotografii i innych materiałów jako przyjemny i czytelny produkt końcowy.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Układasz tekst i zdjęcia na stronie",
+   "Dobierasz czcionki i marginesy",
+   "Poprawiasz kolory pod druk",
+   "Sprawdzasz plik przed wysłaniem do drukarni"
+  ]
+ },
+ {
+  "id": 2182,
+  "name": "Projektant gier hazardowych, zakładów i loterii",
+  "desc": "Projektanci gier hazardowych, zakładów i loterii przygotowują innowacyjne gry hazardowe, zakłady i loterie. Określają oni projekt, reguły gry lub strukturę gry. Projektanci gier hazardowych, zakładów i loterii mogą również przedstawiać grę poszczególnym osobom.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Wymyślasz reguły i strukturę gry",
+   "Liczysz szanse wygranej i przegranej",
+   "Przygotowujesz prezentację gry dla klienta",
+   "Sprawdzasz, czy gra spełnia przepisy"
+  ]
+ },
+ {
+  "id": 2183,
+  "name": "Projektant mediów cyfrowych",
+  "desc": "Projektanci mediów cyfrowych tworzą i edytują grafiki, animacje, dźwięk, tekst i film, aby pomóc w tworzeniu zintegrowanych produktów multimedialnych. Mogą prowadzić działalność związaną z internetem, sieciami społecznościowymi, rozszerzoną rzeczywistością i wirtualną rzeczywistością, ale wykluczają produkcję muzyki z wykorzystaniem instrumentów fizycznych i złożonych narzędzi syntezy oprogramowania. Projektanci mediów cyfrowych mogą programować i budować strony internetowe, aplikacje mobilne i inne produkty multimedialne.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Projektujesz wygląd strony lub aplikacji",
+   "Edytujesz grafiki, dźwięk i krótkie filmy",
+   "Łączysz elementy w gotowy produkt",
+   "Testujesz, czy wszystko działa na telefonie"
+  ]
+ },
+ {
+  "id": 2184,
+  "name": "Twórca projekcji wideo",
+  "desc": "Twórcy projekcji wideo opracowują koncepcję projektu wyświetlanego obrazu pod kątem wyników i nadzorują jego wykonanie. Ich praca opiera się na badaniach i wizjach artystycznych. Na ich kształt wpływają inne formy oraz musi on być zgodny z tymi wzorami i ogólną wizją artystyczną. W związku z tym projektanci ściśle współpracują z kierownikami artystycznymi, operatorami i zespołem artystycznym. Twórcy projekcji wideo przygotowują fragmenty mediów, które mogą być wykorzystywane w pracy, co może obejmować zapis, składanie, operowanie i edytowanie.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Wymyślasz koncepcję wyświetlanego obrazu",
+   "Nagrywasz i montujesz materiały wideo",
+   "Ustawiasz projektory i dopasowujesz obraz",
+   "Pilnujesz projekcji podczas próby"
+  ]
+ },
+ {
+  "id": 2185,
+  "name": "Twórca układów animacji",
+  "desc": "Twórcy układów animacji pracują wspólnie z kamerzystą i reżyserem, aby koordynować i tworzyć optymalne ujęcia 3D. Przekładają scenorysy 2D animowane ujęcia 3D i są odpowiedzialni za kąty kamery, ramy i oświetlenie scen animowanych. Twórcy układów animacji decydują o tym, które ujęcie ma miejsce w której scenie animowanej.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Czytasz scenorys i plan reżysera",
+   "Ustawiasz kamerę wirtualną w scenie",
+   "Wybierasz kąt, kadr i oświetlenie",
+   "Ustalasz kolejność ujęć z kamerzystą"
+  ]
+ },
+ {
+  "id": 2186,
+  "name": "Projektant wyrobów tekstylnych",
+  "desc": "Projektanci wyrobów tekstylnych wprowadzają innowacje i opracowują produkty odzieżowe, domowe wyroby włókiennicze, tekstylia i tekstylia techniczne (np. rolnictwo, bezpieczeństwo, budownictwo, medycyna, mobilne technologie, ochrona środowiska, sport itp.). Stosują oni zasady naukowe i techniczne do opracowywania innowacyjnych wyrobów tekstylnych.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Dobierasz włókna do przeznaczenia materiału",
+   "Projektujesz wzór i splot tkaniny",
+   "Zlecasz próbki i oceniasz je",
+   "Opracowujesz dokumentację dla produkcji"
+  ]
+ },
+ {
+  "id": 2187,
+  "name": "Specjalista ds. barwienia tkanin",
+  "desc": "Specjaliści ds. barwienia tkanin przygotowują, opracowują i tworzą kolory w przypadku zastosowań w przemyśle włókienniczym.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Dobierasz kolor pod wzór klienta",
+   "Przygotowujesz receptury barwienia",
+   "Porównujesz próbki z wzorcem",
+   "Sprawdzasz trwałość koloru po praniu"
+  ]
+ },
+ {
+  "id": 2188,
+  "name": "Budowniczy dekoracji",
+  "desc": "Budowniczowie dekoracji konstruują, budują, przygotowują, dostosowują i konserwują elementy scenografii wykorzystywane na scenie i do celów nagrywania filmów lub programów telewizyjnych. Korzystają z wielu różnych materiałów, takich jak drewno, stal, aluminium i tworzywa sztuczne. Ich praca opiera się na wizji artystycznej, modelach w skali, szkicach i planach. Pracują oni w ścisłej współpracy z projektantami i mogą budować stoiska wystawiennicze na targach, festynach i innych wydarzeniach.",
+  "path": "Projektowanie i grafika > Projektanci i dekoratorzy wnętrz",
+  "tasks": [
+   "Czytasz plany i modele w skali",
+   "Tniesz i łączysz drewno oraz metal",
+   "Montujesz dekorację w hali lub na scenie",
+   "Naprawiasz elementy po spektaklu"
+  ]
+ },
+ {
+  "id": 2189,
+  "name": "Malarz scenografii",
+  "desc": "Malarze scenografii ozdabiają dekoracje do przedstawień na żywo. Stosują różnorodne techniki rękodzieła i malarstwa, takie jak malarstwo figuratywne, malarstwo krajobrazowe i malarstwo iluzjonistyczne do stworzenia przekonujących scenografii. Ich praca opiera się na artystycznej wizji, szkicach i obrazach. Pracują oni w ścisłej współpracy z projektantami.",
+  "path": "Projektowanie i grafika > Projektanci i dekoratorzy wnętrz",
+  "tasks": [
+   "Przenosisz szkic projektanta na dużą powierzchnię",
+   "Malujesz krajobrazy i iluzję głębi",
+   "Udajesz drewno, kamień i metal farbą",
+   "Poprawiasz kolory pod światłem sceny"
+  ]
+ },
+ {
+  "id": 2190,
+  "name": "Dekorator wnętrz",
+  "desc": "Dekoratorzy wnętrz pomagają klientom w planowaniu wnętrz do użytku komercyjnego i prywatnego.",
+  "path": "Projektowanie i grafika > Projektanci i dekoratorzy wnętrz",
+  "tasks": [
+   "Rozmawiasz z klientem o jego potrzebach",
+   "Dobierasz kolory ścian i tkaniny",
+   "Wybierasz dodatki, lampy i obrazy",
+   "Ustawiasz meble i dekoracje na miejscu"
+  ]
+ },
+ {
+  "id": 2191,
+  "name": "Merchandiser",
+  "desc": "Merchandiserzy są odpowiedzialni za pozycjonowanie towarów zgodnie z normami i procedurami.",
+  "path": "Projektowanie i grafika > Projektanci i dekoratorzy wnętrz",
+  "tasks": [
+   "Rozkładasz produkty według planu ekspozycji",
+   "Uzupełniasz braki na półkach",
+   "Sprawdzasz ceny i oznaczenia",
+   "Robisz zdjęcia półek do raportu"
+  ]
+ },
+ {
+  "id": 2192,
+  "name": "Projektant ekspozycji towarów i usług",
+  "desc": "Projektanci ekspozycji towarów i usług specjalizują się w promowaniu sprzedaży towarów, zwłaszcza ich prezentacji w punktach sprzedaży detalicznej.",
+  "path": "Projektowanie i grafika > Projektanci i dekoratorzy wnętrz",
+  "tasks": [
+   "Wymyślasz wygląd witryny sklepowej",
+   "Aranżujesz manekiny i rekwizyty",
+   "Planujesz drogę klienta po sklepie",
+   "Zmieniasz ekspozycje na nowy sezon"
+  ]
+ },
+ {
+  "id": 2193,
+  "name": "Projektant makiet scenograficznych",
+  "desc": "Projektanci makiet scenograficznych projektują i budują miniaturowe rekwizyty i dekoracje filmowe. Budują modele stosowane w celu uzyskania efektów wizualnych, które spełniają kryteria wyglądu i wymagania produkcji. Projektanci makiet scenograficznych kroją materiał przy użyciu narzędzi ręcznych do budowy trójwymiarowych rekwizytów i dekoracji.",
+  "path": "Projektowanie i grafika > Projektanci i dekoratorzy wnętrz",
+  "tasks": [
+   "Wycinasz elementy makiety ręcznymi narzędziami",
+   "Sklejasz trójwymiarowe modele z różnych materiałów",
+   "Malujesz je, żeby wyglądały realnie",
+   "Dopasowujesz makietę do planu zdjęciowego"
+  ]
+ },
+ {
+  "id": 2194,
+  "name": "Administrator treści stron internetowych",
+  "desc": "Administratorzy treści stron internetowych opracowują lub tworzą treści na platformę internetową zgodnie z długoterminowymi celami strategicznymi, politykami i procedurami dotyczącymi treści internetowych organizacji lub ich klientów. Kontrolują i monitorują zgodność z normami, regulacjami prawnymi i przepisami dotyczącymi prywatności oraz zapewniają optymalizację. Są również odpowiedzialni za integrację prac autorów i projektantów w celu uzyskania ostatecznego układu, który będzie zgodny ze standardami firmy.",
+  "path": "Projektowanie i grafika > Projektanci stron internetowych i multimediów",
+  "tasks": [
+   "Planujesz i publikujesz treści na stronie",
+   "Zbierasz prace autorów i grafików",
+   "Sprawdzasz zgodność z przepisami i prywatnością",
+   "Poprawiasz strony, żeby łatwiej je znaleźć"
+  ]
+ },
+ {
+  "id": 2195,
+  "name": "Fotoreporter",
+  "desc": "Fotoreporterzy obsługują wszystkie rodzaje wydarzeń informacyjnych poprzez wykonywanie zdjęć informacyjnych. Opowiadają historie poprzez wykonywanie, edycję i prezentowanie zdjęć dla gazet, czasopism, magazynów, telewizji i innych mediów.",
+  "path": "Projektowanie i grafika > Fotografowie",
+  "tasks": [
+   "Jedziesz na miejsce wydarzenia z aparatem",
+   "Robisz zdjęcia pokazujące sedno historii",
+   "Wybierasz i podpisujesz najlepsze ujęcia",
+   "Szybko wysyłasz zdjęcia do redakcji"
+  ]
+ },
+ {
+  "id": 2196,
+  "name": "Główny kelner / główna kelnerka",
+  "desc": "Główni kelnerzy / główne kelnerki zarządzają obsługą związaną z wydawaniem napojów i dań w lokalach gastronomicznych. Odpowiadają oni za doświadczenie klienta. Główni kelnerzy / główne kelnerki koordynują wszystkie czynności związane z obsługą klientów, do których należą m.in. witanie gości, składanie zamówień, dostarczanie napojów i dań oraz nadzorowanie płatności.",
+  "path": "Gastronomia, hotele, turystyka > Kelnerzy i barmani",
+  "tasks": [
+   "Witasz gości i przydzielasz stoliki",
+   "Koordynujesz pracę kelnerów",
+   "Reagujesz na skargi i problemy gości",
+   "Pilnujesz płatności i porządku na sali"
+  ]
+ },
+ {
+  "id": 2197,
+  "name": "Kiper piw",
+  "desc": "Kiperzy piw mają odpowiednią wiedzę i doradzają w zakresie gatunków piwa, warzenia i najlepszego doboru piwa do potraw w takich miejscach, jak restauracje, browary i sklepy. Znają one wszystkie składniki, historię piw, wyroby szklane do podawania piwa oraz instalacje do nalewu. Przygotowują degustacje piwa, przeprowadzają konsultacje z przedsiębiorstwami i klientami, oceniają wyroby piwne i piszą na ten temat.",
+  "path": "Gastronomia, hotele, turystyka > Kelnerzy i barmani",
+  "tasks": [
+   "Opisujesz smak i zapach różnych piw",
+   "Dobierasz piwo do potraw",
+   "Prowadzisz degustacje dla gości",
+   "Piszesz oceny i opisy piw"
+  ]
+ },
+ {
+  "id": 2198,
+  "name": "Pierwszy sommelier / pierwsza sommelière",
+  "desc": "Pierwsi sommelierzy zajmują się zamówieniami, przygotowywaniem i serwowaniem wina i innych napojów w lokalu gastronomicznym.",
+  "path": "Gastronomia, hotele, turystyka > Kelnerzy i barmani",
+  "tasks": [
+   "Przyjmujesz zamówienia na wino i napoje",
+   "Przygotowujesz butelki do podania",
+   "Serwujesz napój w odpowiedniej temperaturze",
+   "Podpowiadasz gościom, co pasuje do dania"
+  ]
+ },
+ {
+  "id": 2199,
+  "name": "Sommelier win / sommelière win",
+  "desc": "Sommelierzy win mają ogólną wiedzę na temat wina, jego produkcji, podawania i dopasowania wina do potraw. Wykorzystują tę wiedzę do prowadzenia wyspecjalizowanych piwnic winiarskich, przygotowują karty win i wydają książki lub pracują w restauracjach.",
+  "path": "Gastronomia, hotele, turystyka > Kelnerzy i barmani",
+  "tasks": [
+   "Dbasz o piwnicę i zapasy win",
+   "Układasz kartę win dla lokalu",
+   "Dobierasz wino do potraw",
+   "Piszesz opisy win lub książki o nich"
+  ]
+ },
+ {
+  "id": 2200,
+  "name": "Sommelier/sommelière",
+  "desc": "Sommelierzy zaopatrują restauracje oraz przygotowują, doradzają i serwują wino i inne napoje alkoholowe.",
+  "path": "Gastronomia, hotele, turystyka > Kelnerzy i barmani",
+  "tasks": [
+   "Zamawiasz wina i napoje u dostawców",
+   "Doradzasz gościom w wyborze trunku",
+   "Serwujesz alkohole przy stoliku",
+   "Pilnujesz zapasów w restauracji"
+  ]
+ },
+ {
+  "id": 2201,
+  "name": "Barman-mixer",
+  "desc": "Barmani-mixerzy zajmują się specjalistycznym mieszaniem drinków alkoholowych i bezalkoholowych.",
+  "path": "Gastronomia, hotele, turystyka > Kelnerzy i barmani",
+  "tasks": [
+   "Mieszasz drinki według receptur",
+   "Wymyślasz własne połączenia smaków",
+   "Dekorujesz szkło owocami i ziołami",
+   "Przygotowujesz syropy i składniki przed zmianą"
+  ]
+ },
+ {
+  "id": 2202,
+  "name": "Gospodarz restauracji / gospodyni restauracji",
+  "desc": "Gospodarze/gospodynie restauracji witają klientów w lokalu gastronomicznym i zapewniają początkową obsługę.",
+  "path": "Gastronomia, hotele, turystyka > Kelnerzy i barmani",
+  "tasks": [
+   "Witasz gości przy wejściu",
+   "Sprawdzasz rezerwacje w księdze lub systemie",
+   "Prowadzisz gości do wolnych stolików",
+   "Mówisz, ile trzeba poczekać na stolik"
+  ]
+ },
+ {
+  "id": 2203,
+  "name": "Pośrednik sprzedaży biletów",
+  "desc": "Pośrednicy sprzedaży biletów świadczą wstępne usługi na rzecz klientów, sprzedają bilety na podróż i dopasowują ofertę rezerwacji do zapytań i potrzeb klientów.",
+  "path": "Gastronomia, hotele, turystyka > Konsultanci i pracownicy biur podróży",
+  "tasks": [
+   "Pytasz klienta o cel i termin podróży",
+   "Szukasz dostępnych połączeń i cen",
+   "Rezerwujesz i sprzedajesz bilety",
+   "Odpowiadasz na pytania o zasady podróży"
+  ]
+ },
+ {
+  "id": 2204,
+  "name": "Sprzedawca biletów kolejowych",
+  "desc": "Sprzedawcy biletów kolejowych świadczą usługi na rzecz klientów, którzy odwiedzają kasy biletowe. Udzielają informacji na temat rezerwacji biletów, obsługują rezerwacje biletów, ich sprzedaż i zwrot. Pełnią również funkcje biurowe, takie jak prowadzenie dziennego bilansu sprzedaży biletów. Rozpatrują wnioski o rezerwację miejsca i analizują diagramy każdego wagonu pociągu w celu sprawdzenia dostępnej przestrzeni w danym pociągu.",
+  "path": "Gastronomia, hotele, turystyka > Konsultanci i pracownicy biur podróży",
+  "tasks": [
+   "Sprzedajesz bilety i rezerwujesz miejsca",
+   "Sprawdzasz wolne miejsca na planie wagonu",
+   "Przyjmujesz zwroty biletów",
+   "Rozliczasz dzienną sprzedaż w kasie"
+  ]
+ },
+ {
+  "id": 2205,
+  "name": "Konsultant podróży",
+  "desc": "Konsultanci podróży udzielają dostosowanych do indywidualnych potrzeb informacji i konsultacji w sprawie ofert podróży, dokonują rezerwacji i sprzedaży usług turystycznych wraz z innymi powiązanymi usługami.",
+  "path": "Gastronomia, hotele, turystyka > Konsultanci i pracownicy biur podróży",
+  "tasks": [
+   "Pytasz klienta o oczekiwania i budżet",
+   "Porównujesz oferty wyjazdów",
+   "Rezerwujesz noclegi i transport",
+   "Wyjaśniasz warunki umowy"
+  ]
+ },
+ {
+  "id": 2206,
+  "name": "Organizator wycieczki",
+  "desc": "Organizatorzy wycieczek są odpowiedzialni za zarządzanie i nadzorowanie trasy podróży turystycznej oraz dostarczanie turystom praktycznych informacji.",
+  "path": "Gastronomia, hotele, turystyka > Konsultanci i pracownicy biur podróży",
+  "tasks": [
+   "Prowadzisz grupę według planu trasy",
+   "Podajesz turystom informacje praktyczne",
+   "Pilnujesz godzin zbiórek i wejść",
+   "Rozwiązujesz problemy z noclegiem lub transportem"
+  ]
+ },
+ {
+  "id": 2207,
+  "name": "Pracownik informacji turystycznej",
+  "desc": "Pracownicy informacji turystycznej udzielają podróżnym informacji i porad o lokalnych atrakcjach, imprezach, wycieczkach i zakwaterowaniu.",
+  "path": "Gastronomia, hotele, turystyka > Konsultanci i pracownicy biur podróży",
+  "tasks": [
+   "Odpowiadasz turystom na pytania",
+   "Wskazujesz atrakcje i trasy na mapie",
+   "Podpowiadasz noclegi i wydarzenia",
+   "Rozdajesz mapy i foldery"
+  ]
+ },
+ {
+  "id": 2208,
+  "name": "Przedstawiciel biura podróży / przedstawicielka biura podróży",
+  "desc": "Przedstawiciele biur podróży działają w imieniu organizatora wycieczek, udzielając praktycznych informacji, zapewniając pomoc, świadcząc usługi i sprzedając turystom wycieczki po ich dotarciu do wyznaczonego miejsca.",
+  "path": "Gastronomia, hotele, turystyka > Konsultanci i pracownicy biur podróży",
+  "tasks": [
+   "Witasz turystów po przylocie",
+   "Udzielasz informacji o miejscu pobytu",
+   "Sprzedajesz wycieczki fakultatywne",
+   "Pomagasz w razie kłopotów z hotelem"
+  ]
+ },
+ {
+  "id": 2209,
+  "name": "Steward naziemny / stewardesa naziemna",
+  "desc": "Stewardzi naziemni/stewardessy naziemne pomagają pasażerom kolei przed ich wejściem do wagonu. Sprawdzają oni pasażerów, a także wykonują obowiązki związane z obsługą klienta, takie jak rezerwowanie biletów kolejowych i pomoc pasażerom w ubieganiu się o zwrot w przypadku opóźnienia lub odwołania kursu.",
+  "path": "Gastronomia, hotele, turystyka > Konsultanci i pracownicy biur podróży",
+  "tasks": [
+   "Sprawdzasz bilety na peronie",
+   "Rezerwujesz bilety kolejowe",
+   "Pomagasz pasażerom z bagażem",
+   "Pomagasz w ubieganiu się o zwrot za opóźnienie"
+  ]
+ },
+ {
+  "id": 2210,
+  "name": "Kucharz - grill",
+  "desc": "Kucharze specjalizujący się w daniach z grilla przygotowują i podają mięso, warzywa i ryby, korzystając z urządzeń do pieczenia, takich jak grill i rożen.",
+  "path": "Gastronomia, hotele, turystyka > Kucharze",
+  "tasks": [
+   "Przygotowujesz mięso i warzywa do grillowania",
+   "Pilnujesz żaru i czasu pieczenia",
+   "Obracasz i przyprawiasz dania",
+   "Podajesz gotowe porcje do wydania"
+  ]
+ },
+ {
+  "id": 2211,
+  "name": "Kucharz - ryby i owoce morza",
+  "desc": "Kucharze specjalizujący się w daniach rybnych i owocach morza są odpowiedzialni za przygotowywanie i podawanie dań za pomocą różnych technik. Mogą również przygotowywać sos do dań i kupować świeże ryby do ich przygotowania.",
+  "path": "Gastronomia, hotele, turystyka > Kucharze",
+  "tasks": [
+   "Oceniasz świeżość kupowanych ryb",
+   "Filetujesz ryby i czyścisz owoce morza",
+   "Smażysz, gotujesz lub pieczesz dania rybne",
+   "Przygotowujesz sosy do ryb"
+  ]
+ },
+ {
+  "id": 2212,
+  "name": "Kucharz przemysłowy",
+  "desc": "Kucharze przemysłowi tworzą nowe receptury i projekty dla gastronomii. Przygotowują, odmierzają i mieszają składniki w celu przygotowania produktów spożywczych. Kontrolują i regulują temperaturę, nadzorują proces gotowania, przydzielają określone zadania związane z wypiekami oraz kierują pracą podległych ich pracowników.",
+  "path": "Gastronomia, hotele, turystyka > Kucharze",
+  "tasks": [
+   "Opracowujesz nowe receptury dla gastronomii",
+   "Odmierzasz i mieszasz duże ilości składników",
+   "Kontrolujesz temperaturę gotowania",
+   "Rozdzielasz zadania pracownikom kuchni"
+  ]
+ },
+ {
+  "id": 2213,
+  "name": "Kucharz-dietetyk",
+  "desc": "Kucharze-dietetycy przygotowują i podają posiłki przeznaczone dla osób ze szczególnymi potrzebami żywieniowymi.",
+  "path": "Gastronomia, hotele, turystyka > Kucharze",
+  "tasks": [
+   "Czytasz zalecenia żywieniowe dla każdej diety",
+   "Dobierasz bezpieczne składniki do diety",
+   "Gotujesz posiłki zgodnie z zaleceniami",
+   "Podajesz je i sprawdzasz, czy pasują"
+  ]
+ },
+ {
+  "id": 2214,
+  "name": "Cukiernik – wytwórca czekolady",
+  "desc": "Cukiernicy-wytwórcy czekolady wytwarzają produkty cukiernicze zawierające czekoladę. Wykonują oni czynności takie jak badanie, testowanie dotykiem i degustacja masy czekoladowej. Taka analiza umożliwia im ustalenie, czy kolor, konsystencja i smak masy czekoladowej są zgodne ze specyfikacjami.",
+  "path": "Gastronomia, hotele, turystyka > Piekarze, cukiernicy",
+  "tasks": [
+   "Testujesz masę czekoladową dotykiem i smakiem",
+   "Oceniasz jej kolor i konsystencję",
+   "Formujesz pralinki i tabliczki",
+   "Porównujesz wyniki ze specyfikacją"
+  ]
+ },
+ {
+  "id": 2215,
+  "name": "Wytwórca makaronu",
+  "desc": "Wytwórcy makaronu przygotowują świeże makarony, nadzienia i inne rodzaje makaronu na podstawie określonych receptur i procedur.",
+  "path": "Gastronomia, hotele, turystyka > Piekarze, cukiernicy",
+  "tasks": [
+   "Mieszasz i ugniatasz ciasto makaronowe",
+   "Wałkujesz i kroisz makaron",
+   "Przygotowujesz nadzienia do pierożków",
+   "Pakujesz i chłodzisz gotowe partie"
+  ]
+ },
+ {
+  "id": 2216,
+  "name": "Wytwórca pieczywa",
+  "desc": "Wytwórcy pieczywa przygotowują i pieką ciasta, ciasteczka, rogaliki, placki i tym podobne produkty zgodnie z recepturami.",
+  "path": "Gastronomia, hotele, turystyka > Piekarze, cukiernicy",
+  "tasks": [
+   "Przygotowujesz ciasta i ciastka według receptury",
+   "Formujesz rogaliki i placki",
+   "Pieczesz wyroby w piekarniku",
+   "Studzisz i układasz gotowe wypieki"
+  ]
+ },
+ {
+  "id": 2217,
+  "name": "Mistrz cukiernictwa",
+  "desc": "Mistrzowie cukiernictwa odpowiadają za przygotowanie, gotowanie i prezentację deserów, słodyczy i produktów piekarniczych.",
+  "path": "Gastronomia, hotele, turystyka > Szef kuchni",
+  "tasks": [
+   "Wymyślasz nowe desery do karty",
+   "Przygotowujesz kremy, ciasta i polewy",
+   "Pieczesz i ozdabiasz wypieki",
+   "Dbasz o wygląd deseru na talerzu"
+  ]
+ },
+ {
+  "id": 2218,
+  "name": "Pierwszy cukiernik",
+  "desc": "Pierwsi cukiernicy zarządzają cukiernikami i zapewniają przygotowanie, gotowanie i prezentację deserów, produktów słodkich i wyrobów cukierniczych.",
+  "path": "Gastronomia, hotele, turystyka > Szef kuchni",
+  "tasks": [
+   "Rozdzielasz zadania cukiernikom",
+   "Sprawdzasz konsystencję ciast i kremów",
+   "Planujesz produkcję na dany dzień",
+   "Uczysz nowych pracowników receptur"
+  ]
+ },
+ {
+  "id": 2219,
+  "name": "Pierwszy szef kuchni",
+  "desc": "Pierwsi szefowie kuchni zarządzają kuchnią, nadzorując przygotowanie, gotowanie i wydawanie żywności.",
+  "path": "Gastronomia, hotele, turystyka > Szef kuchni",
+  "tasks": [
+   "Układasz grafik pracy kuchni",
+   "Zamawiasz produkty i pilnujesz kosztów",
+   "Nadzorujesz przygotowanie dań",
+   "Kontrolujesz wydawanie dań podczas szczytu"
+  ]
+ }
+]

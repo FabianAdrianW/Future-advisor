@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1560,
+  "name": "Dyrektor ds. rozwoju turystyki",
+  "desc": "Dyrektorzy ds. rozwoju turystyki opracowują i wdrażają polityki mające na celu poprawę turystyki w regionie. Opracowują oni plany marketingowe w celu promowania regionu za granicą oraz monitorują działalności przemysłu turystycznego. Prowadzą badania w celu sprawdzenia, w jaki sposób można ulepszyć i wdrożyć politykę turystyczną oraz zbadać korzyści, jakie branża turystyczna przynosi rządowi.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Opracowujesz plany promocji regionu",
+   "Badasz, czego szukają turyści",
+   "Monitorujesz hotele, atrakcje i przewoźników",
+   "Przygotowujesz propozycje polityki turystycznej dla władz"
+  ]
+ },
+ {
+  "id": 1561,
+  "name": "Kierownik do spraw strategii i planowania",
+  "desc": "Kierownicy do spraw strategii i planowania są odpowiedzialni za zarządzanie opracowywaniem programów polityki i zapewnianie realizacji strategicznych celów organizacji. Nadzorują oni tworzenie stanowisk polityki, a także prowadzoną przez organizację kampanię i rzecznictwo w takich dziedzinach jak ochrona środowiska, etyka, jakość, przejrzystość i zrównoważony rozwój.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Nadzorujesz tworzenie stanowisk organizacji",
+   "Planujesz kampanie i rzecznictwo",
+   "Sprawdzasz, czy cele są realizowane",
+   "Przeglądasz dane o wpływie organizacji na środowisko"
+  ]
+ },
+ {
+  "id": 1562,
+  "name": "Kierownik ds. planowania strategicznego",
+  "desc": "Kierownicy ds. planowania strategicznego tworzą, wraz z zespołem kierowników, plany strategiczne przedsiębiorstwa jako całości oraz zapewniają koordynację w zakresie wdrażania w podziale na departamenty. Pomagają oni interpretować ogólny plan i opracowują szczegółowy plan dla każdego z departamentów i oddziałów. Zapewniają oni spójność we wdrażaniu.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Tworzysz plan strategiczny firmy",
+   "Rozpisujesz go na zadania dla działów",
+   "Tłumaczysz kierownikom ogólny plan",
+   "Sprawdzasz, czy wdrażanie jest spójne"
+  ]
+ },
+ {
+  "id": 1563,
+  "name": "Kierownik ds. ubezpieczeń społecznych",
+  "desc": "Kierownicy ds. ubezpieczeń społecznych kierują i opracowują rządowe programy zabezpieczenia społecznego, aby wspierać dobrobyt obywateli, a także promować programy zabezpieczenia społecznego. Nadzorują pracowników rządowego systemu ubezpieczeń społecznych i badają istniejące polityki w celu oceny zagadnień i opracowania propozycji ulepszeń.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Kierujesz pracą urzędników od świadczeń",
+   "Analizujesz obowiązujące zasady wsparcia",
+   "Piszesz propozycje ulepszeń programów",
+   "Informujesz obywateli o dostępnych świadczeniach"
+  ]
+ },
+ {
+  "id": 1564,
+  "name": "Kierownik ds. zgodności z przepisami i bezpieczeństwa informacji w dziedzinie gier hazardowych",
+  "desc": "Kierownicy ds. zgodności z przepisami i bezpieczeństwa informacji w dziedzinie gier hazardowych przestrzegają przepisów dotyczących nadzoru nad grami hazardowymi oraz nadzoru nad bezpieczeństwem informacji w celu zapewnienia bezpiecznego korzystania z całej technologii informacyjnej związanej z grami hazardowymi.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Sprawdzasz zgodność działania z przepisami",
+   "Kontrolujesz zabezpieczenia systemów informatycznych",
+   "Przygotowujesz dokumenty dla organów nadzoru",
+   "Szkolisz pracowników z zasad bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 1565,
+  "name": "Kierownik programu",
+  "desc": "Kierownicy programów koordynują i nadzorują kilka projektów pracujących jednocześnie. Zapewniają oni wykonalność i zgodność między projektami, zapewniając, aby każdy z projektów w ramach zarządzania przez osoby zarządzające projektami okazał się opłacalny i wpływał na inny.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Koordynujesz kilka projektów jednocześnie",
+   "Sprawdzasz, czy projekty sobie nie przeszkadzają",
+   "Rozmawiasz z kierownikami poszczególnych projektów",
+   "Oceniasz, czy projekty się opłacają"
+  ]
+ },
+ {
+  "id": 1566,
+  "name": "Kierownik działu zarządzania zasobami ludzkimi",
+  "desc": "Kierownicy działu zarządzania zasobami ludzkimi planują, projektują i wdrażają procesy związane z kapitałem ludzkim przedsiębiorstw. Opracowują programy rekrutacji, rozmów o pracę i wyboru pracowników na podstawie wcześniejszej oceny profilu i umiejętności wymaganych w przedsiębiorstwie. Ponadto zarządzają oni programami rekompensat i rozwoju dla pracowników przedsiębiorstwa, obejmujących szkolenia, ocenę umiejętności i roczne oceny, awanse, programy dla emigrantów oraz ogólną pewność co do dobrobytu pracowników w miejscu pracy.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Planujesz rekrutacje i rozmowy o pracę",
+   "Układasz programy szkoleń",
+   "Prowadzisz roczne oceny pracowników",
+   "Reagujesz na skargi i problemy pracowników"
+  ]
+ },
+ {
+  "id": 1567,
+  "name": "Specjalista ds. równości",
+  "desc": "Specjaliści ds. równości opracowują polityki mające na celu poprawę działań pozytywnych, kwestii dotyczących różnorodności i równości. Informują pracowników przedsiębiorstw o znaczeniu polityki oraz jej wdrażaniu i doradzają pracownikom wyższego szczebla w dziedzinie klimatu korporacyjnego. Wykonują oni również zadania w zakresie doradztwa i wsparcia dla pracowników.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Piszesz zasady przeciwdziałania dyskryminacji",
+   "Prowadzisz szkolenia o różnorodności",
+   "Doradzasz kierownictwu w sprawie atmosfery w firmie",
+   "Wspierasz pracowników, którzy zgłaszają problemy"
+  ]
+ },
+ {
+  "id": 1568,
+  "name": "Kierownik ds. badań",
+  "desc": "Kierownicy ds. badań nadzorują funkcje badawcze i rozwojowe placówki lub programu badawczego lub uniwersytetu. Wspierają personel wykonawczy, koordynują działalność zawodową oraz monitorują pracowników i projekty badawcze. Mogą oni działać w wielu różnych sektorach, takich jak sektor chemiczny, techniczny i nauk o życiu. Kierownicy ds. badań mogą również doradzać w dziedzinie badań i realizować same badania.",
+  "path": "Zarządzanie i biznes > Kierownicy ds. badań i rozwoju",
+  "tasks": [
+   "Nadzorujesz projekty badawcze",
+   "Rozdzielasz zadania naukowcom i laborantom",
+   "Zatwierdzasz wyniki i plany badań",
+   "Doradzasz w sprawach prowadzenia badań"
+  ]
+ },
+ {
+  "id": 1569,
+  "name": "Kierownik ds. badań i rozwoju",
+  "desc": "Kierownicy ds. badań i rozwoju koordynują wysiłki naukowców, badaczy akademickich, podmiotów opracowujących produkt i badaczy rynku w celu tworzenia nowych produktów, poprawy obecnych lub innych działań badawczych, w tym badań naukowych. Zarządzają działaniami i planują działania w zakresie badań i rozwoju organizacji, określają cele i wymogi budżetowe oraz zarządzają personelem.",
+  "path": "Zarządzanie i biznes > Kierownicy ds. badań i rozwoju",
+  "tasks": [
+   "Ustalasz cele prac badawczo-rozwojowych",
+   "Planujesz budżet badań",
+   "Łączysz pracę naukowców i projektantów produktu",
+   "Wybierasz pomysły, które warto rozwijać"
+  ]
+ },
+ {
+  "id": 1570,
+  "name": "Kierownik ds. badań technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy ds. badań technologii informacyjno-telekomunikacyjnych planują, zarządzają i monitorują działania badawcze oraz oceniają pojawiające się tendencje w dziedzinie technologii informacyjno-komunikacyjnej w celu oceny ich znaczenia. Opracowują oni również i nadzorują szkolenia pracowników dotyczące korzystania z nowych technologii i zalecają sposoby wdrażania nowych produktów i rozwiązań, które zmaksymalizują korzyści dla organizacji.",
+  "path": "Zarządzanie i biznes > Kierownicy ds. badań i rozwoju",
+  "tasks": [
+   "Planujesz prace badawcze nad nowymi technologiami",
+   "Oceniasz, które nowinki się przydadzą",
+   "Organizujesz szkolenia z nowych rozwiązań",
+   "Rekomendujesz wdrożenia nowych produktów"
+  ]
+ },
+ {
+  "id": 1571,
+  "name": "Kierownik ds. rozwoju produktu",
+  "desc": "Kierownicy ds. rozwoju produktu koordynują opracowywanie nowych produktów od początku do końca. Otrzymują oni briefingi i rozpoczynają działania na rzecz rozwoju nowego produktu, biorąc pod uwagę kryteria projektowania, kryteria techniczne i koszty. Prowadzą badania na temat potrzeb rynku i tworzą prototypy nowych produktów w odniesieniu do niewykorzystanych możliwości rynkowych. Kierownicy ds. rozwoju produktu również poprawiają jakość technologiczną.",
+  "path": "Zarządzanie i biznes > Kierownicy ds. badań i rozwoju",
+  "tasks": [
+   "Badasz potrzeby rynku",
+   "Ustalasz wymagania techniczne i projektowe",
+   "Zlecasz wykonanie prototypów",
+   "Pilnujesz kosztów wytworzenia produktu"
+  ]
+ },
+ {
+  "id": 1572,
+  "name": "Kierownik ds. rozwoju produktu w branży obuwniczej",
+  "desc": "Kierownicy ds. rozwoju produktów w branży obuwniczej koordynują projektowanie obuwia oraz proces opracowywania i odbioru produktu w celu zapewnienia zgodności ze specyfikacjami projektu, terminami, wymogami strategicznymi i polityką przedsiębiorstwa. Śledzą ścieżki rozwoju i oceny projektu w celu spełnienia założeń projektowych, środowiska produkcyjnego oraz celów finansowych przedsiębiorstwa.",
+  "path": "Zarządzanie i biznes > Kierownicy ds. badań i rozwoju",
+  "tasks": [
+   "Koordynujesz projektowanie nowych modeli obuwia",
+   "Sprawdzasz próbki butów z fabryki",
+   "Pilnujesz terminów kolekcji",
+   "Porównujesz projekt z kosztami produkcji"
+  ]
+ },
+ {
+  "id": 1573,
+  "name": "Kierownik ds. rozwoju produktów w branży odzieżowej",
+  "desc": "Kierownicy ds. rozwoju produktów w branży odzieżowej definiują pojęcia produktu, które są zgodne z docelowymi odbiorcami i ogólną strategią marketingową. Otrzymują oni ustalenia i specyfikacje w celu prowadzenia briefingów i wdrażania wszystkich odpowiednich koncepcji sezonowych i strategicznych, w tym dystrybucji według kanału, produktów, wprowadzeń kolorów oraz wyrobów sortowanych dla sprzedawanych towarów. Zapewniają oni realizację i wykonanie w ramach budżetu.",
+  "path": "Zarządzanie i biznes > Kierownicy ds. badań i rozwoju",
+  "tasks": [
+   "Ustalasz, kto ma nosić nową kolekcję",
+   "Wybierasz kolory i fasony na sezon",
+   "Przygotowujesz wytyczne dla projektantów",
+   "Pilnujesz budżetu całej kolekcji"
+  ]
+ },
+ {
+  "id": 1574,
+  "name": "Kierownik ds. rozwoju produktów w branży wyrobów skórzanych",
+  "desc": "Kierownicy ds. rozwoju produktów w branży wyrobów skórzanych koordynują proces projektowania i opracowywania produktów skórzanych w celu zapewnienia zgodności ze specyfikacjami handlowymi, terminami, wymogami strategicznymi i polityką przedsiębiorstwa. Komunikują się i współpracują z innymi zespołami operacyjnymi lub specjalistami zajmującymi się produkcją wyrobów skórzanych, takimi jak logistyka i marketing, szacowanie kosztów, planowanie, produkcja i zapewnianie jakości.",
+  "path": "Zarządzanie i biznes > Kierownicy ds. badań i rozwoju",
+  "tasks": [
+   "Prowadzisz proces tworzenia wyrobów skórzanych",
+   "Zamawiasz skóry i dodatki",
+   "Wyceniasz produkt razem z działem kosztów",
+   "Ustalasz terminy z produkcją i kontrolą jakości"
+  ]
+ },
+ {
+  "id": 1575,
+  "name": "Kierownik ds. produktów ubezpieczeniowych",
+  "desc": "Kierownicy ds. produktów ubezpieczeniowych ustalają i ukierunkowują rozwój nowych produktów ubezpieczeniowych na podstawie polityki w zakresie cyklu życia produktu i ogólnej strategii w zakresie ubezpieczeń. Koordynują również działania w zakresie marketingu i sprzedaży związane ze szczególnymi produktami ubezpieczeniowymi spółki. Kierownicy ds. produktów ubezpieczeniowych informują swoich kierowników ds. sprzedaży (lub dział sprzedaży) o swoich nowo opracowanych produktach ubezpieczeniowych.",
+  "path": "Zarządzanie i biznes > Kierownicy ds. badań i rozwoju",
+  "tasks": [
+   "Projektujesz nowe produkty ubezpieczeniowe",
+   "Decydujesz, co obejmuje nowe ubezpieczenie",
+   "Koordynujesz marketing i sprzedaż produktu",
+   "Informujesz kierowników sprzedaży o nowej ofercie"
+  ]
+ },
+ {
+  "id": 1576,
+  "name": "Dyrektor generalny portu lotniczego",
+  "desc": "Dyrektorzy generalni portów lotniczych przewodzą grupie dyrektorów portów lotniczych, którzy są odpowiedzialni za wszystkie obszary portu lotniczego. Przewidują i podejmują decyzje w sprawie strategicznego kierunku rozwoju portu lotniczego w oparciu o informacje przekazane przez zespół zarządzający.",
+  "path": "Zarządzanie i biznes > Dyrektorzy generalni",
+  "tasks": [
+   "Prowadzisz zebrania dyrektorów portu lotniczego",
+   "Czytasz raporty z każdego obszaru lotniska",
+   "Decydujesz o rozbudowie i rozwoju lotniska",
+   "Ustalasz priorytety strategiczne na kolejne lata"
+  ]
+ },
+ {
+  "id": 1577,
+  "name": "Dyrektor oddziału",
+  "desc": "Dyrektorzy oddziałów są odpowiedzialni za zarządzanie wszystkimi sprawami związanymi z danym przedsiębiorstwem w danym regionie geograficznym lub oddziale. Otrzymują wskazania z siedziby głównej i w zależności od struktury przedsiębiorstwa mają na celu wdrożenie strategii przedsiębiorstwa przy jednoczesnym dostosowaniu jej do rynku, na którym działa dany oddział. Przewidują zarządzanie pracownikami, komunikację, działania marketingowe oraz działania następcze w odniesieniu do wyników i celów.",
+  "path": "Zarządzanie i biznes > Dyrektorzy generalni",
+  "tasks": [
+   "Prowadzisz wszystkie sprawy oddziału w regionie",
+   "Dostosowujesz plany centrali do lokalnego rynku",
+   "Kierujesz pracownikami oddziału",
+   "Rozliczasz oddział z celów i wyników"
+  ]
+ },
+ {
+  "id": 1578,
+  "name": "Dyrektor przedsiębiorstwa",
+  "desc": "Dyrektorzy przedsiębiorstwa są odpowiedzialni za określanie celów jednostki gospodarczej przedsiębiorstwa, tworzenie planu działań oraz ułatwianie realizacji celów i planu wraz z pracownikami segmentu i akcjonariuszami. Prowadzą oni przegląd działalności, rozumieją szczegółowe informacje na temat jednostki organizacyjnej i wspierają departament oraz podejmują decyzje na podstawie posiadanych informacji.",
+  "path": "Zarządzanie i biznes > Dyrektorzy generalni",
+  "tasks": [
+   "Określasz cele jednostki firmy",
+   "Układasz plan działań na rok",
+   "Przeglądasz wyniki działalności",
+   "Rozmawiasz z akcjonariuszami o postępach"
+  ]
+ },
+ {
+  "id": 1579,
+  "name": "Dyrektor operacyjny",
+  "desc": "Dyrektorzy operacyjni są prawą ręką i drudzy w hierarchii przedsiębiorstwa za dyrektorem generalnym. Zapewniają oni, że codzienne działania spółki przebiegają sprawnie. Dyrektorzy operacyjni opracowują również politykę, zasady i cele przedsiębiorstwa.",
+  "path": "Zarządzanie i biznes > Dyrektorzy generalni",
+  "tasks": [
+   "Pilnujesz codziennego działania firmy",
+   "Rozwiązujesz problemy, które spowalniają firmę",
+   "Opracowujesz zasady i polityki firmy",
+   "Wspierasz dyrektora generalnego w decyzjach"
+  ]
+ },
+ {
+  "id": 1580,
+  "name": "Dyrektor ośrodka dla zwierząt",
+  "desc": "Dyrektorzy ośrodka dla zwierząt koordynują i planują wszystkie działania w ogrodzie zoologicznym. Formułują oni politykę, zarządzają codziennymi operacjami oraz planują korzystanie z materiałów i zasobów ludzkich. Są oni siłą napędową i własnością publiczną instytucji. Często oznacza to reprezentowanie instytucji na szczeblu krajowym, regionalnym i globalnym oraz uczestniczenie w skoordynowanych działaniach w dziedzinie ogrodów zoologicznych.",
+  "path": "Zarządzanie i biznes > Dyrektorzy generalni",
+  "tasks": [
+   "Planujesz wykorzystanie pieniędzy i pracowników",
+   "Ustalasz zasady działania ogrodu",
+   "Reprezentujesz zoo wobec władz i innych ogrodów",
+   "Koordynujesz codzienne działania w zoo"
+  ]
+ },
+ {
+  "id": 1581,
+  "name": "Pośrednik pracy",
+  "desc": "Pośrednicy pracy są zatrudnieni w służbach zatrudnienia i agencjach pracy. Kojarzą osoby poszukujące pracy z ogłoszeniami o ofertach pracy i udzielają porad na temat działań związanych z poszukiwaniem pracy.",
+  "path": "Zarządzanie i biznes",
+  "tasks": [
+   "Dopasowujesz kandydatów do ogłoszeń",
+   "Rozmawiasz z osobami szukającymi pracy",
+   "Doradzasz, jak pisać CV i szukać ofert",
+   "Kontaktujesz się z pracodawcami w sprawie wolnych stanowisk"
+  ]
+ },
+ {
+  "id": 1582,
+  "name": "Muzykoterapeuta",
+  "desc": "Muzykoterapeuci wykorzystują zabiegi terapeutyczne z wykorzystaniem muzyki do leczenia pacjentów z zaburzeniami zachowania i stanami chorobotwórczymi w celu zapobiegania, łagodzenia lub eliminowania objawów, zmiany zachowań i postaw wymagających leczenia. Promują i utrzymują lub przywracają rozwój, dojrzałość i zdrowie pacjenta/klienta poprzez interwencje terapeutyczne z wykorzystaniem muzyki.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Dobierasz muzykę do potrzeb pacjenta",
+   "Prowadzisz zajęcia ze śpiewem i grą",
+   "Obserwujesz, jak pacjent reaguje na dźwięki",
+   "Zapisujesz postępy terapii"
+  ]
+ },
+ {
+  "id": 1583,
+  "name": "Specjalista arteterapii",
+  "desc": "Specjaliści arteterapii pomagają pacjentom w pokonaniu trudności psychologicznych i emocjonalnych dzięki procesowi artystycznemu, który odzwierciedla emocje i uczucia, koncentrując się na pacjentach, którzy cierpią z powodu różnych problemów, takich jak zaburzenia psychiczne, psychologiczne i zachowania, aby ułatwić ich zrozumienie i świadomość.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Proponujesz pacjentom zadania plastyczne",
+   "Obserwujesz, co pacjent pokazuje w swojej pracy",
+   "Rozmawiasz o powstałym obrazie lub rzeźbie",
+   "Dobierasz techniki do problemu pacjenta"
+  ]
+ },
+ {
+  "id": 1584,
+  "name": "Specjalista choreoterapii",
+  "desc": "Specjaliści choreoterapii wspierają osoby, które mają problemy ze zdrowiem emocjonalnym, umysłowym lub fizycznym, pomagając im w podnoszeniu świadomości ich ciała, zwiększaniu poczucia własnej wartości, integracji społecznej i rozwoju osobistego poprzez modele tańca i przemieszczania się w środowisku terapeutycznym.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Prowadzisz zajęcia z tańca i ruchu",
+   "Uczysz pacjentów czuć własne ciało",
+   "Układasz ćwiczenia dla grupy lub jednej osoby",
+   "Obserwujesz, jak pacjent reaguje na ruch"
+  ]
+ },
+ {
+  "id": 1585,
+  "name": "Specjalista zooterapii",
+  "desc": "Specjaliści zooterapii zapewniają wsparcie osobom z zaburzeniami funkcji poznawczych, motorycznych lub społeczno-emocjonalnych przy wsparciu ze strony zwierząt. Wykorzystują zwierzęta domowe i udomowione w konkretnym planie interwencji, takim jak terapia, edukacja i usługi dla ludzi, oraz mają na celu przywrócenie i utrzymanie dobrobytu pacjentów i ich rekonwalescencji.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Planujesz zajęcia ze zwierzęciem dla pacjenta",
+   "Dbasz o samopoczucie zwierzęcia podczas zajęć",
+   "Ćwiczysz z pacjentem ruch i kontakt ze zwierzęciem",
+   "Zapisujesz postępy pacjenta po zajęciach"
+  ]
+ },
+ {
+  "id": 1586,
+  "name": "Terapeuta rekreacyjny",
+  "desc": "Terapeuci rekreacyjni zapewniają leczenie osobom, które mają zaburzenia lub stany zaburzeń zachowania. Stosują techniki i interwencje, takie jak sztuka, muzyka, zwierzęta i taniec, aby promować, utrzymywać i przywracać rozwój i zdrowie pacjenta.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Wybierasz zajęcia dopasowane do pacjenta",
+   "Prowadzisz warsztaty plastyczne, muzyczne lub taneczne",
+   "Organizujesz kontakt ze zwierzętami, np. końmi",
+   "Oceniasz, czy zajęcia pomagają pacjentowi"
+  ]
+ },
+ {
+  "id": 1587,
+  "name": "Technik diagnostyki obrazowej",
+  "desc": "Technicy diagnostyki obrazowej planują, przygotowują i wykonują badania obrazowania diagnostycznego i przetwarzanie końcowe z wykorzystaniem szerokiego zakresu sprzętu i technik wykorzystujących promieniowanie rentgenowskie, silne pola magnetyczne lub obrazowanie rezonansem magnetycznym (MRI) oraz dźwięk o wysokiej częstotliwości (ultradźwięk).",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Ustawiasz pacjenta do badania",
+   "Obsługujesz aparat rentgenowski lub rezonans",
+   "Przetwarzasz obrazy po badaniu",
+   "Przygotowujesz pacjenta i tłumaczysz przebieg badania"
+  ]
+ },
+ {
+  "id": 1588,
+  "name": "Technik medycyny nuklearnej",
+  "desc": "Technicy medycyny nuklearnej planują, przygotowują i wykonują badania medycyny nuklearnej, przetwarzanie końcowe i obróbkę z wykorzystaniem szerokiego zakresu sprzętu i technik wykorzystujący promieniowanie rentgenowskie, obrazowanie metodą rezonansu magnetycznego i radiofarmaceutyki.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Przygotowujesz radiofarmaceutyki do badania",
+   "Podajesz preparat pacjentowi i czekasz na jego rozprowadzenie",
+   "Wykonujesz badanie aparatem rejestrującym promieniowanie",
+   "Obrabiasz obrazy i oceniasz ich jakość"
+  ]
+ },
+ {
+  "id": 1589,
+  "name": "Technik radioterapeuta",
+  "desc": "Technicy radioterapeuci przygotowują i realizują bezpieczne i dokładne, wysokie dawki promieniowania na pacjentach, wykorzystując szeroką gamę wyszukanego sprzętu i technik, w celu dotarcia do obszaru, który ma być poddany leczeniu, oraz planowanie komputerowe w celu opracowania planu dystrybucji dawki na całym obszarze, który ma być poddany działaniu.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Ustawiasz pacjenta dokładnie według planu",
+   "Obsługujesz aparat do naświetlań",
+   "Przygotowujesz komputerowy plan rozkładu dawki",
+   "Obserwujesz pacjenta w trakcie naświetlania"
+  ]
+ },
+ {
+  "id": 1590,
+  "name": "Asystent terapii zajęciowej/asystentka terapii zajęciowej",
+  "desc": "Asystenci terapii zajęciowej wspierają terapeutę zajęciowego poprzez współpracę z osobami i społecznościami w celu zwiększenia ich zdolności do angażowania się w zawody, które chcą, muszą, lub oczekuje się, że będą wykonywać, lub poprzez zmianę zawodu lub środowiska, aby lepiej wspierać ich zawodowe zaangażowanie. Pracują pod nadzorem terapeuty zajęciowego.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Prowadzisz ćwiczenia ustalone przez terapeutę",
+   "Pomagasz pacjentom w codziennych czynnościach",
+   "Dostosowujesz zadania lub otoczenie do możliwości pacjenta",
+   "Zgłaszasz terapeucie postępy i trudności"
+  ]
+ },
+ {
+  "id": 1591,
+  "name": "Asystent/asystentka lekarza podiatry",
+  "desc": "Asystenci lekarza podiatry pomagają w realizacji zadań wspierających, takich jak pomoc w diagnozowaniu i leczeniu zaburzeń, chorób i deformacji stóp, doradzając ludziom w zakresie technik pielęgnacji stóp i znaczeniu opieki stóp w celu promowania lepszej mobilności i ogólnego dobrostanu. Wykonują również małe zadania, takie jak obcinanie paznokci u stóp, stosowanie plastrów i ogólne obowiązki urzędnicze.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Obcinasz paznokcie u stóp pacjentów",
+   "Zakładasz plastry i proste opatrunki",
+   "Doradzasz, jak pielęgnować stopy na co dzień",
+   "Przygotowujesz gabinet i dokumentację"
+  ]
+ },
+ {
+  "id": 1592,
+  "name": "Chiropraktyk",
+  "desc": "Chiropraktycy są odpowiedzialni za diagnozowanie, leczenie i zapobieganie zaburzeniom układu nerwowo-mięśniowo-szkieletowego, a także ich skutkom dla zdrowia ogólnego. Są niezależnymi pracownikami służby zdrowia.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Rozmawiasz z pacjentem o bólu i jego początkach",
+   "Badasz kręgosłup i ruchomość stawów",
+   "Korygujesz ustawienie stawów ręcznymi technikami",
+   "Podpowiadasz ćwiczenia i nawyki zapobiegające bólowi"
+  ]
+ },
+ {
+  "id": 1593,
+  "name": "Kinezjolog",
+  "desc": "Kinezjolodzy studiują i badają ruch ciała; jego mięśni i części. Analizują i wykorzystują dane i metody naukowe w celu poprawy ruchu ciała, ogólnie u ludzi, poprzez zrozumienie takich obszarów, jak fizjologia, kinetyka, neurologia i biologia. Uznają oni wpływ niektórych czynników, takich jak stan ciała, na opracowanie i rozwój rozwiązań mających na celu poprawę ogólnej mechaniki i mobilności.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Analizujesz, jak pracują mięśnie podczas ruchu",
+   "Zbierasz i oceniasz dane o ruchu pacjentów",
+   "Szukasz przyczyn słabej mobilności",
+   "Opracowujesz rozwiązania poprawiające mechanikę ruchu"
+  ]
+ },
+ {
+  "id": 1594,
+  "name": "Lekarz – specjalista podiatrii",
+  "desc": "Lekarze specjaliści podiatrii to specjaliści ds. stóp, którzy badają fizjologię i patologię z punktu widzenia strukturalnego i czynnościowego. Oceniają, diagnozują i leczą urazy fizyczne, sportowe, problemy rehabilitacyjne, medyczne i chirurgiczne stopy i kończyny dolnej w praktyce klinicznej. Lekarze specjaliści podiatrii prowadzą działalność poza środowiskiem klinicznym w działalności badawczej, medyczno-prawnej i kryminalistycznej. Lekarze specjaliści podiatrii działają w ramach swoich szkoleń, doświadczeń i organów swoich państw członkowskich.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Badasz stopy i kończyny dolne pacjenta",
+   "Leczysz urazy sportowe i deformacje stóp",
+   "Planujesz leczenie i rehabilitację",
+   "Wykonujesz zabiegi chirurgiczne w obrębie stopy"
+  ]
+ },
+ {
+  "id": 1595,
+  "name": "Osteopata weterynaryjny",
+  "desc": "Osteopaci weterynaryjni zapewniają leczenie terapeutyczne po diagnozie weterynaryjnej lub skierowaniu sprawy do lekarza weterynarii. Koncentrują się oni na zastosowaniu technik leczenia wykorzystujących manipulację tkankami ciała w celu rozwiązania problemu szczepu i uszkodzenia ciała zwierząt zgodnie z ustawodawstwem krajowym.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Badasz napięcie mięśni zwierzęcia dłońmi",
+   "Stosujesz techniki manipulacji tkankami",
+   "Czytasz diagnozę i zalecenia weterynarza",
+   "Tłumaczysz opiekunowi, jak pomagać zwierzęciu w domu"
+  ]
+ },
+ {
+  "id": 1596,
+  "name": "Specjalista chiropraktyk",
+  "desc": "Specjaliści chiropraktycy posiadają zaawansowaną wiedzę i zrozumienie na temat konkretnego obszaru chiropraktyki, zdobywając umiejętności w zakresie podejmowania złożonych decyzji i kompetencji klinicznych wchodzących w zakres zawodu chiropraktyka. Specjaliści chiropraktycy mogą podjąć zaawansowany kurs w celu zdobycia niezbędnych umiejętności, kompetencji i kwalifikacji. Specjalistów chiropraktyków można znaleźć w różnych specyficznych dziedzinach, takich jak: edukacja, neurologia funkcjonalna, ortopedia, pediatria, badania, radiologia, sport.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Oceniasz złożone przypadki w swojej dziedzinie",
+   "Wybierasz metodę leczenia po dokładnym badaniu",
+   "Prowadzisz pacjentów, np. sportowców lub dzieci",
+   "Zdobywasz uprawnienia na zaawansowanych kursach"
+  ]
+ },
+ {
+  "id": 1597,
+  "name": "Terapeuta zajęciowy",
+  "desc": "Terapeuci zajęciowi pomagają osobom lub grupom, które mają ograniczenia zawodowe wynikające z chorób, zaburzeń fizycznych oraz tymczasowych lub trwałych niepełnosprawności umysłowych, w celu odzyskania zdolności do wykonywania codziennych czynności. Zapewniają leczenie i rehabilitację, aby umożliwić im aktywny udział w życiu społecznym, życie zgodnie z ich życzeniami i wykonywanie istotnych dla nich działań.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Oceniasz, co sprawia pacjentowi trudność w codzienności",
+   "Układasz plan rehabilitacji i ćwiczeń",
+   "Prowadzisz ćwiczenia praktycznych czynności",
+   "Doradzasz zmiany w domu lub pracy"
+  ]
+ },
+ {
+  "id": 1598,
+  "name": "Farmaceuta – specjalista farmacji przemysłowej",
+  "desc": "Farmaceuci specjaliści farmacji przemysłowej są zaangażowani w badania i tworzenie leków. Opracowują nowe leki, przeprowadzają badania, zapewniają jakość i zapewniają zgodność leków z przepisami.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Opracowujesz skład i formę nowych leków",
+   "Planujesz i prowadzisz badania preparatów",
+   "Kontrolujesz jakość każdej serii leku",
+   "Sprawdzasz zgodność leków z przepisami"
+  ]
+ },
+ {
+  "id": 1599,
+  "name": "Farmaceuta – specjalista farmacji przemysłowej i szpitalnej",
+  "desc": "Farmaceuci specjaliści farmacji przemysłowej i szpitalnej świadczą specjalistyczne usługi dla przedsiębiorstw przemysłu farmaceutycznego i aptek szpitalnych. Rola farmaceuty specjalisty farmacji przemysłowej i szpitalnej jest różna w całej Europie, z zastrzeżeniem przepisów krajowych i szkoleń.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Przygotowujesz i dostarczasz leki dla szpitala",
+   "Współpracujesz z producentem przy jakości leków",
+   "Stosujesz przepisy krajowe w swojej pracy",
+   "Doradzasz zespołom medycznym w sprawie leków"
+  ]
+ },
+ {
+  "id": 1600,
+  "name": "Farmaceuta – specjalista farmacji szpitalnej",
+  "desc": "Farmaceuci specjaliści farmacji szpitalnej przygotowują, wydają i zapewniają leki pacjentom w szpitalach. Współpracują z pracownikami służby zdrowia, takimi jak lekarze i pielęgniarki, aby leczyć pacjentów, a także udzielać porad i informacji na temat leków.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Przygotowujesz leki dla oddziałów szpitala",
+   "Wydajesz leki zleconym pacjentom",
+   "Konsultujesz z lekarzami dobór leków",
+   "Informujesz pielęgniarki o sposobie podawania"
+  ]
+ },
+ {
+  "id": 1601,
+  "name": "Inspektor farmaceutyczny",
+  "desc": "Inspektorzy farmaceutyczni przeprowadzają kontrole i pomiary dokładności w celu sprawdzenia i zapewnienia jakości wyrobów farmaceutycznych. Biorą oni udział w całej fazie rozwojowej wyrobu farmaceutycznego, dopóki nie będzie gotowy na rynek. Obejmuje to proces nabywania licencji na badania kliniczne, doradzanie personelowi rozwojowemu w zakresie wymogów regulacyjnych oraz dokonywanie oceny treści ulotki dołączanej do opakowania i innych dokumentów dotyczących produktu. Ponadto inspektorzy farmaceutyczni zbierają i oceniają informacje o skutkach ubocznych produktu i przekazują tę wiedzę zarówno wewnętrznie, jak i właściwym organom.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Sprawdzasz jakość i dokładność wyrobów leczniczych",
+   "Oceniasz treść ulotki i dokumentów produktu",
+   "Doradzasz zespołowi w sprawie wymogów prawnych",
+   "Zbierasz informacje o skutkach ubocznych leków"
+  ]
+ },
+ {
+  "id": 1602,
+  "name": "Ergonomista",
+  "desc": "Ergonomiści analizują projekt wyposażenia, umeblowania i systemów w celu poprawy bezpieczeństwa, zdrowia i efektywności. Dążą oni do poprawy interakcji między ludźmi a urządzeniami i środowiskiem.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Analizujesz projekt stanowiska pracy",
+   "Obserwujesz, jak pracownicy używają sprzętu",
+   "Wskazujesz, co powoduje zmęczenie lub ból",
+   "Proponujesz zmiany w meblach i organizacji pracy"
+  ]
+ },
+ {
+  "id": 1603,
+  "name": "Specjalista bezpieczeństwa i higieny pracy",
+  "desc": "Specjaliści bezpieczeństwa i higieny pracy wykonują plany poprawy otoczenia i kultury pracy. Dokonują oceny ryzyka i przeprowadzają wywiady z pracownikami w celu zapewnienia, by środowisko pracy było zgodne z przepisami dotyczącymi bezpieczeństwa i higieny pracy, a także aby zapewnić pozytywny i produktywny charakter interakcji w miejscu pracy. Jeżeli specjalista bezpieczeństwa i higieny pracy jest zatrudniony w placówce służby zdrowia, musi zbadać infekcje rozprzestrzeniające się po placówce oraz zasięgnąć porady wszystkich pracowników, w jaki sposób zwalczać i zapobiegać zakażeniom.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Oceniasz ryzyko na stanowiskach pracy",
+   "Rozmawiasz z pracownikami o zagrożeniach",
+   "Sprawdzasz zgodność z przepisami BHP",
+   "Planujesz zmiany poprawiające bezpieczeństwo"
+  ]
+ },
+ {
+  "id": 1604,
+  "name": "Inspektor ochrony radiologicznej",
+  "desc": "Inspektorzy ochrony radiologicznej są odpowiedzialni za ochronę przed szkodliwymi skutkami narażenia na działanie promieniowania jonizującego. Zapewniają oni zgodność z przepisami ustawowymi i wykonawczymi poprzez egzekwowanie środków bezpieczeństwa. Ponadto opracowują plany ochrony radiologicznej, w szczególności w odniesieniu do elektrowni i obiektów jądrowych.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Egzekwujesz środki bezpieczeństwa przed promieniowaniem",
+   "Sprawdzasz zgodność z przepisami",
+   "Opracowujesz plany ochrony radiologicznej",
+   "Oceniasz zagrożenia w obiektach jądrowych"
+  ]
+ },
+ {
+  "id": 1605,
+  "name": "Koordynator ds. zarządzania kryzysowego",
+  "desc": "Koordynatorzy ds. zarządzania kryzysowego analizują potencjalne zagrożenia, takie jak klęski żywiołowe i sytuacje awaryjne dla społeczności lub instytucji oraz opracowują strategię reagowania na te zagrożenia. Przedstawiają wytyczne dotyczące reagowania na wypadek sytuacji nadzwyczajnej w celu zmniejszenia skutków. Informują strony o ryzykach związanych z tymi wytycznymi. Testują również plany reagowania i zapewniają dostępność niezbędnych dostaw i wyposażenia zgodnie z przepisami dotyczącymi zdrowia i bezpieczeństwa.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Analizujesz zagrożenia dla miasta lub instytucji",
+   "Układasz plany reagowania na sytuacje awaryjne",
+   "Testujesz plany podczas ćwiczeń",
+   "Sprawdzasz zapasy i sprzęt na wypadek kryzysu"
+  ]
+ },
+ {
+  "id": 1606,
+  "name": "Specjalista ds. bezpieczeństwa żywności",
+  "desc": "Specjaliści ds. bezpieczeństwa żywności organizują procesy i wdrażają procedury w celu uniknięcia problemów związanych z bezpieczeństwem żywności. Działają zgodnie z przepisami.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Wdrażasz procedury bezpieczeństwa żywności",
+   "Wyszukujesz miejsca, gdzie może dojść do skażenia",
+   "Kontrolujesz, czy pracownicy przestrzegają zasad higieny",
+   "Sprawdzasz zgodność z przepisami"
+  ]
+ },
+ {
+  "id": 1607,
+  "name": "Główny fizjoterapeuta",
+  "desc": "Główni fizjoterapeuci są wysoko wyspecjalizowani. Podejmują oni złożone decyzje i zarządzają ryzykiem w nieprzewidywalnych kontekstach i na określonym obszarze. Mogą oni koncentrować się na konkretnym obszarze praktyki klinicznej, edukacji, badań lub zarządzania zawodowego.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Prowadzisz rehabilitację w trudnych przypadkach",
+   "Oceniasz ryzyko dla zdrowia pacjenta",
+   "Uczysz młodszych fizjoterapeutów",
+   "Prowadzisz badania lub kierujesz zespołem"
+  ]
+ },
+ {
+  "id": 1608,
+  "name": "Zoofizjoterapeuta",
+  "desc": "Zoofizjoterapeuci zapewniają leczenie terapeutyczne po diagnozie weterynaryjnej lub skierowaniu sprawy do lekarza weterynarii. Koncentrują się oni na stosowaniu terapii fizycznej i procedur ćwiczeń fizycznych w celu wspierania rehabilitacji zwierząt po operacji lub obrażeniach, mając na celu przywrócenie zwierząt do normalnego funkcjonowania i/lub utrzymanie skuteczności zgodnie z ustawodawstwem krajowym.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Czytasz diagnozę i skierowanie od weterynarza",
+   "Układasz zestaw ćwiczeń dla zwierzęcia",
+   "Prowadzisz terapię fizyczną po operacji",
+   "Pokazujesz opiekunowi ćwiczenia do domu"
+  ]
+ },
+ {
+  "id": 1609,
+  "name": "Lekarz – specjalista audiologii i foniatrii",
+  "desc": "Lekarze specjaliści audiologii o foniatrii oceniają, diagnozują i leczą pacjentów (dzieci lub dorosłych) z zaburzeniami słuchu i układu przedsionowego, spowodowanymi przez choroby zakaźne, genetyczne, traumatyczne lub zwyrodnieniowe, takie jak utrata słuchu, szumy uszne, zawroty głowy, zaburzenia równowagi, przeczulica słuchowa, zaburzenia ośrodków słuchowych. Mogą oni zalecić aparat słuchowy i odgrywają rolę w ocenie i zarządzaniu pacjentami, którzy mogą korzystać z implantów słuchowych.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Badasz słuch pacjentów różnymi testami",
+   "Diagnozujesz przyczyny zawrotów głowy i szumów",
+   "Zalecasz aparaty słuchowe",
+   "Kwalifikujesz pacjentów do implantów słuchowych"
+  ]
+ },
+ {
+  "id": 1610,
+  "name": "Lekarz dentysta – specjalista",
+  "desc": "Lekarze dentyści specjaliści zapobiegają, diagnozują i leczą anomalie i schorzenia zębów, jamy ustnej, szczęki i tkanek przylegających, specjalizując w chirurgii jamy ustnej lub ortodoncji.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Oceniasz zdjęcia i skany trudnych przypadków",
+   "Planujesz leczenie w swojej specjalizacji",
+   "Zakładasz aparaty lub wykonujesz zabiegi chirurgiczne",
+   "Kontrolujesz postępy i korygujesz leczenie"
+  ]
+ },
+ {
+  "id": 1611,
+  "name": "Optometrysta",
+  "desc": "Optometryści badają oczy w celu wykrycia nieprawidłowości, problemów wizualnych lub choroby. Zalecają i dopasowują soczewki, takie jak okulary i szkła kontaktowe, a także oferują porady na temat problemów wizualnych. Mogą również skierować pacjentów do lekarza medycyny. Zakres ich praktyk i tytułów jest różny w zależności od przepisów krajowych.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Badasz ostrość widzenia pacjenta",
+   "Dobierasz soczewki do okularów i szkła kontaktowe",
+   "Doradzasz w sprawie problemów ze wzrokiem",
+   "Kierujesz pacjentów do lekarza przy niepokojących objawach"
+  ]
+ },
+ {
+  "id": 1612,
+  "name": "Ortoptysta",
+  "desc": "Ortoptyści diagnozują i leczą nieprawidłowości w zakresie widzenia stereoskopowego. Badają, oceniają i leczą zaburzenia wzroku, zez, niedowidzenie i zaburzenia ruchliwości wzroku. Ortoptyści stosują te metody w szczególności w dziedzinie pediatrii, neurologii, neurookulistyki, okulistyki, ortoptyki, optometrii, pleoptyki i strabologii oceniając choroby funkcyjne oczu w celu poprawy zaburzeń funkcjonalnych systemu wizualnego. Zapewniają również doradztwo, środki zapobiegawcze i działania szkoleniowe oraz mogą zalecić okulary, takie jak okulary korekcyjne.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Badasz, jak oczy współpracują ze sobą",
+   "Wykrywasz zez i niedowidzenie",
+   "Prowadzisz ćwiczenia treningu wzroku",
+   "Doradzasz rodzicom i zalecasz okulary"
+  ]
+ },
+ {
+  "id": 1613,
+  "name": "Specjalista ds. żywienia człowieka - dania gotowe",
+  "desc": "Specjaliści ds. żywienia człowieka (dania gotowe) oceniają składniki, proces wytwarzania i środki spożywcze w celu zapewnienia jakości odżywczej i przydatności gotowych posiłków i dań. Badają oni wartość odżywczą środków spożywczych i posiłków oraz informują o składzie różnych potraw lub dań dla ludzi (alergeny, makro- i mikroelementy itp.).",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Oceniasz składniki i sposób produkcji dań",
+   "Badasz wartość odżywczą gotowych posiłków",
+   "Opisujesz alergeny na etykiecie",
+   "Informujesz o składzie makro- i mikroelementów"
+  ]
+ },
+ {
+  "id": 1614,
+  "name": "Fizjoterapeuta weterynaryjny",
+  "desc": "Fizjoterapeuci weterynaryjni zajmują się leczeniem na podstawie diagnoz lub skierowań weterynaryjnych, koncentrując się na manualnej i mechanicznej manipulacji tkankami miękkimi w celu wspierania leczenia i przywrócenia zdrowia zwierząt zgodnie z ustawodawstwem krajowym.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Masujesz mięśnie zwierzęcia po urazie",
+   "Stosujesz zabiegi ręczne i mechaniczne na tkankach miękkich",
+   "Czytasz diagnozę od weterynarza",
+   "Obserwujesz reakcje zwierzęcia"
+  ]
+ },
+ {
+  "id": 1615,
+  "name": "Hydroterapeuta weterynaryjny",
+  "desc": "Hydroterapeuci weterynaryjni zajmują się leczeniem na podstawie diagnoz lub skierowań weterynaryjnych. Koncentrują się na wykorzystaniu odporności nabywanej przy użyciu wody w celu leczenia schorzeń, zapewnienia opieki pooperacyjnej oraz ćwiczeń przed operacją, a także zwiększenia ogólnej sprawności zgodnie z ustawodawstwem krajowym.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Prowadzisz zwierzę przez ćwiczenia w wodzie",
+   "Dobierasz poziom oporu wody do stanu zwierzęcia",
+   "Prowadzisz ćwiczenia przed i po operacji",
+   "Pilnujesz bezpieczeństwa zwierzęcia w basenie"
+  ]
+ },
+ {
+  "id": 1616,
+  "name": "Zooterapeuta",
+  "desc": "Zooterapeuci zajmują się leczeniem na podstawie diagnoz lub skierowań weterynaryjnych.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Czytasz skierowanie i zalecenia weterynarza",
+   "Prowadzisz terapię zwierzęcia krok po kroku",
+   "Obserwujesz, jak zwierzę reaguje na zabiegi",
+   "Pokazujesz opiekunowi, jak pomagać w domu"
+  ]
+ },
+ {
+  "id": 1617,
+  "name": "Aromaterapeuta / aromaterapeutka",
+  "desc": "Aromaterapeuci / aromaterapeutki używają olejków eterycznych ekstrahowanych z produktów ziołowych na poziomie skóry i błon śluzowych w celu poprawy samopoczucia klientów. Leczą różne choroby oraz zaburzenia fizyczne lub psychiczne pod nadzorem oraz na zlecenie lekarza.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Dobierasz olejki eteryczne do potrzeb klienta",
+   "Wykonujesz zabiegi z olejkami na skórze",
+   "Rozmawiasz z klientem o jego samopoczuciu",
+   "Współpracujesz z lekarzem przy leczeniu chorych"
+  ]
+ },
+ {
+  "id": 1618,
+  "name": "Asystent / asystentka fizjoterapii",
+  "desc": "Asystenci / asystentki fizjoterapii pracują pod nadzorem w określonym kontekście z wykorzystaniem uzgodnionych protokołów leczenia i procedur, takich jak gromadzenie danych dotyczących klientów i konserwacja sprzętu wymaganego do zabiegów fizjoterapeutycznych. Ogólną odpowiedzialność ponosi specjalista wydający skierowanie.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Wykonujesz zabiegi według gotowego protokołu",
+   "Zbierasz dane o pacjentach",
+   "Dbasz o sprzęt do zabiegów",
+   "Pomagasz pacjentom przy ćwiczeniach"
+  ]
+ },
+ {
+  "id": 1619,
+  "name": "Masażysta / masażystka techniką shiatsu",
+  "desc": "Masażyści / masażystki techniką shiatsu świadczą usługi w zakresie zachowania zdrowia, edukacji zdrowotnej i kompleksowej oceny stanu zdrowia oraz udzielają zaleceń dotyczących samopoczucia oraz leczenia niektórych chorób poprzez ocenę funkcjonowania pod względem energetycznym systemu energii życiowej organizmu (Ki) oraz jej regulację przy użyciu różnych technik energetycznych i manualnych.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Oceniasz stan klienta według zasad shiatsu",
+   "Uciskasz punkty na ciele dłońmi",
+   "Rozciągasz i masujesz ciało klienta",
+   "Doradzasz klientowi w sprawie samopoczucia"
+  ]
+ }
+]

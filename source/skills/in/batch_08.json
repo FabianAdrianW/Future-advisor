@@ -1,0 +1,722 @@
+[
+ {
+  "id": 480,
+  "name": "Sztygar",
+  "desc": "Sztygarzy są odpowiedzialni za codzienny nadzór nad pracownikami, zarządzanie instalacjami i sprzętem, optymalizowanie wydajności i zapewnianie bezpieczeństwa w kopalni.",
+  "path": "Przemysł i produkcja > Mistrzowie produkcji",
+  "tasks": [
+   "Rozdzielasz zadania brygadzie na zmianie",
+   "Sprawdzasz stan maszyn i instalacji",
+   "Pilnujesz przestrzegania zasad bezpieczeństwa",
+   "Zgłaszasz postępy i problemy przełożonym"
+  ]
+ },
+ {
+  "id": 481,
+  "name": "Technik gospodarki odpadami",
+  "desc": "Technicy gospodarki odpadami koordynują pracę zakładów zajmujących się odbiorem, recyklingiem i usuwaniem odpadów. Nadzorują gospodarkę odpadami, zapewniając zgodność z normami ochrony środowiska, oraz nadzorują personel. Pomagają w opracowywaniu metod gospodarowania odpadami, dążąc do poprawy redukcji odpadów, oraz w zapobieganiu naruszeniom przepisów dotyczących przetwarzania odpadów.",
+  "path": "Przemysł i produkcja > Mistrzowie produkcji",
+  "tasks": [
+   "Nadzorujesz pracowników na sortowni lub składowisku",
+   "Sprawdzasz zgodność z przepisami o odpadach",
+   "Szukasz sposobów na mniejszą ilość odpadów",
+   "Wypełniasz dokumentację przyjętych i wywiezionych odpadów"
+  ]
+ },
+ {
+  "id": 482,
+  "name": "Technik przetwórstwa nabiału",
+  "desc": "Technicy przetwórstwa nabiału nadzorują i koordynują procesy produkcyjne, operatorów oraz techników utrzymania ruchu w zakładach produkcji mleka, sera, lodów i/lub innych wyrobów mleczarskich. Pomagają technologom żywności w ulepszaniu procesów, opracowywaniu nowych produktów spożywczych oraz tworzeniu procedur i norm dotyczących produkcji i pakowania.",
+  "path": "Przemysł i produkcja > Mistrzowie produkcji",
+  "tasks": [
+   "Nadzorujesz linię produkcji sera lub lodów",
+   "Koordynujesz pracę operatorów maszyn",
+   "Pomagasz technologom ulepszać procesy",
+   "Tworzysz procedury produkcji i pakowania"
+  ]
+ },
+ {
+  "id": 483,
+  "name": "Operator urządzeń do produkcji farb",
+  "desc": "Operatorzy urządzeń do produkcji farb obsługują i konserwują maszyny, które mieszają lakiery, rozpuszczalniki i farby w celu wytworzenia farby, dopilnowując, aby produkt końcowy był zgodny z określoną recepturą.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Ustawiasz mieszalnik według receptury",
+   "Odważasz i dodajesz składniki do partii",
+   "Konserwujesz i czyścisz maszyny",
+   "Sprawdzasz, czy gotowa partia pasuje do receptury"
+  ]
+ },
+ {
+  "id": 484,
+  "name": "Operator urządzeń do produkcji lakierów syntetycznych",
+  "desc": "Operatorzy urządzeń do produkcji lakierów syntetycznych obsługują i konserwują mieszalniki lakierów i farb syntetycznych i młynki wibracyjne, dopilnowując, aby produkt końcowy był zgodny z recepturą.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Obsługujesz mieszalniki lakierów syntetycznych",
+   "Ustawiasz i uruchamiasz młynek wibracyjny",
+   "Odmierzasz składniki zgodnie z recepturą",
+   "Konserwujesz urządzenia po każdej partii"
+  ]
+ },
+ {
+  "id": 485,
+  "name": "Operator urządzeń do produkcji lakierów żywicznych",
+  "desc": "Operatorzy urządzeń do produkcji lakierów żywicznych obsługują urządzenia i mieszalniki do produkcji lakierów żywicznych, przez topienie, mieszanie i gotowanie wymaganych składników chemicznych, zgodnie ze specyfikacjami.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Ładujesz składniki chemiczne do mieszalnika",
+   "Topisz i gotujesz mieszaninę według specyfikacji",
+   "Obserwujesz wskazania temperatury i czasu",
+   "Spisujesz parametry każdej partii"
+  ]
+ },
+ {
+  "id": 486,
+  "name": "Operator urządzeń do produkcji mieszanek zapalających",
+  "desc": "Operatorzy urządzeń do produkcji mieszanek zapalających obsługują maszyny i urządzenia stosowane do tworzenia zapalników i proszków znakujących, poprzez mieszanie cieczy i substancji chemicznych w stanie suchym, dopilnowując, aby ustawione zostały wymagane parametry i aby mieszaniny łatwopalne były zgodne ze specyfikacjami.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Ustawiasz wymagane parametry maszyn",
+   "Pilnujesz mieszania cieczy i suchych składników",
+   "Sprawdzasz zgodność mieszanki ze specyfikacją",
+   "Przestrzegasz procedur bezpieczeństwa na stanowisku"
+  ]
+ },
+ {
+  "id": 487,
+  "name": "Operator urządzeń do produkcji nawozów sztucznych",
+  "desc": "Operatorzy urządzeń do produkcji nawozów sztucznych obsługują i konserwują maszyny do mieszania składników chemicznych w celu produkcji nawozów, dopilnowując, aby produkt końcowy był zgodny ze specyfikacjami.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Dozujesz składniki nawozu do mieszalnika",
+   "Uruchamiasz i konserwujesz maszyny mieszające",
+   "Pobierasz próbki gotowego nawozu",
+   "Zapisujesz skład i ilość partii"
+  ]
+ },
+ {
+  "id": 488,
+  "name": "Operator urządzeń do produkcji pestycydów",
+  "desc": "Operatorzy urządzeń do produkcji pestycydów obsługują i konserwują maszyny do mieszania składników chemicznych w stanie suchym lub ciekłym, w celu wytworzenia środków owadobójczych, grzybobójczych, gryzoniobójczych lub chwastobójczych, dopilnowując, aby produkt końcowy był zgodny z recepturą.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Odmierzasz składniki suche i ciekłe",
+   "Obsługujesz maszyny mieszające preparaty",
+   "Konserwujesz mieszalniki i zbiorniki",
+   "Porównujesz gotową partię z recepturą"
+  ]
+ },
+ {
+  "id": 489,
+  "name": "Operator urządzeń mieszających do produkcji wyrobów chemicznych",
+  "desc": "Operatorzy urządzeń mieszających do produkcji wyrobów chemicznych obsługują i konserwują zbiorniki do mieszania i mieszalniki w celu opracowania produktów chemicznych z surowców, dopilnowując, by produkty końcowe były zgodne ze specyfikacjami w raporcie szarżowym.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Czytasz raport szarżowy partii",
+   "Ładujesz surowce do zbiornika mieszającego",
+   "Obsługujesz i konserwujesz mieszalniki",
+   "Sprawdzasz zgodność produktu ze specyfikacją"
+  ]
+ },
+ {
+  "id": 490,
+  "name": "Mydlarz",
+  "desc": "Mydlarze obsługują urządzenia i mieszalniki, które produkują mydło, dopilnowując, aby produkt końcowy był wytwarzany zgodnie z określoną recepturą.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Przygotowujesz składniki mydła według receptury",
+   "Obsługujesz mieszalniki do produkcji mydła",
+   "Pilnujesz parametrów pracy urządzeń",
+   "Notujesz przebieg każdej partii"
+  ]
+ },
+ {
+  "id": 491,
+  "name": "Operator urządzeń do produkcji płatków mydlanych",
+  "desc": "Operatorzy urządzeń do produkcji płatków mydlanych kontrolują i konserwują maszynę na lepkie mydło w celu wyprodukowania płatków mydlanych. Przeprowadzają badania próbek i koordynują wyładunek suchych płatków do zasobników.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Kontrolujesz maszynę na lepkie mydło",
+   "Konserwujesz urządzenie do produkcji płatków",
+   "Badasz pobrane próbki płatków",
+   "Koordynujesz wyładunek płatków do zasobników"
+  ]
+ },
+ {
+  "id": 492,
+  "name": "Operator urządzeń do produkcji wiórków mydlanych",
+  "desc": "Operatorzy urządzeń do produkcji wiórków mydlanych obsługują maszyny przekształcające kostki mydła w wiórki mydła, dopilnowując, aby produkt końcowy był zgodny z recepturą. Zajmują się oni również transportem i przechowywaniem wiórków mydlanych.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Zasilasz maszynę kostkami mydła",
+   "Ustawiasz maszynę zgodnie z recepturą",
+   "Przewozisz wiórki do magazynu",
+   "Układasz wiórki w miejscu przechowywania"
+  ]
+ },
+ {
+  "id": 493,
+  "name": "Dyspozytor kopalni",
+  "desc": "Dyspozytorzy kopalni wykonują szereg zadań ze sterowni kopalni. Monitorują oni procesy za pomocą elektronicznych odwzorowań widocznych na monitorach, przyrządach pomiarowych i światłach. Dyspozytorzy kopalni wprowadzają zmiany do zmiennych i komunikują się z innymi oddziałami w celu zapewnienia sprawnego przebiegu procesów, zgodnie z ustalonymi procedurami. Podejmują oni odpowiednie działania w przypadku nieprawidłowości lub sytuacji nadzwyczajnych.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Monitorujesz procesy na ekranach i wskaźnikach",
+   "Zmieniasz ustawienia zmiennych procesu",
+   "Łączysz się z innymi oddziałami kopalni",
+   "Uruchamiasz procedury w razie awarii"
+  ]
+ },
+ {
+  "id": 494,
+  "name": "Kontroler procesów przeróbki ropy naftowej",
+  "desc": "Kontrolerzy procesów przeróbki ropy naftowej badają ropę naftową podczas przetwarzania i przed wysyłką. Kontrolują oni systemy pomp i regulują przepływ ropy do rurociągów.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Pobierasz próbki ropy do badania",
+   "Sprawdzasz jakość ropy przed wysyłką",
+   "Kontrolujesz systemy pomp",
+   "Regulujesz przepływ ropy do rurociągów"
+  ]
+ },
+ {
+  "id": 495,
+  "name": "Kontroler urządzeń koksowniczych",
+  "desc": "Kontrolerzy urządzeń koksowniczych monitorują funkcjonowanie zazwyczaj automatycznego pieca przemysłowego, do którego wprowadzany jest rozdrobniony, przemyty i zmieszany węgiel kamienny i ogrzewa go do temperatury między 1000 a 2000°C bez obecności tlenu w celu uzyskania koksu. Gotowy koks jest następnie gaszony wodą lub powietrzem i przygotowywany do transportu.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Monitorujesz pracę pieca koksowniczego",
+   "Śledzisz temperaturę w piecu",
+   "Kontrolujesz gaszenie gotowego koksu",
+   "Przygotowujesz koks do transportu"
+  ]
+ },
+ {
+  "id": 496,
+  "name": "Operator aparatu nitracyjnego",
+  "desc": "Operatorzy aparatów nitracyjnych monitorują i kontrolują urządzenia, które przetwarzają substancje chemiczne do wytwarzania materiałów wybuchowych. Odpowiadają za składowanie produktów w zbiornikach.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Monitorujesz pracę aparatów nitracyjnych",
+   "Kontrolujesz parametry pracy urządzeń",
+   "Przekazujesz produkty do zbiorników",
+   "Przestrzegasz restrykcyjnych procedur bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 497,
+  "name": "Operator kapsułkarki",
+  "desc": "Operatorzy kapsułkarek kontrolują napełnianie kapsułek żelatynowych określonymi preparatami leczniczymi.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Uruchamiasz kapsułkarkę i ustawiasz ją",
+   "Dosypujesz preparat leczniczy do maszyny",
+   "Kontrolujesz napełnienie kapsułek",
+   "Czyścisz maszynę przed zmianą preparatu"
+  ]
+ },
+ {
+  "id": 498,
+  "name": "Operator pieca do wypalania wapna",
+  "desc": "Operatorzy pieców do wypalania wapna kontrolują urządzenia spalające wapień w celu produkcji wapna lub dwutlenku węgla. Kontrolują oni przepływ materiałów, paliwa i powietrza oraz obserwują przepływ materiału, powietrze, temperaturę, wykresy paliwowe i mierniki tlenu oraz, w razie potrzeby, wprowadzają korekty. Prowadzą oni również dokumentację produkcyjną.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Regulujesz dopływ wapienia, paliwa i powietrza",
+   "Obserwujesz wykresy temperatury i paliwa",
+   "Odczytujesz mierniki tlenu w piecu",
+   "Prowadzisz dokumentację produkcji"
+  ]
+ },
+ {
+  "id": 499,
+  "name": "Operator prasy do mydła",
+  "desc": "Operatorzy pras do mydła kontrolują prasę do rozdrobnionego mydła, która wytwarza określone kształty i rozmiary kostek mydła, dopilnowując, aby produkty były zgodne ze specyfikacjami i wymogami jakościowymi.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Zasilasz prasę rozdrobnionym mydłem",
+   "Ustawiasz formę kostki w prasie",
+   "Wyjmujesz i oceniasz gotowe kostki",
+   "Odrzucasz kostki niespełniające wymagań"
+  ]
+ },
+ {
+  "id": 500,
+  "name": "Operator separatora grawitacyjnego nitrogliceryny",
+  "desc": "Operatorzy separatorów grawitacyjnych nitrogliceryny konserwują separator grawitacyjny, używany w procesie przetwarzania materiałów wybuchowych, kontrolując temperaturę i przepływ cieczy, w celu oddzielenia nitrogliceryny od zużytych kwasów.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Konserwujesz separator grawitacyjny",
+   "Kontrolujesz temperaturę w separatorze",
+   "Pilnujesz przepływu cieczy",
+   "Przestrzegasz ścisłych procedur bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 501,
+  "name": "Operator tabletkarki",
+  "desc": "Operatorzy tabletkarek dozorują tabletkarkę wytwarzającą tabletki o różnych rozmiarach i kształtach. Napełniają oni również maszynę niezbędnymi materiałami, otwierają zawory, aby kontrolować przepływ materiałów i regulują temperaturę maszyny.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Napełniasz tabletkarkę materiałem",
+   "Otwierasz zawory i regulujesz przepływ",
+   "Ustawiasz temperaturę maszyny",
+   "Dozorujesz wytwarzanie tabletek"
+  ]
+ },
+ {
+  "id": 502,
+  "name": "Operator urządzeń destylacyjnych",
+  "desc": "Operatorzy urządzeń destylacyjnych prowadzą i nadzorują proces destylacji ropy naftowej i pomagają w usuwaniu problemów. Obsługują oni urządzenia do destylacji w celu oddzielenia produktów pośrednich lub zanieczyszczeń od ropy naftowej. Przekręcają oni zawory sterujące i mierniki do uzyskania temperatur, szybkości przepływu materiału, ciśnienia itp.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Prowadzisz proces destylacji ropy",
+   "Przekręcasz zawory sterujące",
+   "Pilnujesz temperatury, przepływu i ciśnienia",
+   "Pomagasz usuwać problemy w instalacji"
+  ]
+ },
+ {
+  "id": 503,
+  "name": "Operator urządzeń do bielenia wosku",
+  "desc": "Operatorzy urządzeń do bielenia wosku obsługują i konserwują prasy filtracyjne i zbiorniki stosowane do bielenia wosku, w procesach produkcji świec.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Obsługujesz zbiorniki do bielenia wosku",
+   "Pilnujesz pracy prasy filtracyjnej",
+   "Konserwujesz i czyścisz sprzęt",
+   "Kontrolujesz kolor i czystość wosku"
+  ]
+ },
+ {
+  "id": 504,
+  "name": "Operator urządzeń do fermentacji",
+  "desc": "Operatorzy urządzeń do fermentacji kontrolują i konserwują urządzenia i zbiorniki do produkcji składników aktywnych i funkcjonalnych dla produktów leczniczych, takich jak antybiotyki lub witaminy. Pracują oni również przy produkcji kosmetyków lub produktów do pielęgnacji ciała.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Kontrolujesz zbiorniki do fermentacji",
+   "Przygotowujesz urządzenia do nowej partii",
+   "Konserwujesz i czyścisz aparaturę",
+   "Notujesz parametry procesu w dzienniku"
+  ]
+ },
+ {
+  "id": 505,
+  "name": "Operator urządzeń do produkcji perfum",
+  "desc": "Operatorzy urządzeń do produkcji perfum dozorują maszyny do produkcji perfum, poprzez ustawianie maszyn i narzędzi, czyszczenie i konserwację urządzeń oraz przestrzeganie harmonogramu produkcji.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Ustawiasz maszyny i narzędzia",
+   "Czyścisz i konserwujesz urządzenia",
+   "Przestrzegasz harmonogramu produkcji",
+   "Dozorujesz pracę maszyny podczas serii"
+  ]
+ },
+ {
+  "id": 506,
+  "name": "Operator urządzeń do produkcji proszku mydlanego",
+  "desc": "Operatorzy urządzeń do produkcji proszku mydlanego kontrolują, monitorują i konserwują pracę urządzeń do produkcji proszku mydlanego, w celu wytworzenia proszków mydlanych. Kontrolują oni jednostki robocze w celu zapewnienia zgodności parametrów przepływu oleju, powietrza, substancji zapachowych lub pary ze specyfikacjami.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Kontrolujesz pracę urządzeń do proszku",
+   "Pilnujesz przepływu oleju, powietrza i pary",
+   "Dozujesz substancje zapachowe",
+   "Konserwujesz jednostki robocze"
+  ]
+ },
+ {
+  "id": 507,
+  "name": "Operator urządzeń do produkcji wyrobów kosmetycznych",
+  "desc": "Operatorzy urządzeń do produkcji wyrobów kosmetycznych dozorują maszyny do wytwarzania produktów kosmetycznych, ustawiając maszyny i narzędzia, czyszcząc i konserwując urządzenia oraz przestrzegając harmonogramu produkcji.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Ustawiasz maszyny i narzędzia do serii",
+   "Czyścisz urządzenia do produkcji kosmetyków",
+   "Konserwujesz maszyny po zakończeniu pracy",
+   "Realizujesz plan harmonogramu produkcji"
+  ]
+ },
+ {
+  "id": 508,
+  "name": "Operator urządzeń do produkcji włóknin nietkanych",
+  "desc": "Operatorzy urządzeń do produkcji włóknin nietkanych wykonują czynności związane z przetwarzaniem chemicznym włóknin nietkanych.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Obsługujesz linię do włóknin nietkanych",
+   "Kontrolujesz obróbkę chemiczną materiału",
+   "Odbierasz gotowy materiał z linii",
+   "Sprawdzasz wygląd gotowej włókniny"
+  ]
+ },
+ {
+  "id": 509,
+  "name": "Operator urządzeń granulujących",
+  "desc": "Operatorzy urządzeń granulujących dokonują mieszania i granulacji sproszkowanych składników przy użyciu maszyn do mieszania i rozdrabniania w celu przygotowania składników przeznaczonych do tabletkowania produktów leczniczych. Ustawiają wielkość serii i przestrzegają receptur dotyczących składników.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Mieszasz sproszkowane składniki w maszynie",
+   "Granulujesz masę przed tabletkowaniem",
+   "Ustawiasz wielkość serii",
+   "Pilnujesz zgodności z recepturą"
+  ]
+ },
+ {
+  "id": 510,
+  "name": "Pracownik obsługi suszarni materiałów pirotechnicznych",
+  "desc": "Pracownicy obsługi suszarni materiałów pirotechnicznych obserwują i konserwują suszarnię, sprawdzając, czy materiały pirotechniczne są osuszone i przechowywane zgodnie z właściwymi parametrami i specyfikacjami.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Obserwujesz pracę suszarni",
+   "Sprawdzasz stopień osuszenia materiałów",
+   "Pilnujesz warunków przechowywania",
+   "Konserwujesz urządzenie suszące"
+  ]
+ },
+ {
+  "id": 511,
+  "name": "Pracownik odpowiedzialny za neutralizację nitrogliceryny",
+  "desc": "Pracownicy odpowiedzialni za neutralizację nitrogliceryny konserwują zbiorniki do mieszania materiałów wybuchowych, poprzez neutralizację kwasów pozostałych w procesie.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Konserwujesz zbiorniki do mieszania",
+   "Neutralizujesz kwasy pozostałe po procesie",
+   "Kontrolujesz przebieg neutralizacji",
+   "Dokumentujesz każdy etap pracy"
+  ]
+ },
+ {
+  "id": 512,
+  "name": "Technik fotograf",
+  "desc": "Technicy fotografowie stosują substancje chemiczne, przyrządy i techniki fotograficzne w ciemni w specjalistycznych pomieszczeniach w celu wywołania filmów fotograficznych do widzialnych obrazów.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Wywołujesz filmy fotograficzne w ciemni",
+   "Obsługujesz przyrządy do obróbki filmu",
+   "Przygotowujesz substancje chemiczne do wywołania",
+   "Oceniasz wywołane obrazy"
+  ]
+ },
+ {
+  "id": 513,
+  "name": "Technik laboratorium filmowego",
+  "desc": "Technicy laboratoriów filmowych wywołują materiał filmowy do widzialnych filmów wideo i materiałów. Wywołują oni materiał filmowy w różnych formatach, np. 65 – 70 mm i 8 mm, i prezentacjach, np. czarno-białych i kolorowych. Tworzą oni małe filmy kinematograficzne na zlecenie klientów.",
+  "path": "Przemysł i produkcja > Produkcja chemiczna",
+  "tasks": [
+   "Wywołujesz taśmy filmowe w różnych formatach",
+   "Dobierasz proces do materiału czarno-białego lub kolorowego",
+   "Zamieniasz wywołany materiał na film wideo",
+   "Tworzysz małe filmy na zlecenie klientów"
+  ]
+ },
+ {
+  "id": 514,
+  "name": "Główny wiertacz",
+  "desc": "Główni wiertacze nadzorują zespół podczas czynności montażowych i wiertniczych. Monitorują oni działanie odwiertu i podejmują działania w sytuacjach nagłych.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Nadzorujesz zespół przy montażu wiertni",
+   "Prowadzisz prace wiertnicze",
+   "Monitorujesz działanie odwiertu",
+   "Podejmujesz działania w sytuacjach nagłych"
+  ]
+ },
+ {
+  "id": 515,
+  "name": "Kierownik wierceń",
+  "desc": "Kierownicy wierceń są odpowiedzialni za bieżące operacje wiertnicze. Wykonują oni głównie prace administracyjne. Kierownicy wierceń zapewniają, aby na platformie wiertniczej znajdowała się wystarczającą ilość materiałów, części zamiennych i liczba pracowników do kontynuowania codziennej działalności. Prowadzą oni działalność wiertniczą zgodnie z zaplanowanym programem, nadzorując załogę i sprzęt wiertniczy.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Prowadzisz wiercenia zgodnie z zaplanowanym programem",
+   "Zamawiasz materiały i części zamienne",
+   "Układasz grafik załogi",
+   "Prowadzisz dokumentację wierceń"
+  ]
+ },
+ {
+  "id": 516,
+  "name": "Mechanik wieży wiertniczej",
+  "desc": "Mechanicy wież wiertniczych odpowiadają za silniki napędzające urządzenia wiertnicze. Dopilnowują oni, aby wszystkie pozostałe urządzenia na platformie wiertniczej działały prawidłowo.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Konserwujesz silniki napędzające wiertnię",
+   "Diagnozujesz awarie maszyn na platformie",
+   "Naprawiasz uszkodzone urządzenia",
+   "Sprawdzasz stan sprzętu podczas obchodu"
+  ]
+ },
+ {
+  "id": 517,
+  "name": "Operator pompy do rurociągu",
+  "desc": "Operatorzy pomp do rurociągu dozorują sprzęt i systemy przenoszenia płynów i substancji (tj. roztwory chemiczne, ropa naftowa, gazy i inne) z jednego punktu do drugiego. Obsługują węże, pompy i inny sprzęt, zależnie od przenoszonych towarów. Zapewniają oni sprawny obieg i przepływ towarów w rurociągach.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Obsługujesz pompy i węże do przesyłu",
+   "Kontrolujesz przepływ towaru w rurociągu",
+   "Dobierasz sprzęt do rodzaju towaru",
+   "Wychwytujesz zakłócenia przepływu"
+  ]
+ },
+ {
+  "id": 518,
+  "name": "Operator tunelowych maszyn wiertniczych",
+  "desc": "Operatorzy tunelowych maszyn wiertniczych pracują na dużych elementach sprzętu do drążenia tuneli, powszechnie znanego jako TBM. Regulują oni pracę maszyny, korygując moment obrotowy obracającego się koła tnącego i przenośnika śrubowego w celu maksymalnego zwiększenia stabilności tunelu przed założeniem pierścieni tunelu. Następnie operatorzy tunelowych maszyn wiertniczych umieszczają żelbetowe kręgi przy zastosowaniu zdalnego sterowania.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Regulujesz moment obrotowy koła tnącego",
+   "Kontrolujesz pracę przenośnika śrubowego",
+   "Pilnujesz stabilności drążonego tunelu",
+   "Układasz żelbetowe kręgi zdalnym sterowaniem"
+  ]
+ },
+ {
+  "id": 519,
+  "name": "Otworowy pomocnik wiertacza",
+  "desc": "Otworowi pomocnicy wiertacza tworzą lub zrywają połączenia, kiedy rura płuczkowa jest wprowadzana do otworu wiertniczego lub z niego wyjmowana. Montują i demontują rury i wiertła oraz pobierają próbki podstawowe. Konserwują i naprawiają sprzęt na piętrze wydobywczym.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Łączysz i rozłączasz rury płuczkowe",
+   "Montujesz i demontujesz wiertła",
+   "Pobierasz próbki z odwiertu",
+   "Naprawiasz sprzęt na piętrze wydobywczym"
+  ]
+ },
+ {
+  "id": 520,
+  "name": "Pracownik wiertni",
+  "desc": "Pracownicy wiertni kierują pozycjami i ruchami rur wiertniczych. Kontrolują zautomatyzowane urządzenia do obchodzenia się z rurami. Często odpowiadają za stan płuczek wiertniczych lub „błota”.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Ustawiasz rury wiertnicze w odpowiedniej pozycji",
+   "Sterujesz urządzeniem do przenoszenia rur",
+   "Kontrolujesz stan płuczki wiertniczej",
+   "Obserwujesz ruchy rur podczas pracy"
+  ]
+ },
+ {
+  "id": 521,
+  "name": "Robotnik na platformie wiertniczej",
+  "desc": "Robotnicy na platformie wiertniczej konserwują i naprawiają sprzęt i maszyny na polu naftowym z wykorzystaniem narzędzi ręcznych i elektronarzędzi. Wykonują oni ogólne prace takie jak czyszczenie, kopanie rowów, skrobanie i malowanie elementów platformy.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Naprawiasz maszyny narzędziami ręcznymi",
+   "Czyścisz elementy platformy",
+   "Kopiesz rowy wokół urządzeń",
+   "Skrobiesz i malujesz konstrukcje"
+  ]
+ },
+ {
+  "id": 522,
+  "name": "Wiertacz studni",
+  "desc": "Wiertacze studni obsługują maszyny i urządzenia wiertnicze w celu utworzenia i utrzymywania odwiertów do wydobycia rudy oraz innych cieczy i gazów. Rejestrują oni czynności, konserwują sprzęt, uszczelniają nieużywane odwierty i zapobiegają zanieczyszczeniu gruntu.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Obsługujesz maszynę wiertniczą",
+   "Rejestrujesz przebieg wiercenia",
+   "Uszczelniasz nieużywane odwierty",
+   "Zapobiegasz zanieczyszczeniu gruntu"
+  ]
+ },
+ {
+  "id": 523,
+  "name": "Odlewacz form betonowych",
+  "desc": "Odlewacze form betonowych ręcznie odlewają dekoracyjne i konstrukcyjne wyroby budowlane, takie jak moduły kominków, bloczki lub barwne płytki. Korzystają z przenośnej betoniarki.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Mieszasz beton w przenośnej betoniarce",
+   "Wlewasz masę do form",
+   "Wyjmujesz gotowe bloczki i płytki",
+   "Czyścisz formy po każdym odlewie"
+  ]
+ },
+ {
+  "id": 524,
+  "name": "Operator maszyn do produkcji prefabrykatów betonowych",
+  "desc": "Operatorzy maszyn do produkcji prefabrykatów betonowych dozorują maszyny stosowane do wytwarzania formowanych wyrobów betonowych. Dokonują oni smarowania, montażu i odrywania z form. Uczestniczą również w procesie mieszania cementu.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Smarujesz formy przed odlewem",
+   "Montujesz formy w maszynie",
+   "Odrywasz gotowe elementy od form",
+   "Pomagasz mieszać cement"
+  ]
+ },
+ {
+  "id": 525,
+  "name": "Operator mieszarki granulatu łupkowego",
+  "desc": "Operatorzy mieszarki granulatu łupkowego obsługują i konserwują mieszarki granulatu łupkowego, które mieszają wielokolorowy granulat łupkowy do pokrycia papą powlekanego asfaltem pokrycia dachowego.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Obsługujesz mieszarkę granulatu łupkowego",
+   "Mieszasz granulat w różnych kolorach",
+   "Czyścisz i konserwujesz mieszarkę",
+   "Sprawdzasz, czy kolory są równo wymieszane"
+  ]
+ },
+ {
+  "id": 526,
+  "name": "Operator pustaczarki",
+  "desc": "Operatorzy pustaczarek kontrolują, konserwują i obsługują pustaczarkę, która napełnia formy i wykonuje wibracje w celu kompaktowania mokrego betonu w gotowe bloczki.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Obsługujesz pustaczarkę na hali",
+   "Kontrolujesz napełnianie form betonem",
+   "Pilnujesz zagęszczania wibracjami",
+   "Czyścisz i konserwujesz maszynę"
+  ]
+ },
+ {
+  "id": 527,
+  "name": "Operator urządzeń do produkcji mas asfaltowych",
+  "desc": "Operatorzy urządzeń do produkcji mas asfaltowych uzyskują surowce takie jak piasek i kamienie oraz obsługują ruchome urządzenia w celu ich transportu do zakładu. Dozorują oni automatyczne maszyny do zgniatania i sortowania kamieni oraz mieszania piasku i kamieni ze spoiwem asfaltowym. Pobierają próbki w celu sprawdzenia jakości mieszanki i organizują jej transport na miejsce budowy.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Przewozisz kruszywo do zakładu",
+   "Dozorujesz automaty kruszące i mieszające",
+   "Pobierasz próbki mieszanki asfaltowej",
+   "Organizujesz transport mieszanki na budowę"
+  ]
+ },
+ {
+  "id": 528,
+  "name": "Operator łuparki do kamienia",
+  "desc": "Operatorzy łuparek do kamienia obsługują i konserwują maszyny do rozdrabniania kamienia. Przerabiają oni kamień na różne formy, takie jak bloczki, kostki, płytki i produkty betonowe.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Obsługujesz łuparkę do kamienia",
+   "Podajesz bloki kamienia do maszyny",
+   "Oceniasz kształt rozłupanych elementów",
+   "Konserwujesz i czyścisz łuparkę"
+  ]
+ },
+ {
+  "id": 529,
+  "name": "Szlifierz kamienia",
+  "desc": "Szlifierze kamienia obsługują narzędzia i sprzęt do szlifowania i polerowania w celu wygładzenia kamieni.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Szlifujesz powierzchnię kamienia",
+   "Polerujesz kamień do połysku",
+   "Dobierasz narzędzia do rodzaju kamienia",
+   "Sprawdzasz dłonią gładkość powierzchni"
+  ]
+ },
+ {
+  "id": 530,
+  "name": "Wytwórca ogniw elektrolitycznych",
+  "desc": "Wytwórcy ogniw elektrolitycznych tworzą, wykańczają i testują betonowe ogniwa elektrolityczne z wykorzystaniem sprzętu, narzędzi i betoniarek.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Mieszasz beton w betoniarce",
+   "Formujesz betonowe ogniwa",
+   "Wykańczasz powierzchnię gotowego elementu",
+   "Testujesz gotowe ogniwa"
+  ]
+ },
+ {
+  "id": 531,
+  "name": "Górnik pracujący na powierzchni",
+  "desc": "Górnicy pracujący na powierzchni prowadzą szereg pomocniczych działań wydobywczych na powierzchni, często obejmujących wysoki poziom świadomości przestrzennej, takich jak pompowanie, odpylanie oraz transport materiałów, w tym piasku, kamienia i gliny do punktu produkcji.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Obsługujesz pompy na terenie kopalni",
+   "Odpylasz stanowiska pracy",
+   "Przewozisz piasek, kamień i glinę",
+   "Orientujesz się w terenie wśród maszyn"
+  ]
+ },
+ {
+  "id": 532,
+  "name": "Operator ciężkiego sprzętu górniczego",
+  "desc": "Operatorzy ciężkiego sprzętu górniczego kontrolują wysokowydajne urządzenia górnicze, takie jak sprzęt do cięcia i załadunku w celu wydobycia i załadunku rudy i surowego minerału w podziemnych kopalniach.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Sterujesz maszyną tnącą w kopalni",
+   "Ładujesz urobek na transport",
+   "Kontrolujesz stan ciężkiego sprzętu",
+   "Zgłaszasz usterki maszyny serwisowi"
+  ]
+ },
+ {
+  "id": 533,
+  "name": "Operator maszyn do odwadniania",
+  "desc": "Operatorzy maszyn do odwadniania instalują i obsługują pompy, części zamienne, zestawy rur oraz systemy odwadniania próżniowego w celu gromadzenia i usuwania cieczy oraz substancji chemicznych.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Instalujesz pompy i zestawy rur",
+   "Obsługujesz system odwadniania próżniowego",
+   "Wymieniasz części zamienne",
+   "Kontrolujesz odprowadzanie cieczy"
+  ]
+ },
+ {
+  "id": 534,
+  "name": "Wiertacz",
+  "desc": "Wiertacze ustawiają i obsługują wiertnie i związany z nimi sprzęt przeznaczony do wiercenia otworów do poszukiwań złóż mineralnych, podczas operacji strzałowych, a także do celów konstrukcyjnych.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Ustawiasz wiertnię w wyznaczonym miejscu",
+   "Wiercisz otwory zgodnie z planem",
+   "Obsługujesz sprzęt do wiercenia",
+   "Przygotowujesz otwory pod prace budowlane"
+  ]
+ },
+ {
+  "id": 535,
+  "name": "Operator kruszarki do surowców mineralnych",
+  "desc": "Operatorzy kruszarki do surowców mineralnych obsługują i monitorują kruszarki i inne maszyny do rozdrabniania materiałów i minerałów. Przemieszczają oni kamienie do kruszarek, napełniają maszyny minerałami, monitorują proces rozdrabniania i dopilnowują, aby produkty końcowe były zgodne z wymaganiami.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Podajesz kamień do kruszarki",
+   "Napełniasz maszyny minerałami",
+   "Obserwujesz proces rozdrabniania",
+   "Sprawdzasz, czy kruszywo spełnia wymagania"
+  ]
+ },
+ {
+  "id": 536,
+  "name": "Operator sprzętu do obróbki kamienia",
+  "desc": "Operatorzy sprzętu do obróbki kamienia obsługują i konserwują strugarki używane do obróbki wykańczającej bloków i płyt kamiennych. Operują oni kamieniem i zapewniają zgodność wymaganych parametrów ze specyfikacjami.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Obsługujesz strugarkę do kamienia",
+   "Układasz bloki i płyty w maszynie",
+   "Ustawiasz parametry według specyfikacji",
+   "Mierzysz gotowe płyty"
+  ]
+ },
+ {
+  "id": 537,
+  "name": "Operator sprzętu do przetwórstwa surowców mineralnych",
+  "desc": "Operatorzy sprzętu do przetwórstwa surowców mineralnych obsługują różne instalacje i urządzenia w celu przekształcenia surowców w produkty rynkowe. Przekazują oni odpowiednie informacje o procesie do pomieszczenia kontrolnego.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Obsługujesz instalacje przerobu surowców",
+   "Kontrolujesz kolejne etapy przetwarzania",
+   "Przekazujesz dane do pomieszczenia kontrolnego",
+   "Reagujesz na odchylenia w pracy instalacji"
+  ]
+ },
+ {
+  "id": 538,
+  "name": "Wiertacz w kamieniu",
+  "desc": "Wiertacze w kamieniu używają wiertarki wiercącej otwory w blokach kamiennych. Operują oni granitem, piaskowcem, marmurem i łupkami zgodnie ze specyfikacjami.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Odczytujesz wymiary otworów ze specyfikacji",
+   "Zaznaczasz miejsca wiercenia na bloku",
+   "Ustawiasz blok i obsługujesz wiertarkę",
+   "Mierzysz gotowe otwory i sprawdzasz krawędzie"
+  ]
+ },
+ {
+  "id": 539,
+  "name": "Operator pieca do wypalania gliny",
+  "desc": "Operatorzy pieców do wypalania gliny wypalają wyroby z gliny, takie jak cegły, rury kanalizacyjne lub płytki ceramiczne przy zastosowaniu pieców okresowych lub tunelowych. Regulują zawory, obserwują termometry, sprawdzają wahania i konserwują piece.",
+  "path": "Przemysł i produkcja > Inne maszyny przetwórcze",
+  "tasks": [
+   "Ustawiasz zawory i regulujesz temperaturę pieca",
+   "Odczytujesz termometry w czasie wypału",
+   "Sprawdzasz, czy wypalone wyroby nie mają wad",
+   "Kontrolujesz piec i zgłaszasz jego usterki"
+  ]
+ }
+]

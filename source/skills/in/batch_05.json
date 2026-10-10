@@ -1,0 +1,722 @@
+[
+ {
+  "id": 300,
+  "name": "Operator maszyn do mocowania podeszew i przybijania obcasów",
+  "desc": "Operatorzy maszyn do mocowania podeszew i przybijania obcasów przymocowują podeszwę lub obcasy do obuwia przez szycie, klejenie lub przybicie gwoździami. Mogą pracować na kilku maszynach, na przykład do wsuwania kopyt, bądź do obróbki wstępnej, odpylania lub przybijania obcasów. Obsługują oni także różne maszyny, zarówno dla konstrukcji szytych, jak i klejonych.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Ustawiasz but w maszynie do przybijania obcasa",
+   "Przyklejasz lub przyszywasz podeszwę do cholewki",
+   "Odpylasz but przed klejeniem",
+   "Sprawdzasz, czy obcas trzyma prosto"
+  ]
+ },
+ {
+  "id": 301,
+  "name": "Operator maszyn do produkcji obuwia",
+  "desc": "Operatorzy maszyn do produkcji obuwia dozorują specjalne maszyny do przemysłowej produkcji obuwia. Obsługują oni maszyny do formowania butów, wykrawania, zamykania i wykańczania wyrobów obuwniczych. Prowadzą oni również rutynową konserwację maszyn.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Uruchamiasz maszyny do formowania i wykańczania",
+   "Pilnujesz, czy wykroje są równo wycięte",
+   "Wyłapujesz wadliwe buty z linii",
+   "Czyścisz i smarujesz maszyny po zmianie"
+  ]
+ },
+ {
+  "id": 302,
+  "name": "Operator obuwniczych urządzeń szwalniczych",
+  "desc": "Operatorzy obuwniczych urządzeń szwalniczych łączą wykrojone kawałki skóry i innych materiałów w celu wytworzenia cholewek. Korzystają z wielu narzędzi i szerokiej gamy maszyn, takich jak maszyny płaskie, ramieniowe oraz jedno- i dwukolumnowe. Wybierają oni nici i igły do zszywarek, umieszczają części na powierzchni roboczej i obsługują części prowadzące maszyny pod igłą. Przechodzą po szwach, krawędziach, oznaczeniach bądź ruchomych krawędziach części w stosunku do prowadnicy. Na koniec odcinają nadmiar nitek lub materiału od części buta przy użyciu nożyc lub matryc.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Dobierasz nici i igły do materiału",
+   "Układasz części na stole maszyny",
+   "Prowadzisz skórę wzdłuż szwu pod igłą",
+   "Obcinasz nadmiar nitek i materiału"
+  ]
+ },
+ {
+  "id": 303,
+  "name": "Operator parzaka",
+  "desc": "Operatorzy parzaków obsługują narzędzia i urządzenia do umieszczania usztywniaczy, formowania poduszek pod palce i innych działań niezbędnych do formowania cholewek obuwia na kopycie. Prowadzą przygotowania do konstrukcji klejonej na kopycie, przyklejając wkładkę, wkładając usztywniacz, profil części tylnej i kondycjonując cholewki przed formowaniem buta.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Przyklejasz wkładkę do kopyta",
+   "Wkładasz usztywniacz w tylną część cholewki",
+   "Formujesz poduszki pod palce",
+   "Przygotowujesz cholewki przed naciąganiem na kopyto"
+  ]
+ },
+ {
+  "id": 304,
+  "name": "Operator urządzeń wykrawających elementy obuwia",
+  "desc": "Operatorzy urządzeń wykrawających elementy obuwia kontrolują skórę, tekstylia, materiały syntetyczne, barwniki i obuwie. Wyznaczają oni obszary materiałów, które mają zostać wykrojone pod względem jakości i kierunku naciągu, podejmują decyzję, gdzie i w jaki sposób należy kroić oraz programują i realizują określoną technologię lub maszynę. Sprzętem wykorzystywanym do dużych powierzchni materiałów jest często automatyczny nóż. Operatorzy urządzeń wykrawających elementy obuwia układają skórę lub inne materiały i manipulują nimi.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Oglądasz skórę i szukasz skaz",
+   "Wyznaczasz, gdzie i jak kroić",
+   "Programujesz maszynę lub automatyczny nóż",
+   "Rozkładasz skórę na stole do cięcia"
+  ]
+ },
+ {
+  "id": 305,
+  "name": "Operator ćwiekarki",
+  "desc": "Operatorzy ćwiekarek naciągają część przednią, przewężenie i siodełko cholewki na kopyto szewskie przy użyciu specjalnych maszyn w celu uzyskania ostatecznego kształtu modelu obuwia. Rozpoczynają od umieszczenia noska w maszynie, rozciągnięcia krawędzi cholewki na kopycie i wciskania siodełka. Następnie spłaszczają oni starte krawędzie i odcinają nadmiar części na palce i wyściółki i stosują szycie lub klejenie do ustalenia kształtu.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Umieszczasz nosek cholewki w maszynie",
+   "Rozciągasz krawędzie cholewki na kopycie",
+   "Dociskasz siodełko i spłaszczasz brzegi",
+   "Odcinasz nadmiar materiału przy palcach"
+  ]
+ },
+ {
+  "id": 306,
+  "name": "Technik utrzymania maszyn do produkcji obuwia",
+  "desc": "Technicy utrzymania maszyn do produkcji obuwia to specjaliści, którzy instalują, programują i modyfikują różne rodzaje urządzeń do wykrawania, szycia, montażu i obróbki wykańczającej stosowanych do produkcji obuwia. Przeprowadzają oni konserwację prewencyjną i naprawczą, a także okresowo sprawdzają warunki robocze i wydajność. Analizują usterki, korygują problemy, naprawiają i wymieniają elementy lub części, a także wykonują rutynowe smarowanie, przekazując informacje na temat ich zastosowania i zużycia energii głównie do osób decyzyjnych w przedsiębiorstwie.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Szukasz przyczyny awarii maszyny szyjącej",
+   "Wymieniasz zużyte części",
+   "Smarujesz i przeglądasz maszyny według planu",
+   "Programujesz maszyny pod nowy model buta"
+  ]
+ },
+ {
+  "id": 307,
+  "name": "Operator maszyn kaletniczych i rymarskich",
+  "desc": "Operatorzy maszyn kaletniczych i rymarskich obsługują specjalne maszyny do produkcji przemysłowej wyrobów skórzanych. Obsługują maszyny do wykrawania, zamykania i wykańczania bagażu, torebek, wyrobów rymarskich i uprzęży. Prowadzą oni również rutynową konserwację maszyn.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Wykrawasz części toreb i walizek",
+   "Zszywasz paski, uchwyty i uprząż",
+   "Wykańczasz krawędzie gotowych wyrobów",
+   "Czyścisz i oliwisz maszyny po pracy"
+  ]
+ },
+ {
+  "id": 308,
+  "name": "Technik utrzymania maszyn kaletniczych i rymarskich",
+  "desc": "Technicy utrzymania maszyn kaletniczych i rymarskich programują i dostrajają różne rodzaje urządzeń wykrawających, szyjących, wykańczających i specjalnych związanych z wytwarzaniem wyrobów skórzanych. Dbają o prewencyjną i naprawczą konserwację różnych urządzeń, okresowo sprawdzając warunki ich pracy i działanie, analizując usterki, korygując problemy, naprawiając i wymieniając części oraz wykonując rutynowe smarowanie. Dostarczają informacji na temat użytkowania sprzętu i zużycia przez niego energii do osób decyzyjnych w przedsiębiorstwie.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Dostrajasz maszyny tnące i szyjące",
+   "Szukasz źródła usterek w maszynach",
+   "Wymieniasz zużyte części i smarujesz mechanizmy",
+   "Informujesz kierownictwo o zużyciu energii"
+  ]
+ },
+ {
+  "id": 309,
+  "name": "Operator maszyn do obróbki elementów obuwia przed zszyciem",
+  "desc": "Operatorzy maszyn do obróbki elementów obuwia przed zszyciem posługują się narzędziami i urządzeniami do wsuwania, obcinania skóry, zaginania, nakłuwania, marszczenia, umieszczania i oznaczania przyszywanych cholewek, a w razie potrzeby zakładania pasków wzmacniających w różnych elementach. Mogą również sklejać części przed ich zszyciem. Operatorzy maszyn do obróbki elementów obuwia przed zszyciem wykonują te zadania zgodnie z instrukcjami zawartymi w arkuszu technicznym.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Przycinasz brzegi skóry maszyną",
+   "Zaginasz krawędzie części cholewki",
+   "Oznaczasz miejsca, gdzie pójdzie szew",
+   "Naklejasz paski wzmacniające"
+  ]
+ },
+ {
+  "id": 310,
+  "name": "Operator zautomatyzowanych urządzeń wykrawających elementy obuwia",
+  "desc": "Operatorzy zautomatyzowanych urządzeń wykrawających elementy obuwia przesyłają pliki z komputera do maszyny wykrawającej, umieszczają materiał przeznaczony do wykrawania oraz dokonują cyfryzacji i selekcjonują skazy na powierzchni materiałów w celu osadzenia części, chyba że maszyna wykonuje te operacje automatycznie. Wydają oni maszynie zlecenie wykrawania, a także gromadzą wykrojone elementy i wykonują końcową analizę kontroli jakości pod kątem zgodności ze specyfikacjami i wymogami jakościowymi. Monitorują oni również stan urządzeń roboczych maszyny do wykrawania.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Wysyłasz plik z komputera do maszyny",
+   "Kładziesz materiał na stole maszyny",
+   "Cyfrowo zaznaczasz skazy na materiale",
+   "Porównujesz wycięte elementy z wymaganiami"
+  ]
+ },
+ {
+  "id": 311,
+  "name": "Monter wyrobów z płótna i brezentu",
+  "desc": "Monterzy wyrobów z płótna i brezentu konstruują produkty wykonane z ściśle tkanych tekstyliów i ze skóry, takie jak namioty, torby lub portfele. Artyści stosują je również jako powierzchnie do malowania.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Tniesz gruby materiał według wzoru",
+   "Zszywasz części namiotu lub torby",
+   "Przyszywasz uchwyty, paski i zapięcia",
+   "Sprawdzasz wytrzymałość szwów"
+  ]
+ },
+ {
+  "id": 312,
+  "name": "Operator maszyn do pomiaru powierzchni skór",
+  "desc": "Operatorzy maszyn do pomiaru powierzchni skór wykorzystują maszyny do pomiaru powierzchni skóry i dopilnowują, aby maszyny były regularnie kalibrowane. Zwracają uwagę na wielkość skóry i dopilnowują, aby została ona zarejestrowana w celu dalszego fakturowania.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Przepuszczasz skóry przez maszynę pomiarową",
+   "Kalibrujesz maszynę według wzorca",
+   "Zapisujesz powierzchnię każdej skóry",
+   "Przekazujesz wyniki do fakturowania"
+  ]
+ },
+ {
+  "id": 313,
+  "name": "Operator maszyn do produkcji materacy",
+  "desc": "Operatorzy maszyn do produkcji materacy wykorzystują maszyny do formowania materacy. Tworzą oni podkłady i pokrycia oraz tną, rozciągają i przymocowują materiał wyściełający i pokrywający na układach sprężyn.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Tniesz warstwy wyściółki na wymiar",
+   "Rozciągasz pokrycie nad układem sprężyn",
+   "Mocujesz warstwy do sprężyn maszyną",
+   "Sprawdzasz, czy materac jest równy"
+  ]
+ },
+ {
+  "id": 314,
+  "name": "Operator maszyn do produkcji włóknin staplowych",
+  "desc": "Operatorzy maszyn do produkcji włóknin staplowych wykonują fizyczne czynności przetwarzania włóknin staplowych.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Zasilasz maszynę włóknami",
+   "Obserwujesz, jak formuje się włóknina",
+   "Sprawdzasz grubość i równość materiału",
+   "Zdejmujesz i opisujesz gotowe rolki"
+  ]
+ },
+ {
+  "id": 315,
+  "name": "Operator oplatarki",
+  "desc": "Operatorzy oplatarek nadzorują procesy oplatania dla grupy maszyn, monitorując jakość materiału i warunki oplatania. Kontrolują oplatarki po wprowadzeniu ustawień, uruchomieniu i podczas produkcji, aby upewnić się, czy oplatany produkt odpowiada specyfikacjom i normom jakościowym.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Sprawdzasz ustawienia po uruchomieniu maszyn",
+   "Obserwujesz jakość nici podczas oplatania",
+   "Porównujesz wyrób z normami jakości",
+   "Reagujesz, gdy któraś maszyna się zatrzymuje"
+  ]
+ },
+ {
+  "id": 316,
+  "name": "Operator urządzeń do projektowania wzorów tkanin",
+  "desc": "Operatorzy urządzeń do projektowania wzorów tkanin tworzą wzory, projekty i dekoracje dla wyrobów włókienniczych i tkanin przy użyciu maszyn i urządzeń. Decydują oni, które materiały zastosować i kontrolują jakość wyrobów włókienniczych zarówno przed, jak i po swojej pracy.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Projektujesz wzór na tkaninę",
+   "Wybierasz materiał pasujący do wzoru",
+   "Uruchamiasz urządzenie nanoszące wzór",
+   "Oceniasz jakość tkaniny przed i po pracy"
+  ]
+ },
+ {
+  "id": 317,
+  "name": "Technik ds. nietkanych materiałów włókienniczych",
+  "desc": "Technicy ds. nietkanych materiałów włókienniczych wykonują czynności związane z ustawieniami procesów obejmujących materiały nietkane.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Ustawiasz parametry procesu na maszynach",
+   "Zmieniasz ustawienia przy nowym rodzaju włókniny",
+   "Oglądasz próbki i porównujesz je z wymaganiami",
+   "Notujesz, jakie ustawienia dały dobry wynik"
+  ]
+ },
+ {
+  "id": 318,
+  "name": "Technik ds. procesu oplatania",
+  "desc": "Technicy ds. procesu oplatania wykonują czynności związane z ustawieniami procesu oplatania.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Konfigurujesz oplatarkę przed nowym zleceniem",
+   "Zakładasz szpule z nićmi na maszynę",
+   "Sprawdzasz pierwsze metry wyrobu",
+   "Poprawiasz ustawienia, gdy splot jest nierówny"
+  ]
+ },
+ {
+  "id": 319,
+  "name": "Operator maszyn do tuftowania",
+  "desc": "Operatorzy maszyn do tuftowania nadzorują proces tuftowania dla grupy maszyn, monitorują jakość materiału i warunki tuftowania. Kontrolują maszyny do tuftowania po ich ustawieniu, uruchomieniu i podczas produkcji, aby upewnić się, czy tuftowany produkt odpowiada specyfikacjom i normom jakościowym.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Pilnujesz kilku maszyn tuftujących naraz",
+   "Oceniasz jakość podłoża i nici",
+   "Oglądasz gęstość i równość wykończonej powierzchni",
+   "Zatrzymujesz maszynę, gdy pojawia się wada"
+  ]
+ },
+ {
+  "id": 320,
+  "name": "Operator maszyn tkackich",
+  "desc": "Operatorzy maszyn tkackich ustawiają, obsługują i monitorują maszyny dziewiarskie. Pracują przy użyciu specjalistycznego sprzętu, technik i materiałów, przetwarzając nitki przędzy w produkty tkane, takie jak odzież, tekstylia domowe lub techniczne produkty końcowe. Konserwują i naprawiają maszyny tkackie i dbają o bezproblemowy przebieg operacji.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Zakładasz przędzę i uruchamiasz maszynę",
+   "Obserwujesz tkaninę podczas tkania",
+   "Łączysz zerwane nitki",
+   "Naprawiasz drobne usterki maszyn"
+  ]
+ },
+ {
+  "id": 321,
+  "name": "Osoba nadzorująca pracę maszyn tkackich",
+  "desc": "Osoby nadzorujące pracę maszyn tkackich monitorują proces tkania. Obsługują one proces tkania w automatycznych maszynach (od jedwabiu do dywanu, od powierzchni płaskiej do żakardu). Monitorują jakość materiału i stan maszyn mechanicznych, np. tkanin służących do produkcji odzieży, tekstyliów domowych lub technicznych zastosowań końcowych. Prowadzą prace konserwacyjne na maszynach, które przekształcają przędze w tkaniny, takie jak koce, dywany, ręczniki i materiały odzieżowe. Naprawiają nieprawidłowości w krosnach zgłoszone przez tkacza i wypełniają arkusze kontroli krosien.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Obchodzisz tkalnię i słuchasz pracy krosien",
+   "Naprawiasz usterki zgłoszone przez tkacza",
+   "Oceniasz jakość tkaniny i stan maszyn",
+   "Wypełniasz arkusze kontroli krosien"
+  ]
+ },
+ {
+  "id": 322,
+  "name": "Technik ds. procesu tkania",
+  "desc": "Technicy ds. procesu tkania wykonują czynności związane z ustawieniami procesów tkackich.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Ustawiasz krosna pod nowe zamówienie",
+   "Dobierasz parametry do rodzaju przędzy",
+   "Testujesz pierwsze metry tkaniny",
+   "Zapisujesz ustawienia, które się sprawdziły"
+  ]
+ },
+ {
+  "id": 323,
+  "name": "Operator maszyn dziewiarskich",
+  "desc": "Operatorzy maszyn dziewiarskich ustawiają, obsługują i monitorują maszyny dziewiarskie. Pracują przy użyciu specjalistycznego sprzętu, technik i materiałów, przetwarzając nitki przędzy w produkty dziewiarskie, takie jak odzież, dywany lub liny. Konserwują i naprawiają maszyny dziewiarskie i dbają o bezproblemowy przebieg operacji.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Ustawiasz maszynę pod nowe zlecenie",
+   "Zakładasz szpule z przędzą",
+   "Wyłapujesz spuszczone oczka i dziury",
+   "Konserwujesz i naprawiasz dziewiarkę"
+  ]
+ },
+ {
+  "id": 324,
+  "name": "Osoba nadzorująca pracę maszyn dziewiarskich",
+  "desc": "Osoby nadzorujące pracę maszyn dziewiarskich nadzorują proces dziewiarski grupy maszyn, monitorując jakość materiału i warunki dziania. Kontrolują maszyny dziewiarskie po ich ustawieniu, uruchomieniu i podczas produkcji, aby upewnić się, czy dziany produkt odpowiada specyfikacjom i normom jakościowym.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Kontrolujesz grupę dziewiarek po uruchomieniu",
+   "Porównujesz dzianinę ze specyfikacją zlecenia",
+   "Sprawdzasz jakość przędzy i warunki dziania",
+   "Wstrzymujesz maszynę, gdy pojawia się wada"
+  ]
+ },
+ {
+  "id": 325,
+  "name": "Technik ds. procesu dziania",
+  "desc": "Technicy ds. procesu dziania wykonują czynności związane z ustawieniami procesów dziewiarskich. Mogą pracować w zakładach dziewiarstwa wątkowego lub osnowowego, z wykorzystaniem cyfrowej technologii informatycznej (CAD) do tworzenia wzorów. Pracują oni we współpracy z fizycznymi technikami laboratoryjnymi, aby zagwarantować, że dzianiny nie będą zawierały błędów. Są oni odpowiedzialni za najwyższe wskaźniki wydajności.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Tworzysz wzór dzianiny na komputerze",
+   "Ustawiasz maszyny do dziania wątkowego lub osnowowego",
+   "Ustalasz z laboratorium, jak uniknąć błędów w dzianinie",
+   "Szukasz sposobów na wyższą wydajność"
+  ]
+ },
+ {
+  "id": 326,
+  "name": "Operator maszyn włókienniczych",
+  "desc": "Operatorzy maszyn włókienniczych sprawują nadzór nad procesem włókienniczym grupy maszyn, monitorując jakość i wydajność. Kontrolują oni maszyny włókiennicze po ich ustawieniu, uruchomieniu i podczas produkcji, aby upewnić się, czy produkt odpowiada specyfikacjom i normom jakościowym.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Obserwujesz wydajność całej grupy maszyn",
+   "Sprawdzasz parametry produktu w czasie pracy",
+   "Zgłaszasz usterki do działu technicznego",
+   "Notujesz wyniki kontroli w dzienniku zmiany"
+  ]
+ },
+ {
+  "id": 327,
+  "name": "Operator maszyn przędzalniczych",
+  "desc": "Operatorzy maszyn przędzalniczych wytwarzają przędze, zwoje i inne włókna w wyniku obsługi maszyn do przędzenia, skręcania, nawijania i rolowania. Zajmują się surowcami, przygotowują je do procesu przędzenia oraz używają do tego celu maszyn. Prowadzą oni również rutynową konserwację maszyn.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Przygotowujesz surowe włókna do przędzenia",
+   "Zakładasz włókna w maszynie przędzalniczej",
+   "Zdejmujesz szpule z gotową przędzą",
+   "Czyścisz maszynę z kłaczków i pyłu"
+  ]
+ },
+ {
+  "id": 328,
+  "name": "Operator przędzarki",
+  "desc": "Operatorzy przędzarek przekształcają włókna w przędzę.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Zakładasz włókna do przędzarki",
+   "Uruchamiasz przędzarkę i pilnujesz jej pracy",
+   "Łączysz zerwane końce nici",
+   "Zdejmujesz gotową przędzę z maszyny"
+  ]
+ },
+ {
+  "id": 329,
+  "name": "Operator przędzarki do włókien sztucznych",
+  "desc": "Operatorzy przędzarek do włókien sztucznych wykonują operacje przetwarzania włókien lub nitek.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Uruchamiasz maszynę do formowania włókien",
+   "Pilnujesz kolejnych etapów przetwarzania nitek",
+   "Sprawdzasz, czy włókno jest równe i ciągłe",
+   "Zdejmujesz gotowe szpule i opisujesz je"
+  ]
+ },
+ {
+  "id": 330,
+  "name": "Operator skręcarki do przędzy",
+  "desc": "Operatorzy skręcarek do przędzy dozorują maszyny, które skręcają razem dwa lub więcej włókien w przędzę. Obchodzą się surowcami, przygotowują je do przetwarzania oraz wykorzystują do tego celu skręcarki. Prowadzą oni również rutynową konserwację maszyn.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Zakładasz szpule z kilkoma nitkami",
+   "Ustawiasz skręcarkę do łączenia nitek",
+   "Sprawdzasz, czy skręt jest równy",
+   "Czyścisz i konserwujesz skręcarkę"
+  ]
+ },
+ {
+  "id": 331,
+  "name": "Operator nawijarki",
+  "desc": "Operatorzy nawijarek dozorują maszyny do nawijania sznurków, tasiemek, przędz, sznurów, nici na rolki, bobiny lub szpulki. Obchodzą się z materiałami, przygotowują je do przetwarzania i stosują do tego celu nawijarki. Prowadzą oni również rutynową konserwację maszyn.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Zakładasz pustą szpulę lub bobinę",
+   "Uruchamiasz nawijarkę i pilnujesz nici",
+   "Zdejmujesz pełne szpule i układasz je",
+   "Czyścisz i smarujesz nawijarkę"
+  ]
+ },
+ {
+  "id": 332,
+  "name": "Operator odziarniarki",
+  "desc": "Operatorzy odziarniarek prowadzą operacje odziarniania w celu oddzielania włókien bawełnianych od nasion. Dozorują oni prasy i zdejmują przetworzone bele z odziarniarki. Wykonują czynności związane z konserwacją maszyn i zapewniają sprawny przebieg operacji przetwarzania.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Podajesz surową bawełnę do odziarniarki",
+   "Pilnujesz, czy włókno oddziela się od nasion",
+   "Dozorujesz prasę formującą bele",
+   "Zdejmujesz gotowe bele z odziarniarki"
+  ]
+ },
+ {
+  "id": 333,
+  "name": "Technik ds. procesu przędzenia",
+  "desc": "Technicy ds. procesu przędzenia wykonują czynności związane z ustawieniami procesów przędzenia.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Ustawiasz maszyny przędzalnicze pod zamówienie",
+   "Dobierasz ustawienia do rodzaju włókna",
+   "Oceniasz próbki przędzy po uruchomieniu",
+   "Poprawiasz proces, gdy przędza jest nierówna"
+  ]
+ },
+ {
+  "id": 334,
+  "name": "Operator maszyn do produkcji odzieży ochronnej",
+  "desc": "Operatorzy maszyn do produkcji odzieży ochronnej wytwarzają środki ochrony osobistej (ŚOO) z materiałów włókienniczych. Wytwarzają odzież odporną na różne zagrożenia (np. termiczne, fizyczne, elektryczne, biologiczne, chemiczne itp.), odzież ocieplającą o dużej widoczności, chroniącą przed chłodem, zimnem, deszczem, promieniowaniem słonecznym UV itp. Przestrzegają norm i oceniają spełnienie wymogów.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Szyjesz kombinezony i kurtki ochronne",
+   "Dobierasz materiał do rodzaju zagrożenia",
+   "Przyszywasz odblaskowe pasy do odzieży",
+   "Sprawdzasz, czy wyrób spełnia normy"
+  ]
+ },
+ {
+  "id": 335,
+  "name": "Operator maszyn do szycia",
+  "desc": "Operatorzy maszyn do szycia dozorują specjalne maszyny do szycia w przemysłowym łańcuchu produkcyjnym odzieży. Wykonują oni takie czynności jak łączenie, montaż, wzmacnianie, naprawa i poprawki odzieży.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Zszywasz kolejne części odzieży na linii",
+   "Wzmacniasz szwy w miejscach narażonych na rozdarcie",
+   "Poprawiasz źle uszyte miejsca",
+   "Wymieniasz nić i igłę w maszynie"
+  ]
+ },
+ {
+  "id": 336,
+  "name": "Operator maszyn do szycia skóry",
+  "desc": "Operatorzy maszyn do szycia skóry łączą wykrojone kawałki skóry i innych materiałów do produkcji wyrobów skórzanych, z wykorzystaniem narzędzi i szerokiej gamy maszyn, takich jak maszyny płaskie, ramieniowe oraz jedno- i dwukolumnowe. Obsługują także narzędzia i maszyny do monitorowania w celu przygotowania zszywanych części, a także obsługują maszyny. Wybierają nici i przeciągają nić przez prowadnice i igły.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Dobierasz nici do grubości skóry",
+   "Przeciągasz nić przez prowadnice i igłę",
+   "Szyjesz skórzane części na maszynie płaskiej lub ramieniowej",
+   "Układasz części skóry w kolejności szycia"
+  ]
+ },
+ {
+  "id": 337,
+  "name": "Operator maszyny hafciarskiej",
+  "desc": "Operatorzy maszyn hafciarskich dekorują odzież poprzez obsługę hafciarek o różnej technologii w celu wykonania haftów i ozdób na odzieży.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Naciągasz materiał w ramie maszyny",
+   "Zmieniasz nici w kolorach wzoru",
+   "Uruchamiasz haft i pilnujesz ściegu",
+   "Przycinasz końcówki nici po hafcie"
+  ]
+ },
+ {
+  "id": 338,
+  "name": "Pracownik szyjący pierwowzory odzieży",
+  "desc": "Pracownicy szyjący pierwowzory odzieży tworzą pierwszą sporządzoną próbkę projektu odzieży. Podejmują decyzje w odniesieniu do konstrukcji odzieży z uwzględnieniem produkcji masowej, aby zagwarantować, że zszyte próbki będą gotowe na czas. Prasują gotową odzież i przeprowadzają kontrolę jakości.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Szyjesz pierwszą próbkę według projektu",
+   "Ustalasz kolejność składania ubrania",
+   "Prasujesz gotową odzież",
+   "Kontrolujesz jakość wykonania próbki"
+  ]
+ },
+ {
+  "id": 339,
+  "name": "Pracownik wprowadzający poprawki krawieckie",
+  "desc": "Pracownicy wprowadzający poprawki krawieckie zapewniają poprawki gotowej odzieży zgodnie z wymogami biznesowymi. Odpowiadają oni za jakość wszelkich poprawek lub dopasowań oraz ogólny zapas marki zgodnie z wytycznymi klienta dotyczącymi kreowania marki.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Skracasz, zwężasz lub dopasowujesz ubrania",
+   "Oceniasz jakość każdej poprawki",
+   "Porównujesz wynik z wytycznymi marki",
+   "Pilnujesz stanu zapasu odzieży"
+  ]
+ },
+ {
+  "id": 340,
+  "name": "Garbarz",
+  "desc": "Garbarze programują i stosują bębny garbarskie. Wykonują oni pracę zgodnie z instrukcjami roboczymi, sprawdzają właściwości fizyczne i chemiczne skóry surowej, skóry lub skóry wyprawionej oraz pływaki (np. pH, temperatura, stężenie substancji chemicznych) w trakcie procesu. Wykorzystują bęben do mycia skóry surowej lub skóry, usuwając włosy (nie w przypadku skór surowych i skór garbowanych z włosem lub wełną), wytrawiając, garbując, ponownie garbując, barwiąc i mieląc.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Programujesz bęben garbarski według instrukcji",
+   "Mierzysz pH i temperaturę roztworu w bębnie",
+   "Sprawdzasz właściwości skóry w trakcie procesu",
+   "Myjesz, garbujesz i barwisz skóry w bębnie"
+  ]
+ },
+ {
+  "id": 341,
+  "name": "Operator maszyn i urządzeń do produkcji wyrobów skórzanych",
+  "desc": "Operatorzy maszyn i urządzeń do produkcji wyrobów skórzanych korzystają z maszyn i programów garbarskich zgodnie z określonymi wymaganiami w celu spełnienia norm oddziału. Dokonują oni rutynowej konserwacji maszyn.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Uruchamiasz maszyny według programu garbarskiego",
+   "Przenosisz skóry między kolejnymi etapami obróbki",
+   "Sprawdzasz, czy skóry spełniają normy działu",
+   "Czyścisz i konserwujesz maszyny po zmianie"
+  ]
+ },
+ {
+  "id": 342,
+  "name": "Operator maszyn wykończalniczych do skóry",
+  "desc": "Operatorzy maszyn wykończalniczych do skóry stosują maszyny do wykańczania skóry zgodnie ze specyfikacjami wymaganymi przez klienta dotyczącymi właściwości powierzchniowych, takich jak odcień koloru, jakość, wzór i specjalne właściwości, takie jak wodoodporność, opóźnianie palenia, brak roszenia skóry wyprawionej. Organizują oni dozowanie mieszanek wykończeniowych na skórę i wykonują rutynowe konserwacje maszyn.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Ustawiasz maszynę pod wymagania klienta",
+   "Dozujesz mieszanki wykończeniowe na skórę",
+   "Porównujesz kolor i wzór z próbką",
+   "Sprawdzasz wodoodporność wykończonej skóry"
+  ]
+ },
+ {
+  "id": 343,
+  "name": "Operator urządzeń do mieszania farb do skór",
+  "desc": "Operatorzy urządzeń do mieszania farb do skór nanoszą kolory i mieszanki wykończeniowe według określonych receptur. Nanoszą pigmenty, barwniki lub inne mieszanki wykończeniowe.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Czytasz recepturę i odmierzasz składniki",
+   "Mieszasz pigmenty i barwniki w urządzeniu",
+   "Nanosisz mieszankę na skórę",
+   "Porównujesz uzyskany kolor z wzorcem"
+  ]
+ },
+ {
+  "id": 344,
+  "name": "Barwiarz tkanin",
+  "desc": "Barwiarze tkanin dozorują maszyny barwiące, dopilnowując, aby wprowadzono ustawienia tych maszyn. Przygotowują oni substancje chemiczne, barwniki, wanny barwnikowe i roztwory zgodnie z recepturami. Wytwarzają próbki przez barwienie materiałów włókienniczych i obliczanie niezbędnych receptur i barwią wszystkie rodzaje przędzy lub materiałów włókienniczych.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Przygotowujesz barwniki i kąpiele według receptury",
+   "Barwisz próbkę i porównujesz kolor ze wzorem",
+   "Ustawiasz maszyny barwiące",
+   "Obliczasz składniki do dużej partii tkaniny"
+  ]
+ },
+ {
+  "id": 345,
+  "name": "Operator maszyn wykończalniczych wyrobów włókienniczych",
+  "desc": "Operatorzy maszyn wykończalniczych wyrobów włókienniczych obsługują, nadzorują, monitorują i konserwują produkcję materiałów wykończeniowych do tekstyliów.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Uruchamiasz maszynę wykończalniczą do tkanin",
+   "Pilnujesz przebiegu wykończenia tkaniny",
+   "Sprawdzasz wygląd i dotyk gotowej tkaniny",
+   "Czyścisz i konserwujesz maszyny"
+  ]
+ },
+ {
+  "id": 346,
+  "name": "Technik ds. barwienia tkanin",
+  "desc": "Technicy ds. barwienia tkanin prowadzą działania związane z ustawieniami procesów barwienia.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Ustawiasz parametry barwienia nowej partii",
+   "Porównujesz kolor próbki ze wzorcem",
+   "Szukasz przyczyny różnic w odcieniu",
+   "Zapisujesz ustawienia dla kolejnych partii"
+  ]
+ },
+ {
+  "id": 347,
+  "name": "Technik ds. procesów wykończalniczych wyrobów włókienniczych",
+  "desc": "Technicy ds. procesów wykończalniczych wyrobów włókienniczych wykonują czynności związane z ustawieniami procesów wykończeniowych. Procesy wykończeniowe są końcową serią działań, które poprawiają wygląd i (lub) przydatność wyrobów włókienniczych.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Ustawiasz parametry maszyn wykończalniczych",
+   "Dobierasz rodzaj wykończenia do tkaniny",
+   "Oceniasz wygląd i właściwości gotowego materiału",
+   "Poprawiasz ustawienia po wynikach kontroli"
+  ]
+ },
+ {
+  "id": 348,
+  "name": "Pracownik pralni",
+  "desc": "Pracownicy pralni obsługują i monitorują maszyny, które wykorzystują chemikalia do prania lub czyszczenia na sucho wyrobów takich jak odzież z tkanin i skóry, bielizna pościelowa i stołowa, zasłony lub dywany, z zachowaniem koloru i tekstury tych wyrobów. Pracują w pralniach i pralniczych przedsiębiorstwach przemysłowych i sortują wyroby otrzymane od klientów według rodzaju tkanin. Określają oni również stosowaną technikę czyszczenia.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Sortujesz rzeczy według rodzaju tkaniny",
+   "Czytasz metki i wybierasz technikę czyszczenia",
+   "Ładujesz i uruchamiasz maszyny pralnicze",
+   "Wyjmujesz pranie i sprawdzasz plamy"
+  ]
+ },
+ {
+  "id": 349,
+  "name": "Prasowacz w pralni",
+  "desc": "Prasowacze w pralni ponownie nadają kształt odzieży oraz bieliźnie stołowej i pościelowej i usuwają z nich zagięcia przy użyciu żelazek, pras i parownic. Czyszczą i konserwują obszar prasowania i suszenia oraz odpowiednio organizują przedmioty.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Prasujesz koszule, spodnie i bieliznę pościelową",
+   "Prasujesz większe rzeczy na prasie",
+   "Usuwasz zagniecenia parownicą",
+   "Układasz wyprasowane rzeczy według zamówień"
+  ]
+ },
+ {
+  "id": 350,
+  "name": "Brygadzista w pralni",
+  "desc": "Brygadziści w pralni monitorują i koordynują działania personelu wykonującego pranie i czyszczenie na sucho w pralniach i przemysłowych zakładach pralniczych. Planują i wdrażają harmonogramy produkcji, zatrudniają i szkolą pracowników oraz monitorują poziomy jakości produkcji.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Układasz harmonogram pracy pralni na dzień",
+   "Rozdzielasz zadania między pracowników",
+   "Sprawdzasz jakość wypranych i wyprasowanych rzeczy",
+   "Szkolisz nowych pracowników przy maszynach"
+  ]
+ },
+ {
+  "id": 351,
+  "name": "Monter akumulatorów",
+  "desc": "Monterzy akumulatorów spawają i montują komponenty baterii, takie jak części elektroniczne, przewody i osłonki wokół ogniw.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Spawasz połączenia między elementami baterii",
+   "Montujesz przewody i części elektroniczne",
+   "Zakładasz osłonki wokół ogniw",
+   "Sprawdzasz połączenia przed przekazaniem dalej"
+  ]
+ },
+ {
+  "id": 352,
+  "name": "Monter obwodów drukowanych",
+  "desc": "Monterzy obwodów drukowanych zapoznają się z planami i rysunkami w celu montowania płytek obwodów drukowanych. Wykorzystują narzędzia do lutowania ręcznego i automatycznego oraz maszyny do łączenia komponentów elektronicznych na płytce.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Czytasz rysunki i plany płytki",
+   "Układasz drobne elementy na płytce",
+   "Lutujesz elementy ręcznie lub maszynowo",
+   "Sprawdzasz płytkę po montażu"
+  ]
+ },
+ {
+  "id": 353,
+  "name": "Monter półprzewodników elektronicznych",
+  "desc": "Monterzy półprzewodników elektronicznych wytwarzają półprzewodniki elektroniczne oraz urządzenia półprzewodnikowe, takie jak mikroczipy lub układy scalone (IC). Mogą również dokonywać napraw, testować i przeglądać produkty. Monterzy półprzewodników elektronicznych pracują w pomieszczeniach czystych i w związku z tym muszą być wyposażone w specjalny lekki sprzęt, który dopasowuje się do ich odzieży, aby zapobiec zanieczyszczeniu przez cząstki znajdujące się w miejscu pracy.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Zakładasz strój do pomieszczenia czystego",
+   "Wytwarzasz mikroczipy i układy scalone",
+   "Testujesz i przeglądasz gotowe elementy",
+   "Naprawiasz wadliwe urządzenia półprzewodnikowe"
+  ]
+ },
+ {
+  "id": 354,
+  "name": "Monter sprzętu elektronicznego",
+  "desc": "Monterzy sprzętu elektronicznego odpowiadają za montaż urządzeń i systemów elektronicznych. Montują oni elektroniczne komponenty i przewody zgodnie ze schematami i rysunkami montażowymi. Mogą oni pomagać w kontroli jakości i konserwacji sprzętu.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Czytasz schemat i rysunek montażowy",
+   "Montujesz komponenty w obudowie urządzenia",
+   "Zakładasz i mocujesz przewody według schematu",
+   "Pomagasz kontrolować jakość gotowych urządzeń"
+  ]
+ },
+ {
+  "id": 355,
+  "name": "Monter sprzętu fotograficznego",
+  "desc": "Monterzy sprzętu fotograficznego budują produkty fotograficzne, takie jak aparaty fotograficzne, kamery filmowe i projektory. Zbierają oni różne elementy optyczne, elektroniczne i mechaniczne aparatów, takie jak akumulator, lustra, procesor obrazu i soczewki oraz składają aparaty fotograficzne zgodnie ze specyfikacjami przy użyciu narzędzi ręcznych lub maszyn.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Montujesz soczewki i lustra w aparacie",
+   "Składasz drobne elementy mechaniczne narzędziami",
+   "Instalujesz akumulator i procesor obrazu",
+   "Sprawdzasz, czy aparat robi ostry obraz"
+  ]
+ },
+ {
+  "id": 356,
+  "name": "Monter urządzeń elektromechanicznych",
+  "desc": "Monterzy urządzeń elektromechanicznych zapoznają się z planami, rysunkami i instrukcjami i interpretują je w celu montażu lub modyfikacji sprzętu lub urządzeń elektromechanicznych. Kontrolują i badają ukończone zespoły w celu zapewnienia prawidłowego funkcjonowania oraz zgodności ze specyfikacjami i normami.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Odczytujesz plany, rysunki i instrukcje",
+   "Składasz części mechaniczne i elektryczne w całość",
+   "Przerabiasz urządzenia według nowych instrukcji",
+   "Testujesz gotowy zespół pod kątem norm"
+  ]
+ },
+ {
+  "id": 357,
+  "name": "Monter-elektronik - elektroniczne instrumenty muzyczne",
+  "desc": "monterzy-elektronicy elektronicznych instrumentów muzycznych tworzą i montują części w celu wytworzenia instrumentów elektronicznych zgodnie ze szczegółowymi instrukcjami lub schematami. Instalują i testują przetworniki elektryczne, oczyszczają i kontrolują gotowy instrument.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Montujesz części instrumentu według schematu",
+   "Instalujesz przetworniki elektryczne",
+   "Sprawdzasz, jak instrument brzmi po montażu",
+   "Czyścisz i oglądasz gotowy instrument"
+  ]
+ },
+ {
+  "id": 358,
+  "name": "Monter aparatury rozdzielczej i kontrolnej energii elektrycznej",
+  "desc": "Monterzy aparatury rozdzielczej i kontrolnej energii elektrycznej odczytują rysunki schematyczne w celu montażu zespołów sterujących sprzętem elektrycznym. Zestawiają przewody, przełączniki, urządzenia sterujące i pomiarowe oraz kable przy użyciu narzędzi ręcznych.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Odczytujesz rysunki schematyczne aparatury",
+   "Układasz przewody i kable w zespole",
+   "Montujesz przełączniki i urządzenia pomiarowe",
+   "Dokręcasz elementy narzędziami ręcznymi"
+  ]
+ },
+ {
+  "id": 359,
+  "name": "Monter kabli elektrycznych",
+  "desc": "Monterzy kabli elektrycznych manipulują kablami i przewodami wykonanymi ze stali, miedzi lub aluminium, tak aby mogły one być wykorzystywane do przewodzenia elektryczności w różnych urządzeniach.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Odmierzasz i przycinasz kable na długość",
+   "Formujesz przewody z miedzi lub aluminium",
+   "Układasz kable w wiązki",
+   "Sprawdzasz, czy kabel pasuje do urządzenia"
+  ]
+ }
+]

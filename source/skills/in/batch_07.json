@@ -1,0 +1,722 @@
+[
+ {
+  "id": 420,
+  "name": "Inspektor jakości konfekcji",
+  "desc": "Inspektorzy jakości konfekcji dokonują kontroli wyprodukowanych części składowych, gotowej odzieży w celu zapewnienia zgodności z normami jakościowymi oraz identyfikacji wad lub odchyleń od specyfikacji oraz w celu sklasyfikowania ich zgodnie z ich jakością. Kontrolują, testują produkty, części i materiały pod kątem zgodności ze specyfikacjami i normami. Gwarantują, że każdy wytworzony wyrób spełnia normy jakości oddziału lub je przekracza.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Oglądasz szwy, guziki i zamki",
+   "Mierzysz części i porównujesz z wzorcem",
+   "Sortujesz ubrania według jakości",
+   "Odkładasz wadliwe sztuki do poprawki"
+  ]
+ },
+ {
+  "id": 421,
+  "name": "Inspektor jakości wyrobów tekstylnych",
+  "desc": "Inspektorzy jakości wyrobów tekstylnych zapewniają zgodność wytwarzanych wyrobów tekstylnych z ustalonymi specyfikacjami.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Rozwijasz zwój tkaniny na stole kontrolnym",
+   "Szukasz plam, zaciągnięć i dziur",
+   "Porównujesz kolor i gramaturę ze wzorem",
+   "Zaznaczasz miejsca z błędami"
+  ]
+ },
+ {
+  "id": 422,
+  "name": "Kontroler jakości cygar",
+  "desc": "Kontrolerzy jakości cygar testują, sortują i ważą cygara w celu wykrycia wad i odchyleń od specyfikacji produktu.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Oglądasz liść okrywowy i zwinięcie",
+   "Ważysz cygara na wadze",
+   "Sortujesz cygara według wyglądu",
+   "Odrzucasz sztuki z wadami"
+  ]
+ },
+ {
+  "id": 423,
+  "name": "Klasyfikator drewna",
+  "desc": "Klasyfikatorzy drewna kontrolują tarcicę lub drewno cięte na deski. Badają oni tarcicę, sprawdzają pod kątem nieprawidłowości i klasyfikują drewno na podstawie jakości i atrakcyjności wzoru.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Oglądasz deski z każdej strony",
+   "Wyszukujesz sęki, pęknięcia i krzywizny",
+   "Oceniasz rysunek słojów",
+   "Oznaczasz deski klasą jakości"
+  ]
+ },
+ {
+  "id": 424,
+  "name": "Klasyfikator pulpy papierniczej",
+  "desc": "Klasyfikatorzy pulpy papierniczej klasyfikują pulpę papierniczą według różnych możliwych kryteriów, takich jak proces roztwarzania masy celulozowej, surowce, metody bielenia, wydajność i długość włókien.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Pobierasz próbki pulpy z partii",
+   "Sprawdzasz długość włókien",
+   "Ustalasz surowiec i metodę bielenia",
+   "Przypisujesz partii klasę"
+  ]
+ },
+ {
+  "id": 425,
+  "name": "Klasyfikator wyrobów drewnopochodnych",
+  "desc": "Klasyfikatorzy wyrobów drewnopochodnych kontrolują gotowe wyroby drewnopochodne pod kątem kwestii jakościowych takich jak niepełne sklejenie, wypaczenia lub skazy. Badają oni także obciążalność drewna. Klasyfikatorzy sortują produkty pod względem jakości zgodnie z wytycznymi.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Oglądasz płyty i sklejki z bliska",
+   "Szukasz wypaczeń i rozklejonych warstw",
+   "Sprawdzasz wytrzymałość na obciążenie",
+   "Sortujesz wyroby według wytycznych"
+  ]
+ },
+ {
+  "id": 426,
+  "name": "Klasyfikator wyrobów przemysłowych",
+  "desc": "Klasyfikatorzy wyrobów przemysłowych dokonują prewencyjnej i operacyjnej kontroli jakości produktów i zasobów. Sprawdzają, klasyfikują i oceniają materiały na różnych etapach, aby upewnić się, że są one zgodne z właściwą normą, a w razie potrzeby przesyłają produkt do naprawy lub ulepszenia. Pracują oni w przedsiębiorstwach i zakładach przemysłowych, aby zagwarantować, że produkowane towary spełniają normy jakości.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Pobierasz próbki z różnych etapów produkcji",
+   "Mierzysz i porównujesz z normą",
+   "Klasyfikujesz materiały według jakości",
+   "Odsyłasz wadliwe partie do poprawki"
+  ]
+ },
+ {
+  "id": 427,
+  "name": "Kontroler jakości obuwia",
+  "desc": "Kontrolerzy jakości obuwia przeprowadzają analizę wzrokową wyglądu obuwia, surowców i elementów, stosując wcześniej określone kryteria, i podejmują decyzje w sprawie odrzucenia lub przyjęcia. Analizują zgromadzone dane, opracowują sprawozdania i przekazują je do działu zarządzania jakością. Stosują wcześniej określone narzędzia zarządzania jakością w celu lepszego osiągnięcia celów określonych w polityce jakości. Uczestniczą w monitorowaniu i kontroli systemu jakości oraz we wdrażaniu środków naprawczych i zapobiegawczych.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Oglądasz cholewki, podeszwy i szwy",
+   "Porównujesz buty ze wzorcowym egzemplarzem",
+   "Decydujesz o przyjęciu lub odrzuceniu",
+   "Piszesz raporty dla działu jakości"
+  ]
+ },
+ {
+  "id": 428,
+  "name": "Kontroler jakości wyrobów",
+  "desc": "Kontrolerzy jakości wyrobów sprawdzają jakość wytwarzanych produktów. Pracują w zakładach produkcyjnych, w których dokonują podstawowej kontroli i oceny produktów przed procesem produkcji, w jego trakcie lub po jego zakończeniu. Śledzą oni problemy związane z produkcją i odsyłają przedmioty o gorszej jakości lub nieprawidłowym działaniu do naprawy.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Sprawdzasz produkty na różnych etapach",
+   "Testujesz, czy wyrób działa poprawnie",
+   "Odsyłasz gorsze sztuki do naprawy",
+   "Szukasz przyczyny powtarzających się problemów"
+  ]
+ },
+ {
+  "id": 429,
+  "name": "Kontroler jakości wyrobów metalowych",
+  "desc": "Kontrolerzy jakości wyrobów metalowych dokonują prewencyjnej i operacyjnej kontroli jakości wyrobów metalowych. Badają materiały na różnych etapach w celu sprawdzenia, czy są one zgodne z pożądaną normą, testują produkty i w razie konieczności odsyłają je do naprawy.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Mierzysz wymiary metalowych elementów",
+   "Oglądasz powierzchnię w poszukiwaniu rys",
+   "Testujesz wytrzymałość i dopasowanie",
+   "Odsyłasz wadliwe wyroby do naprawy"
+  ]
+ },
+ {
+  "id": 430,
+  "name": "Kontroler jakości wyrobów skórzanych",
+  "desc": "Kontrolerzy jakości wyrobów skórzanych wykonują analizę aspektów wizualnych wyrobów skórzanych pod względem wyglądu, solidności, braku zmarszczeń, prostych szwów i aspektów ogólnych, takich jak czystość, jednolitość koloru, w porównaniu ze specyfikacjami. Przeprowadzają również testy przyspieszone.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Sprawdzasz szwy i wykończenie krawędzi",
+   "Porównujesz kolor skóry ze wzorem",
+   "Szukasz zmarszczeń i zabrudzeń",
+   "Przeprowadzasz przyspieszone testy zużycia"
+  ]
+ },
+ {
+  "id": 431,
+  "name": "Kierowca doświadczalny",
+  "desc": "Kierowcy doświadczalni kierują pojazdami prototypowymi i przedprodukcyjnymi i oceniają ich parametry, bezpieczeństwo i komfort. Badają oni modele w różnych sytuacjach jazdy i opracowują sprawozdania, aby pomóc inżynierom w doskonaleniu ich projektów i zidentyfikowaniu problemów. Mogą oni pracować dla producentów, niezależnych organizacji badań pojazdów lub czasopism samochodowych.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Prowadzisz prototypy w różnych warunkach",
+   "Oceniasz hamowanie, skręcanie i komfort",
+   "Zapisujesz usterki i dziwne odgłosy",
+   "Piszesz raporty dla inżynierów"
+  ]
+ },
+ {
+  "id": 432,
+  "name": "Klasyfikator fornirów",
+  "desc": "Klasyfikatorzy fornirów kontrolują kawałki forniru pod kątem jakości. Zwracają uwagę na nieprawidłowości, skazy i błędy związane z produkcją, a także oceniają kawałki pod kątem atrakcyjności wzorów.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Przeglądasz arkusze forniru pod światło",
+   "Wychwytujesz pęknięcia, dziury i przebarwienia",
+   "Oceniasz atrakcyjność rysunku słojów",
+   "Układasz arkusze w stosy według klas"
+  ]
+ },
+ {
+  "id": 433,
+  "name": "Kontroler jakości tablic kontrolnych",
+  "desc": "Kontrolerzy jakości tablic kontrolnych testują elektryczne tablice kontrolne. Odczytują plany w celu sprawdzenia, czy przewody są prawidłowo podłączone. Kontrolerzy jakości tablic kontrolnych stosują elektryczne urządzenia pomiarowe i testujące, aby wykryć nieprawidłowości w działaniu i mogą korygować wadliwe przewody i elementy.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Czytasz schematy połączeń",
+   "Porównujesz przewody z planem",
+   "Mierzysz i testujesz działanie tablicy",
+   "Poprawiasz wadliwe przewody i elementy"
+  ]
+ },
+ {
+  "id": 434,
+  "name": "Kontroler obwodów drukowanych",
+  "desc": "Kontrolerzy obwodów drukowanych kontrolują i testują płytki obwodów drukowanych. Wykonują oni szereg procedur testowania płytek obwodów drukowanych i mogą dokonywać drobnych napraw.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Oglądasz płytki pod lupą",
+   "Wykonujesz serię testów elektrycznych",
+   "Znajdujesz przerwane ścieżki i zwarcia",
+   "Naprawiasz drobne usterki na płytce"
+  ]
+ },
+ {
+  "id": 435,
+  "name": "Kontroler stanu akumulatorów",
+  "desc": "Kontrolerzy stanu akumulatorów wykorzystują wtyczki z przewodem ujemnym i dodatnim do badania pojemności opornościowej baterii. Testują również odrzucone baterie w celu określenia ich usterek.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Podłączasz akumulator do miernika",
+   "Sprawdzasz pojemność i opór ogniwa",
+   "Badasz odrzucone baterie",
+   "Zapisujesz przyczyny usterek"
+  ]
+ },
+ {
+  "id": 436,
+  "name": "Operator automatycznej inspekcji optycznej",
+  "desc": "Operatorzy automatycznej inspekcji optycznej (operatorzy AOI) obsługują zautomatyzowane maszyny do kontroli optycznej w celu przeprowadzenia kontroli zmontowanych płytek obwodów drukowanych. Odczytują oni plany i kontrolują gotowe lub będące w trakcie procesu zespoły płytek obwodów drukowanych pod kątem wad lub usterek.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Ładujesz płytki do maszyny kamerowej",
+   "Wczytujesz plan i program kontroli",
+   "Oceniasz zgłoszone wady na ekranie",
+   "Odkładasz płytki z usterkami"
+  ]
+ },
+ {
+  "id": 437,
+  "name": "Specjalista kontroli z użyciem badań nieniszczących",
+  "desc": "Specjaliści kontroli z użyciem badań nieniszczących przeprowadzają badania pojazdów, statków, innych wytwarzanych obiektów oraz konstrukcji budowlanych bez konieczności ich uszkadzania. Do przeprowadzenia testów i sporządzenia sprawozdania na podstawie zaobserwowanych wyników wykorzystują oni specjalne urządzenia, takie jak aparatura rentgenowska, ultradźwiękowa, radiograficzna lub w zakresie promieniowania podczerwonego.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Prześwietlasz spawy i elementy promieniami",
+   "Badasz konstrukcje ultradźwiękami",
+   "Odczytujesz wyniki z obrazów i wykresów",
+   "Piszesz raport o stanie elementu"
+  ]
+ },
+ {
+  "id": 438,
+  "name": "Nurek poławiacz zasobów morskich",
+  "desc": "Nurkowie poławiacze zasobów morskich wydobywają i zbierają zasoby morskie, takie jak glony, korale, okładniczki, jeżowce i gąbki, w sposób bezpieczny, fachowy i odpowiedzialny, do głębokości 12 m, przy użyciu technik nurkowania z zatrzymanym oddechem oraz urządzeń dostarczających powietrze z powierzchni, w układzie otwartym.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Nurkujesz na wstrzymanym oddechu lub z wężem",
+   "Wyszukujesz glony, jeżowce i gąbki",
+   "Zbierasz zasoby ostrożnie, bez niszczenia dna",
+   "Wynosisz zebrane okazy na powierzchnię"
+  ]
+ },
+ {
+  "id": 439,
+  "name": "Nurek techniczny",
+  "desc": "Nurkowie techniczni pracują pod powierzchnią wody, instalując urządzenia takie jak struktury hydrauliczne, kanały i obiekty morskie. Poza tym kontrolują, usuwają i naprawiają struktury.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Instalujesz urządzenia pod wodą",
+   "Oglądasz konstrukcje hydrotechniczne",
+   "Naprawiasz uszkodzone elementy",
+   "Usuwasz przeszkody i stare konstrukcje"
+  ]
+ },
+ {
+  "id": 440,
+  "name": "Płetwonurek ratownik",
+  "desc": "Płetwonurkowie ratownicy są nurkami, którzy zajmują się sytuacjami nagłymi pod wodą. Zapobiegają oni problemom pod wodą i zajmują się nimi, obsługują nagle przypadki w zakresie nurkowania i obsługują sprzęt ratowniczy. Płetwonurkowie ratownicy zajmują się operacjami nurkowania w morzach lub kanałach. Pracują oni w trudnych warunkach fizycznych, ratując i poszukując ludzi lub przedmiotów.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Szukasz ludzi i przedmiotów pod wodą",
+   "Ratujesz poszkodowanych z wody",
+   "Sprawdzasz i obsługujesz sprzęt ratowniczy",
+   "Zapobiegasz problemom podczas nurkowania"
+  ]
+ },
+ {
+  "id": 441,
+  "name": "Pracownik deratyzacji, dezynfekcji i dezynsekcji",
+  "desc": "Pracownicy deratyzacji, dezynfekcji i dezynsekcji identyfikują, eliminują i odpędzają szkodniki, stosując określone rozwiązania chemiczne, ustawiając pułapki i inny sprzęt do zwalczania szkodników takich jak szczury, myszy i karaluchy. Stosują oni pestycydy oraz sprzątają i usuwają szkodniki po ich wytępieniu. Ich zadania mogą obejmować wyeliminowanie grzybów, wilgoci lub owadów. Udzielają klientom, mieszkańcom i właścicielom obiektów informacji i porad w sprawie metod ochrony przed szkodnikami po zabiegu i prewencyjnie.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Szukasz śladów szkodników w budynku",
+   "Ustawiasz pułapki na szlakach szkodników",
+   "Stosujesz środki zgodnie z zasadami",
+   "Doradzasz klientom, jak zapobiegać powrotowi"
+  ]
+ },
+ {
+  "id": 442,
+  "name": "Pracownik ochrony roślin",
+  "desc": "Pracownicy ochrony roślin mieszają pestycydy, insektycydy, fungicydy i inne roztwory chemiczne oraz stosują je przy użyciu wyposażenia technicznego takiego jak opryskiwacze na drzewa, rośliny i trawniki. Czyszczą i konserwują maszyny robocze i zapewniają ogólne bezpieczeństwo w wyznaczonych obszarach.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Mieszasz środki ochrony roślin",
+   "Opryskujesz drzewa i trawniki",
+   "Czyścisz i konserwujesz opryskiwacze",
+   "Pilnujesz bezpieczeństwa w obszarze zabiegu"
+  ]
+ },
+ {
+  "id": 443,
+  "name": "Strzałowy",
+  "desc": "Strzałowi rozstawiają i bezpiecznie detonują materiały wybuchowe w danym miejscu, aby wysadzić w powietrze i rozerwać znajdujący się tam materiał.",
+  "path": "Przemysł i produkcja > Kontrolerzy jakości i inni",
+  "tasks": [
+   "Czytasz plan rozmieszczenia ładunków",
+   "Rozstawiasz ładunki w wyznaczonych miejscach",
+   "Odgradzasz teren i sprawdzasz, czy nikogo nie ma",
+   "Detonujesz ładunki z bezpiecznej odległości"
+  ]
+ },
+ {
+  "id": 444,
+  "name": "Elektroenergetyk elektrowni geotermalnych",
+  "desc": "Elektroenergetycy elektrowni geotermalnych obsługują i utrzymują maszyny i urządzenia, często turbiny parowe, które wytwarzają energię elektryczną. Monitorują urządzenia pomiarowe w celu zapewnienia bezpieczeństwa pracy oraz spełnienia potrzeb produkcyjnych. Reagują również na problemy związane z instalacją i usuwają awarie. Mogą regulować parametry pracy generatorów w celu kontrolowania przepływu energii elektrycznej do linii elektroenergetycznych.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz turbiny parowe i generatory",
+   "Odczytujesz wskazania przyrządów pomiarowych",
+   "Reagujesz na usterki instalacji",
+   "Regulujesz ilość energii wysyłanej do sieci"
+  ]
+ },
+ {
+  "id": 445,
+  "name": "Elektroenergetyk elektrowni słonecznych",
+  "desc": "Elektroenergetycy elektrowni słonecznych obsługują i utrzymują maszyny i urządzenia, które wytwarzają energię elektryczną z energii słonecznej. Monitorują urządzenia pomiarowe w celu zapewnienia bezpieczeństwa pracy oraz spełnienia potrzeb produkcyjnych. Reagują również na problemy związane z instalacją i usuwają awarie.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Monitorujesz odczyty z urządzeń pomiarowych",
+   "Szukasz przyczyn spadku produkcji",
+   "Usuwasz awarie instalacji",
+   "Dopasowujesz pracę elektrowni do potrzeb produkcji"
+  ]
+ },
+ {
+  "id": 446,
+  "name": "Elektroenergetyk elektrowni wodnych",
+  "desc": "Elektroenergetycy elektrowni wodnych obsługują i utrzymują w ruchu maszyny i urządzenia wykorzystywane do produkcji energii pochodzącej z przepływu wody. Monitorują urządzenia pomiarowe, oceniają potrzeby produkcyjne i dostosowują przepływ wody w celu zaspokojenia tych potrzeb. Wykonują również prace remontowe i konserwacyjne.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz turbiny i generatory wodne",
+   "Regulujesz przepływ wody przez elektrownię",
+   "Odczytujesz urządzenia pomiarowe",
+   "Wykonujesz remonty i konserwację maszyn"
+  ]
+ },
+ {
+  "id": 447,
+  "name": "Elektroenergetyk elektrowni wykorzystujących paliwa kopalne",
+  "desc": "Elektroenergetycy elektrowni wykorzystujących paliwa kopalne obsługują i utrzymują w ruchu maszyny i urządzenia przemysłowe, takie jak generatory, turbiny i kotły, dostarczające energię elektryczną wytwarzaną z paliw kopalnych, takich jak gaz ziemny czy węgiel. Zapewniają bezpieczeństwo pracy oraz zgodność urządzeń z przepisami prawa. Mogą również pracować w elektrociepłowniach, w których wykorzystuje się systemy odzysku ciepła w celu odzyskiwania ciepła wylotowego z jednej operacji i zasilania turbin parowych.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz kotły, turbiny i generatory",
+   "Sprawdzasz zgodność instalacji z przepisami",
+   "Utrzymujesz w ruchu urządzenia energetyczne",
+   "Wykorzystujesz ciepło odpadowe w elektrociepłowni"
+  ]
+ },
+ {
+  "id": 448,
+  "name": "Elektroenergetyk nastawni",
+  "desc": "Elektroenergetycy nastawni są odpowiedzialni za bezpieczne i właściwe funkcjonowanie elektrowni, stacji przesyłowych i powiązanych struktur zarządzania. Naprawiają i utrzymują w ruchu wykorzystywane maszyny i urządzenia w celu zapewnienia wydajnej eksploatacji elektrowni i skutecznego postępowania w sytuacjach nadzwyczajnych, takich jak przerwy w dostawie energii elektrycznej.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Monitorujesz pracę elektrowni z nastawni",
+   "Utrzymujesz maszyny i urządzenia w ruchu",
+   "Reagujesz na awarie i przerwy w dostawie",
+   "Naprawiasz urządzenia i przywracasz zasilanie"
+  ]
+ },
+ {
+  "id": 449,
+  "name": "Maszynista turbozespołu parowego",
+  "desc": "Maszyniści turbozespołu parowego obsługują i utrzymują w ruchu maszyny wytwarzające energię elektryczną. Zapewniają bezpieczeństwo pracy i monitorują ją w celu wykrywania problemów i reagowania na sytuacje nadzwyczajne.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Uruchamiasz i zatrzymujesz turbozespół",
+   "Obserwujesz wskazania ciśnienia i temperatury",
+   "Wykrywasz nietypowe dźwięki i drgania",
+   "Reagujesz na sytuacje awaryjne"
+  ]
+ },
+ {
+  "id": 450,
+  "name": "Operator reaktora jądrowego",
+  "desc": "Operatorzy reaktora jądrowego bezpośrednio kontrolują reaktory jądrowe w elektrowniach z poziomu paneli sterowania i ponoszą wyłączną odpowiedzialność za zmiany reaktywności reaktora. Inicjują eksploatację i reagują na zmiany stanu, takie jak ofiary i wydarzenia o znaczeniu krytycznym. Monitorują parametry i zapewniają zgodność z przepisami bezpieczeństwa.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Sterujesz reaktorem z panelu kontrolnego",
+   "Zmieniasz moc reaktora zgodnie z procedurą",
+   "Monitorujesz parametry pracy na wskaźnikach",
+   "Reagujesz na alarmy i zdarzenia krytyczne"
+  ]
+ },
+ {
+  "id": 451,
+  "name": "Pracownik systemu przesyłowego energii elektrycznej",
+  "desc": "Pracownicy systemu przesyłowego energii elektrycznej zajmują się przesyłem energii w postaci energii elektrycznej. Ich zadaniem jest przesył energii elektrycznej z elektrowni poprzez połączoną sieć elektroenergetyczną do stacji elektroenergetycznych.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Śledzisz przepływ energii w sieci",
+   "Przełączasz połączenia między stacjami",
+   "Reagujesz na awarie linii",
+   "Koordynujesz pracę z elektrowniami"
+  ]
+ },
+ {
+  "id": 452,
+  "name": "Technik ds. dystrybucji energii elektrycznej",
+  "desc": "Technicy ds. dystrybucji energii elektrycznej obsługują i utrzymują w ruchu maszyny i urządzenia, które dostarczają energię z systemu przesyłowego do odbiorców. Nadzorują prace konserwacyjne i naprawy linii energetycznych oraz zapewniają zaspokojenie potrzeb w zakresie dystrybucji. Reagują również na awarie w systemie dystrybucji powodujące takie problemy jak przerwy w dostawie prądu.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Nadzorujesz konserwację linii energetycznych",
+   "Organizujesz naprawy uszkodzonej sieci",
+   "Reagujesz na przerwy w dostawie prądu",
+   "Dopasowujesz dystrybucję do potrzeb odbiorców"
+  ]
+ },
+ {
+  "id": 453,
+  "name": "Operator spalarni odpadów komunalnych",
+  "desc": "Operatorzy spalarni odpadów komunalnych obsługują maszyny do spalania odpadów. Zapewniają utrzymanie w ruchu maszyn i urządzeń oraz realizację procesu spalania zgodnie z przepisami bezpieczeństwa dotyczącymi spalania odpadów.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz piece i maszyny do spalania",
+   "Sprawdzasz, czy spalanie przebiega zgodnie z przepisami",
+   "Utrzymujesz urządzenia w sprawności",
+   "Reagujesz na usterki podczas pracy"
+  ]
+ },
+ {
+  "id": 454,
+  "name": "Operator urządzeń do utylizacji odpadów płynnych",
+  "desc": "Operatorzy urządzeń do utylizacji odpadów płynnych usuwają niebezpieczne chemikalia i substancje zanieczyszczające, takie jak olej, tak aby mogły być one bezpiecznie używane w nowych zastosowaniach. Obsługują i utrzymują w ruchu maszyny i urządzenia do utylizacji odpadów płynnych, monitorują działania i badają próbki w celu zapewnienia, że spełniane są normy bezpieczeństwa.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz instalacje do oczyszczania płynów",
+   "Usuwasz zanieczyszczenia z oleju",
+   "Pobierasz i badasz próbki",
+   "Utrzymujesz w ruchu pompy i zbiorniki"
+  ]
+ },
+ {
+  "id": 455,
+  "name": "Operator urządzeń do utylizacji odpadów stałych",
+  "desc": "Operatorzy urządzeń do utylizacji odpadów stałych obsługują i utrzymują w ruchu maszyny i urządzenia do unieszkodliwiania i dystrybucji odpadów stałych oraz badają próbki w celu monitorowania zanieczyszczenia. Pomagają w zbieraniu i usuwaniu odpadów stałych, takich jak odpady budowlane i rozbiórkowe, oraz zapewniają zgodność procesu unieszkodliwiania z przepisami bezpieczeństwa. Zapewniają opróżnianie pojemników na odpady komunalne, właściwe rozróżnianie odpadów, które mają zostać poddane recyklingowi lub usunięte, a także monitorują maszyny i urządzenia.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz maszyny do przerobu odpadów",
+   "Rozdzielasz odpady do recyklingu i usunięcia",
+   "Pobierasz próbki do badania zanieczyszczeń",
+   "Pilnujesz opróżniania pojemników na odpady"
+  ]
+ },
+ {
+  "id": 456,
+  "name": "Operator urządzeń oczyszczania ścieków",
+  "desc": "Operatorzy urządzeń oczyszczania ścieków obsługują maszyny i urządzenia wykorzystywane w stacji uzdatniania wody lub oczyszczalni ścieków. Dbają o uzdatnianie i filtrowanie wody pitnej, zanim zostanie dostarczona do odbiorców, oraz oczyszczanie ścieków w celu usunięcia szkodliwych substancji, zanim ścieki trafią do rzek i mórz. Pobierają próbki i przeprowadzają badania w celu analizy jakości wody.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz pompy i filtry w oczyszczalni",
+   "Pobierasz próbki ścieków",
+   "Badasz jakość wody po oczyszczeniu",
+   "Sprawdzasz, czy ścieki są czyste przed wypuszczeniem"
+  ]
+ },
+ {
+  "id": 457,
+  "name": "Operator urządzeń uzdatniania wody",
+  "desc": "Operatorzy urządzeń uzdatniania wody zajmują się uzdatnianiem wody, aby zapewnić jej zdatność do picia, nawadniania lub innych celów. Obsługują i utrzymują w ruchu maszyny i urządzenia do uzdatniania wody oraz zapewniają, że woda nadaje się do butelkowania i stosowania w produkcji żywności poprzez dokładne badanie przed dystrybucją oraz zapewnienie zgodności z normami środowiskowymi.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz urządzenia do uzdatniania wody",
+   "Badasz wodę przed wysłaniem do odbiorców",
+   "Dostosowujesz pracę instalacji do norm środowiskowych",
+   "Utrzymujesz w ruchu pompy i filtry"
+  ]
+ },
+ {
+  "id": 458,
+  "name": "Technik oczyszczania ścieków",
+  "desc": "Technicy oczyszczania ścieków pomagają podmiotom zajmującym się oczyszczaniem ścieków w obsłudze i utrzymaniu w ruchu maszyn i urządzeń do uzdatniania wody ściekowej oraz w procesie oczyszczania ścieków w oczyszczalniach ścieków. Wykonują naprawy.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Pomagasz przy obsłudze urządzeń oczyszczalni",
+   "Wykonujesz naprawy maszyn i pomp",
+   "Sprawdzasz, czy proces przebiega poprawnie",
+   "Szukasz usterki, gdy urządzenie przestaje działać"
+  ]
+ },
+ {
+  "id": 459,
+  "name": "Technik stacji uzdatniania wody",
+  "desc": "Technicy stacji uzdatniania wody utrzymują w ruchu i naprawiają maszyny i urządzenia do uzdatniania wody i zaopatrzenia w wodę w stacji uzdatniania wody. Zapewniają dostawy czystej wody poprzez pomiar jakości wody, jej filtrowanie i prawidłowe uzdatnianie oraz utrzymanie w ruchu instalacji wodnych.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Mierzysz jakość wody w stacji",
+   "Obsługujesz filtry i urządzenia uzdatniające",
+   "Naprawiasz pompy i armaturę",
+   "Utrzymujesz w ruchu instalacje wodne"
+  ]
+ },
+ {
+  "id": 460,
+  "name": "Brygadzista w zakładzie przetwórstwa gazu",
+  "desc": "Brygadziści w zakładzie przetwórstwa gazu nadzorują obróbkę gazu na potrzeby usług użyteczności publicznej i zakładów energetycznych poprzez kontrolowanie sprężarek i innych urządzeń do przetwarzania w celu zapewnienia standardowych parametrów. Nadzorują utrzymanie w ruchu maszyn i urządzeń oraz przeprowadzają testy w celu wykrycia problemów lub odchyleń oraz zapewnienia jakości.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Nadzorujesz sprężarki i urządzenia przetwarzające",
+   "Pilnujesz, by parametry były w normie",
+   "Nadzorujesz konserwację maszyn i urządzeń",
+   "Przeprowadzasz testy przy podejrzanych odchyleniach"
+  ]
+ },
+ {
+  "id": 461,
+  "name": "Kontroler procesów w przemyśle chemicznym",
+  "desc": "Kontrolerzy procesów w przemyśle chemicznym kontrolują proces produkcji chemicznej. Obsługują maszyny i systemy oraz są odpowiedzialni za monitorowanie i konserwację sprzętu i przyrządów do sterowania.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz maszyny i systemy produkcyjne",
+   "Kontrolujesz przebieg procesu",
+   "Odczytujesz wskazania przyrządów sterujących",
+   "Dbasz o konserwację sprzętu"
+  ]
+ },
+ {
+  "id": 462,
+  "name": "Operator centralnej sterowni w zakładzie chemicznym",
+  "desc": "Operatorzy centralnej sterowni w zakładzie chemicznym monitorują i kontrolują zdalnie systemy produkcji podczas zmiany, zgłaszając wszystkie nieprawidłowości i incydenty przy użyciu wymaganych systemów. Obsługują panele w nastawni oraz zapewniają bezpieczeństwo pracowników produkcji i sprzętu produkcyjnego.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Monitorujesz produkcję z paneli w nastawni",
+   "Zdalnie zmieniasz ustawienia systemów",
+   "Zgłaszasz nieprawidłowości i incydenty w raportach",
+   "Utrzymujesz łączność z pracownikami na hali"
+  ]
+ },
+ {
+  "id": 463,
+  "name": "Operator urządzeń do rozdzielania powietrza",
+  "desc": "Operatorzy urządzeń do rozdzielania powietrza kontrolują i utrzymują w ruchu urządzenia do pobierania azotu i tlenu z powietrza, zapewniając wymagane parametry ciśnienia, przepływu i temperatury podczas pracy. Przeprowadzają badania czystości produktów i monitorują ich przesyłanie do zbiorników magazynowych lub w celu napełniania butli.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Kontrolujesz ciśnienie, przepływ i temperaturę",
+   "Obsługujesz urządzenia pobierające azot i tlen",
+   "Badasz czystość otrzymanych gazów",
+   "Napełniasz zbiorniki i butle gazem"
+  ]
+ },
+ {
+  "id": 464,
+  "name": "Pracownik stacji gazowej",
+  "desc": "Pracownicy stacji gazowej zajmują się przetwórstwem gazów do celów sprężania, przesyłania lub odzyskiwania przy użyciu sprężarek z silnikiem gazowym, parowym lub elektrycznym. Prowadzą badania chemiczne gazów i są odpowiedzialni za eksploatację pomp i rurociągów.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz sprężarki napędzane silnikiem",
+   "Nadzorujesz pompy i rurociągi",
+   "Badasz skład chemiczny gazu",
+   "Przesyłasz lub odzyskujesz gaz"
+  ]
+ },
+ {
+  "id": 465,
+  "name": "Technik produkcji biogazu",
+  "desc": "Technicy produkcji biogazu pracują przy pozyskiwaniu gazu z materii organicznej, wytwarzanego jako gaz składowiskowy lub powstały w wyniku trawienia. Obsługują maszyny i urządzenia w biogazowniach, wykonują zadania związane z badaniami i konserwacją oraz podejmują działania w przypadku awarii.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz maszyny w biogazowni",
+   "Pobierasz próbki i wykonujesz badania",
+   "Konserwujesz urządzenia i sprawdzasz zawory",
+   "Reagujesz na awarie instalacji"
+  ]
+ },
+ {
+  "id": 466,
+  "name": "Kierownik zmiany w rafinerii",
+  "desc": "Kierownicy zmiany w rafinerii są odpowiedzialni za codzienny nadzór nad pracownikami, zarządzanie instalacjami i sprzętem, optymalizowanie produkcji i zapewnianie bezpieczeństwa w rafinerii ropy naftowej.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Przydzielasz zadania pracownikom na zmianie",
+   "Nadzorujesz instalacje i sprzęt",
+   "Optymalizujesz przebieg produkcji",
+   "Egzekwujesz zasady bezpieczeństwa w rafinerii"
+  ]
+ },
+ {
+  "id": 467,
+  "name": "Operator centralnej sterowni w rafinerii ropy naftowej",
+  "desc": "Operatorzy centralnej sterowni w rafinerii ropy naftowej wykonują szereg zadań w nastawni w rafinerii ropy naftowej. Monitorują procesy na podstawie elektronicznych reprezentacji zrealizowanych w oparciu o monitory, zegary i wskaźniki świetlne. Operatorzy centralnej sterowni w rafinerii ropy naftowej modyfikują zmienne i komunikują się z innymi działami w celu zapewnienia sprawnego przebiegu procesów zgodnie z ustalonymi procedurami. Podejmują odpowiednie działania w przypadku nieprawidłowości lub sytuacji nadzwyczajnych.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Śledzisz procesy na ekranach i wskaźnikach",
+   "Zmieniasz zmienne procesowe z panelu",
+   "Kontaktujesz się z innymi działami rafinerii",
+   "Reagujesz na nieprawidłowości i sytuacje nadzwyczajne"
+  ]
+ },
+ {
+  "id": 468,
+  "name": "Operator centralnej sterowni w zakładzie przetwórstwa gazu",
+  "desc": "Operatorzy centralnej sterowni w zakładzie przetwórstwa gazu wykonują szereg zadań w nastawni w zakładzie przetwórczym. Monitorują procesy na podstawie elektronicznych reprezentacji zrealizowanych w oparciu o monitory, zegary i wskaźniki świetlne. Modyfikują zmienne i komunikują się z innymi działami w celu zapewnienia sprawnego przebiegu procesów zgodnie z ustalonymi procedurami. Podejmują odpowiednie działania w przypadku nieprawidłowości lub sytuacji nadzwyczajnych.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Śledzisz pracę zakładu na monitorach",
+   "Zmieniasz wartości procesowe i ustawienia",
+   "Uzgadniasz działania z innymi działami",
+   "Wdrażasz procedury w sytuacjach nadzwyczajnych"
+  ]
+ },
+ {
+  "id": 469,
+  "name": "Operator systemu pompowania ropy naftowej",
+  "desc": "Operatorzy systemu pompowania ropy naftowej zajmują się pompami, dzięki którym przepływ oleju i produktów pochodnych przebiega bez zakłóceń. Monitorują przepływ w rurociągach w rafinerii i wykonują testy maszyn i urządzeń w celu ograniczenia zakłóceń do minimum. Operatorzy systemu pompowania ropy naftowej pracują w wysoce zautomatyzowanej sterowni, gdzie komunikują się z innymi pracownikami w celu koordynowania pracy pomp. Operatorzy systemu pompowania ropy naftowej wykonują drobne naprawy i prace konserwacyjne oraz w razie potrzeby przedstawiają sprawozdania.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Monitorujesz przepływ w rurociągach",
+   "Koordynujesz pracę pomp z innymi pracownikami",
+   "Testujesz pompy, by ograniczać zakłócenia",
+   "Naprawiasz drobne usterki i piszesz sprawozdania"
+  ]
+ },
+ {
+  "id": 470,
+  "name": "Operator w zakładzie przetwórstwa gazu",
+  "desc": "Operatorzy w zakładzie przetwórstwa gazu obsługują i utrzymują w ruchu maszyny i urządzenia do dystrybucji gazu w zakładzie przetwórstwa gazu. Zajmują się dystrybucją gazu do zakładów użyteczności publicznej lub odbiorców i zapewniają prawidłowe ciśnienie w gazociągach. Nadzorują również zgodność z harmonogramem i popytem.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Rozprowadzasz gaz do odbiorców",
+   "Pilnujesz ciśnienia w gazociągach",
+   "Porównujesz dostawy z harmonogramem i popytem",
+   "Utrzymujesz w ruchu maszyny dystrybucji gazu"
+  ]
+ },
+ {
+  "id": 471,
+  "name": "Kontroler procesów w przemyśle odzieżowym",
+  "desc": "Kontrolerzy procesów w przemyśle odzieżowym obsługują wiele maszyn i urządzeń do sterowania procesami produkcji na liniach montażowych.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz kilka maszyn jednocześnie",
+   "Śledzisz przebieg pracy na linii",
+   "Reagujesz, gdy maszyna się zatrzymuje",
+   "Dopasowujesz tempo kolejnych etapów produkcji"
+  ]
+ },
+ {
+  "id": 472,
+  "name": "Operator zautomatyzowanej linii produkcyjnej",
+  "desc": "Operatorzy zautomatyzowanej linii produkcyjnej zajmują się obsługą, konserwacją i czyszczeniem maszyn produkcyjnych. Są odpowiedzialni za montaż całego produktu lub jego części. Operatorzy zautomatyzowanej linii produkcyjnej wykonują wszystkie zadania w procesie produkcji na zasadzie rotacji.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz maszyny na linii",
+   "Czyścisz i konserwujesz urządzenia",
+   "Montujesz produkt lub jego część",
+   "Rotacyjnie zmieniasz stanowiska na linii"
+  ]
+ },
+ {
+  "id": 473,
+  "name": "Kontroler robotów przemysłowych",
+  "desc": "Kontrolerzy robotów przemysłowych obsługują i monitorują roboty przemysłowe używane w procesach automatyzacji do wykonywania różnych czynności produkcyjnych, takich jak podnoszenie, zgrzewanie i montaż. Zapewniają prawidłowe funkcjonowanie maszyn oraz ich zsynchronizowanie z innymi robotami przemysłowymi, a także zajmują się konserwacją i naprawą wadliwych części, oceną ryzyka i przeprowadzaniem testów.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Monitorujesz pracę robotów na linii",
+   "Synchronizujesz roboty między sobą",
+   "Wymieniasz wadliwe części i naprawiasz",
+   "Oceniasz ryzyko i przeprowadzasz testy"
+  ]
+ },
+ {
+  "id": 474,
+  "name": "Kontroler urządzeń do produkcji pulpy drzewnej",
+  "desc": "Kontrolerzy urządzeń do produkcji pulpy drzewnej obsługują i monitorują wielofunkcyjne maszyny i urządzenia do sterowania procesami przetwórstwa drewna, pulpy z odpadów, papieru z recyklingu i innych materiałów celulozowych do celów produkcji pulpy. Ustawiają, obsługują i utrzymują w ruchu maszyny, analizują wyniki produkcji i w razie konieczności dostosowują proces.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Ustawiasz i uruchamiasz maszyny do pulpy",
+   "Monitorujesz proces przetwarzania surowca",
+   "Analizujesz wyniki produkcji",
+   "Konserwujesz i naprawiasz urządzenia"
+  ]
+ },
+ {
+  "id": 475,
+  "name": "Kontroler urządzeń do wytopu metali",
+  "desc": "Kontrolerzy urządzeń do wytopu metali monitorują proces obróbki metalu przed wlaniem go do form. Sterują piecami do wytopu metali i kierują wszystkimi działaniami związanymi z piecem, w tym interpretacją danych komputerowych, pomiarem i regulacją temperatury, załadunkiem zbiorników oraz dodawaniem żelaza, tlenu i innych dodatków przeznaczonych do stopienia w celu uzyskania pożądanego składu materiału. Kontrolują obróbkę cieplno-chemiczną metalu w celu osiągnięcia zgodności z normami. Po zaobserwowaniu wad materiału powiadamiają upoważnionych pracowników i biorą udział w usunięciu wady.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Sterujesz piecem do wytopu metali",
+   "Mierzysz i regulujesz temperaturę",
+   "Dodajesz żelazo i inne dodatki do wsadu",
+   "Zgłaszasz wady materiału i pomagasz je usunąć"
+  ]
+ },
+ {
+  "id": 476,
+  "name": "Mistrz montażu w przemyśle",
+  "desc": "Mistrzowie montażu w przemyśle są odpowiedzialni za organizację, planowanie i koordynację prac montażowych. Monitorują wszystkie działania i zarządzają procesem, zapewniając jego efektywność i rozwiązując takie problemy, jak straty produkcji. Podlegają kierownictwu produkcji przemysłowej i kierownikowi produkcji.",
+  "path": "Przemysł i produkcja > Mistrzowie produkcji",
+  "tasks": [
+   "Planujesz kolejność prac montażowych",
+   "Koordynujesz pracę stanowisk montażu",
+   "Rozwiązujesz problemy, np. straty produkcji",
+   "Raportujesz kierownikowi produkcji"
+  ]
+ },
+ {
+  "id": 477,
+  "name": "Mistrz produkcji",
+  "desc": "Mistrzowie produkcji koordynują i planują procesy produkcji oraz kierują nimi. Odpowiadają za przegląd harmonogramów lub zleceń produkcji, a także za nadzorowanie pracowników w tych obszarach produkcji.",
+  "path": "Przemysł i produkcja > Mistrzowie produkcji",
+  "tasks": [
+   "Sprawdzasz harmonogramy i zlecenia produkcji",
+   "Planujesz pracę zmiany",
+   "Nadzorujesz pracowników na swoim obszarze",
+   "Koordynujesz kolejne etapy procesu"
+  ]
+ },
+ {
+  "id": 478,
+  "name": "Osoba dozoru ruchu w górnictwie",
+  "desc": "Osoby dozoru ruchu w górnictwie koordynują i nadzorują działania związane z pracą zakładów wydobywczych i kamieniołomów w kopalniach głębinowych i odkrywkowych oraz kamieniołomach. Nadzorują pracowników, harmonogramy, procesy i organizację w kopalniach i kamieniołomach.",
+  "path": "Przemysł i produkcja > Mistrzowie produkcji",
+  "tasks": [
+   "Nadzorujesz pracowników w kopalni lub kamieniołomie",
+   "Układasz harmonogramy pracy zmian",
+   "Koordynujesz procesy wydobycia",
+   "Pilnujesz organizacji pracy na stanowiskach"
+  ]
+ },
+ {
+  "id": 479,
+  "name": "Planista produkcji żywności",
+  "desc": "Planiści produkcji żywności przygotowują plany produkcji, oceniają wszystkie zmienne w procesie oraz dążą do zapewnienia osiągnięcia celów produkcyjnych.",
+  "path": "Przemysł i produkcja > Mistrzowie produkcji",
+  "tasks": [
+   "Układasz harmonogram produkcji na tydzień",
+   "Sprawdzasz zapasy surowców i opakowań",
+   "Przesuwasz zlecenia, gdy maszyna się zepsuje",
+   "Ustalasz terminy z magazynem i sprzedażą"
+  ]
+ }
+]

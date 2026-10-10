@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1140,
+  "name": "Technik lotniczy",
+  "desc": "Technicy lotniczy dokonują konserwacji zapobiegawczej samolotów, części do samolotów, silników i podzespołów, takich jak kadłuby oraz systemy hydrauliczne i pneumatyczne. Przeprowadzają przeglądy zgodnie z restrykcyjnymi protokołami i przepisami prawa lotniczego.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Wykonujesz przeglądy według protokołów",
+   "Sprawdzasz kadłub i silniki",
+   "Kontrolujesz układy hydrauliczne i pneumatyczne",
+   "Wymieniasz części i dokumentujesz każdą czynność"
+  ]
+ },
+ {
+  "id": 1141,
+  "name": "Technik silników turbośmigłowych",
+  "desc": "Technicy silników turbośmigłowych dokonują remontów, konserwacji i napraw silników turbośmigłowych. Demontują, sprawdzają, czyszczą, naprawiają i ponownie montują silniki z wykorzystaniem specjalistycznego oprzyrządowania.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Demontujesz silnik na elementy",
+   "Czyścisz i sprawdzasz poszczególne części",
+   "Naprawiasz uszkodzone podzespoły",
+   "Składasz silnik specjalistycznym oprzyrządowaniem"
+  ]
+ },
+ {
+  "id": 1142,
+  "name": "Monter rurociągów",
+  "desc": "Monterzy rurociągów montują i instalują części i elementy rurociągów do transportu mediów takich jak woda, para i substancje chemiczne. Dokonują interpretacji specyfikacji, takich jak specyfikacje pneumatyczne i hydrauliczne, w celu instalacji na miejscu zgodnie z wymaganiami bezpieczeństwa i produkcyjnymi.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Czytasz specyfikacje i rysunki techniczne",
+   "Montujesz odcinki rurociągu na miejscu",
+   "Łączysz rury i armaturę",
+   "Sprawdzasz zgodność z wymogami bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 1143,
+  "name": "Specjalista spawania laserowego",
+  "desc": "Specjaliści spawania laserowego konfigurują i obsługują maszyny do spawania laserowego w celu połączenia ze sobą oddzielnych detali metalowych przez zastosowanie wiązki laserowej emitującej skoncentrowane źródło ciepła, umożliwiając precyzyjne spawanie.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Ustawiasz parametry maszyny laserowej",
+   "Mocujesz detale w uchwycie",
+   "Uruchamiasz spawanie i obserwujesz proces",
+   "Sprawdzasz dokładność gotowych połączeń"
+  ]
+ },
+ {
+  "id": 1144,
+  "name": "Specjalista spawania punktowego",
+  "desc": "Specjaliści spawania punktowego konfigurują i obsługują urządzenia do spawania punktowego, służące do dociskania i łączenia ze sobą detali metalowych. Opór metalu względem przepływu prądu elektrycznego oraz ciepło wydzielone w następstwie tego procesu umożliwia miejscowe topienie i łączenie części.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Konfigurujesz urządzenie do spawania punktowego",
+   "Układasz detale w miejscu łączenia",
+   "Dociskasz i uruchamiasz cykl spawania",
+   "Sprawdzasz, czy punkt solidnie trzyma"
+  ]
+ },
+ {
+  "id": 1145,
+  "name": "Specjalista spawania wiązką elektronową",
+  "desc": "Specjaliści spawania wiązką elektronową konfigurują i obsługują maszyny służące do łączenia ze sobą oddzielnych detali metalowych za pomocą wiązki elektronów o dużej prędkości. Monitorują procesy obróbki, które powodują zmianę energii kinetycznej elektronów, co pozwala im przekształcić się w ciepło, które topi metal i umożliwia jego łączenie się w procesie precyzyjnego spawania.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Konfigurujesz maszynę do spawania wiązką",
+   "Ustawiasz detale na stanowisku roboczym",
+   "Monitorujesz przebieg obróbki na odczytach",
+   "Oceniasz jakość gotowego połączenia"
+  ]
+ },
+ {
+  "id": 1146,
+  "name": "Koordynator procesu spawalniczego",
+  "desc": "Koordynatorzy procesu spawalniczego nadzorują przebieg procesów spawalniczych. Monitorują procesy spawania przeprowadzane przez innych spawaczy, nadzorują personel, czasami są odpowiedzialni za szkolenia zawodowe. Spawają również szczególnie trudne części. Koordynatorzy procesu spawalniczego zapewniają, aby wymagany sprzęt do spawania był gotowy do użycia. Przeważnie koordynują procesy spawalnicze i związane z nimi czynności specjalistyczne.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Sprawdzasz pracę innych spawaczy",
+   "Rozdzielasz zadania i nadzorujesz ludzi",
+   "Pilnujesz, by sprzęt był gotowy",
+   "Spawasz szczególnie trudne części"
+  ]
+ },
+ {
+  "id": 1147,
+  "name": "Lutowacz",
+  "desc": "Lutowacze obsługują różne urządzenia i maszyny, takie jak palniki gazowe, lutownice, maszyny spawalnicze lub elektryczne urządzenia ultradźwiękowe, w celu lutowania ze sobą przynajmniej dwóch elementów (zazwyczaj metali) przez topienie i tworzenie metalowego spoiwa pomiędzy połączeniami; metal spoiwa ma niższą temperaturę topnienia niż przylegający metal.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Dopasowujesz elementy, które będą łączone",
+   "Rozgrzewasz złącze lutownicą lub palnikiem",
+   "Wprowadzasz spoiwo w miejsce połączenia",
+   "Sprawdzasz, czy połączenie jest mocne"
+  ]
+ },
+ {
+  "id": 1148,
+  "name": "Odlewnik stopów",
+  "desc": "Odlewnicy stopów obsługują różne urządzenia i maszyny, takie jak palniki, lutownice, topniki i maszyny spawalnicze w celu połączenia ze sobą dwóch elementów metalowych, przez ogrzewanie, topienie i tworzenie spoiwa pomiędzy nimi, często mosiężnego lub miedzianego. Dzięki lutowaniu twardemu można łączyć metale takie jak aluminium, srebro, miedź, złoto i nikiel. Lutowanie twarde jest procesem podobnym do lutowania miękkiego, ale wymaga wyższych temperatur.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Dobierasz spoiwo i topnik do metali",
+   "Rozgrzewasz złącze palnikiem do wysokiej temperatury",
+   "Łączysz miedź, srebro, nikiel lub aluminium",
+   "Kontrolujesz, czy spoiwo wypełniło łączenie"
+  ]
+ },
+ {
+  "id": 1149,
+  "name": "Maszynista maszyn transportu pionowego",
+  "desc": "Maszyniści maszyn transportu pionowego specjalizują się w podnoszeniu przedmiotów ciężkich, często z pomocą dźwigu lub żurawia. Współpracują z operatorami dźwigów w celu podwieszenia i zdjęcia ładunków przenoszonych przy użyciu dźwigu. Mogą również instalować ciężkie obiekty na miejscu.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Podwieszasz ładunek na haku dźwigu",
+   "Ustalasz z operatorem kolejność przenoszenia",
+   "Zdejmujesz ładunek po przeniesieniu",
+   "Ustawiasz ciężkie elementy w miejscu montażu"
+  ]
+ },
+ {
+  "id": 1150,
+  "name": "Montażysta naziemnych elementów konstrukcji podwieszanych",
+  "desc": "Montażyści naziemnych elementów konstrukcji podwieszanych pomagają montażystom różnych poziomów w montażu tymczasowych konstrukcji zawieszanych dla sprzętu koniecznego do wykonywania prac. Ich praca opiera się na instrukcjach i planach. Pracują zarówno wewnątrz obiektów, jak i na zewnątrz. Ściśle współpracują z montażystami podestów. \\",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Czytasz plan i instrukcję montażu",
+   "Rozkładasz i sortujesz elementy konstrukcji",
+   "Składasz części na poziomie ziemi",
+   "Współpracujesz z montażystami podestów"
+  ]
+ },
+ {
+  "id": 1151,
+  "name": "Montażysta podestów",
+  "desc": "Montażyści podestów montują i podnoszą na określoną wysokość tymczasowe konstrukcje zawieszane dla sprzętu wykorzystywanego do pracy. Ich praca opiera się na instrukcjach, planach i obliczeniach. Ich praca może obejmować wspinaczkę przemysłową, pracę na wysokości powyżej współpracowników, montaż konstrukcji w celu podnoszenia pracowników i ciężkich ładunków, co sprawia, że jest to praca wysokiego ryzyka. Pracują zarówno wewnątrz obiektów, jak i na zewnątrz. Współpracują z montażystami naziemnych elementów konstrukcji podwieszanych w celu rozładunku i montażu konstrukcji na poziomie podłoża.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Czytasz plany i wykonujesz obliczenia",
+   "Montujesz konstrukcję i podnosisz ją na wysokość",
+   "Wspinasz się i pracujesz nad ziemią",
+   "Ustalasz rozładunek elementów z ekipą na dole"
+  ]
+ },
+ {
+  "id": 1152,
+  "name": "Monter wyposażenia okrętowego",
+  "desc": "Monterzy wyposażenia okrętowego wykorzystują narzędzia ręczne i elektronarzędzia w celu zainstalowania silników, mierników, urządzeń sterujących oraz oprzyrządowania, takiego jak baterie, lampki, zbiorniki paliwa i wyłączniki zapłonu. Przeprowadzają również kontrole przedwysyłkowe.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Instalujesz silniki i zbiorniki paliwa",
+   "Montujesz mierniki i urządzenia sterujące",
+   "Podłączasz baterie, lampki i wyłączniki",
+   "Robisz kontrolę przed wysyłką jednostki"
+  ]
+ },
+ {
+  "id": 1153,
+  "name": "Maszynista teatralny",
+  "desc": "Maszyniści teatralni pomagają technikom sceny w ustawianiu i przygotowywaniu sprzętu do występów na żywo. Ich praca obejmuje tworzenie scenerii, ustawianie świateł, nagłośnienia, podpór, olinowania i tworzenie efektów specjalnych do występu.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Budujesz i ustawiasz scenerię",
+   "Ustawiasz światła i nagłośnienie",
+   "Przygotowujesz rekwizyty i olinowanie",
+   "Tworzysz efekty specjalne do występu"
+  ]
+ },
+ {
+  "id": 1154,
+  "name": "Montażysta rusztowań scenicznych",
+  "desc": "Montażyści rusztowań scenicznych ustawiają i demontują tymczasowe miejsca siedzące, sceny i konstrukcje wsporcze dla sprzętu scenicznego, artystów i widowni. Ich praca może obejmować wspinaczkę przemysłową, pracę na wysokości powyżej współpracowników, podnoszenie ciężkich ładunków, co sprawia, że jest to praca wysokiego ryzyka. Ich praca opiera się na instrukcjach, planach i obliczeniach. Pracują zarówno wewnątrz obiektów, jak i na zewnątrz.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Czytasz plany i sprawdzasz obliczenia",
+   "Stawiasz scenę i miejsca dla widzów",
+   "Montujesz konstrukcje pod sprzęt sceniczny",
+   "Rozbierasz wszystko po zakończeniu imprezy"
+  ]
+ },
+ {
+  "id": 1155,
+  "name": "Monter namiotów",
+  "desc": "Monterzy namiotów ustawiają i demontują tymczasowe zadaszenia, namioty oraz namioty cyrkowe wraz z towarzyszącymi im kwaterami koniecznymi w trakcie imprez i występów. Ich praca opiera się na instrukcjach, planach i obliczeniach. Pracują głównie na zewnątrz i mogą korzystać z pomocy lokalnej załogi.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Czytasz plan i rozkładasz elementy",
+   "Stawiasz konstrukcję i naciągasz płótno",
+   "Mocujesz namiot, żeby stał stabilnie",
+   "Rozbierasz namiot i pakujesz elementy"
+  ]
+ },
+ {
+  "id": 1156,
+  "name": "Nadzorca wiertni",
+  "desc": "Nadzorcy wiertni sprawują nadzór nad pracami związanymi z olinowaniem. Zarządzają pracownikami, którzy obsługują sprzęt dźwigowy i olinowanie, oraz koordynują działania w tym zakresie. Organizują codzienną pracę.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Rozdzielasz zadania w ekipie",
+   "Koordynujesz pracę przy sprzęcie dźwigowym",
+   "Nadzorujesz prace związane z olinowaniem",
+   "Planujesz pracę na kolejne dni"
+  ]
+ },
+ {
+  "id": 1157,
+  "name": "Blacharz budowlany",
+  "desc": "Blacharze budowlani w budownictwie wykorzystują arkusze blachy metalowej do budowy dachów, przewodów ogrzewania, wentylacji i klimatyzacji, rynien i innych konstrukcji metalowych. Odczytują plany i określają rodzaj i ilość materiałów, które mają być użyte, a następnie mierzą, gną, tną, formują i mocują arkusze blachy metalowej w celu stworzenia wymaganej konstrukcji.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Odczytujesz plan i liczysz materiał",
+   "Mierzysz i tniesz arkusze blachy",
+   "Gniesz blachę w odpowiedni kształt",
+   "Mocujesz gotowe elementy na budynku"
+  ]
+ },
+ {
+  "id": 1158,
+  "name": "Budowniczy kotłów",
+  "desc": "Budowniczowie kotłów wykorzystują różne urządzenia i maszyny w celu budowy kotłów wodnych i parowych oraz wymiany ich orurowania, wytwarzając je na wszystkich etapach procesu produkcji. Wykonują cięcie, żłobienie oraz formowanie blach metalowych i rur w celu uzyskania odpowiednich wymiarów, wykorzystując palniki tlenowo-acetylenowe, montują je za pomocą spawania elektrodami otulonymi, spawania MIG/MAG lub spawania metodą TIG i wykańczają je przy użyciu odpowiednich obrabiarek, elektronarzędzi i powłok.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Tniesz i formujesz blachy oraz rury",
+   "Wypalasz i żłobisz metal palnikiem",
+   "Spawasz elementy kotła różnymi metodami",
+   "Wykańczasz gotowy kocioł obrabiarkami i powłoką"
+  ]
+ },
+ {
+  "id": 1159,
+  "name": "Monter zbiorników",
+  "desc": "Monterzy zbiorników wytwarzają zbiorniki, takie jak kotły lub zbiorniki ciśnieniowe. Odczytują schematy i rysunki techniczne umożliwiające montaż części oraz instalację orurowania i armatury.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Czytasz rysunki techniczne i schematy",
+   "Składasz części zbiornika w całość",
+   "Instalujesz orurowanie i armaturę",
+   "Sprawdzasz, czy wymiary zgadzają się z rysunkiem"
+  ]
+ },
+ {
+  "id": 1160,
+  "name": "Specjalista obróbki metali nieżelaznych",
+  "desc": "Specjaliści obróbki metali nieżelaznych tworzą i naprawiają przedmioty wykonane z metali nieżelaznych, takich jak miedź, mosiądz oraz inne podobne materiały. Nadają kształt i formę surowcom, tworząc przedmioty o charakterze praktycznym lub artystycznym, z wykorzystaniem narzędzi kowalskich. Profesjonalni specjaliści obróbki metali nieżelaznych tworzą złożone i wysoce wyspecjalizowane technicznie urządzenia, wykorzystując w tym celu odpowiednie techniki kowalskie.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Nadajesz metalowi kształt narzędziami kowalskimi",
+   "Naprawiasz uszkodzone miedziane i mosiężne przedmioty",
+   "Wybierasz metal i planujesz kształt wyrobu",
+   "Wykonujesz złożone, wyspecjalizowane urządzenia"
+  ]
+ },
+ {
+  "id": 1161,
+  "name": "Odlewnik",
+  "desc": "Odlewnicy wytwarzają odlewy, w tym rury, przewody, profile drążone i inne produkty wstępnej obróbki stali, przez obsługę sprzętu sterowanego ręcznie w odlewni. Prowadzą przepływ roztopionych metali żelaznych i nieżelaznych do form, starając się stworzyć odpowiednie okoliczności w celu uzyskania najwyższej jakości metalu. Obserwują przepływ metalu w celu wykrycia wad. W przypadku powstania wady powiadamiają upoważniony personel i biorą udział w usunięciu tej wady.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Obsługujesz ręcznie sterowany sprzęt odlewni",
+   "Kierujesz roztopiony metal do form",
+   "Obserwujesz przepływ metalu",
+   "Zgłaszasz wady i pomagasz je usunąć"
+  ]
+ },
+ {
+  "id": 1162,
+  "name": "Odlewnik rdzeni",
+  "desc": "Odlewnicy rdzeni wytwarzają rdzenie do form metalowych, które są używane do wypełnienia przestrzeni w formie, która musi pozostać niewypełniona w trakcie wykonywania odlewu. Wykorzystują drewno, tworzywa sztuczne lub inne materiały do stworzenia rdzenia, dobrane w taki sposób, aby wytrzymały skrajne warunki, jakim poddawana jest forma metalowa.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Wykonujesz rdzenie do form metalowych",
+   "Wybierasz drewno, tworzywo lub inny materiał",
+   "Dopasowujesz rdzeń do kształtu formy",
+   "Sprawdzasz, czy rdzeń wytrzyma warunki odlewania"
+  ]
+ },
+ {
+  "id": 1163,
+  "name": "Odlewnik wyrobów metalowych",
+  "desc": "Odlewnicy wyrobów metalowych wytwarzają odlewy, w tym rury, przewody, profile drążone i inne produkty wstępnej obróbki stali, przez obsługę sprzętu sterowanego ręcznie w odlewni. Prowadzą przepływ roztopionych metali żelaznych i nieżelaznych do form, starając się stworzyć odpowiednie okoliczności w celu uzyskania najwyższej jakości metalu. Obserwują przepływ metalu w celu wykrycia wad. W przypadku powstania wady powiadamiają upoważniony personel i biorą udział w usunięciu tej wady.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Odlewasz rury i profile drążone",
+   "Prowadzisz stopiony metal żelazny i nieżelazny",
+   "Szukasz wad w odlanym metalu",
+   "Powiadamiasz upoważniony personel o wadzie"
+  ]
+ },
+ {
+  "id": 1164,
+  "name": "Specjalista ds. przygotowania mas formierskich i rdzeniowych",
+  "desc": "Specjaliści ds. przygotowania mas formierskich i rdzeniowych tworzą formy do produkcji wyrobów metalowych. Mieszają piasek i materiały utwardzające w celu uzyskania specjalistycznej mieszaniny. Następnie używają wzorca i rdzenia lub rdzeni, aby uzyskać odcisk o odpowiednim kształcie w materiale. Następnie uformowany materiał jest pozostawiany do zastygnięcia, aby użyć go później jako formę do produkcji odlewów z metali żelaznych i nieżelaznych.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Mieszasz piasek z materiałami utwardzającymi",
+   "Odciskasz wzorzec w masie formierskiej",
+   "Używasz rdzeni do uzyskania kształtu",
+   "Zostawiasz formę do zastygnięcia"
+  ]
+ },
+ {
+  "id": 1165,
+  "name": "Murarz-zbrojarz",
+  "desc": "Murarze-zbrojarze w budownictwie instalują elementy żelazne w konstrukcjach. Tworzą stalowe konstrukcje wsporcze budynków, mostów i w ramach innych projektów budowlanych. Instalują metalowe pręty lub zbrojenie w celu wzmocnienia betonu.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Czytasz plany zbrojenia",
+   "Instalujesz metalowe pręty wzmacniające beton",
+   "Montujesz stalowe konstrukcje wsporcze",
+   "Sprawdzasz, czy zbrojenie leży według planu"
+  ]
+ },
+ {
+  "id": 1166,
+  "name": "Nitowacz",
+  "desc": "Nitowacze łączą ze sobą kilka części metalowych za pomocą pistoletów do nitowania, zestawu do nitowania oraz młotów lub przez zastosowanie maszyny do nitowania, z których wszystkie wykonują otwory na trzonie nitu części metalowych oraz wsuwają nity, śruby do tych otworów w celu połączenia ich ze sobą.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Wykonujesz otwory w łączonych częściach",
+   "Wsuwasz nity lub śruby w otwory",
+   "Nitujesz pistoletem, zestawem lub maszyną",
+   "Sprawdzasz, czy elementy trzymają się mocno"
+  ]
+ },
+ {
+  "id": 1167,
+  "name": "Pracownik robót demontażowych",
+  "desc": "Pracownicy robót demontażowych przeprowadzają demontaż urządzeń przemysłowych, maszyn i budynków zgodnie z instrukcjami kierownika zespołu. W zależności od zadania wykorzystują maszyny ciężkie i różne elektronarzędzia. Zawsze uwzględnia się przepisy dotyczące bezpieczeństwa.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Rozbierasz maszyny i urządzenia przemysłowe",
+   "Obsługujesz maszyny ciężkie przy rozbiórce",
+   "Używasz elektronarzędzi do rozcinania konstrukcji",
+   "Wykonujesz polecenia kierownika zespołu"
+  ]
+ },
+ {
+  "id": 1168,
+  "name": "Szkutnik",
+  "desc": "Szkutnicy budują i naprawiają małe jednostki pływające, od jednostek rekreacyjnych do okrętów wojennych. Przygotowują wstępne szkice i tworzą wzorce. Korzystają z narzędzi ręcznych i elektronarzędzi w celu samodzielnego wybudowania mniejszych łodzi lub nadzorowania zespołu budowniczych statków. Budują również kołyski i pochylnie konieczne w trakcie budowy, transportu, wodowania i zsuwania statków. W zależności od statku, mogą wykorzystywać w pracy różne materiały, takie jak metal, drewno, włókno szklane, aluminium itp.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Rysujesz wstępne szkice i wzorce",
+   "Budujesz kadłuby z drewna lub włókna",
+   "Naprawiasz uszkodzone jednostki pływające",
+   "Robisz kołyski i pochylnie do wodowania"
+  ]
+ },
+ {
+  "id": 1169,
+  "name": "Elektromechanik",
+  "desc": "Elektromechanicy instalują, naprawiają i konserwują mechaniczne i elektryczne części maszyn, narzędzi i urządzeń. Testują oni części elektryczne w celu zapewnienia ich efektywności i wprowadzają odpowiednie ulepszenia.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Instalujesz części maszyn i urządzeń",
+   "Naprawiasz usterki mechaniczne i elektryczne",
+   "Testujesz części elektryczne pod kątem sprawności",
+   "Wprowadzasz ulepszenia w urządzeniach"
+  ]
+ },
+ {
+  "id": 1170,
+  "name": "Elektromechanik sprzętu gospodarstwa domowego",
+  "desc": "Elektromechanicy sprzętu gospodarstwa domowego używają urządzeń elektrycznych do pomiaru napięcia lub oporności oraz do identyfikacji awarii urządzeń. Naprawiają oni małe i duże urządzenia domowe urządzenia elektryczne lub gazowe, takie jak odkurzacze, pralki, zmywarki do naczyń, klimatyzatory i lodówki.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Mierzysz napięcie i oporność w urządzeniu",
+   "Rozpoznajesz awarię pralki, lodówki lub zmywarki",
+   "Demontujesz sprzęt i wymieniasz wadliwą część",
+   "Naprawiasz urządzenia elektryczne i gazowe"
+  ]
+ },
+ {
+  "id": 1171,
+  "name": "Elektromonter okrętowy",
+  "desc": "Elektromonterzy okrętowi instalują, konserwują i naprawiają instalacje elektryczne i elektroniczne w statkach, takie jak klimatyzacja, lampy, radioodbiorniki, systemy grzewcze, akumulatory, przewody elektryczne i alternatory. Używają oni sprzętu diagnostycznego w celu kontroli statków i znajdowania usterek. Naprawy wykonują przy użyciu narzędzi ręcznych oraz specjalistycznych instrumentów i maszyn elektrycznych.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Instalujesz oświetlenie i przewody na statku",
+   "Naprawiasz klimatyzację i ogrzewanie okrętowe",
+   "Kontrolujesz statek sprzętem diagnostycznym",
+   "Wymieniasz akumulatory i podzespoły"
+  ]
+ },
+ {
+  "id": 1172,
+  "name": "Elektromonter taboru szynowego",
+  "desc": "Elektromonterzy taboru szynowego instalują, konserwują i naprawiają elektryczne i elektroniczne systemy w pojazdach szynowych, takie jak klimatyzacja, lampy, systemy grzewcze, okablowanie elektryczne itp. Używają sprzętu diagnostycznego do kontroli pojazdów i znajdowania usterek. Naprawy wykonują przy użyciu narzędzi ręcznych oraz specjalistycznych instrumentów i maszyn elektrycznych.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Naprawiasz okablowanie w pojazdach szynowych",
+   "Instalujesz oświetlenie i ogrzewanie wagonów",
+   "Znajdujesz usterki sprzętem diagnostycznym",
+   "Konserwujesz klimatyzację w składach"
+  ]
+ },
+ {
+  "id": 1173,
+  "name": "Elektromonter urządzeń dźwignicowych / konserwator urządzeń dźwignicowych",
+  "desc": "Elektromonterzy urządzeń dźwignicowych / konserwatorzy urządzeń dźwignicowych instalują windy w przygotowanych wcześniej szybach windowych. Instalują oni zespół wspornikowy, montują pompę lub silnik windy, tłok lub linę i mechanizm. Elektromonterzy urządzeń dźwignicowych / konserwatorzy urządzeń dźwignicowych łączą niezbędne elementy elektroniczne w celu zakończenia instalacji i podłączenia kabiny windowej. Wykonują również czynności niezbędne do przeprowadzenia inspekcji i napraw wind, jak również szybów i związanych z nimi urządzeń elektronicznych.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Montujesz wsporniki i prowadnice w szybie",
+   "Instalujesz silnik, linę i mechanizm windy",
+   "Podłączasz elementy elektroniczne i kabinę",
+   "Kontrolujesz i naprawiasz działające windy"
+  ]
+ },
+ {
+  "id": 1174,
+  "name": "Elektryk górniczy",
+  "desc": "Elektrycy górniczy instalują, konserwują i naprawiają specjalistyczne elektryczne urządzenia górnicze, wykorzystując swoją znajomość zasad elektrycznych. Monitorują oni również zasilanie w kopalniach.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Instalujesz urządzenia elektryczne w kopalni",
+   "Konserwujesz specjalistyczny sprzęt górniczy",
+   "Naprawiasz uszkodzone instalacje",
+   "Monitorujesz zasilanie w kopalni"
+  ]
+ },
+ {
+  "id": 1175,
+  "name": "Mechanik sprzętu ciężkiego",
+  "desc": "Mechanicy sprzętu ciężkiego identyfikują wady i naprawiają narzędzia zasilane energią elektryczną, takie jak wiertarki, pilarki łańcuchowe, kosiarki do trawników i szlifierki. Demontują, testują i wymieniają wadliwe części narzędzi. Mechanicy sprzętu ciężkiego doradzają klientom w zakresie produktów i metod konserwacji urządzeń. Mogą sprzedawać takie produkty.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Szukasz wady w wiertarce lub pilarce",
+   "Rozbierasz i testujesz narzędzia",
+   "Wymieniasz wadliwe części narzędzi",
+   "Doradzasz klientom w konserwacji sprzętu"
+  ]
+ },
+ {
+  "id": 1176,
+  "name": "Pracownik obsługi lotniczego oświetlenia naziemnego",
+  "desc": "Pracownicy obsługi lotniczego oświetlenia naziemnego przeprowadzają kontrolę i obsługę techniczną systemów oświetleniowych portów lotniczych. Rejestrują swoje ustalenia i określają działania, które należy podjąć.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Kontrolujesz oświetlenie dróg startowych",
+   "Konserwujesz systemy świetlne lotniska",
+   "Rejestrujesz wyniki kontroli",
+   "Określasz potrzebne działania naprawcze"
+  ]
+ },
+ {
+  "id": 1177,
+  "name": "Technik konserwator urządzeń parku rozrywki",
+  "desc": "Technicy konserwatorzy urządzeń parku rozrywki konserwują i naprawiają wyposażenie parków rozrywki. Potrzebują oni rozległej wiedzy technicznej i dysponują specjalistyczną wiedzą w zakresie konserwacji urządzeń, za które są odpowiedzialni. Technicy konserwatorzy urządzeń parku rozrywki zazwyczaj prowadzą rejestry wykonanych prac konserwacyjnych i napraw oraz czasu pracy i przestojów poszczególnych serwisowanych urządzeń. Dbałość o bezpieczeństwu jest szczególnie ważna w przypadku konserwacji i napraw wyposażenia parku rozrywki.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Konserwujesz urządzenia atrakcji",
+   "Naprawiasz uszkodzone elementy karuzel",
+   "Prowadzisz rejestr napraw i przestojów",
+   "Sprawdzasz bezpieczeństwo przed otwarciem parku"
+  ]
+ },
+ {
+  "id": 1178,
+  "name": "Technik obsługi akumulatorów samochodowych",
+  "desc": "Technicy obsługi akumulatorów samochodowych montują, instalują, kontrolują, konserwują i naprawiają akumulatory w pojazdach silnikowych. Używają oni urządzeń do testów elektrycznych w celu potwierdzenia poprawnego funkcjonowania po instalacji. Oceniają akumulatory w celu określenia charakteru problemów związanych z zasilaniem. Przygotowują również stare akumulatory do usunięcia.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Montujesz akumulatory w samochodach",
+   "Testujesz akumulator przyrządem elektrycznym",
+   "Oceniasz, skąd bierze się problem z zasilaniem",
+   "Przygotowujesz stare akumulatory do usunięcia"
+  ]
+ },
+ {
+  "id": 1179,
+  "name": "Elektromechanik elektrycznych przyrządów pomiarowych",
+  "desc": "Elektromechanicy elektrycznych przyrządów pomiarowych instalują i konserwują systemy liczników prądu w obiektach lub budynkach. Instalują oni urządzenia zgodnie z przepisami prawa, dokonują napraw i rozwiązują inne problemy. Testują urządzenia i doradzają w zakresie korzystania z niego i jego konserwacji.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Instalujesz liczniki prądu w budynkach",
+   "Testujesz poprawność działania urządzeń",
+   "Naprawiasz usterki liczników",
+   "Doradzasz, jak korzystać z urządzenia"
+  ]
+ },
+ {
+  "id": 1180,
+  "name": "Elektryk budowlany",
+  "desc": "Elektrycy budowlani instalują i konserwują przewody elektryczne oraz pozostałą infrastrukturę elektryczną w budynkach. Kontrolują oni, czy zainstalowany sprzęt elektryczny jest zaizolowany i nie stanowi zagrożenia pożarowego. Znają oni stan aktualny i wprowadzają ulepszenia na żądanie.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Układasz przewody w ścianach budynku",
+   "Instalujesz gniazdka i rozdzielnie",
+   "Kontrolujesz izolację i bezpieczeństwo pożarowe",
+   "Wprowadzasz zmiany na życzenie klienta"
+  ]
+ },
+ {
+  "id": 1181,
+  "name": "Elektryk instalacji domowych i sprzętu gospodarstwa domowego",
+  "desc": "Elektrycy instalacji domowych i sprzętu gospodarstwa domowego instalują i konserwują infrastrukturę elektryczną oraz sprzęt gospodarstwa domowego w domach i innych budynkach mieszkalnych. W celu zapewnienia skuteczności przeprowadzają oni kontrole i naprawy wadliwych części.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Naprawiasz instalacje w mieszkaniach i domach",
+   "Wymieniasz wadliwe części sprzętu domowego",
+   "Sprawdzasz, czy naprawione urządzenie działa skutecznie",
+   "Instalujesz sprzęt domowy u klientów"
+  ]
+ },
+ {
+  "id": 1182,
+  "name": "Elektryk obsługi imprez okolicznościowych",
+  "desc": "Elektrycy obsługi imprez okolicznościowych montują i demontują tymczasowe, niezawodne instalacje elektryczne do obsługi imprez. Pracują oni w miejscach, w których nie ma dostępu do sieci energetycznej, a także w miejscach, w których dostęp do sieci nie jest stały. Ich praca opiera się na instrukcjach, planach i obliczeniach. Pracują oni zarówno w pomieszczeniach zamkniętych, jak i na wolnym powietrzu. Współpracują ściśle z personelem technicznym i operatorami.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Montujesz tymczasowe instalacje na imprezy",
+   "Zasilasz scenę tam, gdzie nie ma sieci",
+   "Liczysz obciążenia według planów",
+   "Demontujesz instalację po zakończeniu imprezy"
+  ]
+ },
+ {
+  "id": 1183,
+  "name": "Elektryk przemysłowy",
+  "desc": "Elektrycy przemysłowi instalują i konserwują przewody elektryczne oraz pozostałą infrastrukturę elektryczną w dużych budynkach przemysłowych i handlowych. W celu zapewnienia skuteczności przeprowadzają oni kontrole i naprawy wadliwych części instalacji elektrycznych.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Prowadzisz przewody w halach produkcyjnych",
+   "Konserwujesz instalacje w centrach handlowych",
+   "Kontrolujesz instalację po awarii zasilania",
+   "Wymieniasz wadliwe części w rozdzielni"
+  ]
+ },
+ {
+  "id": 1184,
+  "name": "Elektromonter linii kablowych",
+  "desc": "Elektromonterzy linii kablowych budują oraz konserwują przewody zasilające i sterujące w podziemnych rurach i rowach. Wytwarzają oni również i naprawiają przewody elektryczne łączące odbiorców z siecią elektryczną.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Układasz kable w rurach i rowach",
+   "Konserwujesz podziemne przewody zasilające",
+   "Naprawiasz uszkodzone kable",
+   "Podłączasz odbiorców do sieci elektrycznej"
+  ]
+ },
+ {
+  "id": 1185,
+  "name": "Elektryk – konserwator oświetlenia ulicznego",
+  "desc": "Elektrycy – konserwatorzy oświetlenia ulicznego budują i utrzymują instalacje służące do przesyłu i dystrybucji energii elektrycznej zasilającej oświetlenie uliczne. Konserwują oni, testują i naprawiają oświetlenie uliczne zgodnie z przepisami bezpieczeństwa.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Budujesz instalacje zasilające lampy uliczne",
+   "Testujesz oświetlenie uliczne",
+   "Naprawiasz zepsute oprawy i przewody",
+   "Konserwujesz oświetlenie według przepisów bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 1186,
+  "name": "Monter linii elektrycznych",
+  "desc": "Monterzy linii elektrycznych budują i konserwują instalacje służące do przesyłu i dystrybucji energii elektrycznej. Utrzymują oni i naprawiają linie energetyczne zgodne z przepisami bezpieczeństwa.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Budujesz instalacje przesyłowe i dystrybucyjne",
+   "Konserwujesz linie energetyczne",
+   "Naprawiasz uszkodzone odcinki linii",
+   "Pracujesz według przepisów bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 1187,
+  "name": "Monter napowietrznych linii elektroenergetycznych",
+  "desc": "Monterzy napowietrznych linii elektroenergetycznych budują i konserwują zasilające i sterujące przewody napowietrznych linii energetycznych. Wytwarzają oni również i naprawiają przewody elektryczne łączące odbiorców z siecią elektryczną.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Montujesz przewody zasilające na słupach",
+   "Naprawiasz napowietrzne przewody po awarii",
+   "Konserwujesz przewody sterujące linii",
+   "Podłączasz odbiorców do sieci"
+  ]
+ },
+ {
+  "id": 1188,
+  "name": "Technik urządzeń przenośnych",
+  "desc": "Technicy urządzeń przenośnych przeprowadzają odpowiednią diagnostykę błędów w celu poprawy jakości urządzeń przenośnych i ich naprawy. Dostarczają oni informacji dotyczących szeregu usług, w tym gwarancji i serwisu posprzedażnego.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Diagnozujesz błędy w urządzeniach przenośnych",
+   "Naprawiasz uszkodzone urządzenia",
+   "Poprawiasz jakość działania sprzętu",
+   "Informujesz o gwarancji i serwisie"
+  ]
+ },
+ {
+  "id": 1189,
+  "name": "Instalator systemów alarmowych",
+  "desc": "Instalatorzy systemów alarmowych instalują i konserwują systemy alarmowe chroniące przed zagrożeniami takimi jak pożary i włamania. Instalują oni czujniki i systemy sterujące oraz, w razie konieczności, łączą je z liniami energetycznymi i telekomunikacyjnymi. Instalatorzy systemów alarmowych wyjaśniają potencjalnym użytkownikom sposób korzystania z zainstalowanych urządzeń.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Instalujesz czujniki włamania i pożaru",
+   "Podłączasz systemy sterujące do zasilania",
+   "Łączysz alarmy z liniami telekomunikacyjnymi",
+   "Pokazujesz użytkownikom obsługę systemu"
+  ]
+ },
+ {
+  "id": 1190,
+  "name": "Konserwator infrastruktury telekomunikacyjnej",
+  "desc": "Konserwatorzy infrastruktury telekomunikacyjnej instalują, naprawiają, obsługują i konserwują infrastrukturę systemów komunikacyjnych.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Instalujesz infrastrukturę systemów łączności",
+   "Naprawiasz uszkodzone elementy sieci",
+   "Konserwujesz urządzenia obsługujące łączność",
+   "Szukasz przyczyny przerwy w łączności"
+  ]
+ },
+ {
+  "id": 1191,
+  "name": "Konserwator sprzętu telekomunikacyjnego",
+  "desc": "Konserwatorzy sprzętu telekomunikacyjnego naprawiają, instalują lub konserwują mobilne lub stacjonarne radiowe urządzenia nadawcze, emisyjne i odbiorcze oraz systemy dwukierunkowej łączności radiowej (telekomunikacja komórkowa, mobilne usługi szerokopasmowe, łączność statku z lądem i samolotu z ziemią, urządzenia radiowe znajdujące się w pojazdach użytkowych i ratunkowych). Zajmują się oni również wieżami komunikacyjnymi, antenami, wzmacniaczami i złączkami. Mogą oni testować i analizować zasięg sieci.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Instalujesz anteny, wzmacniacze i złączki",
+   "Naprawiasz radiowe urządzenia nadawcze",
+   "Konserwujesz sprzęt na wieżach komunikacyjnych",
+   "Testujesz i analizujesz zasięg sieci"
+  ]
+ },
+ {
+  "id": 1192,
+  "name": "Technik systemów telekomunikacyjnych",
+  "desc": "Technicy systemów telekomunikacyjnych instalują, testują, konserwują i naprawiają systemy telekomunikacyjne. Naprawiają oni lub wymieniają wadliwe urządzenia i sprzęt oraz utrzymują bezpieczne środowisko pracy i prowadzą pełny wykaz materiałów. Zapewniają również pomoc użytkownikom lub klientom.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Instalujesz systemy telekomunikacyjne",
+   "Testujesz łączność po instalacji",
+   "Wymieniasz wadliwe urządzenia",
+   "Prowadzisz wykaz materiałów i pomagasz klientom"
+  ]
+ },
+ {
+  "id": 1193,
+  "name": "Technik urządzeń radiowych",
+  "desc": "Technicy urządzeń radiowych instalują, regulują, testują, konserwują i naprawiają przenośne lub stacjonarne radiowe systemy nadawcze i odbiorcze oraz systemy dwukierunkowej łączności radiowej. Monitorują oni również ich skuteczność i ustalają przyczyny występowania błędów.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Instalujesz i regulujesz systemy radiowe",
+   "Testujesz radiostacje i urządzenia nadawcze",
+   "Monitorujesz skuteczność łączności radiowej",
+   "Ustalasz przyczyny błędów w transmisji"
+  ]
+ },
+ {
+  "id": 1194,
+  "name": "Elektromechanik urządzeń sterowania ruchem kolejowym",
+  "desc": "Elektromechanicy urządzeń sterowania ruchem kolejowym są odpowiedzialni za instalację, kontrolę, testowanie i konserwację systemów sterowania pociągami, łączności radiowej, radarów, urządzeń elektronicznych i elektromagnetycznych.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Instalujesz urządzenia sterowania pociągami",
+   "Testujesz systemy łączności radiowej",
+   "Konserwujesz urządzenia elektroniczne i elektromagnetyczne",
+   "Kontrolujesz działanie radarów przy torach"
+  ]
+ },
+ {
+  "id": 1195,
+  "name": "Elektronik okrętowy",
+  "desc": "Elektronicy okrętowi rozmieszczają, instalują i naprawiają elektroniczne systemy i sprzęt na statkach. Montują oni elementy elektroniczne i przewody zgodnie ze schematami i rysunkami montażowymi.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Rozmieszczasz sprzęt elektroniczny na statku",
+   "Montujesz elementy według schematów",
+   "Podłączasz przewody według rysunków",
+   "Naprawiasz systemy elektroniczne na pokładzie"
+  ]
+ },
+ {
+  "id": 1196,
+  "name": "Instalator elektroniki samochodowej",
+  "desc": "Instalatorzy elektroniki samochodowej instalują w pojazdach silnikowych urządzenia i akcesoria takie jak odtwarzacze CD i GPS. Używają oni elektrycznych wiertarek i routerów do instalacji i kontroli nieprawidłowo działających urządzeń elektronicznych.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Instalujesz odtwarzacze i nawigacje w autach",
+   "Wiercisz otwory i prowadzisz przewody",
+   "Kontrolujesz nieprawidłowo działające urządzenia",
+   "Montujesz akcesoria zgodnie z życzeniem klienta"
+  ]
+ },
+ {
+  "id": 1197,
+  "name": "Monter – konserwator urządzeń biurowych",
+  "desc": "Monterzy – konserwatorzy urządzeń biurowych świadczą przedsiębiorstwom usługi w zakresie instalacji, konserwacji i naprawy nowych lub już używanych urządzeń, takich jak drukarki, skanery i modemy, w obiektach klientów. Prowadzą oni ewidencję wykonanych usług i, w razie potrzeby, sprzętu wracającego do serwisu.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Instalujesz drukarki i skanery w firmach",
+   "Konserwujesz urządzenia biurowe",
+   "Naprawiasz modemy i inny sprzęt",
+   "Prowadzisz ewidencję wykonanych usług"
+  ]
+ },
+ {
+  "id": 1198,
+  "name": "Technik awionik",
+  "desc": "Technicy awionicy instalują, testują, kontrolują i regulują sprzęt elektryczny i elektroniczny, taki jak systemy nawigacji, łączności i sterowania lotem, w samolotach i statkach kosmicznych. Wykonują prace konserwacyjne i naprawy. Przeprowadzają testy funkcjonowania, diagnozują problemy i podejmują działania naprawcze.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Instalujesz systemy nawigacji i łączności",
+   "Testujesz sprzęt elektroniczny samolotu",
+   "Diagnozujesz problemy w sterowaniu lotem",
+   "Regulujesz i naprawiasz urządzenia pokładowe"
+  ]
+ },
+ {
+  "id": 1199,
+  "name": "Technik konserwator bankomatów",
+  "desc": "Technicy konserwatorzy bankomatów instalują, diagnozują, konserwują i naprawiają bankomaty. Przemieszczają się oni do klienta, aby świadczyć swoje usługi. Technicy konserwatorzy bankomatów używają narzędzi ręcznych i oprogramowania do naprawy nieprawidłowo działających bankomatów.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Diagnozujesz usterkę bankomatu",
+   "Wymieniasz zepsute podzespoły",
+   "Konserwujesz urządzenie podczas przeglądu",
+   "Jeździsz do klientów z narzędziami"
+  ]
+ }
+]

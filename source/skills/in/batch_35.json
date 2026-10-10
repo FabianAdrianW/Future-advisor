@@ -1,0 +1,722 @@
+[
+ {
+  "id": 2100,
+  "name": "Geofizyk",
+  "desc": "Geofizycy badają cechy fizyczne ziemi i stosują fizyczne pomiary w sytuacjach geologicznych. W celu zidentyfikowania struktury i składu ziemi geofizycy stosują zasadę grawitacji, aktywności sejsmicznej i elektromagnetyczności.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Mierzysz grawitację i drgania gruntu",
+   "Używasz fal do prześwietlania warstw ziemi",
+   "Rysujesz przekroje budowy podziemnej",
+   "Ustalasz skład i strukturę pod ziemią"
+  ]
+ },
+ {
+  "id": 2101,
+  "name": "Mineralog",
+  "desc": "Mineralodzy badają skład, strukturę i inne fizyczne aspekty ziemi. Analizują oni różne minerały i wykorzystują sprzęt naukowy do określania ich struktury i właściwości. Ich praca koncentruje się głównie na klasyfikacji i identyfikacji minerałów poprzez pobieranie próbek i przeprowadzanie dalszych testów, analiz i badań.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Pobierasz i przygotowujesz próbki minerałów",
+   "Określasz budowę i właściwości minerałów",
+   "Klasyfikujesz i nazywasz znalezione okazy",
+   "Opisujesz wyniki testów w raportach"
+  ]
+ },
+ {
+  "id": 2102,
+  "name": "Chemik ds. rozwoju",
+  "desc": "Chemicy ds. rozwoju opracowują produkty chemiczne zgodnie z potrzebami i oczekiwaniami klientów. Prowadzą oni rozwój receptur i procesów formułowania, a także ocenę skuteczności i wydajności receptur.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Opracowujesz receptury produktów",
+   "Dopracowujesz proces ich przygotowania",
+   "Testujesz skuteczność każdej receptury",
+   "Dostosowujesz skład do oczekiwań klienta"
+  ]
+ },
+ {
+  "id": 2103,
+  "name": "Chemik kosmetolog",
+  "desc": "Chemicy kosmetolodzy opracowują receptury w celu tworzenia i testowania nowych produktów kosmetycznych oraz ulepszania istniejących, takich jak perfumy i substancje zapachowe, szminki, wodoodporne płyny i przybory do makijażu, farby do włosów, mydła i detergenty o specjalnych właściwościach, aktualne leki lub suplementy zdrowotne.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Opracowujesz receptury kosmetyków",
+   "Testujesz trwałość, zapach i konsystencję",
+   "Poprawiasz istniejące produkty",
+   "Sprawdzasz właściwości mydeł i detergentów"
+  ]
+ },
+ {
+  "id": 2104,
+  "name": "Chemik medyczny",
+  "desc": "Chemicy medyczni badają i opisują skład chemiczny substancji. Ponadto wyciągają oni wnioski związane z zachowaniem takich substancji w różnych warunkach.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Opisujesz skład chemiczny substancji",
+   "Badasz ich zachowanie w różnych warunkach",
+   "Wyciągasz wnioski z wyników badań",
+   "Dokumentujesz eksperymenty w laboratorium"
+  ]
+ },
+ {
+  "id": 2105,
+  "name": "Inżynier chemii włókienniczej",
+  "desc": "Inżynierowie chemii włókienniczej koordynują i nadzorują procesy chemiczne w odniesieniu do wyrobów włókienniczych, takich jak przędza i tkaniny formujące takie jak barwienie i wykończenie.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Nadzorujesz barwienie przędzy i tkanin",
+   "Kontrolujesz wykończenie materiałów",
+   "Koordynujesz procesy chemiczne w produkcji",
+   "Sprawdzasz zgodność koloru i trwałości"
+  ]
+ },
+ {
+  "id": 2106,
+  "name": "Perfumiarz",
+  "desc": "Perfumiarze rozwijają i ulepszają substancje zapachowe poprzez formułowanie, testowanie i analizowanie substancji zapachowych i ich składników, tak aby produkt końcowy spełniał oczekiwania i potrzeby klientów.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Komponujesz mieszanki zapachowe z wielu składników",
+   "Wąchasz i oceniasz próbki",
+   "Poprawiasz recepturę po testach",
+   "Dopasowujesz zapach do życzeń klienta"
+  ]
+ },
+ {
+  "id": 2107,
+  "name": "Specjalista ds. analizy składu chemicznego metali",
+  "desc": "Specjaliści ds. analizy składu chemicznego metali są odpowiedzialni za szybką analizę na miejscu wycinków do badań ze stali, otrzymanych z zakładu produkcji metalu, w celu dokonania w odpowiednim czasie korekt składu chemicznego płynnego metalu.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Odbierasz próbki stali prosto z wytopu",
+   "Szybko analizujesz ich skład chemiczny",
+   "Przekazujesz wynik do operatorów pieca",
+   "Podpowiadasz, jak skorygować skład metalu"
+  ]
+ },
+ {
+  "id": 2108,
+  "name": "Specjalista ds. analiz sensorycznych",
+  "desc": "Specjaliści ds. analiz sensorycznych przeprowadzają analizę sensoryczną w celu tworzenia lub ulepszania smaków i zapachów dla przemysłu spożywczego, napojów i kosmetycznego. Rozwój smaku i zapachu opierają na badaniach sensorycznych i konsumenckich. Specjaliści ds. analiz sensorycznych prowadzą badania i analizują dane statystyczne w celu spełnienia oczekiwań klientów.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Organizujesz testy smaku i zapachu z uczestnikami",
+   "Zbierasz oceny konsumentów",
+   "Analizujesz wyniki statystycznie",
+   "Pomagasz poprawiać smak i zapach produktów"
+  ]
+ },
+ {
+  "id": 2109,
+  "name": "Klimatolog",
+  "desc": "Klimatolodzy studiują średnią zmianę pogody i klimatu w perspektywie długoterminowej. Badają i analizują historyczne warunki pogodowe w celu przewidywania zmian warunków klimatycznych, takich jak zmiany temperatury, globalne ocieplenie lub regionalne niekorzystne warunki pogodowe. Wykorzystują te ustalenia dotyczące doradztwa w zakresie polityki ochrony środowiska, budownictwa, projektów rolnych i kwestii społecznych.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Analizujesz dane pogodowe z wielu lat",
+   "Wykrywasz trendy zmian temperatury",
+   "Przewidujesz przyszłe zmiany klimatu",
+   "Doradzasz rolnikom, budowniczym i urzędom"
+  ]
+ },
+ {
+  "id": 2110,
+  "name": "Meteorolog lotniczy",
+  "desc": "Meteorolodzy lotniczy prognozują warunki pogodowe w portach lotniczych. Zapewniają codzienne, godzinowe obserwacje, analizy, prognozy, ostrzeżenia i doradztwo dla pilotów, operatorów portów lotniczych i linii lotniczych w kwestii meteorologicznej. Zgłaszają warunki pogodowe oczekiwane w portach lotniczych, warunki bieżące oraz prognozy trasowe.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Obserwujesz warunki pogodowe na lotnisku",
+   "Przygotowujesz godzinowe prognozy i ostrzeżenia",
+   "Przekazujesz komunikaty pilotom i liniom lotniczym",
+   "Prognozujesz pogodę na trasach lotów"
+  ]
+ },
+ {
+  "id": 2111,
+  "name": "Synoptyk",
+  "desc": "Synoptycy gromadzą dane meteorologiczne. Przewidują pogodę według tych danych. Synoptycy przedstawiają te prognozy odbiorcom za pośrednictwem radia, telewizji lub online.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Zbierasz i oglądasz dane meteorologiczne",
+   "Tworzysz prognozę dla widzów i słuchaczy",
+   "Przygotowujesz mapy pogody do emisji",
+   "Przedstawiasz prognozę przed kamerą lub mikrofonem"
+  ]
+ },
+ {
+  "id": 2112,
+  "name": "Metrolog",
+  "desc": "Metrolodzy studiują i praktykują naukę pomiaru. Opracowują systemy ilościowe, jednostki miar i metody pomiaru, które należy stosować w nauce. Metrolodzy ustanawiają nowe metody i narzędzia służące do ilościowego określenia i lepszego zrozumienia informacji.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Opracowujesz metody pomiaru",
+   "Tworzysz i utrzymujesz wzorce jednostek",
+   "Szacujesz dokładność i niepewność pomiaru",
+   "Ulepszasz narzędzia do pomiarów"
+  ]
+ },
+ {
+  "id": 2113,
+  "name": "Kosmolog",
+  "desc": "Kosmolodzy koncentrują się na badaniu wszechświata jako całości, na który składają się jego pochodzenie, zmiany i ostateczny los. Wykorzystują narzędzia i przyrządy naukowe do obserwacji i badania innych galaktyk oraz obiektów astronomicznych, takich jak gwiazdy, czarne dziury, planety i inne ciała niebieskie.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Analizujesz obserwacje odległych galaktyk",
+   "Badasz czarne dziury i ewolucję gwiazd",
+   "Budujesz modele powstania wszechświata",
+   "Sprawdzasz hipotezy o jego przyszłości"
+  ]
+ },
+ {
+  "id": 2114,
+  "name": "Analityk zanieczyszczeń powietrza",
+  "desc": "Analitycy zanieczyszczeń powietrza przeprowadzają badania w terenie i w laboratorium w celu zbadania zanieczyszczenia powietrza na różnych obszarach. Określają również źródła zanieczyszczeń.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Pobierasz próbki powietrza w terenie",
+   "Badasz je w laboratorium",
+   "Określasz źródła zanieczyszczeń",
+   "Porównujesz poziomy w różnych dzielnicach"
+  ]
+ },
+ {
+  "id": 2115,
+  "name": "Technik ds. monitorowania wód gruntowych",
+  "desc": "Technicy ds. monitorowania wód gruntowych monitorują środowisko, gromadząc dane w formie próbek i wykonując badania w laboratorium lub w terenie, w celu zbadania potencjalnych źródeł zanieczyszczeń. Wykonują również zadania w zakresie obsługi technicznej urządzeń monitorujących.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Pobierasz próbki wód gruntowych ze studni",
+   "Badasz je w terenie i w laboratorium",
+   "Szukasz źródeł zanieczyszczenia",
+   "Konserwujesz urządzenia pomiarowe"
+  ]
+ },
+ {
+  "id": 2116,
+  "name": "Technik ochrony środowiska",
+  "desc": "Technicy ochrony środowiska badają źródła zanieczyszczeń i pomagają w opracowywaniu planów zapobiegania zanieczyszczeniom i ochrony przed nimi. Pobierają próbki gleby, wody lub innych materiałów i przeprowadzają testy w celu zbadania poziomu zanieczyszczenia i określenia jego źródła.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Pobierasz próbki gleby i wody",
+   "Badasz poziom zanieczyszczenia",
+   "Ustalasz źródło skażenia",
+   "Pomagasz tworzyć plany ochrony środowiska"
+  ]
+ },
+ {
+  "id": 2117,
+  "name": "Specjalista ds. chromatografii",
+  "desc": "Specjaliści ds. chromatografii stosują odpowiednie techniki chromatografii (takie jak techniki gazowe, ciekłe lub wymiany jonowej) do oznaczania i analizy związków chemicznych w próbkach. Dokonują kalibracji i konserwacji aparatury do chromatografii i przygotowują sprzęt i roztwory. Specjaliści ds. chromatografii mogą również opracowywać i stosować nowe metody chromatografii odpowiednio do próbek i związków chemicznych, które wymagają analizy.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Rozdzielasz próbki na składniki",
+   "Kalibrujesz aparaturę do chromatografii",
+   "Przygotowujesz roztwory i sprzęt",
+   "Opracowujesz nowe metody dla trudnych próbek"
+  ]
+ },
+ {
+  "id": 2118,
+  "name": "Analityk żywności",
+  "desc": "Analitycy żywności wykonują ustandaryzowane badania w celu określenia cech chemicznych, fizycznych lub mikrobiologicznych produktów przeznaczonych do spożycia przez ludzi.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Badasz skład chemiczny produktów spożywczych",
+   "Sprawdzasz zawartość drobnoustrojów",
+   "Mierzysz cechy fizyczne jedzenia",
+   "Wykonujesz badania według norm"
+  ]
+ },
+ {
+  "id": 2119,
+  "name": "Technik analityk wyrobów skórzanych",
+  "desc": "Technicy analitycy wyrobów skórzanych wykonują i przekazują analizy chemiczne i fizyczne badania skór. Wykonują i przekazują również analizy chemiczne substancji pomocniczych, emisji zanieczyszczeń do środowiska i zrzutów ścieków. Dbają o prowadzenie badań zgodnie z odpowiednimi normami krajowymi, międzynarodowymi lub właściwymi dla klienta.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Wykonujesz chemiczne i fizyczne badania skór",
+   "Analizujesz substancje używane w garbarni",
+   "Sprawdzasz ścieki i emisje zanieczyszczeń",
+   "Przygotowujesz raporty zgodne z normami"
+  ]
+ },
+ {
+  "id": 2120,
+  "name": "Technik ds. analiz gleby",
+  "desc": "Technicy ds. analiz gleby prowadzą analizy gleby poprzez wykonywanie badań technicznych z zastosowaniem technik badania gleby. Skupiają się na procesie klasyfikowania rodzajów gleby i innych właściwości gleby. Technicy ds. analiz gleby korzystają ze sprzętu badawczego i programów do pobierania i interpretacji odpowiednich danych, a także przeprowadzają potrzebne obliczenia.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Pobierasz próbki gleby",
+   "Klasyfikujesz rodzaje gleby",
+   "Mierzysz jej właściwości sprzętem badawczym",
+   "Wykonujesz obliczenia i interpretujesz dane"
+  ]
+ },
+ {
+  "id": 2121,
+  "name": "Technik ds. ochrony przed promieniowaniem",
+  "desc": "Technicy ds. ochrony przed promieniowaniem monitorują poziomy promieniowania w budynkach i obiektach w celu zapewnienia zgodności z normami ochrony zdrowia i bezpieczeństwa oraz zapobiegają niebezpiecznym skokom poziomu promieniowania. Stosują środki mające na celu zminimalizowanie emisji promieniowania oraz zapobieganie dalszemu skażeniu w razie skażenia promieniotwórczego, poprzez opracowanie planów ochrony przed promieniowaniem, zwłaszcza w odniesieniu do elektrowni i obiektów jądrowych.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Mierzysz poziomy promieniowania w obiektach",
+   "Sprawdzasz zgodność z normami bezpieczeństwa",
+   "Opracowujesz plany ochrony przed promieniowaniem",
+   "Ograniczasz skażenie w razie awarii"
+  ]
+ },
+ {
+  "id": 2122,
+  "name": "Technik ds. teledetekcji",
+  "desc": "Technicy ds. teledetekcji gromadzą dane pokładowe. Wykorzystują sprzęt przeznaczony do gromadzenie danych i określania punktów geograficznych, żeby ułatwiać różne działania, np. ochronę gruntów, planowanie przestrzenne obszarów miejskich i operacje wojskowe.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Zbierasz dane z powietrza i kosmosu",
+   "Określasz położenie geograficzne punktów",
+   "Obsługujesz sprzęt do teledetekcji",
+   "Przygotowujesz dane do planowania przestrzennego"
+  ]
+ },
+ {
+  "id": 2123,
+  "name": "Technik ds. testowania materiałów",
+  "desc": "Technicy ds. testowania materiałów wykonują różne badania materiałów, takich jak gleby, beton, kamień i asfalt, w celu sprawdzenia zgodności planowanych przypadków użycia ze specyfikacjami.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Pobierasz próbki betonu, kamienia i asfaltu",
+   "Badasz wytrzymałość materiałów",
+   "Porównujesz wyniki ze specyfikacją",
+   "Raportujesz, czy materiał nadaje się do użycia"
+  ]
+ },
+ {
+  "id": 2124,
+  "name": "Technik fizyk",
+  "desc": "Technicy fizycy monitorują procesy fizyczne i przeprowadzają badania w celach produkcyjnych, edukacyjnych lub naukowych. Pracują w laboratoriach, szkołach lub zakładach produkcyjnych, wspomagając fizyków. Technicy fizycy wykonują zadania techniczne lub praktyczne oraz składają sprawozdania na temat wyników pracy.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Przygotowujesz stanowiska do doświadczeń",
+   "Obsługujesz aparaturę pomiarową",
+   "Wykonujesz pomiary zjawisk fizycznych",
+   "Opisujesz wyniki w sprawozdaniach"
+  ]
+ },
+ {
+  "id": 2125,
+  "name": "Technik geolog",
+  "desc": "Technicy geolodzy pomagają we wszystkich działaniach prowadzonych przez geologów. Pod nadzorem geologów zbierają materiały, prowadzą badania i badają próbki pobrane z ziemi w celu przedstawienia analizy w ramach projektu i celu. Technicy geolodzy pomagają określić wartość terenu przeznaczonego na poszukiwanie ropy naftowej lub gazu. Wykonują różne zadania techniczne, w tym pobierają próbki podczas badań geochemicznych, pracują na terenach wiertniczych i uczestniczą w badaniach geofizycznych i geologicznych.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Zbierasz próbki z ziemi w terenie",
+   "Pracujesz na terenach wiertniczych",
+   "Uczestniczysz w badaniach geofizycznych",
+   "Opisujesz próbki pod nadzorem geologa"
+  ]
+ },
+ {
+  "id": 2126,
+  "name": "Technik hydrolog",
+  "desc": "Technicy hydrolodzy prowadzą działania oceanograficzne i pomiarowe w środowiskach morskich. Pomagają inspektorom hydrograficznym, wykorzystując specjalistyczne wyposażenie do mapowania i badania topografii podwodnej i morfologii wód. Pomagają w instalowaniu i wprowadzaniu sprzętu hydrograficznego i badawczego oraz składają sprawozdania na temat efektów pracy.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Mapujesz dno i podwodny teren",
+   "Instalujesz sprzęt hydrograficzny na statku",
+   "Prowadzisz pomiary w środowisku morskim",
+   "Przygotowujesz sprawozdania z pomiarów"
+  ]
+ },
+ {
+  "id": 2127,
+  "name": "Technik meteorolog",
+  "desc": "Technicy meteorolodzy zbierają duże ilości danych meteorologicznych dla użytkowników informacji meteorologicznych, takich jak przedsiębiorstwa lotnicze i instytucje meteorologiczne. Stosują specjalistyczne narzędzia pomiarowe w celu dokładnego prognozowania pogody i przekazywania swoich obserwacji. Technicy meteorolodzy pomagają meteorologom w działaniach naukowych.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Zbierasz dane z przyrządów pogodowych",
+   "Obsługujesz specjalistyczne narzędzia pomiarowe",
+   "Przekazujesz obserwacje meteorologom",
+   "Pomagasz w pracach naukowych nad pogodą"
+  ]
+ },
+ {
+  "id": 2128,
+  "name": "Technik metrolog",
+  "desc": "Technicy metrolodzy stosują swoją wiedzę praktyczną w zakresie metrologii w celu kalibracji przyrządów pomiarowych, aparatury badawczej i analizy uzyskanych wyników. Dbają, aby oceniany sprzęt spełniał wymogi w zakresie precyzji, skuteczności i dokładności. Składają sprawozdania z efektów pracy i doradzają w kwestiach technicznych dotyczących przyrządów pomiarowych.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Kalibrujesz przyrządy pomiarowe",
+   "Porównujesz je ze wzorcami",
+   "Sprawdzasz precyzję i dokładność sprzętu",
+   "Doradzasz w sprawie doboru przyrządów"
+  ]
+ },
+ {
+  "id": 2129,
+  "name": "Technik nukleonik",
+  "desc": "Technicy nukleonicy pomagają fizykom i inżynierom w laboratoriach i elektrowniach jądrowych. Monitorują procedury w celu zapewnienia bezpieczeństwa i kontroli jakości oraz dbają o wyposażenie. Odpowiadają również za obsługę i kontrolę sprzętu jądrowego i mierzą poziom promieniowania w celu zapewnienia bezpieczeństwa.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Obsługujesz sprzęt jądrowy",
+   "Mierzysz poziom promieniowania",
+   "Przestrzegasz procedur bezpieczeństwa",
+   "Pomagasz fizykom i inżynierom"
+  ]
+ },
+ {
+  "id": 2130,
+  "name": "Specjalista w dziedzinie biometrii",
+  "desc": "Specjaliści w dziedzinie biometrii prowadzą badania w dziedzinie biometrii. Prowadzą statystyczne lub biologiczne projekty badawcze poprzez pomiar odcisków palców, siatkówki i postaci ludzkich do zastosowań medycznych lub przemysłowych.",
+  "path": "Nauki ścisłe > Matematycy i statystycy",
+  "tasks": [
+   "Mierzysz cechy ciała, na przykład odciski palców",
+   "Planujesz badania statystyczne i biologiczne",
+   "Analizujesz dane z pomiarów",
+   "Oceniasz dokładność metod rozpoznawania"
+  ]
+ },
+ {
+  "id": 2131,
+  "name": "Aktuariusz",
+  "desc": "Aktuariusze analizują, zarządzają i udzielają wskazówek dotyczących skutków finansowych ryzyka. Mogą pracować w dziedzinach związanych z ubezpieczeniami, emeryturami, inwestycjami, bankami, opieką zdrowotną itd. Aktuariusze stosują modele techniczne i statystyczne oraz teorie w zakresie doradztwa strategicznego, komercyjnego i finansowego.",
+  "path": "Nauki ścisłe > Matematycy i statystycy",
+  "tasks": [
+   "Budujesz modele statystyczne ryzyka",
+   "Analizujesz dane o szkodach i zdarzeniach",
+   "Wyliczasz ceny ubezpieczeń i rezerwy",
+   "Tłumaczysz wyniki osobom spoza branży"
+  ]
+ },
+ {
+  "id": 2132,
+  "name": "Demograf",
+  "desc": "Demografowie badają różne parametry związane z populacją. Na podstawie swoich obserwacji opracowują analizy statystyczne dotyczące ewolucji i zmian stanu urodzeń, osób starszych, małżeństw i rozwodów, zatrudnienia, śmiertelności, imigracji i powiązanych zagadnień.",
+  "path": "Nauki ścisłe > Matematycy i statystycy",
+  "tasks": [
+   "Zbierasz dane o urodzeniach i zgonach",
+   "Liczysz prognozy liczby ludności",
+   "Badasz migracje, małżeństwa i zatrudnienie",
+   "Piszesz raporty dla urzędów i naukowców"
+  ]
+ },
+ {
+  "id": 2133,
+  "name": "Specjalista ds. jakości gier hazardowych, zakładów i loterii",
+  "desc": "Specjaliści ds. jakości gier hazardowych, zakładów i loterii projektują i planują metody testowania gier hazardowych, loterii lub zakładów. Wykonują oni testy. Gry te mogą być zarówno publiczne, jak i prywatne, a badania dotyczą zarówno gier online, jak i stacjonarnych.",
+  "path": "Nauki ścisłe > Matematycy i statystycy",
+  "tasks": [
+   "Planujesz scenariusze testów gier",
+   "Uruchamiasz tysiące testowych rozgrywek",
+   "Sprawdzasz, czy losowanie jest uczciwe",
+   "Zgłaszasz błędy twórcom gry"
+  ]
+ },
+ {
+  "id": 2134,
+  "name": "Twórca gier hazardowych, zakładów i loterii",
+  "desc": "Twórcy gier hazardowych, zakładów i loterii tworzą, rozwijają i produkują treści dla nowych loterii i podobnych gier dla szerokiej publiczności.",
+  "path": "Nauki ścisłe > Matematycy i statystycy",
+  "tasks": [
+   "Wymyślasz zasady nowej gry losowej",
+   "Projektujesz oprawę i ekran gry",
+   "Liczysz szanse na wygraną",
+   "Dopasowujesz grę do przepisów"
+  ]
+ },
+ {
+  "id": 2135,
+  "name": "Kierownik ochrony placówki hotelarskiej",
+  "desc": "Kierownicy ochrony placówki hotelarskiej są odpowiedzialni za zarządzanie całym procesem i wdrażanie środków bezpieczeństwa w placówce hotelarskiej, zarówno w zakresie bezpieczeństwa rzeczy, jak i bezpieczeństwa osobistego i bezpieczeństwa budynków.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Układasz grafik pracy ochroniarzy",
+   "Oglądasz nagrania z kamer po zgłoszeniu",
+   "Ustalasz procedury na wypadek alarmu",
+   "Szkolisz pracowników hotelu z reagowania na zagrożenia"
+  ]
+ },
+ {
+  "id": 2136,
+  "name": "Konsultant ds. bezpieczeństwa",
+  "desc": "Konsultanci ds. bezpieczeństwa świadczą usługi w zakresie bezpieczeństwa na rzecz klientów i osób fizycznych umożliwiające zapobieganie, planowanie i łagodzenie zagrożeń, takich jak terroryzm, szpiegostwo, kradzież i przemoc w stosunku do ich organizacji, w tym w budynkach oraz w odniesieniu do prowadzonej działalności i pracowników. Świadczone przez nich usługi są uzależnione od potrzeb i wymogów klientów w zakresie bezpieczeństwa i mogą obejmować analizę zagrożeń, zarządzanie ryzykiem w bezpieczeństwie oraz utworzenie programu ochrony.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Analizujesz zagrożenia dla klienta",
+   "Oglądasz budynki i szukasz luk",
+   "Oceniasz ryzyko i wskazujesz priorytety",
+   "Układasz program ochrony dla firmy"
+  ]
+ },
+ {
+  "id": 2137,
+  "name": "Konwojent",
+  "desc": "Konwojenci zapewniają bezpieczny transport cennych przedmiotów, takich jak gotówka, np. między sklepami a bankami. DO ich obowiązków należy załadunek i wyładunek pojazdu, obsługa dokumentacji dotyczącej przekazania, dostarczenie przedmiotów we właściwe miejsce i szybkie reagowanie na rabunki zgodnie z obowiązującym protokołem bezpieczeństwa. Mogą również używać broni i prowadzić opancerzony samochód.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Ładujesz i rozładowujesz worki z gotówką",
+   "Podpisujesz dokumenty przekazania",
+   "Pilnujesz otoczenia na trasie",
+   "Reagujesz na rabunek według procedury"
+  ]
+ },
+ {
+  "id": 2138,
+  "name": "Osoba nadzorująca pracowników ochrony osób i mienia",
+  "desc": "Osoby nadzorujące pracowników ochrony osób i mienia monitorują i nadzorują czynności wykonywane przez pracowników ochrony, którzy chronią nieruchomości przed aktami wandalizmu i kradzieżami. Wyznaczają obszary, które mają być regularnie patrolowane przez strażników, przekazują policji osoby, które złapano na bezprawnym wtargnięciu na teren prywatny oraz opracowują plany bezpieczeństwa i ćwiczenia w odniesieniu do budynków i pracowników pozostających pod ich nadzorem.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Wyznaczasz trasy patroli",
+   "Układasz grafik ochroniarzy",
+   "Odbierasz zgłoszenia o incydentach",
+   "Organizujesz ćwiczenia z ewakuacji"
+  ]
+ },
+ {
+  "id": 2139,
+  "name": "Porządkowy przy wejściu do lokalu",
+  "desc": "Porządkowi przy wejściu do lokali pilnują, aby osoby wchodzące do miejsc publicznych, takich jak bary, restauracje i sale koncertowe, były odpowiednie i nie stanowiły potencjalnych problemów. Egzekwują przepisy, sprawdzając, czy wszystkie osoby są w wieku uprawniającym do wejścia do baru, kierują tłumem i działaniami w sytuacjach nadzwyczajnych, sprawdzają, czy osoby są ubrane zgodnie z obowiązującym kodem ubioru oraz reagują w przypadku zachowań agresywnych i nadużyć.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Sprawdzasz dokumenty i wiek gości",
+   "Pilnujesz kodu ubioru i regulaminu",
+   "Uspokajasz kłótnie rozmową",
+   "Wyprowadzasz agresywne osoby z lokalu"
+  ]
+ },
+ {
+  "id": 2140,
+  "name": "Porządkowy/porządkowa",
+  "desc": "Porządkowi/porządkowe stale monitorują zachowanie tłumu podczas określonych wydarzeń, takich jak publiczne przemówienia, imprezy sportowe lub koncerty, w celu zapobiegania incydentom i szybkiego reagowania na nie. Kontrolują wejście na teren obiektu, monitorują zachowanie tłumu, reagują w przypadku zachowań agresywnych i prowadzą ewakuacje w nagłych przypadkach.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Kontrolujesz bilety i wejścia",
+   "Obserwujesz zachowanie tłumu",
+   "Reagujesz na bójki i zasłabnięcia",
+   "Prowadzisz ludzi do wyjść podczas ewakuacji"
+  ]
+ },
+ {
+  "id": 2141,
+  "name": "Pracownik ochrony obsługujący bramki elektromagnetyczne",
+  "desc": "Pracownicy ochrony obsługujący bramki elektromagnetyczne kontrolują dostęp i wyjście z budynków, magazynów lub innego rodzaju nieruchomości, aby zapobiec obecności osób nieupoważnionych i niepożądanym zdarzeniom. Zapobiegają kradzieżom i identyfikują kradzież mienia przedsiębiorstwa, prowadzą czynności dochodzeniowe w przypadku podejrzanych działań i sporządzają sprawozdania. Pracownicy ochrony obsługujący bramki elektromagnetyczne mogą pomagać pracownikom lub gościom w przekazywaniu próśb i wskazań. Korzystają z przenośnych radiotelefonów do komunikacji i obsługi systemów alarmowych i komputerów.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Kontrolujesz wejścia i wyjścia ludzi",
+   "Reagujesz na sygnał z bramki",
+   "Spisujesz zdarzenia w raporcie",
+   "Łączysz się przez radio z kolegami z ochrony"
+  ]
+ },
+ {
+  "id": 2142,
+  "name": "Pracownik ochrony osobistej",
+  "desc": "Pracownicy ochrony osobistej zapewniają swoim klientom ochronę przed obrażeniami, atakami i molestowaniem. Towarzyszą politykom i innym osobom biorącym udział w różnych wydarzeniach i zgromadzeniach. Pracownicy ochrony osobistej obserwują otoczenie, przewidują zagrożenia i reagują na zagrożenia bezpieczeństwa. Mogą nosić ze sobą broń i jej używać.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Sprawdzasz miejsce przed przyjazdem klienta",
+   "Obserwujesz tłum i otoczenie",
+   "Planujesz trasy i drogi ucieczki",
+   "Osłaniasz klienta przy zagrożeniu"
+  ]
+ },
+ {
+  "id": 2143,
+  "name": "Pracownik służby ochrony lotniska",
+  "desc": "Pracownicy służby ochrony lotniska kontaktują się z pasażerami w celu zapewnienia płynnego ruchu pasażerów między poszczególnymi strefami lotniska zgodnie z przepisami w zakresie bezpieczeństwa. Przeprowadzają rewizje pasażerów oraz sprawdzają ich dokumenty tożsamości i bagaż w celu zapewnienia bezpieczeństwa i zapobiegania niedozwolonym działaniom.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Sprawdzasz dokumenty pasażerów",
+   "Oglądasz bagaż na ekranie skanera",
+   "Przeszukujesz pasażerów przy bramce",
+   "Tłumaczysz, czego nie wolno przewozić"
+  ]
+ },
+ {
+  "id": 2144,
+  "name": "Specjalista ds. systemów alarmowych",
+  "desc": "Specjaliści ds. systemów alarmowych reagują na sygnały alarmu przeciwwłamaniowego i badają zakłócenia zidentyfikowane przez system alarmowy u klientów. Monitorują alarmy bezpieczeństwa i inne urządzenia monitorujące oraz kontaktują się z policją w przypadku bezprawnego wkroczenia na teren prywatny klienta.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Monitorujesz sygnały alarmowe z obiektów",
+   "Sprawdzasz przyczynę alarmu",
+   "Dzwonisz do klienta lub policji",
+   "Zapisujesz każde zdarzenie w rejestrze"
+  ]
+ },
+ {
+  "id": 2145,
+  "name": "Dzielnicowy",
+  "desc": "Dzielnicowi patrolują wyznaczone obszary, aby zapewnić mieszkańcom poczucie bezpieczeństwa oraz udzielają ogólnego wsparcia. Monitorują podejrzane zachowania i współpracują z policją i innymi instytucjami lokalnymi w celu utrzymania bezpieczeństwa i dobrostanu ludności oraz egzekwują prawo, a w razie konieczności nakładają kary.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Patrolujesz swój rejon pieszo",
+   "Rozmawiasz z mieszkańcami o problemach",
+   "Reagujesz na zakłócanie porządku",
+   "Współpracujesz z policją i urzędem gminy"
+  ]
+ },
+ {
+  "id": 2146,
+  "name": "Funkcjonariusz straży przybrzeżnej",
+  "desc": "Funkcjonariusze straży przybrzeżnej patrolują i kontrolują wybrzeża i obszary morskie w celu zapobiegania wypadkom oraz przeprowadzają misje poszukiwawcze i ratownicze w sytuacjach nagłych. Reagują na zgłoszenia alarmowe, doradzają w sprawie procedur bezpieczeństwa oraz zapobiegają wypadkom i nielegalnej działalności na morzu. Funkcjonariusze straży przybrzeżnej prowadzą dochodzenie w zakresie działalności żeglugowej i udzielają pomocy podczas incydentów związanych z zanieczyszczeniem wód morskich i na wypadek powodzi.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Patrolujesz wody i brzeg łodzią",
+   "Prowadzisz akcje poszukiwawcze i ratunkowe",
+   "Kontrolujesz statki i rybaków",
+   "Reagujesz na rozlewy i zanieczyszczenia"
+  ]
+ },
+ {
+  "id": 2147,
+  "name": "Koordynator ruchu lotniczego naziemnego",
+  "desc": "Koordynatorzy ruchu lotniczego naziemnego dają sygnały pilotom, aby pomóc im w wykonywaniu takich operacji, jak skręcanie, spowalnianie, zatrzymywanie i wyłączenie silników. Prowadzą samoloty na płytę postojową lub na pas startowy. Wskazują również pilotom kierunek ruchu, prowadząc samochód „follow me”.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Dajesz pilotom sygnały rękami",
+   "Prowadzisz samolot na stanowisko postojowe",
+   "Pokazujesz moment wyłączenia silników",
+   "Kierujesz samolot samochodem prowadzącym"
+  ]
+ },
+ {
+  "id": 2148,
+  "name": "Pracownik ekip awaryjnych",
+  "desc": "Pracownicy ekip awaryjnych pracują na misjach pomocowych w sytuacjach nadzwyczajnych i kryzysowych, takich jak klęski żywiołowe lub wycieki ropy naftowej. Usuwają pozostałości lub odpady powstałe w wyniku zdarzenia, dbają, aby osoby dotknięte katastrofą uzyskały schronienie, zapobiegają dalszym szkodom oraz przewożą towary, takie jak żywność i artykuły medyczne.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Usuwasz gruz i pozostałości po zdarzeniu",
+   "Zabezpieczasz teren przed dalszymi szkodami",
+   "Zapewniasz poszkodowanym schronienie",
+   "Rozwozisz żywność i artykuły medyczne"
+  ]
+ },
+ {
+  "id": 2149,
+  "name": "Strażnik ruchu drogowego",
+  "desc": "Strażnicy ruchu drogowego kierują ruchem pieszych przechodzących przez jezdnię i skrzyżowania w miejscach publicznych, takich jak ulice w pobliżu szkół lub linii kolejowych, obserwując ruch uliczny i pokazując pojazdom znak „stop”, aby umożliwić pieszym przejście przez ulicę w bezpieczny i zorganizowany sposób.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Zatrzymujesz samochody znakiem stop",
+   "Przeprowadzasz pieszych przez jezdnię",
+   "Obserwujesz nadjeżdżające pojazdy",
+   "Pilnujesz, żeby dzieci szły razem"
+  ]
+ },
+ {
+  "id": 2150,
+  "name": "Operator sprzętu pożarniczego",
+  "desc": "Operatorzy sprzętu pożarniczego pomagają podczas operacji gaśniczych poprzez kontrolowanie pomp, które dostarczają wodę i inne substancje do gaszenia pożarów. Dbają, aby substancja została dostarczona w odpowiedniej ilości i pod właściwym ciśnieniem przez wąż pożarniczy.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Uruchamiasz pompę w wozie strażackim",
+   "Ustawiasz ciśnienie wody",
+   "Podłączasz węże do hydrantów",
+   "Pilnujesz zapasu wody i środków gaśniczych"
+  ]
+ },
+ {
+  "id": 2151,
+  "name": "Ratownik górniczy",
+  "desc": "Ratownicy górscy koordynują działania ratownicze w kopalniach i muszą być przeszkoleni do pracy pod ziemią. Stanowią pierwszą linię reagowania w sytuacjach kryzysowych.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Schodzisz do kopalni na akcje",
+   "Szukasz uwięzionych górników",
+   "Korzystasz ze sprzętu do oddychania",
+   "Ćwiczysz akcje ratunkowe w sztolni treningowej"
+  ]
+ },
+ {
+  "id": 2152,
+  "name": "Strażak ze specjalizacją przemysłową",
+  "desc": "Strażacy ze specjalizacją przemysłową są odpowiedzialni za reagowanie kryzysowe w przypadku pożaru lub innych niebezpiecznych sytuacji na obszarach lub w obiektach przemysłowych. Podejmują aktywne działania w celu opanowania ognia i niedopuszczenia do wybuchu innych niebezpiecznych substancji w celu ochrony brygad i obiektów przemysłowych. Zapewniają zgodność zakładu przemysłowego z przepisami w zakresie bezpieczeństwa i higieny pracy. Nadzorują również sprzątanie po pożarze i ocenę szkód.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Gasisz pożary w halach i zakładach",
+   "Zapobiegasz wybuchom niebezpiecznych substancji",
+   "Kontrolujesz zgodność zakładu z przepisami",
+   "Oceniasz szkody po pożarze"
+  ]
+ },
+ {
+  "id": 2153,
+  "name": "Strażak ze specjalizacją w ratownictwie wodnym",
+  "desc": "Strażacy ze specjalizacją w ratownictwie wodnym są odpowiedzialni za reagowanie kryzysowe w przypadku pożaru lub innych niebezpiecznych sytuacji w środowisku morskim. Podejmują aktywne działania w celu opanowania ognia i niedopuszczenia do wybuchu innych niebezpiecznych substancji na statkach, w dokach i innych obiektach morskich. Zapewniają zgodność instalacji morskich z przepisami w zakresie bezpieczeństwa i higieny pracy. Nadzorują również sprzątanie po pożarze i ocenę szkód.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Gasisz ogień na pokładzie statku",
+   "Pracujesz z łodzi gaśniczej",
+   "Sprawdzasz zabezpieczenia w porcie",
+   "Opisujesz szkody po akcji"
+  ]
+ },
+ {
+  "id": 2154,
+  "name": "Strażnik w zakładzie dla nieletnich",
+  "desc": "Strażnicy w zakładzie dla nieletnich monitorują i zapewniają bezpieczeństwo młodocianym przestępcom. Zapewniają oni bezpieczeństwo placówki zgodnie z regulaminem, sporządzają sprawozdania z codziennej działalności oraz w przypadku incydentów i zgłaszają nietypowe sytuacje. Sprawują również nadzór nad procedurami rehabilitacyjnymi przestępców.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Pilnujesz porządku w placówce",
+   "Nadzorujesz zajęcia i posiłki",
+   "Spisujesz raporty z dnia i incydentów",
+   "Wspierasz program resocjalizacji"
+  ]
+ },
+ {
+  "id": 2155,
+  "name": "Dowódca Marynarki Wojennej",
+  "desc": "Dowódcy Marynarki Wojennej zapewniają, że okręty wojenne są gotowe do włączenia w działania i są utrzymywane zgodnie z przepisami i regulacjami. Nadzorują również personel okrętowy i są odpowiedzialni za operacje morskie.",
+  "path": "Bezpieczeństwo i wojsko > Oficerowie",
+  "tasks": [
+   "Zatwierdzasz plany operacji morskich",
+   "Sprawdzasz gotowość okrętów do rejsu",
+   "Nadzorujesz oficerów i załogi",
+   "Raportujesz do dowództwa wojskowego"
+  ]
+ },
+ {
+  "id": 2156,
+  "name": "Dowódca eskadry",
+  "desc": "Dowódcy eskadry dowodzą eskadrą specjalizującą się w różnych działaniach, takich jak dywizjony samolotów, dywizjony działań naziemnych lub dywizjony opancerzonych wozów bojowych.",
+  "path": "Bezpieczeństwo i wojsko > Oficerowie",
+  "tasks": [
+   "Wydajesz rozkazy podległym oficerom",
+   "Planujesz zadania eskadry na tydzień",
+   "Kontrolujesz stan sprzętu i maszyn",
+   "Oceniasz gotowość i wyszkolenie żołnierzy"
+  ]
+ },
+ {
+  "id": 2157,
+  "name": "Generał",
+  "desc": "Generałowie dowodzą dużymi dywizjami armii. Wykonują oni obowiązki zarządcze, administracyjne oraz funkcje planowania i zadań strategicznych. Opracowują polityki mające na celu poprawę obrony wojskowej i ogólnej oraz zapewniają bezpieczeństwo narodowe.",
+  "path": "Bezpieczeństwo i wojsko > Oficerowie",
+  "tasks": [
+   "Opracowujesz strategie obronne kraju",
+   "Kierujesz dowództwem dużej dywizji",
+   "Doradzasz rządowi w sprawach obrony",
+   "Zatwierdzasz potrzeby sprzętowe wojska"
+  ]
+ },
+ {
+  "id": 2158,
+  "name": "Generał brygady",
+  "desc": "Generałowie brygady są dużymi jednostkami oddziałów zwanych brygadami, nadzorują planowanie strategiczne i taktyczne oraz monitorują operacje ich brygady. Zarządzają centralą jednostki brygady i zapewniają prawidłowe operacje podziału w bazie i w terenie.",
+  "path": "Bezpieczeństwo i wojsko > Oficerowie",
+  "tasks": [
+   "Planujesz działania całej brygady",
+   "Nadzorujesz sztab i dowódców batalionów",
+   "Kontrolujesz ćwiczenia w bazie i w terenie",
+   "Zatwierdzasz rozkazy na kolejne tygodnie"
+  ]
+ },
+ {
+  "id": 2159,
+  "name": "Kapitan",
+  "desc": "Kapitanowie udzielają pomocy w zakresie nadzoru nad dużymi jednostkami żołnierzy oraz zajmują się planowaniem i realizacją zadań strategicznych w ramach operacji taktycznych. Zapewniają oni również odpowiedni stan urządzeń i zapewniają wsparcie w zakresie kwestii logistycznych, jak również wsparcia podczas działań.",
+  "path": "Bezpieczeństwo i wojsko > Oficerowie",
+  "tasks": [
+   "Dowodzisz kompanią żołnierzy",
+   "Planujesz zadania szkoleniowe i bojowe",
+   "Sprawdzasz stan sprzętu",
+   "Organizujesz zaopatrzenie i logistykę"
+  ]
+ }
+]

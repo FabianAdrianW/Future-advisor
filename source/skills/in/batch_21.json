@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1260,
+  "name": "Dyrektor szkoły specjalnej",
+  "desc": "Dyrektorzy szkół specjalnych zarządzają codzienną działalnością szkół specjalnych. Nadzorują i wspierają pracowników, a także prowadzą badania i wprowadzają programy zapewniające niezbędną pomoc osobom niepełnosprawnym fizycznie, umysłowo lub w zakresie uczenia się. Mogą podejmować decyzje w sprawie rekrutacji, są odpowiedzialni za przestrzeganie standardów w zakresie programów nauczania i dbają o to, by szkoła spełniała krajowe wymogi w zakresie edukacji określone w przepisach prawa. Dyrektorzy szkół specjalnych zarządzają również budżetem szkoły i są odpowiedzialni za maksymalizację odbioru dotacji i grantów.",
+  "path": "Edukacja > Dyrektor szkoły",
+  "tasks": [
+   "Wspierasz nauczycieli i pracowników szkoły",
+   "Wprowadzasz programy pomocy dla uczniów",
+   "Starasz się o dotacje i granty",
+   "Zarządzasz budżetem i rekrutacją"
+  ]
+ },
+ {
+  "id": 1261,
+  "name": "Dyrektor szkoły średniej",
+  "desc": "Dyrektorzy szkół średnich są odpowiedzialni za przestrzeganie standardów z zakresie programów nauczania, które ułatwiają uczniom rozwój akademicki. Zarządzają personelem, ściśle współpracują z dyrektorami działów oraz oceniają nauczycieli w odpowiednim czasie, aby zapewnić optymalną efektywność na poziomie klasy. Zapewniają również, że szkoła odpowiada krajowym wymogom w zakresie edukacji i współpracują ze społecznościami lokalnymi i rządami. Mogą również pracować w szkołach zawodowych.",
+  "path": "Edukacja > Dyrektor szkoły",
+  "tasks": [
+   "Oceniasz lekcje i pracę nauczycieli",
+   "Współpracujesz z kierownikami zespołów przedmiotowych",
+   "Pilnujesz zgodności programu ze standardami",
+   "Rozmawiasz z lokalną społecznością i urzędami"
+  ]
+ },
+ {
+  "id": 1262,
+  "name": "Dziekan",
+  "desc": "Dziekani kierują i zarządzają zbiorem wydziałów akademickich oraz pracują z dyrektorem szkoły policealnej i różnymi kierownikami wydziałów w celu osiągnięcia uzgodnionych celów strategicznych na poziomie pomaturalnym i uniwersyteckim. Promują oni wydział w stowarzyszonych społecznościach i promują wydział na szczeblu krajowym, a także na arenie międzynarodowej. Dziekani skupiają się również na osiągnięciu celu zarządzania finansami wydziału.",
+  "path": "Edukacja > Dyrektor szkoły",
+  "tasks": [
+   "Ustalasz cele z kierownikami katedr",
+   "Pilnujesz finansów wydziału",
+   "Promujesz wydział w regionie i za granicą",
+   "Prowadzisz narady z władzami uczelni"
+  ]
+ },
+ {
+  "id": 1263,
+  "name": "Kierownik katedry uniwersyteckiej",
+  "desc": "Kierownicy katedr uniwersyteckich kierują departamentem swojej dziedziny, w której są liderami akademickimi i współpracują z dziekanami i innymi kierownikami departamentu w celu osiągnięcia uzgodnionych celów strategicznych na poziomie uniwersyteckim. Rozwijają i wspierają przywództwo akademickie w swoim departamencie oraz prowadzą działalność przedsiębiorczą w celach zarobkowych, ponieważ wspierają one reputację i interesy ich departamentu w ramach uniwersytetu oraz dla szerszej społeczności w swojej dziedzinie.",
+  "path": "Edukacja > Dyrektor szkoły",
+  "tasks": [
+   "Wyznaczasz kierunek badań katedry",
+   "Wspierasz pracowników katedry w karierze naukowej",
+   "Ustalasz cele z dziekanem",
+   "Szukasz zewnętrznych źródeł finansowania"
+  ]
+ },
+ {
+  "id": 1264,
+  "name": "Kierownik w szkole średniej",
+  "desc": "Kierownicy w szkołach średnich zarządzają i nadzorują swoje wyznaczone departamenty w celu zapewnienia, aby uczniowie otrzymali instrukcje i wsparcie w bezpiecznym środowisku edukacyjnym. Ściśle współpracują z dyrektorem szkoły średniej i pomagają pracownikom szkół oraz optymalizują komunikację między kadrą zarządzającą szkołą a nauczycielami, rodzicami oraz innymi powiatami i szkołami. Ułatwiają spotkania, opracowują i sprawdzają programy nauczania, obserwują personel, podczas gdy dyrektor deleguje zadania oraz ponoszą wspólną odpowiedzialność za zarządzanie zasobami finansowymi.",
+  "path": "Edukacja > Dyrektor szkoły",
+  "tasks": [
+   "Prowadzisz spotkania zespołu nauczycieli",
+   "Opracowujesz i sprawdzasz programy nauczania",
+   "Obserwujesz pracę nauczycieli",
+   "Przekazujesz informacje rodzicom i innym szkołom"
+  ]
+ },
+ {
+  "id": 1265,
+  "name": "Koordynator programu oświatowego",
+  "desc": "Koordynatorzy programu oświatowego nadzorują rozwój i wdrażanie programów edukacyjnych. Opracowują polityki promowania edukacji i zarządzania budżetem. Komunikują się z ośrodkami edukacyjnymi w celu analizowania problemów i badania rozwiązań.",
+  "path": "Edukacja > Dyrektor szkoły",
+  "tasks": [
+   "Nadzorujesz tworzenie i wdrażanie programów",
+   "Opracowujesz zasady promujące edukację",
+   "Układasz budżet programu",
+   "Rozmawiasz z ośrodkami o problemach"
+  ]
+ },
+ {
+  "id": 1266,
+  "name": "Rektor",
+  "desc": "Rektorzy zarządzają bieżącą działalnością instytucji szkolnictwa wyższego, takiej jak uniwersytet lub szkoła zawodowa. Rektorzy podejmują decyzje w sprawie naboru i są odpowiedzialni za przestrzeganie standardów programu nauczania, które ułatwiają studentom rozwój akademicki. Zarządzają pracownikami, budżetem szkoły, programami na terenie kampusu oraz nadzorują komunikację między departamentami. Zapewniają również, że instytucja spełnia ustanowione prawem krajowe wymogi w zakresie edukacji.",
+  "path": "Edukacja > Dyrektor szkoły",
+  "tasks": [
+   "Zarządzasz kadrą i budżetem uczelni",
+   "Podejmujesz decyzje o naborze studentów",
+   "Nadzorujesz standardy programów nauczania",
+   "Pilnujesz komunikacji między wydziałami"
+  ]
+ },
+ {
+  "id": 1267,
+  "name": "Zastępca dyrektora szkoły",
+  "desc": "Zastępcy dyrektorów szkół wspierają zarządzanie przez dyrektorów szkół i stanowią część kadry administracyjnej szkoły. Powiadamiają oni dyrektora o codziennej działalności i rozwoju szkoły. Wdrażają i podejmują działania następcze w odniesieniu do wytycznych szkolnych, polityk i programów nauczania oferowanych przez konkretnego dyrektora. Wprowadzają w życie protokół zarządu szkoły, nadzorują uczniów i utrzymują dyscyplinę.",
+  "path": "Edukacja > Dyrektor szkoły",
+  "tasks": [
+   "Informujesz dyrektora o bieżących sprawach",
+   "Wdrażasz zasady i programy ustalone przez dyrektora",
+   "Nadzorujesz uczniów na przerwach",
+   "Egzekwujesz regulamin szkoły i dyscyplinę"
+  ]
+ },
+ {
+  "id": 1268,
+  "name": "Nauczyciel w szkole Montessori/nauczycielka w szkole Montessori",
+  "desc": "Nauczyciele w szkole Montessori uczą uczniów, wykorzystując podejścia odzwierciedlające filozofię i zasady Montessori. Koncentrują się na modelu nauczania opartym na konstruktywizmie i „uczeniu się poprzez odkrywanie”, przez które zachęcają uczniów do nauki na podstawie bezpośrednich doświadczeń, a nie na podstawie bezpośredniej instrukcji, a tym samym zapewniają studentom stosunkowo wysoki poziom wolności. Trzymają się konkretnego programu nauczania, który jest zgodny z naturalnym, fizycznym, społecznym i psychologicznym rozwojem uczniów.",
+  "path": "Edukacja > Nauczyciele szkół podstawowych i przedszkoli",
+  "tasks": [
+   "Przygotowujesz materiały do samodzielnych doświadczeń",
+   "Obserwujesz, co dziecko wybiera i jak pracuje",
+   "Podpowiadasz tylko wtedy, gdy trzeba",
+   "Pilnujesz programu zgodnego z rozwojem dzieci"
+  ]
+ },
+ {
+  "id": 1269,
+  "name": "Nauczyciel w szkole freinetowskiej/nauczycielka w szkole freinetowskiej",
+  "desc": "Nauczyciele w szkole freinetowskiej uczą uczniów, korzystając z podejścia, które odzwierciedla filozofię i zasady freinetowskie. Koncentrują się oni na metodach nauki opartych na pytaniach, demokracji i współpracy. Trzymają się konkretnego programu nauczania, który obejmuje te metody uczenia się, za pomocą których uczniowie stosują metody prób i błędów w celu rozwijania własnych zainteresowań w kontekście demokratycznym i samorządowym.",
+  "path": "Edukacja > Nauczyciele szkół podstawowych i przedszkoli",
+  "tasks": [
+   "Zachęcasz uczniów do zadawania pytań",
+   "Prowadzisz klasowe głosowania nad zasadami",
+   "Pomagasz uczniom rozwijać własne zainteresowania",
+   "Organizujesz pracę w grupach nad wspólnym projektem"
+  ]
+ },
+ {
+  "id": 1270,
+  "name": "Nauczyciel w szkole waldorfskiej/nauczycielka w szkole waldorfskiej",
+  "desc": "Nauczyciele w szkole waldorfskiej uczą studentów, korzystając z podejść odzwierciedlających filozofię i zasady waldorfskie. Koncentrują się oni na praktycznych, bezpośrednich czynnościach w programie nauczania i konstruują swoje zajęcia w sposób, który kładzie nacisk na rozwój zdolności społecznych, kreatywnych i artystycznych uczniów. Nauczyciele w szkole waldorfskiej uczą uczniów podobnych przedmiotów jak w przypadku standardowej edukacji, przy zastosowaniu innego podejścia, z wyjątkiem większej liczby zajęć koncentrujących się na praktyce i teorii kreatywnej i artystycznej.",
+  "path": "Edukacja > Nauczyciele szkół podstawowych i przedszkoli",
+  "tasks": [
+   "Prowadzisz lekcje z elementami sztuki",
+   "Organizujesz zajęcia praktyczne z materiałami",
+   "Uczysz tych samych przedmiotów innymi metodami",
+   "Prowadzisz uczniów przez wspólne projekty artystyczne"
+  ]
+ },
+ {
+  "id": 1271,
+  "name": "Asystent nauczyciela dla dzieci o specjalnych potrzebach edukacyjnych",
+  "desc": "Asystenci nauczyciela dla dzieci o specjalnych potrzebach edukacyjnych pomagają nauczycielom dla dzieci o specjalnych potrzebach edukacyjnych w wykonywaniu ich obowiązków w klasie. Zajmują się potrzebami fizycznymi uczniów z różnymi niepełnosprawnościami i pomagają im w wykonywaniu zadań, takich jak wizyty w łazience, przejazdy autobusem, jedzenie i zmiana sal lekcyjnych. Zapewniają również wsparcie metodyczne uczniom, nauczycielom i rodzicom oraz przygotowują plany zajęć.",
+  "path": "Edukacja > Pomocnicy nauczycieli",
+  "tasks": [
+   "Pomagasz uczniom jeść i korzystać z toalety",
+   "Towarzyszysz im w drodze do sal i autobusu",
+   "Wspierasz ucznia w wykonywaniu zadań",
+   "Pomagasz przygotować plany zajęć"
+  ]
+ },
+ {
+  "id": 1272,
+  "name": "Asystent nauczyciela w przedszkolu",
+  "desc": "Asystenci nauczyciela w przedszkolu wspierają nauczycieli w przedszkolach i żłobkach. Udzielają pomocy w zakresie nauczania w klasie, nadzoru klasy pod nieobecność wychowawcy oraz w organizacji, opracowywaniu i realizacji planu lekcji. Asystenci nauczyciela w przedszkolu monitorują i pomagają grupom i indywidualnym uczniom, skupiając się w szczególności na uczniach potrzebujących dodatkowej opieki i uwagi, której nie jest im w stanie poświęcić nauczyciel przedszkola.",
+  "path": "Edukacja > Pomocnicy nauczycieli",
+  "tasks": [
+   "Przygotowujesz pomoce do zajęć",
+   "Pilnujesz grupy, gdy nauczyciel wychodzi",
+   "Pomagasz dzieciom, które wymagają uwagi",
+   "Pomagasz realizować plan lekcji"
+  ]
+ },
+ {
+  "id": 1273,
+  "name": "Asystent nauczyciela w szkole podstawowej",
+  "desc": "Asystenci nauczyciela w szkole podstawowej udzielają nauczycielom szkół podstawowych wsparcia metodycznego i praktycznego. Powtarzają wydane polecenia uczniom wymagającym dodatkowej uwagi i przygotowują materiały potrzebne nauczycielowi w klasie. Wykonują również pracę biurową, śledzą postępy w nauce i zachowania uczniów oraz nadzorują uczniów w obecności wychowawcy i pod jego nieobecność.",
+  "path": "Edukacja > Pomocnicy nauczycieli",
+  "tasks": [
+   "Powtarzasz polecenia uczniom, którzy ich nie zrozumieli",
+   "Przygotowujesz kartki i materiały na lekcję",
+   "Notujesz postępy i zachowanie uczniów",
+   "Wykonujesz prace biurowe dla nauczyciela"
+  ]
+ },
+ {
+  "id": 1274,
+  "name": "Asystent nauczyciela w szkole średniej",
+  "desc": "Asystenci nauczyciela w szkole średniej udzielają różnego rodzaju wparcia nauczycielom szkół średnich obejmującego wsparcie metodyczne i praktyczne. Pomagają w przygotowaniu potrzebnych materiałów do zajęć w klasie i powtarzają polecenia uczniom wymagającym dodatkowej uwagi. Wykonują również podstawowe zadania biurowe, śledzą postępy w nauce i zachowania uczniów oraz nadzorują uczniów w obecności nauczyciela i pod jego nieobecność.",
+  "path": "Edukacja > Pomocnicy nauczycieli",
+  "tasks": [
+   "Przygotowujesz materiały na lekcje",
+   "Tłumaczysz polecenia uczniowi, który się gubi",
+   "Śledzisz postępy w nauce i zachowanie",
+   "Zastępujesz nauczyciela przy pilnowaniu klasy"
+  ]
+ },
+ {
+  "id": 1275,
+  "name": "Budowniczy instrumentów klawiszowych",
+  "desc": "Budowniczowie instrumentów klawiszowych tworzą i składają części do tworzenia instrumentów klawiszowych zgodnie z określonymi instrukcjami lub schematami. Piaskują drewno, dostrajają, testują i sprawdzają gotowy instrument.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Czytasz schemat i planujesz elementy",
+   "Szlifujesz drewniane części papierem ściernym",
+   "Składasz klawiaturę i mechanizm instrumentu",
+   "Stroisz i testujesz gotowy instrument"
+  ]
+ },
+ {
+  "id": 1276,
+  "name": "Budowniczy klawesynów",
+  "desc": "Budowniczowie klawesynów tworzą i składają części do tworzenia klawesynów zgodnie z określonymi instrukcjami lub schematami. Piaskują drewno, dostrajają, testują i sprawdzają gotowy instrument.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Szlifujesz drewniane części korpusu",
+   "Składasz części według rysunków",
+   "Stroisz instrument i sprawdzasz brzmienie",
+   "Kontrolujesz gotowy klawesyn przed oddaniem"
+  ]
+ },
+ {
+  "id": 1277,
+  "name": "Budowniczy organów",
+  "desc": "Budowniczowie organów tworzą i składają części do tworzenia organów zgodnie z określonymi instrukcjami lub schematami. Piaskują drewno, dostrajają, testują i sprawdzają gotowy instrument.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Składasz piszczałki i elementy konstrukcji",
+   "Szlifujesz drewniane części",
+   "Stroisz każdą część instrumentu",
+   "Testujesz gotowe organy w pomieszczeniu"
+  ]
+ },
+ {
+  "id": 1278,
+  "name": "Monter fortepianów i pianin",
+  "desc": "Monterzy fortepianów i pianin tworzą i składają części do tworzenia fortepianów i pianin zgodnie z określonymi instrukcjami lub schematami. Piaskują drewno, dostrajają, testują i sprawdzają gotowy instrument.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Składasz części instrumentu według schematu",
+   "Szlifujesz drewniane elementy do gładkiej powierzchni",
+   "Dostrajasz struny do właściwej wysokości dźwięku",
+   "Testujesz każdy klawisz w gotowym instrumencie"
+  ]
+ },
+ {
+  "id": 1279,
+  "name": "Budowniczy gitar",
+  "desc": "Budowniczowie gitar tworzą i składają części do tworzenia gitar zgodnie z określonymi instrukcjami lub schematami. Obrabiają drewno, mierzą i mocują struny, testują jakość strun i sprawdzają gotowy instrument.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Obrabiasz drewno na korpus i gryf",
+   "Mierzysz i mocujesz struny",
+   "Sprawdzasz brzmienie każdej struny",
+   "Oglądasz gotową gitarę pod kątem wad"
+  ]
+ },
+ {
+  "id": 1280,
+  "name": "Budowniczy harf",
+  "desc": "Budowniczowie harf tworzą i składają części do tworzenia harf zgodnie z określonymi instrukcjami lub schematami. Piaskują drewno, mierzą i mocują struny, testują jakość strun i sprawdzają gotowy instrument.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Szlifujesz drewniane części ramy",
+   "Mierzysz i mocujesz wiele strun",
+   "Testujesz jakość każdej struny osobno",
+   "Sprawdzasz gotową harfę przed oddaniem"
+  ]
+ },
+ {
+  "id": 1281,
+  "name": "Budowniczy instrumentów strunowych",
+  "desc": "Budowniczowie instrumentów strunowych tworzą i składają części do tworzenia instrumentów strunowych zgodnie z określonymi instrukcjami lub schematami. Piaskują drewno, mierzą i mocują struny, testują jakość strun i sprawdzają gotowy instrument.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Wybierasz drewno i kształtujesz części instrumentu",
+   "Szlifujesz powierzchnie do gładkości",
+   "Mierzysz i mocujesz struny",
+   "Testujesz brzmienie i oglądasz gotowy instrument"
+  ]
+ },
+ {
+  "id": 1282,
+  "name": "Budowniczy skrzypiec",
+  "desc": "Budowniczowie skrzypiec tworzą i składają części do tworzenia skrzypiec zgodnie z określonymi instrukcjami lub schematami. Piaskują drewno, mierzą i mocują struny, testują jakość strun i sprawdzają gotowy instrument.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Wycinasz i wygładzasz drewniane części skrzypiec",
+   "Składasz je w całość według instrukcji",
+   "Mierzysz i mocujesz struny",
+   "Testujesz jakość dźwięku i sprawdzasz gotowy instrument"
+  ]
+ },
+ {
+  "id": 1283,
+  "name": "Budowniczy idiofonów",
+  "desc": "Budowniczowie idiofonów wytwarzają i montują części, aby budować idiofony zgodnie z określonymi instrukcjami lub wykresami. Nadają oni kształt, wiercą, piaskują i wyciągają części wytworzone w większości ze szkła, metalu, ceramiki lub drewna, czyszczą, badają jakość i kontrolują gotowy instrument.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Nadajesz kształt częściom ze szkła, metalu lub drewna",
+   "Wiercisz i szlifujesz elementy",
+   "Czyścisz gotowe części przed montażem",
+   "Uderzasz w gotowy instrument i oceniasz dźwięk"
+  ]
+ },
+ {
+  "id": 1284,
+  "name": "Budowniczy instrumentów dętych",
+  "desc": "Budowniczowie instrumentów dętych wytwarzają i montują części, aby budować instrumenty dęte zgodnie z określonymi instrukcjami i wykresami. Mierzą i przecinają rurki do rezonatora, montują części takie jak trzpienie, suwaki, wentyle, tłok, czasze i ustniki, a testuje i kontroluje gotowy instrument.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Mierzysz i przecinasz rurki na odpowiednią długość",
+   "Montujesz wentyle, tłoki i ustniki",
+   "Sprawdzasz, czy części pasują do siebie",
+   "Dmuchasz w gotowy instrument i oceniasz dźwięk"
+  ]
+ },
+ {
+  "id": 1285,
+  "name": "Budowniczy instrumentów perkusyjnych membranowych",
+  "desc": "Budowniczowie instrumentów perkusyjnych membranowych tworzą i składają części do tworzenia instrumentów perkusyjnych membranowych zgodnie z określonymi instrukcjami lub schematami. Naciągają i mocują membranę na ramie instrumentu, testują jakość i sprawdzają gotowy instrument.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Składasz ramę lub korpus instrumentu według schematu",
+   "Naciągasz membranę i mocujesz ją na ramie",
+   "Sprawdzasz napięcie, uderzając w różnych miejscach",
+   "Oceniasz jakość gotowego instrumentu"
+  ]
+ },
+ {
+  "id": 1286,
+  "name": "Korektor instrumentów muzycznych",
+  "desc": "Korektorzy instrumentów muzycznych pomagają muzykom i wspierają ich przed występem, w jego trakcie i po występie w celu zapewnienia prawidłowego ustawienia instrumentów i podłączonego do nich wyposażenia, tzw. backline. Dokonują konserwacji, strojenia i napraw instrumentów oraz pomagają w szybkim wprowadzaniu zmian.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Ustawiasz instrumenty i sprzęt muzyków na scenie",
+   "Stroisz instrumenty przed wejściem artysty",
+   "Naprawiasz usterki w trakcie koncertu",
+   "Pomagasz w szybkich zmianach instrumentów między utworami"
+  ]
+ },
+ {
+  "id": 1287,
+  "name": "Technik instrumentów muzycznych",
+  "desc": "Technicy instrumentów muzycznych dokonują konserwacji, strojenia i napraw instrumentów muzycznych, takich jak fortepiany i pianina, organy piszczałkowe, instrumenty orkiestrowe, skrzypce i inne instrumenty.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Stroisz fortepiany, pianina i organy piszczałkowe",
+   "Naprawiasz uszkodzone części instrumentów",
+   "Konserwujesz instrumenty, by dłużej służyły",
+   "Szukasz usterki, słuchając dźwięku"
+  ]
+ },
+ {
+  "id": 1288,
+  "name": "Grawer biżuterii",
+  "desc": "Grawerzy biżuterii grawerują na artykułach jubilerskich litery i ozdobne wzory z użyciem specjalistycznych narzędzi ręcznych. Szkicują litery i wzory przeznaczone do umieszczenia na danym przedmiocie, ustalają ich rozmieszczenie, grawerują w przedmiocie i czyszczą go.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Szkicujesz litery i wzory na papierze",
+   "Ustalasz rozmieszczenie napisu na przedmiocie",
+   "Grawerujesz ręcznym narzędziem w metalu",
+   "Czyścisz gotową ozdobę"
+  ]
+ },
+ {
+  "id": 1289,
+  "name": "Jubiler specjalista naprawy biżuterii",
+  "desc": "Jubilerzy specjaliści naprawy biżuterii wykorzystują specjalistyczne narzędzia ręczne do regulacji i napraw wszystkich rodzajów biżuterii. Zmieniają oni rozmiary pierścionków i naszyjników, osadzają ponownie kamienie szlachetne i naprawiają uszkodzoną biżuterię. Jubilerzy specjaliści naprawy biżuterii identyfikują odpowiednie metale szlachetne, które należy stosować jako zamienniki, lutują i wygładzają spawy. Czyszczą i polerują naprawione przedmioty przeznaczone do zwrotu klientowi.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Zmieniasz rozmiar pierścionków i naszyjników",
+   "Osadzasz ponownie wypadnięte kamienie",
+   "Dobierasz metal pasujący do naprawianej ozdoby",
+   "Lutujesz, wygładzasz spoiny i polerujesz"
+  ]
+ },
+ {
+  "id": 1290,
+  "name": "Jubiler specjalista osadzania kamieni szlachetnych",
+  "desc": "Jubilerzy specjaliści osadzania kamieni szlachetnych wykorzystują narzędzia do wprowadzania diamentów i innych kamieni szlachetnych do biżuterii zgodnie ze specyfikacją. Osadzenie kamienia szlachetnego zależy od jego wielkości i kształtu.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Oglądasz kamień i oceniasz jego rozmiar i kształt",
+   "Dobierasz sposób osadzenia do danego kamienia",
+   "Wkładasz kamień w oprawę specjalnymi narzędziami",
+   "Sprawdzasz, czy kamień trzyma się mocno"
+  ]
+ },
+ {
+  "id": 1291,
+  "name": "Jubiler wytwórca filigranów",
+  "desc": "Jubilerzy wytwórcy filigranów tworzą delikatną biżuterię zwaną filigranową, zazwyczaj ze złota i srebra. Łączą oni metodą spawania drobne kuleczki, skręcone druciki lub połączenie tych elementów ułożonych w dekoracyjny motyw z powierzchnią przedmiotu wykonanego z tego samego metalu.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Skręcasz cienkie druciki w delikatne sploty",
+   "Formujesz maleńkie kuleczki z metalu",
+   "Układasz druciki i kuleczki w dekoracyjny wzór",
+   "Łączysz wzór z powierzchnią przedmiotu"
+  ]
+ },
+ {
+  "id": 1292,
+  "name": "Monter biżuterii",
+  "desc": "Monterzy biżuterii tworzą oprawę dla artykułu biżuteryjnego, do której następnie dodaje się kamienie szlachetne.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Wykonujesz oprawy pod kamienie szlachetne",
+   "Dopasowujesz rozmiar oprawy do kamienia",
+   "Składasz elementy ozdoby w całość",
+   "Sprawdzasz, czy oprawa jest równa i stabilna"
+  ]
+ },
+ {
+  "id": 1293,
+  "name": "Polerowacz biżuterii",
+  "desc": "Polerowacze biżuterii zapewniają oczyszczenie gotowej biżuterii zgodnie z życzeniem klienta lub przygotowują ją do sprzedaży. Mogą również dokonywać drobnych napraw. Korzystają z narzędzi ręcznych, takich jak pilniki i papier ścierny i/lub ręczne polerki. Korzystają oni również z mechanicznych maszyn do polerowania, takich jak polerki cylindryczne.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Wygładzasz powierzchnię pilnikiem i papierem ściernym",
+   "Polerujesz ozdoby na maszynach do polerowania",
+   "Usuwasz zarysowania i drobne wady",
+   "Sprawdzasz połysk i czystość gotowej biżuterii"
+  ]
+ },
+ {
+  "id": 1294,
+  "name": "Srebrnik-jubiler",
+  "desc": "Srebrnicy-jubilerzy projektują, produkują i sprzedają biżuterię. Ponadto regulują, naprawiają i oceniają kamienie szlachetne i biżuterię. Srebrnicy-jubilerzy specjalizują się w pracy ze srebrem i innymi metalami szlachetnymi.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Projektujesz wzory srebrnej biżuterii",
+   "Wykonujesz ozdoby w warsztacie",
+   "Naprawiasz i regulujesz biżuterię klientów",
+   "Doradzasz klientom w sklepie i sprzedajesz wyroby"
+  ]
+ },
+ {
+  "id": 1295,
+  "name": "Złotnik-jubiler",
+  "desc": "Złotnicy-jubilerzy projektują, produkują i sprzedają biżuterię. Ponadto regulują, naprawiają i oceniają kamienie szlachetne i biżuterię dla klientów, wykorzystując swoje doświadczenie w zakresie obróbki złota i innych metali szlachetnych.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Projektujesz biżuterię ze złota i innych metali szlachetnych",
+   "Odlewasz i obrabiasz złoto w warsztacie",
+   "Oceniasz stan i wartość kamieni i ozdób",
+   "Regulujesz i naprawiasz biżuterię klientów"
+  ]
+ },
+ {
+  "id": 1296,
+  "name": "Szlifierz kamieni szlachetnych",
+  "desc": "Szlifierze kamieni szlachetnych używają maszyn i narzędzi do cięcia lub wycinania diamentów i innych kamieni szlachetnych zgodnie ze schematami i wzorami z uwzględnieniem specyfikacji. Są to specjaliści w zakresie produkcji artykułów biżuteryjnych takich jak pierścionki, broszki, łańcuszki i bransolety z kamieni szlachetnych.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Czytasz rysunek, który pokazuje kształt szlifu",
+   "Tniesz kamień na maszynie",
+   "Szlifujesz kolejne ścianki kamienia",
+   "Sprawdzasz wymiary i kształt gotowego kamienia"
+  ]
+ },
+ {
+  "id": 1297,
+  "name": "Dekorator powierzchni drewnianych",
+  "desc": "Dekoratorzy powierzchni drewnianych projektują i tworzą dzieła sztuki wizualnej na powierzchniach i przedmiotach drewnianych, takich jak meble, statuetki i zabawki. Wykorzystują różnorodne techniki produkcji ozdobnych ilustracji, od szablonów po rysunek odręczny.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Projektujesz wzór pasujący do przedmiotu",
+   "Przenosisz wzór szablonem na drewno",
+   "Malujesz odręcznie drobne szczegóły",
+   "Wykańczasz zdobiony mebel lub zabawkę"
+  ]
+ },
+ {
+  "id": 1298,
+  "name": "Dekorator powierzchni szklanych",
+  "desc": "Dekoratorzy powierzchni szklanych projektują i tworzą dzieła sztuki wizualnej na powierzchniach szklanych lub kryształowych oraz na przedmiotach takich jak okna, kieliszki i butelki. Wykorzystują różnorodne techniki produkcji ozdobnych ilustracji, od szablonów po rysunek odręczny.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Projektujesz wzór pod kształt szklanego przedmiotu",
+   "Nakładasz szablon na powierzchnię szkła",
+   "Malujesz odręcznie na szkle lub kryształach",
+   "Sprawdzasz efekt pod światło"
+  ]
+ },
+ {
+  "id": 1299,
+  "name": "Dekorator wyrobów ceramicznych",
+  "desc": "Dekoratorzy wyrobów ceramicznych projektują i tworzą dzieła sztuki wizualnej na powierzchniach i przedmiotach ceramicznych, takich jak płytki, rzeźby, naczynia stołowe i kuchenne. Wykorzystują różnorodne techniki produkcji ozdobnych ilustracji, od szablonów po rysunek odręczny.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Projektujesz wzór pod płytkę lub naczynie",
+   "Przygotowujesz szablon do powtarzalnego motywu",
+   "Malujesz odręcznie detale na ceramice",
+   "Powtarzasz ten sam wzór na wielu sztukach"
+  ]
+ },
+ {
+  "id": 1300,
+  "name": "Dekorator wyrobów porcelanowych",
+  "desc": "Dekoratorzy wyrobów porcelanowych projektują i tworzą dzieła sztuki wizualnej na powierzchniach i przedmiotach porcelanowych, takich jak płytki i naczynia. Wykorzystują różnorodne techniki produkcji ozdobnych ilustracji, od szablonów po rysunek odręczny.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Rysujesz bardzo cienkie kontury wzoru",
+   "Wypełniasz je kolorem pędzlem",
+   "Przenosisz motyw szablonem na filiżanki i talerze",
+   "Oglądasz każdą sztukę pod kątem drobnych błędów"
+  ]
+ },
+ {
+  "id": 1301,
+  "name": "Malarz–zdobnik",
+  "desc": "Malarze-zdobnicy projektują i tworzą dzieła sztuki wizualnej na różnych powierzchniach, takich jak ceramika, obudowy, szkło i tkanina. Wykorzystują różnorodne materiały i techniki produkcji ozdobnych ilustracji, od szablonów po rysunek odręczny.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Projektujesz wzór pod konkretną powierzchnię",
+   "Dobierasz farby i technikę do materiału",
+   "Malujesz szablonem lub odręcznie",
+   "Dopasowujesz jeden motyw do różnych przedmiotów"
+  ]
+ },
+ {
+  "id": 1302,
+  "name": "Specjalista grawerowania w metalu",
+  "desc": "Specjaliści grawerowania w metalu nacinają wzór na metalowej powierzchni w tym na metalowej broni – poprzez wycięcie w niej rowków, zwykle w cech dekoracyjnych. W celu wycięcia wzoru na powierzchni używają narzędzi takich jak rylce.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Szkicujesz wzór na powierzchni metalu",
+   "Nacinasz rowki rylcem",
+   "Prowadzisz narzędzie równo wzdłuż linii wzoru",
+   "Oglądasz efekt pod kątem głębokości i symetrii"
+  ]
+ },
+ {
+  "id": 1303,
+  "name": "Specjalista grawerowania w szkle",
+  "desc": "Specjaliści grawerowania w szkle grawerują na artykułach szklanych litery i ozdobne wzory przy użyciu specjalistycznych narzędzi ręcznych. Szkicują litery i wzory przeznaczone do umieszczenia na danym przedmiocie, ustalają ich rozmieszczenie, grawerują w przedmiocie i wykańczają go.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Szkicujesz napis lub wzór na papierze",
+   "Ustalasz położenie wzoru na szklanym przedmiocie",
+   "Grawerujesz ręcznie w powierzchni szkła",
+   "Wykańczasz i oglądasz gotowy przedmiot"
+  ]
+ },
+ {
+  "id": 1304,
+  "name": "Szyldziarz",
+  "desc": "Szyldziarze projektują i opracowują oznakowanie do różnych zastosowań, takich jak ulotki, znaki drogowe, billboardy i szyldy firm. Wykorzystują oni różne materiały i techniki, a w razie konieczności instalują oznakowanie na miejscu. Ponadto wykonują również prace konserwacyjne i naprawy.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Projektujesz napisy na szyldy, plakaty i znaki",
+   "Dobierasz materiały i technikę wykonania",
+   "Montujesz oznakowanie na miejscu u klienta",
+   "Naprawiasz i konserwujesz stare szyldy"
+  ]
+ },
+ {
+  "id": 1305,
+  "name": "Mechanik konserwator sprzętu optycznego",
+  "desc": "Mechanicy konserwatorzy sprzętu optycznego naprawiają przyrządy optyczne, takie jak mikroskopy, teleskopy, części optyczne aparatów fotograficznych i kompasy. Dokonują przeglądów tych przyrządów w celu zapewnienia ich prawidłowego funkcjonowania. W kontekście wojskowym odczytują także schematy umożliwiające naprawę tych przyrządów.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Przeglądasz mikroskopy i teleskopy",
+   "Szukasz przyczyny, dla której obraz jest nieostry",
+   "Naprawiasz uszkodzone części przyrządów",
+   "Czytasz schematy, żeby poprawnie złożyć urządzenie"
+  ]
+ },
+ {
+  "id": 1306,
+  "name": "Monter aparatów i przyrządów optycznych",
+  "desc": "Monterzy aparatów i przyrządów optycznych odczytują schematy i rysunki montażowe w celu montażu soczewek i przyrządów optycznych, takich jak mikroskopy, teleskopy, sprzęt do projekcji i sprzęt do diagnostyki medycznej. Dokonują obróbki, szlifowania, polerowania i powlekania materiałów szklanych, centrowania soczewek zgodnie z osią optyczną oraz mocują je w oprawkach optycznych. Mogą badać te przyrządy po montażu.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Czytasz schematy i rysunki montażowe",
+   "Szlifujesz i polerujesz elementy ze szkła",
+   "Ustawiasz soczewki dokładnie na wspólnej osi",
+   "Mocujesz soczewki w oprawkach i badasz gotowy przyrząd"
+  ]
+ },
+ {
+  "id": 1307,
+  "name": "Monter urządzeń precyzyjnych",
+  "desc": "Monterzy urządzeń precyzyjnych odczytują schematy i rysunki montażowe w celu montażu precyzyjnych przyrządów pomiarowych, takich jak mikrometry, mierniki, termostaty i liczniki. Gromadzą różne części i łączą je ze sobą, wykorzystując narzędzia ręczne lub maszyny. Ponadto kalibrują przyrządy i badają ich dokładność.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Czytasz schematy i rysunki montażowe",
+   "Łączysz drobne części narzędziami ręcznymi",
+   "Kalibrujesz przyrząd, żeby mierzył dokładnie",
+   "Badasz gotowe urządzenie pod kątem błędów"
+  ]
+ },
+ {
+  "id": 1308,
+  "name": "Wytwórca narzędzi chirurgicznych",
+  "desc": "Wytwórcy narzędzi chirurgicznych tworzą, naprawiają i projektują narzędzia chirurgiczne, takie jak zaciski, chwytaki, mechaniczne urządzenia tnące, wzierniki optyczne, sondy i inne narzędzia chirurgiczne.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Projektujesz zaciski, chwytaki i sondy",
+   "Formujesz i szlifujesz metalowe elementy",
+   "Składasz mechanizmy z kilku części",
+   "Naprawiasz zużyte lub uszkodzone narzędzia"
+  ]
+ },
+ {
+  "id": 1309,
+  "name": "Zegarmistrz specjalista naprawy zegarków i zegarów",
+  "desc": "Zegarmistrzowie specjaliści naprawy zegarków i zegarów dokonują konserwacji i napraw zegarków i zegarów. Identyfikują usterki, zmieniają baterie, wymieniają paski na nowe, oliwią i wymieniają uszkodzone części. Mogą również restaurować zabytkowe zegary.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Szukasz przyczyny, dla której zegarek stanął",
+   "Wymieniasz baterie i paski",
+   "Oliwisz mechanizm i wymieniasz zużyte części",
+   "Odnawiasz zabytkowe zegary"
+  ]
+ },
+ {
+  "id": 1310,
+  "name": "Papiernik",
+  "desc": "Papiernicy wytwarzają masę papierniczą, rozprowadzają ją na ekranach i suszą ręcznie lub wykorzystując drobny sprzęt.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Przygotowujesz masę papierniczą z włókien",
+   "Rozprowadzasz masę na ekranie",
+   "Zdejmujesz mokry arkusz z ekranu",
+   "Suszysz arkusze ręcznie lub drobnym sprzętem"
+  ]
+ },
+ {
+  "id": 1311,
+  "name": "Rzeźbiarz w drewnie",
+  "desc": "Rzeźbiarze w drewnie ręcznie nadają drewnu żądany kształt przy użyciu narzędzi takich jak noże, żłobaki i dłuta. Rzeźbiarze w drewnie wytwarzają wyroby drewniane służące jako dekoracje, elementy większego, złożonego produktu, przybory lub zabawki.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Szkicujesz kształt na kawałku drewna",
+   "Zdejmujesz drewno dłutem warstwa po warstwie",
+   "Żłobisz szczegóły nożem i żłobakiem",
+   "Szlifujesz i wykańczasz gotową rzeźbę"
+  ]
+ },
+ {
+  "id": 1312,
+  "name": "Szczotkarz",
+  "desc": "Szczotkarze osadzają różne materiały, takie jak włosie końskie, włókna roślinne, nylon i sierść świni w metalowych rurach zwanych tulejami. Wkładają do włosia wkładkę drewnianą lub aluminiową, aby uformować główkę pędzla i dołączyć uchwyt do drugiej strony tulei. Zanurzają główkę pędzla w substancji ochronnej w celu utrzymania jej kształtu, wykańczają i kontrolują gotowy produkt.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Wkładasz włosie lub nylon do tulei",
+   "Wsuwasz wkładkę, która formuje główkę pędzla",
+   "Mocujesz uchwyt z drugiej strony tulei",
+   "Zanurzasz główkę w substancji chroniącej kształt"
+  ]
+ },
+ {
+  "id": 1313,
+  "name": "Wykonawca mebli wyplatanych",
+  "desc": "Wykonawcy mebli wyplatanych wybierają i przygotowują materiały takie jak zmiękczone gałązki rattanu lub wierzby w celu produkcji mebli wyplatanych, takich jak krzesła, stoły i kanapy. Używają narzędzi ręcznych, elektrycznych lub obrabiarek do cięcia, gięcia i splatania materiałów w celu wytworzenia żądanych przedmiotów. Na zakończenie poddają powierzchnię obróbce zapewniającej jej wykończenie i ochronę przed korozją i ogniem przy użyciu wosków, lakierów i innych powłok.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Wybierasz i przygotowujesz gałązki rattanu",
+   "Tniesz i giesz materiał do kształtu",
+   "Splatasz siedzisko, oparcie i boki",
+   "Pokrywasz mebel woskiem lub lakierem"
+  ]
+ },
+ {
+  "id": 1314,
+  "name": "Wyplatacz koszyków",
+  "desc": "Wyplatacze koszyków wykorzystują sztywne włókna do ręcznego wyplatania przedmiotów takich jak pojemniki, koszyki, maty i meble. Wykorzystują oni różne tradycyjne techniki i materiały w zależności od regionu i przeznaczenia przedmiotu.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Dobierasz włókna do rodzaju koszyka",
+   "Układasz dno i pionowe pręty",
+   "Przeplatasz poziome włókna wokół prętów",
+   "Wykańczasz brzeg, żeby nic nie wystawało"
+  ]
+ },
+ {
+  "id": 1315,
+  "name": "Zabawkarz",
+  "desc": "Zabawkarze tworzą lub odtwarzają ręcznie wytwarzane przedmioty przeznaczone do sprzedaży i ekspozycji, wykonane z różnych materiałów, takich jak tworzywa sztuczne, drewno i tekstylia. Opracowują oni, projektują i szkicują przedmiot, dokonują wyboru materiałów, kroją je, kształtują i przetwarzają zgodnie z potrzebami oraz stosują materiały wykończeniowe. Ponadto zabawkarze konserwują i naprawiają wszystkie rodzaje zabawek, w tym również zabawki mechaniczne. Identyfikują oni wady zabawek, wymieniają uszkodzone części i przywracają ich funkcjonalność.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Szkicujesz zabawkę i dobierasz materiały",
+   "Kroisz i kształtujesz drewno lub tkaninę",
+   "Wymieniasz uszkodzone części w starych zabawkach",
+   "Naprawiasz zabawki mechaniczne, żeby znów działały"
+  ]
+ },
+ {
+  "id": 1316,
+  "name": "Dziewiarz",
+  "desc": "Dziewiarze wytwarzają wyroby włókiennicze lub tkaniny w drodze dziania przędzy. Wykorzystują oni tradycyjne techniki w celu wytworzenia z przędzy przeplecionych pętli tworzących jednolitą tkaninę. Dziewiarze stosują różne techniki, igły i przędze do wytwarzania dzianych materiałów o różnych proporcjach.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Dobierasz przędzę i igły do wzoru",
+   "Nabierasz oczka i dzianiesz rząd po rzędzie",
+   "Zmieniasz technikę, żeby zmienić gęstość dzianiny",
+   "Sprawdzasz, czy oczka są równe"
+  ]
+ },
+ {
+  "id": 1317,
+  "name": "Rękodzielnik wyrobów skórzanych",
+  "desc": "Rękodzielnicy wyrobów skórzanych wytwarzają wyroby skórzane lub części wyrobów skórzanych ręcznie, zgodnie ze specyfikacją klienta lub swoim własnym projektem. Naprawiają wyroby skórzane, takie jak buty, torby i rękawice.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Projektujesz wyrób według życzeń klienta",
+   "Wycinasz i szyjesz skórę ręcznie",
+   "Przeszywasz części mocną nicią",
+   "Naprawiasz buty, torby i rękawice"
+  ]
+ },
+ {
+  "id": 1318,
+  "name": "Sieciarz",
+  "desc": "Sieciarze wytwarzają i scalają sieci rybackie, a także dokonują napraw i konserwacji zgodnie z rysunkami i/lub tradycyjnymi metodami.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Wiążesz oczka sieci według rysunku",
+   "Łączysz kawałki sieci w większą całość",
+   "Łatasz dziury i zerwane oczka",
+   "Konserwujesz sieć, żeby dłużej służyła"
+  ]
+ },
+ {
+  "id": 1319,
+  "name": "Tkacz",
+  "desc": "Tkacze realizują proces tkania przy użyciu tradycyjnych ręcznych maszyn tkackich (od jedwabiu po dywany, od splotów płaskich po żakardowe). Kontrolują jakość materiału i stan maszyn. Wytwarzają tkaniny takie jak tkaniny do produkcji odzieży i bielizny domowej lub do celów technicznych. Wykonują prace mechaniczne na maszynach wytwarzających tkaniny z przędzy, takie jak koce, dywany, ręczniki i materiały odzieżowe. Naprawiają krosna zgodnie z informacjami dostarczonymi przez tkacza i wypełniają arkusze kontroli krosna.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Zakładasz nitki osnowy na krosno",
+   "Uruchamiasz krosno i pilnujesz jego pracy",
+   "Kontrolujesz jakość tkaniny w trakcie tkania",
+   "Naprawiasz krosno i wypełniasz arkusz kontroli"
+  ]
+ }
+]

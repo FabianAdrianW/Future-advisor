@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1020,
+  "name": "Menedżer BHP na placach budów",
+  "desc": "Menedżerowie BHP na placach budów sprawdzają, egzekwują i kontrolują środki bezpieczeństwa i higieny na placach budów. Zarządzają również wypadkami w miejscu pracy i podejmują działania zapewniające prawidłowe wdrażanie polityk bezpieczeństwa.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Egzekwujesz zasady bezpieczeństwa na budowie",
+   "Zarządzasz sytuacją po wypadku w pracy",
+   "Wdrażasz polityki bezpieczeństwa",
+   "Kontrolujesz przestrzeganie środków higieny"
+  ]
+ },
+ {
+  "id": 1021,
+  "name": "Technik diagnostyki rurociągów",
+  "desc": "Technicy diagnostyki rurociągów monitorują integralność rurociągu i w razie potrzeby naprawiają je. Dbają, aby rurociągi były odpowiednio połączone i odpowiadały przepisom w zakresie higieny i bezpieczeństwa. Technicy diagnostyki rurociągów sprawdzają, czy w systemach ochrony katodowej i punktach przyłączeniowych nie występuje korozja. Mogą również pomagać w projektowaniu rurociągów, analizować gleby i sporządzać sprawozdania na temat kwestii technicznych.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Monitorujesz stan i szczelność rurociągu",
+   "Szukasz korozji przy punktach przyłączeniowych",
+   "Kontrolujesz systemy ochrony katodowej",
+   "Badasz grunt i piszesz raporty techniczne"
+  ]
+ },
+ {
+  "id": 1022,
+  "name": "Operator kafara",
+  "desc": "Operatorzy kafarów pracują z częścią ciężkiego sprzętu, która umieszcza pale i wbija je do gleby przy użyciu mechanizmu takielunkowego.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Ustawiasz maszynę nad miejscem pala",
+   "Podnosisz pal mechanizmem takielunkowym",
+   "Wbijasz pal w grunt",
+   "Obserwujesz, czy pal wchodzi prosto"
+  ]
+ },
+ {
+  "id": 1023,
+  "name": "Operator koparki na polach górniczych",
+  "desc": "Operatorzy koparek na polach górniczych kontrolują urządzenia o dużej ładowności, takie jak koparki i wózki zrzutowe, często przy dużym poziomie świadomości przestrzennej w celu wydobywania, załadunku i transportu rudy, surowca mineralnego, w tym piasku, kamienia i gliny oraz nadkładu w kamieniołomach i kopalniach odkrywkowych.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Wybierasz surowiec z odkrywki koparką",
+   "Ładujesz kruszywo na wywrotki",
+   "Zdejmujesz nadkład z góry złoża",
+   "Kontrolujesz położenie maszyn wokół siebie"
+  ]
+ },
+ {
+  "id": 1024,
+  "name": "Operator odśnieżarki",
+  "desc": "Operatorzy odśnieżarek eksploatują ciężarówki i pługi do usuwania śniegu i lodu z publicznych chodników, ulic i innych miejsc. Sypią także na ziemię sól i piasek w celu odlodzenia danych lokalizacji.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Pługiem zgarniasz śnieg z jezdni",
+   "Sypiesz sól i piasek na lód",
+   "Odśnieżasz chodniki i miejskie place",
+   "Sprawdzasz pług i sypialkę przed wyjazdem"
+  ]
+ },
+ {
+  "id": 1025,
+  "name": "Operator pogłębiarki",
+  "desc": "Operatorzy pogłębiarek pracują z urządzeniami przemysłowymi w usuwaniu materiału podwodnego w celu udostępnienia obszaru dla statków, utworzenia portów, układania kabli lub do innych celów, a także przeniesienia materiału w pożądane miejsce.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Usuwasz osady z dna pogłębiarką",
+   "Przenosisz wydobyty muł w wyznaczone miejsce",
+   "Sprawdzasz głębokość toru wodnego",
+   "Utrzymujesz maszynę w ruchu na wodzie"
+  ]
+ },
+ {
+  "id": 1026,
+  "name": "Operator równiarki",
+  "desc": "Operatorzy równiarek pracują z ciężkimi elementami urządzeń przenośnych, które tworzą płaską powierzchnię poprzez odkrojenie górnej warstwy gleby przy użyciu dużego ostrza. Operatorzy równiarek zwykle nadają płaskie wykończenie ciężkich robót ziemnych wykonywanych przez działanie zgarniaka i buldożera.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Ścinasz górną warstwę gruntu ostrzem",
+   "Wyrównujesz powierzchnię pod drogę",
+   "Wykańczasz grunt po pracy zgarniaków i spycharek",
+   "Sprawdzasz poziom na bieżąco"
+  ]
+ },
+ {
+  "id": 1027,
+  "name": "Operator spycharki",
+  "desc": "Operatorzy spycharek prowadzą w terenie ciężki pojazd do przemieszczania ziemi, gruzu lub innych materiałów nad gruntem.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Przesuwasz ziemię i gruz lemieszem",
+   "Usuwasz przeszkody z terenu budowy",
+   "Wyrównujesz stosy materiału",
+   "Prowadzisz maszynę po nierównym podłożu"
+  ]
+ },
+ {
+  "id": 1028,
+  "name": "Operator walca",
+  "desc": "Operatorzy walców pracują z urządzeniami kompaktującymi różne materiały, takie jak gleba, żwir, beton lub asfalt, przy budowie dróg i fundamentów. Idą za walcem drogowym lub siedzą na nim, w zależności od rodzaju i rozmiaru, i walcują obszar przeznaczony do ubijania.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Przejeżdżasz walcem po całej powierzchni",
+   "Zagęszczasz grunt, żwir lub asfalt",
+   "Dobierasz liczbę przejazdów do materiału",
+   "Obserwujesz, czy warstwa jest równa"
+  ]
+ },
+ {
+  "id": 1029,
+  "name": "Operator zgarniarki",
+  "desc": "Operatorzy zgarniarek pracują przy użyciu ruchomej części ciężkiego sprzętu, która zdrapuje górną warstwę gruntu i osadza ją w leju zasypowym do zabrania. Kierują oni zgarniarką nad zgarnianą powierzchnią, dostosowując prędkość maszyny do twardości powierzchni.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Prowadzisz zgarniarkę po wyznaczonej powierzchni",
+   "Zdrapujesz górną warstwę gruntu",
+   "Zsypujesz grunt do zbiornika maszyny",
+   "Zmieniasz prędkość zależnie od twardości podłoża"
+  ]
+ },
+ {
+  "id": 1030,
+  "name": "Pracownik budowy dróg",
+  "desc": "Pracownicy budowy dróg prowadzą budowę dróg na robotach ziemnych, na podbudowach i części chodnikowej drogi. Pokrywają oni ubitą glebę jedną lub większą liczbą warstw. Pracownicy budowy dróg zazwyczaj najpierw układają stabilizujące złoże piasku lub gliny przed dodaniem asfaltu lub płyt betonowych płyt w celu wykończenia drogi.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Układasz piasek lub glinę pod podbudowę",
+   "Wyrównujesz i ubijasz ziemię na trasie",
+   "Układasz asfalt albo płyty betonowe",
+   "Sprawdzasz grubość i równość kolejnych warstw"
+  ]
+ },
+ {
+  "id": 1031,
+  "name": "Maszynista kolei linowych, wyciągów narciarskich i zjeżdżalni grawitacyjnych",
+  "desc": "Maszyniści kolei linowych, wyciągów narciarskich i zjeżdżalni grawitacyjnych obsługują systemy i tablice kontrolne, sterując operacjami różnych układów trybów transportu obsługiwanych drogą kablową. Mogą oni obsługiwać kabiny powietrzne, wciągniki przejezdne, kolejki linowe itp. Zapewniają oni ciągłość działania i interweniują w razie wystąpienia nieprzewidzianych sytuacji.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Uruchamiasz i zatrzymujesz wyciąg z pulpitu",
+   "Obserwujesz kabiny i krzesełka na linie",
+   "Sprawdzasz tablicę kontrolną i ustawienia",
+   "Reagujesz na nieprzewidziane sytuacje"
+  ]
+ },
+ {
+  "id": 1032,
+  "name": "Operator dźwigu jezdnego",
+  "desc": "Operatorzy dźwigów jezdnych pracują z różnymi rodzajami dźwigów, które mogą być łatwo przemieszczane drogą lądową, kolejową i wodną. Dźwigi jezdne są często montowane na ciężarówkach.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Dojeżdżasz dźwigiem na miejsce pracy",
+   "Rozkładasz podpory i ustawiasz wysięgnik",
+   "Podnosisz i przenosisz ciężkie ładunki",
+   "Pilnujesz, żeby dźwig stał stabilnie"
+  ]
+ },
+ {
+  "id": 1033,
+  "name": "Operator żurawia kontenerowego",
+  "desc": "Operatorzy żurawi kontenerowych eksploatują żurawie zasilane elektrycznie wyposażone we wsporniki, na których oparty jest mechanizm podnoszący w celu załadunku lub rozładowania ładunku kontenerowego. Przesuwają oni wieże w pozycji wzdłuż statku i dolnych wsporników na pokładzie lub ładowni statku. Podnoszą i przesuwają pojemnik wzdłuż wspornika i umieszczają go na doku, na pokładzie statku lub w ładowni.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Ustawiasz żuraw wzdłuż burty statku",
+   "Podnosisz kontener z pokładu lub ładowni",
+   "Przesuwasz go wzdłuż wysięgnika",
+   "Układasz kontener na nabrzeżu lub statku"
+  ]
+ },
+ {
+  "id": 1034,
+  "name": "Operator żurawia warsztatowego",
+  "desc": "Operatorzy żurawi warsztatowych obsługują podstawowe dźwigi technologiczne podczas procesu produkcji w danej jednostce poprzez podnoszenie i przesuwanie ładunków (bele, pojemniki, wiadra i inne urządzenia) z surowcami i innymi materiałami.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Podnosisz bele i pojemniki z surowcami",
+   "Przesuwasz ładunki między stanowiskami",
+   "Sprawdzasz zamocowanie ładunku na haku",
+   "Dostarczasz materiał do linii produkcyjnej"
+  ]
+ },
+ {
+  "id": 1035,
+  "name": "Monter drzwi",
+  "desc": "Monterzy drzwi zajmują się instalowaniem drzwi. Demontują stare drzwi, jeśli są, przygotowują ościeżnicę i osadzają nowe drzwi, upewniając się, że są wyregulowane pod kątem 90 stopni, wypoziomowane, wypionowane, a w razie konieczności wodoszczelne. Monterzy drzwi wykonują również przeglądy i serwisowanie drzwi.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Demontujesz stare drzwi i ościeżnicę",
+   "Przygotowujesz otwór pod nowe drzwi",
+   "Ustawiasz drzwi w pionie i poziomie",
+   "Regulujesz zawiasy i sprawdzasz domykanie"
+  ]
+ },
+ {
+  "id": 1036,
+  "name": "Monter instalacji kuchennych",
+  "desc": "Monterzy instalacji kuchennych instalują elementy kuchni w domach. Wykonują niezbędne pomiary, przygotowują pomieszczenie, usuwają w razie potrzeby stare elementy, a następnie instalują nowe wyposażenie kuchni wraz z podłączeniem przewodów wodociągowych, gazowych i kanalizacyjnych oraz linii elektrycznych.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Mierzysz pomieszczenie i zaznaczasz ściany",
+   "Demontujesz starą kuchnię",
+   "Składasz i wieszasz szafki",
+   "Podłączasz zlew, kuchenkę i zmywarkę"
+  ]
+ },
+ {
+  "id": 1037,
+  "name": "Monter klatek schodowych",
+  "desc": "Monterzy klatek schodowych montują standardowe lub niestandardowe klatki schodowe między różnymi poziomami w budynkach. Wykonują niezbędne pomiary, przygotowują teren i bezpiecznie instalują klatkę schodową.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Mierzysz wysokość między piętrami",
+   "Dobierasz liczbę i wysokość stopni",
+   "Ustawiasz konstrukcję i mocujesz ją",
+   "Sprawdzasz stabilność i równość stopni"
+  ]
+ },
+ {
+  "id": 1038,
+  "name": "Monter okien",
+  "desc": "Monterzy okien montują okna i wykonują ich serwisowanie. Zdejmują stare okna, jeśli są, przygotowują ościeżnicę, montują okno, upewniając się, że jest wypionowane, wypoziomowane, wyregulowane pod kątem 90 stopni i wodoszczelne.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Wyjmujesz stare okno z ościeżnicy",
+   "Przygotowujesz otwór w murze",
+   "Osadzasz okno w pionie i poziomie",
+   "Uszczelniasz szczeliny i regulujesz okucia"
+  ]
+ },
+ {
+  "id": 1039,
+  "name": "Monter drewnianych elementów prefabrykowanych do budowy domów",
+  "desc": "Monterzy drewnianych elementów prefabrykowanych do budowy domów składają drewniane elementy do wykorzystania w budownictwie. Elementy lub moduły mogą składać się z ścian z wbudowanymi oknami i drzwiami lub mogą być tak duże, jak całe pomieszczenia. Monterzy drewnianych elementów prefabrykowanych do budowy domów wykonują montaż konstrukcji nośnej, materiałów izolacyjnych i przykrycia, a następnie mocują je ze sobą w celu uzyskania gotowych modułów.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Układasz szkielet ściany według rysunku",
+   "Wypełniasz go materiałem izolacyjnym",
+   "Mocujesz okna i drzwi w ścianie",
+   "Łączysz elementy w gotowy moduł"
+  ]
+ },
+ {
+  "id": 1040,
+  "name": "Monter rusztowań",
+  "desc": "Monterzy rusztowań montują rusztowania i platformy, aby umożliwić bezpieczne wykonanie robót budowlanych na wysokości.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Rozładowujesz rury, złącza i podesty",
+   "Ustawiasz podstawy na równym gruncie",
+   "Montujesz kolejne poziomy i pomosty",
+   "Rozbierasz rusztowanie po skończonych pracach"
+  ]
+ },
+ {
+  "id": 1041,
+  "name": "Pracownik rozbiórkowy",
+  "desc": "Pracownicy rozbiórkowi obsługują sprzęt do rozbiórki. W bezpieczny sposób niszczą budynki i usuwają ich pozostałości, umożliwiając wykorzystanie terenu do innych celów.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Zabezpieczasz teren przed wejściem ludzi",
+   "Obsługujesz maszynę do burzenia ścian",
+   "Segregujesz gruz, stal i drewno",
+   "Ładujesz odpady na wywrotki"
+  ]
+ },
+ {
+  "id": 1042,
+  "name": "Pracownik z uprawnieniami do pracy na wysokości",
+  "desc": "Pracownicy z uprawnieniami do pracy na wysokości specjalizują się w pracach na wysokości i bezpiecznie wspinają się po elewacji budynków i struktur w celu wykonania prac o krytycznym znaczeniu.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Sprawdzasz uprząż, liny i punkty zaczepienia",
+   "Wspinasz się lub wjeżdżasz podestem na miejsce pracy",
+   "Naprawiasz lub czyścisz fragment elewacji",
+   "Asekurujesz współpracownika i pilnujesz zasad"
+  ]
+ },
+ {
+  "id": 1043,
+  "name": "Betoniarz",
+  "desc": "Betoniarze pracują z materiałami wiążącymi, takimi jak cement i beton. Układają ruchome formy i wlewają do nich beton. Następnie wykonują jedną lub kilka czynności w celu wykończenia betonu: przycinanie, spłaszczanie lub wyrównanie, wygłaszanie i fazowanie w celu zapobiegania „szczerbieniu się” betonu.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Ustawiasz formy z desek lub płyt",
+   "Wlewasz beton i rozprowadzasz go",
+   "Wyrównujesz i wygładzasz powierzchnię",
+   "Fazujesz krawędzie, żeby się nie kruszyły"
+  ]
+ },
+ {
+  "id": 1044,
+  "name": "Lastrykarz",
+  "desc": "Lastrykarze wykonują powierzchnie z lastryko. Przygotowują powierzchnię i montują listwy oddzielające. Następnie wylewają roztwór zawierający kawałki cementu i marmuru. Na koniec lastrykarze polerują powierzchnię, aby nadać jej gładkość i połysk.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Przygotowujesz podłoże pod posadzkę",
+   "Montujesz listwy dzielące pola",
+   "Wylewasz masę z cementu i kamienia",
+   "Szlifujesz i polerujesz powierzchnię na połysk"
+  ]
+ },
+ {
+  "id": 1045,
+  "name": "Kamieniarz",
+  "desc": "Kamieniarze ręcznie rzeźbią i układają kamień w celach budowlanych. Mimo że w branży powszechnie stosuje się obrabiarki CNC, rzeźbienie kamieni ozdobnych nadal wykonuje się ręcznie z wykorzystaniem metod rzemieślniczych.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Dobierasz blok kamienia do zlecenia",
+   "Rzeźbisz ozdobne detale dłutem",
+   "Obrabiasz kamień na wymiar",
+   "Układasz gotowe elementy na miejscu"
+  ]
+ },
+ {
+  "id": 1046,
+  "name": "Kamieniarz grawer",
+  "desc": "Kamieniarze grawerzy wykorzystują narzędzia ręczne, maszyny i produkty chemiczne do wytrawienia lub wyrycia wzorów i napisów na powierzchniach z kamienia.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Przenosisz wzór lub napis na kamień",
+   "Ryjesz litery dłutem lub maszyną",
+   "Wytrawiasz motyw specjalnym środkiem",
+   "Sprawdzasz równość liter i głębokość"
+  ]
+ },
+ {
+  "id": 1047,
+  "name": "Robotnik budowlany",
+  "desc": "Robotnicy budowlani zajmują się budowaniem, utrzymaniem i remontowaniem domów lub podobnych niewielkich budynków przy użyciu wielu różnych technik i materiałów wielu rożnych robotników pracujących przy budowach.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Czytasz plan i ustalasz kolejność prac",
+   "Wykonujesz proste prace murarskie i wykończeniowe",
+   "Remontujesz fragmenty starego domu",
+   "Zmieniasz zadania w zależności od etapu budowy"
+  ]
+ },
+ {
+  "id": 1048,
+  "name": "Kominiarz",
+  "desc": "Kominiarze przeprowadzają czyszczenie kominów we wszystkich rodzajach budynków. Usuwają popiół i sadzę oraz wykonują regularne prace konserwacyjne zgodnie z przepisami BHP. Kominiarze mogą przeprowadzać kontrole bezpieczeństwa i drobne naprawy.",
+  "path": "Budownictwo i architektura > Malarze i lakiernicy",
+  "tasks": [
+   "Usuwasz sadzę i popiół z komina",
+   "Przeciągasz szczotkę przez przewód kominowy",
+   "Kontrolujesz, czy komin jest drożny i szczelny",
+   "Naprawiasz drobne uszkodzenia komina"
+  ]
+ },
+ {
+  "id": 1049,
+  "name": "Mistrz kominiarski",
+  "desc": "Mistrzowie kominiarscy nadzorują i koordynują czynności wykonywane przez kominiarzy. Przeprowadzają kontrole jakości i zapewniają zgodność z przepisami bezpieczeństwa.",
+  "path": "Budownictwo i architektura > Malarze i lakiernicy",
+  "tasks": [
+   "Rozdzielasz kominiarzom adresy i zadania",
+   "Kontrolujesz jakość wykonanego czyszczenia",
+   "Sprawdzasz zgodność z przepisami bezpieczeństwa",
+   "Pokazujesz młodszym kominiarzom prawidłową technikę"
+  ]
+ },
+ {
+  "id": 1050,
+  "name": "Specjalista ds. usuwania azbestu",
+  "desc": "Specjaliści ds. usuwania azbestu usuwają azbest z budynków i innych budowli zgodnie z przepisami BHP dotyczącymi postępowania z materiałami niebezpiecznymi. Badają intensywność skażenia azbestem, przygotowują budowlę do usuwania azbestu i zapobiegają zanieczyszczeniu innych obszarów.",
+  "path": "Budownictwo i architektura > Malarze i lakiernicy",
+  "tasks": [
+   "Badasz, jak duże jest skażenie azbestem",
+   "Odgradzasz strefę, żeby pył nie przeniósł się dalej",
+   "Ostrożnie zdejmujesz materiały z azbestem",
+   "Pakujesz odpady w szczelne worki"
+  ]
+ },
+ {
+  "id": 1051,
+  "name": "Specjalista ds. usuwania i unieszkodliwiania materiałów niebezpiecznych",
+  "desc": "Specjaliści ds. usuwania i unieszkodliwiania materiałów niebezpiecznych usuwają i unieszkodliwiają materiały niebezpieczne, takie jak materiały radioaktywne lub zanieczyszczona gleba. Postępują z materiałami niebezpiecznymi zgodnie z przepisami bezpieczeństwa, badają przyczyny zanieczyszczenia i usuwają zanieczyszczenie z budowli lub terenu.",
+  "path": "Budownictwo i architektura > Malarze i lakiernicy",
+  "tasks": [
+   "Ustalasz przyczynę i zasięg skażenia",
+   "Pobierasz próbki gleby lub materiału",
+   "Usuwasz zanieczyszczoną ziemię lub elementy budowli",
+   "Przewozisz niebezpieczne odpady zgodnie z przepisami"
+  ]
+ },
+ {
+  "id": 1052,
+  "name": "Sprzątacz terenu",
+  "desc": "Sprzątacze terenu usuwają nieczystości i śmieci z terenów na zewnątrz budynku, jak również wykonują zadania związane z renowacją. Zapewniają, że metody sprzątania są zgodne z przepisami w zakresie bezpieczeństwa, oraz monitorują tereny zewnętrzne, aby zapewnić, że znajdują się one w odpowiednim stanie.",
+  "path": "Budownictwo i architektura > Malarze i lakiernicy",
+  "tasks": [
+   "Zbierasz śmieci i zamiatasz chodniki",
+   "Opróżniasz kosze i wymieniasz worki",
+   "Obchodzisz teren i szukasz uszkodzeń",
+   "Wykonujesz drobne prace renowacyjne na zewnątrz"
+  ]
+ },
+ {
+  "id": 1053,
+  "name": "Lakiernik",
+  "desc": "Lakiernicy obsługują pistolety lakiernicze, przeznaczone do nanoszenia na metalowe, drewniane lub plastikowe detale o innym wykończeniu twardej, trwałej powłoki wykończeniowej, poprzez nanoszenie powłoki lakierowej lub farby o wykończeniu matowym, błyszczącym lub na wysoki połysk, przeznaczonej dla twardych powierzchni.",
+  "path": "Budownictwo i architektura > Malarze i lakiernicy",
+  "tasks": [
+   "Czyścisz i matowisz elementy przed malowaniem",
+   "Mieszasz lakier i napełniasz pistolet",
+   "Natryskujesz równą warstwę w kabinie lakierniczej",
+   "Sprawdzasz połysk i usuwasz zacieki"
+  ]
+ },
+ {
+  "id": 1054,
+  "name": "Specjalista ds. powierzchniowego zabezpieczenia antykorozyjnego",
+  "desc": "Specjaliści ds. powierzchniowego zabezpieczenia antykorozyjnego stosują substancje chemiczne i farbę na powierzchniach materiałów w celu ich zabezpieczenia przed korozją. Dokonują szacunkowej oceny ilości materiałów potrzebnych do zabezpieczenia powierzchni.",
+  "path": "Budownictwo i architektura > Malarze i lakiernicy",
+  "tasks": [
+   "Oceniasz stan metalu i ślady rdzy",
+   "Szacujesz ilość potrzebnej farby",
+   "Czyścisz metal z rdzy i brudu",
+   "Nakładasz powłokę ochronną warstwami"
+  ]
+ },
+ {
+  "id": 1055,
+  "name": "Tapeciarz",
+  "desc": "Tapeciarze specjalizują się w tapetowaniu ścian. Nakładają klej bezpośrednio na papier lub na ścianę w przypadku tapet wzmocnionych, a następnie umieszczają pas tapety na ścianie, dbając, by był prosto przyklejony i by nie powstały pod nim pęcherzyki powietrza.",
+  "path": "Budownictwo i architektura > Malarze i lakiernicy",
+  "tasks": [
+   "Mierzysz ścianę i tniesz pasy tapety",
+   "Nakładasz klej na papier lub ścianę",
+   "Przyklejasz pas prosto i dopasowujesz wzór",
+   "Wygładzasz tapetę, żeby nie było bąbli"
+  ]
+ },
+ {
+  "id": 1056,
+  "name": "Monter torów kolejowych",
+  "desc": "Monterzy torów kolejowych budują tory kolejowe na przygotowanych miejscach. Monitorują oni sprzęt, który ustawia podkłady kolejowe lub cięgna, zazwyczaj na warstwie rozdrobnionego kamienia lub balastu. Monterzy torów kolejowych układają tory kolejowe na podkładach i łączą je, aby upewnić się, że szyny mają stałą szerokość torów lub odległość między sobą. Czynności te są zwykle wykonywane za pomocą jednej ruchomej maszyny, ale mogą być wykonywane ręcznie.",
+  "path": "Budownictwo i architektura > Pomocnicy w budownictwie i górnictwie",
+  "tasks": [
+   "Obserwujesz maszynę układającą podkłady",
+   "Układasz szyny na podkładach",
+   "Mocujesz szyny w stałym rozstawie",
+   "Wyrównujesz warstwę kamiennego tłucznia"
+  ]
+ },
+ {
+  "id": 1057,
+  "name": "Monter znaków drogowych",
+  "desc": "Monterzy znaków drogowych przywożą znaki drogowe do określonej lokalizacji i ustawiają je. Monterzy mogą wywiercić otwór w ziemi lub usunąć istniejącą nawierzchnię w celu uzyskania dostępu do gleby. Mogą oni zakotwiczyć ciężkie znaki w betonie.",
+  "path": "Budownictwo i architektura > Pomocnicy w budownictwie i górnictwie",
+  "tasks": [
+   "Przywozisz znaki i słupki na wskazane miejsce",
+   "Wiercisz otwór w ziemi pod słupek",
+   "Usuwasz fragment nawierzchni, żeby dostać się do gleby",
+   "Zakotwiczasz ciężki znak w betonie"
+  ]
+ },
+ {
+  "id": 1058,
+  "name": "Pomocniczy robotnik budowlany",
+  "desc": "Pomocniczy robotnicy budowlani przygotowują i utrzymują działania związane z budową obiektów na placach budowy. Wykonują prace przygotowawcze i porządkowe mające na celu pomoc wyspecjalizowanym robotnikom budowlanym.",
+  "path": "Budownictwo i architektura > Pomocnicy w budownictwie i górnictwie",
+  "tasks": [
+   "Rozładowujesz cegły, worki i narzędzia",
+   "Przygotowujesz stanowisko dla murarza",
+   "Mieszasz zaprawę i donosisz ją",
+   "Sprzątasz plac po skończonych pracach"
+  ]
+ },
+ {
+  "id": 1059,
+  "name": "Pracownik do oznakowania dróg",
+  "desc": "Pracownicy do oznakowania dróg zakładają oznakowanie dróg w celu zwiększenia bezpieczeństwa, wskazują przepisy ruchu drogowego i pomagają użytkownikom dróg w odnalezieniu drogi. Wykorzystują oni różne części maszyn do malowania linii na drodze i instalują inne oznakowania, takie jak światła odblaskowe.",
+  "path": "Budownictwo i architektura > Pomocnicy w budownictwie i górnictwie",
+  "tasks": [
+   "Wyznaczasz miarą i znacznikami przebieg linii",
+   "Malujesz linie maszyną na jezdni",
+   "Montujesz odblaski w nawierzchni",
+   "Ustawiasz stożki i tablice ostrzegawcze"
+  ]
+ },
+ {
+  "id": 1060,
+  "name": "Pracownik melioracji",
+  "desc": "Pracownicy melioracji montują i konserwują systemy drenażu i odwadniania. Kładą rury lub rury drenażowe do osuszania podłoża pewnej konstrukcji, aby doprowadzić do zatrzymania nadciągających wód gruntowych. Praca ta jest zazwyczaj wykonywana pod chodnikami i w piwnicach.",
+  "path": "Budownictwo i architektura > Pomocnicy w budownictwie i górnictwie",
+  "tasks": [
+   "Kopiesz rów wzdłuż fundamentu",
+   "Układasz rury drenażowe ze spadkiem",
+   "Zasypujesz rurę żwirem i ziemią",
+   "Sprawdzasz, czy woda swobodnie odpływa"
+  ]
+ },
+ {
+  "id": 1061,
+  "name": "Robotnik drogowy",
+  "desc": "Robotnicy drogowi przeprowadzają rutynowe kontrole dróg i są wysyłani do wykonania napraw w razie wezwania. Łatają koleiny, pęknięcia i inne uszkodzenia dróg.",
+  "path": "Budownictwo i architektura > Pomocnicy w budownictwie i górnictwie",
+  "tasks": [
+   "Oglądasz drogę i szukasz uszkodzeń",
+   "Wycinasz zniszczony kawałek nawierzchni",
+   "Wypełniasz dziurę masą asfaltową",
+   "Ustawiasz oznakowanie wokół miejsca robót"
+  ]
+ },
+ {
+  "id": 1062,
+  "name": "Robotnik górniczy",
+  "desc": "Robotnicy górniczy wykonują rutynowe zadania w zakresie działalności górniczej i wydobywczej. Pomagają oni górnikom w konserwacji urządzeń, układaniu rur, kabli i tuneli, a także usuwaniu odpadów.",
+  "path": "Budownictwo i architektura > Pomocnicy w budownictwie i górnictwie",
+  "tasks": [
+   "Układasz rury i kable w tunelu",
+   "Pomagasz górnikom konserwować urządzenia",
+   "Usuwasz odpady i urobek z przejść",
+   "Przenosisz narzędzia i materiały na stanowisko"
+  ]
+ },
+ {
+  "id": 1063,
+  "name": "Robotnik pomocniczy budowy dróg wodnych",
+  "desc": "Robotnicy pomocniczy dróg wodnych konserwują kanały, tamy i inne struktury dróg wodnych, takie jak nadbrzeżne lub lądowe oczyszczalnie wody. Odpowiadają za budowę falochronów, kanałów, grobli i nasypów, oraz inne prace w wodzie i wokół niej.",
+  "path": "Budownictwo i architektura > Pomocnicy w budownictwie i górnictwie",
+  "tasks": [
+   "Układasz kamienie i bloki na umocnieniach brzegu",
+   "Sypiesz groble i nasypy przy kanale",
+   "Czyścisz i naprawiasz tamy oraz śluzy",
+   "Pomagasz przy pracach w wodzie"
+  ]
+ },
+ {
+  "id": 1064,
+  "name": "Robotnik wykonujący prace proste w budownictwie drogowym i wodnym",
+  "desc": "Robotnicy wykonujący prace proste w budownictwie drogowym i wodnym wykonują zadania w zakresie czyszczenia i przygotowania placów budowy dla projektów inżynierii lądowej. Obejmuje to prace w zakresie budowy i konserwacji dróg, linii kolejowych i zapór.",
+  "path": "Budownictwo i architektura > Pomocnicy w budownictwie i górnictwie",
+  "tasks": [
+   "Oczyszczasz teren z krzaków i gruzu",
+   "Tyczysz i znakujesz miejsca robót",
+   "Przenosisz materiały i narzędzia dla brygady",
+   "Pomagasz przy utrzymaniu torów i zapór"
+  ]
+ },
+ {
+  "id": 1065,
+  "name": "Inżynier geodeta",
+  "desc": "Inżynierowie geodeci określają za pomocą specjalistycznego sprzętu odległości i położenia punktów na powierzchni obiektów budowlanych. Wykorzystują pomiary konkretnych aspektów obiektów budowlanych, takich jak energia elektryczna, pomiary odległości i objętości struktur metalowych, w celu stworzenia rysunków architektonicznych i opracowania projektów budowlanych.",
+  "path": "Budownictwo i architektura > Kartografowie i geodeci",
+  "tasks": [
+   "Ustawiasz instrument na działce i mierzysz punkty",
+   "Wyznaczasz na gruncie miejsce pod fundamenty",
+   "Przetwarzasz pomiary na rysunki i plany",
+   "Sprawdzasz, czy budowa zgadza się z projektem"
+  ]
+ },
+ {
+  "id": 1066,
+  "name": "Inżynier geodeta - geodezja górnicza",
+  "desc": "Inżynierowie geodeci (geodezja górnicza) przygotowują i utrzymują plany górnicze zgodnie z wymogami ustawowymi i wymogami w zakresie zarządzania. Prowadzą oni rejestr postępów w zakresie czynności górniczych oraz w zakresie wydobycia rudy lub minerałów.",
+  "path": "Budownictwo i architektura > Kartografowie i geodeci",
+  "tasks": [
+   "Mierzysz wyrobiska pod ziemią",
+   "Aktualizujesz plany górnicze po każdym postępie",
+   "Prowadzisz rejestr wydobycia rudy lub minerałów",
+   "Sprawdzasz, czy plany zgadzają się z przepisami"
+  ]
+ },
+ {
+  "id": 1067,
+  "name": "Inżynier geodeta - hydrografia",
+  "desc": "Inżynierowie geodeci (hydrografia) mierzą i mapują środowiska morskie za pomocą specjalistycznego sprzętu. Gromadzą oni dane naukowe w celu badania topografii pod wodą i morfologii części wód.",
+  "path": "Budownictwo i architektura > Kartografowie i geodeci",
+  "tasks": [
+   "Mierzysz głębokość i kształt dna",
+   "Zbierasz dane z urządzeń na łodzi",
+   "Sprawdzasz, jak zmienia się dno z czasem",
+   "Tworzysz mapy podwodnego terenu"
+  ]
+ },
+ {
+  "id": 1068,
+  "name": "Inżynier geodeta - kataster i gospodarka nieruchomościami",
+  "desc": "Inżynierowie geodeci (kataster i gospodarka nieruchomościami) opracowują i tworzą mapy i plany, przekształcając wyniki pomiarów w kataster nieruchomości w danej społeczności. Definiują i określają granice nieruchomości i własności, użytkowanie gruntów oraz tworzą mapy miast i powiatów wykorzystujące sprzęt pomiarowy i oprogramowanie specjalistyczne.",
+  "path": "Budownictwo i architektura > Kartografowie i geodeci",
+  "tasks": [
+   "Wyznaczasz granice działek w terenie",
+   "Sprawdzasz opisy gruntów i budynków",
+   "Nanosisz granice na mapę katastralną",
+   "Wyjaśniasz sąsiadom, którędy biegnie granica"
+  ]
+ },
+ {
+  "id": 1069,
+  "name": "Inżynier geodeta – geomatyka",
+  "desc": "Inżynierowie geodeci (geomatyka) wykorzystują specjalistyczne systemy komputerowe, środki inżynieryjne i koncepcje geologiczne do przetwarzania informacji gruntowych, geograficznych i geoprzestrzennych na wizualnie szczegółowe mapy cyfrowe oraz w geomodele zbiornika. Przekształcają informacje techniczne, takie jak gęstość gleby i właściwości w reprezentacje cyfrowe, do użytku inżynierów, rządów i zainteresowanych stron.",
+  "path": "Budownictwo i architektura > Kartografowie i geodeci",
+  "tasks": [
+   "Łączysz dane geograficzne z różnych źródeł",
+   "Zamieniasz pomiary gruntu na mapy cyfrowe",
+   "Budujesz trójwymiarowe modele terenu",
+   "Przygotowujesz wyniki dla inżynierów i urzędów"
+  ]
+ },
+ {
+  "id": 1070,
+  "name": "Kartograf",
+  "desc": "Kartografowie tworzą mapy, łącząc różne informacje naukowe w zależności od celu mapy (np. mapy topograficzne, miejskie lub polityczne). Łączą interpretację notatek matematycznych i pomiarów z estetyką i wizualizacją terenu w celu opracowania map. Mogą również pracować nad rozwijaniem i udoskonalaniem systemów informacji geograficznej i mogą prowadzić badania naukowe w kartografii.",
+  "path": "Budownictwo i architektura > Kartografowie i geodeci",
+  "tasks": [
+   "Zbierasz dane o terenie z pomiarów",
+   "Wybierasz, co trafi na mapę",
+   "Dobierasz kolory, znaki i opisy",
+   "Sprawdzasz, czy mapa jest czytelna"
+  ]
+ },
+ {
+  "id": 1071,
+  "name": "Deweloper budowlany",
+  "desc": "Deweloperzy budowlani kupują ziemię, finansują transakcje, zamawiają projekty budowlane i aranżują proces rozwoju. Nabywają oni grunt, decydują o strategii marketingowej, a także opracowują program budowlany. Deweloperzy muszą również uzyskać prawną zgodę i finansowanie. Po zakończeniu projektu mogą wydzierżawić, zarządzać lub sprzedać nieruchomość.",
+  "path": "Budownictwo i architektura > Kierownik budowy",
+  "tasks": [
+   "Szukasz i kupujesz grunt pod budowę",
+   "Zamawiasz projekty i starasz się o pozwolenia",
+   "Szukasz banku lub inwestorów na budowę",
+   "Sprzedajesz albo wynajmujesz gotowe mieszkania"
+  ]
+ },
+ {
+  "id": 1072,
+  "name": "Generalny wykonawca w budownictwie",
+  "desc": "Generalni wykonawcy w budownictwie przyjmują na siebie odpowiedzialność za realizację projektu budowlanego. Uczestniczą w procesie składania ofert na projekty budowlane i zatrudniają podwykonawców do realizacji różnych etapów procesu budowy od początku do końca. Upewniają się, że podwykonawcy podpisali swoją część umowy i pracują na budowie, aby upewnić się, że projekt zostanie dostarczony na czas i zgodnie z ustalonymi standardami.",
+  "path": "Budownictwo i architektura > Kierownik budowy",
+  "tasks": [
+   "Przygotowujesz ofertę na budowę",
+   "Wybierasz podwykonawców i podpisujesz umowy",
+   "Układasz kolejność prac różnych firm",
+   "Sprawdzasz na budowie postęp i terminy"
+  ]
+ },
+ {
+  "id": 1073,
+  "name": "Planista przestrzenny",
+  "desc": "Planiści przestrzenni odwiedzają zakłady w celu stworzenia projektów i planów użytkowania i rozwoju gruntów. Gromadzą i analizują dane dotyczące gruntów. Planiści przestrzenni udzielają porad na temat efektywności i bezpieczeństwa planów rozwoju.",
+  "path": "Budownictwo i architektura > Urbaniści i inżynierowie ruchu drogowego",
+  "tasks": [
+   "Odwiedzasz tereny i oglądasz grunt",
+   "Zbierasz i analizujesz dane o gruntach",
+   "Rysujesz projekty zagospodarowania działek",
+   "Doradzasz, czy plan jest bezpieczny"
+  ]
+ },
+ {
+  "id": 1074,
+  "name": "Planista transportu",
+  "desc": "Planiści transportu opracowują i wdrażają polityki w celu poprawy systemów transportowych, biorąc pod uwagę czynniki społeczne, środowiskowe i gospodarcze. Gromadzą i analizują dane o ruchu z wykorzystaniem narzędzi do modelowania statystycznego.",
+  "path": "Budownictwo i architektura > Urbaniści i inżynierowie ruchu drogowego",
+  "tasks": [
+   "Zbierasz dane o ruchu pojazdów i pieszych",
+   "Modelujesz ruch narzędziami statystycznymi",
+   "Piszesz propozycje zmian w komunikacji",
+   "Oceniasz wpływ zmian na ludzi i środowisko"
+  ]
+ },
+ {
+  "id": 1075,
+  "name": "Architekt krajobrazu",
+  "desc": "Architekci krajobrazu planują i projektują budowę ogrodów i przestrzeni naturalnych. Określają specyfikacje i rozmieszczenie tej przestrzeni. Łączą rozumienie obszaru naturalnego z poczuciem estetyki w celu stworzenia harmonijnej przestrzeni.",
+  "path": "Budownictwo i architektura > Architekt krajobrazu",
+  "tasks": [
+   "Oglądasz teren i sprawdzasz jego naturalne warunki",
+   "Rysujesz plan rozmieszczenia ścieżek i roślin",
+   "Dobierasz gatunki drzew i krzewów",
+   "Przygotowujesz specyfikację dla wykonawców ogrodu"
+  ]
+ },
+ {
+  "id": 1076,
+  "name": "Projektant krajobrazu",
+  "desc": "Projektanci krajobrazu projektują i tworzą zewnętrzne obszary publiczne, charakterystyczne punkty, konstrukcje, parki, ogrody i ogrody prywatne w celu osiągnięcia celów środowiskowych, społecznych i behawioralnych lub estetycznych.",
+  "path": "Budownictwo i architektura > Architekt krajobrazu",
+  "tasks": [
+   "Rozmawiasz z właścicielem ogrodu o jego pomysłach",
+   "Szkicujesz układ ścieżek, rabat i oczek wodnych",
+   "Wybierasz drewno, kamień i rośliny",
+   "Pilnujesz, żeby ekipa urządziła ogród według projektu"
+  ]
+ },
+ {
+  "id": 1077,
+  "name": "Krajacz odpadów metalowych",
+  "desc": "Krajacze odpadów metalowych tną duże arkusze złomu metalowego w celu ich przygotowania do wykorzystania w hucie.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Sortujesz złom według rodzaju metalu",
+   "Ustawiasz duże arkusze pod nożycami",
+   "Tniesz złom na kawałki dla huty",
+   "Układasz pocięte kawałki do załadunku"
+  ]
+ },
+ {
+  "id": 1078,
+  "name": "Mechanik precyzyjny samochodowy",
+  "desc": "Mechanicy precyzyjni samochodowi wytwarzają precyzyjne elementy przekładni oraz innych elementów napędowych. Korzystają z różnych maszyn obróbczych.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Czytasz rysunek techniczny części",
+   "Obrabiasz elementy przekładni na maszynach",
+   "Mierzysz części suwmiarką i innymi przyrządami",
+   "Odrzucasz części, które nie mieszczą się w tolerancji"
+  ]
+ },
+ {
+  "id": 1079,
+  "name": "Monter metaloplastyki budowlanej",
+  "desc": "Monterzy metaloplastyki budowlanej stosują urządzenia i maszyny wykańczające do kształtowania i wykańczania wytwarzanych ozdobnych detali metalowych, często wykorzystywanych w procesie instalowania w budownictwie, takich jak poręcze, schody wewnętrzne, podłogi z kratownic, ogrodzenia i bramy oraz inne.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Kształtujesz metal na maszynach wykończeniowych",
+   "Szlifujesz i wygładzasz detale",
+   "Składasz poręcze, bramy i ogrodzenia",
+   "Montujesz gotowe elementy w budynku"
+  ]
+ }
+]

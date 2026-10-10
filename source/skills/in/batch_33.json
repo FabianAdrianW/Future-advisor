@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1980,
+  "name": "Technik biochemii",
+  "desc": "Technicy biochemii zapewniają pomoc techniczną w badaniu, analizowaniu i testowaniu reakcji organizmów żywych wywołanych przez chemikalia. Wykorzystują sprzęt laboratoryjny do opracowywania lub ulepszania produktów na bazie substancji chemicznych, a także gromadzą i analizują dane na potrzeby eksperymentów, sporządzają raporty i dbają o zasoby laboratorium.",
+  "path": "Przyroda i środowisko > Technicy biologii, rolnictwa i leśnictwa",
+  "tasks": [
+   "Przygotowujesz roztwory i próbki do doświadczeń",
+   "Obsługujesz aparaty pomiarowe w laboratorium",
+   "Zbierasz dane i układasz je w tabelach",
+   "Pilnujesz zapasów odczynników w magazynie"
+  ]
+ },
+ {
+  "id": 1981,
+  "name": "Technik biolog",
+  "desc": "Technicy biolodzy zapewniają pomoc techniczną w badaniu i analizowaniu związków między żywymi organizmami a ich środowiskiem. Wykorzystują sprzęt laboratoryjny do badania substancji organicznych, takich jak płyny ustrojowe, leki, rośliny i żywność. Gromadzą i analizują dane do eksperymentów, sporządzają raporty i dbają o zasoby laboratorium.",
+  "path": "Przyroda i środowisko > Technicy biologii, rolnictwa i leśnictwa",
+  "tasks": [
+   "Badasz próbki roślin, płynów i żywności",
+   "Oglądasz materiał pod mikroskopem",
+   "Zbierasz dane z doświadczeń",
+   "Porządkujesz sprzęt i zapasy w pracowni"
+  ]
+ },
+ {
+  "id": 1982,
+  "name": "Technik botanik",
+  "desc": "Technicy botanicy zapewniają pomoc techniczną w badaniu różnych gatunków roślin i wykonywaniu na nich testów w celu monitorowania ich właściwości, takich jak wzrost i budowa. Gromadzą i analizują dane za pomocą sprzętu laboratoryjnego, sporządzają raporty i dbają o zasoby laboratorium. Ponadto technicy botanicy badają rośliny pod kątem wykorzystania w takich dziedzinach, jak medycyna, przemysł spożywczy i materiałoznawstwo.",
+  "path": "Przyroda i środowisko > Technicy biologii, rolnictwa i leśnictwa",
+  "tasks": [
+   "Mierzysz wzrost i opisujesz budowę roślin",
+   "Prowadzisz hodowle w szklarni lub na szalkach",
+   "Testujesz właściwości roślin w laboratorium",
+   "Piszesz raporty z obserwacji"
+  ]
+ },
+ {
+  "id": 1983,
+  "name": "Technik zoolog",
+  "desc": "Technicy zoolodzy zapewniają pomoc techniczną w badaniu gatunków zwierząt i wykonywaniu na nich testów przy użyciu sprzętu laboratoryjnego. Pomagają w badaniach nad zwierzętami oraz ich otoczeniem i ekosystemami. Gromadzą i analizują dane, sporządzają raporty i dbają o zasoby laboratorium.",
+  "path": "Przyroda i środowisko > Technicy biologii, rolnictwa i leśnictwa",
+  "tasks": [
+   "Obserwujesz zwierzęta i notujesz ich zachowania",
+   "Zbierasz próbki i ślady w terenie",
+   "Prowadzisz badania w pracowni",
+   "Opracowujesz dane i raporty"
+  ]
+ },
+ {
+  "id": 1984,
+  "name": "Doradca ds. uprawy winorośli",
+  "desc": "Doradcy ds. uprawy winorośli doradzają w zakresie poprawy produkcji w winnicach i produkcji wina.",
+  "path": "Przyroda i środowisko > Technicy biologii, rolnictwa i leśnictwa",
+  "tasks": [
+   "Oceniasz stan krzewów i gron w winnicy",
+   "Radzisz, kiedy ciąć krzewy i zbierać grona",
+   "Wskazujesz choroby i szkodniki winorośli",
+   "Proponujesz zmiany w produkcji wina"
+  ]
+ },
+ {
+  "id": 1985,
+  "name": "Inspektor akwakultury",
+  "desc": "Inspektorzy akwakultury nadzorują procesy produkcyjne w prowadzonych na dużą skalę zakładach akwakultury oraz kontrolują miejsca prowadzenia akwakultury w celu utrzymania i poprawy wyników. Dbają o zapewnienie zdrowia, bezpieczeństwa i ochrony w miejscu pracy, opracowują plany zarządzania w celu zmniejszenia zagrożeń powodowanych przez szkodniki, drapieżniki i choroby, a także nadzorują usuwanie odpadów biologicznych i chemicznych oraz konserwację maszyn i urządzeń.",
+  "path": "Przyroda i środowisko > Technicy biologii, rolnictwa i leśnictwa",
+  "tasks": [
+   "Obchodzisz stawy i zbiorniki z hodowlą",
+   "Planujesz ochronę przed chorobami i drapieżnikami",
+   "Nadzorujesz usuwanie odpadów z hodowli",
+   "Sprawdzasz maszyny i bezpieczeństwo pracowników"
+  ]
+ },
+ {
+  "id": 1986,
+  "name": "Inspektor jakości akwakultury",
+  "desc": "Inspektorzy jakości akwakultury ustanawiają normy i zasady polityki dotyczące kontroli jakości produkcji organizmów wodnych. Badają i kontrolują żywy inwentarz zgodnie z zasadami analizy zagrożeń i krytycznych punktów kontroli (HACCP) oraz przepisami w zakresie bezpieczeństwa.",
+  "path": "Przyroda i środowisko > Technicy biologii, rolnictwa i leśnictwa",
+  "tasks": [
+   "Pobierasz próbki ryb do badań",
+   "Sprawdzasz, czy produkcja spełnia normy",
+   "Dokumentujesz każdą kontrolę",
+   "Ustalasz zasady kontroli jakości w zakładzie"
+  ]
+ },
+ {
+  "id": 1987,
+  "name": "Technik biotechnolog",
+  "desc": "Technicy biotechnolodzy wykonują prace z zakresu technologii, zapewniając pomoc badaczom. Pracują w laboratoriach, gdzie pomagają badaczom w badaniach, rozwijaniu i testowaniu rozwiązań biotechnologicznych. Ustawiają sprzęt laboratoryjny, przygotowują badania naukowe i gromadzą dane naukowe.",
+  "path": "Przyroda i środowisko > Technicy biologii, rolnictwa i leśnictwa",
+  "tasks": [
+   "Ustawiasz i przygotowujesz sprzęt laboratoryjny",
+   "Przygotowujesz hodowle komórek do badań",
+   "Wykonujesz zaplanowane testy według instrukcji",
+   "Zbierasz i porządkujesz dane naukowe"
+  ]
+ },
+ {
+  "id": 1988,
+  "name": "Technik rolnik",
+  "desc": "Technicy rolnicy zbierają próbki i przeprowadzają eksperymenty i testy na próbkach z zakresu rolnictwa i akwakultury. Zapewniają wsparcie dla naukowców i rolników, analizują warunki środowiska zbieranych próbek oraz sporządzają sprawozdania na ich temat.",
+  "path": "Przyroda i środowisko > Technicy biologii, rolnictwa i leśnictwa",
+  "tasks": [
+   "Pobierasz próbki gleby i roślin",
+   "Prowadzisz doświadczenia na poletkach",
+   "Oceniasz warunki środowiska uprawy",
+   "Piszesz sprawozdania z wyników"
+  ]
+ },
+ {
+  "id": 1989,
+  "name": "Inspektor ds. postępowania z materiałami niebezpiecznymi",
+  "desc": "Inspektorzy ds. postępowania z materiałami niebezpiecznymi przeprowadzają inspekcje obiektów, które zajmują się materiałami niebezpiecznymi, w celu zapewnienia zgodności z przepisami w zakresie zdrowia i bezpieczeństwa oraz z prawodawstwem dotyczącym postępowania z materiałami niebezpiecznymi. Badają naruszenia, nadzorują testy planów działań ratunkowych i reagowania na zagrożenia oraz prowadzą konsultacje w sprawie poprawy funkcjonowania i procedur obiektów, a także w sprawie przepisów dotyczących materiałów niebezpiecznych.",
+  "path": "Przyroda i środowisko > Inspektorzy BHP i ochrony środowiska",
+  "tasks": [
+   "Kontrolujesz magazyny i oznaczenia substancji",
+   "Badasz naruszenia przepisów",
+   "Obserwujesz ćwiczenia na wypadek awarii",
+   "Doradzasz, jak poprawić procedury w zakładzie"
+  ]
+ },
+ {
+  "id": 1990,
+  "name": "Inspektor edukator ds. odpadów niebezpiecznych",
+  "desc": "Inspektorzy edukatorzy ds. odpadów niebezpiecznych przeprowadzają inspekcje zakładów przemysłowych w celu zapewnienia ich zgodności z przepisami dotyczącymi unieszkodliwiania odpadów oraz kontroli ich wyposażenia w celu sprawdzenia, czy są one sprawne i funkcjonują zgodnie z przepisami. Zadaniem inspektorów jest również edukowanie społeczeństwa w zakresie substancji niebezpiecznych oraz przepisów dotyczących postępowania z odpadami niebezpiecznymi.",
+  "path": "Przyroda i środowisko > Inspektorzy BHP i ochrony środowiska",
+  "tasks": [
+   "Kontrolujesz, jak zakład utylizuje odpady",
+   "Sprawdzasz sprawność urządzeń do unieszkodliwiania",
+   "Prowadzisz pogadanki o groźnych substancjach",
+   "Przygotowujesz materiały edukacyjne dla mieszkańców"
+  ]
+ },
+ {
+  "id": 1991,
+  "name": "Inspektor ochrony środowiska ds. gospodarowania odpadami",
+  "desc": "Inspektorzy ochrony środowiska ds. gospodarowania odpadami przeprowadzają kontrole w przedsiębiorstwach w celu zapewnienia zgodności z przepisami dotyczącymi odpadów i ochrony środowiska. Sprawdzają dokumentację dotyczącą gospodarowania odpadami, pobierają próbki do analizy i monitorują przestrzeganie praktyk przemysłowych. Mogą doradzać w zakresie działań zapobiegawczych lub naprawczych w celu poprawy gospodarowania odpadami przemysłowymi i ich unieszkodliwiania.",
+  "path": "Przyroda i środowisko > Inspektorzy BHP i ochrony środowiska",
+  "tasks": [
+   "Sprawdzasz dokumentację odpadów w firmie",
+   "Pobierasz próbki do analizy",
+   "Oglądasz składowiska i miejsca magazynowania",
+   "Doradzasz, jak naprawić nieprawidłowości"
+  ]
+ },
+ {
+  "id": 1992,
+  "name": "Inspektor bezpieczeństwa i higieny pracy",
+  "desc": "Inspektorzy bezpieczeństwa i higieny pracy przeprowadzają audyty w miejscu pracy w celu zapewnienia zgodności z przepisami wykonawczymi i z zakresu ochrony środowiska. Prowadzą również dochodzenia w sprawie wypadków przy pracy. Inspektorzy bezpieczeństwa i higieny pracy przeprowadzają wywiady z pracownikami w celu zapewnienia, aby środowisko pracy było zgodne z zasadami bezpieczeństwa i higieny pracy, a także badają fizyczne miejsce pracy oraz analizują dokumentację dotyczącą zgodności z przepisami.",
+  "path": "Przyroda i środowisko > Inspektorzy BHP i ochrony środowiska",
+  "tasks": [
+   "Robisz audyty stanowisk pracy",
+   "Rozmawiasz z pracownikami o zagrożeniach",
+   "Badasz przyczyny wypadków przy pracy",
+   "Sprawdzasz dokumenty i szkolenia"
+  ]
+ },
+ {
+  "id": 1993,
+  "name": "Inspektor sanitarny",
+  "desc": "Inspektorzy sanitarni odwiedzają placówki medyczne, aby zapewnić, że wszyscy pacjenci są pod odpowiednią opieką zgodnie z wymogami prawnymi. Sprawdzają również, czy sprzęt, procesy i personel działają w odpowiedni sposób, aby zapobiegać rozprzestrzenianiu się zakażeń i chorób.",
+  "path": "Przyroda i środowisko > Inspektorzy BHP i ochrony środowiska",
+  "tasks": [
+   "Oglądasz sale, sprzęt i sterylizację",
+   "Obserwujesz, jak personel stosuje zasady higieny",
+   "Sprawdzasz plany zapobiegania zakażeniom",
+   "Spisujesz uchybienia i terminy poprawy"
+  ]
+ },
+ {
+  "id": 1994,
+  "name": "Doradca ds. przepisów dotyczących żywności",
+  "desc": "Doradcy ds. przepisów dotyczących żywności są pozasądowymi lub sądowymi ekspertami technicznymi. Zapewniają zgodność praktyk przemysłu spożywczego z przepisami. Przeprowadzają audyty, opracowują diagnozy i monitorują czynności kontrolne. Eksperci ci mają fachową wiedzę w zakresie przetwórstwa żywności, analizy żywności, jakości, bezpieczeństwa, certyfikacji oraz identyfikowalności. Uaktualniają i zatwierdzają wzory etykiet oraz dokonują ich przeglądu, opracowują tabele wartości odżywczych, a także zapewniają zgodność produktów i etykiet z odpowiednimi normami i regulacjami.",
+  "path": "Przyroda i środowisko > Inspektorzy BHP i ochrony środowiska",
+  "tasks": [
+   "Robisz audyty w zakładzie przetwórczym",
+   "Sprawdzasz i poprawiasz wzory etykiet",
+   "Układasz tabele wartości odżywczych",
+   "Śledzisz, skąd pochodzą składniki"
+  ]
+ },
+ {
+  "id": 1995,
+  "name": "Inspektor bezpieczeństwa i higieny pracy w sektorze transportu",
+  "desc": "Inspektorzy bezpieczeństwa i higieny pracy w sektorze transportu są odpowiedzialni za zachowanie norm bezpieczeństwa, ograniczanie ryzyka dla przedsiębiorstw, pracowników i klientów oraz spełnianie norm branżowych. Oceniają istniejące systemy bezpieczeństwa w celu określenia potencjalnych zagrożeń we wszystkich sektorach transportu, takich jak transport drogowy i morski, oraz opracowują strategie i procedury, które minimalizują ryzyko dla nieruchomości, pracowników i systemów komputerowych.",
+  "path": "Przyroda i środowisko > Inspektorzy BHP i ochrony środowiska",
+  "tasks": [
+   "Oceniasz systemy bezpieczeństwa w firmie transportowej",
+   "Szukasz zagrożeń na trasach i w bazach",
+   "Układasz procedury ograniczania ryzyka",
+   "Szkolisz kierowców i obsługę"
+  ]
+ },
+ {
+  "id": 1996,
+  "name": "Inspektor inspekcji sanitarnej",
+  "desc": "Inspektorzy inspekcji sanitarnej przeprowadzają dochodzenia w celu zapewnienia zgodności obszarów, organizacji i przedsiębiorstw z przepisami dotyczącymi ochrony środowiska i zdrowia publicznego. Rozpatrują skargi dotyczące ochrony środowiska, opracowują sprawozdania z ustaleń i działają na rzecz zapobiegania przyszłym zagrożeniom lub przypadkom niezgodności z aktualnymi zasadami polityki. Inspektorzy inspekcji sanitarnej prowadzą konsultacje w celu promowania zdrowia i bezpieczeństwa publicznego.",
+  "path": "Przyroda i środowisko > Inspektorzy BHP i ochrony środowiska",
+  "tasks": [
+   "Przyjmujesz skargi mieszkańców i sprawdzasz je",
+   "Oglądasz miejsca i obiekty na miejscu",
+   "Piszesz sprawozdania z ustaleń",
+   "Doradzasz, jak zapobiec zagrożeniom w przyszłości"
+  ]
+ },
+ {
+  "id": 1997,
+  "name": "Kontroler bezpieczeństwa żywności",
+  "desc": "Kontrolerzy bezpieczeństwa żywności przeprowadzają inspekcje w środowiskach przetwórstwa spożywczego pod kątem bezpieczeństwa żywności. Są pracownikami oficjalnych organów kontroli, które sprawdzają i kontrolują produkty i procesy spożywcze w celu zapewnienia zgodności z przepisami ustawowymi i wykonawczymi dotyczącymi bezpieczeństwa i zdrowia.",
+  "path": "Przyroda i środowisko > Inspektorzy BHP i ochrony środowiska",
+  "tasks": [
+   "Kontrolujesz zakłady przetwórstwa spożywczego",
+   "Sprawdzasz temperatury i czystość na produkcji",
+   "Przeglądasz dokumenty i pochodzenie surowców",
+   "Wypisujesz zalecenia i kontrolujesz poprawki"
+  ]
+ },
+ {
+  "id": 1998,
+  "name": "Inżynier inżynierii środowiska - górnictwo",
+  "desc": "Inżynierowie inżynierii środowiska w górnictwie sprawują nadzór nad efektywnością środowiskową działalności wydobywczej. Opracowują i wdrażają systemy i strategie ochrony środowiska w celu zminimalizowania wpływu na środowisko.",
+  "path": "Przyroda i środowisko > Inżynierowie inżynierii środowiska",
+  "tasks": [
+   "Mierzysz wpływ kopalni na wodę i powietrze",
+   "Projektujesz systemy ochrony środowiska",
+   "Nadzorujesz rekultywację terenów po wydobyciu",
+   "Sprawdzasz, czy kopalnia spełnia normy"
+  ]
+ },
+ {
+  "id": 1999,
+  "name": "Inżynier inżynierii środowiska - oczyszczanie miast i gospodarka odpadami",
+  "desc": "Inżynierowie inżynier inżynierii środowiska (oczyszczanie miast i gospodarka odpadami) projektują procesy, obiekty i sprzęt wykorzystywany w zbieraniu, przetwarzaniu i dystrybucji odpadów. Badają normy środowiskowe oraz polityki w celu optymalizacji procedur przetwarzania odpadów i zapewnienia minimalnego obciążenia środowiska poprzez analizę i klasyfikację przetworzonych odpadów.",
+  "path": "Przyroda i środowisko > Inżynierowie inżynierii środowiska",
+  "tasks": [
+   "Projektujesz obiekty i sprzęt do przetwarzania odpadów",
+   "Analizujesz skład przetwarzanych odpadów",
+   "Sprawdzasz przepisy i normy środowiskowe",
+   "Optymalizujesz trasy i procesy zbiórki"
+  ]
+ },
+ {
+  "id": 2000,
+  "name": "Kierownik ds. środowiska technologii informacyjno-telekomunikacyjnych",
+  "desc": "Kierownicy ds. środowiska technologii informacyjno-telekomunikacyjnych znają ramy prawne w zakresie zielonych technologii informacyjno-telekomunikacyjnych, rozumieją rolę konfiguracji sieciowych technologii informacyjno-telekomunikacyjnych w gospodarce i rozmieszczeniu zasobów energetycznych oraz oceniają wpływ emisji CO2 każdego zasobu technologii informacyjno-telekomunikacyjnych w sieci organizacji.",
+  "path": "Przyroda i środowisko > Inżynierowie inżynierii środowiska",
+  "tasks": [
+   "Mierzysz zużycie energii sprzętu informatycznego",
+   "Szacujesz emisje CO2 serwerów i sieci",
+   "Pilnujesz zgodności z przepisami o zielonych technologiach",
+   "Proponujesz oszczędniejsze rozwiązania"
+  ]
+ },
+ {
+  "id": 2001,
+  "name": "Specjalista ds. recyklingu",
+  "desc": "Specjaliści ds. recyklingu badają polityki i regulacje dotyczące recyklingu oraz sprawują nadzór nad ich wdrażaniem w organizacji w celu zapewnienia, by gospodarowanie odpadami odbywało się zgodnie z przepisami. Przeprowadzają inspekcje, dostarczają sprzęt do recyklingu i nadzorują pracowników zajmujących się recyklingiem. Doradzają również organizacjom, w jaki sposób mogą usprawnić swoje procedury gospodarowania odpadami.",
+  "path": "Przyroda i środowisko > Inżynierowie inżynierii środowiska",
+  "tasks": [
+   "Czytasz przepisy o recyklingu i wdrażasz je",
+   "Kontrolujesz miejsca segregacji odpadów",
+   "Zamawiasz pojemniki i sprzęt do recyklingu",
+   "Nadzorujesz pracowników i doradzasz zmiany"
+  ]
+ },
+ {
+  "id": 2002,
+  "name": "Specjalista ochrony środowiska",
+  "desc": "Specjaliści ochrony środowiska szukają rozwiązań technologicznych w celu rozwiązania problemów związanych z ochroną środowiska. Ich zadaniem jest wykrywanie i analizowanie zagadnień związanych z ochroną środowiska oraz opracowywanie nowych technologicznych procesów produkcyjnych w celu przeciwdziałania tym problematycznym kwestiom. Badają wpływ na innowacje technologiczne i przedstawiają swoje ustalenia w sprawozdaniach naukowych.",
+  "path": "Przyroda i środowisko > Inżynierowie inżynierii środowiska",
+  "tasks": [
+   "Wykrywasz i analizujesz problemy środowiskowe",
+   "Opracowujesz nowe procesy produkcyjne",
+   "Badasz skutki nowych rozwiązań",
+   "Opisujesz wyniki w sprawozdaniach naukowych"
+  ]
+ },
+ {
+  "id": 2003,
+  "name": "Pracownik recyklingu",
+  "desc": "Pracownicy recyklingu oczyszczają materiały i usuwają odpady oraz dopilnowują, aby odpady i zebrane materiały zostały posortowane w odpowiednich pojemnikach do recyklingu. Rozbierają oni również pojazdy i sortują zebrane części oraz zostawiają materiały nadające się do recyklingu na przenośnikach taśmowych, gdzie mogą one być następnie sortowane.",
+  "path": "Przyroda i środowisko > Odpady i recykling",
+  "tasks": [
+   "Sortujesz materiały na taśmie",
+   "Wyjmujesz to, co nie nadaje się do recyklingu",
+   "Rozbierasz pojazdy i segregujesz części",
+   "Czyścisz materiały i stanowisko"
+  ]
+ },
+ {
+  "id": 2004,
+  "name": "Pracownik zbiórki odpadów",
+  "desc": "Pracownicy zbiórki odpadów usuwają odpady z domów i innych pomieszczeń i umieszczają je w śmieciarce w celu transportu do zakładu przetwarzania i utylizacji odpadów. Wspomagają oni kierowcę śmieciarki, pomagają w rozładowaniu odpadów i odnotowują ilość zebranych odpadów. Mogą również zbierać odpady z placów budowy i rozbiórki oraz odpady niebezpieczne.",
+  "path": "Przyroda i środowisko > Odpady i recykling",
+  "tasks": [
+   "Wrzucasz odpady do śmieciarki",
+   "Pomagasz kierowcy podczas manewrów",
+   "Rozładowujesz odpady w zakładzie przetwarzania",
+   "Notujesz ilość zebranych odpadów"
+  ]
+ },
+ {
+  "id": 2005,
+  "name": "Sortowacz surowców wtórnych",
+  "desc": "Sortowacze surowców wtórnych sortują materiały nadające się do recyklingu i odpady pochodzące ze strumienia recyklingu i dopilnowują, aby spośród materiałów do recyklingu wyeliminowane zostały materiały nienadające się do recyklingu. Kontrolują oni materiały i wykonują czynności czyszczenia oraz działają zgodnie z przepisami dotyczącymi odpadów.",
+  "path": "Przyroda i środowisko > Odpady i recykling",
+  "tasks": [
+   "Rozpoznajesz rodzaje materiałów na taśmie",
+   "Wyciągasz rzeczy, których nie da się przerobić",
+   "Czyścisz sortowane materiały",
+   "Pilnujesz przepisów o odpadach"
+  ]
+ },
+ {
+  "id": 2006,
+  "name": "Zamiatacz ulic",
+  "desc": "Zamiatacze ulic obsługują sprzęt i maszyny do zamiatania w celu usuwania odpadów, pozostałości lub śmieci z ulic. Odnotowują działania dotyczące zamiatania oraz wykonują konserwację, czyszczą i wykonują drobne naprawy wykorzystywanego sprzętu.",
+  "path": "Przyroda i środowisko > Odpady i recykling",
+  "tasks": [
+   "Prowadzisz zamiatarkę po wyznaczonej trasie",
+   "Usuwasz śmieci i piach z jezdni",
+   "Notujesz, które ulice są już zrobione",
+   "Czyścisz maszynę i naprawiasz drobne usterki"
+  ]
+ },
+ {
+  "id": 2007,
+  "name": "Doradca do spraw planowania rodziny",
+  "desc": "Doradcy do spraw planowania rodziny udzielają wsparcia i porad osobom dorosłym i młodzieży w kwestiach takich jak rozrodczość, metody antykoncepcyjne, ciąża lub przerwanie ciąży, zgodnie z przepisami i praktykami. Udzielają również informacji na temat utrzymania optymalnych praktyk w zakresie zdrowia, zapobiegania chorobom przenoszonym drogą płciową i wydawania zaleceń w zakresie leczenia, we współpracy z lekarzami zawodowymi.",
+  "path": "Opieka i pomoc ludziom > Specjaliści pracy socjalnej i doradztwa socjalnego",
+  "tasks": [
+   "Rozmawiasz o antykoncepcji i ciąży",
+   "Tłumaczysz, jak chronić się przed chorobami przenoszonymi drogą płciową",
+   "Informujesz o prawach i procedurach",
+   "Kierujesz do lekarza w razie potrzeby"
+  ]
+ },
+ {
+  "id": 2008,
+  "name": "Doradca do spraw pomocy po utracie osoby bliskiej",
+  "desc": "Doradcy do spraw pomocy po utracie osoby bliskiej udzielają wsparcia i wskazówek pacjentom i ich rodzinom, żeby łatwiej pogodzili się oni ze śmiercią najbliższych, pomagając im w pojawiających się sytuacjach, w hospicjach i podczas pogrzebu. Szkolą innych specjalistów i społeczności, uprzedzając potrzebę wsparcia po utracie osoby bliskiej i w reakcji na potrzeby edukacyjne.",
+  "path": "Opieka i pomoc ludziom > Specjaliści pracy socjalnej i doradztwa socjalnego",
+  "tasks": [
+   "Rozmawiasz z rodzinami po śmierci bliskiej osoby",
+   "Towarzyszysz pacjentom i rodzinie w hospicjum",
+   "Pomagasz w sprawach związanych z pogrzebem",
+   "Szkolisz innych, jak wspierać w żałobie"
+  ]
+ },
+ {
+  "id": 2009,
+  "name": "Doradca małżeństw i par",
+  "desc": "Doradcy małżeństw i par udzielają wsparcia i wskazówek parom i rodzinom, które przechodzą przez kryzysy, takie jak depresja, nadużywanie substancji odurzających i problemy z relacją. Pomagają poprawić komunikację, zapewniając terapię grupową lub indywidualną.",
+  "path": "Opieka i pomoc ludziom > Specjaliści pracy socjalnej i doradztwa socjalnego",
+  "tasks": [
+   "Prowadzisz sesje dla par i rodzin",
+   "Uczysz lepszej komunikacji między partnerami",
+   "Prowadzisz terapię indywidualną i grupową",
+   "Pomagasz nazwać źródło konfliktu"
+  ]
+ },
+ {
+  "id": 2010,
+  "name": "Doradca ofiar przemocy seksualnej",
+  "desc": "Doradcy ofiar przemocy seksualnej świadczą wsparcie, usługi w zakresie opieki w sytuacjach kryzysowych oraz doradztwo na rzecz kobiet i nastolatków, którzy byli bezpośrednio lub pośrednio narażeni na napaść na tle seksualnym i/lub gwałt. Informują ofiary o odpowiednich procedurach prawnych i zabezpieczeniach służących zachowaniu ich anonimowości. Zajmują się również problematycznymi zachowaniami o charakterze seksualnym u dzieci.",
+  "path": "Opieka i pomoc ludziom > Specjaliści pracy socjalnej i doradztwa socjalnego",
+  "tasks": [
+   "Udzielasz pierwszego wsparcia w kryzysie",
+   "Wyjaśniasz procedury prawne i zasady anonimowości",
+   "Prowadzisz rozmowy doradcze",
+   "Pracujesz z dziećmi nad problematycznymi zachowaniami seksualnymi"
+  ]
+ },
+ {
+  "id": 2011,
+  "name": "Doradca osób uzależnionych od alkoholu lub narkotyków",
+  "desc": "Doradcy osób uzależnionych od alkoholu lub narkotyków zapewniają pomoc i doradztwo jednostkom i rodzinom borykającym się z uzależnieniami od narkotyków i alkoholu, monitorując ich postępy, opowiadając się za nimi, prowadząc interwencje kryzysowe i terapię grupową. Pomagają im również w zakresie konsekwencji ich uzależnień, którymi mogą być: bezrobocie, zaburzenia fizyczne lub psychiczne oraz ubóstwo. Doradcy osób uzależnionych od alkoholu lub narkotyków mogą również przygotowywać programy edukacyjne dla grup wysokiego ryzyka.",
+  "path": "Opieka i pomoc ludziom > Specjaliści pracy socjalnej i doradztwa socjalnego",
+  "tasks": [
+   "Monitorujesz postępy osób w terapii",
+   "Prowadzisz grupy wsparcia",
+   "Interweniujesz w kryzysie",
+   "Przygotowujesz programy dla grup ryzyka"
+  ]
+ },
+ {
+  "id": 2012,
+  "name": "Pracownik socjalny - wsparcie psychologiczne",
+  "desc": "Pracownicy socjalni (wsparcie psychologiczne) udzielają wsparcia i wskazówek w obszarze pracy socjalnej, aby pomóc w rozwiązywaniu konkretnych problemów w życiu osobistym. Pomoc ta obejmuje problemy osobiste i związane z relacjami, rozwiązywanie konfliktów wewnętrznych, momenty kryzysowe, takie jak depresja i uzależnienie, aby wzmocnić pozycję jednostek w celu osiągnięcia zmian i poprawy jakości życia.",
+  "path": "Opieka i pomoc ludziom > Specjaliści pracy socjalnej i doradztwa socjalnego",
+  "tasks": [
+   "Prowadzisz rozmowy wspierające",
+   "Pomagasz rozwiązywać konflikty w rodzinie i relacjach",
+   "Reagujesz w kryzysie",
+   "Ustalasz z osobą plan zmiany"
+  ]
+ },
+ {
+  "id": 2013,
+  "name": "Pedagog socjalny",
+  "desc": "Pedagodzy socjalni zapewniają opiekę, wsparcie i edukację dzieciom i młodym osobom z różnych środowisk i o różnych możliwościach. Opracowują procesy edukacyjne dla osób młodych, służące temu, aby kierowały one własnymi doświadczeniami, przy zastosowaniu multidyscyplinarnego podejścia do doświadczenia edukacyjnego. Pedagodzy socjalni przyczyniają się do uczenia się i dobrostanu jednostek oraz ich integracji społecznej, a także kładą nacisk na budowanie samowystarczalności.",
+  "path": "Opieka i pomoc ludziom > Specjaliści pracy socjalnej i doradztwa socjalnego",
+  "tasks": [
+   "Prowadzisz zajęcia dla dzieci i młodzieży",
+   "Rozmawiasz o problemach i sytuacji w domu",
+   "Planujesz zajęcia dopasowane do możliwości uczestników",
+   "Współpracujesz z rodziną i szkołą"
+  ]
+ },
+ {
+  "id": 2014,
+  "name": "Opiekun domowy dorosłych",
+  "desc": "Opiekunowie domowi dorosłych świadczą usługi domowe dla osób dorosłych wymagających szczególnej troski, w tym niedołężnych osób w podeszłym wieku lub osób niepełnosprawnych z upośledzeniem fizycznym lub w trakcie rekonwalescencji. Ich celem jest poprawa życia tych pacjentów w społeczeństwie i umożliwienie im bezpiecznego i niezależnego życia we własnym domu.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Pomagasz w myciu i ubieraniu",
+   "Przygotowujesz posiłki i podajesz je",
+   "Robisz zakupy i sprzątasz",
+   "Pilnujesz leków i niepokojących objawów"
+  ]
+ },
+ {
+  "id": 2015,
+  "name": "Opiekun dorosłych w placówce całodobowej",
+  "desc": "Opiekunowie dorosłych w placówkach całodobowych zapewniają doradztwo i wsparcie dla osób dorosłych wymagającymi szczególnej troski, z niepełnosprawnością fizyczną lub umysłową lub z problemem uzależnienia. Monitorują ich postępy i zapewniają im opiekę w pozytywnym środowisku życiowym. Współpracują z rodzinami, aby wspierać rozwój poszczególnych osób i zaspokajać ich potrzeby.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Pomagasz mieszkańcom w codziennych czynnościach",
+   "Notujesz ich postępy i samopoczucie",
+   "Organizujesz zajęcia i wspólne wyjścia",
+   "Rozmawiasz z rodzinami mieszkańców"
+  ]
+ },
+ {
+  "id": 2016,
+  "name": "Opiekun dzieci niepełnosprawnych w całodobowej placówce opiekuńczo-wychowawczej",
+  "desc": "Opiekunowie dzieci niepełnosprawnych w całodobowych placówkach opiekuńczo-wychowawczych doradzają dzieciom niepełnosprawnym fizycznie lub psychicznie i wspierają je. Monitorują ich postępy i zapewniają im opiekę w pozytywnym środowisku życiowym. Współpracują z rodzinami w celu zorganizowania swoich wizyt.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Pomagasz dzieciom przy jedzeniu i higienie",
+   "Prowadzisz zabawę dopasowaną do możliwości",
+   "Notujesz postępy każdego dziecka",
+   "Organizujesz wizyty rodzin"
+  ]
+ },
+ {
+  "id": 2017,
+  "name": "Opiekun osób niepełnosprawnych",
+  "desc": "Opiekunowie osób niepełnosprawnych udzielają pomocy osobistej i wsparcia osobom w każdym wieku z niepełnosprawnościami, czy to intelektualnymi, czy fizycznymi. Współpracują z innymi pracownikami opieki zdrowotnej, aby uzyskać jak najlepsze samopoczucie fizyczne i psychiczne pacjentów. Ich obowiązki obejmują kąpiele, podnoszenie, przemieszczanie, ubieranie lub karmienie osób niepełnosprawnych.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Pomagasz w kąpieli i ubieraniu",
+   "Przenosisz i podnosisz osoby bezpiecznymi technikami",
+   "Karmisz osoby, które tego potrzebują",
+   "Współpracujesz z personelem medycznym"
+  ]
+ },
+ {
+  "id": 2018,
+  "name": "Opiekun w domu pomocy społecznej",
+  "desc": "Opiekunowie w domach pomocy społecznej przestrzegają specjalnego planu, który ma na celu zapewnienie klientom codziennej opieki. Tworzą oni otoczenie ukierunkowane na klienta w domach opieki, w których pracują. Dbają o dobre samopoczucie fizyczne i psychiczne klientów poprzez zapewnienie opieki społecznej w domach pomocy społecznej",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Realizujesz indywidualny plan opieki mieszkańca",
+   "Pomagasz w codziennych czynnościach",
+   "Dbasz, żeby mieszkaniec miał wpływ na swój dzień",
+   "Zapisujesz uwagi w dokumentacji"
+  ]
+ },
+ {
+  "id": 2019,
+  "name": "Opiekun środowiskowy dorosłych / opiekunka środowiskowa dorosłych",
+  "desc": "Opiekunowie/opiekunki środowiskowe dorosłych przeprowadzają ocenę i zarządzają opieką nad społecznościami osób dorosłych z upośledzeniami fizycznymi lub w stanach rekonwalescencji. Ich celem jest poprawa życia tych osób w społeczeństwie i umożliwienie im bezpiecznego i niezależnego życia we własnym domu.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Oceniasz potrzeby osoby podczas wizyty",
+   "Układasz plan opieki w jej domu",
+   "Zamawiasz usługi i pomoc dodatkową",
+   "Sprawdzasz, czy plan działa"
+  ]
+ },
+ {
+  "id": 2020,
+  "name": "Pracownik ds. rodzin zastępczych",
+  "desc": "Pracownicy ds. rodzin zastępczych pomagają i wspierają psychicznie lub fizycznie maltretowane dzieci, aby mogły zostać legalnie odseparowane od rodziców. Pomagają im w powrocie do normalnego stanu poprzez umieszczenie ich w odpowiednich rodzinach i dopilnowanie, aby dobro dzieci było priorytetem.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Szukasz odpowiedniej rodziny zastępczej",
+   "Wspierasz dziecko po trudnych przeżyciach",
+   "Odwiedzasz rodziny zastępcze",
+   "Pilnujesz zgodności z prawem i dobrem dziecka"
+  ]
+ },
+ {
+  "id": 2021,
+  "name": "Pracownik ds. wsparcia dla osób z zaburzeniami psychicznym",
+  "desc": "Pracownicy ds. wsparcia dla osób z zaburzeniami psychicznym pomagają i zapewniają leczenie osobom cierpiącym na zaburzenia psychiczne, emocjonalne lub związane z nadużywaniem substancji odurzających. Koncentrują się na indywidualnych przypadkach i monitorują proces powrotu swoich klientów do normalności, zapewniając również terapię, interwencję w sytuacjach kryzysowych, rzecznictwo i edukację klientów.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Prowadzisz rozmowy wspierające i terapeutyczne",
+   "Reagujesz w sytuacjach kryzysowych",
+   "Reprezentujesz podopiecznych w sprawach urzędowych",
+   "Uczysz radzenia sobie na co dzień"
+  ]
+ },
+ {
+  "id": 2022,
+  "name": "Pracownik ds. wsparcia mieszkaniowego",
+  "desc": "Pracownicy ds. wsparcia mieszkaniowego zapewniają wsparcie i pomoc dla osób starszych, osób z niepełnosprawnością fizyczną lub trudnościami w uczeniu się, osób bezdomnych, osób uzależnionych w przeszłości od narkotyków lub alkoholu lub byłych przestępców.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Pomagasz znaleźć i utrzymać mieszkanie",
+   "Uczysz gospodarowania budżetem i sprzątania",
+   "Towarzyszysz w sprawach urzędowych",
+   "Sprawdzasz, jak radzi sobie lokator"
+  ]
+ },
+ {
+  "id": 2023,
+  "name": "Pracownik młodzieżowego ośrodka wychowawczego",
+  "desc": "Pracownicy młodzieżowych ośrodków wychowawczych zapewniają pomoc i wsparcie dla młodych osób, które mierzą się ze złożonymi potrzebami emocjonalnymi wyrażającymi się w trudnych zachowaniach. Wspomagają młodych dorosłych z trudnościami w uczeniu w radzeniu sobie z nauką, zachęcają ich do podejmowania działań w gospodarstwach domowych i pomagają w podejmowaniu odpowiedzialności.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Pomagasz w nauce i odrabianiu lekcji",
+   "Angażujesz młodzież do obowiązków domowych",
+   "Reagujesz spokojnie na trudne zachowania",
+   "Rozmawiasz o konsekwencjach i odpowiedzialności"
+  ]
+ },
+ {
+  "id": 2024,
+  "name": "Pracownik opieki społecznej",
+  "desc": "Pracownicy opieki społecznej udzielają wsparcia i pomocy w zakresie usług obejmujących opiekę. Pomagają ludziom przeżywać pełne i wartościowe życie w społeczeństwie. Wspomagają niemowlęta, małe dzieci, młodzież, dorosłych i starszych dorosłych. Zajmują się potrzebami psychologicznymi, społecznymi, emocjonalnymi i fizycznymi osób korzystających z usług. Pracują w wielu różnych środowiskach z pojedynczymi osobami, rodzinami, grupami, organizacjami i społecznościami.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Odwiedzasz osoby i rodziny w różnych miejscach",
+   "Rozpoznajesz ich potrzeby i problemy",
+   "Organizujesz pomoc i usługi",
+   "Pomagasz wrócić do codziennych zajęć"
+  ]
+ },
+ {
+  "id": 2025,
+  "name": "Pracownik socjalny ds. opieki nad dziećmi",
+  "desc": "Pracownicy socjalni ds. opieki nad dziećmi zapewniają wczesną interwencję i wsparcie dla dzieci i ich rodzin w celu poprawy ich funkcjonowania społecznego i psychologicznego. Ich celem jest maksymalizacja dobrostanu rodziny i ochrona dzieci przed wykorzystywaniem i zaniedbaniem. Stają w obronie dzieci, aby przestrzegane były ich prawa w rodzinie i poza nią. Mogą pomagać rodzicom samotnie wychowującym dzieci lub znaleźć rodziny zastępcze dla dzieci porzuconych lub maltretowanych.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Rozpoznajesz oznaki zaniedbania u dziecka",
+   "Wspierasz rodziców, także samotnych",
+   "Pilnujesz praw dziecka w rodzinie i poza nią",
+   "Szukasz rodzin zastępczych dla dzieci"
+  ]
+ },
+ {
+  "id": 2026,
+  "name": "Asystent pracownika socjalnego",
+  "desc": "Asystenci pracowników socjalnych są specjalistami działającymi na podstawie praktycznych doświadczeń, przyczyniającymi się do zmian społecznych i rozwoju, jedności społecznej oraz udzielenia ludziom większych uprawnień i wolności. Współpracują z poszczególnymi osobami, rodzinami, grupami, organizacjami i społecznościami w celu wsparcia różnych form terapii i doradztwa, pracy w grupach i pracy społecznej.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Pomagasz w rozmowach z rodzinami",
+   "Prowadzisz dokumentację i notatki",
+   "Wspierasz zajęcia grupowe w społeczności",
+   "Przekazujesz informacje o świadczeniach"
+  ]
+ },
+ {
+  "id": 2027,
+  "name": "Opiekun prawny",
+  "desc": "Opiekunowie prawni udzielają pomocy prawnej i wspomagają małoletnie dzieci, osoby upośledzone umysłowo lub ubezwłasnowolnione osoby dorosłe w życiu osobistym. Mogą zarządzać ich majątkiem, pomagać w codziennym zarządzaniu finansami i w zaspokojeniu potrzeb medycznych lub społecznych podopiecznego.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Zarządzasz majątkiem podopiecznego",
+   "Pilnujesz opłat i codziennych finansów",
+   "Dbasz o leczenie i potrzeby medyczne",
+   "Załatwiasz sprawy prawne w imieniu podopiecznego"
+  ]
+ },
+ {
+  "id": 2028,
+  "name": "Pracownik telefonu zaufania",
+  "desc": "Pracownicy telefonu zaufania udzielają przez telefon porad i wsparcia rozmówcom w złym stanie psychicznym. Muszą zajmować się różnymi kwestiami, takimi jak maltretowanie, depresja i problemy finansowe. Pracownicy telefonu zaufania prowadzą rejestry połączeń telefonicznych zgodnie z przepisami i polityką prywatności.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Odbierasz połączenia od osób w kryzysie",
+   "Słuchasz bez oceniania",
+   "Pomagasz poukładać myśli i kolejne kroki",
+   "Zapisujesz dane połączenia zgodnie z przepisami"
+  ]
+ },
+ {
+  "id": 2029,
+  "name": "Au pair",
+  "desc": "Au pair mieszkają i pracują dla rodziny goszczącej w innym kraju i są zazwyczaj odpowiedzialne za opiekę nad jej dziećmi. Są to osoby młode, które chcą poznać inną kulturę, świadcząc usługi w zakresie opieki nad dziećmi oraz wykonując inne drobne prace domowe, takie jak sprzątanie, praca w ogrodzie i zakupy.",
+  "path": "Opieka i pomoc ludziom > Opieka nad dziećmi",
+  "tasks": [
+   "Odprowadzasz dzieci do szkoły i odbierasz je",
+   "Przygotowujesz dzieciom posiłki",
+   "Bawisz się z dziećmi i pomagasz w lekcjach",
+   "Robisz drobne prace domowe i zakupy"
+  ]
+ },
+ {
+  "id": 2030,
+  "name": "Dzienny opiekun małego dziecka / dzienna opiekunka małego dziecka",
+  "desc": "Dzienni opiekunowie małego dziecka/dzienne opiekunki małego dziecka świadczą usługi socjalne na rzecz dzieci i ich rodzin w celu poprawy ich funkcjonowania społecznego i psychologicznego. Dążą do poprawy samopoczucia rodziny poprzez opiekę nad dziećmi w ciągu dnia.",
+  "path": "Opieka i pomoc ludziom > Opieka nad dziećmi",
+  "tasks": [
+   "Karmisz maluchy i pomagasz im jeść",
+   "Przewijasz i uczysz korzystania z nocnika",
+   "Prowadzisz zabawy ruchowe i plastyczne",
+   "Rozmawiasz z rodzicami przy odbiorze dziecka"
+  ]
+ },
+ {
+  "id": 2031,
+  "name": "Opiekun do dzieci na godziny / opiekunka do dzieci na godziny",
+  "desc": "Opiekunowie/opiekunki do dzieci na godziny świadczą usługi w zakresie krótkoterminowej opieki nad dzieci u pracodawcy w zależności od jego potrzeb. Organizują zabawy i zapewniają dzieciom rozrywkę w postaci gier i innych zajęć kulturalnych i edukacyjnych stosownie do ich wieku, przygotowują posiłki, kąpią dzieci, odwożą i przywożą dzieci ze szkoły oraz pomagają im w terminowym odrabianiu pracy domowej.",
+  "path": "Opieka i pomoc ludziom > Opieka nad dziećmi",
+  "tasks": [
+   "Poznajesz dziecko i zasady w domu rodziców",
+   "Wymyślasz zabawy na krótki czas",
+   "Podajesz kolację i układasz do snu",
+   "Zapisujesz rodzicom, co się działo"
+  ]
+ },
+ {
+  "id": 2032,
+  "name": "Opiekun dziecięcy / opiekunka dziecięca",
+  "desc": "Opiekunowie/opiekunki dziecięce zapewniają opiekę nad dziećmi pod nieobecność rodziców lub innych członków rodziny. Dbają o podstawowe potrzeby dzieci i pomagają im lub pilnują ich podczas zabawy. Opiekunowie/opiekunki dziecięce mogą pracować w przedszkolach, placówkach opieki nad dziećmi lub w rodzinach.",
+  "path": "Opieka i pomoc ludziom > Opieka nad dziećmi",
+  "tasks": [
+   "Pilnujesz dzieci podczas zabawy",
+   "Pomagasz przy ubieraniu i jedzeniu",
+   "Uspokajasz dziecko, które płacze za mamą",
+   "Sprzątasz z dziećmi salę po zabawie"
+  ]
+ },
+ {
+  "id": 2033,
+  "name": "Opiekun dzieci w autobusie szkolnym",
+  "desc": "Opiekunowie dzieci w autobusie szkolnym monitorują autobusy szkole w celu zapewnienia i nadzorowania bezpieczeństwa i dobrego zachowania uczniów. Pomagają dzieciom podczas wsiadania i wysiadania z autobusu, udzielają wsparcia kierowcy i zapewniają pomoc w nagłych wypadkach.",
+  "path": "Opieka i pomoc ludziom > Opieka nad dziećmi",
+  "tasks": [
+   "Pomagasz dzieciom wsiadać i wysiadać",
+   "Sprawdzasz, czy wszyscy mają zapięte pasy",
+   "Uspokajasz kłótnie podczas jazdy",
+   "Pomagasz kierowcy w nagłych wypadkach"
+  ]
+ },
+ {
+  "id": 2034,
+  "name": "Kierownik ośrodka dla młodzieży",
+  "desc": "Kierownicy ośrodków dla młodzieży planują i nadzorują działania ośrodków dzieci i młodzieży, które świadczą usługi w zakresie opieki i doradztwa. Oceniają oni potrzeby młodzieży w społeczności, opracowują i wdrażają metody pedagogiczne oraz opracowują programy poprawy opieki nad młodzieżą w ośrodku.",
+  "path": "Opieka i pomoc ludziom > Specjalista pracy socjalnej",
+  "tasks": [
+   "Sprawdzasz, czego potrzebuje młodzież w okolicy",
+   "Układasz grafik zajęć i wydarzeń",
+   "Rozmawiasz z wychowawcami o trudnych przypadkach",
+   "Piszesz plany i rozliczasz budżet ośrodka"
+  ]
+ },
+ {
+  "id": 2035,
+  "name": "Kierownik programu dla młodzieży",
+  "desc": "Kierownicy programów dla młodzieży opracowują i wdrażają programy i polityki mające na celu poprawę i zapewnienie dobrostanu młodzieży. Ułatwiają komunikację z oraz między instytucjami edukacyjnymi, rekreacyjnymi, doradczymi lub innymi instytucjami związanymi z młodzieżą, organizują wydarzenia dla młodzieży i rodzin oraz promują mobilność i świadomość społeczną.",
+  "path": "Opieka i pomoc ludziom > Specjalista pracy socjalnej",
+  "tasks": [
+   "Piszesz plan programu i jego cele",
+   "Umawiasz współpracę ze szkołami i organizacjami",
+   "Organizujesz wydarzenia dla młodzieży i rodzin",
+   "Sprawdzasz, czy program naprawdę działa"
+  ]
+ },
+ {
+  "id": 2036,
+  "name": "Specjalista ds. mieszkalnictwa socjalnego",
+  "desc": "Specjaliści ds. mieszkalnictwa socjalnego opracowują strategie poprawy polityki mieszkaniowej w danej społeczności, a także zapewniają mieszkania socjalne potrzebującym. Określają potrzeby i kwestie mieszkaniowe oraz nadzorują przydział środków. Porozumiewają się również z organizacjami zajmującymi się budową publicznych budynków mieszkalnych i organizacjami usług społecznych.",
+  "path": "Opieka i pomoc ludziom > Specjalista pracy socjalnej",
+  "tasks": [
+   "Badasz, ilu mieszkań brakuje w okolicy",
+   "Rozmawiasz z firmami budującymi mieszkania publiczne",
+   "Rozdzielasz środki na mieszkania socjalne",
+   "Proponujesz zmiany w lokalnej polityce mieszkaniowej"
+  ]
+ },
+ {
+  "id": 2037,
+  "name": "Specjalista pracy socjalnej",
+  "desc": "Specjaliści pracy socjalnej ponoszą odpowiedzialność za przywództwo strategiczne i operacyjne oraz zarządzanie zespołami ludzkimi i zasobami w ramach usług opieki nad dziećmi i w ramach tych usług. Są oni odpowiedzialni za wdrażanie prawodawstwa i polityki w odniesieniu np. do decyzji o osobach wymagających szczególnego traktowania. Promują pracę społeczną i wartości opieki społecznej oraz etykę, równość i różnorodność, a także stosują odpowiednie kodeksy postępowania. Są odpowiedzialni za kontakty z innymi specjalistami w dziedzinie wymiaru sprawiedliwości w sprawach karnych, edukacji i opieki zdrowotnej.",
+  "path": "Opieka i pomoc ludziom > Specjalista pracy socjalnej",
+  "tasks": [
+   "Zarządzasz zespołem i podziałem spraw",
+   "Wdrażasz przepisy dotyczące opieki nad dziećmi",
+   "Współpracujesz z sądem, szkołą i służbą zdrowia",
+   "Ustalasz zasady postępowania w zespole"
+  ]
+ },
+ {
+  "id": 2038,
+  "name": "Kierownik placówki wsparcia dziennego",
+  "desc": "Kierownicy placówki wsparcia dziennego świadczą usługi społeczne dla dzieci i ich rodzin. Nadzorują i wspierają pracowników opieki nad dziećmi i zarządzają placówkami opieki nad dziećmi. Kierownicy placówki wsparcia dziennego ponoszą odpowiedzialność za przywództwo strategiczne i operacyjne oraz zarządzanie zespołami ludzkimi i zasobami w ramach usług opieki nad dziećmi.",
+  "path": "Opieka i pomoc ludziom > Kierownicy ds. usług opieki nad dziećmi",
+  "tasks": [
+   "Układasz grafik opiekunów i zajęć",
+   "Rozmawiasz z rodzicami o trudnościach dziecka",
+   "Pilnujesz, żeby placówka miała wyposażenie",
+   "Wspierasz opiekunów w trudnych sytuacjach"
+  ]
+ },
+ {
+  "id": 2039,
+  "name": "Kierownik przedszkola",
+  "desc": "Kierownicy przedszkola zarządzają codzienną działalnością przedszkola lub żłobka. Zarządzają pracownikami, podejmują decyzje w sprawie naboru i odpowiadają za przestrzeganie standardów w zakresie programów nauczania, które są dostosowane do wieku przedszkolaków i ułatwiają edukację w zakresie rozwoju społecznego i behawioralnego. Ponadto zapewniają, że placówka spełnia ustanowione przez prawo krajowe wymogi w zakresie edukacji.",
+  "path": "Opieka i pomoc ludziom > Kierownicy ds. usług opieki nad dziećmi",
+  "tasks": [
+   "Zatrudniasz nauczycieli i opiekunów",
+   "Prowadzisz nabór dzieci na nowy rok",
+   "Sprawdzasz, czy program pasuje do wieku dzieci",
+   "Dopilnowujesz wymogów prawnych i kontroli"
+  ]
+ }
+]

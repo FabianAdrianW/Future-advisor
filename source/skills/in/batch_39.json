@@ -1,0 +1,362 @@
+[
+ {
+  "id": 2340,
+  "name": "Prezenter wiadomości / prezenterka wiadomości",
+  "desc": "Prezenterzy wiadomości prezentują wiadomości w radiu i telewizji. Zapowiadają nagrane wcześniej wiadomości i informacje relacjonowane przez reporterów na żywo. Często mają wykształcenie dziennikarskie.",
+  "path": "Media, język i literatura > Prezenterzy radiowi, telewizyjni",
+  "tasks": [
+   "Czytasz teksty z promptera",
+   "Zapowiadasz materiały i łączenia z reporterami",
+   "Redagujesz własne zapowiedzi",
+   "Reagujesz na pilną wiadomość w trakcie programu"
+  ]
+ },
+ {
+  "id": 2341,
+  "name": "Bloger / blogerka",
+  "desc": "Blogerzy piszą artykuły w trybie online, aby wypowiadać się na różne tematy, np. o polityce, modzie, gospodarce i sporcie. Mogą relacjonować fakty obiektywne, ale często przedstawiają także swoją opinię na dany temat. Mają również kontakt z czytelnikami za pośrednictwem komentarzy.",
+  "path": "Media, język i literatura > Twórcy internetowi",
+  "tasks": [
+   "Wymyślasz tematy wpisów",
+   "Piszesz i redagujesz artykuły",
+   "Dobierasz zdjęcia i tytuły",
+   "Odpowiadasz na komentarze czytelników"
+  ]
+ },
+ {
+  "id": 2342,
+  "name": "Antropolog",
+  "desc": "Antropolodzy badają wszystkie aspekty życia związane z człowiekiem. Badają różne dawne cywilizacje oraz ich sposoby organizacji. Podejmują próby analizy aspektów fizycznych, społecznych, językowych, politycznych, gospodarczych, filozoficznych i kulturowych różnych grup. Celem ich badań jest zrozumienie i opisanie przeszłości ludzkości oraz rozwiązanie aktualnych problemów społecznych. Badają różne perspektywy, takie jak antropologia filozoficzna.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Obserwujesz zwyczaje grupy",
+   "Prowadzisz wywiady z mieszkańcami",
+   "Analizujesz zebrane notatki",
+   "Piszesz opracowania o kulturach"
+  ]
+ },
+ {
+  "id": 2343,
+  "name": "Badacz nauki o komunikowaniu",
+  "desc": "Badacze nauki o komunikowaniu badają różne aspekty planowania, gromadzenia, tworzenia, organizowania, zachowywania, wykorzystywania, oceny i wymiany informacji w formie werbalnej i niewerbalnej. Badają interakcje między grupami, osobami fizycznymi i jednostkami wykorzystującymi technologie (robotami).",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Planujesz badania o komunikacji",
+   "Obserwujesz rozmowy w grupach",
+   "Analizujesz wyniki ankiet",
+   "Opisujesz, jak ludzie komunikują się z maszynami"
+  ]
+ },
+ {
+  "id": 2344,
+  "name": "Medioznawca",
+  "desc": "Badacze mediów badają rolę i wpływ mediów na społeczeństwo. Obserwują i dokumentują korzystanie z różnych rodzajów mediów, takich jak gazety, radio i telewizja, oraz reakcję społeczeństwa.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Analizujesz treści w mediach",
+   "Badasz, kto czego słucha i ogląda",
+   "Opisujesz wpływ przekazów na odbiorców",
+   "Publikujesz wyniki w artykułach naukowych"
+  ]
+ },
+ {
+  "id": 2345,
+  "name": "Badacz pracy socjalnej",
+  "desc": "Badacze pracy socjalnej zarządzają projektami badawczymi mającymi na celu badanie i przedstawianie sprawozdań w kwestiach społecznych. Najpierw przeprowadzają badanie, gromadząc informacje w drodze wywiadów, grup fokusowych i kwestionariuszy, a następnie organizują i analizują zebrane informacje za pomocą pakietów oprogramowania komputerowego. Analizują problemy i potrzeby społeczne oraz różne sposoby i techniki reagowania na nie.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Prowadzisz wywiady i grupy fokusowe",
+   "Układasz kwestionariusze do badań",
+   "Opracowujesz zebrane dane statystycznie",
+   "Piszesz raporty o potrzebach społecznych"
+  ]
+ },
+ {
+  "id": 2346,
+  "name": "Badacz nauk o zachowaniu",
+  "desc": "Badacze nauk o zachowaniu badają, obserwują i opisują zachowanie ludzi w społeczeństwie. Wyciągają wnioski co do motywów powodujących ludźmi, obserwują okoliczności wywołujące różne zachowania i opisują różne rodzaje osobowości. Doradzają organizacjom i instytucjom rządowym w tej dziedzinie. Mogą również analizować zachowanie zwierząt.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Obserwujesz zachowania w wybranych sytuacjach",
+   "Projektujesz proste eksperymenty badawcze",
+   "Opisujesz typy osobowości",
+   "Doradzasz instytucjom na podstawie wyników"
+  ]
+ },
+ {
+  "id": 2347,
+  "name": "Geograf",
+  "desc": "Geografowie są naukowcami badającymi antropogeografię i geografię fizyczną. W zależności od specjalizacji zajmują się politycznymi, gospodarczymi i kulturowymi aspektami człowieka wyrażonymi w antropogeografii. Badają także rzeźbę terenu, rodzaje gleby, granice naturalne i cieki wodne, tj. przedmioty geografii fizycznej.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Mierzysz i opisujesz teren",
+   "Czytasz i rysujesz mapy",
+   "Badasz gleby, rzeki i klimat",
+   "Analizujesz, jak ludzie zmieniają krajobraz"
+  ]
+ },
+ {
+  "id": 2348,
+  "name": "Tanatolog",
+  "desc": "Tanatolodzy badają zjawisko śmiercią i umierania w różnych wymiarach, takich jak psychologia, socjologia, fizjologia i antropologia. Przyczyniają się do zwiększenia stanu wiedzy na temat aspektów zgonu, takich jak zjawiska psychiczne, których doświadczają osoby umierające i osoby im towarzyszące.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Czytasz badania o żałobie",
+   "Rozmawiasz z opiekunami i rodzinami",
+   "Analizujesz wpływ kultury na pożegnania",
+   "Piszesz artykuły i prowadzisz wykłady"
+  ]
+ },
+ {
+  "id": 2349,
+  "name": "Psycholog wychowawczy",
+  "desc": "Psycholodzy wychowawczy to psycholodzy zatrudnieni przez placówki oświatowe w celu udzielania wsparcia psychologicznego i emocjonalnego potrzebującym go uczniom. Specjalizują się w zapewnianiu bezpośredniego wsparcia i pomocy uczniom, przeprowadzaniu testów i ocen psychologicznych oraz konsultowaniu się z rodzinami, nauczycielami i innymi pracownikami szkoły wspierającymi uczniów, takimi jak pracownicy socjalni i doradcy edukacyjni. Mogą również współpracować z administracją szkoły w celu udoskonalenia praktycznych strategii wsparcia służących poprawie dobrostanu uczniów.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Rozmawiasz z uczniami w gabinecie",
+   "Przeprowadzasz testy trudności w nauce",
+   "Konsultujesz się z nauczycielami i rodzicami",
+   "Pracujesz z klasą nad relacjami"
+  ]
+ },
+ {
+  "id": 2350,
+  "name": "Psycholog zdrowia",
+  "desc": "Psycholodzy zdrowia zajmują się różnymi aspektami związanych ze zdrowiem zachowań osób i grup, pomagając im zapobiegać chorobom i promować zdrowy styl życia, także przez świadczenie usług doradztwa. Realizują zadania służące rozwojowi działań i projektów w zakresie promocji zdrowia, bazując na nauce, odkryciach, teoriach, metodach i technikach psychologicznych. Angażują się również w badania związane z kwestiami zdrowotnymi, które mają wpłynąć na politykę publiczną w zakresie opieki zdrowotnej.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Doradzasz w zmianie nawyków",
+   "Tworzysz programy promocji zdrowia",
+   "Prowadzisz warsztaty o stresie",
+   "Badasz, co wpływa na zdrowe wybory"
+  ]
+ },
+ {
+  "id": 2351,
+  "name": "Operator wariografu",
+  "desc": "Operatorzy wariografu przygotowują osoby do badania poligrafem, przeprowadzają to badanie i interpretują wyniki. Zwracają dużą uwagę na szczegóły i wykorzystują szereg instrumentów monitorowania stanu układu oddechowego i sercowo-naczyniowego oraz potliwości w reakcji na pytania zadawane w trakcie badania. Operatorzy wariografu sporządzają sprawozdania na podstawie wyników i mogą zeznawać przed sądem.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Przygotowujesz osobę do badania",
+   "Zakładasz czujniki i zadajesz pytania",
+   "Odczytujesz zapisy z urządzenia",
+   "Piszesz sprawozdanie i zeznajesz w sądzie"
+  ]
+ },
+ {
+  "id": 2352,
+  "name": "Genealog",
+  "desc": "Genealodzy odtwarzają historię i rodowody rodzin. Efekty ich pracy są prezentowane w tabeli kolejnych pokoleń (drzewo genealogiczne) lub w postaci tekstowej. Genealodzy uzyskują informacje wejściowe, korzystając z analizy ewidencji publicznych, wywiadów nieformalnych, analizy genetycznej oraz innych metod.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Szukasz aktów urodzeń i ślubów",
+   "Czytasz stare pismo w księgach",
+   "Rozmawiasz z członkami rodziny",
+   "Rysujesz drzewo genealogiczne"
+  ]
+ },
+ {
+  "id": 2353,
+  "name": "Filozof",
+  "desc": "Filozofowie badają i argumentują ogólne i strukturalne problemy dotyczące społeczeństwa, ludzi i jednostek. Mają dobrze rozwinięte zdolności myślenia racjonalnego i argumentacji, potrzebne do prowadzenia dyskusji na tematy egzystencji, systemów wartości, wiedzy i rzeczywistości. W dyskusji odwołują się do zasad logiki, które pozwalają osiągnąć pewien poziom ogólności i abstrakcji.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Czytasz teksty dawnych myślicieli",
+   "Budujesz argumenty krok po kroku",
+   "Wyszukujesz błędy w rozumowaniu",
+   "Dyskutujesz i piszesz eseje"
+  ]
+ },
+ {
+  "id": 2354,
+  "name": "Politolog",
+  "desc": "Politolodzy badają zachowania, działania i systemy polityczne, a także ich elementy składowe. Ich analiza tej dziedziny obejmuje od początków i ewolucji różnych systemów politycznych po aktualne zagadnienia, takie jak procesy decyzyjne, zachowania polityczne, tendencje polityczne, społeczeństwo i perspektywy w zakresie władzy. Doradzają rządom i organizacjom instytucjonalnym w kwestiach administracji.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Analizujesz systemy polityczne",
+   "Badasz wyniki wyborów",
+   "Piszesz raporty dla instytucji",
+   "Doradzasz w sprawach administracji"
+  ]
+ },
+ {
+  "id": 2355,
+  "name": "Kapelan",
+  "desc": "Kapelani prowadzą działania religijne w instytucjach świeckich. Doradzają i zapewniają wsparcie duchowe i emocjonalne ludziom przebywającym w danej instytucji, a także współpracują z księżmi lub innymi osobami duchownymi w celu wspierania działań religijnych we wspólnocie.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Odwiedzasz osoby w szpitalu lub zakładzie",
+   "Rozmawiasz i słuchasz",
+   "Odprawiasz modlitwy dla chętnych",
+   "Współpracujesz z personelem instytucji"
+  ]
+ },
+ {
+  "id": 2356,
+  "name": "Misjonarz",
+  "desc": "Misjonarze nadzorują realizację misji informacyjnych fundacji kościelnej. Organizują misję, opracowują jej cele i strategie, dbają o realizację celów misji oraz wdrożenie polityk. Wykonują obowiązki administracyjne w zakresie prowadzenia ewidencji i ułatwiają komunikację z właściwymi instytucjami w miejscu prowadzenia misji.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Planujesz cele i strategię misji",
+   "Prowadzisz ewidencję i dokumenty",
+   "Kontaktujesz się z lokalnymi urzędami",
+   "Organizujesz pomoc dla mieszkańców"
+  ]
+ },
+ {
+  "id": 2357,
+  "name": "Religioznawca",
+  "desc": "Religioznawcy badają pojęcia związane z religiami, przekonaniami i duchowością. Definiują moralność i etykę w sposób racjonalny, badając pisma, religię, dyscyplinę i prawo boże.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Czytasz święte pisma i komentarze",
+   "Porównujesz religie i tradycje",
+   "Analizujesz zasady etyki",
+   "Piszesz opracowania naukowe"
+  ]
+ },
+ {
+  "id": 2358,
+  "name": "Archiwista",
+  "desc": "Archiwiści oceniają, gromadzą, porządkują, przechowują i udostępniają rejestry i archiwa. Rejestry mogą być prowadzone w dowolnym formacie, analogowo lub cyfrowo, i być zapisane na kilku rodzajach nośników (dokumenty, fotografie, nagrania wideo i nagrania dźwiękowe itp.).",
+  "path": "Człowiek, społeczeństwo, kultura > Archiwiści, muzealnicy, bibliotekarze",
+  "tasks": [
+   "Oceniasz, które dokumenty zachować",
+   "Porządkujesz i opisujesz zbiory",
+   "Przechowujesz papier w odpowiednich warunkach",
+   "Udostępniasz materiały badaczom"
+  ]
+ },
+ {
+  "id": 2359,
+  "name": "Inwentaryzator zbiorów",
+  "desc": "Inwentaryzatorzy zbiorów organizują, zarządzają i dokumentują przemieszczanie przedmiotów muzealnych do i z miejsc przechowywania, ekspozycji i wystaw. Współpracują przy tym z partnerami prywatnymi lub publicznymi, takimi jak przewoźnicy zbiorów, ubezpieczyciele i restauratorzy, w obrębie muzeum i poza nim.",
+  "path": "Człowiek, społeczeństwo, kultura > Archiwiści, muzealnicy, bibliotekarze",
+  "tasks": [
+   "Rejestrujesz każdy ruch eksponatu",
+   "Planujesz transport na wystawę",
+   "Ustalasz ubezpieczenie z firmami",
+   "Sprawdzasz stan obiektu przed wysyłką"
+  ]
+ },
+ {
+  "id": 2360,
+  "name": "Inwentaryzator zwierząt",
+  "desc": "Inwentaryzatorzy zwierząt są odpowiedzialni za prowadzenie zróżnicowanej dokumentacji dotyczącej zwierząt i opieki nad nimi w zbiorach zoologicznych. Jest to dokumentacja zarówno historyczna, jak i bieżąca. Inwentaryzatorzy zwierząt mają obowiązek tworzenia uporządkowanej ewidencji dokumentów zgodnie z ustalonymi zasadami. W większości przypadków wiąże się to również ze składaniem regularnych sprawozdań na potrzeby regionalnych lub międzynarodowych systemów informacji o gatunkach i w ramach zarządzanych programów hodowlanych, tj.",
+  "path": "Człowiek, społeczeństwo, kultura > Archiwiści, muzealnicy, bibliotekarze",
+  "tasks": [
+   "Prowadzisz kartę każdego zwierzęcia",
+   "Wpisujesz urodzenia, zgony i przeniesienia",
+   "Wysyłasz raporty do międzynarodowych baz",
+   "Pomagasz planować programy hodowlane"
+  ]
+ },
+ {
+  "id": 2361,
+  "name": "Konserwator dzieł sztuki",
+  "desc": "Konserwatorzy dzieł sztuki organizują i restaurują dzieła sztuki, budynki, książki i meble. Działają w wielu różnych dziedzinach, takich jak tworzenie i wprowadzanie nowych zbiorów dzieł sztuki, ochrona zabytkowych budynków dzięki zastosowaniu technik renowacji, a także zapewnienie ochrony utworów literackich, filmów i cennych przedmiotów.",
+  "path": "Człowiek, społeczeństwo, kultura > Archiwiści, muzealnicy, bibliotekarze",
+  "tasks": [
+   "Badasz stan zabytku pod lupą",
+   "Czyścisz powierzchnię obrazu",
+   "Uzupełniasz ubytki w materiale",
+   "Dokumentujesz każdy zabieg zdjęciem i opisem"
+  ]
+ },
+ {
+  "id": 2362,
+  "name": "Koordynator edukacji artystycznej",
+  "desc": "Urzędnicy zajmujący się edukacją i obsługą turystyczną odpowiadają za wszelkie działania dotyczące odwiedzających instytucje kultury i sztuki, zarówno obecnie, jak i przyszłości. Ich celem jest zapewnienie dynamicznych, wysokiej jakości programów uczenia się i uczestnictwa. Dbają, aby kolekcje i wystawy w instytucjach kultury i sztuki stanowiły cenne zasoby edukacyjne dla wszystkich grup wiekowych. Urzędnicy zajmujący się edukacją i obsługą turystyczną opracowują, dostarczają i oceniają programy i wydarzenia oferowane klasom, grupom i pojedynczym odwiedzającym.",
+  "path": "Człowiek, społeczeństwo, kultura > Archiwiści, muzealnicy, bibliotekarze",
+  "tasks": [
+   "Układasz program warsztatów dla szkolnych klas",
+   "Umawiasz się z nauczycielami na wizyty",
+   "Przygotowujesz materiały do zajęć na wystawie",
+   "Zbierasz opinie i poprawiasz ofertę"
+  ]
+ },
+ {
+  "id": 2363,
+  "name": "Kurator sztuki",
+  "desc": "Kuratorzy sztuki organizują i wystawiają dzieła sztuki i dorobek materialny. Wykonują pracę dla muzeów, galerii sztuki, muzeów nauki lub historii, bibliotek i archiwów, a także innych instytucji kulturalnych. Ogólnie rzecz biorąc, kuratorzy sztuki są zaangażowani w dziedzinie wystaw artystycznych i kulturalnych oraz wszelkiego rodzaju wydarzeń.",
+  "path": "Człowiek, społeczeństwo, kultura > Archiwiści, muzealnicy, bibliotekarze",
+  "tasks": [
+   "Wybierasz prace do nowej wystawy",
+   "Rozmawiasz z artystami o ich dziełach",
+   "Projektujesz układ prac w sali",
+   "Piszesz teksty ścienne i opisy"
+  ]
+ },
+ {
+  "id": 2364,
+  "name": "Mediator sztuki",
+  "desc": "Mediatorzy sztuki są odpowiedzialni za wszystkie programy, działania, analizy i badania dotyczące prezentacji przedmiotów lub programu instytucji kultury dla obecnych i przyszłych odwiedzających.",
+  "path": "Człowiek, społeczeństwo, kultura > Archiwiści, muzealnicy, bibliotekarze",
+  "tasks": [
+   "Oprowadzasz grupy i zadajesz pytania",
+   "Tłumaczysz trudne dzieło prostym językiem",
+   "Obserwujesz, jak ludzie chodzą po wystawie",
+   "Wymyślasz gry i zadania dla zwiedzających"
+  ]
+ },
+ {
+  "id": 2365,
+  "name": "Menedżer kolekcji",
+  "desc": "Menedżerowie kolekcji zapewniają opiekę i ochronę przedmiotów w obrębie instytucji kultury, takich jak muzea, biblioteki i archiwa. Menedżerowie kolekcji, wraz z kuratorami sztuki i konserwatorami dzieł sztuki, odgrywają bardzo ważną rolę w opiece nad zbiorami. Są obecni w większości dużych muzeów.",
+  "path": "Człowiek, społeczeństwo, kultura > Archiwiści, muzealnicy, bibliotekarze",
+  "tasks": [
+   "Opisujesz stan przedmiotu w kartotece",
+   "Pilnujesz temperatury i wilgoci w magazynie",
+   "Pakujesz eksponaty do bezpiecznego transportu",
+   "Prowadzisz spis wszystkich przedmiotów w zbiorze"
+  ]
+ },
+ {
+  "id": 2366,
+  "name": "Muzealnik",
+  "desc": "Muzealnicy zajmują się prowadzeniem i/lub zarządzaniem pracami kuratorskimi, przygotowawczymi i administracyjnymi w muzeach o profilu ogólnym, przeszukują magazyny zbiorów, ogrody botaniczne, galerie sztuki, zbiory sztuki, akwaria i podobne obiekty mieszczące zbiory przyrodnicze, historyczne i antropologiczne o charakterze edukacyjnym, naukowym lub estetycznym oraz wykonują inne, zbliżone zadania w zależności od potrzeb.",
+  "path": "Człowiek, społeczeństwo, kultura > Archiwiści, muzealnicy, bibliotekarze",
+  "tasks": [
+   "Przeszukujesz magazyn w poszukiwaniu eksponatów",
+   "Opisujesz i katalogujesz nowe zbiory",
+   "Przygotowujesz gabloty na wystawę",
+   "Wypełniasz dokumenty i pilnujesz terminów prac"
+  ]
+ },
+ {
+  "id": 2367,
+  "name": "Menedżer informacji",
+  "desc": "Menedżerowie informacji są odpowiedzialni za systemy dostarczania informacji. Zapewniają dostęp do informacji w różnych środowiskach pracy (publicznych i prywatnych), odpowiednio do zasad teoretycznych i praktycznych możliwości przechowywania, pobierania i przekazywania informacji.",
+  "path": "Człowiek, społeczeństwo, kultura > Archiwiści, muzealnicy, bibliotekarze",
+  "tasks": [
+   "Ustalasz zasady przechowywania dokumentów",
+   "Nadajesz dokumentom opisy ułatwiające wyszukiwanie",
+   "Przydzielasz pracownikom dostęp do zasobów",
+   "Szukasz informacji na zamówienie współpracowników"
+  ]
+ },
+ {
+  "id": 2368,
+  "name": "Zakonnik/zakonnica",
+  "desc": "Zakonnicy/zakonnice poświęcają się klasztornemu stylowi życia. Ślubują udział w pracach duchowych w ramach swojej wspólnoty religijnej. Zakonnicy/zakonnice uczestniczą w codziennej modlitwie i często mieszkają w samowystarczalnych klasztorach lub konwentach wraz z innymi zakonnikami/zakonnicami.",
+  "path": "Człowiek, społeczeństwo, kultura > Pracownicy z zakresu działalności religijnej",
+  "tasks": [
+   "Modlisz się razem ze wspólnotą kilka razy dziennie",
+   "Pracujesz w kuchni, ogrodzie lub warsztacie klasztoru",
+   "Przestrzegasz reguły i ślubów swojej wspólnoty",
+   "Rozważasz teksty religijne w ciszy i skupieniu"
+  ]
+ },
+ {
+  "id": 2369,
+  "name": "Świecki krzewiciel wiary",
+  "desc": "Świeccy krzewiciele wiary wspomagają wspólnoty religijne. Zapewniają oni edukację i wskazówki duchowe oraz wdrażają programy takie jak działalność dobroczynna i obrzędy religijne. Świeccy krzewiciele wiary wspierają również duchownych i pomagają uczestnikom wspólnoty religijnej w rozwiązywaniu problemów społecznych, kulturowych lub emocjonalnych.",
+  "path": "Człowiek, społeczeństwo, kultura > Pracownicy z zakresu działalności religijnej",
+  "tasks": [
+   "Prowadzisz zajęcia o wierze dla dzieci i dorosłych",
+   "Organizujesz zbiórki i pomoc dla potrzebujących",
+   "Pomagasz przygotować obrzędy religijne razem z duchownymi",
+   "Wysłuchujesz osób z kłopotami i kierujesz po pomoc"
+  ]
+ }
+]

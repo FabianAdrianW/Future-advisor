@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1680,
+  "name": "Zarządca terenu",
+  "desc": "Zarządcy terenu świadczą usługi związane z architekturą krajobrazu i pielęgnacją trawników oraz zajmują się utrzymaniem terenów należących do prywatnych gospodarstw domowych, obiektów handlowych i publicznych, szkół, hoteli, ogrodów botanicznych, pól golfowych, parków i boisk sportowych.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Kosisz i pielęgnujesz duże trawniki",
+   "Pilnujesz stanu boisk i alejek",
+   "Planujesz prace w zależności od pory roku",
+   "Obsługujesz kosiarki i inne maszyny"
+  ]
+ },
+ {
+  "id": 1681,
+  "name": "Kierownik gospodarstwa sadowniczego",
+  "desc": "Kierownicy gospodarstw sadowniczych są odpowiedzialni za kierowanie i współpracę z zespołem. Układają codzienne harmonogramy prac w zakresie produkcji sadowniczej i uczestniczą w procesach produkcji.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Układasz dzienny plan prac w sadzie",
+   "Organizujesz zbiory owoców i ekipę",
+   "Sprawdzasz stan drzew i owoców",
+   "Pracujesz razem z zespołem przy drzewach"
+  ]
+ },
+ {
+  "id": 1682,
+  "name": "Kierownik winnicy",
+  "desc": "Kierownicy winnicy nadzorują prace wykonywane w winnicach, organizują wszelkie prace związane z winnicą w celu uzyskania wysokiej jakości winogron w danym środowisku. Są odpowiedzialni za aspekty techniczne zarządzania winnicą i czasem produkcji wina oraz za pracowników sezonowych.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Organizujesz prace przy krzewach winorośli",
+   "Prowadzisz pracowników sezonowych",
+   "Decydujesz, kiedy zacząć zbiory",
+   "Obserwujesz winogrona i pogodę"
+  ]
+ },
+ {
+  "id": 1683,
+  "name": "Menedżer winnicy",
+  "desc": "Menedżerowie winnic kierują prowadzeniem winnicy i wytwórni wina, a w niektórych przypadkach zajmują się także kwestiami administracyjnymi i marketingiem.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Koordynujesz uprawę i produkcję wina",
+   "Rozmawiasz z kierownikami winnicy i piwnicy",
+   "Prowadzisz sprawy administracyjne",
+   "Promujesz wino i szukasz klientów"
+  ]
+ },
+ {
+  "id": 1684,
+  "name": "Mistrz winiarski",
+  "desc": "Mistrzowie winiarscy są odpowiedzialni za piwnice winnic od momentu przyjęcia winogron aż do butelkowania i dystrybucji gotowego wina w zakładzie. Zapewniają odpowiednią jakość na każdym etapie zgodnie z przepisami i regulacjami.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Przyjmujesz winogrona i sprawdzasz ich stan",
+   "Kontrolujesz dojrzewanie wina w zbiornikach",
+   "Pobierasz próbki i oceniasz jakość",
+   "Nadzorujesz butelkowanie i etykietowanie"
+  ]
+ },
+ {
+  "id": 1685,
+  "name": "Operator urządzeń do uprawy winorośli i produkcji wina",
+  "desc": "Operatorzy urządzeń do uprawy winorośli i produkcji wina wykonują praktyczne zadania związane z uprawą, rozmnażaniem odmian winorośli i wytwarzaniem wina przy użyciu wyspecjalizowanych maszyn lub sprzętu.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Obsługujesz maszyny do prac w winnicy",
+   "Pomagasz w rozmnażaniu odmian winorośli",
+   "Obsługujesz sprzęt w wytwórni wina",
+   "Czyścisz maszyny po użyciu"
+  ]
+ },
+ {
+  "id": 1686,
+  "name": "Rolnik chmielarz",
+  "desc": "Rolnicy chmielarze sadzą, uprawiają i zbierają chmiel do produkcji takich wyrobów, jak piwo.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Sadzisz chmiel wiosną",
+   "Kierujesz pędy chmielu po sznurach",
+   "Pilnujesz roślin i ich zdrowia latem",
+   "Zbierasz i suszysz szyszki chmielu"
+  ]
+ },
+ {
+  "id": 1687,
+  "name": "Sadownik",
+  "desc": "Sadownicy wykonują specjalistyczne zadania związane z obserwacją, zdrowiem i konserwacją drzew.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Oglądasz drzewa w poszukiwaniu chorób",
+   "Przycinasz gałęzie dla lepszego owocowania",
+   "Chronisz drzewa przed szkodnikami",
+   "Zbierasz owoce i sortujesz je"
+  ]
+ },
+ {
+  "id": 1688,
+  "name": "Koordynator zespołu ds. produkcji roślinnej",
+  "desc": "Koordynatorzy zespołu ds. produkcji roślinnej są odpowiedzialni za kierowanie i współpracę z zespołem pracowników produkcji roślinnej. Organizują dzienny harmonogram prac w zakresie produkcji roślinnej i uczestniczą w produkcji.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Rozdzielasz zadania na polu między pracowników",
+   "Pilnujesz terminów siewu i zbioru",
+   "Pracujesz razem z zespołem przy uprawach",
+   "Zmieniasz plan, gdy psuje się pogoda"
+  ]
+ },
+ {
+  "id": 1689,
+  "name": "Zarządca produkcji rolnej",
+  "desc": "Zarządcy produkcji rolnej planują produkcję, zarządzają przedsiębiorstwem i uczestniczą w procesie produkcji w zakładzie produkcji rolnej.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Planujesz uprawy na cały sezon",
+   "Zamawiasz nasiona, nawozy i paliwo",
+   "Pracujesz przy siewie i zbiorze",
+   "Prowadzisz rachunki gospodarstwa"
+  ]
+ },
+ {
+  "id": 1690,
+  "name": "Menedżer akwakultury ds. cumowania sadzów",
+  "desc": "Menedżerowie akwakultury ds. cumowania sadzów wykonują i nadzorują cumowanie sadzów w stabilnych stacjach, sadzach dryfujących, a nawet w sadzach z własnym napędem i częściowo zanurzonych. Bezpiecznie obsługują i cumują różnego rodzaju duże sadze oraz zarządzają panującymi warunkami, takimi jak działanie prądów i fal oraz profil dna morskiego na obszarach wód otwartych lub półotwartych.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Planujesz sposób cumowania sadzów",
+   "Sprawdzasz prądy, fale i ukształtowanie dna",
+   "Nadzorujesz ekipę przy zakładaniu cum",
+   "Kontrolujesz stan lin, kotwic i łańcuchów"
+  ]
+ },
+ {
+  "id": 1691,
+  "name": "Menedżer wylęgarni ryb i skorupiaków",
+  "desc": "Menedżerowie wylęgarni ryb i skorupiaków zajmują się planowaniem, kierowaniem i koordynowaniem produkcji w ramach prowadzonych na dużą skalę operacji hodowli ryb i skorupiaków oraz opracowują strategie hodowli z wykorzystaniem różnych technik przeprowadzania tarła. Kontrolują rozmnażanie i wczesne etapy cyklu życia hodowanych gatunków. Nadzorują techniki inkubacji, wczesnego karmienia i wychowu hodowanych gatunków.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Planujesz tarło ryb i skorupiaków",
+   "Nadzorujesz inkubację ikry",
+   "Kontrolujesz wczesne karmienie młodych",
+   "Koordynujesz pracę techników wylęgarni"
+  ]
+ },
+ {
+  "id": 1692,
+  "name": "Pracownik akwakultury ds. chowu",
+  "desc": "Pracownicy akwakultury ds. chowu pracują przy hodowli organizmów wodnych, gdzie odpowiadają za procesy podchowu naziemnego. Pomagają w procesie wychowu organizmów na wszystkich etapach cyklu życia.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Karmisz ryby w zbiornikach",
+   "Sprzątasz baseny i filtry",
+   "Sortujesz osobniki według wielkości",
+   "Zauważasz martwe lub chore sztuki"
+  ]
+ },
+ {
+  "id": 1693,
+  "name": "Pracownik wylęgarni ryb i skorupiaków",
+  "desc": "Pracownicy wylęgarni ryb i skorupiaków zajmują się chowem organizmów wodnych w wylęgu naziemnym. Pomagają w procesie wychowu organizmów na wczesnych etapach cyklu życia i uwalniania organizmów w razie konieczności.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Pilnujesz ikry w inkubatorach",
+   "Karmisz bardzo małe larwy",
+   "Wybierasz z ikry martwe jaja",
+   "Wypuszczasz młode do wody, gdy trzeba"
+  ]
+ },
+ {
+  "id": 1694,
+  "name": "Technik akwakultury ds. chowu",
+  "desc": "Technicy akwakultury ds. chowu organizmów wodnych pracują przy hodowli organizmów wodnych, gdzie specjalizują się w procesach chowu, a w szczególności w karmieniu i zarządzaniu stadem.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Ustalasz dawki karmy dla stada",
+   "Mierzysz i ważysz próbki zwierząt",
+   "Obserwujesz zachowanie i apetyt ryb",
+   "Zapisujesz wzrost i zużycie karmy"
+  ]
+ },
+ {
+  "id": 1695,
+  "name": "Technik akwakultury ds. odłowów",
+  "desc": "Technicy akwakultury ds. odłowów zajmują się odłowem organizmów wodnych w hodowlach, obsługując skomplikowane urządzenia i maszyny do odłowu określonych gatunków w hodowli.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Przygotowujesz sieci i urządzenia do odłowu",
+   "Obsługujesz maszyny do wyławiania zwierząt",
+   "Sortujesz złowione sztuki według rozmiaru",
+   "Sprawdzasz sprzęt po zakończeniu odłowu"
+  ]
+ },
+ {
+  "id": 1696,
+  "name": "Technik akwakultury ds. systemów recyrkulacyjnych",
+  "desc": "Technicy akwakultury ds. systemów recyrkulacyjnych obsługują i kontrolują procesy związane z chowem organizmów wodnych w naziemnych systemach recyrkulacyjnych, w których wykorzystuje się procesy ponownego wykorzystania wody oraz działanie urządzeń pompujących, napowietrzających, grzewczych, oświetleniowych i filtrów biologicznych, jak również systemy zasilania awaryjnego.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Sprawdzasz pompy i napowietrzanie",
+   "Kontrolujesz filtry biologiczne i temperaturę wody",
+   "Testujesz zasilanie awaryjne",
+   "Reagujesz na alarmy systemu"
+  ]
+ },
+ {
+  "id": 1697,
+  "name": "Technik akwakultury ds. wychowu",
+  "desc": "Technicy akwakultury ds. wychowu zajmują się chowem organizmów wodnych. Są specjalistami w zakresie wychowu, odsadzania i hodowli młodych osobników.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Sprawdzasz wzrost młodych osobników",
+   "Przestawiasz młode na inny pokarm",
+   "Sortujesz je według wielkości",
+   "Zauważasz wczesne objawy choroby"
+  ]
+ },
+ {
+  "id": 1698,
+  "name": "Technik akwakultury w systemach wodnych",
+  "desc": "Technicy akwakultury w systemach wodnych koordynują i nadzorują tuczenie organizmów wodnych w akwakulturze w systemach zawieszonych (strukturach unoszących się na wodzie lub zanurzonych). Biorą udział w ekstrakcji i przetwarzaniu organizmów żywych do celów komercjalizacji. Technicy akwakultury w systemach wodnych nadzorują konserwację sprzętu i obiektów (sadzów, tratew, takli, drewnianych pali (bouchot)).",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Kontrolujesz tratwy, liny i pale hodowlane",
+   "Nadzorujesz tuczenie zwierząt w wodzie",
+   "Wyjmujesz i przetwarzasz zwierzęta do sprzedaży",
+   "Organizujesz konserwację sprzętu i konstrukcji"
+  ]
+ },
+ {
+  "id": 1699,
+  "name": "Technik ds. chowu sadzowego",
+  "desc": "Technicy ds. chowu sadzowego pracują przy hodowli organizmów wodnych, gdzie odpowiadają za procesy podchowu sadzowego w środowisku wodnym (w wodzie słodkiej, słonawej lub słonej).",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Karmisz ryby w sadzach",
+   "Kontrolujesz siatki i stan sadzów",
+   "Obserwujesz zachowanie i zdrowie ryb",
+   "Mierzysz jakość i temperaturę wody"
+  ]
+ },
+ {
+  "id": 1700,
+  "name": "Technik wylęgarni ryb i skorupiaków",
+  "desc": "Technicy wylęgarni ryb i skorupiaków obsługują i kontrolują wszystkie procesy związane z wylęganiem ryb i skorupiaków, od zarządzania stadem zarodowym po wychów młodych osobników.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Zarządzasz stadem ryb dających ikrę",
+   "Prowadzisz kontrolowane tarło i zapładnianie ikry",
+   "Kontrolujesz wylęg i warunki w inkubatorach",
+   "Wychowujesz młode w pierwszych tygodniach życia"
+  ]
+ },
+ {
+  "id": 1701,
+  "name": "Szyper",
+  "desc": "Szyprowie pracują na statkach rybackich na wodach w strefie brzegowej, prowadząc operacje w części pokładowej i w maszynowni. Kontrolują nawigację oraz poławiają i konserwują ryby w granicach wyznaczonych obszarów zgodnie z przepisami krajowymi i międzynarodowymi.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Wyznaczasz kurs i nawigujesz przy brzegu",
+   "Kierujesz pracą załogi na pokładzie",
+   "Sprawdzasz silnik i sprzęt w maszynowni",
+   "Pilnujesz limitów i obszarów połowu"
+  ]
+ },
+ {
+  "id": 1702,
+  "name": "Technik rybołówstwa",
+  "desc": "Technicy rybołówstwa zajmują się planowaniem, zarządzaniem i wykonywaniem działalności w zakresie rybołówstwa na statkach rybackich na obszarze wód przybrzeżnych, w strefie brzegowej i na otwartym morzu. Prowadzą i kontrolują nawigację. Technicy rybołówstwa mogą pracować na statkach o pojemności brutto 500 ton lub większej. Kontrolują załadunek, rozładunek i sztauowanie oraz zajmują się gromadzeniem, przetwarzaniem i przechowywaniem połowów.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Planujesz połowy i trasę statku",
+   "Nadzorujesz załadunek i rozmieszczenie ładunku",
+   "Kontrolujesz przetwarzanie i chłodzenie połowu",
+   "Prowadzisz i kontrolujesz nawigację statku"
+  ]
+ },
+ {
+  "id": 1703,
+  "name": "Rybak rybołówstwa dalekomorskiego",
+  "desc": "Rybacy rybołówstwa dalekomorskiego prowadzą na pokładzie statków rybackich połowy ryb głębinowych przeznaczonych do sprzedaży lub dostawy. Do połowu ryb głębinowych wykorzystują sprzęt, taki jak pręty i sieci, zgodnie z przepisami. Rybacy rybołówstwa dalekomorskiego transportują, przetwarzają i konserwują ryby poprzez solenie, oblodzenie lub zamrażanie.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Zarzucasz i wyciągasz sieci",
+   "Sortujesz i oczyszczasz złowione ryby",
+   "Solisz, chłodzisz lub zamrażasz połów",
+   "Naprawiasz sieci i sprzęt połowowy"
+  ]
+ },
+ {
+  "id": 1704,
+  "name": "Myśliwy",
+  "desc": "Myśliwi zajmują się tropieniem i podchodzeniem zwierzyny łownej w celu jej schwytania lub zabicia. Polują na zwierzęta w celu pozyskania żywności i innych produktów zwierzęcych, a także w celach rekreacyjnych, handlowych lub zarządzania dziką fauną i florą. Myśliwi specjalizują się w tropieniu i strzelaniu do zwierząt z broni, np. strzelby i łuku. W podobnych celach używają również różnych przyrządów do łapania zwierząt w sidła.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Czytasz tropy i ślady zwierząt",
+   "Cicho podchodzisz do zwierzyny",
+   "Obsługujesz broń zgodnie z przepisami",
+   "Zajmujesz się upolowaną zwierzyną"
+  ]
+ },
+ {
+  "id": 1705,
+  "name": "Rybak przybrzeżny",
+  "desc": "Rybacy przybrzeżni prowadzą na pokładzie małych łodzi połowy przybrzeżne i w pobliżu wybrzeża. Zajmują się organizacją, zarządzaniem i wykonywaniem działalności żeglugowej w części pokładowej i w maszynowni. Rybacy przybrzeżni poławiają i konserwują ryby lub prowadzą działalność w zakresie akwakultury. Postępują zgodnie z zasadami bezpieczeństwa i przestrzegają przepisów krajowych i międzynarodowych.",
+  "path": "Rolnictwo, las i zwierzęta > Rybacy i hodowcy ryb",
+  "tasks": [
+   "Wypływasz małą łodzią i prowadzisz ją",
+   "Zastawiasz i wybierasz sieci przy brzegu",
+   "Sprawdzasz silnik i sprzęt przed rejsem",
+   "Układasz ryby w skrzynkach z lodem"
+  ]
+ },
+ {
+  "id": 1706,
+  "name": "Pracownik zajmujący się końmi",
+  "desc": "Pracownicy zajmujący się końmi zapewniają opiekę dla koni i kuców.",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Karmisz konie i kuce o stałych porach",
+   "Wypuszczasz zwierzęta na pastwisko",
+   "Czyścisz kopyta i szczotkujesz sierść",
+   "Zauważasz kulawiznę lub zmianę apetytu"
+  ]
+ },
+ {
+  "id": 1707,
+  "name": "Pracownik zajmujący się żywym inwentarzem",
+  "desc": "Pracownicy zajmujący się żywym inwentarzem utrzymują zdrowie i dobrostan zwierząt. Nadzorują oni hodowlę/produkcję oraz codzienną opiekę zdrowotną, taką jak karmienie zwierząt i ich pojenie.",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Rozdajesz paszę i uzupełniasz wodę",
+   "Sprawdzasz, czy zwierzęta nie kuleją i jedzą",
+   "Wymieniasz ściółkę w boksach",
+   "Zapisujesz zmiany w zdrowiu stada"
+  ]
+ },
+ {
+  "id": 1708,
+  "name": "Stajenny",
+  "desc": "Stajenni zapewniają praktyczną codzienną opiekę nad końmi w celu zapewnienia koniom zdrowia, dobrostanu i bezpieczeństwa. Biorą oni udział w ćwiczeniu koni, sprzątaniu i utrzymywaniu stajni, budynków i całego obszaru.",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Sprzątasz boksy i zmieniasz ściółkę",
+   "Wyprowadzasz konie na ćwiczenia",
+   "Karmisz konie według planu",
+   "Utrzymujesz porządek w budynkach i na placu"
+  ]
+ },
+ {
+  "id": 1709,
+  "name": "Łapacz drobiu",
+  "desc": "Łapacze drobiu to specjaliści pracujący w gospodarstwach zajmujących się hodowlą drobiu, łapiący drób.",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Łapiesz ptaki w hali hodowlanej",
+   "Układasz je ostrożnie w skrzyniach",
+   "Przenosisz pełne skrzynie do ciężarówki",
+   "Uważasz, żeby nie połamać skrzydeł i nóg"
+  ]
+ },
+ {
+  "id": 1710,
+  "name": "Osoba zbierająca wodorosty morskie, skorupiaki i inne zwierzęta wodne",
+  "desc": "Osoby zbierające wodorosty morskie, skorupiaki i inne zwierzęta wodne zbierają młode mięczaki i wodorosty oraz małże i inne zwierzęta wodne, takie jak skorupiaki i szkarłupnie, lub zasoby roślinne.",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Zbierasz wodorosty z brzegu lub płycizny",
+   "Wybierasz małże i skorupiaki",
+   "Sortujesz zebrane organizmy",
+   "Układasz zbiór w skrzynkach"
+  ]
+ },
+ {
+  "id": 1711,
+  "name": "Pracownik akwakultury ds. cumowania sadzów",
+  "desc": "Pracownicy akwakultury ds. cumowania sadzów obsługują wysoce specjalistyczny sprzęt w celu zacumowania klatek na stałych stacjach, klatek dryfujących, a nawet klatek z własnym napędem i klatek częściowo zanurzonych.",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Układasz liny i łańcuchy cumownicze",
+   "Obsługujesz sprzęt do zakotwiczania klatek",
+   "Sprawdzasz, czy klatki trzymają pozycję",
+   "Wymieniasz zużyte elementy mocowania"
+  ]
+ },
+ {
+  "id": 1712,
+  "name": "Pracownik akwakultury ds. odłowów",
+  "desc": "Pracownicy akwakultury ds. odłowów pracują przy zbiorach organizmów wodnych hodowanych w naziemnych procesach rozwoju.",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Przygotowujesz sieci i pojemniki do zbioru",
+   "Odławiasz ryby siecią",
+   "Przekładasz odłowione zwierzęta do pojemników",
+   "Myjesz basen i sprzęt po zbiorze"
+  ]
+ },
+ {
+  "id": 1713,
+  "name": "Pracownik akwakultury w systemach wodnych",
+  "desc": "Pracownicy akwakultury w systemach wodnych wykonują czynności ręczne w procesach wegetacyjnych hodowanych organizmów wodnych w wodnych systemach zawieszonych (konstrukcje pływające lub zanurzone). Biorą oni udział w działalności wydobywczej i przetwarzaniu organizmów na potrzeby komercjalizacji. Pracownicy akwakultury w systemach wodnych konserwują i czyszczą obiekty (sieci, liny cumownicze, klatki).",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Czyścisz sieci i klatki z zanieczyszczeń",
+   "Sprawdzasz liny cumownicze i mocowania",
+   "Obserwujesz hodowlę i zapisujesz zmiany",
+   "Pomagasz przy zbiorze i przetwarzaniu"
+  ]
+ },
+ {
+  "id": 1714,
+  "name": "Pracownik winnicy",
+  "desc": "Pracownicy winnic wykonują czynności ręczne dotyczące uprawy, rozmnażania odmian winogron oraz produkcji i/lub pakowania win.",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Przycinasz i podwiązujesz pędy winorośli",
+   "Zbierasz dojrzałe grona ręcznie",
+   "Pomagasz przy rozmnażaniu odmian",
+   "Pakujesz butelki wina do kartonów"
+  ]
+ },
+ {
+  "id": 1715,
+  "name": "Zbieracz owoców i warzyw",
+  "desc": "Zbieracze owoców i warzyw wybierają i zbierają owoce, warzywa i orzechy zgodnie z metodą właściwą dla danego typu owoców, warzyw lub orzechów.",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Wybierasz dojrzałe owoce i warzywa",
+   "Zrywasz je metodą dobraną do rośliny",
+   "Układasz zbiór w skrzynkach",
+   "Odrzucasz uszkodzone sztuki"
+  ]
+ },
+ {
+  "id": 1716,
+  "name": "Pomocniczy robotnik w ogrodnictwie",
+  "desc": "Pomocniczy robotnicy w ogrodnictwie wykonują proste prace przy uprawie i utrzymaniu kwiatów, drzew i krzewów. Praca ta może odbywać się w parkach lub w ogrodach prywatnych.",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Podlewasz i pielisz rabaty",
+   "Sadzisz kwiaty i krzewy",
+   "Grabisz liście i zbierasz ścięte gałęzie",
+   "Pomagasz przy przycinaniu krzewów"
+  ]
+ },
+ {
+  "id": 1717,
+  "name": "Pracownik produkcji roślinnej",
+  "desc": "Pracownicy produkcji roślinnej prowadzą działania praktyczne i pomagają w produkcji upraw rolniczych.",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Wysiewasz i sadzisz rośliny w rzędach",
+   "Pielisz i pomagasz przy pielęgnacji upraw",
+   "Zbierasz plony i ładujesz je na przyczepę",
+   "Sprawdzasz, czy rośliny dobrze rosną"
+  ]
+ },
+ {
+  "id": 1718,
+  "name": "Robotnik leśny",
+  "desc": "Robotnicy leśni wykonują różnorodne zawody w celu opieki nad drzewami, obszarami zalesionymi i lasami oraz zarządzania nimi. Do ich działań należy sadzenie, przycinanie, przerzedzanie i wycinka drzew oraz ochrona przed szkodnikami, chorobami i uszkodzeniami.",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Sadzisz młode drzewa w rzędach",
+   "Przerzedzasz zbyt gęste młode drzewa",
+   "Wycinasz drzewa wskazane do ścięcia",
+   "Szukasz śladów szkodników i uszkodzeń"
+  ]
+ },
+ {
+  "id": 1719,
+  "name": "Hodowca bydła",
+  "desc": "Hodowcy bydła nadzorują chów i codzienną opiekę nad bydłem. Dbają o zdrowie i dobrostan bydła.",
+  "path": "Rolnictwo, las i zwierzęta > Hodowcy zwierząt",
+  "tasks": [
+   "Karmisz i poisz stado",
+   "Obserwujesz zwierzęta i wychwytujesz oznaki choroby",
+   "Czyścisz boksy i wymieniasz ściółkę",
+   "Wzywasz weterynarza i pomagasz przy zabiegach"
+  ]
+ },
+ {
+  "id": 1720,
+  "name": "Hodowca koni",
+  "desc": "Hodowcy koni nadzorują chów i codzienną opiekę nad końmi. Dbają o zdrowie i dobrostan koni.",
+  "path": "Rolnictwo, las i zwierzęta > Hodowcy zwierząt",
+  "tasks": [
+   "Karmisz konie i sprawdzasz wodę",
+   "Czyścisz boksy i wymieniasz ściółkę",
+   "Wyprowadzasz konie na padok i ruszasz je",
+   "Oglądasz kopyta i sprawdzasz, czy nie kuleją"
+  ]
+ },
+ {
+  "id": 1721,
+  "name": "Hodowca owiec",
+  "desc": "Hodowcy owiec nadzorują chów i codzienną opiekę nad owcami. Dbają o zdrowie i dobrostan owiec.",
+  "path": "Rolnictwo, las i zwierzęta > Hodowcy zwierząt",
+  "tasks": [
+   "Wypędzasz owce na pastwisko",
+   "Liczysz owce i szukasz chorych",
+   "Pomagasz przy porodach jagniąt",
+   "Strzyżesz owce i zbierasz wełnę"
+  ]
+ },
+ {
+  "id": 1722,
+  "name": "Hodowca trzody chlewnej",
+  "desc": "Hodowcy trzody chlewnej nadzorują chów i codzienną opiekę nad trzodą chlewną. Dbają o zdrowie i dobrostan trzody chlewnej.",
+  "path": "Rolnictwo, las i zwierzęta > Hodowcy zwierząt",
+  "tasks": [
+   "Dozujesz paszę dla każdej grupy świń",
+   "Myjesz kojce i wymieniasz ściółkę",
+   "Obserwujesz świnie i wyłapujesz chore",
+   "Doglądasz lochy i prosięta"
+  ]
+ },
+ {
+  "id": 1723,
+  "name": "Pasterz",
+  "desc": "Pasterze dbają o dobrostan i przemieszczanie się żywego inwentarza, w szczególności owiec, kóz i innych zwierząt żywionych w systemie wypasowym w różnym otoczeniu.",
+  "path": "Rolnictwo, las i zwierzęta > Hodowcy zwierząt",
+  "tasks": [
+   "Prowadzisz stado na nowe pastwiska",
+   "Liczysz zwierzęta i pilnujesz granic wypasu",
+   "Sprawdzasz, czy zwierzęta są zdrowe",
+   "Prowadzisz stado do wody"
+  ]
+ },
+ {
+  "id": 1724,
+  "name": "Zarządca stajni",
+  "desc": "Zarządcy stajni są odpowiedzialni za bieżące prowadzenie stajni, w tym za zarządzanie personelem, opiekę nad końmi, wszystkie aspekty związane z bezpieczeństwem i higieną oraz obsługę klientów i właścicieli.",
+  "path": "Rolnictwo, las i zwierzęta > Hodowcy zwierząt",
+  "tasks": [
+   "Układasz grafik pracowników stajni",
+   "Sprawdzasz zdrowie i kondycję koni",
+   "Pilnujesz zasad bezpieczeństwa i czystości",
+   "Rozmawiasz z właścicielami o ich koniach"
+  ]
+ },
+ {
+  "id": 1725,
+  "name": "Hodowca drobiu",
+  "desc": "Hodowcy drobiu nadzorują chów i codzienną opiekę nad drobiem. Dbają o zdrowie i dobrostan drobiu.",
+  "path": "Rolnictwo, las i zwierzęta > Hodowcy zwierząt",
+  "tasks": [
+   "Pilnujesz temperatury i świeżego powietrza w kurniku",
+   "Dozujesz paszę i sprawdzasz wodę",
+   "Wyłapujesz chore lub osłabione ptaki",
+   "Zapisujesz zużycie paszy i liczbę ptaków"
+  ]
+ },
+ {
+  "id": 1726,
+  "name": "Sekser drobiu",
+  "desc": "Sekserzy drobiu to wyspecjalizowani pracownicy pracujący w gospodarstwach zajmujących się hodowlą drobiu, którzy ustalają płeć zwierząt w celu oddzielenia samców od samic.",
+  "path": "Rolnictwo, las i zwierzęta > Hodowcy zwierząt",
+  "tasks": [
+   "Oglądasz pisklęta pojedynczo",
+   "Ustalasz płeć każdego ptaka",
+   "Rozdzielasz samce i samice do osobnych skrzynek",
+   "Liczysz i zapisujesz posortowane sztuki"
+  ]
+ },
+ {
+  "id": 1727,
+  "name": "Hodowca zwierząt futerkowych",
+  "desc": "Hodowcy zwierząt futerkowych nadzorują chów i codzienną opiekę nad zwierzętami futerkowymi. Dbają o zdrowie i dobrostan zwierząt futerkowych.",
+  "path": "Rolnictwo, las i zwierzęta > Hodowcy zwierząt",
+  "tasks": [
+   "Rozdajesz paszę i sprawdzasz wodę",
+   "Oglądasz zwierzęta i szukasz objawów chorób",
+   "Czyścisz klatki i teren fermy",
+   "Zapisujesz w dzienniku liczbę miotów"
+  ]
+ },
+ {
+  "id": 1728,
+  "name": "Pielęgniarz weterynaryjny / pielęgniarka weterynaryjna",
+  "desc": "Pielęgniarze weterynaryjni/pielęgniarki weterynaryjne wspierają zwierzęta poddawane zabiegom weterynaryjnym i udzielają porad klientom weterynarzy w zakresie poprawy zdrowia zwierząt i zapobiegania chorobom zgodnie z ustawodawstwem krajowym.",
+  "path": "Rolnictwo, las i zwierzęta > Technicy weterynarii",
+  "tasks": [
+   "Przygotowujesz zwierzę do zabiegu",
+   "Pilnujesz zwierzęcia po znieczuleniu",
+   "Opatrujesz rany i zmieniasz opatrunki",
+   "Radzisz właścicielom, jak zapobiegać chorobom"
+  ]
+ },
+ {
+  "id": 1729,
+  "name": "Technik dentystyczny dla koni",
+  "desc": "Technicy dentystyczni dla koni wykonują rutynowe zabiegi stomatologiczne u koni przy użyciu odpowiedniego sprzętu zgodnie z ustawodawstwem krajowym.",
+  "path": "Rolnictwo, las i zwierzęta > Technicy weterynarii",
+  "tasks": [
+   "Oglądasz zęby i jamę ustną konia",
+   "Wykonujesz rutynowe zabiegi na zębach",
+   "Przygotowujesz i obsługujesz specjalistyczny sprzęt",
+   "Uspokajasz konia i rozmawiasz z właścicielem"
+  ]
+ },
+ {
+  "id": 1730,
+  "name": "Technik przenoszenia zarodków zwierzęcych",
+  "desc": "Technicy przenoszenia zarodków zwierzęcych zapewniają pomoc i wsparcie przy przenoszeniu zarodków pod nadzorem weterynaryjnym zgodnie z ustawodawstwem krajowym.",
+  "path": "Rolnictwo, las i zwierzęta > Technicy weterynarii",
+  "tasks": [
+   "Przygotowujesz sprzęt i stanowisko do zabiegu",
+   "Pomagasz lekarzowi w przenoszeniu zarodków",
+   "Oznaczasz zarodki i dbasz o ich przechowywanie",
+   "Prowadzisz dokumentację zwierząt"
+  ]
+ },
+ {
+  "id": 1731,
+  "name": "Technik unasieniania zwierząt",
+  "desc": "Technicy unasieniania zwierząt są odpowiedzialni za zapłodnienie zwierzęcia przy użyciu pobranego nasienia, zgodnie z ustawodawstwem krajowym.",
+  "path": "Rolnictwo, las i zwierzęta > Technicy weterynarii",
+  "tasks": [
+   "Sprawdzasz, czy zwierzę jest gotowe do zabiegu",
+   "Przygotowujesz nasienie i narzędzia",
+   "Wykonujesz zabieg unasienniania",
+   "Zapisujesz daty i numery zwierząt w dokumentach"
+  ]
+ },
+ {
+  "id": 1732,
+  "name": "Zoofizjoterapeuta / zoofizjoterapeutka terapii alternatywnych",
+  "desc": "Zoofizjoterapeuci / zoofizjoterapeutki terapii alternatywnych badają chore lub ranne małe i duże zwierzęta oraz zapewniają leczenie alternatywne. Mogą stosować homeopatię lub akupunkturę i inne leki lub metody alternatywne w celu wyleczenia zwierzęcia. Zoofizjoterapeuci / zoofizjoterapeutki terapii alternatywnych zalecają również sposoby leczenia służące wzmocnieniu zdolności zwierząt do samouzdrowienia.",
+  "path": "Rolnictwo, las i zwierzęta > Technicy weterynarii",
+  "tasks": [
+   "Badasz zwierzę i pytasz właściciela o objawy",
+   "Dobierasz metodę leczenia alternatywnego",
+   "Stosujesz zabieg, na przykład akupunkturę",
+   "Zalecasz właścicielowi dalszą opiekę w domu"
+  ]
+ },
+ {
+  "id": 1733,
+  "name": "Główny lekarz weterynarii",
+  "desc": "Główni lekarze weterynarii są specjalistami w zakresie kompleksowego kształcenia naukowego. Są oni uprawnieni do wykonywania, w sposób niezależny, etyczny i osobiście odpowiedzialny, wszelkiej działalności weterynaryjnej, ze szczególnym uwzględnieniem zdrowia i dobrostanu zwierząt oraz zdrowia publicznego, zgodnie z ustawodawstwem krajowym i międzynarodowym. Odpowiadają oni za krajowe programy zwalczania chorób zwierząt, ochronę zdrowia publicznego i kontroli żywności lub zwierząt, przemieszczanie zwierząt oraz przywóz i wywóz żywych zwierząt i ich produktów.",
+  "path": "Rolnictwo, las i zwierzęta > Lekarze weterynarii",
+  "tasks": [
+   "Planujesz programy zwalczania chorób zwierząt",
+   "Kontrolujesz przewóz zwierząt i produktów",
+   "Nadzorujesz bezpieczeństwo żywności pochodzenia zwierzęcego",
+   "Koordynujesz pracę inspektorów i lekarzy"
+  ]
+ },
+ {
+  "id": 1734,
+  "name": "Kręgarz zwierząt",
+  "desc": "Kręgarze zwierząt zapewniają leczenie terapeutyczne po diagnozie weterynaryjnej lub skierowaniu sprawy do lekarza weterynarii. Koncentrują się oni na manipulacjach kręgosłupa lub terapii manualnej dla zwierząt, zgodnie z ustawodawstwem krajowym.",
+  "path": "Rolnictwo, las i zwierzęta > Lekarze weterynarii",
+  "tasks": [
+   "Czytasz diagnozę i skierowanie od weterynarza",
+   "Badasz ruch i kręgosłup zwierzęcia dłońmi",
+   "Wykonujesz delikatne manipulacje kręgosłupa",
+   "Informujesz właściciela o ćwiczeniach i kontroli"
+  ]
+ },
+ {
+  "id": 1735,
+  "name": "Specjalista ds. zdrowia zwierząt wodnych",
+  "desc": "Specjaliści ds. zdrowia zwierząt wodnych diagnozują, zapobiegają i leczą choroby, obrażenia i dysfunkcje zwierząt wodnych poprzez wdrożenie odpowiednich protokołów pobierania próbek. Nadzorują stosowanie leków, w tym szczepionek i gromadzą dane na temat zdrowia ryb, tworząc regularne sprawozdania odpowiednik pracownikom. Mogą oni zapewnić opiekę szerokiemu kręgowi zwierząt wodnych lub specjalizować się w leczeniu określonej grupy lub w określonym obszarze specjalizacji. Mogą udzielać porad, wsparcia i szkoleń pracownikom w gospodarstwie na temat najlepszych praktyk w zakresie zdrowia i dobrostanu hodowanych organizmów.",
+  "path": "Rolnictwo, las i zwierzęta > Lekarze weterynarii",
+  "tasks": [
+   "Pobierasz próbki od ryb do badań",
+   "Nadzorujesz szczepienia i podawanie leków",
+   "Piszesz regularne raporty o zdrowiu ryb",
+   "Uczysz pracowników, jak dbać o hodowane ryby"
+  ]
+ },
+ {
+  "id": 1736,
+  "name": "Weterynarz specjalista",
+  "desc": "Weterynarze specjaliści są specjalistami w zakresie kompleksowego kształcenia naukowego. Są oni uprawnieni do wykonywania, w sposób niezależny, etyczny i osobiście odpowiedzialny, wszystkich aspektów medycyny weterynaryjnej, w interesie zdrowia i dobrostanu zwierząt oraz zdrowia publicznego, zgodnie z ustawodawstwem krajowym i międzynarodowym. Ponadto potrzebują oni uznanej kwalifikacji i/lub doświadczenia w odniesieniu do konkretnego gatunku i/lub procedury weterynaryjnej.",
+  "path": "Rolnictwo, las i zwierzęta > Lekarze weterynarii",
+  "tasks": [
+   "Diagnozujesz trudne przypadki, często po skierowaniu",
+   "Planujesz zabieg i jego przebieg",
+   "Wykonujesz zabiegi z wąskiej specjalizacji",
+   "Tłumaczysz właścicielowi ryzyko i dalsze leczenie"
+  ]
+ },
+ {
+  "id": 1737,
+  "name": "Kierownik akwakultury ds. chowu",
+  "desc": "Kierownicy akwakultury ds. chowu specjalizują się w hodowli rozwijających się gatunków wodnych, w szczególności w procesach karmienia, wzrostu i zarządzania zapasami.",
+  "path": "Rolnictwo, las i zwierzęta > Kierownicy w rolnictwie i rybactwie",
+  "tasks": [
+   "Ustalasz plan karmienia dla zbiorników",
+   "Śledzisz wzrost i masę hodowanych zwierząt",
+   "Liczysz zapasy ryb i planujesz obsadę",
+   "Wydajesz polecenia pracownikom przy chowie"
+  ]
+ },
+ {
+  "id": 1738,
+  "name": "Kierownik akwakultury ds. odłowów",
+  "desc": "Kierownicy akwakultury ds. odłowów kontrolują operacje odłowu organizmów wodnych, co prowadzi do zrozumienia i wiedzy na temat technik i sprzętu wykorzystywanych w procesach odłowu.",
+  "path": "Rolnictwo, las i zwierzęta > Kierownicy w rolnictwie i rybactwie",
+  "tasks": [
+   "Planujesz termin i sposób odłowu",
+   "Dobierasz sieci i sprzęt do odłowu",
+   "Kierujesz ekipą podczas odławiania",
+   "Sprawdzasz ilość i stan odłowionych zwierząt"
+  ]
+ },
+ {
+  "id": 1739,
+  "name": "Kierownik akwakultury ds. produkcji",
+  "desc": "Kierownicy akwakultury ds. produkcji planują, kierują i koordynują produkcję ryb, skorupiaków lub innych form życia wodnego, takich jak uprawy przynoszące zyski, wykonują działania na dużą skalę w dziedzinie akwakultury na rzecz hodowli i zbioru lub wypuszczania do wody świeżej, słonawej lub słonej.",
+  "path": "Rolnictwo, las i zwierzęta > Kierownicy w rolnictwie i rybactwie",
+  "tasks": [
+   "Układasz plan produkcji na sezon",
+   "Kierujesz kierownikami i pracownikami hodowli",
+   "Pilnujesz kosztów, zamówień i terminów",
+   "Sprawdzasz, czy hodowla spełnia przepisy"
+  ]
+ }
+]
