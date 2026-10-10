@@ -1,0 +1,722 @@
+[
+ {
+  "id": 60,
+  "name": "Elektromechanik pojazdów samochodowych",
+  "desc": "Elektromechanicy pojazdów samochodowych instalują, konserwują i naprawiają instalacje elektryczne i elektroniczne w pojazdach silnikowych, takie jak klimatyzacja, lampy, radioodbiorniki, systemy grzewcze, akumulatory, przewody elektryczne i alternatory. Używają oni sprzętu diagnostycznego w celu kontroli pojazdów i znajdowania usterek. Naprawy wykonują przy użyciu narzędzi ręcznych oraz specjalistycznych instrumentów i maszyn elektrycznych.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Diagnozujesz usterki sprzętem diagnostycznym",
+   "Wymieniasz lampy, przewody i akumulatory",
+   "Naprawiasz klimatyzację i ogrzewanie samochodu",
+   "Instalujesz elektronikę, na przykład radio"
+  ]
+ },
+ {
+  "id": 61,
+  "name": "Elektryk",
+  "desc": "Elektrycy wyposażają i naprawiają obwody elektryczne oraz systemy okablowania. Ponadto instalują i konserwują sprzęt elektryczny oraz maszyny. Praca ta może być wykonywana w pomieszczeniach i na zewnątrz, w obiektach niemal każdego rodzaju.",
+  "path": "Mechanika i elektryka > Elektrycy i elektromonterzy",
+  "tasks": [
+   "Układasz przewody i montujesz gniazdka",
+   "Podłączasz rozdzielnice i zabezpieczenia",
+   "Mierzysz instalację i szukasz zwarć",
+   "Czytasz schematy elektryczne"
+  ]
+ },
+ {
+  "id": 62,
+  "name": "Serwisant telefonów komórkowych",
+  "desc": "Serwisanci telefonów komórkowych przeprowadzają testy w celu oceny funkcjonowania telefonów komórkowych, instalują i aktualizują oprogramowanie telefoniczne, usuwają problemy związane z przewodami oraz wymieniają uszkodzone części i komponenty, takie jak baterie, ekrany LCD, klawiatury i przyciski. Doradzają również klientom w kwestiach gwarancyjnych i rekomendują produkty w oparciu o swoją fachową wiedzę.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Testujesz działanie telefonu klienta",
+   "Wymieniasz ekran, baterię i klawisze",
+   "Instalujesz i aktualizujesz oprogramowanie",
+   "Doradzasz w sprawach gwarancji"
+  ]
+ },
+ {
+  "id": 63,
+  "name": "Serwisant sprzętu komputerowego",
+  "desc": "Serwisanci sprzętu komputerowego instalują, badają, testują i naprawiają sprzęt komputerowy i urządzenia peryferyjne. Sprawdzają oni funkcjonowanie komputerów, identyfikują problemy oraz wymieniają uszkodzone komponenty i części.",
+  "path": "Mechanika i elektryka > Elektronicy i monterzy telekomunikacji",
+  "tasks": [
+   "Instalujesz i testujesz sprzęt komputerowy",
+   "Sprawdzasz działanie komputerów",
+   "Wymieniasz uszkodzone komponenty",
+   "Naprawiasz urządzenia peryferyjne"
+  ]
+ },
+ {
+  "id": 64,
+  "name": "Monter paneli fotowoltaicznych",
+  "desc": "Monterzy paneli fotowoltaicznych instalują i konserwują instalacje gromadzące energię słoneczną. Przygotowują oni niezbędny osprzęt, często na dachach, instalują panele słoneczne i podłączą je do systemu elektronicznego obejmującego falownik do połączenia słonecznej instalacji energetycznej do linii elektrycznych.",
+  "path": "Mechanika i elektryka > Zielona energia",
+  "tasks": [
+   "Przygotowujesz uchwyty i osprzęt na dachu",
+   "Mocujesz panele słoneczne",
+   "Podłączasz panele do falownika",
+   "Serwisujesz istniejące instalacje"
+  ]
+ },
+ {
+  "id": 65,
+  "name": "Technik turbin wiatrowych",
+  "desc": "Technicy turbin wiatrowych konserwują i naprawiają turbiny wiatrowe, przeprowadzając badania diagnostyczne, analizując usterki i wykonując zadania z zakresu naprawy. Zapewniają oni zgodne z przepisami funkcjonowanie turbin wiatrowych oraz pomagają inżynierom instalacji wiatrowych w budowie turbin wiatrowych. Technicy turbin wiatrowych mogą również testować i instalować elementy sprzętu i oprogramowania turbin wiatrowych.",
+  "path": "Mechanika i elektryka > Zielona energia",
+  "tasks": [
+   "Wykonujesz badania diagnostyczne turbiny",
+   "Analizujesz usterki i ich przyczyny",
+   "Naprawiasz uszkodzone elementy",
+   "Testujesz i instalujesz sprzęt turbiny"
+  ]
+ },
+ {
+  "id": 66,
+  "name": "Monter pomp ciepła",
+  "desc": "Monterzy pomp ciepła instalują i serwisują urządzenia, które ogrzewają budynki energią z powietrza lub gruntu. Dobierają moc urządzenia, podłączają instalację, uruchamiają ją i uczą właścicieli obsługi.",
+  "path": "Mechanika i elektryka > Zielona energia",
+  "tasks": [
+   "Dobierasz moc urządzenia do budynku",
+   "Podłączasz instalację grzewczą",
+   "Uruchamiasz i ustawiasz pompę ciepła",
+   "Uczysz właściciela obsługi"
+  ]
+ },
+ {
+  "id": 67,
+  "name": "Technik elektromobilności",
+  "desc": "Technicy elektromobilności diagnozują i naprawiają samochody elektryczne i hybrydowe oraz stacje ładowania. Pracują z instalacjami wysokiego napięcia, więc ściśle trzymają się zasad bezpieczeństwa. Zawód jest w klasyfikacji szkolnictwa branżowego od 2025 r.",
+  "path": "Mechanika i elektryka > Zielona energia",
+  "tasks": [
+   "Diagnozujesz usterki aut elektrycznych",
+   "Naprawiasz hybrydy i stacje ładowania",
+   "Przestrzegasz procedur pracy z wysokim napięciem",
+   "Sprawdzasz stan baterii i układu ładowania"
+  ]
+ },
+ {
+  "id": 68,
+  "name": "Nauczyciel akademicki",
+  "desc": "Nauczyciele akademiccy uczą studentów, którzy uzyskali dyplom ukończenia szkoły średniej, w zakresie swojej wyspecjalizowanej dziedziny studiów, która ma głównie charakter akademicki. Mogą oni posiadać tytuły zawodowe, takie jak starszy wykładowca lub profesor. Współpracują ze swoimi asystentami naukowymi asystentami dydaktycznymi w celu przygotowania wykładów i egzaminów, do klasyfikowania dokumentów i egzaminów, do prowadzenia praktyk laboratoryjnych, a także do prowadzenia regularnych przeglądów i wymiany informacji zwrotnych dla studentów.",
+  "path": "Edukacja > Nauczyciele akademiccy",
+  "tasks": [
+   "Prowadzisz wykłady dla studentów",
+   "Układasz egzaminy i sprawdzasz prace",
+   "Prowadzisz ćwiczenia i zajęcia laboratoryjne",
+   "Omawiasz ze studentami ich wyniki"
+  ]
+ },
+ {
+  "id": 69,
+  "name": "Nauczyciel osób ze specjalnymi potrzebami edukacyjnymi/nauczycielka osób ze specjalnymi potrzebami edukacyjnymi",
+  "desc": "Nauczyciele osób ze specjalnymi potrzebami edukacyjnymi uczą dzieci, nastolatków i dorosłych z niepełnosprawnością intelektualną lub fizyczną. Wykorzystują szereg specjalistycznych pojęć, strategii i narzędzi w celu optymalizacji komunikacji, mobilności, autonomii i integracji społecznej osób uczących się. Wybierają metody nauczania i wspierają zasoby umożliwiające osobom uczącym się maksymalizację możliwości samodzielnego życia.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Dobierasz metody komunikacji dla ucznia",
+   "Uczysz codziennych czynności i samodzielności",
+   "Wybierasz pomoce i narzędzia wspierające",
+   "Pracujesz nad włączaniem ucznia w społeczność"
+  ]
+ },
+ {
+  "id": 70,
+  "name": "Lektor w szkole języków obcych/lektorka w szkole języków obcych",
+  "desc": "Lektorzy w szkole języków obcych uczą uczniów bez podziału wiekowego języka, który nie jest językiem ojczystym w specjalistycznej szkole, niezwiązanej z poziomem edukacji. Koncentrują się oni w mniejszym stopniu na akademickim aspekcie nauczania języków, w przeciwieństwie do nauczycieli języków obcych w szkolnictwie gimnazjalnym lub średnim, lecz raczej na teorii i praktyce, która będzie najbardziej pomocna dla uczniów w rzeczywistych sytuacjach, ponieważ najczęściej wybierają zajęcia do celów prowadzenia działalności gospodarczej, imigracji lub rozrywki.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Prowadzisz rozmowy z grupą w uczonym języku",
+   "Układasz scenki: zamawianie, spotkanie, rozmowa kwalifikacyjna",
+   "Tłumaczysz słownictwo potrzebne uczniom w pracy",
+   "Poprawiasz wymowę i błędy w mowie"
+  ]
+ },
+ {
+  "id": 71,
+  "name": "Nauczyciel muzyki/nauczycielka muzyki",
+  "desc": "Nauczyciele muzyki uczą uczniów różnych gatunków muzycznych i form ekspresji, takich jak muzyka klasyczna jazz, folk, pop, blues, rock, muzyka elektroniczna itp. w kontekście rekreacyjnym. Przekazują uczniom przegląd historii i repertuaru muzycznego, ale przede wszystkim wykorzystują w swoich kursach podejście oparte na praktyce. W ramach tych kursów pomagają uczniom eksperymentować z różnymi stylami i technikami na wybranym przez siebie instrumencie muzycznym, zachęcając je do rozwijania własnego stylu. Prowadzą, reżyserują i produkują występy muzyczne oraz koordynują produkcję techniczną.",
+  "path": "Edukacja > Pedagodzy, lektorzy i instruktorzy",
+  "tasks": [
+   "Pokazujesz, jak grać wybrany utwór na instrumencie",
+   "Dobierasz repertuar do możliwości ucznia",
+   "Opowiadasz o historii gatunków muzycznych",
+   "Prowadzisz próby zespołu przed koncertem uczniów"
+  ]
+ },
+ {
+  "id": 72,
+  "name": "Dyrektor szkoły",
+  "desc": "Dyrektorzy szkół zarządzają codzienną działalnością instytucji edukacyjnej. Podejmują decyzje w sprawie naboru i są odpowiedzialni za przestrzeganie standardów w zakresie programów nauczania, które ułatwiają studentom rozwój akademicki. Zarządzają personelem, ściśle współpracują z dyrektorami działów oraz oceniają nauczycieli w odpowiednim czasie, aby zapewnić optymalną efektywność na poziomie klasy. Zapewniają również, że szkoła odpowiada krajowym wymogom w zakresie edukacji i współpracują ze społecznościami lokalnymi i rządami.",
+  "path": "Edukacja > Dyrektor szkoły",
+  "tasks": [
+   "Oceniasz pracę nauczycieli i rozmawiasz o niej",
+   "Podejmujesz decyzje o naborze uczniów",
+   "Pilnujesz, żeby program nauczania spełniał standardy",
+   "Współpracujesz z samorządem i lokalną społecznością"
+  ]
+ },
+ {
+  "id": 73,
+  "name": "Nauczyciel przedszkola/nauczycielka przedszkola",
+  "desc": "Nauczyciele przedszkola uczą głównie małe dzieci podstawowych przedmiotów i kreatywnych zabaw z myślą o rozwijaniu ich umiejętności społecznych i intelektualnych w sposób nieformalny w przygotowaniu do przyszłej formalnej nauki. Tworzą plany lekcji, w miarę możliwości zgodne z ustalonym programem nauczania, dla całej klasy lub mniejszych grup oraz sprawdzają uczniów z ich treści. Te plany lekcji, oparte na podstawowych tematach, mogą obejmować naukę liczb, liter i rozpoznawania kolorów, dni tygodnia, kategoryzację zwierząt i pojazdów itp.",
+  "path": "Edukacja > Nauczyciele szkół podstawowych i przedszkoli",
+  "tasks": [
+   "Układasz plany lekcji dla grupy",
+   "Uczysz liczb, liter i kolorów",
+   "Prowadzisz zabawy rozwijające umiejętności społeczne",
+   "Sprawdzasz, co dzieci zapamiętały"
+  ]
+ },
+ {
+  "id": 74,
+  "name": "Nauczyciel w szkole podstawowej/nauczycielka w szkole podstawowej",
+  "desc": "Nauczyciele w szkole podstawowej uczą uczniów na poziomie szkoły podstawowej. Opracowują plany lekcji zgodnie z celami programu nauczania w odniesieniu do różnych przedmiotów, których uczą, w tym matematyki, języków, biologii i muzyki. Monitorują postępy uczniów i oceniają ich wiedzę i umiejętności w zakresie przedmiotów nauczanych w ramach testów. Tworzą treść swojego kursu na podstawie wiedzy uczniów z poprzednich lekcji i zachęcają ich do pogłębienia zrozumienia przedmiotów, którymi się interesują. Używają zasobów klasowych i metod nauczania, aby tworzyć inspirujące środowisko nauczania.",
+  "path": "Edukacja > Nauczyciele szkół podstawowych i przedszkoli",
+  "tasks": [
+   "Przygotowujesz i prowadzisz lekcje",
+   "Sprawdzasz prace i oceniasz postępy",
+   "Rozmawiasz z rodzicami",
+   "Pomagasz uczniom, którym idzie trudniej"
+  ]
+ },
+ {
+  "id": 75,
+  "name": "Nauczyciel w szkole ponadpodstawowej/nauczycielka w szkole ponadpodstawowej",
+  "desc": "Nauczyciele w szkole ponadpodstawowej zapewniają kształcenie uczniom, przeważnie dzieciom i nastolatkom w szkole średniej. Są zazwyczaj wyspecjalizowanymi nauczycielami przedmiotowymi, którzy uczą w swoim własnym polu dziedziny. Przygotowują plany lekcji i materiały, monitorują postępy uczniów, w razie konieczności indywidualnie pomagają i oceniają ich wiedzę i wyniki, dzięki zadaniom, testom i egzaminom.",
+  "path": "Edukacja",
+  "tasks": [
+   "Przygotowujesz plany lekcji i materiały",
+   "Tłumaczysz temat przy tablicy",
+   "Sprawdzasz kartkówki, prace i testy",
+   "Pomagasz indywidualnie uczniom, którzy nie nadążają"
+  ]
+ },
+ {
+  "id": 76,
+  "name": "Jubiler",
+  "desc": "Jubilerzy wytwarzają i naprawiają różne wyroby jubilerskie. Tworzą oni modele z wosku lub metalu gotowe do odlewania metodą traconego wosku. Mogą realizować proces odlewania (umieszczać woskowy model w pierścieniu odlewniczym, tworzyć formy, wlewać roztopiony metal do formy lub obsługiwać maszynę do odlewania odśrodkowego w celu odlewania przedmiotów). Ponadto jubilerzy tną, piłują, szlifują i lutują elementy biżuterii przy użyciu lutownicy i narzędzi do wycinania, a także polerują przedmioty.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Rzeźbisz woskowe modele ozdób do odlewu",
+   "Odlewasz metal w formie metodą traconego wosku",
+   "Piłujesz, szlifujesz i lutujesz elementy",
+   "Polerujesz gotowe pierścionki, wisiorki i bransolety"
+  ]
+ },
+ {
+  "id": 77,
+  "name": "Zegarmistrz",
+  "desc": "Zegarmistrzowie tworzą zegary i zegarki mechaniczne lub elektroniczne. Korzystają z precyzyjnych narzędzi ręcznych lub maszyn do automatycznego składania urządzeń do pomiaru czasu. Zegarmistrzowie mogą również naprawiać zegary lub zegarki. Mogą pracować w warsztatach lub w fabrykach.",
+  "path": "Rzemiosło > Rzemieślnicy artystyczni i precyzyjni",
+  "tasks": [
+   "Składasz mechanizm z maleńkich kół zębatych",
+   "Pracujesz pęsetą i precyzyjnymi narzędziami",
+   "Regulujesz mechanizm, żeby zegarek szedł dokładnie",
+   "Obsługujesz maszyny składające zegary w fabryce"
+  ]
+ },
+ {
+  "id": 78,
+  "name": "Szewc",
+  "desc": "Szewcy naprawiają i odnawiają zniszczone obuwie oraz inne przedmioty, takie jak paski lub torby. Używają narzędzi ręcznych i specjalistycznych maszyn, aby uzupełnić podeszwy lub obcasy, wymienić zużyte sprzączki oraz oczyścić i wypolerować obuwie.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Odrywasz zużytą podeszwę lub obcas",
+   "Przyklejasz i przyszywasz nową podeszwę",
+   "Wymieniasz sprzączkę w pasku lub torbie",
+   "Czyścisz i polerujesz gotowe buty"
+  ]
+ },
+ {
+  "id": 79,
+  "name": "Tapicer",
+  "desc": "Tapicerzy wyposażają przedmioty takie jak meble, panele, wyroby ortopedyczne, wyposażenie lub części pojazdu w obicie lub miękkie pokrycie. Mogą oni zakładać, naprawiać lub wymieniać tapicerkę na przedmiotach materiałami takimi jak tkaniny, skóra, zamsz lub bawełna. Tapicerzy zakładają taśmy tapicerskie i sprężyny konieczne do pokrycia materiału.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Zdejmujesz zniszczony materiał z przedmiotu",
+   "Zakładasz taśmy tapicerskie i sprężyny",
+   "Wypełniasz element miękką warstwą",
+   "Naciągasz nowy materiał i go mocujesz"
+  ]
+ },
+ {
+  "id": 80,
+  "name": "Krawiec odzieży damskiej / krawcowa odzieży damskiej",
+  "desc": "Krawcy/krawcowe odzieży damskiej projektują, wytwarzają lub dopasowują, przerabiają i naprawiają odzież damską i dziecięcą wytwarzaną dla określonego klienta, na indywidualne zamówienie lub ręcznie z materiałów włókienniczych, skór lekkich, futer i innych materiałów. Wytwarzają oni odzież na miarę zgodnie ze specyfikacjami klienta lub producenta odzieży. Są w stanie odczytać i zrozumieć tabele rozmiarów, szczegóły pomiarów wyrobów gotowych itp.",
+  "path": "Rzemiosło > Krawcy, szewcy, tapicerzy",
+  "tasks": [
+   "Zdejmujesz miarę z klienta",
+   "Szyjesz odzież damską i dziecięcą na zamówienie",
+   "Skracasz, zwężasz i przerabiasz gotowe ubrania",
+   "Czytasz tabele rozmiarów i wymiary wyrobów"
+  ]
+ },
+ {
+  "id": 81,
+  "name": "Stolarz meblowy",
+  "desc": "Stolarze meblowi budują szafki i inne meble przez cięcie, formowanie i montaż kawałków drewna. Używają oni różnych narzędzi ręcznych i elektrycznych, takich jak tokarki, strugarki i piły.",
+  "path": "Rzemiosło > Stolarze i obróbka drewna",
+  "tasks": [
+   "Tniesz deski piłą na wymiar",
+   "Strugasz i kształtujesz elementy",
+   "Toczysz części na tokarce",
+   "Składasz elementy w gotowy mebel"
+  ]
+ },
+ {
+  "id": 82,
+  "name": "Doradca inwestycyjny",
+  "desc": "Doradcy inwestycyjni są profesjonalistami, którzy oferują przejrzyste doradztwo poprzez zalecanie odpowiednich rozwiązań w sprawach finansowych swoim klientom. Doradzają oni w zakresie inwestowania w papiery wartościowe, takie jak akcje, obligacje, fundusze wspólnego inwestowania i fundusze inwestycyjne typu ETF na rzecz klientów. Doradcy inwestycyjni obsługują osoby indywidualne, gospodarstwa domowe, rodziny i właścicieli małych przedsiębiorstw.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Pytasz klienta o cele i sytuację finansową",
+   "Porównujesz akcje, obligacje i fundusze",
+   "Zalecasz konkretne rozwiązania inwestycyjne",
+   "Tłumaczysz ryzyko prostym językiem"
+  ]
+ },
+ {
+  "id": 83,
+  "name": "Audytor finansowy",
+  "desc": "Audytorzy finansowi zbierają i analizują dane finansowe dla klientów, organizacji i przedsiębiorstw. Zapewniają oni, że dane finansowe są właściwie zarządzane i wolne od istotnych nieprawidłowości ze względu na błędy lub nadużycia, że mają one sens i funkcjonują w sposób zgodny z prawem i skuteczny. Dokonują przeglądu polityki kredytowej lub numeracji w bazach danych i dokumentach, oceniają, konsultują i w razie potrzeby wspomagają źródło transakcji.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Zbierasz i analizujesz dane finansowe",
+   "Szukasz błędów i nadużyć w dokumentach",
+   "Sprawdzasz numerację w dokumentach i bazach",
+   "Oceniasz politykę kredytową i zgodność z prawem"
+  ]
+ },
+ {
+  "id": 84,
+  "name": "Doradca podatkowy",
+  "desc": "Doradcy podatkowi wykorzystują swoją wiedzę w zakresie przepisów podatkowych, aby świadczyć komercyjne usługi doradztwa i konsultingu odnoszące się do szerokiego zakresu klientów we wszystkich sektorach gospodarki. Wyjaśniają oni swoim klientom skomplikowane przepisy podatkowe i pomagają im w zapewnieniu jak najbardziej skutecznego i korzystnego opodatkowania poprzez opracowanie skutecznych strategii podatkowych.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Czytasz przepisy podatkowe i ich zmiany",
+   "Wyjaśniasz klientom, co oznaczają przepisy",
+   "Opracowujesz strategię podatkową dla firmy",
+   "Pomagasz wybrać korzystną formę opodatkowania"
+  ]
+ },
+ {
+  "id": 85,
+  "name": "Księgowy/księgowa",
+  "desc": "Księgowi dokonują przeglądu i analizy sprawozdań finansowych, budżetów, raportów finansowych i biznesplanów w celu sprawdzenia nieprawidłowości wynikających z błędu lub nadużycia finansowego oraz udzielają swoim klientom porad finansowych w kwestiach takich jak prognozowanie finansowe i analiza ryzyka. Mogą oni przeprowadzać audyt danych finansowych, rozstrzygać sprawy dotyczące niewypłacalności, przygotowywać deklaracje podatkowe i dostarczać inne porady podatkowe w odniesieniu do obowiązującego prawodawstwa.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Sprawdzasz sprawozdania i raporty finansowe",
+   "Szukasz błędów i nieprawidłowości w rozliczeniach",
+   "Przygotowujesz deklaracje podatkowe",
+   "Doradzasz klientom w sprawach finansowych"
+  ]
+ },
+ {
+  "id": 86,
+  "name": "Analityk finansowy",
+  "desc": "Analitycy finansowi prowadzą badania ekonomiczne i gromadzą wartościowe analizy dotyczące kwestii finansowych, takich jak rentowność, płynność, wypłacalność i zarządzanie aktywami. Wydają zalecenia dotyczące kwestii finansowych na potrzeby procesów decyzyjnych. Analitycy finansowi pracują zarówno w sektorze publicznym, jak i prywatnym.",
+  "path": "Finanse > Księgowi, doradcy i analitycy finansowi",
+  "tasks": [
+   "Zbierasz dane o rentowności i płynności firmy",
+   "Oceniasz zadłużenie i zarządzanie aktywami",
+   "Piszesz raport z zaleceniami dla zarządu",
+   "Śledzisz zmiany w gospodarce wpływające na wyniki"
+  ]
+ },
+ {
+  "id": 87,
+  "name": "Makler giełdowy",
+  "desc": "Maklerzy giełdowi działają w imieniu klientów indywidualnych lub instytucjonalnych w zakresie kupna i sprzedaży akcji oraz innych papierów wartościowych. Pozostają w bliskim kontakcie ze swoimi klientami i zapewniają, aby ich zakupy lub sprzedaż na rynku giełdowym były zgodne z życzeniami klientów. Maklerzy giełdowi wykonują badania analityczne w celu formułowania zaleceń dla klientów i poszerzają bazę klientów za pomocą różnych metod.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Realizujesz zlecenia kupna i sprzedaży akcji",
+   "Rozmawiasz z klientami o ich oczekiwaniach",
+   "Piszesz analizy i zalecenia inwestycyjne",
+   "Szukasz nowych klientów różnymi sposobami"
+  ]
+ },
+ {
+  "id": 88,
+  "name": "Doradca kredytowy",
+  "desc": "Doradcy kredytowi oferują klientom wskazówki dotyczące usług kredytowych. Oceniają sytuację finansową i zadłużenie klienta na podstawie kart kredytowych, rachunków za usługi medyczne i kredytów samochodowych w celu określenia optymalnych rozwiązań kredytowych dla klientów, a także w razie potrzeby opracowują plany eliminacji zadłużenia w celu ustabilizowania sytuacji finansowej. Przygotowują jakościowe analizy kredytowe i materiały do podejmowania decyzji na temat określonych klientów zgodnie ze strategią banku w zakresie polityki kredytowej, zapewniają jakość kredytów oraz śledzą wyniki portfela kredytów.",
+  "path": "Finanse > Maklerzy, kredyty, rachunkowość",
+  "tasks": [
+   "Oceniasz zadłużenie klienta na kartach i kredytach",
+   "Dobierasz najkorzystniejsze rozwiązania kredytowe",
+   "Układasz plan spłaty długów",
+   "Przygotowujesz analizy kredytowe zgodnie z polityką banku"
+  ]
+ },
+ {
+  "id": 89,
+  "name": "Krupier",
+  "desc": "Krupierzy obsługują gry planszowe. Stoją za stołem do gier i obsługują gry losowe poprzez wydawanie graczom odpowiedniej liczby kart lub obsługę innych sprzętów do gier. Rozdają też wygrane lub zbierają pieniądze lub żetony od graczy.",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Rozdajesz karty graczom przy stole",
+   "Obsługujesz sprzęt do gier losowych",
+   "Wypłacasz graczom wygrane żetony",
+   "Zbierasz żetony od przegranych graczy"
+  ]
+ },
+ {
+  "id": 90,
+  "name": "Kasjer bankowy",
+  "desc": "Kasjerzy bankowi najczęściej obsługują klientów banku. Promują oni oferowane przez banki produkty i usługi oraz dostarczają informacji na temat kont osobistych klientów i związanych z nimi transferów, depozytów, oszczędności itp. Zamawiają karty i czeki dla klientów, odbierają i rozliczają gotówkę i czeki oraz dopilnowują zgodności z polityką wewnętrzną. Pracują oni na rachunkach klientów, zajmują się płatnościami i zarządzają korzystaniem ze skarbców i bezpiecznych skrytek depozytowych.",
+  "path": "Finanse > Kasjerzy, krupierzy, windykatorzy",
+  "tasks": [
+   "Przyjmujesz wpłaty i wypłaty gotówki",
+   "Informujesz klientów o saldzie i przelewach",
+   "Zamawiasz karty i czeki dla klientów",
+   "Polecasz produkty i usługi banku"
+  ]
+ },
+ {
+  "id": 91,
+  "name": "Dyrektor finansowy",
+  "desc": "Dyrektorzy finansowi zajmują się wszystkimi kwestiami w odniesieniu do finansowania i inwestycji przedsiębiorstwa. Zarządzają operacjami finansowymi przedsiębiorstwa, takimi jak aktywa, zobowiązania, kapitał własny i przepływ środków pieniężnych, aby utrzymać kondycję finansową przedsiębiorstwa i jego operacyjnej rentowności. Dyrektorzy finansowi oceniają plany strategiczne przedsiębiorstwa pod względem finansowym, prowadzą przejrzyste operacje finansowe dla organów podatkowych i kontrolnych oraz sporządzają sprawozdania finansowe przedsiębiorstwa pod koniec roku podatkowego.",
+  "path": "Finanse > Dyrektor finansowy",
+  "tasks": [
+   "Zarządzasz aktywami, zobowiązaniami i kapitałem firmy",
+   "Oceniasz finansowo plany strategiczne zarządu",
+   "Przygotowujesz roczne sprawozdanie finansowe",
+   "Rozmawiasz z organami podatkowymi i kontrolnymi"
+  ]
+ },
+ {
+  "id": 92,
+  "name": "Ekonomista",
+  "desc": "Ekonomiści prowadzą badania i opracowują teorie w dziedzinie ekonomii (zarówno analizy mikroekonomiczne, jak i makroekonomiczne). Analizują tendencje i dane statystyczne oraz w pewnym stopniu pracują z ekonomicznymi modelami matematycznymi, żeby doradzać przedsiębiorstwom, rządom i instytucjom powiązanym. Udzielają porad w zakresie wykonalności produktu, tendencji prognoz, rynków wschodzących, polityk podatkowych i tendencji w konsumpcji.",
+  "path": "Finanse > Ekonomista",
+  "tasks": [
+   "Analizujesz dane statystyczne o gospodarce",
+   "Budujesz modele matematyczne zależności",
+   "Piszesz opracowania i artykuły naukowe",
+   "Doradzasz instytucjom w sprawie polityki gospodarczej"
+  ]
+ },
+ {
+  "id": 93,
+  "name": "Doradca zawodowy",
+  "desc": "Doradcy zawodowi udzielają wskazówek i porad osobom dorosłym i uczniom w zakresie podejmowania decyzji o charakterze edukacyjnym, szkoleniowym i zawodowym oraz pomagają ludziom w zarządzaniu karierą zawodową poprzez planowanie i budowanie kariery. Pomagają w określeniu możliwości przyszłej kariery zawodowej, pomagają beneficjentom w opracowywaniu programu nauczania i pomagają ludziom zastanowić się nad ich ambicjami, zainteresowaniami i kwalifikacjami.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Rozmawiasz o ambicjach i zainteresowaniach",
+   "Pomagasz oceniać kwalifikacje i mocne strony",
+   "Przedstawiasz możliwości przyszłej kariery",
+   "Układasz plan nauki i rozwoju"
+  ]
+ },
+ {
+  "id": 94,
+  "name": "Specjalista ds. kadr",
+  "desc": "Specjaliści ds. kadr opracowują i wdrażają strategie, które pomagają ich pracodawcom w wyborze i utrzymaniu odpowiednio wykwalifikowanego personelu w ramach danego sektora. Rekrutują pracowników, przygotowują ogłoszenia o pracy, prowadzą rozmowy z kandydatami, tworzą listy wybranych kandydatów, negocjują z agencjami zatrudnienia i ustalają warunki pracy. Specjaliści ds. kadr zarządzają również listą płac, kontrolują wynagrodzenia i doradzają w kwestii świadczeń z tytułu wynagrodzeń i prawa pracy. Zapewniają możliwości szkolenia w celu zwiększenia wydajności pracowników.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Przygotowujesz ogłoszenia o pracy",
+   "Prowadzisz rozmowy z kandydatami",
+   "Obsługujesz listę płac i wynagrodzenia",
+   "Doradzasz w sprawach prawa pracy"
+  ]
+ },
+ {
+  "id": 95,
+  "name": "Specjalista ds. rekrutacji pracowników",
+  "desc": "Specjaliści ds. rekrutacji pracowników zapewniają pracodawcom odpowiednich kandydatów w zależności od konkretnego poszukiwanego profilu zawodowego. Przeprowadzają testy i rozmowy z osobami ubiegającymi się o pracę, sporządzają listę wybranych kandydatów dla pracodawców i dobierają kandydatów do danej pracy. Specjaliści ds. rekrutacji pracowników utrzymują stosunki z pracodawcami w celu oferowania swoich usług w perspektywie bardziej długoterminowej.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Przeprowadzasz testy i rozmowy z kandydatami",
+   "Dobierasz kandydatów do konkretnych stanowisk",
+   "Tworzysz krótkie listy kandydatów dla firm",
+   "Utrzymujesz kontakt z pracodawcami"
+  ]
+ },
+ {
+  "id": 96,
+  "name": "Analityk biznesowy",
+  "desc": "Analitycy biznesowi badają i interpretują sytuację strategiczną przedsiębiorstw względem ich rynków i zainteresowanych stron. Analizują to, w jaki sposób przedsiębiorstwo może, z różnych perspektyw, poprawić swoją sytuację strategiczną i wewnętrzną strukturę korporacyjną i przedstawiają swoje opinie na ten temat. Oceniają potrzebę zmiany, metody komunikacji, technologie, narzędzia informatyczne, nowe normy i certyfikaty.",
+  "path": "Zarządzanie i biznes > Specjaliści HR i organizacji",
+  "tasks": [
+   "Badasz pozycję firmy na tle rynku",
+   "Analizujesz, jak poprawić strukturę przedsiębiorstwa",
+   "Oceniasz potrzebę zmiany i narzędzi",
+   "Przedstawiasz swoje opinie i rekomendacje"
+  ]
+ },
+ {
+  "id": 97,
+  "name": "Kierownik projektu",
+  "desc": "Kierownicy projektu dbają o to, by projekt został ukończony w terminie, w ramach budżetu oraz aby jego cele były realizowane. Nadzorują realizację projektu, zarządzają zespołem, zapewniają najefektywniejsze zasoby i zapewniają, że wszystkie zainteresowane strony są zadowolone.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Układasz harmonogram i listę zadań",
+   "Pilnujesz budżetu i terminów",
+   "Rozwiązujesz problemy, gdy plan się sypie",
+   "Informujesz klienta o postępach prac"
+  ]
+ },
+ {
+  "id": 98,
+  "name": "Kierownik ds. rozwoju gier",
+  "desc": "Kierownicy ds. rozwoju gier nadzorują i koordynują tworzenie, rozwój, dystrybucję i sprzedaż gier. Komunikują się oni z producentami, aby zapewnić produkcję gier.",
+  "path": "Zarządzanie i biznes > Kierownicy ds. badań i rozwoju",
+  "tasks": [
+   "Nadzorujesz tworzenie gier",
+   "Rozmawiasz z producentami o terminach",
+   "Planujesz wydanie i sprzedaż gry",
+   "Sprawdzasz, czy gra spełnia założenia"
+  ]
+ },
+ {
+  "id": 99,
+  "name": "Kierownik ds. produktu",
+  "desc": "Kierownicy ds. rozwoju produktu są odpowiedzialni za zarządzanie cyklem życia produktu. Badają i opracowują nowe produkty oraz zarządzają istniejącymi produktami poprzez badania rynku i planowanie strategiczne. Kierownicy ds. produktu prowadzą działania marketingowe i w zakresie planowania w celu zwiększenia zysków.",
+  "path": "Zarządzanie i biznes > Kierownicy ds. badań i rozwoju",
+  "tasks": [
+   "Badasz rynek i konkurencję",
+   "Zbierasz opinie użytkowników o produkcie",
+   "Planujesz kolejne wersje produktu",
+   "Ustalasz działania marketingowe"
+  ]
+ },
+ {
+  "id": 100,
+  "name": "Dyrektor generalny",
+  "desc": "Dyrektorzy generalni posiadają najwyższy stopień uprzywilejowania w piramidalnej strukturze organizacyjnej. Mogą oni posiadać pełną wiedzę na temat funkcjonowania przedsiębiorstwa, jego departamentów, ryzyka i akcjonariuszy. Analizują różne rodzaje informacji i tworzą powiązania między nimi w celu podejmowania decyzji. Służą oni jako łącze komunikacyjne z radą dyrektorów ds. sprawozdawczości i wdrażania ogólnej strategii.",
+  "path": "Zarządzanie i biznes > Dyrektorzy generalni",
+  "tasks": [
+   "Podejmujesz decyzje o kierunku rozwoju firmy",
+   "Analizujesz dane z różnych działów",
+   "Przedstawiasz wyniki radzie dyrektorów",
+   "Wdrażasz ogólną strategię firmy"
+  ]
+ },
+ {
+  "id": 101,
+  "name": "Założyciel startupu",
+  "desc": "Założyciele startupów tworzą własną firmę wokół nowego produktu lub usługi. Szukają klientów i pieniędzy, budują zespół i na początku sami robią niemal wszystko.",
+  "path": "Zarządzanie i biznes > Startupy i nowe role",
+  "tasks": [
+   "Rozmawiasz z potencjalnymi klientami",
+   "Szukasz pieniędzy na rozwój firmy",
+   "Budujesz pierwszy produkt lub usługę",
+   "Dobierasz pierwsze osoby do zespołu"
+  ]
+ },
+ {
+  "id": 102,
+  "name": "Scrum master",
+  "desc": "Scrum masterzy pomagają zespołom, najczęściej programistów, pracować w krótkich, regularnych etapach. Prowadzą spotkania, usuwają przeszkody i pilnują, żeby zespół nie brał na siebie za dużo naraz.",
+  "path": "Zarządzanie i biznes > Startupy i nowe role",
+  "tasks": [
+   "Prowadzisz krótkie codzienne spotkanie zespołu",
+   "Usuwasz przeszkody, które blokują pracę",
+   "Pilnujesz, żeby zespół nie przeładował planu",
+   "Prowadzisz podsumowanie etapu i szukasz usprawnień"
+  ]
+ },
+ {
+  "id": 103,
+  "name": "Specjalista ds. ESG",
+  "desc": "Specjaliści ds. ESG sprawdzają, jak firma wpływa na środowisko i ludzi, i pomagają ten wpływ poprawić. Zbierają dane, np. o emisjach, przygotowują raporty i proponują zmiany.",
+  "path": "Zarządzanie i biznes > Startupy i nowe role",
+  "tasks": [
+   "Zbierasz dane o emisjach i zużyciu energii",
+   "Porównujesz wyniki firmy z wymaganiami przepisów",
+   "Piszesz raporty o wpływie firmy na otoczenie",
+   "Proponujesz zmiany, np. mniej odpadów"
+  ]
+ },
+ {
+  "id": 104,
+  "name": "Technik elektroradiolog",
+  "desc": "Technicy elektroradiolodzy wykorzystują szereg technologii do badania, leczenia i opieki nad pacjentami. Pracują w dziedzinie obrazowania medycznego, radioterapii i medycyny nuklearnej i stosują promieniowanie jonizujące, ultradźwięki, magnetyczne obrazowanie rezonansowe i źródła promieniotwórcze.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Wykonujesz badania różnymi aparatami obrazowymi",
+   "Uczestniczysz w leczeniu promieniowaniem",
+   "Przygotowujesz pacjenta i dbasz o jego bezpieczeństwo",
+   "Pilnujesz zasad ochrony przed promieniowaniem"
+  ]
+ },
+ {
+  "id": 105,
+  "name": "Farmaceuta",
+  "desc": "Farmaceuci przygotowują, wydają i zapewniają recepty i leki bez recepty. Oferują pacjentom informacje kliniczne na temat leków, zgłaszają podejrzewane działania niepożądane, a także zapewniają zindywidualizowane wsparcie pacjentom. Farmaceuci formułują i testują leki w laboratoriach oraz przechowują, konserwują i dystrybuują je.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Realizujesz recepty i wydajesz leki",
+   "Tłumaczysz pacjentom dawkowanie i działanie leków",
+   "Zgłaszasz podejrzewane działania niepożądane",
+   "Przechowujesz leki zgodnie z wymogami"
+  ]
+ },
+ {
+  "id": 106,
+  "name": "Fizjoterapeuta",
+  "desc": "Fizjoterapeuci są niezależnymi profesjonalistami w dziedzinie zdrowia, którzy są odpowiedzialni za rozwój, utrzymanie lub odtworzenie funkcji silnika i przemieszczania się przez cały okres życia w oparciu o praktykę opartą na dowodach. Łagodzą ból i leczą lub zapobiegają stanom fizycznym związanym z uszkodzeniem ciała, chorobą lub innym upośledzeniem. Fizjoterapeuci wzmacniają pacjentów i ich opiekunów, aby poradzić sobie ze stanem poklinicznym. Działają w ramach swoich praktyk i kodeksu postępowania zawodowego.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Badasz, jak pacjent się rusza",
+   "Układasz plan ćwiczeń",
+   "Prowadzisz terapię manualną i ćwiczenia",
+   "Uczysz, co robić samodzielnie w domu"
+  ]
+ },
+ {
+  "id": 107,
+  "name": "Logopeda",
+  "desc": "Logopedzi koncentrują się na etiologii, ocenie, diagnozowaniu, leczeniu oraz profilaktyce zaburzeń komunikacji i połykania u ludzi w każdym wieku, aby pomóc im w utrzymaniu, promowaniu, poprawie, inicjowaniu lub odzyskaniu zdolności do komunikowania się zarówno werbalnie, jak i niewerbalnie. Zajmują się rozwojem języka, mowy, głosu i słuchu oraz zaburzeń i niepełnosprawności w obszarze czaszki, twarzy i jamy ustnej.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Badasz mowę i rozumienie u pacjenta",
+   "Ćwiczysz z dzieckiem trudne głoski",
+   "Układasz ćwiczenia ust i języka",
+   "Pracujesz z osobami z trudnościami w połykaniu"
+  ]
+ },
+ {
+  "id": 108,
+  "name": "Lekarz dentysta",
+  "desc": "Lekarze dentyści zapobiegają, diagnozują i leczą anomalie i schorzenia wpływające na zęby, jamę ustną, szczęki i przylegające tkanki.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Badasz zęby i jamę ustną pacjenta",
+   "Leczysz uszkodzone lub chore zęby",
+   "Znieczulasz miejsce zabiegu",
+   "Tłumaczysz, jak dbać o zęby"
+  ]
+ },
+ {
+  "id": 109,
+  "name": "Specjalista ds. dietetyki",
+  "desc": "Specjaliści ds. dietetyki oceniają szczególne potrzeby żywieniowe ludności lub poszczególnych osób przez całe życie i przekładają to na porady, które utrzymają, zmniejszają ryzyko dla zdrowia ludzi lub przywrócą ich zdrowie. Wykorzystując podejścia oparte na dowodach, specjalista ds. dietetyki prowadzi do wzmocnienia osób, rodzin i grup w celu zapewnienia lub wyboru żywności, która jest odpowiednia pod względem odżywczym, bezpieczna, smaczna i zrównoważona. Poza opieką zdrowotną specjaliści ds. dietetyki poprawiają otoczenie pokarmowe wszystkich za pośrednictwem rządów, przemysłu, środowisk akademickich i badań naukowych.",
+  "path": "Medycyna i zdrowie > Dentyści, farmaceuci, fizjoterapeuci",
+  "tasks": [
+   "Rozmawiasz z pacjentem o jego nawykach żywieniowych",
+   "Oceniasz potrzeby żywieniowe zależnie od wieku i zdrowia",
+   "Układasz jadłospis dopasowany do problemu zdrowotnego",
+   "Tłumaczysz, jak wybierać zdrowe produkty"
+  ]
+ },
+ {
+  "id": 110,
+  "name": "Technik masażysta",
+  "desc": "Technicy masażyści wykonują masaż leczniczy w celu poprawy samopoczucia ich klientów. Wykonują różne rodzaje masażu, takie jak shiatsu i masaż szwedzki, zgodnie z potrzebami i preferencjami klientów.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Wybierasz rodzaj masażu dla klienta",
+   "Masujesz plecy, kark i kończyny",
+   "Pytasz klienta o preferencje i dolegliwości",
+   "Dopasowujesz siłę nacisku do potrzeb klienta"
+  ]
+ },
+ {
+  "id": 111,
+  "name": "Higienista stomatologiczny / higienistka stomatologiczna",
+  "desc": "Higieniści stomatologiczni / higienistki stomatologiczne zajmują się czyszczeniem i polerowaniem zębów, usuwaniem kamienia naddziąsłowego i poddziąsłowego, nakładaniem materiałów profilaktycznych na zęby, zbieraniem danych, kompleksowym doradztwem z zakresu higieny jamy ustnej zgodnie z potrzebami pacjentów pod nadzorem lekarzy dentystów zgodnie z ich wskazówkami.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Usuwasz kamień naddziąsłowy i poddziąsłowy",
+   "Polerujesz zęby po oczyszczeniu",
+   "Nakładasz materiały zapobiegające próchnicy",
+   "Uczysz pacjenta właściwej higieny jamy ustnej"
+  ]
+ },
+ {
+  "id": 112,
+  "name": "Ratownik medyczny",
+  "desc": "Ratownicy medyczni zapewniają opiekę medyczną w nagłych przypadkach osobom chorym, rannym i wymagającym szczególnego traktowania w nagłych przypadkach medycznych przed transportem i w trakcie transportu do placówki medycznej. Realizują i nadzorują przeniesienie pacjenta w zakresie transportu. Udzielają pomocy w sytuacjach nadzwyczajnych, wdrażają środki ratunkowe oraz monitorują przebieg transportu.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Oceniasz stan pacjenta na miejscu zdarzenia",
+   "Udzielasz pierwszej pomocy ratunkowej",
+   "Przewozisz poszkodowanych do szpitala",
+   "Monitorujesz stan pacjenta w drodze"
+  ]
+ },
+ {
+  "id": 113,
+  "name": "Technik analityki medycznej",
+  "desc": "Technicy analityki medycznej wykonują wszystkie metody laboratoryjne wymagane w ramach badań lekarskich, leczenia i testów, zwłaszcza w zakresie badań kliniczno-chemicznych, hematologicznych, immunohematologicznych, histologicznych, cytologicznych, mikrobiologicznych, parazytologicznych, mykologicznych, serologicznych i radiologicznych. Przeprowadzają analityczne badania próbek i przekazują wyniki personelowi medycznemu do dalszej diagnostyki. Technicy analityki medycznej mogą stosować te metody zwłaszcza w badaniach zakażeń, krwi lub komórek.",
+  "path": "Medycyna i zdrowie > Technicy medyczni i farmaceutyczni",
+  "tasks": [
+   "Badasz próbki krwi i innych materiałów",
+   "Wykonujesz analizy mikrobiologiczne i hematologiczne",
+   "Obsługujesz analizatory laboratoryjne",
+   "Przekazujesz wyniki lekarzom"
+  ]
+ },
+ {
+  "id": 114,
+  "name": "Technik dentystyczny",
+  "desc": "Technicy dentystyczni wytwarzają wyroby dentystyczne na zamówienie, takie jak mostki, korony, protezy dentystyczne i urządzenia, pod nadzorem lekarzy stomatologów zgodnie z ich wskazówkami i specyfikacjami.",
+  "path": "Medycyna i zdrowie > Technicy medyczni i farmaceutyczni",
+  "tasks": [
+   "Wykonujesz korony i mostki",
+   "Wytwarzasz protezy dentystyczne",
+   "Odtwarzasz kształt zęba według zlecenia",
+   "Poprawiasz pracę po uwagach dentysty"
+  ]
+ },
+ {
+  "id": 115,
+  "name": "Technik farmaceutyczny",
+  "desc": "Technicy farmaceutyczni, pod nadzorem farmaceuty, odpowiednio kontrolują odbierane towary i zapasy oraz zapewniają odpowiedni transport i przechowywanie produktów farmaceutycznych. Jeśli zezwalają na to przepisy krajowe, wydają leki i udzielają porad na temat ich właściwego stosowania.",
+  "path": "Medycyna i zdrowie > Technicy medyczni i farmaceutyczni",
+  "tasks": [
+   "Kontrolujesz przyjmowane dostawy leków",
+   "Sprawdzasz daty ważności i stan zapasów",
+   "Organizujesz przechowywanie i transport produktów",
+   "Wydajesz leki i tłumaczysz ich stosowanie"
+  ]
+ },
+ {
+  "id": 116,
+  "name": "Opiekun medyczny",
+  "desc": "Opiekunowie medyczni pracują w zespole z pielęgniarkami specjalizującymi się w dziedzinie pielęgniarstwa, opieki i leczenia osób ze wszystkich grup wiekowych w różnych placówkach opieki medycznej w przypadkach nagłych, a także w ośrodkach opieki podstawowej.",
+  "path": "Medycyna i zdrowie > Opiekunowie medyczni",
+  "tasks": [
+   "Przygotowujesz pacjentów do badań w przychodni",
+   "Pomagasz pielęgniarkom na izbie przyjęć",
+   "Przenosisz i układasz pacjentów",
+   "Odpowiadasz na pytania pacjentów o przebieg wizyty"
+  ]
+ },
+ {
+  "id": 117,
+  "name": "Pielęgniarz/pielęgniarka praktyki ogólnej",
+  "desc": "Pielęgniarze praktyki ogólnej zajmują się promowaniem i przywracaniem zdrowia pacjentów poprzez udzielanie fizycznego i psychologicznego wsparcia pacjentom, przyjaciołom i rodzinom. Nadzorują również przydzielony zespół członków.",
+  "path": "Medycyna i zdrowie > Pielęgniarki i położne",
+  "tasks": [
+   "Podajesz leki i zakładasz kroplówki",
+   "Mierzysz ciśnienie, temperaturę, pobierasz krew",
+   "Zmieniasz opatrunki",
+   "Rozmawiasz z pacjentami i ich rodzinami"
+  ]
+ },
+ {
+  "id": 118,
+  "name": "Położny/położna",
+  "desc": "Położnicy pomagają kobietom w porodzie, zapewniając niezbędne wsparcie, opiekę i doradztwo w okresie ciąży, podczas porodu i w okresie po porodzie, odbierają poród i zapewniają opiekę nad noworodkami. Doradzają w zakresie zdrowia, środków zapobiegawczych, przygotowań do rodzicielstwa, wykrywania komplikacji u matki i dziecka, dostępu do opieki medycznej, promowania normalnego urodzenia i podejmowania środków nadzwyczajnych.",
+  "path": "Medycyna i zdrowie > Pielęgniarki i położne",
+  "tasks": [
+   "Prowadzisz wizyty w ciąży i uczysz przygotowania do porodu",
+   "Odbierasz poród i towarzyszysz rodzącej",
+   "Wykrywasz komplikacje u matki i dziecka",
+   "Opiekujesz się noworodkiem po urodzeniu"
+  ]
+ },
+ {
+  "id": 119,
+  "name": "Lekarz podstawowej opieki zdrowotnej",
+  "desc": "Lekarze podstawowej opieki zdrowotnej promują zdrowie, zapobiegają, identyfikują choroby, diagnozują i leczą choroby oraz wspierają dochodzenie do siebie po chorobach fizycznych i psychicznych oraz zaburzeniach zdrowia wszelkiego rodzaju w odniesieniu do wszystkich osób bez względu na wiek, płeć lub rodzaj problemu zdrowotnego.",
+  "path": "Medycyna i zdrowie > Lekarze",
+  "tasks": [
+   "Badasz pacjentów i zbierasz wywiad",
+   "Zlecasz i czytasz wyniki badań",
+   "Przepisujesz leki i wystawiasz skierowania",
+   "Tłumaczysz, co pacjent ma robić"
+  ]
+ }
+]

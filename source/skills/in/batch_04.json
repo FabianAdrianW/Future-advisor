@@ -1,0 +1,722 @@
+[
+ {
+  "id": 240,
+  "name": "Twórca efektów specjalnych",
+  "desc": "Twórcy efektów specjalnych tworzą złudzenia dla filmów, wideo i gier komputerowych. Korzystają z oprogramowania komputerowego.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Tworzysz animowane wybuchy, dym i magię",
+   "Wklejasz wymyślone obiekty w nagrane ujęcia",
+   "Dopasowujesz światło i cienie do filmu",
+   "Poprawiasz ujęcia, aż efekt wygląda prawdziwie"
+  ]
+ },
+ {
+  "id": 241,
+  "name": "Projektant wzornictwa przemysłowego",
+  "desc": "Projektanci wzornictwa przemysłowego opracowują pomysły i rozwijają je na projekty i koncepcje w odniesieniu do szerokiej gamy wytwarzanych produktów. Łączą kreatywność, estetykę, wykonalność produkcji oraz znaczenie rynkowe przy projektowaniu nowych produktów.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Szkicujesz nowe pomysły na produkty",
+   "Budujesz makiety z kartonu i pianki",
+   "Sprawdzasz, czy produkt da się wyprodukować",
+   "Pokazujesz projekt zespołowi i klientom"
+  ]
+ },
+ {
+  "id": 242,
+  "name": "Projektant wnętrz",
+  "desc": "Projektanci wnętrz projektują lub odnawiają przestrzenie wewnętrzne, z uwzględnieniem zmian struktury, instalacji i wyposażenia, oświetlenia i schematów kolorystycznych, umeblowania. Łączą oni efektywne i funkcjonalne wykorzystanie przestrzeni z rozumieniem estetyki.",
+  "path": "Projektowanie i grafika > Projektanci i dekoratorzy wnętrz",
+  "tasks": [
+   "Mierzysz pomieszczenie i rysujesz plan",
+   "Planujesz zmiany ścian, światła i instalacji",
+   "Dobierasz meble, materiały i barwy",
+   "Nadzorujesz remont i współpracę wykonawców"
+  ]
+ },
+ {
+  "id": 243,
+  "name": "Scenograf",
+  "desc": "Scenografowie opracowują koncepcję dekoracji do przedstawienia i nadzorują jej wykonanie. Ich praca opiera się na badaniu informacji i wizji artystycznej. Ich projekt powstaje pod wpływem innych projektów i wpływa na nie i musi być zgodny z tymi projektami i ogólną wizją artystyczną. W związku z tym scenografowie ściśle współpracują z dyrektorami artystycznymi, operatorami i zespołem artystycznym. Podczas prób i przedstawień udzielają wskazówek operatorom w celu uzyskania optymalnej synchronizacji i manewrowania.",
+  "path": "Projektowanie i grafika > Projektanci i dekoratorzy wnętrz",
+  "tasks": [
+   "Czytasz scenariusz i szukasz obrazów",
+   "Rysujesz projekty i robisz makiety",
+   "Ustalasz wygląd sceny z reżyserem",
+   "Nadzorujesz budowę i ustawienie dekoracji"
+  ]
+ },
+ {
+  "id": 244,
+  "name": "Projektant interfejsu użytkownika",
+  "desc": "Projektanci interfejsu użytkownika są odpowiedzialni za projektowanie interfejsów użytkownika z przeznaczeniem do aplikacji i systemów. Projektują układ, grafikę i okna dialogowe i wykonują działania dostosowawcze.",
+  "path": "Projektowanie i grafika > Projektanci stron internetowych i multimediów",
+  "tasks": [
+   "Rysujesz układ ekranów i przycisków",
+   "Sprawdzasz na ludziach, gdzie się gubią",
+   "Dobierasz kolory, litery i ikony",
+   "Ustalasz z programistami, co da się zbudować"
+  ]
+ },
+ {
+  "id": 245,
+  "name": "Specjalista SEO",
+  "desc": "Specjaliści ds. optymalizacji aparatu wyszukiwania podwyższają ranking stron internetowych firmy przy pojawieniu się określonych zapytań w wyszukiwarce. Tworzą i prowadzą kampanie SEO oraz określają obszary wymagające poprawy. Specjaliści ds. optymalizacji aparatu wyszukiwania mogą prowadzać kampanie PPC (rozliczane za kliknięcie).",
+  "path": "Projektowanie i grafika > Projektanci stron internetowych i multimediów",
+  "tasks": [
+   "Sprawdzasz, jakich haseł szukają ludzie",
+   "Poprawiasz teksty i budowę strony",
+   "Analizujesz wyniki w statystykach",
+   "Prowadzisz płatne kampanie reklamowe"
+  ]
+ },
+ {
+  "id": 246,
+  "name": "Twórca gier komputerowych",
+  "desc": "Twórcy gier komputerowych tworzą program i dokumentację gier komputerowych oraz przeprowadzają wdrożenie. Wdrażają normy techniczne w zakresie rozgrywki, grafiki, dźwięku i funkcjonalności.",
+  "path": "Projektowanie i grafika > Projektanci stron internetowych i multimediów",
+  "tasks": [
+   "Projektujesz zasady i poziomy",
+   "Programujesz mechanikę gry",
+   "Testujesz, czy gra jest zabawna i uczciwa",
+   "Pracujesz z grafikami i dźwiękowcami"
+  ]
+ },
+ {
+  "id": 247,
+  "name": "Twórca stron internetowych",
+  "desc": "Twórcy stron internetowych tworzą, wdrażają i piszą dokumentację oprogramowania dostępnego przez internet na podstawie przekazanych projektów. Dostosowują obecność klienta w sieci do jego strategii biznesowej, wykrywają i usuwają usterki i problemy związane z oprogramowaniem oraz szukają sposobów udoskonalenia aplikacji.",
+  "path": "Projektowanie i grafika > Projektanci stron internetowych i multimediów",
+  "tasks": [
+   "Zamieniasz projekt graficzny na działającą stronę",
+   "Piszesz kod i dokumentację",
+   "Znajdujesz i naprawiasz błędy",
+   "Ulepszasz stronę po uwagach klienta"
+  ]
+ },
+ {
+  "id": 248,
+  "name": "Fotograf",
+  "desc": "Fotografowie wykonują zdjęcia z wykorzystaniem aparatów cyfrowych lub kamer i sprzętu. Fotografowie mogą wywoływać negatywy lub używać oprogramowania komputerowego w celu wytworzenia gotowych obrazów i wydruków.",
+  "path": "Projektowanie i grafika > Fotografowie",
+  "tasks": [
+   "Planujesz kadr i światło",
+   "Wykonujesz zdjęcia na planie lub w plenerze",
+   "Wybierasz najlepsze ujęcia",
+   "Obrabiasz zdjęcia i przygotowujesz wydruki"
+  ]
+ },
+ {
+  "id": 249,
+  "name": "Projektant poziomów gier",
+  "desc": "Projektanci poziomów gier budują plansze, misje i zagadki, przez które przechodzi gracz. Rozmieszczają przeszkody, przeciwników i nagrody tak, żeby gra była ciekawa i miała dobre tempo.",
+  "path": "Projektowanie i grafika",
+  "tasks": [
+   "Rysujesz plan poziomu na papierze",
+   "Rozmieszczasz przeciwników, pułapki i nagrody",
+   "Budujesz poziom w edytorze gry",
+   "Obserwujesz graczy i skracasz nudne fragmenty"
+  ]
+ },
+ {
+  "id": 250,
+  "name": "Kelner/kelnerka",
+  "desc": "Kelnerzy/kelnerki podają gościom zamówione dania i napoje. Kelnerzy/kelnerki zwykle pracują w restauracjach, barach i hotelach. Ich praca obejmuje przygotowanie stolików, podawanie napojów i dań oraz przyjmowanie płatności.",
+  "path": "Gastronomia, hotele, turystyka > Kelnerzy i barmani",
+  "tasks": [
+   "Nakrywasz stoły przed otwarciem",
+   "Przyjmujesz zamówienia od gości",
+   "Nosisz dania i napoje do stolików",
+   "Rozliczasz rachunki i sprzątasz stoły"
+  ]
+ },
+ {
+  "id": 251,
+  "name": "Barista",
+  "desc": "Barista przygotowuje specjalistyczne rodzaje kawy przy użyciu profesjonalnego sprzętu w lokalach gastronomicznych, kawiarniach lub barach.",
+  "path": "Gastronomia, hotele, turystyka > Kelnerzy i barmani",
+  "tasks": [
+   "Mielisz ziarna i ustawiasz ekspres",
+   "Parzysz espresso i spieniasz mleko",
+   "Przygotowujesz różne rodzaje kaw",
+   "Czyścisz ekspres i sprzątasz bar"
+  ]
+ },
+ {
+  "id": 252,
+  "name": "Barman/barmanka",
+  "desc": "Barmani/barmanki podają napoje alkoholowe i bezalkoholowe zamówione przez klientów w lokalach gastronomicznych i barach.",
+  "path": "Gastronomia, hotele, turystyka > Kelnerzy i barmani",
+  "tasks": [
+   "Przyjmujesz zamówienia przy barze",
+   "Nalewasz piwo i inne napoje",
+   "Obsługujesz kasę i płatności",
+   "Nie sprzedajesz alkoholu osobom niepełnoletnim"
+  ]
+ },
+ {
+  "id": 253,
+  "name": "Pracownik biura podróży",
+  "desc": "Pracownicy biur podróży planują i sprzedają programy tras podróży dla potencjalnych podróżnych lub turystów.",
+  "path": "Gastronomia, hotele, turystyka > Konsultanci i pracownicy biur podróży",
+  "tasks": [
+   "Układasz program podróży krok po kroku",
+   "Sprawdzasz dostępność hoteli i przelotów",
+   "Sprzedajesz gotowe oferty klientom",
+   "Wystawiasz dokumenty i potwierdzenia rezerwacji"
+  ]
+ },
+ {
+  "id": 254,
+  "name": "Kucharz/kucharka",
+  "desc": "Kucharze i kucharki to osoby zajmujące się gotowaniem, które potrafią przygotować i podać żywność, zwykle w otoczeniu domowym i instytucjonalnym.",
+  "path": "Gastronomia, hotele, turystyka > Kucharze",
+  "tasks": [
+   "Przygotowujesz składniki przed otwarciem",
+   "Gotujesz i wydajesz dania na czas",
+   "Pilnujesz czystości i świeżości",
+   "Wymyślasz i testujesz nowe dania"
+  ]
+ },
+ {
+  "id": 255,
+  "name": "Cukiernik",
+  "desc": "Cukiernicy wytwarzają szeroką gamę ciastek, cukierków i innych wyrobów cukierniczych do celów przemysłowych lub do sprzedaży bezpośredniej.",
+  "path": "Gastronomia, hotele, turystyka > Piekarze, cukiernicy",
+  "tasks": [
+   "Odmierzasz składniki i mieszasz masy",
+   "Formujesz ciastka i desery",
+   "Pieczesz i dekorujesz wyroby",
+   "Układasz słodycze do sprzedaży"
+  ]
+ },
+ {
+  "id": 256,
+  "name": "Piekarz",
+  "desc": "Piekarze wytwarzają szeroką gamę pieczywa, wypieków cukierniczych i innych wyrobów piekarniczych. Przestrzegają oni wszystkich procedur, począwszy od odbioru i składowania surowców przez przygotowanie surowców do wypieku do odmierzania i mieszania składników, tak aby utworzyły ciasto, i wyrastania. Obsługują oni piece w celu wypieku wyrobów w odpowiedniej temperaturze i przez odpowiedni czas.",
+  "path": "Gastronomia, hotele, turystyka > Piekarze, cukiernicy",
+  "tasks": [
+   "Odbierasz i składujesz surowce",
+   "Odmierzasz składniki i mieszasz ciasto",
+   "Pilnujesz wyrastania ciasta",
+   "Wypiekasz pieczywo w piecu"
+  ]
+ },
+ {
+  "id": 257,
+  "name": "Szef kuchni",
+  "desc": "Szefowie kuchni to specjaliści kulinarni z talentem do kreatywności i innowacji dla zapewnienia unikalnych doświadczeń gastronomicznych.",
+  "path": "Gastronomia, hotele, turystyka > Szef kuchni",
+  "tasks": [
+   "Tworzysz nowe dania do karty",
+   "Dobierasz sezonowe produkty",
+   "Kierujesz ekipą w kuchni",
+   "Testujesz smaki przed wprowadzeniem do karty"
+  ]
+ },
+ {
+  "id": 258,
+  "name": "Organizator imprez ślubnych",
+  "desc": "Organizatorzy imprez ślubnych pomagają we wszystkich szczegółowych działaniach logistycznych wymaganych przy organizacji ceremonii ślubnej klienta. Opierając się na wymaganiach klienta, organizują dekoracje kwiatowe, miejsce ceremonii ślubnej i catering, zaproszenia dla gości itp., koordynując te działania zarówno przed ceremonią, jak i w jej trakcie.",
+  "path": "Gastronomia, hotele, turystyka > Organizatorzy konferencji i imprez zbiorowych",
+  "tasks": [
+   "Ustalasz z parą styl i budżet ślubu",
+   "Zamawiasz kwiaty, catering i dekoracje",
+   "Wysyłasz zaproszenia i zbierasz potwierdzenia gości",
+   "Koordynujesz dostawców podczas ceremonii i wesela"
+  ]
+ },
+ {
+  "id": 259,
+  "name": "Pracownik restauracji szybkiej obsługi",
+  "desc": "Pracownicy restauracji szybkiej obsługi przygotowują, gotują i podają żywność i napoje w ramach szybkiej obsługi.",
+  "path": "Gastronomia, hotele, turystyka > Pomoce kuchenne",
+  "tasks": [
+   "Przyjmujesz zamówienie przy kasie",
+   "Smażysz frytki i grillujesz mięso",
+   "Składasz kanapki według schematu",
+   "Podajesz zamówienie i sprzątasz salę"
+  ]
+ },
+ {
+  "id": 260,
+  "name": "Przewodnik",
+  "desc": "Przewodnicy pomagają osobom i grupom w galeriach sztuki, podczas podróży i wycieczek lub pracują w miejscach o znaczeniu turystycznym, takich jak muzea, pomniki i miejsca publiczne. Pomagają w interpretacji dziedzictwa kulturowego wybranych obiektów, miejsc lub obszarów oraz udzielają informacji i wskazówek.",
+  "path": "Gastronomia, hotele, turystyka > Przewodnik",
+  "tasks": [
+   "Prowadzisz grupę trasą zwiedzania",
+   "Opowiadasz historię miejsca i zabytków",
+   "Odpowiadasz na pytania turystów",
+   "Pilnujesz czasu i bezpieczeństwa grupy"
+  ]
+ },
+ {
+  "id": 261,
+  "name": "Kierownik restauracji",
+  "desc": "Kierownicy restauracji są odpowiedzialni za zarządzanie działalnością w zakresie żywności i napojów w kuchni i innych punktach sprzedaży żywności i napojów lub w jednostkach organizacyjnych w sektorze hotelarsko-gastronomicznym.",
+  "path": "Gastronomia, hotele, turystyka > Kierownicy hoteli i restauracji",
+  "tasks": [
+   "Układasz grafik kelnerów i kucharzy",
+   "Zamawiasz produkty u dostawców",
+   "Rozmawiasz z gośćmi i rozpatrujesz skargi",
+   "Sprawdzasz dzienne wyniki sprzedaży"
+  ]
+ },
+ {
+  "id": 262,
+  "name": "Recepcjonista w placówce hotelarskiej / recepcjonistka w placówce hotelarskiej",
+  "desc": "Recepcjoniści/recepcjonistki w placówce hotelarskiej stanowią pierwszy punkt kontaktu i pomocy dla gości placówki hotelarskiej. Odpowiadają również za dokonywanie rezerwacji, przetwarzanie płatności i udzielanie informacji.",
+  "path": "Gastronomia, hotele, turystyka > Recepcjonista w placówce hotelarskiej / recepcjonistka w placówce hotelarskiej",
+  "tasks": [
+   "Meldujesz i wymeldowujesz gości",
+   "Przyjmujesz rezerwacje i płatności",
+   "Odpowiadasz na pytania o miasto i usługi",
+   "Przekazujesz prośby gości innym działom"
+  ]
+ },
+ {
+  "id": 263,
+  "name": "Asystent zarządu",
+  "desc": "Asystenci zarządu to wysoko wykwalifikowani pracownicy administracyjni, którzy pracują z przedstawicielami kierownictwa najwyższego szczebla lub w strukturach międzynarodowych w różnych branżach. Organizują spotkania, sporządzają i prowadzą akta, organizują podróże, szkolą personel, komunikują się w innych językach oraz zarządzają bieżącą działalnością biura.",
+  "path": "Biuro i administracja > Kierownicy biura i sekretarze",
+  "tasks": [
+   "Organizujesz spotkania zarządu i podróże",
+   "Prowadzisz akta i korespondencję",
+   "Komunikujesz się z partnerami w obcych językach",
+   "Szkolisz pracowników biura"
+  ]
+ },
+ {
+  "id": 264,
+  "name": "Recepcjonista/recepcjonistka",
+  "desc": "Recepcjoniści/recepcjonistki są odpowiedzialni za obszar recepcji w przedsiębiorstwach. Odbierają telefon, witają gości, przekazują informacje, odpowiadają na pytania i instruują osoby odwiedzające. Są oni pierwszym punktem kontaktowym dla klientów.",
+  "path": "Biuro i administracja > Recepcja i informacja",
+  "tasks": [
+   "Odbierasz telefony w imieniu firmy",
+   "Witasz gości i informujesz ich",
+   "Kierujesz odwiedzających do właściwych pokoi",
+   "Wydajesz przepustki odwiedzającym"
+  ]
+ },
+ {
+  "id": 265,
+  "name": "Dyspozytor medyczny",
+  "desc": "Dyspozytorzy medyczni odpowiadają na pilne wezwania skierowane do centrum kontroli, zbierają informacje o sytuacji nagłej, adres i inne dane i przekazują je do najbliższej karetki pogotowia ratunkowego lub śmigłowca paramedycznego.",
+  "path": "Biuro i administracja > Recepcja i informacja",
+  "tasks": [
+   "Odbierasz pilne zgłoszenia",
+   "Zbierasz adres i opis zdarzenia",
+   "Przekazujesz dane najbliższej karetce",
+   "Utrzymujesz kontakt z dzwoniącym do przyjazdu pomocy"
+  ]
+ },
+ {
+  "id": 266,
+  "name": "Pracownik centrum obsługi klienta",
+  "desc": "Pracownicy centrum obsługi klienta dostarczają klientom informacji za pośrednictwem telefonu i innych środków przekazu, takich jak poczta elektroniczna. Udzielają odpowiedzi na pytania dotyczące usług, produktów i polityki przedsiębiorstwa lub organizacji.",
+  "path": "Biuro i administracja > Recepcja i informacja",
+  "tasks": [
+   "Odbierasz telefony od klientów",
+   "Odpisujesz na wiadomości e-mail",
+   "Wyjaśniasz zasady usług i produktów",
+   "Zapisujesz w systemie ustalenia z rozmów"
+  ]
+ },
+ {
+  "id": 267,
+  "name": "Listonosz",
+  "desc": "Listonosze/listonoszki dostarczają korespondencję i paczki do domów i firm. Dostarczają pocztę i zbierają podpisy od odbiorców. Wykonują oni inne obowiązki związane z usługami pocztowymi w urzędach pocztowych lub organizacjach powiązanych.",
+  "path": "Biuro i administracja > Inni pracownicy biurowi",
+  "tasks": [
+   "Sortujesz przesyłki według trasy",
+   "Roznosisz listy i paczki do domów",
+   "Zbierasz podpisy za przesyłki polecone",
+   "Obsługujesz klientów w okienku urzędu"
+  ]
+ },
+ {
+  "id": 268,
+  "name": "Instruktor fitness",
+  "desc": "Instruktorzy fitness kształtują udział w zajęciach fitness nowych i obecnych uczestników dzięki doświadczeniom fitness odpowiadającym ich potrzebom. Przekazują indywidualnym osobom instrukcje dotyczące ćwiczeń fitness, z zastosowaniem sprzętu, lub grupie, poprzez lekcje fitness. Celem zarówno instruktorów indywidualnych, jak i grupowych jest promowanie i zapewnienie bezpiecznych i skutecznych ćwiczeń. W zależności od konkretnej sytuacji może być wymagana pewna dodatkowa wiedza, umiejętności i kompetencje.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Układasz serię ćwiczeń dla grupy",
+   "Pokazujesz poprawną technikę ruchu",
+   "Korygujesz ułożenie ciała uczestników",
+   "Dostosowujesz trudność do możliwości"
+  ]
+ },
+ {
+  "id": 269,
+  "name": "Trener personalny",
+  "desc": "Trenerzy personalni opracowują, wdrażają i oceniają programy ćwiczeń lub aktywności fizycznej dla jednego lub większej liczby klientów poprzez gromadzenie i analizę informacji na temat klientów. Dążą do zapewnienia skuteczności personalnych programów ćwiczeń. Trener personalny powinien również aktywnie zachęcać potencjalnych klientów do uczestnictwa w regularnych programach i ich przestrzegania, stosując odpowiednie strategie motywacyjne.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Zbierasz informacje o celach klienta",
+   "Układasz indywidualny plan treningowy",
+   "Oceniasz postępy i zmieniasz program",
+   "Motywujesz do trzymania się planu"
+  ]
+ },
+ {
+  "id": 270,
+  "name": "Przewodnik górski",
+  "desc": "Przewodnicy górscy pomagają zwiedzającym, tłumaczą dziedzictwo przyrodnicze oraz dostarczają turystom informacji i wskazówek na temat górskich wypraw. Wspomagają turystów w aktywnościach takich jak piesze wędrówki, wspinaczka i narciarstwo, a oprócz tego zapewniają im bezpieczeństwo przez monitorowanie pogody i stanu zdrowia.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Prowadzisz grupy szlakami",
+   "Opowiadasz o przyrodzie regionu",
+   "Śledzisz pogodę i zmieniasz plan",
+   "Sprawdzasz, jak czują się uczestnicy"
+  ]
+ },
+ {
+  "id": 271,
+  "name": "Instruktor narciarstwa",
+  "desc": "Instruktorzy narciarstwa uczą osoby indywidualne lub grupy narciarstwa i zaawansowanych technik jazdy na nartach. Doradzają swoim uczniom w kwestii wyboru sprzętu, udzielają narciarzom instrukcji na temat zasad bezpieczeństwa narciarstwa alpejskiego oraz planują i przygotowują instrukcje jazdy na nartach. Instruktorzy narciarstwa demonstrują ćwiczenia i techniki podczas lekcji jazdy na nartach i przekazują uczniom informacje zwrotne na temat sposobów poprawy poziomu umiejętności.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Pokazujesz technikę jazdy na stoku",
+   "Doradzasz w wyborze sprzętu",
+   "Tłumaczysz zasady bezpieczeństwa na stoku",
+   "Dajesz uczniom uwagi po zjeździe"
+  ]
+ },
+ {
+  "id": 272,
+  "name": "Instruktor pływania",
+  "desc": "Instruktorzy pływania szkolą grupy i osoby indywidualne i udzielają im porad w zakresie pływania. Planują szkolenia i uczą różnych stylów pływania, takich jak kraul, żabka i motylek. Pomagają poprawić wyniki uczniów.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Uczysz kraula, żabki i motylka",
+   "Pokazujesz ruchy rąk i nóg",
+   "Planujesz serię lekcji",
+   "Poprawiasz oddychanie i technikę uczniów"
+  ]
+ },
+ {
+  "id": 273,
+  "name": "Trener piłki nożnej",
+  "desc": "Trenerzy piłki nożnej szkolą amatorskie lub zawodowe drużyny piłkarskie złożone z młodych lub dorosłych zawodników. Trenerzy piłki nożnej opracowują i realizują plany szkoleń oraz poprawiają lub utrzymują stan fizyczny zawodników, technikę gry w piłkę nożną i zdolności taktyczne. Przygotowują swój zespół do zawodów oraz decydują o składzie i taktyce gry. Podczas gry trenerzy mogą udzielać instrukcji z linii bocznej i odpowiadają za wymianę zawodników.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Planujesz treningi techniki i kondycji",
+   "Ustalasz skład i taktykę",
+   "Podajesz instrukcje z linii bocznej",
+   "Dokonujesz zmian zawodników w trakcie meczu"
+  ]
+ },
+ {
+  "id": 274,
+  "name": "Sportowiec zawodowy",
+  "desc": "Zawodowi sportowcy konkurują w dyscyplinach i zawodach sportowych. Regularnie trenują i ćwiczą z profesjonalnymi instruktorami i trenerami. Budowanie niezbędnych umiejętności wymaga naturalnego talentu, a także planowania i wytrwałości do odbycia niezbędnych programów treningowych.",
+  "path": "Sport i rekreacja > Sportowcy, trenerzy, instruktorzy",
+  "tasks": [
+   "Trenujesz codziennie z trenerem",
+   "Startujesz w zawodach",
+   "Ćwiczysz siłę i technikę",
+   "Regenerujesz się i planujesz sezon"
+  ]
+ },
+ {
+  "id": 275,
+  "name": "Zawodnik e-sportowy",
+  "desc": "Zawodnicy e-sportowi zawodowo rywalizują w grach komputerowych, zwykle w drużynie. Trenują wiele godzin dziennie, analizują mecze rywali i startują w turniejach.",
+  "path": "Sport i rekreacja > E-sport",
+  "tasks": [
+   "Trenujesz wiele godzin dziennie",
+   "Analizujesz mecze rywali",
+   "Ćwiczysz taktykę z drużyną",
+   "Startujesz w turniejach"
+  ]
+ },
+ {
+  "id": 276,
+  "name": "Trener e-sportowy",
+  "desc": "Trenerzy e-sportowi przygotowują drużyny graczy do turniejów. Układają taktykę, analizują nagrania meczów, planują treningi i dbają o współpracę oraz formę psychiczną zawodników.",
+  "path": "Sport i rekreacja > E-sport",
+  "tasks": [
+   "Układasz taktykę drużyny",
+   "Analizujesz nagrania meczów",
+   "Planujesz treningi i przygotowanie do turniejów",
+   "Pilnujesz współpracy i formy psychicznej"
+  ]
+ },
+ {
+  "id": 277,
+  "name": "Instruktor jogi",
+  "desc": "Instruktorzy jogi prowadzą zajęcia łączące ćwiczenia ciała, oddech i koncentrację. Dobierają pozycje do możliwości grupy, poprawiają ustawienie ciała i dbają o bezpieczeństwo.",
+  "path": "Sport i rekreacja",
+  "tasks": [
+   "Prowadzisz sekwencje pozycji jogi",
+   "Uczysz oddychania i koncentracji",
+   "Dobierasz pozycje do możliwości grupy",
+   "Poprawiasz ułożenie ciała uczestników"
+  ]
+ },
+ {
+  "id": 278,
+  "name": "Dziennikarz",
+  "desc": "Dziennikarze sprawdzają, weryfikują i piszą artykuły do gazet, magazynów, telewizji i innych mediów nadawczych. Zajmują się wydarzeniami politycznymi, gospodarczymi, kulturalnymi, społecznymi i sportowymi. Dziennikarze muszą przestrzegać kodeksów etycznych, takich jak wolność słowa i prawo do odpowiedzi, prawo prasowe i standardy redakcyjne, żeby przekazywać obiektywne informacje.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Szukasz tematów i rozmówców",
+   "Zadajesz pytania i sprawdzasz fakty",
+   "Piszesz teksty albo nagrywasz materiały",
+   "Poprawiasz je po uwagach redaktora"
+  ]
+ },
+ {
+  "id": 279,
+  "name": "Dziennikarz sportowy",
+  "desc": "Dziennikarze sportowi sprawdzają i redagują artykuły na temat wydarzeń sportowych i sportowców dla gazet, magazynów, telewizji i innych mediów. Prowadzą rozmowy i uczestniczą w wydarzeniach.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Relacjonujesz mecze i zawody",
+   "Przeprowadzasz wywiady ze sportowcami",
+   "Piszesz komentarze po meczach",
+   "Sprawdzasz wyniki i statystyki"
+  ]
+ },
+ {
+  "id": 280,
+  "name": "Redaktor naczelny",
+  "desc": "Redaktorzy naczelni sprawują nadzór nad przygotowaniem najnowszych wiadomości dla gazet, magazynów, czasopism i innych mediów. Zarządzają bieżącą działalnością publikacji i dbają, żeby była gotowa na czas.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Ustalasz kierunek i tematykę publikacji",
+   "Kierujesz zespołem redaktorów i dziennikarzy",
+   "Zatwierdzasz najważniejsze teksty przed publikacją",
+   "Reprezentujesz redakcję na spotkaniach"
+  ]
+ },
+ {
+  "id": 281,
+  "name": "Tłumacz pisemny",
+  "desc": "Tłumacze pisemni odtwarzają dokumenty pisemne sporządzone w jednym języku lub kilku językach na inny język, dbając o zachowanie treści i niuansów oryginału w tłumaczeniu. Tłumaczenie bazuje na zrozumieniu treści i może dotyczyć dokumentacji handlowej i przemysłowej, dokumentów prywatnych, tekstów dziennikarskich, powieści, beletrystyki i tekstów naukowych; tłumaczenie można dostarczyć w dowolnym formacie.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Czytasz cały tekst przed tłumaczeniem",
+   "Szukasz właściwych odpowiedników trudnych terminów",
+   "Przekładasz zdania, zachowując sens i ton",
+   "Czytasz gotowy przekład i poprawiasz"
+  ]
+ },
+ {
+  "id": 282,
+  "name": "Tłumacz ustny",
+  "desc": "Tłumacze ustni rozumieją i przekształcają treści ustne z jednego języka na drugi. Zachowują znaczną ilość informacji, często z pomocą notatek, i przekazują je niezwłocznie po zanotowaniu, z zachowaniem niuansów i akcentów komunikatu w języku odbiorcy.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Słuchasz wypowiedzi i robisz skrótowe notatki",
+   "Przekazujesz sens w drugim języku",
+   "Przygotowujesz słownictwo do tematu spotkania",
+   "Tłumaczysz rozmowy biznesowe lub telefoniczne"
+  ]
+ },
+ {
+  "id": 283,
+  "name": "Pisarz / pisarka",
+  "desc": "Pisarze opracowują treść książek. Piszą powieści, poezję, opowiadania, komiksy i inne formy literackie. Te formy pisane mogą być fabularne lub bazujące na faktach.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Planujesz fabułę i postaci",
+   "Piszesz kolejne rozdziały",
+   "Przerabiasz tekst po uwagach redaktora",
+   "Spotykasz się z czytelnikami i wydawcą"
+  ]
+ },
+ {
+  "id": 284,
+  "name": "Scenarzysta",
+  "desc": "Scenarzyści tworzą scenariusze filmów i seriali telewizyjnych. Piszą szczegółową historię, która obejmuje wątek, postaci, dialog i środowisko fizyczne.",
+  "path": "Media, język i literatura > Pisarze, dziennikarze, tłumacze",
+  "tasks": [
+   "Układasz fabułę w sceny",
+   "Piszesz dialogi dla postaci",
+   "Opisujesz miejsca i czynności bohaterów",
+   "Poprawiasz scenariusz po uwagach reżysera"
+  ]
+ },
+ {
+  "id": 285,
+  "name": "Prezenter",
+  "desc": "Prezenterzy są gospodarzami programów. Są oni „twarzą” lub „głosem” programów i zapowiadają je na różnych platformach, np. w radiu, telewizji, kinach i innych obiektach. Dbają o rozrywkę dla swojej publiczności i zapraszają artystów lub osoby, z którymi prowadzą wywiady.",
+  "path": "Media, język i literatura > Prezenterzy radiowi, telewizyjni",
+  "tasks": [
+   "Zapowiadasz program i kolejne części",
+   "Przygotowujesz pytania do gości",
+   "Rozmawiasz na żywo z publicznością",
+   "Reagujesz na wpadki i zmiany planu"
+  ]
+ },
+ {
+  "id": 286,
+  "name": "Vloger / vlogerka",
+  "desc": "Vlogerzy tworzą nagrania wideo w trybie online, w których wypowiadają się na różne tematy, np. o polityce, modzie, gospodarce i sporcie. Mogą relacjonować fakty obiektywne, ale często przedstawiają także swoją opinię na dany temat. Vlogerzy umieszczają te materiały wideo w internecie w mediach społecznościowych lub na platformach streamingowych, często z dodaniem tekstu w formie pisemnej. Mają również kontakt z widzami za pośrednictwem komentarzy.",
+  "path": "Media, język i literatura > Twórcy internetowi",
+  "tasks": [
+   "Planujesz temat i scenariusz filmu",
+   "Nagrywasz siebie przed kamerą",
+   "Montujesz nagranie i dodajesz napisy",
+   "Odpowiadasz na komentarze widzów"
+  ]
+ },
+ {
+  "id": 287,
+  "name": "Twórca internetowy",
+  "desc": "Twórcy internetowi regularnie publikują filmy, zdjęcia lub teksty i budują wokół nich społeczność. Planują treści, nagrywają, montują, rozmawiają z odbiorcami i współpracują z markami.",
+  "path": "Media, język i literatura > Twórcy internetowi",
+  "tasks": [
+   "Planujesz kalendarz publikacji",
+   "Nagrywasz i montujesz treści",
+   "Rozmawiasz z odbiorcami",
+   "Negocjujesz współpracę z firmami"
+  ]
+ },
+ {
+  "id": 288,
+  "name": "Streamer",
+  "desc": "Streamerzy prowadzą transmisje na żywo, najczęściej z gier, i na bieżąco rozmawiają z widzami. Dbają o stałe godziny nadawania, jakość obrazu i dźwięku oraz o atmosferę na czacie.",
+  "path": "Media, język i literatura > Twórcy internetowi",
+  "tasks": [
+   "Prowadzisz transmisję na żywo",
+   "Odpowiadasz widzom na czacie",
+   "Pilnujesz obrazu i dźwięku",
+   "Ustalasz stały harmonogram nadawania"
+  ]
+ },
+ {
+  "id": 289,
+  "name": "Podcaster",
+  "desc": "Podcasterzy tworzą audycje do słuchania w internecie. Wybierają tematy, zapraszają gości, nagrywają rozmowy, montują odcinki i je promują.",
+  "path": "Media, język i literatura > Twórcy internetowi",
+  "tasks": [
+   "Wybierasz temat i przygotowujesz pytania",
+   "Zapraszasz gości do rozmowy",
+   "Nagrywasz i montujesz odcinek",
+   "Promujesz odcinki w internecie"
+  ]
+ },
+ {
+  "id": 290,
+  "name": "Specjalista ds. mediów społecznościowych",
+  "desc": "Specjaliści ds. mediów społecznościowych prowadzą profile firm i instytucji. Planują publikacje, piszą posty, odpowiadają na komentarze i sprawdzają w statystykach, co działa.",
+  "path": "Media, język i literatura > Twórcy internetowi",
+  "tasks": [
+   "Planujesz publikacje na tydzień",
+   "Piszesz posty i podpisy",
+   "Odpowiadasz na komentarze i wiadomości",
+   "Analizujesz statystyki zasięgów"
+  ]
+ },
+ {
+  "id": 291,
+  "name": "Socjolog",
+  "desc": "Socjolodzy koncentrują swoją działalność badawczą na objaśnianiu zachowań społecznych i na sposobie organizacji społecznej. Badają i objaśniają ewoluowanie społeczeństw poprzez opisanie ich systemów prawnych, politycznych i gospodarczych oraz ich form ekspresji kulturowej.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Projektujesz badania i ankiety",
+   "Analizujesz zachowania społeczne",
+   "Porównujesz grupy i środowiska",
+   "Opisujesz zmiany w społeczeństwie"
+  ]
+ },
+ {
+  "id": 292,
+  "name": "Archeolog",
+  "desc": "Archeolodzy badają i analizują dawne cywilizacji i osadnictwo, gromadząc i oceniając ślady materialne. Archeolodzy analizują i wyciągają wnioski w wielu kwestiach, takich jak: hierarchia, lingwistyka, kultura i polityka, na podstawie badania przedmiotów, budowli, skamielin, reliktów i artefaktów, które przetrwały po badanych grupach ludności. Archeolodzy korzystają z różnych metod interdyscyplinarnych, takich jak stratygrafia, typologia, analiza 3D, matematyka i modelowanie.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Odkopujesz warstwy ziemi pędzlem i łopatką",
+   "Dokumentujesz każde znalezisko rysunkiem i zdjęciem",
+   "Datujesz i opisujesz przedmioty",
+   "Wyciągasz wnioski o dawnych ludziach"
+  ]
+ },
+ {
+  "id": 293,
+  "name": "Kryminolog",
+  "desc": "Kryminolodzy badają uwarunkowania dotyczące ludzi, takie jak aspekty społeczne i psychologiczne, które mogły ich doprowadzić do popełnienia czynów przestępczych. Obserwują i analizują różne czynniki, począwszy od warunków behawioralnych, aż po kontekst społeczny i środowisko podejrzanych, aby doradzać organizacjom w zakresie zapobiegania przestępczości.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Analizujesz dane o przestępczości",
+   "Badasz czynniki społeczne i psychologiczne",
+   "Czytasz akta i wyniki badań",
+   "Doradzasz, jak zapobiegać przestępstwom"
+  ]
+ },
+ {
+  "id": 294,
+  "name": "Psycholog",
+  "desc": "Psycholodzy badają zachowanie i procesy psychiczne ludzi. Pomagają osobom, które mają kłopoty ze zdrowiem psychicznym i problemy życiowe, takie jak żałoba, trudności w relacjach, przemoc domowa i wykorzystywanie seksualne. Zapewniają również doradztwo w kwestiach zdrowia psychicznego, takich jak zaburzenia odżywiania, zespół stresu pourazowego i psychoza, żeby pomóc pacjentom w rehabilitacji i wprowadzeniu zachowań zdrowych.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Prowadzisz rozmowy z osobami w kryzysie",
+   "Robisz testy i stawiasz diagnozę",
+   "Układasz plan pomocy",
+   "Współpracujesz z rodziną, szkołą lub lekarzem"
+  ]
+ },
+ {
+  "id": 295,
+  "name": "Psycholog kliniczny",
+  "desc": "Psycholodzy kliniczni diagnozują, rehabilitują i wspierają osoby cierpiące na zaburzenia i problemy psychiczne, emocjonalne i behawioralne, a także zmiany psychiczne i czynniki patogeniczne, stosując narzędzia kognitywne i odpowiednie interwencje. Wykorzystują kliniczne zasoby psychologiczne, bazując na nauce, ustaleniach, teoriach, metodach i technikach psychologicznych w celach badania, interpretacji oraz przewidywania ludzkich doświadczeń i zachowań.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Prowadzisz rozmowy diagnostyczne",
+   "Przeprowadzasz testy psychologiczne",
+   "Ustalasz plan pomocy dla pacjenta",
+   "Piszesz opinie i opisy przypadków"
+  ]
+ },
+ {
+  "id": 296,
+  "name": "Psychoterapeuta",
+  "desc": "Psychoterapeuci udzielają pomocy i prowadzą leczenie metodami psychoterapeutycznymi osób korzystających z opieki zdrowotnej, które wykazują różny stopień zaburzeń psychicznych, psychospołecznych i psychosomatycznych oraz czynników patogenicznych. Promują rozwój osobisty i dobrostan oraz udzielają porad dotyczących poprawy relacji, możliwości i technik rozwiązywania problemów. Stosują naukowe metody psychoterapeutyczne, takie jak terapia behawioralna, analiza egzystencjalna i logoterapia, psychoanaliza lub systemowa terapia rodzin, żeby pokierować pacjentów w rozwoju i pomóc im znaleźć odpowiednie rozwiązania problemów.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Prowadzisz sesje terapeutyczne",
+   "Stosujesz wybraną metodę terapii",
+   "Pomagasz zrozumieć trudne emocje",
+   "Omawiasz swoją pracę na superwizji"
+  ]
+ },
+ {
+  "id": 297,
+  "name": "Historyk",
+  "desc": "Historycy badają, analizują, interpretują i przedstawiają przeszłość społeczeństw. Analizują dokumenty, źródła i ślady przeszłości, żeby zrozumieć przeszłość człowieka.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Szukasz dokumentów w archiwach",
+   "Porównujesz sprzeczne źródła",
+   "Interpretujesz listy, mapy i zapisy",
+   "Piszesz artykuły i książki"
+  ]
+ },
+ {
+  "id": 298,
+  "name": "Duchowny",
+  "desc": "Duchowni prowadzą organizacje lub wspólnoty religijne, odprawiają ceremonie duchowne i religijne oraz zapewniają przewodnictwo duchowe członkom danej grupy religijnej. Mogą wykonywać pracę misjonarską, duszpasterską lub kaznodziejską albo działać w zakonie lub społeczności, np. klasztorze. Duchowni wykonują obowiązki, takie jak: prowadzenie nabożeństw, edukacja religijna, prowadzenie pogrzebów i udzielanie ślubów, udzielanie porad członkom wspólnoty i oferowanie szeregu innych usług, zarówno w powiązaniu z organizacją, dla której pracują, jak i poprzez ich indywidualne, codzienne czynności.",
+  "path": "Człowiek, społeczeństwo, kultura > Nauki społeczne i religia",
+  "tasks": [
+   "Prowadzisz nabożeństwa dla wiernych",
+   "Udzielasz ślubów i prowadzisz pogrzeby",
+   "Rozmawiasz z osobami w kryzysie",
+   "Uczysz religii dzieci i młodzież"
+  ]
+ },
+ {
+  "id": 299,
+  "name": "Bibliotekarz",
+  "desc": "Bibliotekarze prowadzą biblioteki i świadczą usługi biblioteczne. Zarządzają zasobami informacyjnymi, gromadzą je i opracowują. Dbają, aby informacje były dostępne i możliwe do wyszukania dla wszelkiego rodzaju użytkowników.",
+  "path": "Człowiek, społeczeństwo, kultura > Archiwiści, muzealnicy, bibliotekarze",
+  "tasks": [
+   "Wypożyczasz i przyjmujesz książki",
+   "Opisujesz nowe książki w katalogu",
+   "Pomagasz czytelnikom znaleźć potrzebne informacje",
+   "Wybierasz, jakie książki kupić do zbioru"
+  ]
+ }
+]

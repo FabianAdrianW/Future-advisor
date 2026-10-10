@@ -1,0 +1,722 @@
+[
+ {
+  "id": 0,
+  "name": "Elektroenergetyk",
+  "desc": "Elektroenergetycy utrzymują w ruchu i obsługują maszyny i urządzenia w elektrowniach i innych zakładach wytwarzających energię. Usuwają awarie, obsługują maszyny bezpośrednio lub z dyspozytorni oraz zajmują się materiałami związanymi z wytwarzaniem energii elektrycznej zgodnie z procedurami dotyczącymi bezpieczeństwa i ochrony środowiska. Ułatwiają współdziałanie instalacji elektroenergetycznych, zapewniając bezpieczną dystrybucję.",
+  "path": "Przemysł i produkcja > Energetyka i sterowanie procesami",
+  "tasks": [
+   "Obsługujesz maszyny w elektrowni",
+   "Usuwasz awarie urządzeń",
+   "Dbasz, by energia płynęła bezpiecznie do sieci",
+   "Sterujesz pracą urządzeń z dyspozytorni"
+  ]
+ },
+ {
+  "id": 1,
+  "name": "Górnik pracujący pod ziemią",
+  "desc": "Górnicy pracujący pod ziemią wykonują szereg pomocniczych działań wydobywczych pod ziemią, takich jak kontrole, nadzór nad przenośnikami oraz transport sprzętu i materiałów zużywalnych z powierzchni do punktu wydobycia podziemnego.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Przeprowadzasz kontrole pod ziemią",
+   "Nadzorujesz pracę przenośników",
+   "Przewozisz sprzęt do miejsca wydobycia",
+   "Dostarczasz materiały zużywalne z powierzchni"
+  ]
+ },
+ {
+  "id": 2,
+  "name": "Agent ubezpieczeniowy",
+  "desc": "Agenci ubezpieczeniowi oceniają ryzyko prowadzenia działalności gospodarczej i zasady polityki w zakresie odpowiedzialności oraz podejmują decyzje dotyczące nieruchomości komercyjnych. Sprawdzają stan nieruchomości przedsiębiorstw, analizują zasady polityki w zakresie kontroli, pomagają w kwestiach dotyczących nieruchomości i czynszu, przygotowują umowy kredytowe i rozpatrują ryzyko handlowe w celu dostosowania go do praktyk biznesowych. Agenci ubezpieczeniowi analizują różne informacje od potencjalnych klientów w celu dokonania oceny prawdopodobieństwa zgłoszenia przez nich roszczenia.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Analizujesz dane od potencjalnego klienta",
+   "Sprawdzasz stan budynków i majątku firmy",
+   "Oceniasz, jak prawdopodobne jest zgłoszenie szkody",
+   "Przygotowujesz warunki umowy ubezpieczenia"
+  ]
+ },
+ {
+  "id": 3,
+  "name": "Przedstawiciel handlowy",
+  "desc": "Przedstawiciele handlowi reprezentują przedsiębiorstwo w zakresie sprzedaży i dostarczania informacji na temat towarów i usług przedsiębiorstwom i organizacjom.",
+  "path": "Sprzedaż i marketing > Agenci, handlowcy i zaopatrzeniowcy",
+  "tasks": [
+   "Umawiasz spotkania z firmami",
+   "Przedstawiasz ofertę i odpowiadasz na pytania",
+   "Dowiadujesz się, czego potrzebuje klient",
+   "Przekazujesz zamówienie do realizacji"
+  ]
+ },
+ {
+  "id": 4,
+  "name": "Kierownik sklepu",
+  "desc": "Kierownicy sklepów są odpowiedzialni za działania i personel w wyspecjalizowanych sklepach.",
+  "path": "Sprzedaż i marketing > Kierownicy sklepów i hurtowni",
+  "tasks": [
+   "Zamawiasz towar do sklepu",
+   "Układasz grafik pracy sprzedawców",
+   "Rozmawiasz z klientami i doradzasz",
+   "Podliczasz dzień i zamykasz kasę"
+  ]
+ },
+ {
+  "id": 5,
+  "name": "Specjalista ds. marketingu",
+  "desc": "Doradcy ds. marketingu doradzają przedsiębiorstwom przy opracowywaniu strategii marketingowych do konkretnych celów. Mogą doradzać i opracowywać strategie wprowadzenia na rynek marki, ponownego wprowadzenia na rynek produktu, wprowadzenia nowego produktu lub pozycjonowania wizerunku komercyjnego. Przeprowadzają wcześniejsze badania dotyczące sytuacji przedsiębiorstwa i sposobu postrzegania go przez klientów w celu określenia podejścia marketingowego.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Badasz, jak klienci widzą firmę",
+   "Ustalasz cel kampanii razem z klientem",
+   "Opracowujesz strategię wprowadzenia produktu",
+   "Przedstawiasz klientowi plan działania"
+  ]
+ },
+ {
+  "id": 6,
+  "name": "Specjalista ds. marketingu internetowego",
+  "desc": "Specjaliści ds. marketingu internetowego korzystają z poczty elektronicznej, internetu i mediów społecznościowych na potrzeby marketingu towarów i marek.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Planujesz posty w mediach społecznościowych",
+   "Wysyłasz wiadomości e-mail do klientów",
+   "Sprawdzasz, ile osób klika w reklamę",
+   "Poprawiasz treści na podstawie wyników"
+  ]
+ },
+ {
+  "id": 7,
+  "name": "Copywriter",
+  "desc": "Autorzy tekstów i sloganów reklamowych odpowiadają za koncepcję reklam w formie pisemnej lub ustnej. Tworzą slogany, hasła reklamowe itp. Autorzy tekstów i sloganów reklamowych ściśle współpracują z grafikami reklamowymi.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Wymyślasz slogany i hasła reklamowe",
+   "Piszesz teksty reklam do druku i radia",
+   "Skracasz i poprawiasz zdania, aż brzmią dobrze",
+   "Omawiasz pomysły z grafikiem reklamowym"
+  ]
+ },
+ {
+  "id": 8,
+  "name": "Menedżer marki",
+  "desc": "Menedżerowi marki analizują i planują pozycjonowanie marki na rynku.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Badasz, kim są klienci marki",
+   "Porównujesz markę z konkurencją",
+   "Planujesz kampanie i wygląd marki",
+   "Pilnujesz spójności komunikatów"
+  ]
+ },
+ {
+  "id": 9,
+  "name": "Specjalista ds. obsługi klienta",
+  "desc": "Specjaliści ds. obsługi klienta pośredniczą między firmą a jej klientami. Dbają o zadowolenie klientów, udzielając im wskazówek i wyjaśnień na temat rozliczeń i usług otrzymanych przez firmę. Inne możliwe zadania obejmują opracowywanie planów i przedstawianie propozycji.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Odpowiadasz na pytania klientów o rachunki",
+   "Wyjaśniasz, jak działają usługi firmy",
+   "Rozwiązujesz reklamacje i zgłoszenia",
+   "Przekazujesz problemy innym działom"
+  ]
+ },
+ {
+  "id": 10,
+  "name": "Specjalista ds. public relations",
+  "desc": "Specjaliści ds. public relations reprezentują przedsiębiorstwo lub organizację wobec zainteresowanych stron i społeczeństwa. Stosują strategie komunikacyjne w celu upowszechniania znajomości działań i przedstawiania wizerunku ich klientów w korzystnym świetle.",
+  "path": "Sprzedaż i marketing > Specjaliści marketingu, PR i sprzedaży",
+  "tasks": [
+   "Utrzymujesz kontakty z dziennikarzami",
+   "Planujesz długofalowe działania wizerunkowe",
+   "Organizujesz wydarzenia dla mediów",
+   "Zbierasz publikacje o firmie i je oceniasz"
+  ]
+ },
+ {
+  "id": 11,
+  "name": "Sprzedawca/sprzedawczyni",
+  "desc": "Sprzedawcy/sprzedawczynie odpowiadają za bezpośredni kontakt z klientami. Udzielają oni klientom ogólnych porad.",
+  "path": "Sprzedaż i marketing > Sprzedawcy w sklepach",
+  "tasks": [
+   "Witasz klientów i odpowiadasz na pytania",
+   "Doradzasz przy wyborze towaru",
+   "Obsługujesz kasę i przyjmujesz płatności",
+   "Układasz i porządkujesz towar"
+  ]
+ },
+ {
+  "id": 12,
+  "name": "Pośrednik w obrocie nieruchomościami",
+  "desc": "Pośrednicy w obrocie nieruchomościami zarządzają procesem sprzedaży lub wynajmu nieruchomości mieszkalnych i komercyjnych lub gruntów w imieniu swoich klientów. Badają stan nieruchomości i oceniają ich wartość w celu zaoferowania najlepszej ceny swoim klientom. Negocjują, sporządzają umowę sprzedaży lub umowę najmu i współpracują z osobami trzecimi w celu osiągnięcia określonych celów podczas transakcji. Wykonują badania przed sprzedażą nieruchomości w celu ustalenia, czy jej sprzedaż jest zgodna z prawem, oraz zapewniają, aby transakcja nie wiązała się z żadnym sporem lub nie podlegała ograniczeniom.",
+  "path": "Sprzedaż i marketing > Agenci usług biznesowych",
+  "tasks": [
+   "Oceniasz stan i wartość nieruchomości",
+   "Pokazujesz mieszkania kupującym",
+   "Negocjujesz cenę między stronami",
+   "Sprawdzasz, czy sprzedaż nie ma prawnych przeszkód"
+  ]
+ },
+ {
+  "id": 13,
+  "name": "Kasjer/kasjerka",
+  "desc": "Kasjerzy/kasjerki obsługują kasę, odbierają płatności od klientów, wydają rachunki i wydają resztę.",
+  "path": "Sprzedaż i marketing > Kasjerzy i sprzedawcy biletów",
+  "tasks": [
+   "Skanujesz zakupy klientów",
+   "Przyjmujesz płatności gotówką i kartą",
+   "Wydajesz resztę i paragon",
+   "Odpowiadasz na pytania przy kasie"
+  ]
+ },
+ {
+  "id": 14,
+  "name": "Spedytor",
+  "desc": "Spedytorzy planują i organizują transport ładunków na obszarach krajowych i międzynarodowych. Komunikują się z przewoźnikami i negocjują najlepszy sposób wysyłki ładunku do miejsca przeznaczenia, które może być pojedynczym odbiorcą lub punktem dystrybucji. Spedytorzy działają jako eksperci w dziedzinie zarządzania łańcuchem dostaw. Znają i stosują zasady i przepisy dla konkretnego rodzaju ładunku oraz informują klientów o warunkach i kosztach.",
+  "path": "Transport i logistyka > Spedytorzy",
+  "tasks": [
+   "Szukasz przewoźnika do danego ładunku",
+   "Negocjujesz cenę i sposób wysyłki",
+   "Planujesz drogę ładunku do odbiorcy",
+   "Informujesz klientów o warunkach i kosztach"
+  ]
+ },
+ {
+  "id": 15,
+  "name": "Magazynier",
+  "desc": "Magazynierzy prowadzą ewidencję produktów przechowywanych w magazynach w celu transportu do sklepów, hurtowni i klientów indywidualnych. Kontrolują oni stany magazynowe oraz prowadzą prace biurowe i dokumentację.",
+  "path": "Transport i logistyka > Magazyn i ewidencja transportu",
+  "tasks": [
+   "Prowadzisz ewidencję towarów na regałach",
+   "Kontrolujesz stany magazynowe",
+   "Wypełniasz dokumenty przyjęcia i wydania",
+   "Liczysz towar podczas inwentaryzacji"
+  ]
+ },
+ {
+  "id": 16,
+  "name": "Pilot samolotowy liniowy",
+  "desc": "Piloci samolotowi liniowi latają dużymi samolotami o maksymalnym ciężarze startowym powyżej 5700 kilogramów w celu przewozu pasażerów, poczty lub ładunków na trasach długich lub krótkich w celach rekreacyjnych, biznesowych lub handlowych. Ponoszą ogólną odpowiedzialność za bezpieczne i sprawne funkcjonowanie samolotów oraz bezpieczeństwo załogi i pasażerów.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Planujesz trasę i zapas paliwa",
+   "Prowadzisz duży samolot na długich trasach",
+   "Dowodzisz załogą od odprawy do lądowania",
+   "Decydujesz, gdy pojawia się usterka lub zła pogoda"
+  ]
+ },
+ {
+  "id": 17,
+  "name": "Pilot statku powietrznego",
+  "desc": "Piloci statków powietrznych sterują i nawigują statkami powietrznymi. Obsługują układy mechaniczne i elektryczne statków powietrznych oraz transportują osoby, pocztę i towary.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Planujesz lot: trasa, pogoda, paliwo",
+   "Sprawdzasz maszynę przed startem",
+   "Pilotujesz i rozmawiasz z kontrolą lotów",
+   "Ćwiczysz sytuacje awaryjne na symulatorze"
+  ]
+ },
+ {
+  "id": 18,
+  "name": "Astronauta",
+  "desc": "Astronauci są członkami załogi statków kosmicznych odbywających loty w niskiej orbicie okołoziemskiej lub powyżej normalnej wysokości lotów komercyjnych. Poruszają się po orbicie okołoziemskiej w celu wykonania takich działań, jak badania i eksperymenty naukowe, wystrzelenie lub wypuszczenie satelitów oraz budowa stacji kosmicznych.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Przeprowadzasz eksperymenty naukowe na orbicie",
+   "Wypuszczasz satelity ze statku",
+   "Budujesz elementy stacji kosmicznej",
+   "Przygotowujesz się do misji latami na Ziemi"
+  ]
+ },
+ {
+  "id": 19,
+  "name": "Kontroler ruchu lotniczego",
+  "desc": "Kontrolerzy ruchu lotniczego pomagają pilotom, udzielając informacji dotyczących wysokości, szybkości i kursu. Pomagają pilotom w wykonaniu bezpiecznego startu i lądowania statków powietrznych. Są odpowiedzialni za prowadzenie bezpiecznego i uporządkowanego ruchu statków powietrznych wzdłuż głównych tras lotniczych w przestrzeni powietrznej i wokół portów lotniczych. Kontrolują ruch lotniczy w portach lotniczych i w ich sąsiedztwie zgodnie z ustalonymi procedurami i politykami mającymi na celu zapobieganie kolizjom i minimalizowanie opóźnień wynikających z zagęszczenia ruchu.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Podajesz pilotom wysokość, prędkość i kurs",
+   "Zezwalasz na starty i lądowania",
+   "Pilnujesz odstępów między samolotami",
+   "Układasz kolejność, żeby ograniczyć opóźnienia"
+  ]
+ },
+ {
+  "id": 20,
+  "name": "Kapitan statku morskiego",
+  "desc": "Kapitanowie statków morskich są odpowiedzialni za statek do przewozu towarów i pasażerów na morzu i wodach przybrzeżnych. Pod względem wielkości może to być zarówno mały statek, jak i statek wycieczkowy, w zależności od tonażu, do którego są oni uprawnieni na podstawie certyfikatu. Kapitanowie statków morskich mają duże doświadczenie w dziedzinie statków i ich eksploatacji oraz prawdopodobnie pracowali na różnych stanowiskach na statku, zdobywając kolejne rangi.",
+  "path": "Transport i logistyka > Piloci, oficerowie statków, kontrolerzy lotów",
+  "tasks": [
+   "Dowodzisz statkiem na morzu i wodach przybrzeżnych",
+   "Kierujesz pracą załogi",
+   "Odpowiadasz za ładunek i bezpieczeństwo pasażerów",
+   "Podejmujesz decyzje o kursie i manewrach"
+  ]
+ },
+ {
+  "id": 21,
+  "name": "Kierowca samochodu ciężarowego",
+  "desc": "Kierowcy samochodów ciężarowych prowadzą pojazdy, takie jak samochody ciężarowe i samochody dostawcze. Mogą oni również zajmować się załadunkiem i rozładunkiem towarów.",
+  "path": "Transport i logistyka > Kierowcy ciężarówek i autobusów",
+  "tasks": [
+   "Prowadzisz ciężarówkę lub samochód dostawczy",
+   "Układasz trasę i pilnujesz godzin dostaw",
+   "Ładujesz i rozładowujesz towary",
+   "Sprawdzasz stan pojazdu przed wyjazdem"
+  ]
+ },
+ {
+  "id": 22,
+  "name": "Kierowca autobusu",
+  "desc": "Kierowcy autobusów obsługują autobusy lub autokary, pobierają opłaty i opiekują się pasażerami.",
+  "path": "Transport i logistyka > Kierowcy ciężarówek i autobusów",
+  "tasks": [
+   "Jeździsz autobusem według rozkładu",
+   "Pobierasz opłaty za przejazd",
+   "Odpowiadasz na pytania pasażerów",
+   "Pilnujesz bezpieczeństwa pasażerów w pojeździe"
+  ]
+ },
+ {
+  "id": 23,
+  "name": "Steward/stewardessa",
+  "desc": "Stewardzi/stewardessy wykonują czynności związane z obsługą gastronomiczną podczas podróży lądowych, morskich i lotniczych.",
+  "path": "Transport i logistyka > Stewardzi i konduktorzy",
+  "tasks": [
+   "Przygotowujesz posiłki do podania w podróży",
+   "Serwujesz jedzenie i napoje pasażerom",
+   "Pilnujesz zapasów żywności na trasie",
+   "Sprzątasz po posiłkach"
+  ]
+ },
+ {
+  "id": 24,
+  "name": "Taksówkarz",
+  "desc": "Taksówkarze prowadzą licencjonowany prywatny pojazd transportu pasażerskiego, opiekując się klientami, pobierając opłaty i zarządzając obsługą techniczną pojazdów.",
+  "path": "Transport i logistyka > Kierowcy aut osobowych i motocykli",
+  "tasks": [
+   "Odbierasz zamówienia i dojeżdżasz pod adres",
+   "Pobierasz opłatę za kurs",
+   "Pomagasz pasażerom z bagażami",
+   "Pilnujesz przeglądów i czystości taksówki"
+  ]
+ },
+ {
+  "id": 25,
+  "name": "Maszynista",
+  "desc": "Maszyniści prowadzą pociągi świadczące usługi transportu pasażerskiego lub towarowego. Odpowiadają za kierowanie pojazdami w sposób bezpieczny, z poszanowaniem wszystkich istotnych przepisów bezpieczeństwa, obsługi i komunikacji oraz ponoszą pełną odpowiedzialność za bezpieczeństwo pasażerów i ładunków. Ich zadania obejmują współpracę i komunikację z odpowiednim personelem zarządcy infrastruktury, jak również z personelem pokładowym pociągu.",
+  "path": "Transport i logistyka > Kolej",
+  "tasks": [
+   "Prowadzisz pociąg zgodnie z sygnałami",
+   "Sprawdzasz lokomotywę przed wyjazdem",
+   "Rozmawiasz przez radio z dyżurnymi i kierownikiem",
+   "Hamujesz tak, by zatrzymać się na peronie"
+  ]
+ },
+ {
+  "id": 26,
+  "name": "Instruktor nauki jazdy",
+  "desc": "Instruktorzy nauki jazdy uczą kursantów teorii i praktyki prowadzenia pojazdu w sposób bezpieczny i zgodny z przepisami. Pomagają oni kursantom w rozwijaniu umiejętności potrzebnych do prowadzenia i przygotowują ich do egzaminu teoretycznego i praktycznego. Mogą również nadzorować egzaminy na prawo jazdy.",
+  "path": "Transport i logistyka > Instruktor nauki jazdy",
+  "tasks": [
+   "Tłumaczysz przepisy ruchu na zajęciach",
+   "Pokazujesz podstawy obsługi pojazdu",
+   "Poprawiasz błędy kursanta w czasie jazdy",
+   "Przygotowujesz do egzaminu teoretycznego i praktycznego"
+  ]
+ },
+ {
+  "id": 27,
+  "name": "Operator drona",
+  "desc": "Operatorzy dronów sterują bezzałogowymi statkami powietrznymi. Filmują z powietrza, robią pomiary terenu, sprawdzają stan linii energetycznych i pomagają w akcjach ratowniczych. Loty zawodowe wymagają odpowiednich uprawnień.",
+  "path": "Transport i logistyka",
+  "tasks": [
+   "Planujesz lot i sprawdzasz pogodę",
+   "Pilotujesz drona i ustawiasz kamerę",
+   "Filmujesz lub mierzysz teren z powietrza",
+   "Oglądasz z góry linie energetyczne i dachy"
+  ]
+ },
+ {
+  "id": 28,
+  "name": "Inżynier energetyki jądrowej",
+  "desc": "Inżynierowie energetyki jądrowej planują i projektują sprzęt i procesy inżynieryjne w elektrowniach jądrowych i zakładach. Angażują się w działalność inżynieryjną dotyczącą elektrowni jądrowych i opracowują rozwiązania w zakresie ryzyka.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz elementy instalacji elektrowni jądrowej",
+   "Analizujesz ryzyka i opracowujesz zabezpieczenia",
+   "Sprawdzasz zgodność z rygorystycznymi przepisami",
+   "Opisujesz rozwiązania w dokumentacji technicznej"
+  ]
+ },
+ {
+  "id": 29,
+  "name": "Inżynier urządzeń i systemów energetyki odnawialnej",
+  "desc": "Inżynierowie urządzeń i systemów energetyki odnawialnej prowadzą badania nad alternatywnymi źródłami energii w celu opracowania systemów produkcji energii ze źródeł odnawialnych. Starają się zoptymalizować produkcję energii ze źródeł odnawialnych oraz zmniejszyć koszty produkcji i obciążenia środowiskowe. Systemy te skupiają się na zrównoważeniu energetycznym i efektywności energetycznej.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Badasz alternatywne źródła energii w laboratorium",
+   "Projektujesz urządzenia do energii odnawialnej",
+   "Porównujesz wydajność różnych rozwiązań",
+   "Szukasz sposobów na obniżenie kosztów produkcji"
+  ]
+ },
+ {
+  "id": 30,
+  "name": "Inżynier robotyki",
+  "desc": "Inżynierowie robotyki projektują i opracowują zrobotyzowane urządzenia i aplikacje w połączeniu z zasadami inżynierii mechanicznej. Stosują oni z góry ustalone wzory i aktualną sytuację w celu udoskonalenia lub opracowania systemów, maszyn i urządzeń. Łączą kilka dziedzin wiedzy, takich jak informatyka, inżynieria i elektronika, na potrzeby rozwoju nowych zastosowań inżynieryjnych.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz mechanikę i ruch robota",
+   "Dobierasz czujniki i silniki do robota",
+   "Piszesz programy sterujące robotem",
+   "Testujesz prototypy i poprawiasz błędy"
+  ]
+ },
+ {
+  "id": 31,
+  "name": "Inżynier automatyki i robotyki",
+  "desc": "Inżynierowie automatyki i robotyki badają, projektują i opracowują aplikacje i systemy w celu automatyzacji procesu produkcji. Wykorzystują oni technologię i, w stosownych przypadkach, ograniczają wkład ludzki, aby osiągnąć pełen potencjał robotyki przemysłowej. Inżynierowie automatyki i robotyki nadzorują cały proces i zapewniają bezpieczny i sprawny przebieg wszystkich systemów.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz zautomatyzowane linie produkcyjne",
+   "Dobierasz roboty przemysłowe i sterowniki",
+   "Programujesz sekwencje pracy maszyn",
+   "Wyszukujesz przyczyny przestojów linii"
+  ]
+ },
+ {
+  "id": 32,
+  "name": "Inżynier chemik",
+  "desc": "Inżynierowie chemicy projektują i opracowują zakrojone na szeroką skalę procesy produkcji chemicznej i fizycznej oraz biorą udział w całym procesie przemysłowym wymaganym do przekształcenia surowców w produkty.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz instalacje do produkcji chemicznej",
+   "Liczysz bilanse przepływu surowców",
+   "Śledzisz proces od surowca do produktu",
+   "Poprawiasz istniejący proces w zakładzie"
+  ]
+ },
+ {
+  "id": 33,
+  "name": "Technolog żywności",
+  "desc": "Technolodzy żywności opracowują procesy wytwarzania produktów spożywczych i związanych z nimi w oparciu o zasady i technologię chemiczną, fizyczną i biologiczną. Opracowują i planują plany lub sprzęt, nadzorują personel, angażują się w kontrolowanie i ulepszają technologie żywnościowe w procesach produkcji żywności.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Opracowujesz procesy wytwarzania produktów spożywczych",
+   "Planujesz urządzenia i sprzęt do produkcji",
+   "Kontrolujesz proces produkcji na linii",
+   "Nadzorujesz personel i wprowadzasz ulepszenia"
+  ]
+ },
+ {
+  "id": 34,
+  "name": "Inżynier mechanik",
+  "desc": "Inżynierowie mechanicy badają, planują i projektują produkty i systemy mechaniczne oraz sprawują nadzór nad wytwarzaniem, eksploatacją, stosowaniem, instalowaniem i naprawą systemów i produktów. Badają i analizują dane.",
+  "path": "Inżynieria i technika > Inżynierowie",
+  "tasks": [
+   "Projektujesz produkty i systemy mechaniczne",
+   "Analizujesz dane z badań i pomiarów",
+   "Nadzorujesz wytwarzanie i montaż",
+   "Planujesz instalację i naprawę urządzeń"
+  ]
+ },
+ {
+  "id": 35,
+  "name": "Technik mechatronik",
+  "desc": "Technicy mechatronicy współpracują z inżynierami w zakresie rozwoju urządzeń i aplikacji mechatronicznych poprzez połączenie wiedzy dotyczącej techniki budowy maszyn, elektroniki i techniki komputerowej. Budują, testują, instalują i kalibrują układy mechatroniczne i rozwiązują problemy techniczne.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Budujesz układy z mechaniki i elektroniki",
+   "Testujesz i instalujesz urządzenia mechatroniczne",
+   "Kalibrujesz układy do właściwych parametrów",
+   "Szukasz usterek i usuwasz problemy"
+  ]
+ },
+ {
+  "id": 36,
+  "name": "Specjalista ds. druku 3D",
+  "desc": "Specjaliści ds. druku 3D wspomagają projektowanie i programowanie produktów od produktów protetycznych po trójwymiarowe miniatury. Mogą również wykonywać prace związane z konserwacją sprzętu do druku 3D, sprawdzać wyniki renderingu 3D dla klientów i przeprowadzać testy druku 3D. Specjaliści ds. druku 3D mogą również zajmować się naprawą, konserwacją i czyszczeniem drukarek 3D.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Wspierasz projektowanie przedmiotów do druku",
+   "Sprawdzasz wyniki renderingu dla klientów",
+   "Przeprowadzasz próbne wydruki",
+   "Czyścisz, konserwujesz i naprawiasz drukarki"
+  ]
+ },
+ {
+  "id": 37,
+  "name": "Technik elektronik",
+  "desc": "Technicy elektronicy ściśle współpracują z inżynierami elektronikami w zakresie opracowania sprzętu i urządzeń elektronicznych. Technicy elektronicy są odpowiedzialni za konstruowanie, testowanie i konserwację urządzeń elektronicznych.",
+  "path": "Inżynieria i technika > Technicy",
+  "tasks": [
+   "Budujesz urządzenia elektroniczne według schematu",
+   "Testujesz gotowe układy",
+   "Konserwujesz sprzęt elektroniczny",
+   "Szukasz przyczyny awarii"
+  ]
+ },
+ {
+  "id": 38,
+  "name": "Inżynier elektryk",
+  "desc": "Inżynierowie elektrycy projektują i rozwijają systemy elektryczne, sprzęt elektryczny, komponenty, silniki i sprzęt z funkcją przesyłu energii. Angażują się w projekty na dużą skalę, takie jak projektowanie i utrzymanie elektrowni, oraz dystrybucja energii do mniejszych zastosowań, takich jak urządzenia gospodarstwa domowego.",
+  "path": "Inżynieria i technika > Inżynierowie elektrycy i elektronicy",
+  "tasks": [
+   "Projektujesz systemy i podzespoły elektryczne",
+   "Rozwijasz silniki i sprzęt do przesyłu energii",
+   "Pracujesz przy projektach elektrowni",
+   "Dostosowujesz rozwiązania do urządzeń domowych"
+  ]
+ },
+ {
+  "id": 39,
+  "name": "Inżynier elektronik",
+  "desc": "Inżynierowie elektronicy projektują i opracowują systemy elektroniczne, takie jak obwody, elementy półprzewodnikowe i urządzenia, które wykorzystują energię elektryczną jako źródło energii. Pracują z kondensatorami, tranzystorami, diodami lub rezystorami w celu stworzenia obwodów elektronicznych i zastosowań użytkowych w takich dziedzinach, jak telekomunikacja, akustyka, przyrządy i sterowanie.",
+  "path": "Inżynieria i technika > Inżynierowie elektrycy i elektronicy",
+  "tasks": [
+   "Projektujesz obwody elektroniczne",
+   "Dobierasz tranzystory, diody i kondensatory",
+   "Opracowujesz zastosowania w telekomunikacji i akustyce",
+   "Badasz działanie przyrządów i układów sterowania"
+  ]
+ },
+ {
+  "id": 40,
+  "name": "Hydraulik",
+  "desc": "Hydraulicy zajmują się utrzymaniem i montażem instalacji wodnych, gazowych i kanalizacyjnych. Dokonują regularnych przeglądów rur i osprzętu oraz dokonują niezbędnych napraw. Zajmują się także gięciem, cięciem i montażem rur. Testują instalacje i wprowadzają w nich zmiany w sposób bezpieczny i zgodny z przepisami. Wykonują montaż instalacji i urządzeń sanitarnych.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Gniesz, tniesz i łączysz rury",
+   "Montujesz urządzenia sanitarne",
+   "Przeglądasz instalacje i usuwasz usterki",
+   "Testujesz instalacje przed oddaniem"
+  ]
+ },
+ {
+  "id": 41,
+  "name": "Dekarz",
+  "desc": "Dekarze kryją konstrukcje budowlane dachem. Instalują konstrukcję nośną dachu płaskiego lub jednospadowego, a następnie zakrywają ją warstwą odporną na działanie czynników atmosferycznych.",
+  "path": "Budownictwo i architektura > Wykończenia i instalacje",
+  "tasks": [
+   "Montujesz nośną konstrukcję dachu",
+   "Układasz warstwę chroniącą przed pogodą",
+   "Mierzysz powierzchnię dachu i planujesz pracę",
+   "Zabezpieczasz siebie liną asekuracyjną"
+  ]
+ },
+ {
+  "id": 42,
+  "name": "Technik geodeta",
+  "desc": "Technicy geodeci wykonują techniczne zadania geodezyjne. Pomagają inspektorom, architektom lub inżynierom w realizacji powiązanych geodezyjnych zadań technicznych, takich jak sporządzanie map, tworzenie rysunków budowlanych i stosowanie precyzyjnych urządzeń pomiarowych.",
+  "path": "Budownictwo i architektura > Technicy budownictwa",
+  "tasks": [
+   "Mierzysz teren precyzyjnymi przyrządami",
+   "Sporządzasz mapy na podstawie pomiarów",
+   "Tworzysz rysunki techniczne do budowy",
+   "Pomagasz geodecie przy zadaniach pomiarowych"
+  ]
+ },
+ {
+  "id": 43,
+  "name": "Operator koparki",
+  "desc": "Operatorzy koparek wykorzystują koparki do kopania w ziemi lub innych materiałach w celu ich usunięcia. Biorą udział w szeregu zadań, takich jak rozbiórka, pogłębianie czy wykopy, fundamenty i rowy.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Kopiesz wykopy pod fundamenty i rowy",
+   "Rozbierasz stare budynki maszyną",
+   "Ładujesz urobek na wywrotki",
+   "Pilnujesz głębokości i poziomu wykopu"
+  ]
+ },
+ {
+  "id": 44,
+  "name": "Operator żurawia wieżowego",
+  "desc": "Operatorzy żurawi wieżowych pracują z żurawiami wieżowymi, wysokimi żurawiami balansowymi złożonymi z poziomego wysięgnika zamocowanego na pionowym maszcie, wraz z niezbędnymi silnikami i hakiem podnośnikowym przyłączonym do wysięgnika. Operatorzy kontrolują dźwig z kabiny kontrolnej lub wykorzystują kontrolę radiową.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Podnosisz materiały hakiem żurawia",
+   "Obracasz wysięgnik nad placem budowy",
+   "Sterujesz z kabiny lub radiowo",
+   "Dokładnie ustawiasz ładunek na miejscu"
+  ]
+ },
+ {
+  "id": 45,
+  "name": "Operator wózka widłowego",
+  "desc": "Operatorzy wózków widłowych są odpowiedzialni za eksploatację wózków widłowych do przemieszczania, umieszczania, przemieszczania, ustawiania i liczenia towarów. Odpowiadają za bezpieczną i efektywną eksploatację wózków widłowych. Ponadto wypełniają zlecenia i sprawdzają prawidłowość innych zleceń.",
+  "path": "Budownictwo i architektura > Operatorzy koparek, dźwigów i maszyn",
+  "tasks": [
+   "Przewozisz palety i towary wózkiem widłowym",
+   "Układasz towar na regałach",
+   "Liczysz towary i sprawdzasz zlecenia",
+   "Kontrolujesz poprawność innych zleceń"
+  ]
+ },
+ {
+  "id": 46,
+  "name": "Cieśla",
+  "desc": "Cieśle zajmują się wycinaniem, formowaniem i montażem drewnianych elementów do budowy budynków i innych struktur. Do wykonania swoich wyrobów wykorzystują również inne materiały, np. tworzywa sztuczne i metal. Cieśle wykonują drewniane ramy do podpierania budynków o konstrukcji drewnianej.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Wymierzasz i zaznaczasz belki na rysunku",
+   "Przycinasz drewno na długość i kąt",
+   "Łączysz elementy w ramę lub więźbę",
+   "Montujesz gotowy szkielet na budowie"
+  ]
+ },
+ {
+  "id": 47,
+  "name": "Murarz",
+  "desc": "Murarze wykonują mury i konstrukcje z cegieł, umiejętnie układając cegły według ustalonego wzoru, używając materiału wiążącego do połączenia cegieł, takiego jak cement. Następnie wypełniają spoiny zaprawą lub innymi odpowiednimi materiałami.",
+  "path": "Budownictwo i architektura > Murarze, betoniarze, cieśle",
+  "tasks": [
+   "Mieszasz zaprawę i nakładasz ją kielnią",
+   "Układasz cegły w równych rzędach",
+   "Sprawdzasz pion i poziom ściany",
+   "Wypełniasz spoiny między cegłami"
+  ]
+ },
+ {
+  "id": 48,
+  "name": "Lakiernik pojazdowy",
+  "desc": "Lakiernicy pojazdowi używają sprzętu do malowania oraz narzędzi ręcznych do powlekania poszczególnych części oraz powierzchni różnego rodzaju sprzętu transportowego, takiego jak samochody, autobusy, łodzie, samoloty, motocykle oraz wagony kolejowe. Przygotowują powierzchnię tych części do malowania i nanoszą powłokę. Lakiernicy pojazdowi mogą się zajmować lakiernictwem przemysłowym lub postępować zgodnie z indywidualnymi wymaganiami klientów. Mogą również usuwać lub naprawiać błędy w malowaniu, takie jak zarysowania.",
+  "path": "Budownictwo i architektura > Malarze i lakiernicy",
+  "tasks": [
+   "Szlifujesz zarysowanie i przygotowujesz powierzchnię",
+   "Dobierasz kolor lakieru do reszty pojazdu",
+   "Natryskujesz warstwy lakieru w kabinie",
+   "Polerujesz naprawiony fragment, żeby zniknęła granica"
+  ]
+ },
+ {
+  "id": 49,
+  "name": "Malarz",
+  "desc": "Malarze malują wewnętrzne i zewnętrzne części budynków i innych konstrukcji. Mogą używać standardowych farby lateksowych lub specjalistycznych farb dla uzyskania efektu dekoracyjnego lub ze względu na ich właściwości ochronne. Malarze wykorzystują w swojej pracy pędzle, wałki i spraye do różnych zastosowań.",
+  "path": "Budownictwo i architektura > Malarze i lakiernicy",
+  "tasks": [
+   "Zabezpieczasz podłogi, meble i okna folią",
+   "Naprawiasz ubytki i wygładzasz ścianę",
+   "Malujesz wałkiem i pędzlem",
+   "Kładziesz drugą warstwę i poprawiasz krawędzie"
+  ]
+ },
+ {
+  "id": 50,
+  "name": "Kierownik budowy",
+  "desc": "Kierownicy budowy są odpowiedzialni za planowanie i koordynację projektów budowlanych. Zapewniają oni wiedzę fachową w fazie projektowania projektów budowlanych poprzez ułatwienie lepszego oszacowania kosztów i skutków funkcjonalnych. Uczestniczą w procesie składania ofert na projekty budowlane i nadzorują podwykonawców, aby realizowali poszczególne etapy procesu budowy od początku do końca. Dążą do zwiększenia wartości projektów zarówno w zakresie poprawy efektywności, jak i tworzenia wartości dla klientów.",
+  "path": "Budownictwo i architektura > Kierownik budowy",
+  "tasks": [
+   "Układasz harmonogram robót",
+   "Nadzorujesz firmy pracujące na budowie",
+   "Szacujesz koszty zmian w projekcie",
+   "Prowadzisz dziennik budowy i odbiory"
+  ]
+ },
+ {
+  "id": 51,
+  "name": "Urbanista",
+  "desc": "Urbaniści tworzą plany rozwoju miasteczek, obszarów miejskich, miast i regionów. Badają potrzeby społeczności lub regionu (gospodarcze, społeczne, transportowe) i oceniają inne parametry, takie jak trwałość, w celu przedstawienia solidnych programów mających na celu poprawę sytuacji na danym obszarze.",
+  "path": "Budownictwo i architektura > Urbaniści i inżynierowie ruchu drogowego",
+  "tasks": [
+   "Badasz potrzeby mieszkańców dzielnicy",
+   "Rysujesz plany nowych osiedli i placów",
+   "Oceniasz wpływ planów na środowisko",
+   "Przedstawiasz propozycje urzędnikom i mieszkańcom"
+  ]
+ },
+ {
+  "id": 52,
+  "name": "Architekt",
+  "desc": "Architekci badają, projektują i monitorują budowę i rozwój budynków, przestrzeni miejskich, projektów infrastrukturalnych i przestrzeni społecznej. Projektują zgodnie z otoczeniem i przepisami mającymi zastosowanie w określonych obszarach geograficznych, z uwzględnieniem czynników, które obejmują funkcję, estetykę, koszty oraz zdrowie i bezpieczeństwo publiczne. Są świadomi uwarunkowań społecznych i środowiskowych, w tym stosunków między ludźmi i budynkami oraz budynkami i środowiskiem.",
+  "path": "Budownictwo i architektura > Architekt",
+  "tasks": [
+   "Rozmawiasz z inwestorem o potrzebach",
+   "Rysujesz rzuty i widoki budynku",
+   "Dopasowujesz projekt do przepisów i działki",
+   "Odwiedzasz budowę i sprawdzasz wykonanie"
+  ]
+ },
+ {
+  "id": 53,
+  "name": "Architekt wnętrz",
+  "desc": "Architekci wnętrz tworzą plany wnętrza domu, budynku lub innej konstrukcji. Określają specyfikacje i rozmieszczenie tej przestrzeni. Architekci wnętrz łączą rozumienie przestrzeni ze zmysłem pod względem estetycznym w celu stworzenia harmonijnego projektowania wnętrza. Tworzą rysunki architektoniczne z wykorzystaniem wspomaganego komputerowo sprzętu i oprogramowania lub z wykorzystaniem konwencjonalnych metod, takich jak papier i długopis.",
+  "path": "Budownictwo i architektura > Architekt",
+  "tasks": [
+   "Mierzysz pomieszczenie i rysujesz jego plan",
+   "Ustawiasz meble na planie",
+   "Dobierasz kolory, materiały i światło",
+   "Przygotowujesz rysunki i specyfikacje dla wykonawców"
+  ]
+ },
+ {
+  "id": 54,
+  "name": "Inżynier budownictwa",
+  "desc": "Inżynierowie budownictwa projektują, planują i opracowują techniczne i inżynieryjne specyfikacje techniczne dla projektów infrastrukturalnych i budowlanych. Stosują oni wiedzę techniczną w szerokim wachlarzu projektów, począwszy od budowy infrastruktury transportowej, mieszkalnictwa i budynków luksusowych aż po budowę obiektów przyrodniczych. Plany te mają na celu optymalizację materiałów oraz uwzględnienie specyfikacji i alokacji zasobów w ramach ograniczeń czasowych.",
+  "path": "Budownictwo i architektura",
+  "tasks": [
+   "Obliczasz, jakie obciążenia wytrzyma konstrukcja",
+   "Rysujesz techniczne projekty mostów i budynków",
+   "Dobierasz materiały i ich ilości",
+   "Dopasowujesz plan do terminów i budżetu"
+  ]
+ },
+ {
+  "id": 55,
+  "name": "Operator CNC",
+  "desc": "Operatorzy obrabiarki sterowanej numerycznie przeprowadzają konfigurację, konserwację obrabiarek sterowanych numerycznie i sterują nimi w celu realizacji zamówień na wyroby. Są odpowiedzialni za programowanie maszyn, zapewniając osiągnięcie wymaganych parametrów i pomiarów przy zachowaniu standardów jakości i bezpieczeństwa.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Programujesz obrabiarkę według rysunku",
+   "Mocujesz materiał i ustawiasz narzędzia",
+   "Mierzysz gotowe części i porównujesz z rysunkiem",
+   "Konserwujesz maszynę i wymieniasz narzędzia"
+  ]
+ },
+ {
+  "id": 56,
+  "name": "Ślusarz",
+  "desc": "Ślusarze instalują i naprawiają systemy blokad mechaniczny i elektronicznych przy użyciu specjalistycznych narzędzi. Wycinają i wykonują kopie kluczy dla swoich klientów oraz otwierają zamknięte drzwi w sytuacjach awaryjnych. Ślusarze mogą również udzielać porad na temat środków bezpieczeństwa.",
+  "path": "Mechanika i elektryka > Kowale, ślusarze, operatorzy obrabiarek",
+  "tasks": [
+   "Wycinasz kopie kluczy na maszynie",
+   "Montujesz i wymieniasz zamki w drzwiach",
+   "Naprawiasz zacięte lub zepsute mechanizmy",
+   "Otwierasz drzwi w nagłych wypadkach"
+  ]
+ },
+ {
+  "id": 57,
+  "name": "Mechanik pojazdów samochodowych",
+  "desc": "Mechanicy pojazdów samochodowych dokonują przeglądów, badań i konserwacji pojazdów i motocykli, strojenia silnika i wymiany opon. Naprawiają usterki silników i dokonują wymiany substancji smarnych. Mechanicy pojazdów samochodowych dokonują wymiany części pojazdów i oceniają opcje gwarancji.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Podłączasz komputer i czytasz kody usterek",
+   "Wymieniasz zużyte części",
+   "Robisz przeglądy i wymiany oleju",
+   "Tłumaczysz klientowi, co było nie tak"
+  ]
+ },
+ {
+  "id": 58,
+  "name": "Mechanik rowerowy",
+  "desc": "Mechanicy rowerowi dokonują konserwacji i napraw różnych modeli rowerów i ich części. Mogą dokonywać zmian dostosowanych do indywidualnych potrzeb, zgodnie z preferencjami klientów.",
+  "path": "Mechanika i elektryka > Mechanicy maszyn i pojazdów",
+  "tasks": [
+   "Naprawiasz przebite dętki i opony",
+   "Regulujesz hamulce i przerzutki",
+   "Wymieniasz łańcuchy i inne zużyte części",
+   "Dopasowujesz rower do preferencji klienta"
+  ]
+ },
+ {
+  "id": 59,
+  "name": "Spawacz",
+  "desc": "Spawacze obsługują sprzęt spawalniczy w celu połączenia ze sobą detali metalowych. Mogą stosować procesy spawania z przetopem w oparciu o różne metody i materiały. Przeprowadzają również prostą kontrolę wzrokową spoin.",
+  "path": "Mechanika i elektryka > Spawacze, blacharze, monterzy konstrukcji",
+  "tasks": [
+   "Dopasowujesz metalowe części do spawania",
+   "Spawasz elementy według rysunku",
+   "Oglądasz spoiny i szukasz pęknięć",
+   "Wybierasz metodę spawania do materiału"
+  ]
+ }
+]

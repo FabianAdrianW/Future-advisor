@@ -1,5 +1,4 @@
-import json,re,glob,pathlib,shutil,hashlib
-from PIL import Image
+import json,re,glob,pathlib,hashlib,sys
 B=pathlib.Path(__file__).resolve().parent
 # 1. opisy
 jobs={j['id']:j['name'] for j in json.load(open(B/'gen/jobs.json'))}
@@ -25,6 +24,11 @@ for l in open(B/'pay_codes.txt'):
     for x in l.strip().split('|'):
         c_,m_=x.split(); pay[c_]=[int(m_),names[int(m_)]]
 data['pay']=pay; data['minpay']=4806
+# umiejętności per zawód (skills/out, klucz = nazwa zawodu)
+sys.path.insert(0,str(B/'skills'))
+import validate as _sv
+_sj={j['id']:j['name'] for j in json.load(open(B/'skills/jobs.json',encoding='utf-8'))}
+data['sk']={_sj[i]:{'m':d['M'],'w':d['W']} for i,d in _sv.parse().items() if not _sv.ok(d)}
 data['cities']=[['Kraków',139],['Warszawa',129],['Gdańsk',124],['Poznań',121],['Katowice',114],['Wrocław',108],['Szczecin',102],['Rzeszów',95],['Toruń',95],['Bydgoszcz',94],['Opole',93],['Łódź',89],['Zielona Góra',88],['Lublin',87],['Olsztyn',83],['Kielce',81],['Białystok',81],['Gorzów Wielkopolski',80]]
 raw=json.dumps(data,ensure_ascii=False,separators=(',',':')).replace('</','<\\/').replace('<!--','<\\u0021--')
 # 2. szablon bez AI
@@ -38,30 +42,24 @@ a=t.index("  var sampleState = 'unknown', sampleP"); b=t.index("  function paint
 t=t[:a]+"  var sampleState = 'none', sampleP = Promise.resolve(null);\n"+t[b:]
 sub('<title>Prototyp drzewa zawodów</title>','<title>Future Advisor</title>')
 art=t.replace('__DATA__',raw)
-(B/'drzewo-zawodow.html').write_text(art,encoding='utf-8')
-# 3. PWA
-P=B/'pwa'; shutil.rmtree(P,ignore_errors=True); (P/'img').mkdir(parents=True); (P/'fonts').mkdir()
-for f in (B/'site/img').glob('*.webp'): shutil.copy(f,P/'img')
-F=B/'fonts/node_modules/@fontsource-variable'
+# 3. PWA -> docs/ (obrazy, fonty i ikony zostają na miejscu)
+P=B.parent/'docs'
 ff=[('Figtree','figtree','wght','400 800'),('Bricolage Grotesque','bricolage-grotesque','opsz','400 800')]
 LAT='U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD'
 EXT='U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF'
 css=''
 for fam,slug,ax,w in ff:
     for sub_,ur in (('latin',LAT),('latin-ext',EXT)):
-        n=f'{slug}-{sub_}-{ax}-normal.woff2'; shutil.copy(F/slug/'files'/n,P/'fonts'/n)
+        n=f'{slug}-{sub_}-{ax}-normal.woff2'; assert (P/'fonts'/n).exists(),n
         css+=f"@font-face{{font-family:'{fam}';font-style:normal;font-display:swap;font-weight:{w};src:url(fonts/{n}) format('woff2');unicode-range:{ur}}}\n"
 link=re.search(r'<link rel="stylesheet" href="https://fonts.googleapis[^>]+>',t).group(0)
 page=t.replace(link,'<style>\n'+css+'</style>').replace('__DATA__',raw)
-src=Image.open(B/'site/img/compass.webp').convert('RGBA')
-for s,name,pad in ((192,'icon-192.png',.16),(512,'icon-512.png',.16),(512,'icon-maskable.png',.26),(180,'apple-touch-icon.png',.16)):
-    im=Image.new('RGBA',(s,s),'#3A66F5'); k=int(s*(1-2*pad)); e=src.resize((k,k),Image.LANCZOS); im.paste(e,((s-k)//2,(s-k)//2),e); im.convert('RGB').save(P/name)
 json.dump({"name":"Future Advisor","short_name":"Future Advisor","description":"Drzewo zawodów: sprawdź, co można robić w życiu i zaplanuj drogę.","lang":"pl","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#F4F5FA","theme_color":"#F4F5FA",
  "icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"},{"src":"icon-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]},open(P/'manifest.webmanifest','w'),ensure_ascii=False)
 head='<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#F4F5FA"><meta name="description" content="Drzewo zawodów: sprawdź, co można robić w życiu i zaplanuj drogę."><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon-192.png"><link rel="apple-touch-icon" href="apple-touch-icon.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><style>body{margin:0}[hidden]{display:none!important}.app{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom);box-sizing:border-box}html,body{overscroll-behavior:none}</style></head><body>'
 tail="<script>if('serviceWorker' in navigator)addEventListener('load',function(){navigator.serviceWorker.register('sw.js')});</script></body></html>"
 (P/'index.html').write_text(head+page+tail,encoding='utf-8')
-files=['./','index.html','manifest.webmanifest']+sorted(str(p.relative_to(P)) for p in P.rglob('*') if p.is_file() and p.name not in('index.html','manifest.webmanifest','sw.js'))
+files=['./','index.html','manifest.webmanifest']+sorted(str(p.relative_to(P)) for p in P.rglob('*') if p.is_file() and p.name not in('index.html','manifest.webmanifest','sw.js','LICENCJE.txt') and not p.name.startswith('.'))
 ver=hashlib.md5((P/'index.html').read_bytes()).hexdigest()[:8]
 (P/'sw.js').write_text("var C='fa-"+ver+"',F="+json.dumps(files)+""";
 self.addEventListener('install',function(e){e.waitUntil(caches.open(C).then(function(c){return c.addAll(F)}).then(function(){return self.skipWaiting()}))});
@@ -69,5 +67,5 @@ self.addEventListener('activate',function(e){e.waitUntil(caches.keys().then(func
 self.addEventListener('fetch',function(e){if(e.request.method!=='GET')return;e.respondWith(caches.match(e.request,{ignoreSearch:true}).then(function(r){return r||fetch(e.request)}))});
 """)
 (P/'LICENCJE.txt').write_text("Dane o zawodach: ESCO v1.0.8, Komisja Europejska (zmodyfikowane i uzupełnione). Wykorzystanie zgodne z warunkami ESCO, z podaniem źródła.\nIlustracje: Fluent Emoji, Microsoft, licencja MIT.\nCzcionki: Figtree, Bricolage Grotesque, licencja SIL OFL 1.1.\n",encoding='utf-8')
-shutil.make_archive(str(B/'future-advisor-pwa'),'zip',P)
+print('umiejętności:',len(data['sk']))
 print(len(gen),len(page)//1024,'KB', sum(p.stat().st_size for p in P.rglob('*') if p.is_file())//1024,'KB razem')

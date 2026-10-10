@@ -1,0 +1,722 @@
+[
+ {
+  "id": 180,
+  "name": "Etyczny haker (pentester)",
+  "desc": "Testerzy odporności oprogramowania przeprowadzają oceny podatności na zagrożenia i testy penetracyjne zgodnie z przyjętymi w branży metodami i protokołami. Badają systemy po kątem potencjalnych słabych punktów, które mogą wynikać z niewłaściwej konfiguracji systemu, wad sprzętu lub oprogramowania albo niedociągnięć w funkcjonowaniu systemu.",
+  "path": "Informatyka i dane > Cyberbezpieczeństwo",
+  "tasks": [
+   "Skanujesz system w poszukiwaniu znanych podatności",
+   "Próbujesz obejść zabezpieczenia według ustalonych metod",
+   "Sprawdzasz błędy w konfiguracji sprzętu",
+   "Piszesz raport z propozycjami poprawek"
+  ]
+ },
+ {
+  "id": 181,
+  "name": "Administrator bezpieczeństwa IT",
+  "desc": "Administratorzy bezpieczeństwa systemów informacyjno-telekomunikacyjnych planują i wprowadzają środki bezpieczeństwa w celu ochrony informacji i danych przed nieuprawnionym dostępem, celowym atakiem, kradzieżą i uszkodzeniem.",
+  "path": "Informatyka i dane > Cyberbezpieczeństwo",
+  "tasks": [
+   "Nadajesz i odbierasz uprawnienia pracownikom",
+   "Ustawiasz zabezpieczenia sieci i serwerów",
+   "Przeglądasz zapisy zdarzeń w systemie",
+   "Prowadzisz procedury na wypadek ataku"
+  ]
+ },
+ {
+  "id": 182,
+  "name": "Technik cyberbezpieczeństwa",
+  "desc": "Technicy cyberbezpieczeństwa chronią sieci i komputery przed włamaniami. Konfigurują zabezpieczenia, obserwują ruch w sieci i reagują na incydenty. Od września 2026 r. to nowy zawód w polskich technikach.",
+  "path": "Informatyka i dane > Cyberbezpieczeństwo",
+  "tasks": [
+   "Konfigurujesz zapory i inne zabezpieczenia",
+   "Obserwujesz ruch w sieci pod kątem anomalii",
+   "Reagujesz na zgłoszone incydenty",
+   "Odtwarzasz systemy po ataku"
+  ]
+ },
+ {
+  "id": 183,
+  "name": "Inspektor ochrony danych",
+  "desc": "Inspektorzy ochrony danych pilnują, żeby firma lub urząd przetwarzały dane osobowe zgodnie z prawem. Doradzają, szkolą pracowników, sprawdzają procedury i kontaktują się z urzędem nadzorczym.",
+  "path": "Informatyka i dane > Cyberbezpieczeństwo",
+  "tasks": [
+   "Sprawdzasz, jakie dane zbiera firma",
+   "Doradzasz przy nowych projektach i formularzach",
+   "Szkolisz pracowników z ochrony danych",
+   "Odpowiadasz na pytania urzędu nadzorczego"
+  ]
+ },
+ {
+  "id": 184,
+  "name": "Charakteryzator/charakteryzatorka",
+  "desc": "Charakteryzatorzy/charakteryzatorki pomagają artystom przed, w trakcie i po występie lub kręceniu filmu bądź programu telewizyjnego, dbając, aby ich makijaż był zgodny z wizją artystyczną reżysera i zespołu artystycznego. Za pomocą makijażu i protez tworzą obrazy i postaci. Dbają, sprawdzają i naprawiają protezy oraz pomagają przy szybkich zmianach.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Nakładasz makijaż zgodny z wizją reżysera",
+   "Przyklejasz i naprawiasz protezy",
+   "Poprawiasz wygląd między ujęciami",
+   "Pomagasz przy szybkich zmianach postaci"
+  ]
+ },
+ {
+  "id": 185,
+  "name": "Kosmetyczka",
+  "desc": "Kosmetyczki oferują zabiegi pielęgnacyjne skóry. Stosują różne zabiegi pielęgnacyjne przeznaczone do twarzy zgodnie z potrzebami i rodzajem skóry klientów/klientek, takie jak balsamy, produkty złuszczające, peelingi i maski, aby umożliwić zachowanie zdrowej i atrakcyjnie wyglądającej skóry. Kosmetyczki mogą również wykonywać masaż szyi i zabiegi całego ciała, takie jak foliowanie. Kosmetyczki usuwają zbędne owłosienie z różnych części ciała, takich jak brwi, górna warga i strefa bikini. Wykonują masaż twarzy i makijaż na różne okazje.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Oceniasz rodzaj skóry klienta",
+   "Oczyszczasz twarz i nakładasz maskę",
+   "Robisz masaż twarzy i szyi",
+   "Depilujesz brwi i wykonujesz makijaż"
+  ]
+ },
+ {
+  "id": 186,
+  "name": "Manikiurzysta/manikiurzystka",
+  "desc": "Manikiurzyści/manikiurzystki wykonują zabiegi pielęgnacyjne paznokci u rąk. Oczyszczają, obcinają i nadają odpowiedni kształt paznokciom, usuwają skórki i nakładają lakier. Manikiurzyści/manikiurzystki nakładają sztuczne paznokcie i inne ozdoby do paznokci. Udzielają porad na temat pielęgnacji paznokci i dłoni oraz sprzedają specjalistyczne produkty.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Skracasz i nadajesz kształt paznokciom",
+   "Usuwasz skórki i nakładasz lakier",
+   "Przedłużasz paznokcie i doklejasz ozdoby",
+   "Sprzedajesz kosmetyki do pielęgnacji dłoni"
+  ]
+ },
+ {
+  "id": 187,
+  "name": "Masażysta/masażystka",
+  "desc": "Masażyści/masażystki wykonują masaże, aby pomóc klientom rozluźnić się i odstresować zgodnie z ich preferencjami. Wykorzystują odpowiednie rodzaje masażu, sprzęty i olejki, a także udzielają klientom porad na temat technik relaksacyjnych.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Pytasz klienta o napięcie i dolegliwości",
+   "Dobierasz technikę i olejek",
+   "Masujesz plecy, kark i ramiona",
+   "Podpowiadasz ćwiczenia relaksacyjne na dom"
+  ]
+ },
+ {
+  "id": 188,
+  "name": "Wizażysta i stylista fryzur / wizażystka i stylistka fryzur",
+  "desc": "Wizażyści i styliści fryzur / wizażystki i stylistki fryzur przygotowują projekt makijażu i fryzury wykonawców oraz nadzorują ich wykonanie. Ich praca opiera się na badaniu koncepcji i wizji artystycznej. Opracowany przez nich projekt nawiązuje do innych projektów, wpływając jednocześnie na kolejne, dlatego musi być zgodny z takimi projektami i ogólną wizją artystyczną. Z tego powodu wizażyści i styliści ściśle współpracują z dyrektorami artystycznymi, operatorami i zespołem artystycznym. Wizażyści i styliści fryzur/wizażystki i stylistki fryzur tworzą szkice, rysunki i inną dokumentację niezbędną do pracy ekipy realizacyjnej.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Badasz epokę i wizję filmu",
+   "Rysujesz szkice makijażu i fryzur",
+   "Przygotowujesz dokumentację dla ekipy",
+   "Sprawdzasz, czy projekt pasuje do kostiumów i światła"
+  ]
+ },
+ {
+  "id": 189,
+  "name": "Fryzjer męski / fryzjerka męska",
+  "desc": "Fryzjerzy męscy / fryzjerki męskie oferują usługi, takie jak cięcie, przycinanie, podgalanie i układanie włosów. Usuwają również owłosienie z twarzy, goląc wybrane miejsca. Fryzjerzy męscy / fryzjerki męskie używają takich narzędzi, jak nożyczki, maszynka do strzyżenia, maszynka do golenia i grzebień. Mogą one oferować usługi dodatkowe, takie jak mycie szamponem, układanie, farbowanie i masaż skóry głowy.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Strzyżesz maszynką i nożyczkami",
+   "Podgalasz kark i boki głowy",
+   "Golisz i modelujesz zarost",
+   "Układasz włosy po strzyżeniu"
+  ]
+ },
+ {
+  "id": 190,
+  "name": "Fryzjer/fryzjerka",
+  "desc": "Fryzjerzy/fryzjerki oferują usługi kosmetyczne, takie jak cięcie, koloryzacja, rozjaśnianie, trwała ondulacja i układanie włosów klientów/klientek. Pytają klientów/klientki o preferencje dotyczące fryzury, aby dostosować usługi do ich indywidualnych potrzeb. Fryzjerzy/fryzjerki używają maszynek do strzyżenia, nożyczek i maszynek do golenia. Wykonują zabiegi pielęgnacyjne włosów i skóry głowy oraz myją włosy szamponem, nakładają odżywkę, a następnie ją spłukują.",
+  "path": "Uroda, dom i usługi osobiste > Fryzjerzy i kosmetyczki",
+  "tasks": [
+   "Ustalasz z klientem, czego chce",
+   "Strzyżesz, farbujesz, modelujesz",
+   "Doradzasz pielęgnację",
+   "Dbasz o narzędzia i czystość stanowiska"
+  ]
+ },
+ {
+  "id": 191,
+  "name": "Biolog",
+  "desc": "Biolodzy studiują żywe organizmy i życie w szerszym zakresie w połączeniu ze środowiskiem. Dzięki badaniom starają się wyjaśnić mechanizmy funkcjonalne, interakcje i ewolucję organizmów.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Obserwujesz organizmy w naturze",
+   "Zbierasz próbki i dane",
+   "Opisujesz gatunki i ich zachowanie",
+   "Piszesz wnioski z badań"
+  ]
+ },
+ {
+  "id": 192,
+  "name": "Genetyk",
+  "desc": "Genetycy badają i skupiają się na genetyce. Analizują oni, w jaki sposób geny współdziałają, działają i dziedziczą cechy i znaki charakterystyczne. Opierając się na swoich badaniach, biorą do udziału pacjentów z dziedziczeniem chorób i stanów, wrodzonych wad rozwojowych i wad genetycznych.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Badasz, jak geny przekazują cechy",
+   "Analizujesz DNA pacjentów",
+   "Tłumaczysz rodzinom ryzyko chorób dziedzicznych",
+   "Szukasz wad genetycznych"
+  ]
+ },
+ {
+  "id": 193,
+  "name": "Mikrobiolog",
+  "desc": "Mikrobiolodzy studiują i prowadzą badania dotyczące form życia, cech i procesów mikroskopowych organizmów. Uczą się mikroorganizmów, takich jak bakterie, pierwotniaki, grzyby itp., w celu diagnozowania i przeciwdziałania skutkom, jakie te mikroorganizmy mogą wywołać u zwierząt, w środowisku, w przemyśle spożywczym lub w sektorze opieki zdrowotnej.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Hodujesz bakterie i grzyby na szalkach",
+   "Oglądasz drobnoustroje pod mikroskopem",
+   "Rozpoznajesz, co wywołuje chorobę",
+   "Badasz próbki żywności i wody"
+  ]
+ },
+ {
+  "id": 194,
+  "name": "Behawiorysta zwierząt",
+  "desc": "Behawioryści zwierząt współpracują ze zwierzętami i ludźmi w celu badania, obserwacji, oceny i zrozumienia zachowania zwierząt w odniesieniu do określonych czynników oraz w celu zapobiegania niewłaściwym lub problematycznym zachowaniom u poszczególnych zwierząt lub zaradzenia tym zachowaniom poprzez rozwój odpowiednich środowisk i systemów zarządzania, zgodnie z ustawodawstwem krajowym.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Obserwujesz zachowanie zwierzęcia",
+   "Rozmawiasz z właścicielem o codziennej rutynie",
+   "Układasz plan zmiany zachowania",
+   "Sprawdzasz efekty podczas wizyty kontrolnej"
+  ]
+ },
+ {
+  "id": 195,
+  "name": "Bioinformatyk",
+  "desc": "Bioinformatycy analizują procesy biologiczne wykorzystujące programy komputerowe. Utrzymują lub budują bazy danych zawierające informacje biologiczne. Bioinformatycy zbierają i analizują dane biologiczne, a także pomagają naukowcom w różnych dziedzinach, w tym w dziedzinie biotechnologii i farmacji. Prowadzą badania naukowe i analizy statystyczne oraz składają sprawozdania ze swoich ustaleń. Bioinformatycy mogą również gromadzić próbki DNA, odkryć wzorce danych i prowadzić badania genetyczne.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Piszesz kod do analizy danych biologicznych",
+   "Budujesz bazy sekwencji DNA",
+   "Szukasz wzorców w danych genetycznych",
+   "Pomagasz biologom zrozumieć wyniki"
+  ]
+ },
+ {
+  "id": 196,
+  "name": "Ekolog",
+  "desc": "Ekolodzy dokonują oceny stanu zdrowia i rozmieszczenia organizmów, a mianowicie ludzi, roślin i zwierząt, oraz relacji między organizmami a ich środowiskiem. Ekolodzy zazwyczaj dysponują obszarem specjalizacji, np. słodkowodnym, morskim, lądowym, fauną i florą, na temat których prowadzą badania i wykonują swoje zadania.",
+  "path": "Przyroda i środowisko > Biolodzy i specjaliści środowiska",
+  "tasks": [
+   "Liczysz gatunki w danym miejscu",
+   "Oceniasz stan siedlisk",
+   "Badasz zależności między organizmami",
+   "Specjalizujesz się na przykład w wodach słodkich"
+  ]
+ },
+ {
+  "id": 197,
+  "name": "Technik leśnik",
+  "desc": "Technicy leśnicy zapewniają pomoc i wsparcie zarządcy lasu i realizują ich decyzje. Nadzorują zespół operatorów sprzętu do prac leśnych oraz wspierają i nadzorują leśnictwo i ochronę środowiska poprzez badania i gromadzenie danych. Zarządzają także planami ochrony i pozyskania zasobów.",
+  "path": "Przyroda i środowisko > Technicy biologii, rolnictwa i leśnictwa",
+  "tasks": [
+   "Nadzorujesz ekipy pracujące przy wycince",
+   "Mierzysz drzewa i zbierasz dane o lesie",
+   "Pilnujesz planu nasadzeń i ochrony",
+   "Zgłaszasz szkodniki i zniszczenia w drzewostanie"
+  ]
+ },
+ {
+  "id": 198,
+  "name": "Inżynier inżynierii środowiska",
+  "desc": "Inżynierowie inżynierii środowiska integrują środki środowiskowe i zrównoważonego rozwoju przy opracowywaniu projektów o różnym charakterze. Ich celem jest ochrona zasobów naturalnych i terenów przyrodniczych. Współpracują z inżynierami z innych dziedzin w celu nakreślenia wszystkich skutków, jakie projekty te mogą mieć w celu opracowania sposobów ochrony zasobów naturalnych, zapobiegania zanieczyszczeniu i wdrożenia środków sanitarnych.",
+  "path": "Przyroda i środowisko > Inżynierowie inżynierii środowiska",
+  "tasks": [
+   "Oceniasz wpływ projektu na środowisko",
+   "Projektujesz instalacje sanitarne i oczyszczające",
+   "Ustalasz z innymi inżynierami rozwiązania ochronne",
+   "Rysujesz plany i piszesz opisy techniczne"
+  ]
+ },
+ {
+  "id": 199,
+  "name": "Pracownik socjalny",
+  "desc": "Pracownicy socjalni są praktykami, którzy promują zmiany i rozwój społeczny, spójność społeczną oraz umocnienie praw i wyzwolenie osób. Kontaktują się z jednostkami, rodzinami, grupami, organizacjami i społecznościami w celu zapewnienia różnych form terapii i doradztwa, pracy grupowej i pracy w społeczności. Pracownicy socjalni udzielają wskazówek dotyczących korzystania z usług w celu ubiegania się o świadczenia, dostępu do zasobów społeczności, znajdowania zatrudnienia i szkoleń, uzyskiwania porad prawnych i kontaktów z innymi wydziałami władz lokalnych.",
+  "path": "Opieka i pomoc ludziom > Specjaliści pracy socjalnej i doradztwa socjalnego",
+  "tasks": [
+   "Oceniasz sytuację rodziny podczas wywiadu",
+   "Wyjaśniasz, jak ubiegać się o świadczenia",
+   "Kontaktujesz z urzędami i organizacjami",
+   "Prowadzisz pracę grupową w społeczności"
+  ]
+ },
+ {
+  "id": 200,
+  "name": "Asystent rodziny",
+  "desc": "Asystenci rodziny zapewniają pomoc emocjonalną i praktyczną oraz doradztwo dla rodzin, które doświadczają trudności, takich jak uzależnienia, niepełnosprawność, choroba, rodzice poddani karze więzienia, problemy małżeńskie i finansowe. Udzielają porad na temat najlepszego rozwiązania dla dzieci w związku z ich pozostaniem w rodzinie lub nie. Dostarczają również informacji o dostępnych usługach w oparciu o szczególne potrzeby rodziny.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Odwiedzasz rodziny w ich domach",
+   "Pomagasz w planowaniu budżetu i wydatków",
+   "Uczysz rodziców organizacji dnia z dziećmi",
+   "Informujesz o dostępnych usługach"
+  ]
+ },
+ {
+  "id": 201,
+  "name": "Opiekun osób starszych w placówce całodobowej",
+  "desc": "Opiekunowie osób starszych w placówkach całodobowych doradzają osobom starszym niepełnosprawnym fizycznie lub psychicznie i wspierają je. Monitorują ich postępy i zapewniają im opiekę w pozytywnym środowisku życiowym. Współpracują z rodzinami klientów w celu zorganizowania swoich wizyt.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Pomagasz seniorom przy jedzeniu i higienie",
+   "Sprawdzasz samopoczucie mieszkańców",
+   "Organizujesz zajęcia dla seniorów",
+   "Rozmawiasz z rodzinami przy wizytach"
+  ]
+ },
+ {
+  "id": 202,
+  "name": "Trener osobisty",
+  "desc": "Trenerzy osobiści pomagają klientom wyznaczyć wyraźne cele dla ich rozwoju osobistego i pomóc im w osiągnięciu celów i osobistej wizji. Udzielają oni porad i wskazówek oraz sporządzają sprawozdania z postępów, aby śledzić osiągnięcia swoich klientów.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Pomagasz klientom nazwać cele",
+   "Ustalasz plan działania na tygodnie",
+   "Sprawdzasz postępy i zmieniasz plan",
+   "Spisujesz sprawozdania z osiągnięć"
+  ]
+ },
+ {
+  "id": 203,
+  "name": "Niania",
+  "desc": "Nianie świadczą wykwalifikowane usługi w zakresie opieki nad dziećmi u pracodawcy. Organizują zabawy i zapewniają dzieciom rozrywkę w postaci gier i innych zajęć kulturalnych i edukacyjnych stosownie do ich wieku, przygotowują posiłki, kąpią dzieci, odwożą i przywożą dzieci ze szkoły oraz pomagają im w terminowym odrabianiu pracy domowej.",
+  "path": "Opieka i pomoc ludziom > Opieka nad dziećmi",
+  "tasks": [
+   "Odbierasz dzieci ze szkoły lub przedszkola",
+   "Przygotowujesz obiad i podwieczorek",
+   "Kąpiesz młodsze dzieci wieczorem",
+   "Pomagasz w odrabianiu pracy domowej"
+  ]
+ },
+ {
+  "id": 204,
+  "name": "Doula",
+  "desc": "Doule wspierają kobietę i jej bliskich w ciąży, podczas porodu i po nim. Dają wsparcie emocjonalne i praktyczne, ale nie wykonują czynności medycznych, bo to zadanie położnej i lekarza.",
+  "path": "Opieka i pomoc ludziom",
+  "tasks": [
+   "Rozmawiasz z przyszłą mamą o obawach",
+   "Uczysz oddechu i pozycji ułatwiających poród",
+   "Jesteś przy niej w czasie porodu",
+   "Pomagasz po narodzinach w karmieniu i domu"
+  ]
+ },
+ {
+  "id": 205,
+  "name": "Ambasador",
+  "desc": "Ambasadorzy reprezentują swój własny rząd za granicą w celach dyplomatycznych i utrzymywania pokoju. Zajmują się negocjacjami politycznymi między krajem pochodzenia a krajem, w którym przebywają, i zapewniają ochronę obywateli ze swojego kraju zamieszkania w kraju, w którym przebywają. Ułatwiają oni komunikację między oboma narodami i pełnią funkcję doradczą dla krajowych instytucji rządowych na rzecz rozwoju polityki zagranicznej.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Negocjujesz z urzędnikami kraju, w którym pracujesz",
+   "Piszesz raporty i rady dla rządu w kraju",
+   "Pomagasz obywatelom w kłopotach za granicą",
+   "Reprezentujesz kraj na uroczystościach"
+  ]
+ },
+ {
+  "id": 206,
+  "name": "Burmistrz",
+  "desc": "Burmistrzowie przewodniczą posiedzeniom rady i pełnią funkcję głównego organu nadzoru nad polityką administracyjną i operacyjną władz lokalnych. Reprezentują oni również swoją jurysdykcję podczas oficjalnych uroczystości i ceremonii oraz promują działania i imprezy. Wspólnie z Radą posiadają władzę ustawodawczą na szczeblu lokalnym lub regionalnym oraz nadzorują rozwój i wdrażanie polityk. Nadzorują również pracowników i wykonują obowiązki administracyjne.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Prowadzisz obrady rady miejskiej",
+   "Podpisujesz decyzje o inwestycjach i budżecie",
+   "Nadzorujesz pracowników urzędu",
+   "Otwierasz uroczystości i spotkania z mieszkańcami"
+  ]
+ },
+ {
+  "id": 207,
+  "name": "Parlamentarzysta",
+  "desc": "Parlamentarzyści reprezentują interesy swoich partii politycznych w parlamentach. Pełnią oni obowiązki ustawodawcze, opracowują i proponują nowe przepisy oraz komunikują się z urzędnikami państwowymi, aby ocenić bieżące kwestie i operacje rządowe. Nadzorują wdrażanie przepisów i polityk oraz pełnią funkcję przedstawicieli rządu w społeczeństwie w celu zapewnienia przejrzystości.",
+  "path": "Prawo i urzędy > Politycy i wyżsi urzędnicy",
+  "tasks": [
+   "Głosujesz nad ustawami w parlamencie",
+   "Piszesz projekty nowych przepisów",
+   "Pracujesz w komisjach nad szczegółami ustaw",
+   "Spotykasz się z wyborcami w swoim okręgu"
+  ]
+ },
+ {
+  "id": 208,
+  "name": "Mediator",
+  "desc": "Mediatorzy rozstrzygają spory między dwiema stronami, badając sprawę, rozmawiając z obiema stronami i doradzając rozwiązanie, które byłoby dla nich najkorzystniejsze. Słuchają obu stron w celu ułatwienia komunikacji i znalezienia sprawiedliwego rozwiązania i organizowania spotkań. Ich celem jest rozstrzyganie sporów poprzez dialog i rozwiązanie alternatywne, bez konieczności wszczynania postępowania sądowego. Mediatorzy dbają o zgodność rozstrzygnięcia z przepisami prawa i jego egzekucję.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Słuchasz każdej strony osobno i wspólnie",
+   "Pilnujesz, by rozmowa była spokojna",
+   "Podpowiadasz możliwe rozwiązania sporu",
+   "Spisujesz ugodę, którą strony podpisują"
+  ]
+ },
+ {
+  "id": 209,
+  "name": "Notariusz",
+  "desc": "Notariusze zapewniają autentyczność i zgodność z prawem dokumentów urzędowych, takich jak oświadczenia, świadectwa, umowy, akty i umowy nabycia. Badają dokumenty, poświadczają ich podpisanie i uwierzytelniają je. Odbierają przysięgi i oświadczenia oraz wykonują inne czynności notarialne.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Sprawdzasz tożsamość osób podpisujących",
+   "Czytasz umowę na głos przed podpisaniem",
+   "Poświadczasz podpisy",
+   "Spisujesz akty notarialne"
+  ]
+ },
+ {
+  "id": 210,
+  "name": "Prawnik",
+  "desc": "Prawnicy udzielają porad prawnych klientom i reprezentują ich w postępowaniach prawnych i zgodnie z prawem. Prowadzą badania, interpretują i analizują sprawy, żeby reprezentować swoich klientów w różnych okolicznościach, np. przed sądami i komisjami administracyjnymi. W imieniu swoich klientów tworzą argumentacje na potrzeby postępowań sądowych w różnych sytuacjach w celu znalezienia rozwiązania prawnego.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Czytasz akta sprawy i przepisy",
+   "Piszesz pisma i pozwy do sądu",
+   "Reprezentujesz klienta na rozprawie",
+   "Doradzasz klientom, co mogą zrobić"
+  ]
+ },
+ {
+  "id": 211,
+  "name": "Prokurator",
+  "desc": "Prokuratorzy reprezentują organy rządowe i ogół społeczeństwa w sprawach sądowych przeciwko stronom oskarżonym o naruszenie prawa. Badają sprawy sądowe, analizują dowody, zadając pytania uczestnikom oraz interpretując przepisy prawa. Wyniki swojego badania wykorzystują do przedstawienia sprawy w trakcie rozpraw sądowych oraz do sformułowania przekonujących argumentów w celu zapewnienia jak najkorzystniejszego wyniku dla reprezentowanych przez siebie stron.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Czytasz akta i analizujesz dowody",
+   "Przesłuchujesz świadków i podejrzanych",
+   "Interpretujesz przepisy prawa karnego",
+   "Przedstawiasz oskarżenie na rozprawie"
+  ]
+ },
+ {
+  "id": 212,
+  "name": "Radca prawny",
+  "desc": "Radcy prawni świadczą usługi doradztwa prawnego oraz reprezentują firmy i organizacje. Udzielają porad w sprawach dotyczących podatków, praw i patentów, handlu międzynarodowego, znaków towarowych oraz prawnych kwestii finansowych związanych z prowadzeniem działalności gospodarczej.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Czytasz przepisy i wyroki",
+   "Piszesz umowy, opinie i pisma do sądu",
+   "Doradzasz klientom, co mogą zrobić",
+   "Występujesz na rozprawach"
+  ]
+ },
+ {
+  "id": 213,
+  "name": "Sędzia",
+  "desc": "Sędziowie przewodniczą składom, badają, rozpatrują i prowadzą sprawy sądowe, rozprawy, odwołania i procesy sądowe. Zapewniają zgodność procedur sądowych z konwencjonalnymi procesami prawnymi oraz badają dowody i skład ławy przysięgłych. Sędziowie przewodniczą sprawom związanym z takimi dziedzinami, jak przestępczość, sprawy rodzinne, prawo cywilne, drobne roszczenia i przestępstwa nieletnich.",
+  "path": "Prawo i urzędy > Prawnicy",
+  "tasks": [
+   "Przewodniczysz rozprawie i pilnujesz jej przebiegu",
+   "Analizujesz dowody i zeznania świadków",
+   "Wydajesz wyroki i uzasadniasz je na piśmie",
+   "Sprawdzasz, czy procedury zostały zachowane"
+  ]
+ },
+ {
+  "id": 214,
+  "name": "Detektyw prywatny",
+  "desc": "Detektywi prywatni badają i analizują informacje w celu ujawnienia faktów z przyczyn osobistych, korporacyjnych lub prawnych, w zależności od klientów. Prowadzą działania w zakresie nadzoru, które obejmują wykonywanie zdjęć, sprawdzenie przeszłości i wywiady z osobami fizycznymi. Prywatni detektywi mogą być pomocni w sprawach karnych i cywilnych, kwestiach praw rodzicielskich, oszustw finansowych, nękania w internecie oraz mogą poszukiwać osób zaginionych. Zbierają oni wszystkie informacje w katalogu i przekazują je swoim klientom w celu podjęcia dalszych działań.",
+  "path": "Prawo i urzędy > Średni personel w dziedzinie prawa",
+  "tasks": [
+   "Obserwujesz osoby i robisz zdjęcia",
+   "Sprawdzasz przeszłość i powiązania ludzi",
+   "Przeprowadzasz wywiady z osobami",
+   "Szukasz osób zaginionych i śladów oszustw"
+  ]
+ },
+ {
+  "id": 215,
+  "name": "Komornik",
+  "desc": "Komornicy egzekwują nakazy sądowe, takie jak zarządzanie odzyskiwaniem należnych środków pieniężnych, przejęcie towarów oraz sprzedaż towarów w drodze aukcji publicznych w celu uzyskania należnych środków pieniężnych. Wysyłają oni również wezwania i nakazy aresztowania, aby zapewnić obecność w sądzie lub w innych procedurach sądowych.",
+  "path": "Prawo i urzędy > Średni personel w dziedzinie prawa",
+  "tasks": [
+   "Odzyskujesz należne pieniądze od dłużników",
+   "Zajmujesz majątek zgodnie z nakazem sądu",
+   "Przeprowadzasz licytacje publiczne",
+   "Wysyłasz wezwania i doręczasz nakazy"
+  ]
+ },
+ {
+  "id": 216,
+  "name": "Geolog",
+  "desc": "Geolodzy prowadzą badania nad materiałami, które tworzą ziemię. Ich uwagi zależą od celu badań. W zależności od specjalizacji geolodzy analizują, w jaki sposób na przestrzeni czasu kształtowała się Ziemia, jej warstwy geologiczne, jakość minerałów do celów górniczych, trzęsienia ziemi i aktywność wulkaniczna na potrzeby usług prywatnych, a także podobne zjawiska.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Badasz warstwy skał i ich historię",
+   "Pobierasz próbki w terenie",
+   "Rysujesz mapy geologiczne",
+   "Oceniasz jakość minerałów i zagrożenia"
+  ]
+ },
+ {
+  "id": 217,
+  "name": "Chemik",
+  "desc": "Chemicy wykonują badania laboratoryjne testując i analizując strukturę chemiczną substancji. Przekładają wyniki badań na procesy produkcji przemysłowej, które następnie są wykorzystywane do rozwoju lub ulepszenia produktów. Chemicy badają również jakość wytwarzanych produktów i ich wpływ na środowisko.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Analizujesz skład substancji w laboratorium",
+   "Testujesz jakość gotowych produktów",
+   "Przekładasz wyniki na procesy produkcji",
+   "Oceniasz wpływ produktów na środowisko"
+  ]
+ },
+ {
+  "id": 218,
+  "name": "Meteorolog",
+  "desc": "Meteorolodzy analizują procesy klimatyczne, mierzą i prognozują warunki pogodowe oraz świadczą usługi doradcze różnym użytkownikom informacji o pogodzie. Opracowują modele prognozowania pogody, opracowują instrumenty gromadzenia danych meteorologicznych oraz opracowują statystyki i bazy danych.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Mierzysz temperaturę, wiatr i ciśnienie",
+   "Analizujesz mapy i modele pogodowe",
+   "Przygotowujesz prognozy i ostrzeżenia",
+   "Doradzasz użytkownikom informacji o pogodzie"
+  ]
+ },
+ {
+  "id": 219,
+  "name": "Astronom",
+  "desc": "Astronomowie wyszukują formacji, struktur, właściwości i rozwoju ciał niebieskich i materii międzygwiezdnej. Korzystają z urządzeń naziemnych i kosmicznych w celu gromadzenia danych na temat przestrzeni do celów badawczych.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Obserwujesz niebo przez teleskopy",
+   "Analizujesz dane z teleskopów i satelitów",
+   "Badasz budowę i rozwój ciał niebieskich",
+   "Piszesz artykuły naukowe o odkryciach"
+  ]
+ },
+ {
+  "id": 220,
+  "name": "Fizyk",
+  "desc": "Fizycy to naukowcy badający zjawiska fizyczne. Koncentrują swoje badania w zależności od ich specjalizacji, która może sięgać od fizyki cząstek jądrowych do badania zjawisk zachodzących we wszechświecie. Stosują swoje ustalenia w celu poprawy społeczeństwa, przyczyniając się do rozwoju dostaw energii, leczenia chorób, rozwoju gier, najnowocześniejszych urządzeń oraz przedmiotów codziennego użytku.",
+  "path": "Nauki ścisłe > Fizycy, chemicy i geolodzy",
+  "tasks": [
+   "Projektujesz doświadczenia i je przeprowadzasz",
+   "Mierzysz zjawiska fizyczne",
+   "Tworzysz modele matematyczne zjawisk",
+   "Zastosowujesz wyniki w technice i medycynie"
+  ]
+ },
+ {
+  "id": 221,
+  "name": "Laborant chemiczny",
+  "desc": "Laboranci chemiczni monitorują procesy chemiczne i przeprowadzają badania służące analizie substancji chemicznych do celów produkcyjnych lub naukowych. Pracują w laboratoriach lub zakładach produkcyjnych, wspomagając chemików. Laboranci chemiczni wykonują czynności laboratoryjne, badają substancje chemiczne, analizują dane i informują o swojej pracy.",
+  "path": "Nauki ścisłe > Technicy nauk chemicznych i fizycznych",
+  "tasks": [
+   "Wykonujesz badania substancji według procedur",
+   "Monitorujesz procesy chemiczne w zakładzie",
+   "Notujesz i analizujesz dane z pomiarów",
+   "Zgłaszasz wyniki chemikom"
+  ]
+ },
+ {
+  "id": 222,
+  "name": "Statystyk",
+  "desc": "Statystycy gromadzą, ujmują w tabelę i, przede wszystkim, analizują informacje ilościowe pochodzące z różnych dziedzin. Interpretują i analizują badania statystyczne dotyczące takich dziedzin, jak zdrowie, demografia, finanse, przedsiębiorstwa itp., oraz doradzają w oparciu o wzorce i przygotowaną analizę.",
+  "path": "Nauki ścisłe > Matematycy i statystycy",
+  "tasks": [
+   "Zbierasz i porządkujesz dane liczbowe",
+   "Interpretujesz badania statystyczne",
+   "Szukasz wzorców w danych",
+   "Doradzasz na podstawie analizy"
+  ]
+ },
+ {
+  "id": 223,
+  "name": "Matematyk",
+  "desc": "Matematycy studiują i pogłębiają istniejące teorie matematyczne w celu poszerzenia wiedzy i znalezienia nowych paradygmatów w tej dziedzinie. Mogą oni stosować tę wiedzę do wyzwań związanych z projektami inżynieryjnymi i naukowymi w celu zagwarantowania, że pomiary, ilości i prawa matematyczne okażą się wykonalne.",
+  "path": "Nauki ścisłe > Matematycy i statystycy",
+  "tasks": [
+   "Dowodzisz twierdzeń krok po kroku",
+   "Budujesz modele matematyczne zjawisk",
+   "Szukasz wzorów w liczbach",
+   "Sprawdzasz obliczenia w projektach naukowych"
+  ]
+ },
+ {
+  "id": 224,
+  "name": "Pracownik ochrony osób i mienia",
+  "desc": "Pracownicy ochrony osób i mienia obserwują, wykrywają nieprawidłowości i zapewniają ochronę osób, budynków i mienia. Stale zapewniają bezpieczeństwo, patrolując wyznaczone obszary nieruchomości, kontrolując dostęp przy wejściach, śledząc systemy alarmowe i systemy rejestracji wideo, zwracając się do podejrzanych o okazanie dowodu tożsamości i zgłaszając naruszenia i działania niezgodne z prawem.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Patrolujesz wyznaczone obszary budynku",
+   "Kontrolujesz przepustki przy wejściu",
+   "Obserwujesz obraz z kamer",
+   "Spisujesz zgłoszenia i zdarzenia"
+  ]
+ },
+ {
+  "id": 225,
+  "name": "Ratownik wodny",
+  "desc": "Ratownicy wodni monitorują i zapewniają bezpieczeństwo na terenie obiektów wodnych, zapobiegając wszelkim sytuacjom nadzwyczajnym i reagując na nie. Wskazują potencjalne zagrożenia, doradzają w kwestii właściwego zachowania i stref niebezpiecznych, stosują techniki ratujące życie, takie jak pierwsza pomoc, oraz nadzorują działania osób przebywających na terenie obiektu wodnego.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Obserwujesz osoby w wodzie",
+   "Upominasz za niebezpieczne zachowania",
+   "Wyciągasz tonących z wody",
+   "Udzielasz pierwszej pomocy"
+  ]
+ },
+ {
+  "id": 226,
+  "name": "Strażnik miejski",
+  "desc": "Strażnicy miejscy patrolują ulice w celu egzekwowania ograniczeń parkowania, zapewnienia płynnego ruchu pojazdów, bezpieczeństwa pieszych oraz przestrzegania przepisów ruchu drogowego i parkowania. Pomagają w zwalczaniu i ograniczaniu przestępczości, udzielając pomocy podczas incydentów i świadcząc usługi patrolowe.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Kontrolujesz parkowanie na ulicach",
+   "Wystawiasz mandaty za wykroczenia",
+   "Reagujesz na zgłoszenia mieszkańców",
+   "Pomagasz przy zdarzeniach w mieście"
+  ]
+ },
+ {
+  "id": 227,
+  "name": "Strażak",
+  "desc": "Strażacy są odpowiedzialni za reagowanie kryzysowe w przypadku pożaru lub innych niebezpiecznych sytuacji. Nadzorują ewakuację osób z zagrożonych obiektów oraz ratują ofiary i zapewniają im opiekę odpowiednich specjalistów. Po usunięciu ofiar z pomieszczeń pilnują, aby pożar został ugaszony zgodnie z przepisami w zakresie bezpieczeństwa i higieny pracy. Nadzorują również sprzątanie po pożarze i ocenę szkód.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Gasisz pożary i ratujesz ludzi",
+   "Wycinasz poszkodowanych z rozbitych aut",
+   "Udzielasz pierwszej pomocy",
+   "Ćwiczysz i sprawdzasz sprzęt"
+  ]
+ },
+ {
+  "id": 228,
+  "name": "Strażnik więzienny",
+  "desc": "Strażnicy więzienni sprawują nadzór nad więźniami w zakładach karnych i zapewniają bezpieczeństwo i utrzymanie porządku w placówce. Przeprowadzają kontrole i przeszukania w celu zapewnienia zgodności z przepisami, monitorują odwiedziny i działania więźniów oraz uczestniczą w programach rehabilitacyjnych, a także zapewniają prowadzenie rejestrów.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Liczysz i kontrolujesz osadzonych",
+   "Przeszukujesz cele",
+   "Nadzorujesz widzenia i spacery",
+   "Prowadzisz dokumentację zdarzeń"
+  ]
+ },
+ {
+  "id": 229,
+  "name": "Policjant",
+  "desc": "Policjanci stosują metody dochodzeniowe mające na celu zapobieganie przestępczości, ściganie i zatrzymywanie przestępców oraz ochronę ludności przed przemocą i działaniami przestępczymi. Prowadzą działania w zakresie nadzoru i patrolowania mające na celu zapobieganie przestępstwom i zatrzymywanie przestępców. Udzielają pomocy poszkodowanym i ogółowi społeczeństwa oraz wykonują zadania administracyjne.",
+  "path": "Bezpieczeństwo i wojsko > Strażacy, policjanci, ochrona",
+  "tasks": [
+   "Patrolujesz i reagujesz na zgłoszenia",
+   "Zatrzymujesz podejrzanych",
+   "Przesłuchujesz świadków i poszkodowanych",
+   "Piszesz protokoły i notatki"
+  ]
+ },
+ {
+  "id": 230,
+  "name": "Oficer sił zbrojnych",
+  "desc": "Oficerowie sił zbrojnych nadzorują działania i manewry, wyznaczają obowiązki i dowodzą podwładnymi. Zapewniają oni skuteczną komunikację wewnątrz jednostek i między nimi oraz wykonują obowiązki szkoleniowe. Prowadzą również obsługę sprzętu i nadzorują jego utrzymanie.",
+  "path": "Bezpieczeństwo i wojsko > Oficerowie",
+  "tasks": [
+   "Wyznaczasz obowiązki podwładnym",
+   "Nadzorujesz ćwiczenia i manewry",
+   "Dbasz o łączność między jednostkami",
+   "Pilnujesz przeglądów i napraw sprzętu"
+  ]
+ },
+ {
+  "id": 231,
+  "name": "Pilot wojskowy",
+  "desc": "Piloci wojskowi pilotują samoloty w ramach misji bojowych, misji patrolowych lub misji poszukiwawczych i ratowniczych. Zapewniają oni obsługę techniczną samolotu i komunikują się z bazami sił powietrznych i innymi statkami w celu zapewnienia bezpieczeństwa i skuteczności działania.",
+  "path": "Bezpieczeństwo i wojsko > Żołnierze",
+  "tasks": [
+   "Pilotujesz samolot na misjach",
+   "Sprawdzasz maszynę przed lotem",
+   "Komunikujesz się z bazą przez radio",
+   "Planujesz trasę i zapas paliwa"
+  ]
+ },
+ {
+  "id": 232,
+  "name": "Saper",
+  "desc": "Saperzy przeszukują obszary za pomocą specjalnych urządzeń, takich jak wykrywacze metalu lub wykorzystując wyszkolone zwierzęta, pod kątem min lądowych i bomb oraz usuwają materiały wybuchowe zgodnie z przepisami bezpieczeństwa. Po przeszukaniu i zlokalizowaniu min i bomb, rozbrajają je, aby uniknąć wszelkiego ryzyka detonacji oraz aby zapewnić, że obszar zostanie oczyszczony przed procedurami rozbrajania i usuwania.",
+  "path": "Bezpieczeństwo i wojsko > Żołnierze",
+  "tasks": [
+   "Przeszukujesz teren wykrywaczem metali",
+   "Rozbrajasz miny i bomby",
+   "Pracujesz z wyszkolonym psem",
+   "Oczyszczasz teren z niebezpiecznych przedmiotów"
+  ]
+ },
+ {
+  "id": 233,
+  "name": "Żołnierz sił zbrojnych",
+  "desc": "Żołnierze sił zbrojnych walczą w misjach bojowych lub udzielają pomocy w misjach pokojowych i innych misjach humanitarnych. Zajmują się oni bronią i świadczą usługi w zakresie obrony, w przypadku gdy są one wymagane, oraz podejmują próby zakończenia misji, powodując minimalne szkody.",
+  "path": "Bezpieczeństwo i wojsko > Żołnierze",
+  "tasks": [
+   "Ćwiczysz strzelanie i taktykę",
+   "Obsługujesz broń i sprzęt",
+   "Uczestniczysz w misjach pokojowych",
+   "Trenujesz kondycję codziennie"
+  ]
+ },
+ {
+  "id": 234,
+  "name": "Policjant służby kryminalnej",
+  "desc": "Policjanci służby kryminalnej badają i analizują miejsca przestępstw i znalezione tam dowody. Zbierają i chronią dowody zgodnie z zasadami i przepisami oraz izolują miejsce przestępstwa od wpływów z zewnątrz. Fotografują miejsce przestępstwa, dopilnowują zachowania dowodów i sporządzają sprawozdania.",
+  "path": "Bezpieczeństwo i wojsko > Policjanci służby kryminalnej",
+  "tasks": [
+   "Odgradzasz i zabezpieczasz miejsce zdarzenia",
+   "Fotografujesz ślady i dowody",
+   "Zbierasz dowody zgodnie z przepisami",
+   "Sporządzasz dokładne sprawozdania"
+  ]
+ },
+ {
+  "id": 235,
+  "name": "Animator obiektów trójwymiarowych",
+  "desc": "Animatorzy obiektów trójwymiarowych są odpowiedzialni za animację modeli 3D przedmiotów, otoczenia wirtualnego, wzorów, znaków i wirtualnych animowanych postaci 3D.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Animujesz postacie 3D",
+   "Poruszasz przedmioty w wirtualnym otoczeniu",
+   "Poprawiasz ruchy po uwagach reżysera",
+   "Dopracowujesz płynność animacji"
+  ]
+ },
+ {
+  "id": 236,
+  "name": "Grafik komputerowy 3D",
+  "desc": "Graficy komputerowi 3D projektują modele 3D przedmiotów, otoczenia wirtualnego, wzorów, znaków i wirtualnych animowanych postaci 3D.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Modelujesz bryły postaci i przedmiotów",
+   "Nakładasz tekstury i kolory",
+   "Ustawiasz światło i kamerę w scenie",
+   "Poprawiasz model według uwag zespołu"
+  ]
+ },
+ {
+  "id": 237,
+  "name": "Ilustrator",
+  "desc": "Ilustratorzy zapewniają prezentację wizualną odpowiadającą treści powiązanego tekstu lub koncepcji. Ilustratorzy mogą pomóc w objaśnieniu trudnych pojęć lub przedmiotów, które są trudne do opisania za pomocą tekstu. Ilustratorzy mogą pracować dla książek, magazynów, czasopism, komiksów i innych publikacji.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Czytasz tekst i szukasz obrazu",
+   "Szkicujesz kilka wersji dla redaktora",
+   "Rysujesz gotową ilustrację ręcznie lub cyfrowo",
+   "Nanosisz poprawki zamawiającego"
+  ]
+ },
+ {
+  "id": 238,
+  "name": "Projektant gier",
+  "desc": "Projektanci gier opracowują układ, logikę, koncepcję i grywalność gry. Koncentrują się na projekcie obszaru gry, specyfikacjach technicznych oraz wpisach właściwości numerycznych, które równoważą grywalność.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Opisujesz zasady i cel gry",
+   "Planujesz mapy i mechaniki",
+   "Ustawiasz liczby, jak siła i życie postaci",
+   "Testujesz grę i zbierasz opinie graczy"
+  ]
+ },
+ {
+  "id": 239,
+  "name": "Projektant grafiki",
+  "desc": "Projektanci grafiki tworzą tekst i obrazy, aby przekazać pomysły. Tworzą koncepcje wizualne ręcznie lub za pomocą komputerowego oprogramowania, które są przeznaczone do publikowania w prasie papierowej lub w internecie, takie jak reklamy, strony internetowe i magazyny.",
+  "path": "Projektowanie i grafika > Architekci i projektanci",
+  "tasks": [
+   "Rozmawiasz z klientem o tym, co chce przekazać",
+   "Szkicujesz kilka pomysłów",
+   "Składasz projekt w programie graficznym",
+   "Przygotowujesz pliki do druku lub internetu"
+  ]
+ }
+]

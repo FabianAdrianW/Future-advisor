@@ -129,6 +129,12 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
 .prose { font-size: 16px; line-height: 24px; text-wrap: pretty; }
 .checks { display: flex; flex-direction: column; gap: 10px; }
 .checks li { display: grid; grid-template-columns: 24px 1fr; gap: 10px; font-size: 15px; line-height: 22px; }
+.skl { display: flex; flex-direction: column; gap: 14px; }
+.skl li { display: grid; grid-template-columns: 10px 1fr; gap: 12px; }
+.skl li::before { content: ''; width: 10px; height: 10px; border-radius: 50%; background: var(--c, var(--N)); margin-top: 7px; }
+.skl.nice li::before { background: transparent; box-shadow: inset 0 0 0 2.5px var(--c, var(--N)); }
+.skl b { display: block; font-size: 16px; line-height: 22px; font-weight: 700; }
+.skl span { display: block; font-size: 14px; line-height: 20px; color: var(--muted); text-wrap: pretty; }
 .checks svg { width: 22px; height: 22px; color: var(--c, var(--N)); margin-top: 0; }
 .day li { position: relative; display: grid; grid-template-columns: 50px 18px 1fr; column-gap: 8px; padding-bottom: 16px; font-size: 15px; line-height: 22px; }
 .day li:last-child { padding-bottom: 0; }
@@ -389,6 +395,8 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     if (gen) { x.hook = gen.hook; x.tasks = gen.tasks; x.day = gen.day; x.try = gen.try; }
     return { x: x, kind: gen ? 'mixed' : 'base', g: g };
   }
+  function skillsOf(n) { return SK[n.fn || n.n] || null; }
+  function skillList(items, cls, c) { return '<div class="card"><ul class="skl' + cls + '" style="--c:' + c + '">' + items.map(function (s) { return '<li><div><b>' + esc(s[0]) + '</b><span>' + esc(s[1]) + '</span></div></li>'; }).join('') + '</ul></div>'; }
   function routesOf(n) {
     var x = detailOf(n).x;
     return x.routes && x.routes.length ? x.routes : null;
@@ -523,6 +531,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
       (limit < all.length ? '<button type="button" class="more" data-act="more">Pokaż kolejne ' + Math.min(PAGE, all.length - limit) + ' <span>· zostało ' + (all.length - limit) + '</span></button>' : '') + '</div></section>';
     return h;
   }
+  var SK = DATA.sk || {};
   var PAY = DATA.pay || {}, CITIES = DATA.cities || [], MINPAY = DATA.minpay || 0, cityOpen = false;
   var money = function (x) { return String(x).replace(/\B(?=(\d{3})+$)/g, '\u00a0'); };
   function payOf(n) {
@@ -566,7 +575,10 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     var x = d.x, c = v(topRoots(n.w, 1)[0]), p = profile(), h = '';
     if (x.tasks && x.tasks.length) h += '<section class="sec"><h2>Co robisz</h2><div class="card"><ul class="checks" style="--c:' + c + '">' + x.tasks.map(function (t) { return '<li>' + CHECK + '<span>' + esc(t) + '</span></li>'; }).join('') + '</ul></div></section>';
     if (x.day && x.day.length) h += '<section class="sec"><h2>Typowy dzień</h2><div class="card"><ol class="day" style="--c:' + c + '">' + x.day.map(function (d) { return '<li><span class="t">' + esc(d[0]) + '</span><span class="dot"></span><span>' + esc(d[1]) + '</span></li>'; }).join('') + '</ol></div></section>';
-    if (x.skills && x.skills.length) h += '<section class="sec"><div class="sec-h"><h2>Co trzeba umieć</h2><p>Kolor to korzeń.' + (hasProfile() ? ' Wypełnione są blisko tego, co lubisz.' : '') + '</p></div><div class="chips">' + x.skills.map(function (s) {
+    var sk = skillsOf(n);
+    if (sk) h += '<section class="sec" id="sk-must"><div class="sec-h"><h2>Musisz umieć</h2><p>Bez tego nie da się wykonywać tej pracy.</p></div>' + skillList(sk.m, '', c) + '</section>' +
+      '<section class="sec" id="sk-nice"><div class="sec-h"><h2>Warto umieć</h2><p>Daje przewagę albo otwiera specjalizację.</p></div>' + skillList(sk.w, ' nice', c) + '<p class="small">Listę umiejętności napisało AI. Nie sprawdzały jej jeszcze osoby pracujące w tym zawodzie.</p></section>';
+    if (x.skills && x.skills.length) h += '<section class="sec"><div class="sec-h"><h2>' + (sk ? 'Cechy, które pomagają' : 'Co trzeba umieć') + '</h2><p>Kolor to korzeń.' + (hasProfile() ? ' Wypełnione są blisko tego, co lubisz.' : '') + '</p></div><div class="chips">' + x.skills.map(function (s) {
       var i = 'LSPRNO'.indexOf(s[1]);
       if (i < 0) return '<span class="chip off">' + esc(s[0]) + '</span>';
       return '<span class="chip' + (hasProfile() && !p[i] ? ' off' : '') + '" style="--t:' + v(i, '-t') + ';--d:' + v(i, '-d') + ';--c:' + v(i) + '"><i></i>' + esc(s[0]) + '</span>';
@@ -574,7 +586,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     if ((x.plus && x.plus.length) || (x.minus && x.minus.length)) h += '<section class="sec"><h2>Plusy i minusy</h2><div class="pm"><div class="card" style="--c:var(--N)"><h3 style="color:var(--N-d)">Fajne</h3><ul>' + (x.plus || []).map(function (t) { return '<li>' + esc(t) + '</li>'; }).join('') + '</ul></div><div class="card" style="--c:var(--P)"><h3 style="color:var(--P-d)">Trudne</h3><ul>' + (x.minus || []).map(function (t) { return '<li>' + esc(t) + '</li>'; }).join('') + '</ul></div></div></section>';
     h += routeSection(n);
     if (x.try) h += '<section class="sec"><div class="card try">' + img('light-bulb', '', 56) + '<div><b>Spróbuj dziś</b><p>' + esc(x.try) + '</p></div></div></section>';
-    h += '<p class="small" style="padding-inline:16px">' + (d.kind === 'own' ? 'Opis przygotowany na potrzeby prototypu, do sprawdzenia z osobami z zawodu.' : 'Umiejętności, plusy, minusy i droga są typowe dla grupy zawodów „' + esc(d.g ? d.g.n : '') + '”.' + (d.kind === 'mixed' ? ' Zadania i typowy dzień napisało AI na podstawie opisu zawodu, więc mogą zawierać błędy.' : '')) + '</p>';
+    h += '<p class="small" style="padding-inline:16px">' + (d.kind === 'own' ? 'Opis przygotowany na potrzeby prototypu, do sprawdzenia z osobami z zawodu.' : (sk ? 'Cechy, plusy' : 'Umiejętności, plusy') + ', minusy i droga są typowe dla grupy zawodów „' + esc(d.g ? d.g.n : '') + '”.' + (d.kind === 'mixed' ? ' Zadania i typowy dzień napisało AI na podstawie opisu zawodu, więc mogą zawierać błędy.' : '')) + '</p>';
     return h;
   }
   function aiSlot(n) {

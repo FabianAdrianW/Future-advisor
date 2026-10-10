@@ -10,7 +10,10 @@ Aplikacja mobilna (PWA) dla młodych ludzi: drzewo zawodów, opisy pracy, potrze
 - Ilustracje: Fluent Emoji, Microsoft (MIT).
 - Czcionki: Figtree, Bricolage Grotesque (SIL OFL 1.1).
 
-Opisy zawodów zostały napisane z pomocą AI i nie były weryfikowane przez praktyków.
+Opisy zawodów i listy umiejętności zostały napisane z pomocą AI i nie były weryfikowane przez praktyków.
+
+## Umiejętności per zawód
+`source/skills/` – „Musisz umieć” i „Warto umieć” dla 300 zawodów (lista w `jobs.json`, treść w `out/*.txt`, format w `INSTRUKCJA.md`, kontrola: `python3 skills/validate.py`). Pozostałe zawody pokazują cechy swojej grupy. Build: `python3 source/build_pwa.py` (pisze do `docs/`).
 
 ## Zarobki
 Widełki to szacunek: mediana płac GUS dla grupy zawodów („Struktura wynagrodzeń według zawodów", październik 2024, w przeliczeniu na 2025 wg kalkulatory-place.pl) × korekta miasta (połowa różnicy między przeciętną płacą w mieście wojewódzkim a średnią krajową, GUS, marzec 2026, wg wynagrodzenia.pl). Widełki: od −20% do +25% wokół mediany, nie mniej niż płaca minimalna.

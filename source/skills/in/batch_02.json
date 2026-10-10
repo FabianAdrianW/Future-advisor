@@ -1,0 +1,722 @@
+[
+ {
+  "id": 120,
+  "name": "Lekarz – specjalista",
+  "desc": "Lekarze specjaliści zapobiegają, diagnozują i leczą choroby w zależności od ich specjalizacji medycznej lub chirurgicznej.",
+  "path": "Medycyna i zdrowie > Lekarze",
+  "tasks": [
+   "Przyjmujesz pacjentów i zbierasz wywiad",
+   "Zlecasz badania i oceniasz ich wyniki",
+   "Ustalasz rozpoznanie i plan leczenia",
+   "Wykonujesz zabiegi albo konsultujesz przypadki z innymi lekarzami"
+  ]
+ },
+ {
+  "id": 121,
+  "name": "Podolog",
+  "desc": "Podolodzy zajmują się zdrowiem stóp: usuwają odciski i modzele, pomagają przy wrastających paznokciach, dobierają wkładki. Przy poważniejszych zmianach kierują do lekarza.",
+  "path": "Medycyna i zdrowie",
+  "tasks": [
+   "Usuwasz odciski i modzele",
+   "Pomagasz przy wrastających paznokciach",
+   "Oglądasz stopy i oceniasz ich stan",
+   "Dobierasz wkładki do butów"
+  ]
+ },
+ {
+  "id": 122,
+  "name": "Trener psów / trenerka psów",
+  "desc": "Trenerzy/trenerki psów zajmują się szkoleniem zwierząt i/lub treserów i opiekunów psów w celach ogólnych i szczegółowych w zakresie pomocy, bezpieczeństwa, wypoczynku, konkurencji, transportu, posłuszeństwa oraz rutynowego postępowania, rozrywki i edukacji zgodnie z krajowymi przepisami.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Uczysz psa siadu, zostania i przywołania",
+   "Pokazujesz właścicielowi, jak nagradzać psa",
+   "Rozwiązujesz problemy, na przykład ciągnięcie na smyczy",
+   "Przygotowujesz psy do pracy lub zawodów"
+  ]
+ },
+ {
+  "id": 123,
+  "name": "Opiekun zwierząt",
+  "desc": "Opiekunowie zwierząt zajmują się wykonywaniem czynności pielęgnacyjnych różnych zwierząt przy użyciu właściwego sprzętu, materiałów i metod. Ich praca wymaga stosowania odpowiednich i bezpiecznych technik obchodzenia się ze zwierzętami oraz promowanie właściwej higieny, zdrowia i dobrostanu zwierzęcia.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Czeszesz i myjesz zwierzęta",
+   "Dobierasz właściwe narzędzia do pielęgnacji",
+   "Bezpiecznie podnosisz i przytrzymujesz zwierzęta",
+   "Czyścisz miejsca, gdzie zwierzęta mieszkają"
+  ]
+ },
+ {
+  "id": 124,
+  "name": "Pracownik schroniska dla zwierząt",
+  "desc": "Pracownicy schronisk dla zwierząt świadczą rutynowe usługi w zakresie opieki nad zwierzętami w schronisku dla zwierząt. Przyjmują zwierzęta oddawane do schroniska, reagują na zgłoszenia o zagubionych lub rannych zwierzętach, karmią zwierzęta, sprzątają klatki, zajmują się dokumentacją dotyczącą adopcji zwierząt, wożą zwierzęta do weterynarza i prowadzą bazę danych zwierząt przebywających w schronisku.",
+  "path": "Rolnictwo, las i zwierzęta > Opiekunowie zwierząt",
+  "tasks": [
+   "Przyjmujesz i rejestrujesz nowe zwierzęta",
+   "Karmisz zwierzęta i sprzątasz klatki",
+   "Wypełniasz dokumenty adopcji",
+   "Wozisz zwierzęta do weterynarza"
+  ]
+ },
+ {
+  "id": 125,
+  "name": "Ogrodnik/ogrodniczka",
+  "desc": "Ogrodnicy/ogrodniczki zajmują się planowaniem, zakładaniem, renowacją i utrzymaniem parków, ogrodów i publicznych terenów zielonych.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Sadzisz drzewa, krzewy i kwiaty",
+   "Kosisz trawniki i przycinasz żywopłoty",
+   "Podlewasz i pielisz rabaty",
+   "Odnawiasz zaniedbane fragmenty parku"
+  ]
+ },
+ {
+  "id": 126,
+  "name": "Pszczelarz",
+  "desc": "Pszczelarze nadzorują chów i codzienną opiekę nad pszczołami. Dbają o zdrowie i dobrostan pszczół.",
+  "path": "Rolnictwo, las i zwierzęta > Hodowcy zwierząt",
+  "tasks": [
+   "Otwierasz ule i oglądasz ramki",
+   "Sprawdzasz, czy rodzina pszczela jest zdrowa",
+   "Zbierasz i odwirowujesz miód",
+   "Dokarmiasz pszczoły przed zimą"
+  ]
+ },
+ {
+  "id": 127,
+  "name": "Technik weterynarii",
+  "desc": "Technicy weterynarii zapewniają wsparcie techniczne i administracyjne lekarzowi weterynarii zgodnie z ustawodawstwem krajowym.",
+  "path": "Rolnictwo, las i zwierzęta > Technicy weterynarii",
+  "tasks": [
+   "Przytrzymujesz zwierzę podczas badania",
+   "Pobierasz próbki i opisujesz je",
+   "Przygotowujesz sprzęt i gabinet",
+   "Prowadzisz karty pacjentów i rejestrację"
+  ]
+ },
+ {
+  "id": 128,
+  "name": "Lekarz weterynarii",
+  "desc": "Lekarze weterynarii są specjalistami w zakresie kompleksowego kształcenia naukowego. Są oni uprawnieni do wykonywania, w sposób niezależny, etyczny i osobiście odpowiedzialny, wszystkich aspektów medycyny weterynaryjnej, w interesie zdrowia i dobrostanu zwierząt oraz zdrowia publicznego, zgodnie z ustawodawstwem krajowym i międzynarodowym. Lekarze weterynarii o profilu ogólnym mogą pracować z dowolnym gatunkiem, ale mogą też zdecydować się na pracę z jednym gatunkiem lub rodzajem zwierząt, takich jak konie, zwierzęta towarzyszące lub zwierzęta produkcyjne.",
+  "path": "Rolnictwo, las i zwierzęta > Lekarze weterynarii",
+  "tasks": [
+   "Badasz i diagnozujesz zwierzęta",
+   "Szczepisz, operujesz, opatrujesz rany",
+   "Robisz USG, rentgen i badania krwi",
+   "Doradzasz właścicielom"
+  ]
+ },
+ {
+  "id": 129,
+  "name": "Rolnik produkcji roślinnej i zwierzęcej",
+  "desc": "Rolnicy produkcji roślinnej i zwierzęcej są odpowiedzialni za zarządzanie wszystkimi aspektami związanymi z chowem zwierząt i produkcją rolną w ramach działalności małego przedsiębiorstwa lub do celów samowystarczalności żywnościowej.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy upraw i hodowli",
+  "tasks": [
+   "Siejesz i zbierasz uprawy",
+   "Karmisz i doglądasz zwierzęta",
+   "Naprawiasz sprzęt, ogrodzenia i budynki",
+   "Planujesz, co i kiedy uprawiać"
+  ]
+ },
+ {
+  "id": 130,
+  "name": "Strażnik leśny",
+  "desc": "Strażnicy leśni są odpowiedzialni za ochronę i zachowanie zasobów naturalnych, w szczególności w odniesieniu do lasów i terenów zalesionych.",
+  "path": "Rolnictwo, las i zwierzęta",
+  "tasks": [
+   "Patrolujesz las pieszo lub samochodem terenowym",
+   "Wykrywasz nielegalne wysypiska i wycinkę",
+   "Pilnujesz, by turyści przestrzegali zasad",
+   "Zapisujesz obserwacje o stanie lasu"
+  ]
+ },
+ {
+  "id": 131,
+  "name": "Florysta",
+  "desc": "Floryści układają kompozycje z kwiatów i roślin: bukiety, dekoracje ślubne, wystrój wnętrz. Dobierają rośliny do okazji, dbają o ich świeżość i doradzają klientom.",
+  "path": "Rolnictwo, las i zwierzęta",
+  "tasks": [
+   "Dobierasz kwiaty do okazji i życzeń klienta",
+   "Układasz i wiążesz bukiety",
+   "Robisz dekoracje na śluby i do wnętrz",
+   "Przycinasz łodygi i pilnujesz świeżości kwiatów"
+  ]
+ },
+ {
+  "id": 132,
+  "name": "Artysta malarz",
+  "desc": "Artyści malarze tworzą obrazy olejne, akwarele lub pastele, miniatury, kolaże i rysunki wykonane bezpośrednio przez artystę i/lub całkowicie pod ich kontrolą.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Szkicujesz kompozycję przed malowaniem",
+   "Mieszasz farby i dobierasz kolory",
+   "Malujesz obraz warstwa po warstwie",
+   "Pokazujesz prace w galerii lub je sprzedajesz"
+  ]
+ },
+ {
+  "id": 133,
+  "name": "Rysownik",
+  "desc": "Rysownicy wyrażają idee poprzez przedstawienie ich w postaci graficznej.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Szkicujesz pomysły ołówkiem",
+   "Zamieniasz opis zleceniodawcy na rysunek",
+   "Poprawiasz rysunek po uwagach klienta",
+   "Wykańczasz rysunek w wybranej technice"
+  ]
+ },
+ {
+  "id": 134,
+  "name": "Komik",
+  "desc": "Komicy opowiadają żartobliwe historie, żarty i dowcipy zazwyczaj określane jako monologi lub akty. Często występują w teatrach variete, barach, klubach nocnych i teatrach. Mogą również wykorzystywać muzykę, magiczne sztuki i rekwizyty dla uatrakcyjnienia występu.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Piszesz i poprawiasz własne dowcipy",
+   "Uczysz się tekstu na pamięć",
+   "Wypróbowujesz materiał na małych scenach",
+   "Dostosowujesz występ do reakcji sali"
+  ]
+ },
+ {
+  "id": 135,
+  "name": "Muzyk",
+  "desc": "Muzycy wykonują partię wokalną lub muzyczną, która może być nagrana lub odtwarzana dla publiczności. Dysponują wiedzą fachową i praktyką w odniesieniu do jednego lub wielu instrumentów lub wykorzystania głosu. Muzycy mogą również tworzyć i zapisywać muzykę.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Ćwiczysz trudne fragmenty na instrumencie",
+   "Grasz na próbach z zespołem",
+   "Występujesz na koncertach",
+   "Nagrywasz utwory w studiu lub w domu"
+  ]
+ },
+ {
+  "id": 136,
+  "name": "Wokalista",
+  "desc": "Wokaliści są zawodowymi muzykami, wyszkolonymi pod względem posługiwania się głosem jako instrumentem muzycznym o różnych skalach. Występują przed publicznością na żywo i uczestniczą w nagraniach, wykonując różne gatunki muzyczne.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Rozgrzewasz głos przed śpiewaniem",
+   "Uczysz się tekstów i melodii",
+   "Śpiewasz na koncertach i w studiu",
+   "Ćwiczysz oddech i czystość dźwięku"
+  ]
+ },
+ {
+  "id": 137,
+  "name": "Kompozytor",
+  "desc": "Kompozytorzy tworzą nowe utwory w różnych stylach. Utwór zapisują zazwyczaj notacją muzyczną. Kompozytorzy mogą pracować niezależnie albo w ramach grupy lub zespołu. Wielu z nich tworzy utwory do filmów, telewizji, gier lub występów na żywo.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Szukasz pomysłu na melodię",
+   "Zapisujesz utwór w nutach",
+   "Dopasowujesz muzykę do obrazu lub sceny",
+   "Poprawiasz utwór po uwagach zespołu"
+  ]
+ },
+ {
+  "id": 138,
+  "name": "Producent muzyczny",
+  "desc": "Producenci muzyczni odpowiadają za zakup muzyki do produkcji. Słuchają wersji demo piosenek i decydują, czy są one dostatecznie dobre, żeby można je było opublikować. Producenci muzyczni nadzorują produkcję nagrań. Zajmują się technicznymi aspektami nagrań i montażu.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Słuchasz nadesłanych nagrań demo",
+   "Wybierasz piosenki do wydania",
+   "Nadzorujesz sesję nagraniową w studiu",
+   "Dopracowujesz brzmienie podczas montażu"
+  ]
+ },
+ {
+  "id": 139,
+  "name": "Montażysta obrazu",
+  "desc": "Montażyści obrazu są odpowiedzialni za cięcie i montaż surowego materiału w sposób logiczny i estetyczny, na potrzeby filmów, seriali telewizyjnych lub do celów prywatnych. Reorganizują zarejestrowane sceny i decydują o potrzebie dodania efektów specjalnych. Montażyści obrazu ściśle współpracują z montażystami dźwięku i reżyserami muzycznymi.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Przeglądasz godziny surowego materiału",
+   "Tniesz ujęcia i układasz kolejność scen",
+   "Dobierasz tempo cięć do emocji",
+   "Ustalasz z reżyserem poprawki"
+  ]
+ },
+ {
+  "id": 140,
+  "name": "Choreograf",
+  "desc": "Choreografowie tworzą sekwencje ruchów o określonych ruchach i/lub formie. Niektórzy choreografowie przyjmują również na siebie zadanie koordynowania, uczenia i prowadzenia prób z artystami w procesie tworzenia choreografii. Mogą także pełnić funkcję trenera ruchu dla aktorów.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Wymyślasz kroki do wybranej muzyki",
+   "Uczysz tancerzy gotowego układu",
+   "Poprawiasz ruchy na próbach",
+   "Ustawiasz ludzi na scenie"
+  ]
+ },
+ {
+  "id": 141,
+  "name": "Tancerz / tancerka",
+  "desc": "Tancerze interpretują pojęcia, uczucia, historie i postaci dla odbiorców, wykorzystując do tego celu ruch i język ciała, w większości w połączeniu z muzyką. Zwykle wiąże się to z interpretacją dzieła choreografa lub tradycyjnego repertuaru, chociaż może czasami wymagać improwizacji.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Trenujesz codziennie rozgrzewkę i technikę",
+   "Uczysz się układu od choreografa",
+   "Ćwiczysz na próbach z partnerem",
+   "Występujesz przed publicznością na scenie"
+  ]
+ },
+ {
+  "id": 142,
+  "name": "Aktor / aktorka",
+  "desc": "Aktorzy grają role w przestawieniach scenicznych na żywo, w telewizji, radiu, nagraniach wideo, filmach i innych okolicznościach dla celów rozrywkowych lub szkoleniowych. Używają języka ciała (gestów i tańca) oraz głosu (słów i śpiewu) dla przedstawienia postaci lub opowieści zgodnie ze scenariuszem i wskazówkami reżysera.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Uczysz się tekstu na pamięć",
+   "Budujesz postać głosem i gestem",
+   "Grasz na próbach i na planie",
+   "Zmieniasz grę po uwagach reżysera"
+  ]
+ },
+ {
+  "id": 143,
+  "name": "Aktor głosowy / aktorka głosowa",
+  "desc": "Aktorzy głosowi odgrywają dialogi między animowanymi postaciami w telewizji lub filmach. Wczuwają się w role swoich bohaterów i ożywiają ich swoim głosem.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Czytasz scenariusz i poznajesz postać",
+   "Nagrywasz kwestie przy mikrofonie w kabinie",
+   "Dopasowujesz głos do ruchu ust postaci",
+   "Powtarzasz ujęcia, aż reżyser się zgodzi"
+  ]
+ },
+ {
+  "id": 144,
+  "name": "Tatuażysta",
+  "desc": "Artyści sztuki ciała tymczasowo lub trwale ozdabiają skórę klientów. Stosują różne techniki, takie jak tatuaże lub piercing. Artyści sztuki ciała podążają za preferencjami klientów pod względem projektu tatuażu lub piercingu i powierzchni ciała oraz stosują go w bezpieczny sposób. Doradzają również w kwestii metod unikania zakażenia w następstwie zabiegów wykonywanych na ciele klientów.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Rysujesz projekt razem z klientem",
+   "Wykonujesz tatuaż lub piercing",
+   "Dezynfekujesz stanowisko przed klientem",
+   "Tłumaczysz, jak pielęgnować skórę po zabiegu"
+  ]
+ },
+ {
+  "id": 145,
+  "name": "Kaskader",
+  "desc": "Kaskaderzy wykonują czynności, które są zbyt niebezpieczne dla aktorów, których aktorzy nie są w stanie wykonać fizycznie lub które wymagają specjalistycznych umiejętności, takich jak sceny walki, skoki z budynków, taniec i inne.",
+  "path": "Sztuka, scena i film > Technicy sztuki i kultury",
+  "tasks": [
+   "Ćwiczysz upadki i walkę",
+   "Planujesz scenę krok po kroku",
+   "Wykonujesz niebezpieczne sceny za aktora",
+   "Sprawdzasz zabezpieczenia przed ujęciem"
+  ]
+ },
+ {
+  "id": 146,
+  "name": "Operator dźwięku",
+  "desc": "Operatorzy dźwięku kontrolują dźwięk w przedstawieniu w oparciu o koncepcję artystyczną lub twórczą, w interakcji z wykonawcami. Ich praca ma wpływ na wyniki innych techników obsługi i pozostaje pod ich wpływem. W związku z tym operatorzy dźwięku ściśle współpracują z projektantami i wykonawcami. Przygotowują oni fragmenty dźwięku, nadzorują ustawienia, kierują personelem technicznym, programują urządzenia i obsługują system dźwiękowy. Ich praca opiera się na planach, instrukcjach i innych dokumentach.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Rozstawiasz i podłączasz mikrofony i głośniki",
+   "Ustawiasz głośność i barwę każdego źródła",
+   "Nagrywasz i montujesz dźwięk",
+   "Reagujesz na żywo, gdy coś pójdzie nie tak"
+  ]
+ },
+ {
+  "id": 147,
+  "name": "Operator kamery",
+  "desc": "Operatorzy kamer instalują i obsługują kamery filmowe w celu lokalnego nagrania filmów lub programów telewizyjnych. Pracują razem z reżyserem filmowym, dyrektorem fotografii lub klientem prywatnym. Operatorzy kamer udzielają porad na temat nagrywania scen aktorom, reżyserowi filmowemu oraz innym operatorom kamer.",
+  "path": "Sztuka, scena i film > Technicy dźwięku, obrazu i nadawania",
+  "tasks": [
+   "Ustawiasz kamerę i kadr",
+   "Filmujesz sceny na planie",
+   "Doradzasz, jak ująć scenę",
+   "Przenosisz kamerę w czasie ujęcia"
+  ]
+ },
+ {
+  "id": 148,
+  "name": "Model/modelka",
+  "desc": "Modele/modelki pomagają w promowaniu produktów, takich jak odzież, kosmetyki i urządzenia, pozując dla dziennikarzy, fotografów i przed publicznością na wybiegach. Muszą stale dbać o swój wygląd. Modele/modelki specjalizujące się w sesjach modowych muszą dobrze prezentować się przed obiektywem i przyjmować odpowiednie pozy.",
+  "path": "Sztuka, scena i film > Modele i modelki",
+  "tasks": [
+   "Pozujesz dla fotografa w kolejnych ubraniach",
+   "Przechodzisz po wybiegu przed publicznością",
+   "Przymierzasz stroje i poprawiasz ich ułożenie",
+   "Przygotowujesz się do sesji, dbając o skórę i włosy"
+  ]
+ },
+ {
+  "id": 149,
+  "name": "Analityk danych",
+  "desc": "Analitycy danych importują, kontrolują, czyszczą, przekształcają, zatwierdzają, modelują lub interpretują zbiory danych w odniesieniu do celów działalności firmy. Dbają, żeby źródła i repozytoria danych zapewniały spójne i wiarygodne dane. Analitycy danych stosują różne algorytmy i narzędzia informatyczne odpowiednio do sytuacji i aktualnych danych. Mogą przygotowywać sprawozdania w formie wizualizacji, np. wykresów, tabel i zestawień.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Zbierasz i porządkujesz dane z różnych źródeł",
+   "Liczysz, porównujesz i szukasz wzorców",
+   "Robisz wykresy, które każdy zrozumie",
+   "Tłumaczysz wyniki ludziom, którzy podejmują decyzje"
+  ]
+ },
+ {
+  "id": 150,
+  "name": "Badacz UX",
+  "desc": "Analitycy środowiska użytkownika oceniają interakcję i doświadczenie klientów oraz analizują zachowania, postawy i emocje użytkowników dotyczące korzystania z danego produktu, systemu lub usługi. Proponują sposoby ulepszenia interfejsu i użyteczności produktów, systemów lub usług. Biorą przy tym pod uwagę praktyczne, wynikające z doświadczenia, afektywne, istotne i wartościowe aspekty interakcji między człowiekiem a komputerem i własności produktu, a także postrzeganie przez daną osobę aspektów systemowych, takich jak użyteczność, łatwość korzystania i skuteczność oraz dynamikę doświadczenia użytkownika.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Obserwujesz, jak użytkownicy wykonują zadania",
+   "Prowadzisz rozmowy o ich odczuciach",
+   "Zapisujesz, w którym miejscu się gubią lub irytują",
+   "Proponujesz poprawki w interfejsie"
+  ]
+ },
+ {
+  "id": 151,
+  "name": "Informatyk",
+  "desc": "Informatycy prowadzą badania w dziedzinie informatyki i informacji, ukierunkowane na zwiększenie wiedzy i zrozumienia podstawowych aspektów zjawisk TIK. Sporządzają sprawozdania z badań i formułują propozycje. Informatycy opracowują również i projektują nowe podejścia do technologii obliczeniowych, poszukują nowatorskich zastosowań dla istniejących technologii i badań oraz rozwiązują złożone problemy obliczeniowe.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Czytasz opracowania innych badaczy",
+   "Projektujesz nowe podejścia do obliczeń",
+   "Szukasz nowych zastosowań istniejących technologii",
+   "Piszesz sprawozdania z wynikami badań"
+  ]
+ },
+ {
+  "id": 152,
+  "name": "Tester gier cyfrowych",
+  "desc": "Testerzy gier cyfrowych analizują i testują różne rodzaje gier cyfrowych w praktyce w celu wykrycia błędów i usterek funkcjonalności lub grafiki. Mogą oceniać atrakcyjność i grywalność. Mogą także samodzielnie usuwać usterki.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Przechodzisz ten sam fragment gry wielokrotnie",
+   "Szukasz błędów w działaniu i grafice",
+   "Opisujesz krok po kroku, jak wywołać błąd",
+   "Oceniasz, czy gra jest ciekawa i grywalna"
+  ]
+ },
+ {
+  "id": 153,
+  "name": "Tester oprogramowania",
+  "desc": "Testerzy oprogramowania przeprowadzają testy oprogramowania. Mogą je również planować i projektować. Mogą także usuwać usterki i wykonywać naprawy oprogramowania, choć te zadania należą głównie do projektantów i twórców. Zapewniają właściwe funkcjonowanie aplikacji przed ich przekazaniem klientom wewnętrznym i zewnętrznym.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Planujesz przypadki testowe przed wydaniem aplikacji",
+   "Wykonujesz testy i porównujesz wynik z oczekiwanym",
+   "Zgłaszasz znalezione błędy programistom",
+   "Czasem poprawiasz drobne usterki w kodzie"
+  ]
+ },
+ {
+  "id": 154,
+  "name": "Twórca aplikacji mobilnych",
+  "desc": "Twórcy aplikacji mobilnych wdrażają oprogramowanie aplikacji dla urządzeń mobilnych, kierując się przekazanymi projektami, z wykorzystaniem ogólnych lub specjalnych narzędzi programowania dla systemów operacyjnych urządzeń.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Zamieniasz projekt ekranu na kod",
+   "Programujesz działanie przycisków i funkcji",
+   "Testujesz aplikację na telefonie",
+   "Poprawiasz błędy zgłoszone przez testerów"
+  ]
+ },
+ {
+  "id": 155,
+  "name": "Twórca interfejsu użytkownika",
+  "desc": "Twórcy interfejsu użytkownika wdrażają, piszą kod, dokumentują i utrzymują interfejs systemu, korzystając z technologii front-end.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Programujesz przyciski, formularze i menu",
+   "Przenosisz projekt graficzny na działający kod",
+   "Sprawdzasz wygląd na różnych ekranach",
+   "Piszesz dokumentację i utrzymujesz interfejs"
+  ]
+ },
+ {
+  "id": 156,
+  "name": "Twórca oprogramowania",
+  "desc": "Twórcy oprogramowania wdrażają lub tworzą wszystkie rodzaje systemów na podstawie specyfikacji i projektów, stosując języki, narzędzia i platformy programowania.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Piszesz i poprawiasz kod nowych funkcji",
+   "Szukasz przyczyn błędów i je naprawiasz",
+   "Czytasz kod innych i dajesz im uwagi",
+   "Ustalasz z zespołem, co i jak zbudować"
+  ]
+ },
+ {
+  "id": 157,
+  "name": "Specjalista ds. informatyki śledczej",
+  "desc": "Specjaliści ds. informatyki śledczej pobierają i analizują informacje z komputerów i innych rodzajów urządzeń do przechowywania danych. Badają nośniki cyfrowe, które mogły zostać ukryte, zaszyfrowane lub uszkodzone, na potrzeby śledztwa i w celu zidentyfikowania, zachowania, odtworzenia, przeanalizowania i przedstawienia faktów i opinii dotyczących informacji cyfrowych.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Zabezpieczasz nośniki danych bez zmiany zawartości",
+   "Odtwarzasz ukryte lub uszkodzone pliki",
+   "Analizujesz zawartość urządzeń pod kątem śledztwa",
+   "Piszesz opinię i prezentujesz ustalenia"
+  ]
+ },
+ {
+  "id": 158,
+  "name": "Administrator baz danych",
+  "desc": "Administratorzy baz danych testują, wdrażają i administrują komputerowymi bazami danych. Wykorzystują swoją wiedzę fachową w zakresie systemów zarządzania bazami danych do planowania, koordynowania i wdrażania środków bezpieczeństwa służących ochronie komputerowych baz danych. Stosują również skrypty i pliki konfiguracji w celu dostosowania bazy danych do potrzeb użytkowników.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Instalujesz i testujesz systemy baz danych",
+   "Planujesz zabezpieczenia przed dostępem osób niepowołanych",
+   "Piszesz skrypty i pliki konfiguracji",
+   "Dostosowujesz bazę do potrzeb użytkowników"
+  ]
+ },
+ {
+  "id": 159,
+  "name": "Administrator sieci informacyjno-telekomunikacyjnej",
+  "desc": "Administratorzy sieci informacyjno-telekomunikacyjnej utrzymują niezawodne, bezpieczne i wydajne sieci łączności danych, w tym sieci LAN, WAN, intranetu i internetu. Wykonują zadania dotyczące ustalania adresów sieciowych, zarządzania i realizacji protokołów trasowania, takich jak ISIS, OSPF, BGP, konfigurowania tablic trasowania oraz niektóre wdrożenia uwierzytelniania.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Przydzielasz adresy sieciowe urządzeniom",
+   "Konfigurujesz trasy przesyłu danych",
+   "Ustawiasz uwierzytelnianie w sieci",
+   "Monitorujesz sieć i usuwasz awarie łączności"
+  ]
+ },
+ {
+  "id": 160,
+  "name": "Administrator systemów informacyjno-telekomunikacyjnych",
+  "desc": "Administratorzy systemów informacyjno-telekomunikacyjnych są odpowiedzialni za utrzymanie, konfigurację i niezawodne funkcjonowanie systemów komputerowych i sieciowych, serwerów, stacji roboczych i urządzeń peryferyjnych. Mogą pozyskiwać, instalować lub aktualizować podzespoły komputerowe i elementy oprogramowania; automatyzować rutynowe zadania, tworzyć programy, wykrywać i usuwać usterki, szkolić i nadzorować pracowników oraz zapewniać pomoc techniczną. Zapewniają optymalną integralność, bezpieczeństwo i wydajność systemów oraz tworzenie kopii zapasowych.",
+  "path": "Informatyka i dane > Bazy danych i sieci",
+  "tasks": [
+   "Instalujesz i aktualizujesz serwery i stacje robocze",
+   "Automatyzujesz rutynowe zadania skryptami",
+   "Wykrywasz i usuwasz usterki",
+   "Pilnujesz kopii zapasowych i bezpieczeństwa systemów"
+  ]
+ },
+ {
+  "id": 161,
+  "name": "Pracownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych",
+  "desc": "Pracownicy działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych udzielają pomocy technicznej użytkownikom komputerów, udzielają odpowiedzi na pytania lub rozwiązują problemy informatyczne klientów za pośrednictwem telefonu lub drogą elektroniczną. Udzielają pomocy w zakresie korzystania ze sprzętu komputerowego i oprogramowania komputerowego.",
+  "path": "Informatyka i dane > Technicy IT i wsparcie użytkowników",
+  "tasks": [
+   "Odbierasz zgłoszenia przez telefon i wiadomości",
+   "Zadajesz pytania, żeby znaleźć przyczynę",
+   "Prowadzisz użytkownika krok po kroku do rozwiązania",
+   "Tłumaczysz obsługę sprzętu i programów"
+  ]
+ },
+ {
+  "id": 162,
+  "name": "Data scientist",
+  "desc": "Specjaliści ds. zarządzania danymi wyszukują i interpretują bogate źródła danych, zarządzają dużymi ilościami danych, łączą źródła danych, zapewniają spójność zestawów danych oraz tworzą wizualizacje pomocne w zrozumieniu danych. Tworzą modele matematyczne na podstawie danych oraz przedstawiają i przekazują wiedzę i ustalenia wynikające z danych specjalistom i naukowcom ze swojego zespołu oraz, w razie potrzeby, odbiorcom niebędących ekspertami, oraz zalecają sposoby zastosowania tych danych.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Łączysz i czyścisz dane z różnych źródeł",
+   "Budujesz modele matematyczne na podstawie danych",
+   "Tworzysz wizualizacje pokazujące, co dane znaczą",
+   "Prezentujesz wnioski osobom spoza branży"
+  ]
+ },
+ {
+  "id": 163,
+  "name": "Projektant systemów AI",
+  "desc": "Projektanci inteligentnych systemów technologii informacyjno-telekomunikacyjnych stosują metody sztucznej inteligencji w dziedzinie inżynierii, robotyki i informatyki w celu opracowania programów symulujących zachowania inteligentne, w tym modele myślenia, systemy kognitywne i systemy bazujące na wiedzy, rozwiązywanie problemów i podejmowanie decyzji. Zajmują się oni również wykorzystaniem ustrukturyzowanej wiedzy w systemach komputerowych (ontologie, podstawy wiedzy) w celu rozwiązywania złożonych problemów, które zazwyczaj wymagają wysokiego poziomu wiedzy fachowej lub sztucznej inteligencji.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Projektujesz programy symulujące inteligentne zachowania",
+   "Budujesz systemy oparte na wiedzy",
+   "Tworzysz modele rozwiązywania problemów",
+   "Ustalasz, jak system podejmuje decyzje"
+  ]
+ },
+ {
+  "id": 164,
+  "name": "Inżynier AI",
+  "desc": "Inżynierowie AI budują aplikacje i narzędzia, które korzystają z gotowych modeli sztucznej inteligencji, np. modeli językowych. Łączą model z danymi firmy, piszą dla niego instrukcje, testują jakość odpowiedzi i pilnują kosztów oraz bezpieczeństwa.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Łączysz model AI z danymi i narzędziami firmy",
+   "Piszesz i testujesz instrukcje dla modelu",
+   "Mierzysz, jak często model się myli",
+   "Pilnujesz kosztów, szybkości i bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 165,
+  "name": "Inżynier uczenia maszynowego",
+  "desc": "Inżynierowie uczenia maszynowego trenują modele, które uczą się na danych: rozpoznają obrazy, przewidują popyt, polecają filmy. Przygotowują dane, dobierają metodę, sprawdzają trafność modelu i wdrażają go do działającego produktu.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Przygotowujesz dane do trenowania modelu",
+   "Dobierasz metodę uczenia",
+   "Sprawdzasz trafność modelu na nowych danych",
+   "Wdrażasz model do działającego produktu"
+  ]
+ },
+ {
+  "id": 166,
+  "name": "Inżynier danych",
+  "desc": "Inżynierowie danych budują systemy, które zbierają, czyszczą i dostarczają dane analitykom oraz modelom AI. Dbają o to, żeby dane były aktualne, kompletne i dostępne na czas.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Budujesz systemy zbierające dane z wielu źródeł",
+   "Czyścisz i porządkujesz dane",
+   "Sprawdzasz, czy dane są aktualne i kompletne",
+   "Usuwasz zatory, gdy dane nie docierają na czas"
+  ]
+ },
+ {
+  "id": 167,
+  "name": "Inżynier MLOps",
+  "desc": "Inżynierowie MLOps odpowiadają za to, żeby modele AI działały stabilnie po wdrożeniu. Automatyzują trenowanie i aktualizacje modeli, monitorują ich jakość i reagują, gdy model zaczyna się mylić.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Automatyzujesz trenowanie i aktualizację modeli",
+   "Monitorujesz jakość działających modeli",
+   "Reagujesz, gdy model zaczyna się mylić",
+   "Wdrażasz nowe wersje modeli do produkcji"
+  ]
+ },
+ {
+  "id": 168,
+  "name": "Badacz AI",
+  "desc": "Badacze AI opracowują nowe metody uczenia maszynowego i sprawdzają je w eksperymentach. Czytają i piszą publikacje naukowe, a ich wyniki trafiają potem do produktów.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Opracowujesz nowe metody uczenia maszynowego",
+   "Planujesz i przeprowadzasz eksperymenty",
+   "Czytasz publikacje naukowe innych badaczy",
+   "Piszesz własne artykuły o wynikach"
+  ]
+ },
+ {
+  "id": 169,
+  "name": "Inżynier wizji komputerowej",
+  "desc": "Inżynierowie wizji komputerowej uczą komputery rozumieć obrazy i wideo. Tworzą systemy, które rozpoznają wady produktów na taśmie, znaki drogowe albo zmiany na zdjęciach medycznych.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Trenujesz modele rozpoznające obiekty na obrazach",
+   "Zbierasz i oznaczasz zdjęcia do nauki",
+   "Sprawdzasz, gdzie system myli wady z cieniem",
+   "Dostosowujesz system do zastosowania w fabryce lub szpitalu"
+  ]
+ },
+ {
+  "id": 170,
+  "name": "Inżynier promptów",
+  "desc": "Inżynierowie promptów projektują i testują instrukcje dla modeli językowych, tak żeby odpowiadały trafnie, bezpiecznie i w określonym stylu. Coraz częściej jest to część pracy inżyniera AI lub specjalisty od treści niż osobne stanowisko.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Piszesz instrukcje dla modeli językowych",
+   "Testujesz je na wielu przykładowych pytaniach",
+   "Poprawiasz słowa, gdy odpowiedzi są niejasne",
+   "Pilnujesz, żeby odpowiedzi były bezpieczne i w odpowiednim stylu"
+  ]
+ },
+ {
+  "id": 171,
+  "name": "Specjalista ds. etyki i regulacji AI",
+  "desc": "Specjaliści ds. etyki i regulacji AI sprawdzają, czy systemy sztucznej inteligencji są zgodne z prawem i nie krzywdzą ludzi. Oceniają ryzyko, piszą zasady korzystania z AI w firmie i współpracują z prawnikami oraz inżynierami.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Sprawdzasz zgodność systemów AI z prawem",
+   "Oceniasz ryzyko dla ludzi objętych decyzjami AI",
+   "Piszesz zasady korzystania z AI w firmie",
+   "Konsultujesz wątpliwości z prawnikami i inżynierami"
+  ]
+ },
+ {
+  "id": 172,
+  "name": "Annotator danych",
+  "desc": "Annotatorzy danych przygotowują przykłady, na których uczą się modele AI: opisują zdjęcia, oznaczają obiekty, oceniają odpowiedzi modeli. To jedna z prostszych dróg wejścia do branży AI.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Opisujesz zdjęcia i oznaczasz obiekty ramkami",
+   "Oceniasz, która odpowiedź modelu jest lepsza",
+   "Poprawiasz błędne etykiety w zbiorze",
+   "Czytasz wytyczne i pytasz o niejasne przypadki"
+  ]
+ },
+ {
+  "id": 173,
+  "name": "Specjalista ds. automatyzacji AI",
+  "desc": "Specjaliści ds. automatyzacji AI łączą narzędzia sztucznej inteligencji z codzienną pracą firmy. Budują automatyczne procesy, np. sortowanie zgłoszeń czy przygotowanie raportów, często w narzędziach bez pisania kodu.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Rozmawiasz z pracownikami o powtarzalnych zadaniach",
+   "Budujesz automatyczny proces z gotowych klocków",
+   "Podłączasz AI do sortowania zgłoszeń",
+   "Testujesz proces i poprawiasz błędy"
+  ]
+ },
+ {
+  "id": 174,
+  "name": "Konsultant ds. AI",
+  "desc": "Konsultanci ds. AI pomagają firmom zdecydować, gdzie sztuczna inteligencja naprawdę się przyda. Analizują procesy, dobierają narzędzia, liczą koszty i szkolą pracowników.",
+  "path": "Informatyka i dane > Sztuczna inteligencja",
+  "tasks": [
+   "Analizujesz, jak firma pracuje na co dzień",
+   "Wskazujesz zadania, w których AI pomoże",
+   "Porównujesz narzędzia i liczysz koszty",
+   "Szkolisz pracowników z nowych narzędzi"
+  ]
+ },
+ {
+  "id": 175,
+  "name": "Specjalista ds. chmury obliczeniowej",
+  "desc": "Specjaliści ds. chmury obliczeniowej przenoszą systemy firm na serwery wynajmowane przez internet i dbają, żeby działały szybko, bezpiecznie i tanio. Projektują architekturę, automatyzują uruchamianie usług i pilnują kosztów.",
+  "path": "Informatyka i dane > Chmura i nowe technologie",
+  "tasks": [
+   "Projektujesz, jak ułożyć usługi na serwerach",
+   "Przenosisz system firmy do chmury",
+   "Automatyzujesz uruchamianie nowych usług",
+   "Sprawdzasz rachunki i wyłączasz niepotrzebne zasoby"
+  ]
+ },
+ {
+  "id": 176,
+  "name": "Inżynier DevOps",
+  "desc": "Inżynierowie DevOps łączą pracę programistów i administratorów. Automatyzują testowanie i wdrażanie oprogramowania, tak żeby nowe wersje trafiały do użytkowników szybko i bez awarii.",
+  "path": "Informatyka i dane > Chmura i nowe technologie",
+  "tasks": [
+   "Budujesz automat testujący każdą zmianę w kodzie",
+   "Wdrażasz nowe wersje bez przerwy w działaniu",
+   "Obserwujesz wykresy i alarmy systemu",
+   "Cofasz wersję, gdy coś się psuje"
+  ]
+ },
+ {
+  "id": 177,
+  "name": "Inżynier Internetu rzeczy",
+  "desc": "Inżynierowie Internetu rzeczy tworzą urządzenia podłączone do sieci: czujniki, inteligentne liczniki, sprzęt domowy. Łączą elektronikę, oprogramowanie i przesyłanie danych.",
+  "path": "Informatyka i dane > Chmura i nowe technologie",
+  "tasks": [
+   "Dobierasz czujniki do mierzonej wielkości",
+   "Piszesz oprogramowanie urządzenia",
+   "Konfigurujesz wysyłanie danych do serwera",
+   "Testujesz urządzenie w trudnych warunkach"
+  ]
+ },
+ {
+  "id": 178,
+  "name": "Specjalista ds. technologii blockchain",
+  "desc": "Specjaliści ds. technologii blockchain budują systemy oparte na rozproszonych rejestrach, w których zapisów nie da się po cichu zmienić. Piszą i testują tzw. inteligentne kontrakty oraz dbają o ich bezpieczeństwo.",
+  "path": "Informatyka i dane > Chmura i nowe technologie",
+  "tasks": [
+   "Piszesz inteligentne kontrakty",
+   "Testujesz kontrakty na sztucznych danych",
+   "Szukasz luk, które mogą wykorzystać oszuści",
+   "Dokumentujesz działanie systemu dla innych programistów"
+  ]
+ },
+ {
+  "id": 179,
+  "name": "Projektant VR i AR",
+  "desc": "Projektanci VR i AR tworzą trójwymiarowe światy i nakładki na rzeczywistość do gier, szkoleń, medycyny i handlu. Projektują przestrzeń i sposób poruszania się w niej, tak żeby korzystanie było wygodne.",
+  "path": "Informatyka i dane > Chmura i nowe technologie",
+  "tasks": [
+   "Szkicujesz układ przestrzeni i trasę zwiedzania",
+   "Tworzysz modele 3D i sposoby interakcji",
+   "Testujesz scenę w goglach na ludziach",
+   "Zmieniasz projekt, gdy ktoś czuje mdłości"
+  ]
+ }
+]
