@@ -1,0 +1,180 @@
+@720
+H: Montujesz i sprawdzasz instalacje gazowe w domach i budynkach oraz szukasz miejsc, w których gaz mógłby uciekać. Każde połączenie musi być szczelne i zgodne z przepisami.
+T: Montujesz rury i urządzenia gazowe | Badasz instalację pod kątem nieszczelności | Naprawiasz usterki w istniejących instalacjach | Doradzasz, jak bezpiecznie korzystać z urządzeń
+D: 7:30 Pakujesz materiały i jedziesz do klienta | 9:00 Montujesz nowy kocioł gazowy w kotłowni | 12:00 Sprawdzasz szczelność połączeń przed odbiorem | 14:30 Przegląd kuchenki u klienta, tłumaczysz zasady użytkowania
+Y: Sprawdź, czy w domu jest kuchenka lub kocioł gazowy, i zapisz, gdzie w pobliżu jest wentylacja.
+
+@721
+H: Instalujesz i serwisujesz systemy ogrzewania i wentylacji, od pieców w domach po układy wbudowane w maszyny i pojazdy. Czytasz plany, naprawiasz usterki i kontrolujesz, czy wszystko jest bezpieczne.
+T: Czytasz plany i instrukcje montażu | Podłączasz urządzenia grzewcze i wentylację | Kontrolujesz bezpieczeństwo działających systemów | Znajdujesz przyczynę awarii i naprawiasz
+D: 7:00 Sprawdzasz zlecenia i ładujesz części do auta | 8:30 Serwis kotła na paliwo stałe w domu | 11:30 Awaria ogrzewania, szukasz przyczyny w instalacji | 14:00 Kontrola bezpieczeństwa i wpis do dokumentacji
+Y: Sprawdź, czym ogrzewany jest Twój dom, i narysuj prostą drogę ciepła od źródła do grzejnika.
+
+@722
+H: Montujesz wyposażenie łazienek, czyli wanny, umywalki i toalety, i podłączasz je do wody oraz kanalizacji. Najpierw mierzysz i przygotowujesz pomieszczenie, potem wszystko składasz na gotowo.
+T: Mierzysz łazienkę i przygotowujesz pomieszczenie | Demontujesz stare urządzenia sanitarne | Montujesz umywalkę, wannę i toaletę | Podłączasz rury wodne i kanalizacyjne
+D: 7:30 Mierzysz łazienkę u klienta i oceniasz ściany | 9:30 Wyrywasz starą wannę i wynosisz gruz | 12:00 Ustawiasz nową umywalkę i podłączasz syfon | 15:00 Sprawdzasz, czy nic nie cieknie
+Y: Zmierz w domu umywalkę lub wannę i zapisz wymiary, a potem sprawdź, ile wolnego miejsca jest obok.
+
+@723
+H: Układasz i naprawiasz rury oraz zawory, którymi pod ziemią płyną woda i ścieki. Pracujesz według projektu, w wykopach i na zewnątrz.
+T: Analizujesz projekt sieci przed montażem | Układasz rury i montujesz zawory | Sprawdzasz, czy odwodnienie działa prawidłowo | Konserwujesz i naprawiasz uszkodzone odcinki
+D: 6:30 Odczytujesz projekt i wyznaczasz trasę rur | 8:00 W wykopie łączysz kolejne odcinki kanalizacji | 11:00 Montujesz zawór na nowym przyłączu | 13:30 Kontrolujesz, czy ścieki mają odpowiedni spadek
+Y: Wylej do zlewu szklankę wody i obserwuj, jak spływa; zastanów się, dlaczego rury mają spadek.
+
+@724
+H: Montujesz rury i tryskacze, które w razie pożaru same zraszają pomieszczenie wodą. Po złożeniu instalacji sprawdzasz, czy nigdzie nie przecieka.
+T: Łączysz przewody i zestawy rur | Montujesz tryskacze pod sufitem hali | Dobierasz i mocujesz potrzebne akcesoria | Sprawdzasz system pod kątem wycieków
+D: 7:00 Odbierasz rury i tryskacze z magazynu | 8:30 Przykręcasz kolejne odcinki rur w hali | 11:30 Montujesz tryskacze w wyznaczonych miejscach | 14:00 Napełniasz system i szukasz wycieków
+Y: Sprawdź w domu, szkole lub sklepie, czy widać tryskacze albo czujki pod sufitem, i zapisz, ile ich jest.
+
+@725
+H: Dbasz o to, żeby rurociąg był w dobrym stanie technicznym: obsługujesz urządzenia, kontrolujesz odchylenia i czyścisz rury. Często pracujesz w terenie wzdłuż trasy rury.
+T: Obsługujesz urządzenia do utrzymania rurociągu | Kontrolujesz odchylenia od normalnego stanu | Czyścisz rury z osadów i korozji | Zapisujesz wyniki kontroli odcinków
+D: 6:00 Odprawa i wyznaczenie odcinka do kontroli | 7:30 Jedziesz wzdłuż trasy rurociągu i oglądasz zawory | 10:30 Uruchamiasz urządzenie czyszczące wewnątrz rury | 13:30 Notujesz odchylenia i zgłaszasz je przełożonemu
+Y: Obejrzyj metalową rurę lub grzejnik w domu i znajdź ślady rdzy albo zacieków; zapisz, gdzie są.
+
+@726
+H: Utrzymujesz w sprawności kanały, rury i pompownie, którymi odprowadzane są ścieki. Udrażniasz zatory i naprawiasz uszkodzenia, korzystając z map sieci.
+T: Sprawdzasz rury, kanały i pompownie pod kątem usterek | Udrażniasz zatory w kanalizacji | Naprawiasz uszkodzone odcinki sieci | Szukasz miejsca awarii na mapie sieci
+D: 6:30 Dyspozytor zgłasza zator na osiedlowej ulicy | 8:00 Otwierasz studzienkę i oceniasz, gdzie jest zator | 10:30 Udrażniasz rurę specjalnym sprzętem | 13:00 W pompowni sprawdzasz pompy i zapisujesz stan
+Y: Wyobraź sobie dowolny odpływ w domu i naszkicuj, dokąd może prowadzić rura po wyjściu z budynku.
+
+@727
+H: Dbasz o to, żeby woda dopływała do domów: konserwujesz rury i pompownie wodociągowe. Gdy pęknie rura albo zatka się przewód, jedziesz to naprawić.
+T: Wykonujesz planowane przeglądy rur i pomp | Naprawiasz pęknięte przewody wodociągowe | Usuwasz zatory w rurach i kanalizacji | Zamykasz i otwierasz zasuwy w sieci
+D: 6:00 Plan dnia i sprawdzenie sprzętu w bazie | 8:00 Przegląd pompowni, słuchasz pracy silników | 11:00 Zgłoszenie z bloku, szukasz uszkodzonego odcinka rury | 14:30 Naprawa zasuwy i przywrócenie dopływu wody
+Y: Zrób listę wszystkich miejsc w domu, w których woda wypływa z kranu lub rury, i policz je.
+
+@728
+H: Instalujesz i naprawiasz systemy podlewania i odprowadzania wody, na przykład zraszacze i rury w parkach, ogrodach czy na polach. Obsługujesz maszyny do tych prac i pilnujesz norm ochrony środowiska.
+T: Montujesz zraszacze i rury nawadniające | Naprawiasz uszkodzone elementy systemów | Obsługujesz maszyny do kopania rowów pod rury | Pilnujesz zgodności z normami środowiskowymi
+D: 7:00 Wytyczasz trasę rur na trawniku parku | 9:00 Maszyną kopiesz rów pod przewody | 12:00 Montujesz zraszacze i płuczesz przewody wodą | 14:30 Naprawiasz zraszacz, który nie podnosi się
+Y: Zrób prosty plan podlewania balkonu lub małego ogródka: narysuj, gdzie woda dotarłaby z jednego zraszacza.
+
+@729
+H: Montujesz systemy, które zbierają, filtrują i magazynują wodę, na przykład deszczową albo szarą po prysznicu czy praniu. Dzięki nim budynek może używać wody drugi raz.
+T: Montujesz zbiorniki na wodę deszczową | Instalujesz filtry i układy odzysku wody | Podłączasz rury, którymi woda trafia do budynku | Sprawdzasz, czy system działa poprawnie
+D: 8:00 Oglądasz dom klienta, rynny i miejsce na zbiornik | 10:00 Ustawiasz zbiornik na deszczówkę w ogrodzie | 12:30 Montujesz filtr i podłączasz rury | 15:00 Pokazujesz klientowi, jak obsługiwać układ
+Y: Zapisz trzy sposoby, jak w domu można drugi raz użyć wody po myciu warzyw.
+
+@730
+H: Układasz płytki na ścianach i podłogach tak, żeby były równe i dobrze przylegały. Tniesz je na wymiar, a czasem układasz z nich mozaikę.
+T: Przygotowujesz ścianę lub podłogę pod płytki | Tniesz płytki na właściwy rozmiar | Przyklejasz płytki i wyrównujesz je | Układasz mozaiki i wzory
+D: 7:00 Wyrównujesz podłoże w łazience klienta | 9:00 Tniesz płytki przy narożnikach i rurach | 11:30 Układasz rząd po rzędzie, sprawdzasz poziomicą | 14:00 Fugujesz gotową ścianę i zmywasz zabrudzenia
+Y: Wytnij z kartki kwadraty i ułóż nimi wzór na stole, żeby nie było szczelin.
+
+@731
+H: Układasz podłogi z litego drewna: deski i parkiet. Przycinasz elementy na wymiar i kładziesz je w ustalonym wzorze, tak żeby podłoga była równa.
+T: Przygotowujesz i wyrównujesz podłoże | Przycinasz deski i klepki na wymiar | Układasz parkiet w ustalonym wzorze | Sprawdzasz, czy powierzchnia jest równa
+D: 7:30 Zdejmujesz stare listwy i czyścisz podłoże | 9:00 Mierzysz pokój i planujesz układ desek | 11:00 Przycinasz deski przy ścianach i progach | 14:00 Układasz wzór jodełki i sprawdzasz równość
+Y: Znajdź w domu drewniany przedmiot i narysuj, jak biegną na nim słoje drewna.
+
+@732
+H: Pokrywasz podłogi gotowymi płytkami albo rolkami linoleum, winylu, gumy lub korka. Odmierzasz, przycinasz i kładziesz materiał tak, żeby nie było szczelin.
+T: Przygotowujesz podłoże pod nowe pokrycie | Odmierzasz i tniesz rolki materiału | Układasz linoleum, panele winylowe lub korek | Dopasowujesz brzegi przy ścianach
+D: 7:00 Rozwijasz rolki winylu w szkolnym korytarzu | 9:30 Przycinasz materiał wokół futryn i słupów | 12:00 Przyklejasz pas po pasie do podłoża | 15:00 Sprawdzasz łączenia i zbierasz resztki
+Y: Znajdź w domu trzy różne podłogi lub wykładziny, dotknij ich i opisz, czym się różnią.
+
+@733
+H: Układasz wykładziny dywanowe w mieszkaniach, biurach i hotelach. Przycinasz je na wymiar, przygotowujesz podłogę i rozkładasz materiał tak, żeby leżał płasko.
+T: Mierzysz pomieszczenie i liczysz materiał | Przycinasz wykładzinę nożem na wymiar | Przygotowujesz podłoże i usuwasz nierówności | Rozkładasz i mocujesz wykładzinę przy listwach
+D: 8:00 Mierzysz pokoje w biurze po remoncie | 9:30 Rozwijasz wykładzinę i tniesz ją na pasy | 12:00 Rozciągasz materiał, żeby nie było fałd | 15:00 Dopasowujesz brzegi przy drzwiach i listwach
+Y: Zmierz swój pokój, oblicz metry kwadratowe i dodaj zapas na ścinki przy ścianach.
+
+@734
+H: Wstawiasz szyby w okna, drzwi, szklane ściany i elewacje. Mierzysz, przygotowujesz otwór i mocujesz szkło tak, żeby było szczelne i stabilne.
+T: Mierzysz otwory okienne i drzwiowe | Przygotowujesz ramę przed wstawieniem szkła | Wstawiasz i mocujesz szyby | Uszczelniasz krawędzie wstawionej szyby
+D: 7:00 Ładujesz szyby do auta i zabezpieczasz je | 8:30 Mierzysz ramę okna po pęknięciu | 10:30 Dwie osoby unoszą taflę, ty ją osadzasz | 13:30 Uszczelniasz szybę i sprawdzasz szczelność
+Y: Obejrzyj okno w domu i znajdź, czym szyba jest uszczelniona w ramie; opisz to jednym zdaniem.
+
+@735
+H: Wymieniasz szyby w samochodach: czołowe, boczne i tylne. Dobierasz szkło do konkretnego modelu auta i przygotowujesz miejsce pod nową szybę.
+T: Sprawdzasz uszkodzoną szybę i model auta | Zamawiasz szybę o właściwych parametrach | Usuwasz pękniętą szybę i czyścisz ramkę | Montujesz nową szybę zgodnie z wymaganiami producenta
+D: 8:00 Oglądasz pęknięcie w szybie przedniej klienta | 9:30 Sprawdzasz w katalogu, jaka szyba pasuje do modelu | 11:00 Wycinasz starą szybę i czyścisz ramkę | 14:00 Osadzasz nową szybę i czekasz na wiązanie
+Y: Obejrzyj szybę w zaparkowanym aucie rodziny i opisz, jakie oznaczenia są na jej brzegu.
+
+@736
+H: Montujesz sufity w budynkach, na przykład podwieszane ze stelażem. Wybierasz technikę do sytuacji: raz liczy się odporność na ogień, raz wolna przestrzeń nad sufitem.
+T: Wyznaczasz poziom sufitu na ścianach | Montujesz stelaż pod sufit podwieszany | Mocujesz płyty lub panele sufitowe | Dobierasz technikę do wymagań budynku
+D: 7:00 Zaznaczasz na ścianach poziom nowego sufitu | 9:00 Mocujesz profile stelaża do stropu | 11:30 Zakładasz płyty odporne na ogień w korytarzu | 14:00 Szpachlujesz łączenia płyt i sprzątasz
+Y: Przyjrzyj się sufitowi w pokoju, znajdź łączenia lub krawędzie i narysuj z nich prosty plan.
+
+@737
+H: Pokrywasz ściany gładkim tynkiem z gipsu lub cementu. Mieszasz suchy tynk z wodą, rozprowadzasz go i wygładzasz, zanim stwardnieje.
+T: Mieszasz suchy tynk z wodą | Nakładasz pastę tynkarską na ścianę | Wygładzasz tynk przed stwardnieniem | Wykonujesz ozdobne elementy sztukatorskie
+D: 7:00 Mieszasz pierwszą porcję tynku w wiadrze | 8:00 Nakładasz tynk pasami na ścianę pokoju | 10:30 Wyrównujesz łatą i gładzisz powierzchnię | 13:00 Myjesz narzędzia, zanim tynk stwardnieje
+Y: Wymieszaj w kubku mąkę z wodą na gęstą pastę i rozsmaruj cienką warstwę na kartonie.
+
+@738
+H: Budujesz dachy: najpierw konstrukcję nośną, potem warstwę chroniącą przed deszczem, wiatrem i zimnem. Większość dnia pracujesz na zewnątrz i na wysokości.
+T: Montujesz nośną konstrukcję dachu | Układasz warstwę chroniącą przed pogodą | Mierzysz powierzchnię dachu i planujesz pracę | Zabezpieczasz siebie liną asekuracyjną
+D: 6:00 Ładujesz materiały i jedziesz na budowę | 7:00 Zabezpieczasz się liną i wchodzisz na dach | 9:00 Przybijasz łaty i układasz pokrycie | 14:00 Sprawdzasz szczelność złączy przy rynnie
+Y: Obejrzyj z ziemi dach swojego bloku lub domu i narysuj, w którą stronę spływa deszcz.
+
+@739
+H: Zakładasz materiały izolacyjne, które chronią budynek przed zimnem, ciepłem i hałasem. Docinasz je i mocujesz tak, żeby nie zostały szczeliny.
+T: Mierzysz powierzchnie do ocieplenia | Tniesz płyty i maty izolacyjne | Mocujesz izolację na ścianach i dachu | Uszczelniasz miejsca, gdzie ucieka ciepło
+D: 7:00 Zakładasz kombinezon i maskę przeciwpyłową | 8:00 Docinasz maty izolacyjne między krokwiami | 11:00 Przyklejasz płyty ocieplenia na elewacji | 14:00 Uszczelniasz szczeliny wokół okien i rur
+Y: Przyłóż dłoń do zewnętrznej ściany i do ściany wewnętrznej w domu i porównaj, która jest cieplejsza.
+
+@740
+H: Instalujesz i naprawiasz przemysłowe systemy ogrzewania, wentylacji i klimatyzacji. Konfigurujesz piece, termostaty i przewody tak, żeby powietrze płynęło tam, gdzie trzeba, i było oczyszczane.
+T: Montujesz piece, termostaty i przewody powietrzne | Ustawiasz otwory wentylacyjne w hali | Regulujesz przepływ i oczyszczanie powietrza | Naprawiasz awarie klimatyzacji i chłodzenia
+D: 7:00 Odczytujesz schemat instalacji dla nowej hali | 9:00 Łączysz przewody wentylacyjne pod sufitem | 12:00 Ustawiasz termostat i testujesz nawiew | 14:30 W biurze zepsuła się klimatyzacja, szukasz usterki
+Y: Przyłóż kartkę papieru do kratki wentylacyjnej w domu i sprawdź, czy powietrze ją przyciąga lub odpycha.
+
+@741
+H: Sprawdzasz, ile energii zużywa budynek, i przygotowujesz dokument z oceną jego charakterystyki energetycznej. Radzisz właścicielom, jak zużywać mniej energii.
+T: Oglądasz budynek, ściany, okna i dach | Oceniasz szacowane zużycie energii | Przygotowujesz świadectwo charakterystyki energetycznej | Doradzasz właścicielowi, gdzie oszczędzić energię
+D: 8:00 Oglądasz dom, który właściciel chce sprzedać | 9:00 Mierzysz okna i sprawdzasz grubość ocieplenia | 11:30 Liczysz zapotrzebowanie na energię przy biurku | 14:00 Omawiasz z właścicielem wyniki i możliwe ulepszenia
+Y: Policz okna i drzwi zewnętrzne w swoim domu i zaznacz, które wydają się szczelne, a które nie.
+
+@742
+H: Doradzasz osobom prywatnym, skąd brać energię do domu, i polecasz źródło oraz dostawcę. To praca doradcza, ale często połączona ze sprzedażą energii.
+T: Rozmawiasz z klientem o potrzebach domu | Porównujesz źródła energii i dostawców | Tłumaczysz zalety ekonomiczne i środowiskowe | Układasz plan energetyczny zgodny z przepisami
+D: 9:00 Przygotowujesz się do spotkań, sprawdzasz oferty | 10:30 Odwiedzasz rodzinę w domu jednorodzinnym, pytasz o ogrzewanie | 12:30 Porównujesz dwa źródła energii dla ich domu | 15:00 Piszesz plan energetyczny i wysyłasz klientowi
+Y: Zrób listę urządzeń w domu zużywających energię i ułóż je od największego do najmniejszego zużycia.
+
+@743
+H: Oglądasz mosty z bliska i szukasz pęknięć, rdzy i luźnych połączeń. Zgłaszasz usterki i organizujesz konserwację.
+T: Sprawdzasz połączenia i łożyska mostu | Szukasz pęknięć, rdzy i ubytków | Robisz zdjęcia i notatki z kontroli | Organizujesz naprawy i konserwację mostu
+D: 7:00 Zakładasz kask i sprawdzasz sprzęt do kontroli | 8:30 Schodzisz pod most i oglądasz podpory | 11:00 Mierzysz pęknięcie i fotografujesz zardzewiałe złącze | 14:00 Opisujesz usterki w raporcie dla zarządcy
+Y: Przyjrzyj się zdjęciu dowolnego mostu i wskaż trzy miejsca, gdzie mogłaby pojawić się rdza lub pęknięcie.
+
+@744
+H: Chodzisz po dużej budowie i sprawdzasz, czy wszystko jest zrobione zgodnie z normami i projektem. Zwracasz uwagę na zagrożenia i pobierasz próbki materiałów do badania.
+T: Obchodzisz plac budowy i oglądasz roboty | Porównujesz wykonanie ze specyfikacją | Pobierasz próbki materiałów do badań | Zgłaszasz zagrożenia dla bezpieczeństwa
+D: 7:30 Obchodzisz plac budowy w kasku i butach | 9:30 Pobierasz próbkę betonu do badania | 11:30 Mierzysz grubość warstwy i porównujesz z projektem | 14:00 Piszesz uwagi dla kierownika budowy
+Y: Sprawdź linijką, czy pięć książek na półce ma tę samą wysokość, i zanotuj różnice.
+
+@745
+H: Kontrolujesz budynki i oceniasz, czy zgadzają się z przepisami i projektem. Badasz ich jakość i wytrzymałość oraz piszesz, co trzeba poprawić.
+T: Kontrolujesz budynek według listy wymagań | Oceniasz jakość i wytrzymałość konstrukcji | Porównujesz stan budynku z przepisami | Piszesz protokół z zaleceniami do poprawy
+D: 8:00 Czytasz projekt i przepisy przed wizytą | 9:30 Oglądasz ściany, strop i fundamenty na budowie | 12:00 Notujesz miejsca niezgodne z przepisami | 14:30 W biurze spisujesz protokół z kontroli
+Y: Sprawdź w pokoju drzwi, okno, półkę, szafę i parapet, i oceń, czy się nie chwieją.
+
+@746
+H: Kontrolujesz budynki pod kątem zasad bezpieczeństwa pożarowego i wymagasz poprawek tam, gdzie przepisy są łamane. Uczysz też ludzi, jak zapobiegać pożarom i co robić w razie zagrożenia.
+T: Kontrolujesz drogi ewakuacyjne i oznaczenia | Sprawdzasz, czy budynek spełnia przepisy | Egzekwujesz poprawki w obiektach z naruszeniami | Szkolisz ludzi z zapobiegania pożarom
+D: 8:00 Planujesz trasę kontroli budynków na dziś | 9:00 Sprawdzasz drogi ewakuacyjne w szkole | 11:30 Wskazujesz zablokowane wyjście i wystawiasz polecenie | 14:00 Prowadzisz pogadankę dla pracowników sklepu
+Y: Narysuj plan swojego mieszkania i zaznacz strzałkami drogę wyjścia z każdego pokoju.
+
+@747
+H: Kierujesz pracą składowiska odpadów i pilnujesz, żeby odpady były przyjmowane i unieszkodliwiane zgodnie z przepisami. Czytasz regulacje i koordynujesz pracowników na terenie.
+T: Czytasz przepisy o gospodarowaniu odpadami | Koordynujesz pracę ludzi i maszyn | Kontrolujesz, jak odpady są unieszkodliwiane | Zgłaszasz nieprawidłowości i ustalasz poprawki
+D: 6:30 Odprawa z operatorami maszyn na składowisku | 8:00 Obchodzisz teren i oglądasz nowe zrzuty | 10:30 Sprawdzasz, gdzie wywrotka wysypuje odpady | 13:00 Uzupełniasz dokumentację zgodną z przepisami
+Y: Obejrzyj domowe pojemniki na odpady i spisz, jakie rodzaje śmieci powinny trafiać do każdego.
+
+@748
+H: Objeżdżasz wyznaczony odcinek dróg i sprawdzasz, czy jezdnia, chodniki i znaki są w dobrym stanie. Zlecasz lub nadzorujesz naprawy, żeby ruch był płynny i bezpieczny.
+T: Sprawdzasz stan jezdni i chodników | Oceniasz, czy znaki drogowe są czytelne | Zgłaszasz dziury i uszkodzenia nawierzchni | Organizujesz naprawy na swoim odcinku
+D: 7:00 Odbierasz zgłoszenia i planujesz trasę kontroli | 8:00 Jedziesz wzdłuż odcinka i fotografujesz dziury | 10:30 Znajdujesz przechylony znak i zlecasz naprawę | 13:30 Nadzorujesz ekipę łatającą nawierzchnię
+Y: Wypisz pięć rodzajów uszkodzeń nawierzchni, na przykład dziura czy spękanie, i napisz, czym grożą pieszym.
+
+@749
+H: Kontrolujesz tory, zwrotnice, linie energetyczne i oznakowanie kolejowe oraz usuwasz usterki. Czasem dostajesz wezwanie o każdej porze dnia i nocy, bo awaria musi być naprawiona szybko i bezpiecznie.
+T: Kontrolujesz tory, zwrotnice i oznakowanie | Sprawdzasz stan linii energetycznych przy torach | Usuwasz usterki szybko i bezpiecznie | Naprawiasz uszkodzone elementy po wezwaniu
+D: 6:00 Odprawa i przydział odcinka torów | 9:00 Oglądasz szyny i śruby zwrotnicy | 14:00 Wymieniasz zużyty element na torze | 23:30 Nocne wezwanie do awarii zwrotnicy
+Y: Ułóż ze sznurka na stole schemat torów z jedną zwrotnicą i wyjaśnij, jak pociąg zmienia tor.
+

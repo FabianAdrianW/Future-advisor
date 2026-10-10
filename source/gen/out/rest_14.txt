@@ -1,0 +1,180 @@
+@2040
+H: Liczysz, jak bardzo coś jest ryzykowne, i zamieniasz to na kwoty. Twoje wyliczenia pomagają ustalić, ile ma kosztować ubezpieczenie albo przyszła emerytura.
+T: Budujesz modele statystyczne ryzyka | Analizujesz dane o szkodach i zdarzeniach | Wyliczasz ceny ubezpieczeń i rezerwy | Tłumaczysz wyniki osobom spoza branży
+D: 8:30 Sprawdzasz, czy nowe dane zgadzają się z modelem | 10:00 Poprawiasz model dla ubezpieczeń na życie | 13:00 Tłumaczysz zarządowi, skąd wzrost ryzyka | 15:30 Piszesz raport z założeniami i wnioskami
+Y: Rzuć monetą 30 razy, zapisz wyniki i policz, jak bardzo odbiegły od podziału pół na pół.
+
+@2041
+H: Badasz, jak zmienia się liczba i skład ludności kraju czy miasta. Z liczb wyciągasz wnioski, na przykład ilu będzie seniorów za dwadzieścia lat.
+T: Zbierasz dane o urodzeniach i zgonach | Liczysz prognozy liczby ludności | Badasz migracje, małżeństwa i zatrudnienie | Piszesz raporty dla urzędów i naukowców
+D: 8:30 Porządkujesz tabele z danymi ze spisu | 10:30 Liczysz, jak zmieni się liczba seniorów | 13:00 Spotkanie z urzędnikami o potrzebach miasta | 15:00 Opisujesz wykres piramidy wieku w raporcie
+Y: Wymyśl wieś z dwudziestoma mieszkańcami, przypisz im wiek i narysuj prostą piramidę wieku.
+
+@2042
+H: Szukasz dowodów i nowych sposobów opisywania świata liczbami i wzorami. Często dniami siedzisz nad jednym problemem, a czasem pomagasz inżynierom i naukowcom.
+T: Dowodzisz twierdzeń krok po kroku | Budujesz modele matematyczne zjawisk | Szukasz wzorów w liczbach | Sprawdzasz obliczenia w projektach naukowych
+D: 9:00 Czytasz artykuł o nowym dowodzie | 10:30 Siedzisz nad kartką, szukając kontrprzykładu | 13:30 Rozmowa z fizykiem o równaniach | 16:00 Zapisujesz dowód czysto, krok po kroku
+Y: Uzasadnij, dlaczego suma dwóch liczb nieparzystych zawsze jest parzysta, i zapisz swój dowód.
+
+@2043
+H: Sprawdzasz, czy gra losowa działa uczciwie i zgodnie z regulaminem. Testujesz ją tak, żeby wyniki były naprawdę losowe, a wypłaty prawidłowe.
+T: Planujesz scenariusze testów gier | Uruchamiasz tysiące testowych rozgrywek | Sprawdzasz, czy losowanie jest uczciwe | Zgłaszasz błędy twórcom gry
+D: 9:00 Czytasz regulamin nowej loterii internetowej | 10:30 Uruchamiasz serię testowych losowań | 13:00 Znajdujesz błąd w naliczaniu wygranej | 15:00 Piszesz raport dla twórców gry
+Y: Rzuć kostką 30 razy i sprawdź, czy każda liczba wypadła mniej więcej tyle samo razy.
+
+@2044
+H: Wymyślasz nowe loterie i gry losowe, od zasad po wygląd. Musisz pogodzić dobrą zabawę z przepisami i z uczciwością gry.
+T: Wymyślasz zasady nowej gry losowej | Projektujesz oprawę i ekran gry | Liczysz szanse na wygraną | Dopasowujesz grę do przepisów
+D: 9:30 Burza mózgów nad nową loterią | 11:00 Liczysz szanse na każdą z nagród | 13:30 Grafik pokazuje szkice ekranu gry | 15:30 Prawnik wskazuje zapis, który trzeba zmienić
+Y: Wymyśl zasady prostej gry planszowej z kostką i spisz je w pięciu zdaniach.
+
+@2045
+H: Odpowiadasz za bezpieczeństwo gości, ich rzeczy i samego budynku hotelu. Układasz grafik ochrony i ustalasz, co robić przy alarmie czy kradzieży.
+T: Układasz grafik pracy ochroniarzy | Oglądasz nagrania z kamer po zgłoszeniu | Ustalasz procedury na wypadek alarmu | Szkolisz pracowników hotelu z reagowania na zagrożenia
+D: 7:00 Odbierasz raport od nocnej zmiany | 9:30 Sprawdzasz zabezpieczenia wejść i wind | 12:00 Gość zgłasza zgubiony portfel, oglądasz nagranie | 17:00 Ćwiczysz z obsługą scenariusz ewakuacji
+Y: Obejdź dom i zapisz wszystkie wejścia oraz okna, a potem oceń, które najtrudniej zobaczyć z zewnątrz.
+
+@2046
+H: Doradzasz firmom, jak chronić się przed kradzieżą, szpiegostwem czy przemocą. Oglądasz budynek, szukasz słabych punktów i proponujesz plan zabezpieczeń.
+T: Analizujesz zagrożenia dla klienta | Oglądasz budynki i szukasz luk | Oceniasz ryzyko i wskazujesz priorytety | Układasz program ochrony dla firmy
+D: 8:30 Dojeżdżasz do klienta obejrzeć jego biurowiec | 10:00 Chodzisz po budynku i notujesz słabe punkty | 13:00 Rozmowa z dyrektorem o największych zagrożeniach | 15:30 Piszesz plan zabezpieczeń z listą priorytetów
+Y: Wypisz pięć zagrożeń dla domu, na przykład niezamknięte drzwi, i do każdego jeden prosty sposób zapobiegania.
+
+@2047
+H: Przewozisz pieniądze i cenne przedmioty opancerzonym samochodem, ściśle według procedur. Praca wymaga czujności, a trasy i godziny są z góry zaplanowane.
+T: Ładujesz i rozładowujesz worki z gotówką | Podpisujesz dokumenty przekazania | Pilnujesz otoczenia na trasie | Reagujesz na rabunek według procedury
+D: 5:30 Odprawa i sprawdzenie samochodu opancerzonego | 7:00 Odbierasz gotówkę ze sklepu i podpisujesz papiery | 11:00 Zawozisz pieniądze do banku, pilnując otoczenia | 14:00 Rozliczasz trasę i oddajesz dokumenty
+Y: Spisz listę kontrolną przekazania cennej paczki, od spakowania do podpisania odbioru, w sześciu krokach.
+
+@2048
+H: Pilnujesz, żeby ochroniarze dobrze robili swoją pracę, a obiekt był bezpieczny. Planujesz trasy patroli, rozdzielasz ludzi i sprawdzasz, czy plan działa.
+T: Wyznaczasz trasy patroli | Układasz grafik ochroniarzy | Odbierasz zgłoszenia o incydentach | Organizujesz ćwiczenia z ewakuacji
+D: 6:00 Odprawa nocnej zmiany i odbiór raportów | 8:00 Kontrolujesz posterunki przy wejściach | 11:00 Przekazujesz policji osobę przyłapaną na terenie | 14:00 Prowadzisz ćwiczenie ewakuacji z pracownikami
+Y: Narysuj plan swojego mieszkania i zaznacz trasę patrolu, która obejmuje wszystkie pomieszczenia.
+
+@2049
+H: Stoisz przy drzwiach klubu czy baru i decydujesz, kto wchodzi. Sprawdzasz wiek, pilnujesz porządku i uspokajasz awantury, zanim urosną.
+T: Sprawdzasz dokumenty i wiek gości | Pilnujesz kodu ubioru i regulaminu | Uspokajasz kłótnie rozmową | Wyprowadzasz agresywne osoby z lokalu
+D: 20:00 Odprawa i sprawdzenie wyjść ewakuacyjnych | 22:00 Kolejka przed drzwiami, sprawdzasz dowody | 1:00 Dwóch gości się kłóci, rozdzielasz ich | 3:00 Pomagasz gościom wyjść i zamykasz lokal
+Y: Poćwicz na głos stanowczą, spokojną odmowę wejścia, trzy razy, bez podnoszenia głosu.
+
+@2050
+H: Pilnujesz porządku na meczu, koncercie czy wiecu. Obserwujesz tłum, kontrolujesz wejścia i wiesz, jak przeprowadzić ewakuację.
+T: Kontrolujesz bilety i wejścia | Obserwujesz zachowanie tłumu | Reagujesz na bójki i zasłabnięcia | Prowadzisz ludzi do wyjść podczas ewakuacji
+D: 15:00 Odprawa przed meczem na stadionie | 17:00 Kontrolujesz bilety i torby przy bramie | 19:30 Pilnujesz swojego sektora w trakcie meczu | 22:00 Po meczu kierujesz tłum do wyjść
+Y: Narysuj drogę ewakuacji z twojego mieszkania do wyjścia z budynku i pokaż ją domownikom.
+
+@2051
+H: Kontrolujesz, kto i co wchodzi lub wychodzi z budynku, i pilnujesz, żeby nic nie zniknęło. Stoisz przy bramkach, przy radiu i przy monitorach.
+T: Kontrolujesz wejścia i wyjścia ludzi | Reagujesz na sygnał z bramki | Spisujesz zdarzenia w raporcie | Łączysz się przez radio z kolegami z ochrony
+D: 6:00 Przejmujesz posterunek przy bramkach magazynu | 9:00 Bramka piszczy, sprawdzasz, co ją uruchomiło | 13:00 Podejrzewasz próbę wyniesienia towaru, wzywasz przełożonego | 17:30 Spisujesz zdarzenia i przekazujesz zmianę
+Y: Wypisz dziesięć przedmiotów z metalu, które mogłyby uruchomić bramkę przy wejściu.
+
+@2052
+H: Chronisz konkretną osobę w podróży, na spotkaniach i wydarzeniach. Cały czas obserwujesz otoczenie i przewidujesz, co może pójść źle.
+T: Sprawdzasz miejsce przed przyjazdem klienta | Obserwujesz tłum i otoczenie | Planujesz trasy i drogi ucieczki | Osłaniasz klienta przy zagrożeniu
+D: 6:30 Sprawdzasz plan dnia i trasę klienta | 9:00 Wchodzisz pierwszy do sali i oglądasz wyjścia | 12:00 Stoisz blisko klienta w tłumie, patrzysz na ręce | 21:00 Odwozisz klienta i sprawdzasz pokój hotelowy
+Y: Rozejrzyj się po pokoju przez minutę, zapisz z pamięci pięć szczegółów, a potem sprawdź, ile się zgadza.
+
+@2053
+H: Patrolujesz budynek, pilnujesz wejść i oglądasz obraz z kamer. Gdy coś jest nie tak, zgłaszasz to, wzywasz pomoc i spisujesz zdarzenie.
+T: Patrolujesz wyznaczone obszary budynku | Kontrolujesz przepustki przy wejściu | Obserwujesz obraz z kamer | Spisujesz zgłoszenia i zdarzenia
+D: 7:00 Przejmujesz zmianę i czytasz notatki | 9:00 Patrol po piętrach i garażu | 12:00 Prosisz nieznaną osobę o okazanie dowodu | 18:00 Piszesz raport i oddajesz klucze
+Y: Przejdź po mieszkaniu jak na patrolu i zapisz, co jest otwarte albo nie na swoim miejscu.
+
+@2054
+H: Kontrolujesz pasażerów i bagaż przed wejściem do strefy odlotów. Pracujesz szybko, przy kolejce ludzi, i musisz zauważyć rzecz, która nie powinna lecieć.
+T: Sprawdzasz dokumenty pasażerów | Oglądasz bagaż na ekranie skanera | Przeszukujesz pasażerów przy bramce | Tłumaczysz, czego nie wolno przewozić
+D: 4:30 Przejmujesz bramkę na poranny szczyt | 6:00 Oglądasz torby na ekranie, jedna budzi wątpliwości | 10:00 Prosisz pasażera o opróżnienie kieszeni | 13:00 Tłumaczysz rodzinie, czego nie wolno wziąć na pokład
+Y: Znajdź w internecie, jakich rzeczy nie wolno zabrać w bagażu podręcznym samolotu, i zapisz pięć.
+
+@2055
+H: Reagujesz, gdy u klienta włączy się alarm. Sprawdzasz, czy to włamanie, czy awaria, i w razie potrzeby wzywasz policję.
+T: Monitorujesz sygnały alarmowe z obiektów | Sprawdzasz przyczynę alarmu | Dzwonisz do klienta lub policji | Zapisujesz każde zdarzenie w rejestrze
+D: 22:00 Przejmujesz dyżur przy ekranach z alarmami | 0:30 Alarm w sklepie, dzwonisz do właściciela | 2:00 Brak odpowiedzi, wzywasz policję na miejsce | 5:00 Zapisujesz zdarzenia i przekazujesz dyżur
+Y: Zrób listę trzech pytań, które zadasz właścicielowi sklepu, gdy w jego lokalu włączy się alarm.
+
+@2056
+H: Znasz swoją okolicę i jej mieszkańców, chodzisz po niej i reagujesz na problemy. Rozmawiasz z ludźmi, przekazujesz zgłoszenia dalej i w razie potrzeby wystawiasz mandaty.
+T: Patrolujesz swój rejon pieszo | Rozmawiasz z mieszkańcami o problemach | Reagujesz na zakłócanie porządku | Współpracujesz z policją i urzędem gminy
+D: 7:30 Odprawa i plan obchodu rejonu | 9:30 Rozmowa ze sprzedawcą o kradzieżach w okolicy | 12:00 Zgłoszenie o hałasie, idziesz na miejsce | 15:00 Piszesz notatkę i spotykasz się z urzędnikiem
+Y: Obejdź swój blok lub podwórko i zapisz trzy rzeczy, które mogłyby poprawić bezpieczeństwo.
+
+@2057
+H: Patrolujesz wybrzeże i morze, pomagasz przy wypadkach i pilnujesz przepisów na wodzie. Gdy ktoś wzywa pomocy, ruszasz na poszukiwania.
+T: Patrolujesz wody i brzeg łodzią | Prowadzisz akcje poszukiwawcze i ratunkowe | Kontrolujesz statki i rybaków | Reagujesz na rozlewy i zanieczyszczenia
+D: 6:00 Sprawdzasz łódź patrolową i pogodę | 8:30 Patrol przy brzegu, kontrola kutra rybackiego | 12:00 Zgłoszenie o dryfującym żaglowcu, płyniesz tam | 16:00 Spisujesz raport i uzupełniasz paliwo
+Y: Znajdź na mapie polskie wybrzeże i wskaż trzy miejsca, gdzie mogą zdarzać się wypadki na wodzie.
+
+@2058
+H: Stoisz na płycie lotniska i gestami lub świetlnymi pałkami pokazujesz pilotowi, którędy ma jechać i gdzie stanąć. Prowadzisz też samochód, za którym podąża samolot.
+T: Dajesz pilotom sygnały rękami | Prowadzisz samolot na stanowisko postojowe | Pokazujesz moment wyłączenia silników | Kierujesz samolot samochodem prowadzącym
+D: 5:00 Odprawa i sprawdzenie odblaskowego ubrania | 6:00 Prowadzisz pierwszy samolot na stanowisko | 11:00 Pokazujesz pilotowi stop i wyłączenie silników | 15:00 Samochodem prowadzisz samolot na pas
+Y: Poproś domownika, by udawał samolot, i poprowadź go po pokoju samymi gestami, bez słów.
+
+@2059
+H: Jedziesz tam, gdzie przyszła powódź lub awaria, i pomagasz. Usuwasz skutki, zabezpieczasz teren i dowozisz żywność oraz leki.
+T: Usuwasz gruz i pozostałości po zdarzeniu | Zabezpieczasz teren przed dalszymi szkodami | Zapewniasz poszkodowanym schronienie | Rozwozisz żywność i artykuły medyczne
+D: 6:00 Zbiórka i przydział zadań | 8:00 Dojazd na zalane osiedle | 11:00 Układasz worki z piaskiem przy domach | 18:00 Rozwozisz koce i jedzenie do schronisk
+Y: Wypisz dziesięć rzeczy, które trzeba spakować do awaryjnego plecaka na dobę bez prądu.
+
+@2060
+H: Siedzisz na wieży nad basenem lub kąpieliskiem i obserwujesz ludzi w wodzie. Gdy ktoś tonie, wchodzisz do wody, a potem udzielasz pierwszej pomocy.
+T: Obserwujesz osoby w wodzie | Upominasz za niebezpieczne zachowania | Wyciągasz tonących z wody | Udzielasz pierwszej pomocy
+D: 8:00 Sprawdzasz sprzęt ratunkowy i temperaturę wody | 10:00 Obserwujesz basen z wieży, upominasz skaczących | 13:00 Dziecko traci siły, wskakujesz do wody | 17:00 Wpisujesz zdarzenia do dziennika
+Y: Zapamiętaj kolejność pierwszej pomocy: bezpieczeństwo, reakcja, oddech, wezwanie pomocy, i powtórz ją z pamięci.
+
+@2061
+H: Chodzisz lub jeździsz po mieście i pilnujesz przepisów o parkowaniu i porządku. Reagujesz na zgłoszenia, wypisujesz mandaty i pomagasz przy incydentach.
+T: Kontrolujesz parkowanie na ulicach | Wystawiasz mandaty za wykroczenia | Reagujesz na zgłoszenia mieszkańców | Pomagasz przy zdarzeniach w mieście
+D: 7:00 Odprawa i przydział rejonu | 9:00 Auto blokuje chodnik, wypisujesz mandat | 12:30 Zgłoszenie o bezpańskim psie przy szkole | 15:00 Piszesz notatki służbowe z dnia
+Y: Przypomnij sobie trzy przepisy o parkowaniu i sprawdź w internecie, czy dobrze je pamiętasz.
+
+@2062
+H: Stoisz przy przejściu dla pieszych, zwykle przy szkole, i zatrzymujesz auta, żeby dzieci mogły przejść. Pracujesz na dworze w każdą pogodę, w krótkich blokach godzin.
+T: Zatrzymujesz samochody znakiem stop | Przeprowadzasz pieszych przez jezdnię | Obserwujesz nadjeżdżające pojazdy | Pilnujesz, żeby dzieci szły razem
+D: 7:00 Zakładasz kamizelkę, idziesz na przejście | 7:30 Zatrzymujesz auta i przepuszczasz uczniów | 11:30 Dzieci wracają, znów stoisz przy przejściu | 15:00 Ostatnia grupa uczniów przechodzi, kończysz zmianę
+Y: Narysuj schemat przejścia dla pieszych z oznaczeniami i napisz, kto kiedy ma pierwszeństwo.
+
+@2063
+H: Obsługujesz pompę w wozie strażackim, która tłoczy wodę do węży. Dbasz, żeby strażacy przy pożarze mieli odpowiednie ciśnienie i dość wody.
+T: Uruchamiasz pompę w wozie strażackim | Ustawiasz ciśnienie wody | Podłączasz węże do hydrantów | Pilnujesz zapasu wody i środków gaśniczych
+D: 7:00 Przejmujesz zmianę, sprawdzasz pompę i zbiornik | 10:00 Ćwiczysz rozwijanie węży z kolegami | 14:00 Alarm: pożar budynku, jedziesz na miejsce | 14:30 Przy pompie pilnujesz ciśnienia dla strażaków
+Y: Zmierz, ile wody leci z kranu do miski w 10 sekund, i przelicz na minutę.
+
+@2064
+H: Należysz do zespołu, który schodzi do kopalni, gdy dojdzie do wypadku. Ratujesz uwięzionych górników i działasz w trudnych warunkach pod ziemią.
+T: Schodzisz do kopalni na akcje | Szukasz uwięzionych górników | Korzystasz ze sprzętu do oddychania | Ćwiczysz akcje ratunkowe w sztolni treningowej
+D: 7:00 Sprawdzasz aparaty oddechowe w stacji ratownictwa | 9:00 Trening w ciemnym chodniku z kolegami | 13:00 Alarm o zawale, zbiórka i zjazd | 15:00 Szukasz zasypanych i wynosisz ich na powierzchnię
+Y: Naucz się z pamięci zgłoszenia wypadku: kto, co, gdzie, ile osób. Ćwicz je na głos.
+
+@2065
+H: Gasisz pożary w zakładach przemysłowych, gdzie płoną też niebezpieczne substancje. Pilnujesz też, żeby zakład przestrzegał zasad bezpieczeństwa.
+T: Gasisz pożary w halach i zakładach | Zapobiegasz wybuchom niebezpiecznych substancji | Kontrolujesz zgodność zakładu z przepisami | Oceniasz szkody po pożarze
+D: 7:00 Przegląd sprzętu i ubrań ochronnych | 9:30 Kontrola gaśnic i dróg ewakuacji w fabryce | 14:00 Alarm: pożar w hali, ruszasz wozem | 19:00 Po akcji oceniasz zniszczenia i piszesz raport
+Y: Sprawdź w internecie, co znaczą piktogramy ostrzegawcze na opakowaniach, i zapisz pięć z nich.
+
+@2066
+H: Gasisz pożary na statkach, w portach i dokach, gdzie wszystko dzieje się przy wodzie. Kontrolujesz też bezpieczeństwo instalacji morskich.
+T: Gasisz ogień na pokładzie statku | Pracujesz z łodzi gaśniczej | Sprawdzasz zabezpieczenia w porcie | Opisujesz szkody po akcji
+D: 6:30 Sprawdzasz łódź gaśniczą w porcie | 9:00 Kontrola zabezpieczeń na statku towarowym | 13:00 Alarm: dym z maszynowni statku przy nabrzeżu | 17:00 Sprzątanie i raport ze szkód
+Y: Znajdź w internecie zdjęcie portu i wskaż, gdzie mogłaby stać łódź gaśnicza i skąd brać wodę.
+
+@2067
+H: Pilnujesz młodych ludzi, którzy popełnili przestępstwa, i dbasz o porządek w placówce. Obserwujesz ich w ciągu dnia i zapisujesz, co się dzieje.
+T: Pilnujesz porządku w placówce | Nadzorujesz zajęcia i posiłki | Spisujesz raporty z dnia i incydentów | Wspierasz program resocjalizacji
+D: 6:00 Przejmujesz oddział i liczysz wychowanków | 8:00 Pilnujesz śniadania i wyjścia na zajęcia | 14:00 Rozdzielasz kłótnię w świetlicy | 17:30 Piszesz raport i przekazujesz zmianę
+Y: Napisz w pięciu zdaniach, jak spokojnie rozdzielić kłótnię dwóch młodszych osób.
+
+@2068
+H: Pilnujesz osadzonych w zakładzie karnym, kontrolujesz cele i nadzorujesz odwiedziny. Pracujesz na zmiany, także w nocy i w święta.
+T: Liczysz i kontrolujesz osadzonych | Przeszukujesz cele | Nadzorujesz widzenia i spacery | Prowadzisz dokumentację zdarzeń
+D: 7:00 Odbierasz oddział i liczysz osadzonych | 9:00 Kontrola cel i korytarzy | 14:00 Pilnujesz widzeń z rodzinami | 18:00 Wpisujesz do rejestru, co się wydarzyło
+Y: Ułóż listę pięciu punktów kontroli pomieszczenia i sprawdź według niej własny pokój.
+
+@2069
+H: Patrolujesz, reagujesz na zgłoszenia i ścigasz sprawców przestępstw. Dużo czasu spędzasz też na pisaniu dokumentów.
+T: Patrolujesz i reagujesz na zgłoszenia | Zatrzymujesz podejrzanych | Przesłuchujesz świadków i poszkodowanych | Piszesz protokoły i notatki
+D: 6:00 Odprawa i przydział rejonu | 8:00 Interwencja w sprawie kradzieży sklepowej | 12:00 Spisujesz zeznania świadka | 16:00 Piszesz protokoły w komisariacie
+Y: Obejrzyj minutowy fragment filmu, potem zapisz z pamięci jak najwięcej szczegółów, jak świadek składający zeznanie.
+

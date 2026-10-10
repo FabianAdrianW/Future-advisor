@@ -1,0 +1,180 @@
+@1680
+H: Sprawdzasz, czy aplikacja lub strona jest zrozumiała dla zwykłych ludzi, i opisujesz, gdzie się w niej gubią. Obserwujesz użytkowników przy pracy i podpowiadasz poprawki, zanim produkt trafi do wszystkich.
+T: Obserwujesz, jak użytkownicy wykonują zadania w aplikacji | Opisujesz profile i scenariusze typowych użytkowników | Notujesz miejsca, w których ktoś się gubi | Przekazujesz twórcom uwagi o poprawkach w projekcie
+D: 9:00 Przygotowujesz scenariusz zadań dla badanych użytkowników | 11:00 Siedzisz obok osoby, która szuka przycisku | 13:30 Przeglądasz notatki i zaznaczasz powtarzające się problemy | 15:30 Pokazujesz zespołowi, gdzie ludzie zawsze się zacinają
+Y: Poproś kogoś z domu, by znalazł w twoim telefonie ustawienie jasności, i zapisz, gdzie się zawahał.
+
+@1681
+H: Planujesz, co zrobić, gdy w firmie padnie serwer albo zniknie dostęp do systemów. Piszesz procedury i organizujesz próby, żeby dane wróciły szybko i bez strat.
+T: Oceniasz, co w firmie może się zepsuć | Piszesz procedury przywracania systemów po awarii | Koordynujesz testy kopii zapasowych | Wspierasz techników podczas ćwiczeń awaryjnych
+D: 8:30 Sprawdzasz raport z nocnego testu kopii zapasowej | 10:30 Spotkanie z technikami o słabych punktach serwerowni | 13:00 Poprawiasz instrukcję krok po kroku na wypadek awarii | 15:00 Ćwiczenie: udajecie awarię i mierzysz czas powrotu
+Y: Spisz na kartce plan: co robisz i w jakiej kolejności, gdy w domu przestaje działać internet.
+
+@1682
+H: Wymyślasz, jak sprawdzić produkt, zanim trafi do klientów, i spisujesz te sprawdzenia jako scenariusze. Potem testerzy wykonują je krok po kroku.
+T: Czytasz wymagania i szukasz miejsc ryzykownych | Piszesz scenariusze testowe krok po kroku | Przewidujesz nietypowe zachowania użytkownika | Oceniasz jakość i dokładność produktu
+D: 9:00 Czytasz opis nowej funkcji i zadajesz pytania | 10:30 Układasz listę przypadków: błędne hasło, pusty formularz | 13:00 Omawiasz scenariusze z testerem, który ich użyje | 15:00 Poprawiasz test, który nie wykrył wczorajszego błędu
+Y: Napisz scenariusz testu dla zwykłego budzika w telefonie: pięć kroków i dwa nietypowe przypadki.
+
+@1683
+H: Kierujesz zespołem, który sprawdza, czy firmowe systemy informatyczne są bezpieczne, dokładne i zgodne z zasadami. Oceniasz ryzyko i decydujesz, co trzeba poprawić.
+T: Przydzielasz audytorom systemy do sprawdzenia | Czytasz raporty z audytów | Oceniasz ryzyko dla całej organizacji | Zalecasz usprawnienia kontroli i zmian w systemie
+D: 8:30 Ustalasz z zespołem, kto bada który system | 10:00 Czytasz raport audytora o brakach w dostępach | 13:00 Spotykasz się z informatykami, by omówić zalecenia | 15:30 Zatwierdzasz plan kontroli na następny kwartał
+Y: Zrób listę pięciu zasad dobrego hasła i przy każdej zapisz, czy je stosujesz, bez podawania haseł.
+
+@1684
+H: Odpowiadasz za to, żeby informatyka w firmie spełniała ustalone normy jakości. Pilnujesz zasad, certyfikatów i liczb, które pokazują, czy jakość spada.
+T: Wprowadzasz systemy zarządzania jakością w dziale IT | Pilnujesz zgodności z normami i certyfikatami | Analizujesz dane i prognozujesz problemy z jakością | Sprawdzasz, czy zabezpieczenia danych działają
+D: 8:30 Przeglądasz wykres liczby błędów z ostatniego miesiąca | 10:30 Rozmawiasz z liderami zespołów o brakach w procedurach | 13:00 Przygotowujesz dokumenty na wizytę zewnętrznego audytora | 15:00 Wyznaczasz cele jakości na kolejny kwartał
+Y: Wybierz jedną swoją rutynę, np. pakowanie plecaka, i spisz trzy punkty kontroli, które sprawdzają jej jakość.
+
+@1685
+H: Sprawdzasz, czy dane w firmie są poprawne i spójne, i czy nie rozjeżdżają się między systemami. Szukasz błędów u źródła i ustalasz zasady, jak dane mają być wpisywane.
+T: Przeglądasz dane i wyłapujesz błędy | Sprawdzasz spójność danych między systemami | Piszesz standardy jakości danych | Monitorujesz przepływy danych i ich zgodność z normami
+D: 8:30 Uruchamiasz kontrolę, wychodzą zdublowane rekordy klientów | 10:30 Wyjaśniasz z działem sprzedaży, dlaczego daty mają różne formaty | 13:00 Dopisujesz do standardu zasadę wpisywania adresów | 15:00 Sprawdzasz, czy poprawka naprawiła błędy w raportach
+Y: Przejrzyj własny plan lekcji i sprawdź, czy godziny i skróty nazw są wszędzie zapisane tak samo.
+
+@1686
+H: Przekładasz projekty ekranów na działający kod aplikacji na telefony i tablety. Sprawdzasz na urządzeniu, czy przyciski i funkcje reagują tak, jak mają.
+T: Zamieniasz projekt ekranu na kod | Programujesz działanie przycisków i funkcji | Testujesz aplikację na telefonie | Poprawiasz błędy zgłoszone przez testerów
+D: 9:00 Czytasz zadanie: nowy ekran logowania w aplikacji | 10:30 Piszesz kod i od razu odpalasz go w telefonie | 13:30 Naprawiasz błąd, przez który aplikacja się zawiesza | 16:00 Pokazujesz kolegom z zespołu gotową funkcję
+Y: Narysuj na kartce trzy ekrany prostej aplikacji do listy zadań i połącz je strzałkami.
+
+@1687
+H: Na podstawie projektu piszesz program, który ma działać w konkretnej dziedzinie, np. w sklepie albo magazynie. Dobierasz język programowania i narzędzia do tego, co program ma robić.
+T: Piszesz kod według przekazanego projektu | Dobierasz język i narzędzia do zadania | Uruchamiasz program i szukasz błędów | Łączysz swoją część z kodem kolegów
+D: 9:00 Czytasz projekt modułu i pytasz o szczegóły | 10:30 Piszesz funkcję, która liczy sumy zamówień | 13:00 Program wyrzuca błąd, szukasz przyczyny linijka po linijce | 15:30 Wysyłasz zmiany do wspólnego repozytorium kodu
+Y: Zapisz na kartce instrukcję krok po kroku, jak komputer ma dodać trzy liczby i pokazać wynik.
+
+@1688
+H: Piszesz programy, które działają w małych urządzeniach, np. w pralce, czujniku albo sterowniku, a nie na zwykłym komputerze. Opisujesz, jak to działa, i utrzymujesz kod przez lata.
+T: Piszesz oprogramowanie dla układu w urządzeniu | Wgrywasz program na płytkę i sprawdzasz działanie | Dokumentujesz, jak działa kod | Utrzymujesz i poprawiasz starsze wersje oprogramowania
+D: 8:30 Wgrywasz nową wersję programu na płytkę testową | 10:30 Urządzenie nie reaguje na przycisk, szukasz przyczyny | 13:00 Opisujesz w dokumentacji, jak czujnik przekazuje odczyty | 15:00 Sprawdzasz, czy program mieści się w małej pamięci
+Y: Wypisz na kartce, jakie przyciski i czujniki ma pralka, i opisz, co program robi po każdym.
+
+@1689
+H: Piszesz programy, które sterują maszynami i automatami na produkcji, np. obrabiarką wycinającą części. Najpierw robisz symulację na komputerze, potem próbne uruchomienie na hali.
+T: Analizujesz projekt części i zamówienie | Piszesz program sterujący ruchem maszyny | Robisz symulację komputerową przed uruchomieniem | Prowadzisz uruchomienia próbne na hali
+D: 7:00 Oglądasz rysunek części i zamówienie na serię | 9:00 Piszesz program do wycinania otworów w płycie | 11:30 Symulacja pokazuje kolizję narzędzia, poprawiasz trasę | 13:30 Pierwsze próbne uruchomienie na maszynie w hali
+Y: Narysuj kwadrat z dwoma otworami i zapisz słowami ruchy narzędzia, które by je wycięło.
+
+@1690
+H: Piszesz aplikacje na ręczne urządzenia używane w pracy, np. skanery w magazynie. Dopasowujesz je do tego, czego potrzebuje dany zakład.
+T: Programujesz aplikacje na ręczne urządzenia przemysłowe | Rozmawiasz z pracownikami zakładu o potrzebach | Dopasowujesz ekrany do pracy w rękawicach | Testujesz aplikację w hali, nie tylko przy biurku
+D: 8:00 Rozmawiasz z magazynierem o niewygodnym ekranie skanera | 10:00 Piszesz nowy ekran do potwierdzania wydanych towarów | 12:30 Idziesz na halę sprawdzić aplikację w prawdziwej pracy | 15:00 Poprawiasz błąd zgłoszony przez zmianę nocną
+Y: Wymyśl i narysuj ekran dla magazyniera, który ma w jednej ręce paczkę: duże przyciski, mało tekstu.
+
+@1691
+H: Ustawiasz gotowy system tak, żeby pasował do konkretnej firmy: zasady, role użytkowników, parametry. Zwykle nie piszesz wszystkiego od zera, tylko dostosowujesz to, co już istnieje.
+T: Zbierasz wymagania użytkowników i zasady firmy | Ustawiasz parametry i role w systemie | Zapisujesz każdą konfigurację dla danego klienta | Przygotowujesz konkretne moduły pod potrzeby firmy
+D: 8:30 Czytasz, jak dział księgowości chce widzieć raporty | 10:00 Ustawiasz role: kto zatwierdza, a kto tylko ogląda | 13:00 Dokumentujesz zmiany wprowadzone w ustawieniach klienta | 15:00 Sprawdzasz z użytkownikiem, czy system działa po jego myśli
+Y: Zapisz zasady dla domowej listy obowiązków: kto co robi, kto zatwierdza i co się zmienia w weekend.
+
+@1692
+H: Pytasz przyszłych użytkowników, czego potrzebują od programu, i zamieniasz to na jasną specyfikację dla programistów. Jesteś pośrednikiem: tłumaczysz potrzeby ludzi na język zespołu.
+T: Rozmawiasz z użytkownikami o ich potrzebach | Ustalasz, które wymagania są najważniejsze | Piszesz specyfikację oprogramowania | Sprawdzasz, czy gotowy program spełnia opis
+D: 9:00 Wywiad z pracownikami, którzy będą używać programu | 11:00 Zapisujesz wymagania i oznaczasz te najpilniejsze | 13:30 Tłumaczysz programistom, o co chodzi użytkownikom | 15:30 Przeglądasz wersję testową i porównujesz ją ze specyfikacją
+Y: Zapytaj kogoś w domu, czego brakuje w jego ulubionej aplikacji, i zapisz trzy konkretne wymagania.
+
+@1693
+H: Planujesz, z jakich części ma się składać system i jak mają ze sobą współpracować, zanim programiści zaczną pisać kod. Odpowiadasz na pytanie, jak zbudować program, który spełni wymagania klienta.
+T: Tworzysz model techniczny i funkcjonalny systemu | Rysujesz architekturę z modułami i połączeniami | Dobierasz platformę i język programowania | Omawiasz projekt z programistami i klientem
+D: 9:00 Czytasz specyfikację funkcji i notujesz pytania | 10:30 Rysujesz na tablicy moduły i strzałki między nimi | 13:00 Dyskutujesz z programistami, czy podział modułów ma sens | 15:30 Poprawiasz diagram po uwagach klienta
+Y: Narysuj klocki i strzałki pokazujące, z jakich części składa się sklep internetowy i jak się łączą.
+
+@1694
+H: Piszesz kod tego, co użytkownik widzi i klika w systemie: przyciski, formularze, menu. Pracujesz w technologiach front-end, czyli w tej części, która działa w przeglądarce.
+T: Programujesz przyciski, formularze i menu | Przenosisz projekt graficzny na działający kod | Sprawdzasz wygląd na różnych ekranach | Piszesz dokumentację i utrzymujesz interfejs
+D: 9:00 Dostajesz makietę formularza od projektanta graficznego | 10:30 Kodujesz formularz i sprawdzasz go w przeglądarce | 13:00 Na małym telefonie przycisk wychodzi poza ekran | 15:00 Dopisujesz w dokumentacji, jak używać nowych elementów
+Y: Narysuj formularz zapisu na zajęcia: pola, przyciski i komunikat o błędzie, gdy pole jest puste.
+
+@1695
+H: Odpowiadasz za ochronę danych firmy i pracowników przed osobami, które nie mają do nich dostępu. Ustalasz zasady bezpieczeństwa dla wszystkich systemów i decydujesz, jakie zabezpieczenia wprowadzić.
+T: Określasz politykę bezpieczeństwa systemów informatycznych | Zarządzasz środkami ochrony we wszystkich systemach | Pilnujesz, żeby informacje były dostępne w razie potrzeby | Informujesz zarząd o zagrożeniach i decyzjach
+D: 8:30 Czytasz poranny raport o próbach włamań do sieci | 10:00 Spotkanie z zarządem o nowych zagrożeniach | 13:00 Zatwierdzasz zasady dostępu dla nowych pracowników | 16:00 Po wycieku w innej firmie sprawdzasz własne luki
+Y: Podziel rzeczy w swoim pokoju na trzy poziomy ważności i zapisz, jak zabezpieczasz każdy z poziomów.
+
+@1696
+H: Proponujesz i wprowadzasz poprawki bezpieczeństwa w sieci lub systemach firmy. Uczysz też pracowników zasad i reagujesz bezpośrednio, gdy coś zagraża sieci.
+T: Proponujesz aktualizacje zabezpieczeń | Szkolisz pracowników z zasad bezpieczeństwa | Doradzasz zespołom, jak chronić systemy | Reagujesz na zagrożenia w sieci lub systemie
+D: 8:00 Przeglądasz listę brakujących aktualizacji w systemach | 10:00 Prowadzisz szkolenie o fałszywych mailach dla księgowości | 12:30 Dostajesz zgłoszenie o podejrzanym logowaniu z zagranicy | 14:30 Blokujesz konto i sprawdzasz, do czego miało dostęp
+Y: Przygotuj trzy zdania ostrzeżenia dla domowników o fałszywej wiadomości z prośbą o kliknięcie linku.
+
+@1697
+H: Badasz i planujesz, jak organizacja ma się bronić przed atakami i szybko wracać do pracy po awarii. Opracowujesz modele, zasady i narzędzia, które to wzmacniają.
+T: Prowadzisz badania nad zagrożeniami cyfrowymi | Opracowujesz modele i polityki odporności | Planujesz narzędzia do odzyskiwania po awarii | Oceniasz, jak organizacja zniesie atak
+D: 9:00 Analizujesz opis ostatniego ataku na podobną firmę | 11:00 Rysujesz model: co padnie, jeśli zniknie łączność | 13:30 Spotykasz się z zespołem, by ustalić zasady odbudowy | 15:30 Piszesz wnioski z ćwiczenia awaryjnego dla zarządu
+Y: Wyobraź sobie, że telefon przestaje działać na dzień, i zapisz, co ważnego od niego zależy.
+
+@1698
+H: Wydobywasz dane z komputerów, telefonów i dysków na potrzeby śledztwa, także z urządzeń uszkodzonych lub zaszyfrowanych. Wyniki opisujesz tak, żeby można było przedstawić je jako fakty.
+T: Zabezpieczasz nośniki danych bez zmiany zawartości | Odtwarzasz ukryte lub uszkodzone pliki | Analizujesz zawartość urządzeń pod kątem śledztwa | Piszesz opinię i prezentujesz ustalenia
+D: 8:00 Przyjmujesz zabezpieczony dysk i spisujesz jego stan | 10:00 Robisz kopię dysku, by nie ruszać oryginału | 13:00 Szukasz skasowanych plików z kluczowego dnia | 15:30 Opisujesz w raporcie, co wynika z nośnika
+Y: Obejrzyj swój pokój jak miejsce zdarzenia i zapisz pięć śladów, że ktoś niedawno z niego korzystał.
+
+@1699
+H: Instalujesz, testujesz i obsługujesz bazy danych, w których firma przechowuje informacje. Ustawiasz zabezpieczenia i dopasowujesz bazę skryptami do potrzeb użytkowników.
+T: Instalujesz i testujesz systemy baz danych | Planujesz zabezpieczenia przed dostępem osób niepowołanych | Piszesz skrypty i pliki konfiguracji | Dostosowujesz bazę do potrzeb użytkowników
+D: 8:00 Sprawdzasz, czy nocna kopia bazy zapisała się poprawnie | 10:00 Dodajesz konto dla nowego działu z ograniczonymi prawami | 12:30 Zapytania z aplikacji działają wolno, szukasz przyczyny | 15:00 Piszesz skrypt, który co tydzień porządkuje stare wpisy
+Y: Zapisz, które informacje z twojego telefonu warto kopiować co dzień, a które raz w miesiącu, i dlaczego.
+
+@1700
+H: Łączysz kilka baz danych tak, żeby wymieniały się informacjami i działały jak jedna całość. Potem pilnujesz, żeby to połączenie się nie psuło.
+T: Łączysz różne bazy danych w jedną całość | Ustalasz, które pola odpowiadają sobie w bazach | Utrzymujesz działające połączenia między systemami | Naprawiasz połączenie, gdy dane przestają się przesyłać
+D: 8:30 Sprawdzasz, czy dane ze sklepu dotarły do magazynu | 10:30 Porównujesz dwa systemy, które inaczej zapisują daty | 13:00 Piszesz regułę przenoszenia danych z jednej bazy do drugiej | 15:00 Poprawiasz połączenie, które nie działa od rana
+Y: Połącz dwie swoje listy, np. plan lekcji i zajęć dodatkowych, w jedną tabelę i znajdź kolizje godzin.
+
+@1701
+H: Wymyślasz, jakie tabele i połączenia ma mieć baza, zanim ktokolwiek ją zbuduje. Rysujesz model, który pokazuje, jakie informacje trzeba zbierać i jak między sobą płyną.
+T: Określasz strukturę logiczną bazy danych | Rysujesz modele danych | Planujesz przepływy informacji między tabelami | Ustalasz, jakie dane trzeba zbierać
+D: 9:00 Pytasz klienta, jakie informacje o zamówieniach są ważne | 10:30 Rysujesz tabele klientów, zamówień i produktów | 13:00 Zaznaczasz powiązania: jeden klient, wiele zamówień | 15:00 Omawiasz model z administratorem, który go wdroży
+Y: Zaprojektuj na kartce bazę dla biblioteki szkolnej: wypisz tabele i połącz je liniami.
+
+@1702
+H: Planujesz i budujesz hurtownię danych, czyli duży zbiór informacji z wielu systemów, z którego powstają raporty. Ustalasz, kiedy i jak dane są pobierane, przekształcane i ładowane.
+T: Planujesz strukturę hurtowni danych | Tworzysz procesy ETL pobierające dane | Ustalasz harmonogram ładowania danych | Utrzymujesz raporty i monitorujesz ładowanie
+D: 7:30 Sprawdzasz, czy nocne ładowanie danych się udało | 10:00 Projektujesz tabelę, z której powstanie raport sprzedaży | 13:00 Ustalasz z analitykami, jak często odświeżać dane | 15:30 Poprawiasz proces, który zawiesza się przy dużych plikach
+Y: Wypisz trzy pytania, na które odpowiedzi chcesz mieć w raporcie z danych o swoim tygodniu, i skąd je wziąć.
+
+@1703
+H: Budujesz i zmieniasz bazy danych według projektu i znajomości systemów, w których działają. Koordynujesz zmiany tak, żeby istniejące dane nie zniknęły.
+T: Tworzysz tabele i zapytania w bazie | Wdrażasz zmiany w istniejącej bazie | Koordynujesz zmiany z innymi programistami | Sprawdzasz, czy po zmianie dane nadal się zgadzają
+D: 9:00 Dostajesz projekt tabel i budujesz je w bazie | 11:00 Piszesz zapytanie, które wyciąga zamówienia z tygodnia | 13:30 Dodajesz nową kolumnę bez utraty starych danych | 15:30 Uzgadniasz termin zmiany z zespołem aplikacji
+Y: Zapisz po polsku zapytanie do wymyślonej tabeli: pokaż uczniów, którzy mają ocenę wyższą niż 4.
+
+@1704
+H: Utrzymujesz sieci komputerowe firmy w ruchu: lokalne, rozległe i dostęp do internetu. Ustawiasz adresy, trasy przesyłu danych i uwierzytelnianie.
+T: Przydzielasz adresy sieciowe urządzeniom | Konfigurujesz trasy przesyłu danych | Ustawiasz uwierzytelnianie w sieci | Monitorujesz sieć i usuwasz awarie łączności
+D: 7:30 Patrzysz na panel i widzisz spadek prędkości sieci | 9:30 Dodajesz urządzenia nowego biura do sieci | 12:00 Oddział nie ma internetu, sprawdzasz trasę połączenia | 15:00 Zmieniasz ustawienia, żeby sieć była bezpieczniejsza
+Y: Sprawdź w ustawieniach telefonu, jakie informacje pokazuje połączenie z siecią, i zapisz trzy z nich.
+
+@1705
+H: Odpowiadasz za działanie komputerów, serwerów i sieci w firmie: instalujesz, aktualizujesz i naprawiasz. Automatyzujesz powtarzalne zadania i pomagasz pracownikom, gdy sprzęt zawodzi.
+T: Instalujesz i aktualizujesz serwery i stacje robocze | Automatyzujesz rutynowe zadania skryptami | Wykrywasz i usuwasz usterki | Pilnujesz kopii zapasowych i bezpieczeństwa systemów
+D: 8:00 Sprawdzasz, czy nocne aktualizacje przeszły na serwerach | 10:00 Pracownik nie może się zalogować, resetujesz mu dostęp | 13:00 Piszesz skrypt zakładający konta nowym osobom | 15:30 Wymieniasz zepsuty dysk w serwerze
+Y: Zapisz po kolei, co zrobisz, gdy rodzina zgłosi, że komputer w domu nagle działa bardzo wolno.
+
+@1706
+H: Dopasowujesz system komputerowy do potrzeb konkretnej organizacji: ustawiasz podstawę i oprogramowanie, a potem tłumaczysz użytkownikom, jak działa. Piszesz skrypty, które robią to za ciebie następnym razem.
+T: Dopasowujesz system podstawowy do klienta | Wykonujesz czynności konfiguracyjne krok po kroku | Piszesz skrypty do powtarzalnej konfiguracji | Kontaktujesz się z użytkownikami w sprawie ustawień
+D: 8:30 Czytasz, jakie stanowiska komputerowe potrzebuje nowy klient | 10:30 Instalujesz i ustawiasz system na komputerze wzorcowym | 13:00 Zamieniasz kroki konfiguracji w skrypt | 15:00 Dzwonisz do użytkownika, który nie widzi drukarki
+Y: Spisz w punktach kolejne ustawienia, które zmieniasz na nowym telefonie, żeby był gotowy do użycia.
+
+@1707
+H: Budujesz, utrzymujesz i planujesz sieci komputerowe, a także je modelujesz i zabezpieczasz. Doradzasz, jaki sprzęt i oprogramowanie do łączności wybrać.
+T: Wdrażasz i utrzymujesz sieci komputerowe | Modelujesz i analizujesz ruch w sieci | Projektujesz zabezpieczenia sieci i komputerów | Zalecasz sprzęt i oprogramowanie komunikacyjne
+D: 8:30 Analizujesz wykres obciążenia sieci z ostatniego tygodnia | 10:30 Sprawdzasz, czy sieć zniesie dodatkowych pięćdziesięciu użytkowników | 13:00 Porównujesz dwa urządzenia sieciowe i wybierasz jedno | 15:00 Wdrażasz nowe zabezpieczenia na urządzeniach w biurze
+Y: Porównaj dwa sposoby podłączenia komputera do internetu i zapisz po trzy wady i zalety każdego.
+
+@1708
+H: Sprawdzasz, czy systemy i sieci firmy udźwigną przyszłe obciążenie, i planujesz zasoby z wyprzedzeniem. Liczysz, ile mocy potrzeba za miesiąc i za rok, żeby nie przepłacić.
+T: Mierzysz obciążenie usług i infrastruktury | Prognozujesz zapotrzebowanie na moc na kolejne miesiące | Planujesz zasoby potrzebne do świadczenia usług | Dobierasz rozwiązania, które mieszczą się w kosztach
+D: 8:30 Patrzysz na wykres zużycia serwerów z ostatniego miesiąca | 10:30 Liczysz, ile mocy zje planowana wyprzedaż | 13:00 Rozmawiasz z biznesem o planach na kolejny rok | 15:00 Piszesz plan: kiedy trzeba dokupić zasoby
+Y: Zapisz o czterech porach dnia, ile osób w domu korzysta z internetu, i znajdź godzinę największego obciążenia.
+
+@1709
+H: Projektujesz, jak mają być połączone urządzenia w sieci: sprzęt, kable, łączność i punkty dostępowe. Najpierw powstaje plan na papierze lub w komputerze, dopiero potem ktoś montuje.
+T: Planujesz topologię sieci | Dobierasz sprzęt i elementy infrastruktury | Rysujesz schematy połączeń między budynkami | Uwzględniasz potrzeby komunikacji w nowym biurze
+D: 9:00 Dostajesz plan nowego biura z liczbą stanowisk | 10:30 Rysujesz, gdzie stanie sprzęt i którędy pójdą kable | 13:00 Dobierasz urządzenia pod liczbę użytkowników | 15:30 Omawiasz projekt z monterami, którzy go wykonają
+Y: Narysuj plan sieci dla mieszkania z czterema pokojami: gdzie ustawisz router i którędy poprowadzisz kable.
+

@@ -1,0 +1,180 @@
+@1050
+H: Składasz fortepiany i pianina z drewnianych części według planów. Szlifujesz drewno, stroisz gotowy instrument i sprawdzasz każdy dźwięk.
+T: Składasz części instrumentu według schematu | Szlifujesz drewniane elementy do gładkiej powierzchni | Dostrajasz struny do właściwej wysokości dźwięku | Testujesz każdy klawisz w gotowym instrumencie
+D: 7:00 Czytasz rysunek montażowy nowej obudowy | 9:00 Szlifujesz boki obudowy, aż drewno jest gładkie | 12:30 Montujesz klawiaturę i sprawdzasz, czy klawisze chodzą równo | 15:00 Stroisz instrument i grasz każdą oktawę
+Y: Obejrzyj zdjęcie wnętrza pianina i narysuj drogę od naciśniętego klawisza do uderzenia młoteczka w strunę.
+
+@1051
+H: Budujesz gitary z drewna: kształtujesz części, mocujesz struny i sprawdzasz brzmienie. Pracujesz powoli, bo każdy błąd słychać w gotowym instrumencie.
+T: Obrabiasz drewno na korpus i gryf | Mierzysz i mocujesz struny | Sprawdzasz brzmienie każdej struny | Oglądasz gotową gitarę pod kątem wad
+D: 8:00 Wybierasz deski i rysujesz na nich kształt korpusu | 10:00 Szlifujesz korpus, aż jest gładki w dotyku | 13:00 Mocujesz struny i mierzysz ich wysokość nad gryfem | 16:00 Grasz każdą strunę i szukasz brzęczenia
+Y: Napnij gumkę recepturkę na kartonowym pudełku, szarp ją i naciskaj w różnych miejscach, słuchając, jak zmienia się dźwięk.
+
+@1052
+H: Budujesz harfy, czyli instrumenty z wieloma strunami o różnej długości. Szlifujesz drewno, mocujesz struny i sprawdzasz, czy każda brzmi czysto.
+T: Szlifujesz drewniane części ramy | Mierzysz i mocujesz wiele strun | Testujesz jakość każdej struny osobno | Sprawdzasz gotową harfę przed oddaniem
+D: 7:30 Czytasz plan harfy i wybierasz drewno | 9:30 Szlifujesz drewniany łuk, który będzie trzymał struny | 12:00 Odmierzasz struny, z których każda ma inną długość | 15:00 Szarpiesz kolejno wszystkie struny i szukasz fałszu
+Y: Rozciągnij na kartonowej ramce pięć gumek różnej długości, szarp je i ułóż od najniższego do najwyższego dźwięku.
+
+@1053
+H: Jako lutnik budujesz instrumenty strunowe z drewna: wybierasz materiał, kształtujesz części i mocujesz struny. Każdy instrument sprawdzasz uchem i wzrokiem, zanim trafi do muzyka.
+T: Wybierasz drewno i kształtujesz części instrumentu | Szlifujesz powierzchnie do gładkości | Mierzysz i mocujesz struny | Testujesz brzmienie i oglądasz gotowy instrument
+D: 8:00 Oglądasz deski i wybierasz te o dobrym dźwięku | 10:00 Wycinasz i wygładzasz element korpusu | 13:30 Składasz części i mocujesz struny | 16:00 Muzyk testuje instrument, a ty słuchasz uwag
+Y: Opukaj knykciem trzy drewniane przedmioty w domu i posłuchaj, który dźwięczy najdłużej i najczyściej.
+
+@1054
+H: Budujesz skrzypce od początku do końca: z drewna powstaje korpus, a potem montujesz struny. Od najmniejszego szczegółu zależy brzmienie, więc pracujesz z milimetrową dokładnością.
+T: Wycinasz i wygładzasz drewniane części skrzypiec | Składasz je w całość według instrukcji | Mierzysz i mocujesz struny | Testujesz jakość dźwięku i sprawdzasz gotowy instrument
+D: 7:30 Szlifujesz cienką deskę, z której powstanie płyta skrzypiec | 10:00 Dopasowujesz części, mierząc co do milimetra | 13:00 Mocujesz struny i sprawdzasz ich napięcie | 16:00 Próbujesz brzmienie strun i notujesz poprawki
+Y: Narysuj skrzypce z przodu i z boku, podpisując korpus, gryf i ślimak.
+
+@1055
+H: Budujesz instrumenty, w których brzmi sam materiał: szkło, metal, ceramika albo drewno, na przykład dzwonki czy ksylofony. Kształtujesz, wiercisz i szlifujesz części, a potem sprawdzasz, jak brzmią.
+T: Nadajesz kształt częściom ze szkła, metalu lub drewna | Wiercisz i szlifujesz elementy | Czyścisz gotowe części przed montażem | Uderzasz w gotowy instrument i oceniasz dźwięk
+D: 8:00 Czytasz rysunek i wybierasz materiał na elementy | 10:00 Wiercisz otwory i szlifujesz brzegi sztabek | 13:00 Montujesz części na ramie instrumentu | 15:30 Uderzasz w każdy element i oceniasz czystość dźwięku
+Y: Uderz delikatnie drewnianą łyżką w trzy garnki lub pokrywki i posłuchaj, który brzmi najwyżej, a który najdłużej.
+
+@1056
+H: Budujesz instrumenty dęte, takie jak trąbki, puzony czy klarnety, z rurek, wentyli, tłoków i ustników. Mierzysz, tniesz i montujesz części, a na koniec sprawdzasz, czy instrument gra.
+T: Mierzysz i przecinasz rurki na odpowiednią długość | Montujesz wentyle, tłoki i ustniki | Sprawdzasz, czy części pasują do siebie | Dmuchasz w gotowy instrument i oceniasz dźwięk
+D: 8:00 Odmierzasz i tniesz rurki według rysunku | 10:30 Montujesz wentyle i sprawdzasz ich ruch | 13:00 Dopasowujesz ustnik do korpusu instrumentu | 15:00 Dmuchasz w gotowy instrument, notujesz poprawki
+Y: Dmuchaj w poprzek otworu pustej butelki i posłuchaj, jak dźwięk zmienia się po dolaniu odrobiny wody.
+
+@1057
+H: Budujesz bębny i inne instrumenty z napiętą membraną. Naciągasz membranę na ramę, mocujesz ją i sprawdzasz, jak brzmi.
+T: Składasz ramę lub korpus instrumentu według schematu | Naciągasz membranę i mocujesz ją na ramie | Sprawdzasz napięcie, uderzając w różnych miejscach | Oceniasz jakość gotowego instrumentu
+D: 8:00 Przygotowujesz ramę bębna i membranę | 10:00 Naciągasz membranę równomiernie wokół ramy | 13:00 Mocujesz ją i dokręcasz napięcie wokół brzegu | 15:30 Uderzasz w bęben i słuchasz, czy brzmi równo
+Y: Naciągnij folię spożywczą na dużą miskę, postukaj palcami i posłuchaj, jak zmienia się dźwięk przy mocniejszym naciągu.
+
+@1058
+H: Pomagasz muzykom przed koncertem, w jego trakcie i po nim: ustawiasz instrumenty i sprzęt na scenie. Stroisz, naprawiasz i szybko wymieniasz to, co zawodzi w trakcie występu.
+T: Ustawiasz instrumenty i sprzęt muzyków na scenie | Stroisz instrumenty przed wejściem artysty | Naprawiasz usterki w trakcie koncertu | Pomagasz w szybkich zmianach instrumentów między utworami
+D: 14:00 Rozkładasz sprzęt zespołu na scenie według planu | 16:00 Próba dźwięku: stroisz gitary i sprawdzasz kable | 21:00 Koncert: stoisz za kulisami z zapasową gitarą | 23:30 Pakujesz instrumenty do futerałów i ładujesz do auta
+Y: Napisz listę dziesięciu rzeczy, które muzyk powinien mieć przygotowane na scenie przed koncertem, z zapasowymi częściami.
+
+@1059
+H: Konserwujesz, stroisz i naprawiasz instrumenty: od pianin i organów po skrzypce i instrumenty orkiestrowe. Pracujesz w warsztacie albo przy instrumencie, którego nie da się przewieźć.
+T: Stroisz fortepiany, pianina i organy piszczałkowe | Naprawiasz uszkodzone części instrumentów | Konserwujesz instrumenty, by dłużej służyły | Szukasz usterki, słuchając dźwięku
+D: 8:00 Dojazd do kościoła z organami piszczałkowymi | 9:00 Stroisz piszczałki jedną po drugiej | 13:00 W warsztacie wymieniasz pękniętą strunę w pianinie | 16:00 Konserwujesz skrzypce i oddajesz je właścicielowi
+Y: Zanuć dźwięk, potem drugi odrobinę wyższy, i naucz się słyszeć różnicę, powtarzając to dziesięć razy z rzędu.
+
+@1060
+H: Grawerujesz na biżuterii litery i ozdobne wzory ręcznymi narzędziami. Najpierw szkicujesz napis, potem ustalasz jego miejsce, a na końcu wycinasz go w metalu i czyścisz przedmiot.
+T: Szkicujesz litery i wzory na papierze | Ustalasz rozmieszczenie napisu na przedmiocie | Grawerujesz ręcznym narzędziem w metalu | Czyścisz gotową ozdobę
+D: 9:00 Rozmowa z klientem, który chce napis na pierścionku | 10:30 Szkicujesz napis w powiększeniu, żeby dobrać krój liter | 13:00 Grawerujesz pierwszą literę pod lupą | 16:00 Czyścisz przedmiot i sprawdzasz każdą literę
+Y: Narysuj ołówkiem w kwadracie 2 na 2 cm monogram z dwóch liter w ozdobnym kroju.
+
+@1061
+H: Tworzysz i naprawiasz biżuterię. Robisz woskowe lub metalowe modele, odlewasz je w metalu, a potem tniesz, piłujesz, lutujesz i polerujesz gotowy wyrób.
+T: Rzeźbisz woskowe modele ozdób do odlewu | Odlewasz metal w formie metodą traconego wosku | Piłujesz, szlifujesz i lutujesz elementy | Polerujesz gotowe pierścionki, wisiorki i bransolety
+D: 8:30 Rzeźbisz w wosku model nowego wisiorka | 10:30 Przygotowujesz formę do odlewu | 13:00 Odlewasz model w metalu metodą traconego wosku | 15:30 Piłujesz i lutujesz elementy, na końcu polerujesz
+Y: Zaprojektuj na kartce pierścionek i narysuj go trzy razy: z góry, z boku i od środka.
+
+@1062
+H: Naprawiasz zniszczoną biżuterię: zmieniasz rozmiar pierścionka, osadzasz ponownie kamień, lutujesz pęknięty łańcuszek. Czyścisz i polerujesz wszystko, zanim wróci do klienta.
+T: Zmieniasz rozmiar pierścionków i naszyjników | Osadzasz ponownie wypadnięte kamienie | Dobierasz metal pasujący do naprawianej ozdoby | Lutujesz, wygładzasz spoiny i polerujesz
+D: 9:00 Klient przynosi pierścionek, który jest za ciasny | 11:00 Powiększasz obrączkę, wstawiając do niej kawałek metalu | 14:00 Lutujesz zerwany łańcuszek i wygładzasz spoinę | 16:30 Czyścisz i polerujesz naprawione ozdoby do odbioru
+Y: Obwiń palec paskiem papieru, zmierz pasek linijką i podziel długość przez 3,14, żeby poznać średnicę pierścionka.
+
+@1063
+H: Wprawiasz diamenty i inne kamienie w biżuterię tak, żeby trzymały się mocno i dobrze wyglądały. Sposób osadzenia zależy od wielkości i kształtu każdego kamienia.
+T: Oglądasz kamień i oceniasz jego rozmiar i kształt | Dobierasz sposób osadzenia do danego kamienia | Wkładasz kamień w oprawę specjalnymi narzędziami | Sprawdzasz, czy kamień trzyma się mocno
+D: 8:30 Dostajesz zamówienie: pierścionek z jednym diamentem | 9:30 Mierzysz kamień i dobierasz oprawę | 11:30 Wciskasz kamień w oprawę i zaginasz ząbki | 15:00 Sprawdzasz pod lupą, czy nic się nie rusza
+Y: Ułóż na kartce trzy guziki lub koraliki różnej wielkości i narysuj dla każdego oprawę, która go utrzyma.
+
+@1064
+H: Tworzysz delikatną biżuterię z cienkich skręconych drucików i maleńkich kuleczek ze złota lub srebra. Układasz z nich ażurowy wzór i łączysz go z powierzchnią przedmiotu.
+T: Skręcasz cienkie druciki w delikatne sploty | Formujesz maleńkie kuleczki z metalu | Układasz druciki i kuleczki w dekoracyjny wzór | Łączysz wzór z powierzchnią przedmiotu
+D: 9:00 Rysujesz wzór, który wypełnisz drucikami | 10:30 Skręcasz dwa druciki w cienki sznureczek | 13:00 Układasz pęsetą kuleczki wzdłuż rysunku | 15:30 Łączysz delikatny wzór z podstawą przedmiotu
+Y: Zwiń z cienkiego sznurka lub wełny dziesięć małych spiral i ułóż z nich na kartce ażurowy wzór.
+
+@1065
+H: Robisz metalową oprawę, czyli koszyczek, w którym potem zostanie osadzony kamień. Pracujesz z drobnymi elementami, bo oprawa musi pasować do kamienia i do całej ozdoby.
+T: Wykonujesz oprawy pod kamienie szlachetne | Dopasowujesz rozmiar oprawy do kamienia | Składasz elementy ozdoby w całość | Sprawdzasz, czy oprawa jest równa i stabilna
+D: 8:30 Czytasz zamówienie: ile kamieni i jakiej wielkości | 10:00 Wyginasz drut w kształt oprawy | 13:00 Przymierzasz oprawę do próbnego kamienia | 15:30 Przekazujesz gotową oprawę jubilerowi do osadzenia
+Y: Wygnij palcami spinacz biurowy w kształt koszyczka i sprawdź, czy utrzyma koralik lub guzik.
+
+@1066
+H: Doprowadzasz gotową biżuterię do połysku: czyścisz ją, wygładzasz drobne rysy i przygotowujesz do sprzedaży lub odbioru. Używasz pilników, papieru ściernego i maszyn do polerowania.
+T: Wygładzasz powierzchnię pilnikiem i papierem ściernym | Polerujesz ozdoby na maszynach do polerowania | Usuwasz zarysowania i drobne wady | Sprawdzasz połysk i czystość gotowej biżuterii
+D: 7:30 Sprawdzasz zamówienia: które ozdoby czekają na wykończenie | 9:00 Wygładzasz ślady po obróbce papierem ściernym | 11:30 Polerujesz bransoletki na maszynie, aż błyszczą | 14:00 Oglądasz pod światło i pakujesz do odbioru
+Y: Pocieraj suchą, miękką szmatką metalową łyżeczkę przez pięć minut i porównaj jej połysk z drugą, niepolerowaną.
+
+@1067
+H: Projektujesz, wykonujesz i sprzedajesz biżuterię, głównie ze srebra i innych metali szlachetnych. Do tego regulujesz, naprawiasz i oceniasz biżuterię oraz kamienie klientów.
+T: Projektujesz wzory srebrnej biżuterii | Wykonujesz ozdoby w warsztacie | Naprawiasz i regulujesz biżuterię klientów | Doradzasz klientom w sklepie i sprzedajesz wyroby
+D: 9:00 Szkicujesz nową serię bransoletek ze srebra | 10:30 Lutujesz zawieszkę do łańcuszka | 13:00 Klientka prosi o skrócenie bransoletki | 16:00 Stoisz w sklepie i doradzasz przy wyborze prezentu
+Y: Narysuj trzy zawieszki w jednym stylu, a pod każdą napisz, dla kogo jest i na jaką okazję.
+
+@1068
+H: Projektujesz, robisz i sprzedajesz biżuterię ze złota i innych metali szlachetnych. Oceniasz też kamienie i ozdoby klientów oraz regulujesz je lub naprawiasz.
+T: Projektujesz biżuterię ze złota i innych metali szlachetnych | Odlewasz i obrabiasz złoto w warsztacie | Oceniasz stan i wartość kamieni i ozdób | Regulujesz i naprawiasz biżuterię klientów
+D: 9:00 Klient przynosi stary medalion do wyceny | 10:30 Oglądasz medalion pod lupą i opisujesz jego stan | 13:00 Przy stole pracy wykonujesz nowe ogniwo do bransolety | 15:30 Szkicujesz złotą broszkę na zamówienie
+Y: Opisz słowami, jak do karty wyceny, dowolną ozdobę z domu: kształt, kolor, wykończenie i ślady zużycia.
+
+@1069
+H: Szlifujesz i wycinasz diamenty oraz inne kamienie szlachetne na maszynach i narzędziach, według rysunku. Z surowego kamienia robisz ozdobny element, który trafia do pierścionka, broszki czy bransolety.
+T: Czytasz rysunek, który pokazuje kształt szlifu | Tniesz kamień na maszynie | Szlifujesz kolejne ścianki kamienia | Sprawdzasz wymiary i kształt gotowego kamienia
+D: 8:00 Oglądasz surowy kamień i planujesz cięcia | 9:30 Mocujesz kamień w uchwycie maszyny | 12:00 Szlifujesz ścianki jedną po drugiej | 15:00 Mierzysz gotowy kamień i porównujesz z rysunkiem
+Y: Narysuj z góry trzy kształty szlifu kamienia: okrągły, owalny i gruszkę, i podziel każdy na ścianki.
+
+@1070
+H: Zdobisz drewniane przedmioty, takie jak meble, figurki czy zabawki, rysunkami i wzorami. Używasz szablonów albo rysujesz odręcznie, zależnie od tego, co ma powstać.
+T: Projektujesz wzór pasujący do przedmiotu | Przenosisz wzór szablonem na drewno | Malujesz odręcznie drobne szczegóły | Wykańczasz zdobiony mebel lub zabawkę
+D: 8:30 Szkicujesz wzór kwiatów na szafkę dla dziecka | 10:00 Kładziesz szablon na desce i przenosisz kontury | 12:30 Malujesz pędzlem drobne liście i cienkie kreski | 15:00 Pokazujesz klientowi pomalowaną zabawkę
+Y: Wytnij z kartki szablon zwierzątka i obrysuj go trzy razy na kartonie, za każdym razem zdobiąc inaczej.
+
+@1071
+H: Zdobisz szklane przedmioty, takie jak okna, kieliszki i butelki, rysunkami i wzorami. Używasz szablonów albo malujesz odręcznie, a wzór musi dobrze wyglądać także pod światło.
+T: Projektujesz wzór pod kształt szklanego przedmiotu | Nakładasz szablon na powierzchnię szkła | Malujesz odręcznie na szkle lub kryształach | Sprawdzasz efekt pod światło
+D: 9:00 Projektujesz wzór na okno w drzwiach kawiarni | 11:00 Mocujesz szablon na kieliszku i przenosisz kontur | 13:30 Malujesz drobne liście na butelce pędzlem | 16:00 Oglądasz szkło pod światło i poprawiasz plamy
+Y: Narysuj na pasku papieru ciągły wzór, który po zwinięciu w rulon zamknie się wokół szklanki bez przerwy.
+
+@1072
+H: Zdobisz ceramikę, na przykład płytki, rzeźby i naczynia kuchenne. Projektujesz wzory i nanosisz je szablonem albo odręcznie.
+T: Projektujesz wzór pod płytkę lub naczynie | Przygotowujesz szablon do powtarzalnego motywu | Malujesz odręcznie detale na ceramice | Powtarzasz ten sam wzór na wielu sztukach
+D: 9:00 Szkicujesz motyw na serię płytek do kuchni | 11:00 Wycinasz szablon i sprawdzasz go na pierwszej płytce | 13:30 Malujesz ręcznie kwiaty na kubkach | 15:30 Porównujesz wszystkie sztuki, czy wzór jest taki sam
+Y: Narysuj wzór na kwadracie 10 na 10 cm tak, by cztery takie kwadraty obok siebie tworzyły większy wzór.
+
+@1073
+H: Zdobisz porcelanowe naczynia i płytki cienkimi, dokładnymi rysunkami. Malujesz drobne wzory pędzlem albo przenosisz je szablonem.
+T: Rysujesz bardzo cienkie kontury wzoru | Wypełniasz je kolorem pędzlem | Przenosisz motyw szablonem na filiżanki i talerze | Oglądasz każdą sztukę pod kątem drobnych błędów
+D: 8:30 Przygotowujesz kolory i pędzle do pracy | 9:30 Obrysowujesz kontur kwiatu na filiżance | 12:00 Wypełniasz płatki kolorem, jeden po drugim | 15:00 Sprawdzasz zestaw talerzy, czy wzory pasują
+Y: Narysuj cienką, równą kreską kwiat o dziesięciu płatkach i pokoloruj go dwoma kolorami, nie wychodząc poza linie.
+
+@1074
+H: Malujesz wzory i ilustracje na różnych powierzchniach: ceramice, szkle, tkaninie czy obudowach. Dobierasz materiały i technikę do powierzchni, od szablonu po rysunek odręczny.
+T: Projektujesz wzór pod konkretną powierzchnię | Dobierasz farby i technikę do materiału | Malujesz szablonem lub odręcznie | Dopasowujesz jeden motyw do różnych przedmiotów
+D: 9:00 Rozmowa z klientem o wzorze na obudowie | 10:30 Próbujesz farby na kawałku tkaniny | 13:00 Malujesz ten sam motyw na filiżance i butelce | 15:30 Sprawdzasz, czy kolory wyglądają równo na wszystkich sztukach
+Y: Narysuj ten sam prosty wzór w trzech wersjach: duży na całą kartkę, mały jak naklejka i pasek jak ramka.
+
+@1075
+H: Nacinasz rylcem rowki w metalu, aby powstał ozdobny wzór. Pracujesz na różnych metalowych przedmiotach, także na zdobieniach broni.
+T: Szkicujesz wzór na powierzchni metalu | Nacinasz rowki rylcem | Prowadzisz narzędzie równo wzdłuż linii wzoru | Oglądasz efekt pod kątem głębokości i symetrii
+D: 8:30 Przenosisz wzór na płytkę metalu | 10:00 Nacinasz pierwsze linie rylcem, powoli i równo | 13:00 Pogłębiasz rowki i poprawiasz zakręty | 15:30 Czyścisz powierzchnię i oglądasz wzór pod światło
+Y: Połóż kartkę na kilku gazetach i wytłocz wzór w kształcie inicjału pustym długopisem, mocno dociskając.
+
+@1076
+H: Grawerujesz na szkle litery i ozdobne wzory za pomocą ręcznych narzędzi. Szkicujesz napis, ustalasz jego miejsce na przedmiocie, grawerujesz i wykańczasz go.
+T: Szkicujesz napis lub wzór na papierze | Ustalasz położenie wzoru na szklanym przedmiocie | Grawerujesz ręcznie w powierzchni szkła | Wykańczasz i oglądasz gotowy przedmiot
+D: 9:00 Klient zamawia napis na kieliszkach na rocznicę | 10:30 Szkicujesz napis w trzech krojach liter | 13:00 Mocujesz kieliszek i delikatnie grawerujesz pierwszą literę | 16:00 Wykańczasz napis i oglądasz go pod światło
+Y: Napisz białą kredką na ciemnej kartce krótki napis z ozdobnymi zakończeniami liter.
+
+@1077
+H: Projektujesz szyldy, tablice i billboardy, a potem je wykonujesz i montujesz na miejscu. Dobierasz materiały i litery tak, żeby napis był widoczny z daleka.
+T: Projektujesz napisy na szyldy, plakaty i znaki | Dobierasz materiały i technikę wykonania | Montujesz oznakowanie na miejscu u klienta | Naprawiasz i konserwujesz stare szyldy
+D: 8:00 Oglądasz ścianę sklepu i mierzysz miejsce na szyld | 10:00 Projektujesz napis i wybierasz kolory | 13:00 Wycinasz litery i malujesz tło | 15:30 Montujesz gotowy szyld na ścianie budynku
+Y: Zaprojektuj na kartce szyld dla wymyślonego sklepu i sprawdź, czy litery da się odczytać z drugiego końca pokoju.
+
+@1078
+H: Naprawiasz i przeglądasz przyrządy optyczne, takie jak mikroskopy, teleskopy, kompasy czy części aparatów. Szukasz usterki, naprawiasz ją i sprawdzasz, czy przyrząd znów działa prawidłowo.
+T: Przeglądasz mikroskopy i teleskopy | Szukasz przyczyny, dla której obraz jest nieostry | Naprawiasz uszkodzone części przyrządów | Czytasz schematy, żeby poprawnie złożyć urządzenie
+D: 8:00 Oglądasz mikroskop z pracowni szkolnej, obraz jest nieostry | 10:30 Rozkładasz obudowę i sprawdzasz soczewki | 13:00 Wymieniasz uszkodzony element i składasz całość | 15:00 Patrzysz w okular i sprawdzasz ostrość obrazu
+Y: Przesuwaj lupę lub szklankę z wodą nad tekstem i zapisz, w jakiej odległości litery są największe i ostre.
+
+@1079
+H: Składasz przyrządy optyczne, takie jak mikroskopy, teleskopy czy sprzęt medyczny, według rysunków montażowych. Obrabiasz szkło, ustawiasz soczewki dokładnie na jednej osi i mocujesz je w oprawkach.
+T: Czytasz schematy i rysunki montażowe | Szlifujesz i polerujesz elementy ze szkła | Ustawiasz soczewki dokładnie na wspólnej osi | Mocujesz soczewki w oprawkach i badasz gotowy przyrząd
+D: 8:00 Czytasz rysunek montażowy teleskopu | 10:00 Polerujesz szklaną soczewkę i usuwasz drobne rysy | 12:30 Ustawiasz dwie soczewki dokładnie w jednej osi | 15:00 Zaglądasz w złożony przyrząd i sprawdzasz obraz
+Y: Narysuj soczewkę wypukłą, pięć promieni światła przechodzących przez nią i zaznacz oś optyczną przez jej środek.
+

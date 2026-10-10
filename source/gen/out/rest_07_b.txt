@@ -1,0 +1,180 @@
+@1620
+H: Przygotowujesz i obsługujesz cyfrowe, zautomatyzowane urządzenia oświetleniowe na występach na żywo. Instalujesz je z ekipą i pilnujesz, żeby działały bez zarzutu.
+T: Przygotowujesz sterowane cyfrowo lampy | Sprawdzasz działanie urządzeń przed koncertem | Konserwujesz zautomatyzowany sprzęt | Instalujesz lampy razem z ekipą
+D: 8:00 Z ekipą rozładowujesz lampy do hali | 11:00 Sprawdzasz, czy każda lampa reaguje na sterowanie | 15:00 Usuwasz usterkę w jednej z lamp | 20:00 Koncert, pilnujesz urządzeń na wypadek awarii
+Y: Rozpisz na kartce sekwencję pięciu zmian światła dla piosenki, wskazując sekundę i kolor każdej zmiany.
+
+@1621
+H: Trwale zdobisz skórę klientów tatuażami albo piercingiem, według ich pomysłu. Pilnujesz higieny i tłumaczysz, jak dbać o skórę po zabiegu.
+T: Rysujesz projekt razem z klientem | Wykonujesz tatuaż lub piercing | Dezynfekujesz stanowisko przed klientem | Tłumaczysz, jak pielęgnować skórę po zabiegu
+D: 10:00 Rozmawiasz z klientem o wzorze i miejscu | 11:00 Przygotowujesz czyste stanowisko i sterylny sprzęt | 12:00 Wykonujesz tatuaż, który trwa kilka godzin | 17:00 Pokazujesz klientowi, jak dbać o świeży tatuaż
+Y: Narysuj na kartce prosty wzór tatuażu dla wymyślonego klienta i zapisz, co ten wzór dla niego znaczy.
+
+@1622
+H: Organizujesz plan zdjęciowy: układasz harmonogram, pilnujesz obsady, ekipy i czasu. Jesteś prawą ręką reżysera i dbasz, żeby dzień zdjęciowy nie rozjechał się z planem.
+T: Układasz harmonogram dnia zdjęciowego | Wzywasz aktorów i ekipę na plan | Pilnujesz, żeby zdjęcia szły zgodnie z czasem | Informujesz reżysera o opóźnieniach i kosztach
+D: 5:00 Sprawdzasz listę osób wezwanych na plan | 7:00 Wołasz o ciszę i zaczynacie pierwsze ujęcie | 12:00 Przesuwasz zdjęcia, bo pogoda zmienia plany | 19:00 Układasz harmonogram jutrzejszego dnia zdjęć
+Y: Rozpisz godzina po godzinie plan nakręcenia pięciominutowej sceny, z przerwą na posiłek dla wszystkich.
+
+@1623
+H: Jesteś łącznikiem między reżyserem, aktorami i ekipą w teatrze. Notujesz ustalenia z prób, przekazujesz uwagi i pilnujesz harmonogramu.
+T: Notujesz ustalenia z prób | Zapisujesz miejsca aktorów na scenie | Przekazujesz uwagi reżysera aktorom | Koordynujesz terminy prób
+D: 10:00 Na próbie zapisujesz, gdzie stoi każdy aktor | 13:00 Spisujesz uwagi reżysera dla aktorów | 15:00 Uzgadniasz z projektantami zmianę dekoracji | 18:00 Wysyłasz zespołowi plan jutrzejszej próby
+Y: Obejrzyj scenę z filmu i zapisz, kto gdzie stoi i kiedy się rusza.
+
+@1624
+H: Projektujesz, jak aktor ma wzbić się w powietrze podczas przedstawienia, i uczysz go ruchów. W trakcie spektaklu prowadzisz lot tak, żeby wyglądał lekko, a był bezpieczny.
+T: Projektujesz tor i ruchy lotu | Uczysz aktorów choreografii w powietrzu | Współpracujesz z technikami obsługi lin | Prowadzisz lot aktora w trakcie spektaklu
+D: 10:00 Szkicujesz trasę lotu bohatera nad sceną | 12:00 Uczysz aktora ruchów rąk w powietrzu | 15:00 Ustalasz z technikami obsługę lin i terminy | 20:00 Podczas spektaklu prowadzisz lot aktora po scenie
+Y: Narysuj na kartce trasę lotu postaci przez scenę i zapisz, co robi w każdym momencie.
+
+@1625
+H: Układasz walki tak, żeby wyglądały groźnie, a nikt nie robił sobie krzywdy. Uczysz wykonawców każdego ruchu, na filmie, w teatrze, cyrku czy rewii.
+T: Układasz sekwencje ciosów i uników | Uczysz wykonawców bezpiecznych ruchów | Ćwiczysz walkę w zwolnionym tempie | Dostosowujesz walkę do kamery lub sceny
+D: 9:00 Zapisujesz kolejne ruchy walki w notesie | 11:00 Uczysz dwóch aktorów walki w zwolnionym tempie | 14:00 Sprawdzasz, czy cios z kamery wygląda groźnie | 17:00 Skracasz walkę po uwagach reżysera
+Y: Zapisz osiem kolejnych ruchów wymyślonej walki dwóch postaci i zaznacz przy każdym, kto atakuje.
+
+@1626
+H: Zastępujesz aktora, kiedy ekipa ustawia światło i sprzęt, i wykonujesz jego ruchy na planie. Dzięki temu, gdy aktor wchodzi, wszystko jest już na swoim miejscu.
+T: Stajesz w miejscu aktora | Powtarzasz jego ruchy na planie | Czekasz, aż ekipa ustawi światło | Ustalasz, gdzie dokładnie ma stać aktor
+D: 6:00 Przychodzisz na plan, poznajesz ruchy aktora | 8:00 Stoisz w świetle, a operator ustawia ostrość | 11:00 Powtarzasz przejście przez pokój dwanaście razy | 14:00 Aktor wchodzi na gotowe ustawienie, ty odchodzisz
+Y: Obserwuj, jak ktoś przechodzi przez pokój, i powtórz jego chód tak dokładnie, jak potrafisz.
+
+@1627
+H: Układasz ramówkę stacji: decydujesz, co i o której zostanie wyemitowane. Patrzysz na oglądalność i na to, kto w danej porze siedzi przed telewizorem.
+T: Układasz harmonogram programów | Sprawdzasz wyniki oglądalności | Przesuwasz audycje na lepszą godzinę | Analizujesz, kim są widzowie
+D: 9:00 Przeglądasz wyniki oglądalności z wczoraj | 11:00 Decydujesz, o której pójdzie nowy serial | 14:00 Naradzasz się z producentami co do terminów | 17:00 Zmieniasz ramówkę na weekend
+Y: Ułóż dla rodziny plan wieczornego oglądania na trzy godziny, uwzględniając, kto kiedy może oglądać.
+
+@1628
+H: Pilnujesz ciągłości filmu: sprawdzasz, czy każde ujęcie zgadza się ze scenariuszem i z poprzednimi. Dzięki temu w montażu nie ma szklanki, która nagle zmienia miejsce.
+T: Oglądasz każde ujęcie i porównujesz ze scenariuszem | Zapisujesz położenie rekwizytów i ubrań | Notujesz zmiany w dialogach | Zgłaszasz błędy w ciągłości
+D: 7:00 Notujesz, jak aktor trzyma filiżankę | 9:00 Porównujesz ujęcie ze scenariuszem słowo po słowie | 13:00 Zauważasz, że zegar wskazuje inną godzinę | 18:00 Przekazujesz montażyście notatki z całego dnia
+Y: Obejrzyj minutę filmu dwa razy i zapisz trzy szczegóły, które powinny wyglądać tak samo w każdym ujęciu.
+
+@1629
+H: Robisz to, czego aktorzy nie mogą albo nie umieją: sceny walki, upadki, skoki. Każdy ruch planujesz i ćwiczysz wiele razy, bo ryzyko jest prawdziwe.
+T: Ćwiczysz upadki i walkę | Planujesz scenę krok po kroku | Wykonujesz niebezpieczne sceny za aktora | Sprawdzasz zabezpieczenia przed ujęciem
+D: 7:00 Rozgrzewka i trening upadków na macie | 9:00 Omawiasz z koordynatorem każdy krok sceny | 12:00 Wykonujesz scenę w zastępstwie aktora | 16:00 Sprawdzasz zabezpieczenia przed kolejnym ujęciem
+Y: Zaplanuj na kartce jedną scenę kaskaderską krok po kroku i wypisz, co może pójść źle.
+
+@1630
+H: Koordynujesz przygotowanie i przebieg zdjęć lub pokazu, żeby to, co widać na scenie, zgadzało się z wizją artystyczną. Pilnujesz techniki, ludzi, kosztów i bezpieczeństwa.
+T: Ustalasz, jakich ludzi i sprzętu potrzeba | Kontrolujesz pracę techniki podczas prób | Pilnujesz kosztów i bezpieczeństwa ekipy | Dopasowujesz obraz sceny do wizji artystycznej
+D: 6:00 Sprawdzasz, czy cała ekipa i sprzęt są na miejscu | 9:00 Na próbie sprawdzasz, czy scena wygląda jak w projekcie | 13:00 Rozwiązujesz problem z brakującym sprzętem | 20:00 Pilnujesz przebiegu występu na żywo
+Y: Zaplanuj na kartce domowe przedstawienie dla rodziny: kto za co odpowiada, godzina próby i ustawienie sceny.
+
+@1631
+H: Szukasz miejsc do kręcenia poza studiem i załatwiasz je od strony formalnej. Negocjujesz z właścicielami i dbasz o porządek oraz bezpieczeństwo ekipy na miejscu.
+T: Szukasz miejsc pasujących do scenariusza | Negocjujesz warunki z właścicielem obiektu | Organizujesz logistykę dnia zdjęciowego | Odpowiadasz za bezpieczeństwo ekipy na miejscu
+D: 8:00 Oglądasz stary dworzec jako możliwą lokację | 11:00 Negocjujesz z właścicielem cenę i godziny | 14:00 Ustalasz, gdzie zaparkuje ekipa ze sprzętem | 18:00 Po zdjęciach sprawdzasz, czy miejsce jest posprzątane
+Y: Wypisz trzy miejsca w okolicy, które pasowałyby do sceny filmowej, i zaznacz, co mogłoby przeszkadzać w kręceniu.
+
+@1632
+H: Prowadzisz warsztaty, w których powstają, są naprawiane i konserwowane elementy sceny, na przykład dekoracje. Opierasz się na wizji artystycznej, harmonogramach i dokumentacji produkcji.
+T: Czytasz projekty i dokumentację produkcji | Rozdzielasz zadania między warsztaty | Pilnujesz terminów budowy dekoracji | Uzgadniasz poprawki z projektantami
+D: 8:00 Przeglądasz plan budowy dekoracji na nowy spektakl | 10:00 Obchodzisz warsztaty i sprawdzasz postęp prac | 13:00 Omawiasz ze scenografem zmianę konstrukcji | 16:00 Przesuwasz zadania, bo materiały dotarły z opóźnieniem
+Y: Narysuj prostą dekorację, wypisz, z czego by się składała, i oszacuj, ile dni zajęłaby jej budowa.
+
+@1633
+H: Obsługujesz efekty pirotechniczne w przedstawieniu: przygotowujesz materiały, nadzorujesz instalację i uruchamiasz efekty według planu. To zawód wysokiego ryzyka, bo pracujesz z materiałami wybuchowymi i łatwopalnymi blisko ludzi.
+T: Przygotowujesz materiały pirotechniczne | Nadzorujesz instalację efektów | Programujesz urządzenia odpalające | Obsługujesz system podczas przedstawienia
+D: 10:00 Przygotowujesz efekty według szczegółowego planu | 13:00 Sprawdzasz instalację razem z ekipą | 17:00 Próba techniczna, ćwiczysz dokładny moment efektu | 20:30 Uruchamiasz efekt na sygnał z reżyserki
+Y: Napisz listę pięciu zasad, które chroniłyby widownię i wykonawców przed efektami w teatrze.
+
+@1634
+H: Wymyślasz, jak ma wyglądać światło w przedstawieniu, i pilnujesz, żeby tak było. Podczas prób mówisz operatorom, kiedy i jak zmieniać światło.
+T: Wymyślasz koncepcję oświetlenia spektaklu | Zgrywasz pomysł z reżyserem i scenografem | Oglądasz próby i dopracowujesz światło | Dajesz wskazówki operatorom o czasie zmian
+D: 9:00 Czytasz sztukę i szukasz nastrojów do oświetlenia | 12:00 Omawiasz ze scenografem kolory dekoracji | 16:00 Próba, mówisz operatorowi, kiedy zmienić światło | 19:00 Dopracowujesz ostatnie zmiany przed premierą
+Y: Wybierz po jednym kolorze światła dla strachu, radości i smutku i uzasadnij każdy jednym zdaniem.
+
+@1635
+H: Ustawiasz, sprawdzasz i naprawiasz przedmioty, których aktorzy używają na scenie. W trakcie spektaklu kładziesz je na miejscu i podajesz aktorom.
+T: Przygotowujesz rekwizyty przed przedstawieniem | Sprawdzasz, czy wszystko działa | Układasz przedmioty za kulisami według listy | Podajesz rekwizyty aktorom w trakcie
+D: 15:00 Ustawiasz kubki i listy na stole scenicznym | 17:00 Naprawiasz złamany rekwizyt przed spektaklem | 19:00 Układasz rekwizyty za kulisami według listy | 21:00 Podajesz aktorowi szablę w ostatniej sekundzie
+Y: Wybierz scenę z książki i zrób listę przedmiotów, które postaci biorą do ręki.
+
+@1636
+H: Wymyślasz, jak ma wyglądać pokaz efektów pirotechnicznych, i kierujesz jego wykonaniem. Podczas prób i występu dajesz operatorom wskazówki co do czasu i kolejności.
+T: Projektujesz układ efektów pirotechnicznych | Dopasowujesz pokaz do muzyki i wizji | Układasz scenariusz pokazu w czasie | Kierujesz operatorami podczas prób
+D: 9:00 Rysujesz na planie, gdzie staną efekty | 12:00 Dopasowujesz kolejność efektów do rytmu muzyki | 16:00 Prowadzisz próbę z operatorami krok po kroku | 21:00 Podczas pokazu dajesz sygnały operatorom
+Y: Narysuj na kartce oś czasu trzyminutowego pokazu: co się dzieje w każdej minucie i do jakiej muzyki.
+
+@1637
+H: Stoisz w tle albo w tłumie podczas kręcenia i tworzysz atmosferę sceny. Nie wpływasz na akcję, ale bez ciebie plan wyglądałby pusto.
+T: Czekasz na wezwanie na plan | Wykonujesz proste czynności w tle | Powtarzasz te same ruchy w każdym ujęciu | Słuchasz poleceń asystenta reżysera
+D: 5:30 Zgłaszasz się na plan i dostajesz strój | 7:00 Reżyser ustawia cię przy stoliku w kawiarni | 9:00 Dwadzieścia razy mieszasz tę samą pustą filiżankę | 15:00 Długo czekasz w przerwie na kolejne ujęcie
+Y: Powtórz trzy razy tę samą prostą czynność, na przykład picie herbaty, dokładnie w ten sam sposób.
+
+@1638
+H: Siedzisz w budce przy scenie i podpowiadasz aktorom tekst, gdy zapomną kwestii. Pomagasz też, gdy ktoś nie wie, gdzie ma stanąć.
+T: Śledzisz tekst sztuki słowo po słowie | Podpowiadasz kwestię, gdy aktor zapomni | Przypominasz miejsce na scenie | Reagujesz na ciszę natychmiast
+D: 10:00 Siedzisz na próbie z tekstem sztuki w ręku | 12:00 Zaznaczasz miejsca, w których aktorzy się potykają | 18:30 Zajmujesz miejsce w budce przed spektaklem | 20:30 Aktor milknie, szeptem podajesz mu kwestię
+Y: Poproś kogoś, żeby recytował wiersz z pamięci, a ty śledź tekst i podpowiedz, gdy się zatnie.
+
+@1639
+H: Poruszasz dekoracjami i innymi elementami nad sceną za pomocą sztankietów i systemów linowych. Pracujesz według planów i obliczeń, równo z aktorami i techniką.
+T: Programujesz ruch dekoracji nad sceną | Obsługujesz sztankiety i systemy linowe | Czytasz plany i wykonujesz obliczenia | Sprawdzasz instalację przed spektaklem
+D: 13:00 Czytasz plan zmian dekoracji na wieczór | 15:00 Sprawdzasz liny i sztankiety nad sceną | 17:00 Programujesz kolejne ruchy dekoracji w sterowaniu | 20:00 Spektakl, opuszczasz dekorację równo z muzyką
+Y: Narysuj plan trzech zmian dekoracji w spektaklu i zapisz, w której sekundzie każda się unosi lub opuszcza.
+
+@1640
+H: Budujesz i naprawiasz rekwizyty do teatru, filmu i telewizji, także imitacje prawdziwych przedmiotów. Pracujesz według szkiców i planów projektantów.
+T: Czytasz szkice i plany rekwizytów | Budujesz imitacje prawdziwych przedmiotów | Dopasowujesz rekwizyt do potrzeb aktora | Naprawiasz zużyte rekwizyty
+D: 8:00 Oglądasz szkic fałszywego miecza od projektanta | 10:00 Wycinasz i formujesz elementy w warsztacie | 13:00 Malujesz imitację starego metalu | 16:00 Aktor przymierza rekwizyt, a ty poprawiasz uchwyt
+Y: Złóż z papieru lub kartonu imitację kubka albo książki i porównaj ją z prawdziwą.
+
+@1641
+H: Porządkujesz i katalogujesz cyfrowe zasoby: nagrania, zdjęcia i inne media. Opisujesz je tak, żeby dało się je znaleźć, i aktualizujesz stare systemy zapisu.
+T: Klasyfikujesz pliki cyfrowe | Dopisujesz opisy ułatwiające znalezienie plików | Prowadzisz bibliotekę materiałów cyfrowych | Zamieniasz stare formaty zapisu na nowe
+D: 8:30 Wchodzisz do systemu i widzisz nowe pliki | 10:00 Nadajesz plikom opisy i kategorie | 13:00 Przenosisz stare nagranie do nowego formatu | 15:30 Sprawdzasz, czy opisy są zgodne z regułami
+Y: Posortuj dziesięć swoich przedmiotów na kategorie i napisz każdemu krótki opis ułatwiający znalezienie.
+
+@1642
+H: Pracujesz z oryginalnymi dziełami w muzeum lub galerii: pakujesz je, rozpakowujesz, wieszasz na wystawach i przenosisz do magazynu. Robisz to ostrożnie, bo jeden błąd może zniszczyć unikat.
+T: Pakujesz i rozpakowujesz dzieła sztuki | Wieszasz i demontujesz wystawy | Przenosisz obrazy i rzeźby w muzeum | Układasz eksponaty w magazynie
+D: 8:00 Rozpakowujesz skrzynię z obrazem z innego muzeum | 10:00 Z kuratorem sprawdzasz stan ramy | 13:00 Wieszasz obrazy według planu wystawy | 16:00 Odnosisz mniej ważne prace do magazynu
+Y: Zapakuj kubek w gazetę i miękki materiał tak, by nie stukał w pudełku.
+
+@1643
+H: Oprawiasz martwe zwierzęta albo ich części tak, by wyglądały naturalnie, do muzeum, szkoły, badań lub prywatnych kolekcji. Zajmujesz się detalami, takimi jak poza i układ sierści lub piór.
+T: Oprawiasz martwe zwierzęta | Odtwarzasz kształt ciała zwierzęcia | Przygotowujesz okazy dla muzeów | Układasz sierść lub pióra na gotowym okazie
+D: 8:00 Oglądasz okaz i planujesz jego pozę | 10:00 Odtwarzasz kształt głowy małego ptaka | 13:00 Dopracowujesz ułożenie piór na skrzydle | 16:00 Pakujesz gotowy okaz dla szkoły
+Y: Narysuj ptaka z natury lub zdjęcia i zaznacz trzy miejsca, które najtrudniej odtworzyć.
+
+@1644
+H: Dźwięk jest twoim głównym materiałem: tworzysz z niego prace, które wyrażają twoje myśli i tożsamość. Łączysz różne dziedziny, więc efektem bywa instalacja, koncert albo coś pomiędzy.
+T: Nagrywasz dźwięki z otoczenia | Łączysz i przetwarzasz nagrania | Budujesz instalacje dźwiękowe | Pokazujesz prace w galerii lub na koncercie
+D: 9:00 Nagrywasz odgłosy targu miejskiego | 12:00 Przesłuchujesz nagrania i wybierasz najciekawsze | 15:00 Łączysz kilka dźwięków w jedną kompozycję | 19:00 Ustawiasz głośniki w galerii przed otwarciem
+Y: Zapisz na kartce pięć dźwięków ze swojego domu i ułóż z nich w kolejności trzyminutową kompozycję.
+
+@1645
+H: Ustawiasz mikrofony na planie tak, żeby dobrze łapały dialogi: trzymasz je na wysięgniku, ukrywasz w dekoracji albo przypinasz aktorom do ubrania.
+T: Trzymasz mikrofon na wysięgniku nad aktorami | Przypinasz mikrofony do ubrań aktorów | Ukrywasz mikrofony w dekoracji | Sprawdzasz, czy dialogi dobrze brzmią
+D: 6:30 Przypinasz aktorom mikrofony pod ubraniem | 8:00 Trzymasz mikrofon nad dwoma aktorami przez całe ujęcie | 12:00 Chowasz mikrofon w wazonie na stole | 17:00 Słuchasz w słuchawkach, czy nie ma szumu
+Y: Nagraj telefonem własny głos z odległości pół metra i dwóch metrów, a potem porównaj brzmienie.
+
+@1646
+H: Przygotowujesz gotowe nagrania do wydania w odpowiednim formacie: na płytę, winyl albo do internetu. Odsłuchujesz je i pilnujesz, żeby brzmiały dobrze na każdym sprzęcie.
+T: Odsłuchujesz nagrania na różnym sprzęcie | Poprawiasz brzmienie gotowego utworu | Przygotowujesz pliki dla CD, winylu i internetu | Porównujesz jakość dźwięku w każdym formacie
+D: 9:00 Odsłuchujesz utwór w słuchawkach i głośnikach | 11:00 Wyrównujesz głośność wszystkich piosenek na płycie | 14:00 Przygotowujesz osobną wersję na winyl | 17:00 Odsyłasz zespołowi ostateczny plik do akceptacji
+Y: Posłuchaj jednej piosenki na słuchawkach i w głośniku telefonu, a potem zapisz trzy różnice w brzmieniu.
+
+@1647
+H: Obsługujesz projektor w kinie i pilnujesz, żeby film szedł bez zacięć. Sprawdzasz materiał przed załadowaniem, dbasz o sprzęt i o właściwe przechowywanie filmów.
+T: Sprawdzasz film przed załadowaniem | Ładujesz film do projektora | Obserwujesz projekcję i reagujesz na usterki | Konserwujesz sprzęt i przechowujesz filmy
+D: 11:00 Sprawdzasz, czy film z dostawy jest cały | 13:00 Ładujesz film do projektora przed seansem | 17:00 Przez szybkę kontrolujesz obraz podczas seansu | 22:00 Po ostatnim seansie czyścisz sprzęt i chowasz film
+Y: Rozpisz harmonogram trzech seansów w kinie, tak aby między nimi było dziesięć minut na przygotowanie.
+
+@1648
+H: Układasz dźwięk filmu, serialu lub gry: dialogi, efekty i muzykę, tak by pasowały do obrazu. Ściśle współpracujesz z reżyserem.
+T: Synchronizujesz dźwięk z obrazem | Dobierasz efekty dźwiękowe do scen | Miksujesz dialogi, muzykę i szumy | Dopasowujesz dźwięk do wizji reżysera
+D: 9:00 Oglądasz scenę bez dźwięku i notujesz, co dodać | 11:00 Dodajesz kroki, drzwi i wiatr do sceny | 14:00 Zgrywasz dialog z ruchem ust aktora | 17:00 Reżyser prosi o cichszą muzykę w finale
+Y: Wyłącz dźwięk w krótkim filmiku i wypisz wszystkie odgłosy, które trzeba by dodać od zera.
+
+@1649
+H: Obsługujesz kamerę na planie filmu albo programu i decydujesz, jak kadr ma wyglądać. Radzisz reżyserowi i aktorom, jak ująć scenę.
+T: Ustawiasz kamerę i kadr | Filmujesz sceny na planie | Doradzasz, jak ująć scenę | Przenosisz kamerę w czasie ujęcia
+D: 6:00 Rozkładasz kamerę i sprawdzasz ostrość | 8:00 Z reżyserem ustalasz kadr pierwszej sceny | 12:00 Idziesz za aktorem z kamerą na ramieniu | 17:00 Przeglądasz nagrane ujęcia i oddajesz materiał
+Y: Zrób z palców ramkę i znajdź w pokoju trzy różne kadry: z bliska, z daleka i z boku.
+

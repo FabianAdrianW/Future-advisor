@@ -1,0 +1,180 @@
+@150
+H: Obsługujesz turbinę parową i generator, które wytwarzają prąd. Cały czas obserwujesz pracę maszyn, żeby wcześnie wychwycić problem.
+T: Uruchamiasz i zatrzymujesz turbozespół | Obserwujesz wskazania ciśnienia i temperatury | Wykrywasz nietypowe dźwięki i drgania | Reagujesz na sytuacje awaryjne
+D: 6:00 Uruchamiasz turbinę po nocnym postoju | 8:00 Sprawdzasz drgania i temperaturę łożysk | 11:30 Słyszysz zmianę dźwięku i wyłączasz urządzenie | 14:00 Zapisujesz parametry pracy w dzienniku zmiany
+Y: Zrób z kartki papierowy wiatraczek i dmuchaj na niego, sprawdzając, jak kształt łopatek zmienia obroty.
+
+@151
+H: Siedzisz przy panelu sterowania i kierujesz pracą reaktora w elektrowni jądrowej. Odpowiadasz za zmiany jego mocy i przez całą zmianę pilnujesz parametrów.
+T: Sterujesz reaktorem z panelu kontrolnego | Zmieniasz moc reaktora zgodnie z procedurą | Monitorujesz parametry pracy na wskaźnikach | Reagujesz na alarmy i zdarzenia krytyczne
+D: 6:00 Odprawa przed zmianą: omawiasz stan reaktora z kolegami | 8:00 Powoli zwiększasz moc zgodnie z harmonogramem | 11:30 Zapala się alarm, otwierasz odpowiednią procedurę | 13:30 Zapisujesz zdarzenia i przekazujesz zmianę następcy
+Y: Narysuj na kartce panel z trzema wskaźnikami i wymyśl, przy jakich wartościach każdy uruchamiałby alarm.
+
+@152
+H: Zajmujesz się przesyłaniem prądu z elektrowni siecią dalekosiężną do stacji, które zasilają miasta. Pilnujesz, żeby energia płynęła tam, gdzie jest potrzebna.
+T: Śledzisz przepływ energii w sieci | Przełączasz połączenia między stacjami | Reagujesz na awarie linii | Koordynujesz pracę z elektrowniami
+D: 7:00 Patrzysz na mapę sieci i obciążenie linii | 10:00 Rośnie zapotrzebowanie, rozmawiasz z elektrownią o mocy | 13:00 Linia się wyłącza, szukasz drogi dla prądu | 16:00 Przekazujesz zmianę i opisujesz awarię
+Y: Narysuj mapkę z trzema elektrowniami, pięcioma miastami i liniami między nimi, a potem wymyśl objazd dla zepsutej linii.
+
+@153
+H: Pilnujesz, żeby prąd dotarł z sieci przesyłowej do domów i firm. Nadzorujesz konserwację i naprawy linii oraz jedziesz na miejsce, gdy w okolicy nagle gaśnie światło.
+T: Nadzorujesz konserwację linii energetycznych | Organizujesz naprawy uszkodzonej sieci | Reagujesz na przerwy w dostawie prądu | Dopasowujesz dystrybucję do potrzeb odbiorców
+D: 7:30 Planujesz z ekipą dzisiejsze prace przy liniach | 10:00 Sprawdzasz, czy odłączono odcinek do naprawy | 12:30 Mieszkańcy zgłaszają brak prądu w całej wsi | 14:30 Jedziesz na miejsce i kierujesz usuwaniem awarii
+Y: Wyjrzyj przez okno i policz widoczne słupy lub latarnie, a potem zapisz, co wyróżnia najstarszy z nich.
+
+@154
+H: Obsługujesz maszyny, w których spala się odpady z domów i firm. Pilnujesz, żeby proces szedł zgodnie z przepisami bezpieczeństwa, a urządzenia były sprawne.
+T: Obsługujesz piece i maszyny do spalania | Sprawdzasz, czy spalanie przebiega zgodnie z przepisami | Utrzymujesz urządzenia w sprawności | Reagujesz na usterki podczas pracy
+D: 6:00 Na ekranie sprawdzasz pracę pieców od nocy | 8:30 Śledzisz podawanie odpadów do pieca | 11:00 Maszyna się zacina, wzywasz mechanika | 13:30 Notujesz parametry spalania na koniec zmiany
+Y: Zajrzyj do kosza na odpady zmieszane i zapisz, co dałoby się posegregować zamiast spalać.
+
+@155
+H: Oczyszczasz odpady płynne, takie jak zużyty olej, z niebezpiecznych substancji tak, żeby dało się je użyć ponownie. Obsługujesz instalacje, kontrolujesz proces i badasz próbki.
+T: Obsługujesz instalacje do oczyszczania płynów | Usuwasz zanieczyszczenia z oleju | Pobierasz i badasz próbki | Utrzymujesz w ruchu pompy i zbiorniki
+D: 6:00 Sprawdzasz poziomy w zbiornikach z odpadami płynnymi | 8:30 Pobierasz próbkę oleju do badania | 10:30 Wyniki pokazują, że partia nie spełnia normy | 13:00 Zmieniasz ustawienia instalacji i czekasz na kolejny test
+Y: Sprawdź w internecie, gdzie w Twojej okolicy oddaje się zużyte oleje, i zapisz, jakie inne odpady tam przyjmują.
+
+@156
+H: Obsługujesz maszyny, które zbierają, rozdzielają i unieszkodliwiają odpady stałe, także budowlane. Pilnujesz, żeby to, co nadaje się do recyklingu, trafiło w inne miejsce niż to, co trzeba usunąć.
+T: Obsługujesz maszyny do przerobu odpadów | Rozdzielasz odpady do recyklingu i usunięcia | Pobierasz próbki do badania zanieczyszczeń | Pilnujesz opróżniania pojemników na odpady
+D: 7:00 Uruchamiasz maszyny na hali sortowni | 9:00 Obserwujesz taśmę i wyławiasz błędnie wrzucone odpady | 11:30 Pobierasz próbkę, żeby sprawdzić zanieczyszczenie | 13:30 Sprawdzasz, czy kontenery zostały opróżnione
+Y: Weź pięć pustych opakowań z domu i ułóż je w grupy według oznaczeń materiału na spodzie.
+
+@157
+H: Obsługujesz urządzenia w oczyszczalni, która odbiera ścieki z domów i fabryk i czyści je, zanim trafią do rzek. Pobierasz próbki i badasz, czy woda jest wystarczająco czysta.
+T: Obsługujesz pompy i filtry w oczyszczalni | Pobierasz próbki ścieków | Badasz jakość wody po oczyszczeniu | Sprawdzasz, czy ścieki są czyste przed wypuszczeniem
+D: 6:00 Obchodzisz zbiorniki i sprawdzasz pracę pomp | 8:30 Pobierasz próbkę ścieków do badania | 11:00 Wynik jest zły, zmieniasz ustawienia oczyszczania | 14:00 Czyścisz filtr, który zatkał się osadem
+Y: Przefiltruj wodę zmieszaną z odrobiną ziemi przez filtr do kawy i porównaj ją z wodą przed filtrowaniem.
+
+@158
+H: Uzdatniasz wodę tak, żeby nadawała się do picia, nawadniania albo produkcji żywności. Obsługujesz urządzenia, a przed dystrybucją dokładnie badasz każdą partię.
+T: Obsługujesz urządzenia do uzdatniania wody | Badasz wodę przed wysłaniem do odbiorców | Dostosowujesz pracę instalacji do norm środowiskowych | Utrzymujesz w ruchu pompy i filtry
+D: 7:00 Odczytujesz parametry wody na wejściu do stacji | 9:00 Pobierasz próbki i robisz badania w laboratorium | 11:30 Zatwierdzasz partię wody do butelkowania | 14:00 Sprawdzasz pompy i zawory podczas obchodu
+Y: Nalej wodę z kranu do przezroczystej szklanki i opisz jej kolor, przejrzystość i zapach.
+
+@159
+H: Pomagasz w oczyszczalni ścieków: obsługujesz i naprawiasz maszyny, które czyszczą ścieki, i wspierasz cały proces oczyszczania. Gdy urządzenie przestaje działać, szukasz usterki i ją usuwasz.
+T: Pomagasz przy obsłudze urządzeń oczyszczalni | Wykonujesz naprawy maszyn i pomp | Sprawdzasz, czy proces przebiega poprawnie | Szukasz usterki, gdy urządzenie przestaje działać
+D: 7:00 Dostajesz od operatora listę zadań na dzień | 9:00 Rozkręcasz pompę, która źle pracuje | 12:00 Wymieniasz zużyte uszczelnienie w pompie | 14:00 Uruchamiasz pompę i sprawdzasz, czy działa równo
+Y: Narysuj drogę wody z Twojego zlewu do oczyszczalni i zaznacz miejsca, gdzie coś mogłoby się zatkać.
+
+@160
+H: Utrzymujesz w ruchu i naprawiasz urządzenia, które czyszczą wodę i rozprowadzają ją do mieszkańców. Mierzysz jakość wody, filtrujesz ją i pilnujesz, by instalacje wodne działały bez przerw.
+T: Mierzysz jakość wody w stacji | Obsługujesz filtry i urządzenia uzdatniające | Naprawiasz pompy i armaturę | Utrzymujesz w ruchu instalacje wodne
+D: 6:30 Sprawdzasz zbiorniki i ciśnienie w sieci wodnej | 9:00 Mierzysz mętność wody po filtracji | 11:30 Wymieniasz zużyty zawór na wyjściu ze stacji | 14:00 Płuczesz filtr i zapisujesz przebieg prac
+Y: Zmierz stoperem w telefonie, ile sekund napełnia się litrowy słoik pod kranem, i porównaj z drugim kranem.
+
+@161
+H: Kierujesz zmianą pracowników w zakładzie, który obrabia gaz dla energetyki i zakładów użyteczności publicznej. Pilnujesz sprężarek i innych urządzeń oraz zlecasz testy, gdy coś odbiega od normy.
+T: Nadzorujesz sprężarki i urządzenia przetwarzające | Pilnujesz, by parametry były w normie | Nadzorujesz konserwację maszyn i urządzeń | Przeprowadzasz testy przy podejrzanych odchyleniach
+D: 6:00 Odprawa z ekipą przed rozpoczęciem zmiany | 8:00 Sprawdzasz pracę sprężarek na hali | 11:00 Ciśnienie odbiega od normy, zlecasz test | 14:00 Rozdzielasz zadania na kolejną zmianę
+Y: Rozpisz, kto co robi przez godzinę przy pakowaniu stu paczek, i dodaj zasadę na wypadek problemu.
+
+@162
+H: Nadzorujesz produkcję w zakładzie chemicznym: obsługujesz maszyny i systemy, w których przebiega proces. Pilnujesz urządzeń i przyrządów sterujących oraz dbasz o ich konserwację.
+T: Obsługujesz maszyny i systemy produkcyjne | Kontrolujesz przebieg procesu | Odczytujesz wskazania przyrządów sterujących | Dbasz o konserwację sprzętu
+D: 6:00 Zaczynasz zmianę od odczytu przyrządów | 8:30 Śledzisz przebieg procesu na schemacie instalacji | 11:00 Wskazanie wychodzi poza zakres, korygujesz ustawienie | 14:00 Przeglądasz i konserwujesz urządzenia sterujące
+Y: Rozpisz przygotowanie kanapki jako proces: kroki, strzałki i parametry, jak czas i ilość składników.
+
+@163
+H: Siedzisz w nastawni i zdalnie kontrolujesz produkcję w zakładzie chemicznym. Zgłaszasz każdą nieprawidłowość i pilnujesz, żeby pracownicy na hali byli bezpieczni.
+T: Monitorujesz produkcję z paneli w nastawni | Zdalnie zmieniasz ustawienia systemów | Zgłaszasz nieprawidłowości i incydenty w raportach | Utrzymujesz łączność z pracownikami na hali
+D: 6:00 Wchodzisz do nastawni i czytasz notatki poprzedniej zmiany | 9:00 Na ekranach obserwujesz kilka instalacji naraz | 12:00 Pojawia się alarm, kontaktujesz się z pracownikiem na hali | 15:00 Wpisujesz incydent do systemu i przekazujesz zmianę
+Y: Opisz w trzech zdaniach małą domową awarię jak w raporcie: co się stało, kiedy i jaki był skutek.
+
+@164
+H: Obsługujesz instalację, która ze zwykłego powietrza wydziela azot i tlen. Pilnujesz ciśnienia, przepływu i temperatury, badasz czystość gazów i kierujesz je do zbiorników lub butli.
+T: Kontrolujesz ciśnienie, przepływ i temperaturę | Obsługujesz urządzenia pobierające azot i tlen | Badasz czystość otrzymanych gazów | Napełniasz zbiorniki i butle gazem
+D: 6:00 Sprawdzasz ciśnienia w instalacji po nocy | 8:30 Pobierasz próbkę tlenu do analizy czystości | 11:00 Przełączasz przepływ gazu do zbiornika magazynowego | 13:30 Nadzorujesz napełnianie butli dla klientów
+Y: Znajdź w książce lub w internecie, z jakich gazów składa się powietrze, i narysuj wykres kołowy.
+
+@165
+H: Obsługujesz stację, w której gaz jest sprężany, przesyłany albo odzyskiwany. Pilnujesz pomp i rurociągów oraz badasz skład gazu.
+T: Obsługujesz sprężarki napędzane silnikiem | Nadzorujesz pompy i rurociągi | Badasz skład chemiczny gazu | Przesyłasz lub odzyskujesz gaz
+D: 6:00 Sprawdzasz wskazania na rurociągach i sprężarkach | 8:30 Pobierasz próbkę gazu do badania | 11:00 Zwiększasz sprężanie, bo odbiorca potrzebuje więcej gazu | 14:00 Zgłaszasz nieszczelność zaworu w rurociągu
+Y: Zakręć pustą plastikową butelkę i spróbuj ją ścisnąć, a potem opisz, jak opiera się zamknięte powietrze.
+
+@166
+H: Obsługujesz biogazownię, w której z resztek organicznych powstaje gaz. Pilnujesz maszyn, robisz badania i konserwację, a przy awarii działasz według procedur.
+T: Obsługujesz maszyny w biogazowni | Pobierasz próbki i wykonujesz badania | Konserwujesz urządzenia i sprawdzasz zawory | Reagujesz na awarie instalacji
+D: 6:30 Obchodzisz zbiorniki fermentacyjne i sprawdzasz odczyty | 9:00 Przyjmujesz dostawę resztek organicznych | 11:30 Pobierasz próbkę i badasz skład gazu | 14:00 Alarm w instalacji, wykonujesz procedurę awaryjną
+Y: Wypisz pięć organicznych resztek z Twojej kuchni, z których mógłby powstać biogaz.
+
+@167
+H: Kierujesz pracownikami na jednej zmianie w rafinerii ropy naftowej. Odpowiadasz za instalacje, sprzęt, bezpieczeństwo i to, żeby produkcja szła jak najlepiej.
+T: Przydzielasz zadania pracownikom na zmianie | Nadzorujesz instalacje i sprzęt | Optymalizujesz przebieg produkcji | Egzekwujesz zasady bezpieczeństwa w rafinerii
+D: 5:45 Odbierasz raport od kierownika nocnej zmiany | 6:30 Odprawa i podział zadań dla ekipy | 10:00 Awaria pompy, decydujesz o zmianie planu | 13:30 Przekazujesz raport kierownikowi następnej zmiany
+Y: Napisz pięć zasad bezpieczeństwa dla nowej osoby w Twojej klasie, jak podczas odprawy.
+
+@168
+H: Z nastawni obserwujesz na monitorach i wskaźnikach, jak przebiegają procesy w rafinerii. Zmieniasz ustawienia i ustalasz z innymi działami, co dzieje się na instalacji.
+T: Śledzisz procesy na ekranach i wskaźnikach | Zmieniasz zmienne procesowe z panelu | Kontaktujesz się z innymi działami rafinerii | Reagujesz na nieprawidłowości i sytuacje nadzwyczajne
+D: 7:00 Sprawdzasz alarmy i trendy na kilku ekranach | 9:30 Korygujesz przepływ na jednej z instalacji | 12:00 Prosisz przez radio pracownika w terenie o sprawdzenie zaworu | 14:30 Zapisujesz zdarzenia i przygotowujesz zmianę dla następcy
+Y: Zrób tabelę z kolumnami ciepło, hałas, jasność i co pięć minut wpisuj oceny od jeden do pięciu.
+
+@169
+H: Siedzisz w nastawni zakładu przetwarzającego gaz i śledzisz procesy na ekranach, zegarach i lampkach. W razie nieprawidłowości lub sytuacji awaryjnej działasz według procedur.
+T: Śledzisz pracę zakładu na monitorach | Zmieniasz wartości procesowe i ustawienia | Uzgadniasz działania z innymi działami | Wdrażasz procedury w sytuacjach nadzwyczajnych
+D: 6:00 Rozpoczynasz zmianę od przeglądu alarmów z nocy | 8:30 Śledzisz ciśnienie gazu na ekranie instalacji | 11:00 Ustalasz z dyspozytorem, ile gazu trzeba wysłać | 13:30 Pojawia się nieprawidłowość, uruchamiasz procedurę awaryjną
+Y: Zapisz w pięciu krokach procedurę na wypadek braku wody w domu: kto co robi.
+
+@170
+H: Pilnujesz, żeby ropa i produkty z niej przepływały rurociągami w rafinerii bez zakłóceń. Obsługujesz pompy z automatycznej sterowni, testujesz je i naprawiasz drobne usterki.
+T: Monitorujesz przepływ w rurociągach | Koordynujesz pracę pomp z innymi pracownikami | Testujesz pompy, by ograniczać zakłócenia | Naprawiasz drobne usterki i piszesz sprawozdania
+D: 6:30 Na ekranie sprawdzasz przepływ w każdym rurociągu | 9:00 Uruchamiasz dodatkową pompę, bo rośnie zapotrzebowanie | 11:30 Uruchamiasz test pompy zapasowej, żeby mieć pewność | 14:00 Naprawiasz drobną usterkę przy zaworze i piszesz raport
+Y: Narysuj rurociąg z dwiema pompami i trzema odbiorcami, a potem opisz, co się stanie, gdy jedna pompa stanie.
+
+@171
+H: Obsługujesz urządzenia, które rozprowadzają gaz do zakładów użyteczności publicznej i odbiorców. Pilnujesz prawidłowego ciśnienia w gazociągach i tego, by dostawy zgadzały się z harmonogramem.
+T: Rozprowadzasz gaz do odbiorców | Pilnujesz ciśnienia w gazociągach | Porównujesz dostawy z harmonogramem i popytem | Utrzymujesz w ruchu maszyny dystrybucji gazu
+D: 7:00 Odczytujesz ciśnienie w gazociągach na początek dnia | 10:00 Zakład ciepłowniczy zwiększa zamówienie na gaz | 12:30 Zmieniasz ustawienia zaworów, by wyrównać ciśnienie | 15:00 Sprawdzasz harmonogram dostaw na kolejny dzień
+Y: Rozpisz godzinami, kiedy w Twoim domu zużywa się najwięcej wody, i zaznacz szczyty zapotrzebowania.
+
+@172
+H: Obsługujesz kilka maszyn na linii, na której szyje się ubrania, i pilnujesz, żeby cały proces szedł płynnie. Reagujesz, gdy któraś maszyna przestaje pracować.
+T: Obsługujesz kilka maszyn jednocześnie | Śledzisz przebieg pracy na linii | Reagujesz, gdy maszyna się zatrzymuje | Dopasowujesz tempo kolejnych etapów produkcji
+D: 6:00 Uruchamiasz maszyny na linii montażowej | 8:30 Pilnujesz, żeby elementy płynnie przechodziły do kolejnych stanowisk | 11:00 Jedna maszyna staje, szukasz przyczyny | 13:30 Dostosowujesz tempo linii do dziennego planu
+Y: Rozpisz składanie papierowego samolotu na pięć etapów jak stanowiska na linii i zmierz czas każdego.
+
+@173
+H: Obsługujesz, czyścisz i konserwujesz maszyny na zautomatyzowanej linii. Montujesz produkt lub jego część i w ciągu zmiany rotacyjnie przechodzisz między stanowiskami.
+T: Obsługujesz maszyny na linii | Czyścisz i konserwujesz urządzenia | Montujesz produkt lub jego część | Rotacyjnie zmieniasz stanowiska na linii
+D: 6:00 Zaczynasz na stanowisku podawania elementów | 8:30 Czyścisz maszynę podczas przerwy w produkcji | 10:30 Zmieniasz stanowisko i montujesz gotowe części | 13:30 Zauważasz zacięcie, zatrzymujesz linię i zgłaszasz
+Y: Zmierz, ile par skarpetek zwiniesz w minutę, i powtórz to trzy razy, porównując wyniki.
+
+@174
+H: Obsługujesz roboty przemysłowe, które podnoszą, zgrzewają i montują, i pilnujesz, żeby pracowały zgrane ze sobą. Gdy robot się psuje, testujesz go i wymieniasz wadliwe części.
+T: Monitorujesz pracę robotów na linii | Synchronizujesz roboty między sobą | Wymieniasz wadliwe części i naprawiasz | Oceniasz ryzyko i przeprowadzasz testy
+D: 7:00 Obserwujesz roboty montujące elementy na linii | 9:30 Ręcznie korygujesz ruch ramienia, które nie trafia | 12:00 Wymieniasz zużytą końcówkę chwytaka | 14:00 Testujesz roboty po naprawie przed uruchomieniem produkcji
+Y: Napisz instrukcję w prostych ruchach, jak dla robota, która pozwoli komuś przenieść kubek z miejsca na miejsce.
+
+@175
+H: Obsługujesz maszyny, które przerabiają drewno, makulaturę i inne materiały celulozowe na pulpę, z której robi się papier. Analizujesz wyniki produkcji i w razie potrzeby zmieniasz ustawienia.
+T: Ustawiasz i uruchamiasz maszyny do pulpy | Monitorujesz proces przetwarzania surowca | Analizujesz wyniki produkcji | Konserwujesz i naprawiasz urządzenia
+D: 6:00 Uruchamiasz maszyny i sprawdzasz podawanie surowca | 8:30 Na wykresie widzisz, że parametry pulpy odbiegają | 11:00 Zmieniasz ustawienia, żeby poprawić wyniki | 13:30 Czyścisz i przeglądasz maszynę podczas postoju
+Y: Rozerwij kartkę na drobne kawałki, namocz je w wodzie, rozgnieć na papkę i opisz jej konsystencję.
+
+@176
+H: Prowadzisz piec, w którym topi się metal, zanim zostanie wlany do form. Mierzysz i regulujesz temperaturę, dodajesz składniki i pilnujesz, żeby metal miał właściwy skład.
+T: Sterujesz piecem do wytopu metali | Mierzysz i regulujesz temperaturę | Dodajesz żelazo i inne dodatki do wsadu | Zgłaszasz wady materiału i pomagasz je usunąć
+D: 6:00 Ładujesz wsad do pieca według receptury | 8:30 Odczytujesz temperaturę i skład z komputera | 11:00 Dodajesz dodatki, żeby uzyskać właściwy stop | 13:30 Widzisz wadę materiału i zawiadamiasz przełożonego
+Y: Połóż kostkę lodu na talerzu i co minutę zapisuj, jak szybko się topi.
+
+@177
+H: Organizujesz i planujesz prace montażowe w fabryce i pilnujesz, żeby szły sprawnie. Rozwiązujesz problemy, takie jak straty w produkcji, i odpowiadasz przed kierownikiem produkcji.
+T: Planujesz kolejność prac montażowych | Koordynujesz pracę stanowisk montażu | Rozwiązujesz problemy, np. straty produkcji | Raportujesz kierownikowi produkcji
+D: 6:00 Czytasz plan zleceń i układasz kolejność montażu | 8:30 Chodzisz po stanowiskach i patrzysz, gdzie brakuje części | 11:00 Zgłaszasz do magazynu brakujące śruby | 14:00 Raportujesz kierownikowi, ile sztuk zmontowano
+Y: Wybierz zestaw klocków i rozpisz kolejność montażu w pięciu krokach, zaznaczając, co można robić równolegle.
+
+@178
+H: Planujesz i koordynujesz produkcję, patrząc na harmonogramy i zlecenia. Kierujesz pracownikami na swoim obszarze i pilnujesz, żeby zlecenia zostały zrealizowane na czas.
+T: Sprawdzasz harmonogramy i zlecenia produkcji | Planujesz pracę zmiany | Nadzorujesz pracowników na swoim obszarze | Koordynujesz kolejne etapy procesu
+D: 6:00 Przeglądasz zlecenia na dziś i stan zapasów | 7:00 Rozdzielasz ludzi do linii według planu | 10:30 Zlecenie pilne, zmieniasz kolejność produkcji | 14:00 Podsumowujesz, co zrobiono, i planujesz jutro
+Y: Ułóż plan przygotowania klasowej uroczystości z zadaniami, kolejnością i godzinami.
+
+@179
+H: Kierujesz pracą kopalni lub kamieniołomu, głębinowej albo odkrywkowej. Nadzorujesz pracowników, harmonogramy i organizację, żeby wydobycie szło zgodnie z planem.
+T: Nadzorujesz pracowników w kopalni lub kamieniołomie | Układasz harmonogramy pracy zmian | Koordynujesz procesy wydobycia | Pilnujesz organizacji pracy na stanowiskach
+D: 5:30 Ustalasz zadania z brygadzistami przed zmianą | 7:00 Obchodzisz wyrobisko i sprawdzasz, jak idzie praca | 10:30 Sprzęt się psuje, zmieniasz plan zmiany | 13:30 Spisujesz wynik zmiany i planujesz następny dzień
+Y: Rozpisz grafik sprzątania klasy na tydzień dla czterech osób, z podziałem na trzy sektory.
+

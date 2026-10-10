@@ -1,0 +1,180 @@
+@600
+H: Dbasz o to, żeby powierzchnia metalowych części wolniej rdzewiała i się zużywała. Badasz i dobierasz sposoby jej zabezpieczania.
+T: Badasz, jak metal ulega korozji i zużyciu | Dobierasz powłoki chroniące powierzchnię części | Testujesz próbki po obróbce powierzchni | Szukasz metod z mniejszą ilością odpadów
+D: 8:00 Oglądasz próbki po teście zużycia | 10:00 Spotkanie z produkcją o rdzewiejących częściach | 12:30 Zmieniasz sposób obróbki, żeby powstawało mniej odpadów | 15:00 Piszesz wnioski z badań dla kierownika
+Y: Porównaj dwie łyżki lub widelce w domu: który ma bardziej zarysowaną powierzchnię i dlaczego.
+
+@601
+H: Planujesz, jak krok po kroku ma powstawać produkt w fabryce. Dopasowujesz proces do tego, co produkujesz, i do ograniczeń danej branży.
+T: Projektujesz kolejność etapów produkcji | Dobierasz maszyny i stanowiska pracy | Sprawdzasz, czy proces da się wykonać | Poprawiasz miejsca, które spowalniają linię
+D: 7:30 Obchód hali, sprawdzasz, gdzie linia stoi | 9:30 Rysujesz nowy układ stanowisk przy montażu | 12:00 Rozmowa z kierownikiem zmiany o problemach | 14:30 Test zmienionego procesu na próbnej serii
+Y: Rozpisz na kartce kolejne etapy robienia kanapki i zaznacz, który zabiera najwięcej czasu.
+
+@602
+H: Dbasz, żeby maszyny w zakładzie spożywczym działały sprawnie i higienicznie. Pilnujesz przeglądów, bezpieczeństwa pracy i tego, żeby produkcja nie stawała.
+T: Nadzorujesz pracę maszyn do produkcji żywności | Planujesz rutynowe przeglądy i konserwację | Pilnujesz zasad higieny i bezpieczeństwa | Reagujesz na awarie na linii
+D: 6:00 Poranny obchód linii, sprawdzasz maszyny | 9:00 Awaria taśmy, szukasz przyczyny z mechanikiem | 12:00 Kontrola higieny przed następną partią | 14:00 Układasz harmonogram przeglądów na miesiąc
+Y: Obejrzyj w kuchni sitko lub praskę i zapisz trzy miejsca, gdzie mogą zostać resztki jedzenia.
+
+@603
+H: Projektujesz, jak ludzie, maszyny i materiały mają współpracować w całym zakładzie, żeby praca szła sprawnie i wygodnie. Patrzysz na cały system, nie na jedną maszynę.
+T: Projektujesz układ stanowisk i przepływ materiałów | Mierzysz czas wykonywania czynności | Poprawiasz ergonomię pracy | Wdrażasz nowy sposób organizacji produkcji
+D: 8:00 Stoisz ze stoperem przy stanowisku montażu | 10:30 Przerysowujesz układ hali, żeby skrócić drogi | 13:00 Rozmowa z pracownikami o niewygodnym stanowisku | 15:00 Liczysz, jak zmieni się wydajność po zmianie
+Y: Zmierz stoperem, ile trwa pościelenie łóżka, potem zmień kolejność ruchów i zmierz drugi raz.
+
+@604
+H: Sprawiasz, żeby urządzenia i maszyny działały jak najdłużej bez awarii i bez zbędnych kosztów. Planujesz serwis tak, żeby sprzęt był gotowy do pracy.
+T: Planujesz przeglądy maszyn i urządzeń | Analizujesz, co i jak często się psuje | Dobierasz części zamienne i procedury napraw | Szukasz sposobów, by awarii było mniej
+D: 7:00 Sprawdzasz, które maszyny zgłosiły usterki w nocy | 9:30 Rozmowa z mechanikami o powtarzającej się awarii | 12:00 Zamawiasz części na planowany przegląd | 14:30 Zestawienie awarii z miesiąca i wnioski
+Y: Wypisz pięć urządzeń z domu i dopisz, co trzeba w nich regularnie czyścić lub wymieniać.
+
+@605
+H: Przyglądasz się temu, jak działa proces produkcji, i znajdujesz sposób, żeby szedł szybciej i z mniejszą liczbą błędów. Opierasz się na pomiarach i próbach.
+T: Zbierasz dane z linii produkcyjnej | Szukasz wąskich gardeł w procesie | Testujesz zmiany ustawień maszyn | Wdrażasz sprawdzone rozwiązania
+D: 7:30 Przeglądasz dane z nocnej zmiany | 9:30 Na hali sprawdzasz, gdzie zatrzymują się produkty | 12:30 Próba nowych ustawień maszyny z operatorem | 15:00 Raport: co poprawiło się po zmianie
+Y: Zaobserwuj poranną rutynę w domu i znajdź jedno miejsce, w którym ktoś traci czas na czekanie.
+
+@606
+H: Pilnujesz, żeby zamówienia na wyroby skórzane powstawały na czas. Łączysz plan produkcji z magazynem, sprzedażą i wymaganiami klienta.
+T: Planujesz harmonogram produkcji wyrobów ze skóry | Śledzisz postępy w realizacji zamówień | Sprawdzasz z magazynem ilość i jakość materiałów | Ustalasz z działem sprzedaży wymagania klienta
+D: 8:00 Sprawdzasz harmonogram i postęp zamówień | 10:00 Rozmowa z magazynem o brakującej skórze | 12:30 Dział sprzedaży zmienia termin u klienta | 14:30 Przestawiasz plan produkcji na kolejny tydzień
+Y: Wybierz portfel lub torbę ze skóry albo skóropodobnego materiału i policz, z ilu elementów jest zszyta.
+
+@607
+H: Projektujesz i nadzorujesz produkcję tkanin, dzianin i innych wyrobów włókienniczych. Odpowiadasz za to, żeby maszyny i procesy dawały materiał o właściwych parametrach.
+T: Planujesz proces produkcji tkanin i dzianin | Dobierasz włókna i ustawienia maszyn | Nadzorujesz pracę zmiany na hali | Badasz, czy materiał spełnia wymagania
+D: 6:30 Odbierasz raport od poprzedniej zmiany | 9:00 Na hali oceniasz partię tkaniny | 11:30 Zmieniasz ustawienia maszyny po wykryciu wady | 14:00 Omawiasz z zespołem nowe zamówienie
+Y: Obejrzyj z bliska dwie tkaniny z domu i opisz, czym różni się ich splot lub oczka.
+
+@608
+H: Układasz drogę towaru od producenta do klienta: transport, magazyn i dostawę. Szukasz rozwiązań, które są szybsze i tańsze.
+T: Analizujesz łańcuch dostaw i znajdujesz problemy | Porównujesz koszty różnych sposobów transportu | Planujesz magazynowanie i dystrybucję towarów | Doradzasz kierownikom, jak usprawnić dostawy
+D: 8:00 Sprawdzasz, które dostawy mają opóźnienie | 10:00 Dzwonisz do przewoźnika w sprawie zmiany trasy | 12:30 Porównujesz dwa warianty magazynowania towaru | 15:00 Przedstawiasz kierownikowi tańszy plan dostaw
+Y: Rozpisz na kartce, jakimi etapami zamówiona w sklepie internetowym rzecz trafia do Ciebie, od magazynu do drzwi.
+
+@609
+H: Projektujesz opakowania tak, żeby towar dojechał do klienta w całości i dobrze wyglądał. Gdy coś psuje się w transporcie, szukasz przyczyny w opakowaniu.
+T: Projektujesz opakowania do konkretnych produktów | Testujesz, czy towar przetrwa transport | Analizujesz uszkodzone przesyłki | Dobierasz kształt i materiał opakowania
+D: 8:30 Oglądasz zwrócone paczki z uszkodzonym towarem | 10:30 Projektujesz wkładkę, która unieruchomi szklany słoik | 13:00 Sprawdzasz, jak opakowanie znosi wstrząsy i upadki | 15:00 Ustalasz z klientem wymiary i wygląd pudełka
+Y: Zapakuj kubek z tworzywa w pudełko i papier tak, aby nie przesuwał się po potrząśnięciu.
+
+@610
+H: Rozbijasz produkt ze skóry na kolejne operacje i liczysz, ile trwa każda z nich. Dzięki temu produkcja idzie sprawniej i taniej.
+T: Analizujesz specyfikacje techniczne wyrobów skórzanych | Ustalasz kolejność operacji produkcyjnych | Mierzysz czas pracy przy każdej operacji | Rozdzielasz pracę zgodnie z mocami produkcyjnymi
+D: 8:00 Czytasz projekt nowej torby od projektanta | 10:00 Rozpisujesz operacje: cięcie, szycie, wykańczanie | 12:30 Mierzysz stoperem czas szycia jednego elementu | 14:30 Przydzielasz pracę do stanowisk na przyszły tydzień
+Y: Rozpisz na kartce operacje potrzebne do zrobienia plecaka lub portfela i przy każdej zgadnij czas w minutach.
+
+@611
+H: Odpowiadasz za to, żeby ubranie z projektu stało się produktem, który da się uszyć i który trzyma wymagania. Sprawdzasz próbki, szwy i materiały.
+T: Sprawdzasz próbki odzieży pod kątem wad | Dopasowujesz specyfikację do możliwości produkcji | Kontrolujesz materiały i wykonanie szwów | Rozmawiasz ze szwalnią o poprawkach
+D: 8:00 Oglądasz próbną koszulę od szwalni | 10:00 Mierzysz elementy i porównujesz z tabelą wymiarów | 13:00 Rozmowa ze szwalnią o krzywym szwie | 15:00 Zatwierdzasz zmiany w specyfikacji produktu
+Y: Obejrzyj w domu bluzę lub koszulkę od środka, rozpoznaj rodzaje szwów i zapisz trzy miejsca, gdzie mogłaby się zniszczyć.
+
+@612
+H: Dbasz o to, żeby jedzenie i napoje miały opakowanie bezpieczne, trwałe i zgodne z wymaganiami firmy. Czasem opracowujesz też projekt nowego opakowania.
+T: Oceniasz opakowania różnych produktów spożywczych | Sprawdzasz, czy opakowanie chroni żywność | Pilnujesz specyfikacji i wymagań firmy | Opracowujesz projekty nowych opakowań
+D: 8:00 Oglądasz próbki opakowań z nowej partii | 10:00 Sprawdzasz, czy zgrzew torebki jest szczelny | 12:30 Spotkanie o zmianie opakowania napoju | 15:00 Rysujesz wymiary butelki dla nowego produktu
+Y: Obejrzyj trzy puste, umyte opakowania po jedzeniu i zapisz, przed czym chroni każde z nich.
+
+@613
+H: Zajmujesz się metalami: jak je pozyskać, przetworzyć i połączyć w stopy o potrzebnych właściwościach. Pracujesz w hucie, zakładzie albo laboratorium badawczym.
+T: Badasz właściwości metali i ich stopów | Dobierasz skład stopu do zastosowania | Nadzorujesz przetwarzanie i formowanie metalu | Sprawdzasz próbki pod kątem wytrzymałości
+D: 7:00 Odbierasz próbki z nocnego wytopu | 9:00 Test twardości i wytrzymałości kawałka stopu | 12:00 Zmieniasz skład stopu po wynikach badań | 14:00 Omawiasz z klientem wymagania wobec metalu
+Y: Sprawdź magnesem z lodówki, które metalowe przedmioty w domu się do niego przyczepiają, i zrób listę.
+
+@614
+H: Pomagasz odzyskiwać wartościowe składniki z rud i materiałów z recyklingu. Badasz też, jak metal się psuje, na przykład koroduje lub ulega zmęczeniu.
+T: Uczestniczysz w odzyskiwaniu składników z rud | Przetwarzasz materiały z recyklingu | Badasz korozję metalu w laboratorium | Sprawdzasz zmęczenie materiału po wielu obciążeniach
+D: 8:00 Przygotowujesz próbki rudy do badań | 10:30 Obserwujesz, jak metal koroduje w komorze testowej | 13:00 Zapisujesz wyniki zmęczenia materiału w tabeli | 15:00 Rozmowa z zespołem o odzysku z odpadów
+Y: Obejrzyj metalowe przedmioty na balkonie lub w garażu i zrób listę tych, które mają ślady rdzy.
+
+@615
+H: Badasz rudy miedzi, niklu czy żelaza i sprawdzasz, ile metalu da się z nich uzyskać. Porównujesz też, jak zachowują się różne metale i stopy.
+T: Badasz właściwości rud w laboratorium | Porównujesz wydajność różnych metali i stopów | Analizujesz wyniki prób i pomiarów | Proponujesz zmiany w procesie przetwarzania rudy
+D: 8:00 Dostajesz nową próbkę rudy miedzi | 10:00 Analizujesz, ile metalu da się z niej uzyskać | 13:00 Porównujesz dwa stopy w tabeli wyników | 15:00 Piszesz zalecenia dla huty
+Y: Policz: z 200 kilogramów rudy zawierającej pięć procent miedzi, ile kilogramów miedzi w niej jest?
+
+@616
+H: Chronisz górników przed wypadkami i chorobami w kopalni. Tworzysz zasady, sprawdzasz, czy są przestrzegane, i szukasz zagrożeń, zanim komuś stanie się krzywda.
+T: Opracowujesz procedury bezpiecznej pracy w kopalni | Wyszukujesz zagrożenia dla zdrowia pracowników | Badasz przyczyny wypadków i uszkodzeń sprzętu | Sprawdzasz, czy zasady są przestrzegane
+D: 6:00 Odprawa ze zmianą przed zjazdem pod ziemię | 8:00 Obchód wyrobiska, szukasz zagrożeń | 11:30 Wyjaśniasz przyczyny wczorajszego incydentu przy maszynie | 14:00 Piszesz nową instrukcję dla brygady
+Y: Przejdź po domu, znajdź trzy miejsca, gdzie ktoś mógłby się potknąć, i zapisz, jak je zabezpieczyć.
+
+@617
+H: Planujesz, jak będzie wyglądać kopalnia w kolejnych latach: gdzie wydobywać i w jakim tempie. Układasz harmonogramy i sprawdzasz, czy plan jest realizowany.
+T: Projektujesz przyszłe plany wydobycia w kopalni | Analizujesz budowę geologiczną i zasoby | Przygotowujesz harmonogramy produkcji | Porównujesz plan z faktycznym postępem prac
+D: 8:00 Oglądasz mapę złoża i wyniki odwiertów | 10:00 Rysujesz kolejny etap wydobycia na planie | 12:30 Liczysz, ile uda się wydobyć w kwartale | 14:30 Porównujesz plan z tym, co zrobiono
+Y: Narysuj prostokąt jako złoże, podziel go na osiem pól i rozpisz kolejność ich wydobycia na cztery tygodnie.
+
+@618
+H: Zajmujesz się tym, co dzieje się z rudą po wydobyciu: rozdrabnianiem, oddzielaniem i wzbogacaniem cennych minerałów. Dobierasz maszyny i metody, które robią to skutecznie.
+T: Projektujesz układ maszyn do przeróbki rudy | Dobierasz sposób oddzielania minerałów od skały | Zarządzasz pracą zakładu przeróbczego | Mierzysz, ile cennego surowca odzyskujesz
+D: 6:30 Sprawdzasz, jak ruda przechodzi przez kruszarki | 9:00 Pobierasz próbki z taśmy po wzbogaceniu | 12:00 Rozmowa z operatorami o spadku wydajności | 14:30 Liczysz, ile cennego minerału trafia do odpadu
+Y: Wymieszaj w misce garść ryżu i fasoli, a potem rozdziel je sitkiem. Zapisz, jak długo to trwało.
+
+@619
+H: Projektujesz i koordynujesz prace, dzięki którym kopalnia sięga nowych miejsc: drążenie tuneli i przekopów, prowadzenie wyrobisk, usuwanie skał nad złożem.
+T: Projektujesz drążenie tuneli i przekopów | Planujesz wyrobiska i dojścia do nowych pokładów | Koordynujesz brygady pracujące przy rozbudowie kopalni | Planujesz usuwanie skał leżących nad złożem
+D: 7:00 Odprawa z brygadą drążącą nowy tunel | 9:30 Zjeżdżasz sprawdzić postęp prac w wyrobisku | 12:30 Poprawiasz rysunek przekroju tunelu po pomiarach | 14:30 Ustalasz z zaopatrzeniem terminy dostaw materiałów
+Y: Narysuj przekrój tunelu w ziemi i zaznacz trzy miejsca, w których trzeba by go podeprzeć.
+
+@620
+H: Planujesz i prowadzisz kamieniołom: wybierasz sposób wydobycia, oceniasz, czy się opłaca, i na co dzień nadzorujesz pracę. Pilnujesz też bezpieczeństwa i wpływu na środowisko.
+T: Wybierasz metodę wydobycia: kopanie lub wiercenie | Oceniasz, czy nowy kamieniołom się opłaca | Nadzorujesz codzienną pracę załogi | Piszesz sprawozdania i oceniasz wpływ na środowisko
+D: 6:00 Odprawa na wyrobisku, przydzielasz zadania | 8:30 Obchód kamieniołomu, sprawdzasz ściany i drogi dojazdowe | 11:30 Liczysz, ile kamienia wywieziono w tym tygodniu | 14:00 Wpisujesz do raportu pomiar pyłu i hałasu
+Y: Zapisz trzy sposoby, w jakie kamieniołom może uprzykrzać życie sąsiadom, i po jednym pomyśle, jak to ograniczyć.
+
+@621
+H: Oceniasz, czy z podziemnego złoża opłaca się wydobywać paliwa płynne, i projektujesz sposób, jak to zrobić. Chodzi o ropę, gaz i inne paliwa, przy jak najmniejszym wpływie na środowisko.
+T: Oceniasz zakłady wydobycia paliw płynnych | Projektujesz metody wydobycia spod ziemi | Szukasz sposobu na większy odzysk paliwa | Liczysz koszty i wpływ na środowisko
+D: 8:00 Analizujesz dane z pomiarów złoża | 10:30 Porównujesz dwie metody wydobycia w tabeli kosztów | 13:00 Spotkanie z geologiem o ilości paliwa w złożu | 15:00 Przygotowujesz ocenę oddziaływania na środowisko
+Y: Nasącz gąbkę wodą i wyciśnij. Oceń w procentach, ile wody udało się odzyskać z gąbki.
+
+@622
+H: Projektujesz odwierty, z których wydobywa się ropę i gaz, i pilnujesz ich wykonania. Pracujesz na lądzie albo na platformie na morzu, często na zmiany.
+T: Projektujesz odwierty gazu i ropy | Testujesz gotowy odwiert | Nadzorujesz postęp wiercenia | Pilnujesz bezpieczeństwa na stanowisku wiertniczym
+D: 6:00 Odbierasz raport z nocnego wiercenia | 8:30 Sprawdzasz głębokość i ciśnienie w odwiercie | 12:00 Narada z geologiem, co dalej z wierceniem | 18:00 Dyżur na platformie, pilnujesz bezpiecznej pracy ekipy
+Y: Narysuj w skali pionowy odwiert o głębokości trzech kilometrów i zaznacz w nim cztery warstwy skał.
+
+@623
+H: Oceniasz pola ropy i gazu pod ziemią i wymyślasz, jak je opłacalnie wydobyć. Dużo czasu spędzasz nad danymi i modelami złoża.
+T: Oceniasz zasoby pól gazowych i olejowych | Projektujesz metody wydobycia ropy i gazu | Liczysz, ile da się odzyskać ze złoża | Porównujesz koszt wydobycia z wpływem na środowisko
+D: 8:30 Przeglądasz dane z odwiertów na ekranie | 10:30 Budujesz model, ile ropy zostało w złożu | 13:00 Rozmowa z wiertnikami o zmianie planu | 15:30 Raport o opłacalności dla zarządu
+Y: Zapisz trzy informacje, jakie trzeba mieć, żeby ocenić, czy pole ropy się opłaca.
+
+@624
+H: Sprawdzasz, ile w przedmiocie jest srebra lub złota i jakie ma właściwości. Oddzielasz metal szlachetny od innych składników.
+T: Testujesz złoto i srebro metodami fizycznymi | Wykonujesz badania chemiczne próbek metalu | Oddzielasz metal szlachetny od domieszek | Określasz wartość i skład badanego przedmiotu
+D: 8:00 Ważysz próbki biżuterii na precyzyjnej wadze | 10:00 Przygotowujesz próbkę do badania składu | 12:30 Odczytujesz wynik i porównujesz z wymaganiem | 14:30 Wypisujesz wyniki dla zleceniodawcy
+Y: Obejrzyj dwie monety pod światło i zapisz trzy różnice: kolor, ciężar w dłoni i wzór.
+
+@625
+H: Planujesz kontrolowane wybuchy w kopalni lub kamieniołomie i pilnujesz, żeby przebiegły bezpiecznie. Odpowiadasz też za magazyn materiałów wybuchowych i badasz niewypały.
+T: Projektujesz układ otworów do wiercenia | Obliczasz ilość potrzebnego materiału wybuchowego | Nadzorujesz kontrolowane wybuchy | Badasz niewypały i zarządzasz magazynem
+D: 7:00 Sprawdzasz plan odpalenia i zapasy w magazynie | 9:30 Wyznaczasz strefę, z której wszyscy muszą wyjść | 12:00 Odpalenie zaplanowanej serii, potem kontrola terenu | 14:30 Sprawdzasz, czy wszystkie ładunki zadziałały
+Y: Narysuj prostokąt jako ścianę skalną i rozmieść w nim dwanaście punktów w równych odstępach jako otwory.
+
+@626
+H: Nadzorujesz, jak z winogron powstaje wino, i pilnujesz, żeby było dobre. Oceniasz jego jakość i doradzasz, jak je sklasyfikować.
+T: Śledzisz całą produkcję wina w winiarni | Koordynujesz pracę ludzi w winiarni | Kontrolujesz jakość wina na kolejnych etapach | Oceniasz i klasyfikujesz gotowe wina
+D: 7:00 Winobranie, sprawdzasz dojrzałość winogron w skrzyniach | 10:00 Rozmowa z ekipą o kolejności tłoczenia | 13:00 Pobierasz próbki z kadzi do kontroli jakości | 16:00 Oceniasz partię wina i zapisujesz klasyfikację
+Y: Powąchaj trzy przyprawy lub owoce w kuchni i opisz zapach każdego trzema słowami.
+
+@627
+H: Prowadzisz badania z nauk przyrodniczych i zamieniasz odkrycia w rozwiązania, takie jak szczepionki, naprawa tkanek czy czystsze paliwa. Dużo czasu spędzasz w laboratorium i przy wynikach.
+T: Prowadzisz badania w laboratorium | Zamieniasz wyniki badań w praktyczne rozwiązania | Pracujesz nad szczepionkami, uprawami lub czystszymi paliwami | Opisujesz doświadczenia i omawiasz wyniki
+D: 8:30 Zakładasz doświadczenie, notujesz każdy parametr | 10:30 Sprawdzasz wyniki wczorajszej próby | 13:00 Narada o tym, czy metoda nadaje się do produkcji | 15:30 Czytasz nowe publikacje naukowe o swoim temacie
+Y: Zapisz pytanie badawcze o nasionach fasoli: czy wolniej kiełkują w ciemności? Rozpisz plan prostego doświadczenia.
+
+@628
+H: Projektujesz duże procesy, w których z surowców powstają gotowe produkty chemiczne. Zajmujesz się całą drogą od surowca do produktu na skalę przemysłową.
+T: Projektujesz instalacje do produkcji chemicznej | Liczysz bilanse przepływu surowców | Śledzisz proces od surowca do produktu | Poprawiasz istniejący proces w zakładzie
+D: 7:30 Sprawdzasz odczyty z instalacji w sterowni | 9:30 Rysujesz schemat nowej części instalacji | 12:30 Liczysz, ile surowca potrzeba na dzień produkcji | 15:00 Spotkanie o poprawie wydajności procesu
+Y: Narysuj schemat blokowy produkcji lemoniady: co wchodzi, jakie etapy, co wychodzi. Dodaj ilości.
+
+@629
+H: Projektujesz technologie, dzięki którym powstają leki, i doradzasz zakładom, jak je utrzymywać i obsługiwać. Możesz brać udział w projektowaniu fabryk leków i centrów badawczych.
+T: Projektujesz technologie badań i produkcji leków | Doradzasz zakładom w sprawie ich utrzymania | Sprawdzasz, czy instalacje są bezpieczne dla pracowników | Uczestniczysz w projektowaniu fabryk i laboratoriów
+D: 8:00 Przeglądasz plan nowego pomieszczenia produkcyjnego | 10:00 Rozmowa z zakładem o przeglądzie aparatury | 13:00 Poprawiasz rysunek instalacji dla laboratorium | 15:00 Sprawdzasz wymagania bezpieczeństwa dla nowej linii
+Y: Zapisz pięć zasad, które musiałyby obowiązywać w pomieszczeniu, gdzie powstają leki, i wskaż najważniejszą.
+

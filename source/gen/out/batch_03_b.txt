@@ -1,0 +1,180 @@
+@210
+H: Mieszasz i granulujesz sproszkowane składniki, żeby przygotować je do tabletkowania leków. Ustawiasz wielkość serii i trzymasz się receptury.
+T: Mieszasz sproszkowane składniki w maszynie | Granulujesz masę przed tabletkowaniem | Ustawiasz wielkość serii | Pilnujesz zgodności z recepturą
+D: 6:30 Zakładasz strój ochronny przy wejściu na halę | 8:00 Ustawiasz wielkość serii i ładujesz składniki | 10:30 Mieszarka pracuje, sprawdzasz ziarnistość masy | 13:30 Przekazujesz granulat do tabletkowania
+Y: Odmierz łyżkami dwa suche składniki z kuchni w proporcji dwa do jednego, wymieszaj i zapisz proporcję.
+
+@211
+H: Obserwujesz i konserwujesz suszarnię, w której schną materiały pirotechniczne. Sprawdzasz, czy są dobrze osuszone i przechowywane we właściwych warunkach.
+T: Obserwujesz pracę suszarni | Sprawdzasz stopień osuszenia materiałów | Pilnujesz warunków przechowywania | Konserwujesz urządzenie suszące
+D: 6:00 Odprawa bezpieczeństwa i odczyt parametrów suszarni | 9:00 Kontrolujesz, czy materiał jest już dość suchy | 12:00 Odnotowujesz, które partie zostały osuszone | 15:00 Sprawdzasz warunki w miejscu przechowywania
+Y: Zmocz dwie szmatki, powieś jedną w cieniu, drugą w słońcu, i po kwadransie porównaj.
+
+@212
+H: Obsługujesz zbiorniki do mieszania materiałów wybuchowych i neutralizujesz kwasy, które zostają po procesie. Pracujesz ściśle według procedur bezpieczeństwa.
+T: Konserwujesz zbiorniki do mieszania | Neutralizujesz kwasy pozostałe po procesie | Kontrolujesz przebieg neutralizacji | Dokumentujesz każdy etap pracy
+D: 6:00 Odprawa bezpieczeństwa i ocena stanu zbiorników | 8:00 Rozpoczynasz neutralizację kwasów po procesie | 11:00 Odczytujesz wyniki kontroli i notujesz je | 14:00 Przygotowujesz zbiornik do kolejnej partii
+Y: Napisz dla młodszej osoby instrukcję krok po kroku, jak bezpiecznie sprzątnąć rozlany sok z podłogi.
+
+@213
+H: Wywołujesz filmy fotograficzne w ciemni, aż pojawią się z nich widoczne zdjęcia. Używasz do tego przyrządów, specjalnych technik i substancji chemicznych.
+T: Wywołujesz filmy fotograficzne w ciemni | Obsługujesz przyrządy do obróbki filmu | Przygotowujesz substancje chemiczne do wywołania | Oceniasz wywołane obrazy
+D: 8:00 Odbierasz od klientów filmy do wywołania | 10:00 W ciemni wywołujesz kolejny film | 13:00 Oglądasz obrazy i sprawdzasz, czy są wyraźne | 16:00 Wydajesz klientowi gotowe zdjęcia
+Y: Zrób dwa zdjęcia tego samego przedmiotu: w pełnym świetle i w półmroku, i porównaj je.
+
+@214
+H: Wywołujesz materiał filmowy w różnych formatach, w czerni i bieli lub w kolorze. Na zlecenie klientów tworzysz też małe filmy kinematograficzne.
+T: Wywołujesz taśmy filmowe w różnych formatach | Dobierasz proces do materiału czarno-białego lub kolorowego | Zamieniasz wywołany materiał na film wideo | Tworzysz małe filmy na zlecenie klientów
+D: 8:30 Czytasz zlecenie: format taśmy i rodzaj obrazu | 10:00 Wywołujesz taśmę filmową w laboratorium | 13:00 Przenosisz obraz taśmy na film wideo | 15:30 Montujesz mały film dla klienta
+Y: Nakręć telefonem dziesięciosekundowy film z jednej sceny w domu i wymyśl mu tytuł.
+
+@215
+H: Kierujesz zespołem podczas montażu urządzeń i wiercenia. Obserwujesz odwiert i w sytuacji nagłej decydujesz, co robić.
+T: Nadzorujesz zespół przy montażu wiertni | Prowadzisz prace wiertnicze | Monitorujesz działanie odwiertu | Podejmujesz działania w sytuacjach nagłych
+D: 6:00 Odprawa załogi i podział zadań | 8:00 Nadzorujesz montaż sprzętu wiertniczego | 12:00 Wskazania odwiertu się zmieniają, wydajesz polecenia | 18:00 Przekazujesz nocnej załodze stan odwiertu
+Y: Zaplanuj na kartce, kto z domowników odpowiada za co przy sobotnich porządkach, i przydziel zadania.
+
+@216
+H: Odpowiadasz za bieżące prace wiertnicze, głównie od strony organizacji i dokumentów. Pilnujesz, żeby na platformie nie zabrakło materiałów, części i ludzi.
+T: Prowadzisz wiercenia zgodnie z zaplanowanym programem | Zamawiasz materiały i części zamienne | Układasz grafik załogi | Prowadzisz dokumentację wierceń
+D: 7:00 Czytasz raport z nocnej zmiany | 9:00 Zamawiasz brakujące części dla platformy | 13:00 Sprawdzasz, czy dziś jest dość ludzi | 16:00 Uzupełniasz dokumenty i raport dzienny
+Y: Sporządź listę rzeczy potrzebnych na jednodniową wycieczkę i zaznacz, czego brakuje w domu.
+
+@217
+H: Odpowiadasz za silniki napędzające urządzenia wiertnicze. Pilnujesz, żeby inne maszyny na platformie działały bez zarzutu.
+T: Konserwujesz silniki napędzające wiertnię | Diagnozujesz awarie maszyn na platformie | Naprawiasz uszkodzone urządzenia | Sprawdzasz stan sprzętu podczas obchodu
+D: 6:00 Zaczynasz od obchodu silników | 9:00 Jeden silnik stuka, szukasz przyczyny | 12:00 Wymieniasz zużytą część w maszynie | 15:00 Wpisujesz do dziennika naprawy i przeglądy
+Y: Posłuchaj przez minutę pracy lodówki lub zegara i opisz słowami jej rytm i dźwięk.
+
+@218
+H: Dozorujesz pompy i systemy, które przesyłają ropę, gazy czy roztwory z jednego miejsca do drugiego. Pilnujesz, żeby przepływ w rurociągu był sprawny.
+T: Obsługujesz pompy i węże do przesyłu | Kontrolujesz przepływ towaru w rurociągu | Dobierasz sprzęt do rodzaju towaru | Wychwytujesz zakłócenia przepływu
+D: 6:00 Przejmujesz zmianę, sprawdzasz stan pomp | 8:30 Uruchamiasz pompę do przesyłu towaru | 12:00 Przepływ spada, szukasz przyczyny | 15:00 Odłączasz węże po zakończeniu przesyłu
+Y: Narysuj schemat rurociągu łączącego trzy punkty i zaznacz, gdzie umieścisz pompy.
+
+@219
+H: Sterujesz ogromną maszyną do drążenia tuneli, znaną jako TBM. Regulujesz jej pracę, a potem zdalnie układasz betonowe kręgi, które obudowują tunel.
+T: Regulujesz moment obrotowy koła tnącego | Kontrolujesz pracę przenośnika śrubowego | Pilnujesz stabilności drążonego tunelu | Układasz żelbetowe kręgi zdalnym sterowaniem
+D: 6:00 Zmiana pod ziemią, sprawdzasz maszynę drążącą | 8:00 Korygujesz moment obrotowy koła tnącego | 11:00 Zdalnie układasz kolejny krąg tunelu | 14:00 Przekazujesz zmianę i opisujesz postęp
+Y: Zbuduj z kartonowych pierścieni krótki tunel, który się nie zawali po lekkim dotknięciu.
+
+@220
+H: Na piętrze wydobywczym łączysz i rozłączasz rury płuczkowe, gdy trafiają do otworu albo są z niego wyjmowane. Montujesz rury i wiertła oraz naprawiasz sprzęt.
+T: Łączysz i rozłączasz rury płuczkowe | Montujesz i demontujesz wiertła | Pobierasz próbki z odwiertu | Naprawiasz sprzęt na piętrze wydobywczym
+D: 6:00 Zmiana na piętrze wydobywczym, odbiór sprzętu | 8:00 Wyciągane rury trzeba rozłączyć | 11:00 Skręcasz nowe rury i wiertło | 14:00 Naprawiasz zużyty sprzęt i pobierasz próbki
+Y: Skręć i rozkręć kilka butelek z zakrętkami i opisz, jak czuć dobre dopasowanie gwintu.
+
+@221
+H: Kierujesz położeniem i ruchem rur wiertniczych oraz obsługujesz zautomatyzowane urządzenia do ich przenoszenia. Często odpowiadasz też za stan płuczki wiertniczej, czyli błota.
+T: Ustawiasz rury wiertnicze w odpowiedniej pozycji | Sterujesz urządzeniem do przenoszenia rur | Kontrolujesz stan płuczki wiertniczej | Obserwujesz ruchy rur podczas pracy
+D: 6:00 Przejmujesz stanowisko i sprawdzasz urządzenia | 8:00 Sterujesz układaniem kolejnych rur | 11:00 Oceniasz stan płuczki wiertniczej, czyli błota | 14:00 Zgłaszasz usterkę urządzenia kierownikowi
+Y: Ułóż z ołówków równy stos i zaplanuj, w jakiej kolejności je przenosić.
+
+@222
+H: Konserwujesz i naprawiasz sprzęt na polu naftowym, używając narzędzi ręcznych i elektronarzędzi. Do tego czyścisz, kopiesz rowy, skrobiesz i malujesz elementy platformy.
+T: Naprawiasz maszyny narzędziami ręcznymi | Czyścisz elementy platformy | Kopiesz rowy wokół urządzeń | Skrobiesz i malujesz konstrukcje
+D: 6:00 Dostajesz od brygadzisty zadania na dzień | 8:00 Skrobiesz rdzę z elementu platformy | 11:00 Malujesz oczyszczoną konstrukcję pędzlem i wałkiem | 14:00 Kopiesz rów i sprzątasz narzędzia
+Y: Wyczyść wilgotną szmatką jeden zabrudzony przedmiot w domu i porównaj go z niewyczyszczonym.
+
+@223
+H: Obsługujesz maszyny wiertnicze, które wiercą odwierty do wydobycia rudy, cieczy i gazów. Zapisujesz przebieg prac, konserwujesz sprzęt i uszczelniasz odwierty, których już nie używasz.
+T: Obsługujesz maszynę wiertniczą | Rejestrujesz przebieg wiercenia | Uszczelniasz nieużywane odwierty | Zapobiegasz zanieczyszczeniu gruntu
+D: 6:30 Przygotowujesz maszynę do wiercenia nowego odwiertu | 9:00 Maszyna wierci, a ty notujesz głębokość | 12:00 Konserwujesz sprzęt po kilku godzinach pracy | 15:00 Uszczelniasz stary odwiert, żeby grunt się nie zanieczyszczał
+Y: Wsuń w ziemię w doniczce patyczek, zmierz głębokość linijką i zapisz, co po drodze zauważasz.
+
+@224
+H: Ręcznie odlewasz dekoracyjne i konstrukcyjne elementy z betonu, takie jak bloczki, płytki czy moduły kominków. Beton mieszasz w przenośnej betoniarce.
+T: Mieszasz beton w przenośnej betoniarce | Wlewasz masę do form | Wyjmujesz gotowe bloczki i płytki | Czyścisz formy po każdym odlewie
+D: 7:00 Mieszasz pierwszą porcję betonu w betoniarce | 9:00 Wlewasz beton do form na płytki | 12:00 Rozformowujesz płytki odlane wczoraj | 15:00 Myjesz formy i betoniarkę
+Y: Zrób z mokrego piasku w kubku odlew i sprawdź, jak go wyjąć, żeby się nie rozpadł.
+
+@225
+H: Obsługujesz maszyny, które formują wyroby z betonu. Smarujesz formy, montujesz je, odrywasz gotowe elementy i pomagasz przy mieszaniu cementu.
+T: Smarujesz formy przed odlewem | Montujesz formy w maszynie | Odrywasz gotowe elementy od form | Pomagasz mieszać cement
+D: 6:00 Smarujesz formy przed pierwszym odlewem | 8:00 Maszyna formuje elementy, ty ją dozorujesz | 11:00 Odrywasz gotowe elementy od form | 14:00 Pomagasz przy mieszaniu cementu do nowej partii
+Y: Zbuduj z klocków dwa jednakowe elementy według jednego wzoru i sprawdź, czy do siebie pasują.
+
+@226
+H: Obsługujesz mieszarkę, która miesza wielokolorowy granulat łupkowy. Granulat trafia potem na papę dachową powleczoną asfaltem.
+T: Obsługujesz mieszarkę granulatu łupkowego | Mieszasz granulat w różnych kolorach | Czyścisz i konserwujesz mieszarkę | Sprawdzasz, czy kolory są równo wymieszane
+D: 6:30 Sprawdzasz zapas kolorowego granulatu przy mieszarce | 8:00 Ustawiasz proporcje kolorów w mieszarce | 11:00 Oglądasz próbkę: czy kolory są równo wymieszane | 14:00 Czyścisz mieszarkę przed zmianą koloru
+Y: Wymieszaj w misce kilka rodzajów koralików lub nasion i oceń, czy kolory rozkładają się równo.
+
+@227
+H: Obsługujesz maszynę, która napełnia formy mokrym betonem i wibracją zagęszcza go w gotowe bloczki. Kontrolujesz ją i konserwujesz.
+T: Obsługujesz pustaczarkę na hali | Kontrolujesz napełnianie form betonem | Pilnujesz zagęszczania wibracjami | Czyścisz i konserwujesz maszynę
+D: 6:00 Włączasz maszynę i sprawdzasz zasilanie betonem | 8:00 Formy się napełniają, bloczki wychodzą z maszyny | 11:00 Oglądasz bloczki: czy są pełne i równe | 14:00 Czyścisz pustaczarkę z resztek betonu
+Y: Nasyp ryż do kubka, postukaj nim o stół i zmierz, o ile obniżył się poziom.
+
+@228
+H: Pozyskujesz piasek i kamień, przewozisz je do zakładu i obsługujesz automaty, które kruszą je i mieszają ze spoiwem asfaltowym. Pobierasz próbki i organizujesz transport mieszanki na budowę.
+T: Przewozisz kruszywo do zakładu | Dozorujesz automaty kruszące i mieszające | Pobierasz próbki mieszanki asfaltowej | Organizujesz transport mieszanki na budowę
+D: 6:00 Przewozisz ruchomym sprzętem piasek i kamień do zakładu | 8:30 Automat kruszy kamień i miesza go ze spoiwem | 11:00 Pobierasz próbkę mieszanki do sprawdzenia | 13:30 Umawiasz ciężarówki na dostawę na budowę
+Y: Opisz z bliska kamyki z podwórka: rozmiar, kształt i kolor, i podziel je na trzy grupy.
+
+@229
+H: Obsługujesz maszyny, które rozbijają kamień na bloczki, kostki i płytki. Konserwujesz je i pilnujesz, żeby elementy miały zadane formy.
+T: Obsługujesz łuparkę do kamienia | Podajesz bloki kamienia do maszyny | Oceniasz kształt rozłupanych elementów | Konserwujesz i czyścisz łuparkę
+D: 6:30 Układasz bloki kamienia przy maszynie | 8:00 Łuparka rozłupuje kamień na kostki | 11:00 Sortujesz kostki od płytek | 14:00 Czyścisz łuparkę z kamiennego pyłu
+Y: Znajdź w okolicy trzy kamienie i opisz, który najlepiej nadawałby się na kostkę.
+
+@230
+H: Szlifujesz i polerujesz kamień narzędziami i sprzętem, aż jego powierzchnia stanie się gładka.
+T: Szlifujesz powierzchnię kamienia | Polerujesz kamień do połysku | Dobierasz narzędzia do rodzaju kamienia | Sprawdzasz dłonią gładkość powierzchni
+D: 7:00 Układasz płytę kamienną na stole do szlifowania | 9:00 Szlifujesz krawędzie coraz drobniejszym narzędziem ściernym | 12:00 Polerujesz, aż kamień zaczyna błyszczeć | 15:00 Przesuwasz dłonią i szukasz nierówności
+Y: Przejedź palcami po trzech różnych powierzchniach w domu i uszereguj je od najgładszej do najszorstszej.
+
+@231
+H: Tworzysz betonowe ogniwa elektrolityczne w formach, wykańczasz je i testujesz. Do pracy używasz betoniarek, narzędzi i sprzętu.
+T: Mieszasz beton w betoniarce | Formujesz betonowe ogniwa | Wykańczasz powierzchnię gotowego elementu | Testujesz gotowe ogniwa
+D: 7:00 Mieszasz partię betonu na dzisiejsze ogniwa | 9:30 Wylewasz beton do form i go wyrównujesz | 12:00 Wykańczasz ogniwa odlane poprzedniego dnia | 14:30 Testujesz ogniwa i opisujesz wyniki
+Y: Wymyśl trzyetapowy test, który sprawdzi, czy plastikowy kubek nie przecieka, i wykonaj go nad zlewem.
+
+@232
+H: Wykonujesz pomocnicze prace na powierzchni kopalni: pompujesz, odpylasz i przewozisz piasek, kamień czy glinę do miejsca produkcji. Dużo zależy od orientacji w przestrzeni.
+T: Obsługujesz pompy na terenie kopalni | Odpylasz stanowiska pracy | Przewozisz piasek, kamień i glinę | Orientujesz się w terenie wśród maszyn
+D: 6:00 Dostajesz zadania od nadzorcy zmiany | 8:00 Przewozisz piasek do miejsca produkcji | 11:00 Sprawdzasz pompę w zagłębieniu terenu | 14:00 Odpylasz stanowisko przy kruszarce
+Y: Narysuj mapkę swojego pokoju z zaznaczoną trasą z jednego punktu do drugiego.
+
+@233
+H: Pracujesz pod ziemią i wykonujesz prace pomocnicze: kontrolujesz miejsca pracy i przenośniki oraz przewozisz sprzęt i materiały z powierzchni do miejsca wydobycia.
+T: Przeprowadzasz kontrole pod ziemią | Nadzorujesz pracę przenośników | Przewozisz sprzęt do miejsca wydobycia | Dostarczasz materiały zużywalne z powierzchni
+D: 5:00 Zjeżdżasz na dół razem z brygadą | 7:00 Obchodzisz trasę i kontrolujesz przenośnik | 10:00 Dowozisz sprzęt do miejsca wydobycia | 13:00 Wyjeżdżasz na powierzchnię i zdajesz notatki
+Y: Przenieś kilka lekkich przedmiotów z jednego pokoju do drugiego w jednym kursie, planując najkrótszą trasę.
+
+@234
+H: Sterujesz potężnymi maszynami górniczymi do cięcia i załadunku. Dzięki nim wydobywasz rudę i surowy minerał w kopalniach podziemnych.
+T: Sterujesz maszyną tnącą w kopalni | Ładujesz urobek na transport | Kontrolujesz stan ciężkiego sprzętu | Zgłaszasz usterki maszyny serwisowi
+D: 5:30 Odbierasz maszynę po poprzedniej zmianie | 7:30 Tniesz skałę i ładujesz urobek na transport | 11:00 Przerwa serwisowa: sprawdzasz stan maszyny | 14:00 Zgłaszasz serwisowi drobną usterkę
+Y: Przełóż łyżką ryż z jednej miski do drugiej, starając się nie uronić ani ziarna.
+
+@235
+H: Instalujesz i obsługujesz pompy, zestawy rur i systemy próżniowe, które zbierają i usuwają ciecze oraz substancje chemiczne.
+T: Instalujesz pompy i zestawy rur | Obsługujesz system odwadniania próżniowego | Wymieniasz części zamienne | Kontrolujesz odprowadzanie cieczy
+D: 6:30 Odbierasz zlecenie: gdzie trzeba odwodnić teren | 8:00 Montujesz pompę i łączysz zestawy rur | 11:00 Uruchamiasz pompę i patrzysz, jak ciecz spływa | 14:00 Wymieniasz zużytą część i zwijasz sprzęt
+Y: Narysuj schemat, jak rurami i pompą odprowadzić wodę z zalanego podwórka do kanału.
+
+@236
+H: Ustawiasz wiertnie i obsługujesz je, żeby wywiercić otwory do poszukiwań złóż, do prac strzałowych i budowlanych.
+T: Ustawiasz wiertnię w wyznaczonym miejscu | Wiercisz otwory zgodnie z planem | Obsługujesz sprzęt do wiercenia | Przygotowujesz otwory pod prace budowlane
+D: 6:30 Ustawiasz wiertnię w miejscu wskazanym na planie | 8:30 Wiercisz otwory pod badania złóż | 12:00 Zmieniasz wiertło i przenosisz sprzęt | 15:00 Sprawdzasz otwory z kierownikiem robót
+Y: Narysuj plan ściany z pięcioma punktami wierceń w równych odstępach i podpisz ich odległości.
+
+@237
+H: Obsługujesz kruszarki, które rozdrabniają kamienie i minerały. Podajesz kamień do maszyn, pilnujesz procesu i sprawdzasz, czy produkt zgadza się z wymaganiami.
+T: Podajesz kamień do kruszarki | Napełniasz maszyny minerałami | Obserwujesz proces rozdrabniania | Sprawdzasz, czy kruszywo spełnia wymagania
+D: 6:00 Sprawdzasz kruszarkę i podajesz pierwsze kamienie | 8:30 Kruszarka głośno pracuje, a ty pilnujesz podawania | 11:00 Oglądasz kruszywo i sprawdzasz rozmiar ziaren | 14:00 Zapisujesz, ile kruszywa dziś powstało
+Y: Przesiej przez sitko garść piasku i sprawdź, ile drobnych ziaren przeleciało, a ile zostało.
+
+@238
+H: Obsługujesz strugarki, które wykańczają bloki i płyty kamienne. Pilnujesz, żeby wymiary i parametry kamienia zgadzały się ze specyfikacją.
+T: Obsługujesz strugarkę do kamienia | Układasz bloki i płyty w maszynie | Ustawiasz parametry według specyfikacji | Mierzysz gotowe płyty
+D: 7:00 Ustawiasz blok kamienia w strugarce | 9:00 Wpisujesz wymiary z zamówienia w maszynę | 12:00 Mierzysz płytę i porównujesz ze specyfikacją | 15:00 Odkładasz gotowe płyty do wysyłki
+Y: Zmierz długość i szerokość trzech książek i zapisz wymiary w tabeli jak w specyfikacji.
+
+@239
+H: Obsługujesz różne instalacje, które zamieniają surowce w produkty gotowe do sprzedaży. Informacje o procesie przekazujesz do pomieszczenia kontrolnego.
+T: Obsługujesz instalacje przerobu surowców | Kontrolujesz kolejne etapy przetwarzania | Przekazujesz dane do pomieszczenia kontrolnego | Reagujesz na odchylenia w pracy instalacji
+D: 6:00 Przejmujesz instalację od poprzedniej zmiany | 8:00 Obchód urządzeń i krótki meldunek do sterowni | 11:00 Jeden odcinek instalacji pracuje nierówno | 14:00 Informujesz sterownię o stanie surowca i produktu
+Y: Wybierz przedmiot z domu i rozpisz cztery etapy jego drogi od surowca do produktu.
+

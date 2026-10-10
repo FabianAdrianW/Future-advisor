@@ -1,0 +1,180 @@
+@750
+H: Oglądasz wnętrze rur i kanałów za pomocą kamery przesuwanej w środku. Po nagraniu oceniasz, gdzie trzeba coś wyczyścić albo naprawić.
+T: Wprowadzasz kamerę do rury lub kanału | Oglądasz nagranie i szukasz uszkodzeń | Decydujesz, co wymaga czyszczenia lub naprawy | Opisujesz stan sieci w raporcie
+D: 7:00 Wyjeżdżasz z kamerą do zgłoszonego kolektora | 8:30 Opuszczasz kamerę w studzience i prowadzisz ją przez rurę | 10:30 Oglądasz na ekranie pęknięcie w ścianie rury | 13:00 Zapisujesz film i opisujesz usterkę zleceniodawcy
+Y: Spójrz przez rolkę po papierze na trzy przedmioty w pokoju i opisz, co trudno ocenić przez tak wąski otwór.
+
+@751
+H: Ustalasz, jak na budowie sprawdza się jakość robót, żeby spełniały umowę i minimalne wymogi prawa. Gdy coś jest wykonane źle, proponujesz, jak to naprawić.
+T: Ustalasz procedury sprawdzania jakości robót | Planujesz inspekcje na kolejnych etapach budowy | Porównujesz wykonane prace z umową | Proponujesz rozwiązania dla niedociągnięć
+D: 8:00 Spotkanie z kierownikiem budowy o planie kontroli | 9:30 Oglądasz wykonane stropy i porównujesz z umową | 12:00 Spisujesz listę niedociągnięć wykonawcy | 14:30 Ustalasz z wykonawcą termin poprawek
+Y: Napisz listę pięciu pytań kontrolnych do odbioru pomalowanego pokoju, na przykład o smugi i krawędzie.
+
+@752
+H: Pomagasz inżynierom projektować i prowadzić budowy: planujesz roboty, liczysz materiały i pilnujesz ich jakości. Zajmujesz się też dokumentami, na przykład przetargami i fakturami.
+T: Pomagasz przy projektach budowlanych | Liczysz zapotrzebowanie na materiały | Planujesz i monitorujesz postęp robót | Przygotowujesz przetargi i faktury za roboty
+D: 7:30 Sprawdzasz na budowie, co dostarczono rano | 9:30 Odczytujesz rysunki i liczysz potrzebną ilość betonu | 12:00 Aktualizujesz harmonogram robót drogowych | 14:00 Przygotowujesz zestawienie do faktury dla inwestora
+Y: Zmierz książkę i policz, ile takich książek zmieści się obok siebie na odcinku jednego metra.
+
+@753
+H: Pomagasz inżynierom budować systemy dostarczające i oczyszczające wodę. Pobierasz próbki, sprawdzasz jakość wody i pilnujesz, żeby przestrzegano przepisów.
+T: Pobierasz próbki wody do badań | Sprawdzasz jakość wody w systemie | Monitorujesz przestrzeganie przepisów zdrowotnych | Pomagasz projektować systemy zaopatrzenia w wodę
+D: 7:00 Zakładasz rękawice i jedziesz po próbki wody | 8:30 Pobierasz wodę z ujęcia do butelek | 11:00 Zapisujesz wyniki i porównujesz z normą | 14:00 Pomagasz inżynierowi poprawić schemat sieci
+Y: Nalej do szklanki wody z kranu i opisz jej kolor oraz klarowność, bez próbowania.
+
+@754
+H: Instalujesz i serwisujesz gaśnice, alarmy pożarowe, czujki i instalacje tryskaczowe w budynkach. Sprawdzasz, czy sprzęt działa, i naprawiasz to, co nie działa.
+T: Montujesz alarmy i czujki pożarowe | Sprawdzasz gaśnice i instalacje tryskaczowe | Testujesz, czy sprzęt na pewno działa | Naprawiasz usterki w systemach pożarowych
+D: 7:30 Pakujesz czujki i gaśnice do samochodu | 9:00 Montujesz czujki dymu w korytarzu biura | 11:30 Sprawdzasz daty ważności gaśnic w magazynie | 14:00 Naprawiasz centralkę alarmową, która zgłasza błąd
+Y: Znajdź w domu czujkę dymu lub gaśnicę i odczytaj z niej datę ważności lub oznaczenia.
+
+@755
+H: Sprawdzasz w kontrolowanych testach, jak materiały budowlane, tkaniny i elementy pojazdów reagują na ogień. Mierzysz ich odporność i to, jak zachowują się w skrajnych warunkach.
+T: Przygotowujesz próbki materiałów do testu | Przeprowadzasz testy odporności na ogień | Mierzysz reakcję materiału w skrajnych warunkach | Testujesz systemy zapobiegania pożarom
+D: 8:00 Przygotowujesz próbki tkaniny do kolejnego badania | 9:30 Uruchamiasz test odporności na ogień w komorze | 11:30 Odczytujesz, jak szybko materiał się zapala | 14:00 Opisujesz wyniki w protokole z badań
+Y: Obejrzyj etykiety trzech ubrań w domu i zapisz, z jakich materiałów są zrobione.
+
+@756
+H: Analizujesz, ile energii zużywają budynki domów i firm, i szukasz tańszych rozwiązań. Piszesz zalecenia, robisz analizy biznesowe i pomagasz tworzyć polityki dotyczące paliw i transportu.
+T: Oceniasz zużycie energii w budynkach | Analizujesz istniejące systemy zasilania | Zalecasz opłacalne rozwiązania alternatywne | Uczestniczysz w opracowywaniu polityk energetycznych
+D: 8:30 Przeglądasz dane o zużyciu energii w biurowcu | 10:00 Porównujesz system zasilania z tańszą alternatywą | 12:30 Liczysz, po jakim czasie inwestycja się zwróci | 14:30 Piszesz rekomendację dla zarządu firmy
+Y: Zapisz trzy codzienne nawyki, które zużywają energię, i wymyśl dla każdego tańszą alternatywę.
+
+@757
+H: Tłumaczysz klientom, jakie są zalety i wady różnych źródeł energii oraz jak czytać taryfy. Pomagasz im zużywać mniej energii dzięki energooszczędnym produktom i metodom.
+T: Porównujesz źródła energii z klientem | Tłumaczysz, jak działają taryfy energetyczne | Proponujesz energooszczędne produkty i metody | Wyliczasz, jak zmniejszyć ślad węglowy
+D: 9:00 Wyjaśniasz rodzinie, czym różnią się taryfy | 11:00 Oglądasz stare okna i lodówkę w ich domu | 13:00 Proponujesz wymianę urządzeń na oszczędniejsze | 15:00 Liczysz, ile energii mogą zaoszczędzić
+Y: Przejdź po domu i znajdź trzy urządzenia, które pracują w trybie czuwania, gdy nikt z nich nie korzysta.
+
+@758
+H: Promujesz oszczędzanie energii w domach i firmach. Doradzasz, jak zużywać jej mniej, i pomagasz wprowadzać zasady zarządzania zapotrzebowaniem na energię.
+T: Prowadzisz pogadanki o oszczędzaniu energii | Przygotowujesz ulotki z praktycznymi radami | Doradzasz firmie, gdzie ciąć zużycie | Pomagasz wprowadzić zasady zarządzania zapotrzebowaniem
+D: 9:00 Przygotowujesz prezentację o oszczędzaniu w biurze | 11:00 Prowadzisz spotkanie z pracownikami małej firmy | 13:00 Ustalasz z szefem plan ograniczenia zużycia energii | 15:00 Odpowiadasz na pytania mieszkańców osiedla
+Y: Narysuj plakat z trzema radami, jak zużywać mniej energii w domu, i powieś go w kuchni.
+
+@759
+H: Obchodzisz place budowy i sprawdzasz, czy przestrzegane są zasady bezpieczeństwa i higieny pracy. Wskazujesz zagrożenia i zgłaszasz, co trzeba poprawić.
+T: Obchodzisz plac budowy z listą kontrolną | Wskazujesz zagrożenia dla bezpieczeństwa | Sprawdzasz, czy ludzie noszą kaski i uprzęże | Zgłaszasz swoje ustalenia kierownikowi
+D: 7:00 Zakładasz kask i obchodzisz plac od bramy | 8:30 Zauważasz brak balustrady przy otworze w stropie | 11:00 Prosisz o zatrzymanie prac do czasu zabezpieczenia | 14:00 Piszesz raport i omawiasz zagrożenia z kierownikiem
+Y: Przejdź po swoim pokoju, znajdź trzy rzeczy, o które można się potknąć, i odłóż je na miejsce.
+
+@760
+H: Sprawdzasz stan torów i urządzeń kolejowych i szukasz uszkodzeń. Analizujesz wyniki i piszesz sprawozdania, żeby kolej była bezpieczna.
+T: Oglądasz tory i inne obiekty kolejowe | Wykrywasz uszkodzenia i usterki | Sprawdzasz zgodność z normami bezpieczeństwa | Piszesz sprawozdania z ustaleń
+D: 7:00 Przygotowujesz formularze kontroli dla wybranego odcinka | 8:30 Idziesz wzdłuż torów i oglądasz mocowania szyn | 11:00 Fotografujesz uszkodzenie i zapisujesz miejsce | 14:00 W biurze analizujesz wyniki i piszesz raport
+Y: Wypisz pięć elementów torów kolejowych, które trzeba kontrolować, i przy każdym napisz, co może się zepsuć.
+
+@761
+H: Odpowiadasz za bezpieczeństwo i higienę pracy na budowach: wdrażasz zasady, egzekwujesz je i kontrolujesz. Gdy dojdzie do wypadku, zajmujesz się jego skutkami i poprawiasz zasady.
+T: Egzekwujesz zasady bezpieczeństwa na budowie | Zarządzasz sytuacją po wypadku w pracy | Wdrażasz polityki bezpieczeństwa | Kontrolujesz przestrzeganie środków higieny
+D: 7:30 Odprawa z brygadami przed rozpoczęciem prac | 10:00 Wypadek na budowie, wzywasz pomoc i spisujesz okoliczności | 12:30 Zmieniasz zasady pracy przy rusztowaniu | 15:00 Prowadzisz szkolenie dla nowych pracowników
+Y: Spisz pięć zasad bezpieczeństwa na czas malowania pokoju w domu.
+
+@762
+H: Sprawdzasz, czy rurociąg jest szczelny, dobrze połączony i nie koroduje. W razie potrzeby naprawiasz go, badasz grunt i piszesz raporty techniczne.
+T: Monitorujesz stan i szczelność rurociągu | Szukasz korozji przy punktach przyłączeniowych | Kontrolujesz systemy ochrony katodowej | Badasz grunt i piszesz raporty techniczne
+D: 7:00 Jedziesz do punktu pomiarowego przy rurociągu | 9:00 Mierzysz stan ochrony przed korozją | 11:30 Pobierasz próbki gleby wzdłuż trasy | 14:00 Piszesz raport o stanie połączeń
+Y: Sprawdź palcem wilgotność ziemi w doniczce w trzech miejscach i zapisz, gdzie jest najbardziej wilgotna.
+
+@763
+H: Pomagasz geodetom i inżynierom: mierzysz teren precyzyjnymi urządzeniami, rysujesz mapy i rysunki budowlane. Dokładność pomiaru ma tu duże znaczenie.
+T: Mierzysz teren precyzyjnymi przyrządami | Sporządzasz mapy na podstawie pomiarów | Tworzysz rysunki techniczne do budowy | Pomagasz geodecie przy zadaniach pomiarowych
+D: 7:30 Ustawiasz statyw z miernikiem na placu budowy | 9:00 Wyznaczasz punkty narożne przyszłego budynku | 12:00 Notujesz współrzędne i sprawdzasz odległości | 14:00 W biurze rysujesz mapę z pomiarów
+Y: Zmierz krokami długość pokoju, a potem miarką lub linijką, i porównaj oba wyniki.
+
+@764
+H: Obsługujesz ciężką maszynę, która ustawia pale i wbija je w grunt. Pale stają się mocną podstawą pod budowlę.
+T: Ustawiasz maszynę nad miejscem pala | Podnosisz pal mechanizmem takielunkowym | Wbijasz pal w grunt | Obserwujesz, czy pal wchodzi prosto
+D: 6:30 Sprawdzasz maszynę i liny przed pracą | 7:30 Ustawiasz kafar nad wyznaczonym punktem | 9:00 Podnosisz pierwszy pal i zaczynasz wbijanie | 12:30 Przesuwasz maszynę i powtarzasz przy następnym palu
+Y: Wbij ołówek pionowo w miskę z ryżem i sprawdź, jak głęboko stoi bez podparcia.
+
+@765
+H: Kopiesz ciężką maszyną ziemię i inne materiały: robisz wykopy pod fundamenty, rowy albo burzysz stare konstrukcje. Precyzyjnie sterujesz łyżką z kabiny.
+T: Kopiesz wykopy pod fundamenty i rowy | Rozbierasz stare budynki maszyną | Ładujesz urobek na wywrotki | Pilnujesz głębokości i poziomu wykopu
+D: 6:30 Sprawdzasz olej i gąsienice przed startem | 7:30 Kopiesz rów pod rury według wytyczenia | 11:00 Ładujesz urobek na podjeżdżające wywrotki | 14:00 Wyrównujesz skarpy wykopu pod fundament
+Y: Wykop łyżką dołek w pudełku z ziemią i zmierz jego głębokość i szerokość.
+
+@766
+H: Obsługujesz ogromne koparki i wywrotki w kamieniołomach i kopalniach odkrywkowych: wybierasz rudę, piasek, kamień lub glinę i ładujesz je do transportu. Musisz dobrze czuć przestrzeń wokół maszyny.
+T: Wybierasz surowiec z odkrywki koparką | Ładujesz kruszywo na wywrotki | Zdejmujesz nadkład z góry złoża | Kontrolujesz położenie maszyn wokół siebie
+D: 6:00 Odbierasz maszynę od poprzedniej zmiany | 8:00 Zdejmujesz nadkład z góry złoża | 10:30 Ładujesz wywrotkę kruszywem, pilnując innych maszyn | 13:30 Przekazujesz koparkę i zapisujesz uwagi dla następnej zmiany
+Y: Przełóż łyżką groch lub guziki z jednej miski do drugiej, nie rozsypując, i policz łyżki.
+
+@767
+H: Jeździsz ciężarówką z pługiem i usuwasz śnieg oraz lód z ulic, chodników i placów. Sypiesz sól i piasek, żeby po przejeździe nawierzchnia nie była śliska.
+T: Pługiem zgarniasz śnieg z jezdni | Sypiesz sól i piasek na lód | Odśnieżasz chodniki i miejskie place | Sprawdzasz pług i sypialkę przed wyjazdem
+D: 3:00 Alarm: spadł śnieg, jedziesz do bazy | 4:00 Opuszczasz pług i odśnieżasz główne ulice | 7:30 Sypiesz sól na oblodzonych skrzyżowaniach | 11:00 Tankujesz, jesz i sprawdzasz pług
+Y: Wypisz trzy miejsca w okolicy, które w zimie trzeba odśnieżyć w pierwszej kolejności, i uzasadnij.
+
+@768
+H: Obsługujesz maszynę, która usuwa piasek i muł z dna rzek, portów i kanałów. Dzięki temu statki mogą płynąć głębiej, a pod wodą można układać kable.
+T: Usuwasz osady z dna pogłębiarką | Przenosisz wydobyty muł w wyznaczone miejsce | Sprawdzasz głębokość toru wodnego | Utrzymujesz maszynę w ruchu na wodzie
+D: 6:00 Wchodzisz na pogłębiarkę i omawiasz plan zmiany | 7:00 Opuszczasz ssanie na dno i zaczynasz pompować | 10:30 Sprawdzasz na ekranie, jaką głębokość osiągnięto | 14:00 Przekazujesz maszynę kolejnej zmianie
+Y: Wsyp do miski z wodą trochę piasku i wybierz go z dna łyżką, nie mącąc wody.
+
+@769
+H: Jeździsz ciężką maszyną z długim ostrzem, która ścina górną warstwę gruntu i robi z niej płaską powierzchnię. Wykańczasz prace, które wcześniej wykonały zgarniak i spycharka.
+T: Ścinasz górną warstwę gruntu ostrzem | Wyrównujesz powierzchnię pod drogę | Wykańczasz grunt po pracy zgarniaków i spycharek | Sprawdzasz poziom na bieżąco
+D: 7:00 Sprawdzasz ostrze i ustawiasz kąt jego pracy | 8:30 Pierwszy przejazd: ścinasz górki z podłoża | 11:00 Zbierasz resztki nierówności lekkimi przejazdami | 13:30 Sprawdzasz poziom i wyrównujesz skarpy
+Y: Rozsyp na tacy kaszę nierówno, a potem wyrównaj ją linijką do płaskiej warstwy.
+
+@770
+H: Prowadzisz ciężki pojazd z szerokim lemieszem i przesuwasz nim ziemię, gruz i inne materiały po terenie. Pracujesz w nierównym terenie i musisz wyczuwać, jak pojazd się zachowuje.
+T: Przesuwasz ziemię i gruz lemieszem | Usuwasz przeszkody z terenu budowy | Wyrównujesz stosy materiału | Prowadzisz maszynę po nierównym podłożu
+D: 6:30 Sprawdzasz lemiesz i poziom paliwa | 7:30 Spychasz hałdę ziemi na wyznaczone miejsce | 10:30 Uprzątasz gruz po rozbiórce z placu | 13:30 Rozgarniasz ziemię pod przyszłą drogę
+Y: Przesuń linijką stos drobnych klocków lub guzików po stole w jedno miejsce, jak spycharka.
+
+@771
+H: Ubijasz grunt, żwir, beton lub asfalt walcem, żeby droga albo fundament były twarde i równe. Siedzisz na dużym walcu albo idziesz za małym i pilnujesz, żeby przejechać każdy fragment.
+T: Przejeżdżasz walcem po całej powierzchni | Zagęszczasz grunt, żwir lub asfalt | Dobierasz liczbę przejazdów do materiału | Obserwujesz, czy warstwa jest równa
+D: 6:00 Sprawdzasz walec i uruchamiasz wibrację | 7:00 Walcujesz świeżą warstwę asfaltu za układarką | 10:30 Ubijasz żwirową podbudowę na kolejnym odcinku | 13:00 Przechodzisz na mały walec przy krawężniku
+Y: Wsyp do pudełka piasek, zmierz jego wysokość, dociśnij go deseczką i zmierz ponownie.
+
+@772
+H: Prowadzisz maszynę, która zdrapuje górną warstwę gruntu i zsypuje ją do własnego zbiornika, by ją wywieźć. Dobierasz prędkość do twardości podłoża.
+T: Prowadzisz zgarniarkę po wyznaczonej powierzchni | Zdrapujesz górną warstwę gruntu | Zsypujesz grunt do zbiornika maszyny | Zmieniasz prędkość zależnie od twardości podłoża
+D: 6:30 Sprawdzasz noże zgarniarki i hydraulikę | 8:00 Zdzierasz miękką warstwę gruntu na polu | 10:30 Zwalniasz, bo trafiasz na twardszy odcinek | 13:00 Rozładowujesz grunt na wyznaczonym zwałowisku
+Y: Zdrap linijką wierzchnią warstwę z kopca ziemi na tacy i przesyp ją do pudełka.
+
+@773
+H: Budujesz drogi warstwa po warstwie: robisz podbudowę, układasz piasek lub glinę, a potem asfalt albo betonowe płyty. Pracujesz na zewnątrz, często obok maszyn.
+T: Układasz piasek lub glinę pod podbudowę | Wyrównujesz i ubijasz ziemię na trasie | Układasz asfalt albo płyty betonowe | Sprawdzasz grubość i równość kolejnych warstw
+D: 6:30 Odbierasz od brygadzisty zadania na odcinek | 8:00 Rozsypujesz i wyrównujesz piasek pod nawierzchnię | 11:00 Pomagasz układać płyty betonowe na poboczu | 14:00 Układasz asfalt i sprawdzasz grubość warstwy
+Y: Ułóż w szklance trzy warstwy: kamyki, piasek i ziemię, i obejrzyj je z boku.
+
+@774
+H: Sterujesz wyciągiem, kolejką linową lub zjeżdżalnią z pulpitu i pilnujesz, żeby wszystko jechało płynnie. Gdy zdarzy się coś nieprzewidzianego, zatrzymujesz urządzenie i interweniujesz.
+T: Uruchamiasz i zatrzymujesz wyciąg z pulpitu | Obserwujesz kabiny i krzesełka na linie | Sprawdzasz tablicę kontrolną i ustawienia | Reagujesz na nieprzewidziane sytuacje
+D: 7:30 Sprawdzasz linę i napęd przed otwarciem | 9:00 Uruchamiasz wyciąg i witasz pierwszych narciarzy | 12:00 Ktoś upuścił sprzęt, zatrzymujesz wyciąg | 16:00 Zamykasz trasę i zapisujesz uwagi w dzienniku
+Y: Narysuj schemat kolejki linowej z dwiema stacjami, liną i kabinami i podpisz, co robi operator.
+
+@775
+H: Obsługujesz dźwig na kołach lub gąsienicach, który podnosi i przenosi ciężkie rzeczy z miejsca na miejsce. Często przemieszczasz go między budowami.
+T: Dojeżdżasz dźwigiem na miejsce pracy | Rozkładasz podpory i ustawiasz wysięgnik | Podnosisz i przenosisz ciężkie ładunki | Pilnujesz, żeby dźwig stał stabilnie
+D: 6:30 Jedziesz dźwigiem na plac budowy | 8:00 Rozkładasz podpory i ustawiasz wysięgnik | 9:30 Podnosisz prefabrykat i przenosisz go na miejsce | 14:00 Składasz dźwig i jedziesz na kolejną budowę
+Y: Zawieś pusty kubek na sznurku i przenieś go przez pokój tak, by się nie kołysał.
+
+@776
+H: Obsługujesz duży żuraw w porcie, który przenosi kontenery ze statku na nabrzeże i z powrotem. Ustawiasz wysięgnik nad statkiem i układasz każdy kontener dokładnie na miejscu.
+T: Ustawiasz żuraw wzdłuż burty statku | Podnosisz kontener z pokładu lub ładowni | Przesuwasz go wzdłuż wysięgnika | Układasz kontener na nabrzeżu lub statku
+D: 6:00 Odbierasz zmianę i sprawdzasz żuraw w kabinie | 7:00 Zdejmujesz pierwsze kontenery ze statku na nabrzeże | 11:00 Układasz kontenery w ładowni statku | 17:00 Przekazujesz żuraw zmianie wieczornej
+Y: Zaznacz na stole cztery pola i przenieś na nie pudełka, ustawiając je równo.
+
+@777
+H: Obsługujesz prosty dźwig w hali produkcyjnej i przenosisz nim bele, pojemniki i wiadra z surowcami. Produkcja dostaje materiały dokładnie tam, gdzie są potrzebne.
+T: Podnosisz bele i pojemniki z surowcami | Przesuwasz ładunki między stanowiskami | Sprawdzasz zamocowanie ładunku na haku | Dostarczasz materiał do linii produkcyjnej
+D: 6:00 Sprawdzasz hak, łańcuchy i przyciski sterowania | 7:00 Przenosisz pojemnik z surowcem do pierwszej linii | 10:00 Podnosisz belę materiału i ustawiasz ją przy maszynie | 13:00 Odstawiasz puste pojemniki na paletę
+Y: Zaplanuj kolejność przenoszenia czterech przedmiotów z kuchni do pokoju, żeby zrobić jak najmniej kursów.
+
+@778
+H: Sterujesz wysokim żurawiem na budowie, który podnosi materiały hakiem zawieszonym na poziomym wysięgniku. Siedzisz w kabinie wysoko nad placem albo sterujesz radiowo.
+T: Podnosisz materiały hakiem żurawia | Obracasz wysięgnik nad placem budowy | Sterujesz z kabiny lub radiowo | Dokładnie ustawiasz ładunek na miejscu
+D: 5:45 Wchodzisz po drabinie do kabiny na maszcie | 6:30 Podnosisz paletę cegieł na trzecie piętro | 10:00 Układasz zbrojenie dokładnie w wyznaczonym miejscu | 14:00 Wiatr przybiera, zatrzymujesz podnoszenie
+Y: Stań w pokoju, wyciągnij rękę w bok, obróć się dookoła i zaznacz sznurkiem swój zasięg.
+
+@779
+H: Przewozisz towary wózkiem widłowym po magazynie lub hali: odkładasz je na regały, wyjmujesz z regałów i liczysz. Realizujesz zlecenia i sprawdzasz, czy dostawa zgadza się z dokumentami.
+T: Przewozisz palety i towary wózkiem widłowym | Układasz towar na regałach | Liczysz towary i sprawdzasz zlecenia | Kontrolujesz poprawność innych zleceń
+D: 6:00 Sprawdzasz wózek: hamulce, widły, poziom ładowania | 7:00 Zdejmujesz palety z naczepy przy rampie | 10:30 Odkładasz towar na wskazane miejsca regału | 13:30 Liczysz palety i sprawdzasz zlecenia na ekranie
+Y: Ułóż książki w dwóch stosach, policz je i zapisz wynik, jak przy liczeniu towaru.
+

@@ -1,0 +1,180 @@
+@1890
+H: Jeździsz ze śmieciarką i ręcznie opróżniasz pojemniki z odpadami przy domach i firmach. Pracujesz na zewnątrz w każdą pogodę i zaczynasz bardzo wcześnie.
+T: Wrzucasz odpady do śmieciarki | Pomagasz kierowcy podczas manewrów | Rozładowujesz odpady w zakładzie przetwarzania | Notujesz ilość zebranych odpadów
+D: 5:30 Wyjazd śmieciarką na trasę | 7:00 Opróżniasz pojemniki na osiedlu | 11:00 Zbierasz odpady z placu budowy | 13:00 Rozładunek w zakładzie i zapis ilości
+Y: Sprawdź w ulotce lub na stronie gminy, w jakie dni odbierane są odpady spod twojego domu, i zapisz.
+
+@1891
+H: Stoisz przy taśmie i wybierasz z niej materiały, które można przerobić, a resztę odrzucasz. Liczy się szybkie oko i uważność.
+T: Rozpoznajesz rodzaje materiałów na taśmie | Wyciągasz rzeczy, których nie da się przerobić | Czyścisz sortowane materiały | Pilnujesz przepisów o odpadach
+D: 7:00 Odprawa i zakładanie rękawic ochronnych | 8:00 Wybierasz butelki i odrzucasz zabrudzone opakowania | 10:30 Krótka przerwa i zmiana stanowiska | 13:00 Porządkujesz stanowisko i oddajesz zmianę
+Y: Znajdź w domu trzy opakowania i sprawdź na nich symbole mówiące, z jakiego tworzywa są zrobione.
+
+@1892
+H: Obsługujesz maszynę, która zamiata ulice i chodniki z piachu i śmieci. Pracujesz często wcześnie rano i dbasz o sprawność sprzętu.
+T: Prowadzisz zamiatarkę po wyznaczonej trasie | Usuwasz śmieci i piach z jezdni | Notujesz, które ulice są już zrobione | Czyścisz maszynę i naprawiasz drobne usterki
+D: 5:00 Odbierasz maszynę i sprawdzasz szczotki | 6:00 Zamiatasz główne ulice, zanim ruszy ruch | 10:00 Opróżniasz zbiornik w punkcie zrzutu | 13:00 Czyścisz maszynę i wpisujesz trasę do karty
+Y: Z okna lub podwórka zapisz, w których miejscach ulicy zbiera się najwięcej piachu i śmieci.
+
+@1893
+H: Rozmawiasz z dorosłymi i młodzieżą o zdrowiu, ciąży i antykoncepcji. Dajesz rzetelne informacje, nie oceniasz i współpracujesz z lekarzami.
+T: Rozmawiasz o antykoncepcji i ciąży | Tłumaczysz, jak chronić się przed chorobami przenoszonymi drogą płciową | Informujesz o prawach i procedurach | Kierujesz do lekarza w razie potrzeby
+D: 9:00 Przygotowujesz gabinet i materiały informacyjne | 10:00 Rozmowa z parą, która planuje dziecko | 13:00 Konsultacja z młodą osobą o zdrowiu | 15:30 Omawiasz trudny przypadek z lekarzem
+Y: Napisz trzy zdania, którymi odpowiesz, gdy ktoś bliski zapyta cię o wstydliwy temat zdrowotny.
+
+@1894
+H: Wspierasz ludzi, którzy stracili kogoś bliskiego, w hospicjum, w domu i przy organizacji pogrzebu. Uczysz też innych specjalistów, jak rozmawiać z osobami w żałobie.
+T: Rozmawiasz z rodzinami po śmierci bliskiej osoby | Towarzyszysz pacjentom i rodzinie w hospicjum | Pomagasz w sprawach związanych z pogrzebem | Szkolisz innych, jak wspierać w żałobie
+D: 9:00 Spotkanie z rodziną pacjenta w hospicjum | 11:00 Rozmowa z osobą po stracie męża | 13:30 Szkolenie dla pielęgniarek o rozmowie z rodziną | 16:00 Grupa wsparcia dla osób w żałobie
+Y: Napisz trzy zdania wsparcia dla kogoś, kto stracił bliską osobę, bez utartych frazesów.
+
+@1895
+H: Pomagasz parom i rodzinom w kryzysie, na przykład gdy komunikacja się sypie albo ktoś zmaga się z depresją czy nałogiem. Prowadzisz rozmowy i terapię indywidualną lub grupową.
+T: Prowadzisz sesje dla par i rodzin | Uczysz lepszej komunikacji między partnerami | Prowadzisz terapię indywidualną i grupową | Pomagasz nazwać źródło konfliktu
+D: 10:00 Sesja z parą po kłótni o pieniądze | 12:00 Rozmowa indywidualna z osobą w kryzysie | 15:00 Zapisujesz notatki i plan kolejnych spotkań | 18:00 Wieczorna grupa dla par
+Y: Przepisz kłótnię z filmu lub książki na rozmowę, w której obie strony mówią o swoich potrzebach.
+
+@1896
+H: Wspierasz osoby, zwłaszcza kobiety i młodzież, po napaści seksualnej lub gwałcie. Pomagasz im w kryzysie, wyjaśniasz procedury prawne i dbasz o ich anonimowość.
+T: Udzielasz pierwszego wsparcia w kryzysie | Wyjaśniasz procedury prawne i zasady anonimowości | Prowadzisz rozmowy doradcze | Pracujesz z dziećmi nad problematycznymi zachowaniami seksualnymi
+D: 9:00 Przejmujesz zgłoszenia z nocnego dyżuru | 11:00 Rozmowa z osobą, która potrzebuje wsparcia | 14:00 Wyjaśniasz kolejne kroki prawne i medyczne | 16:00 Konsultacja z psychologiem o trudnej sprawie
+Y: Wypisz trzy zdania, które pomagają osobie w kryzysie, i trzy, które mogą ją zranić.
+
+@1897
+H: Pomagasz osobom uzależnionym od alkoholu lub narkotyków i ich rodzinom. Prowadzisz rozmowy, terapię grupową i interwencje w kryzysie.
+T: Monitorujesz postępy osób w terapii | Prowadzisz grupy wsparcia | Interweniujesz w kryzysie | Przygotowujesz programy dla grup ryzyka
+D: 8:30 Rozmowa z osobą po tygodniu abstynencji | 11:00 Telefon od rodziny w kryzysie | 14:00 Spotkanie grupy terapeutycznej | 16:30 Przygotowujesz zajęcia dla młodzieży w szkole
+Y: Wymyśl pięć sposobów spędzenia wolnej godziny, które nie wymagają używek, i zapisz je.
+
+@1898
+H: Pomagasz osobom, które mierzą się z kryzysem osobistym, depresją, konfliktami w relacjach lub uzależnieniem. Wspierasz je w zmianie i w poprawie codziennego życia.
+T: Prowadzisz rozmowy wspierające | Pomagasz rozwiązywać konflikty w rodzinie i relacjach | Reagujesz w kryzysie | Ustalasz z osobą plan zmiany
+D: 9:00 Spotkanie z osobą w kryzysie depresyjnym | 11:00 Wizyta u rodziny po konflikcie | 13:30 Notatki i telefony do innych służb | 15:30 Ustalasz z klientem plan na najbliższe tygodnie
+Y: Wysłuchaj kogoś w domu przez 5 minut bez przerywania, a potem powtórz własnymi słowami, co zostało powiedziane.
+
+@1899
+H: Pracujesz z dziećmi i młodzieżą w trudnej sytuacji i uczysz ich przejmować kontrolę nad własnym życiem. Tworzysz zajęcia, które wspierają naukę i włączanie w grupę.
+T: Prowadzisz zajęcia dla dzieci i młodzieży | Rozmawiasz o problemach i sytuacji w domu | Planujesz zajęcia dopasowane do możliwości uczestników | Współpracujesz z rodziną i szkołą
+D: 12:00 Przyjmujesz dzieci w świetlicy środowiskowej | 13:30 Pomoc przy lekcjach i rozmowa | 15:30 Zajęcia grupowe z gry zespołowej | 17:30 Rozmowa z rodzicem i notatki
+Y: Wymyśl grę dla grupy młodszych dzieci, w której każdy ma ważną rolę, i spisz zasady.
+
+@1900
+H: Pomagasz ludziom i rodzinom w trudnych sprawach: od pieniędzy i mieszkania po pracę i prawa. Wskazujesz, gdzie szukać świadczeń i jak załatwić sprawę w urzędach.
+T: Oceniasz sytuację rodziny podczas wywiadu | Wyjaśniasz, jak ubiegać się o świadczenia | Kontaktujesz z urzędami i organizacjami | Prowadzisz pracę grupową w społeczności
+D: 8:00 Wywiad środowiskowy w domu starszej osoby | 10:30 Telefony do urzędu w sprawie świadczenia | 13:00 Pomoc rodzinie w wypełnieniu wniosku | 15:00 Spotkanie z organizacją pomocową w dzielnicy
+Y: Znajdź w sieci, jakie formy pomocy oferuje twoja gmina, i zapisz trzy z nich.
+
+@1901
+H: Odwiedzasz rodziny w domu i pomagasz im w codziennych trudnościach: od uzależnienia, przez chorobę, po długi. Uczysz praktycznych rzeczy i podpowiadasz, gdzie szukać pomocy.
+T: Odwiedzasz rodziny w ich domach | Pomagasz w planowaniu budżetu i wydatków | Uczysz rodziców organizacji dnia z dziećmi | Informujesz o dostępnych usługach
+D: 9:00 Wizyta u matki z trójką dzieci | 11:00 Wspólne układanie domowego budżetu | 13:30 Pomoc w załatwieniu sprawy w urzędzie | 16:00 Rozmowa z wychowawczynią dziecka
+Y: Ułóż przykładowy tygodniowy budżet dla dwóch osób i sprawdź, co pochłonie najwięcej.
+
+@1902
+H: Odwiedzasz starszych i niepełnosprawnych ludzi w ich mieszkaniach i pomagasz im żyć samodzielnie. Pomagasz w higienie, posiłkach i zakupach.
+T: Pomagasz w myciu i ubieraniu | Przygotowujesz posiłki i podajesz je | Robisz zakupy i sprzątasz | Pilnujesz leków i niepokojących objawów
+D: 7:30 Pierwsza wizyta, pomoc przy porannej toalecie | 9:30 Śniadanie i zakupy dla podopiecznego | 12:00 Sprzątanie i obiad u drugiej osoby | 15:00 Rozmowa i spacer z osobą starszą
+Y: Zaplanuj prosty posiłek z miękkich składników dla starszej osoby i spisz, co jest potrzebne.
+
+@1903
+H: Pracujesz w domu, w którym mieszkają dorośli z niepełnosprawnością lub nałogiem. Wspierasz ich w codziennym życiu, obserwujesz postępy i kontaktujesz się z rodzinami.
+T: Pomagasz mieszkańcom w codziennych czynnościach | Notujesz ich postępy i samopoczucie | Organizujesz zajęcia i wspólne wyjścia | Rozmawiasz z rodzinami mieszkańców
+D: 6:30 Początek zmiany, pobudka mieszkańców | 9:00 Zajęcia terapeutyczne w świetlicy | 13:00 Obiad i rozmowa z odwiedzającymi krewnymi | 19:00 Wieczorny raport i przekazanie zmiany
+Y: Napisz plan prostego dnia dla osoby, która potrzebuje pomocy przy ubraniu i jedzeniu, od rana do wieczora.
+
+@1904
+H: Opiekujesz się dziećmi z niepełnosprawnością, które mieszkają w placówce. Wspierasz je codziennie i organizujesz kontakty z rodzinami.
+T: Pomagasz dzieciom przy jedzeniu i higienie | Prowadzisz zabawę dopasowaną do możliwości | Notujesz postępy każdego dziecka | Organizujesz wizyty rodzin
+D: 6:30 Budzisz dzieci i pomagasz im się ubrać | 9:00 Zajęcia z ćwiczeniem ruchu i mowy | 14:00 Zabawa i spacer na placu zabaw | 20:00 Wieczorne mycie i czytanie bajki
+Y: Wymyśl zabawę dla dziecka, które nie może chodzić, i opisz ją w trzech zdaniach.
+
+@1905
+H: Pomagasz osobom z niepełnosprawnością fizyczną lub intelektualną w codziennych czynnościach. Kąpiesz, ubierasz, przenosisz i karmisz, dbając o ich godność i samopoczucie.
+T: Pomagasz w kąpieli i ubieraniu | Przenosisz i podnosisz osoby bezpiecznymi technikami | Karmisz osoby, które tego potrzebują | Współpracujesz z personelem medycznym
+D: 7:00 Poranna toaleta i ubieranie podopiecznego | 9:00 Przeniesienie z łóżka na wózek | 12:00 Karmienie obiadem w spokojnym tempie | 15:00 Wyjście na spacer lub zajęcia
+Y: Przejdź po swoim mieszkaniu i wypisz pięć miejsc, które byłyby barierą dla osoby na wózku.
+
+@1906
+H: Pracujesz w domu seniora na zmiany, w dzień i w nocy, i opiekujesz się mieszkańcami o ograniczonej sprawności. Kontaktujesz się też z ich rodzinami.
+T: Pomagasz seniorom przy jedzeniu i higienie | Sprawdzasz samopoczucie mieszkańców | Organizujesz zajęcia dla seniorów | Rozmawiasz z rodzinami przy wizytach
+D: 7:00 Przejmujesz zmianę i robisz obchód pokoi | 9:00 Śniadanie i leki dla mieszkańców | 14:00 Zajęcia z gier i rozmów w świetlicy | 19:00 Kolacja i pomoc w przygotowaniu do snu
+Y: Porozmawiaj z kimś starszym i zapytaj o jedno wspomnienie z młodości, a potem wysłuchaj uważnie.
+
+@1907
+H: Realizujesz plan opieki dla mieszkańców domu pomocy i tworzysz atmosferę, w której czują się jak u siebie. Dbasz o ich zdrowie, samopoczucie i codzienne potrzeby.
+T: Realizujesz indywidualny plan opieki mieszkańca | Pomagasz w codziennych czynnościach | Dbasz, żeby mieszkaniec miał wpływ na swój dzień | Zapisujesz uwagi w dokumentacji
+D: 6:30 Sprawdzasz plany opieki na dziś | 8:00 Pomoc w toalecie i śniadaniu | 11:00 Wspólne zajęcia plastyczne w pokoju dziennym | 14:00 Wpisy do dokumentacji i rozmowa z pielęgniarką
+Y: Zrób listę pięciu rzeczy, które sprawiłyby, że ktoś w obcym pokoju poczuje się jak w domu.
+
+@1908
+H: Oceniasz, jakiej pomocy potrzebują dorośli z niepełnosprawnością lub w rekonwalescencji, i organizujesz ją tak, żeby mogli mieszkać u siebie. Częściej koordynujesz opiekę, niż ją wykonujesz.
+T: Oceniasz potrzeby osoby podczas wizyty | Układasz plan opieki w jej domu | Zamawiasz usługi i pomoc dodatkową | Sprawdzasz, czy plan działa
+D: 8:30 Wizyta u osoby po wypisie ze szpitala | 10:30 Ustalasz, jakiej pomocy potrzebuje w domu | 13:00 Telefony do usług opiekuńczych | 15:30 Sprawdzasz, jak idzie plan u innej osoby
+Y: Wypisz pięć rzeczy, w których osobie ze złamaną nogą trzeba pomóc w mieszkaniu, i ułóż je według pilności.
+
+@1909
+H: Pomagasz dzieciom, które trzeba bezpiecznie odseparować od krzywdzących rodziców, i szukasz dla nich rodzin zastępczych. Pilnujesz, żeby dobro dziecka było na pierwszym miejscu.
+T: Szukasz odpowiedniej rodziny zastępczej | Wspierasz dziecko po trudnych przeżyciach | Odwiedzasz rodziny zastępcze | Pilnujesz zgodności z prawem i dobrem dziecka
+D: 8:00 Wizyta kontrolna w rodzinie zastępczej | 10:30 Rozmowa z dzieckiem po przeprowadzce | 13:00 Przygotowanie pisma do sądu | 15:30 Rozmowa z kandydatami na rodzinę zastępczą
+Y: Zapisz w pięciu punktach, czego dziecko potrzebuje w nowym domu pierwszego dnia.
+
+@1910
+H: Wspierasz osoby z zaburzeniami psychicznymi, emocjonalnymi lub nałogami w odzyskiwaniu równowagi. Prowadzisz rozmowy, reagujesz w kryzysach i bronisz ich praw.
+T: Prowadzisz rozmowy wspierające i terapeutyczne | Reagujesz w sytuacjach kryzysowych | Reprezentujesz podopiecznych w sprawach urzędowych | Uczysz radzenia sobie na co dzień
+D: 9:00 Spotkanie z osobą po wyjściu ze szpitala | 11:30 Wizyta domowa u osoby w kryzysie | 14:00 Warsztat radzenia sobie ze stresem | 16:00 Notatki i rozmowa z lekarzem prowadzącym
+Y: Naucz się prostego ćwiczenia oddechowego, wdech na cztery, wydech na sześć, i wykonaj je przez 3 minuty.
+
+@1911
+H: Pomagasz ludziom, którzy mają trudności z samodzielnym mieszkaniem: osobom starszym, bezdomnym, po więzieniu lub po leczeniu uzależnienia. Uczysz ich prowadzić dom i załatwiać sprawy.
+T: Pomagasz znaleźć i utrzymać mieszkanie | Uczysz gospodarowania budżetem i sprzątania | Towarzyszysz w sprawach urzędowych | Sprawdzasz, jak radzi sobie lokator
+D: 9:00 Wizyta u lokatora w mieszkaniu wspieranym | 11:00 Wspólne układanie listy zakupów i opłat | 13:30 Towarzyszysz w urzędzie przy wniosku | 15:30 Piszesz notatki z wizyt
+Y: Zapisz listę dziesięciu rzeczy, które trzeba umieć, żeby samodzielnie utrzymać mieszkanie.
+
+@1912
+H: Pracujesz z młodzieżą, która ma trudne emocje i zachowania. Pomagasz w nauce, uczysz obowiązków domowych i odpowiedzialności.
+T: Pomagasz w nauce i odrabianiu lekcji | Angażujesz młodzież do obowiązków domowych | Reagujesz spokojnie na trudne zachowania | Rozmawiasz o konsekwencjach i odpowiedzialności
+D: 14:00 Pomoc w lekcjach po szkole | 16:00 Dyżur w kuchni z wychowankami | 18:30 Rozmowa po kłótni dwojga wychowanków | 21:00 Cicha pora i zapis uwag z dnia
+Y: Zapisz trzy spokojne zdania, którymi możesz zareagować, gdy ktoś na ciebie krzyczy.
+
+@1913
+H: Wspierasz osoby w każdym wieku, od niemowląt po seniorów, w ich potrzebach fizycznych, emocjonalnych i społecznych. Pracujesz w różnych miejscach: w domach, ośrodkach i organizacjach.
+T: Odwiedzasz osoby i rodziny w różnych miejscach | Rozpoznajesz ich potrzeby i problemy | Organizujesz pomoc i usługi | Pomagasz wrócić do codziennych zajęć
+D: 8:00 Odprawa w ośrodku i plan wizyt | 9:30 Wizyta u starszego małżeństwa | 12:30 Zajęcia z rodzicami w świetlicy | 15:00 Wpisujesz notatki i kontaktujesz inne służby
+Y: Wypisz pięć grup ludzi, którzy w twojej okolicy mogą potrzebować pomocy, i jakiej.
+
+@1914
+H: Chronisz dzieci przed zaniedbaniem i przemocą i wspierasz ich rodziny. Pomagasz rodzicom, także samotnym, a w razie potrzeby szukasz rodziny zastępczej.
+T: Rozpoznajesz oznaki zaniedbania u dziecka | Wspierasz rodziców, także samotnych | Pilnujesz praw dziecka w rodzinie i poza nią | Szukasz rodzin zastępczych dla dzieci
+D: 8:00 Zgłoszenie ze szkoły o zaniedbanym dziecku | 10:00 Wizyta w domu i rozmowa z rodzicami | 13:30 Konsultacja z pedagogiem szkolnym | 16:00 Dokumentacja i plan pomocy dla rodziny
+Y: Wypisz pięć podstawowych praw dziecka i do każdego dopisz przykład z codzienności.
+
+@1915
+H: Pomagasz pracownikowi socjalnemu: wspierasz osoby, rodziny i grupy w ich sprawach. Wykonujesz część czynności, robisz notatki i działasz w społeczności.
+T: Pomagasz w rozmowach z rodzinami | Prowadzisz dokumentację i notatki | Wspierasz zajęcia grupowe w społeczności | Przekazujesz informacje o świadczeniach
+D: 8:00 Przygotowanie teczek na wizyty | 10:00 Wizyta z pracownikiem socjalnym u rodziny | 13:00 Prowadzenie zajęć w klubie osiedlowym | 15:00 Uzupełnianie dokumentacji
+Y: Napisz krótką notatkę z dzisiejszego wydarzenia: same fakty, bez ocen i bez imion.
+
+@1916
+H: Reprezentujesz osobę, która sama nie może zadbać o swoje sprawy: dziecko, osobę z niepełnosprawnością intelektualną lub ubezwłasnowolnioną. Pilnujesz jej pieniędzy, zdrowia i spraw codziennych.
+T: Zarządzasz majątkiem podopiecznego | Pilnujesz opłat i codziennych finansów | Dbasz o leczenie i potrzeby medyczne | Załatwiasz sprawy prawne w imieniu podopiecznego
+D: 8:30 Opłacasz rachunki podopiecznego | 10:30 Wizyta u podopiecznego w domu opieki | 13:00 Rozmowa z lekarzem o leczeniu | 15:00 Sprawozdanie dla sądu
+Y: Spisz dziesięć spraw, o których musi decydować osoba dorosła w ciągu miesiąca.
+
+@1917
+H: Odbierasz telefony od ludzi w kryzysie i słuchasz ich spokojnie. Pomagasz im przez rozmowę, a notujesz tylko to, co wymagają przepisy.
+T: Odbierasz połączenia od osób w kryzysie | Słuchasz bez oceniania | Pomagasz poukładać myśli i kolejne kroki | Zapisujesz dane połączenia zgodnie z przepisami
+D: 8:00 Dyżur w pokoju rozmów | 10:00 Rozmowa z osobą zmagającą się z samotnością | 14:00 Omówienie trudnej rozmowy z superwizorem | 22:00 Dyżur wieczorny lub nocny
+Y: Poproś kogoś o opowiedzenie o swoim dniu i przez 5 minut zadawaj tylko pytania, bez rad.
+
+@1918
+H: Pomagasz klientom wyznaczyć cele i dojść do nich krok po kroku. Rozmawiasz, dajesz wskazówki i sprawdzasz postępy.
+T: Pomagasz klientom nazwać cele | Ustalasz plan działania na tygodnie | Sprawdzasz postępy i zmieniasz plan | Spisujesz sprawozdania z osiągnięć
+D: 7:30 Sesja przed pracą z klientem | 10:00 Przygotowanie planu na kolejne spotkanie | 14:00 Rozmowa przez internet o przeszkodach | 17:30 Sesja po pracy i omówienie postępów
+Y: Zapisz jeden cel na ten miesiąc, rozbij go na trzy małe kroki i wybierz pierwszy na dziś.
+
+@1919
+H: Mieszkasz w rodzinie w innym kraju i opiekujesz się jej dziećmi. Pomagasz też w domu, a przy okazji poznajesz język i kulturę.
+T: Odprowadzasz dzieci do szkoły i odbierasz je | Przygotowujesz dzieciom posiłki | Bawisz się z dziećmi i pomagasz w lekcjach | Robisz drobne prace domowe i zakupy
+D: 7:00 Śniadanie dla dzieci i droga do szkoły | 10:00 Sprzątanie i pranie po dzieciach | 15:00 Odbiór z przedszkola i zabawa | 19:00 Kolacja z rodziną i czas wolny
+Y: Wymyśl i zapisz trzy zabawy dla pięciolatka, które nie wymagają żadnych zabawek.
+

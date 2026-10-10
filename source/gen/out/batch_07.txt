@@ -1,0 +1,180 @@
+@420
+H: Pomagasz firmie przenieść pracowników do nowego miasta lub kraju. Planujesz całą przeprowadzkę i dbasz, żeby rodzina pracownika dobrze się urządziła.
+T: Planujesz przeprowadzkę krok po kroku | Doradzasz w wyborze mieszkania lub domu | Umawiasz firmy przewozowe i terminy | Pomagasz rodzinom odnaleźć się na miejscu
+D: 8:30 Rozmowa z pracownikiem, który przenosi się za granicę | 10:30 Porównujesz oferty mieszkań w nowym mieście | 13:00 Ustalasz termin odbioru rzeczy z firmą transportową | 15:30 Dzwonisz do rodziny, czy dzieci mają szkołę
+Y: Rozpisz na kartce, co trzeba zrobić na dwa tygodnie przed przeprowadzką do innego miasta.
+
+@421
+H: Sprzedajesz firmom i osobom prywatnym miejsce i czas reklamowy w mediach. Prezentujesz ofertę klientom, a po sprzedaży pilnujesz, żeby wszystko poszło zgodnie z umową.
+T: Prezentujesz ofertę reklamową klientom | Dobierasz miejsce i czas emisji | Negocjujesz warunki umowy | Sprawdzasz po kampanii, czy klient jest zadowolony
+D: 9:00 Przeglądasz listę firm, do których dzwonisz | 11:00 Prezentujesz właścicielowi sklepu pakiet reklam w radiu | 14:00 Negocjujesz cenę i daty emisji | 16:30 Wysyłasz umowę i pytasz o efekty poprzedniej kampanii
+Y: Wybierz lokalny sklep i napisz trzy zdania, które przekonają jego właściciela do reklamy.
+
+@422
+H: Kupujesz mieszkania, budynki lub grunty za własne pieniądze i sprzedajesz je z zyskiem. Czasem najpierw remontujesz, żeby nieruchomość była więcej warta.
+T: Sprawdzasz ceny podobnych nieruchomości w okolicy | Oglądasz budynki i oceniasz ich stan | Nadzorujesz remont kupionego lokalu | Negocjujesz cenę zakupu i sprzedaży
+D: 8:00 Przeglądasz nowe ogłoszenia i porównujesz ceny | 10:30 Oglądasz zaniedbane mieszkanie na parterze | 13:00 Rozmowa z ekipą remontową o terminach | 17:00 Liczysz, ile zostanie po sprzedaży
+Y: Znajdź w ogłoszeniach trzy podobne mieszkania i zapisz, które jest najtańsze za metr kwadratowy.
+
+@423
+H: Pomagasz klientom sprzedać albo wynająć mieszkanie, dom lub grunt. Wyceniasz nieruchomość, negocjujesz i dbasz, żeby transakcja była zgodna z prawem.
+T: Oceniasz stan i wartość nieruchomości | Pokazujesz mieszkania kupującym | Negocjujesz cenę między stronami | Sprawdzasz, czy sprzedaż nie ma prawnych przeszkód
+D: 9:00 Robisz zdjęcia i mierzysz nowe mieszkanie | 11:00 Prezentujesz mieszkanie parze, która szuka pierwszego lokum | 14:00 Sprawdzasz dokumenty, czy nic nie blokuje sprzedaży | 18:00 Negocjujesz cenę z kupującym i sprzedającym przez telefon
+Y: Wybierz jedno pomieszczenie w domu i zapisz pięć faktów, które zainteresują kupującego.
+
+@424
+H: Umawiasz oglądanie mieszkań z osobami, które chcą się wprowadzić, i pokazujesz im lokale. Dbasz też o ogłoszenia i codzienną korespondencję z lokatorami.
+T: Umawiasz terminy oglądania mieszkań | Pokazujesz lokale przyszłym lokatorom | Układasz ogłoszenia o wolnych mieszkaniach | Odpowiadasz na wiadomości i uzupełniasz dokumenty
+D: 8:30 Odpisujesz na wiadomości o wolnych mieszkaniach | 10:00 Pokazujesz studentowi kawalerkę i wyjaśniasz warunki | 12:30 Robisz zdjęcia pustego mieszkania do ogłoszenia | 16:00 Wypełniasz papiery nowego lokatora
+Y: Opisz w czterech zdaniach swój pokój tak, żeby ktoś chciał go obejrzeć.
+
+@425
+H: Zajmujesz się zakupem gruntów i nieruchomości dla firmy lub inwestora. Pilnujesz, żeby kupno było zgodne z prawem, dobrze policzone i udokumentowane.
+T: Szukasz działek i budynków do kupna | Oceniasz ryzyko finansowe zakupu | Sprawdzasz, czy zakup jest zgodny z prawem | Pilnujesz dokumentów do podpisania umowy
+D: 8:30 Analizujesz mapę działek pod nową inwestycję | 10:30 Spotkanie z właścicielem gruntu o cenie | 13:30 Prawnik wskazuje braki w dokumentach | 16:00 Przygotowujesz komplet papierów na podpisanie umowy
+Y: Zapisz pięć pytań, jakie warto zadać właścicielowi działki przed jej kupnem.
+
+@426
+H: Zbierasz i sprawdzasz wszystkie dokumenty potrzebne, żeby sprzedaż nieruchomości mogła się zakończyć. Pilnujesz umów, rozliczeń, kredytu, polis i opłat.
+T: Zbierasz umowy, rozliczenia i polisy | Sprawdzasz zgodność papierów z przepisami | Przeglądasz opłaty związane ze sprzedażą | Przypominasz stronom o brakujących podpisach
+D: 8:00 Sprawdzasz, które dokumenty jeszcze nie wpłynęły | 10:00 Czytasz umowę kredytu kupującego linijka po linijce | 12:30 Dzwonisz do ubezpieczyciela w sprawie polisy | 15:00 Rozliczasz opłaty i ustalasz datę podpisania
+Y: Wypisz pięć dokumentów, które trzeba zebrać, żeby sprzedać mieszkanie, i ułóż je w kolejności.
+
+@427
+H: Opiekujesz się budynkami mieszkalnymi w imieniu wspólnoty lub właściciela. Zbierasz czynsze, kontrolujesz stan budynku, załatwiasz naprawy i łagodzisz spory między sąsiadami.
+T: Zbierasz opłaty czynszowe | Obchodzisz budynek i szukasz usterek | Zlecasz naprawy i pilnujesz ich wykonania | Rozmawiasz z lokatorami o problemach sąsiedzkich
+D: 8:00 Dzwoni lokator, przecieka rura w piwnicy | 10:00 Obchodzisz klatki schodowe i sprawdzasz oświetlenie | 14:00 Zebranie wspólnoty, sąsiedzi kłócą się o parking | 16:30 Sprawdzasz, kto zalega z opłatami
+Y: Obejdź swój blok lub dom i zapisz trzy usterki, które warto zgłosić administratorowi.
+
+@428
+H: Organizujesz wynajem lokali i pilnujesz umów najmu oraz wpłat czynszu. Prowadzisz budżet najmu i pokazujesz wolne lokale nowym najemcom.
+T: Przygotowujesz i archiwizujesz umowy najmu | Sprawdzasz wpłaty czynszu | Układasz miesięczny i roczny budżet najmu | Pokazujesz wolne lokale potencjalnym najemcom
+D: 8:30 Porównujesz listę wpłat z listą najemców | 10:30 Przypominasz najemcy o zaległym czynszu | 13:00 Omawiasz z zespołem, które lokale są wolne | 15:30 Podpisujesz nową umowę przy właścicielu i najemcy
+Y: Ułóż miesięczny budżet wynajmowanego pokoju: czynsz, prąd, internet, i sprawdź, ile wychodzi na osobę.
+
+@429
+H: Odpowiadasz za działanie całych budynków: biurowców, sklepów albo osiedli. Negocjujesz umowy najmu, pilnujesz utrzymania i planujesz nowe inwestycje, żeby budynek zyskiwał na wartości.
+T: Negocjujesz umowy najmu z firmami | Planujesz konserwację i remonty budynku | Oceniasz miejsce pod nowy budynek | Nadzorujesz sprawy administracyjne i techniczne
+D: 8:00 Przegląd raportów o stanie biurowca | 10:00 Negocjujesz czynsz z firmą wynajmującą piętro | 13:00 Spotkanie z deweloperem o nowej lokalizacji | 15:30 Technik zgłasza awarię windy, planujesz naprawę
+Y: Wybierz budynek szkoły i zapisz pięć rzeczy, które trzeba tam regularnie sprawdzać.
+
+@430
+H: Pokazujesz w sklepie lub na stoisku, jak działa produkt, i zachęcasz ludzi do wypróbowania go. Zagadujesz przechodniów i odpowiadasz na pytania o towar.
+T: Zagadujesz klientów przy stoisku | Pokazujesz, jak działa produkt | Odpowiadasz na pytania o towar | Zapraszasz do wypróbowania promocyjnych produktów
+D: 9:30 Rozkładasz stoisko i próbki przy wejściu do sklepu | 11:30 Pokazujesz klientom, jak działa nowa patelnia | 14:00 Zagadujesz ludzi w największym tłumie, odpowiadasz na pytania | 17:30 Składasz stoisko i liczysz rozdane próbki
+Y: Wybierz przedmiot z kuchni i w minutę wytłumacz domownikowi, jak działa i do czego służy.
+
+@431
+H: Sprzedajesz towary lub usługi, chodząc od drzwi do drzwi. W kilka sekund musisz zainteresować kogoś, kto cię nie zna, i spokojnie przyjmować odmowy.
+T: Pukasz do drzwi i się przedstawiasz | Pokazujesz towar i mówisz, do czego służy | Odpowiadasz na wątpliwości domowników | Przyjmujesz zamówienia i zapisujesz je
+D: 10:00 Wchodzisz na nowe osiedle z torbą próbek | 11:30 Większość drzwi się nie otwiera | 15:00 Mieszkaniec pyta o cenę i zamawia dwie sztuki | 18:30 Próbujesz ponownie, gdy ludzie wracają z pracy
+Y: Wymyśl, jak w dziesięć sekund zainteresować kogoś zwykłym ołówkiem, i przećwicz to na domownikach.
+
+@432
+H: Kierujesz wypożyczalnią i jej pracownikami. Pilnujesz, żeby sprzęt był sprawny, a punkt wynajmu działał bez przestojów.
+T: Układasz grafik pracowników wypożyczalni | Kontrolujesz stan i dostępność sprzętu | Rozpatrujesz reklamacje i spory z klientami | Sprawdzasz dzienne rozliczenia wypożyczeń
+D: 7:30 Otwierasz punkt i sprawdzasz, co wróciło wczoraj | 9:30 Ustawiasz pracowników na zmianę, bo ktoś zachorował | 13:00 Klient reklamuje uszkodzony sprzęt, tłumaczysz zasady | 17:30 Zamykasz kasę i planujesz zamówienia na jutro
+Y: Wypisz pięć przedmiotów z domu, które dałoby się wypożyczać, i ustal, na jaki czas.
+
+@433
+H: Wypożyczasz klientom sprzęt na wybrany czas i zapisujesz każdą transakcję. Sprawdzasz, co wraca i w jakim stanie, oraz rozliczasz płatność i ubezpieczenie.
+T: Pokazujesz klientowi dostępny sprzęt | Ustalasz okres wypożyczenia | Wpisujesz umowę, płatność i ubezpieczenie | Oglądasz sprzęt po zwrocie i notujesz uszkodzenia
+D: 8:00 Przygotowujesz sprzęt do wydania na kolejny dzień | 10:30 Klient wypożycza rower na trzy dni, spisujesz umowę | 14:00 Ktoś oddaje sprzęt z zarysowaniem, notujesz uszkodzenie | 17:00 Podliczasz dzisiejsze płatności i zamykasz dzień
+Y: Zrób kartę wypożyczenia dla domowego przedmiotu: nazwa, data wydania, data zwrotu, stan przy wydaniu.
+
+@434
+H: Wynajmujesz klientom samochody na krótki czas i reprezentujesz firmę przy ladzie. Spisujesz stan auta przed wydaniem, wyjaśniasz warunki i rozliczasz płatność.
+T: Sprawdzasz prawo jazdy przed wynajęciem | Oglądasz z klientem auto i spisujesz rysy | Wyjaśniasz ubezpieczenie i opłaty | Odbierasz auto i sprawdzasz poziom paliwa
+D: 7:30 Sprawdzasz, które auta są dziś do wydania | 9:00 Turysta po locie odbiera auto, oglądacie karoserię | 13:00 Rozmowa z klientem o dopłacie za paliwo | 18:00 Wprowadzasz do systemu zwroty z całego dnia
+Y: Opisz na kartce dokładnie stan swojego roweru lub zabawkowego autka, jak przy wydaniu klientowi.
+
+@435
+H: Obsługujesz kierowców na stacji paliw: rozliczasz tankowanie, sprzedajesz oleje i płyny do aut. Pilnujesz porządku i bezpieczeństwa na terenie stacji.
+T: Rozliczasz tankowania przy kasie | Sprzedajesz oleje i płyny do aut | Pilnujesz porządku przy dystrybutorach | Sprawdzasz zapasy produktów na półkach
+D: 6:00 Kierowcy w drodze do pracy płacą za paliwo | 10:00 Przyjmujesz dostawę płynów do chłodnic | 14:00 Doradzasz klientowi, jaki olej pasuje do auta | 21:30 Spokojna nocna zmiana, sprawdzasz kasę
+Y: Zapytaj domowników, jakie paliwo ma wasze auto, i zapisz, ile litrów mieści zbiornik.
+
+@436
+H: Cały dzień rozmawiasz z klientami przez telefon: odbierasz połączenia albo dzwonisz z ofertą. Sprzedajesz towary i usługi, a czasem umawiasz wizytę handlowca.
+T: Odbierasz połączenia od klientów | Dzwonisz do potencjalnych klientów z ofertą | Odpowiadasz na pytania o towary i usługi | Umawiasz wizyty sprzedażowe u klientów
+D: 8:30 Włączasz komputer i czytasz plan dzisiejszych rozmów | 10:00 Dzwonisz do listy klientów, wielu odrzuca ofertę | 13:30 Klient dzwoni z pytaniem i decyduje się kupić | 16:00 Umawiasz handlowca na wizytę u zainteresowanej firmy
+Y: Napisz krótki tekst telefonicznej oferty na dowolny produkt z domu i przeczytaj go na głos.
+
+@437
+H: Kierujesz całym marketingiem firmy: reklamą, promocją i budowaniem rozpoznawalności produktów. Decydujesz, na co pójdzie budżet, i odpowiadasz za wyniki.
+T: Ustalasz kierunek działań marketingowych firmy | Decydujesz, na jaką reklamę idą pieniądze | Koordynujesz marketing w różnych oddziałach firmy | Przygotowujesz raporty o kosztach i efektach
+D: 8:30 Czytasz wyniki wczorajszej kampanii reklamowej | 10:00 Spotkanie z kierownikami marketingu z dwóch krajów | 13:00 Decydujesz, czy płacić dalej za drogą reklamę | 16:00 Piszesz raport dla zarządu o kosztach kampanii
+Y: Wymyśl trzy sposoby promocji dowolnego napoju i wybierz jeden, uzasadniając wybór jednym zdaniem.
+
+@438
+H: Odpowiadasz za to, ile firma zarabia na sprzedaży. Ustalasz cele, ceny i sposób sprzedaży oraz kierujesz zespołem handlowców.
+T: Ustalasz cele sprzedaży dla zespołu | Decydujesz o cenach produktów | Planujesz, jak i gdzie sprzedawać | Rozmawiasz z handlowcami o wynikach
+D: 8:00 Sprawdzasz wyniki sprzedaży z ostatniego tygodnia | 10:00 Rozmowa z handlowcami o planie na miesiąc | 13:00 Decydujesz o obniżce ceny wolno sprzedającego się produktu | 16:00 Rozmowa z działem produktu o nowej ofercie
+Y: Ustal cenę dla ręcznie zrobionej zakładki do książki i zapisz trzy argumenty za tą ceną.
+
+@439
+H: Zarządzasz domem aukcyjnym, w którym przedmioty trafiają do tego, kto zaoferuje najwięcej. Odpowiadasz za pracowników, finanse i promocję aukcji.
+T: Kierujesz pracownikami domu aukcyjnego | Pilnujesz budżetu i rozliczeń sprzedaży | Planujesz kalendarz i promocję aukcji | Rozmawiasz ze sprzedającymi o przedmiotach
+D: 9:00 Odprawa z zespołem przed jutrzejszą aukcją | 11:00 Sprawdzasz opisy i zdjęcia wystawianych przedmiotów | 14:00 Zatwierdzasz plan reklamy nadchodzącej aukcji | 18:00 Obserwujesz salę, licytacja trwa do późna
+Y: Wybierz trzy przedmioty z domu i napisz każdemu opis jak do katalogu aukcyjnego, w dwóch zdaniach.
+
+@440
+H: Przekazujesz decyzje firmy pracownikom i światu zewnętrznemu. Pilnujesz, żeby maile, ulotki i artykuły mówiły to samo i były rzetelne.
+T: Informujesz pracowników o decyzjach firmy | Odpowiadasz na ich dalsze pytania | Pilnujesz spójności komunikatów prasowych i ulotek | Występujesz jako rzecznik firmy wobec mediów
+D: 8:30 Czytasz projekt komunikatu o zmianie zasad w firmie | 10:30 Wysyłasz wiadomość do wszystkich pracowników | 13:00 Dziennikarz dzwoni z pytaniem, odpowiadasz uważnie | 15:30 Sprawdzasz, czy ulotka mówi to samo co strona
+Y: Napisz komunikat dla klasy o zmianie planu lekcji, tak aby każdy zrozumiał go bez pytań.
+
+@441
+H: Dbasz o wizerunek firmy, instytucji lub organizacji w oczach ludzi. Używasz mediów i wydarzeń, żeby pokazać ją tak, jak chce być widziana.
+T: Planujesz wydarzenia dla mediów i publiczności | Piszesz informacje dla prasy | Sprawdzasz, jak media opisują klienta | Doradzasz klientowi, jak mówić publicznie
+D: 8:30 Przeglądasz, co media napisały o kliencie | 10:30 Układasz plan charytatywnego wydarzenia dla klienta | 13:00 Dzwonisz do redakcji z propozycją tematu | 16:00 Ćwiczysz z klientem odpowiedzi na trudne pytania
+Y: Napisz pięć zdań o swojej szkole tak, żeby pokazać ją z dobrej i prawdziwej strony.
+
+@442
+H: Zamieniasz plan marketingowy w konkretne kampanie reklamowe. Zbierasz potrzebne zasoby, negocjujesz umowy i pilnujesz, żeby koszty mieściły się w budżecie.
+T: Przygotowujesz kampanię reklamową do startu | Wybierasz kanały komunikacji z klientami | Negocjujesz umowy z mediami | Pilnujesz, żeby wydatki mieściły się w budżecie
+D: 9:00 Sprawdzasz harmonogram kampanii, która startuje w poniedziałek | 11:00 Negocjujesz cenę billboardów z lokalnym pośrednikiem | 13:30 Przeglądasz projekty plakatów od grafików | 16:00 Porównujesz wydatki z budżetem i poprawiasz plan
+Y: Rozpisz harmonogram tygodniowej kampanii plakatowej na szkolny konkurs: co, gdzie i którego dnia.
+
+@443
+H: Tworzysz produkty turystyczne, takie jak wycieczki i pakiety wyjazdowe. Badasz rynek, wymyślasz ofertę i planujesz, jak ją sprzedawać.
+T: Analizujesz, dokąd ludzie chcą jeździć | Układasz plan nowej wycieczki | Wybierasz, gdzie i jak sprzedawać ofertę | Sprawdzasz, które oferty sprzedają się najlepiej
+D: 9:00 Przeglądasz, które kierunki sprzedają się najlepiej | 11:00 Układasz trzydniowy pakiet weekendowy w górach | 13:30 Negocjujesz ceny noclegów z właścicielem pensjonatu | 16:00 Z działem sprzedaży ustalasz termin startu oferty
+Y: Ułóż plan dwudniowej wycieczki po swojej okolicy: trasa, nocleg, atrakcje i dla kogo jest.
+
+@444
+H: Odpowiadasz za konkretne produkty banku, na przykład konta lub kredyty. Badasz, czego potrzebują klienci, poprawiasz istniejące rozwiązania i tworzysz nowe.
+T: Badasz potrzeby klientów banku | Śledzisz, jak sprzedają się produkty | Proponujesz poprawki do istniejących usług | Wspierasz sprzedaż i marketing banku
+D: 9:00 Czytasz raport o tym, kto korzysta z konta | 11:00 Rozmowa z zespołem sprzedaży, co irytuje klientów | 14:00 Szkicujesz zmianę w ofercie dla młodych klientów | 16:00 Przygotowujesz prezentację propozycji dla przełożonych
+Y: Wymyśl jedną nową funkcję dla konta bankowego uczniów i opisz w trzech zdaniach, komu pomoże.
+
+@445
+H: Sprzedajesz bilety na koncerty, mecze i inne wydarzenia i doradzasz klientom przy wyborze miejsc. Odpowiadasz na pytania o ofertę i załatwiasz rezerwacje.
+T: Sprzedajesz bilety na wydarzenia | Dobierasz miejsca do potrzeb klienta | Odpowiadasz na pytania o ofertę | Przyjmujesz i zapisujesz rezerwacje
+D: 9:00 Otwierasz kasę i sprawdzasz, ile biletów zostało | 11:00 Rodzina chce miejsca obok siebie na koncert | 14:00 Telefon: ktoś pyta o ceny biletów na mecz | 18:00 Przed wydarzeniem kolejka rośnie, szybko obsługujesz ludzi
+Y: Narysuj plan małej sali z numerami miejsc i wybierz miejsca dla czteroosobowej rodziny.
+
+@446
+H: Przyjmujesz od graczy opłaty za zakłady na liczby i wydajesz im kupony. Wypłacasz wygrane, sprawdzasz tożsamość i pilnujesz przepisów przeciw praniu pieniędzy.
+T: Przyjmujesz opłaty i wydajesz kupony | Wypłacasz wygrane i sprawdzasz dowód tożsamości | Przeliczasz gotówkę w kasie | Pilnujesz przepisów przeciw praniu pieniędzy
+D: 9:00 Liczysz gotówkę w kasie przed otwarciem | 12:00 Klient przynosi wygrany kupon, prosisz o dowód | 15:00 Wydajesz kupony i przyjmujesz opłaty od ludzi w kolejce | 20:00 Zamykasz kasę i zgadzasz stan z zapisami
+Y: Przelicz drobne z domowej skarbonki lub kieszeni i zapisz sumę, a potem sprawdź ją drugi raz.
+
+@447
+H: Obsługujesz kasę w sklepie: skanujesz zakupy, przyjmujesz płatność, wydajesz resztę i paragon. Przez cały dzień masz kontakt z wieloma klientami.
+T: Skanujesz zakupy klientów | Przyjmujesz płatności gotówką i kartą | Wydajesz resztę i paragon | Odpowiadasz na pytania przy kasie
+D: 6:30 Przygotowujesz kasę i drobne na pierwszych klientów | 11:00 Kolejka rośnie, ktoś płaci samymi monetami | 15:00 Klient zwraca uwagę na błędną cenę | 21:00 Zamykasz kasę i liczysz dzisiejszy utarg
+Y: Policz w głowie resztę z 100 zł dla trzech różnych rachunków i sprawdź na kartce.
+
+@448
+H: Sprzedajesz owoce, warzywa lub towary domowe na straganie pod gołym niebem albo w hali targowej. Zachęcasz przechodniów do kupna i polecasz swój towar.
+T: Układasz towar na stoisku | Zachęcasz przechodniów do spróbowania i zakupu | Ważysz towar i przyjmujesz zapłatę | Obniżasz ceny, gdy dzień się kończy
+D: 5:00 Jedziesz po towar i ustawiasz stragan | 8:00 Pierwsi klienci wybierają warzywa i targują się | 12:00 Zagadujesz przechodniów i zachwalasz sezonowe owoce | 16:00 Obniżasz ceny, pakujesz resztki i składasz stragan
+Y: Poukładaj owoce lub warzywa z kuchni tak, by wyglądały zachęcająco, i wymyśl hasło reklamowe.
+
+@449
+H: Przygotowujesz jedzenie na własnym stoisku i sprzedajesz je przechodniom na targu, w hali albo na ulicy. Zachęcasz ludzi do kupna swoich dań.
+T: Przygotowujesz dania na stoisku | Wydajesz porcje klientom | Zachęcasz przechodniów do spróbowania | Dbasz o czystość stoiska i produktów
+D: 7:00 Kroisz składniki i przygotowujesz stoisko do otwarcia | 11:30 Przy stoisku ustawia się kolejka na obiad | 14:00 Zagadujesz przechodniów i oferujesz małą próbkę | 19:00 Myjesz sprzęt i liczysz dzisiejszą sprzedaż
+Y: Wymyśl przekąskę z trzech składników z kuchni, nazwij ją i ułóż hasło zachęcające do zakupu.
+

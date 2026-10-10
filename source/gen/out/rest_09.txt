@@ -1,0 +1,180 @@
+@1740
+H: Oglądasz zdjęcia, teksty i odpowiedzi AI i opisujesz je tak, żeby model mógł się na nich uczyć. To uważna, powtarzalna praca przy komputerze.
+T: Opisujesz zdjęcia i oznaczasz obiekty ramkami | Oceniasz, która odpowiedź modelu jest lepsza | Poprawiasz błędne etykiety w zbiorze | Czytasz wytyczne i pytasz o niejasne przypadki
+D: 9:00 Czytasz nowe wytyczne do dzisiejszej paczki zdjęć | 10:00 Zaznaczasz samochody i pieszych na kolejnych kadrach | 13:00 Porównujesz dwie odpowiedzi modelu i wybierasz lepszą | 15:30 Zgłaszasz opiekunowi zdjęcia, których nie da się ocenić
+Y: Opisz jednym zdaniem pięć własnych zdjęć tak, żeby algorytm mógł się z nich uczyć.
+
+@1741
+H: Znajdujesz w firmie powtarzalne zadania i budujesz z gotowych klocków proces, który wykonuje je za ludzi. Często robisz to bez pisania kodu.
+T: Rozmawiasz z pracownikami o powtarzalnych zadaniach | Budujesz automatyczny proces z gotowych klocków | Podłączasz AI do sortowania zgłoszeń | Testujesz proces i poprawiasz błędy
+D: 9:00 Pracownik opowiada, ile czasu traci na raporty | 10:30 Układasz kroki procesu w narzędziu bez kodu | 13:00 Test: zgłoszenia trafiają do złych kategorii | 15:00 Pokazujesz zespołowi, jak działa nowy proces
+Y: Wypisz pięć kroków powtarzalnej czynności z Twojego tygodnia i zaznacz, które mógłby wykonać automat.
+
+@1742
+H: Doradzasz firmom, gdzie sztuczna inteligencja się opłaca, a gdzie nie. Liczysz koszty, dobierasz narzędzia i uczysz pracowników.
+T: Analizujesz, jak firma pracuje na co dzień | Wskazujesz zadania, w których AI pomoże | Porównujesz narzędzia i liczysz koszty | Szkolisz pracowników z nowych narzędzi
+D: 8:30 Dojazd do klienta, przeglądasz notatki z poprzedniej wizyty | 10:00 Warsztat: rysujesz z działem obsługi mapę procesów | 13:00 Liczysz, czy narzędzie zwróci się w rok | 15:00 Szkolisz pracowników, jak pisać dobre polecenia
+Y: Wybierz jedno zadanie z Twojego tygodnia i napisz dwa zdania, czy AI by w nim pomogła i dlaczego.
+
+@1743
+H: Przenosisz systemy firm na serwery wynajmowane przez internet i pilnujesz, żeby działały szybko, bezpiecznie i tanio.
+T: Projektujesz, jak ułożyć usługi na serwerach | Przenosisz system firmy do chmury | Automatyzujesz uruchamianie nowych usług | Sprawdzasz rachunki i wyłączasz niepotrzebne zasoby
+D: 9:00 Alarm: strona sklepu zwalnia przy dużym ruchu | 10:30 Rysujesz schemat przeniesienia bazy danych do chmury | 13:00 Przeglądasz rachunek i znajdujesz zapomniane serwery | 15:00 Omawiasz z programistami zmianę architektury
+Y: Narysuj schemat drogi zdjęcia z Twojego telefonu do chmury i z powrotem na inne urządzenie.
+
+@1744
+H: Dbasz o to, żeby nowa wersja aplikacji trafiała do użytkowników szybko i bez awarii. Budujesz automat, który testuje i wdraża kod.
+T: Budujesz automat testujący każdą zmianę w kodzie | Wdrażasz nowe wersje bez przerwy w działaniu | Obserwujesz wykresy i alarmy systemu | Cofasz wersję, gdy coś się psuje
+D: 9:30 Przegląd nocnych alarmów i wykresów obciążenia | 11:00 Poprawiasz automat, który wolno testuje kod | 14:00 Wdrażasz nową wersję aplikacji dla użytkowników | 16:30 Po wdrożeniu błąd, więc cofasz zmianę
+Y: Rozpisz w pięciu punktach listę kontrolną wdrożenia nowej wersji aplikacji, od testu do sprawdzenia po wdrożeniu.
+
+@1745
+H: Tworzysz urządzenia podłączone do sieci, jak czujniki czy liczniki, które same wysyłają dane. Łączysz elektronikę, oprogramowanie i przesyłanie danych.
+T: Dobierasz czujniki do mierzonej wielkości | Piszesz oprogramowanie urządzenia | Konfigurujesz wysyłanie danych do serwera | Testujesz urządzenie w trudnych warunkach
+D: 8:30 Czujnik temperatury w magazynie milczy, szukasz przyczyny | 10:30 Poprawiasz oprogramowanie, żeby oszczędzało baterię | 13:00 Test urządzenia w zamrażarce i na słońcu | 15:30 Omawiasz z projektantem obudowy miejsce na antenę
+Y: Wypisz pięć urządzeń w domu, które mogłyby mieć czujnik z siecią, i napisz, co by mierzyły.
+
+@1746
+H: Piszesz i testujesz programy zapisujące dane w rejestrze, w którym wpisów nie da się po cichu zmienić. Dużo czasu poświęcasz na szukanie luk, bo błąd w takim programie bywa nieodwracalny.
+T: Piszesz inteligentne kontrakty | Testujesz kontrakty na sztucznych danych | Szukasz luk, które mogą wykorzystać oszuści | Dokumentujesz działanie systemu dla innych programistów
+D: 9:30 Przeglądasz kod kontraktu linijka po linijce | 11:00 Piszesz testy, które próbują oszukać kontrakt | 14:00 Znajdujesz lukę i poprawiasz zabezpieczenie | 16:00 Tłumaczysz klientowi, jak działa rozliczenie w systemie
+Y: Narysuj łańcuch pięciu bloków, w którym każdy zawiera skrót poprzedniego, i opisz, co psuje zmiana drugiego.
+
+@1747
+H: Projektujesz trójwymiarowe światy i nakładki na rzeczywistość, w których ktoś ma się wygodnie poruszać. Myślisz o przestrzeni i o tym, żeby nikt nie dostał zawrotów głowy.
+T: Szkicujesz układ przestrzeni i trasę zwiedzania | Tworzysz modele 3D i sposoby interakcji | Testujesz scenę w goglach na ludziach | Zmieniasz projekt, gdy ktoś czuje mdłości
+D: 9:30 Rysujesz plan wirtualnego muzeum z trasą zwiedzania | 11:00 Ustawiasz w scenie modele i przyciski do dotykania | 14:00 Test w goglach: tester gubi się w korytarzu | 16:00 Skracasz ruchy kamery po uwagach o mdłościach
+Y: Narysuj plan wirtualnego pokoju z trasą zwiedzania i zaznacz miejsca, gdzie gość może się zgubić.
+
+@1748
+H: Włamujesz się do systemów za zgodą ich właściciela, żeby znaleźć słabe punkty przed prawdziwymi przestępcami. Potem opisujesz je w raporcie.
+T: Skanujesz system w poszukiwaniu znanych podatności | Próbujesz obejść zabezpieczenia według ustalonych metod | Sprawdzasz błędy w konfiguracji sprzętu | Piszesz raport z propozycjami poprawek
+D: 9:00 Podpisujesz z klientem zakres testu, co wolno | 10:30 Skanujesz sieć firmy i szukasz otwartych drzwi | 13:30 Udaje się obejść logowanie na starej usłudze | 16:00 Piszesz raport z opisem luki i poprawką
+Y: Zapisz pięć wymyślonych słabych haseł, które łatwo zgadnąć, i zaproponuj do każdego silniejszy zamiennik z losowych słów.
+
+@1749
+H: Planujesz i wprowadzasz zabezpieczenia, które chronią dane firmy przed włamaniem, kradzieżą i uszkodzeniem. Pilnujesz, kto ma do czego dostęp.
+T: Nadajesz i odbierasz uprawnienia pracownikom | Ustawiasz zabezpieczenia sieci i serwerów | Przeglądasz zapisy zdarzeń w systemie | Prowadzisz procedury na wypadek ataku
+D: 8:00 Nowy pracownik dostaje dostęp tylko do swoich folderów | 10:00 Przeglądasz zapisy logowań z ostatniej nocy | 13:00 Sprawdzasz, czy kopie zapasowe się wykonały | 15:00 Pracownik odchodzi z firmy, więc odbierasz mu konta
+Y: Wypisz wszystkie swoje konta internetowe i zaznacz, na których jest włączona weryfikacja dwuetapowa.
+
+@1750
+H: Doradzasz firmom, jak chronić dane i programy przed niepowołanym dostępem, i pomagasz to wdrożyć. Uczysz też ludzi bezpiecznej wymiany informacji.
+T: Oceniasz, kto w firmie widzi jakie dane | Proponujesz zasady dostępu do programów | Pomagasz wdrożyć wybrane zabezpieczenia | Tłumaczysz pracownikom bezpieczne wysyłanie informacji
+D: 9:00 Spotkanie z zarządem o największych ryzykach | 11:00 Przeglądasz, kto ma dostęp do danych księgowych | 14:00 Piszesz plan zmian z terminami i kosztami | 16:00 Prowadzisz krótkie szkolenie o podejrzanych wiadomościach
+Y: Napisz dla rodziny kartkę z trzema prostymi zasadami bezpiecznego korzystania z internetu.
+
+@1751
+H: Wdrażasz aktualizacje i zabezpieczenia w systemach firmy i pomagasz pracownikom, gdy coś budzi wątpliwości. Dużo tłumaczysz i szkolisz.
+T: Instalujesz aktualizacje zabezpieczeń na komputerach | Konfigurujesz ustawienia ochrony według zaleceń | Odpowiadasz na pytania pracowników o podejrzane wiadomości | Prowadzisz krótkie szkolenia z bezpieczeństwa
+D: 8:00 Instalujesz zaległe aktualizacje na komputerach w księgowości | 10:00 Pracownik pyta, czy dziwny e-mail jest groźny | 13:00 Ustawiasz zabezpieczenia na nowych laptopach | 15:00 Prowadzisz szkolenie o hasłach dla nowej grupy
+Y: Sprawdź w ustawieniach telefonu, czy aktualizacje są włączone, i zapisz, ile aplikacji czeka na nową wersję.
+
+@1752
+H: Chronisz sieci i komputery przed włamaniami: ustawiasz zabezpieczenia, obserwujesz ruch w sieci i reagujesz, gdy coś się dzieje. Od września 2026 roku tego zawodu uczy się w polskich technikach.
+T: Konfigurujesz zapory i inne zabezpieczenia | Obserwujesz ruch w sieci pod kątem anomalii | Reagujesz na zgłoszone incydenty | Odtwarzasz systemy po ataku
+D: 7:30 Sprawdzasz alerty, które zebrały się w nocy | 9:30 Konfigurujesz zabezpieczenia w sieci małej firmy | 12:00 Komputer wysyła dziwny ruch, odłączasz go od sieci | 14:30 Zapisujesz przebieg incydentu i wnioski
+Y: Wypisz cztery sygnały, po których poznasz, że wiadomość z linkiem może być oszustwem.
+
+@1753
+H: Pilnujesz, żeby firma lub urząd przetwarzały dane osobowe zgodnie z prawem. Doradzasz, kontrolujesz procedury i kontaktujesz się z urzędem nadzorczym.
+T: Sprawdzasz, jakie dane zbiera firma | Doradzasz przy nowych projektach i formularzach | Szkolisz pracowników z ochrony danych | Odpowiadasz na pytania urzędu nadzorczego
+D: 8:30 Czytasz nowy formularz zgłoszeniowy pod kątem danych | 10:30 Szkolisz recepcję, jak przechowywać dokumenty klientów | 13:00 Dział marketingu pyta, czy wolno wysłać newsletter | 15:00 Piszesz odpowiedź na pytania urzędu nadzorczego
+Y: Zajrzyj w ustawienia prywatności jednej aplikacji w telefonie i zapisz, jakie dane o Tobie zbiera.
+
+@1754
+H: Malujesz i przerabiasz twarze aktorów i artystów, żeby pasowały do wizji reżysera. Używasz makijażu i protez, a w trakcie zdjęć poprawiasz i naprawiasz.
+T: Nakładasz makijaż zgodny z wizją reżysera | Przyklejasz i naprawiasz protezy | Poprawiasz wygląd między ujęciami | Pomagasz przy szybkich zmianach postaci
+D: 5:00 Przyjeżdżasz na plan i malujesz aktora na starca | 8:00 Pierwsze ujęcia, stoisz obok z pudrem | 13:00 Naprawiasz protezę nosa, która zaczyna odstawać | 18:30 Zmywasz aktorowi makijaż po długim dniu zdjęć
+Y: Narysuj twarz starszej osoby i zaznacz kolorem, gdzie trzeba dodać zmarszczki i cienie.
+
+@1755
+H: Pomagasz klientom ustalić cele związane z jedzeniem i ruchem i co tydzień sprawdzasz, jak im idzie. Nie leczysz, tylko doradzasz w codziennych nawykach.
+T: Rozmawiasz o nawykach żywieniowych klienta | Ustalasz z klientem realne cele | Układasz prosty plan posiłków i ćwiczeń | Śledzisz postępy na cotygodniowych spotkaniach
+D: 9:00 Pierwsza rozmowa: klient opowiada, co je w tygodniu | 11:00 Ustalacie mały cel na najbliższe dwa tygodnie | 14:00 Układasz plan posiłków dla osoby po pracy zmianowej | 17:00 Spotkanie kontrolne, omawiasz postępy z notatnika
+Y: Zaplanuj na kartce trzy różne kolacje z produktów, które są w domu, bez kupowania czegokolwiek.
+
+@1756
+H: Doradzasz klientom w salonie opalania, jaki zabieg wybrać, i tłumaczysz zasady bezpieczeństwa. Zajmujesz się też sprzedażą kosmetyków i karnetów.
+T: Pytasz klienta o typ skóry i opalanie | Dobierasz czas i rodzaj zabiegu | Tłumaczysz ryzyko zbyt długiego opalania | Sprzedajesz karnety i kosmetyki do opalania
+D: 10:00 Otwierasz salon i sprawdzasz czystość kabin | 12:00 Nowa klientka pyta, ile minut wystarczy na pierwszy raz | 16:00 Sprzedajesz karnet i tłumaczysz przerwy między wizytami | 20:00 Zamykasz kasę i wpisujesz wizyty do rejestru
+Y: Sprawdź w internecie, co oznacza liczba przy filtrze przeciwsłonecznym na kremie, i wyjaśnij to w dwóch zdaniach.
+
+@1757
+H: Dbasz o skórę klientów: oczyszczasz twarz, nakładasz maski i peelingi, usuwasz zbędne owłosienie i robisz makijaż. Dobierasz zabieg do rodzaju skóry.
+T: Oceniasz rodzaj skóry klienta | Oczyszczasz twarz i nakładasz maskę | Robisz masaż twarzy i szyi | Depilujesz brwi i wykonujesz makijaż
+D: 9:00 Rozkładasz sprzęt i dezynfekujesz stanowisko | 10:00 Oczyszczasz twarz klientki o tłustej skórze | 13:00 Depilujesz brwi i robisz makijaż na wesele | 17:00 Doradzasz krem do domowej pielęgnacji
+Y: Opisz na kartce pięć kroków codziennej pielęgnacji twarzy dla skóry suchej i dla tłustej.
+
+@1758
+H: Dbasz o dłonie i paznokcie klientów: kształtujesz je, malujesz i doklejasz ozdoby. Doradzasz też, jak o nie dbać w domu.
+T: Skracasz i nadajesz kształt paznokciom | Usuwasz skórki i nakładasz lakier | Przedłużasz paznokcie i doklejasz ozdoby | Sprzedajesz kosmetyki do pielęgnacji dłoni
+D: 9:00 Dezynfekujesz narzędzia przed pierwszą klientką | 11:00 Zdejmujesz stary lakier i kształtujesz paznokcie | 14:00 Nakładasz sztuczne paznokcie na wesele | 18:00 Pokazujesz stałej klientce nowy wzór
+Y: Narysuj na kartce pięć wzorów na paznokcie i wybierz ten, który najłatwiej wykonać.
+
+@1759
+H: Rozluźniasz klientom mięśnie, dobierając nacisk i rodzaj masażu do ich potrzeb. Pytasz o dolegliwości i radzisz, jak się odprężyć.
+T: Pytasz klienta o napięcie i dolegliwości | Dobierasz technikę i olejek | Masujesz plecy, kark i ramiona | Podpowiadasz ćwiczenia relaksacyjne na dom
+D: 10:00 Wywiad z klientem, który siedzi cały dzień przy biurku | 11:00 Godzinny masaż pleców i karku | 15:00 Klientka po treningu prosi o mocniejszy nacisk | 19:00 Ostatnia wizyta, potem zmieniasz prześcieradło i sprzątasz
+Y: Za zgodą domownika rozmasuj dłonie przez dwie minuty i pytaj, czy nacisk jest dobry.
+
+@1760
+H: Zajmujesz się stopami i paznokciami u nóg: kąpiel, złuszczanie, skracanie i lakier. Pracujesz blisko klienta, często siedząc przy jego stopach.
+T: Przygotowujesz kąpiel stóp | Skracasz i kształtujesz paznokcie u nóg | Złuszczasz suchy naskórek | Nakładasz lakier lub krem
+D: 9:30 Przygotowujesz ciepłą kąpiel i czysty ręcznik | 11:00 Klient po długim biegu prosi o łagodny zabieg | 14:00 Nakładasz lakier, klientka wybiera kolor | 17:00 Dezynfekujesz narzędzia i wymieniasz ręczniki
+Y: Napisz pięć pytań do klienta przed zabiegiem na stopy, w tym o alergie i stan skóry.
+
+@1761
+H: Obsługujesz salon od strony recepcji: umawiasz wizyty, witasz klientów, przyjmujesz płatności i dbasz o porządek oraz zapasy.
+T: Umawiasz klientów na wizyty | Informujesz o usługach i cenach | Przyjmujesz płatności i reklamacje | Sprawdzasz zapasy i układasz kosmetyki
+D: 8:30 Otwierasz salon i sprawdzasz grafik na dziś | 11:00 Telefon: klientka przekłada wizytę na piątek | 14:00 Klient skarży się na zabieg, wysłuchujesz go | 17:30 Liczysz zapasy lakierów i zamawiasz brakujące
+Y: Napisz krótki scenariusz rozmowy telefonicznej, w której umawiasz klienta na wizytę we wtorek.
+
+@1762
+H: Witasz gości w recepcji spa, tłumaczysz ofertę, sprzątasz pomieszczenia po użyciu i uzupełniasz ręczniki. Sprzedajesz też pakiety zabiegów.
+T: Witasz gości i opisujesz dostępne zabiegi | Sprzątasz pokoje zabiegowe po wizytach | Uzupełniasz zapas czystych ręczników | Sprzedajesz pakiety zabiegów
+D: 7:30 Sprawdzasz strefę basenów i uzupełniasz ręczniki | 10:00 Goście pytają, czym różnią się pakiety | 13:00 Sprzątasz gabinet po zabiegu i wietrzysz | 19:00 Przypominasz gościom o zbliżającym się zamknięciu strefy
+Y: Złóż trzy ręczniki w rulony lub wachlarze i ułóż je w stos tak, jak w spa.
+
+@1763
+H: Usuwasz klientom zbędne włoski z różnych części ciała, krótkotrwale lub na stałe. Przed zabiegiem pytasz o skórę i uczulenia.
+T: Pytasz o uczulenia i stan skóry | Usuwasz włoski woskiem lub pastą cukrową | Wykonujesz trwałą depilację światłem lub elektrolizą | Łagodzisz skórę po zabiegu
+D: 9:00 Wywiad z klientką: uczulenia, leki, poprzednie zabiegi | 10:30 Depilacja woskiem nóg i pach | 13:30 Seria zabiegów światłem na plecach klienta | 16:30 Smarujesz skórę kojącym kremem i radzisz, jak dbać
+Y: Zapisz listę pytań o zdrowie i skórę, które zadasz klientowi przed pierwszą depilacją.
+
+@1764
+H: Doradzasz klientom, jak ubierać się na różne okazje i do swojej sylwetki. Uczysz ich samodzielnie podejmować decyzje o wyglądzie.
+T: Rozmawiasz z klientem o stylu i okazjach | Przeglądasz szafę klienta i wybierasz najlepsze rzeczy | Dobierasz dodatki i biżuterię | Robisz listę zakupów
+D: 9:30 Rozmowa z klientką, która zmienia pracę | 11:00 Przeglądasz jej szafę i odkładasz niepasujące rzeczy | 14:00 Szukasz w sklepach marynarki w jej budżecie | 17:00 Układasz trzy zestawy na różne okazje
+Y: Zestaw z własnej szafy trzy komplety: na rozmowę o pracę, spacer i urodziny.
+
+@1765
+H: Projektujesz makijaż i fryzury postaci w filmie lub spektaklu i pilnujesz, żeby ekipa wykonała je zgodnie z projektem. Współpracujesz z dyrektorem artystycznym i operatorem.
+T: Badasz epokę i wizję filmu | Rysujesz szkice makijażu i fryzur | Przygotowujesz dokumentację dla ekipy | Sprawdzasz, czy projekt pasuje do kostiumów i światła
+D: 9:00 Szukasz zdjęć z epoki do nowej produkcji | 11:00 Rysujesz szkice makijażu głównej bohaterki | 14:00 Omawiasz z operatorem, jak światło zmienia kolory | 17:00 Spisujesz dla ekipy karty postaci
+Y: Narysuj szkic makijażu i fryzury dla postaci z wymyślonej historii i dopisz notatkę dla ekipy.
+
+@1766
+H: Myjesz klientom włosy, nakładasz odżywki i środki do koloryzacji oraz sprzątasz stanowiska. Pomagasz fryzjerom, żeby klient nie czekał między etapami.
+T: Myjesz włosy i masujesz skórę głowy | Nakładasz odżywkę lub farbę według zlecenia | Płuczesz włosy po koloryzacji | Zamiatasz ścięte włosy i sprzątasz stanowisko
+D: 8:30 Przygotowujesz ręczniki, peleryny i szampony | 9:30 Myjesz włosy klientki przed farbowaniem | 12:00 Płuczesz farbę i nakładasz maskę | 16:00 Zamiatasz włosy i dezynfekujesz grzebienie
+Y: Napisz kolejność czynności przy myciu włosów klientowi, od peleryny do suszenia ręcznikiem.
+
+@1767
+H: Układasz fryzury i zajmujesz się perukami artystów przed występem, w jego trakcie i po nim. Stoisz w kulisach, żeby w kilka minut zmienić czyjś wygląd.
+T: Układasz fryzury zgodnie z wizją scenicznej ekipy | Zakładasz i mocujesz peruki | Naprawiasz zniszczone peruki | Zmieniasz fryzury w kilka minut w kulisach
+D: 14:00 Czeszesz perukę przed wieczornym spektaklem | 17:30 Układasz aktorce fryzurę z epoki | 20:00 W przerwie zmieniasz fryzurę w trzy minuty | 22:30 Po spektaklu czyścisz i wieszasz peruki
+Y: Rozpisz kroki zmiany fryzury w jedną minutę i przećwicz ją, zaplatając warkocz na lalce lub maskotce.
+
+@1768
+H: Strzyżesz, przycinasz i golisz zarost klientom, używając nożyczek, maszynki i grzebienia. Rozmawiasz z klientem w trakcie, a efekt widać od razu w lustrze.
+T: Strzyżesz maszynką i nożyczkami | Podgalasz kark i boki głowy | Golisz i modelujesz zarost | Układasz włosy po strzyżeniu
+D: 9:00 Pierwszy klient chce krótkie boki i dłuższą górę | 11:00 Strzyżesz chłopaka przed rozmową o pracę | 14:00 Golisz zarost i podrównujesz brodę | 18:00 Ostatni klient, potem zamiatasz i czyścisz maszynki
+Y: Zapisz nazwy pięciu męskich fryzur i narysuj dwie z nich z boku i z tyłu.
+
+@1769
+H: Myjesz, strzyżesz i układasz włosy śpiewaków, prezenterów i aktorów na planie. Przez cały dzień stoisz w gotowości, żeby poprawić fryzurę między ujęciami.
+T: Układasz stylizację z dyrektorem artystycznym | Myjesz i suszysz włosy przed zdjęciami | Zakładasz peruki i dodatki do włosów | Poprawiasz fryzury między ujęciami
+D: 5:30 Myjesz i suszysz włosy prezenterki przed programem | 8:00 Mocujesz perukę wokalistce na plan teledysku | 12:00 Stoisz za kamerą ze szczotką i lakierem | 18:00 Poprawiasz aktorowi fryzurę przed ostatnim ujęciem
+Y: Obejrzyj minutę teledysku bez dźwięku i zapisz, jak wyglądają fryzury wykonawców i co je wyróżnia.
+

@@ -1,0 +1,180 @@
+@2190
+H: Słuchasz nagranych i bieżących rozmów konsultantów i oceniasz je według ustalonych zasad. Potem przekazujesz im, co poszło dobrze, a co trzeba poprawić.
+T: Słuchasz nagrań rozmów z klientami | Oceniasz rozmowy według karty jakości | Spisujesz uwagi dla konsultantów | Omawiasz wyniki z zespołem
+D: 8:30 Słuchasz pierwszych nagranych rozmów z poranka | 10:30 Wypełniasz karty oceny dla pięciu konsultantów | 13:00 Rozmawiasz z konsultantem o trudnej rozmowie | 15:00 Przekazujesz kierownikowi zestawienie wyników
+Y: Opisz w pięciu punktach, jak powinna wyglądać dobra rozmowa z infolinią, jako kartę oceny.
+
+@2191
+H: Prowadzisz badanie opinii na zlecenie klienta: ustalasz pytania, kierujesz ankieterami i pilnujesz, żeby wyniki były rzetelne. Odpowiadasz za terminy i jakość zebranych odpowiedzi.
+T: Ustalasz z klientem cel badania | Instruujesz zespół ankieterów terenowych | Sprawdzasz postępy zbierania odpowiedzi | Pilnujesz zgodności z wymogami badania
+D: 8:00 Omawiasz z klientem pytania ankiety | 10:00 Szkolisz ankieterów przed wyjściem w teren | 13:00 Sprawdzasz, ile ankiet zebrano do tej pory | 16:00 Poprawiasz plan, bo brakuje odpowiedzi
+Y: Ułóż pięć pytań ankiety o ulubione zajęcia po szkole, każde z jasnymi odpowiedziami do wyboru.
+
+@2192
+H: Nadzorujesz codzienną pracę biurową: pocztę, dokumenty, zamówienia i stanowiska pracy. Pilnujesz drobiazgów, żeby biuro działało bez przestojów.
+T: Kontrolujesz korespondencję i obieg dokumentów | Zatwierdzasz zamówienia materiałów biurowych | Przydzielasz stanowiska i zadania pracownikom | Przeglądasz zbiory danych
+D: 8:00 Sprawdzasz pocztę i przydzielasz ją do osób | 10:00 Zatwierdzasz zamówienie papieru i długopisów | 12:30 Przesadzasz pracownika na wolne stanowisko | 15:00 Składasz raport kierownikowi działu
+Y: Zrób plan swojego biurka: co leży gdzie i co warto przenieść, aby pracowało się wygodniej.
+
+@2193
+H: Ustalasz cele dzienne i miesięczne dla zespołu infolinii i pilnujesz, czy są osiągane. Reagujesz na problemy szkoleniami albo zmianą planu pracy.
+T: Wyznaczasz cele dzienne i tygodniowe | Śledzisz wyniki zespołu na bieżąco | Planujesz szkolenia i premie motywacyjne | Pilnujesz jakości i czasu rozmów
+D: 8:00 Sprawdzasz wyniki wczorajszej sprzedaży | 9:30 Odprawa z zespołem i cele na dziś | 12:00 Zauważasz długą kolejkę i dokładasz ludzi | 15:00 Planujesz szkolenie dla nowych konsultantów
+Y: Wymyśl trzy sposoby motywowania pięcioosobowej grupy do wspólnej pracy nad zadaniem i wybierz najlepszy.
+
+@2194
+H: Nadzorujesz konsultantów na infolinii, prowadzisz projekty i rozumiesz techniczną stronę pracy centrum. Jesteś osobą, do której zgłaszają się z problemami.
+T: Nadzorujesz pracę konsultantów na sali | Zarządzasz projektami dla infolinii | Pomagasz rozwiązywać problemy z systemem telefonicznym | Zgłaszasz awarie działowi technicznemu
+D: 8:00 Sprawdzasz, czy wszyscy konsultanci są zalogowani | 10:00 Prowadzisz spotkanie o nowym projekcie | 12:30 Awaria łączności, informujesz dział techniczny | 15:30 Pomagasz konsultantowi w trudnej sprawie klienta
+Y: Rozpisz kroki na wypadek awarii projektora w klasie i wskaż, kogo zawiadomisz.
+
+@2195
+H: Pilnujesz, żeby pracownicy centrum obsługi klienta mieli jasne zadania i wiedzieli, jak rozwiązywać problemy. Szkolisz ich i pomagasz w trudnych sprawach.
+T: Rozdzielasz zadania w zespole obsługi | Szkolisz nowych pracowników | Rozwiązujesz trudne sprawy klientów | Sprawdzasz, czy dzień pracy przebiega sprawnie
+D: 8:30 Rozdzielasz zadania i omawiasz plan dnia | 10:30 Pokazujesz nowemu pracownikowi system zgłoszeń | 13:00 Przejmujesz rozmowę z bardzo zdenerwowanym klientem | 16:00 Podsumowujesz dzień i notujesz problemy
+Y: Napisz cztery spokojne zdania do klienta, który dostał uszkodzony produkt, z propozycją rozwiązania.
+
+@2196
+H: Kierujesz zespołem, który wpisuje dane do systemów. Układasz zadania i pilnujesz, żeby praca szła szybko i bez błędów.
+T: Rozdzielasz partie dokumentów do wpisania | Ustalasz kolejność zadań i terminy | Sprawdzasz losowo poprawność wpisanych danych | Pomagasz pracownikom z trudnymi dokumentami
+D: 8:00 Dzielisz stos dokumentów między pracowników | 10:00 Sprawdzasz losowo próbkę wpisanych danych | 13:00 Zmieniasz kolejność zadań przed terminem | 15:30 Podsumowujesz, ile dokumentów już wpisano
+Y: Przepisz dziesięć pozycji z domowej listy zakupów do tabeli na kartce i sprawdź, czy nie ma pomyłek.
+
+@2197
+H: Wspierasz kręgarza w gabinecie, pod jego nadzorem. Rozmawiasz z pacjentami, prowadzisz dokumentację i pomagasz przy badaniach.
+T: Zbierasz od pacjentów informacje o dolegliwościach | Prowadzisz dokumentację pacjentów | Pomagasz kręgarzowi przy badaniach | Wykonujesz zadania administracyjne gabinetu
+D: 8:00 Przygotowujesz gabinet i karty pacjentów | 9:00 Pytasz pacjenta, gdzie czuje ból | 12:00 Uzupełniasz dokumentację wizyt | 15:00 Umawiasz pacjentów na kolejne terminy
+Y: Ułóż listę dziesięciu pytań do wywiadu z osobą, która zgłasza ból pleców.
+
+@2198
+H: Zamieniasz podyktowane przez lekarza uwagi na dokładne dokumenty medyczne. Słuchasz, wpisujesz i pilnujesz poprawnego zapisu.
+T: Słuchasz nagrań dyktowanych przez lekarzy | Przepisujesz je do dokumentacji pacjenta | Formatujesz i edytujesz dokumenty | Pilnujesz interpunkcji i gramatyki
+D: 8:00 Odsłuchujesz pierwsze nagrania od lekarza | 10:00 Przepisujesz wynik badania do karty | 12:30 Sprawdzasz trudne słowo medyczne w słowniku | 15:00 Odsyłasz gotowe dokumenty do podpisu
+Y: Poproś domownika o podyktowanie pięciu trudnych słów z biologii i sprawdź w podręczniku poprawność zapisu.
+
+@2199
+H: Zarządzasz codziennym funkcjonowaniem przychodni, nadzorujesz pracowników i sprawy finansowe. Dbasz o to, żeby lekarze mieli warunki do pracy, a pacjenci nie czekali bez końca.
+T: Układasz grafiki lekarzy i personelu | Pilnujesz budżetu i rachunków | Rozwiązujesz skargi pacjentów | Zamawiasz sprzęt i materiały
+D: 7:30 Sprawdzasz, kto jest dziś w pracy | 9:00 Rozmawiasz z pacjentem, który długo czekał | 12:00 Zamawiasz brakujące materiały opatrunkowe | 15:00 Przeglądasz rachunki za miesiąc
+Y: Zaplanuj kolejkę do rejestracji tak, żeby pacjenci czekali jak najkrócej, i narysuj schemat.
+
+@2200
+H: Pracujesz blisko lekarzy i pielęgniarek, ale po stronie biurowej: obsługujesz pocztę, umawiasz wizyty i odpowiadasz na pytania pacjentów.
+T: Umawiasz wizyty i prowadzisz kalendarz lekarza | Obsługujesz korespondencję placówki | Odpowiadasz na pytania pacjentów | Porządkujesz dokumenty medyczne
+D: 8:00 Otwierasz pocztę i układasz skierowania | 9:30 Odbierasz telefony od pacjentów | 12:00 Przekładasz wizyty, bo lekarz się spóźni | 14:30 Wprowadzasz wyniki badań do kartotek
+Y: Ułóż harmonogram wizyt dla lekarza na pół dnia, z przerwami i dwiema dłuższymi wizytami.
+
+@2201
+H: Prowadzisz sprawy biurowe w kancelarii lub u notariusza: piszesz pisma, odbierasz telefony i znasz prawne procedury. Dbasz o dokładność, bo w papierach prawnych liczy się każdy szczegół.
+T: Piszesz pisma i wiadomości e-mail | Odbierasz telefony od klientów kancelarii | Przygotowujesz dokumenty według wzorów | Pilnujesz terminów składania pism
+D: 8:00 Sprawdzasz pocztę i terminy w kalendarzu | 9:30 Przepisujesz projekt umowy według wzoru | 12:00 Odbierasz telefon od klienta kancelarii | 15:00 Wysyłasz pismo, zanim minie termin
+Y: Napisz pismo z prośbą o zmianę terminu spotkania, z nagłówkiem, datą i formułą grzecznościową.
+
+@2202
+H: Rejestrujesz najważniejsze wydarzenia w życiu ludzi: narodziny, małżeństwa i zgony. Przyjmujesz dokumenty i sporządzasz akty.
+T: Rejestrujesz akty urodzenia | Rejestrujesz małżeństwa i związki partnerskie | Rejestrujesz akty zgonu | Sprawdzasz dokumenty osób składających wniosek
+D: 8:00 Otwierasz urząd i sprawdzasz dokumenty | 9:00 Przyjmujesz rodziców, którzy zgłaszają narodziny | 11:30 Rejestrujesz zawarcie małżeństwa | 14:00 Pomagasz rodzinie załatwić akt zgonu
+Y: Narysuj drzewo rodzinne z trzema pokoleniami i wpisz przy każdej osobie rok urodzenia, o ile go znasz.
+
+@2203
+H: Witasz pacjentów w przychodni, sprawdzasz ich dane i umawiasz wizyty. Od ciebie zaczyna się każda wizyta u lekarza.
+T: Witasz pacjentów i sprawdzasz ich dane | Zbierasz informacje do karty pacjenta | Rejestrujesz na wizyty | Informujesz o kolejności i miejscu gabinetu
+D: 7:30 Włączasz komputer i sprawdzasz listę zapisów | 8:00 Rejestrujesz pierwszych pacjentów | 11:00 Tłumaczysz, do którego gabinetu iść | 14:00 Umawiasz kontrolne wizyty na przyszły tydzień
+Y: Wymyśl formularz rejestracji pacjenta z pięcioma pytaniami, które są naprawdę potrzebne.
+
+@2204
+H: Przyjmujesz właścicieli zwierząt w gabinecie weterynaryjnym, umawiasz wizyty i sprzedajesz produkty dla zwierząt. Często spotykasz zdenerwowane osoby ze zwierzakami.
+T: Umawiasz wizyty i przyjęcia zwierząt | Rejestrujesz właścicieli i ich pupili | Doradzasz przy wyborze produktów dla zwierząt | Prowadzisz sprawy biurowe gabinetu
+D: 8:00 Otwierasz gabinet i sprawdzasz listę wizyt | 10:00 Uspokajasz właściciela z przestraszonym psem | 13:00 Polecasz karmę dla starszego kota | 16:00 Umawiasz szczepienie na przyszły miesiąc
+Y: Ułóż w pięciu krokach plan, jak przywitać zdenerwowanego właściciela zwierzaka.
+
+@2205
+H: Zajmujesz recepcję w firmie: odbierasz telefony, witasz gości i kierujesz ich do właściwych osób. Jesteś pierwszą twarzą firmy.
+T: Odbierasz telefony w imieniu firmy | Witasz gości i informujesz ich | Kierujesz odwiedzających do właściwych pokoi | Wydajesz przepustki odwiedzającym
+D: 8:00 Otwierasz recepcję i sprawdzasz listę gości | 9:30 Wydajesz przepustkę kurierowi | 12:00 Odbierasz serię telefonów do działów | 16:00 Informujesz gości, gdzie jest sala konferencyjna
+Y: Przećwicz przed lustrem trzy sposoby odbierania telefonu w imieniu firmy i wybierz najuprzejmiejszy.
+
+@2206
+H: Pracujesz w hotelu nocą i odpowiadasz za gości, gdy reszta personelu śpi. Poza obsługą wykonujesz też zadania księgowe, takie jak podsumowanie dnia.
+T: Meldujesz gości przyjeżdżających po północy | Odpowiadasz na prośby i pytania gości | Zamykasz rozliczenia dnia | Pilnujesz bezpieczeństwa w holu
+D: 22:00 Przejmujesz zmianę i sprawdzasz rezerwacje | 0:30 Meldujesz gości po opóźnionym locie | 3:00 Zamykasz księgi dnia i robisz raport | 6:00 Przekazujesz zmianę dziennej recepcji
+Y: Przygotuj listę pięciu pytań, które może zadać zmęczony gość o północy w hotelu, i odpowiedzi.
+
+@2207
+H: Zbierasz informacje od ludzi, zadając im ustalone pytania. Robisz to telefonicznie, listownie albo na ulicy i wypełniasz formularze.
+T: Dzwonisz do respondentów lub zagadujesz ich na ulicy | Zadajesz pytania z formularza | Zapisujesz odpowiedzi dokładnie | Wyjaśniasz, po co jest badanie
+D: 9:00 Odbierasz listę osób do ankiety | 10:00 Dzwonisz i pytasz o dane demograficzne | 14:00 Stoisz na ulicy z formularzem | 17:00 Przekazujesz wypełnione formularze koordynatorowi
+Y: Ułóż pięć neutralnych pytań o nawyki, które nie sugerują odpowiedzi, i sprawdź, czy każde jest jednoznaczne.
+
+@2208
+H: Pytasz ludzi, co sądzą o produktach i usługach, i przekazujesz ich opinie ekspertom do analizy. Starasz się, żeby rozmówcy powiedzieli jak najwięcej.
+T: Rozmawiasz z klientami o produktach i usługach | Zadajesz pytania pogłębiające | Zapisujesz opinie i preferencje | Przekazujesz wyniki analitykom
+D: 9:30 Dzwonisz do osób z listy badania | 12:00 Wypytujesz klienta o wrażenia ze sklepu | 14:30 Wpisujesz odpowiedzi do formularza | 17:00 Wysyłasz zebrane opinie analitykom
+Y: Wymyśl trzy pytania, dzięki którym dowiesz się, co ludzie myślą o szkolnej stołówce, bez podpowiadania odpowiedzi.
+
+@2209
+H: Odbierasz alarmowe telefony i decydujesz, jaki zespół ratunkowy trzeba wysłać. W stresie szybko zbierasz adres i najważniejsze informacje.
+T: Odbierasz pilne zgłoszenia | Zbierasz adres i opis zdarzenia | Przekazujesz dane najbliższej karetce | Utrzymujesz kontakt z dzwoniącym do przyjazdu pomocy
+D: 6:00 Przejmujesz zmianę w centrum dyspozytorskim | 9:00 Przyjmujesz zgłoszenie o osobie, która zasłabła | 14:00 Kierujesz karetkę do wypadku na drodze | 18:00 Przekazujesz zmianę i wpisujesz raport
+Y: Naucz się na pamięć trzech informacji, które trzeba podać przy zgłoszeniu zdarzenia, i powtórz je domownikowi.
+
+@2210
+H: Łączysz rozmowy do właściwych osób w firmie i odpowiadasz na pytania dzwoniących. Zgłaszasz też problemy z połączeniami.
+T: Odbierasz i przełączasz połączenia | Odpowiadasz na zapytania klientów | Obsługujesz tablicę lub konsolę | Zgłaszasz raporty o problemach
+D: 7:30 Włączasz konsolę i sprawdzasz listę numerów | 9:00 Łączysz dzwoniących do właściwych działów | 12:00 Informujesz klienta, kto zajmuje się jego sprawą | 15:00 Zgłaszasz brak połączenia technikom
+Y: Rozpisz na kartce numery wewnętrzne pięciu działów wymyślonej firmy i ćwicz łączenie rozmów na przykładach.
+
+@2211
+H: Odpisujesz klientom na czacie i w formularzach online. Pomagasz tylko pisemnie, więc liczy się jasne pisanie i szybka odpowiedź.
+T: Odpisujesz na czacie w czasie rzeczywistym | Odpowiadasz na wnioski przesłane przez stronę | Rozwiązujesz proste problemy klientów | Przekazujesz trudne sprawy dalej
+D: 8:00 Logujesz się i czytasz nocne wiadomości | 10:00 Prowadzisz kilka czatów jednocześnie | 13:00 Przekazujesz skomplikowaną reklamację specjaliście | 16:00 Odpisujesz na wnioski z formularza
+Y: Napisz w pięciu krótkich zdaniach uprzejmą odpowiedź klientowi, któremu nie dotarła paczka.
+
+@2212
+H: Odpowiadasz na pytania klientów o usługi i zasady firmy przez telefon i pocztę. Dużo słuchasz i tłumaczysz rzeczy prosto.
+T: Odbierasz telefony od klientów | Odpisujesz na wiadomości e-mail | Wyjaśniasz zasady usług i produktów | Zapisujesz w systemie ustalenia z rozmów
+D: 8:00 Zaczynasz zmianę i otwierasz kolejkę połączeń | 10:00 Wyjaśniasz klientowi, jak działa abonament | 13:00 Odpisujesz na pocztę z pytaniami | 16:00 Wpisujesz notatki z rozmów do systemu
+Y: Wyjaśnij komuś z domu w trzech zdaniach, jak działa usługa, z której korzystasz, i sprawdź, czy rozumie.
+
+@2213
+H: Pomagasz gościom hotelu załatwić to, czego potrzebują poza noclegiem: stolik w restauracji, bilety, transport. Znasz miasto i polecasz miejsca.
+T: Rezerwujesz stoliki w restauracjach | Zamawiasz bilety na wydarzenia | Organizujesz transport i wycieczki | Polecasz atrakcje w okolicy
+D: 9:00 Sprawdzasz plan wydarzeń w mieście | 11:00 Rezerwujesz stolik dla pary na kolację | 14:00 Zamawiasz taksówkę na lotnisko dla gościa | 18:00 Polecasz rodzinie spacer po starówce
+Y: Wypisz pięć miejsc w okolicy, które warto pokazać turyście na jeden dzień, z krótkim uzasadnieniem.
+
+@2214
+H: Rozpatrujesz reklamacje i dbasz o dobre imię firmy w oczach klientów. Zbierasz też dane o tym, czy klienci są zadowoleni.
+T: Rozpatrujesz reklamacje klientów | Rozmawiasz z niezadowolonymi klientami | Zbierasz dane o zadowoleniu klientów | Przygotowujesz raporty dla firmy
+D: 8:30 Czytasz nowe reklamacje z nocy | 10:00 Dzwonisz do klienta w sprawie uszkodzonego towaru | 13:00 Decydujesz, czy reklamacja jest zasadna | 15:30 Zestawiasz wyniki ankiety zadowolenia
+Y: Napisz czteroetapowy plan rozpatrzenia reklamacji zepsutego plecaka: pytania, decyzja, odpowiedź i wnioski.
+
+@2215
+H: Pilnujesz dokumentów firmy tak, żeby dało się je szybko znaleźć. Segregujesz, opisujesz i wydajesz akta na prośbę pracowników.
+T: Segregujesz i opisujesz dokumenty | Układasz akta na regałach według systemu | Odnajdujesz dokumenty na prośbę | Prowadzisz rejestr wypożyczeń
+D: 8:00 Przyjmujesz pudła z aktami z księgowości | 10:00 Opisujesz teczki i nadajesz im numery | 12:30 Szukasz umowy sprzed pięciu lat | 15:00 Odkładasz zwrócone akta na regał
+Y: Uporządkuj swoje szkolne zeszyty i kartki według przedmiotów i dat, a na teczkach napisz spis treści.
+
+@2216
+H: Wspierasz agencję lub dział reklamy: dopilnowujesz spraw administracyjnych, kontaktujesz się z klientami i pomagasz tworzyć teksty oraz materiały.
+T: Kontaktujesz się z klientami agencji | Pilnujesz terminów i dokumentów kampanii | Pomagasz przy tekstach i grafikach do internetu | Przygotowujesz materiały do druku
+D: 9:00 Odpisujesz klientowi z uwagami do plakatu | 11:00 Spotkanie zespołu o nowej kampanii | 13:30 Piszesz krótki tekst do posta | 16:00 Sprawdzasz, czy materiały trafiły do drukarni
+Y: Napisz hasło reklamowe do szkolnego kółka zainteresowań w jednym zdaniu i zaproponuj do niego obrazek.
+
+@2217
+H: Pomagasz w rekrutacji i sprawach pracowniczych: czytasz CV, wybierasz osoby pasujące do ogłoszenia i przygotowujesz dokumenty.
+T: Czytasz CV i wybierasz kandydatów | Przygotowujesz ogłoszenia i listy | Układasz tabele z ankiet i ocen | Wykonujesz zadania administracyjne działu
+D: 8:30 Czytasz nowe zgłoszenia na stanowisko | 10:30 Wybierasz pięć osób do rozmowy | 13:00 Przygotowujesz list z zaproszeniem na rozmowę | 15:30 Zestawiasz wyniki ankiety pracowniczej
+Y: Wypisz pięć cech potrzebnych osobie na stanowisku dyżurnego w klasie i zapisz, po czym je rozpoznasz.
+
+@2218
+H: Obsługujesz przesyłki w urzędzie pocztowym: sortujesz, rejestrujesz i prowadzisz dokumentację listów i paczek. Przyjmujesz i wydajesz korespondencję.
+T: Sortujesz listy i paczki | Rejestrujesz przesyłki przychodzące i wychodzące | Obsługujesz klientów przy okienku | Prowadzisz dokumentację przesyłek
+D: 7:30 Sortujesz przesyłki, które przyjechały rano | 9:00 Otwierasz okienko i obsługujesz kolejkę | 12:00 Wydajesz paczkę po sprawdzeniu zawiadomienia | 15:00 Wpisujesz do rejestru listy wysłane dziś
+Y: Zrób na kartce rejestr dziesięciu wymyślonych przesyłek: nadawca, adres, data, a potem posortuj je według miejscowości.
+
+@2219
+H: Czytasz gotowe teksty, na przykład książki i gazety, i poprawiasz błędy ortograficzne, gramatyczne i typograficzne. Dopiero po twojej pracy tekst trafia do druku.
+T: Czytasz gotowy tekst przed drukiem | Poprawiasz błędy ortograficzne i gramatyczne | Wyłapujesz błędy typograficzne | Zaznaczasz poprawki na kopii tekstu
+D: 8:30 Dostajesz kopię książki do sprawdzenia | 10:00 Czytasz rozdział i zaznaczasz literówki | 13:00 Sprawdzasz, czy tytuły są zapisane tak samo | 15:30 Oddajesz poprawioną kopię do składu
+Y: Weź ostatnią stronę własnego wypracowania i znajdź na niej co najmniej trzy błędy lub niedociągnięcia.
+

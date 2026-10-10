@@ -1,0 +1,180 @@
+@2220
+H: Czytasz firmowe listy i maile w obcych językach i piszesz na nie odpowiedzi. Oprócz tego robisz zwykłe prace biurowe.
+T: Czytasz wiadomości od zagranicznych kontrahentów | Piszesz odpowiedzi w obcym języku | Sprawdzasz pisownię i formalny ton | Archiwizujesz korespondencję i porządkujesz dokumenty
+D: 8:00 Przeglądasz nocną pocztę od zagranicznych klientów | 10:00 Piszesz odpowiedź na reklamację po niemiecku | 12:30 Sprawdzasz tłumaczenie oferty przed wysłaniem do partnera | 15:00 Segregujesz listy i archiwizujesz wysłane pisma
+Y: Napisz trzyzdaniowy, uprzejmy e-mail po angielsku z prośbą o ofertę na wymyślony produkt.
+
+@2221
+H: Roznosisz listy i paczki pod konkretne adresy i zbierasz podpisy odbiorców. Większość dnia spędzasz w terenie.
+T: Sortujesz przesyłki według trasy | Roznosisz listy i paczki do domów | Zbierasz podpisy za przesyłki polecone | Obsługujesz klientów w okienku urzędu
+D: 6:30 Sortujesz przesyłki na swój rejon | 8:30 Wyruszasz na trasę z torbą pełną listów | 11:00 Zbierasz podpis za paczkę od starszej pani | 13:30 Wracasz do urzędu i rozliczasz doręczenia
+Y: Narysuj prostą mapę swojej ulicy i zaplanuj trasę doręczenia pięciu listów bez wracania.
+
+@2222
+H: Pomagasz bibliotekarzowi w codziennej pracy: wypożyczasz książki, szukasz ich dla czytelników i dbasz o porządek na półkach.
+T: Przyjmujesz zwrócone książki | Odkładasz książki na właściwe półki | Pomagasz czytelnikom znaleźć potrzebny tytuł | Sprawdzasz stan wypożyczonych materiałów
+D: 9:00 Otwierasz bibliotekę i przeglądasz zwroty | 10:30 Odkładasz książki według numerów na grzbietach | 13:00 Uczeń szuka lektury, szukasz jej w katalogu | 16:00 Porządkujesz czytelnię przed zamknięciem
+Y: Ułóż dziesięć swoich książek lub zeszytów alfabetycznie według tytułu lub nazwiska autora.
+
+@2223
+H: Pomagasz inżynierom w eksperymentach i pilnujesz, żeby dokumentacja techniczna projektu była kompletna i aktualna.
+T: Prowadzisz dokumentację techniczną projektu | Pomagasz w przeprowadzaniu eksperymentów | Jeździsz z inżynierem na wizje lokalne | Zbierasz i porządkujesz dane z pomiarów
+D: 8:00 Sprawdzasz, czy rysunki i raporty są aktualne | 10:00 Pomagasz inżynierowi w teście próbki | 12:30 Na budowie notujesz pomiary i robisz zdjęcia | 15:00 Wpisujesz wyniki do dokumentacji projektu
+Y: Zmierz linijką trzy przedmioty w pokoju i zapisz wyniki w uporządkowanej tabelce.
+
+@2224
+H: Obsługujesz papierologię i kontakt z osobami należącymi do organizacji, od zapisu po odnowienie członkostwa.
+T: Przyjmujesz zgłoszenia nowych członków | Odpowiadasz na pytania o członkostwo | Przypominasz o wznowieniu członkostwa | Aktualizujesz dokumentację członków
+D: 8:30 Odbierasz nowe zgłoszenia i sprawdzasz formularze | 10:30 Odpisujesz na pytania o zasady członkostwa | 13:00 Dzwonisz do osoby, której kończy się członkostwo | 15:30 Uzupełniasz listę członków o nowe wpisy
+Y: Zaprojektuj na kartce krótki formularz zapisu do wymyślonego klubu, z pięcioma polami.
+
+@2225
+H: Wspierasz pracę całego biura: odbierasz telefony, sortujesz pocztę, wypełniasz formularze i witasz gości.
+T: Sortujesz przychodzącą pocztę | Odbierasz telefony i witasz klientów | Wypełniasz formularze i dokumenty | Planujesz spotkania i przygotowujesz napoje
+D: 8:00 Sortujesz pocztę i rozkładasz ją po biurkach | 9:30 Odbierasz telefony i witasz pierwszych gości | 11:30 Wypełniasz formularze dla kierownika działu | 14:00 Ustawiasz termin spotkania i serwujesz napoje
+Y: Zaplanuj na kartce spotkanie pięciu osób tak, by każda miała wolny termin.
+
+@2226
+H: Przepisujesz dokumenty, listy i nagrania na czysty tekst w komputerze, dokładnie według instrukcji. Liczy się tempo i brak błędów.
+T: Przepisujesz listy i sprawozdania | Spisujesz nagrania audio | Sprawdzasz tekst pod kątem błędów | Dopasowujesz format i liczbę egzemplarzy
+D: 8:00 Czytasz instrukcje dołączone do zlecenia | 9:00 Przepisujesz stos ręcznie pisanych sprawozdań | 12:00 Spisujesz nagranie z posiedzenia w słuchawkach | 14:30 Poprawiasz literówki i drukujesz egzemplarze
+Y: Przepisz jeden akapit z książki bez patrzenia na klawiaturę i policz swoje błędy.
+
+@2227
+H: Wpisujesz informacje do systemów komputerowych i pilnujesz, żeby dane były kompletne i zgodne z dokumentami.
+T: Sortujesz dokumenty źródłowe przed wpisaniem | Wprowadzasz dane do systemu | Szukasz braków i niezgodności | Weryfikujesz poprawność wpisanych informacji
+D: 8:00 Układasz stos faktur do wprowadzenia | 9:30 Wpisujesz rząd po rzędzie dane z formularzy | 12:00 Znajdujesz brakujący numer i dzwonisz po wyjaśnienie | 14:30 Porównujesz wpisy z oryginałami
+Y: Zapisz w tabelce dane dziesięciu swoich książek lub płyt i sprawdź każdy wiersz drugi raz.
+
+@2228
+H: Dbasz, żeby biuro działało sprawnie: odbierasz telefony, prowadzisz terminarz szefa i pilnujesz dokumentów.
+T: Odbierasz telefony i wiadomości | Prowadzisz kalendarz i umawiasz spotkania | Piszesz i wysyłasz e-maile | Archiwizujesz dokumenty i prowadzisz bazy danych
+D: 8:00 Sprawdzasz pocztę i terminarz szefa | 9:30 Odbierasz telefon i przekierowujesz rozmowy | 11:00 Przygotowujesz salę i materiały na spotkanie | 14:00 Archiwizujesz podpisane dokumenty
+Y: Przygotuj plan jutrzejszego dnia dla wymyślonego szefa z czterema spotkaniami bez nakładania się godzin.
+
+@2229
+H: Wymyślasz i prowadzisz zabawy, zawody i wycieczki dla wczasowiczów i dzieci. Pracujesz wtedy, gdy inni odpoczywają.
+T: Prowadzisz gry i zabawy dla dzieci | Organizujesz zawody sportowe i wycieczki rowerowe | Zapraszasz gości na pokazy | Pilnujesz budżetu każdego wydarzenia
+D: 9:00 Poranna gimnastyka z dziećmi na trawniku | 11:00 Turniej siatkówki dla rodziców i dzieci | 15:00 Wycieczka rowerowa albo wizyta w muzeum | 20:30 Wieczorny pokaz i konkurs dla gości
+Y: Wymyśl i spisz zasady nowej gry dla pięciorga dzieci, do której nie trzeba rekwizytów.
+
+@2230
+H: Planujesz i prowadzisz aktywności na świeżym powietrzu i dbasz o sprzęt. Czasem zajmujesz się też papierami w biurze.
+T: Planujesz trasę i program zajęć | Prowadzisz grupę w terenie | Sprawdzasz i konserwujesz sprzęt | Wypełniasz dokumenty i rezerwacje
+D: 8:00 Oglądasz sprzęt i sprawdzasz linki oraz uprzęże | 10:00 Prowadzisz grupę na biegu na orientację | 13:00 Pokazujesz uczestnikom zajęcia na torze linowym | 16:00 Czyścisz sprzęt i wpisujesz rezerwacje
+Y: Narysuj mapkę swojego podwórka lub parku z pięcioma punktami kontrolnymi do biegu na orientację.
+
+@2231
+H: Uczysz grupy radzić sobie w dziczy bez udogodnień: budować schronienie, szukać wody i jedzenia. Pilnujesz przy tym bezpieczeństwa.
+T: Pokazujesz, jak budować schronienie | Uczysz rozpalania ognia w lesie | Wyjaśniasz, jak zdobyć wodę i pożywienie | Omawiasz zasady bezpieczeństwa i ochrony przyrody
+D: 7:00 Prowadzisz grupę w głąb lasu | 10:00 Uczestnicy budują schronienie z gałęzi | 13:00 Pokazujesz jadalne rośliny i sposoby szukania wody | 18:00 Wieczorne ognisko i omówienie zasad ryzyka
+Y: Zaplanuj na kartce, co zabierzesz w małym plecaku na całodniową wycieczkę i dlaczego.
+
+@2232
+H: Prowadzisz grupy na wycieczki piesze, kajakowe i wspinaczkowe, uczysz podstaw i pilnujesz ludzi oraz sprzętu.
+T: Prowadzisz wędrówki, spływy i wspinaczki | Tłumaczysz uczestnikom zasady bezpieczeństwa | Sprawdzasz sprzęt przed wyjściem | Organizujesz ćwiczenia zespołowe dla grup
+D: 7:30 Sprawdzasz kajaki, kamizelki i pogodę | 9:00 Instruktaż przed spływem dla całej grupy | 11:00 Płyniesz obok początkujących kajakarzy | 15:30 Ćwiczenie zespołowe na brzegu i podsumowanie
+Y: Wypisz pięć zasad bezpieczeństwa na wycieczkę i wyjaśnij je prostymi słowami młodszemu domownikowi.
+
+@2233
+H: Układasz grafik ludzi i zasobów, żeby zajęcia w terenie się odbyły. Odpowiadasz za zespół, klientów i bezpieczeństwo.
+T: Układasz grafik instruktorów | Nadzorujesz pracę zespołu w terenie | Szkolisz nowych pracowników | Sprawdzasz zgodność z zasadami bezpieczeństwa
+D: 7:30 Rozdzielasz instruktorów do dzisiejszych grup | 9:30 Odprawa i ustalenia z zespołem | 12:00 Jedziesz w teren sprawdzić, jak idą zajęcia | 16:00 Rozmowa z klientem i plan na jutro
+Y: Ułóż grafik dla trzech instruktorów i czterech grup tak, by nikt nie był w dwóch miejscach naraz.
+
+@2234
+H: Pomagasz przy aktywnościach w plenerze: sprawdzasz sprzęt, oceniasz ryzyko i pilnujesz grupy. Czasem pracujesz też w biurze.
+T: Przygotowujesz sprzęt do zajęć | Oceniasz ryzyko na trasie | Pilnujesz grupy podczas aktywności | Pomagasz w biurze i obsłudze technicznej
+D: 8:00 Wynosisz sprzęt i sprawdzasz jego stan | 10:00 Spisujesz zagrożenia na dzisiejszej trasie | 12:00 Idziesz na końcu grupy i liczysz uczestników | 15:30 Wpisujesz w biurze stan sprzętu
+Y: Obejrzyj swój pokój i wypisz pięć rzeczy, które byłyby ryzykowne dla grupy bawiących się dzieci.
+
+@2235
+H: Prowadzisz trudniejsze aktywności, na przykład dla osób z niepełnosprawnością albo w wymagających warunkach, i wspierasz pomocników.
+T: Dostosowujesz zajęcia do potrzeb uczestnika | Prowadzisz aktywności w trudnych warunkach | Instruujesz i wspierasz pomocników | Konserwujesz specjalistyczny sprzęt
+D: 8:00 Rozmowa z uczestnikiem o jego możliwościach | 10:00 Dobierasz i ustawiasz specjalistyczny sprzęt | 12:30 Prowadzisz zajęcia, a pomocnik asekuruje grupę | 16:00 Omawiasz z pomocnikami, co poszło dobrze
+Y: Wymyśl, jak zmienić zwykłą grę z piłką, żeby mogła w nią grać osoba na wózku.
+
+@2236
+H: Dbasz o czysty i przyjazny klub, odpowiadasz na pytania członków i wspierasz instruktorów. Czasem pilnujesz też basenu.
+T: Witasz i informujesz członków klubu | Sprzątasz i sprawdzasz sprzęt | Zachęcasz nowych do udziału w zajęciach | Pomagasz instruktorom przy grupach
+D: 6:30 Otwierasz klub i sprawdzasz salę | 9:00 Pokazujesz nowej osobie, jak działa sprzęt | 13:00 Dezynfekujesz maty i odkładasz ciężarki | 19:00 Pomagasz instruktorowi przy wieczornych zajęciach grupowych
+Y: Napisz krótką ulotkę zachęcającą nowych członków do pierwszych zajęć w klubie sportowym.
+
+@2237
+H: Prowadzisz ćwiczenia z pojedynczymi osobami albo całą grupą i pilnujesz, żeby ruch był bezpieczny i skuteczny.
+T: Układasz serię ćwiczeń dla grupy | Pokazujesz poprawną technikę ruchu | Korygujesz ułożenie ciała uczestników | Dostosowujesz trudność do możliwości
+D: 7:00 Rozgrzewka z grupą przed pracą | 12:00 Pokazujesz klientowi ćwiczenia na sprzęcie | 17:30 Zajęcia grupowe do muzyki | 19:00 Poprawiasz ułożenie kolan i pleców
+Y: Ułóż pięciominutową rozgrzewkę z sześciu ćwiczeń i zrób ją raz od początku do końca.
+
+@2238
+H: Prowadzisz spokojne, wzmacniające ćwiczenia oparte na zasadach pilatesu i dobierasz je do każdej osoby.
+T: Pytasz klientów o zdrowie i cele | Dopasowujesz ćwiczenia do osoby | Prowadzisz spokojne lekcje bez wysiłku wyczynowego | Zachęcasz do regularnych zajęć
+D: 8:00 Wywiad z nowym klientem o bólu pleców | 10:00 Lekcja grupowa na matach | 14:00 Układasz program dla osoby po urazie | 18:30 Wieczorna lekcja dla zapracowanych
+Y: Połóż się na plecach i przez pięć minut oddychaj głęboko, obserwując ruch brzucha.
+
+@2239
+H: Układasz i nadzorujesz ćwiczenia rehabilitacyjne dla osób z przewlekłymi schorzeniami, współpracując z lekarzami.
+T: Planujesz ćwiczenia rehabilitacyjne | Nadzorujesz trening osób z chorobami przewlekłymi | Konsultujesz stan uczestnika z lekarzem | Doradzasz w sprawie odżywiania i stylu życia
+D: 8:00 Czytasz notatki lekarza o dzisiejszych uczestnikach | 9:30 Prowadzisz ćwiczenia dla grupy z chorobą przewlekłą | 13:00 Dzwonisz do lekarza w sprawie postępów | 16:00 Rozmowa o codziennych nawykach i odżywianiu
+Y: Zaplanuj na kartce tydzień spacerów dla starszego krewnego, z krótkimi i łatwymi dniami.
+
+@2240
+H: Układasz plan ćwiczeń dla konkretnej osoby, sprawdzasz postępy i motywujesz do regularnego treningu.
+T: Zbierasz informacje o celach klienta | Układasz indywidualny plan treningowy | Oceniasz postępy i zmieniasz program | Motywujesz do trzymania się planu
+D: 6:30 Trening z klientem przed jego pracą | 10:00 Rozmowa z nową osobą o celach | 13:00 Układasz plan na kolejny miesiąc | 18:00 Prowadzisz trening i liczysz serie
+Y: Zapisz w tabelce trzy ćwiczenia, ile razy je zrobisz w tym tygodniu, i odhaczaj.
+
+@2241
+H: Uczysz ludzi jeździć na koniu: zatrzymywania, skręcania i skoków. Pracujesz w stajni i na ujeżdżalni.
+T: Uczysz zatrzymywania i skręcania | Prowadzisz lekcje skoków przez przeszkody | Pomagasz dobrać konia do jeźdźca | Poprawiasz postawę jeźdźca
+D: 7:00 Karmisz konie i sprawdzasz stajnię | 9:00 Pierwsza lekcja z dziećmi na ujeżdżalni | 14:00 Ustawiasz przeszkody do lekcji skoków | 17:00 Lekcja z dorosłymi, korygujesz postawę
+Y: Stań prosto i przez minutę trzymaj postawę jeźdźca: plecy proste, ramiona w dół, wzrok przed siebie.
+
+@2242
+H: Uczysz prowadzenia jachtu lub łodzi zgodnie z przepisami i przygotowujesz kursantów do egzaminów.
+T: Tłumaczysz teorię i przepisy żeglarskie | Uczysz sterowania łodzią na wodzie | Przygotowujesz kursantów do egzaminu | Sprawdzasz łódź i kamizelki przed rejsem
+D: 8:00 Sprawdzasz pogodę i wiatr nad jeziorem | 9:30 Wykład o pierwszeństwie na wodzie | 11:30 Kursant steruje, a ty siedzisz obok | 15:00 Ćwiczycie cumowanie i wiązanie węzłów
+Y: Naucz się zawiązać jeden żeglarski węzeł sznurkiem, korzystając z opisu w bibliotece lub internecie.
+
+@2243
+H: Prowadzisz turystów po górach, opowiadasz o przyrodzie i pilnujesz ich bezpieczeństwa, obserwując pogodę i samopoczucie grupy.
+T: Prowadzisz grupy szlakami | Opowiadasz o przyrodzie regionu | Śledzisz pogodę i zmieniasz plan | Sprawdzasz, jak czują się uczestnicy
+D: 5:30 Sprawdzasz prognozę i ustalasz trasę | 7:00 Wyruszasz z grupą spod schroniska | 11:30 Przerwa z widokiem, opowiadasz o szczytach | 15:00 Zbliża się burza, schodzicie niższym szlakiem
+Y: Sprawdź prognozę pogody na jutro i zdecyduj, czy wyprawa w góry byłaby bezpieczna.
+
+@2244
+H: Uczysz jazdy na nartach od pierwszych skrętów po zaawansowane techniki i tłumaczysz zasady bezpieczeństwa na stoku.
+T: Pokazujesz technikę jazdy na stoku | Doradzasz w wyborze sprzętu | Tłumaczysz zasady bezpieczeństwa na stoku | Dajesz uczniom uwagi po zjeździe
+D: 8:30 Pomagasz dzieciom założyć buty i narty | 9:30 Pierwsza lekcja na łagodnej łączce | 12:00 Zjeżdżasz przed grupą, uczniowie naśladują | 15:30 Omawiasz błędy zaawansowanych na wyciągu
+Y: Stań w lekkim przysiadzie z ugiętymi kolanami i trzymaj pozycję 30 sekund, powtórz trzy razy.
+
+@2245
+H: Uczysz pływać dzieci i dorosłych różnymi stylami i poprawiasz ich technikę. Pracujesz na basenie.
+T: Uczysz kraula, żabki i motylka | Pokazujesz ruchy rąk i nóg | Planujesz serię lekcji | Poprawiasz oddychanie i technikę uczniów
+D: 7:00 Poranny trening dorosłych na torach | 10:00 Dzieci uczą się leżeć na wodzie | 15:00 Pokazujesz żabkę z brzegu basenu | 18:00 Grupa zaawansowana ćwiczy kraula
+Y: Poćwicz w domu ruch rąk kraula przed lustrem przez dwie minuty, obserwując ułożenie dłoni.
+
+@2246
+H: Uczysz jazdy na snowboardzie osoby w różnym wieku i na różnym poziomie. Pokazujesz zjazdy i podpowiadasz, co poprawić.
+T: Uczysz jazdy od podstaw | Demonstrujesz zjazdy i skręty | Doradzasz w sprawie ustawienia i sprzętu | Przekazujesz uwagi i zasady bezpieczeństwa
+D: 9:00 Pierwsza lekcja, uczysz wstawać z deski | 11:00 Grupa ćwiczy skręty na łagodnym stoku | 13:30 Przerwa i dopasowanie wiązań klientowi | 15:00 Pokazujesz zaawansowanym jazdę po muldach
+Y: Stań bokiem na złożonym kocu i poćwicz przenoszenie ciężaru z jednej nogi na drugą.
+
+@2247
+H: Wprowadzasz ludzi w sport, często ekstremalny, i uczysz potrzebnych umiejętności. Zarażasz ich radością z ruchu.
+T: Pokazujesz podstawy wybranej dyscypliny | Uczysz zasad i techniki | Dobierasz ćwiczenia do poziomu | Zachęcasz osoby, które się wahają
+D: 9:00 Odprawa i sprawdzenie sprzętu | 10:00 Pierwszy kontakt nowicjuszy z dyscypliną | 13:00 Ćwiczycie podstawowe elementy w parach | 16:00 Podsumowujesz dzień i pokazujesz postępy
+Y: Wybierz sport, którego nie znasz, i znajdź w internecie opis trzech podstawowych zasad.
+
+@2248
+H: Uczysz postawy, obrony i ciosów w boksie. Prowadzisz treningi indywidualne i grupowe.
+T: Uczysz postawy i pracy nóg | Pokazujesz proste ciosy i uniki | Trzymasz łapy do ćwiczeń | Korygujesz technikę zawodników na sparingu
+D: 8:00 Trening techniki z początkującym | 12:00 Układasz plan zajęć na tydzień | 17:00 Grupa ćwiczy ciosy na workach | 19:00 Pilnujesz lekkiego sparingu w ochraniaczach
+Y: Stań w półprzysiadzie i przez minutę poćwicz pracę nóg: kroki w przód, tył i na boki.
+
+@2249
+H: Uczysz gry w golfa: postawy, chwytu i uderzeń. Pokazujesz ruch, a potem mówisz uczniowi, co poprawić.
+T: Pokazujesz postawę i chwyt kija | Demonstrujesz techniki uderzenia | Dajesz uwagi po każdym uderzeniu | Doradzasz w wyborze kijów
+D: 8:00 Przygotowujesz piłki na polu ćwiczeń | 9:00 Lekcja z początkującym, ćwiczycie sam chwyt | 13:00 Z doświadczonym graczem analizujesz zamach | 16:00 Doradzasz klientowi przy wyborze kija
+Y: Stań w rozkroku na szerokość barków i pięć razy powoli skręć tułów jak do zamachu.
+

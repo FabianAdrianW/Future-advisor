@@ -1,0 +1,180 @@
+@570
+H: Uczysz zwykłych przyszłych kierowców jeździć samochodem osobowym, od pierwszego ruszenia na placu po jazdę w gęstym ruchu. Uspokajasz zestresowanych kursantów i ćwiczysz z nimi parkowanie, które często decyduje o wyniku egzaminu.
+T: Pokazujesz ruszanie, zmianę biegów i hamowanie | Uczysz parkowania równoległego i prostopadłego | Jeździsz z kursantem po trasach egzaminacyjnych | Uspokajasz zestresowanego kursanta przed egzaminem
+D: 7:00 Pierwsza jazda dnia, kursant pierwszy raz za kierownicą | 9:30 Plac, ćwiczycie parkowanie równoległe między pachołkami | 12:00 Jazda po mieście, uczysz ronda i skrzyżowań | 16:00 Ostatnia jazda przed jutrzejszym egzaminem, powtarzacie trasę
+Y: Narysuj na kartce dwa zaparkowane auta i lukę między nimi, potem narysuj tor wjazdu do niej.
+
+@571
+H: Sterujesz bezzałogowym statkiem powietrznym, który filmuje z góry, mierzy teren albo sprawdza trudno dostępne miejsca. Do zawodowych lotów potrzebujesz uprawnień, a pogoda często decyduje, czy w ogóle polecisz.
+T: Planujesz lot i sprawdzasz pogodę | Pilotujesz drona i ustawiasz kamerę | Filmujesz lub mierzysz teren z powietrza | Oglądasz z góry linie energetyczne i dachy
+D: 6:00 Sprawdzasz prognozę wiatru i naładowanie baterii | 8:00 Na polu rozkładasz sprzęt i robisz próbny lot | 10:30 Lecisz nad budową i zbierasz zdjęcia do pomiarów | 15:00 Przeglądasz nagranie i odrzucasz poruszone ujęcia
+Y: Zaplanuj na kartce trasę lotu nad wybranym polem, linia za linią, tak by nic nie ominąć.
+
+@572
+H: Projektujesz systemy, które ogrzewają lub chłodzą budynki i procesy, przenosząc ciepło za pomocą płynów i gazów. Liczysz, rysujesz i testujesz instalacje, aż działają tak, jak powinny.
+T: Obliczasz, ile ciepła trzeba przenieść | Projektujesz instalacje ogrzewania lub chłodzenia | Dobierasz rury, pompy i wymienniki ciepła | Testujesz zbudowany system w praktyce
+D: 8:00 Sprawdzasz obliczenia strat ciepła w budynku | 10:00 Rysujesz schemat rur i pomp ogrzewania | 13:00 Na budowie oglądasz zamontowaną instalację grzewczą | 15:30 Podczas testu mierzysz temperatury w różnych punktach
+Y: Zawiń jedną z dwóch kostek lodu w ręcznik, drugą zostaw na talerzu i po 15 minutach porównaj, ile stopniało.
+
+@573
+H: Projektujesz instalacje, które zamieniają światło słoneczne na energię elektryczną. Liczysz, ile paneli zmieści się na dachu lub polu i jak je ustawić, żeby dawały jak najwięcej.
+T: Mierzysz nasłonecznienie dachu lub terenu | Liczysz, ile paneli zmieści się i jak je ustawić | Projektujesz schemat połączeń paneli | Szukasz sposobów na ekologiczniejszą produkcję paneli
+D: 8:30 Analizujesz zdjęcia dachów i cień od drzew | 10:30 Obliczasz, ile energii instalacja wyprodukuje w roku | 13:00 Na wizji ustalasz z klientem miejsce na panele | 16:00 Omawiasz projekt z klientem i ekipą montażową
+Y: Sprawdź, które okna w domu dostają słońce rano, a które po południu, i zapisz różnicę.
+
+@574
+H: Szukasz miejsc, w których wiatr wieje najrówniej, i projektujesz tam farmy wiatrowe. Testujesz sprzęt, na przykład łopaty turbin, i szukasz sposobów, by dawały więcej energii.
+T: Badasz wiatr i teren pod nową farmę | Testujesz łopaty i inne części turbin | Projektujesz rozmieszczenie turbin | Pracujesz nad wydajniejszą i bardziej ekologiczną produkcją
+D: 8:00 Analizujesz pomiary wiatru z masztu pomiarowego | 10:30 Wybierasz na mapie miejsca dla turbin | 13:00 W hali testowej sprawdzasz wytrzymałość łopaty turbiny | 16:00 Piszesz raport o najlepszej lokalizacji farmy
+Y: Stań na podwórku z paskiem papieru w dłoni i trzy razy zapisz kierunek, w którą stronę się odchyla.
+
+@575
+H: Zajmujesz się całą drogą energii, od wytworzenia po dotarcie do odbiorców. Szukasz miejsc, gdzie energia się marnuje, i wymyślasz tańsze oraz czystsze rozwiązania, które da się włączyć do istniejącej sieci.
+T: Analizujesz zużycie i dostawy energii w danych | Wyszukujesz miejsca marnowania energii | Porównujesz koszty techniczne i finansowe rozwiązań | Włączasz źródła odnawialne do istniejącej sieci
+D: 8:30 Przeglądasz dobowe wykresy zużycia energii w mieście | 10:30 Sprawdzasz, o których godzinach sieć jest przeciążona | 13:00 Liczysz, czy nowy magazyn energii się opłaci | 15:30 Piszesz wnioski dla zarządu o zmianach w systemie
+Y: Zapisz, w jakich godzinach w Twoim domu używa się najwięcej urządzeń, i wskaż godzinę szczytu.
+
+@576
+H: Szukasz sposobów, by wytwarzać, przekształcać i rozprowadzać energię wydajniej i czyściej. Pracujesz zarówno z paliwami takimi jak ropa i gaz, jak i ze źródłami odnawialnymi, a firmom doradzasz, jak zużywać mniej.
+T: Porównujesz różne źródła energii pod względem emisji | Projektujesz sposoby wytwarzania energii | Doradzasz firmom, jak zużywać mniej energii | Sprawdzasz sprawność urządzeń i instalacji
+D: 8:00 Sprawdzasz, ile paliwa zużywa kotłownia fabryki | 10:00 Porównujesz dwa pomysły na czystsze wytwarzanie ciepła | 13:00 Rozmawiasz z właścicielem hali o izolacji i oświetleniu | 16:00 Piszesz raport, ile energii da się zaoszczędzić
+Y: Znajdź w domu trzy miejsca, gdzie mogą uciekać ciepło, na przykład szczeliny przy drzwiach lub oknie.
+
+@577
+H: Planujesz i projektujesz urządzenia oraz procesy w elektrowniach jądrowych. Dużą część pracy zajmuje analiza ryzyka i zabezpieczenia, bo błąd w takim obiekcie ma poważne skutki.
+T: Projektujesz elementy instalacji elektrowni jądrowej | Analizujesz ryzyka i opracowujesz zabezpieczenia | Sprawdzasz zgodność z rygorystycznymi przepisami | Opisujesz rozwiązania w dokumentacji technicznej
+D: 8:00 Czytasz raport z przeglądu układu chłodzenia | 10:00 Sprawdzasz symulacją, co się stanie przy awarii pompy | 13:00 Naradzasz się z zespołem nad dodatkowym zabezpieczeniem | 16:00 Poprawiasz dokumentację po uwagach nadzoru
+Y: Wypisz pięć rzeczy, które mogłyby pójść źle podczas wycieczki, i do każdej dopisz zabezpieczenie.
+
+@578
+H: Badasz alternatywne źródła energii i projektujesz urządzenia, które z nich korzystają. Starasz się, żeby były wydajniejsze, tańsze w produkcji i mniej obciążały środowisko.
+T: Badasz alternatywne źródła energii w laboratorium | Projektujesz urządzenia do energii odnawialnej | Porównujesz wydajność różnych rozwiązań | Szukasz sposobów na obniżenie kosztów produkcji
+D: 8:30 Uruchamiasz stanowisko testowe i zapisujesz pomiary | 11:00 Porównujesz w tabeli wydajność dwóch prototypów | 13:30 Narada o tym, jak obniżyć koszt urządzenia | 16:00 Wpisujesz wnioski z testów do raportu
+Y: Wypisz pięć źródeł energii odnawialnej i przy każdym zapisz jedną zaletę i jedną wadę.
+
+@579
+H: Badasz i projektujesz materiały: metale, szkło, tworzywa, tekstylia czy beton. Sprawdzasz, z czego są zrobione i czy wytrzymają to, do czego mają służyć.
+T: Analizujesz skład materiałów | Prowadzisz eksperymenty wytrzymałościowe | Opracowujesz nowe materiały do zastosowań przemysłowych | Doradzasz firmom w sprawie uszkodzeń i recyklingu
+D: 8:00 Oglądasz pod mikroskopem pęknięty element metalowy | 10:00 Maszyna rozciąga próbkę, aż pęknie, zapisujesz wynik | 13:00 Z klientem szukasz przyczyny szybkiego zużycia materiału | 15:30 Porównujesz wyniki trzech tworzyw w tabeli
+Y: Oderwij paski z trzech rodzajów papieru i sprawdź, który uniesie najwięcej monet, zanim się zerwie.
+
+@580
+H: Opracowujesz materiały i części wykonane z drewna, na przykład płyty czy elementy konstrukcji, i planujesz, jak je produkować. W zakładzie kontrolujesz jakość, a klientom doradzasz, co się nada do ich potrzeb.
+T: Opracowujesz materiały i części z drewna | Planujesz organizację zakładu produkcyjnego | Kontrolujesz produkcję i jakość wyrobów | Doradzasz klientom, jakiego drewna użyć
+D: 7:30 Obchodzisz halę i sprawdzasz partię desek | 10:00 W laboratorium badasz wytrzymałość próbki drewna | 12:30 Planujesz ustawienie maszyn w nowej hali | 15:00 Doradzasz klientowi, jakie drewno wybrać na schody
+Y: Znajdź w domu trzy drewniane przedmioty i opisz, czym różnią się ich słoje, kolor i ciężar.
+
+@581
+H: Pracujesz na poziomie cząsteczek, o wiele mniejszych niż grubość włosa, i wykorzystujesz wiedzę z chemii, biologii i inżynierii. Tworzysz mikroskopijne obiekty albo ulepszasz to, co już istnieje.
+T: Badasz zachowanie cząsteczek w mikroskali | Tworzysz mikroskopijne struktury o nowych właściwościach | Łączysz wiedzę z chemii, biologii i inżynierii | Ulepszasz istniejące zastosowania materiałów
+D: 8:30 Przygotowujesz próbkę do badania pod mikroskopem | 10:30 Oglądasz na ekranie powierzchnię materiału w skali nano | 13:00 Omawiasz z chemikami pomysł na nową warstwę | 16:00 Opisujesz wyniki eksperymentu w raporcie
+Y: Połóż kroplę wody na liściu, folii i papierze i opisz, jak się układa na każdej.
+
+@582
+H: Łączysz biologię z inżynierią, żeby rozwiązywać problemy ludzi i środowiska, na przykład w rolnictwie, produkcji żywności czy ochronie zasobów naturalnych. Część rozwiązań opiera się na modyfikacji genetycznej.
+T: Projektujesz rozwiązania oparte na biologii | Prowadzisz doświadczenia z żywymi organizmami | Szukasz sposobów na wydajniejsze rolnictwo i żywność | Oceniasz, czy rozwiązanie się opłaca i jest bezpieczne
+D: 8:30 Sprawdzasz hodowlę w laboratorium i zapisujesz zmiany | 10:30 Planujesz doświadczenie z roślinami bardziej odpornymi na suszę | 13:00 Analizujesz wyniki doświadczenia w tabelach i na wykresach | 15:30 Piszesz, czy pomysł nadaje się do produkcji
+Y: Zaplanuj na kartce doświadczenie: jak sprawdzić, czy ilość światła wpływa na wzrost rośliny w domu.
+
+@583
+H: Łączysz inżynierię z medycyną, żeby powstawały lepsze metody leczenia i urządzenia dla pacjentów. Możesz ulepszać elementy znanych leków albo pracować nad leczeniem tkanek.
+T: Projektujesz urządzenia medyczne dla pacjentów | Testujesz nowe rozwiązania w laboratorium | Dopasowujesz rozwiązanie do potrzeb lekarzy i pacjentów | Analizujesz dane z badań medycznych
+D: 8:00 Lekarz opowiada, czego brakuje na jego oddziale | 10:30 Rysujesz na komputerze prototyp nowego urządzenia | 13:00 Testujesz prototyp na modelu, jeszcze bez pacjentów | 16:00 Zapisujesz dane z testu i wyciągasz wnioski
+Y: Zmierz puls w spoczynku i po dwudziestu przysiadach, a potem porównaj wyniki.
+
+@584
+H: Sprawdzasz, czy miejsce pracy nie zagraża ludziom, i projektujesz sposoby, żeby było bezpieczniej. Oceniasz hałas, zanieczyszczenia, niewygodne stanowiska i niebezpieczne substancje.
+T: Oceniasz zagrożenia na stanowiskach pracy | Projektujesz zasady i programy ochrony zdrowia | Sprawdzasz ergonomię stanowiska pracy | Proponujesz poprawki zmniejszające ryzyko wypadków
+D: 8:00 Obchodzisz halę i szukasz niebezpiecznych miejsc | 10:00 Przy maszynach sprawdzasz poziom hałasu | 12:30 Oceniasz, czy biurko i krzesło nie męczą kręgosłupa | 15:00 Piszesz raport z propozycjami zmian
+Y: Oceń swoje miejsce do nauki: czy plecy są oparte, stopy na podłodze, i zapisz jedną poprawkę.
+
+@585
+H: Wymyślasz, jak zapobiegać pożarom i ograniczać ich skutki w budynkach i w przyrodzie. Dobierasz materiały, które trudniej się palą, i projektujesz systemy wykrywające ogień.
+T: Dobierasz materiały odporne na ogień | Projektujesz systemy wykrywania pożaru | Analizujesz drogi rozprzestrzeniania się ognia w budynku | Badasz zabezpieczenia dla ludzi i terenów przyrodniczych
+D: 8:00 Czytasz plan nowego budynku pod kątem zagrożenia pożarem | 10:30 Dobierasz na ściany materiał, który trudno się pali | 13:00 Planujesz rozmieszczenie czujników dymu w pomieszczeniach | 16:00 Naradzasz się z architektem o dodatkowych wyjściach
+Y: Zrób dwie listy przedmiotów w pokoju, łatwo i trudno palnych, po pięć na każdej, bez prób z ogniem.
+
+@586
+H: Pracujesz ze światłem jak z narzędziem: wytwarzasz je, przesyłasz, przekształcasz i wykrywasz. Z tego powstają na przykład światłowody, czujniki i przyrządy medyczne.
+T: Projektujesz układy do przesyłu światła | Budujesz i testujesz elementy z użyciem światła | Mierzysz, jak światło zachowuje się w układzie | Wdrażasz rozwiązania w łączności lub czujnikach
+D: 8:30 Ustawiasz na stole układ optyczny do pomiarów | 10:30 Mierzysz, ile światła dociera na koniec światłowodu | 13:30 Testujesz czujnik reagujący na światło w urządzeniu | 16:00 Opisujesz wyniki i planujesz następną wersję układu
+Y: Postaw szklankę z wodą w słonecznym oknie i opisz plamy światła na kartce za nią.
+
+@587
+H: Projektujesz soczewki i układy optyczne do mikroskopów, obiektywów, teleskopów i innych urządzeń. Liczysz, jak biegnie światło przez każdy element, żeby obraz był ostry.
+T: Projektujesz soczewki i zwierciadła | Obliczasz bieg promieni światła | Dobierasz kształt i rodzaj szkła soczewek | Testujesz ostrość obrazu w gotowym urządzeniu
+D: 8:00 Na komputerze symulujesz bieg promieni w obiektywie | 10:30 Poprawiasz kształt soczewki, żeby usunąć rozmycie | 13:00 Porównujesz w laboratorium ostrość obrazu z prototypu | 16:00 Omawiasz z producentem sposób wykonania soczewek
+Y: Spójrz na tekst przez lupę lub okulary i zapisz, w jakiej odległości od oka obraz jest ostry.
+
+@588
+H: Zajmujesz się dźwiękiem w pomieszczeniach i poza nimi: dobierasz materiały, by w sali było dobrze słychać, i sprawdzasz, czy hałas nie przekracza norm. Pracujesz przy studiach nagrań, salach koncertowych i budynkach.
+T: Mierzysz, jak dźwięk odbija się w sali | Dobierasz panele i materiały wygłuszające | Sprawdzasz poziom hałasu zgodnie z normami | Doradzasz przy budowie studia nagrań
+D: 8:30 Jedziesz do sali, w której za bardzo słychać echo | 10:00 Odtwarzasz dźwięki testowe i mierzysz, jak wracają | 13:00 Dobierasz panele, które wyciszą pogłos w sali | 15:30 Mierzysz hałas przy osiedlu obok nowej hali
+Y: Klaśnij w dłonie w trzech pomieszczeniach domu i zapisz, w którym echo trwa najdłużej.
+
+@589
+H: Wymyślasz nowe tkaniny, skóry i konstrukcje butów albo ulepszasz te, które już są. Wiedzę o materiałach, chemii i produkcji łączysz w projektach z projektantami i technologami.
+T: Badasz właściwości tkanin i skór | Testujesz, jak materiały wytrzymują zginanie i tarcie | Opracowujesz nowe materiały do ubrań i butów | Łączysz pomysły projektantów z możliwościami produkcji
+D: 8:30 Rozciągasz próbkę tkaniny i zapisujesz, kiedy pęka | 10:30 Naradzasz się z projektantami nad nową podeszwą | 13:00 Testujesz, ile zgięć wytrzyma materiał na cholewkę | 15:30 Sprawdzasz, czy fabryka potrafi uszyć nowy materiał
+Y: Porównaj trzy materiały z szafy i oceń, który jest najbardziej rozciągliwy, a który najsztywniejszy.
+
+@590
+H: Planujesz, jak bezpiecznie rozebrać budynek, maszynę lub instalację, która kończy służbę. Liczysz etapy, harmonogram i kolejność prac, a polecenia przekazujesz kierownikom ekip, których pracę nadzorujesz.
+T: Badasz konstrukcję budynku przed rozbiórką | Planujesz kolejność i harmonogram prac | Przekazujesz instrukcje kierownikom ekip | Nadzorujesz przebieg rozbiórki na miejscu
+D: 7:00 Obchodzisz obiekt i sprawdzasz, co trzyma konstrukcję | 9:00 Odprawa z kierownikami ekip i podział zadań | 12:00 Nadzorujesz rozbiórkę ściany ze stanowiska poza strefą | 15:30 Zmieniasz harmonogram po odkryciu nieznanej instalacji
+Y: Zbuduj z klocków małą wieżę i zapisz, w jakiej kolejności trzeba ją rozebrać, żeby się nie zawaliła.
+
+@591
+H: Nadzorujesz utrzymanie wyposażenia lotniska: oświetlenia, systemu bagażowego, nawierzchni, odwodnienia i pojazdów obsługi. Pilnujesz, żeby wszystko działało, a samoloty mogły bezpiecznie startować i lądować.
+T: Nadzorujesz przeglądy oświetlenia i znaków na lotnisku | Kontrolujesz stan nawierzchni i odwodnienia | Planujesz naprawy systemu bagażowego | Zarządzasz przeglądami pojazdów i sprzętu
+D: 5:30 Przed pierwszymi lotami sprawdzasz światła na płycie | 9:00 Stoi taśma bagażowa, ustalasz z ekipą naprawę | 12:00 Po ulewie sprawdzasz odpływ wody z pasa | 15:00 Z technikiem robisz przegląd pojazdów obsługi lotniska
+Y: Wypisz pięć rzeczy w swoim budynku lub szkole, które ktoś musi regularnie sprawdzać.
+
+@592
+H: Pilnujesz kosztów projektu budowlanego od pierwszego planu do oddania obiektu. Liczysz, ile co kosztuje, porównujesz z budżetem i pilnujesz, żeby pieniądze nie uciekały, a jakość się nie pogorszyła.
+T: Liczysz koszty materiałów i robót | Porównujesz wydatki z budżetem projektu | Rozliczasz wykonane prace z wykonawcami | Zgłaszasz, gdy koszty wychodzą poza plan
+D: 8:00 Porównujesz faktury wykonawców z zapisami umów | 10:00 Na budowie mierzysz, ile prac faktycznie wykonano | 13:00 Aktualizujesz tabelę kosztów całego projektu | 15:30 Omawiasz z kierownikiem rosnące koszty fundamentów
+Y: Zaplanuj budżet przemalowania pokoju, wypisz pięć pozycji z wymyślonymi cenami i zsumuj je.
+
+@593
+H: Wchodzisz do projektu na samym końcu: sprawdzasz, czy zainstalowane urządzenia i instalacje działają tak, jak obiecano. Twoja zgoda kończy projekt.
+T: Uruchamiasz zainstalowane urządzenia po raz pierwszy | Sprawdzasz, czy spełniają wymagania i specyfikacje | Zapisujesz usterki i pilnujesz ich poprawy | Podpisujesz zakończenie projektu po pomyślnych testach
+D: 7:30 Czytasz listę wymagań dla nowej instalacji | 9:00 Z wykonawcą uruchamiasz urządzenia krok po kroku | 12:00 Pompa nie osiąga wymaganej wydajności, zapisujesz usterkę | 16:00 Wykonawca poprawia usterkę, sprawdzasz drugi raz
+Y: Sprawdź po kolei, czy wszystkie zamki, paski i kieszenie w plecaku działają, i zapisz usterki.
+
+@594
+H: Planujesz i wykonujesz badania jakości na kolejnych etapach projektu, żeby sprawdzić, czy systemy działają poprawnie. Zebrane dane analizujesz i opisujesz w sprawozdaniu, a podczas prób odpowiadasz za bezpieczeństwo.
+T: Planujesz przebieg badań i prób | Przeprowadzasz testy na kolejnych etapach projektu | Analizujesz zebrane dane | Piszesz sprawozdania i pilnujesz bezpieczeństwa prób
+D: 8:00 Układasz plan testów dla nowego prototypu | 10:00 Przeprowadzasz próbę i obserwujesz wskazania mierników | 13:00 Przeglądasz dane, szukając odchyleń od normy | 15:30 Piszesz sprawozdanie dla zespołu konstruktorów
+Y: Zaplanuj prosty test, który z trzech długopisów pisze dłużej bez przerwy, i wykonaj go.
+
+@595
+H: Odpowiadasz za to, żeby nowe rozwiązanie techniczne naprawdę zaczęło działać u klienta. Wdrażasz ulepszenia, odpowiadasz na pytania o to, jak coś działa, i pomagasz zespołowi sprzedaży.
+T: Wdrażasz ulepszenie projektu lub procesu | Udzielasz wsparcia technicznego klientom | Tłumaczysz klientom, jak działa produkt | Pomagasz sprzedawcom w sprawach technicznych
+D: 8:30 Przeglądasz zgłoszenia klientów z problemami z produktem | 10:30 U klienta uruchamiasz nowy system na miejscu | 13:30 Pokazujesz pracownikom klienta, jak obsługiwać urządzenie | 16:00 Przygotowujesz sprzedawców do spotkania z technicznym klientem
+Y: Wytłumacz komuś w domu w pięciu krokach, jak obsługiwać dowolny przedmiot, i sprawdź, czy wyjaśnienie było jasne.
+
+@596
+H: Pomagasz firmom chronić ich wynalazki. Analizujesz pomysł, sprawdzasz, czy ktoś nie dostał już patentu na coś podobnego, i oceniasz, czy wynalazek ma szansę zarabiać.
+T: Analizujesz opisy wynalazków | Szukasz istniejących patentów w bazach | Oceniasz potencjał rynkowy wynalazku | Doradzasz, czy ktoś nie narusza cudzych praw
+D: 8:30 Wynalazca opisuje swoje urządzenie, ty robisz notatki | 10:30 Szukasz w bazach, czy podobny pomysł już istnieje | 13:00 Porównujesz opis rozwiązania z cudzymi patentami | 16:00 Piszesz firmie opinię, czy warto zgłaszać wynalazek
+Y: Wymyśl ulepszenie zwykłego kubka i poszukaj w internecie, czy podobny pomysł już istnieje.
+
+@597
+H: Projektujesz roboty i sprawiasz, że poruszają się i reagują na otoczenie. Łączysz mechanikę, elektronikę i programowanie, a wiele czasu spędzasz na testowaniu prototypów.
+T: Projektujesz mechanikę i ruch robota | Dobierasz czujniki i silniki do robota | Piszesz programy sterujące robotem | Testujesz prototypy i poprawiasz błędy
+D: 8:30 Szukasz, dlaczego ramię robota drży przy chwytaniu | 10:30 Poprawiasz program, który steruje chwytakiem | 13:30 Montujesz w prototypie nowy czujnik odległości | 16:00 Testujesz robota na torze z przeszkodami
+Y: Napisz instrukcje krok po kroku, jak przejść z pokoju do kuchni, i poproś kogoś, by wykonał je dosłownie.
+
+@598
+H: Automatyzujesz produkcję: projektujesz systemy, w których maszyny i roboty wykonują powtarzalne zadania zamiast ludzi. Pilnujesz, żeby cała linia działała sprawnie i bezpiecznie.
+T: Projektujesz zautomatyzowane linie produkcyjne | Dobierasz roboty przemysłowe i sterowniki | Programujesz sekwencje pracy maszyn | Wyszukujesz przyczyny przestojów linii
+D: 6:30 Linia stoi od nocy, szukasz przyczyny awarii | 9:00 Programujesz nową kolejność ruchów robota pakującego | 12:30 Testujesz, czy maszyna staje po otwarciu osłony | 15:00 Spotkanie z produkcją o kolejnych zadaniach do automatyzacji
+Y: Opisz na kartce, jak zautomatyzować podlewanie rośliny: co układ ma mierzyć, a co robić.
+
+@599
+H: Analizujesz, jak działa produkcja w zakładzie, i szukasz miejsc, gdzie coś zwalnia albo się marnuje. Układasz plan produkcji tak, żeby wszystko powstawało na czas i bez zbędnych przestojów.
+T: Analizujesz dane o wynikach produkcji | Wskazujesz wąskie gardła w procesie | Układasz harmonogram pracy maszyn i ludzi | Wprowadzasz zmiany, które przyspieszają produkcję
+D: 7:00 Czytasz raport z nocnej zmiany i liczbę wyrobów | 9:00 Obserwujesz linię i mierzysz czas każdego etapu | 12:00 Widzisz, że jedna maszyna opóźnia cały proces | 14:30 Układasz nowy harmonogram i omawiasz go z kierownikiem
+Y: Zmierz, ile minut zajmuje Ci przygotowanie do wyjścia, rozbij je na etapy i wskaż najdłuższy.
+

@@ -1,0 +1,729 @@
+# Profil grupy zawodow: umiejetnosci (S), plusy (P), minusy (M), drogi (R).
+# Naglowek: #kod [=kod_wzorca] Nazwa. Makra drog: BR x | TE x | ST x [lata] | PO x | KU x [lata] | PR [x] | AW x.
+# Wlasna droga: R Nazwa: typ=Tytul=lata > typ=Tytul=lata
+
+#011 Oficerowie
+S Dowodzenie ludźmi/P, Odporność na stres/P, Sprawność fizyczna/N, Planowanie działań/L, Znajomość sprzętu/R, Dyscyplina/P
+P Jasna ścieżka awansu; Silny, zgrany zespół; Stabilne zatrudnienie
+M Ścisła hierarchia i rozkazy; Częste przeprowadzki i wyjazdy; Ryzyko podczas misji
+R Akademia wojskowa: szkola=Szkoła średnia z maturą=4 > egzamin=Rekrutacja z testami sprawnościowymi i badaniami=0 > studia=Studia w akademii wojskowej=5
+R Po studiach cywilnych: szkola=Szkoła średnia z maturą=4 > studia=Studia cywilne=3 > kurs=Szkolenie oficerskie=1
+#021 Podoficerowie
+S Sprawność fizyczna/N, Kierowanie małym zespołem/P, Obsługa sprzętu/R, Dyscyplina/P, Odporność na stres/P, Praca w terenie/N
+P Stabilne zatrudnienie; Zgrany zespół; Możliwość zdobycia specjalizacji
+M Ścisła hierarchia; Służba o różnych porach i w różnych miejscach; Wysiłek fizyczny i ryzyko
+R Służba wojskowa: szkola=Szkoła średnia=4 > egzamin=Rekrutacja z testami sprawnościowymi i badaniami=0 > kurs=Szkolenie podstawowe=0.5 > kurs=Szkoła podoficerska=1
+#031 =021 Żołnierze
+R Służba wojskowa: szkola=Szkoła średnia lub branżowa=3 > egzamin=Rekrutacja z testami sprawnościowymi i badaniami=0 > kurs=Szkolenie podstawowe=0.5 > kurs=Szkolenie specjalistyczne=0.5
+
+#111 Politycy i wyżsi urzędnicy
+S Przemawianie i przekonywanie/S, Rozumienie prawa/S, Negocjacje/P, Analiza danych i budżetu/L, Odporność na krytykę/P, Budowanie zespołu/P
+P Realny wpływ na życie wielu ludzi; Różnorodne tematy; Kontakt z ciekawymi ludźmi
+M Ciągła ocena publiczna; Długie godziny pracy; Kadencje i niepewność stanowiska
+R Studia i praca w urzędzie: szkola=Liceum=4 > studia=Studia, np. prawo, administracja, politologia lub ekonomia=5 > praktyka=Staż w urzędzie lub biurze poselskim=0.5 > praktyka=Kilka lat pracy i awans=5
+R Działalność społeczna: praktyka=Samorząd uczniowski i wolontariat=0 > praktyka=Organizacja pozarządowa lub młodzieżówka=2 > egzamin=Start w wyborach lokalnych=0
+#112 Dyrektorzy generalni
+S Kierowanie ludźmi/P, Podejmowanie decyzji/L, Finanse firmy/L, Negocjacje/P, Znajomość branży/L, Odporność na stres/P
+P Duży wpływ na firmę; Różnorodne wyzwania; Praca z ludźmi z wielu działów
+M Duża odpowiedzialność; Długie godziny pracy; Trudne decyzje o ludziach
+R AW ekonomia, zarządzanie lub kierunek branżowy
+#121 =112 Kierownicy administracji i strategii
+#122 =112 Kierownicy sprzedaży i marketingu
+S Kierowanie zespołem/P, Rozumienie klienta/P, Analiza wyników sprzedaży/L, Negocjacje/P, Pomysłowość/O, Jasna komunikacja/S
+R AW marketing, zarządzanie lub ekonomia
+#131 =112 Kierownicy w rolnictwie i rybactwie
+S Kierowanie ludźmi/P, Wiedza o uprawach lub hodowli/N, Planowanie i budżet/L, Obsługa maszyn/R, Decyzje pod presją pogody/N, Negocjacje z odbiorcami/P
+R AW rolnictwo, zootechnika lub pokrewny
+R Od praktyki: szkola=Technikum rolnicze=5 > praktyka=Praca w gospodarstwie=3 > praktyka=Prowadzenie własnego lub cudzego gospodarstwa=0
+#132 =112 Kierownicy produkcji
+S Kierowanie zespołem/P, Znajomość procesu produkcji/R, Planowanie i terminy/L, Dbałość o bezpieczeństwo/R, Rozwiązywanie problemów/L, Jasna komunikacja/P
+R AW kierunek techniczny, logistyka lub zarządzanie produkcją
+R Od stanowiska: szkola=Technikum lub szkoła branżowa=4 > praktyka=Praca na produkcji lub w magazynie=3 > praktyka=Brygadzista lub lider zmiany=2
+#133 =112 Kierownicy IT
+S Kierowanie zespołem/P, Rozumienie technologii/L, Planowanie projektów/L, Rozmowa z biznesem/P, Budżet i priorytety/L, Zarządzanie ryzykiem/L
+R AW informatyka lub pokrewny
+#134 =112 Kierownicy usług profesjonalnych
+#141 =112 Kierownicy hoteli i restauracji
+S Kierowanie zespołem/P, Obsługa gości/P, Organizacja pracy/L, Liczenie kosztów/L, Spokój w godzinach szczytu/P, Dbałość o standard/O
+R Od stanowiska: szkola=Technikum hotelarskie lub gastronomiczne=5 > praktyka=Praca w recepcji, na sali lub w kuchni=2 > praktyka=Kierownik zmiany=2
+R AW turystyka, hotelarstwo lub zarządzanie
+#142 =112 Kierownicy sklepów i hurtowni
+S Kierowanie zespołem/P, Obsługa klienta/P, Planowanie zamówień/L, Liczenie wyników/L, Układ i wygląd sklepu/O, Rozwiązywanie konfliktów/P
+R Od sprzedawcy: szkola=Szkoła średnia lub branżowa=3 > praktyka=Praca jako sprzedawca=2 > praktyka=Zastępca kierownika=1
+R AW handel, zarządzanie lub ekonomia
+#143 =112 Kierownicy sportu, rekreacji i kultury
+S Kierowanie zespołem/P, Organizacja wydarzeń/P, Budżet obiektu/L, Znajomość sportu lub kultury/N, Kontakt z gośćmi/P, Dbałość o bezpieczeństwo/R
+R AW zarządzanie, turystyka, sport lub kultura
+
+#211 Fizycy, chemicy i geolodzy
+S Matematyka/L, Dociekliwość/L, Praca w laboratorium lub terenie/N, Dokładność pomiarów/L, Angielski naukowy/S, Opisywanie wyników/S
+P Odkrywasz, jak działa świat; Praca w nauce lub przemyśle; Dużo samodzielnego myślenia
+M Długa nauka; Wyniki przychodzą powoli; Praca zależna od grantów lub projektów
+R ST fizyka, chemia, geologia lub pokrewny 5
+R Kariera naukowa: szkola=Liceum z rozszerzoną matematyką i przedmiotem ścisłym=4 > studia=Studia magisterskie=5 > studia=Doktorat=4
+#212 Matematycy i statystycy
+S Matematyka/L, Logiczne myślenie/L, Programowanie/L, Dokładność/L, Tłumaczenie wyników/S, Cierpliwość do trudnych zadań/L
+P Umiejętności potrzebne w wielu branżach; Dużo samodzielnego myślenia; Możliwa praca zdalna
+M Dużo czasu przy komputerze; Abstrakcyjne problemy; Wymaga ciągłej nauki
+R ST matematyka, statystyka lub analiza danych 5
+#213 Biolodzy i specjaliści środowiska
+S Wiedza przyrodnicza/N, Obserwacja/N, Praca w laboratorium lub terenie/N, Analiza danych/L, Pisanie raportów/S, Cierpliwość/N
+P Praca blisko przyrody; Realny wpływ na środowisko; Różnorodne projekty
+M Praca w terenie w każdą pogodę; Długa nauka; Wyniki przychodzą powoli
+R ST biologia, ochrona środowiska, biotechnologia lub rolnictwo 5
+#214 Inżynierowie
+S Matematyka i fizyka/L, Rysunek techniczny/R, Rozwiązywanie problemów/L, Programy do projektowania/L, Dokładność/R, Praca w zespole/P
+P Widzisz, jak projekt staje się rzeczą; Umiejętności potrzebne w wielu branżach; Różne specjalizacje
+M Duża odpowiedzialność za bezpieczeństwo; Trudne studia; Presja terminów
+R Studia inżynierskie: szkola=Liceum lub technikum z mocną matematyką i fizyką=4 > studia=Studia inżynierskie na wybranym kierunku=3.5 > praktyka=Praktyki w zakładzie lub biurze projektowym=0.5
+R Przez technikum: szkola=Technikum w zawodzie technicznym=5 > studia=Studia inżynierskie, także zaoczne=3.5 > praktyka=Praca jako technik w trakcie studiów=0
+#215 =214 Inżynierowie elektrycy i elektronicy
+S Matematyka i fizyka/L, Czytanie schematów/L, Elektronika i pomiary/R, Programowanie urządzeń/L, Dokładność/R, Dbałość o bezpieczeństwo/R
+#216 Architekci i projektanci
+S Wyobraźnia przestrzenna/O, Rysunek/O, Programy do projektowania/L, Rozumienie potrzeb ludzi/P, Wyczucie estetyki/O, Dokładność/L
+P Twoje projekty widać w świecie; Łączy sztukę z techniką; Każde zlecenie jest inne
+M Wiele poprawek po uwagach klienta; Presja terminów; Efekt zależy też od budżetu
+R ST architektura, wzornictwo lub projektowanie 3.5
+R Portfolio: kurs=Kurs rysunku i programów do projektowania=1 > projekt=Własne projekty i portfolio=1 > praktyka=Staż w pracowni projektowej=0.5
+#2161 =216 Architekci budowlani
+R Studia i uprawnienia: szkola=Liceum lub technikum; przyda się rysunek i matematyka=4 > kurs=Kurs rysunku przed egzaminem na studia=0.5 > studia=Studia z architektury=5 > praktyka=Praktyka w pracowni i na budowie=2 > egzamin=Uprawnienia budowlane=0
+#2162 =2161 Architekci krajobrazu
+#2164 =216 Urbaniści i inżynierowie ruchu
+R ST gospodarka przestrzenna, architektura lub transport 5
+#2165 =214 Kartografowie i geodeci
+S Matematyka/L, Dokładność pomiarów/L, Praca w terenie/N, Obsługa sprzętu pomiarowego/R, Programy do map/L, Orientacja w przestrzeni/O
+R TE technik geodeta
+R ST geodezja i kartografia 3.5
+#2166 Projektanci grafiki i multimediów
+S Wyczucie koloru i kompozycji/O, Rysunek/O, Programy graficzne/O, Słuchanie klienta/P, Pomysłowość/O, Pilnowanie terminów/L
+P Twoje prace widać w sieci i na mieście; Każdy projekt jest inny; Możliwa praca na własny rachunek
+M Dużo poprawek po uwagach; Krótkie terminy; Gust bywa sporny
+R Portfolio: kurs=Kurs programów graficznych=0.5 > projekt=Własne projekty i zlecenia dla znajomych=1 > projekt=Portfolio w sieci=0 > praktyka=Staż w studiu lub agencji=0.5
+R Szkoła plastyczna: szkola=Liceum sztuk plastycznych=5 > projekt=Portfolio z najlepszymi pracami=0 > praktyka=Praktyki w studiu graficznym=0.5
+R ST grafika lub projektowanie
+#2513 =2166 Projektanci stron internetowych i multimediów
+S Wyczucie estetyki/O, Logiczne myślenie/L, Podstawy kodu stron/L, Rozumienie użytkownika/P, Programy do projektowania/O, Dokładność/L
+
+#221 Lekarze
+S Wiedza medyczna/N, Uważne słuchanie/P, Kojarzenie faktów/L, Podejmowanie decyzji/L, Opanowanie/P, Wytrwałość w nauce/N
+P Leczysz ludzi; Zawód stabilny i szanowany; Ciągle uczysz się nowych rzeczy
+M Bardzo długa nauka; Duża odpowiedzialność; Dyżury i mało czasu na pacjenta
+R Studia lekarskie: szkola=Liceum z rozszerzoną biologią i chemią=4 > studia=Studia lekarskie=6 > praktyka=Staż podyplomowy=1 > egzamin=Lekarski Egzamin Końcowy=0 > praktyka=Specjalizacja=5
+#222 Pielęgniarki i położne
+S Opanowanie/P, Empatia/P, Wiedza o ciele i lekach/N, Zręczne ręce/R, Dokładność/L, Kondycja/N
+P Codziennie komuś realnie pomagasz; Pracę znajdziesz wszędzie; Wiele specjalizacji
+M Zmiany nocne i świąteczne; Praca ciężka fizycznie i psychicznie; Kontakt z cierpieniem
+R Studia: szkola=Liceum, najlepiej z biologią i chemią=4 > studia=Studia licencjackie z pielęgniarstwa lub położnictwa=3 > egzamin=Prawo wykonywania zawodu=0
+#223 Medycyna komplementarna
+S Wiedza o ciele/N, Uważne słuchanie/P, Sprawne ręce/R, Cierpliwość/P, Uczciwość wobec pacjenta/P, Obserwacja/N
+P Bliski kontakt z pacjentem; Możliwość własnego gabinetu; Spokojniejsze tempo niż w szpitalu
+M Część metod nie ma potwierdzenia naukowego; Trzeba samemu zdobywać klientów; Odpowiedzialność za czyjeś zdrowie
+R KU Kurs lub szkoła wybranej metody terapii 2
+R ST fizjoterapia lub inny kierunek medyczny 5
+#224 =222 Ratownicy medyczni
+R Studia: szkola=Liceum, najlepiej z biologią=4 > kurs=Kurs pierwszej pomocy=0 > studia=Studia licencjackie z ratownictwa medycznego=3 > egzamin=Prawo wykonywania zawodu=0
+#225 Lekarze weterynarii
+S Wiedza o zwierzętach/N, Spostrzegawczość/N, Pewne ręce/R, Rozmowa z właścicielami/P, Opanowanie/P, Kojarzenie objawów/L
+P Ratujesz zwierzęta; Każdy pacjent to inna zagadka; Możliwy własny gabinet
+M Zwierzę może ugryźć lub kopnąć; Czasem trzeba je uśpić; Dyżury i nagłe wezwania
+R Studia weterynaryjne: szkola=Liceum z biologią i chemią=4 > praktyka=Wolontariat w schronisku lub lecznicy=0 > studia=Studia weterynaryjne=5.5 > egzamin=Prawo wykonywania zawodu=0
+#226 Dentyści, farmaceuci, fizjoterapeuci
+S Wiedza medyczna/N, Dokładność/L, Sprawne ręce/R, Rozmowa z pacjentem/P, Cierpliwość/P, Ciągła nauka/N
+P Pomagasz ludziom wrócić do zdrowia; Stabilny zawód; Możliwy własny gabinet lub apteka
+M Długie, trudne studia; Odpowiedzialność za zdrowie; Wiele godzin na stojąco lub w pochyleniu
+R Studia medyczne: szkola=Liceum z biologią i chemią=4 > studia=Jednolite studia magisterskie na wybranym kierunku medycznym=5 > praktyka=Staż lub praktyka zawodowa=0.5 > egzamin=Prawo wykonywania zawodu=0
+
+#231 Nauczyciele akademiccy
+S Głęboka wiedza z dziedziny/L, Prowadzenie zajęć/P, Pisanie tekstów naukowych/S, Dociekliwość/L, Angielski naukowy/S, Cierpliwość/P
+P Zajmujesz się tym, co Cię pasjonuje; Praca z młodymi dorosłymi; Dużo swobody w wyborze tematów
+M Bardzo długa droga; Presja publikacji i grantów; Mało etatów
+R Kariera naukowa: szkola=Liceum=4 > studia=Studia magisterskie=5 > studia=Doktorat=4 > praktyka=Prowadzenie zajęć w trakcie doktoratu=0
+#232 Nauczyciele zawodu
+S Doświadczenie w zawodzie/R, Tłumaczenie krok po kroku/P, Cierpliwość/P, Pokaz praktyczny/R, Dbałość o bezpieczeństwo/R, Ocenianie postępów/L
+P Przekazujesz fach młodym; Łączysz praktykę z nauczaniem; Wolne w wakacje
+M Trzeba łączyć wiedzę z dwóch światów; Praca z bardzo różnymi uczniami; Sprzęt w szkołach bywa stary
+R Zawód i pedagogika: szkola=Technikum lub szkoła branżowa w zawodzie=5 > praktyka=Kilka lat pracy w zawodzie=3 > kurs=Przygotowanie pedagogiczne=1
+R ST kierunek zgodny z zawodem z przygotowaniem pedagogicznym 5
+#233 Nauczyciele szkół średnich
+S Wiedza z przedmiotu/S, Tłumaczenie trudnych rzeczy prosto/S, Panowanie nad grupą/P, Cierpliwość/P, Pomysłowość/O, Organizacja/L
+P Widzisz postępy uczniów; Wolne w wakacje i ferie; Każda klasa jest inna
+M Hałas i ciągła uwaga; Sprawdzanie prac po lekcjach; Trudne rozmowy z rodzicami
+R Studia nauczycielskie: szkola=Liceum=4 > praktyka=Korepetycje lub wolontariat z młodzieżą=0 > studia=Studia magisterskie z przedmiotu z przygotowaniem pedagogicznym=5 > praktyka=Praktyki w szkole w trakcie studiów=0
+#234 =233 Nauczyciele szkół podstawowych i przedszkoli
+S Cierpliwość/P, Tłumaczenie prostym językiem/S, Panowanie nad grupą/P, Pomysłowość w zabawie/O, Uważność na dziecko/P, Organizacja/L
+R Studia pedagogiczne: szkola=Liceum=4 > praktyka=Opieka nad dziećmi, np. na półkoloniach=0 > studia=Jednolite studia z pedagogiki przedszkolnej i wczesnoszkolnej=5 > praktyka=Praktyki w szkole lub przedszkolu=0
+#235 =233 Pedagodzy, lektorzy i instruktorzy
+S Tłumaczenie krok po kroku/S, Cierpliwość/P, Uważność na ucznia/P, Wiedza z dziedziny/S, Pomysłowość/O, Organizacja zajęć/L
+R ST pedagogika, filologia lub kierunek artystyczny z przygotowaniem pedagogicznym 5
+R Własne zajęcia: kurs=Kurs instruktorski lub certyfikat z dziedziny=0.5 > praktyka=Prowadzenie zajęć, np. korepetycji lub warsztatów=1
+
+#241 Księgowi, doradcy i analitycy finansowi
+S Liczby i dokładność/L, Rozumienie przepisów/S, Arkusz kalkulacyjny/L, Uczciwość i dyskrecja/P, Tłumaczenie klientowi/P, Terminowość/L
+P Potrzebni w każdej firmie; Stabilna praca; Możliwe własne biuro
+M Gorące okresy przed terminami; Przepisy często się zmieniają; Dużo pracy przy komputerze
+R ST finanse i rachunkowość lub ekonomia
+R Kurs i praktyka: szkola=Technikum ekonomiczne lub liceum=4 > kurs=Kurs księgowości=0.5 > praktyka=Praca w biurze rachunkowym=1
+#2631 =241 Ekonomiści
+R ST ekonomia lub pokrewny 5
+#242 Specjaliści HR i organizacji
+S Rozmowa z ludźmi/P, Słuchanie/P, Organizacja/L, Znajomość prawa pracy/S, Dyskrecja/P, Analiza danych/L
+P Pomagasz ludziom rozwijać się w pracy; Dużo kontaktu z ludźmi; Potrzebni w każdej większej firmie
+M Trudne rozmowy, np. o zwolnieniach; Presja z dwóch stron; Dużo dokumentów
+R ST zarządzanie, psychologia, socjologia lub prawo
+R Kurs i staż: szkola=Szkoła średnia=4 > kurs=Kurs z wybranej specjalizacji=0.5 > praktyka=Staż w dziale kadr lub agencji=0.5
+#243 Specjaliści marketingu, PR i sprzedaży
+S Pisanie i jasny przekaz/S, Rozumienie klienta/P, Pomysłowość/O, Analiza wyników/L, Media społecznościowe/S, Odporność na odmowę/P
+P Dużo kreatywności; Szybko widać efekty; Praca z ludźmi i mediami
+M Presja wyników; Krótkie terminy; Trendy zmieniają się bardzo szybko
+R ST marketing, komunikacja, dziennikarstwo lub zarządzanie
+R Własne projekty: kurs=Kurs marketingu internetowego=0.5 > projekt=Prowadzenie profilu szkoły, klubu lub małej firmy=1 > praktyka=Staż w agencji lub dziale marketingu=0.5
+
+#251 Programiści i analitycy
+S Logiczne myślenie/L, Programowanie/L, Angielski techniczny/S, Cierpliwość do błędów/L, Praca w zespole/P, Samodzielna nauka/L
+P Widzisz efekt swojej pracy na ekranie; Często możliwa praca zdalna; Ciągle uczysz się nowych rzeczy
+M Wiele godzin przed ekranem; Technologie szybko się zmieniają; Błędy potrafią frustrować
+R Przez studia: szkola=Liceum lub technikum z mocną matematyką=4 > projekt=Własne małe projekty pokazane w sieci=0 > studia=Studia informatyczne=3.5 > praktyka=Staż w firmie technologicznej=0.5
+R Przez technikum: szkola=Technikum informatyczne lub programistyczne=5 > projekt=Portfolio własnych projektów=0 > praktyka=Staż lub pierwsza praca na młodszym stanowisku=0.5
+R Samodzielnie: kurs=Kurs podstaw z wybranej dziedziny=0.5 > projekt=Trzy własne projekty, coraz trudniejsze=1 > praktyka=Staż albo zlecenia dla małych firm=0.5
+#252 =251 Bazy danych i sieci
+S Logiczne myślenie/L, Systemy i sieci komputerowe/L, Dokładność/L, Dbałość o bezpieczeństwo/L, Angielski techniczny/S, Spokój podczas awarii/P
+M Dyżury i awarie o różnych porach; Technologie szybko się zmieniają; Duża odpowiedzialność za dane
+#261 Prawnicy
+S Czytanie ze zrozumieniem/S, Logiczne argumentowanie/L, Precyzyjne pisanie/S, Dobra pamięć/S, Rozmowa z klientem/P, Odporność na stres/P
+P Pomagasz ludziom w trudnych sprawach; Zawód cieszy się szacunkiem; Wiedza przydaje się też prywatnie
+M Bardzo długa droga do zawodu; Dużo czytania i dokumentów; Odpowiedzialność za cudze sprawy
+R Studia i aplikacja: szkola=Liceum z mocną historią, WOS-em i polskim=4 > studia=Studia prawnicze=5 > egzamin=Egzamin wstępny na aplikację=0 > praktyka=Aplikacja=3 > egzamin=Egzamin zawodowy=0.5
+R Bez aplikacji: szkola=Liceum=4 > studia=Studia prawnicze=5 > praktyka=Praca w kancelarii, urzędzie lub firmie=1
+#262 Archiwiści, muzealnicy, bibliotekarze
+S Porządkowanie informacji/L, Wiedza o historii i kulturze/S, Dokładność/L, Praca z ludźmi/P, Dbałość o zbiory/R, Opowiadanie/S
+P Praca blisko kultury i historii; Spokojne tempo; Ciągły kontakt z wiedzą
+M Mało etatów; Praca bywa samotna; Dużo żmudnego porządkowania
+R ST historia, historia sztuki, bibliotekoznawstwo lub archiwistyka 5
+#263 Nauki społeczne i religia
+S Analiza i wyciąganie wniosków/L, Rozumienie ludzi/P, Pisanie/S, Prowadzenie badań/L, Słuchanie/P, Krytyczne myślenie/S
+P Zajmujesz się tym, jak żyją ludzie; Różne miejsca pracy; Dużo samodzielnego myślenia
+M Wyniki trudno zmierzyć; Zwykle potrzebne studia magisterskie; Mało stanowisk czysto badawczych
+R ST socjologia, filozofia, historia, politologia lub pokrewny 5
+#2634 Psycholodzy
+S Uważne słuchanie/P, Empatia/P, Analityczne myślenie/L, Dyskrecja/P, Odporność psychiczna/P, Jasne mówienie/S
+P Widzisz, jak ludzie stają na nogi; Wiele ścieżek, od szkoły po sport; Lepiej rozumiesz siebie i innych
+M Cudze problemy obciążają; Efekty przychodzą powoli; Trzeba stale się szkolić
+R Studia psychologiczne: szkola=Liceum; przyda się biologia=4 > studia=Jednolite studia magisterskie z psychologii=5 > praktyka=Staż lub wolontariat w poradni, szkole albo szpitalu=1 > kurs=Szkolenia w wybranej dziedzinie=1
+#2635 =341 Praca socjalna i doradztwo
+#2636 Działalność religijna
+S Słuchanie i rozmowa/P, Wiedza religijna/S, Przemawianie/S, Empatia/P, Organizowanie wspólnoty/P, Dyskrecja/P
+P Towarzyszysz ludziom w ważnych chwilach; Silna wspólnota; Poczucie sensu
+M Wymaga osobistego powołania; Dyspozycyjność także w święta; Trudne rozmowy o stracie
+R Formacja: szkola=Szkoła średnia z maturą=4 > studia=Studia teologiczne lub formacja we wspólnocie=5
+#264 Pisarze, dziennikarze, tłumacze
+S Pisanie/S, Języki/S, Ciekawość/S, Sprawdzanie faktów/L, Rozmawianie z ludźmi/P, Terminowość/L
+P Pracujesz ze słowem; Każdy temat jest inny; Możliwa praca na własny rachunek
+M Presja terminów; Nieregularne dochody na początku; Dużo pracy w samotności
+R ST filologia, dziennikarstwo lub kierunek, o którym chcesz pisać
+R Własne teksty: projekt=Blog, gazetka szkolna lub pierwsze tłumaczenia=1 > praktyka=Praktyki w redakcji, wydawnictwie lub biurze tłumaczeń=0.5 > projekt=Teczka opublikowanych tekstów=0
+#2656 =264 Prezenterzy radiowi i telewizyjni
+S Wyraźne mówienie/S, Swoboda przed kamerą lub mikrofonem/P, Refleks w rozmowie/P, Ciekawość/S, Przygotowanie do tematu/L, Opanowanie na żywo/P
+#265 Artyści i twórcy
+S Talent i warsztat/O, Wyobraźnia/O, Codzienne ćwiczenie/O, Odporność na krytykę/P, Współpraca z innymi twórcami/P, Promowanie własnej pracy/S
+P Robisz to, co kochasz; Twoją pracę widzą inni; Duża swoboda twórcza
+M Niepewne i nieregularne dochody; Duża konkurencja; Praca wieczorami i w weekendy
+R Szkoła artystyczna: szkola=Szkoła lub liceum artystyczne w swojej dziedzinie=5 > egzamin=Egzamin wstępny na uczelnię artystyczną=0 > studia=Studia artystyczne=5
+R Własna twórczość: kurs=Lekcje, warsztaty lub zespół w domu kultury=2 > projekt=Własne prace, nagrania lub występy=1 > projekt=Portfolio i pierwsze zlecenia=0
+
+#311 Technicy
+S Czytanie rysunku technicznego/L, Obsługa urządzeń pomiarowych/R, Dokładność/R, Rozwiązywanie problemów/L, Programy techniczne/L, Współpraca z inżynierami/P
+P Konkretna, praktyczna praca; Umiejętności potrzebne w przemyśle; Dobra baza pod studia inżynierskie
+M Odpowiedzialność za jakość i bezpieczeństwo; Praca czasem na zmiany; Trzeba się doszkalać z nowych urządzeń
+R TE zawód techniczny zgodny z branżą
+R Po liceum: szkola=Liceum=4 > kurs=Szkoła policealna lub kurs kwalifikacyjny=2 > egzamin=Egzamin zawodowy=0
+#3111 =311 Technicy nauk chemicznych i fizycznych
+S Praca w laboratorium/N, Dokładność pomiarów/L, Chemia i fizyka/L, Zasady bezpieczeństwa/R, Prowadzenie notatek/S, Cierpliwość/N
+R TE technik analityk
+R ST chemia, fizyka lub pokrewny
+#3112 =311 Technicy budownictwa
+S Czytanie projektów budowlanych/L, Znajomość materiałów/R, Pomiary i kosztorysy/L, Pilnowanie bezpieczeństwa/R, Praca w terenie/N, Współpraca z ekipą/P
+R TE technik budownictwa
+#312 Mistrzowie produkcji
+S Kierowanie zespołem/P, Znajomość maszyn i procesu/R, Planowanie pracy zmiany/L, Dbałość o bezpieczeństwo/R, Rozwiązywanie problemów/L, Jasne polecenia/P
+P Odpowiadasz za konkretny efekt; Awans z poziomu fachowca; Praca z ludźmi i techniką
+M Odpowiedzialność za ludzi i terminy; Praca zmianowa; Presja z góry i z dołu
+R Od fachowca: szkola=Szkoła branżowa lub technikum w zawodzie=4 > praktyka=Kilka lat pracy na stanowisku=4 > egzamin=Tytuł mistrza lub kurs dla brygadzistów=0.5
+#313 Energetyka i sterowanie procesami
+S Uważne śledzenie wskaźników/L, Znajomość instalacji/R, Szybka reakcja na awarie/R, Zasady bezpieczeństwa/R, Odpowiedzialność/P, Podstawy automatyki/L
+P Stabilna praca w dużych zakładach; Odpowiedzialne stanowisko; Jasne procedury
+M Praca na zmiany, także w nocy; Duża odpowiedzialność; Monotonia przerywana nagłymi awariami
+R TE technik energetyk, elektryk, automatyk lub technolog chemiczny
+R Uprawnienia: szkola=Szkoła branżowa lub technikum=4 > kurs=Szkolenie stanowiskowe w zakładzie=0.5 > egzamin=Uprawnienia do obsługi urządzeń=0
+#314 Technicy biologii, rolnictwa i leśnictwa
+S Wiedza przyrodnicza/N, Praca w terenie/N, Dokładność pomiarów/L, Obsługa sprzętu/R, Obserwacja/N, Prowadzenie dokumentacji/S
+P Praca blisko przyrody; Konkretne, praktyczne zadania; Różne miejsca pracy
+M Praca w każdą pogodę; Sezonowość; Wysiłek fizyczny
+R TE technik rolnik, leśnik, ogrodnik lub weterynarii
+R ST rolnictwo, leśnictwo lub biologia
+#315 Piloci, oficerowie statków, kontrolerzy lotów
+S Koncentracja/L, Opanowanie/P, Angielski zawodowy/S, Fizyka i matematyka/L, Orientacja w przestrzeni/R, Bardzo dobre zdrowie/N
+P Wyjątkowy, szanowany zawód; Podróże; Jasne procedury
+M Długie i kosztowne szkolenie; Nieregularne godziny i wyjazdy; Regularne badania i egzaminy
+R Szkolenie zawodowe: szkola=Szkoła średnia; ważny angielski, matematyka i fizyka=4 > egzamin=Badania lekarskie do zawodu=0 > kurs=Szkolenie i licencja lub dyplom=2 > praktyka=Zbieranie godzin praktyki=1
+R ST lotnictwo, nawigacja lub transport ze szkoleniem zawodowym 3.5
+#321 Technicy medyczni i farmaceutyczni
+S Dokładność/L, Obsługa aparatury/R, Wiedza o ciele i lekach/N, Kontakt z pacjentem/P, Zasady higieny/N, Odpowiedzialność/P
+P Ważna rola w leczeniu; Stabilna praca; Krótsza nauka niż na studiach lekarskich
+M Praca zmianowa; Odpowiedzialność za wyniki badań; Kontakt z chorymi
+R PO technik w wybranym zawodzie medycznym
+R ST elektroradiologia, analityka medyczna lub pokrewny
+#322 =325 Asystenci pielęgniarstwa i położnictwa
+#323 =223 Asystenci medycyny komplementarnej
+#324 Technicy weterynarii
+S Opieka nad zwierzętami/N, Spokój i pewność ruchów/R, Obserwacja/N, Pomoc przy zabiegach/R, Rozmowa z właścicielami/P, Odporność na trudne widoki/N
+P Codzienny kontakt ze zwierzętami; Pomagasz je leczyć; Krótsza nauka niż na weterynarii
+M Zwierzę może ugryźć lub podrapać; Smutne przypadki; Praca fizyczna
+R TE technik weterynarii
+#325 Asystenci i technicy ochrony zdrowia
+S Empatia/P, Sprawne ręce/R, Wiedza o ciele/N, Dokładność/L, Cierpliwość/P, Kondycja/N
+P Pomagasz pacjentom na co dzień; Krótsza nauka niż na studiach; Pracę znajdziesz w wielu miejscach
+M Praca zmianowa; Wysiłek fizyczny; Kontakt z chorobą
+R PO zawód medyczny, np. asystentka stomatologiczna, technik masażysta lub opiekun medyczny
+R ST kierunek medyczny, np. ratownictwo lub dietetyka
+#3257 Inspektorzy BHP i ochrony środowiska
+S Znajomość przepisów/S, Spostrzegawczość/L, Asertywność/P, Pisanie raportów/S, Wiedza techniczna/R, Dokładność/L
+P Chronisz zdrowie ludzi; Praca w terenie i biurze; Potrzebni w wielu firmach
+M Trzeba wytykać błędy innym; Dużo dokumentów; Odpowiedzialność po wypadku
+R TE technik bezpieczeństwa i higieny pracy lub ochrony środowiska
+R ST bezpieczeństwo pracy, ochrona środowiska lub pokrewny
+
+#331 Maklerzy, kredyty, rachunkowość
+S Liczby i dokładność/L, Rozumienie rynku/L, Rozmowa z klientem/P, Uczciwość/P, Szybkie decyzje/L, Znajomość przepisów/S
+P Praca z pieniędzmi i liczbami; Jasne wyniki; Możliwość awansu
+M Presja wyników; Odpowiedzialność za cudze pieniądze; Stres przy wahaniach rynku
+R ST finanse, ekonomia lub bankowość
+R Od stanowiska: szkola=Technikum ekonomiczne lub liceum=4 > praktyka=Praca w banku lub biurze=1 > egzamin=Kursy i licencje zawodowe=0.5
+#332 Agenci, handlowcy i zaopatrzeniowcy
+S Rozmowa i przekonywanie/P, Negocjacje/P, Znajomość produktu/L, Odporność na odmowę/P, Organizacja własnej pracy/L, Liczenie marży/L
+P Dużo kontaktu z ludźmi; Wyniki zależą od Ciebie; Często samodzielna organizacja dnia
+M Presja wyników; Dużo podróży i telefonów; Częste odmowy
+R Od sprzedaży: szkola=Szkoła średnia=4 > praktyka=Praca w sprzedaży lub obsłudze klienta=1 > kurs=Szkolenia z produktu i technik sprzedaży=0
+R ST handel, zarządzanie lub ekonomia
+#333 =332 Agenci usług biznesowych
+#3331 =332 Spedytorzy
+S Organizacja i planowanie/L, Języki obce/S, Negocjacje/P, Znajomość przepisów transportu/S, Spokój pod presją czasu/P, Arkusz kalkulacyjny/L
+R TE technik spedytor lub logistyk
+R ST logistyka lub transport
+#3332 =332 Organizatorzy wydarzeń
+S Organizacja/L, Kontakt z ludźmi/P, Pomysłowość/O, Negocjacje z dostawcami/P, Spokój w nagłych sytuacjach/P, Budżet wydarzenia/L
+R Od praktyki: praktyka=Pomoc przy wydarzeniach szkolnych i wolontariat na festiwalach=1 > praktyka=Staż w agencji eventowej=0.5
+R ST turystyka, zarządzanie lub kulturoznawstwo
+#334 Kierownicy biura i sekretarze
+S Organizacja/L, Poprawne pisanie/S, Programy biurowe/L, Uprzejmy kontakt z ludźmi/P, Dyskrecja/P, Podzielność uwagi/L
+P Potrzebni w każdej firmie; Regularne godziny; Dużo kontaktu z ludźmi
+M Wiele spraw naraz; Praca pod cudze terminy; Dużo rutynowych zadań
+R TE technik administracji lub ekonomista
+R Po liceum: szkola=Liceum=4 > kurs=Kurs programów biurowych i obiegu dokumentów=0.5 > praktyka=Staż w biurze=0.5
+#335 Urzędnicy kontroli i nadzoru
+S Znajomość przepisów/S, Dokładność/L, Uczciwość/P, Asertywność/P, Pisanie pism i protokołów/S, Spostrzegawczość/L
+P Stabilna praca w administracji; Jasne zasady; Pilnujesz, by prawo działało
+M Trudne rozmowy z kontrolowanymi; Dużo dokumentów; Sztywne procedury
+R ST administracja, prawo lub ekonomia
+R Służba: szkola=Szkoła średnia z maturą=4 > egzamin=Nabór do urzędu lub służby=0 > kurs=Szkolenie zawodowe po przyjęciu=1
+#3355 =541 Policjanci służby kryminalnej
+#341 Pomoc społeczna, prawo, religia
+S Empatia/P, Słuchanie/P, Cierpliwość/P, Znajomość przepisów o pomocy/S, Odporność psychiczna/P, Organizacja wsparcia/L
+P Realnie zmieniasz czyjeś życie; Dużo kontaktu z ludźmi; Poczucie sensu
+M Trudne ludzkie historie; Efekty nie zawsze widać; Obciążenie psychiczne
+R ST praca socjalna, pedagogika lub pokrewny
+R Szkoła policealna: szkola=Szkoła średnia=4 > kurs=Szkoła policealna, np. opiekun lub asystent osoby niepełnosprawnej=1 > praktyka=Wolontariat lub praktyki w ośrodku pomocy=0
+#3411 =334 Asystenci prawni
+S Dokładność/L, Poprawne pisanie pism/S, Znajomość procedur/S, Dyskrecja/P, Organizacja dokumentów/L, Terminowość/L
+#3413 =2636 Pracownicy działalności religijnej
+#342 Sportowcy, trenerzy, instruktorzy
+S Sprawność fizyczna/N, Motywowanie ludzi/P, Wiedza o treningu i ciele/N, Systematyczność/N, Cierpliwość/P, Dbałość o bezpieczeństwo/N
+P Praca z pasją do sportu; Ruch zamiast biurka; Widzisz postępy podopiecznych
+M Praca popołudniami i w weekendy; Ryzyko kontuzji; Kariera zawodnika jest krótka
+R Kurs instruktora: praktyka=Własny regularny trening w klubie=2 > kurs=Kurs instruktora lub trenera w swojej dyscyplinie=0.5 > praktyka=Prowadzenie zajęć pod okiem trenera=0.5
+R ST wychowanie fizyczne lub sport
+#343 Technicy sztuki i kultury
+S Obsługa sprzętu scenicznego lub foto/R, Wyczucie estetyki/O, Dokładność/R, Praca w zespole/P, Spokój pod presją czasu/P, Pomysłowość/O
+P Praca przy filmie, scenie lub wystawach; Każdy projekt jest inny; Efekt widzą inni
+M Nieregularne godziny; Praca wieczorami i w weekendy; Często zlecenia zamiast etatu
+R Od praktyki: praktyka=Pomoc w szkolnym teatrze lub domu kultury=1 > kurs=Kurs z wybranej specjalizacji=0.5 > praktyka=Asystent przy produkcjach=1
+R TE technik fotografii i multimediów lub realizacji nagrań
+#3431 =2166 Fotografowie
+S Wyczucie kadru i światła/O, Obsługa aparatu/R, Obróbka zdjęć/O, Kontakt z ludźmi/P, Cierpliwość/P, Promowanie własnej pracy/S
+R Portfolio: kurs=Kurs fotografii i obróbki zdjęć=0.5 > projekt=Własne sesje i portfolio=1 > praktyka=Asysta u doświadczonego fotografa=0.5
+R TE technik fotografii i multimediów
+#3432 =216 Projektanci i dekoratorzy wnętrz
+#3434 =512 Szefowie kuchni
+R Od kucharza: szkola=Szkoła branżowa lub technikum gastronomiczne=4 > praktyka=Praca jako kucharz na kolejnych stanowiskach=4 > praktyka=Zastępca szefa kuchni=1
+#351 Technicy IT i wsparcie użytkowników
+S Znajomość sprzętu i systemów/L, Cierpliwe tłumaczenie/P, Szukanie przyczyn usterek/L, Dokładność/L, Angielski techniczny/S, Spokój przy awariach/P
+P Pomagasz ludziom od ręki; Dobry start do branży IT; Potrzebni w każdej firmie
+M Powtarzalne zgłoszenia; Zdenerwowani użytkownicy; Dyżury przy awariach
+R TE technik informatyk
+R Kurs i praktyka: kurs=Kurs z sieci i systemów lub certyfikat producenta=0.5 > praktyka=Staż w dziale wsparcia=0.5
+#352 Technicy dźwięku, obrazu i nadawania
+S Dobry słuch i oko/O, Obsługa sprzętu/R, Podstawy elektryki/R, Spokój pod presją/P, Programy do montażu/O, Współpraca z artystami/P
+P Praca blisko muzyki, filmu i sceny; Każde wydarzenie jest inne; Efekt słychać i widać od razu
+M Praca wieczorami i w weekendy; Dźwiganie sprzętu; Błąd widzi cała sala
+R TE technik realizacji nagrań lub realizacji dźwięku
+R Od praktyki: praktyka=Pomoc przy nagłośnieniu w szkole lub domu kultury=1 > kurs=Kurs realizacji dźwięku lub obrazu=0.5 > praktyka=Praca pomocnika w firmie technicznej=1
+
+#411 Pracownicy biurowi
+S Dokładność/L, Programy biurowe/L, Poprawne pisanie/S, Organizacja dokumentów/L, Uprzejmość/P, Terminowość/L
+P Regularne godziny; Spokojne warunki pracy; Potrzebni w każdej firmie
+M Dużo rutyny; Wiele godzin przy komputerze; Praca pod cudze terminy
+R Po szkole średniej: szkola=Szkoła średnia=4 > kurs=Kurs programów biurowych=0.5 > praktyka=Staż w biurze=0.5
+R TE technik administracji lub ekonomista
+#412 =411 Sekretarze
+#413 =411 Wprowadzanie danych
+#421 Kasjerzy, krupierzy, windykatorzy
+S Liczenie i dokładność/L, Uczciwość/P, Uprzejma obsługa/P, Koncentracja/L, Odporność na trudnych klientów/P, Znajomość procedur/S
+P Jasne zadania; Kontakt z ludźmi; Szybkie wdrożenie do pracy
+M Odpowiedzialność za pieniądze; Praca zmianowa; Trudni klienci
+R PR Szkolenie stanowiskowe u pracodawcy
+R TE technik ekonomista lub rachunkowości
+#422 Recepcja i informacja
+S Uprzejmy kontakt z ludźmi/P, Języki obce/S, Organizacja/L, Cierpliwość/P, Obsługa systemów rezerwacji/L, Podzielność uwagi/L
+P Dużo kontaktu z ludźmi; Każdy dzień trochę inny; Dobry start w hotelarstwie lub obsłudze
+M Praca zmianowa i w weekendy; Trudni klienci; Wiele spraw naraz
+R TE technik hotelarstwa, turystyki lub administracji
+R PR Szkolenie stanowiskowe i nauka języka
+#4221 =422 Biura podróży
+#4224 =422 Recepcjoniści hotelowi
+#431 =241 Pracownicy księgowości i statystyki
+R TE technik rachunkowości lub ekonomista
+R Kurs: szkola=Szkoła średnia=4 > kurs=Kurs księgowości lub kadr i płac=0.5 > praktyka=Praca w biurze rachunkowym=0.5
+#432 Magazyn i ewidencja transportu
+S Organizacja/L, Dokładność w liczeniu/L, Obsługa programów magazynowych/L, Sprawność fizyczna/N, Obsługa wózka widłowego/R, Praca w zespole/P
+P Szybki start bez długiej nauki; Praca w ruchu; Jasne zadania
+M Praca zmianowa; Wysiłek fizyczny; Presja czasu przy wysyłkach
+R TE technik logistyk lub magazynier-logistyk
+R Kurs: kurs=Kurs i uprawnienia na wózki widłowe=0 > praktyka=Przyuczenie w magazynie=0.5
+#441 =411 Inni pracownicy biurowi
+
+#511 Stewardzi i konduktorzy
+S Uprzejma obsługa/P, Języki obce/S, Opanowanie w trudnych sytuacjach/P, Zasady bezpieczeństwa/R, Kondycja/N, Praca w zespole/P
+P Podróże w ramach pracy; Dużo kontaktu z ludźmi; Każdy kurs jest inny
+M Nieregularne godziny i noce poza domem; Praca w święta; Trudni pasażerowie
+R Szkolenie przewoźnika: szkola=Szkoła średnia; ważny język obcy=4 > egzamin=Rekrutacja i badania lekarskie=0 > kurs=Szkolenie u przewoźnika=0.5
+#5113 Przewodnicy
+S Opowiadanie/S, Wiedza o regionie i historii/S, Języki obce/S, Prowadzenie grupy/P, Kondycja/N, Organizacja/L
+P Pokazujesz ludziom ciekawe miejsca; Praca w ruchu; Poznajesz ludzi z całego świata
+M Sezonowość; Praca w weekendy i wakacje; Odpowiedzialność za grupę
+R Kurs przewodnika: kurs=Kurs przewodnika lub pilota wycieczek=0.5 > egzamin=Uprawnienia, np. przewodnika górskiego=0 > praktyka=Pierwsze wycieczki z biurem podróży=0.5
+R ST turystyka, historia lub filologia
+#512 Kucharze
+S Wyczucie smaku/R, Szybkie ręce/R, Praca pod presją/P, Organizacja stanowiska/L, Współpraca w zespole/P, Estetyka podania/O
+P Od razu widzisz, czy ludziom smakuje; Pracę znajdziesz na całym świecie; Dużo miejsca na kreatywność
+M Gorąco, głośno i cały czas na nogach; Praca wieczorami i w weekendy; Duże tempo w godzinach szczytu
+R BR kucharz
+R TE technik żywienia i usług gastronomicznych
+#513 Kelnerzy i barmani
+S Uprzejma obsługa/P, Dobra pamięć/L, Podzielność uwagi/L, Kondycja/N, Znajomość karty/S, Spokój przy trudnych gościach/P
+P Dużo kontaktu z ludźmi; Szybki start; Praca możliwa obok nauki
+M Cały czas na nogach; Wieczory, weekendy i święta; Trudni goście
+R PR Przyuczenie w lokalu
+R BR kelner
+#514 Fryzjerzy i kosmetyczki
+S Zręczne ręce/R, Wyczucie stylu/O, Rozmowa z klientem/P, Cierpliwość/P, Zasady higieny/N, Wytrzymałość na stanie/N
+P Efekt widać od razu; Stali klienci; Możliwy własny salon
+M Cały dzień na stojąco; Kontakt z chemią; Niezadowolony klient to trudna rozmowa
+R BR fryzjer
+R TE technik usług fryzjerskich lub kosmetycznych
+R KU Kurs zawodowy z wybranej specjalizacji
+#515 Gospodarze budynków i domów
+S Drobne naprawy/R, Organizacja/L, Odpowiedzialność/P, Kontakt z mieszkańcami lub gośćmi/P, Dbałość o porządek/R, Samodzielność/L
+P Samodzielna praca; Różnorodne zadania; Stałe miejsce pracy
+M Dyspozycyjność przy awariach; Praca fizyczna; Bywa samotnie
+R PR Przyuczenie i drobne kursy techniczne
+#516 Inne usługi osobiste
+S Kontakt z ludźmi/P, Takt i dyskrecja/P, Cierpliwość/P, Samodzielność/L, Zręczność/R, Organizacja własnej pracy/L
+P Bliski kontakt z klientami; Często praca na własny rachunek; Różnorodne zadania
+M Nieregularne dochody; Praca w nietypowych godzinach; Trzeba samemu zdobywać klientów
+R KU Kurs zawodowy z wybranej usługi
+R PR
+#5164 Opiekunowie zwierząt
+S Opieka nad zwierzętami/N, Cierpliwość/N, Obserwacja zachowania/N, Sprawność fizyczna/N, Rozmowa z właścicielami/P, Odpowiedzialność/P
+P Codzienny kontakt ze zwierzętami; Praca w ruchu; Możliwa własna działalność
+M Brud i wysiłek fizyczny; Praca w weekendy i święta; Zwierzę może ugryźć
+R Kurs i praktyka: praktyka=Wolontariat w schronisku lub stajni=1 > kurs=Kurs, np. groomerski, tresury lub behawiorystyki=0.5 > praktyka=Praca pod okiem doświadczonej osoby=0.5
+R TE technik weterynarii lub hodowca koni
+#5165 Instruktorzy nauki jazdy
+S Spokój i cierpliwość/P, Bardzo dobra jazda/R, Jasne tłumaczenie/S, Znajomość przepisów/S, Szybka reakcja/R, Odpowiedzialność/P
+P Uczysz konkretnej umiejętności; Samodzielna praca; Kontakt z różnymi ludźmi
+M Stres w ruchu ulicznym; Praca popołudniami i w weekendy; Wiele godzin w samochodzie
+R Kurs instruktora: szkola=Szkoła średnia=4 > praktyka=Kilka lat z prawem jazdy=3 > kurs=Kurs dla instruktorów=0.5 > egzamin=Egzamin państwowy=0
+#521 =522 Sprzedawcy uliczni i targowi
+#522 Sprzedawcy w sklepach
+S Uprzejma obsługa/P, Znajomość towaru/L, Liczenie i kasa/L, Cierpliwość/P, Dbałość o wygląd sklepu/O, Kondycja/N
+P Dużo kontaktu z ludźmi; Szybki start; Pracę znajdziesz wszędzie
+M Wiele godzin na nogach; Praca w weekendy; Trudni klienci
+R PR Przyuczenie w sklepie
+R BR sprzedawca
+R TE technik handlowiec
+#523 =522 Kasjerzy i sprzedawcy biletów
+#524 =522 Inni sprzedawcy
+#5241 Modele i modelki
+S Praca z ciałem i ruchem/O, Cierpliwość na planie/P, Punktualność/L, Odporność na ocenę/P, Dbałość o kondycję/N, Współpraca z fotografem/P
+P Praca w świecie mody i reklamy; Podróże; Ciekawe projekty
+M Duża konkurencja; Nieregularne zlecenia; Ciągła ocena wyglądu
+R Agencja: projekt=Pierwsze zdjęcia próbne=0 > egzamin=Zgłoszenie do sprawdzonej agencji=0 > praktyka=Pierwsze sesje i pokazy=1
+#5246 =513 Bufetowi
+#531 Opieka nad dziećmi
+S Cierpliwość/P, Uważność na dziecko/P, Pomysłowość w zabawie/O, Odpowiedzialność/P, Pierwsza pomoc/N, Spokój w trudnych chwilach/P
+P Widzisz, jak dzieci się rozwijają; Dużo ruchu i zabawy; Poczucie sensu
+M Hałas i ciągła czujność; Duża odpowiedzialność; Wysiłek fizyczny
+R Kurs opiekuna: szkola=Szkoła średnia=4 > kurs=Kurs opiekuna dziecięcego lub szkoła policealna=1 > kurs=Kurs pierwszej pomocy=0 > praktyka=Praktyki w żłobku lub przedszkolu=0
+R Od praktyki: praktyka=Opieka nad dziećmi w rodzinie i u znajomych=1 > kurs=Kurs pierwszej pomocy=0
+#5312 =531 Pomocnicy nauczycieli
+#532 Opiekunowie medyczni
+S Empatia/P, Cierpliwość/P, Siła i kondycja/N, Podstawy pielęgnacji/N, Delikatność/R, Odporność psychiczna/P
+P Pomagasz osobom, które same sobie nie radzą; Pracę znajdziesz wszędzie; Krótka nauka
+M Ciężka praca fizyczna; Kontakt z chorobą i starością; Praca zmianowa
+R PO opiekun medyczny
+R KU Kurs opiekuna osób starszych
+#541 Strażacy, policjanci, ochrona
+S Sprawność fizyczna/N, Opanowanie w stresie/P, Praca w zespole/P, Znajomość procedur/S, Pierwsza pomoc/N, Odwaga z rozsądkiem/P
+P Chronisz ludzi; Zgrana ekipa; Stabilna służba
+M Realne ryzyko; Służby całodobowe; Trudne sytuacje zostają w głowie
+R Nabór do służby: szkola=Szkoła średnia=4 > praktyka=Regularny trening kondycji=0 > egzamin=Nabór z testami sprawnościowymi i rozmową=0 > kurs=Szkolenie podstawowe=0.5
+R Ochrona: kurs=Kurs pracownika ochrony=0.5 > egzamin=Wpis na listę kwalifikowanych pracowników ochrony=0
+
+#611 Rolnicy, sadownicy, ogrodnicy
+S Wiedza o roślinach/N, Obsługa maszyn/R, Planowanie sezonu/L, Wytrzymałość fizyczna/N, Obserwacja pogody i gleby/N, Samodzielność/L
+P Praca na świeżym powietrzu; Widzisz, jak rośnie to, co zasiejesz; Możliwe własne gospodarstwo
+M Praca zależna od pogody; Długie dni w sezonie; Wysiłek fizyczny
+R BR rolnik lub ogrodnik
+R TE technik rolnik, ogrodnik lub agrobiznesu
+#612 =611 Hodowcy zwierząt
+S Opieka nad zwierzętami/N, Obserwacja zdrowia stada/N, Obsługa maszyn/R, Systematyczność/L, Wytrzymałość fizyczna/N, Samodzielność/L
+P Codzienny kontakt ze zwierzętami; Praca blisko natury; Możliwe własne gospodarstwo
+M Praca siedem dni w tygodniu; Wczesne poranki; Wysiłek fizyczny
+#613 =611 Rolnicy upraw i hodowli
+#621 Robotnicy leśni
+S Siła i kondycja/N, Obsługa pilarki i sprzętu/R, Zasady bezpieczeństwa/R, Znajomość lasu/N, Praca w zespole/P, Odporność na pogodę/N
+P Praca w lesie; Dużo ruchu; Konkretny efekt
+M Ciężka praca fizyczna; Ryzyko wypadku; Praca w każdą pogodę
+R BR operator maszyn leśnych
+R TE technik leśnik
+#622 Rybacy i hodowcy ryb
+S Wiedza o rybach i wodzie/N, Obsługa łodzi i sprzętu/R, Siła i kondycja/N, Odporność na pogodę/N, Praca w zespole/P, Systematyczność/L
+P Praca nad wodą; Blisko natury; Konkretny efekt
+M Ciężka praca fizyczna; Wczesne godziny i rejsy; Zależność od pogody
+R BR rybak śródlądowy
+R TE technik rybactwa śródlądowego
+
+#711 Murarze, betoniarze, cieśle
+S Siła i kondycja/N, Dokładność wymiarów/R, Czytanie rysunku/L, Obsługa narzędzi/R, Praca w zespole/P, Zasady bezpieczeństwa/R
+P Widzisz, co zbudowałeś; Fach potrzebny wszędzie; Możliwa własna ekipa
+M Ciężka praca fizyczna; Praca na dworze w każdą pogodę; Ryzyko wypadku
+R BR murarz-tynkarz, cieśla lub betoniarz-zbrojarz
+R TE technik budownictwa
+R PR Praca pomocnika na budowie i nauka od fachowców
+#712 Wykończenia i instalacje
+S Zręczne ręce/R, Dokładność/R, Czytanie rysunku instalacji/L, Znajomość materiałów/R, Rozmowa z klientem/P, Zasady bezpieczeństwa/R
+P Efekt widać od razu; Fach potrzebny wszędzie; Łatwo pracować na swoim
+M Praca w niewygodnych pozycjach; Kurz i hałas; Presja terminów klienta
+R BR monter sieci i instalacji sanitarnych, monter zabudowy i robót wykończeniowych lub dekarz
+R TE technik budownictwa lub inżynierii sanitarnej
+#713 =712 Malarze i lakiernicy
+S Pewna ręka/R, Wyczucie koloru/O, Dokładność/R, Znajomość farb i podłoży/R, Cierpliwość/R, Zasady bezpieczeństwa/R
+R BR lakiernik samochodowy lub monter zabudowy i robót wykończeniowych
+R PR Praca pomocnika i nauka od fachowca
+#721 Spawacze, blacharze, monterzy konstrukcji
+S Pewne ręce/R, Czytanie rysunku technicznego/L, Dokładność/R, Kondycja/N, Zasady bezpieczeństwa/R, Wyobraźnia przestrzenna/O
+P Fach potrzebny w wielu branżach; Efekt widać od razu; Możliwa praca przy dużych konstrukcjach
+M Hałas, wysoka temperatura i dym; Praca fizyczna; Ryzyko poparzeń i urazów
+R BR ślusarz, blacharz lub mechanik-monter maszyn i urządzeń
+R Kurs spawacza: kurs=Kurs spawania wybraną metodą=0.5 > egzamin=Egzamin i uprawnienia spawacza=0 > praktyka=Praca pod okiem doświadczonego spawacza=1
+#722 Kowale, ślusarze, operatorzy obrabiarek
+S Dokładność co do ułamka milimetra/R, Czytanie rysunku technicznego/L, Obsługa maszyn/R, Pomiary/L, Cierpliwość/R, Zasady bezpieczeństwa/R
+P Precyzyjny, ceniony fach; Praca z nowoczesnymi maszynami; Konkretny efekt
+M Hałas; Praca zmianowa; Wiele godzin przy maszynie
+R BR operator obrabiarek skrawających lub ślusarz
+R TE technik mechanik
+#723 Mechanicy maszyn i pojazdów
+S Zręczne ręce/R, Rozumienie mechanizmów/R, Logiczne szukanie usterek/L, Dokładność/R, Podstawy elektroniki/L, Rozmowa z klientem/P
+P Efekt od razu: maszyna działa; Fach zawsze potrzebny; Możliwy własny warsztat
+M Brudna i fizyczna praca; Niewygodne pozycje; Coraz więcej elektroniki do opanowania
+R BR mechanik pojazdów samochodowych lub mechanik-monter maszyn
+R TE technik pojazdów samochodowych lub technik mechanik
+#731 Rzemieślnicy artystyczni i precyzyjni
+S Precyzja rąk/R, Cierpliwość/R, Wyczucie formy/O, Znajomość materiału/R, Dobry wzrok lub słuch/N, Rozmowa z klientem/P
+P Tworzysz piękne, trwałe rzeczy; Rzadki, ceniony fach; Możliwa własna pracownia
+M Długa nauka u mistrza; Mało miejsc pracy; Wiele godzin w skupieniu
+R Nauka u mistrza: szkola=Szkoła branżowa w zawodzie, np. złotnik-jubiler lub zegarmistrz=3 > praktyka=Nauka zawodu w pracowni=0 > egzamin=Egzamin czeladniczy=0
+R Szkoła artystyczna: szkola=Liceum sztuk plastycznych o odpowiedniej specjalności=5 > praktyka=Praca w pracowni rzemieślniczej=1
+#732 Poligrafia i druk
+S Dokładność/R, Wyczucie koloru/O, Obsługa maszyn drukujących/R, Programy do składu/O, Pilnowanie terminów/L, Spostrzegawczość/L
+P Twoją pracę ludzie biorą do ręki; Łączy technikę z grafiką; Konkretny efekt
+M Hałas i zapach farb; Praca zmianowa; Presja terminów
+R BR drukarz offsetowy lub introligator
+R TE technik procesów drukowania lub grafiki i poligrafii cyfrowej
+#741 Elektrycy i elektromonterzy
+S Dokładność/R, Czytanie schematów/L, Zręczne ręce/R, Zasady bezpieczeństwa/R, Logiczne myślenie/L, Brak lęku wysokości/N
+P Fach potrzebny wszędzie; Konkretny, widoczny efekt; Łatwo pracować na swoim
+M Błąd może być groźny dla życia; Praca na budowach i wysokości; Trzeba odnawiać uprawnienia
+R Szkoła branżowa: szkola=Szkoła branżowa I stopnia w zawodzie elektryk lub elektromechanik=3 > egzamin=Egzamin zawodowy=0 > egzamin=Uprawnienia elektryczne=0 > praktyka=Praca pod okiem doświadczonego elektryka=1
+R Technikum: szkola=Technikum w zawodzie technik elektryk=5 > egzamin=Egzaminy zawodowe i uprawnienia elektryczne=0 > praktyka=Praca pod okiem doświadczonego elektryka=1
+#742 Elektronicy i monterzy telekomunikacji
+S Precyzja rąk/R, Czytanie schematów/L, Szukanie usterek/L, Obsługa mierników/R, Cierpliwość/R, Rozmowa z klientem/P
+P Naprawiasz rzeczy, których ludzie potrzebują na co dzień; Fach z przyszłością; Możliwy własny serwis
+M Drobna, męcząca dla oczu praca; Sprzęt szybko się zmienia; Praca w terenie w każdą pogodę
+R BR elektronik lub monter sieci i urządzeń telekomunikacyjnych
+R TE technik elektronik lub teleinformatyk
+#751 Przetwórstwo spożywcze
+S Dokładność i czystość/R, Wyczucie smaku i zapachu/N, Obsługa urządzeń/R, Zasady higieny/N, Kondycja/N, Praca w zespole/P
+P Robisz jedzenie, które trafia do ludzi; Fach potrzebny zawsze; Konkretny efekt
+M Wczesne godziny lub zmiany; Praca na stojąco; Chłód, gorąco lub zapachy
+R BR przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego
+R TE technik technologii żywności
+#7512 =751 Piekarze i cukiernicy
+S Dokładne odmierzanie/L, Zręczne ręce/R, Wyczucie smaku/N, Estetyka wyrobów/O, Zasady higieny/N, Wytrzymałość na nocne zmiany/N
+P Ludzie codziennie jedzą to, co zrobisz; Miejsce na kreatywność; Możliwa własna pracownia
+M Praca nocą lub bardzo wcześnie rano; Gorąco i na stojąco; Dźwiganie
+R BR piekarz lub cukiernik
+R TE technik technologii żywności
+#752 Stolarze i obróbka drewna
+S Zręczne ręce/R, Dokładność wymiarów/R, Czytanie rysunku/L, Wyczucie formy/O, Obsługa maszyn/R, Zasady bezpieczeństwa/R
+P Tworzysz trwałe rzeczy; Zapach drewna zamiast biura; Możliwa własna pracownia
+M Pył i hałas; Ryzyko urazu przy maszynach; Praca fizyczna
+R BR stolarz
+R TE technik technologii drewna
+#753 Krawcy, szewcy, tapicerzy
+S Zręczne ręce/R, Dokładność/R, Wyczucie formy i koloru/O, Znajomość materiałów/R, Cierpliwość/R, Rozmowa z klientem/P
+P Tworzysz rzeczy, które ludzie noszą i używają; Miejsce na kreatywność; Możliwa własna pracownia
+M Praca siedząca w skupieniu; Męczy oczy i plecy; Konkurencja taniej produkcji
+R BR krawiec, obuwnik, kaletnik lub tapicer
+R TE technik przemysłu mody
+#754 Kontrolerzy jakości i inni
+S Spostrzegawczość/L, Dokładność/R, Znajomość norm/S, Uczciwość/P, Obsługa przyrządów pomiarowych/R, Cierpliwość/L
+P Pilnujesz, żeby produkt był dobry; Jasne kryteria; Odpowiedzialna rola
+M Powtarzalne czynności; Trzeba odrzucać cudzą pracę; Praca zmianowa
+R Od stanowiska: szkola=Szkoła branżowa lub technikum zgodne z branżą=4 > praktyka=Praca na produkcji=1 > kurs=Szkolenie z kontroli jakości=0
+
+#811 Górnictwo i wydobycie
+S Siła i kondycja/N, Obsługa ciężkich maszyn/R, Zasady bezpieczeństwa/R, Praca w zespole/P, Odporność na trudne warunki/N, Czujność/L
+P Zgrana załoga; Konkretna praca; Jasne zasady
+M Ciężkie i niebezpieczne warunki; Praca zmianowa pod ziemią lub w terenie; Hałas i pył
+R BR górnik eksploatacji podziemnej lub wiertacz
+R TE technik górnictwa lub wiertnik
+#812 Obróbka metalu
+S Obsługa maszyn/R, Uważność/L, Zasady bezpieczeństwa/R, Dokładność/R, Kondycja/N, Praca w zespole/P
+P Szybki start w zawodzie; Jasne zadania; Stała praca w zakładzie
+M Praca zmianowa; Hałas i powtarzalne czynności; Wiele godzin przy maszynie
+R BR operator maszyn i urządzeń zgodnych z branżą
+R PR Szkolenie stanowiskowe w zakładzie
+#813 =812 Produkcja chemiczna
+#814 =812 Guma, tworzywa i papier
+#815 =812 Tekstylia, skóra i obuwie
+#816 =812 Maszyny przemysłu spożywczego
+#817 =812 Obróbka drewna i produkcja papieru
+#818 =812 Inne maszyny przetwórcze
+#821 Monterzy maszyn i sprzętu
+S Zręczne ręce/R, Czytanie instrukcji i rysunków/L, Dokładność/R, Obsługa narzędzi/R, Cierpliwość/R, Praca w zespole/P
+P Składasz rzeczy, które potem działają; Jasne zadania; Stała praca w zakładzie
+M Powtarzalne czynności; Praca zmianowa; Tempo linii produkcyjnej
+R BR mechanik-monter maszyn i urządzeń lub elektromechanik
+R PR Szkolenie stanowiskowe w zakładzie
+#831 Kolej
+S Koncentracja/L, Znajomość przepisów i sygnałów/S, Odpowiedzialność/P, Opanowanie/P, Dobre zdrowie/N, Obsługa urządzeń/R
+P Stabilna praca; Odpowiedzialny zawód; Jasne procedury
+M Praca zmianowa i nocna; Duża odpowiedzialność; Wysokie wymagania zdrowotne
+R Technikum kolejowe: szkola=Technikum w zawodzie kolejowym=5 > egzamin=Badania lekarskie=0 > kurs=Szkolenie i licencja u przewoźnika=1
+R Kurs u przewoźnika: szkola=Szkoła średnia lub branżowa=3 > egzamin=Badania lekarskie=0 > kurs=Kurs na licencję i świadectwo maszynisty=1.5
+#832 Kierowcy aut osobowych i motocykli
+S Bezpieczna jazda/R, Znajomość miasta i przepisów/S, Uprzejmość/P, Punktualność/L, Koncentracja/L, Cierpliwość w korkach/P
+P Samodzielna praca; Szybki start; Elastyczne godziny
+M Wiele godzin za kierownicą; Korki i stres na drodze; Praca wieczorami i w weekendy
+R Prawo jazdy: egzamin=Prawo jazdy kategorii B=0 > praktyka=Doświadczenie za kierownicą=1 > egzamin=Dodatkowe uprawnienia, np. na przewóz osób=0
+#833 Kierowcy ciężarówek i autobusów
+S Bezpieczna jazda dużym pojazdem/R, Koncentracja/L, Znajomość przepisów/S, Odpowiedzialność/P, Samodzielność/L, Podstawy mechaniki/R
+P Samodzielna praca; Podróże; Zawód stale potrzebny
+M Długie godziny za kierownicą; Noce poza domem; Odpowiedzialność za ładunek lub pasażerów
+R Prawo jazdy i kwalifikacja: egzamin=Prawo jazdy kategorii B=0 > kurs=Kurs i egzamin na kategorię C lub D=0.5 > kurs=Kwalifikacja wstępna kierowcy zawodowego=0.5
+R BR kierowca mechanik
+#834 Operatorzy koparek, dźwigów i maszyn
+S Wyczucie maszyny/R, Koncentracja/L, Orientacja w przestrzeni/O, Zasady bezpieczeństwa/R, Współpraca z ekipą/P, Cierpliwość/R
+P Sterujesz potężnym sprzętem; Fach potrzebny na budowach; Efekt widać od razu
+M Odpowiedzialność za ludzi wokół; Hałas i drgania; Praca w każdą pogodę
+R Kurs i uprawnienia: kurs=Kurs operatora wybranej maszyny=0.5 > egzamin=Egzamin i uprawnienia operatora=0 > praktyka=Praca pod okiem doświadczonego operatora=0.5
+R BR operator maszyn i urządzeń do robót ziemnych i drogowych
+#8341 =834 Operatorzy maszyn rolniczych i leśnych
+R BR mechanik-operator pojazdów i maszyn rolniczych
+R TE technik mechanizacji rolnictwa
+#835 Marynarze
+S Kondycja/N, Praca w zespole/P, Obsługa sprzętu pokładowego/R, Zasady bezpieczeństwa/R, Odporność na rozłąkę/P, Angielski/S
+P Podróże po świecie; Zgrana załoga; Długie przerwy między rejsami
+M Wiele miesięcy poza domem; Ciężka praca fizyczna; Trudne warunki na morzu
+R Szkoła morska: szkola=Technikum morskie lub żeglugi śródlądowej=5 > egzamin=Badania lekarskie i świadectwa morskie=0 > praktyka=Praktyka na statku=1
+R Kursy: kurs=Podstawowe szkolenia bezpieczeństwa=0.5 > egzamin=Świadectwo marynarza=0 > praktyka=Pierwszy rejs jako młodszy marynarz=0.5
+
+#911 Sprzątanie domów, hoteli i biur
+S Dokładność/R, Samodzielność/L, Kondycja/N, Uczciwość/P, Znajomość środków czystości/R, Organizacja czasu/L
+P Szybki start bez długiej nauki; Samodzielna praca; Elastyczne godziny
+M Wysiłek fizyczny; Kontakt z chemią; Praca wcześnie rano lub wieczorem
+R PR
+#912 =911 Mycie pojazdów, okien i pranie
+#921 Pomocnicy w rolnictwie i leśnictwie
+S Kondycja/N, Wytrzymałość/N, Sumienność/R, Praca w zespole/P, Obsługa prostych narzędzi/R, Odporność na pogodę/N
+P Szybki start bez długiej nauki; Praca na świeżym powietrzu; Dobry sposób, by poznać branżę
+M Ciężka praca fizyczna; Sezonowość; Praca w każdą pogodę
+R PR
+R Dalej w zawodzie: praktyka=Praca sezonowa w gospodarstwie=1 > szkola=Szkoła branżowa lub kurs rolniczy=3
+#931 Pomocnicy w budownictwie i górnictwie
+S Siła i kondycja/N, Sumienność/R, Słuchanie poleceń/P, Zasady bezpieczeństwa/R, Obsługa prostych narzędzi/R, Praca w zespole/P
+P Szybki start bez długiej nauki; Uczysz się fachu od ekipy; Praca w ruchu
+M Ciężka praca fizyczna; Praca w każdą pogodę; Ryzyko wypadku
+R PR
+R Dalej w zawodzie: praktyka=Praca pomocnika=1 > kurs=Kurs zawodowy lub egzamin czeladniczy=0.5
+#932 =931 Pakowacze i prace proste w przemyśle
+S Sumienność/R, Tempo pracy/R, Kondycja/N, Dokładność/R, Praca w zespole/P, Słuchanie poleceń/P
+M Powtarzalne czynności; Praca zmianowa; Praca na stojąco
+#933 =932 Ładowacze i pomocnicy transportu
+#941 =513 Pomoce kuchenne
+S Tempo i sumienność/R, Zasady higieny/N, Kondycja/N, Praca w zespole/P, Słuchanie poleceń/P, Organizacja stanowiska/L
+R PR Przyuczenie w kuchni
+R Dalej w zawodzie: praktyka=Praca jako pomoc kuchenna=1 > szkola=Szkoła branżowa w zawodzie kucharz=3
+#951 =522 Usługi uliczne
+#952 =522 Sprzedawcy uliczni
+#961 =911 Odpady i recykling
+S Kondycja/N, Sumienność/R, Zasady bezpieczeństwa/R, Praca w zespole/P, Odporność na pogodę i zapachy/N, Punktualność/L
+M Wysiłek fizyczny; Brud i zapachy; Praca wcześnie rano
+#962 =911 Kurierzy i prace dorywcze
+S Punktualność/L, Orientacja w terenie/O, Kondycja/N, Uprzejmość/P, Samodzielność/L, Bezpieczna jazda/R
+M Presja czasu; Praca w każdą pogodę; Wiele godzin w drodze
+
+#X-tworca Twórcy internetowi
+S Opowiadanie i pisanie/S, Nagrywanie i montaż/O, Regularność/L, Kontakt z odbiorcami/P, Odporność na krytykę/P, Analiza statystyk/L
+P Robisz własne rzeczy; Zaczynasz bez pytania kogokolwiek o zgodę; Praca z dowolnego miejsca
+M Niepewne dochody, zwłaszcza na początku; Hejt i ciągła ocena; Trudno odciąć się od pracy
+R Własny kanał: projekt=Wybierz temat i publikuj regularnie przez trzy miesiące=0.5 > kurs=Naucz się montażu i podstaw dźwięku=0.5 > projekt=Sprawdzaj statystyki i poprawiaj format=1 > praktyka=Pierwsze współprace z markami=0
+R Z zawodem w tle: szkola=Szkoła średnia=4 > studia=Studia lub zawód, o którym będziesz opowiadać=3 > projekt=Kanał prowadzony równolegle=0
+#X-esport E-sport
+S Refleks i precyzja/R, Analiza gry/L, Praca w drużynie/P, Odporność na presję/P, Systematyczny trening/N, Angielski/S
+P Zawodowo zajmujesz się grami; Emocje turniejów; Międzynarodowe środowisko
+M Kariera zawodnika jest krótka; Bardzo duża konkurencja; Wiele godzin przy ekranie
+R Od amatora: praktyka=Regularny trening w jednej grze=2 > praktyka=Amatorska drużyna i turnieje online=1 > egzamin=Testy do organizacji e-sportowej=0
+R Zaplecze e-sportu: szkola=Szkoła średnia=4 > praktyka=Wolontariat przy turniejach=0.5 > studia=Studia, np. zarządzanie, sport lub informatyka=3
+#X-startup Założyciele firm
+S Sprzedawanie pomysłu/P, Liczenie pieniędzy/L, Szybkie uczenie się/L, Odporność na porażki/P, Budowanie zespołu/P, Rozumienie klienta/P
+P Budujesz coś własnego; Sam decydujesz, co robisz; Uczysz się bardzo szybko
+M Większość startupów się nie udaje; Niepewne dochody; Praca bez wyraźnych godzin
+R Mały projekt: projekt=Mały własny biznes lub projekt jeszcze w szkole=1 > praktyka=Praca w startupie lub małej firmie=2 > projekt=Własny produkt i pierwsi klienci=1
+R Przez studia: szkola=Szkoła średnia=4 > studia=Studia z dziedziny, w której chcesz działać=3 > projekt=Projekt w inkubatorze przedsiębiorczości=1
+#X-dron Operatorzy dronów
+S Precyzyjne sterowanie/R, Orientacja w przestrzeni/O, Znajomość przepisów lotniczych/S, Koncentracja/L, Wyczucie kadru/O, Odpowiedzialność/P
+P Nowa, rozwijająca się branża; Praca w terenie; Różne zastosowania, od filmu po pomiary
+M Praca zależna od pogody; Zmieniające się przepisy; Drogi sprzęt
+R Uprawnienia i praktyka: kurs=Szkolenie i egzamin online dla pilotów dronów=0 > projekt=Własne loty i materiał pokazowy=0.5 > kurs=Uprawnienia do lotów zawodowych=0.5 > praktyka=Pierwsze zlecenia=0.5
+#X-doula Doule
+S Empatia/P, Spokój/P, Słuchanie/P, Wiedza o ciąży i porodzie/N, Dyskrecja/P, Dyspozycyjność/L
+P Towarzyszysz ludziom w ważnej chwili; Bliska relacja z klientką; Praca na własny rachunek
+M Dyżur pod telefonem, także w nocy; Nieregularne dochody; Duże emocje
+R Kurs: kurs=Kurs dla doul=0.5 > praktyka=Pierwsze porody pod okiem doświadczonej douli=0.5
+#X-florysta Floryści
+S Wyczucie koloru i formy/O, Zręczne ręce/R, Wiedza o roślinach/N, Rozmowa z klientem/P, Pomysłowość/O, Wytrzymałość na stanie/N
+P Tworzysz piękne rzeczy z natury; Efekt widać od razu; Możliwa własna kwiaciarnia
+M Wczesne poranki i praca w święta; Chłód i wilgoć; Sezonowe szczyty
+R Kurs: kurs=Kurs florystyczny=0.5 > praktyka=Praca w kwiaciarni=1
+R Szkoła: szkola=Szkoła branżowa lub technikum florystyczne=3 > egzamin=Egzamin zawodowy=0

@@ -1,0 +1,180 @@
+@540
+H: Jesteś w pociągu razem z pasażerami: sprawdzasz bilety, odpowiadasz na pytania o połączenia i reagujesz, gdy coś idzie nie tak. Pomagasz też przy zamykaniu drzwi i odjeździe.
+T: Sprawdzasz bilety i pobierasz opłaty za przejazd | Odpowiadasz na pytania o rozkład i przesiadki | Pomagasz kierownikowi przy zamykaniu drzwi | Reagujesz, gdy pociąg się psuje lub ktoś zasłabnie
+D: 5:30 Zaczynasz zmianę od odprawy i sprawdzenia składu | 7:00 Wsiadają pasażerowie, pomagasz i zamykasz drzwi | 10:30 Idziesz przez wagony i sprawdzasz bilety | 14:00 Opóźnienie, tłumaczysz pasażerom, co się dzieje
+Y: Sprawdź w internetowym rozkładzie, jak dojechać pociągiem do wybranego miasta z przesiadką, i zapisz godziny.
+
+@541
+H: Przechodzisz przez wagony i sprawdzasz, czy każdy ma ważny bilet. Gdy go brakuje, pobierasz opłatę i spokojnie rozmawiasz ze zdenerwowanymi ludźmi.
+T: Oglądasz bilety papierowe i elektroniczne | Pobierasz opłaty od osób bez biletu | Wyjaśniasz przepisy przewozowe | Podpowiadasz, jak dojechać do stacji
+D: 8:00 Wsiadasz do pociągu i zaczynasz pierwszy obchód | 9:30 Pasażer nie ma biletu, wystawiasz opłatę dodatkową | 12:00 Tłumaczysz babci, jak działa bilet okresowy | 15:30 Kończysz obchód i wypełniasz raport z kontroli
+Y: Wypisz trzy rodzaje biletów komunikacji miejskiej w Twojej okolicy i kto może jechać na ulgowym.
+
+@542
+H: Odpowiadasz za bezpieczeństwo na pokładzie pociągu poza kabiną maszynisty. Pilnujesz odjazdu, łączysz się z maszynistą i kontrolą ruchu, a w razie awarii decydujesz, co robić.
+T: Nadzorujesz otwieranie i zamykanie drzwi | Utrzymujesz łączność z maszynistą i kontrolą ruchu | Kierujesz pracą zespołu konduktorów | Organizujesz pomoc pasażerom podczas awarii
+D: 4:45 Odprawa z maszynistą, sprawdzenie dokumentów i składu | 6:00 Sprawdzasz zamknięcie drzwi i zgłaszasz gotowość do odjazdu | 11:00 Pociąg staje w polu, informujesz kontrolę ruchu | 13:30 Przydzielasz konduktorom wagony na kolejny kurs
+Y: Narysuj plan mieszkania i zaznacz dwie drogi wyjścia na wypadek pożaru, a potem pokaż je domownikom.
+
+@543
+H: Pracujesz na dworcu i pomagasz podróżnym: mówisz, z którego peronu odjedzie pociąg, pomagasz zaplanować trasę i reagujesz, gdy coś się dzieje.
+T: Podajesz godziny i perony pociągów | Pomagasz zaplanować podróż z przesiadkami | Pomagasz osobom z niepełnosprawnością wsiąść do pociągu | Reagujesz na zgubione rzeczy i zasłabnięcia
+D: 6:00 Otwierasz punkt informacji, sprawdzasz zmiany w rozkładzie | 8:30 Szczyt, ludzie pytają o perony i opóźnienia | 12:00 Pomagasz osobie niewidomej dojść do pociągu | 17:00 Znaleziony plecak bez właściciela, zgłaszasz go służbom
+Y: Wytłumacz komuś w domu, jak dojechać z domu do najbliższej stacji lub dworca.
+
+@544
+H: Kierujesz załogą pokładową samolotu. Odprawiasz ją przed lotem, pilnujesz przepisów bezpieczeństwa i dbasz o to, by pasażerowie byli obsłużeni.
+T: Prowadzisz odprawę załogi przed lotem | Sprawdzasz wyposażenie awaryjne na pokładzie | Przekazujesz pasażerom komunikaty z kabiny | Rozwiązujesz problemy z pasażerami i załogą
+D: 5:00 Odprawa załogi, omawiasz trasę i zadania | 6:30 Sprawdzasz wyjścia awaryjne i sprzęt ratunkowy | 8:00 Wsiadają pasażerowie, pilnujesz zapięcia pasów i bagaży | 11:00 Pasażerowi robi się słabo, koordynujesz pomoc
+Y: Napisz krótki komunikat dla pasażerów o zapięciu pasów i przeczytaj go na głos spokojnym tonem.
+
+@545
+H: Prowadzisz opancerzony samochód z pieniędzmi i innymi cennymi rzeczami. Nigdy nie wysiadasz, a ładunek do odbiorcy zanosi strażnik.
+T: Prowadzisz opancerzony pojazd po ustalonej trasie | Pilnujesz pojazdu przez cały czas | Utrzymujesz łączność ze strażnikami i centralą | Sprawdzasz stan techniczny auta przed wyjazdem
+D: 6:00 Przegląd auta i odprawa ze strażnikami | 7:30 Wyjazd na trasę, zatrzymujesz się pod bankiem | 11:00 Strażnik wchodzi do środka, ty zostajesz za kierownicą | 15:00 Wracasz do bazy i zdajesz auto
+Y: Zaplanuj na kartce trasę między pięcioma punktami w mieście tak, by nie jechać dwa razy tą samą ulicą.
+
+@546
+H: Przewozisz osoby zmarłe z domu, szpitala lub zakładu pogrzebowego na miejsce pochówku. Ta praca wymaga spokoju i taktu, bo masz kontakt z rodzinami w bardzo trudnym momencie.
+T: Prowadzisz karawan spokojnie i płynnie | Pomagasz przy przenoszeniu trumny | Myjesz i konserwujesz specjalny pojazd | Przyjeżdżasz punktualnie na ceremonię
+D: 7:00 Przygotowujesz karawan, myjesz go i sprawdzasz | 9:00 Odbierasz zmarłą osobę ze szpitala z pracownikami zakładu | 11:30 Jedziesz powoli na czele konduktu do cmentarza | 14:00 Pomagasz wnieść trumnę i wracasz do firmy
+Y: Zastanów się i zapisz trzy zachowania, które pokazują szacunek, gdy rozmawiasz z osobą w żałobie.
+
+@547
+H: Rozwozisz paczki i towary furgonetką pod wyznaczone adresy. Układasz trasę, ładujesz i rozładowujesz, a w ciągu dnia robisz dziesiątki przystanków.
+T: Układasz paczki w aucie według trasy | Planujesz najkrótszą kolejność dostaw | Wnosisz paczki do klientów i sklepów | Zbierasz podpisy potwierdzające odbiór
+D: 6:30 Ładujesz furgonetkę w magazynie według listy | 8:00 Pierwsze dostawy do sklepów w centrum | 12:00 Krótka przerwa, zmieniasz trasę przez korek | 16:00 Zwroty paczek i rozliczenie dnia w bazie
+Y: Oszacuj, ile pudełek po butach zmieści się w szafie, a potem sprawdź.
+
+@548
+H: Wozisz ambulansem osoby, które same nie dojadą do szpitala lub ośrodka, na przykład seniorów i osoby z niepełnosprawnością. To nie są wyjazdy ratunkowe, więc jedziesz spokojnie i pomagasz w drodze.
+T: Pomagasz pasażerom wsiąść i wysiąść | Zabezpieczasz wózek lub nosze w pojeździe | Dowozisz pacjentów na wizyty i terapie | Sprawdzasz wyposażenie ambulansu po kursie
+D: 6:30 Sprawdzasz ambulans i wyposażenie przed pierwszym kursem | 7:30 Odbierasz seniora z domu i pomagasz mu wsiąść | 9:00 Odwozisz pacjenta na rehabilitację i czekasz na niego | 14:00 Wracasz z pacjentem do domu i pomagasz wejść
+Y: Zapisz pięć kroków pomocy starszej osobie przy wsiadaniu do auta i zapinaniu pasa.
+
+@549
+H: Wozisz pilne przesyłki motocyklem: dokumenty, leki, gorące posiłki. Liczy się szybkość, ale też to, żeby delikatna paczka dojechała w całości.
+T: Odbierasz paczkę i sprawdzasz adres | Pakujesz przesyłkę, by się nie uszkodziła | Wybierasz najszybszą trasę przez miasto | Przekazujesz paczkę i bierzesz potwierdzenie
+D: 7:30 Odbierasz pierwszą pilną kopertę z kancelarii | 9:00 Wieziesz dokumenty do urzędu na drugim końcu miasta | 12:30 Rozwozisz gorące zamówienia w torbie termicznej na plecach | 17:00 Deszcz, jedziesz wolniej z ostatnią przesyłką
+Y: Zapakuj w ubrania pusty plastikowy kubek tak, by nic się nie przesuwało w plecaku.
+
+@550
+H: Odbierasz od klientów kluczyki i parkujesz ich auta w wyznaczonych miejscach, a potem podstawiasz je z powrotem. Jesteś pierwszą osobą, którą klient widzi przy wejściu, więc pomagasz też z bagażem.
+T: Odbierasz kluczyki i oglądasz auto z klientem | Parkujesz pojazdy precyzyjnie na ciasnym parkingu | Wydajesz auta na prośbę klientów | Informujesz o stawkach i zasadach parkowania
+D: 11:00 Pod hotelem podjeżdża pierwsze auto, witasz klienta | 13:00 Parkujesz auto i wnosisz bagaż do hotelu | 17:30 Szczyt przed wieczorem, biegasz między wejściem a parkingiem | 22:00 Goście wychodzą z restauracji, podstawiasz im samochody
+Y: Policz, ile aut zmieściłoby się w jednym rzędzie na parkingu pod Twoim domem lub szkołą.
+
+@551
+H: Wozisz jedną osobę lub rodzinę, dla której pracujesz, tam gdzie potrzebuje, i zawsze na czas. Z góry sprawdzasz trasę, pogodę i stan auta, a w sprawach pasażera zachowujesz dyskrecję.
+T: Planujesz trasę z wyprzedzeniem | Sprawdzasz pogodę i warunki na drodze | Utrzymujesz auto w czystości i gotowe do jazdy | Zachowujesz dyskrecję w sprawach pasażera
+D: 6:30 Myjesz auto i sprawdzasz trasę oraz korki | 7:45 Odbierasz pracodawcę spod domu i wieziesz do biura | 12:00 Czekasz w aucie, aż skończy się spotkanie | 19:00 Wieziesz pracodawcę na kolację, potem odwozisz do domu
+Y: Wymyśl trzy spotkania w ciągu dnia i ułóż plan wyjazdów z zapasem 15 minut na każdy.
+
+@552
+H: Wozisz pasażerów po mieście na zamówienie albo spod postoju i odpowiadasz za swój samochód. Każdy kurs to nowa osoba, nowy adres i nowa rozmowa.
+T: Odbierasz zamówienia i dojeżdżasz pod adres | Pobierasz opłatę za kurs | Pomagasz pasażerom z bagażami | Pilnujesz przeglądów i czystości taksówki
+D: 5:30 Zaczynasz zmianę, czyścisz auto i tankujesz | 7:00 Pierwszy kurs na dworzec z walizkami pasażera | 14:00 Czekasz na postoju, aż pojawi się zamówienie | 23:00 Nocny kurs, odwozisz ludzi z imprez do domów
+Y: Narysuj z pamięci mapę drogi z domu do centrum miasta, zaznaczając pięć punktów orientacyjnych.
+
+@553
+H: Kierujesz załogą na pokładzie statku rybackiego, przydzielasz zadania i pilnujesz bezpieczeństwa. Zamieniasz polecenia kapitana na konkretną pracę ludzi.
+T: Przydzielasz załodze zadania na pokładzie | Nadzorujesz naprawę sieci i innych narzędzi połowowych | Pilnujesz sortowania i konserwowania połowu | Pilnujesz przepisów bezpieczeństwa i higieny
+D: 4:30 Pobudka, odbierasz polecenia od kapitana | 5:30 Załoga wyciąga sieci, ty kierujesz pracą | 10:00 Sortowanie ryb w ładowni, pilnujesz czystości i porządku | 16:00 Uszkodzona sieć, rozdzielasz załodze zadania naprawcze
+Y: Posortuj dziesięć drobnych przedmiotów z domu na trzy grupy i zapisz zasady sortowania.
+
+@554
+H: Pracujesz na barce lub statku po rzekach i kanałach, głównie na pokładzie. Oprócz zwykłych prac załogi znasz podstawy silników i pomagasz przy ich obsłudze.
+T: Odcumowujesz i cumujesz statek przy nabrzeżu | Zmywasz pokład i konserwujesz sprzęt | Sprawdzasz poziom oleju i pracę silnika | Pomagasz mechanikowi przy drobnych usterkach
+D: 6:00 Obchód maszynowni, sprawdzasz olej i temperaturę silnika | 7:00 Odcumowujesz statek i wypływacie z portu | 12:00 Szorujesz i konserwujesz pokład w trakcie rejsu | 18:00 Cumujesz statek na noc przy nabrzeżu
+Y: Zawiąż sznurek na poręczy krzesła węzłem cumowniczym według opisu z internetu i rozwiąż go.
+
+@555
+H: Pracujesz na pokładzie statku, który pływa po morzach, i pomagasz kapitanowi oraz oficerom. Sprzątasz, polerujesz, naprawiasz olinowanie i żagle, a pogodę i przebytą trasę zapisujesz w dzienniku.
+T: Szorujesz pokłady i polerujesz mosiądz | Kontrolujesz i naprawiasz żagle i olinowanie | Malujesz i lakierujesz powierzchnie statku | Zapisujesz pogodę i dystans w dzienniku
+D: 4:00 Wachta nocna na pokładzie, zapisujesz pogodę | 8:00 Szorujesz pokład i polerujesz mosiądz | 13:00 Sprawdzasz olinowanie i naprawiasz naderwany żagiel | 17:00 Lakierujesz drewniane wykończenia, potem odkładasz sprzęt
+Y: Zapisz w zeszycie jak w dzienniku okrętowym pogodę za oknem trzy razy co pięć minut.
+
+@556
+H: Należysz do załogi barki lub statku rzecznego i robisz po trochu wszystko: stoisz przy kole sterowym, pracujesz na pokładzie i w ładowni. Znasz też sprzęt ratunkowy i wiesz, jak go użyć.
+T: Stoisz przy kole sterowym podczas rejsu | Obsługujesz kotwicę i liny cumownicze | Pracujesz na pokładzie, w ładowni i maszynowni | Uruchamiasz sprzęt ratunkowy w razie zagrożenia
+D: 5:30 Obchód statku i sprawdzenie ładowni przed odpłynięciem | 7:00 Stoisz przy sterze na krętym odcinku rzeki | 11:00 Pomagasz przy wejściu statku do śluzy | 15:00 Ćwiczenie alarmowe, uruchamiasz sprzęt ratunkowy
+Y: Znajdź na mapie największą rzekę w pobliżu i wypisz trzy miasta nad nią.
+
+@557
+H: Zaczynasz od najprostszych prac na pokładzie dużego statku morskiego. Wykonujesz polecenia kapitana i starszych członków załogi, a morskiego rzemiosła uczysz się na bieżąco.
+T: Szorujesz i konserwujesz pokład | Pomagasz przy cumowaniu i kotwiczeniu | Wykonujesz polecenia oficerów i starszych marynarzy | Przenosisz i układasz sprzęt oraz zapasy
+D: 6:00 Pobudka i szybkie śniadanie w mesie | 7:00 Dostajesz listę prac: szorowanie, malowanie, układanie lin | 12:00 Wchodzicie do portu, pomagasz przy cumach | 20:00 Wachta wieczorna, obserwujesz horyzont i meldujesz
+Y: Zwiń sznurek w równe zwoje i odłóż go tak, by dało się go rozwinąć bez splątania.
+
+@558
+H: Jesteś na początku drogi do zawodu marynarza rzecznego. Pod okiem załogi uczysz się cumowania, pracy przy silniku i utrzymania statku, a czasem dostajesz do przytrzymania ster.
+T: Podajesz liny starszym marynarzom przy cumowaniu | Sprzątasz i konserwujesz pokład | Pomagasz przy silniku i sprzęcie | Uczysz się sterowania pod nadzorem
+D: 5:30 Zaczynasz dzień od mycia pokładu | 7:30 Starszy marynarz pokazuje Ci, jak zrobić węzeł cumowniczy | 11:00 Pod nadzorem trzymasz ster na prostym odcinku | 16:30 Porządkujesz schowek ze sprzętem i liny
+Y: Obejrzyj w internecie zdjęcia barki rzecznej i nazwij na kartce cztery jej części, na przykład pokład i ster.
+
+@559
+H: Wypływasz kutrem na połów i pracujesz fizycznie na pokładzie: wyciągasz sieci, sortujesz ryby, pilnujesz sprzętu. Dni są nieregularne i zależą od pogody.
+T: Zarzucasz i wyciągasz sieci | Sortujesz i chłodzisz złowione ryby | Naprawiasz sprzęt połowowy | Pilnujesz łączności radiowej i zapasów na statku
+D: 3:00 Pobudka w porcie, wypływacie przed świtem | 5:00 Zarzucacie sieci i wyciągasz pierwszy połów | 9:00 Sortujesz ryby i układasz je w lodzie | 15:00 Wracacie do portu, rozładowujecie i łatacie sieci
+Y: Znajdź w internecie zdjęcia dorsza, śledzia i szprota i zapisz po jednej cesze odróżniającej każdą rybę.
+
+@560
+H: Pilnujesz przejazdu, w którym droga przecina tory. Obsługujesz zapory i sygnalizację, obserwujesz teren i dajesz znać maszynistom i dyżurnym, gdy coś jest nie tak.
+T: Opuszczasz i podnosisz zapory przejazdu | Obserwujesz samochody, pieszych i tory | Rozmawiasz przez radio z dyżurnym ruchu | Alarmujesz, gdy coś blokuje przejazd
+D: 6:00 Zaczynasz dyżur, sprawdzasz działanie zapór | 8:15 Dyżurny zapowiada pociąg, opuszczasz zapory | 13:00 Samochód stoi na torach, ostrzegasz maszynistę | 18:00 Wpisujesz do dziennika przejazdy pociągów
+Y: Przez dziesięć minut skup się na jednym punkcie za oknem i zapisuj każdą zmianę.
+
+@561
+H: Siedzisz w nastawni i decydujesz, który pociąg wjedzie na stację, a który musi poczekać. Odpowiadasz za to, żeby pociągi nie spotkały się na tym samym torze.
+T: Przyjmujesz i wypuszczasz pociągi ze stacji | Ustawiasz drogi przejazdu dla pociągów | Rozmawiasz z maszynistami przez radio | Sprawdzasz sygnały i rozkład jazdy
+D: 6:00 Przejmujesz dyżur i czytasz polecenia dla pociągów | 8:00 Towarowy wjeżdża na stację, ekspres czeka na sygnał | 14:00 Awaria zwrotnicy, ustalasz objazd z sąsiednią stacją | 22:00 Nocą kilka pociągów, rozmawiasz z maszynistami przez radio
+Y: Narysuj schemat stacji z torem bocznym i pokaż strzałkami, jak jeden pociąg mija drugi.
+
+@562
+H: Na stacji rozrządowej łączysz i rozłączasz wagony, układając z nich pociągi. Pracujesz na dworze, przy lokomotywie manewrowej, często na zmianach.
+T: Układasz pociągi z wagonów według zlecenia | Rozłączasz wagony na stacji rozrządowej | Dajesz maszyniście sygnały ręką lub radiem | Przechodzisz po torach i sprawdzasz sprzęgi
+D: 5:00 Odbierasz zlecenie, które wagony trzeba przestawić | 7:00 Dajesz sygnały maszyniście, lokomotywa podsuwa wagony | 12:00 Rozłączasz wagony i układasz z nich nowy pociąg | 20:00 Nocą kończysz składanie pociągu na bocznicy
+Y: Ułóż z klocków lub pudełek sześć wagonów i przestaw je w kolejności zapisanej na kartce.
+
+@563
+H: Prowadzisz pociąg pasażerski lub towarowy i odpowiadasz za ludzi i ładunek. Cały czas obserwujesz tory, sygnały i wskazania pulpitu.
+T: Prowadzisz pociąg zgodnie z sygnałami | Sprawdzasz lokomotywę przed wyjazdem | Rozmawiasz przez radio z dyżurnymi i kierownikiem | Hamujesz tak, by zatrzymać się na peronie
+D: 3:30 Wstajesz w nocy na wczesny kurs | 4:30 Odbierasz lokomotywę i sprawdzasz hamulce | 9:00 Na trasie odczytujesz sygnały przy torze i pulpit | 13:00 Kończysz trasę i przekazujesz pociąg następnej zmianie
+Y: Przez pięć minut przeglądaj rozkład jazdy pociągów bez rozpraszaczy i zapisz, ile razy zgubisz wątek.
+
+@564
+H: Zanim pociąg wyjedzie z peronu, sprawdzasz, czy wszystko działa: drzwi, światła, hamulce, wyposażenie wagonów. Dopilnowujesz też, żeby skład pasował do trasy.
+T: Testujesz drzwi, światła i systemy w wagonach | Sprawdzasz hamulce przed wyjazdem | Sprawdzasz, czy wagony mają wymagane wyposażenie | Potwierdzasz, że skład pasuje do trasy
+D: 4:00 Obchodzisz zaparkowany pociąg i sprawdzasz każdy wagon | 5:00 Test drzwi, oświetlenia i hamulców w składzie | 6:00 Wykryta usterka oświetlenia, zgłaszasz ją do naprawy | 7:00 Potwierdzasz gotowość i oddajesz pociąg obsłudze
+Y: Zrób listę pięciu rzeczy do sprawdzenia przed wyjściem z domu i odhacz je po kolei.
+
+@565
+H: Pomagasz dyżurnemu ruchu, przestawiając zwrotnice i sygnały tak, by pociąg pojechał właściwym torem. Pracujesz przy torach, w każdą pogodę.
+T: Przestawiasz zwrotnice według poleceń dyżurnego | Obsługujesz sygnały na stacji | Sprawdzasz, czy zwrotnica jest dobrze ustawiona | Zgłaszasz usterki toru i urządzeń
+D: 6:00 Dyżurny przekazuje Ci plan pociągów na zmianę | 8:00 Przestawiasz zwrotnicę i kierujesz pociąg na tor boczny | 12:00 Mróz, sprawdzasz, czy nic nie blokuje zwrotnicy | 18:00 Meldujesz dyżurnemu, że droga dla pociągu jest gotowa
+Y: Ułóż z ołówków rozwidlenie torów i przesuń wzdłuż nich monetę raz w lewo, raz w prawo.
+
+@566
+H: Uczysz kursantów prowadzić pojazd i znać przepisy ruchu, najpierw na placu, potem w mieście. Siedzisz obok, masz własne pedały i reagujesz, gdy kursant popełni błąd.
+T: Tłumaczysz przepisy ruchu na zajęciach | Pokazujesz podstawy obsługi pojazdu | Poprawiasz błędy kursanta w czasie jazdy | Przygotowujesz do egzaminu teoretycznego i praktycznego
+D: 8:00 Zajęcia z teorii dla grupy kursantów | 10:00 Nowy kursant, pokazujesz mu ruszanie i hamowanie | 13:00 Kursant zapomina o kierunkowskazie, korygujesz spokojnie | 17:30 Omawiasz z kursantem błędy po jeździe
+Y: Zapisz w sensownej kolejności czynności kierowcy przed ruszeniem: fotel, lusterka, pasy, kierunkowskaz.
+
+@567
+H: Uczysz przyszłych kierowców autobusów prowadzić duży pojazd z pasażerami. Skupiasz się na gabarytach, zakrętach, przystankach i bezpieczeństwie osób na pokładzie.
+T: Pokazujesz, jak pokonać ciasny zakręt długim pojazdem | Uczysz zatrzymywania autobusu przy krawędzi przystanku | Tłumaczysz obsługę drzwi i hamulców | Przygotowujesz do egzaminu na prawo jazdy autobusem
+D: 7:00 Teoria o czasie pracy kierowcy i hamowaniu | 9:00 Na placu ćwiczysz z kursantem cofanie autobusem | 12:30 Jazda przez miasto, kursant za szeroko skręca | 16:00 Po jeździe omawiasz błędy i plan kolejnych zajęć
+Y: Odmierz krokami dwanaście metrów, tyle ma autobus miejski, i oznacz to miejsce w domu lub na podwórku.
+
+@568
+H: Uczysz ludzi jazdy motocyklem, najpierw na placu, potem w ruchu. Ćwiczysz z nimi równowagę i hamowanie, pilnujesz kasku i ochraniaczy oraz tłumaczysz, jak groźne są błędy.
+T: Uczysz równowagi i panowania nad motocyklem | Pokazujesz hamowanie i pokonywanie łuków | Sprawdzasz kask i odzież ochronną kursanta | Omawiasz błędy po każdej jeździe
+D: 8:00 Plac manewrowy, kursant uczy się płynnie ruszać | 10:00 Ćwiczycie slalom między pachołkami i hamowanie awaryjne | 13:00 Jazda po mieście, dajesz polecenia przez słuchawkę | 16:30 Omawiasz błędy i przygotowujesz do egzaminu
+Y: Stań przy ścianie na jednej nodze przez pół minuty, potem na drugiej, i zapisz, którą trzymasz stabilniej.
+
+@569
+H: Uczysz prowadzić ciężarówkę: duże gabaryty, długa droga hamowania i cofanie z naczepą. Przygotowujesz kursantów do egzaminu i do pracy zawodowego kierowcy.
+T: Uczysz cofania i manewrów z naczepą | Tłumaczysz długą drogę hamowania ciężarówki | Pokazujesz ustawianie lusterek i martwe pola | Prowadzisz zajęcia z teorii i przepisów
+D: 6:30 Z kursantem oglądasz opony, lusterka i poziom płynów | 8:00 Plac manewrowy, cofanie z naczepą między pachołkami | 12:00 Jazda drogą krajową, kursant ćwiczy bezpieczne odstępy | 15:30 Teoria o czasie jazdy i odpoczynku kierowców
+Y: Ustaw dwa pudełka różnej wielkości tak, by mniejsze zniknęło za większym, patrząc z jednego miejsca.
+

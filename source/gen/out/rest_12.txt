@@ -1,0 +1,180 @@
+@1920
+H: Opiekujesz się grupą maluchów w żłobku lub klubie dziecięcym, gdy rodzice są w pracy. Pilnujesz ich bezpieczeństwa, karmisz je i bawisz się z nimi.
+T: Karmisz maluchy i pomagasz im jeść | Przewijasz i uczysz korzystania z nocnika | Prowadzisz zabawy ruchowe i plastyczne | Rozmawiasz z rodzicami przy odbiorze dziecka
+D: 7:00 Otwierasz salę i witasz pierwsze dzieci | 9:30 Śniadanie i mycie rączek całej grupy | 12:30 Układasz maluchy do leżakowania | 16:00 Oddajesz dzieci rodzicom i opowiadasz o dniu
+Y: Wymyśl prostą zabawę dla dwulatka z rzeczy z domu i opisz jej zasady w trzech zdaniach.
+
+@1921
+H: Opiekujesz się dziećmi w ich domu, kiedy rodzice pracują. Odbierasz je ze szkoły, karmisz i pilnujesz, żeby odrobiły lekcje.
+T: Odbierasz dzieci ze szkoły lub przedszkola | Przygotowujesz obiad i podwieczorek | Kąpiesz młodsze dzieci wieczorem | Pomagasz w odrabianiu pracy domowej
+D: 13:00 Odbierasz siedmiolatka ze szkoły i wracacie do domu | 14:00 Podajesz obiad i sprawdzasz plecak | 15:30 Siadasz z dzieckiem do zadania z matematyki | 18:30 Kąpiel młodszego, potem czytanie bajki
+Y: Zaplanuj w pięciu punktach popołudnie z dzieckiem w wieku sześciu lat, od obiadu do kąpieli.
+
+@1922
+H: Zajmujesz się cudzymi dziećmi przez kilka godzin, np. wieczorem albo w weekend. Za każdym razem trafiasz do innej rodziny i innych zasad w domu.
+T: Poznajesz dziecko i zasady w domu rodziców | Wymyślasz zabawy na krótki czas | Podajesz kolację i układasz do snu | Zapisujesz rodzicom, co się działo
+D: 17:30 Rodzice wychodzą, zostawiają numer i zasady | 18:00 Budujecie z dziećmi tor z klocków | 19:30 Kolacja, mycie zębów, piżama | 21:00 Dziecko zasypia, czekasz na powrót rodziców
+Y: Wypisz pięć zabaw na wieczór, które nie wymagają ekranu ani kupowania czegokolwiek.
+
+@1923
+H: Pilnujesz dzieci i zajmujesz się ich podstawowymi potrzebami, gdy rodzice nie mogą. Pracujesz w przedszkolu, placówce opieki albo w domu rodziny.
+T: Pilnujesz dzieci podczas zabawy | Pomagasz przy ubieraniu i jedzeniu | Uspokajasz dziecko, które płacze za mamą | Sprzątasz z dziećmi salę po zabawie
+D: 7:30 Dzieci przychodzą, jedno płacze za mamą | 10:00 Wyjście na plac zabaw całą grupą | 12:00 Obiad i pomoc przy małych łyżkach | 15:00 Zabawy w kącikach, odbierają je rodzice
+Y: Zorganizuj w domu zabawę dla młodszego rodzeństwa lub kuzyna i obserwuj, co go najbardziej wciąga.
+
+@1924
+H: Jedziesz razem z dziećmi autobusem do szkoły i z powrotem. Pilnujesz, żeby bezpiecznie wsiadły, siedziały zapięte i nie rozrabiały.
+T: Pomagasz dzieciom wsiadać i wysiadać | Sprawdzasz, czy wszyscy mają zapięte pasy | Uspokajasz kłótnie podczas jazdy | Pomagasz kierowcy w nagłych wypadkach
+D: 6:45 Wsiadasz do autobusu na pierwszym przystanku | 7:30 Liczysz dzieci przed szkołą i pomagasz wysiąść | 13:00 Odprowadzasz grupę z klas do autobusu | 14:30 Oddajesz dzieci rodzicom na kolejnych przystankach
+Y: Spisz pięć zasad bezpiecznego zachowania dziecka w autobusie i omów je z kimś młodszym.
+
+@1925
+H: Kierujesz ośrodkiem, do którego młodzi ludzie przychodzą po zajęcia, rozmowę i wsparcie. Układasz plan zajęć i prowadzisz pracę zespołu.
+T: Sprawdzasz, czego potrzebuje młodzież w okolicy | Układasz grafik zajęć i wydarzeń | Rozmawiasz z wychowawcami o trudnych przypadkach | Piszesz plany i rozliczasz budżet ośrodka
+D: 9:00 Przeglądasz grafik i wiadomości od zespołu | 11:00 Spotkanie ze szkołą w sprawie wspólnego projektu | 14:00 Rozmowa z nastolatkiem, który rzadko ostatnio przychodzi | 17:00 Otwierasz ośrodek, zaczynają się popołudniowe zajęcia
+Y: Zapisz pięć pomysłów na zajęcia dla nastolatków w twojej okolicy i wybierz ten najłatwiejszy do zorganizowania.
+
+@1926
+H: Wymyślasz i prowadzisz programy dla młodych ludzi, np. wyjazdy, warsztaty czy wsparcie w nauce. Łączysz szkoły, organizacje i rodziny.
+T: Piszesz plan programu i jego cele | Umawiasz współpracę ze szkołami i organizacjami | Organizujesz wydarzenia dla młodzieży i rodzin | Sprawdzasz, czy program naprawdę działa
+D: 8:30 Poprawiasz plan warsztatów na następny miesiąc | 10:30 Telefon do szkoły w sprawie terminów | 13:00 Spotkanie z organizacją, która udostępni salę na wydarzenie | 15:30 Czytasz ankiety od uczestników ostatniego wyjazdu
+Y: Wymyśl projekt dla młodzieży z twojej szkoły: nadaj mu nazwę, cel i trzy działania.
+
+@1927
+H: Pomagasz ludziom, których nie stać na zwykły wynajem, dostać mieszkanie socjalne. Sprawdzasz, ilu mieszkań brakuje w okolicy, i pilnujesz podziału pieniędzy.
+T: Badasz, ilu mieszkań brakuje w okolicy | Rozmawiasz z firmami budującymi mieszkania publiczne | Rozdzielasz środki na mieszkania socjalne | Proponujesz zmiany w lokalnej polityce mieszkaniowej
+D: 8:00 Czytasz listę rodzin czekających na mieszkanie | 10:00 Spotkanie z zarządem budowy nowego bloku | 13:00 Liczysz, ile pieniędzy starczy na remonty | 15:00 Piszesz raport dla urzędu o potrzebach gminy
+Y: Przejdź w myślach swoją ulicę i zapisz, jakie typy mieszkań tam są: bloki, domy, kamienice.
+
+@1928
+H: Kierujesz zespołem pracowników socjalnych i odpowiadasz za działanie pomocy dla dzieci i rodzin. Wdrażasz przepisy i podejmujesz decyzje w trudnych sprawach.
+T: Zarządzasz zespołem i podziałem spraw | Wdrażasz przepisy dotyczące opieki nad dziećmi | Współpracujesz z sądem, szkołą i służbą zdrowia | Ustalasz zasady postępowania w zespole
+D: 8:00 Zebranie zespołu, omawiacie najpilniejsze sprawy rodzin | 10:30 Analizujesz decyzję o opiece nad dzieckiem | 13:00 Telefon do szkoły i lekarza w tej sprawie | 15:30 Rozmowa z pracownikiem, który ma trudny przypadek
+Y: Zastanów się i zapisz, komu w twojej okolicy mogą pomagać pracownicy socjalni i w jakich sytuacjach.
+
+@1929
+H: Prowadzisz miejsce, gdzie dzieci spędzają czas po szkole, odrabiają lekcje i dostają pomoc. Kierujesz opiekunami i rozmawiasz z rodzinami.
+T: Układasz grafik opiekunów i zajęć | Rozmawiasz z rodzicami o trudnościach dziecka | Pilnujesz, żeby placówka miała wyposażenie | Wspierasz opiekunów w trudnych sytuacjach
+D: 10:00 Układasz plan zajęć na kolejny tydzień | 12:00 Rozmowa z rodzicem o kłopotach z nauką | 14:00 Dzieci przychodzą po szkole, sprawdzasz obiady | 16:30 Opiekun prosi cię o radę w sprawie kłótni
+Y: Wymyśl trzy zajęcia na popołudnie dla grupy ośmiolatków, które nie wymagają kupowania niczego.
+
+@1930
+H: Zarządzasz przedszkolem lub żłobkiem: zatrudniasz ludzi, przyjmujesz dzieci i pilnujesz, żeby program był zgodny z przepisami.
+T: Zatrudniasz nauczycieli i opiekunów | Prowadzisz nabór dzieci na nowy rok | Sprawdzasz, czy program pasuje do wieku dzieci | Dopilnowujesz wymogów prawnych i kontroli
+D: 7:30 Witasz rodziców i sprawdzasz, kto jest nieobecny | 9:30 Rozmowa o pracę z nowym nauczycielem | 12:00 Obchodzisz grupy i pytasz o kłopoty | 14:30 Wypełniasz papiery dla urzędu
+Y: Wypisz, jakie dokumenty i informacje rodzic powinien podać przy zapisie dziecka do przedszkola.
+
+@1931
+H: Organizujesz zajęcia dla dzieci po lekcjach i w wakacje, np. półkolonie. Układasz program dni i dobierasz opiekunów.
+T: Układasz program zajęć na wakacje | Dobierasz opiekunów do grup | Planujesz imprezy i wyjścia dla dzieci | Sprawdzasz, czy miejsce jest bezpieczne
+D: 8:00 Witasz opiekunów i rozdzielasz ich do grup | 10:00 Wycieczka do parku, liczysz dzieci co chwilę | 13:00 Obiad i rozwiązywanie sporu o miejsca przy stole | 16:00 Rodzice odbierają dzieci, ustalasz plan jutra
+Y: Ułóż plan jednego dnia półkolonii dla dzieci od siedmiu do dziewięciu lat.
+
+@1932
+H: Zarządzasz domem, w którym mieszkają osoby starsze potrzebujące codziennej opieki. Organizujesz pracę opiekunów i pielęgniarek oraz pilnujesz, żeby mieszkańcom niczego nie brakowało.
+T: Układasz grafiki zmian opiekunów | Rozmawiasz z rodzinami mieszkańców | Zamawiasz leki, jedzenie i sprzęt | Oceniasz, czy opieka nad seniorami działa dobrze
+D: 7:30 Przejmujesz informacje o nocnej zmianie | 9:30 Obchód po pokojach, rozmowy z mieszkańcami | 12:00 Rozmowa z córką mieszkanki o jej mamie | 15:00 Poprawiasz grafik, bo ktoś zachorował
+Y: Zapytaj starszą osobę z rodziny, co jej w ciągu dnia najbardziej utrudnia życie, i zapisz trzy odpowiedzi.
+
+@1933
+H: Towarzyszysz kobiecie w ciąży, podczas porodu i po nim, dając wsparcie emocjonalne i praktyczne. Nie wykonujesz czynności medycznych, bo to zadanie położnej i lekarza.
+T: Rozmawiasz z przyszłą mamą o obawach | Uczysz oddechu i pozycji ułatwiających poród | Jesteś przy niej w czasie porodu | Pomagasz po narodzinach w karmieniu i domu
+D: 10:00 Spotkanie w domu, rozmowa o planie porodu | 14:00 Ćwiczycie oddychanie i rozluźnianie pleców | 2:00 Telefon w nocy, zaczyna się poród | 3:30 Trzymasz za rękę i podajesz wodę
+Y: Naucz się spokojnego oddechu: wdech na cztery, wydech na sześć. Poćwicz przez pięć minut.
+
+@1934
+H: Reprezentujesz swój kraj w innym państwie i negocjujesz z tamtejszym rządem. Chronisz też swoich obywateli, którzy tam mieszkają lub mają kłopot.
+T: Negocjujesz z urzędnikami kraju, w którym pracujesz | Piszesz raporty i rady dla rządu w kraju | Pomagasz obywatelom w kłopotach za granicą | Reprezentujesz kraj na uroczystościach
+D: 9:00 Czytasz depesze i prasę z obu krajów | 11:00 Spotkanie w ministerstwie gospodarza w sprawie umowy | 15:00 Pomoc w sprawie obywatela bez dokumentów | 19:30 Przyjęcie dla gości, rozmowy o współpracy
+Y: Znajdź trzy informacje o kraju, który chcesz poznać, i zapisz, co łączy go z Polską.
+
+@1935
+H: Odpowiadasz w ambasadzie za jedną dziedzinę, np. gospodarkę, obronę albo politykę. Doradzasz ambasadorowi i prowadzisz swój mały zespół.
+T: Śledzisz sprawy swojej dziedziny w kraju gospodarza | Doradzasz ambasadorowi przy trudnych decyzjach | Spotykasz się z lokalnymi urzędnikami | Kierujesz pracą ludzi w swojej sekcji
+D: 8:30 Czytasz lokalne wiadomości o gospodarce | 10:00 Odprawa u ambasadora, przedstawiasz swoje wnioski | 13:00 Lunch z urzędnikiem ministerstwa handlu | 16:00 Piszesz notatkę dla ministerstwa w stolicy
+Y: Wybierz jedną ważną wiadomość z gospodarki dnia i napisz trzy zdania, jak może dotyczyć Polski.
+
+@1936
+H: Reprezentujesz swój kraj w organizacji międzynarodowej i bronisz jego interesów w negocjacjach. Utrzymujesz kontakty z urzędnikami tej organizacji.
+T: Negocjujesz stanowisko kraju z urzędnikami organizacji | Uczestniczysz w posiedzeniach i głosowaniach | Przesyłasz do stolicy raporty z rozmów | Pilnujesz, by interesy kraju były uwzględnione
+D: 9:00 Odprawa w delegacji przed posiedzeniem | 10:30 Posiedzenie komitetu, zgłaszasz stanowisko kraju | 14:00 Rozmowa na korytarzu z delegatem innego kraju | 18:00 Piszesz sprawozdanie i wysyłasz do stolicy
+Y: Przekonaj domownika trzema argumentami do zmiany wspólnego planu na weekend.
+
+@1937
+H: Kierujesz całą jednostką policji, od patroli po biuro. Układasz zasady pracy i dopilnowujesz, żeby wydziały działały razem.
+T: Ustalasz, gdzie i kiedy służą patrole | Analizujesz zgłoszenia i dane o przestępstwach | Ułatwiasz współpracę między wydziałami | Rozmawiasz z mieszkańcami i władzami miasta
+D: 7:30 Odprawa poranna, omawiasz noc i zdarzenia | 10:00 Przeglądasz plany patroli na weekend | 13:00 Spotkanie z burmistrzem w sprawie bezpieczeństwa | 16:00 Rozmowa z policjantem po trudnej interwencji
+Y: Zapisz trzy miejsca w swojej okolicy, gdzie mieszkańcy mogą czuć się niebezpiecznie, i powód.
+
+@1938
+H: Kierujesz strażą pożarną i odpowiadasz za wozy, sprzęt i strażaków. Prowadzisz kontrole bezpieczeństwa i uczysz mieszkańców, jak zapobiegać pożarom.
+T: Sprawdzasz stan wozów i sprzętu | Prowadzisz kontrole zabezpieczeń przeciwpożarowych | Organizujesz szkolenia dla strażaków | Uczysz mieszkańców zapobiegania pożarom
+D: 7:30 Odprawa i przegląd wozów w remizie | 9:30 Kontrola wyjść ewakuacyjnych w budynku | 12:00 Rozmowa z burmistrzem o zakupie sprzętu | 15:00 Prelekcja o pożarach w szkole
+Y: Narysuj plan mieszkania i zaznacz, którędy wyjdziesz z każdego pokoju, gdyby trzeba było się ewakuować.
+
+@1939
+H: Pomagasz obywatelom swojego kraju, którzy mieszkają za granicą lub tam podróżują. Załatwiasz im dokumenty i wspierasz w kłopotach.
+T: Wydajesz i przedłużasz dokumenty obywatelom | Pomagasz, gdy ktoś straci paszport | Odwiedzasz obywateli w szpitalu lub areszcie | Wspierasz współpracę gospodarczą z krajem gospodarza
+D: 8:30 Otwierasz okienko, przyjmujesz pierwsze wnioski | 11:00 Turysta bez paszportu prosi o dokument zastępczy | 14:00 Telefon od rodziny z pytaniem o zatrzymanego | 16:00 Spotkanie z lokalnymi firmami szukającymi partnerów
+Y: Sprawdź, jakie dokumenty są potrzebne, by Polak mógł wyjechać z rodziną na wakacje do wybranego kraju.
+
+@1940
+H: Kierujesz bankiem, który odpowiada za wartość pieniądza w kraju. Decydujesz o stopach procentowych i nadzorujesz inne banki.
+T: Ustalasz wysokość stóp procentowych | Śledzisz ceny i kurs waluty | Nadzorujesz banki komercyjne w kraju | Wyjaśniasz decyzje publicznie na konferencjach
+D: 8:00 Czytasz analizy o cenach i kursach | 10:00 Posiedzenie rady, głosujecie nad stopami | 14:00 Konferencja prasowa, tłumaczysz decyzję dziennikarzom | 17:00 Spotkanie z szefami banków o bezpieczeństwie
+Y: Zapytaj domowników, czy ceny w sklepie zmieniły się w tym roku, i wypisz trzy przykłady.
+
+@1941
+H: Przewodzisz międzynarodową organizacją, rządową lub pozarządową. Kierujesz jej pracownikami, ustalasz strategię i występujesz jako jej głos na zewnątrz.
+T: Ustalasz kierunek działania organizacji | Kierujesz zespołem pracowników z wielu krajów | Przemawiasz w imieniu organizacji | Spotykasz się z przywódcami państw i partnerami
+D: 8:00 Czytasz raporty z biur w różnych krajach | 10:00 Narada z zespołem o planie na rok | 13:00 Spotkanie z ministrem, który chce wsparcia | 17:00 Przygotowujesz przemówienie na jutrzejsze zgromadzenie
+Y: Wybierz problem świata, który cię obchodzi, i napisz trzy zdania wystąpienia, które zachęca do działania.
+
+@1942
+H: Kierujesz wdrażaniem polityk rządu w swoim urzędzie lub resorcie. Zarządzasz ludźmi i pieniędzmi, a potem sprawdzasz, czy plan działa.
+T: Przekładasz decyzje rządu na plany pracy | Zarządzasz zespołem i budżetem urzędu | Piszesz sprawozdania z wykonania polityk | Tłumaczysz obywatelom i urzędnikom nowe zasady
+D: 8:30 Przeglądasz pocztę i nowe przepisy | 10:00 Narada z dyrektorami departamentów | 13:00 Czytasz sprawozdanie o postępach wdrażania | 15:30 Spotkanie z urzędnikami z regionu
+Y: Wybierz jedną zasadę obowiązującą w twojej szkole i napisz, kto ją wprowadza i po co.
+
+@1943
+H: Kierujesz miastem lub gminą i przewodniczysz obradom rady. Reprezentujesz mieszkańców na uroczystościach i nadzorujesz pracę urzędu.
+T: Prowadzisz obrady rady miejskiej | Podpisujesz decyzje o inwestycjach i budżecie | Nadzorujesz pracowników urzędu | Otwierasz uroczystości i spotkania z mieszkańcami
+D: 8:00 Narada z urzędnikami o remoncie drogi | 10:00 Rozmowa z mieszkańcem skarżącym się na hałas | 14:00 Przecinasz wstęgę przy nowej szkole | 18:00 Obrady rady miejskiej, głosowanie nad budżetem
+Y: Wybierz jedno miejsce w mieście, które warto poprawić, i zapisz plan w trzech krokach.
+
+@1944
+H: Kierujesz jednym działem rządu, np. zdrowiem lub edukacją, i decydujesz o jego kierunku. Przygotowujesz nowe przepisy i odpowiadasz za pracę ministerstwa.
+T: Decydujesz o priorytetach swojego resortu | Przygotowujesz projekty ustaw | Prowadzisz posiedzenia ministerstwa | Odpowiadasz na pytania posłów i mediów
+D: 7:30 Czytasz notatki od doradców przed posiedzeniem rządu | 9:00 Posiedzenie rządu, bronisz swojego projektu | 13:00 Spotkanie ze związkami zawodowymi o zmianach | 17:00 Wywiad w telewizji o nowych przepisach
+Y: Wymyśl jedną zmianę w przepisach szkolnych i zapisz dwa argumenty za oraz jeden przeciw.
+
+@1945
+H: Zasiadasz w parlamencie, głosujesz nad ustawami i piszesz własne propozycje przepisów. Reprezentujesz wyborców i swoją partię.
+T: Głosujesz nad ustawami w parlamencie | Piszesz projekty nowych przepisów | Pracujesz w komisjach nad szczegółami ustaw | Spotykasz się z wyborcami w swoim okręgu
+D: 8:00 Czytasz projekty ustaw przed głosowaniem | 10:00 Posiedzenie komisji, zadajesz pytania ministerstwu | 14:00 Głosowanie w sali obrad | 18:00 Spotkanie z wyborcami w swoim okręgu
+Y: Zapytaj dwie osoby w domu, jaki problem powinien rozwiązać parlament, i zapisz ich argumenty.
+
+@1946
+H: Reprezentujesz mieszkańców w radzie miasta i głosujesz nad sprawami lokalnymi, np. drogami czy szkołami. Wysłuchujesz ich skarg i zgłaszasz je urzędnikom.
+T: Głosujesz nad uchwałami rady miasta | Wysłuchujesz skarg i pomysłów mieszkańców | Zgłaszasz sprawy do urzędu miasta | Pracujesz w komisjach rady nad budżetem
+D: 8:00 Odbierasz wiadomości od mieszkańców dzielnicy | 11:00 Oglądasz chodnik zgłoszony przez mieszkańców | 16:00 Spotkanie z urzędnikiem w sprawie remontu | 18:00 Sesja rady, głosujesz nad budżetem miasta
+Y: Znajdź w okolicy jeden mały problem i napisz trzy zdania zgłoszenia do urzędu, bez wysyłania.
+
+@1947
+H: Pomagasz ministrowi kierować resortem i zastępujesz go przy wielu sprawach. Pilnujesz planów, ludzi i pieniędzy w ministerstwie.
+T: Zastępujesz ministra na spotkaniach | Nadzorujesz wybrane departamenty ministerstwa | Pomagasz planować wydatki i zasoby | Podejmujesz decyzje w sprawach bieżących
+D: 8:00 Rozmowa z ministrem o planach tygodnia | 10:00 Narada z dyrektorami podległych departamentów | 13:00 Reprezentujesz ministerstwo na konferencji w jego imieniu | 16:00 Podpisujesz dokumenty i akceptujesz plan wydatków
+Y: Podziel jedną domową sprawę, np. porządki w weekend, na role i zapisz, kto za co odpowiada.
+
+@1948
+H: Zasiadasz w izbie parlamentu i pracujesz nad ustawami, także nad zmianami konstytucji. Negocjujesz zapisy i łagodzisz spory między instytucjami.
+T: Czytasz i poprawiasz projekty ustaw | Negocjujesz zapisy z innymi senatorami | Głosujesz nad zmianami konstytucji | Łagodzisz spory między instytucjami państwa
+D: 8:30 Czytasz poprawki do ustawy przed posiedzeniem | 10:00 Rozmowa z kolegami o spornych zapisach | 13:00 Posiedzenie komisji prawa i konstytucji | 17:00 Głosujesz nad ustawą w sali senatu
+Y: Przeczytaj jeden artykuł konstytucji dostępny w internecie i napisz własnymi słowami, co oznacza.
+
+@1949
+H: Jesteś głównym przedstawicielem władz w regionie i nadzorujesz pracę lokalnych samorządów. Występujesz też na oficjalnych uroczystościach.
+T: Nadzorujesz pracę samorządów w regionie | Kierujesz urzędem i jego pracownikami | Uczestniczysz w uroczystościach państwowych | Podpisujesz zarządzenia dla całego regionu
+D: 8:00 Odprawa w urzędzie wojewódzkim | 10:30 Spotkanie z burmistrzami z regionu | 13:00 Uroczystość z okazji święta regionu | 16:00 Podpisujesz zarządzenia i przeglądasz raporty
+Y: Sprawdź na mapie, do jakiego regionu należy twoja miejscowość, i wypisz trzy sąsiednie miasta.
+

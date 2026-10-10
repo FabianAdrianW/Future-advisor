@@ -1,0 +1,180 @@
+@2130
+H: Znasz rodzaje piw, ich skład i historię, doradzasz w wyborze do potraw i prowadzisz degustacje. To praca tylko dla dorosłych, bo dotyczy alkoholu.
+T: Opisujesz smak i zapach różnych piw | Dobierasz piwo do potraw | Prowadzisz degustacje dla gości | Piszesz oceny i opisy piw
+D: 10:00 Sprawdzasz dostawę i stan nalewaków | 12:00 W restauracji doradzasz piwo do dania | 15:00 Przygotowujesz degustację pięciu stylów | 19:00 Opowiadasz gościom o historii piwa
+Y: Spróbuj dwóch rodzajów herbaty i opisz zapach, smak i posmak każdej trzema słowami.
+
+@2131
+H: Odpowiadasz w restauracji za wino i inne napoje: przyjmujesz zamówienia, przygotowujesz je i podajesz gościom. To praca przy stoliku, więc liczy się też kontakt z ludźmi.
+T: Przyjmujesz zamówienia na wino i napoje | Przygotowujesz butelki do podania | Serwujesz napój w odpowiedniej temperaturze | Podpowiadasz gościom, co pasuje do dania
+D: 11:00 Sprawdzasz, które wina trzeba schłodzić | 13:00 Gość pyta o wino do ryby | 17:00 Przed kolacją ustawiasz kieliszki i butelki | 20:00 Otwierasz butelkę przy stoliku gości
+Y: Przygotuj w domu stolik do podania soku: dobierz szklankę i napisz, do jakiego dania pasuje.
+
+@2132
+H: Dobrze znasz wino: jak powstaje, jak się je podaje i do czego pasuje. Prowadzisz piwnicę z winami, układasz karty win i możesz o nich pisać.
+T: Dbasz o piwnicę i zapasy win | Układasz kartę win dla lokalu | Dobierasz wino do potraw | Piszesz opisy win lub książki o nich
+D: 9:00 Liczysz butelki w piwnicy | 11:00 Układasz nową kartę win | 14:00 Rozmawiasz z dostawcą o nowych rocznikach | 18:00 Doradzasz gościom wino do kolacji
+Y: Zrób kartę napojów bezalkoholowych dla rodziny: wypisz pięć napojów i dopisz do każdego pasujące danie.
+
+@2133
+H: Zaopatrujesz restaurację w wina i inne alkohole, doradzasz gościom i serwujesz napoje przy stoliku. Odpowiadasz zarówno za zakupy, jak i za rozmowę z klientem.
+T: Zamawiasz wina i napoje u dostawców | Doradzasz gościom w wyborze trunku | Serwujesz alkohole przy stoliku | Pilnujesz zapasów w restauracji
+D: 10:00 Zamawiasz brakujące wina u dostawcy | 13:00 Sprawdzasz stan zapasów w magazynie | 18:30 Pytasz gości o ich ulubiony smak | 21:00 Serwujesz ostatnie zamówienia przy stolikach
+Y: Zrób listę zakupów napojów na rodzinne przyjęcie i przelicz ilość na jedną osobę.
+
+@2134
+H: Przygotowujesz kawę w profesjonalnym ekspresie w kawiarni lub barze. Znasz różne rodzaje kaw i robisz je tak, żeby smakowały tak samo za każdym razem.
+T: Mielisz ziarna i ustawiasz ekspres | Parzysz espresso i spieniasz mleko | Przygotowujesz różne rodzaje kaw | Czyścisz ekspres i sprzątasz bar
+D: 6:30 Włączasz ekspres i ustawiasz młynek | 8:00 Poranna kolejka po kawę przed pracą | 12:00 Rysujesz wzór na pianie latte | 15:00 Czyścisz ekspres i myjesz dzbanki
+Y: Wstrząśnij zimne mleko w zakręconym słoiku przez minutę i opisz, jak zmieniła się jego faktura.
+
+@2135
+H: Mieszasz drinki alkoholowe i bezalkoholowe, dobierając proporcje, smaki i wygląd każdego z nich. Alkohol wolno podawać tylko dorosłym.
+T: Mieszasz drinki według receptur | Wymyślasz własne połączenia smaków | Dekorujesz szkło owocami i ziołami | Przygotowujesz syropy i składniki przed zmianą
+D: 14:00 Przygotowujesz owoce i syropy na wieczór | 17:00 Ustawiasz bar i sprawdzasz zapasy | 21:00 Przygotowujesz kilka drinków naraz dla grupy | 1:00 Sprzątasz bar po zamknięciu lokalu
+Y: Wymyśl bezalkoholowy napój z soku, wody gazowanej i mięty i spisz jego proporcje.
+
+@2136
+H: Podajesz klientom napoje alkoholowe i bezalkoholowe przy barze. Przyjmujesz zamówienia, nalewasz i rozliczasz się z gośćmi.
+T: Przyjmujesz zamówienia przy barze | Nalewasz piwo i inne napoje | Obsługujesz kasę i płatności | Nie sprzedajesz alkoholu osobom niepełnoletnim
+D: 15:00 Uzupełniasz lodówki i sprawdzasz zapasy | 18:00 Obsługujesz pierwszych gości po pracy | 22:00 Przy pełnym barze nalewasz kilka zamówień | 0:30 Liczysz kasę i zamykasz bar
+Y: Nalej do szklanek równe porcje wody z butelki i sprawdź, ile wyjdzie takich samych porcji.
+
+@2137
+H: Witasz gości przy wejściu i prowadzisz ich do stolika. Jesteś pierwszą osobą, którą klienci widzą w lokalu.
+T: Witasz gości przy wejściu | Sprawdzasz rezerwacje w księdze lub systemie | Prowadzisz gości do wolnych stolików | Mówisz, ile trzeba poczekać na stolik
+D: 11:30 Sprawdzasz rezerwacje na dzisiejszy dzień | 13:00 Witasz grupę gości i prowadzisz ich | 19:00 W szczycie informujesz o czasie oczekiwania | 21:30 Żegnasz gości i dziękujesz za wizytę
+Y: Wymyśl i powiedz na głos trzy uprzejme zdania na powitanie gości, w tym jedno dla rodziny z dzieckiem.
+
+@2138
+H: Pomagasz klientom wybrać i kupić bilety na podróż. Pytasz, dokąd i kiedy chcą jechać, i dopasowujesz ofertę do ich potrzeb.
+T: Pytasz klienta o cel i termin podróży | Szukasz dostępnych połączeń i cen | Rezerwujesz i sprzedajesz bilety | Odpowiadasz na pytania o zasady podróży
+D: 8:00 Otwierasz stanowisko i sprawdzasz rezerwacje | 10:00 Klient chce tanio dojechać nad morze | 13:00 Zmieniasz rezerwację z powodu odwołanego połączenia | 16:00 Zamykasz dzień i liczysz sprzedane bilety
+Y: Zaplanuj podróż z domu do innego miasta: wypisz opcje dojazdu i wskaż najtańszą z nich.
+
+@2139
+H: Obsługujesz kasę biletową na dworcu: sprzedajesz bilety, rezerwujesz miejsca i przyjmujesz zwroty. Na koniec dnia rozliczasz sprzedaż.
+T: Sprzedajesz bilety i rezerwujesz miejsca | Sprawdzasz wolne miejsca na planie wagonu | Przyjmujesz zwroty biletów | Rozliczasz dzienną sprzedaż w kasie
+D: 6:00 Otwierasz kasę i liczysz gotówkę | 8:00 Kolejka podróżnych przed porannym pociągiem | 12:00 Pasażer chce miejsce przy oknie | 14:00 Rozliczasz zmianę i oddajesz kasę
+Y: Znajdź w internecie rozkład pociągów między dwoma miastami i zapisz godziny odjazdu oraz przyjazdu.
+
+@2140
+H: Doradzasz klientom, dokąd i jak pojechać, a potem rezerwujesz i sprzedajesz podróże. Dopasowujesz ofertę do budżetu i potrzeb.
+T: Pytasz klienta o oczekiwania i budżet | Porównujesz oferty wyjazdów | Rezerwujesz noclegi i transport | Wyjaśniasz warunki umowy
+D: 9:00 Odpowiadasz na maile o ofertach | 11:00 Klienci szukają wakacji z dzieckiem | 13:30 Rezerwujesz hotel i przelot dla grupy | 16:00 Wyjaśniasz firmie szczegóły podróży służbowej
+Y: Zaplanuj w tabeli trzydniowy wyjazd dla rodziny: miejsce, dojazd i trzy atrakcje.
+
+@2141
+H: Jedziesz z grupą turystów i pilnujesz, żeby trasa przebiegała zgodnie z planem. Odpowiadasz na pytania i rozwiązujesz kłopoty na miejscu.
+T: Prowadzisz grupę według planu trasy | Podajesz turystom informacje praktyczne | Pilnujesz godzin zbiórek i wejść | Rozwiązujesz problemy z noclegiem lub transportem
+D: 6:30 Liczysz grupę przed wyjazdem autokaru | 9:00 Opowiadasz o historii zwiedzanego miasta | 13:00 Załatwiasz zmianę obiadu dla alergika | 18:00 Omawiasz plan jutrzejszego dnia
+Y: Przygotuj na kartce plan godzinowy dwugodzinnego spaceru po swojej okolicy, z czterema przystankami.
+
+@2142
+H: Układasz trasy podróży i sprzedajesz je osobom, które chcą wyjechać. Łączysz transport, noclegi i atrakcje w jedną ofertę.
+T: Układasz program podróży krok po kroku | Sprawdzasz dostępność hoteli i przelotów | Sprzedajesz gotowe oferty klientom | Wystawiasz dokumenty i potwierdzenia rezerwacji
+D: 9:00 Sprawdzasz poranną pocztę z hoteli | 11:00 Tworzysz ofertę na majówkę dla pary | 14:00 Klient zmienia termin i trzeba przeliczyć | 16:00 Wysyłasz potwierdzenia i dokumenty podróży
+Y: Ułóż na kartce plan weekendowego wyjazdu: transport, nocleg i dwa miejsca do zwiedzenia.
+
+@2143
+H: Pracujesz w punkcie dla turystów i podpowiadasz, co zobaczyć w okolicy, gdzie spać i na jakie wydarzenie pójść. Dobrze znasz swoje miasto.
+T: Odpowiadasz turystom na pytania | Wskazujesz atrakcje i trasy na mapie | Podpowiadasz noclegi i wydarzenia | Rozdajesz mapy i foldery
+D: 9:00 Otwierasz punkt i układasz foldery | 10:30 Turyści pytają o trasę do zamku | 13:00 Podpowiadasz rodzinie, co robić w deszczu | 16:00 Aktualizujesz listę wydarzeń na weekend
+Y: Wypisz pięć miejsc w swojej okolicy dla turysty i dopisz do każdego jedno zdanie.
+
+@2144
+H: Jesteś na miejscu wyjazdu i opiekujesz się turystami z danego biura. Odpowiadasz na pytania, rozwiązujesz kłopoty i sprzedajesz dodatkowe wycieczki.
+T: Witasz turystów po przylocie | Udzielasz informacji o miejscu pobytu | Sprzedajesz wycieczki fakultatywne | Pomagasz w razie kłopotów z hotelem
+D: 7:00 Czekasz na turystów na lotnisku | 10:00 W hotelu opowiadasz o dostępnych wycieczkach | 14:00 Gościowi zaginął bagaż, dzwonisz do linii | 19:00 Odpowiadasz na pytania przy kolacji
+Y: Napisz krótką ulotkę powitalną dla turystów odwiedzających twoje miasto: trzy ciekawostki i jedna rada.
+
+@2145
+H: Pomagasz pasażerom pociągów jeszcze na peronie, przed wejściem do wagonu. Sprawdzasz bilety, rezerwujesz miejsca i pomagasz przy opóźnieniach.
+T: Sprawdzasz bilety na peronie | Rezerwujesz bilety kolejowe | Pomagasz pasażerom z bagażem | Pomagasz w ubieganiu się o zwrot za opóźnienie
+D: 7:00 Stoisz na peronie przed odjazdem pociągu | 9:30 Pomagasz starszej pani znaleźć wagon | 13:00 Pociąg jest opóźniony, tłumaczysz pasażerom zasady | 16:00 Wypełniasz z pasażerem wniosek o zwrot
+Y: Wymyśl i zapisz trzy krótkie komunikaty dla pasażerów o opóźnionym pociągu: spokojne i konkretne.
+
+@2146
+H: Przygotowujesz mięso, warzywa i ryby na grillu i rożnie. Pilnujesz temperatury i czasu, żeby danie było dopieczone i soczyste.
+T: Przygotowujesz mięso i warzywa do grillowania | Pilnujesz żaru i czasu pieczenia | Obracasz i przyprawiasz dania | Podajesz gotowe porcje do wydania
+D: 10:00 Marynujesz mięso i kroisz warzywa | 12:00 Rozpalasz grill przed lunchem | 13:00 Obracasz steki i sprawdzasz stopień wysmażenia | 19:00 W szczycie wydajesz porcje co minutę
+Y: Zaplanuj na kartce menu z grilla: dwa mięsa, dwa warzywa, jedną rybę, i dopisz do każdego przyprawę.
+
+@2147
+H: Przygotowujesz dania z ryb i owoców morza różnymi technikami. Czasem kupujesz świeże ryby i robisz do nich sosy.
+T: Oceniasz świeżość kupowanych ryb | Filetujesz ryby i czyścisz owoce morza | Smażysz, gotujesz lub pieczesz dania rybne | Przygotowujesz sosy do ryb
+D: 6:30 Sprawdzasz świeżość ryb u dostawcy | 9:00 Filetujesz łososia na dzisiejsze dania | 12:30 Smażysz dorsza dla gości lunchu | 18:00 Robisz sos do dania z małżami
+Y: Wyszukaj w internecie trzy oznaki świeżej ryby i zapisz je na kartce.
+
+@2148
+H: Tworzysz receptury i przygotowujesz posiłki w dużych ilościach dla stołówek i gastronomii. Pilnujesz temperatury, zadań i pracy zespołu.
+T: Opracowujesz nowe receptury dla gastronomii | Odmierzasz i mieszasz duże ilości składników | Kontrolujesz temperaturę gotowania | Rozdzielasz zadania pracownikom kuchni
+D: 6:00 Odbierasz plan produkcji na dzień | 8:00 Odmierzasz składniki na kilkaset porcji | 11:00 Sprawdzasz temperaturę dużych kotłów | 14:00 Testujesz nową recepturę na zupę
+Y: Przelicz przepis na naleśniki z czterech porcji na czterdzieści i zapisz ilość każdego składnika.
+
+@2149
+H: Gotujesz posiłki dla osób, które muszą jeść w specjalny sposób, na przykład z powodu choroby czy alergii. Trzymasz się zaleceń żywieniowych.
+T: Czytasz zalecenia żywieniowe dla każdej diety | Dobierasz bezpieczne składniki do diety | Gotujesz posiłki zgodnie z zaleceniami | Podajesz je i sprawdzasz, czy pasują
+D: 6:00 Czytasz listę diet na oddziale | 8:00 Gotujesz kaszę bez glutenu | 11:00 Przygotowujesz zupę bez soli | 12:30 Rozdzielasz posiłki zgodnie z kartami
+Y: Przeczytaj skład produktu z kuchni i wypisz składniki, które szkodzą osobie z alergią na mleko.
+
+@2150
+H: Wytwarzasz ciastka, cukierki i inne słodycze w cukierni lub w zakładzie przemysłowym. Odmierzasz składniki, formujesz wyroby i je dekorujesz.
+T: Odmierzasz składniki i mieszasz masy | Formujesz ciastka i desery | Pieczesz i dekorujesz wyroby | Układasz słodycze do sprzedaży
+D: 4:30 Zaczynasz od ciasta na ciastka | 7:00 Dekorujesz torty na zamówienie | 10:00 Uzupełniasz witrynę świeżymi pączkami | 13:00 Myjesz blaty i planujesz jutro
+Y: Zaprojektuj na kartce tort urodzinowy: kształt, kolory i trzy dekoracje.
+
+@2151
+H: Robisz wyroby z czekolady i sprawdzasz masę: kolor, konsystencję i smak. Wszystko ma zgadzać się z recepturą.
+T: Testujesz masę czekoladową dotykiem i smakiem | Oceniasz jej kolor i konsystencję | Formujesz pralinki i tabliczki | Porównujesz wyniki ze specyfikacją
+D: 7:00 Sprawdzasz masę czekoladową z wczorajszej partii | 9:00 Nalewasz czekoladę do form | 11:30 Studzisz wyroby i sprawdzasz połysk | 14:00 Pakujesz pralinki w pudełka
+Y: Rozpuść w ustach kostkę czekolady i opisz jej smak, zapach i konsystencję pięcioma słowami.
+
+@2152
+H: Pieczesz chleb, bułki i słodkie wypieki, od mąki po gotowy wyrób. Pracujesz często w nocy, żeby świeże pieczywo było rano w sklepie.
+T: Odbierasz i składujesz surowce | Odmierzasz składniki i mieszasz ciasto | Pilnujesz wyrastania ciasta | Wypiekasz pieczywo w piecu
+D: 1:00 Zaczynasz zmianę, ważysz mąkę | 3:00 Formujesz bułki i układasz na blachach | 5:00 Wyjmujesz chleb z pieca | 7:00 Pieczywo jedzie do sklepów
+Y: Opisz po kolei, jak powstaje chleb od mąki do sklepu, na podstawie wyszukanych informacji.
+
+@2153
+H: Robisz świeży makaron i nadzienia według receptur. Ugniatasz ciasto, formujesz kształty i pilnujesz, żeby każda partia wyglądała tak samo.
+T: Mieszasz i ugniatasz ciasto makaronowe | Wałkujesz i kroisz makaron | Przygotowujesz nadzienia do pierożków | Pakujesz i chłodzisz gotowe partie
+D: 5:00 Odmierzasz mąkę i jajka według receptury | 7:00 Wałkujesz ciasto na cienkie arkusze | 10:00 Nadziewasz i zlepiasz pierożki | 13:00 Pakujesz makaron do dostawy
+Y: Wymieszaj mąkę z wodą, rozwałkuj ciasto na cienko i potnij nożem do masła na wstążki.
+
+@2154
+H: Pieczesz ciasta, ciasteczka, rogaliki i placki według receptur. Łączysz pracę piekarza i cukiernika.
+T: Przygotowujesz ciasta i ciastka według receptury | Formujesz rogaliki i placki | Pieczesz wyroby w piekarniku | Studzisz i układasz gotowe wypieki
+D: 5:00 Ważysz składniki na rogaliki | 6:30 Wkładasz blachy do pieca | 9:00 Układasz ciasta w witrynie sklepu | 12:00 Zmywasz blachy i przygotowujesz jutrzejszą zmianę
+Y: Przepisz ulubiony przepis na ciastka na kartce i zaznacz, co robisz najpierw, a co później.
+
+@2155
+H: Odpowiadasz za deser od pomysłu po talerz: przygotowujesz, pieczesz i ozdabiasz słodycze oraz wypieki. Znasz się na całym cukiernictwie.
+T: Wymyślasz nowe desery do karty | Przygotowujesz kremy, ciasta i polewy | Pieczesz i ozdabiasz wypieki | Dbasz o wygląd deseru na talerzu
+D: 6:00 Przygotowujesz kremy i biszkopty | 9:00 Testujesz nowy deser z malinami | 12:00 Ozdabiasz desery na talerze gości | 15:00 Układasz menu deserowe na następny miesiąc
+Y: Narysuj swój wymarzony deser: warstwy, ozdobę i kolory, i podpisz każdy element.
+
+@2156
+H: Kierujesz zespołem cukierników i pilnujesz, żeby desery i wypieki były przygotowane na czas i ładnie podane. Pracujesz też przy piecu i dekoracjach.
+T: Rozdzielasz zadania cukiernikom | Sprawdzasz konsystencję ciast i kremów | Planujesz produkcję na dany dzień | Uczysz nowych pracowników receptur
+D: 5:30 Rozdzielasz zadania na dzisiejszą produkcję | 8:00 Sprawdzasz, czy kremy mają właściwą konsystencję | 11:00 Pomagasz dekorować tort weselny | 14:00 Zamawiasz mąkę i czekoladę
+Y: Rozpisz na kartce plan pracy trzech osób przy upieczeniu tortu: kto co robi i o której.
+
+@2157
+H: Zarządzasz całą kuchnią: planujesz, kto co gotuje, i nadzorujesz przygotowanie oraz wydawanie dań. Odpowiadasz za zespół i zamówienia produktów.
+T: Układasz grafik pracy kuchni | Zamawiasz produkty i pilnujesz kosztów | Nadzorujesz przygotowanie dań | Kontrolujesz wydawanie dań podczas szczytu
+D: 8:00 Sprawdzasz dostawę i zamówienia | 11:00 Odprawa z zespołem przed lunchem | 13:00 Stoisz przy wydawce i sprawdzasz każdy talerz | 17:00 Układasz grafik na następny tydzień
+Y: Rozpisz plan obiadu dla czterech osób: kto kroi, kto gotuje i kto nakrywa.
+
+@2158
+H: Gotujesz w domu jednej rodziny albo osoby i dopasowujesz posiłki do jej smaków i nietolerancji. Czasem organizujesz też małe przyjęcia.
+T: Poznajesz smaki i alergie domowników | Planujesz menu na cały tydzień | Gotujesz w kuchni pracodawcy | Organizujesz małe przyjęcia rodzinne
+D: 8:00 Rozmawiasz o dzisiejszym menu z rodziną | 10:00 Robisz zakupy świeżych składników | 12:30 Gotujesz obiad bez glutenu dla domownika | 18:30 Podajesz kolację dla gości
+Y: Ułóż menu na cały dzień dla osoby, która nie toleruje laktozy, bez produktów mlecznych.
+
+@2159
+H: Wymyślasz dania i prowadzisz kuchnię restauracji. Stawiasz na pomysły i nowe połączenia smaków, żeby goście zjedli coś wyjątkowego.
+T: Tworzysz nowe dania do karty | Dobierasz sezonowe produkty | Kierujesz ekipą w kuchni | Testujesz smaki przed wprowadzeniem do karty
+D: 9:00 Wybierasz składniki na nowe danie | 11:00 Próbujesz sosu i poprawiasz przyprawy | 14:00 Pokazujesz kucharzom, jak ułożyć danie | 19:00 Pilnujesz wydawania w godzinach szczytu
+Y: Wymyśl własne danie z trzech składników z lodówki i opisz, jak wyglądałoby na talerzu.
+

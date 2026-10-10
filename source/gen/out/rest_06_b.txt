@@ -1,0 +1,179 @@
+@1560
+H: Planujesz i koordynujesz produkcję ryb, skorupiaków lub innych organizmów wodnych na dużą skalę. Odpowiadasz za całość: od hodowli po zbiór i wypuszczanie do wody.
+T: Układasz plan produkcji na sezon | Kierujesz kierownikami i pracownikami hodowli | Pilnujesz kosztów, zamówień i terminów | Sprawdzasz, czy hodowla spełnia przepisy
+D: 7:30 Zebranie z kierownikami chowu i odłowów | 10:00 Oglądasz zbiorniki i omawiasz problemy | 13:00 Zamawiasz paszę i sprawdzasz budżet | 16:00 Aktualizujesz harmonogram dostaw dla odbiorców
+Y: Ułóż na kartce harmonogram czterech zbiorników, tak żeby kolejne zbiory wypadały co miesiąc.
+
+@1561
+H: Pilnujesz stanu lasu i decydujesz, ile drzew wolno wyciąć, gdzie posadzić nowe i co chronić. Łączysz pracę w terenie z planowaniem przy biurku.
+T: Objeżdżasz las i oceniasz stan drzew | Planujesz wycinki i nowe nasadzenia | Dajesz zadania robotnikom leśnym | Prowadzisz dokumentację i rozliczenia lasu
+D: 7:00 Wyjazd w las, oceniasz drzewostan | 9:00 Oznaczasz drzewa do wycinki | 12:00 Rozmawiasz z ekipą o planie sadzenia | 15:00 W biurze uzupełniasz plan gospodarki leśnej
+Y: Policz drzewa w jednym fragmencie parku lub skweru i podziel je według gatunków.
+
+@1562
+H: Ustalasz z klientami, jakie prace mają wykonać maszyny stacjonarne w rolnictwie i przy zieleni, i organizujesz ich pracę. Pilnujesz, żeby sprzęt był tam, gdzie jest potrzebny.
+T: Rozmawiasz z klientami o zakresie usług | Układasz harmonogram pracy maszyn | Przydzielasz operatorów do sprzętu | Sprawdzasz, czy zlecenie zostało wykonane
+D: 7:00 Układasz grafik maszyn na cały tydzień | 9:00 Telefon od klienta o dodatkowym zleceniu | 12:00 Jedziesz na pole sprawdzić postęp prac | 15:00 Przydzielasz operatorów do nowych zleceń
+Y: Zaplanuj na kartce tydzień pracy trzech maszyn do czterech zleceń, tak żeby żadne nie nakładało się w czasie.
+
+@1563
+H: Obsługujesz ciężkie maszyny leśne, które ścinają, przycinają i wywożą drewno z lasu. Siedzisz w kabinie i sterujesz maszyną przez wiele godzin.
+T: Ścinasz i przycinasz drzewa maszyną | Przewozisz drewno do miejsca załadunku | Sprawdzasz stan maszyny przed pracą | Wybierasz trasę, żeby nie niszczyć gleby
+D: 6:00 Przegląd maszyny przed wyjazdem w las | 7:00 Ścinasz drzewa i obcinasz gałęzie maszyną | 11:30 Krótka przerwa, tankowanie maszyny | 14:00 Wywozisz złożone kłody na miejsce załadunku
+Y: Ułóż listę siedmiu rzeczy do sprawdzenia przed uruchomieniem ciężkiej maszyny w lesie, na przykład opony i hamulce.
+
+@1564
+H: Prowadzisz ciągniki i inne maszyny rolnicze przy uprawie pól i utrzymaniu terenów zielonych. Dzień pracy zależy od sezonu i pogody.
+T: Uprawiasz ziemię maszyną przed siewem | Wysiewasz nasiona maszyną | Podłączasz osprzęt do ciągnika | Naprawiasz drobne usterki sprzętu
+D: 5:30 Podłączasz do ciągnika sprzęt do uprawy | 7:00 Uprawiasz pole, utrzymując równe rzędy | 12:00 Przerwa na posiłek w kabinie | 17:00 Wracasz z pola i czyścisz maszynę
+Y: Narysuj ciągnik z boku i dorysuj trzy narzędzia, które można do niego podłączyć.
+
+@1565
+H: Prowadzisz małe gospodarstwo: uprawiasz rośliny i hodujesz zwierzęta, często także po to, by wyżywić własną rodzinę. Odpowiadasz za wszystko, od siewu po karmienie.
+T: Siejesz i zbierasz uprawy | Karmisz i doglądasz zwierzęta | Naprawiasz sprzęt, ogrodzenia i budynki | Planujesz, co i kiedy uprawiać
+D: 5:30 Karmisz zwierzęta i doglądasz obory | 8:00 Pracujesz na polu przy siewie lub zbiorze | 13:00 Naprawiasz zepsutą bramę albo narzędzie | 19:00 Ostatni obchód zwierząt, planujesz jutro
+Y: Narysuj kalendarz gospodarstwa na rok: kiedy się sieje, zbiera i kiedy zwierzęta wymagają najwięcej pracy.
+
+@1566
+H: Planujesz i organizujesz codzienną pracę w gospodarstwie hodowlanym, zdobywasz potrzebne zasoby i odpowiadasz za całą działalność. Łączysz kontakt z pracownikami z zamówieniami i rozliczeniami.
+T: Rozdzielasz zadania pracownikom gospodarstwa | Zamawiasz paszę, leki i materiały | Kontrolujesz stan zwierząt i budynków | Rozliczasz koszty i prowadzisz dokumentację
+D: 6:30 Przydzielasz pracownikom zadania na dzień | 8:30 Obchodzisz stado i budynki | 11:00 Zamawiasz paszę i umawiasz weterynarza | 15:00 Siedzisz nad rozliczeniami i dokumentacją
+Y: Policz, ile paszy potrzeba na miesiąc dla 40 krów, jeśli jedna zjada 25 kilogramów dziennie.
+
+@1567
+H: Chronisz las i jego zasoby: patrolujesz teren, sprawdzasz, co się w nim dzieje, i reagujesz na zagrożenia. Dużo czasu spędzasz w terenie, daleko od ludzi.
+T: Patrolujesz las pieszo lub samochodem terenowym | Wykrywasz nielegalne wysypiska i wycinkę | Pilnujesz, by turyści przestrzegali zasad | Zapisujesz obserwacje o stanie lasu
+D: 6:00 Wyruszasz na patrol po wyznaczonym obszarze | 9:00 Znajdujesz wysypisko śmieci i dokumentujesz je | 12:00 Rozmawiasz z turystami o zasadach w lesie | 16:00 Wpisujesz do raportu stan szlaków
+Y: Wyjdź do parku i zapisz pięć śladów obecności zwierząt lub ludzi, które zauważysz po drodze.
+
+@1568
+H: Układasz bukiety i dekoracje z kwiatów i roślin na śluby, pogrzeby, urodziny i do wnętrz. Dobierasz rośliny do okazji i pilnujesz, żeby kwiaty były świeże.
+T: Dobierasz kwiaty do okazji i życzeń klienta | Układasz i wiążesz bukiety | Robisz dekoracje na śluby i do wnętrz | Przycinasz łodygi i pilnujesz świeżości kwiatów
+D: 6:00 Rozpakowujesz dostawę kwiatów i przycinasz łodygi | 9:00 Układasz bukiet urodzinowy według życzeń klienta | 12:00 Doradzasz klientowi, jakie kwiaty wybrać | 15:00 Wiążesz dekorację na jutrzejszy ślub
+Y: Ułóż w szklance trzy gałązki lub liście tak, by wysokości, kolory i kształty ładnie ze sobą współgrały.
+
+@1569
+H: Najpierw wymyślasz ideę, a dopiero potem wybierasz materiał, który ją najlepiej wyrazi: rysunek, rzeźbę, instalację lub performance. Pracę pokazujesz publicznie jako doświadczenie dla odbiorców.
+T: Szukasz idei i zapisujesz szkice | Wybierasz materiał lub formę do pomysłu | Budujesz instalację albo przygotowujesz performance | Pokazujesz pracę publiczności i rozmawiasz o niej
+D: 10:00 Zapisujesz w zeszycie pomysły na nowy projekt | 12:00 Sprawdzasz w pracowni, jak działa wybrany materiał | 16:00 Montujesz instalację w galerii przed otwarciem | 19:00 Wernisaż, odpowiadasz na pytania zwiedzających
+Y: Wymyśl pracę artystyczną z trzech przedmiotów z domu i opisz w trzech zdaniach, co ma wyrażać.
+
+@1570
+H: Malujesz i rysujesz własnoręcznie obrazy: olejne, akwarele, pastele, miniatury albo kolaże. Każde dzieło powstaje od początku do końca pod twoją kontrolą.
+T: Szkicujesz kompozycję przed malowaniem | Mieszasz farby i dobierasz kolory | Malujesz obraz warstwa po warstwie | Pokazujesz prace w galerii lub je sprzedajesz
+D: 9:00 Przygotowujesz płótno i mieszasz kolory | 10:00 Malujesz, dopóki światło w oknie się nie zmieni | 14:00 Odstawiasz obraz i oceniasz go z daleka | 17:00 Fotografujesz skończone prace do katalogu
+Y: Narysuj jeden przedmiot z kuchni i zaznacz kolorem, skąd pada światło i gdzie leży cień.
+
+@1571
+H: Tworzysz rzeźby z kamienia, gliny, drewna, szkła, gipsu lub metalu, nadając materiałowi kształt przez rzeźbienie, modelowanie, odlewanie albo spawanie. Pracujesz w pracowni, często z ciężkim materiałem.
+T: Wybierasz materiał do pomysłu | Rzeźbisz lub modelujesz bryłę | Odlewasz, kujesz lub spawasz elementy | Szlifujesz i wykańczasz powierzchnię rzeźby
+D: 8:00 Szkicujesz rzeźbę i lepisz z gliny mały model | 10:00 Odbijasz dłutem kawałki bloku kamienia | 14:00 Szlifujesz powierzchnię, wszędzie leży pył | 17:00 Pakujesz rzeźbę do transportu na wystawę
+Y: Ulep z plasteliny lub zmiętego papieru małą postać i obejrzyj ją ze wszystkich czterech stron.
+
+@1572
+H: Tworzysz oryginalne dzieła z połączonych kawałków szkła: okna, ozdoby i akcesoria. Czasem odnawiasz witraże w kościołach i katedrach.
+T: Projektujesz wzór na papierze | Tniesz kolorowe szkło na kawałki | Łączysz kawałki w jedną całość | Naprawiasz stare okna witrażowe
+D: 9:00 Rysujesz wzór witrażu w skali jeden do jednego | 11:00 Tniesz szkło i szlifujesz brzegi | 14:00 Łączysz kawałki w gotowy panel | 16:00 Jedziesz do kościoła obejrzeć uszkodzony witraż
+Y: Narysuj wzór witrażu z kolorowych figur geometrycznych i pokoloruj każdy kawałek innym kolorem.
+
+@1573
+H: Tworzysz nagrania wideo, animacje i ruchome obrazy, łącząc kamerę, komputer i inne narzędzia elektroniczne. Obraz ruchomy traktujesz jak materiał artystyczny.
+T: Nagrywasz materiał kamerą | Montujesz obraz i dźwięk | Dodajesz efekty specjalne i animacje | Pokazujesz gotowe wideo na wystawie
+D: 10:00 Układasz scenę i ustawiasz kamerę | 11:00 Nagrywasz kilka ujęć z różnych miejsc | 15:00 Montujesz ujęcia, szukasz rytmu obrazu | 19:00 Sprawdzasz projekcję w galerii przed wernisażem
+Y: Narysuj w rogu kartek zeszytu 15 kolejnych pozycji kulki i przekartkuj, żeby zobaczyć ruch.
+
+@1574
+H: Projektujesz i wykonujesz przedmioty z gliny: rzeźby, naczynia, płytki, biżuterię i upominki. Znasz materiał na tyle dobrze, że tworzysz własne wzory i techniki.
+T: Wyrabiasz glinę i formujesz przedmioty | Toczysz naczynia lub lepisz ręcznie | Zdobisz i glazurujesz przedmioty | Wypalasz i oceniasz gotowe wyroby
+D: 8:00 Wyrabiasz glinę, odmierzasz porcje na kubki | 10:00 Formujesz kubki na kole garncarskim | 14:00 Nakładasz glazurę na wyschnięte naczynia | 17:00 Wyjmujesz wypalone prace i sprawdzasz pęknięcia
+Y: Ulep kubek z wałeczków plasteliny, układając je spiralnie, i wygładź ściany palcami.
+
+@1575
+H: Oceniasz stan zabytkowego dzieła sztuki i naprawiasz szkody, które zrobił czas: pęknięcia, brud i rozpad materiału. Zanim cokolwiek zrobisz, sprawdzasz, z czego dzieło jest wykonane.
+T: Oglądasz dzieło i dokumentujesz uszkodzenia | Badasz materiały i historię obrazu lub rzeźby | Czyścisz i zabezpieczasz powierzchnię | Uzupełniasz ubytki zgodnie z zasadami konserwacji
+D: 8:00 Fotografujesz obraz i opisujesz każde pęknięcie | 10:00 Badasz warstwy farby w małym fragmencie | 13:00 Delikatnie czyścisz brudną powierzchnię wacikiem | 16:00 Notujesz w dokumentacji wszystkie wykonane zabiegi
+Y: Obejrzyj stary przedmiot w domu, na przykład książkę lub zdjęcie, i opisz jego uszkodzenia w pięciu punktach.
+
+@1576
+H: Wyrażasz pomysły w formie rysunku: ilustrujesz, szkicujesz, tłumaczysz coś obrazem zamiast słowami. Styl dopasowujesz do tego, kto zamawia pracę i do czego służy rysunek.
+T: Szkicujesz pomysły ołówkiem | Zamieniasz opis zleceniodawcy na rysunek | Poprawiasz rysunek po uwagach klienta | Wykańczasz rysunek w wybranej technice
+D: 9:00 Czytasz zlecenie i szkicujesz trzy pomysły | 11:00 Klient wybiera szkic, omawiacie poprawki | 13:30 Rysujesz wykończoną wersję | 16:30 Wysyłasz gotowy rysunek i dostajesz uwagi
+Y: Narysuj w czterech kadrach, jak zrobić kanapkę, bez użycia ani jednego słowa.
+
+@1577
+H: Rysujesz ludzi, wydarzenia i problemy w zabawny, przerysowany sposób. Wyolbrzymiasz cechy wyglądu i charakteru oraz komentujesz humorem politykę i życie społeczne.
+T: Śledzisz wiadomości i szukasz tematu | Wyolbrzymiasz cechy postaci na rysunku | Układasz krótki podpis lub dialog | Oddajesz rysunek do gazety lub publikujesz go
+D: 8:00 Czytasz wiadomości, szukasz tematu na rysunek | 10:00 Szkicujesz kilka wersji karykatury polityka | 13:00 Dopracowujesz żart i wykańczasz rysunek | 15:00 Wysyłasz rysunek do redakcji przed zamknięciem numeru
+Y: Narysuj karykaturę zwykłego przedmiotu, przerysowując jedną jego cechę, i dopisz do niej krótki podpis.
+
+@1578
+H: Rysujesz scena po scenie, jak ma wyglądać film lub serial, na podstawie scenariusza. Pokazujesz reżyserowi i producentowi, co da się nakręcić.
+T: Czytasz scenariusz i wyobrażasz sobie sceny | Rysujesz kadry z ustawieniem kamery | Omawiasz ujęcia z reżyserem | Poprawiasz kadry po zmianach w scenariuszu
+D: 9:00 Czytasz nową scenę ze scenariusza | 10:00 Rysujesz sześć kadrów sceny pościgu | 14:00 Omawiasz z reżyserem ustawienie kamery | 17:00 Poprawiasz kadry po zmianie w scenariuszu
+Y: Przeczytaj krótką scenę z książki i narysuj ją w czterech kadrach, w tym jedno zbliżenie.
+
+@1579
+H: Grawerujesz lub trawisz rysunek w metalu, drewnie czy gumie, żeby potem odbijać go na papierze prasą drukarską. Praca wymaga precyzji i cierpliwości, bo każdy błąd zostaje w materiale.
+T: Przenosisz rysunek na płytę | Wycinasz lub trawisz wzór w materiale | Nakładasz farbę i odbijasz na prasie | Sprawdzasz odbitkę i poprawiasz płytę
+D: 9:00 Przenosisz rysunek na płytę i zaczynasz rytować | 11:00 Wycinasz cienkie linie dłutem i pilnujesz ręki | 14:00 Nakładasz farbę na płytę i odbijasz | 16:00 Oglądasz odbitkę i naprawiasz błędy w płycie
+Y: Połóż kartkę na różnych fakturach, na przykład drewnie lub liściu, i odbij je ołówkiem pięć razy.
+
+@1580
+H: Projektujesz, dopasowujesz i naprawiasz maski noszone na scenie. Pracujesz według szkiców i pomysłu projektanta, tak aby aktor mógł się swobodnie poruszać.
+T: Rozmawiasz z projektantem o wizji maski | Formujesz maskę z lekkich materiałów | Dopasowujesz ją do głowy aktora | Naprawiasz maski po przedstawieniach
+D: 9:00 Oglądasz szkice projektanta nowej maski | 11:00 Formujesz kształt maski z lekkiego materiału | 14:00 Aktor przymierza maskę, sprawdzacie ruch | 17:00 Naprawiasz maskę po wczorajszym przedstawieniu
+Y: Zrób z kartonu maskę na twarz z otworami na oczy i sprawdź, czy dobrze w niej widzisz.
+
+@1581
+H: Występujesz przed publicznością, pokazując akrobacje, równowagę lub inne umiejętności cyrkowe, często połączone z tańcem i teatrem. Praca wymaga dużej sprawności i wiąże się z ryzykiem urazu.
+T: Ćwiczysz akrobacje i elementy występu | Opracowujesz własny numer i choreografię | Rozgrzewasz i wzmacniasz ciało przed występem | Występujesz przed publicznością w zespole lub solo
+D: 9:00 Rozgrzewka i rozciąganie przed treningiem | 10:00 Powtarzasz trudny element, aż wyjdzie bezpiecznie | 15:00 Próba numeru z resztą zespołu | 19:00 Wieczorny występ: skupienie, ryzyko, brawa
+Y: Stań przy ścianie na jednej nodze na 30 sekund, potem na drugiej, i porównaj, która jest stabilniejsza.
+
+@1582
+H: Ożywiasz lalki, pacynki lub marionetki, synchronizując ich ruch z tekstem i muzyką. Czasem piszesz też scenariusz i projektujesz lalki.
+T: Uczysz się roli i tekstu | Poruszasz lalką w rytm tekstu i muzyki | Ćwiczysz mimikę i ruch lalki przed lustrem | Projektujesz i naprawiasz lalki
+D: 9:00 Próba, dopasowujesz ruch ust lalki do tekstu | 11:00 Naprawiasz zerwany sznurek marionetki | 15:00 Przygotowujesz scenę i lalki przed spektaklem dla dzieci | 17:00 Spektakl, dzieci reagują na każdy ruch
+Y: Załóż skarpetę na dłoń i zagraj nią scenkę, w której lalka się smuci, a potem cieszy.
+
+@1583
+H: Łączysz kilka sztuk naraz, na przykład komedię, śpiew, sztuczki cyrkowe lub iluzję, w jednym występie. Pokazujesz się solo albo w zespole, w kabarecie, musicalu czy na imprezach.
+T: Układasz program łączący kilka sztuk | Ćwiczysz śpiew, ruch i sztuczki | Przygotowujesz kostiumy i rekwizyty | Występujesz na scenie lub na imprezie
+D: 11:00 Ćwiczysz sztuczkę z rekwizytem, aż wyjdzie płynnie | 14:00 Próba programu z zespołem i muzykami | 18:00 Przebierasz się i sprawdzasz rekwizyty za kulisami | 21:00 Wieczorny występ, publiczność reaguje na każdy żart
+Y: Wymyśl dwuminutowy występ z żartem i prostą sztuczką z przedmiotem z domu, a potem go pokaż.
+
+@1584
+H: Tworzysz występ, w którym ważne są czas, miejsce, twoje ciało i kontakt z widzami. Może mieć scenariusz albo być spontaniczny, na żywo lub w mediach.
+T: Wymyślasz zamysł i warunki występu | Wybierasz miejsce i czas akcji | Używasz ciała, gestu i ciszy jako materiału | Reagujesz na widzów podczas występu
+D: 10:00 Zapisujesz zamysł akcji w zeszycie | 13:00 Oglądasz miejsce występu i planujesz ruchy | 17:00 Próba akcji bez publiczności | 20:00 Wykonujesz performance przed widzami i reagujesz na nich
+Y: Przez 3 minuty poruszaj się po pokoju bardzo powoli, jakby ktoś cię oglądał, i zapisz, co czujesz.
+
+@1585
+H: Występujesz na ulicach, placach i w parkach, a przechodniów zamieniasz w widzów. Wykorzystujesz miejsce, tłum i udział publiczności jako część przedstawienia.
+T: Wybierasz miejsce i godzinę występu | Przyciągasz uwagę przechodniów | Włączasz widzów do swojego numeru | Pilnujesz, żeby nikomu nic się nie stało
+D: 11:00 Szukasz miejsca na rynku, ustawiasz rekwizyty | 12:00 Zaczynasz numer, zbierasz grupkę przechodniów | 14:00 Zapraszasz dziecko do udziału w scence | 18:00 Zbierasz datki do kapelusza i pakujesz rzeczy
+Y: Wymyśl i przećwicz w domu trzy sposoby na zatrzymanie przechodnia bez krzyku: gest, rekwizyt, mina.
+
+@1586
+H: Opowiadasz publiczności żarty i śmieszne historie w formie monologu. Występujesz w klubach, teatrach i barach, zwykle wieczorami, a każda sala reaguje inaczej.
+T: Piszesz i poprawiasz własne dowcipy | Uczysz się tekstu na pamięć | Wypróbowujesz materiał na małych scenach | Dostosowujesz występ do reakcji sali
+D: 10:00 Piszesz nowy żart i skreślasz słabsze wersje | 15:00 Ćwiczysz timing przed lustrem | 20:00 Testujesz nowy żart w małym klubie | 22:30 Wracasz do notatek: który żart zadziałał
+Y: Napisz krótki żart o codziennej sytuacji i opowiedz go głośno komuś w domu.
+
+@1587
+H: Dobierasz i miksujesz muzykę podczas imprez lub w radiu, tak żeby utwory płynnie przechodziły jeden w drugi. Układasz też zestawy utworów do późniejszego odtwarzania.
+T: Wybierasz utwory pod nastrój publiczności | Płynnie przechodzisz z jednego utworu w drugi | Układasz listy utworów na program | Obserwujesz parkiet i reagujesz na tłum
+D: 14:00 Układasz listę utworów na wieczorny set | 19:00 Sprawdzasz sprzęt i dźwięk na sali | 22:00 Miksujesz, patrząc na reakcję tańczących | 2:00 Kończysz występ i pakujesz sprzęt
+Y: Ułóż listę dziesięciu utworów tak, aby tempo rosło od spokojnego do szybkiego, i zapisz kolejność.
+
+@1588
+H: Organizujesz zajęcia artystyczne dla ludzi ze wspólnym zainteresowaniem lub sytuacją życiową, na przykład dla seniorów, młodzieży lub mieszkańców osiedla. Pomagasz im tworzyć własną sztukę, zamiast robić ją za nich.
+T: Poznajesz potrzeby i zainteresowania grupy | Planujesz warsztaty i wydarzenia | Prowadzisz zajęcia w domu kultury lub na osiedlu | Szukasz miejsca, ludzi i materiałów do projektu
+D: 9:00 Rozmawiasz z mieszkańcami o ich pomysłach | 11:00 Planujesz harmonogram warsztatów na miesiąc | 15:00 Prowadzisz warsztat dla młodzieży w domu kultury | 18:00 Dopinasz wydarzenie z lokalnymi grupami
+Y: Wymyśl godzinny warsztat artystyczny dla seniorów: temat, materiały i trzy kroki zajęć.
+
+@1589
+H: Organizujesz rozrywkę dla gości hotelu, ośrodka lub statku wycieczkowego: konkursy, zabawy i wieczorne programy. Pracujesz, gdy inni odpoczywają, więc często masz zajęcia w weekendy i wieczory.
+T: Układasz program zajęć dla gości | Prowadzisz zabawy dla dzieci i dorosłych | Zapraszasz gości do konkursów i gier | Przygotowujesz scenę i rekwizyty na wieczór
+D: 9:00 Zapowiadasz poranną gimnastykę nad basenem | 11:00 Prowadzisz zabawy dla dzieci | 15:00 Przygotowujesz rekwizyty do wieczornego konkursu | 20:00 Prowadzisz wieczorny program z mikrofonem
+Y: Wymyśl trzy krótkie gry dla sześciu osób, które nie wymagają rekwizytów, i opisz zasady.

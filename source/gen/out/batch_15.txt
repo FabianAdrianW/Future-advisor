@@ -1,0 +1,180 @@
+@900
+H: Łączysz metalowe elementy w jedną całość, stapiając je w miejscu styku. Potem oglądasz spoinę i sprawdzasz, czy nie ma w niej wad.
+T: Dopasowujesz metalowe części do spawania | Spawasz elementy według rysunku | Oglądasz spoiny i szukasz pęknięć | Wybierasz metodę spawania do materiału
+D: 6:00 Zaczynasz zmianę, czytasz rysunek konstrukcji | 8:00 Spawasz ramę z grubych profili | 11:30 Oglądasz gotowe spoiny pod światło | 14:00 Przygotowujesz kolejne elementy do spawania
+Y: Obejrzyj w domu dwa metalowe przedmioty i znajdź miejsca, gdzie części są ze sobą trwale połączone.
+
+@901
+H: Konfigurujesz maszynę, która łączy metalowe detale skupioną wiązką lasera. Pilnujesz, żeby spoiny wychodziły równe i bardzo dokładne.
+T: Ustawiasz parametry maszyny laserowej | Mocujesz detale w uchwycie | Uruchamiasz spawanie i obserwujesz proces | Sprawdzasz dokładność gotowych połączeń
+D: 6:00 Uruchamiasz maszynę i sprawdzasz ustawienia | 7:30 Mocujesz pierwsze detale i startujesz serię | 10:30 Spoina wyszła krzywo, poprawiasz ustawienia | 13:00 Mierzysz próbki z całej partii
+Y: Przyłóż do siebie dwie metalowe części w domu i oceń, jak równo do siebie pasują.
+
+@902
+H: Obsługujesz urządzenie, które dociska dwa metalowe elementy i łączy je w jednym punkcie. Ustawiasz je tak, żeby każdy punkt trzymał solidnie.
+T: Konfigurujesz urządzenie do spawania punktowego | Układasz detale w miejscu łączenia | Dociskasz i uruchamiasz cykl spawania | Sprawdzasz, czy punkt solidnie trzyma
+D: 6:00 Ustawiasz urządzenie według karty zadania | 8:00 Łączysz kolejne detale, punkt po punkcie | 11:00 Jeden punkt się rozłączył, szukasz przyczyny | 13:30 Odkładasz gotowe części i przygotowujesz następne
+Y: Poszukaj w domu metalowego przedmiotu, w którym blachy łączą okrągłe ślady punktów, i policz te ślady.
+
+@903
+H: Obsługujesz maszynę, która łączy metal strumieniem szybkich elektronów, i pilnujesz precyzji spoiny. Śledzisz proces, w którym energia elektronów zamienia się w ciepło topiące metal.
+T: Konfigurujesz maszynę do spawania wiązką | Ustawiasz detale na stanowisku roboczym | Monitorujesz przebieg obróbki na odczytach | Oceniasz jakość gotowego połączenia
+D: 7:00 Sprawdzasz maszynę i ustawienia na dziś | 8:30 Ustawiasz precyzyjny detal i startujesz proces | 11:00 Obserwujesz odczyty, czy wszystko idzie normalnie | 13:30 Oglądasz spoinę i zapisujesz wynik
+Y: Narysuj ołówkiem prostą linię bez linijki, potem przyłóż linijkę i zmierz największe odchylenie w milimetrach.
+
+@904
+H: Pilnujesz, żeby spawanie w zakładzie szło zgodnie z planem, a sprzęt był gotowy do pracy. Spawasz też najtrudniejsze części, a czasem uczysz innych.
+T: Sprawdzasz pracę innych spawaczy | Rozdzielasz zadania i nadzorujesz ludzi | Pilnujesz, by sprzęt był gotowy | Spawasz szczególnie trudne części
+D: 6:30 Rozdzielasz zadania spawaczom na zmianę | 9:00 Sprawdzasz sprzęt i brakujące materiały | 11:00 Spawasz trudny element, którego inni nie biorą | 14:00 Pokazujesz nowemu pracownikowi poprawną technikę
+Y: Sprawdź, czy narzędzia w domowej szufladzie są kompletne i nieuszkodzone, a braki spisz na kartce.
+
+@905
+H: Łączysz metalowe elementy, wprowadzając między nie stopiony metal, który topi się w niższej temperaturze niż one same. Używasz do tego lutownicy, palnika lub urządzenia ultradźwiękowego.
+T: Dopasowujesz elementy, które będą łączone | Rozgrzewasz złącze lutownicą lub palnikiem | Wprowadzasz spoiwo w miejsce połączenia | Sprawdzasz, czy połączenie jest mocne
+D: 7:00 Dobierasz narzędzie do dzisiejszych elementów | 8:30 Lutujesz serię drobnych połączeń | 11:30 Połączenie wyszło słabe, lutujesz od nowa | 14:00 Sprzątasz stanowisko i odkładasz narzędzia
+Y: Wypisz pięć rzeczy w domu zawierających łączenia metalowych części i oceń, które wyglądają na lutowane.
+
+@906
+H: Łączysz dwa metalowe elementy, topiąc między nimi spoiwo, często mosiężne lub miedziane. To lutowanie twarde, które wymaga wyższych temperatur niż zwykłe lutowanie.
+T: Dobierasz spoiwo i topnik do metali | Rozgrzewasz złącze palnikiem do wysokiej temperatury | Łączysz miedź, srebro, nikiel lub aluminium | Kontrolujesz, czy spoiwo wypełniło łączenie
+D: 7:00 Dobierasz spoiwo i topnik do zlecenia | 9:00 Rozgrzewasz palnikiem pierwsze złącza | 12:00 Łączysz dwa różne metale, pilnując temperatury | 14:30 Oglądasz gotowe łączenia i odkładasz do wysyłki
+Y: Przyjrzyj się dowolnej złotej, srebrnej lub miedzianej ozdobie w domu i sprawdź, czy widać na niej miejsce łączenia.
+
+@907
+H: Podnosisz ciężkie ładunki za pomocą dźwigu lub żurawia, razem z jego operatorem. Podwieszasz ładunek, zdejmujesz go po przeniesieniu, a czasem ustawiasz ciężkie obiekty na miejscu.
+T: Podwieszasz ładunek na haku dźwigu | Ustalasz z operatorem kolejność przenoszenia | Zdejmujesz ładunek po przeniesieniu | Ustawiasz ciężkie elementy w miejscu montażu
+D: 6:30 Z operatorem planujecie dzisiejsze podnoszenie | 8:00 Podwieszasz pierwszy ładunek na dźwigu | 11:00 Ustawiasz ciężki element dokładnie na miejscu | 14:00 Zdejmujesz ostatni ładunek i składasz sprzęt
+Y: Umów się z domownikiem na proste sygnały ręką i naprowadź go nimi na wskazany przedmiot w pokoju.
+
+@908
+H: Pomagasz przy montażu tymczasowych konstrukcji zawieszanych, ale pracujesz na poziomie ziemi. Czytasz plany i przygotowujesz elementy dla ekipy, która montuje je wyżej.
+T: Czytasz plan i instrukcję montażu | Rozkładasz i sortujesz elementy konstrukcji | Składasz części na poziomie ziemi | Współpracujesz z montażystami podestów
+D: 7:00 Odbierasz dostawę elementów i sprawdzasz listę | 8:30 Rozkładasz części według planu montażu | 11:00 Składasz fragment konstrukcji na ziemi | 14:00 Rozmontowujesz zdjęte elementy i układasz w skrzyniach
+Y: Rozłóż na podłodze części dowolnego zestawu klocków i ułóż je w kolejności montażu.
+
+@909
+H: Montujesz tymczasowe konstrukcje i podnosisz je na wysokość, żeby można było przy nich pracować. Często działasz wysoko nad innymi, dlatego to praca wysokiego ryzyka.
+T: Czytasz plany i wykonujesz obliczenia | Montujesz konstrukcję i podnosisz ją na wysokość | Wspinasz się i pracujesz nad ziemią | Ustalasz rozładunek elementów z ekipą na dole
+D: 7:00 Omawiasz plan montażu i zasady bezpieczeństwa | 8:30 Podnosisz pierwszy element konstrukcji na wysokość | 11:30 Wspinasz się i łączysz kolejne części | 14:30 Schodzisz i sprawdzasz, co jeszcze zostało
+Y: Narysuj na kartce prosty podest z klocków i policz, ile elementów potrzeba.
+
+@910
+H: Montujesz na łodziach i statkach silniki, mierniki, baterie, lampki i zbiorniki paliwa. Przed wysyłką jednostki sprawdzasz, czy wszystko jest na swoim miejscu.
+T: Instalujesz silniki i zbiorniki paliwa | Montujesz mierniki i urządzenia sterujące | Podłączasz baterie, lampki i wyłączniki | Robisz kontrolę przed wysyłką jednostki
+D: 7:00 Czytasz listę wyposażenia do montażu | 8:30 Mocujesz silnik na łodzi narzędziami ręcznymi | 11:30 Montujesz mierniki i wyłączniki na pulpicie | 14:00 Odhaczasz listę kontrolną przed wysyłką łodzi
+Y: Spisz listę kontrolną wyposażenia plecaka na wycieczkę i odhacz każdą pozycję, gdy ją spakujesz.
+
+@911
+H: Pomagasz technikom sceny przygotować spektakl na żywo: dekoracje, światła, nagłośnienie i rekwizyty. Przy okazji ustawiasz olinowanie i robisz efekty specjalne.
+T: Budujesz i ustawiasz scenerię | Ustawiasz światła i nagłośnienie | Przygotowujesz rekwizyty i olinowanie | Tworzysz efekty specjalne do występu
+D: 10:00 Rozładunek dekoracji i ustawianie ich na scenie | 14:00 Z technikami sceny ustawiasz światła | 17:30 Próba techniczna, sprawdzasz efekty i nagłośnienie | 20:00 Spektakl trwa, ty obsługujesz zmiany dekoracji
+Y: Ustaw na stole przedmioty jak dekorację małej sceny i sprawdź, co widać z trzech stron.
+
+@912
+H: Stawiasz i rozbierasz tymczasowe sceny, trybuny i konstrukcje pod sprzęt, artystów i widownię. Pracujesz w halach i na zewnątrz, czasem wysoko nad innymi.
+T: Czytasz plany i sprawdzasz obliczenia | Stawiasz scenę i miejsca dla widzów | Montujesz konstrukcje pod sprzęt sceniczny | Rozbierasz wszystko po zakończeniu imprezy
+D: 6:00 Rozładunek elementów sceny na placu imprezy | 8:00 Składasz podest sceny według planu | 12:00 Montujesz trybuny dla widowni | 23:30 Po koncercie rozbierasz konstrukcję i pakujesz
+Y: Zbuduj na stole z książek model trybun dla kilku figurek i sprawdź, czy stabilnie stoi.
+
+@913
+H: Stawiasz i rozbierasz namioty, zadaszenia i namioty cyrkowe na imprezach i występach. Pracujesz głównie na zewnątrz, często z pomocą lokalnej załogi.
+T: Czytasz plan i rozkładasz elementy | Stawiasz konstrukcję i naciągasz płótno | Mocujesz namiot, żeby stał stabilnie | Rozbierasz namiot i pakujesz elementy
+D: 6:00 Dojeżdżasz na plac i rozkładasz elementy | 8:00 Z lokalną załogą stawiacie konstrukcję | 12:30 Naciągasz płótno i mocujesz je do podłoża | 22:00 Po imprezie zaczynasz rozbierać namiot
+Y: Postaw w domu mały namiot z koca i krzeseł i sprawdź, czy stoi stabilnie przez minutę.
+
+@914
+H: Kierujesz ekipą, która obsługuje sprzęt dźwigowy i olinowanie, i organizujesz jej codzienną pracę. Pilnujesz, żeby podnoszenie szło według planu.
+T: Rozdzielasz zadania w ekipie | Koordynujesz pracę przy sprzęcie dźwigowym | Nadzorujesz prace związane z olinowaniem | Planujesz pracę na kolejne dni
+D: 6:30 Odprawa z ekipą i podział zadań | 8:00 Obchodzisz stanowiska i sprawdzasz olinowanie | 11:00 Zmieniasz plan, bo dźwig jest zajęty | 15:00 Zapisujesz, co zrobiono i co zostało
+Y: Rozpisz na kartce plan sprzątania domu dla trzech osób tak, żeby nikt na nikogo nie czekał.
+
+@915
+H: Z płaskich arkuszy blachy robisz dachy, rynny i przewody wentylacyjne. Mierzysz, tniesz, gniesz i mocujesz blachę według planu.
+T: Odczytujesz plan i liczysz materiał | Mierzysz i tniesz arkusze blachy | Gniesz blachę w odpowiedni kształt | Mocujesz gotowe elementy na budynku
+D: 7:00 Czytasz plan dachu i liczysz blachę | 8:30 W warsztacie tniesz i gniesz rynny | 12:00 Mocujesz gotowe elementy na budynku | 15:00 Poprawiasz miejsce, gdzie blacha nie pasuje
+Y: Zegnij kartkę wzdłuż w kształt rynny i sprawdź, czy poprowadzi papierową kulkę w dół.
+
+@916
+H: Budujesz od początku kotły wodne i parowe oraz wymieniasz ich orurowanie. Tniesz i formujesz blachy i rury, a potem je spawasz.
+T: Tniesz i formujesz blachy oraz rury | Wypalasz i żłobisz metal palnikiem | Spawasz elementy kotła różnymi metodami | Wykańczasz gotowy kocioł obrabiarkami i powłoką
+D: 6:00 Odczytujesz rysunki nowego kotła | 8:00 Tniesz blachę i formujesz ją do wymiaru | 11:00 Spawasz rury do korpusu kotła | 14:00 Wykańczasz powierzchnię i nakładasz powłokę
+Y: Zwiń kartkę w rurkę o średnicy kubka i sprawdź, jak równo schodzą się jej brzegi.
+
+@917
+H: Wytwarzasz zbiorniki, takie jak kotły i zbiorniki ciśnieniowe, składając je z części według rysunków. Montujesz też orurowanie i armaturę.
+T: Czytasz rysunki techniczne i schematy | Składasz części zbiornika w całość | Instalujesz orurowanie i armaturę | Sprawdzasz, czy wymiary zgadzają się z rysunkiem
+D: 7:00 Rozkładasz rysunki i dobierasz części | 9:00 Składasz korpus zbiornika z blach | 12:00 Montujesz rury i zawory do korpusu | 14:30 Sprawdzasz wymiary na gotowym zbiorniku
+Y: Narysuj schemat domowego zbiornika, takiego jak butelka lub dzbanek, i zaznacz, którędy wpływa i wypływa woda.
+
+@918
+H: Z miedzi, mosiądzu i podobnych metali kujesz przedmioty użytkowe lub artystyczne. Naprawiasz też stare wyroby i budujesz bardziej złożone urządzenia.
+T: Nadajesz metalowi kształt narzędziami kowalskimi | Naprawiasz uszkodzone miedziane i mosiężne przedmioty | Wybierasz metal i planujesz kształt wyrobu | Wykonujesz złożone, wyspecjalizowane urządzenia
+D: 8:00 Oglądasz zniszczony mosiężny przedmiot do naprawy | 10:00 Kujesz miedzianą blachę w odpowiedni kształt | 13:00 Dopasowujesz części do skomplikowanego urządzenia | 15:30 Pokazujesz klientowi gotowy wyrób
+Y: Narysuj projekt miedzianego lub mosiężnego przedmiotu, takiego jak świecznik lub miska, z wymiarami.
+
+@919
+H: Prowadzisz roztopiony metal do form w odlewni, obsługując sprzęt sterowany ręcznie. Dzięki temu powstają odlewy, takie jak rury i profile.
+T: Obsługujesz ręcznie sterowany sprzęt odlewni | Kierujesz roztopiony metal do form | Obserwujesz przepływ metalu | Zgłaszasz wady i pomagasz je usunąć
+D: 6:00 Przejmujesz zmianę, sprawdzasz formy i sprzęt | 8:00 Kierujesz roztopiony metal do pierwszej formy | 11:00 Widzisz wadę w przepływie, wołasz kierownika | 13:30 Pomagasz usunąć wadę i zapisujesz zdarzenie
+Y: Przelej wodę z kubka do trzech naczyń o różnym kształcie i zobacz, gdzie najłatwiej ją kontrolować.
+
+@920
+H: Robisz rdzenie, które wypełniają w formie miejsca, gdzie odlew ma zostać pusty. Wykonujesz je z drewna, tworzyw lub innych materiałów odpornych na ekstremalne warunki.
+T: Wykonujesz rdzenie do form metalowych | Wybierasz drewno, tworzywo lub inny materiał | Dopasowujesz rdzeń do kształtu formy | Sprawdzasz, czy rdzeń wytrzyma warunki odlewania
+D: 7:00 Czytasz rysunek odlewu, który ma mieć otwory | 8:30 Wykonujesz rdzeń z drewna według wzoru | 11:30 Dopasowujesz rdzeń do formy, poprawiasz brzegi | 14:00 Odkładasz gotowe rdzenie do odlewania
+Y: Włóż mały kubek do dużej miski i narysuj kształt wolnej przestrzeni, jaka zostaje wokół niego.
+
+@921
+H: Odlewasz rury, przewody, profile drążone i inne półprodukty stalowe, obsługując ręcznie sterowany sprzęt. Śledzisz metal w formie i reagujesz, gdy pojawi się wada.
+T: Odlewasz rury i profile drążone | Prowadzisz stopiony metal żelazny i nieżelazny | Szukasz wad w odlanym metalu | Powiadamiasz upoważniony personel o wadzie
+D: 14:00 Zaczynasz drugą zmianę od przeglądu form | 16:00 Odlewasz serię rur z metalu żelaznego | 19:00 Na rurze widać wadę, informujesz kierownika | 21:30 Odlewasz profil z metalu nieżelaznego
+Y: Obejrzyj w domu metalową rurę lub profil i poszukaj na niej rys lub nierówności.
+
+@922
+H: Mieszasz piasek z materiałem utwardzającym i robisz z niego formy do odlewania metalu. Odciskasz w masie wzorzec i rdzenie, a potem czekasz, aż masa zastygnie.
+T: Mieszasz piasek z materiałami utwardzającymi | Odciskasz wzorzec w masie formierskiej | Używasz rdzeni do uzyskania kształtu | Zostawiasz formę do zastygnięcia
+D: 7:00 Odmierzasz piasek i środek utwardzający | 8:30 Mieszasz masę do właściwej konsystencji | 10:30 Odciskasz wzorzec i układasz rdzenie | 13:00 Formy zastygają, przygotowujesz kolejne
+Y: Zrób w mokrym piasku lub mące odcisk dowolnego przedmiotu i oceń, jak wyraźny jest kształt.
+
+@923
+H: Układasz stalowe pręty i konstrukcje, które wzmacniają beton w budynkach i mostach. Pracujesz na budowie według planów.
+T: Czytasz plany zbrojenia | Instalujesz metalowe pręty wzmacniające beton | Montujesz stalowe konstrukcje wsporcze | Sprawdzasz, czy zbrojenie leży według planu
+D: 6:30 Na budowie odbierasz pręty i czytasz plan | 8:00 Układasz pręty zbrojeniowe według rysunku | 11:30 Montujesz stalową konstrukcję wsporczą | 14:00 Sprawdzasz zbrojenie przed wylaniem betonu
+Y: Ulep dwie belki z plasteliny, jedną ze słomką w środku, i sprawdź, która mniej się wygina.
+
+@924
+H: Łączysz metalowe części nitami, wsuwając je w wywiercone otwory ręcznie lub maszyną. Nit trzyma elementy razem bez spawania.
+T: Wykonujesz otwory w łączonych częściach | Wsuwasz nity lub śruby w otwory | Nitujesz pistoletem, zestawem lub maszyną | Sprawdzasz, czy elementy trzymają się mocno
+D: 7:00 Przygotowujesz pistolet do nitowania i nity | 8:30 Wiercisz otwory w blachach według rysunku | 11:00 Wsuwasz nity i łączysz części | 13:30 Sprawdzasz, czy żaden nit się nie rusza
+Y: Znajdź w domu przedmiot z nitami, na przykład spodnie dżinsowe lub torbę, i policz nity.
+
+@925
+H: Rozbierasz urządzenia przemysłowe, maszyny i budynki według poleceń kierownika zespołu. Pracujesz ciężkim sprzętem i elektronarzędziami, trzymając się przepisów bezpieczeństwa.
+T: Rozbierasz maszyny i urządzenia przemysłowe | Obsługujesz maszyny ciężkie przy rozbiórce | Używasz elektronarzędzi do rozcinania konstrukcji | Wykonujesz polecenia kierownika zespołu
+D: 7:00 Odprawa z kierownikiem zespołu i omówienie zasad | 8:00 Rozkręcasz starą maszynę na części | 11:00 Obsługujesz ciężki sprzęt przy rozbiórce ściany | 14:00 Segregujesz rozebrane elementy według materiału
+Y: Rozbierz na części niepotrzebny długopis i posegreguj elementy według materiału.
+
+@926
+H: Budujesz i naprawiasz łodzie, od rekreacyjnych po okręty wojenne. Zaczynasz od szkiców i wzorców, a potem pracujesz drewnem, włóknem szklanym lub metalem.
+T: Rysujesz wstępne szkice i wzorce | Budujesz kadłuby z drewna lub włókna | Naprawiasz uszkodzone jednostki pływające | Robisz kołyski i pochylnie do wodowania
+D: 7:00 Rysujesz wzorce elementów małej łodzi | 9:00 Docinasz drewniane żebra kadłuba narzędziami ręcznymi | 12:00 Naprawiasz pęknięcie w kadłubie z włókna szklanego | 15:00 Budujesz kołyskę, na której łódź zjedzie do wody
+Y: Złóż z kartki łódkę i sprawdź w misce z wodą, ile monet utrzyma, zanim zatonie.
+
+@927
+H: Instalujesz, naprawiasz i konserwujesz mechaniczne i elektryczne części maszyn oraz urządzeń. Testujesz części elektryczne i poprawiasz to, co działa słabo.
+T: Instalujesz części maszyn i urządzeń | Naprawiasz usterki mechaniczne i elektryczne | Testujesz części elektryczne pod kątem sprawności | Wprowadzasz ulepszenia w urządzeniach
+D: 7:00 Obchodzisz maszyny i słuchasz, co stuka | 9:00 Wymieniasz zużytą część w urządzeniu | 11:30 Testujesz część elektryczną po naprawie | 14:00 Proponujesz ulepszenie, żeby awaria się nie powtórzyła
+Y: Wypisz trzy domowe urządzenia i przy każdym zapisz, która jego część porusza się, a która steruje ruchem.
+
+@928
+H: Zajmujesz się tym, co w samochodzie jest elektryczne i elektroniczne: lampami, klimatyzacją, ogrzewaniem, radiem i akumulatorem. Usterkę znajdujesz sprzętem diagnostycznym, a naprawiasz ręcznymi narzędziami.
+T: Diagnozujesz usterki sprzętem diagnostycznym | Wymieniasz lampy, przewody i akumulatory | Naprawiasz klimatyzację i ogrzewanie samochodu | Instalujesz elektronikę, na przykład radio
+D: 8:00 Auto z niedziałającym światłem, zaczynasz diagnozę | 10:00 Wymieniasz uszkodzony przewód w wiązce | 12:30 Sprawdzasz alternator, który nie ładuje akumulatora | 15:00 Testujesz klimatyzację i oddajesz auto
+Y: Obejrzyj z zewnątrz stojące auto i wypisz wszystkie lampy, które ma z przodu i z tyłu.
+
+@929
+H: Naprawiasz domowe urządzenia: pralki, lodówki, zmywarki, odkurzacze i klimatyzatory. Mierzysz napięcie lub oporność, żeby wykryć awarię.
+T: Mierzysz napięcie i oporność w urządzeniu | Rozpoznajesz awarię pralki, lodówki lub zmywarki | Demontujesz sprzęt i wymieniasz wadliwą część | Naprawiasz urządzenia elektryczne i gazowe
+D: 8:00 Jedziesz do klienta, pralka nie wiruje | 9:30 Mierzysz oporność w podzespole i znajdujesz awarię | 12:00 Wymieniasz zepsutą część w lodówce | 14:30 Tłumaczysz klientowi, jak dbać o urządzenie
+Y: Posłuchaj lodówki w domu przez kilka minut i zapisz, jakie dźwięki wydaje i kiedy się zmieniają.
+

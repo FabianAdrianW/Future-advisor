@@ -1,0 +1,180 @@
+@2160
+H: Planujesz w hotelu konferencje, bankiety i imprezy firmowe, od pierwszej rozmowy z klientem po sprzątanie sali. Pilnujesz, żeby sala, jedzenie i sprzęt były gotowe na czas.
+T: Rozmawiasz z klientem o liczbie gości i budżecie | Układasz plan sali i menu z kuchnią | Zamawiasz sprzęt i obsługę kelnerską | Pilnujesz przebiegu imprezy na miejscu
+D: 9:00 Odpowiadasz na zapytania o wolne terminy sali | 11:00 Oprowadzasz klienta po sali bankietowej | 15:00 Ustalasz z kuchnią menu na piątek | 19:00 Pilnujesz kolacji dla stu gości
+Y: Rozpisz plan urodzin dla dziesięciu osób: sala, jedzenie, godziny i lista rzeczy do przygotowania.
+
+@2161
+H: Organizujesz duże wydarzenia, na przykład festiwale i koncerty, i pilnujesz budżetu, terminów oraz umów. Odpowiadasz za to, że w dniu imprezy wszystko jest na swoim miejscu.
+T: Wybierasz miejsce i negocjujesz z dostawcami | Układasz harmonogram i budżet wydarzenia | Załatwiasz ubezpieczenie i wymagane zgody | Koordynujesz ekipę i media w dniu imprezy
+D: 8:00 Telefony do dostawców nagłośnienia i scen | 11:00 Sprawdzasz w tabeli wydatki na festiwal | 14:00 Oglądasz plac, na którym stanie scena | 20:00 Podczas koncertu rozwiązujesz problemy przez radio
+Y: Ułóż harmonogram szkolnej imprezy na dwie godziny, z godzinami i osobą odpowiedzialną za każdy punkt.
+
+@2162
+H: Pomagasz parze zorganizować ślub: kwiaty, salę, jedzenie i zaproszenia. W dniu ceremonii pilnujesz, żeby wszystko szło zgodnie z planem.
+T: Ustalasz z parą styl i budżet ślubu | Zamawiasz kwiaty, catering i dekoracje | Wysyłasz zaproszenia i zbierasz potwierdzenia gości | Koordynujesz dostawców podczas ceremonii i wesela
+D: 9:00 Rozmowa z parą o wyborze sali | 12:00 Wybierasz z florystą kwiaty do bukietu | 15:00 Sprawdzasz listę gości i rozsadzenie przy stołach | 17:00 Podczas ślubu kontrolujesz, czy muzycy są gotowi
+Y: Zrób listę dziesięciu rzeczy, które muszą być gotowe dzień przed ślubem, i ułóż je po kolei.
+
+@2163
+H: Wcielasz w życie plan ustalony przez organizatora, zwykle odpowiadając za jeden obszar, na przykład catering albo transport. Dzwonisz, sprawdzasz i dopinasz szczegóły.
+T: Potwierdzasz zamówienia u dostawców cateringu | Rezerwujesz transport dla gości i ekipy | Sprawdzasz, czy udogodnienia na miejscu działają | Zgłaszasz organizatorowi problemy i zmiany
+D: 8:30 Dzwonisz do firmy, która wiezie gości | 10:30 Sprawdzasz z cateringiem listę dań | 13:00 Jedziesz na salę sprawdzić krzesła i stoły | 16:00 Raportujesz organizatorowi, co jest jeszcze niegotowe
+Y: Zaplanuj, jak dziesięć osób dotrze na wspólne wydarzenie: godziny wyjazdu, miejsce zbiórki i plan awaryjny.
+
+@2164
+H: Pomagasz kucharzom: przygotowujesz składniki i dbasz o czystość kuchni. Uczysz się, patrząc im na ręce.
+T: Przygotowujesz składniki według polecenia kucharza | Odmierzasz i układasz produkty na stanowisku | Sprzątasz blaty i naczynia | Odbierasz dostawy i układasz je w chłodni
+D: 7:00 Przygotowujesz warzywa na zupę dnia | 10:00 Odmierzasz przyprawy i ważysz mąkę | 13:00 Szczyt obiadowy, podajesz kucharzom składniki | 15:00 Szorujesz blaty i wynosisz odpadki
+Y: Przygotuj w domu składniki do kanapek dla czterech osób i posprzątaj po sobie blat w kwadrans.
+
+@2165
+H: Wyrabiasz ciasto, nakładasz dodatki i wkładasz pizzę do gorącego pieca. Pracujesz szybko, zwykle wieczorami, gdy lokal jest pełny.
+T: Wyrabiasz i rozciągasz ciasto | Nakładasz sos, ser i dodatki | Wsuwasz pizzę do pieca i pilnujesz czasu | Przygotowujesz składniki przed otwarciem lokalu
+D: 11:00 Wyrabiasz ciasto i kroisz dodatki | 13:00 Pierwsze zamówienia na lunch | 18:00 Pełny lokal, pizze wychodzą jedna za drugą | 22:00 Czyścisz stanowisko i zamykasz kuchnię
+Y: Narysuj i rozpisz swoją pizzę: ciasto, sos, trzy dodatki, i zapisz kolejność układania ich na cieście.
+
+@2166
+H: Dbasz, żeby kuchnia mogła pracować: myjesz garnki, naczynia i pomieszczenia oraz przyjmujesz dostawy. Bez ciebie kucharze nie mają w czym gotować.
+T: Myjesz garnki, patelnie i naczynia | Czyścisz podłogi i stanowiska | Przyjmujesz dostawy i układasz je w magazynie | Przygotowujesz kuchnię przed rozpoczęciem pracy
+D: 6:30 Odbierasz dostawę warzyw i mięsa | 9:00 Układasz towar w chłodni według dat | 12:30 Zmywasz stos garnków po obiedzie | 16:00 Myjesz podłogę i wynosisz śmieci
+Y: Poukładaj szafkę z żywnością w domu tak, żeby produkty z najkrótszą datą były z przodu.
+
+@2167
+H: Przyjmujesz zamówienia i szybko przygotowujesz burgery, frytki i napoje. Liczy się tempo, powtarzalność i przestrzeganie zasad czystości.
+T: Przyjmujesz zamówienie przy kasie | Smażysz frytki i grillujesz mięso | Składasz kanapki według schematu | Podajesz zamówienie i sprzątasz salę
+D: 10:00 Zaczynasz zmianę, uzupełniasz sosy i opakowania | 12:30 Kolejka na lunch, składasz zamówienia | 15:00 Sprzątasz salę i myjesz stanowisko | 18:00 Kolacyjna godzina szczytu przy kasie
+Y: Zapisz w pięciu krokach, jak zrobić kanapkę, tak żeby każdy zrobił ją dokładnie tak samo.
+
+@2168
+H: Opowiadasz zwiedzającym o zwierzętach w ogrodzie zoologicznym i uczysz, jak je chronić. Prowadzisz zajęcia dla szkół i przygotowujesz tablice informacyjne.
+T: Prowadzisz zajęcia dla klas w zoo | Opowiadasz zwiedzającym o zwierzętach | Przygotowujesz tablice i materiały przy wybiegach | Tłumaczysz, jak chronić dzikie gatunki
+D: 8:30 Przygotowujesz materiały do lekcji dla trzeciej klasy | 10:00 Prowadzisz grupę dzieci wzdłuż wybiegów | 13:00 Piszesz tekst na tablicę o pingwinach | 15:00 Odpowiadasz na pytania przy stoisku edukacyjnym
+Y: Wybierz zwierzę i opowiedz o nim w minutę, podając trzy ciekawostki, tak żeby zrozumiał ośmiolatek.
+
+@2169
+H: Oprowadzasz grupy po muzeach, zabytkach i miastach i opowiadasz, co tam się wydarzyło. Odpowiadasz na pytania i pilnujesz, żeby nikt nie zgubił się w grupie.
+T: Prowadzisz grupę trasą zwiedzania | Opowiadasz historię miejsca i zabytków | Odpowiadasz na pytania turystów | Pilnujesz czasu i bezpieczeństwa grupy
+D: 8:00 Powtarzasz trasę i ciekawostki na dziś | 9:30 Zbierasz grupę przed wejściem do muzeum | 12:00 Opowiadasz o zabytku na rynku | 16:00 Żegnasz grupę i odpowiadasz na ostatnie pytania
+Y: Wybierz zabytek lub miejsce w okolicy i przygotuj trzyminutową opowieść o nim dla domowników.
+
+@2170
+H: Oprowadzasz turystów po parku, rezerwacie albo parku rozrywki. Opowiadasz o przyrodzie, podpowiadasz trasy i pomagasz gościom.
+T: Wyjaśniasz zwiedzającym zasady poruszania się po parku | Opowiadasz o roślinach, zwierzętach i krajobrazie | Podpowiadasz trasy i atrakcje | Pomagasz gościom, którzy się zgubili
+D: 8:00 Sprawdzasz szlaki i tablice po nocy | 10:00 Prowadzisz rodziny ścieżką przyrodniczą | 13:00 Odpowiadasz na pytania przy wejściu do parku | 16:00 Zbierasz uwagi gości i zamykasz trasę
+Y: Obserwuj przez kwadrans park lub skwer i zapisz pięć gatunków roślin albo zwierząt, które zobaczysz.
+
+@2171
+H: Uczysz dzieci i dorosłych, jak chronić środowisko, na lekcjach w szkołach, firmach i w terenie. Przygotowujesz materiały, prowadzisz spacery i szkolenia.
+T: Prowadzisz warsztaty w szkołach i firmach | Przygotowujesz materiały i strony o ochronie przyrody | Oprowadzasz wycieczki szkolne po ogrodzie | Organizujesz wolontariat przy projektach ekologicznych
+D: 8:00 Pakujesz materiały na warsztaty do szkoły | 9:30 Prowadzisz lekcję o segregowaniu odpadów | 13:00 Piszesz tekst na stronę o pszczołach | 15:00 Wycieczka klasy po ogrodzie, zbierasz pytania
+Y: Zaplanuj trzy sposoby na zmniejszenie ilości odpadów w twojej klasie i zapisz je na kartce.
+
+@2172
+H: Zarządzasz całym hotelem: ludźmi, pieniędzmi i reklamą. Dbasz o to, żeby goście byli zadowoleni, a obiekt na siebie zarabiał.
+T: Ustalasz grafik i nadzorujesz pracowników | Prowadzisz rejestry finansowe obiektu | Planujesz promocje i kontakt z gośćmi | Rozwiązujesz problemy zgłaszane przez gości i personel
+D: 8:00 Przeglądasz raport obłożenia i rezerwacje | 10:00 Spotkanie z kierownikami działów | 14:00 Rozmawiasz z niezadowolonym gościem w holu | 17:00 Sprawdzasz rozliczenia dnia i grafik
+Y: Wypisz pięć rzeczy, które sprawią, że gość hotelu poczuje się mile widziany, i uszereguj je.
+
+@2173
+H: Kierujesz zespołem, który odpowiada za rezerwacje, obsługę gości, sprzątanie pokoi i usterki techniczne. Pilnujesz, żeby pokoje były gotowe, zanim przyjadą goście.
+T: Przydzielasz pokoje pokojowym na dany dzień | Sprawdzasz rezerwacje i przyjazdy gości | Zgłaszasz usterki służbie technicznej | Kontrolujesz czystość wybranych pokoi
+D: 7:00 Rozdzielasz listy pokoi do sprzątania | 9:30 Kontrolujesz posprzątane pokoje na trzecim piętrze | 12:00 Sprawdzasz, które pokoje trzeba przygotować na wieczór | 15:00 Zgłaszasz cieknący kran technikowi
+Y: Zrób listę kontrolną sprzątania pokoju w dziesięciu punktach i sprawdź nią własny pokój.
+
+@2174
+H: Prowadzisz restaurację: kuchnię, salę i obsługę. Odpowiadasz za zamówienia, grafik, zadowolenie gości i to, żeby lokal się opłacał.
+T: Układasz grafik kelnerów i kucharzy | Zamawiasz produkty u dostawców | Rozmawiasz z gośćmi i rozpatrujesz skargi | Sprawdzasz dzienne wyniki sprzedaży
+D: 9:00 Odbierasz dostawę i sprawdzasz towar | 11:30 Odprawa z kelnerami przed otwarciem | 14:00 Rozliczasz lunch i układasz grafik | 20:00 Pilnujesz sali w pełny wieczór
+Y: Zaplanuj menu z trzech dań na kolację dla czterech osób i wypisz potrzebne składniki.
+
+@2175
+H: Kierujesz zmianą w restauracji szybkiej obsługi i rozdzielasz zadania. Pilnujesz tempa pracy, zapasów i tego, żeby goście nie czekali za długo.
+T: Rozdzielasz stanowiska pracownikom na zmianie | Pilnujesz czasu obsługi i zapasów | Wdrażasz nowych pracowników w obowiązki | Rozwiązujesz problemy z zamówieniami gości
+D: 9:00 Odprawa i rozdzielenie stanowisk | 12:00 Szczyt lunchowy, pilnujesz kolejki | 15:00 Sprawdzasz zapasy i zamawiasz brakujące | 17:30 Uczysz nowego pracownika obsługi kasy
+Y: Rozpisz, kto z czteroosobowej grupy ma jakie zadanie przy wspólnej kolacji, i uzasadnij ten podział.
+
+@2176
+H: Przygotowujesz proste posiłki i podajesz je gościom albo pasażerom. Dbasz o porządek i sprawną pracę kuchni, w której powstaje jedzenie dla wielu osób.
+T: Przygotowujesz proste dania według przepisu | Pakujesz porcje posiłków na tace | Wydajesz jedzenie na stanowisku | Dbasz o porządek w kuchni
+D: 5:00 Zaczynasz zmianę od mycia rąk i fartucha | 7:00 Pakujesz porcje na tace dla pasażerów | 10:00 Sprawdzasz zamówienia na kolejne loty | 13:00 Sprzątasz kuchnię po zmianie
+Y: Ułóż w pudełku zimny posiłek dla jednej osoby z produktów z domu i zapisz, co gdzie leży.
+
+@2177
+H: Jesteś pierwszą osobą, którą widzi gość w hotelu. Meldujesz, wymeldowujesz, przyjmujesz płatności i odpowiadasz na pytania.
+T: Meldujesz i wymeldowujesz gości | Przyjmujesz rezerwacje i płatności | Odpowiadasz na pytania o miasto i usługi | Przekazujesz prośby gości innym działom
+D: 7:00 Wymeldowujesz gości wyjeżdżających rano | 11:00 Odbierasz telefony z rezerwacjami | 14:00 Meldujesz grupę, która przyjechała autokarem | 19:00 Pomagasz gościowi znaleźć restaurację w pobliżu
+Y: Napisz w trzech zdaniach instrukcję dla gościa, jak trafić z najbliższego przystanku do twojej szkoły.
+
+@2178
+H: Opiekujesz się kempingiem i jego gośćmi: przydzielasz miejsca, pilnujesz porządku i zajmujesz się bieżącymi sprawami. Pracujesz głównie latem, często na świeżym powietrzu.
+T: Meldujesz gości i przydzielasz im miejsca | Sprawdzasz porządek i sanitariaty | Odpowiadasz na pytania o okolicę i zasady | Naprawiasz drobne usterki na terenie
+D: 8:00 Obchodzisz teren i sprawdzasz sanitariaty | 10:00 Meldujesz rodzinę z przyczepą | 14:00 Rozwiązujesz spór o miejsce pod namiot | 20:00 Przypominasz gościom o ciszy nocnej
+Y: Narysuj plan kempingu na dwadzieścia miejsc z drogą, sanitariatami i recepcją tak, żeby nikt nie miał daleko.
+
+@2179
+H: Pomagasz organizacjom zdobywać pieniądze na działalność, ale od strony dokumentów. Szukasz osób i firm, które mogłyby wspierać, i dbasz o dokumentację darowizn.
+T: Szukasz potencjalnych sponsorów i darczyńców | Rejestrujesz darowizny i dotacje | Piszesz podziękowania do darczyńców | Prowadzisz dokumentację zbiórek
+D: 8:30 Sprawdzasz, kto wpłacił od wczoraj | 10:30 Piszesz listy z podziękowaniem | 13:00 Przeglądasz listę firm, które mogą wesprzeć | 15:00 Porządkujesz teczki z dotacjami
+Y: Napisz w czterech zdaniach podziękowanie dla osoby, która przekazała pieniądze na szkolną zbiórkę.
+
+@2180
+H: Pomagasz kierownikom w tym, żeby towar trafił od producenta do klienta. Wystawiasz faktury, przygotowujesz zamówienia i sprawdzasz stany magazynowe.
+T: Wystawiasz faktury i sprawdzasz płatności | Przygotowujesz umowy i zamówienia | Liczysz zapasy w magazynie | Kontaktujesz się z dostawcami i dystrybutorami
+D: 8:00 Sprawdzasz, jakie dostawy dotrą dzisiaj | 10:00 Przygotowujesz zamówienie dla dostawcy | 13:00 Porównujesz stan magazynu z zapisami | 15:30 Dzwonisz do przewoźnika w sprawie opóźnienia
+Y: Policz, ile masz w domu paczek makaronu, ryżu i kaszy, i zapisz, czego brakuje.
+
+@2181
+H: Zajmujesz się całym wyjazdem i przyjazdem studentów z zagranicy: wnioskami, noclegami i dokumentami. Pomagasz im też oswoić się z nowym krajem.
+T: Sprawdzasz wnioski studentów | Organizujesz akademik lub rodzinę goszczącą | Załatwiasz dokumenty i oceny | Pomagasz zagranicznym studentom w nowym miejscu
+D: 9:00 Przeglądasz wnioski o wyjazd na semestr | 11:00 Dzwonisz do rodziny, która przyjmie studenta | 13:30 Witasz grupę gości na dworcu | 15:30 Tłumaczysz studentowi, jak załatwić dokumenty
+Y: Przygotuj dla zagranicznego ucznia listę pięciu rzeczy, które warto wiedzieć o twojej okolicy.
+
+@2182
+H: Organizujesz papierową i organizacyjną stronę szkoły albo uczelni, żeby uczniowie i nauczyciele mogli skupić się na nauce. Zajmujesz się dokumentami, rekrutacją i sprawami finansowymi.
+T: Przyjmujesz dokumenty kandydatów | Prowadzisz sekretariat i korespondencję | Przygotowujesz dokumenty na posiedzenia komisji | Pomagasz w sprawach finansowych placówki
+D: 7:30 Otwierasz sekretariat i odbierasz pocztę | 9:00 Przyjmujesz dokumenty od kandydatów | 11:30 Przygotowujesz materiały na posiedzenie rady | 14:00 Odpowiadasz na pytania rodziców przez telefon
+Y: Ułóż listę dokumentów potrzebnych do zapisu do szkoły i pogrupuj je według ważności.
+
+@2183
+H: Siedzisz na rozprawie i zapisujesz każde słowo, które pada na sali. Z twojego zapisu powstaje oficjalny dokument, do którego wracają strony sprawy.
+T: Zapisujesz wypowiedzi na sali rozpraw | Sporządzasz transkrypcję przesłuchań | Sprawdzasz zgodność zapisu z tym, co padło | Przekazujesz gotowy protokół do sprawy
+D: 8:30 Przygotowujesz sprzęt do zapisu na sali | 9:00 Zaczyna się rozprawa, zapisujesz każdą wypowiedź | 13:00 Przerwa, poprawiasz niejasne fragmenty | 15:00 Składasz transkrypcję do akt sprawy
+Y: Poproś domownika o przeczytanie fragmentu książki i zapisuj go na bieżąco, łapiąc jak najwięcej słów.
+
+@2184
+H: Dbasz o sprawne działanie biura: odbierasz telefony, witasz gości, zamawiasz materiały i pilnujesz, żeby sprzęt działał. Wspierasz przełożonych w codziennych sprawach.
+T: Odbierasz telefony i kierujesz gości | Zamawiasz materiały biurowe | Dbasz o drukarki i inny sprzęt | Wykonujesz zadania zlecone przez przełożonego
+D: 8:00 Sprawdzasz pocztę i kalendarz szefa | 10:00 Zamawiasz papier i tusz do drukarki | 12:00 Witasz gości i prowadzisz ich do sali | 14:30 Zgłaszasz awarię kserokopiarki serwisowi
+Y: Zrób listę rzeczy potrzebnych w biurze dla pięciu osób i oszacuj, ile czego.
+
+@2185
+H: Odciążasz kadrę kierowniczą w sprawach administracyjnych, żeby dział działał bez zakłóceń. Wykonujesz różne zadania pod ogólnym nadzorem.
+T: Przygotowujesz dokumenty i pisma dla dyrektora | Umawiasz spotkania i pilnujesz terminów | Zbierasz informacje potrzebne do decyzji | Przekazujesz polecenia i ustalenia w dziale
+D: 8:30 Przeglądasz pocztę dyrektora i ustalasz priorytety | 10:30 Przygotowujesz teczkę na spotkanie | 13:00 Umawiasz termin rozmowy z partnerem | 16:00 Spisujesz ustalenia z narady
+Y: Ułóż na jutro plan dnia dla zapracowanej osoby z pięciu zadań, według ważności.
+
+@2186
+H: Wspierasz najwyższe kierownictwo firmy, często w kontaktach z zagranicą. Organizujesz spotkania i podróże, prowadzisz akta i dbasz o działanie biura.
+T: Organizujesz spotkania zarządu i podróże | Prowadzisz akta i korespondencję | Komunikujesz się z partnerami w obcych językach | Szkolisz pracowników biura
+D: 8:00 Układasz harmonogram podróży prezesa | 10:00 Przygotowujesz dokumenty na posiedzenie zarządu | 13:00 Piszesz wiadomość do partnera z zagranicy | 16:00 Zmieniasz rezerwację przez opóźniony lot
+Y: Zaplanuj dwudniowy wyjazd służbowy dla dwóch osób: godziny, miejsce, spotkania i przerwy na jedzenie.
+
+@2187
+H: Poprawiasz zapisy z rozpraw, tak by były czytelnym dokumentem prawnym. Słuchasz nagrań albo czytasz tekst i dodajesz brakujące słowa i znaki.
+T: Czytasz transkrypcje i szukasz błędów | Dodajesz interpunkcję i brakujące słowa | Słuchasz nagrań i porównujesz z tekstem | Nadajesz dokumentowi właściwy format
+D: 8:00 Otwierasz pierwszy protokół z wczorajszej rozprawy | 10:00 Słuchasz nagrania i poprawiasz zapis | 13:00 Ujednolicasz układ dokumentu według wzoru | 15:00 Odsyłasz poprawiony protokół do sądu
+Y: Przepisz pięć zdań z książki bez znaków interpunkcyjnych, a potem wstaw je z powrotem i porównaj z oryginałem.
+
+@2188
+H: Wspierasz redakcję gazety, strony albo wydawnictwa: zbierasz informacje, umawiasz wywiady i załatwiasz zgody na treści. Jesteś osobą, do której redaktorzy zgłaszają się po pomoc.
+T: Umawiasz wywiady i spotkania dla redakcji | Sprawdzasz informacje przed publikacją | Załatwiasz zezwolenia i prawa do treści | Przekazujesz redaktorom zalecenia dotyczące tekstów
+D: 8:30 Układasz tygodniowy plan wywiadów | 10:30 Dzwonisz do autora zdjęcia po zgodę | 13:00 Sprawdzasz nazwiska i daty w artykule | 16:00 Oddajesz redaktorowi listę uwag do tekstu
+Y: Wybierz krótką wiadomość z internetu i sprawdź w dwóch innych miejscach, czy podane fakty się zgadzają.
+
+@2189
+H: Analizujesz dane o rozmowach z klientami i zamieniasz je w raporty oraz wykresy. Pokazujesz kierownictwu, kiedy jest najwięcej telefonów i gdzie są problemy.
+T: Pobierasz dane o połączeniach przychodzących | Liczysz czas rozmów i oczekiwania | Przygotowujesz raporty i wykresy | Wskazujesz godziny z największym obciążeniem
+D: 8:30 Otwierasz dane z poprzedniego dnia | 10:00 Liczysz, ilu klientów rozłączyło się w kolejce | 13:00 Rysujesz wykres rozmów według godzin | 15:00 Pokazujesz kierownikowi wyniki tygodnia
+Y: Rozpisz godzinami swój wczorajszy dzień i narysuj prosty wykres, w których godzinach działo się najwięcej.
+

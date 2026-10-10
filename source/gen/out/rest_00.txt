@@ -1,0 +1,180 @@
+@810
+H: Łatasz dziury i pęknięcia w jezdni oraz regularnie sprawdzasz, w jakim stanie jest droga. Pracujesz na dworze, w każdą pogodę, w odblaskowym ubraniu.
+T: Oglądasz drogę i szukasz uszkodzeń | Wycinasz zniszczony kawałek nawierzchni | Wypełniasz dziurę masą asfaltową | Ustawiasz oznakowanie wokół miejsca robót
+D: 6:30 Odbierasz zlecenia i ładujesz materiał na samochód | 8:00 Objazd drogi, oznaczasz koleiny do naprawy | 10:30 Łatasz dziurę i zagęszczasz nawierzchnię | 14:00 Zbierasz pachołki i sprzątasz miejsce pracy
+Y: Obejrzyj chodnik przy swoim bloku i zapisz, ile znajdziesz pęknięć, ubytków albo łat.
+
+@811
+H: Pomagasz górnikom pod ziemią: układasz rury i kable, konserwujesz urządzenia i usuwasz odpady. Pracujesz w kasku, w ciemnych wyrobiskach, często na zmiany.
+T: Układasz rury i kable w tunelu | Pomagasz górnikom konserwować urządzenia | Usuwasz odpady i urobek z przejść | Przenosisz narzędzia i materiały na stanowisko
+D: 5:30 Zjeżdżasz z brygadą na dół, sprawdzasz lampę | 7:00 Układasz rury w nowym chodniku | 10:30 Pomagasz przy przeglądzie przenośnika taśmowego | 12:30 Wyjeżdżasz na górę i odkładasz sprzęt
+Y: Policz, ile metrów rury potrzeba na trasę od kranu w kuchni do łazienki, mierząc odległość krokami.
+
+@812
+H: Pomagasz budować i naprawiać kanały, tamy, groble i falochrony. Pracujesz na brzegu i w wodzie, w każdą pogodę.
+T: Układasz kamienie i bloki na umocnieniach brzegu | Sypiesz groble i nasypy przy kanale | Czyścisz i naprawiasz tamy oraz śluzy | Pomagasz przy pracach w wodzie
+D: 6:00 Dojazd nad kanał, odprawa przed robotami | 7:30 Układasz kamienie na skarpie brzegu | 11:00 Pomagasz przy naprawie uszkodzonej grobli | 14:00 Czyścisz sprzęt i sprawdzasz pogodę na jutro
+Y: Usyp w misce lub piaskownicy mały nasyp z ziemi i sprawdź, czy wytrzyma polanie wodą.
+
+@813
+H: Przygotowujesz plac pod budowę drogi, torów albo zapory: czyścisz teren i wykonujesz proste prace pomocnicze. Pracujesz według poleceń brygady, głównie ręcznie.
+T: Oczyszczasz teren z krzaków i gruzu | Tyczysz i znakujesz miejsca robót | Przenosisz materiały i narzędzia dla brygady | Pomagasz przy utrzymaniu torów i zapór
+D: 6:00 Zbiórka na placu, brygadzista rozdaje zadania | 7:00 Wycinasz krzaki i zbierasz gruz | 10:30 Znosisz materiały pod nowy odcinek toru | 13:30 Porządkujesz plac i odkładasz narzędzia
+Y: Wytycz sznurkiem i patykami na podwórku prosty odcinek dziesięciu metrów i sprawdź, czy naprawdę jest prosty.
+
+@814
+H: Mierzysz teren i budynki specjalnym sprzętem, żeby dokładnie wiedzieć, gdzie coś stoi albo ma stanąć. Z twoich pomiarów powstają rysunki i plany dla budowy.
+T: Ustawiasz instrument na działce i mierzysz punkty | Wyznaczasz na gruncie miejsce pod fundamenty | Przetwarzasz pomiary na rysunki i plany | Sprawdzasz, czy budowa zgadza się z projektem
+D: 7:30 Jedziesz na działkę z tyczkami i instrumentem | 9:00 Mierzysz narożniki budynku i zapisujesz punkty | 12:30 Wracasz do biura, zapisujesz wyniki pomiarów | 14:00 Rysujesz plan i porównujesz go z projektem
+Y: Wybierz dwa drzewa na podwórku, zmierz odległość między nimi sznurkiem i zaznacz je na szkicu planu.
+
+@815
+H: Prowadzisz plany kopalni i notujesz, gdzie i jak daleko posuwa się wydobycie. Część pracy spędzasz pod ziemią z przyrządami pomiarowymi, część przy dokumentach.
+T: Mierzysz wyrobiska pod ziemią | Aktualizujesz plany górnicze po każdym postępie | Prowadzisz rejestr wydobycia rudy lub minerałów | Sprawdzasz, czy plany zgadzają się z przepisami
+D: 6:00 Zjeżdżasz do kopalni z przyrządami pomiarowymi | 8:00 Mierzysz, ile chodnik przesunął się naprzód | 11:30 Wyjeżdżasz i przenosisz dane do biura | 13:00 Poprawiasz mapę kopalni i uzupełniasz rejestr
+Y: Narysuj pionowy przekrój kopalni z trzema poziomami pod ziemią i podpisz przy każdym wymyśloną głębokość.
+
+@816
+H: Mierzysz dno morza, rzeki albo jeziora i robisz z tego mapy tego, co jest pod wodą. Dużo czasu spędzasz na łodzi lub statku, a potem przy komputerze.
+T: Mierzysz głębokość i kształt dna | Zbierasz dane z urządzeń na łodzi | Sprawdzasz, jak zmienia się dno z czasem | Tworzysz mapy podwodnego terenu
+D: 6:30 Wypływasz łodzią z sondą na wyznaczony akwen | 8:00 Płyniesz równoległymi trasami i zapisujesz głębokości | 13:00 Wracasz do portu i kopiujesz dane | 15:00 Z pomiarów rysujesz mapę dna
+Y: Zmierz linijką głębokość wody w trzech miejscach w misce, w której leżą różne przedmioty, i narysuj mapę dna.
+
+@817
+H: Ustalasz, gdzie dokładnie przebiegają granice działek, i nanosisz je na mapy gminy lub powiatu. Pracujesz w terenie z przyrządami oraz w biurze nad dokumentami.
+T: Wyznaczasz granice działek w terenie | Sprawdzasz opisy gruntów i budynków | Nanosisz granice na mapę katastralną | Wyjaśniasz sąsiadom, którędy biegnie granica
+D: 7:30 Jedziesz na wieś, szukasz starych słupków granicznych | 9:30 Mierzysz granicę działki w obecności sąsiadów | 13:00 Wracasz do biura i przeliczasz pomiary | 14:30 Nanosisz nową granicę na mapę gminy
+Y: Narysuj plan podwórka, podziel go na trzy wymyślone działki i podpisz długość każdej granicy.
+
+@818
+H: Zamieniasz dane o terenie i gruncie na szczegółowe mapy cyfrowe i modele trójwymiarowe. Siedzisz głównie przy komputerze i analizujesz dane z pomiarów.
+T: Łączysz dane geograficzne z różnych źródeł | Zamieniasz pomiary gruntu na mapy cyfrowe | Budujesz trójwymiarowe modele terenu | Przygotowujesz wyniki dla inżynierów i urzędów
+D: 8:00 Sprawdzasz nowe dane z pomiarów terenu | 10:00 Czyścisz dane i usuwasz błędne punkty | 12:30 Budujesz model gruntu na cyfrowej mapie | 15:00 Pokazujesz inżynierom wyniki i omawiasz uwagi
+Y: Zrób z plasteliny lub piasku model pagórka, a potem narysuj jego warstwice, czyli linie równej wysokości.
+
+@819
+H: Tworzysz mapy: łączysz pomiary, dane naukowe i dobór kolorów, żeby czytelnie pokazać teren lub miasto. Decydujesz, co na mapie jest ważne, a co można pominąć.
+T: Zbierasz dane o terenie z pomiarów | Wybierasz, co trafi na mapę | Dobierasz kolory, znaki i opisy | Sprawdzasz, czy mapa jest czytelna
+D: 8:30 Przeglądasz nowe dane z pomiarów terenu | 10:30 Rysujesz rzeki, drogi i granice | 13:00 Dobierasz kolory i opisy do legendy | 15:00 Pokazujesz mapę osobie, która ma jej użyć
+Y: Narysuj mapę drogi z domu do szkoły z legendą i sprawdź, czy ktoś z domu by trafił.
+
+@820
+H: Organizujesz powstanie budynków od pomysłu do sprzedaży: kupujesz ziemię, szukasz pieniędzy i zamawiasz projekty. Pilnujesz pozwoleń, kosztów i tego, żeby inwestycja się opłaciła.
+T: Szukasz i kupujesz grunt pod budowę | Zamawiasz projekty i starasz się o pozwolenia | Szukasz banku lub inwestorów na budowę | Sprzedajesz albo wynajmujesz gotowe mieszkania
+D: 8:00 Oglądasz działkę, którą chcesz kupić | 10:30 Spotkanie z architektem w sprawie projektu | 13:00 Rozmowa z bankiem o finansowaniu budowy | 16:00 Objazd budowy i rozmowa z kierownikiem
+Y: Wybierz puste miejsce w okolicy i zapisz trzy powody, dla których mógłby tam stanąć dom lub sklep.
+
+@821
+H: Bierzesz na siebie całą budowę: wygrywasz ofertę, a potem zatrudniasz firmy, które robią kolejne etapy. Odpowiadasz za to, żeby wszystko było gotowe na czas.
+T: Przygotowujesz ofertę na budowę | Wybierasz podwykonawców i podpisujesz umowy | Układasz kolejność prac różnych firm | Sprawdzasz na budowie postęp i terminy
+D: 7:00 Obchód budowy, sprawdzasz, kto dzisiaj pracuje | 9:30 Rozmowa z firmą od instalacji o opóźnieniu | 12:00 Liczysz koszty do nowej oferty | 15:00 Podpisujesz umowę z podwykonawcą od dachu
+Y: Wypisz kolejność prac przy budowie domu od fundamentów po dach i dopisz, kto każdą wykonuje.
+
+@822
+H: Planujesz i nadzorujesz budowę na miejscu: pilnujesz harmonogramu, kosztów i pracy podwykonawców. Już na etapie projektu podpowiadasz, co będzie tańsze i prostsze do zbudowania.
+T: Układasz harmonogram robót | Nadzorujesz firmy pracujące na budowie | Szacujesz koszty zmian w projekcie | Prowadzisz dziennik budowy i odbiory
+D: 6:30 Przychodzisz na budowę i sprawdzasz plan dnia | 8:00 Omawiasz z brygadą zalewanie stropu | 11:30 Liczysz, ile kosztuje zmiana w projekcie | 14:30 Wpisujesz do dziennika budowy, co zrobiono
+Y: Rozpisz etapy budowy wieży z klocków lub kartonu, dopisz przewidywany czas, potem zbuduj i porównaj z planem.
+
+@823
+H: Przygotowujesz plany, jak można użytkować i zabudowywać grunty w danym miejscu. Odwiedzasz tereny, zbierasz dane i doradzasz, czy plan jest bezpieczny i sensowny.
+T: Odwiedzasz tereny i oglądasz grunt | Zbierasz i analizujesz dane o gruntach | Rysujesz projekty zagospodarowania działek | Doradzasz, czy plan jest bezpieczny
+D: 8:00 Oglądasz teren, na którym planowana jest dzielnica | 10:30 Rozmawiasz z urzędnikami o przeznaczeniu gruntów | 13:00 Analizujesz dane o zalewaniu i hałasie | 15:00 Rysujesz wariant planu i opisujesz ryzyka
+Y: Weź pustą kartkę jako teren, podziel ją na domy, zieleń i sklepy, a potem napisz, dlaczego tak.
+
+@824
+H: Wymyślasz, jak poprawić dojazdy i ruch w mieście: autobusy, tramwaje, drogi i ścieżki. Opierasz się na danych o tym, ile osób i pojazdów gdzie jeździ.
+T: Zbierasz dane o ruchu pojazdów i pieszych | Modelujesz ruch narzędziami statystycznymi | Piszesz propozycje zmian w komunikacji | Oceniasz wpływ zmian na ludzi i środowisko
+D: 8:30 Przeglądasz wyniki zliczania pojazdów na skrzyżowaniu | 10:30 Budujesz model, co zmieni nowy pas dla autobusów | 13:00 Spotkanie z urzędnikami i mieszkańcami o zmianach | 15:30 Piszesz raport z rekomendacją dla miasta
+Y: Przypomnij sobie swoją drogę do szkoły, wypisz odcinki i środki transportu oraz zaznacz, gdzie tracisz najwięcej czasu.
+
+@825
+H: Planujesz rozwój miasteczek i miast: sprawdzasz, czego potrzebują mieszkańcy, i wymyślasz, gdzie mają powstać domy, szkoły, parki i drogi. Musisz pogodzić potrzeby ludzi z kosztami i środowiskiem.
+T: Badasz potrzeby mieszkańców dzielnicy | Rysujesz plany nowych osiedli i placów | Oceniasz wpływ planów na środowisko | Przedstawiasz propozycje urzędnikom i mieszkańcom
+D: 8:00 Czytasz wyniki ankiety wśród mieszkańców | 10:00 Spacer po dzielnicy i robienie notatek | 13:00 Rysujesz nowy układ ulic i skwerów | 17:00 Przedstawiasz propozycję na spotkaniu z mieszkańcami
+Y: Wypisz trzy rzeczy, których brakuje w twojej okolicy, i narysuj, gdzie powinien powstać nowy skwer.
+
+@826
+H: Projektujesz budynki i przestrzenie tak, żeby były użyteczne, ładne, bezpieczne i zgodne z przepisami. Doglądasz też, czy budowa idzie zgodnie z projektem.
+T: Rozmawiasz z inwestorem o potrzebach | Rysujesz rzuty i widoki budynku | Dopasowujesz projekt do przepisów i działki | Odwiedzasz budowę i sprawdzasz wykonanie
+D: 8:30 Rozmowa z klientem o domu dla rodziny | 10:30 Rysujesz rzut parteru i przekroje | 13:30 Sprawdzasz, czy projekt spełnia przepisy | 15:30 Jedziesz na budowę obejrzeć ścianę
+Y: Zaprojektuj na kartce mały domek dla czterech osób: narysuj rzut z góry, drzwi, okna i podpisz pomieszczenia.
+
+@827
+H: Planujesz, jak urządzić wnętrze mieszkania, biura albo sklepu, żeby było wygodne i ładne. Rysujesz plany i decydujesz o układzie oraz rozmieszczeniu mebli.
+T: Mierzysz pomieszczenie i rysujesz jego plan | Ustawiasz meble na planie | Dobierasz kolory, materiały i światło | Przygotowujesz rysunki i specyfikacje dla wykonawców
+D: 9:00 Mierzysz salon u klientów i robisz zdjęcia | 11:00 Rysujesz kilka wariantów ustawienia mebli | 13:30 Wybierasz próbki tkanin i płytek | 16:00 Pokazujesz klientom projekt i zbierasz uwagi
+Y: Wymyśl nowy układ mebli w swoim pokoju, narysuj go z góry i sprawdź, czy wszystko się zmieści.
+
+@828
+H: Planujesz ogrody, parki i tereny zielone: gdzie pójdą ścieżki, gdzie mają rosnąć drzewa, a gdzie ludzie usiądą. Musisz znać rośliny i to, jak zmieniają się z porami roku.
+T: Oglądasz teren i sprawdzasz jego naturalne warunki | Rysujesz plan rozmieszczenia ścieżek i roślin | Dobierasz gatunki drzew i krzewów | Przygotowujesz specyfikację dla wykonawców ogrodu
+D: 8:00 Oglądasz park i sprawdzasz, gdzie jest cień | 10:30 Rysujesz plan ścieżek, ławek i drzew | 13:00 Wybierasz rośliny pasujące do gleby i słońca | 15:00 Omawiasz plan z urzędem lub zarządcą parku
+Y: Sprawdź, które miejsca przy domu mają najwięcej słońca, a które cień, i zaznacz je na szkicu.
+
+@829
+H: Projektujesz i urządzasz parki, skwery i ogrody prywatne tak, żeby ludzie chcieli tam być. Łączysz wygląd z celem miejsca: odpoczynek, zabawa albo ochrona środowiska.
+T: Rozmawiasz z właścicielem ogrodu o jego pomysłach | Szkicujesz układ ścieżek, rabat i oczek wodnych | Wybierasz drewno, kamień i rośliny | Pilnujesz, żeby ekipa urządziła ogród według projektu
+D: 8:30 Spotkanie z właścicielami domu na ich działce | 11:00 Szkicujesz ogród z ławką, rabatami i ścieżką | 13:30 Jedziesz do szkółki wybrać krzewy i drzewka | 16:00 Poprawiasz rysunek w biurze po pomiarach
+Y: Narysuj mały skwer z ławką, dwoma drzewami i ścieżką oraz napisz jedno zdanie, po co ludzie mieliby tam przychodzić.
+
+@830
+H: Liczysz i projektujesz konstrukcje: mosty, drogi, budynki. Dobierasz materiały i rozmiary tak, żeby całość wytrzymała i zmieściła się w czasie i budżecie.
+T: Obliczasz, jakie obciążenia wytrzyma konstrukcja | Rysujesz techniczne projekty mostów i budynków | Dobierasz materiały i ich ilości | Dopasowujesz plan do terminów i budżetu
+D: 8:00 Liczysz grubość stropu dla nowego budynku | 10:30 Omawiasz z architektem zmianę rozmieszczenia ścian | 13:00 Jedziesz na budowę sprawdzić zbrojenie | 15:30 Poprawiasz rysunki techniczne po uwagach
+Y: Zbuduj z kartek papieru most między dwiema stertami książek i sprawdź, ile monet utrzyma.
+
+@831
+H: Tniesz duże arkusze złomu metalowego na mniejsze kawałki, żeby można je było przetopić w hucie. To praca fizyczna przy dużych, głośnych maszynach.
+T: Sortujesz złom według rodzaju metalu | Ustawiasz duże arkusze pod nożycami | Tniesz złom na kawałki dla huty | Układasz pocięte kawałki do załadunku
+D: 6:00 Przejmujesz zmianę i oglądasz nożyce | 7:00 Podajesz arkusze złomu pod ostrze | 11:00 Tniesz na kawałki o wymiarach z zamówienia | 13:30 Ładujesz pocięty złom na wagon do huty
+Y: Posortuj drobne przedmioty z szuflady na magnetyczne i niemagnetyczne, sprawdzając je magnesem.
+
+@832
+H: Wytwarzasz bardzo dokładne części do skrzyń biegów i innych elementów napędu samochodów. Obsługujesz różne maszyny i sprawdzasz, czy wymiary zgadzają się z rysunkiem.
+T: Czytasz rysunek techniczny części | Obrabiasz elementy przekładni na maszynach | Mierzysz części suwmiarką i innymi przyrządami | Odrzucasz części, które nie mieszczą się w tolerancji
+D: 6:00 Ustawiasz maszynę pod nową serię kół zębatych | 8:30 Obrabiasz pierwszą część i mierzysz ją | 11:30 Wymiar odbiega o setną milimetra, poprawiasz ustawienie | 13:30 Pakujesz gotowe elementy przekładni do kontroli
+Y: Zmierz linijką średnicę trzech różnych monet i zapisz wyniki w milimetrach, z dokładnością do połowy milimetra.
+
+@833
+H: Kształtujesz i wykańczasz ozdobne metalowe elementy do budynków: poręcze, schody, bramy i ogrodzenia. Pracujesz w warsztacie na maszynach, a gotowe elementy trafiają potem na budowę.
+T: Kształtujesz metal na maszynach wykończeniowych | Szlifujesz i wygładzasz detale | Składasz poręcze, bramy i ogrodzenia | Montujesz gotowe elementy w budynku
+D: 7:00 Czytasz rysunek balustrady do schodów | 8:30 Zginasz pręty i przycinasz elementy | 12:00 Wygładzasz krawędzie i sprawdzasz wygląd detali | 14:00 Jedziesz zamontować bramę w nowym domu
+Y: Zaprojektuj na kartce ozdobną poręcz do schodów z powtarzającym się wzorem i policz, ile ma elementów.
+
+@834
+H: Obsługujesz maszynę, która usuwa nadmiar metalu z części za pomocą kontrolowanych wyładowań elektrycznych w specjalnym płynie. Ustawiasz ją, pilnujesz pracy i oglądasz wynik, także pod mikroskopem.
+T: Mocujesz detal i ustawiasz elektrodę | Ustawiasz parametry wyładowań dla danego metalu | Pilnujesz płynu i pracy maszyny | Oglądasz powierzchnię i sprawdzasz wymiary
+D: 6:00 Mocujesz stalowy detal i ustawiasz elektrodę | 7:30 Uruchamiasz program, patrzysz na przebieg obróbki | 10:30 Wymieniasz zużytą elektrodę i sprawdzasz płyn | 13:00 Mierzysz gotowy otwór pod mikroskopem
+Y: Wytnij z kartki kwadrat dwa na dwa centymetry, zmierz każdy bok i zapisz odchyłki w milimetrach.
+
+@835
+H: Obsługujesz frezarkę z kilkoma wrzecionami, która wycina lub drąży kształty w drewnie, aluminium, stali, tworzywach i piankach. Na podstawie rysunku ustalasz, gdzie i jak głęboko ma ciąć.
+T: Czytasz rysunek i ustalasz miejsca cięcia | Mocujesz materiał na stole maszyny | Zakładasz i wymieniasz frezy | Sprawdzasz wymiary wyciętych elementów
+D: 6:30 Czytasz schemat i mocujesz płytę na stole | 8:00 Uruchamiasz maszynę, obserwujesz pierwsze cięcie | 10:30 Wymieniasz stępiony frez i zmieniasz ustawienia | 13:00 Mierzysz serię elementów i odkładasz dobre
+Y: Znajdź w domu instrukcję montażu mebla i wypisz wymiary oraz miejsca otworów z rysunku.
+
+@836
+H: Obsługujesz maszynę, która nacina gwint na metalowych częściach, na przykład na wkrętach, po tym jak zostały obrobione na tokarce. Zajmujesz się głównie małymi i średnimi detalami.
+T: Ustawiasz gwinciarkę pod daną średnicę | Mocujesz toczone detale w maszynie | Nacinasz gwint na kolejnych częściach | Sprawdzasz gwint sprawdzianem lub nakrętką
+D: 6:00 Dostajesz partię toczonych sworzni z tokarni | 7:00 Ustawiasz maszynę i próbujesz pierwszy gwint | 10:00 Nacinasz gwint na kolejnych setkach sztuk | 13:00 Wyrywkowo sprawdzasz, czy nakrętka dobrze wchodzi
+Y: Znajdź w domu trzy śruby lub wkręty i porównaj, jak gęsto są nacięte ich gwinty.
+
+@837
+H: Obsługujesz maszynę obrotową, która zmniejsza średnicę okrągłych metalowych prętów, ściskając je matrycami i nie tracąc przy tym materiału. Ustawiasz ją i pilnujesz, żeby kształt się zgadzał.
+T: Wybierasz i zakładasz matryce w kowarce | Podajesz okrągłe pręty do maszyny | Kontrolujesz średnicę zwężonego końca | Konserwujesz maszynę i wymieniasz zużyte części
+D: 6:00 Zakładasz matryce pod nowe zlecenie | 7:00 Wsuwasz pręt i sprawdzasz pierwszą sztukę | 10:00 Powtarzasz zwężanie końców całej partii prętów | 13:00 Czyścisz maszynę i spisujesz, ile sztuk zrobiono
+Y: Zrób z plasteliny wałek i zwęż jeden koniec, obracając go w palcach, tak by przekrój był okrągły.
+
+@838
+H: Obsługujesz prasę kuźniczą, która ściska metalowy drut, pręt lub sztabę w matrycach, tak że robi się krótszy i grubszy. Pilnujesz ustawień maszyny i tego, czy wszystkie wyroby wychodzą takie same.
+T: Zakładasz matryce i ustawiasz prasę | Podajesz drut lub pręt do maszyny | Obserwujesz kształt wykutych elementów | Poprawiasz ustawienia, gdy wyroby się różnią
+D: 6:00 Przejmujesz maszynę i oglądasz zużyte matryce | 7:00 Uruchamiasz prasę i bierzesz pierwsze wyroby | 10:30 Jedna sztuka za cienka, korygujesz docisk | 13:00 Zapisujesz liczbę sztuk i przekazujesz zmianę
+Y: Ściśnij gąbkę kuchenną między dłońmi z obu końców i zmierz, o ile się skróciła i pogrubiła.
+
+@839
+H: Wykonujesz formy, w których potem odlewa się metalowe części: wciskasz piasek, tworzywo lub ceramikę wokół wzorca, a po zastygnięciu masz gotową formę. Obsługujesz do tego maszyny.
+T: Przygotowujesz piasek lub inny materiał formierski | Ustawiasz wzorzec i rdzenie w skrzynce | Zagęszczasz materiał wokół wzorca na maszynie | Wyjmujesz wzorzec i sprawdzasz odcisk
+D: 6:00 Przygotowujesz piasek formierski i sprawdzasz jego wilgotność | 7:30 Ustawiasz wzorzec i rdzeń w skrzynce | 10:00 Maszyna zagęszcza piasek, wyjmujesz wzorzec | 13:00 Składasz gotowe formy i oddajesz do zalewania
+Y: Odciśnij kluczyk lub monetę w mokrym piasku albo mące, wyjmij i oceń, jak dokładny jest odcisk.
+

@@ -1,0 +1,180 @@
+@510
+H: Na swojej wachcie odpowiadasz za większość urządzeń w kadłubie statku: silniki, ster i wytwarzanie energii. Na bieżąco ustalasz z oficerem mechanikiem, co trzeba naprawić.
+T: Pilnujesz pracy głównych silników na wachcie | Kontrolujesz mechanizm steru | Sprawdzasz wytwarzanie energii elektrycznej | Zgłaszasz usterki oficerowi mechanikowi
+D: 0:00 Przejmujesz nocną wachtę w hałasie maszynowni | 1:30 Odczytujesz parametry silników i wpisujesz do dziennika | 3:00 Alarm temperatury, szukasz przyczyny usterki | 4:00 Zdajesz wachtę i opisujesz wszystko zmiennikowi
+Y: Przez kwadrans notuj co pięć minut, jakie dźwięki słyszysz w domu, i oceń, które są normalne.
+
+@511
+H: Kierujesz całą maszynownią statku i odpowiadasz za wszystkie prace techniczne, układy mechaniczne i elektryczne. Pilnujesz też, żeby statek spełniał krajowe i międzynarodowe normy.
+T: Kierujesz zespołem w maszynowni | Planujesz przeglądy i naprawy układów | Odpowiadasz za wyposażenie techniczne statku | Dopilnowujesz zgodności z normami i przepisami
+D: 7:30 Odprawa z mechanikami, dzielisz zadania na dzień | 9:30 Oglądasz z zespołem część wymienioną w silniku | 13:00 Piszesz zamówienie na części zapasowe do portu | 16:00 Kontrola bezpieczeństwa, ćwiczysz z załogą alarm
+Y: Zrób plan przeglądów swojego roweru na miesiąc: co sprawdzać i jak często.
+
+@512
+H: Dbasz o urządzenia, dzięki którym kontrolerzy prowadzą samoloty: systemy kontroli ruchu i nawigacji. Projektujesz, instalujesz i konserwujesz je na lotnisku i na pokładzie samolotu.
+T: Instalujesz systemy kontroli ruchu lotniczego | Konserwujesz urządzenia nawigacji lotniczej | Projektujesz zmiany w istniejących systemach | Udzielasz wsparcia technicznego przy awariach
+D: 7:00 Planowy przegląd urządzeń nawigacyjnych na lotnisku | 10:00 Kontroler zgłasza błąd, jedziesz sprawdzić system | 13:00 Montujesz nowe urządzenie w wieży kontroli | 15:30 Piszesz protokół z przeglądu zgodny z przepisami
+Y: Narysuj prosty schemat, którędy wiadomość trafia z wieży do pilota, i zaznacz, co może się zepsuć.
+
+@513
+H: Przyjmujesz towary, etykietujesz je, sprawdzasz ich stan i układasz na regałach. Pakujesz zamówienia i opisujesz uszkodzenia.
+T: Przyjmujesz towary i sprawdzasz ich jakość | Etykietujesz i odkładasz produkty na regały | Opisujesz uszkodzone sztuki w dokumentach | Pakujesz i wysyłasz zamówienia
+D: 6:00 Rozpakowujesz paczki z dostawy i liczysz sztuki | 8:30 Naklejasz etykiety i odkładasz towar na regały | 11:00 Znajdujesz stłuczony produkt i spisujesz uszkodzenie | 13:30 Pakujesz zamówienia dla kuriera
+Y: Spakuj w pudełko trzy różne przedmioty tak, żeby przy potrząsaniu nic się nie obijało.
+
+@514
+H: Chodzisz po magazynie z listą zamówień i zbierasz z regałów wskazane produkty w dobrej ilości i jakości. Potem odkładasz je na platformę wysyłki albo do strefy odbioru klientów.
+T: Zbierasz towary z regałów według zamówienia | Sprawdzasz ilość, rodzaj i jakość | Przenosisz zamówienia na platformę dostaw | Przygotowujesz towar do wysyłki
+D: 6:00 Odbierasz listę zamówień na pierwszą rundę | 7:30 Szybko zbierasz produkty z wielu regałów | 10:00 Odkładasz skompletowane zamówienie na platformę wysyłki | 13:00 Brakuje jednej pozycji, zgłaszasz to przełożonemu
+Y: Zrób listę pięciu rzeczy z różnych pomieszczeń i zbierz je w jedno miejsce, planując najkrótszą trasę.
+
+@515
+H: Kierujesz ekipą, która ładuje i rozładowuje statki przy nabrzeżu, i pilnujesz, żeby praca szła szybko i bezpiecznie. Gdy dochodzi do wypadku, wyjaśniasz, co się stało, i piszesz sprawozdanie.
+T: Nadzorujesz załadunek i rozładunek statków | Monitorujesz bezpieczeństwo na obszarze roboczym | Rozdzielasz zadania w ekipie przeładunkowej | Opisujesz wypadki w sprawozdaniach
+D: 6:00 Rozdzielasz ludzi do pracy przy statku | 8:00 Pilnujesz, żeby nikt nie stał pod ładunkiem | 12:00 Zmieniasz kolejność rozładunku, żeby nadrobić czas | 15:00 Po incydencie rozmawiasz ze świadkami, piszesz sprawozdanie
+Y: Wymyśl i zapisz, jak podzielić pracę przy przenoszeniu dwudziestu pudełek między trzy osoby.
+
+@516
+H: Pilnujesz, żeby wyprodukowane towary wyjechały z centrum dystrybucyjnego na czas. Ustalasz trasy i wypełniasz dokumenty przewozowe.
+T: Ustalasz trasy dla wysyłanych towarów | Wypełniasz dokumenty przewozowe | Planujesz kolejność wyjazdów samochodów | Pilnujesz, by towar wyjechał na czas
+D: 6:00 Przeglądasz zamówienia na dzisiejsze wysyłki | 7:30 Przydzielasz kierowcom trasy i wypełniasz dokumenty | 10:00 Kierowca zgłasza opóźnienie, zmieniasz plan reszty tras | 14:00 Sprawdzasz, czy wszystkie towary wyjechały
+Y: Zaplanuj na mapie najkrótszą trasę przez pięć wybranych miejsc w okolicy i zapisz kolejność.
+
+@517
+H: Przeładowujesz kontenery i naczepy między wagonami a samochodami na placu kolejowym. Manewrujesz ciągnikiem z naczepą w ciasnych miejscach i dostajesz polecenia z komputera pokładowego.
+T: Ładujesz kontenery i naczepy na wagony | Zdejmujesz kontenery z wagonów i podwozi | Manewrujesz ciągnikiem z naczepą w ciasnych miejscach | Komunikujesz się z systemem placu przez komputer
+D: 6:00 Odbierasz plan placu i identyfikujesz wagony | 8:00 Zdejmujesz naczepę z wagonu i parkujesz ją | 11:00 Ciasny narożnik, manewrujesz centymetr po centymetrze | 14:00 Ładujesz kontenery na wagon według listy
+Y: Narysuj plac z sześcioma miejscami i zaplanuj kolejność przestawiania trzech pudełek bez blokowania wyjazdu.
+
+@518
+H: Przenosisz cudze meble i rzeczy z jednego mieszkania lub biura do drugiego. Demontujesz, pakujesz, zabezpieczasz i montujesz je na miejscu.
+T: Demontujesz meble i urządzenia | Pakujesz i zabezpieczasz rzeczy do transportu | Układasz ładunek w samochodzie | Montujesz meble w nowym miejscu
+D: 7:30 Pakujesz kuchnię w kartony i folię | 9:00 Rozkręcasz szafę i znosisz części do auta | 11:30 Układasz ładunek tak, by nic się nie przesuwało | 14:00 Wnosisz i skręcasz meble w nowym mieszkaniu
+Y: Zmierz szerokość drzwi i największego mebla w pokoju i sprawdź, czy mebel by się zmieścił.
+
+@519
+H: Przyjmujesz walizki pasażerów w terminalu lotniska, a po locie zwracasz je właścicielom. Ustawiasz bagaże na wózkach lub przenośnikach i dołączasz zlecenie kontroli bagażu.
+T: Przyjmujesz bagaż pasażerów w terminalu | Dołączasz zlecenie kontroli bagażu | Ustawiasz walizki na wózkach lub przenośnikach | Zwracasz bagaż po otrzymaniu wniosku
+D: 5:30 Przejmujesz zmianę i patrzysz na plan lotów | 7:00 Ustawiasz walizki na wózku przed odlotem | 11:00 Pasażer zgłasza brak bagażu, sprawdzasz, gdzie jest | 15:00 Oddajesz bagaż po kontroli
+Y: Zrób dla plecaka i dwóch toreb papierowe etykiety z numerem i krótkim opisem.
+
+@520
+H: Przenosisz, ładujesz i rozładowujesz materiały w magazynie lub przechowalni. Pracujesz według zleceń, przekazujesz dokumenty i dbasz o bezpieczne pozbywanie się odpadów.
+T: Ładujesz i rozładowujesz wyroby w magazynie | Przemieszczasz materiały według zleceń | Przekazujesz dalej dokumenty do danej partii towaru | Zapewniasz bezpieczną utylizację odpadów
+D: 6:00 Dostajesz zlecenie: przenieść palety do przechowalni | 8:00 Rozładowujesz ciężarówkę, odkładasz towar na miejsce | 11:00 Segregujesz puste kartony i folię do odpadów | 13:30 Aktualizujesz zapasy i przekazujesz dokumenty
+Y: Policz czyste opakowania w kuchni, rozdziel je na papier i plastik i zapisz, których jest więcej.
+
+@521
+H: Ładujesz i rozładowujesz statki w porcie: pudła, duże paczki i palety przewozisz między składowiskiem a pojazdami. Pracujesz według poleceń ustnych i pisemnych oraz przepisów.
+T: Sortujesz ładunek przed przeładunkiem | Przewozisz palety i duże paczki | Ładujesz towar do pojazdów transportowych | Wykonujesz polecenia ustne i pisemne
+D: 6:00 Brygadzista rozdziela zadania na nabrzeżu | 7:00 Sortujesz skrzynie według miejsca docelowego | 11:00 Przewozisz palety z nabrzeża na składowisko | 14:00 Ładujesz ostatnie pudła na ciężarówkę
+Y: Zbuduj z pudełek stabilny stos i zapisz, które układasz na spód i dlaczego.
+
+@522
+H: Rozwozisz paczki i pocztę rowerem po mieście. Trasę musisz ułożyć tak, żeby zdążyć w każde miejsce.
+T: Odbierasz paczki i pocztę z punktu | Układasz trasę dostaw po mieście | Dowozisz przesyłki rowerem pod wskazane miejsca | Oddajesz przesyłkę i zbierasz potwierdzenie
+D: 8:00 Odbierasz paczki i układasz je w torbie | 9:00 Wyjeżdżasz na pierwszą trasę przez centrum | 12:00 Krótka przerwa, potem kolejne przesyłki | 16:00 Wracasz do bazy z ostatnim potwierdzeniem
+Y: Spakuj plecak czterema przedmiotami tak, żeby cięższe były blisko pleców i nic się nie obijało.
+
+@523
+H: Uzupełniasz półki w sklepie, wysuwasz do przodu starsze produkty, a przeterminowane usuwasz. Po zamknięciu sprzątasz, żeby rano półki były pełne, i podpowiadasz klientom, gdzie co leży.
+T: Uzupełniasz półki i rotujesz towar | Usuwasz przeterminowane produkty | Sprzątasz sklep po godzinach pracy | Wskazujesz klientom lokalizację produktów
+D: 5:30 Zawozisz wózkiem skrzynie z towarem do alejek | 7:00 Sprawdzasz daty ważności i wyjmujesz stare jogurty | 11:00 Klient pyta, gdzie jest mąka | 21:00 Sklep zamknięty, uzupełniasz półki na jutro
+Y: Przejrzyj szafkę w kuchni i ustaw produkty tak, żeby te o najkrótszym terminie były z przodu.
+
+@524
+H: Wozisz pasażerów powozem ciągniętym przez konie. Odpowiadasz za bezpieczeństwo ludzi i za opiekę nad końmi.
+T: Prowadzisz powóz zaprzężony w konie | Dbasz o bezpieczeństwo pasażerów w trasie | Zajmujesz się opieką nad końmi | Sprawdzasz uprząż i powóz przed kursem
+D: 6:00 W stajni czyścisz konie i zakładasz uprząż | 9:30 Pierwszy kurs z pasażerami po mieście | 13:00 Konie odpoczywają, a ty podajesz im wodę | 17:00 Ostatni kurs, potem rozprzęgasz konie i czyścisz powóz
+Y: Wypisz pięć rzeczy, które koń potrzebuje w ciągu dnia, i ułóż z nich plan opieki.
+
+@525
+H: Jeździsz cysterną po lotnisku i tankujesz samoloty przed odlotem. Konserwujesz też systemy dystrybucji paliwa.
+T: Prowadzisz cysternę po terenie lotniska | Tankujesz samoloty przed odlotem | Konserwujesz systemy dystrybucji paliwa | Sprawdzasz ilość paliwa zgodnie ze zleceniem
+D: 5:00 Przegląd cysterny i odbiór zlecenia na tankowanie | 6:30 Podjeżdżasz pod samolot i podłączasz układ tankowania | 9:00 Kończysz tankowanie i podpisujesz kartę z ilością | 13:00 Przegląd systemu dystrybucji paliwa na lotnisku
+Y: Zmierz kubkiem, ile butelek wody mieści się w garnku, i zapisz wynik.
+
+@526
+H: Prowadzisz ciężarówkę z cudzymi meblami i rzeczami i pomagasz je załadować, żeby wszystko się zmieściło i dojechało bez szkód.
+T: Prowadzisz ciężarówkę z rzeczami klienta | Układasz ładunek, by wykorzystać przestrzeń | Zabezpieczasz meble i maszyny na czas jazdy | Pomagasz przy załadunku i rozładunku
+D: 7:00 Rozplanowujesz w głowie, jak ułożyć meble w aucie | 8:00 Ładujesz z ekipą szafy, kartony i maszynę | 10:30 Jedziesz na nowy adres, ładunek zabezpieczony pasami | 13:00 Rozładunek pod blokiem i ustawianie rzeczy w mieszkaniu
+Y: Wytnij z papieru pięć prostokątów jako meble i ułóż je ciasno w większym prostokącie.
+
+@527
+H: Wozisz beton z wytwórni na plac budowy i obsługujesz pompę, która go rozprowadza. Po pracy czyścisz i konserwujesz ciężarówkę.
+T: Wozisz świeży beton na budowę | Obsługujesz pompę rozprowadzającą beton | Czyścisz ciężarówkę po każdym rozładunku | Konserwujesz mechaniczne części pojazdu
+D: 5:30 Beton ładuje się do ciężarówki w wytwórni | 6:30 Dojeżdżasz na budowę, ekipa czeka z szalunkami | 8:00 Ustawiasz pompę i rozprowadzasz beton | 10:00 Myjesz ciężarówkę, zanim beton stwardnieje
+Y: Wymieszaj garść piasku z wodą w słoiku i zapisz, po jakim czasie piasek opada na dno.
+
+@528
+H: Wozisz paliwa, płyny luzem i substancje chemiczne ciężarówką po drogach. Pracujesz tak, żeby niebezpieczny ładunek dojechał bez wycieku.
+T: Przewozisz paliwa i ciecze luzem | Transportujesz substancje chemiczne drogą | Sprawdzasz dokumenty ładunku niebezpiecznego | Kontrolujesz zabezpieczenie cysterny przed jazdą
+D: 5:00 Kontrolujesz cysternę i dokumenty ładunku | 6:30 Nadzorujesz napełnienie cysterny w bazie | 9:00 Jedziesz trasą wyznaczoną dla niebezpiecznych ładunków | 14:00 Rozładunek u odbiorcy, sprawdzasz szczelność
+Y: Narysuj trzy znaki ostrzegawcze, które pamiętasz z opakowań lub ulicy, i opisz ich znaczenie.
+
+@529
+H: Prowadzisz ciężarówkę lub samochód dostawczy z towarem do klienta, a czasem też ładujesz i rozładowujesz. Dużo czasu spędzasz w kabinie.
+T: Prowadzisz ciężarówkę lub samochód dostawczy | Układasz trasę i pilnujesz godzin dostaw | Ładujesz i rozładowujesz towary | Sprawdzasz stan pojazdu przed wyjazdem
+D: 5:00 Obchodzisz pojazd, sprawdzasz opony i światła | 6:00 Ładujesz towar i zapinasz go pasami | 10:00 Postój po kilku godzinach jazdy | 14:00 Rozładunek u klienta i podpis na dokumencie
+Y: Sprawdź na mapie, ile kilometrów dzieli dwa miasta, i oblicz czas przejazdu przy 70 km/h.
+
+@530
+H: Prowadzisz wóz strażacki w drodze do zdarzenia i pomagasz przy gaszeniu. Pilnujesz, żeby cały sprzęt w wozie był na miejscu, sprawny i gotowy do użycia.
+T: Prowadzisz wóz strażacki podczas wyjazdu alarmowego | Wspierasz akcję gaśniczą na miejscu | Układasz i zabezpieczasz sprzęt w wozie | Sprawdzasz, czy sprzęt jest gotowy do użycia
+D: 6:00 Zaczynasz zmianę od przeglądu wozu i sprzętu | 10:00 Alarm, w kilka minut jedziesz na miejsce | 10:30 Ustawiasz wóz i obsługujesz pompę przy gaszeniu | 13:00 Po akcji uzupełniasz i układasz sprzęt na nowo
+Y: Zaplanuj plecak awaryjny: wypisz osiem rzeczy i zdecyduj, które muszą leżeć na wierzchu.
+
+@531
+H: Jeździsz śmieciarką po osiedlach, odbierasz odpady z domów i obiektów i wozisz je do zakładu utylizacji. Pracę zaczynasz wcześnie rano.
+T: Prowadzisz śmieciarkę po trasie odbioru odpadów | Opróżniasz pojemniki do pojazdu | Wozisz odpady do zakładu utylizacji | Zgłaszasz źle wystawione lub uszkodzone pojemniki
+D: 5:30 Odbierasz pojazd z bazy i sprawdzasz go | 6:00 Ruszasz na trasę, pojemnik po pojemniku | 10:00 Pełna śmieciarka jedzie do zakładu utylizacji | 12:30 Wracasz na trasę, potem myjesz pojazd
+Y: Sprawdź, do jakich pojemników trafia papier, plastik i szkło, i zrób ściągę.
+
+@532
+H: Przewozisz żywe zwierzęta i pilnujesz ich zdrowia oraz dobrostanu od załadunku po rozładunek. Planujesz podróż zgodnie z przepisami krajowymi i międzynarodowymi.
+T: Planujesz podróż i przygotowujesz transport | Ładujesz i rozładowujesz zwierzęta | Obserwujesz zdrowie i zachowanie zwierząt w drodze | Stosujesz przepisy krajowe i międzynarodowe
+D: 5:00 Sprawdzasz pojazd, wodę i dokumenty dla zwierząt | 6:30 Ładujesz zwierzęta spokojnie, bez pośpiechu | 10:00 Na postoju oglądasz, czy zwierzęta są spokojne | 16:00 Rozładunek na miejscu i kontrola stanu zwierząt
+Y: Wypisz pięć rzeczy, których potrzebuje zwierzę w podróży, i ułóż je według ważności.
+
+@533
+H: Prowadzisz autobus miejski lub autokar według rozkładu i pomagasz pasażerom. Odpowiadasz za ludzi na pokładzie i w razie potrzeby pobierasz opłaty za przejazd.
+T: Jeździsz autobusem według rozkładu | Pobierasz opłaty za przejazd | Odpowiadasz na pytania pasażerów | Pilnujesz bezpieczeństwa pasażerów w pojeździe
+D: 4:45 Odbierasz autobus z zajezdni i sprawdzasz go | 5:30 Pierwszy kurs, pasażerowie jadą do pracy | 11:00 Pasażer pyta, na którym przystanku wysiąść | 14:00 Kończysz zmianę i zostawiasz autobus w zajezdni
+Y: Sprawdź rozkład jednej linii autobusowej i policz, ile razy dziennie zatrzymuje się na twoim przystanku.
+
+@534
+H: Prowadzisz trolejbus zasilany z sieci nad ulicą i dowozisz pasażerów na przystanki. Pobierasz opłaty i odpowiadasz za ludzi w pojeździe.
+T: Prowadzisz trolejbus po trasie pod siecią | Zatrzymujesz się na przystankach według rozkładu | Pobierasz opłaty za przejazd | Opiekujesz się pasażerami podczas jazdy
+D: 5:00 Wyjazd z zajezdni, sprawdzasz trolejbus przed trasą | 6:30 Poranny szczyt, pełne przystanki i pasażerowie z biletami | 11:00 Krótki postój na pętli, pijesz herbatę | 14:30 Przekazujesz pojazd kierowcy z kolejnej zmiany
+Y: Narysuj schemat linii z sześcioma przystankami i zapisz godziny przejazdu co pięć minut.
+
+@535
+H: Prowadzisz tramwaj po szynach według rozkładu, pobierasz opłaty i opiekujesz się pasażerami. Jeździsz stałą trasą i musisz uważać na ruch wokół torowiska.
+T: Prowadzisz tramwaj po szynach | Zatrzymujesz skład na przystankach według rozkładu | Pobierasz opłaty od pasażerów | Obserwujesz ruch wokół torowiska
+D: 4:30 Obejmujesz tramwaj w zajezdni i sprawdzasz hamulce | 6:00 Kurs przez miasto, zatrzymujesz się na każdym przystanku | 12:00 Na pętli zmieniasz kabinę i wracasz | 14:00 Oddajesz tramwaj kolejnej zmianie
+Y: Ułóż na stole z kartek tor z trzema przystankami i przesuwaj po nim pudełko jak tramwaj.
+
+@536
+H: Witasz pasażerów w samolocie, wskazujesz miejsca i pilnujesz ich bezpieczeństwa oraz komfortu w trakcie lotu. Po lądowaniu piszesz raport o przebiegu lotu.
+T: Witasz pasażerów i sprawdzasz bilety | Kierujesz pasażerów na przydzielone miejsca | Wyjaśniasz zasady bezpieczeństwa | Piszesz sprawozdanie po lądowaniu
+D: 4:30 Odprawa załogi przed porannym lotem | 6:00 Witasz pasażerów przy drzwiach samolotu | 8:00 W trakcie lotu rozdajesz napoje i odpowiadasz na prośby | 11:30 Po lądowaniu spisujesz raport z lotu
+Y: Zrób dla domowników krótki instruktaż bezpieczeństwa w stylu lotniczym z trzech zdań.
+
+@537
+H: Pracujesz w pociągu i opiekujesz się pasażerami: witasz ich, odpowiadasz na pytania i serwujesz posiłki. Cały dzień jedziesz razem z pociągiem po trasie.
+T: Witasz pasażerów przy wejściu do wagonu | Odpowiadasz na pytania o trasę i przesiadki | Serwujesz posiłki i napoje | Sprawdzasz bilety podczas jazdy
+D: 5:00 Sprawdzasz zapasy posiłków i napojów w wagonie | 6:30 Witasz wsiadających na stacji początkowej | 9:00 Idziesz wagonami z wózkiem, serwujesz napoje i przekąski | 14:00 Pasażer pyta o przesiadkę, sprawdzasz rozkład
+Y: Wyjaśnij domownikowi na mapie, jak dojechać pociągiem z jednego miasta do drugiego z przesiadką.
+
+@538
+H: Obsługujesz pasażerów na statku: serwujesz posiłki, sprzątasz kajuty i witasz ludzi na pokładzie. Tłumaczysz też, co robić w razie zagrożenia na wodzie.
+T: Serwujesz posiłki pasażerom na statku | Sprzątasz kajuty w ramach służby pokojowej | Witasz pasażerów przy wejściu na pokład | Wyjaśniasz procedury bezpieczeństwa na statku
+D: 6:30 Sprzątasz kajuty, gdy pasażerowie jedzą śniadanie | 8:00 Serwujesz śniadanie w jadalni | 12:00 Witasz nowych pasażerów i pokazujesz kajuty | 16:00 Pokazujesz, gdzie są kamizelki ratunkowe i szalupy
+Y: Narysuj plan statku z jadalnią i kajutami i wyznacz drogę ewakuacji dla pasażerów.
+
+@539
+H: Zajmujesz się obsługą gastronomiczną podczas podróży pociągiem, statkiem lub samolotem. Podajesz posiłki i napoje ludziom, którzy w tym czasie siedzą w drodze.
+T: Przygotowujesz posiłki do podania w podróży | Serwujesz jedzenie i napoje pasażerom | Pilnujesz zapasów żywności na trasie | Sprzątasz po posiłkach
+D: 5:30 Układasz tace z posiłkami przed podróżą | 7:00 Rozdajesz jedzenie i napoje na pokładzie | 10:00 Zbierasz tace i odkładasz naczynia | 12:30 Liczysz, ile zostało zapasów, i zapisujesz
+Y: Nakryj tacę dla domownika: napój, przekąska i serwetka, i zapowiedz menu jednym zdaniem.
+

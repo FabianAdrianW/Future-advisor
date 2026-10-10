@@ -1,0 +1,180 @@
+@240
+H: Wiercisz otwory w blokach granitu, marmuru czy piaskowca dokładnie według podanych wymiarów. Obsługujesz wiertarkę i pilnujesz, żeby kamień nie pękł.
+T: Odczytujesz wymiary otworów ze specyfikacji | Zaznaczasz miejsca wiercenia na bloku | Ustawiasz blok i obsługujesz wiertarkę | Mierzysz gotowe otwory i sprawdzasz krawędzie
+D: 6:00 Zakładasz ochronniki słuchu i czytasz zlecenie | 8:00 Wiercisz otwory w płycie z granitu | 11:30 Mierzysz średnice i głębokość otworów | 14:00 Odsuwasz gotowe bloki i czyścisz stanowisko
+Y: Narysuj na kartce płytę z trzema otworami i podpisz średnice oraz odstępy między nimi.
+
+@241
+H: Wypalasz cegły, rury i płytki ceramiczne w piecu i pilnujesz temperatury przez cały cykl. Regulujesz zawory i obserwujesz termometry.
+T: Ustawiasz zawory i regulujesz temperaturę pieca | Odczytujesz termometry w czasie wypału | Sprawdzasz, czy wypalone wyroby nie mają wad | Kontrolujesz piec i zgłaszasz jego usterki
+D: 6:00 Przejmujesz zmianę i czytasz zapis temperatur | 8:30 Korygujesz zawory, bo wskazania odbiegają od planu | 11:00 Wyjmujesz ostudzoną partię i oglądasz pęknięcia | 13:30 Wsuwasz kolejną partię i zapisujesz godzinę
+Y: Wypisz trzy ceramiczne rzeczy z domu i sprawdź, czy któraś ma pęknięcie lub odprysk.
+
+@242
+H: Obsługujesz długi piec, przez który powoli jadą wózki z cegłami lub płytkami. Pilnujesz, żeby wsad nagrzał się i wypalił równo.
+T: Wsuwasz załadowane wózki do komory nagrzewania | Odczytujesz przyrządy pomiarowe wzdłuż pieca | Regulujesz zawory odcinające przy odchyleniach | Wysuwasz wypalone wózki do strefy sortowania
+D: 6:00 Sprawdzasz odczyty temperatury w kolejnych strefach pieca | 8:00 Wsuwasz nowe wózki z surowymi płytkami | 11:00 Zamykasz zawór, bo jedna strefa się przegrzewa | 13:00 Wyprowadzasz wypalone wózki i przekazujesz do sortowania
+Y: Narysuj schemat tunelu z trzema strefami: nagrzewanie, wypał, chłodzenie. Dopisz, co dzieje się z wózkiem w każdej.
+
+@243
+H: Pilnujesz tuneli, w których surowe wyroby z gliny schną przed wypałem. Zbyt szybkie suszenie powoduje pęknięcia, więc pilnujesz tempa.
+T: Ustawiasz parametry w tunelach suszących | Wprowadzasz wyroby na wózkach do suszarni | Sprawdzasz, czy wysuszone wyroby nie pękają | Wyprowadzasz suche partie przed wypałem
+D: 5:30 Odczytujesz wilgotność i temperaturę w tunelach | 8:00 Wprowadzasz świeżo uformowane wyroby na wózkach | 11:30 Znajdujesz pęknięty wyrób i zwalniasz suszenie | 14:00 Wyprowadzasz suche partie dla obsługi pieca
+Y: Rozłóż dwie mokre szmatki, jedną przy oknie, drugą w szafie, i po godzinie porównaj, która schnie szybciej.
+
+@244
+H: Wykańczasz płyty szkła: polerujesz krawędzie na maszynie ze ściernicami i tarczami. Czasem nakładasz powłokę, która zamienia szybę w lustro.
+T: Mocujesz płytę szkła na stole maszyny | Szlifujesz i polerujesz krawędzie ściernicami | Nakładasz powłokę lustrzaną na szybę | Oglądasz szkło pod światło w poszukiwaniu rys
+D: 6:00 Odbierasz zlecenie i przygotowujesz ściernice | 8:00 Szlifujesz krawędzie kilkudziesięciu płyt | 11:30 Zauważasz rysę pod światło i odkładasz płytę | 13:00 Obsługujesz maszynę do powłok lustrzanych
+Y: Obejrzyj lustro lub szybę pod światło z różnych kątów i policz widoczne rysy lub plamy.
+
+@245
+H: Obsługujesz maszyny, które w formach tłoczą lub rozdmuchują szkło na butelki, słoiki i szklanki. Ustawiasz je i sprawdzasz, czy wyroby mają właściwy kształt.
+T: Ustawiasz i regulujesz automat formujący | Ważysz i mierzysz próbki z produkcji | Porównujesz wyroby ze specyfikacją | Dostosowujesz ustawienia po zmianie wyrobu
+D: 6:00 Przejmujesz zmianę i oglądasz pierwsze butelki | 8:30 Ważysz próbkę słoików i porównujesz z normą | 11:00 Dostrajasz automat, bo szkło jest za cienkie | 14:00 Wpisujesz do dziennika regulacje z całej zmiany
+Y: Zmierz linijką wysokość i średnicę szklanki lub słoika z kuchni i zapisz wyniki.
+
+@246
+H: Tłoczysz glinę w cegły na prasie i układasz je na wózku do pieca. Dobierasz i mocujesz matryce, które nadają cegle kształt.
+T: Dobierasz matryce do rodzaju cegły | Mocujesz matryce kluczami i sprawdzasz przymiarem | Wyjmujesz świeże cegły z prasy | Układasz cegły na wózku w ustalonym wzorze
+D: 6:00 Wybierasz matrycę i mocujesz ją w prasie | 7:30 Pierwsze cegły schodzą z prasy, mierzysz je | 10:00 Układasz cegły na wózku w równe warstwy | 13:00 Zmieniasz matrycę pod inny format cegły
+Y: Zerknij na dowolną ceglaną ścianę i narysuj na kartce wzór ułożenia pięciu rzędów cegieł.
+
+@247
+H: Pilnujesz wytłaczarek, które formują ciągłe włókna ze szkła, polimeru lub wiskozy. Obserwujesz, czy nić się nie rwie i czy maszyna pracuje równo.
+T: Obserwujesz pracę wytłaczarek i ciągłość włókna | Ustawiasz maszynę pod rodzaj materiału | Reagujesz, gdy włókno się zrywa | Konserwujesz wytłaczarkę według harmonogramu
+D: 6:00 Przejmujesz zmianę i oglądasz wszystkie wytłaczarki | 8:30 Nitka się zrywa, szukasz przyczyny | 11:00 Zmieniasz ustawienia na inny rodzaj włókna | 13:30 Wykonujesz przegląd maszyny według listy kontrolnej
+Y: Rozciągnij kawałek nici krawieckiej, sprawdź, kiedy pęka, i zapisz, czym różni się gruba od cienkiej.
+
+@248
+H: Pilnujesz mieszalników, w których składniki zamieniają się w jednolitą masę na cegły i płytki ceramiczne. Od równego wymieszania zależy jakość gotowych wyrobów.
+T: Uruchamiasz i ustawiasz maszyny mieszające | Pilnujesz dopływu składników do mieszalnika | Oglądasz masę i sprawdzasz, czy jest jednolita | Czyścisz i konserwujesz mieszalniki
+D: 6:00 Uruchamiasz mieszalnik i sprawdzasz, czy składniki dopływają | 8:30 Pobierasz próbkę masy i oceniasz jej konsystencję | 11:00 Mieszalnik hałasuje, szukasz przyczyny | 13:00 Czyścisz maszynę po zakończeniu partii
+Y: Wymieszaj w kubku odrobinę mąki z wodą i oceń, kiedy masa jest gładka, bez grudek.
+
+@249
+H: Obsługujesz piec, w którym szkło powoli się nagrzewa i stygnie, żeby było mocniejsze i nie pękało. Pilnujesz temperatur i szukasz wad.
+T: Ustawiasz temperatury pieca według specyfikacji | Wprowadzasz wyroby szklane do odprężarki | Kontrolujesz szkło w trakcie całego procesu | Wyłapujesz wyroby z wadami i odkładasz je
+D: 6:00 Sprawdzasz, czy piec trzyma zadane temperatury | 8:00 Wprowadzasz kolejną partię butelek do pieca | 11:00 Wyłapujesz pęknięte szklanki wychodzące z pieca | 14:00 Zapisujesz temperatury i zgłaszasz odchylenia
+Y: Wyjaśnij własnymi słowami w dwóch zdaniach, dlaczego szkło pęka przy gwałtownej zmianie temperatury.
+
+@250
+H: Prowadzisz piec ze stopionym szkłem, z którego wychodzi ciągła taśma szkła płaskiego. Pilnujesz, żeby taśma była równa i bez wad.
+T: Obsługujesz piec ze stopionym szkłem | Prowadzisz ciągłą taśmę szkła płaskiego | Obserwujesz grubość i wygląd taśmy szkła | Reagujesz na zmiany w pracy pieca
+D: 6:00 Przejmujesz zmianę, piec pracuje bez przerwy | 8:30 Oglądasz taśmę szkła i szukasz pęcherzyków | 11:30 Korygujesz ustawienia, bo grubość taśmy odbiega od normy | 13:30 Zapisujesz dane z pieca i przekazujesz zmianę
+Y: Obejrzyj szybę w oknie pod światło z boku i poszukaj pęcherzyków, zawirowań lub zmarszczek.
+
+@251
+H: Obsługujesz prasę, która ślimakiem przepycha glinę, formuje ją, wytłacza i tnie na kawałki. Dostrajasz ustawienia, aż wyroby zgadzają się ze specyfikacją.
+T: Ustawiasz prasę ślimakową pod dany wyrób | Kontrolujesz wytłaczanie gliny z prasy | Nastawiasz długość cięcia wytłoczonej gliny | Mierzysz kawałki i porównujesz je ze specyfikacją
+D: 6:00 Ustawiasz prasę pod nowe zamówienie | 8:00 Glina wychodzi nierówno, więc dostrajasz ustawienia | 10:30 Mierzysz pocięte kawałki i porównujesz z wymiarami | 13:00 Odbierasz wytłoczone wyroby i przekazujesz dalej
+Y: Uformuj z plasteliny wałek o średnicy około 1 cm i potnij go na równe odcinki po 2 cm.
+
+@252
+H: Wypełniasz formy płynną gliną, odlewasz ceramikę i porcelanę, a po wyjęciu odlewu wygładzasz jego powierzchnię. Dużo pracy wykonujesz ręcznie.
+T: Wypełniasz formy płynną gliną | Wylewasz nadmiar masy z formy | Wyjmujesz odlew i wygładzasz ślady | Układasz odlewy na deskach do wyschnięcia
+D: 6:30 Wypełniasz rząd form płynną masą | 8:30 Wylewasz nadmiar masy i odstawiasz formy | 11:00 Otwierasz formę i wyjmujesz delikatny odlew | 13:30 Wygładzasz szwy i układasz odlewy na deskach
+Y: Ulep z plasteliny mały kubek, wygładź jego powierzchnię palcem i usuń widoczne ślady i szwy.
+
+@253
+H: Wypalasz dekoracje i glazurę na ceramice w piecu. Pilnujesz, żeby temperatura była równa w całym piecu, i dajesz wskazówki pomocnikowi.
+T: Sprawdzasz poziom i równomierność temperatury pieca | Regulujesz temperaturę podczas wypału | Pokazujesz pomocnikowi, jak przygotować skrzynię paleniskową | Układasz ozdobioną ceramikę do wypału w piecu
+D: 7:00 Układasz pomalowane naczynia w piecu | 9:00 Mówisz pomocnikowi, jak przygotować skrzynię paleniskową | 12:00 Sprawdzasz, czy w piecu wszędzie jest ta sama temperatura | 16:00 Wyjmujesz ostudzoną ceramikę i oglądasz glazurę
+Y: Obejrzyj domowy talerz lub kubek i opisz, czym wygląd glazury różni się od nieszkliwionego spodu.
+
+@254
+H: Obsługujesz urządzenia, którymi napełnia się butle gazem ciekłym lub sprężonym. Pilnujesz szczelności sprzętu i tego, żeby każda butla była napełniona prawidłowo.
+T: Podłączasz butle do urządzenia napełniającego | Napełniasz butle gazem ciekłym lub sprężonym | Sprawdzasz szczelność butli i zaworów | Konserwujesz urządzenia i pojemniki
+D: 6:00 Przeglądasz sprzęt do napełniania przed zmianą | 8:00 Napełniasz partię butli i sprawdzasz zawory | 11:00 Odkładasz butlę, która nie trzyma szczelności | 13:30 Przygotowujesz napełnione butle do odbioru
+Y: Napełnij plastikową butelkę wodą, zakręć i odwróć nad zlewem, by sprawdzić jej szczelność.
+
+@255
+H: Stoisz przy taśmie i patrzysz na przejeżdżające butelki lub puszki. Wyłapujesz uszkodzone i sprawdzasz, czy poziom napełnienia jest taki, jak trzeba.
+T: Obserwujesz butelki i puszki na taśmie | Sprawdzasz poziom napełnienia | Zdejmujesz uszkodzone opakowania z linii | Zauważasz poważne odchylenia i zgłaszasz je
+D: 6:00 Stajesz przy taśmie i patrzysz na pierwsze butelki | 8:30 Zdejmujesz wgniecioną puszkę z linii | 11:00 Poziom napoju w butelkach jest za niski, zgłaszasz brygadziście | 13:30 Zmieniasz stanowisko i dalej pilnujesz taśmy
+Y: Nalej wodę do czterech szklanek na ten sam poziom i sprawdź linijką, czy naprawdę jest równy.
+
+@256
+H: Dozorujesz maszyny, które napełniają produktami spożywczymi słoje, kartony i puszki. Pilnujesz, żeby linia nie stawała, a opakowania były pełne i zamknięte.
+T: Dozorujesz maszynę napełniającą słoje i kartony | Dopilnowujesz zapasu opakowań i produktu | Sprawdzasz zamknięcie i wygląd opakowań | Zatrzymujesz linię przy zacięciu maszyny
+D: 5:30 Uzupełniasz zapas słoików i wieczek przy maszynie | 8:00 Maszyna się zacina, zatrzymujesz linię | 11:00 Wyjmujesz kilka słoików i sprawdzasz zamknięcie | 13:00 Przestawiasz maszynę na kartony z innym produktem
+Y: Przyjrzyj się trzem produktom w kuchni i opisz, jak są zamknięte i po czym poznasz, że ktoś je otwierał.
+
+@257
+H: Robisz ostatnią kontrolę wyrobów skórzanych i pakujesz je tak, by dotarły do klienta bez zagnieceń. Przygotowujesz też dokumenty dla firmy transportowej.
+T: Oglądasz wyrób skórzany przed spakowaniem | Zakładasz uchwyty, kłódki i etykiety | Wypełniasz wyrób papierem i wkładasz do woreczka | Układasz pudełka w paczkach i przygotowujesz dokumenty
+D: 7:00 Odbierasz wyroby z produkcji i oglądasz każdy | 9:30 Zakładasz kłódki i etykiety na produkty | 12:00 Wypełniasz papierem i układasz w pudełkach | 14:30 Sprawdzasz zamówienie i przygotowujesz dokumenty dla kuriera
+Y: Zapakuj w papier i pudełko dowolny przedmiot z domu tak, by nic się nie obijało po potrząśnięciu.
+
+@258
+H: Dopracowujesz wygląd gotowych butów i pakujesz je do sprzedaży. Pracujesz według instrukcji przełożonego: które buty, jakimi środkami i w jakiej kolejności.
+T: Czytasz instrukcję przełożonego dla danej partii | Wykańczasz gotowe buty według kolejności działań | Oglądasz pary butów pod kątem wyglądu | Układasz parę w pudełku do sprzedaży
+D: 7:00 Dostajesz od przełożonego listę par do wykończenia | 9:00 Poprawiasz wygląd butów zgodnie z instrukcją | 11:30 Dobierasz buty do pary i oglądasz z obu stron | 14:00 Pakujesz pary w pudełka do sprzedaży
+Y: Wytrzyj wilgotną ściereczką parę własnych butów i oceń, czy oba wyglądają tak samo.
+
+@259
+H: Obsługujesz zgrzewarki i klejarki, które ciepłem łączą elementy, produkty lub opakowania. Ustawiasz maszynę i sprawdzasz, czy połączenie trzyma.
+T: Ustawiasz zgrzewarkę lub klejarkę | Podajesz elementy do połączenia ciepłem | Sprawdzasz, czy połączenie jest mocne i szczelne | Zatrzymujesz maszynę przy zacięciach
+D: 6:00 Nagrzewasz maszynę i ustawiasz ją pod zlecenie | 8:00 Zgrzewasz pierwsze opakowania i sprawdzasz szwy | 11:30 Szew puszcza, więc korygujesz ustawienia | 14:00 Zbierasz gotowe sztuki i sprzątasz stanowisko
+Y: Obejrzyj trzy opakowania w kuchni, znajdź na nich zgrzew i delikatnie sprawdź, który wygląda na najmocniejszy.
+
+@260
+H: Dozorujesz maszyny, które nanoszą oznaczenia handlowe na owijki cygar. Pilnujesz dostaw materiału, obserwujesz, czy proces się nie zablokował, i czyścisz wałki barwiące.
+T: Dozorujesz maszynę znakującą owijki cygar | Dopilnowujesz dostaw materiałów do maszyny | Obserwujesz, czy proces się nie zablokował | Czyścisz wałki barwiące zapobiegawczo
+D: 6:00 Uruchamiasz maszynę i sprawdzasz zapas owijek | 8:30 Uzupełniasz materiał, bo zaczyna go brakować | 11:00 Proces się zatrzymuje, usuwasz blokadę | 13:30 Czyścisz wałki barwiące przed końcem zmiany
+Y: Obejrzyj nadruk na dowolnym kartonie i sprawdź, czy wszędzie jest równy, bez rozmazań i przerw.
+
+@261
+H: Pilnujesz kotłów w kotłowni lub elektrowni, które ogrzewają budynki albo dostarczają ciepło. Odpowiadasz za bezpieczną pracę i jak najmniejszą szkodę dla środowiska.
+T: Obserwujesz wskazania kotłów niskiego i wysokiego ciśnienia | Konserwujesz systemy grzewcze | Reagujesz na alarmy i odchylenia od normy | Pilnujesz zgodności pracy z przepisami
+D: 6:00 Przejmujesz kotłownię i czytasz dziennik zmiany | 8:00 Obchodzisz kotły i sprawdzasz manometry | 11:00 Konserwujesz urządzenia pomocnicze przy wyłączonym kotle | 14:00 Wpisujesz do dziennika pomiary i uwagi
+Y: Zapisz temperaturę w trzech pomieszczeniach domu, jeśli masz termometr, i wskaż najcieplejsze oraz najchłodniejsze.
+
+@262
+H: Obsługujesz kotły parowe i silniki stacjonarne, które dostarczają media do domów lub zakładów. Pilnujesz przepisów bezpieczeństwa i robisz testy jakości.
+T: Obsługujesz kocioł parowy i silnik stacjonarny | Monitorujesz pracę urządzeń pod kątem bezpieczeństwa | Wykonujesz testy zapewniające jakość | Konserwujesz urządzenia mechaniczne według harmonogramu
+D: 5:30 Przejmujesz zmianę i oglądasz kocioł parowy | 8:00 Sprawdzasz ciśnienie i poziom wody | 11:00 Wykonujesz test jakości i zapisujesz wynik | 13:30 Konserwujesz silnik stacjonarny według harmonogramu
+Y: Wyjaśnij na kartce, jak para wodna może przenosić ciepło z kotła do kaloryferów w bloku.
+
+@263
+H: Obsługujesz maszynę, która tnie duże arkusze lub rolki metalu, papieru i innych materiałów na wąskie pasy. Mierzysz wyniki i pilnujesz granic tolerancji.
+T: Ustawiasz maszynę na zadaną szerokość pasów | Zakładasz rolkę materiału i uruchamiasz cięcie | Mierzysz pasy i porównujesz z tolerancją | Odrzucasz pasy poza dopuszczalnymi granicami
+D: 6:00 Zakładasz rolkę blachy i ustawiasz szerokość | 8:00 Tniesz pierwszą rolkę na wąskie pasy | 11:00 Mierzysz pasy, szerokość jest o ułamek za duża | 13:30 Zdejmujesz zwoje i przygotowujesz kolejną rolkę
+Y: Utnij nożyczkami kartkę na trzy pasy po 5 cm i sprawdź linijką, ile różnią się najwęższy i najszerszy.
+
+@264
+H: Obsługujesz maszynę, która okleja brzegi płyt drewnianych, żeby były trwalsze i ładniejsze. Ustawiasz prędkość pasa i temperaturę, a brzegi paneli pokrywasz klejem.
+T: Ustawiasz prędkość pasa okleiniarki | Ustawiasz kontrolę temperatury maszyny | Pokrywasz brzegi paneli klejem | Uruchamiasz maszynę i oglądasz oklejone brzegi
+D: 6:00 Nagrzewasz okleiniarkę i ustawiasz prędkość pasa | 8:00 Przepuszczasz pierwsze panele i oglądasz krawędzie | 11:00 Brzeg się odkleja, więc zmieniasz temperaturę | 13:30 Układasz oklejone panele na palecie
+Y: Obejrzyj brzegi dowolnego mebla z płyty i sprawdź, czy któryś jest odklejony lub nierówny.
+
+@265
+H: Kierujesz całą kopalnią: planujesz wydobycie i odpowiadasz za bezpieczeństwo ludzi oraz wpływ na środowisko. Decydujesz też o zakupie, montażu i konserwacji sprzętu górniczego.
+T: Planujesz i koordynujesz produkcję w kopalni | Odpowiadasz prawnie za bezpieczeństwo załogi | Pilnujesz wpływu kopalni na środowisko | Nadzorujesz zakup i konserwację urządzeń górniczych
+D: 7:00 Czytasz raporty z nocnej zmiany | 9:00 Narada z kierownikami o planie wydobycia | 12:00 Analizujesz zgłoszone zagrożenia w jednym z wyrobisk | 15:00 Rozmawiasz o zakupie nowych urządzeń
+Y: Napisz plan bezpieczeństwa na pięć punktów dla dowolnego miejsca pracy, na przykład szkolnej pracowni.
+
+@266
+H: Układasz harmonogramy wiercenia, wydobycia i gospodarowania odpadami dla złóż ropy i gazu. Przydzielasz ludzi i sprzęt, żeby plan zgadzał się z celami.
+T: Układasz krótko- i średnioterminowe plany produkcji | Przydzielasz jednostki, ludzi i sprzęt | Nadzorujesz wdrażanie środków technicznych | Sprawdzasz wielkość i jakość wydobycia
+D: 7:00 Czytasz raport o wczorajszym wydobyciu | 9:30 Ustalasz z inżynierami kolejność prac wiertniczych | 12:30 Przesuwasz ekipę tam, gdzie plan się opóźnia | 15:00 Aktualizujesz harmonogram na kolejny miesiąc
+Y: Zaplanuj swój tydzień nauki jak harmonogram produkcji: dni, godziny i cel na każdy dzień.
+
+@267
+H: Koordynujesz plany wydobycia rudy i minerałów, ich obróbki i gospodarowania odpadami. Pilnujesz, żeby kolejne zmiany realizowały plan na najbliższe tygodnie i miesiące.
+T: Układasz plany wydobycia rudy i minerałów | Koordynujesz obróbkę urobku | Planujesz, co dzieje się z odpadami | Wdrażasz harmonogramy dla kolejnych zmian
+D: 6:00 Odbierasz od brygadzisty raport z nocy | 8:00 Porównujesz wydobycie z planem na tydzień | 11:00 Ustalasz, gdzie skierować odpady z przeróbki | 14:00 Zmieniasz plan zmiany, bo stanęła maszyna
+Y: Narysuj prostą mapę drogi kamienia: skąd go wydobyć, gdzie przetworzyć i gdzie wywieźć odpady.
+
+@268
+H: Zarządzasz kamieniołomem: wydobyciem, przetwarzaniem i transportem kamienia. Pilnujesz, żeby wszystko szło zgodnie z zasadami BHP i wytycznymi firmy.
+T: Koordynujesz wydobycie, przerób i transport kamienia | Sprawdzasz przestrzeganie zasad BHP | Wdrażasz wytyczne przedsiębiorstwa | Omawiasz z załogą bieżące problemy
+D: 6:30 Oglądasz stan kamieniołomu i maszyn | 8:30 Ustalasz kolejność transportu kamienia do klientów | 11:00 Zatrzymujesz pracę w miejscu, gdzie brak zabezpieczeń | 14:00 Omawiasz z kierownikami sprawy przepisów BHP
+Y: Obejrzyj w internecie zdjęcia kamieniołomu i wypisz pięć zagrożeń dla pracujących tam ludzi.
+
+@269
+H: Planujesz i nadzorujesz, jak w firmie powstają produkty, tak by zdążyć na czas i zmieścić się w budżecie. Szukasz też, co spowalnia produkcję.
+T: Planujesz produkcję pod terminy i budżet | Nadzorujesz pracę zmian produkcyjnych | Reagujesz, gdy proces się opóźnia | Omawiasz wyniki z dyrekcją
+D: 7:00 Przeglądasz plan dnia i obsadę linii | 9:30 Linia stoi, więc ustalasz z mechanikiem obejście | 12:00 Sprawdzasz, ile sztuk powstało do tej pory | 15:00 Raportujesz dyrekcji postęp zamówień
+Y: Zaplanuj w 15 minut przygotowanie domowej kolacji: kolejność kroków, czas każdego i podział zadań.
+

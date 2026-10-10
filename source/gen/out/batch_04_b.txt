@@ -1,0 +1,180 @@
+@270
+H: Kupujesz i kontrolujesz mięso, a potem je tniesz, odkostniasz, wiążesz i mielisz na produkty do sprzedaży. Pracujesz tylko z mięsem zgodnym z przepisami islamu.
+T: Zamawiasz i kontrolujesz mięso halal | Tniesz, przycinasz i odkostniasz mięso wołowe i drobiowe | Mielisz mięso i wiążesz je sznurkiem | Sprawdzasz zgodność mięsa z przepisami islamu
+D: 6:00 Przyjmujesz dostawę mięsa i sprawdzasz dokumenty | 8:00 Odkostniasz i przycinasz mięso wołowe | 11:00 Mielisz mięso i układasz je na ladzie | 14:00 Doradzasz klientowi, jaki kawałek wybrać na obiad
+Y: Zwiąż sznurkiem zrolowaną ściereczkę kuchenną tak, żeby rolada trzymała kształt, i poćwicz solidny węzeł.
+
+@271
+H: Przygotowujesz mięso zgodne z regułami judaizmu: kupujesz je, kontrolujesz i dzielisz na kawałki do sprzedaży. Pracujesz z mięsem krów, owiec i kóz.
+T: Zamawiasz i kontrolujesz mięso koszerne | Tniesz i przycinasz mięso na porcje | Odkostniasz, wiążesz i mielisz mięso | Pilnujesz, żeby mięso pochodziło od dozwolonych zwierząt
+D: 6:30 Odbierasz mięso i sprawdzasz, od jakich zwierząt pochodzi | 8:30 Rozbierasz jagnięcinę na mniejsze kawałki | 11:30 Mielisz wołowinę na zamówienie klienta | 14:00 Pakujesz porcje i opisujesz je
+Y: Znajdź informację o tym, czym jest koszerność, i zapisz własnymi słowami dwie zasady dotyczące mięsa.
+
+@272
+H: Kupujesz, kontrolujesz i przygotowujesz mięso wołowe, wieprzowe i drobiowe do sprzedaży. Tniesz je, odkostniasz, wiążesz i mielisz.
+T: Zamawiasz i kontrolujesz dostawy mięsa | Rozbierasz tusze wołowe, wieprzowe i drobiowe | Odkostniasz, przycinasz i mielisz mięso | Przygotowujesz porcje do sprzedaży
+D: 5:30 Przyjmujesz dostawę i oglądasz mięso | 7:30 Odkostniasz łopatkę wieprzową i przycinasz tłuszcz | 10:00 Mielisz mięso i pakujesz je na ladę | 13:00 Doradzasz klientom, jak przyrządzić wybrany kawałek
+Y: Obejrzyj w kuchni opakowanie z mięsem lub wędliną i zapisz datę przydatności oraz zalecaną temperaturę przechowywania.
+
+@273
+H: Zajmujesz się ubojem zwierząt i przygotowaniem tusz do dalszego przetwarzania. To praca fizyczna i trudna psychicznie, wymaga spokoju i trzymania się procedur.
+T: Przeprowadzasz ubój zwierząt zgodnie z procedurą | Przygotowujesz tusze do dalszej obróbki | Myjesz narzędzia i stanowisko pracy | Przekazujesz tusze do dalszego przetwarzania
+D: 5:00 Zakładasz odzież ochronną i myjesz narzędzia | 6:00 Przyjmujesz pierwsze zwierzęta zgodnie z procedurą | 9:00 Przygotowujesz tusze i przekazujesz je dalej | 12:30 Czyścisz stanowisko i narzędzia po zmianie
+Y: Wypisz trzy powody, dla których w zakładach mięsnych tak ważna jest higiena.
+
+@274
+H: Dokonujesz uboju zgodnie z prawem islamskim i przygotowujesz tusze wołowe oraz kurze do dalszego przetwarzania. Pilnujesz też żywienia, uboju i wieszania zwierząt.
+T: Przeprowadzasz ubój zgodnie z prawem islamskim | Pilnujesz właściwego żywienia zwierząt | Wieszasz tusze i przygotowujesz je do obróbki | Przekazujesz mięso halal do dystrybucji
+D: 5:30 Sprawdzasz zwierzęta i ich karmienie przed ubojem | 7:00 Przeprowadzasz ubój zgodnie z regułami islamu | 9:30 Wieszasz tusze wołowe i kurze | 12:00 Przekazujesz tusze do przetwarzania i dystrybucji
+Y: Poszukaj w kuchni opakowania z dowolnym certyfikatem lub oznaczeniem jakości i zapisz, co ono znaczy.
+
+@275
+H: Dokonujesz uboju zgodnie z prawem żydowskim i rytuałami, a potem przygotowujesz tusze mięsa koszernego do dalszej obróbki. Praca wymaga znajomości reguł i precyzji.
+T: Przeprowadzasz ubój według prawa żydowskiego | Stosujesz rytuały wymagane dla mięsa koszernego | Przygotowujesz tusze do przetwarzania | Przekazujesz mięso koszerne do dystrybucji
+D: 5:30 Przygotowujesz narzędzia i sprawdzasz zgodność z regułami | 7:00 Przeprowadzasz ubój zgodnie z rytuałem | 9:30 Oglądasz tuszę i przygotowujesz ją do obróbki | 12:00 Przekazujesz mięso do przetwórstwa i dystrybucji
+Y: Znajdź w bibliotece lub internecie, czym jest szechita, i opisz ją w trzech zdaniach.
+
+@276
+H: Mieszasz świeże mięso z przyprawami, ziołami i dodatkami, żeby powstały wyroby gotowe do sprzedaży. Pracujesz przy produkcji, a nie za ladą sklepu.
+T: Odmierzasz przyprawy, zioła i dodatki | Mieszasz je ze świeżym mięsem | Przygotowujesz wyroby mięsne do sprzedaży | Myjesz sprzęt i pilnujesz higieny stanowiska
+D: 6:00 Odmierzasz przyprawy do dzisiejszej receptury | 8:00 Mieszasz mięso z przyprawami w dużym pojemniku | 11:00 Sprawdzasz wygląd partii przed pakowaniem | 13:30 Myjesz sprzęt i stanowisko po pracy
+Y: Wymieszaj w miseczce trzy przyprawy z kuchni z łyżką jogurtu i opisz zapach mieszanki.
+
+@277
+H: Odcinasz rybom głowy i usuwasz wnętrzności, a potem pakujesz oprawione ryby. To praca ręczna i powtarzalna, przy wilgotnym stole.
+T: Odcinasz głowy ryb | Usuwasz narządy wewnętrzne skrobaniem i przemywaniem | Wycinasz wadliwe fragmenty | Pakujesz oprawione ryby w pojemniki
+D: 6:00 Zakładasz fartuch i rękawice, układasz skrzynie z rybami | 7:30 Odcinasz głowy i usuwasz wnętrzności | 10:30 Wycinasz fragmenty z wadami | 13:00 Pakujesz oprawione ryby do pojemników
+Y: Narysuj uproszczony schemat ryby i zaznacz głowę, ogon, płetwy oraz miejsce narządów wewnętrznych.
+
+@278
+H: Przygotowujesz ryby i skorupiaki zgodnie z przepisami o higienie i bezpieczeństwie żywności. Zajmujesz się przetwarzaniem, a czasem też sprzedażą detaliczną.
+T: Przygotowujesz ryby i skorupiaki do dalszej obróbki | Stosujesz przepisy o higienie żywności | Przetwarzasz ryby na produkty do sprzedaży | Obsługujesz klientów w sprzedaży detalicznej
+D: 6:00 Przyjmujesz świeże ryby i skorupiaki z dostawy | 8:00 Przygotowujesz ryby do dalszego przetwarzania | 10:30 Zapisujesz kontrole higieny na swoim stanowisku | 13:00 Obsługujesz klientów przy ladzie rybnej
+Y: Umyj ręce mydłem przez 20 sekund i zapisz po kolei kroki mycia.
+
+@279
+H: Kroisz tusze zwierzęce na duże, a potem mniejsze części i usuwasz z nich kości ręcznie lub maszynowo. Praca jest powtarzalna i fizyczna.
+T: Dzielisz tusze na duże części | Rozcinasz je na mniejsze kawałki | Usuwasz kości ręcznie lub maszynowo | Przekazujesz mięso do dalszej obróbki
+D: 6:00 Zakładasz rękawicę ochronną i sprawdzasz noże | 7:00 Dzielisz tusze na duże części | 10:00 Odkostniasz mięso z mniejszych kawałków | 13:00 Przekazujesz mięso do dalszej obróbki
+Y: Narysuj schemat podziału tuszy kurczaka na części i podpisz, które kości usuwa się najpierw.
+
+@280
+H: Próbujesz próbki kawy i oceniasz jej cechy, klasę oraz wartość rynkową. Układasz też receptury mieszanek, które potem przygotowują inni.
+T: Degustujesz próbki kawy | Określasz klasę i wartość rynkową produktu | Oceniasz, czy kawa spodoba się różnym gustom | Opracowujesz receptury mieszanek dla pracowników
+D: 8:00 Próbujesz pierwsze próbki świeżo zaparzonych kaw | 10:00 Zapisujesz ocenę aromatu i klasy | 12:30 Porównujesz dwie mieszanki i szukasz lepszej | 15:00 Przekazujesz recepturę pracownikom przygotowującym mieszanki
+Y: Powąchaj z zamkniętymi oczami trzy produkty w kuchni i opisz zapach każdego trzema słowami.
+
+@281
+H: Sortujesz produkty spożywcze według jakości, oceniając je wzrokiem, węchem lub z pomocą maszyny. Decydujesz, co pójdzie dalej, a co trzeba odrzucić.
+T: Oglądasz produkty i dzielisz je na klasy | Odrzucasz uszkodzone lub przeterminowane | Ważysz i mierzysz produkty | Zgłaszasz wyniki do dalszego przetwarzania
+D: 6:00 Dostajesz partię owoców do oceny | 8:00 Sortujesz według wielkości i koloru | 11:00 Odrzucasz przeterminowane i obite sztuki | 13:30 Wpisujesz wyniki ważenia i klasy partii
+Y: Weź pięć owoców lub warzyw z kuchni, podziel je na dwie klasy jakości i uzasadnij podział.
+
+@282
+H: Mierzysz i analizujesz, ile mleka daje gospodarstwo i jakie ono jest. Potem doradzasz rolnikowi, co poprawić.
+T: Pobierasz próbki mleka w gospodarstwie | Mierzysz ilość mleka | Analizujesz jakość mleka | Doradzasz rolnikowi, jak poprawić wyniki
+D: 5:30 Jedziesz do gospodarstwa na poranne dojenie | 6:30 Pobierasz próbki mleka od krów | 9:00 Spisujesz wyniki ilości i jakości mleka | 12:00 Tłumaczysz rolnikowi, co oznaczają wyniki
+Y: Nalej mleko do przezroczystej szklanki, oceń kolor, zapach i gęstość, a potem zapisz trzy obserwacje.
+
+@283
+H: Wymyślasz nowe rodzaje kawy i pilnujesz, żeby każda mieszanka smakowała tak samo za każdym razem. Spisujesz receptury dla pracowników, którzy robią mieszanki.
+T: Tworzysz nowe rodzaje kawy | Ustalasz sposób palenia ziaren | Opracowujesz receptury mieszanek | Przekazujesz receptury pracownikom produkcji
+D: 7:00 Sprawdzasz, jak wypaliła się pierwsza partia | 9:30 Testujesz nową mieszankę z trzech gatunków ziaren | 12:00 Zmieniasz recepturę, bo smak odbiega od wzorca | 14:30 Tłumaczysz pracownikom nową recepturę
+Y: Zapisz recepturę mieszanki trzech suchych składników z kuchni, podając proporcje, na przykład 2 do 1 do 1.
+
+@284
+H: Oceniasz wzrokiem, zapachem i smakiem różne słody używane do warzenia piwa. Dobierasz mieszanki, żeby jakość była stale taka sama.
+T: Oceniasz wygląd, zapach i smak słodów | Klasyfikujesz słody do warzenia piwa | Sprawdzasz surowce i półfabrykaty | Przygotowujesz mieszanki przy nowych produktach
+D: 7:00 Oglądasz i wąchasz próbki słodu z dostawy | 9:30 Sortujesz słody według klas | 12:00 Porównujesz półfabrykat ze wzorcem jakości | 14:30 Łączysz dwa słody w mieszankę testową
+Y: Porównaj zapach i wygląd dwóch rodzajów płatków lub kasz z kuchni i opisz różnice w czterech zdaniach.
+
+@285
+H: Pomagasz w mieszaniu, starzeniu i fermentacji stripsu, czyli przetworzonych liści tytoniu na cygara, tytoń do żucia i tabakę. Pracujesz z surowcem, który długo dojrzewa.
+T: Mieszasz partie stripsu tytoniowego | Układasz strips do starzenia | Pilnujesz przebiegu fermentacji | Zapisujesz, co dzieje się z partiami
+D: 6:00 Sprawdzasz, które partie stripsu mają dziś mieszanie | 8:30 Mieszasz partie według polecenia przełożonego | 11:00 Przenosisz strips do starzenia | 13:30 Notujesz stan partii w dzienniku
+Y: Połóż skórkę z banana na talerzu, a po 15 minutach zapisz zmiany koloru i zapachu.
+
+@286
+H: Oceniasz kolor i stan liści tytoniu i decydujesz, czy nadadzą się na pokrywy czy owijki cygar. Wybierasz liście bez wad i łączysz pokrywowe w wiązki.
+T: Oglądasz kolor i stan liści | Wybierasz liście bez rozdarć i plam | Dzielisz liście na pokrywy i owijki | Łączysz liście pokrywowe w wiązki
+D: 6:30 Rozkładasz liście na stole pod jasnym światłem | 8:00 Odkładasz liście z plamami smoły | 10:30 Dobierasz liście do pokryw według rozmiaru i barwy | 13:00 Łączysz pokrywowe liście w wiązki
+Y: Znajdź w domu lub na podwórku pięć liści i ułóż je od najjaśniejszego do najciemniejszego.
+
+@287
+H: Łączysz ręcznie liście tytoniu w wiązki do dalszego przetwarzania. Układasz liście ogonkami w jedną stronę i wiążesz ogonki jednym liściem.
+T: Wybierasz liście do wiązki | Układasz liście ogonkami w jedną stronę | Owijasz ogonki liściem wiążącym | Odkładasz gotowe wiązki do dalszej obróbki
+D: 6:30 Dostajesz kosz posegregowanych liści | 8:00 Układasz liście ogonkami w jedną stronę | 10:30 Wiążesz ogonki liściem, wiązka za wiązką | 13:00 Przekładasz gotowe wiązki na wózek
+Y: Zwiąż sznurkiem pęk pięciu ołówków tak, by wszystkie były skierowane w jedną stronę.
+
+@288
+H: Obsługujesz maszyny do mycia, obierania, krojenia, zamrażania i pakowania owoców oraz warzyw, żeby długo się nie psuły. Zaczynasz od sortowania, kończysz na gotowej paczce.
+T: Sortujesz i myjesz owoce oraz warzywa | Obierasz, przycinasz i kroisz na maszynach | Zamrażasz lub konserwujesz produkty | Pakujesz produkty po sortowaniu
+D: 6:00 Przyjmujesz skrzynie z warzywami i sortujesz je | 8:30 Obsługujesz maszynę do mycia i obierania | 11:00 Krojone warzywa wjeżdżają do zamrażarki tunelowej | 14:00 Pakujesz zamrożone produkty w worki do sprzedaży
+Y: Wypisz pięć sposobów przedłużenia trwałości warzyw i zaznacz te, które widzisz w swojej kuchni.
+
+@289
+H: Obsługujesz młyn, który metodami rzemieślniczymi wyciska olej z nasion roślin oleistych. Patrzysz, jak nasiona zamieniają się w olej.
+T: Oglądasz nasiona przed tłoczeniem | Wsypujesz nasiona do młyna | Obsługujesz prasę wyciskającą olej | Zbierasz wyciśnięty olej do pojemników
+D: 7:00 Oglądasz nasiona, czy nie ma w nich zanieczyszczeń | 9:00 Uruchamiasz młyn i wsypujesz pierwszą partię | 11:30 Zbierasz świeży olej do pojemników | 14:00 Czyścisz prasę przed następną partią
+Y: Porównaj zapach i wygląd dwóch tłuszczów roślinnych z kuchni i zapisz trzy różnice.
+
+@290
+H: Obsługujesz prasy hydrauliczne, które wyciskają olej z nasion roślin oleistych. Maszyna działa dużą siłą, więc musisz trzymać się procedur.
+T: Napełniasz prasę hydrauliczną nasionami | Uruchamiasz cykl tłoczenia | Odbierasz wyciśnięty olej | Sprawdzasz, czy prasa pracuje bez usterek
+D: 6:00 Sprawdzasz prasę hydrauliczną przed uruchomieniem | 8:00 Napełniasz prasę nasionami i uruchamiasz cykl | 10:30 Odbierasz olej do pojemników i oznaczasz je | 13:30 Zgłaszasz brygadziście wyciek z przewodu
+Y: Rozgnieć łyżką w misce kilka pestek słonecznika i zobacz, czy zostaje tłusty ślad.
+
+@291
+H: Przyjmujesz surowe mleko od dostawców i sprawdzasz jego jakość oraz ilość. Wstępnie je czyścisz, przechowujesz i kierujesz do zakładów przetwórczych.
+T: Przyjmujesz dostawy surowego mleka | Mierzysz ilość i sprawdzasz jakość mleka | Wstępnie oczyszczasz mleko | Kierujesz mleko do zakładów przetwórczych
+D: 5:00 Przyjeżdża pierwsza dostawa mleka od rolników | 5:30 Pobierasz próbki i mierzysz ilość | 8:00 Mleko przechodzi wstępne czyszczenie i trafia do zbiornika | 11:00 Wysyłasz mleko do właściwego zakładu przetwórczego
+Y: Zmierz butelką o znanej pojemności, ile wody mieści twój kubek, i zapisz wynik.
+
+@292
+H: Z surowego mleka robisz metodami rzemieślniczymi masło, ser, śmietanę lub mleko. Dużo pracy przy takiej produkcji wykonujesz ręcznie.
+T: Przerabiasz surowe mleko na ser i masło | Przygotowujesz śmietanę i mleko do sprzedaży | Formujesz sery i odsączasz je | Pakujesz gotowe wyroby mleczne
+D: 5:30 Odbierasz mleko od rolnika i je przelewasz | 7:00 Przygotowujesz mleko do sera w kadzi | 10:00 Formujesz ser i odsączasz serwatkę | 13:00 Pakujesz masło i opisujesz partię
+Y: Przeczytaj, jak powstaje masło ze śmietany, i opisz trzy etapy własnymi słowami.
+
+@293
+H: Obsługujesz przemysłową frezarkę do drewna, której głowica wycina w deskach zadany kształt. Zwykle maszyna jest sterowana komputerowo, więc ustawiasz wzór i pilnujesz cięcia.
+T: Wgrywasz wzór do sterowania maszyny | Mocujesz drewno na stole frezarki | Ustawiasz głębokość nacięcia | Mierzysz gotowe elementy
+D: 6:00 Mocujesz deskę i uruchamiasz cykl frezowania | 8:00 Głowica wycina kształt, obserwujesz pierwsze sztuki | 11:00 Mierzysz element i korygujesz głębokość | 13:30 Zmieniasz wzór na kolejne zlecenie
+Y: Narysuj na kartce prosty wzór do wycięcia i zaznacz strzałkami drogę, którą pójdzie głowica.
+
+@294
+H: Obsługujesz piłę z obrotową tarczą wbudowaną w stół i tniesz drewno na zadane wymiary. Najważniejsze jest bezpieczeństwo, bo naprężenia w drewnie potrafią szarpnąć elementem.
+T: Ustawiasz wysokość tarczy na głębokość cięcia | Prowadzisz drewno wzdłuż prowadnicy | Tniesz elementy na zadane wymiary | Oceniasz drewno pod kątem naprężeń
+D: 6:00 Sprawdzasz osłony tarczy i ustawiasz jej wysokość | 8:00 Tniesz serię desek na te same wymiary | 11:00 Deska się skręca, zatrzymujesz maszynę | 13:30 Sprzątasz trociny i odkładasz elementy
+Y: Narysuj deskę i zaznacz linie cięcia, by wyciąć z niej trzy elementy po 20 cm.
+
+@295
+H: Obsługujesz piłę z ciągłą, elastyczną taśmą na kołach, która najlepiej radzi sobie z nieregularnymi kształtami. Wycinasz łuki i nietypowe kontury.
+T: Zakładasz i ustawiasz taśmę piły | Prowadzisz drewno po narysowanej linii | Wycinasz łuki i nieregularne kształty | Sprawdzasz wycięty kształt względem wzoru
+D: 6:00 Sprawdzasz napięcie i stan taśmy | 8:00 Wycinasz zakrzywione elementy według wzornika | 11:00 Porównujesz wycięty kształt ze wzorem | 13:30 Sprzątasz opiłki i odkładasz gotowe elementy
+Y: Narysuj na kartonie krzywą linię i wytnij nożyczkami dokładnie po niej, bez odchyleń.
+
+@296
+H: Przepuszczasz deski przez maszynę, która hebluje je do jednakowej grubości, zwykle z obu stron naraz. Podajesz je ostrożnie, żeby nie wyheblować za dużo na krawędzi.
+T: Podajesz deski do maszyny | Ustawiasz grubość heblowania | Mierzysz grubość deski po przejściu | Pilnujesz, by nie powstał dubelt na krawędzi
+D: 6:00 Ustawiasz grubość i podajesz pierwszą deskę | 8:00 Heblujesz kilkadziesiąt desek na jedną grubość | 11:00 Mierzysz grubość i porównujesz z zamówieniem | 13:00 Odkładasz deski z dubeltem do poprawki
+Y: Przesuń dłonią po dwóch drewnianych powierzchniach w domu i opisz, która jest gładsza i dlaczego.
+
+@297
+H: Kroisz drewno na cienkie arkusze forniru, którymi pokrywa się płytę wiórową lub pilśniową. Wybierasz maszynę zależnie od tego, jaki rysunek słojów chcesz uzyskać.
+T: Wybierasz maszynę do danego rodzaju cięcia | Mocujesz drewno w tokarce lub maszynie krojącej | Wycinasz cienkie arkusze forniru | Oglądasz rysunek słojów na arkuszach
+D: 6:00 Wybierasz maszynę i sposób cięcia drewna | 8:00 Mocujesz drewno w tokarce i zaczynasz skrawanie | 10:30 Oglądasz arkusze i wybierasz ładny rysunek słojów | 13:00 Układasz arkusze forniru w stosy
+Y: Połóż kartkę na drewnianej powierzchni i pocieraj ołówkiem, aż pojawi się rysunek słojów.
+
+@298
+H: Obsługujesz automatyczne urządzenia, które piłują drewno na surową tarcicę, oraz pilarki tnące ją dalej na różne rozmiary. Większość procesów jest dziś sterowana komputerowo.
+T: Obsługujesz urządzenia piłujące drewno na tarcicę | Ustawiasz pilarki na wymiary desek | Tniesz tarcicę na zadane kształty | Pilnujesz komputerowego sterowania linią
+D: 6:00 Uruchamiasz linię i sprawdzasz ustawienia pilarek | 8:00 Drewno wjeżdża do piły i staje się tarcicą | 11:00 Zmieniasz wymiary desek pod nowe zamówienie | 14:00 Odbierasz posortowaną tarcicę i układasz ją w stosy
+Y: Zmierz grubość i szerokość trzech drewnianych przedmiotów w domu i zapisz, czy któreś mają takie same wymiary.
+
+@299
+H: Obsługujesz maszynę, która zdziera korę ze ściętych drzew przez ścieranie albo cięcie. Podajesz pnie do maszyny i pilnujesz, żeby nie utknęły.
+T: Podajesz ścięte pnie do korowarki | Obserwujesz usuwanie kory z drewna | Zatrzymujesz maszynę, gdy pień się zablokuje | Sprawdzasz, czy pnie są czyste z kory
+D: 6:00 Sprawdzasz korowarkę i uruchamiasz podajnik | 8:00 Pnie wjeżdżają do maszyny, kora odpada | 11:00 Pień się blokuje, zatrzymujesz maszynę | 13:30 Oglądasz oczyszczone pnie i odkładasz te z korą
+Y: Znajdź na podwórku kawałek kory drzewa i opisz jej kolor, grubość i fakturę trzema zdaniami.
+

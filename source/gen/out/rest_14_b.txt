@@ -1,0 +1,180 @@
+@2070
+H: Kierujesz okrętami i ich załogami na najwyższym szczeblu. Odpowiadasz za to, żeby okręty były gotowe do działania, a operacje na morzu szły zgodnie z planem.
+T: Zatwierdzasz plany operacji morskich | Sprawdzasz gotowość okrętów do rejsu | Nadzorujesz oficerów i załogi | Raportujesz do dowództwa wojskowego
+D: 7:30 Odprawa sztabu: stan okrętów w porcie | 10:00 Zatwierdzasz plan ćwiczeń na morzu | 13:00 Rozmowa z dowódcą okrętu o remoncie | 16:00 Przeglądasz raporty z patroli na Bałtyku
+Y: Narysuj mapę Morza Bałtyckiego i zaznacz porty, w których mogłyby stać okręty.
+
+@2071
+H: Dowodzisz eskadrą, czyli jednostką lotniczą, naziemną albo z pojazdami opancerzonymi. Odpowiadasz za ludzi, sprzęt i wykonanie zadań swojej jednostki.
+T: Wydajesz rozkazy podległym oficerom | Planujesz zadania eskadry na tydzień | Kontrolujesz stan sprzętu i maszyn | Oceniasz gotowość i wyszkolenie żołnierzy
+D: 6:30 Zbiórka eskadry i meldunki | 8:30 Omawiasz z oficerami plan zadań na dziś | 12:00 Kontrolujesz stan sprzętu w hangarze | 16:00 Piszesz meldunek dla dowództwa
+Y: Ułóż plan zadań dla swojej rodziny na sobotę: kto, co i o której godzinie robi.
+
+@2072
+H: Dowodzisz dużymi jednostkami armii i planujesz obronę kraju na lata do przodu. Więcej czasu spędzasz nad planami i na naradach niż w terenie.
+T: Opracowujesz strategie obronne kraju | Kierujesz dowództwem dużej dywizji | Doradzasz rządowi w sprawach obrony | Zatwierdzasz potrzeby sprzętowe wojska
+D: 7:00 Przegląd meldunków z jednostek | 9:00 Narada ze sztabem nad planem obrony | 13:00 Spotkanie z urzędnikami ministerstwa o sprzęcie | 17:00 Podpisujesz rozkazy i plan szkoleń
+Y: Wybierz problem w swojej szkole i rozpisz plan jego rozwiązania w trzech krokach z terminami.
+
+@2073
+H: Dowodzisz brygadą, czyli dużą jednostką złożoną z kilku batalionów. Planujesz działania i pilnujesz, żeby wszystko działało w bazie i w terenie.
+T: Planujesz działania całej brygady | Nadzorujesz sztab i dowódców batalionów | Kontrolujesz ćwiczenia w bazie i w terenie | Zatwierdzasz rozkazy na kolejne tygodnie
+D: 6:30 Odprawa sztabu brygady | 9:00 Obserwujesz na poligonie ćwiczenia batalionu | 13:00 Omawiasz z dowódcami zaopatrzenie i naprawy | 17:00 Podpisujesz rozkazy na następny tydzień
+Y: Narysuj schemat podległości w swojej klasie lub drużynie sportowej, od lidera po członków.
+
+@2074
+H: Dowodzisz kompanią lub oddziałem żołnierzy. Planujesz zadania, pilnujesz sprzętu i zaopatrzenia i odpowiadasz za swoich ludzi.
+T: Dowodzisz kompanią żołnierzy | Planujesz zadania szkoleniowe i bojowe | Sprawdzasz stan sprzętu | Organizujesz zaopatrzenie i logistykę
+D: 6:00 Apel kompanii i sprawdzenie obecności | 8:00 Prowadzisz plan szkolenia na poligonie | 13:00 Sprawdzasz sprzęt i zapasy w magazynie | 16:30 Piszesz meldunek dla dowódcy batalionu
+Y: Zaplanuj weekendowy wyjazd dla grupy znajomych: kto bierze jakie rzeczy, kiedy wyjazd i co po drodze.
+
+@2075
+H: Dowodzisz dużymi grupami oficerów i żołnierzy. Pilnujesz ich szkolenia i dobrego stanu oraz porządku w papierach i sprzęcie.
+T: Dowodzisz batalionem lub sekcją sztabu | Nadzorujesz szkolenie podwładnych | Zarządzasz sprzętem i dokumentacją | Rozmawiasz z żołnierzami o ich problemach
+D: 6:30 Odprawa z dowódcami kompanii | 9:00 Obserwujesz szkolenie batalionu na placu | 12:30 Sprawdzasz z magazynierem rozliczenie sprzętu | 15:30 Rozmawiasz z żołnierzem o problemach rodzinnych
+Y: Rozpisz plan nauki do sprawdzianu na siedem dni, z godzinami i przerwami.
+
+@2076
+H: Dowodzisz załogą na okręcie i planujesz misje, od patroli po pomoc humanitarną. Spędzasz tygodnie na morzu, z dala od domu.
+T: Dowodzisz wachtą na okręcie | Planujesz patrole i misje pomocowe | Szkolisz podwładnych marynarzy | Planujesz potrzeby kadrowe z działem personalnym
+D: 6:00 Przejmujesz wachtę na mostku | 9:00 Szkolisz marynarzy z alarmu przeciwpożarowego | 14:00 Sprawdzasz pozycję okrętu na mapie morskiej | 20:00 Spisujesz raport z patrolu
+Y: Znajdź na mapie swoje miasto i zapisz, w którą stronę świata leży najbliższe morze.
+
+@2077
+H: Dowodzisz artylerzystami i odpowiadasz za rozmieszczenie dział oraz wyznaczanie celów. Liczysz, zbierasz dane od obserwatorów i podejmujesz decyzje taktyczne.
+T: Rozmieszczasz działa i wozy na stanowiskach | Wyznaczasz cele na podstawie danych | Koordynujesz informacje od obserwatorów | Dowodzisz obsługami dział
+D: 6:30 Apel baterii i sprawdzenie sprzętu | 8:30 Obliczasz dane do strzelania na poligonie | 12:00 Ćwiczenie: obsługa działa na stanowisku | 16:00 Omawiasz po ćwiczeniach błędy obsługi
+Y: Rzuć miękką piłką trzy razy pod różnym kątem i zanotuj, który kąt dał najdalszy rzut.
+
+@2078
+H: Dowodzisz zespołem w lotnictwie wojskowym, w powietrzu lub na ziemi. Szkolisz ludzi, dbasz o ich dobrostan i wykonujesz zadania swojej specjalizacji.
+T: Nadzorujesz zespół personelu lotniczego | Koordynujesz szkolenia podwładnych | Wykonujesz zadania swojej specjalizacji | Kierujesz pracą na stanowisku dowodzenia
+D: 6:30 Odprawa i plan lotów na dziś | 9:00 Szkolenie zespołu na symulatorze | 13:00 Na stanowisku dowodzenia śledzisz ruch w powietrzu | 17:00 Rozmowa z podwładnym o jego rozwoju
+Y: Napisz, czym różni się samolot myśliwski od transportowego i do czego każdy służy.
+
+@2079
+H: Wydajesz rozkazy i odpowiadasz za działania swojego oddziału. Dbasz o łączność, szkolenia i sprawny sprzęt.
+T: Wyznaczasz obowiązki podwładnym | Nadzorujesz ćwiczenia i manewry | Dbasz o łączność między jednostkami | Pilnujesz przeglądów i napraw sprzętu
+D: 6:30 Apel i przydział zadań na dzień | 8:30 Prowadzisz ćwiczenia z łączności w terenie | 13:00 Sprawdzasz z technikiem stan pojazdów | 16:00 Prowadzisz szkolenie z zasad bezpieczeństwa
+Y: Wymyśl prosty szyfr, zakoduj nim zdanie i sprawdź, czy odczytasz je po godzinie.
+
+@2080
+H: Dowodzisz plutonem, czyli małą grupą żołnierzy, i prowadzisz ich na ćwiczeniach. Dużo czasu spędzasz w terenie, ale też przy dokumentach.
+T: Prowadzisz pluton na ćwiczeniach | Pilnujesz dyscypliny i porządku | Wypełniasz dokumenty administracyjne | Doradzasz dowódcy kompanii w sprawach plutonu
+D: 5:30 Pobudka plutonu i apel poranny | 7:00 Prowadzisz marsz i ćwiczenia w terenie | 13:00 Rozmowa z kapitanem o stanie plutonu | 15:30 Wypełniasz listy obecności i raporty
+Y: Wymyśl i zapisz poranny plan dnia dla grupy dziesięciu osób, co do minuty.
+
+@2081
+H: Doradzasz wysokim dowódcom. Przygotowujesz analizy i propozycje, na których opierają się decyzje operacyjne i strategiczne.
+T: Doradzasz dowódcom w sprawach operacji | Przygotowujesz analizy do decyzji strategicznych | Kierujesz pracą sztabu | Opiniujesz plany wyższych oficerów
+D: 7:30 Czytasz nocne meldunki ze sztabu | 9:30 Przygotowujesz dla generała analizę dwóch wariantów | 13:00 Narada z oficerami o planie ćwiczeń | 16:30 Poprawiasz notatkę dla dowództwa
+Y: Wypisz plusy i minusy dwóch sposobów spędzenia soboty i zaproponuj jeden w trzech zdaniach.
+
+@2082
+H: Projektujesz i sprawdzasz sprzęt dla wojska. Zajmujesz się badaniami, produkcją i konserwacją, żeby sprzęt działał niezawodnie.
+T: Opracowujesz koncepcje sprzętu wojskowego | Prowadzisz badania techniczne | Sprawdzasz jakość produkcji | Planujesz konserwację sprzętu
+D: 8:00 Przeglądasz rysunki nowego pojazdu | 10:00 Test wytrzymałości elementu w laboratorium | 13:00 Rozmowa z producentem o opóźnieniu dostaw | 15:30 Piszesz raport z wyników badań
+Y: Zbuduj z papieru most, który uniesie jak najwięcej monet, i zapisz, ile wytrzymał.
+
+@2083
+H: Latasz samolotem na misje bojowe, patrolowe i ratownicze. Przed każdym lotem sprawdzasz maszynę, a w powietrzu stale rozmawiasz z bazą.
+T: Pilotujesz samolot na misjach | Sprawdzasz maszynę przed lotem | Komunikujesz się z bazą przez radio | Planujesz trasę i zapas paliwa
+D: 6:00 Odprawa przed lotem i prognoza pogody | 7:30 Sprawdzasz samolot na płycie lotniska | 9:00 Lot patrolowy, stały kontakt z bazą | 14:00 Opisujesz lot na odprawie po misji
+Y: Zrób papierowy samolot, rzuć nim pięć razy i zapisz, jak daleko poleciał.
+
+@2084
+H: Szukasz min i bomb i rozbrajasz je według ścisłych procedur. Pracujesz powoli, krok po kroku, z wykrywaczem, a czasem z psem.
+T: Przeszukujesz teren wykrywaczem metali | Rozbrajasz miny i bomby | Pracujesz z wyszkolonym psem | Oczyszczasz teren z niebezpiecznych przedmiotów
+D: 6:30 Odprawa i sprawdzenie sprzętu | 8:00 Wykrywacz sygnalizuje metal w ziemi | 11:00 Rozbrajasz znalezisko według procedury, powoli | 15:00 Oznaczasz oczyszczony teren i meldujesz
+Y: Przeszukaj pudełko z drobiazgami metodą kwadratów: podziel je na pola i sprawdzaj po kolei.
+
+@2085
+H: Nasłuchujesz sygnałów radiowych i innych transmisji w lotnictwie wojskowym. Rozumiesz obce języki i zamieniasz nagrania w informacje dla dowództwa.
+T: Wyszukujesz sygnały radiowe w eterze | Przechwytujesz transmisje w obcych językach | Tłumaczysz i analizujesz nagrania | Przekazujesz informacje wywiadowcze dowództwu
+D: 7:00 Zaczynasz dyżur przy stanowisku nasłuchu | 9:00 Łapiesz sygnał w obcym języku | 13:00 Tłumaczysz nagranie i zapisujesz najważniejsze zdania | 16:00 Przekazujesz wnioski oficerowi wywiadu
+Y: Posłuchaj minuty nagrania w obcym języku i zapisz kilka słów, które potrafisz zrozumieć.
+
+@2086
+H: Służysz w armii: ćwiczysz, jeździsz na misje pokojowe i humanitarne, a w razie potrzeby bojowe. Obsługujesz sprzęt i broń, dużo trenujesz i często pracujesz w terenie.
+T: Ćwiczysz strzelanie i taktykę | Obsługujesz broń i sprzęt | Uczestniczysz w misjach pokojowych | Trenujesz kondycję codziennie
+D: 5:30 Pobudka, apel i meldunek dowódcy | 6:30 Bieg i trening kondycyjny z oddziałem | 10:00 Czyszczenie sprzętu i szkolenie z taktyki | 15:00 Ćwiczenia w terenie z drużyną
+Y: Zrób po minucie przysiadów, pompek i deski, a potem zapisz, które ćwiczenie było najtrudniejsze.
+
+@2087
+H: Dowodzisz małą drużyną żołnierzy i wykonujesz rozkazy przełożonych. Odpowiadasz za swoich ludzi i za sprzęt, także ciężki.
+T: Przydzielasz zadania w drużynie | Wykonujesz rozkazy dowódcy plutonu | Nadzorujesz obsługę maszyn i broni | Sprawdzasz obecność i wyposażenie żołnierzy
+D: 5:30 Budzisz drużynę i robisz apel | 7:00 Rozdzielasz zadania przy czyszczeniu sprzętu | 11:00 Nadzorujesz obsługę ciężkiego pojazdu | 16:00 Meldujesz dowódcy stan drużyny
+Y: Rozpisz na kartce podział sprzątania pokoju między cztery osoby, z czasem na każdą czynność.
+
+@2088
+H: Wykonujesz trudne misje, takie jak walka z terroryzmem czy zbieranie informacji o przeciwniku. Ćwiczysz bardzo dużo, a część pracy jest tajna.
+T: Wykonujesz misje antyterrorystyczne | Zbierasz informacje o ruchach przeciwnika | Planujesz misję w małym zespole | Trenujesz wytrzymałość, strzelanie i łączność
+D: 5:30 Trening biegowy z obciążonym plecakiem | 9:00 Odprawa przed misją, plan krok po kroku | 13:00 Ćwiczysz z zespołem wejście do budynku | 20:00 Nocna misja obserwacyjna, notujesz ruchy
+Y: Obserwuj przez dziesięć minut okolicę z okna i zapisz wszystko, co się zmieniało.
+
+@2089
+H: Jesteś pierwszym pomocnikiem dowódcy w jednostce. Rozdzielasz zadania, pilnujesz sprzętu, szkolisz żołnierzy i doradzasz oficerom.
+T: Przydzielasz zadania żołnierzom | Nadzorujesz sprzęt i jego obsługę | Szkolisz podwładnych na ćwiczeniach | Doradzasz oficerowi dowodzącemu
+D: 5:45 Apel poranny i podział zadań | 8:00 Szkolisz nowych żołnierzy z obsługi sprzętu | 12:00 Kontrolujesz magazyn i stan wyposażenia | 16:00 Meldujesz kapitanowi, jak przebiegł dzień
+Y: Naucz domownika zawiązać prosty węzeł, tłumacząc krok po kroku i sprawdzając, czy rozumie.
+
+@2090
+H: Obserwujesz sytuację, wykrywasz zagrożenia i namierzasz cele na ekranach i przez radio. Przekazujesz informacje zespołowi i pilnujesz jego bezpieczeństwa.
+T: Wykrywasz i rozpoznajesz zagrożenia | Namierzasz cele na ekranach | Przekazujesz informacje innym zespołom | Podejmujesz decyzje taktyczne
+D: 7:00 Obejmujesz stanowisko w centrum operacyjnym | 9:00 Na ekranie pojawia się nieznany obiekt | 12:00 Klasyfikujesz go i meldujesz dowódcy | 18:00 Przekazujesz zmianę i opisujesz sytuację
+Y: Rozegraj krótką partię szachów lub warcabów i po każdym ruchu przeciwnika sprawdzaj, co ci zagraża.
+
+@2091
+H: Kontrolujesz na granicy, co ludzie i firmy przewożą do kraju. Szukasz nielegalnych towarów i sprawdzasz papiery oraz opłaty celne.
+T: Sprawdzasz dokumenty przewożonych towarów | Kontrolujesz samochody i ładunki | Szukasz broni, narkotyków i towarów nielegalnych | Pilnujesz opłat celnych i podatków
+D: 6:00 Zmiana na przejściu granicznym | 8:00 Kontrolujesz ciężarówkę z ładunkiem | 12:00 Znajdujesz niezgłoszony towar, spisujesz protokół | 15:00 Rozmawiasz z kierowcą o brakujących papierach
+Y: Znajdź w internecie, jakich produktów nie wolno przewozić przez granicę Unii, i zapisz pięć.
+
+@2092
+H: Siedzisz przy skanerze i oglądasz zawartość bagaży, szukając przedmiotów niebezpiecznych. Pracujesz według sztywnych przepisów i musisz być bardzo uważny.
+T: Oglądasz obrazy bagaży na ekranie | Rozpoznajesz niebezpieczne przedmioty po kształcie | Prosisz o otwarcie podejrzanej torby | Stosujesz procedury kontroli
+D: 5:00 Zaczynasz zmianę przy skanerze | 7:00 Obserwujesz ekran, torba po torbie | 10:00 Dostrzegasz podejrzany kształt i zatrzymujesz taśmę | 13:00 Razem z pasażerem otwierasz bagaż i sprawdzasz
+Y: Narysuj same kontury pięciu przedmiotów z plecaka i sprawdź, czy rozpoznasz je po kształcie.
+
+@2093
+H: Kontrolujesz dokumenty osób wjeżdżających do kraju i decydujesz, czy spełniają warunki wjazdu. Rozmawiasz z nimi i sprawdzasz, czy dane się zgadzają.
+T: Sprawdzasz paszporty i wizy | Przeprowadzasz rozmowy z przyjezdnymi | Weryfikujesz tożsamość i cel wjazdu | Kontrolujesz ładunki i towary
+D: 6:00 Zaczynasz zmianę w budce kontrolnej | 8:00 Rozmowa z przyjezdnym o celu pobytu | 11:30 Dokument budzi wątpliwości, wzywasz drugiego urzędnika | 14:30 Wpisujesz decyzje do rejestru
+Y: Wymyśl pięć pytań, które zadasz osobie wjeżdżającej do kraju, i wyjaśnij, po co każde.
+
+@2094
+H: Rozwiązujesz sprawy przestępstw, zbierając dowody i rozmawiając ze świadkami oraz podejrzanymi. Dużo czasu spędzasz nad aktami i w terenie.
+T: Zbierasz i zabezpieczasz dowody | Przesłuchujesz świadków i podejrzanych | Analizujesz akta sprawy | Współpracujesz z innymi wydziałami policji
+D: 8:00 Czytasz akta nowej sprawy | 10:00 Rozmowa ze świadkiem kradzieży | 13:30 Oglądasz nagrania z kamer, szukając sprawcy | 16:30 Odprawa z wydziałem, porównujecie ślady
+Y: Wymyśl zagadkę kryminalną z trzema poszlakami i spisz ją tak, by dało się ją rozwiązać.
+
+@2095
+H: Kierujesz wydziałem w policji. Pilnujesz zasad, rozdzielasz zadania i dbasz o dokumenty, a rzadziej bywasz na ulicy.
+T: Nadzorujesz pracę wydziału policji | Przydzielasz zadania funkcjonariuszom | Sprawdzasz rejestry i sprawozdania | Opracowujesz wytyczne dla podwładnych
+D: 7:30 Odprawa z szefami zespołów | 9:30 Przeglądasz raporty z nocnych interwencji | 12:00 Rozstrzygasz, kto prowadzi nową sprawę | 15:00 Piszesz wytyczne do wypełniania protokołów
+Y: Napisz krótką instrukcję w pięciu punktach, jak prowadzić zeszyt z notatkami z lekcji.
+
+@2096
+H: Przyjeżdżasz na miejsce przestępstwa, zabezpieczasz je i zbierasz ślady. Fotografujesz wszystko i dokumentujesz tak, by dowody nadawały się do sądu.
+T: Odgradzasz i zabezpieczasz miejsce zdarzenia | Fotografujesz ślady i dowody | Zbierasz dowody zgodnie z przepisami | Sporządzasz dokładne sprawozdania
+D: 9:00 Wezwanie: włamanie do mieszkania | 9:40 Odgradzasz teren i fotografujesz wnętrze | 12:00 Zbierasz ślady i pakujesz dowody | 16:00 Opisujesz wszystko w sprawozdaniu
+Y: Narysuj pokój z czterech stron, tak by obca osoba mogła go odtworzyć z samego opisu.
+
+@2097
+H: Ożywiasz modele 3D: przedmioty, postacie i całe wirtualne światy. Ustawiasz ich ruch na komputerze, klatka po klatce.
+T: Animujesz postacie 3D | Poruszasz przedmioty w wirtualnym otoczeniu | Poprawiasz ruchy po uwagach reżysera | Dopracowujesz płynność animacji
+D: 9:00 Oglądasz scenę i uwagi reżysera | 10:30 Ustawiasz kroki postaci klatka po klatce | 13:30 Poprawiasz sztywny ruch ramion | 16:00 Wysyłasz gotowy fragment do sprawdzenia
+Y: Zrób dziesięć rysunków kuli odbijającej się od podłogi, każdy w innym momencie ruchu.
+
+@2098
+H: Tworzysz animacje 2D, na przykład do stron internetowych, reklam i aplikacji. Układasz obrazy w sekwencję, żeby dawały złudzenie ruchu.
+T: Rysujesz ruchome elementy animacji | Układasz obrazy w sekwencję | Dopasowujesz animację do dźwięku i tekstu | Przygotowujesz pliki dla stron i aplikacji
+D: 9:00 Omawiasz z klientem animowany baner | 10:30 Rysujesz kolejne klatki ruchu logo | 13:30 Dopasowujesz animację do muzyki | 16:00 Eksportujesz plik dla strony internetowej
+Y: Narysuj w rogu zeszytu dziesięć kolejnych obrazków ludzika i szybko przekartkuj, by zobaczyć ruch.
+
+@2099
+H: Robisz film z lalek, kukiełek lub gliny, poruszając je minimalnie przed każdym zdjęciem. Sekunda filmu to wiele zdjęć, więc praca idzie powoli.
+T: Lepisz postacie i dekoracje z gliny | Poruszasz lalki o milimetry | Fotografujesz każdą klatkę osobno | Montujesz zdjęcia w film
+D: 9:00 Ustawiasz światło i kamerę przy planie | 10:00 Przesuwasz kukiełkę o milimetr i robisz zdjęcie | 14:00 Poprawiasz glinianą dłoń, która się odkształciła | 17:00 Oglądasz kilka sekund gotowej sceny
+Y: Przesuń małą zabawkę o centymetr, zrób zdjęcie i powtórz dziesięć razy, potem obejrzyj zdjęcia po kolei.
+

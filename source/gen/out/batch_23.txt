@@ -1,0 +1,180 @@
+@1380
+H: Pomagasz zespołowi, najczęściej programistów, pracować w krótkich, regularnych etapach. Usuwasz to, co im przeszkadza, i pilnujesz, żeby nie brali na siebie za dużo naraz.
+T: Prowadzisz krótkie codzienne spotkanie zespołu | Usuwasz przeszkody, które blokują pracę | Pilnujesz, żeby zespół nie przeładował planu | Prowadzisz podsumowanie etapu i szukasz usprawnień
+D: 9:15 Prowadzisz kilkuminutowe spotkanie przy tablicy z zadaniami | 11:00 Załatwiasz zespołowi dostęp, na który czekają od dwóch dni | 13:30 Tłumaczysz szefowi, dlaczego zespół nie weźmie więcej zadań | 15:30 Prowadzisz podsumowanie etapu: co działało, co nie
+Y: Rozpisz zadania na jutro na karteczkach i ułóż trzy kolumny: do zrobienia, w trakcie, zrobione.
+
+@1381
+H: Sprawdzasz, jak firma wpływa na środowisko i ludzi, i podpowiadasz, co poprawić. Zbierasz liczby, np. o emisjach, i zamieniasz je w raport.
+T: Zbierasz dane o emisjach i zużyciu energii | Porównujesz wyniki firmy z wymaganiami przepisów | Piszesz raporty o wpływie firmy na otoczenie | Proponujesz zmiany, np. mniej odpadów
+D: 8:30 Zbierasz od działów dane o zużyciu energii | 10:30 Liczysz, ile odpadów firma wytworzyła w kwartale | 13:00 Spotkanie z dyrekcją o planie ograniczenia emisji | 15:00 Piszesz rozdział raportu o warunkach pracy
+Y: Zapisz, jakie rodzaje śmieci wyrzucacie dziś w domu, i zaproponuj jedną rzecz do ograniczenia.
+
+@1382
+H: Używasz muzyki do pracy z pacjentami z zaburzeniami zachowania, żeby łagodzić objawy i wspierać ich rozwój. Grasz, śpiewasz i słuchasz razem z nimi według planu terapii.
+T: Dobierasz muzykę do potrzeb pacjenta | Prowadzisz zajęcia ze śpiewem i grą | Obserwujesz, jak pacjent reaguje na dźwięki | Zapisujesz postępy terapii
+D: 9:00 Przygotowujesz instrumenty do zajęć w małej grupie | 10:00 Grasz z pacjentem prosty rytm i obserwujesz reakcje | 12:30 Omawiasz z lekarzem plan terapii pacjenta | 14:00 Zapisujesz, jak poszły dzisiejsze zajęcia
+Y: Zanuć lub opukaj na stole wolny, średni i szybki rytm i zapisz, jak każdy na Ciebie działa.
+
+@1383
+H: Pomagasz pacjentom mierzyć się z trudnościami psychicznymi i emocjonalnymi przez tworzenie: rysowanie, malowanie, lepienie. Dzięki temu łatwiej im zrozumieć, co czują.
+T: Proponujesz pacjentom zadania plastyczne | Obserwujesz, co pacjent pokazuje w swojej pracy | Rozmawiasz o powstałym obrazie lub rzeźbie | Dobierasz techniki do problemu pacjenta
+D: 9:30 Układasz farby, glinę i papiery na stole | 10:00 Grupa maluje swoje emocje, Ty obserwujesz | 12:30 Rozmowa jeden na jeden o narysowanym obrazie | 14:30 Notujesz, jak pacjent zmienia się z tygodnia na tydzień
+Y: Narysuj przez 10 minut, jak wygląda Twój dzisiejszy nastrój, używając tylko kształtów i kolorów.
+
+@1384
+H: Pomagasz ludziom z problemami emocjonalnymi, umysłowymi lub fizycznymi przez taniec i ruch. Uczysz ich lepiej czuć własne ciało i budujesz ich poczucie własnej wartości.
+T: Prowadzisz zajęcia z tańca i ruchu | Uczysz pacjentów czuć własne ciało | Układasz ćwiczenia dla grupy lub jednej osoby | Obserwujesz, jak pacjent reaguje na ruch
+D: 9:00 Rozgrzewka z grupą w przestronnej sali | 10:30 Pacjenci w parach naśladują Twój ruch | 13:00 Zajęcia indywidualne z osobą o niskim poczuciu własnej wartości | 15:00 Zapisujesz obserwacje i planujesz kolejne zajęcia
+Y: Poruszaj się swobodnie przez kilka minut i potem zapisz, które części ciała czujesz najmocniej.
+
+@1385
+H: Pracujesz ze zwierzętami, żeby wspierać ludzi z trudnościami w myśleniu, ruchu albo emocjach. Układasz plan zajęć, w których zwierzę pomaga w terapii lub nauce.
+T: Planujesz zajęcia ze zwierzęciem dla pacjenta | Dbasz o samopoczucie zwierzęcia podczas zajęć | Ćwiczysz z pacjentem ruch i kontakt ze zwierzęciem | Zapisujesz postępy pacjenta po zajęciach
+D: 8:30 Sprawdzasz, czy zwierzę jest zdrowe i spokojne | 10:00 Dziecko głaszcze psa i ćwiczy dłonie | 12:00 Pacjenci karmią i czeszą zwierzę w grupie | 14:30 Zapisujesz, jak pacjent zareagował na zwierzę
+Y: Wymyśl krótką zabawę ze zwierzęciem, która pomogłaby dziecku ćwiczyć dłonie, i opisz ją w trzech zdaniach.
+
+@1386
+H: Leczysz osoby z zaburzeniami zachowania przez sztukę, muzykę, zwierzęta i taniec. Dobierasz zajęcia tak, by pomagały pacjentowi wracać do zdrowia i rozwijać się.
+T: Wybierasz zajęcia dopasowane do pacjenta | Prowadzisz warsztaty plastyczne, muzyczne lub taneczne | Organizujesz kontakt ze zwierzętami, np. końmi | Oceniasz, czy zajęcia pomagają pacjentowi
+D: 8:30 Ustalasz z zespołem, jakie zajęcia dziś pomogą pacjentom | 10:00 Prowadzisz warsztat malowania dla małej grupy | 12:30 Pacjent ćwiczy równowagę na koniu, Ty asekurujesz | 15:00 Notujesz zmiany w zachowaniu pacjentów
+Y: Wybierz jedną z form: rysunek, rytm, ruch lub zwierzę, i przez 10 minut użyj jej do wyciszenia się.
+
+@1387
+H: Wykonujesz badania, które pokazują wnętrze ciała: zdjęcia rentgenowskie, rezonans i USG. Ustawiasz pacjenta, obsługujesz aparat i przygotowujesz obrazy dla lekarza.
+T: Ustawiasz pacjenta do badania | Obsługujesz aparat rentgenowski lub rezonans | Przetwarzasz obrazy po badaniu | Przygotowujesz pacjenta i tłumaczysz przebieg badania
+D: 7:30 Włączasz aparaty i sprawdzasz ich ustawienia | 9:00 Robisz zdjęcie ręki pacjentowi po upadku | 11:30 Tłumaczysz osobie z lękiem, jak wygląda rezonans | 14:00 Obrabiasz obrazy i wysyłasz je lekarzowi
+Y: Ułóż trzy krótkie, jasne polecenia dla pacjenta, np. wstrzymaj oddech, i przećwicz je z domownikiem.
+
+@1388
+H: Badasz i leczysz pacjentów, używając promieniowania, ultradźwięków i rezonansu magnetycznego. Pracujesz w obrazowaniu, radioterapii lub medycynie nuklearnej, więc znasz kilka rodzajów pracowni.
+T: Wykonujesz badania różnymi aparatami obrazowymi | Uczestniczysz w leczeniu promieniowaniem | Przygotowujesz pacjenta i dbasz o jego bezpieczeństwo | Pilnujesz zasad ochrony przed promieniowaniem
+D: 7:00 Przejmujesz pracownię i sprawdzasz sprzęt | 8:30 Badasz pacjenta aparatem rezonansu magnetycznego | 11:00 Przechodzisz do pracowni radioterapii i pomagasz przy naświetlaniu | 14:00 Sprawdzasz osłony i oznaczenia stref promieniowania
+Y: Zapisz własnymi słowami różnicę między zdjęciem rentgenowskim a USG, korzystając z internetu lub książki.
+
+@1389
+H: Wykonujesz badania, w których pacjent dostaje radiofarmaceutyk, a aparat pokazuje, jak zachowuje się on w ciele. Obrabiasz potem obrazy, żeby lekarz mógł je ocenić.
+T: Przygotowujesz radiofarmaceutyki do badania | Podajesz preparat pacjentowi i czekasz na jego rozprowadzenie | Wykonujesz badanie aparatem rejestrującym promieniowanie | Obrabiasz obrazy i oceniasz ich jakość
+D: 7:30 Przygotowujesz dawki do badań dzisiejszych pacjentów | 9:00 Pacjent dostaje preparat i czeka w spokojnym pokoju | 11:00 Wykonujesz badanie i patrzysz na obraz | 13:30 Obrabiasz obrazy i oceniasz ich jakość
+Y: Znajdź informację, po co lekarze śledzą w ciele znacznik promieniotwórczy, i opisz to jednym zdaniem.
+
+@1390
+H: Naświetlasz pacjentów dokładnie obliczoną dawką promieniowania, tak by trafić w miejsce leczenia. Ustawiasz pacjenta, obsługujesz aparat i pilnujesz zgodności z planem komputerowym.
+T: Ustawiasz pacjenta dokładnie według planu | Obsługujesz aparat do naświetlań | Przygotowujesz komputerowy plan rozkładu dawki | Obserwujesz pacjenta w trakcie naświetlania
+D: 7:30 Sprawdzasz aparat i dane planu na dziś | 8:30 Układasz pacjenta dokładnie na stole według oznaczeń | 10:00 Z drugiego pomieszczenia obserwujesz pacjenta na ekranie | 13:00 Rozmawiasz z pacjentem przed kolejnym naświetlaniem
+Y: Połóż się na plecach i leż nieruchomo dwie minuty, żeby poczuć, jak trudno utrzymać tę samą pozycję.
+
+@1391
+H: Pomagasz terapeucie zajęciowemu w pracy z ludźmi, którzy chcą wrócić do codziennych czynności. Działasz według jego wskazówek i zmieniasz zadania lub otoczenie, żeby pacjentom było łatwiej.
+T: Prowadzisz ćwiczenia ustalone przez terapeutę | Pomagasz pacjentom w codziennych czynnościach | Dostosowujesz zadania lub otoczenie do możliwości pacjenta | Zgłaszasz terapeucie postępy i trudności
+D: 8:30 Przygotowujesz pomoce i stanowiska do ćwiczeń | 9:30 Pacjent po urazie ćwiczy zapinanie guzików | 12:00 Pomagasz osobie ćwiczyć przygotowanie prostego posiłku | 14:30 Przekazujesz terapeucie, co dziś szło trudno
+Y: Spróbuj przez 10 minut zapinać guziki i pisać drugą ręką, a potem zapisz, co sprawia największą trudność.
+
+@1392
+H: Pomagasz podiatrze w opiece nad stopami pacjentów. Robisz drobne zabiegi, np. obcinasz paznokcie i zakładasz plastry, doradzasz w pielęgnacji i załatwiasz papiery.
+T: Obcinasz paznokcie u stóp pacjentów | Zakładasz plastry i proste opatrunki | Doradzasz, jak pielęgnować stopy na co dzień | Przygotowujesz gabinet i dokumentację
+D: 8:00 Przygotowujesz gabinet i narzędzia na wizyty | 9:30 Obcinasz paznokcie starszemu pacjentowi, który sam nie dosięga | 11:30 Pokazujesz, jak dobrać wygodne skarpetki i buty | 14:00 Uzupełniasz dokumentację wizyt z całego dnia
+Y: Obejrzyj swoje stopy i zapisz, czy obuwie, które nosisz najczęściej, jest wygodne i gdzie uciska.
+
+@1393
+H: Diagnozujesz i leczysz zaburzenia mięśni, kości i nerwów, najczęściej pracując rękami. Działasz samodzielnie i sprawdzasz, jak problem w ciele wpływa na całe zdrowie.
+T: Rozmawiasz z pacjentem o bólu i jego początkach | Badasz kręgosłup i ruchomość stawów | Korygujesz ustawienie stawów ręcznymi technikami | Podpowiadasz ćwiczenia i nawyki zapobiegające bólowi
+D: 8:30 Pacjent z bólem pleców opowiada, kiedy się zaczął | 9:30 Badasz, jak ruszają się jego kręgosłup i biodra | 11:00 Wykonujesz zabieg i pokazujesz ćwiczenia na dom | 15:30 Piszesz notatki i planujesz dalsze wizyty
+Y: Usiądź tak jak zwykle przy biurku i zapisz, które części ciała są napięte, a potem popraw pozycję.
+
+@1394
+H: Badasz, jak porusza się ciało, i szukasz sposobów, żeby ruch był lepszy. Opierasz się na danych oraz wiedzy z fizjologii, neurologii i biologii.
+T: Analizujesz, jak pracują mięśnie podczas ruchu | Zbierasz i oceniasz dane o ruchu pacjentów | Szukasz przyczyn słabej mobilności | Opracowujesz rozwiązania poprawiające mechanikę ruchu
+D: 8:30 Pacjent chodzi po sali, Ty obserwujesz jego krok | 10:30 Porównujesz pomiary obu nóg w tabeli | 13:00 Ustalasz, jak stan ciała wpływa na ruch | 15:00 Piszesz zalecenia ćwiczeń poprawiających mobilność
+Y: Zrób trzy powolne przysiady przed lustrem i zapisz, co robią kolana, biodra i plecy.
+
+@1395
+H: Diagnozujesz i leczysz stopy oraz dolne kończyny: urazy sportowe, problemy chirurgiczne i rehabilitacyjne. Czasem pracujesz też w badaniach naukowych albo przy opiniach medyczno-prawnych.
+T: Badasz stopy i kończyny dolne pacjenta | Leczysz urazy sportowe i deformacje stóp | Planujesz leczenie i rehabilitację | Wykonujesz zabiegi chirurgiczne w obrębie stopy
+D: 8:00 Oceniasz chód pacjenta z bólem pięty | 10:00 Badasz stopę sportowca po skręceniu | 12:30 Planujesz zabieg chirurgiczny z zespołem | 15:00 Opisujesz przypadek do opinii medyczno-prawnej
+Y: Zdejmij buty i sprawdź, jak ustawiasz stopy podczas stania: na całej podeszwie czy bardziej na piętach lub palcach.
+
+@1396
+H: Leczysz zwierzęta po diagnozie weterynarza lub na jego skierowanie, pracując rękami na mięśniach i innych tkankach ciała. Łagodzisz naciągnięcia i urazy zgodnie z przepisami.
+T: Badasz napięcie mięśni zwierzęcia dłońmi | Stosujesz techniki manipulacji tkankami | Czytasz diagnozę i zalecenia weterynarza | Tłumaczysz opiekunowi, jak pomagać zwierzęciu w domu
+D: 9:00 Czytasz skierowanie od weterynarza dla kulejącego psa | 9:30 Badasz dłońmi napięcie mięśni psa | 11:00 Wykonujesz zabieg na koniu w stajni | 13:30 Pokazujesz opiekunowi ćwiczenia do wykonania w domu
+Y: Napnij mięsień ramienia, dotknij go drugą ręką, rozluźnij i opisz różnicę w dotyku.
+
+@1397
+H: Masz pogłębioną wiedzę w jednej dziedzinie chiropraktyki, np. w sporcie, pediatrii albo ortopedii. Podejmujesz trudniejsze decyzje kliniczne niż w ogólnej praktyce.
+T: Oceniasz złożone przypadki w swojej dziedzinie | Wybierasz metodę leczenia po dokładnym badaniu | Prowadzisz pacjentów, np. sportowców lub dzieci | Zdobywasz uprawnienia na zaawansowanych kursach
+D: 8:00 Analizujesz wyniki badań trudnego przypadku | 9:30 Badasz młodego sportowca z przewlekłym bólem | 12:00 Konsultujesz plan leczenia z innym specjalistą | 15:00 Prowadzisz kontrolę po terapii i zmieniasz plan
+Y: Wybierz jedną dziedzinę: sport, dzieci albo pracę przy komputerze, i wypisz trzy dolegliwości ciała typowe dla niej.
+
+@1398
+H: Pomagasz ludziom po chorobach i urazach oraz z niepełnosprawnościami wrócić do czynności, które są dla nich ważne. Ćwiczycie razem codzienne rzeczy, od ubierania się po pracę.
+T: Oceniasz, co sprawia pacjentowi trudność w codzienności | Układasz plan rehabilitacji i ćwiczeń | Prowadzisz ćwiczenia praktycznych czynności | Doradzasz zmiany w domu lub pracy
+D: 8:30 Rozmawiasz z pacjentem po urazie o jego celach | 10:00 Ćwiczysz z nim samodzielne ubieranie się | 13:00 Odwiedzasz dom pacjenta i sprawdzasz, co utrudnia mu życie | 15:30 Uzupełniasz plan terapii po dzisiejszych zajęciach
+Y: Wypisz trzy czynności, które wykonujesz codziennie rano, i zastanów się, jak utrudniłaby je kontuzja ręki.
+
+@1399
+H: Przygotowujesz i wydajesz leki na receptę i bez recepty oraz tłumaczysz pacjentom, jak ich używać. Zgłaszasz podejrzewane działania niepożądane i pomagasz dobrać odpowiednią terapię.
+T: Realizujesz recepty i wydajesz leki | Tłumaczysz pacjentom dawkowanie i działanie leków | Zgłaszasz podejrzewane działania niepożądane | Przechowujesz leki zgodnie z wymogami
+D: 8:00 Otwierasz aptekę i sprawdzasz stany leków | 10:00 Starszy klient pyta, czy leki można łączyć | 13:00 Przyjmujesz dostawę i odkładasz leki na półki | 17:00 Zgłaszasz działania niepożądane, o których mówił pacjent
+Y: Przeczytaj ulotkę leku z domowej apteczki i znajdź w niej dawkowanie, przeciwwskazania i działania niepożądane.
+
+@1400
+H: Pracujesz przy tworzeniu leków: opracowujesz nowe, prowadzisz badania, pilnujesz jakości i zgodności z przepisami. Nie stoisz za ladą apteki, tylko pracujesz w laboratorium lub biurze firmy.
+T: Opracowujesz skład i formę nowych leków | Planujesz i prowadzisz badania preparatów | Kontrolujesz jakość każdej serii leku | Sprawdzasz zgodność leków z przepisami
+D: 8:00 Czytasz wyniki badania nowego preparatu | 10:00 W laboratorium porównujesz próbki z partii leku | 13:00 Spotkanie z zespołem o poprawie składu tabletki | 15:30 Uzupełniasz dokumentację wymaganą przez urząd
+Y: Obejrzyj opakowanie leku i wypisz informacje, które producent musi na nim podać, np. datę ważności i numer serii.
+
+@1401
+H: Pracujesz dla firm produkujących leki i dla aptek szpitalnych, a zakres obowiązków zależy od kraju i przepisów. Łączysz wiedzę o wytwarzaniu leków z potrzebami szpitala.
+T: Przygotowujesz i dostarczasz leki dla szpitala | Współpracujesz z producentem przy jakości leków | Stosujesz przepisy krajowe w swojej pracy | Doradzasz zespołom medycznym w sprawie leków
+D: 8:00 Sprawdzasz, jakich leków brakuje na oddziałach | 10:00 Rozmawiasz z producentem o dostawie preparatu | 13:00 Konsultujesz z lekarzem dawkę dla pacjenta | 15:00 Sprawdzasz zgodność dokumentów z przepisami
+Y: Wypisz dwie różnice między pracą farmaceuty w aptece osiedlowej i w szpitalu, a potem sprawdź je w internecie.
+
+@1402
+H: Przygotowujesz i wydajesz leki pacjentom szpitala oraz współpracujesz z lekarzami i pielęgniarkami przy leczeniu. Doradzasz im w sprawie stosowania leków.
+T: Przygotowujesz leki dla oddziałów szpitala | Wydajesz leki zleconym pacjentom | Konsultujesz z lekarzami dobór leków | Informujesz pielęgniarki o sposobie podawania
+D: 7:30 Odbierasz zamówienia leków z oddziałów | 9:30 Przygotowujesz kroplówkę według zlecenia lekarza | 11:00 Lekarz pyta, czy dwa leki można podać razem | 14:00 Przekazujesz leki pielęgniarce na oddziale
+Y: Wypisz cztery rzeczy, które trzeba sprawdzić przed podaniem leku choremu, np. godzinę, dawkę i alergie.
+
+@1403
+H: Kontrolujesz jakość leków i pilnujesz, żeby spełniały wymogi, od badań klinicznych po ulotkę w pudełku. Zbierasz informacje o skutkach ubocznych i przekazujesz je firmie oraz urzędom.
+T: Sprawdzasz jakość i dokładność wyrobów leczniczych | Oceniasz treść ulotki i dokumentów produktu | Doradzasz zespołowi w sprawie wymogów prawnych | Zbierasz informacje o skutkach ubocznych leków
+D: 8:30 Czytasz projekt ulotki nowego leku | 10:30 Kontrolujesz pomiary jakości z partii leku | 13:00 Doradzasz zespołowi, jakie dokumenty są potrzebne do badań | 15:00 Wysyłasz zgłoszenie skutku ubocznego do urzędu
+Y: Przeczytaj ulotkę dowolnego leku, wybierz jedno niejasne zdanie i przepisz je prościej.
+
+@1404
+H: Sprawdzasz, czy meble, sprzęt i sposób pracy są dopasowane do ludzi, żeby było bezpieczniej, zdrowiej i sprawniej. Poprawiasz kontakt człowieka z urządzeniem i miejscem pracy.
+T: Analizujesz projekt stanowiska pracy | Obserwujesz, jak pracownicy używają sprzętu | Wskazujesz, co powoduje zmęczenie lub ból | Proponujesz zmiany w meblach i organizacji pracy
+D: 8:30 Obserwujesz pracownika przy taśmie i oceniasz jego pozycję | 10:30 Mierzysz wysokość biurka i krzesła w biurze | 13:00 Pytasz pracowników, co ich boli po zmianie | 15:00 Przygotowujesz raport z propozycją nowego układu stanowisk
+Y: Sprawdź swoje miejsce do nauki i zapisz trzy zmiany, które poprawiłyby pozycję ciała podczas pracy.
+
+@1405
+H: Dbasz o to, żeby miejsce pracy było bezpieczne i zgodne z przepisami. Oceniasz ryzyko, rozmawiasz z pracownikami i proponujesz, co zmienić.
+T: Oceniasz ryzyko na stanowiskach pracy | Rozmawiasz z pracownikami o zagrożeniach | Sprawdzasz zgodność z przepisami BHP | Planujesz zmiany poprawiające bezpieczeństwo
+D: 7:30 Obchodzisz zakład i sprawdzasz oznaczenia wyjść ewakuacyjnych | 10:00 Pytasz pracowników magazynu, co ich zdaniem jest groźne | 12:30 Spisujesz ocenę ryzyka dla nowego stanowiska | 14:30 Szkolisz nowych pracowników z zasad bezpieczeństwa
+Y: Przejdź po domu i wypisz trzy miejsca, w których ktoś mógłby się potknąć, oraz jak to naprawić.
+
+@1406
+H: Chronisz ludzi przed szkodliwym promieniowaniem jonizującym i pilnujesz, żeby przepisy były przestrzegane. Układasz plany ochrony, m.in. dla elektrowni i obiektów jądrowych.
+T: Egzekwujesz środki bezpieczeństwa przed promieniowaniem | Sprawdzasz zgodność z przepisami | Opracowujesz plany ochrony radiologicznej | Oceniasz zagrożenia w obiektach jądrowych
+D: 8:00 Czytasz wyniki pomiarów promieniowania z obiektu | 10:00 Kontrolujesz, czy pracownicy stosują wymagane osłony | 13:00 Spotkanie o planie ochrony nowej pracowni | 15:00 Szkolisz personel z zasad ochrony przed promieniowaniem
+Y: Zapisz trzy zasady ochrony przed promieniowaniem: czas, odległość, osłona, i przy każdej dodaj przykład z życia.
+
+@1407
+H: Przewidujesz zagrożenia, takie jak powódź czy awaria, i układasz plany, co robić, gdy do nich dojdzie. Testujesz te plany i pilnujesz, żeby sprzęt i zapasy były na miejscu.
+T: Analizujesz zagrożenia dla miasta lub instytucji | Układasz plany reagowania na sytuacje awaryjne | Testujesz plany podczas ćwiczeń | Sprawdzasz zapasy i sprzęt na wypadek kryzysu
+D: 8:00 Sprawdzasz prognozy i ostrzeżenia o zagrożeniach | 10:00 Spotkanie ze strażą i szpitalem o planie ewakuacji | 12:30 Liczysz zapasy wody i koców w magazynie | 14:30 Prowadzisz ćwiczenia z alarmem w urzędzie
+Y: Zrób listę rzeczy do plecaka awaryjnego dla swojego domu na jedną dobę kryzysu.
+
+@1408
+H: Organizujesz procesy i procedury tak, żeby żywność była bezpieczna i nie dochodziło do zatruć czy skażeń. Pilnujesz zgodności z przepisami.
+T: Wdrażasz procedury bezpieczeństwa żywności | Wyszukujesz miejsca, gdzie może dojść do skażenia | Kontrolujesz, czy pracownicy przestrzegają zasad higieny | Sprawdzasz zgodność z przepisami
+D: 7:30 Obchodzisz kuchnię lub zakład i sprawdzasz higienę | 9:30 Sprawdzasz zapisy temperatury w chłodniach | 12:00 Szkolisz pracowników z mycia rąk i narzędzi | 14:30 Opisujesz, co poprawić po kontroli
+Y: Sprawdź lodówkę w domu: czy surowe produkty stoją osobno od gotowych i czy nic nie jest przeterminowane.
+
+@1409
+H: Podejmujesz złożone decyzje o rehabilitacji i bierzesz odpowiedzialność za ryzyko w trudnych, nieprzewidywalnych przypadkach. Skupiasz się na jednym obszarze: praktyce klinicznej, nauczaniu, badaniach lub kierowaniu zespołem.
+T: Prowadzisz rehabilitację w trudnych przypadkach | Oceniasz ryzyko dla zdrowia pacjenta | Uczysz młodszych fizjoterapeutów | Prowadzisz badania lub kierujesz zespołem
+D: 8:00 Omawiasz z zespołem pacjenta po ciężkim urazie | 9:30 Badasz pacjenta i dobierasz bezpieczne ćwiczenia | 12:30 Pokazujesz młodszym kolegom nową technikę ćwiczeń | 15:00 Planujesz grafik i procedury całego zespołu
+Y: Napisz pięć pytań, które fizjoterapeuta powinien zadać pacjentowi z bólem kolana przed rozpoczęciem ćwiczeń.
+

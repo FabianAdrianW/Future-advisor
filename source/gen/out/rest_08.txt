@@ -1,0 +1,180 @@
+@1650
+H: Odpowiadasz za obrazy wyświetlane podczas spektaklu: filmy, animacje i projekcje na scenie. Uruchamiasz je w odpowiednim momencie i dopasowujesz do tego, co robią wykonawcy.
+T: Przygotowujesz fragmenty filmów i animacji do spektaklu | Ustawiasz projektory i ekrany na scenie | Programujesz kolejność wyświetlania obrazów | Uruchamiasz projekcje na próbach i przedstawieniach
+D: 10:00 Z projektantem ustalasz, jaki obraz pojawi się w scenie trzeciej | 13:00 Ustawiasz projektor i sprawdzasz, czy obraz pasuje do ekranu | 17:00 Próba techniczna z aktorami, poprawiasz moment włączenia filmu | 19:30 Przedstawienie: przy każdym znaku z planu odpalasz kolejny obraz
+Y: Wybierz piosenkę i zapisz na kartce, jaki obraz wyświetlasz w trzech jej momentach i kiedy się zmienia.
+
+@1651
+H: Wymyślasz, jak ma brzmieć cały spektakl: muzyka, odgłosy i cisza. Nagrywasz i edytujesz dźwięki tak, żeby pasowały do wizji artystycznej i reszty zespołu.
+T: Tworzysz koncepcję dźwiękową całego przedstawienia | Nagrywasz odgłosy i komponujesz krótkie motywy | Edytujesz i przerabiasz nagrania do konkretnych scen | Ustalasz z zespołem artystycznym, jak brzmi scena
+D: 9:00 Nagrywasz skrzypienie drzwi do sceny w opuszczonym domu | 12:00 Montujesz nagrania i dopasowujesz je do tekstu | 16:00 Rozmowa z reżyserem, czy burza ma być głośniejsza | 19:00 Na próbie generalnej słuchasz sceny z widowni i notujesz poprawki
+Y: Zamknij oczy na minutę, wypisz pięć dźwięków wokół siebie i wymyśl, do jakiej sceny filmowej pasują.
+
+@1652
+H: Dbasz o sprzęt techniczny podczas koncertów i dużych imprez: nagłośnienie, kable i pulpity. Gdy coś przestaje działać w trakcie występu, naprawiasz to od ręki.
+T: Rozstawiasz kolumny, mikrofony i pulpity na scenie | Sprawdzasz dźwięk w próbie przed koncertem | Ustawiasz głośność w czasie występu | Zwijasz kable i pakujesz sprzęt po imprezie
+D: 11:00 Rozładowujesz ciężarówkę ze sprzętem pod halą koncertową | 15:00 Próba dźwięku, prosisz zespół o zagranie kilku taktów | 20:00 Koncert, siedzisz przy pulpicie i pilnujesz brzmienia | 0:30 Zwijasz kable i ładujesz sprzęt z powrotem
+Y: Klaśnij w dłonie w trzech miejscach domu i zapisz, gdzie echo jest największe, a gdzie dźwięk się gubi.
+
+@1653
+H: Przygotowujesz sprzęt audio do występów na żywo: rozstawiasz go, podłączasz i sprawdzasz, czy wszystko brzmi dobrze. Pomagasz realizatorowi dźwięku, a podczas pokazu obsługujesz urządzenia.
+T: Rozładowujesz i instalujesz sprzęt audio | Sprawdzasz każdy mikrofon i kabel | Konserwujesz i naprawiasz zużyty sprzęt | Obsługujesz urządzenia audio w trakcie występu
+D: 8:00 Rozpakowujesz skrzynie z mikrofonami i bezprzewodowymi nadajnikami | 11:00 Sprawdzasz po kolei każdy kabel i znajdujesz uszkodzony | 14:00 Podajesz aktorom nadajniki i sprawdzasz, czy ich słychać | 22:00 Po spektaklu liczysz sprzęt i odkładasz do skrzyń
+Y: Połącz dwa kubki sznurkiem, naciągnij go i sprawdź, czy druga osoba słyszy szept.
+
+@1654
+H: Siedzisz w studiu nagrań przy dużym pulpicie i dbasz, żeby głos lub instrument nagrał się czysto. Potem montujesz i poprawiasz nagranie, aż jest gotowe do wydania.
+T: Ustawiasz mikrofony w kabinie nagraniowej | Obsługujesz pulpit miksera | Doradzasz śpiewakom, jak używać głosu | Montujesz nagrania do gotowej wersji
+D: 10:00 Ustawiasz mikrofon przed śpiewakiem i szukasz dobrej odległości | 12:00 Nagrywasz trzecie podejście i prosisz o powtórzenie refrenu | 15:00 Wycinasz szumy i potknięcia z nagranego materiału | 20:00 Miksujesz utwór, aż głos i gitara przestaną się zagłuszać
+Y: Nagraj telefonem swój głos czytający trzy zdania z bliska i z daleka i porównaj brzmienie.
+
+@1655
+H: Przygotowujesz kamery, mikrofony i sprzęt do montażu tak, żeby wydarzenie dało się pokazać w radiu lub telewizji na żywo. Obsługujesz te urządzenia i naprawiasz je, gdy się psują.
+T: Instalujesz kamery i mikrofony na wydarzeniu | Obsługujesz sprzęt do rejestracji obrazu i dźwięku | Montujesz nagrany materiał | Konserwujesz sprzęt i wysyłasz sygnał do nadawcy
+D: 7:00 Wjeżdżasz na stadion i układasz kable do kamer | 9:30 Testujesz, czy obraz z kamer dociera do wozu transmisyjnego | 14:00 Transmisja na żywo i reagujesz, gdy kamera traci sygnał | 18:00 Zwijasz sprzęt i wpisujesz usterki do dziennika
+Y: Nagraj telefonem trzy krótkie ujęcia pokoju: szerokie, z bliska i z boku, i wybierz najlepsze.
+
+@1656
+H: Przed występem na żywo ustawiasz projektory i ekrany, a potem pilnujesz, żeby obraz był ostry i bez zacięć. Rozładowujesz sprzęt razem z ekipą i naprawiasz usterki w trakcie pokazu.
+T: Rozładowujesz i ustawiasz projektory i ekrany | Podłączasz kable wideo do sterowania | Regulujesz ostrość, jasność i kolory obrazu | Konserwujesz sprzęt wideo po każdym wydarzeniu
+D: 6:00 Z ekipą rozładowujesz ciężarówkę z ekranami i projektorami | 9:00 Ustawiasz projektor tak, żeby obraz wypełniał cały ekran | 13:00 Obraz ma żółty odcień i poprawiasz kolory | 21:00 Podczas występu stoisz za kulisami z zapasowym kablem
+Y: Narysuj na kartce dużą literę, powieś ją na ścianie i sprawdź, z jakiej odległości nadal jest widoczna.
+
+@1657
+H: Pilnujesz, żeby sygnał radiowy i telewizyjny wychodził z nadajnika bez przerw. Uruchamiasz sprzęt, obserwujesz jego pracę i naprawiasz go, kiedy coś zawodzi.
+T: Uruchamiasz i konfigurujesz urządzenia nadawcze | Monitorujesz sygnał na ekranach kontrolnych | Naprawiasz uszkodzone urządzenia nadawcze i odbiorcze | Sprawdzasz, czy materiał jest w dobrym formacie przed emisją
+D: 5:30 Zaczynasz zmianę od sprawdzenia, czy nadajnik pracuje | 9:00 Materiał na wieczorną emisję ma zły format, zmieniasz go | 13:00 Obraz na monitorze kontrolnym zanika, szukasz winnego urządzenia | 18:00 Przed głównym wydaniem programu sprawdzasz łącza zapasowe
+Y: Narysuj prosty schemat drogi sygnału telewizji od studia do ekranu w twoim domu, zaznacz minimum cztery punkty.
+
+@1658
+H: Stoisz lub siedzisz nieruchomo w jednej pozie, a artyści rysują, malują albo rzeźbią to, co widzą. Twoje ciało jest tematem ich pracy, więc liczą się spokój i wytrzymałość.
+T: Przyjmujesz pozę uzgodnioną z artystą | Zachowujesz bezruch przez długi czas | Robisz krótkie przerwy na rozprostowanie mięśni | Zmieniasz pozę, gdy artysta o to prosi
+D: 9:30 Wchodzisz do pracowni, a artysta pokazuje, jaką pozę chce | 10:00 Stoisz bez ruchu, a w sali słychać tylko ołówki | 11:30 Przerwa: rozciągasz kark i plecy, oglądasz szkice | 14:00 Dłuższa poza siedząca dla grupy rzeźbiarzy
+Y: Stań na pięć minut w jednej pozie bez ruchu i zapisz, które części ciała męczą się pierwsze.
+
+@1659
+H: Pozujesz do zdjęć i na pokazach, żeby pokazać ubrania, kosmetyki lub inne produkty. Przed obiektywem musisz wiedzieć, jak ustawić ciało, i stale dbasz o swój wygląd.
+T: Pozujesz dla fotografa w kolejnych ubraniach | Przechodzisz po wybiegu przed publicznością | Przymierzasz stroje i poprawiasz ich ułożenie | Przygotowujesz się do sesji, dbając o skórę i włosy
+D: 6:00 Dojeżdżasz na sesję, a stylista przygotowuje ci fryzurę i twarz | 9:00 Fotograf co chwilę prosi o inną pozę i spojrzenie | 13:00 Między ujęciami przebierasz się w kolejne stroje | 17:00 Próba chodu na wybiegu przed wieczornym pokazem
+Y: Stań przed lustrem i ułóż pięć różnych póz, zapisz, która wyglądała najnaturalniej.
+
+@1660
+H: Sprawdzasz, jak działa firma, i ustalasz, co w jej systemach komputerowych trzeba zmienić. Zapisujesz wymagania tak, żeby programiści wiedzieli, co zbudować, i pilnujesz, żeby zmiana się przyjęła.
+T: Analizujesz, jak firma pracuje na co dzień | Rozmawiasz z pracownikami o ich potrzebach | Spisujesz wymagania dla zmian w systemie | Oceniasz, co zmieni się po wdrożeniu
+D: 9:00 Rozmawiasz z magazynierami o tym, co spowalnia ich pracę | 11:30 Rysujesz schemat obecnego procesu zamówień na tablicy | 14:00 Spisujesz wymagania, które dostaną programiści | 16:00 Spotkanie: tłumaczysz kierownikowi, co zmieni nowy system
+Y: Rozpisz na kartce kolejne kroki przygotowania kanapki i zaznacz krok, który zajmuje najwięcej czasu.
+
+@1661
+H: Ustalasz, co dany system komputerowy ma robić, żeby ludzie mogli wygodnie z niego korzystać. Analizujesz jego funkcje, proponujesz poprawki i szacujesz, ile kosztowałby nowy system.
+T: Pytasz użytkowników, czego brakuje w systemie | Analizujesz funkcje działającego systemu | Opisujesz zarys projektu nowego rozwiązania | Szacujesz koszty nowego systemu
+D: 8:30 Patrzysz, jak pracownik biura klika przez stary system | 11:00 Zapisujesz listę funkcji, których system potrzebuje | 13:30 Rysujesz, jak dane mają wyświetlać się na ekranie | 15:30 Liczysz z zespołem, ile potrwa i kosztuje zmiana
+Y: Narysuj na kartce ekran prostej aplikacji do listy zakupów i opisz, co robi każdy przycisk.
+
+@1662
+H: Sprawdzasz, jak ludzie korzystają ze strony, aplikacji lub usługi, gdzie się gubią i co ich irytuje. Na tej podstawie podpowiadasz, co zmienić, żeby było łatwiej.
+T: Obserwujesz, jak użytkownicy wykonują zadania | Prowadzisz rozmowy o ich odczuciach | Zapisujesz, w którym miejscu się gubią lub irytują | Proponujesz poprawki w interfejsie
+D: 9:30 Siedzisz obok uczestnika testu i notujesz każde zawahanie | 11:00 Pytasz uczestnika, co myśli, szukając produktu na stronie | 14:00 Układasz notatki z pięciu rozmów w grupy problemów | 16:00 Pokazujesz projektantom, w którym miejscu ludzie rezygnują
+Y: Poproś domownika o znalezienie łyżki w kuchni bez podpowiedzi i zapisz, gdzie szuka najdłużej.
+
+@1663
+H: Sprawdzasz, czy systemy komputerowe w firmie są bezpieczne, dokładne i działają według ustalonych zasad. Szukasz miejsc, w których firma może stracić dane lub pieniądze, i zalecasz poprawki.
+T: Sprawdzasz systemy według standardów firmy | Oceniasz ryzyko dla infrastruktury informatycznej | Wprowadzasz mechanizmy kontroli ograniczające straty | Piszesz raport z zaleceniami dla zarządu
+D: 9:00 Dostajesz listę zasad bezpieczeństwa i sprawdzasz je po kolei | 11:00 Pytasz administratora, kto ma dostęp do ważnych plików | 14:00 Znajdujesz konto, którego nikt nie używa, a wciąż działa | 16:00 Piszesz raport z listą ryzyk i pomysłami poprawek
+Y: Napisz listę pięciu zagrożeń dla twojego telefonu i przy każdym zapisz, jak się przed nim chronisz.
+
+@1664
+H: Prowadzisz badania naukowe w informatyce: szukasz nowych sposobów, w jakie komputery mogą liczyć i przetwarzać informacje. Opisujesz wyniki i rozwiązujesz problemy, z którymi zwykłe programy sobie nie radzą.
+T: Czytasz opracowania innych badaczy | Projektujesz nowe podejścia do obliczeń | Szukasz nowych zastosowań istniejących technologii | Piszesz sprawozdania z wynikami badań
+D: 8:30 Czytasz artykuł o szybszym sposobie sortowania danych | 10:30 Wymyślasz test, który sprawdzi twój nowy pomysł | 13:30 Wynik testu odbiega od założeń, szukasz przyczyny | 16:00 Piszesz fragment sprawozdania i dyskutujesz z zespołem
+Y: Wypisz losowo dziesięć liczb na kartkach, posortuj je i zapisz zasady, według których to robisz.
+
+@1665
+H: Łączysz ze sobą różne programy i systemy w firmie tak, żeby wymieniały dane i działały jak całość. Gdy połączenie się psuje, szukasz usterki i ją usuwasz.
+T: Oceniasz, jakie systemy trzeba połączyć | Projektujesz sposób wymiany danych między nimi | Wykorzystujesz gotowe elementy zamiast pisać od nowa | Wykrywasz i usuwasz usterki w połączeniach
+D: 9:00 Dział sprzedaży nie widzi zamówień z magazynu, szukasz przyczyny | 11:00 Rysujesz, którędy dane mają płynąć między trzema systemami | 13:30 Testujesz nowe połączenie na kilku przykładowych zamówieniach | 16:00 Pomagasz kierownikowi wybrać tańsze z dwóch rozwiązań
+Y: Narysuj trzy pudełka: kalendarz, lista zakupów i budzik, a strzałkami pokaż, jakie informacje powinny między nimi płynąć.
+
+@1666
+H: Zarządzasz analizą potrzeb firmy i przekładasz je na rozwiązania informatyczne. Wskazujesz, gdzie systemy trzeba zmienić, żeby wspierały plany firmy, i sprawdzasz skutki tych zmian.
+T: Wskazujesz obszary wymagające zmian w systemach | Przekładasz potrzeby biznesu na rozwiązania informatyczne | Pilnujesz, żeby systemy spełniały wymagania organizacji | Monitorujesz skutki wprowadzonych zmian
+D: 9:00 Rozdzielasz analitykom pracę nad trzema nowymi zgłoszeniami | 11:00 Dyrektor sprzedaży opisuje plan, ty szukasz, czego brakuje systemowi | 14:00 Czytasz wnioski analityków i decydujesz, co zrobić najpierw | 16:30 Sprawdzasz, czy wdrożona zmiana skróciła obsługę klientów
+Y: Wypisz trzy zmiany w swoim tygodniu i ustaw je od tej, która da największy efekt.
+
+@1667
+H: Prowadzisz badania w dziedzinie technologii dla klienta, który chce wiedzieć, co się sprawdza. Układasz ankiety, analizujesz odpowiedzi i przedstawiasz wnioski z zaleceniami.
+T: Planujesz badanie zgodnie z pytaniem klienta | Układasz kwestionariusze do ankiet | Analizujesz zebrane odpowiedzi | Prezentujesz wyniki i zalecenia klientowi
+D: 9:00 Klient pyta, czy pracownicy w ogóle korzystają z nowego systemu | 10:30 Układasz dziesięć pytań do ankiety i usuwasz niejasne | 13:30 Liczysz, ile osób odpowiedziało tak, a ile nie | 16:00 Prezentujesz klientowi wykresy i trzy wnioski
+Y: Ułóż pięć pytań ankiety o korzystanie z telefonu i popraw te, które można zrozumieć na dwa sposoby.
+
+@1668
+H: Doradzasz firmom, jak połączyć różne systemy, żeby wymieniały dane i nie dublowały pracy. Nie budujesz wszystkiego od zera, tylko wskazujesz, co z czym połączyć i dlaczego.
+T: Sprawdzasz, które systemy firmy nie współpracują ze sobą | Doradzasz sposób łączenia systemów | Wskazujesz miejsca, gdzie te same dane wpisuje się dwa razy | Tłumaczysz klientowi plan wymiany danych
+D: 9:00 Jedziesz do klienta, który wpisuje te same faktury dwa razy | 11:00 Liczysz, ile godzin tygodniowo zajmuje ręczne przepisywanie | 13:30 Rysujesz plan połączenia sklepu internetowego z magazynem | 16:00 Omawiasz z szefem klienta, co opłaca się najpierw
+Y: Znajdź w domu dwa miejsca z tą samą informacją, na przykład planem dnia, i zdecyduj, które zostawić.
+
+@1669
+H: Doradzasz firmom, jak lepiej wykorzystać komputery i programy, które już mają, i jakie nowe rozwiązania warto rozważyć. Pomagasz porównać opcje i wybrać taką, która pasuje do firmy.
+T: Oceniasz narzędzia, których firma używa | Doradzasz, jak lepiej je wykorzystać | Porównujesz nowe rozwiązania technologiczne | Pomagasz zdefiniować projekt wdrożenia
+D: 9:00 Przeglądasz, z jakich programów korzysta księgowość klienta | 11:30 Zauważasz, że firma płaci za trzy podobne narzędzia | 14:00 Zestawiasz dwie oferty i wypisujesz plusy i minusy | 16:30 Przedstawiasz zarządowi rekomendację na jednej stronie
+Y: Porównaj notowanie na kartce i w telefonie w czterech kryteriach i zapisz, które lepiej pasuje do nauki.
+
+@1670
+H: Doradzasz firmom, jak korzystać z technologii z mniejszą szkodą dla środowiska, i pomagasz wdrożyć plan krok po kroku. Wyznaczasz cele na najbliższy rok i na kolejne lata.
+T: Oceniasz, ile zasobów zużywa informatyka firmy | Układasz strategię ekologicznych rozwiązań IT | Ustalasz cele krótkie, średnie i długie | Pomagasz wdrożyć plan w firmie
+D: 9:00 Liczysz, ile serwerów firma trzyma włączonych bez potrzeby | 11:00 Sprawdzasz, co dzieje się ze starym sprzętem po wymianie | 14:00 Ustalasz z dyrekcją cel na pierwszy rok planu | 16:00 Uczysz pracowników, jak ograniczyć zużycie energii przy komputerach
+Y: Wypisz urządzenia w swoim pokoju i zaznacz trzy, które mogłyby być używane krócej.
+
+@1671
+H: Patrzysz na firmę jak na całość: jej cele, procesy i komputery. Planujesz, jaka technologia ma jej służyć, żeby pasowała do strategii.
+T: Opisujesz strategię i procesy organizacji | Łączysz cele firmy z planem technologii | Mapujesz zasoby informatyczne firmy | Równoważysz możliwości techniczne i potrzeby biznesu
+D: 9:00 Przeglądasz plan rozwoju firmy na najbliższe lata | 11:00 Rysujesz mapę wszystkich systemów i tego, jak się łączą | 13:30 Plan nowego sklepu wymaga rozwiązań, których firma nie ma | 15:30 Tłumaczysz dyrekcji, dlaczego jedna decyzja zmienia pięć działów
+Y: Narysuj mapę swojej szkoły: sale, ludzi i sprzęt, a strzałkami pokaż, co od czego zależy.
+
+@1672
+H: Projektujesz budowę dużego systemu komputerowego, z którego korzysta wiele osób: z jakich modułów się składa, jak są połączone i gdzie leżą dane. Dostajesz wymagania i ustalasz plan, według którego budowana jest całość.
+T: Projektujesz architekturę systemu z wielu elementów | Dzielisz system na moduły | Ustalasz, jak moduły wymieniają dane | Sprawdzasz, czy projekt spełnia wymagania
+D: 9:00 Czytasz wymagania nowej platformy rezerwacji | 10:30 Dzielisz platformę na moduły: konta, płatności, powiadomienia | 13:00 Rysujesz, które dane trafiają do której bazy | 15:30 Programista pyta, jak połączyć dwa moduły, rysujesz schemat
+Y: Rozbij na kartce prosty sklep internetowy na cztery części, na przykład koszyk i płatność, i podpisz, co robi każda.
+
+@1673
+H: Planujesz, jak ma działać układ sterujący ukryty w urządzeniu lub maszynie. Zamieniasz techniczne wymagania na ogólny plan, według którego powstaje oprogramowanie sterujące.
+T: Czytasz specyfikacje oprogramowania technicznego | Spisujesz wymagania dla układu sterującego | Projektujesz ogólną strukturę systemu wbudowanego | Dzielisz zadania sterowania na mniejsze części
+D: 9:00 Czytasz opis, co ma robić sterownik urządzenia | 11:00 Wypisujesz wymagania: co ma się dziać po wciśnięciu każdego przycisku | 13:30 Rysujesz schemat blokowy: czujniki, sterownik, silnik | 15:30 Omawiasz z programistą, jak podzielić pracę sterownika
+Y: Opisz w sześciu krokach, co robi sterownik suszarki do rąk po wykryciu dłoni.
+
+@1674
+H: Utrzymujesz i ulepszasz systemy, na których pracuje firma. Sprawdzasz sprzęt i oprogramowanie, szukasz usterek i naprawiasz je, dobierając technologię do potrzeb.
+T: Utrzymujesz i udoskonalasz systemy wspierające organizację | Sprawdzasz elementy sprzętu i oprogramowania | Diagnozujesz usterki systemu | Dobierasz technologię do konkretnej potrzeby
+D: 8:00 Rano system rozliczeń działa wolniej niż zwykle | 10:00 Sprawdzasz, czy winny jest serwer, czy program | 13:00 Usuwasz usterkę i testujesz poprawkę na kopii systemu | 15:30 Dział kadr prosi o nową funkcję, omawiasz możliwości
+Y: Zapisz pięć kroków, którymi sprawdzisz, dlaczego sygnał w telefonie jest słabszy w jednym pokoju.
+
+@1675
+H: Sprawdzasz, czy stronę lub aplikację da się obsłużyć każdemu, także osobom niewidzącym, niesłyszącym lub poruszającym się z trudem. Szukasz miejsc, w których ktoś utknie, i opisujesz, co poprawić.
+T: Przechodzisz po stronie samą klawiaturą | Sprawdzasz czytelność kolorów i wielkość tekstu | Testujesz aplikację z czytnikiem ekranu | Zgłaszasz miejsca, w których ktoś utknie
+D: 9:00 Przechodzisz przez formularz zamówienia bez użycia myszki | 11:00 Słuchasz, jak czytnik ekranu odczytuje przyciski w aplikacji | 13:30 Szary tekst na białym tle jest ledwie widoczny, zgłaszasz to | 15:30 Opisujesz programiście, jak poprawić brakujący opis obrazka
+Y: Spróbuj przez pięć minut obsługiwać telefon jedną ręką i zapisz trzy przyciski, do których trudno sięgnąć.
+
+@1676
+H: Grasz w gry, zanim trafią do sklepu, i szukasz w nich błędów w działaniu i grafice. Powtarzasz te same fragmenty wielokrotnie i opisujesz, jak błąd wywołać.
+T: Przechodzisz ten sam fragment gry wielokrotnie | Szukasz błędów w działaniu i grafice | Opisujesz krok po kroku, jak wywołać błąd | Oceniasz, czy gra jest ciekawa i grywalna
+D: 9:00 Postać przenika przez ścianę na czwartym poziomie, powtarzasz to | 11:00 Wpisujesz do zgłoszenia, jakie kroki prowadzą do błędu | 13:30 Sprawdzasz poprawkę: stary błąd znika, pojawia się nowy | 15:30 Piszesz opinię, że walka z bossem jest zbyt nudna
+Y: Zagraj jedną partię prostej gry planszowej lub karcianej i zapisz jedną niejasną lub niesprawiedliwą zasadę.
+
+@1677
+H: Sprawdzasz, czy kilka elementów systemu współdziała ze sobą, a nie tylko działa osobno. Wykonujesz testy według planu i pilnujesz zależności między częściami.
+T: Testujesz grupy elementów systemu razem | Pracujesz według planów testów integracji | Sprawdzasz, czy dane przechodzą między modułami | Obserwujesz złożone zależności między częściami
+D: 9:00 Uruchamiasz scenariusz: zamówienie ze sklepu ma dotrzeć do magazynu | 11:00 Moduł płatności działa, ale magazyn nie dostaje potwierdzenia | 13:30 Zgłaszasz problem i dopisujesz go do planu testów | 15:30 Po poprawce powtarzasz cały scenariusz od początku
+Y: Napisz scenariusz testu dla budzika połączonego z lampką: co ma się stać i jak sprawdzisz każdy krok.
+
+@1678
+H: Sprawdzasz programy, zanim trafią do klientów, i szukasz błędów w ich działaniu. Czasem też planujesz testy i poprawiasz drobne usterki.
+T: Planujesz przypadki testowe przed wydaniem aplikacji | Wykonujesz testy i porównujesz wynik z oczekiwanym | Zgłaszasz znalezione błędy programistom | Czasem poprawiasz drobne usterki w kodzie
+D: 9:00 Dostajesz nową wersję aplikacji i listę zmian | 10:30 Wpisujesz w polu wieku ujemną liczbę i patrzysz na reakcję | 13:00 Zgłaszasz błąd z opisem kroków i zrzutem ekranu | 15:30 Sprawdzasz poprawki programisty przed wydaniem aplikacji
+Y: Wymyśl pięć dziwnych rzeczy, które ktoś może wpisać w polu imienia w formularzu, i zapisz, co powinno się stać.
+
+@1679
+H: Testujesz całe systemy i ich elementy, zanim zaczną z nich korzystać pracownicy firmy lub klienci. Planujesz część testów, a czasem poprawiasz drobne usterki.
+T: Testujesz cały system przed oddaniem użytkownikom | Planujesz część testów systemu | Sprawdzasz elementy sprzętowe i programowe | Zgłaszasz usterki projektantom i twórcom
+D: 8:30 Uruchamiasz cały system rozliczeń na środowisku testowym | 10:30 Sprawdzasz, czy po awarii serwera system wraca do pracy | 13:00 Sprawdzasz, ilu użytkowników naraz zniesie system logowania | 16:00 Spisujesz usterki i przekazujesz je projektantom
+Y: Weź swój plan lekcji i sprawdź, czy nigdzie nie nakładają się godziny lub zajęcia dodatkowe.
+

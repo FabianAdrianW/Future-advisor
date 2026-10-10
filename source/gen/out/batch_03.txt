@@ -1,0 +1,180 @@
+@180
+H: Układasz plan, co, ile i kiedy zakład spożywczy ma wyprodukować, żeby zamówienia były gotowe na czas. Sprawdzasz, czy wystarczy surowców, ludzi i czasu na maszynach.
+T: Układasz harmonogram produkcji na tydzień | Sprawdzasz zapasy surowców i opakowań | Przesuwasz zlecenia, gdy maszyna się zepsuje | Ustalasz terminy z magazynem i sprzedażą
+D: 7:30 Przeglądasz nowe zamówienia sklepów i hurtowni | 9:00 Spotkanie z kierownikiem linii o dzisiejszym planie | 12:00 Brakuje mąki, przestawiasz kolejność produktów | 15:00 Układasz plan na następny tydzień
+Y: Rozpisz na kartce plan przygotowania kolacji dla czterech osób, z kolejnością czynności i godzinami.
+
+@181
+H: Nadzorujesz brygadę górników i odpowiadasz za to, żeby praca w kopalni szła zgodnie z planem i bezpiecznie. Pilnujesz ludzi, instalacji i sprzętu.
+T: Rozdzielasz zadania brygadzie na zmianie | Sprawdzasz stan maszyn i instalacji | Pilnujesz przestrzegania zasad bezpieczeństwa | Zgłaszasz postępy i problemy przełożonym
+D: 5:30 Odprawa z brygadą przed zjazdem na dół | 7:00 Obchód stanowisk i kontrola sprzętu | 10:30 Awaria przenośnika, organizujesz naprawę | 13:30 Spisujesz raport zmiany dla następnej brygady
+Y: Wymyśl i zapisz pięć zasad bezpieczeństwa dla grupy, która razem sprząta duże pomieszczenie.
+
+@182
+H: Koordynujesz pracę zakładu, który odbiera, sortuje i przetwarza odpady. Pilnujesz, żeby wszystko odbywało się zgodnie z przepisami ochrony środowiska.
+T: Nadzorujesz pracowników na sortowni lub składowisku | Sprawdzasz zgodność z przepisami o odpadach | Szukasz sposobów na mniejszą ilość odpadów | Wypełniasz dokumentację przyjętych i wywiezionych odpadów
+D: 6:30 Rozdzielasz pracowników na stanowiska sortowania | 9:00 Kontrolujesz, czy ciężarówki wwożą właściwe odpady | 12:00 Sprawdzasz papiery wywozu odpadów | 14:00 Omawiasz pomysł na mniejszą ilość odpadów
+Y: Obejrzyj etykiety trzech opakowań i sprawdź, do którego pojemnika na odpady każde z nich trafia.
+
+@183
+H: Pilnujesz, żeby w mleczarni mleko zamieniało się w ser, jogurt czy lody według ustalonych norm. Koordynujesz pracę operatorów i techników utrzymania ruchu.
+T: Nadzorujesz linię produkcji sera lub lodów | Koordynujesz pracę operatorów maszyn | Pomagasz technologom ulepszać procesy | Tworzysz procedury produkcji i pakowania
+D: 5:30 Sprawdzasz papiery dostawy mleka od kierowcy | 8:00 Obchód linii, rozmowa z operatorami maszyn | 11:00 Test nowej receptury z technologiem | 14:00 Spisujesz zasady pakowania nowego produktu
+Y: Przeczytaj skład jogurtu lub sera z lodówki i wypisz, z czego dokładnie jest zrobiony.
+
+@184
+H: Obsługujesz maszyny, które mieszają lakiery, rozpuszczalniki i farby w gotowy produkt. Pilnujesz, żeby każda partia wyszła dokładnie według receptury.
+T: Ustawiasz mieszalnik według receptury | Odważasz i dodajesz składniki do partii | Konserwujesz i czyścisz maszyny | Sprawdzasz, czy gotowa partia pasuje do receptury
+D: 6:00 Odczytujesz z karty, jaką partię mieszasz | 8:00 Dodajesz składniki i uruchamiasz mieszalnik | 11:00 Pobierasz próbkę i porównujesz ją z wzorem | 13:30 Czyścisz zbiornik przed następną partią
+Y: Nałóż kredkami warstwy dwóch kolorów, zapisz recepturę i spróbuj powtórzyć ten sam odcień drugi raz.
+
+@185
+H: Obsługujesz mieszalniki i młynki wibracyjne, w których powstają syntetyczne lakiery i farby. Pilnujesz, żeby produkt końcowy zgadzał się z recepturą.
+T: Obsługujesz mieszalniki lakierów syntetycznych | Ustawiasz i uruchamiasz młynek wibracyjny | Odmierzasz składniki zgodnie z recepturą | Konserwujesz urządzenia po każdej partii
+D: 6:00 Czytasz zlecenie i przygotowujesz składniki | 8:30 Mieszalnik pracuje, a ty pilnujesz wskazań | 11:00 Młynek wibruje, sprawdzasz, czy pracuje równo | 13:00 Zapisujesz w dokumentach, co wyprodukowano
+Y: Zmierz i zapisz, ile łyżek mąki mieści się w szklance, a potem powtórz pomiar.
+
+@186
+H: Obsługujesz mieszalniki, w których składniki chemiczne są topione, mieszane i gotowane na lakier żywiczny. Pracujesz według specyfikacji i pilnujesz każdego etapu.
+T: Ładujesz składniki chemiczne do mieszalnika | Topisz i gotujesz mieszaninę według specyfikacji | Obserwujesz wskazania temperatury i czasu | Spisujesz parametry każdej partii
+D: 6:00 Zerkasz do specyfikacji dzisiejszej partii | 7:30 Ładujesz składniki do pustego mieszalnika | 10:00 Partia się gotuje, co chwilę sprawdzasz wskazania | 13:30 Przekazujesz zmiennikowi notatki o partii
+Y: Zapisz trzy kroki z dowolnego przepisu kuchennego i oceń, który wymaga największej dokładności.
+
+@187
+H: Obsługujesz maszyny, które mieszają ciecze i suche substancje na zapalniki i proszki znakujące. Pracujesz według ścisłych procedur bezpieczeństwa, a parametry muszą zgadzać się ze specyfikacją.
+T: Ustawiasz wymagane parametry maszyn | Pilnujesz mieszania cieczy i suchych składników | Sprawdzasz zgodność mieszanki ze specyfikacją | Przestrzegasz procedur bezpieczeństwa na stanowisku
+D: 6:00 Odprawa bezpieczeństwa przed wejściem na halę | 7:00 Sprawdzasz ustawienia maszyny na karcie | 10:00 Kontrolujesz przebieg mieszania według specyfikacji | 13:00 Przekazujesz dokumentację partii kierownikowi zmiany
+Y: Wypisz pięć kroków, które trzeba wykonać zawsze w tej samej kolejności, np. przy wychodzeniu z domu.
+
+@188
+H: Obsługujesz maszyny, które mieszają składniki chemiczne na nawóz. Pilnujesz, żeby gotowy produkt miał skład zgodny ze specyfikacją.
+T: Dozujesz składniki nawozu do mieszalnika | Uruchamiasz i konserwujesz maszyny mieszające | Pobierasz próbki gotowego nawozu | Zapisujesz skład i ilość partii
+D: 6:00 Odbierasz zmianę i czytasz notatki | 8:00 Uruchamiasz mieszanie nowej partii nawozu | 11:00 Pobierasz próbkę do sprawdzenia składu | 14:00 Notujesz ilość i skład wyprodukowanej partii
+Y: Dowiedz się, jakich trzech podstawowych składników potrzebują rośliny do wzrostu, i zapisz je.
+
+@189
+H: Obsługujesz maszyny, które mieszają suche i płynne składniki w środki na owady, grzyby, gryzonie lub chwasty. Każda partia musi zgadzać się z recepturą.
+T: Odmierzasz składniki suche i ciekłe | Obsługujesz maszyny mieszające preparaty | Konserwujesz mieszalniki i zbiorniki | Porównujesz gotową partię z recepturą
+D: 6:30 Sprawdzasz, który preparat dziś produkujesz | 8:00 Zakładasz odzież ochronną i uruchamiasz mieszanie | 11:00 Kontrolujesz mieszalnik i zapisujesz wskazania | 14:00 Czyścisz urządzenie przed zmianą receptury
+Y: Narysuj trzy piktogramy bezpieczeństwa z domu lub szkoły, np. znak ewakuacji, i zapisz, co znaczą.
+
+@190
+H: Obsługujesz zbiorniki i mieszalniki, w których surowce stają się produktem chemicznym. Trzymasz się raportu szarżowego, w którym zapisano, co i ile dodać.
+T: Czytasz raport szarżowy partii | Ładujesz surowce do zbiornika mieszającego | Obsługujesz i konserwujesz mieszalniki | Sprawdzasz zgodność produktu ze specyfikacją
+D: 6:00 Bierzesz raport szarżowy dzisiejszej partii | 7:30 Surowce płyną do zbiornika, kontrolujesz dozowanie | 10:30 Mieszalnik hałasuje, szukasz przyczyny | 13:30 Podpisujesz raport i oddajesz zmianę
+Y: Zrób listę kontrolną do spakowania plecaka na jutro i sprawdź według niej zawartość plecaka.
+
+@191
+H: Obsługujesz mieszalniki i urządzenia, w których powstaje mydło. Pilnujesz, żeby każda partia powstawała według ustalonej receptury.
+T: Przygotowujesz składniki mydła według receptury | Obsługujesz mieszalniki do produkcji mydła | Pilnujesz parametrów pracy urządzeń | Notujesz przebieg każdej partii
+D: 6:00 Przygotowujesz składniki dzisiejszej partii mydła | 8:00 Włączasz mieszalnik i obserwujesz masę mydlaną | 11:00 Porównujesz gotową partię z recepturą | 13:30 Czyścisz urządzenia i zapisujesz wyniki
+Y: Obejrzyj kostkę mydła i opisz w trzech zdaniach jej kształt, zapach i konsystencję.
+
+@192
+H: Kontrolujesz maszynę, która z lepkiego mydła robi suche płatki. Badasz próbki i pilnujesz, żeby płatki trafiały do zasobników.
+T: Kontrolujesz maszynę na lepkie mydło | Konserwujesz urządzenie do produkcji płatków | Badasz pobrane próbki płatków | Koordynujesz wyładunek płatków do zasobników
+D: 6:00 Uruchamiasz maszynę i patrzysz, jak płynie masa | 8:30 Pobierasz próbkę suchych płatków do badania | 11:00 Kierujesz wyładunek płatków do zasobnika | 14:00 Konserwujesz maszynę po zakończonej partii
+Y: Opisz w czterech zdaniach, czym różni się w dotyku mydło w płynie od mydła w kostce.
+
+@193
+H: Obsługujesz maszyny, które zamieniają kostki mydła w wiórki. Zajmujesz się też transportem i przechowywaniem gotowych wiórków.
+T: Zasilasz maszynę kostkami mydła | Ustawiasz maszynę zgodnie z recepturą | Przewozisz wiórki do magazynu | Układasz wiórki w miejscu przechowywania
+D: 6:30 Przywozisz paletę kostek mydła pod maszynę | 8:00 Maszyna rozdrabnia kostki, ty kontrolujesz efekt | 11:00 Wiórki jadą na wózku do magazynu | 14:00 Liczysz zapasy i zapisujesz stan magazynu
+Y: Policz w domu jednakowe przedmioty, np. rolki papieru, i zapisz ich stan jak w magazynie.
+
+@194
+H: Siedzisz w sterowni kopalni i śledzisz na monitorach i wskaźnikach, co się dzieje w całym zakładzie. Gdy coś odbiega od normy, reagujesz według procedur.
+T: Monitorujesz procesy na ekranach i wskaźnikach | Zmieniasz ustawienia zmiennych procesu | Łączysz się z innymi oddziałami kopalni | Uruchamiasz procedury w razie awarii
+D: 6:00 Przejmujesz sterownię i czytasz notatki | 9:00 Na schemacie zapala się ostrzeżenie, dzwonisz do oddziału | 12:00 Zmieniasz ustawienia i informujesz sąsiedni oddział | 14:00 Zapisujesz zdarzenia zmiany w dzienniku
+Y: Obserwuj przez kwadrans jeden wskaźnik w domu, np. zegar lub termometr okienny, i zapisz trzy odczyty.
+
+@195
+H: Badasz ropę naftową w trakcie przetwarzania i przed wysyłką. Kontrolujesz pompy i regulujesz, ile ropy płynie do rurociągów.
+T: Pobierasz próbki ropy do badania | Sprawdzasz jakość ropy przed wysyłką | Kontrolujesz systemy pomp | Regulujesz przepływ ropy do rurociągów
+D: 6:00 Odczytujesz stan pomp i zbiorników | 8:30 Pobierasz próbkę ropy do badania | 11:00 Zmniejszasz przepływ do rurociągu po wyniku | 14:00 Zapisujesz wyniki i przekazujesz zmianę
+Y: Przelej wodę z jednej butelki do drugiej w równym tempie i zmierz czas przelania pół litra.
+
+@196
+H: Monitorujesz automatyczny piec przemysłowy, w którym węgiel kamienny ogrzewa się bez dostępu tlenu i zamienia w koks. Gotowy koks jest gaszony i przygotowywany do transportu.
+T: Monitorujesz pracę pieca koksowniczego | Śledzisz temperaturę w piecu | Kontrolujesz gaszenie gotowego koksu | Przygotowujesz koks do transportu
+D: 6:00 Przejmujesz zmianę i sprawdzasz stan pieców | 9:00 Śledzisz na ekranie temperaturę w piecu | 12:00 Nadzorujesz gaszenie świeżo wypalonego koksu | 15:00 Koks czeka na załadunek, wpisujesz ilości
+Y: Dowiedz się z książki lub internetu, czym różni się węgiel kamienny od drewna, i napisz jedno zdanie.
+
+@197
+H: Monitorujesz i kontrolujesz urządzenia, które przetwarzają substancje chemiczne w materiały wybuchowe. Odpowiadasz też za składowanie produktów w zbiornikach.
+T: Monitorujesz pracę aparatów nitracyjnych | Kontrolujesz parametry pracy urządzeń | Przekazujesz produkty do zbiorników | Przestrzegasz restrykcyjnych procedur bezpieczeństwa
+D: 6:00 Odprawa bezpieczeństwa i odbiór stanowiska | 8:00 Odczytujesz wskazania urządzeń i porównujesz z normą | 11:00 Kontrolujesz napełnianie zbiornika produktem | 14:00 Wpisujesz parametry zmiany do dziennika
+Y: Wybierz jedną regułę bezpieczeństwa z domu lub szkoły i wytłumacz młodszej osobie, dlaczego jest ważna.
+
+@198
+H: Kontrolujesz maszynę, która napełnia kapsułki żelatynowe lekiem. Pilnujesz, żeby do każdej kapsułki trafiał określony preparat.
+T: Uruchamiasz kapsułkarkę i ustawiasz ją | Dosypujesz preparat leczniczy do maszyny | Kontrolujesz napełnienie kapsułek | Czyścisz maszynę przed zmianą preparatu
+D: 6:30 Zakładasz fartuch i czepek przed wejściem na halę | 7:30 Ustawiasz kapsułkarkę pod dzisiejszy preparat | 10:00 Wyjmujesz kapsułki do kontroli napełnienia | 13:30 Czyścisz maszynę po zakończeniu serii
+Y: Nasyp łyżeczką ryż do dziesięciu małych pojemników i sprawdź, czy w każdym jest tyle samo.
+
+@199
+H: Kontrolujesz piec, w którym wapień jest wypalany na wapno lub dwutlenek węgla. Śledzisz przepływ materiału, paliwa i powietrza, wprowadzasz korekty i prowadzisz dokumentację.
+T: Regulujesz dopływ wapienia, paliwa i powietrza | Obserwujesz wykresy temperatury i paliwa | Odczytujesz mierniki tlenu w piecu | Prowadzisz dokumentację produkcji
+D: 6:00 Przejmujesz piec i czytasz dziennik poprzedniej zmiany | 8:00 Wskazania tlenu spadają, korygujesz dopływ powietrza | 11:00 Sprawdzasz wykresy temperatury i paliwa | 14:00 Uzupełniasz dokumentację produkcyjną i oddajesz zmianę
+Y: Zmierz temperaturę w pokoju trzy razy w odstępie pięciu minut i narysuj z tego prosty wykres.
+
+@200
+H: Obsługujesz prasę, która z rozdrobnionego mydła formuje kostki o określonym kształcie i rozmiarze. Pilnujesz, żeby kostki spełniały wymagania jakościowe.
+T: Zasilasz prasę rozdrobnionym mydłem | Ustawiasz formę kostki w prasie | Wyjmujesz i oceniasz gotowe kostki | Odrzucasz kostki niespełniające wymagań
+D: 6:30 Zakładasz formę pod dzisiejszy rozmiar kostki | 8:00 Prasa pracuje, a ty oglądasz każdą partię | 11:00 Kostki z wgnieceniem lądują w odrzutach | 14:00 Mierzysz kilka kostek miarką
+Y: Zmierz linijką trzy kostki mydła lub gumki i sprawdź, czy mają te same wymiary.
+
+@201
+H: Obsługujesz separator, w którym nitrogliceryna jest oddzielana od zużytych kwasów podczas wytwarzania materiałów wybuchowych. Kontrolujesz temperaturę i przepływ cieczy.
+T: Konserwujesz separator grawitacyjny | Kontrolujesz temperaturę w separatorze | Pilnujesz przepływu cieczy | Przestrzegasz ścisłych procedur bezpieczeństwa
+D: 6:00 Odprawa i przegląd stanowiska | 8:00 Odczytujesz temperaturę i przepływ cieczy | 11:00 Sprawdzasz, czy separator pracuje stabilnie | 14:00 Notujesz odczyty zmiany w dzienniku
+Y: Wyjaśnij własnymi słowami, jak sitko oddziela makaron od wody, i narysuj schemat.
+
+@202
+H: Dozorujesz maszynę, która wytwarza tabletki o różnych rozmiarach i kształtach. Napełniasz ją materiałem, regulujesz przepływ i temperaturę.
+T: Napełniasz tabletkarkę materiałem | Otwierasz zawory i regulujesz przepływ | Ustawiasz temperaturę maszyny | Dozorujesz wytwarzanie tabletek
+D: 6:30 Zakładasz fartuch i czepek, wchodzisz na halę | 7:30 Wsypujesz materiał do zasobnika tabletkarki | 10:00 Korygujesz temperaturę i przepływ materiału | 13:30 Czyścisz maszynę po zakończeniu serii
+Y: Wymyśl i narysuj trzy kształty tabletek, a potem opisz, który będzie najłatwiejszy do połknięcia.
+
+@203
+H: Prowadzisz i nadzorujesz destylację ropy naftowej, czyli oddzielanie jej składników i zanieczyszczeń. Kręcisz zaworami i pilnujesz temperatury, przepływu i ciśnienia.
+T: Prowadzisz proces destylacji ropy | Przekręcasz zawory sterujące | Pilnujesz temperatury, przepływu i ciśnienia | Pomagasz usuwać problemy w instalacji
+D: 6:00 Odczytujesz mierniki temperatury i ciśnienia | 8:30 Przekręcasz zawór, żeby zmienić przepływ | 11:00 Ciśnienie rośnie, szukasz przyczyny z technikiem | 14:00 Zapisujesz dane i przekazujesz zmianę
+Y: Obserwuj, jak para z oddechu skrapla się na zimnym lustrze, i zapisz, co zauważasz.
+
+@204
+H: Obsługujesz prasy filtracyjne i zbiorniki, w których wosk jest bielony na potrzeby produkcji świec. Konserwujesz je i pilnujesz przebiegu procesu.
+T: Obsługujesz zbiorniki do bielenia wosku | Pilnujesz pracy prasy filtracyjnej | Konserwujesz i czyścisz sprzęt | Kontrolujesz kolor i czystość wosku
+D: 6:00 Napełniasz zbiornik woskiem do bielenia | 8:30 Sprawdzasz, czy prasa filtracyjna nie przecieka | 11:00 Porównujesz kolor wosku ze wzorcem | 14:00 Czyścisz prasę i zbiorniki
+Y: Przesącz wodę z odrobiną ziemi przez papierowy ręcznik i porównaj ją z wodą przed filtrowaniem.
+
+@205
+H: Obsługujesz zbiorniki do fermentacji, w których powstają składniki do leków, takich jak antybiotyki czy witaminy. Pracujesz też przy składnikach kosmetyków.
+T: Kontrolujesz zbiorniki do fermentacji | Przygotowujesz urządzenia do nowej partii | Konserwujesz i czyścisz aparaturę | Notujesz parametry procesu w dzienniku
+D: 6:00 Przejmujesz zmianę, czytasz stan zbiorników | 8:00 Przygotowujesz zbiornik do nowej partii | 11:00 Kontrolujesz parametry fermentacji na wyświetlaczu | 14:00 Czyścisz urządzenia i dokumentujesz zmianę
+Y: Dowiedz się, co robią drożdże w cieście chlebowym, i opisz to w dwóch zdaniach.
+
+@206
+H: Dozorujesz maszyny, które produkują perfumy. Ustawiasz urządzenia, czyścisz je i trzymasz się harmonogramu produkcji.
+T: Ustawiasz maszyny i narzędzia | Czyścisz i konserwujesz urządzenia | Przestrzegasz harmonogramu produkcji | Dozorujesz pracę maszyny podczas serii
+D: 6:30 Sprawdzasz harmonogram i ustawiasz maszynę | 8:00 Maszyna pracuje, dozorujesz serię perfum | 11:00 Wymieniasz narzędzia przed kolejną serią | 14:00 Czyścisz maszynę i odkładasz narzędzia
+Y: Opisz słowami zapach trzech rzeczy w domu i poproś kogoś, żeby zgadywał, co to jest.
+
+@207
+H: Kontrolujesz i konserwujesz urządzenia, w których powstaje proszek mydlany. Pilnujesz parametrów przepływu oleju, powietrza, substancji zapachowych i pary.
+T: Kontrolujesz pracę urządzeń do proszku | Pilnujesz przepływu oleju, powietrza i pary | Dozujesz substancje zapachowe | Konserwujesz jednostki robocze
+D: 6:00 Zaczynasz od obchodu jednostek roboczych | 8:30 Sprawdzasz przepływ powietrza i pary | 11:00 Zgłaszasz odchylenie przepływu oleju technikowi | 14:00 Zapisujesz parametry zmiany w dzienniku
+Y: Porównaj w dotyku i wyglądzie sól, cukier i mąkę i zapisz trzy różnice.
+
+@208
+H: Dozorujesz maszyny, które wytwarzają kosmetyki. Ustawiasz je, czyścisz i pracujesz według harmonogramu produkcji.
+T: Ustawiasz maszyny i narzędzia do serii | Czyścisz urządzenia do produkcji kosmetyków | Konserwujesz maszyny po zakończeniu pracy | Realizujesz plan harmonogramu produkcji
+D: 6:30 Odczytujesz harmonogram i przygotowujesz maszynę | 8:00 Maszyna pracuje, a ty dozorujesz serię kosmetyków | 11:00 Zmieniasz ustawienia na kolejny produkt | 14:00 Dokładnie czyścisz urządzenia po serii
+Y: Odczytaj z opakowania kremu datę ważności i numer partii i wyjaśnij, po co te oznaczenia.
+
+@209
+H: Obsługujesz urządzenia, które chemicznie przetwarzają włókniny nietkane, czyli materiał niepowstający z tkania nici. Taki materiał znajdziesz na przykład w chusteczkach.
+T: Obsługujesz linię do włóknin nietkanych | Kontrolujesz obróbkę chemiczną materiału | Odbierasz gotowy materiał z linii | Sprawdzasz wygląd gotowej włókniny
+D: 6:00 Sprawdzasz, jaki materiał idzie dziś na linię | 8:00 Uruchamiasz obróbkę chemiczną włókniny | 11:00 Oglądasz materiał pod kątem plam i dziur | 14:00 Zapisujesz, ile materiału wyszło z linii
+Y: Porównaj z bliska ścierkę z tkaniny i jednorazową chusteczkę z włókniny i opisz różnice.
+

@@ -1,0 +1,180 @@
+@480
+H: Kierujesz codziennym działaniem portu: pilnujesz, żeby statki cumowały zgodnie z przepisami, a teren był uporządkowany. Dbasz też o to, żeby port zarabiał i żeby firmy żeglugowe chciały z niego korzystać.
+T: Egzekwujesz przepisy cumowania i przeładunku | Kontrolujesz porządek na nabrzeżach i w budynkach | Przekazujesz dokumenty o opłatach do księgowości | Doradzasz władzom portu w sprawie stawek
+D: 7:00 Obchód nabrzeży, sprawdzasz porządek i sprzątanie | 9:30 Ustalasz, gdzie zacumuje statek, który właśnie wpływa | 12:00 Rozmawiasz z przedstawicielem firmy żeglugowej o opłatach | 14:30 Wysyłasz zestawienie opłat portowych do księgowości
+Y: Narysuj prosty plan małego portu z trzema nabrzeżami i zdecyduj, który statek gdzie zacumuje.
+
+@481
+H: Pilnujesz, co leży w magazynie i ile tego jest, żeby towary trafiały do sklepów, hurtowni i klientów. Duża część pracy to liczenie i dokumenty, nie samo noszenie.
+T: Prowadzisz ewidencję towarów na regałach | Kontrolujesz stany magazynowe | Wypełniasz dokumenty przyjęcia i wydania | Liczysz towar podczas inwentaryzacji
+D: 6:00 Przyjmujesz dostawę i porównujesz ją z dokumentem | 9:00 Wpisujesz do ewidencji, co trafiło na regały | 11:30 Przygotowujesz towar do wysyłki do sklepu | 14:00 Liczysz zapasy jednej alejki i sprawdzasz braki
+Y: Zrób spis zawartości jednej szuflady: nazwa przedmiotu i ilość, potem zsumuj wszystko.
+
+@482
+H: Przyjmujesz surowce do produkcji i dbasz, żeby leżały w wymaganych warunkach. Patrzysz, ile ich zostało, żeby produkcja nie stanęła.
+T: Odbierasz dostawy surowców od kierowców | Układasz surowce w odpowiednich warunkach | Monitorujesz poziom zapasów | Zgłaszasz, kiedy trzeba domówić surowiec
+D: 6:30 Rozładunek palet z surowcem na rampie | 8:30 Sprawdzasz temperaturę i wilgotność w hali magazynowej | 11:00 Wydajesz surowiec na linię produkcyjną | 13:00 Liczysz zapasy i zgłaszasz brak
+Y: Sprawdź, ile masz zeszytów, długopisów i ołówków, i zapisz, co trzeba będzie dokupić.
+
+@483
+H: Pilnujesz magazynu materiałów i części, z których powstają buty. Odpowiadasz za to, żeby produkcja miała wszystko pod ręką w odpowiednim momencie.
+T: Klasyfikujesz i rejestrujesz kupione komponenty | Prognozujesz, ile materiałów trzeba zamówić | Wydajesz komponenty do działów produkcji | Pilnujesz, by niczego nie zabrakło na linii
+D: 7:00 Sprawdzasz, jakie komponenty do butów przyjechały | 9:00 Rejestrujesz podeszwy i cholewki w systemie magazynowym | 11:30 Dział szycia prosi o dodatkową partię materiałów | 14:00 Planujesz zamówienie na przyszły tydzień
+Y: Obejrzyj swoje buty i wypisz, z jakich części się składają, na przykład podeszwa, wkładka, sznurowadła.
+
+@484
+H: Odpowiadasz za magazyn skór i innych materiałów, z których powstają wyroby skórzane. Rejestrujesz je, rozdzielasz do działów i pilnujesz, żeby produkcja nie czekała na materiał.
+T: Przyjmujesz i rejestrujesz skóry oraz dodatki | Sortujesz materiały według rodzaju | Rozdzielasz materiały do departamentów | Planujesz zakupy na podstawie zużycia
+D: 7:30 Odbierasz dostawę skór i sprawdzasz ją z listą | 9:30 Układasz skóry w magazynie według rodzaju | 12:00 Dział produkcji odbiera materiał na partię portfeli | 14:30 Zapisujesz zużycie i przygotowujesz prognozę zakupów
+Y: Znajdź w domu trzy rzeczy ze skóry i opisz, czym różnią się w dotyku.
+
+@485
+H: Przyjmujesz dostawy zbóż, ziemniaków i podobnych surowców do zakładu przetwórczego i sprawdzasz, czy mają odpowiednią jakość i ilość. Potem rozdzielasz je do kolejnych części zakładu.
+T: Oceniasz jakość surowca specjalnym sprzętem | Sprawdzasz ilość przywiezionego towaru | Obsługujesz i konserwujesz sprzęt przyjęć | Kierujesz surowiec do różnych jednostek zakładu
+D: 6:00 Na rampie czeka pierwszy samochód ze zbożem | 7:00 Pobierasz próbkę i oceniasz ją na sprzęcie | 10:30 Odrzucasz partię, która nie spełnia wymagań | 13:00 Czyścisz i sprawdzasz sprzęt do oceny
+Y: Weź garść ryżu lub kaszy, przejrzyj ją na talerzu i policz ziarna uszkodzone lub obce.
+
+@486
+H: Pilnujesz magazynu tkanin, guzików, zamków i innych elementów, z których szyje się ubrania. Dbasz o to, żeby produkcja dostała właściwy materiał na czas.
+T: Rejestrujesz rolki tkanin i akcesoria | Klasyfikujesz komponenty według rodzaju i koloru | Prognozujesz zakupy materiałów | Wydajesz tkaniny do działów produkcji
+D: 7:00 Rozpakowujesz dostawę rolek tkaniny z ciężarówki | 9:00 Opisujesz każdą rolkę i wpisujesz ją do ewidencji | 11:30 Dział krojenia prosi o materiał na nową kolekcję | 14:00 Liczysz guziki i zamki, planujesz zamówienie
+Y: Obejrzyj metkę w jednej ze swoich koszulek i zapisz, z jakiego materiału jest zrobiona.
+
+@487
+H: Układasz plan produkcji maszyn: co, kiedy i z jakich części ma powstać. Pilnujesz, żeby poszczególne zespoły i materiały dotarły na czas.
+T: Układasz harmonogram produkcji maszyn | Sprawdzasz, czy zespoły i materiały są na czas | Monitorujesz przebieg całego procesu produkcji | Zmieniasz plan, gdy coś się opóźnia
+D: 7:30 Przeglądasz, co udało się wyprodukować w nocy | 9:30 Dzwonisz do dostawcy, bo część się spóźnia | 11:30 Przestawiasz kolejność zleceń na hali | 14:00 Spotkanie z kierownikiem produkcji o terminach
+Y: Zaplanuj na kartce, co zrobisz jutro godzina po godzinie, i zaznacz rzecz, która może się opóźnić.
+
+@488
+H: Uczysz innych latać: tłumaczysz teorię i siedzisz obok ucznia w kabinie. Oceniasz jego technikę i pilnujesz, żeby stosował przepisy i procedury bezpieczeństwa.
+T: Tłumaczysz uczniom teorię lotu i przepisy | Pokazujesz w powietrzu prawidłową technikę | Obserwujesz i oceniasz loty ucznia | Uczysz procedur bezpieczeństwa dla różnych samolotów
+D: 8:00 Odprawa przed lotem, omawiasz plan lekcji z uczniem | 9:00 Lot szkoleniowy, uczeń ćwiczy podejście do lądowania | 12:00 Omówienie lotu i uwagi do techniki ucznia | 15:00 Zajęcia teoretyczne z przepisów dla grupy
+Y: Złóż papierowy samolot, rzuć go pięć razy i zapisz, co zmienić, żeby leciał dalej.
+
+@489
+H: Siedzisz w kabinie obok pilotów i pilnujesz systemów samolotu lub śmigłowca podczas całego lotu. Przed lotem i po nim sprawdzasz maszynę i robisz drobne regulacje.
+T: Monitorujesz systemy statku powietrznego w locie | Sprawdzasz ilość paliwa i obroty silnika | Kontrolujesz rozmieszczenie pasażerów i ładunku | Wykonujesz drobne regulacje i naprawy
+D: 6:00 Inspekcja maszyny przed lotem, lista kontrolna w ręku | 7:30 Start, pilnujesz parametrów silnika i paliwa | 10:00 W trakcie lotu zgłaszasz pilotom odczyty przyrządów | 13:00 Po lądowaniu sprawdzasz maszynę i notujesz uwagi
+Y: Zrób listę kontrolną dziesięciu punktów, które sprawdzasz przed wyjściem z domu, i przejdź po niej.
+
+@490
+H: Latasz jako drugi pilot: wspierasz kapitana, obsługujesz radio i pilnujesz przyrządów oraz ruchu w powietrzu. Gdy trzeba, przejmujesz stery.
+T: Monitorujesz przyrządy lotnicze w kabinie | Prowadzisz łączność radiową z kontrolą | Obserwujesz inny ruch w powietrzu | Zastępujesz kapitana przy sterach
+D: 5:30 Odprawa z kapitanem, czytacie plan lotu i pogodę | 7:00 Prowadzisz korespondencję radiową przy kołowaniu | 9:00 Na trasie sprawdzasz przyrządy i ruch w powietrzu | 12:30 Podchodzisz do lądowania według procedur, kapitan nadzoruje
+Y: Naucz się alfabetu fonetycznego używanego w łączności radiowej i przeliteruj nim swoje imię.
+
+@491
+H: Prowadzisz duży samolot pasażerski lub towarowy i odpowiadasz za bezpieczeństwo załogi i pasażerów. Dużo czasu spędzasz w podróży, a godziny pracy zmieniają się z tygodnia na tydzień.
+T: Planujesz trasę i zapas paliwa | Prowadzisz duży samolot na długich trasach | Dowodzisz załogą od odprawy do lądowania | Decydujesz, gdy pojawia się usterka lub zła pogoda
+D: 4:30 Odprawa z załogą, omawiacie trasę i pogodę | 6:00 Sprawdzasz paliwo i dokumenty, potem kołujesz do startu | 8:30 Nad chmurami pilnujesz trasy i przyrządów | 13:00 Lądowanie, krótka kontrola maszyny, wpis do dokumentów
+Y: Wybierz na mapie dwa miasta i oblicz, ile trwałby lot samolotem lecącym 800 km/h.
+
+@492
+H: Nawigujesz samolotem, także wielosilnikowym, przewożąc pasażerów albo ładunek. Przed każdym lotem sprawdzasz maszynę i prowadzisz ją od startu do lądowania.
+T: Prowadzisz samolot wielosilnikowy od startu do lądowania | Nawigujesz według mapy i przyrządów | Sprawdzasz maszynę przed każdym lotem | Rozmieszczasz ładunek tak, by samolot był wyważony
+D: 6:30 Przeglądasz samolot przed pierwszym lotem dnia | 8:00 Lecisz z kilkoma pasażerami do innego miasta | 11:00 Na lotnisku przyjmujesz ładunek i sprawdzasz jego ciężar | 15:00 Lot powrotny, nawigujesz według mapy i przyrządów
+Y: Narysuj na mapie trasę lotu między dwoma miastami i zapisz trzy punkty, które miniesz po drodze.
+
+@493
+H: Latasz helikopterem i przewozisz ludzi albo ładunki z miejsca na miejsce, także tam, gdzie samolot nie wyląduje. Przed każdym lotem dokładnie sprawdzasz maszynę.
+T: Planujesz lot na mapach lotniczych | Sprawdzasz śmigłowiec według listy kontrolnej | Szukasz wycieków płynów i usterek sterowania | Przewozisz pasażerów i ładunki
+D: 7:00 Oglądasz śmigłowiec z listą kontrolną w ręku | 8:30 Planujesz trasę na mapie i sprawdzasz paliwo | 10:00 Startujesz z pasażerami do odległego miejsca | 14:00 Przewozisz ładunek, lądujesz na małym placu
+Y: Rozrysuj trasę helikoptera przez trzy miejsca w okolicy i zapisz, co sprawdzisz przed startem.
+
+@494
+H: Latasz małym samolotem rekreacyjnym z kilkoma miejscami, dla przyjemności albo wożąc prywatnie pasażerów. Maszyna jest prostsza niż liniowiec, ale za lot odpowiadasz tak samo.
+T: Latasz małym samolotem o ograniczonej mocy | Planujesz lot na wybranej trasie | Zapewniasz prywatny transport osobowy | Sprawdzasz maszynę przed każdym startem
+D: 8:00 Oglądasz mały samolot w hangarze przed lotem | 9:30 Sprawdzasz pogodę i zgłaszasz plan lotu | 10:30 Lecisz z jednym pasażerem na małe lotnisko | 15:00 Wracasz, parkujesz samolot i uzupełniasz dziennik
+Y: Zajrzyj do prognozy pogody i zdecyduj, czy jutro lot małym samolotem miałby sens, uzasadnij w dwóch zdaniach.
+
+@495
+H: Lecisz w kosmos i pracujesz na orbicie okołoziemskiej, prowadząc badania i eksperymenty. Zajmujesz się też wypuszczaniem satelitów i budową stacji kosmicznych.
+T: Przeprowadzasz eksperymenty naukowe na orbicie | Wypuszczasz satelity ze statku | Budujesz elementy stacji kosmicznej | Przygotowujesz się do misji latami na Ziemi
+D: 6:00 Poranny przegląd planu dnia z centrum kontroli | 8:00 Wykonujesz eksperyment i zapisujesz wyniki | 13:00 Ćwiczysz fizycznie, bo w nieważkości słabną mięśnie | 16:00 Montujesz element stacji lub naprawiasz sprzęt
+Y: Wymyśl prosty eksperyment dla nieważkości i zapisz, co chcesz w nim zmierzyć.
+
+@496
+H: Sprawdzasz samolot przed startem i po lądowaniu, szukając wycieków i usterek instalacji. Robisz też drobne naprawy i regulacje, żeby maszyna była gotowa do bezpiecznego lotu.
+T: Oglądasz samolot przed startem | Szukasz wycieków oleju i usterek instalacji | Wykonujesz regulacje i małe naprawy | Sprawdzasz paliwo i wyważenie ładunku
+D: 5:30 Pierwszy obchód samolotu po nocnym postoju | 7:00 Znajdujesz kropelki oleju i szukasz ich źródła | 11:00 Wymieniasz zużytą część w układzie hydraulicznym | 15:00 Po lądowaniu oglądasz maszynę i wpisujesz uwagi
+Y: Obejrzyj dokładnie swój plecak, jak mechanik przed lotem, i zapisz trzy usterki lub zużyte miejsca.
+
+@497
+H: Pracujesz z informacjami lotniczymi: sprawdzasz, co zmieniło się na lotniskach, trasach i w przepisach, i aktualizujesz mapy lotnicze. Odpowiadasz też na prośby o dane od linii i systemów lotniczych.
+T: Oceniasz zmiany w informacjach lotniczych | Aktualizujesz mapy i inne produkty lotnicze | Odpowiadasz na wnioski o dane lotnicze | Wspierasz starszych specjalistów informacji lotniczej
+D: 7:30 Czytasz nowe zawiadomienia o zmianach na lotniskach | 9:30 Sprawdzasz, które mapy trzeba zaktualizować | 11:30 Linia lotnicza prosi o aktualne dane trasy | 14:00 Omawiasz zmianę z doświadczonym specjalistą
+Y: Porównaj dwie mapy tej samej okolicy z różnych lat i wypisz trzy zmiany.
+
+@498
+H: Prowadzisz samoloty w powietrzu głosem: podajesz pilotom kurs, wysokość i prędkość, żeby nic się nie zderzyło. Decydujesz, kto startuje, kto ląduje i w jakiej kolejności.
+T: Podajesz pilotom wysokość, prędkość i kurs | Zezwalasz na starty i lądowania | Pilnujesz odstępów między samolotami | Układasz kolejność, żeby ograniczyć opóźnienia
+D: 6:00 Zmiana się zaczyna, przejmujesz sektor od kolegi | 8:00 Kilkanaście samolotów jednocześnie, rozdzielasz im wysokości | 10:00 Krótka przerwa, potem znowu skupienie na ekranie | 13:00 Zagęszczony ruch, zmieniasz kolejność lądowań
+Y: Ustaw na stole pięć drobnych przedmiotów jako samoloty i przesuń je na przeciwne strony bez zderzeń.
+
+@499
+H: Przez całą zmianę nadzorujesz, co dzieje się na dużym lotnisku, żeby samoloty bezpiecznie startowały i lądowały. Reagujesz, gdy coś odbiega od normy.
+T: Monitorujesz działania operacyjne na lotnisku | Kontrolujesz stan pasa startowego i płyty | Reagujesz na zdarzenia zakłócające ruch samolotów | Pilnujesz bezpiecznych startów i lądowań
+D: 6:00 Przejmujesz zmianę i czytasz raport z nocy | 8:00 Sprawdzasz stan pasa startowego i oświetlenia | 11:00 Samolot ma problem, koordynujesz służby na płycie | 14:00 Opisujesz wydarzenia zmiany w dzienniku
+Y: Narysuj plan lotniska z jednym pasem, terminalem i parkingiem samolotów i zaznacz drogę kołowania.
+
+@500
+H: Pilnujesz, żeby informacje lotnicze trafiające do pilotów i agencji były wiarygodne i aktualne. Od nich zależy bezpieczeństwo i regularność lotów.
+T: Sprawdzasz wiarygodność informacji lotniczych | Porównujesz dane z różnych agencji | Przekazujesz aktualne komunikaty dalej | Pilnujesz, by informacje nie były spóźnione
+D: 7:00 Odbierasz nowe komunikaty z lotnisk i agencji | 9:00 Porównujesz dwa źródła, jedno podaje inną godzinę | 11:30 Rozsyłasz poprawiony komunikat do zainteresowanych | 14:00 Zapisujesz w dzienniku, co i kiedy przekazano
+Y: Sprawdź w dwóch źródłach godzinę zachodu słońca w swojej miejscowości i zanotuj, czy się zgadzają.
+
+@501
+H: Kontrolujesz, czy obsługa techniczna, urządzenia nawigacyjne, kontrola ruchu i łączność działają zgodnie z normami. Sprawdzasz procedury i dokumenty i opisujesz, co trzeba poprawić.
+T: Kontrolujesz procedury obsługi technicznej | Sprawdzasz urządzenia nawigacji i łączności | Porównujesz praktykę z normami międzynarodowymi | Opisujesz uwagi i zalecenia po kontroli
+D: 8:00 Przyjeżdżasz na lotnisko z listą kontrolną | 9:30 Oglądasz, jak mechanicy wykonują przegląd według procedury | 12:00 Przeglądasz dokumenty obsługi i szukasz niezgodności | 15:00 Piszesz raport z uwagami dla zarządu lotniska
+Y: Spisz w pięciu krokach, jak zawiązać buty, i sprawdź, czy ktoś w domu poradzi sobie tylko z tą listą.
+
+@502
+H: Zbierasz dane o lotach: godziny przylotów i odlotów, ilość paliwa i dopuszczalny ciężar samolotu. Dzięki temu ruch między lotniskami przebiega sprawniej.
+T: Zbierasz planowe godziny przylotów i odlotów | Wyliczasz potrzebną ilość paliwa na lot | Sprawdzasz maksymalny ciężar startowy i lądowania | Zestawiasz informacje o lotach w jeden komplet
+D: 6:00 Zbierasz dane o dzisiejszych lotach na trasach | 8:00 Obliczasz paliwo i ciężar dla jednego rejsu | 10:30 Samolot się opóźnia, aktualizujesz godziny przylotu | 13:00 Przekazujesz gotowe zestawienie osobom zajmującym się lotem
+Y: Rozpisz poranek przed szkołą na etapy z godzinami i policz, ile minut zapasu zostaje.
+
+@503
+H: Dowodzisz statkiem przewożącym towary lub pasażerów po morzu i odpowiadasz za statek, ładunek i ludzi na pokładzie. Na takie stanowisko dochodzi się latami, przechodząc kolejne stopnie na statku.
+T: Dowodzisz statkiem na morzu i wodach przybrzeżnych | Kierujesz pracą załogi | Odpowiadasz za ładunek i bezpieczeństwo pasażerów | Podejmujesz decyzje o kursie i manewrach
+D: 6:00 Na mostku sprawdzasz pogodę i pozycję statku | 9:00 Odprawa z oficerami, ustalacie plan dnia | 14:00 Wpływasz do portu, wydajesz polecenia załodze | 22:00 Nocą sprawdzasz wachtę i dziennik pokładowy
+Y: Zapisz pięć rzeczy, które trzeba sprawdzić przed wypłynięciem statku w rejs.
+
+@504
+H: Dowodzisz statkiem na rzece lub kanale i odpowiadasz za załogę, pasażerów lub ładunek. Masz licencję i na pokładzie to ty podejmujesz ostateczne decyzje.
+T: Prowadzisz statek po rzekach i kanałach | Wydajesz polecenia załodze podczas manewrów | Odpowiadasz za ładunek lub pasażerów | Planujesz podróż i pilnujesz bezpieczeństwa
+D: 7:00 Odprawa załogi i kontrola silnika przed rejsem | 8:30 Odbijasz od nabrzeża, na rzece pełno barek | 12:00 Mijasz inny statek i ustalasz przejazd przez radio | 16:00 Dobijasz do portu i zamykasz dziennik rejsu
+Y: Znajdź na mapie rzekę w okolicy i wypisz trzy miejsca, które minąłby statek.
+
+@505
+H: Pełnisz wachty na mostku: wyznaczasz kurs i prędkość, pilnujesz pozycji statku na mapie i omijasz zagrożenia. Prowadzisz dzienniki, nadzorujesz załadunek i załogę zajmującą się utrzymaniem statku.
+T: Wyznaczasz kurs i prędkość statku | Śledzisz pozycję statku na mapach | Prowadzisz dziennik i rejestry ruchu | Nadzorujesz załadunek i rozładunek towarów
+D: 4:00 Zaczynasz nocną wachtę, patrzysz na radar i mapę | 8:00 Kończysz wachtę i wpisujesz kurs do dziennika | 14:00 Nadzorujesz załadunek, pilnujesz mocowania towaru | 16:00 Druga wachta, mijacie zatłoczony szlak
+Y: Narysuj na mapie linię trasy między dwoma portami i zapisz, w którą stronę świata płynie statek.
+
+@506
+H: Wchodzisz na pokład cudzego statku i prowadzisz go przez trudne wody: port, ujście rzeki, zatłoczony tor. Znasz lokalne drogi wodne lepiej niż załoga, która tam dopiero przypłynęła.
+T: Prowadzisz statki przez zatłoczone wody | Korzystasz ze szczegółowej wiedzy o lokalnych drogach wodnych | Komunikujesz się z kapitanem i załogą | Manewrujesz statkiem w wąskich miejscach portu
+D: 5:30 Dostajesz wezwanie do statku wpływającego do portu | 6:30 Na mostku ustalasz z kapitanem sposób wejścia | 8:00 Prowadzisz statek między boje i nabrzeża | 11:00 Kończysz zadanie i czekasz na kolejny statek
+Y: Opisz słowami drogę z domu do szkoły tak dokładnie, żeby obca osoba trafiła bez mapy.
+
+@507
+H: Masz najwyższą rangę wśród załogi na poziomie operacyjnym na statku śródlądowym. Sterujesz statkiem, cumujesz i odcumowujesz, pilnujesz pokładu i silnika.
+T: Sterujesz statkiem na śródlądowej drodze wodnej | Cumujesz i odcumowujesz statek | Utrzymujesz w porządku strefy pokładu | Sprawdzasz silnik i inne wyposażenie
+D: 6:00 Sprawdzasz silnik i poziom oleju przed rejsem | 7:00 Odcumowujesz statek i bierzesz ster | 11:00 Pokład wymaga mycia i sprawdzenia lin | 17:00 Cumujesz do nabrzeża na nocleg
+Y: Naucz się zawiązać na sznurku dwa różne węzły i sprawdź, który łatwiej się rozwiązuje po szarpnięciu.
+
+@508
+H: Pracujesz w maszynowni statku i pomagasz oficerowi mechanikowi oraz mechanikowi wachtowemu w pracach w kadłubie. Pilnujesz działania silników, steru i wytwarzania energii oraz przepisów bezpieczeństwa.
+T: Pomagasz przy pracach w kadłubie statku | Wspierasz pracę głównych silników i steru | Pilnujesz wytwarzania energii elektrycznej na statku | Komunikujesz się z inżynierami morskimi
+D: 8:00 Przejmujesz wachtę i czytasz zapiski poprzedników | 9:30 Obchód silników, słuchasz, czy pracują równo | 12:30 Razem z mechanikiem wymieniasz element mechanizmu steru | 16:00 Omawiasz z inżynierem listę prac technicznych
+Y: Obejrzyj mechanizm zamka lub zawiasów w domu i opisz, jakie ruchome części widzisz.
+
+@509
+H: Konserwujesz i naprawiasz urządzenia, które chłodzą i przechowują ryby na statku rybackim. Gdy chłodzenie przestaje działać, cały połów może się zepsuć.
+T: Konserwujesz instalację chłodzenia ryb | Naprawiasz maszyny do przechowywania połowu | Kontrolujesz temperaturę w pomieszczeniach z rybami | Reagujesz na awarię, zanim ryby się zepsują
+D: 5:00 Przed wypłynięciem sprawdzasz instalację chłodniczą | 9:00 Pierwszy połów trafia do chłodzenia, kontrolujesz temperaturę | 13:00 Urządzenie przestaje chłodzić, szukasz usterki | 18:00 Spisujesz stan maszyn i plan napraw
+Y: Połóż po kostce lodu w cieniu i na słońcu i porównaj, w którym miejscu topnieje wolniej.
+

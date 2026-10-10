@@ -1,0 +1,180 @@
+@1470
+H: Dbasz o to, żeby systemy komputerowe w szpitalu czy przychodni działały i naprawdę ułatwiały pracę lekarzom oraz pielęgniarkom. Szukasz też sposobów, by dzięki danym leczenie było sprawniejsze.
+T: Nadzorujesz działanie systemów z dokumentacją pacjentów | Rozmawiasz z lekarzami o tym, co im przeszkadza | Planujesz wdrożenia nowych rozwiązań | Analizujesz dane, by poprawić opiekę nad pacjentami
+D: 7:30 Rano awaria systemu rejestracji, zwołujesz informatyków | 9:30 Spotkanie z lekarzami o nowym module dokumentacji | 12:00 Sprawdzasz raporty z działania systemów szpitala | 15:00 Planujesz szkolenie personelu z nowego programu
+Y: Zapisz na kartce, jakie informacje powinna zawierać karta wizyty u lekarza, i ułóż je w sensownej kolejności.
+
+@1471
+H: Zarządzasz szpitalem, hospicjum albo domem opieki i pilnujesz, żeby nie brakowało personelu, sprzętu ani porządku w dokumentach. Odpowiadasz za to, by pacjenci i mieszkańcy dostali dobrą opiekę.
+T: Układasz grafik i pilnujesz obsady personelu | Sprawdzasz, czy sprzęt jest sprawny i uzupełniony | Kontrolujesz dokumentację i wymagane rejestry | Rozmawiasz z pacjentami, rodzinami i pracownikami
+D: 7:30 Odprawa z oddziałami, kto jest na zmianie | 10:00 Brakuje sprzętu na oddziale, szukasz rozwiązania | 12:30 Rozmowa z rodziną pacjenta, która składa skargę | 15:00 Przeglądasz rejestry przed kontrolą urzędu
+Y: Narysuj plan jednego dnia domu opieki dla seniorów: pobudka, posiłki, leki, odpoczynek, odwiedziny.
+
+@1472
+H: Zajmujesz się jedną dziedziną medycyny, na przykład sercem, skórą albo chirurgią, i w niej rozpoznajesz oraz leczysz choroby. Decydujesz, jakie badania zlecić i jak prowadzić leczenie.
+T: Przyjmujesz pacjentów i zbierasz wywiad | Zlecasz badania i oceniasz ich wyniki | Ustalasz rozpoznanie i plan leczenia | Wykonujesz zabiegi albo konsultujesz przypadki z innymi lekarzami
+D: 7:30 Obchód na oddziale, sprawdzasz wyniki pacjentów | 9:00 Przyjęcia w poradni, jeden pacjent po drugim | 13:00 Konsultacja trudnego przypadku z innym specjalistą | 20:00 Dyżur, wzywają cię na izbę przyjęć
+Y: Wybierz jeden narząd, na przykład serce, i opisz, jak działa i co może się w nim zepsuć.
+
+@1473
+H: Wspierasz położne i kobiety w ciąży, podczas porodu i w pierwszych dniach po nim. Pomagasz przy narodzinach i przy opiece nad noworodkiem.
+T: Pomagasz położnej przy porodzie | Przygotowujesz salę i potrzebny sprzęt | Wspierasz rodzącą rozmową i obecnością | Pomagasz przy karmieniu i pielęgnacji noworodka
+D: 6:30 Przejmujesz salę porodową i sprawdzasz zapasy | 9:00 Towarzyszysz rodzącej, podajesz wodę, uspokajasz | 13:00 Pomagasz położnej przy narodzinach dziecka | 16:00 Pokazujesz mamie, jak przystawić noworodka do piersi
+Y: Owiń pluszaka ręcznikiem jak noworodka i przećwicz trzymanie go z podparciem główki i szyi.
+
+@1474
+H: Dobierasz zioła, które mają łagodzić dolegliwości, takie jak alergie czy skutki stresu, i układasz plan dla każdego pacjenta. Wiesz też, kiedy trzeba odesłać do lekarza.
+T: Pytasz pacjenta o objawy i styl życia | Badasz właściwości i działanie roślin | Układasz indywidualny plan stosowania ziół | Sprawdzasz, jak pacjent reaguje na terapię
+D: 9:00 Pierwsza wizyta, długi wywiad o objawach | 11:00 Czytasz o działaniu ziół na alergie | 13:30 Komponujesz mieszankę ziół dla konkretnego pacjenta | 16:00 Wizyta kontrolna, zmieniasz plan po rozmowie
+Y: Wybierz jedną roślinę z kuchni lub ogrodu, na przykład miętę, i wypisz, do czego jest tradycyjnie używana.
+
+@1475
+H: Zajmujesz się stopami: usuwasz odciski i modzele, pomagasz przy wrastających paznokciach i dobierasz wkładki. Przy poważnych zmianach odsyłasz do lekarza.
+T: Usuwasz odciski i modzele | Pomagasz przy wrastających paznokciach | Oglądasz stopy i oceniasz ich stan | Dobierasz wkładki do butów
+D: 8:30 Pierwszy klient z bolesnym odciskiem | 10:30 Opatrujesz wrastający paznokieć u klienta | 13:00 Dobierasz wkładki osobie z płaskostopiem | 16:00 Dziwna zmiana na skórze, odsyłasz do lekarza
+Y: Obejrzyj swoje stopy od spodu i zapisz, gdzie skóra jest zgrubiała lub zaczerwieniona od butów.
+
+@1476
+H: Szkolisz psy, które będą prowadzić osoby niewidome, i dobierasz każdego psa do konkretnego człowieka. Uczysz też klientów, jak z takim psem się poruszać.
+T: Uczysz psa komend i omijania przeszkód | Planujesz etapy szkolenia kolejnych psów | Dobierasz psa do klienta i jego tempa | Pokazujesz niewidomej osobie, jak pracować z psem
+D: 7:00 Karmisz psy i sprawdzasz, czy są zdrowe | 9:00 Trening na mieście, pies omija przeszkody | 13:00 Poznajesz klienta i oceniasz, który pies pasuje | 15:30 Uczysz klienta komend i prowadzenia psa
+Y: Wymyśl pięć krótkich, wyraźnych komend dla psa przewodnika i zapisz, czym powinny się różnić brzmieniem.
+
+@1477
+H: Uczysz konie posłuszeństwa, spokoju wśród ludzi i konkretnych zadań, a czasem też jeźdźców, jak z koniem pracować. Dbasz o bezpieczeństwo konia i człowieka.
+T: Ćwiczysz konia z ziemi i w siodle | Uczysz konia spokojnie znosić transport | Prowadzisz lekcje dla jeźdźców | Przygotowujesz konia do zawodów lub pokazów
+D: 6:30 Karmisz konie i sprawdzasz, czy nie kuleją | 8:00 Trening młodego konia na ujeżdżalni | 13:00 Lekcja z jeźdźcem, który boi się galopu | 16:30 Uczysz konia spokojnie wchodzić do przyczepy
+Y: Obejrzyj w sieci film z koniem i zapisz trzy sygnały jego mowy ciała, na przykład ustawienie uszu.
+
+@1478
+H: Uczysz psy komend, a właścicieli tego, jak z nimi pracować na co dzień. Dużo czasu spędzasz na tłumaczeniu ludziom, jak mówić do psa, bo to oni muszą ćwiczyć w domu.
+T: Uczysz psa siadu, zostania i przywołania | Pokazujesz właścicielowi, jak nagradzać psa | Rozwiązujesz problemy, na przykład ciągnięcie na smyczy | Przygotowujesz psy do pracy lub zawodów
+D: 8:00 Indywidualna lekcja ze szczeniakiem i jego właścicielem | 11:00 Pies szczeka na obcych, szukasz przyczyny | 15:00 Grupowa lekcja posłuszeństwa na placu | 18:00 Wieczorna grupa, właściciele ćwiczą przywołanie
+Y: Zaplanuj w trzech krokach naukę komendy siad: co robisz, kiedy nagradzasz i kiedy kończysz ćwiczenie.
+
+@1479
+H: Na co dzień zajmujesz się zwierzętami i prowadzisz ich dalsze szkolenie, żeby były bezpieczne i potrafiły to, czego wymaga ich praca. Opieka i trening idą tu w parze.
+T: Karmisz zwierzęta i sprawdzasz ich kondycję | Powtarzasz z nimi wyuczone zachowania | Uczysz nowych poleceń nagrodami | Zapisujesz postępy i niepokojące objawy
+D: 7:00 Karmisz zwierzęta i obchodzisz wszystkie pomieszczenia | 9:30 Sesja treningowa z jednym zwierzęciem, powtórki poleceń | 13:00 Czyścisz boksy i wymieniasz wodę | 16:00 Zapisujesz w dzienniku, co poszło dobrze
+Y: Przez kwadrans obserwuj domowe zwierzę lub nagranie zwierzęcia i zapisz, jak zachowuje się przed jedzeniem i po nim.
+
+@1480
+H: Uczysz zwierzęta zachowań potrzebnych w pokazach, rozrywce czy edukacji, krok po kroku i nagradzając dobre ruchy. Pracujesz też z opiekunami, którzy muszą te umiejętności utrzymać.
+T: Rozkładasz trudną sztuczkę na małe kroki | Nagradzasz zwierzę za każdy dobry ruch | Ćwiczysz występ z muzyką i publicznością | Uczysz opiekuna, jak utrzymać wyuczone zachowania
+D: 8:00 Krótka lekcja ze zwierzęciem, jedna sztuczka | 10:30 Rozpisujesz plan nauki nowego występu | 14:00 Próba generalna przed pokazem | 17:00 Pokaz dla publiczności, pilnujesz zwierzęcia
+Y: Rozpisz na pięć małych kroków, jak nauczyć zwierzę podawania łapy, i zaznacz, kiedy daje się nagrodę.
+
+@1481
+H: Opiekujesz się zwierzętami żyjącymi w niewoli, na przykład w ogrodzie zoologicznym lub ośrodku ochrony: karmisz je, myjesz i pilnujesz ich zdrowia. Czasem opowiadasz o nich zwiedzającym.
+T: Przygotowujesz karmę i karmisz zwierzęta | Myjesz zwierzęta i ich wybiegi | Zauważasz i zgłaszasz objawy choroby | Odpowiadasz na pytania zwiedzających
+D: 6:30 Przygotowanie karmy dla różnych gatunków | 8:30 Sprzątanie wybiegu, obserwujesz zachowanie zwierząt | 12:00 Prowadzisz pokaz karmienia dla zwiedzających | 15:30 Notujesz w dzienniku, że jedno zwierzę kuleje
+Y: Wybierz zwierzę z ogrodu zoologicznego i wypisz, czym się żywi w naturze i jak to odtworzyć w niewoli.
+
+@1482
+H: Zajmujesz się pielęgnacją i codzienną opieką nad różnymi zwierzętami, używając odpowiednich narzędzi i bezpiecznych sposobów obchodzenia się z nimi. Pilnujesz higieny i dobrego samopoczucia podopiecznych.
+T: Czeszesz i myjesz zwierzęta | Dobierasz właściwe narzędzia do pielęgnacji | Bezpiecznie podnosisz i przytrzymujesz zwierzęta | Czyścisz miejsca, gdzie zwierzęta mieszkają
+D: 7:30 Wymiana wody i karmienie wszystkich podopiecznych | 9:00 Kąpiel i czesanie kudłatego psa | 12:30 Kontrola, czy zwierzęta nie mają skaleczeń | 15:00 Sprzątasz klatki i uzupełniasz legowiska
+Y: Sprawdź w internecie, jak bezpiecznie podnosi się małe zwierzę, i zapisz trzy zasady własnymi słowami.
+
+@1483
+H: Codziennie dbasz o zwierzęta niegospodarskie, na przykład domowe czy trzymane w ośrodku: karmisz je, poisz, ruszasz i wymyślasz im zajęcia, żeby się nie nudziły. Obserwujesz, czy któreś nie zachowuje się inaczej niż zwykle.
+T: Karmisz i poisz zwierzęta o stałych porach | Wyprowadzasz je i organizujesz ruch | Wymyślasz zabawki i zajęcia dla zwierząt | Zapisujesz zmiany w wyglądzie i zachowaniu
+D: 7:00 Śniadanie dla zwierząt i szybki obchód | 9:30 Ćwiczenia ruchowe na wybiegu | 12:00 Chowasz smakołyki w zabawkach dla znudzonego zwierzęcia | 16:00 Zgłaszasz kierownikowi, że jedno zwierzę nie je
+Y: Wymyśl trzy sposoby urozmaicenia dnia kota lub psa z użyciem kartonu i papieru, bez kupowania czegokolwiek.
+
+@1484
+H: W hotelu dla psów i kotów opiekujesz się zwierzętami, których właściciele wyjechali. Karmisz je, sprzątasz i wyprowadzasz, a szczególnie pilnujesz tych chorych i starszych.
+T: Sprzątasz klatki i legowiska | Karmisz według instrukcji właścicieli | Wyprowadzasz psy na spacery | Pilnujesz chorych i starszych zwierząt
+D: 7:00 Poranne karmienie, sprawdzasz kartę każdego gościa | 9:00 Wypuszczasz psy na wybieg i sprzątasz boksy | 14:00 Przyjmujesz nowego pensjonariusza i jego właściciela | 18:00 Wieczorny spacer i leki dla starszego psa
+Y: Zrób listę rzeczy, które powinien zapisać właściciel, zostawiając kota w hotelu: jedzenie, leki, zwyczaje.
+
+@1485
+H: Przycinasz i pielęgnujesz racice krów, czyli ich kopyta, żeby zwierzęta nie kulały i dobrze się czuły. Pracujesz przy dużych zwierzętach w oborach.
+T: Oglądasz racice krowy i szukasz uszkodzeń | Przycinasz nadmiernie wyrośnięte racice | Ustawiasz krowę tak, by bezpiecznie pracować | Opatrujesz rany i informujesz hodowcę
+D: 6:00 Dojazd do obory, rozmowa z rolnikiem | 7:30 Przycinasz racice krowom, które kuleją | 11:00 Znajdujesz ranę w racicy i opatrujesz ją | 14:00 Notujesz, które krowy wymagają kontroli
+Y: Obejrzyj schemat budowy racicy krowy, a potem narysuj go z pamięci i podpisz części.
+
+@1486
+H: Prowadzisz hodowlę psów i odpowiadasz za ich zdrowie, warunki oraz codzienną opiekę, także nad szczeniętami. Liczy się dobrostan zwierząt, a nie tylko liczba psów.
+T: Karmisz psy i sprzątasz kojce | Pilnujesz zdrowia dorosłych psów i szczeniąt | Prowadzisz dokumentację psów i szczepień | Szukasz dobrych domów dla szczeniąt
+D: 6:30 Karmienie i sprawdzanie, czy wszystkie psy jedzą | 8:30 Czyszczenie kojców i ważenie szczeniąt | 13:00 Wizyta weterynarza, szczepienia młodych psów | 17:00 Rozmowa z rodziną, która chce wziąć szczeniaka
+Y: Zapisz pięć pytań do osoby, która chce kupić szczeniaka, żeby sprawdzić, czy zapewni mu dobry dom.
+
+@1487
+H: Sprawdzasz zgłoszenia o znęcaniu się nad zwierzętami lub ich zaniedbaniu, a w razie zagrożenia ratujesz je albo odbierasz właścicielom. Tłumaczysz opiekunom, jak poprawić warunki.
+T: Jedziesz na kontrolę po zgłoszeniu | Oceniasz stan i warunki życia zwierzęcia | Piszesz notatki i dokumentujesz dowody | Tłumaczysz właścicielowi, co trzeba poprawić
+D: 8:00 Przeglądasz nowe zgłoszenia i planujesz kontrole | 10:00 Wizyta u właściciela, pies na krótkim łańcuchu | 13:00 Odbierasz wychudzone zwierzę i wieziesz do lekarza | 16:00 Piszesz protokół i kontaktujesz się ze schroniskiem
+Y: Wypisz pięć potrzeb, które musi mieć zaspokojone zwierzę domowe, i oceń, które najłatwiej pominąć.
+
+@1488
+H: Zarządzasz schroniskiem: pilnujesz, żeby psy były dobrze traktowane, a pracownicy wiedzieli, co mają robić. Kontaktujesz się z ludźmi, którzy oddają i odbierają zwierzęta.
+T: Układasz zadania i grafik pracowników | Sprawdzasz, czy psy mają dobrą opiekę | Rozmawiasz z osobami oddającymi i odbierającymi psy | Pilnujesz zapasów karmy i czystości
+D: 7:30 Odprawa z pracownikami, kto czym się zajmuje | 9:30 Obchód boksów, zauważasz kulejącego psa | 12:00 Rozmowa z właścicielem odbierającym zaginionego psa | 15:00 Zamawiasz karmę i sprawdzasz stan magazynu
+Y: Zrób listę dziennych zadań w schronisku dla dziesięciu psów i podziel ją na trzy osoby.
+
+@1489
+H: Opiekujesz się cudzymi zwierzętami domowymi, gdy właściciele są w pracy lub wyjeżdżają: wyprowadzasz psy, zaglądasz do kotów albo bierzesz zwierzę do siebie. Pilnujesz, żeby było zdrowe i bezpieczne.
+T: Wyprowadzasz psy na spacery | Karmisz zwierzęta w domu właściciela | Zapisujesz, jak zwierzę jadło i się zachowywało | Przewozisz zwierzęta, gdy trzeba
+D: 7:30 Poranny spacer z dwoma psami z osiedla | 11:00 Wchodzisz do mieszkania, karmisz kota, sprzątasz kuwetę | 14:00 Pies na kilka dni wprowadza się do ciebie | 18:00 Wysyłasz właścicielowi zdjęcie i krótki raport
+Y: Przygotuj kartę informacyjną dla opiekuna kota: jedzenie, pory karmienia, leki i numer do weterynarza.
+
+@1490
+H: Przyjmujesz do schroniska zwierzęta zagubione, ranne lub oddane, dbasz o ich jedzenie i czystość oraz zajmujesz się formalnościami adopcji. Czasem jedziesz po zgłoszeniu po znalezione zwierzę.
+T: Przyjmujesz i rejestrujesz nowe zwierzęta | Karmisz zwierzęta i sprzątasz klatki | Wypełniasz dokumenty adopcji | Wozisz zwierzęta do weterynarza
+D: 7:00 Karmienie i sprzątanie klatek przed otwarciem schroniska | 10:00 Zgłoszenie o rannym kocie, jedziesz po niego | 13:00 Wizyta u weterynarza z psem po wypadku | 15:00 Rodzina adoptuje psa, wypełniacie umowę
+Y: Napisz ogłoszenie o znalezionym kocie: wygląd i znaki szczególne, ale bez adresu i numeru telefonu.
+
+@1491
+H: Prowadzisz zespół opiekunów jednej sekcji zoo, na przykład ptaków albo małp, i pracujesz przy zwierzętach razem z nimi. Odpowiadasz też za długoterminowy chów gatunków i za to, kto co robi.
+T: Przydzielasz zadania opiekunom w sekcji | Opiekujesz się zwierzętami razem z zespołem | Planujesz długoterminowy chów gatunków | Rozmawiasz z dyrekcją o potrzebach sekcji
+D: 7:00 Odprawa z opiekunami, podział zadań na dzień | 8:00 Karmisz zwierzęta razem z zespołem | 11:30 Omawiasz plan chowu i nowych eksponatów | 14:30 Pracujesz nad grafikiem i budżetem sekcji
+Y: Narysuj plan wybiegu dla wybranego gatunku z zoo i zaznacz miejsca do jedzenia, odpoczynku i ukrycia.
+
+@1492
+H: Odpowiadasz za zwierzynę łowną i jej siedlisko na wyznaczonym terenie: liczysz zwierzęta, dbasz o ich pożywienie i schronienie. Obchodzisz teren przez cały rok, także w złą pogodę.
+T: Obchodzisz teren i liczysz zwierzynę | Dokarmiasz zwierzęta zimą i naprawiasz paśniki | Obserwujesz ślady i stan siedlisk | Planujesz gospodarkę łowiecką z myśliwymi
+D: 5:30 Wczesny obchód lasu, szukasz śladów zwierzyny | 9:00 Naprawiasz paśnik po wichurze | 13:00 Liczysz zwierzynę i zapisujesz wyniki | 17:00 Rozmowa z myśliwymi o planie na sezon
+Y: Poszukaj w ogrodzie lub parku śladów zwierząt, takich jak tropy czy ogryzione liście, i zrób notatki.
+
+@1493
+H: Pielęgnujesz drzewa: przycinasz gałęzie, wycinasz chore albo niebezpieczne okazy i dbasz o ich zdrowie. Często wspinasz się na drzewa i pracujesz ciężkimi maszynami do cięcia.
+T: Oceniasz zdrowie drzewa z ziemi i z korony | Przycinasz gałęzie specjalistycznymi maszynami | Wspinasz się na drzewo z asekuracją | Tniesz i rozdrabniasz wycięte drzewo
+D: 6:30 Dojazd na zlecenie, oceniasz drzewo przy domu | 8:00 Zakładasz uprząż i wspinasz się na lipę | 11:00 Przycinasz martwe konary nad podwórkiem | 14:00 Rozdrabniasz gałęzie i sprzątasz teren
+Y: Obejrzyj z ziemi drzewo w okolicy i opisz kształt korony, korę oraz miejsca, które wyglądają na chore.
+
+@1494
+H: Planujesz produkcję roślin w gospodarstwie ogrodniczym i zarządzasz całą firmą. Sprawdzasz, jak rosną uprawy, i pracujesz też razem z ekipą.
+T: Planujesz, co i kiedy się sieje | Przydzielasz pracę zespołowi | Kontrolujesz stan roślin w szklarniach i na polu | Pilnujesz zamówień i kosztów firmy
+D: 6:00 Obchód szklarni, sprawdzasz, jak rosną rozsady | 8:00 Ustalasz z ekipą zadania na dzień | 11:00 Rozmowa z klientem o dostawie roślin | 15:00 Liczysz koszty i planujesz kolejne zasiewy
+Y: Rozpisz kalendarz uprawy jednej rośliny, na przykład sałaty: kiedy siew, podlewanie i zbiór.
+
+@1495
+H: Prowadzisz brygadę, która pracuje przy roślinach ogrodniczych: ustalasz, kto co robi danego dnia, i też pracujesz własnymi rękami przy roślinach. Stoisz pomiędzy kierownikiem a resztą ekipy.
+T: Układasz dzienny plan prac dla brygady | Pokazujesz nowym osobom, jak wykonać zadanie | Pracujesz razem z zespołem przy roślinach | Zgłaszasz kierownikowi braki i problemy
+D: 6:00 Odprawa z brygadą, podział na rzędy i szklarnie | 7:00 Razem z zespołem przesadzasz rozsady | 11:00 Brakuje doniczek, zgłaszasz kierownikowi | 14:00 Sprawdzasz, czy poranne zadania są zrobione
+Y: Zaplanuj podział pracy dla czterech osób przy przesadzaniu stu rozsad: kto co robi i w jakiej kolejności.
+
+@1496
+H: Zakładasz i pielęgnujesz ogrody, parki i miejskie tereny zielone: sadzisz rośliny, kosisz, przycinasz i odnawiasz zaniedbane miejsca. Pracujesz głównie na dworze, a rytm pracy wyznaczają pory roku.
+T: Sadzisz drzewa, krzewy i kwiaty | Kosisz trawniki i przycinasz żywopłoty | Podlewasz i pielisz rabaty | Odnawiasz zaniedbane fragmenty parku
+D: 6:30 Grabisz liście z alejek parku | 8:30 Sadzisz rabatę kwiatów przy skwerze | 11:30 Przycinasz żywopłot wzdłuż placu zabaw | 14:00 Podlewasz świeże krzewy i sprzątasz narzędzia
+Y: Wybierz trzy rośliny rosnące w okolicy i zapisz, czy to drzewo, krzew czy kwiat.
+
+@1497
+H: Pomagasz w szkółce lub szklarni przy produkcji roślin: wykonujesz praktyczne prace, które wyznacza kierownik. Dużo się schylasz i powtarzasz te same ruchy.
+T: Siejesz nasiona i przesadzasz rozsady | Podlewasz rośliny w szklarni | Usuwasz chwasty i zwiędnięte liście | Przenosisz i układasz doniczki
+D: 6:00 Zaczynasz w szklarni od podlewania rozsad | 8:00 Przesadzasz sadzonki do większych doniczek | 11:00 Usuwasz chwasty między rzędami w szkółce | 14:00 Układasz rośliny na wózku do wysyłki
+Y: Zasiej w pojemniku z ziemią kilka nasion z kuchni, na przykład fasoli, i zapisz datę siewu.
+
+@1498
+H: Projektujesz zieleń do biur, hoteli i mieszkań: dobierasz rośliny do światła i wnętrza, sadzisz je, a potem wracasz je pielęgnować. Wszystko ma pasować do życzeń klienta.
+T: Mierzysz wnętrze i sprawdzasz, ile jest światła | Dobierasz rośliny do warunków i życzeń klienta | Rozmieszczasz rośliny i donice we wnętrzu | Pielęgnujesz i wymieniasz rośliny u klienta
+D: 8:30 Wizyta w biurze klienta, mierzysz okna i światło | 11:00 Rysujesz projekt z listą roślin do korytarza | 13:30 Rozstawiasz rośliny w holu hotelu | 16:00 Kontrola, wymieniasz więdnącą roślinę na zdrową
+Y: Wybierz pokój w domu, oceń, ile ma światła, i zapisz, jakie rośliny doniczkowe by tam pasowały.
+
+@1499
+H: Utrzymujesz w porządku tereny wokół szkół, hoteli, boisk czy pól golfowych: trawniki, zieleń i ścieżki. Dbasz, żeby teren był bezpieczny i wyglądał dobrze o każdej porze roku.
+T: Kosisz i pielęgnujesz duże trawniki | Pilnujesz stanu boisk i alejek | Planujesz prace w zależności od pory roku | Obsługujesz kosiarki i inne maszyny
+D: 6:00 Koszenie boiska, zanim zaczną się zajęcia | 9:00 Sprawdzasz, czy po burzy nie leżą gałęzie | 12:00 Naprawiasz uszkodzony fragment murawy | 15:00 Rozmowa z dyrekcją o planie prac na sezon
+Y: Oceń z okna lub ogrodu stan trawnika i zapisz, gdzie jest wydeptany, suchy albo zarośnięty chwastami.
+

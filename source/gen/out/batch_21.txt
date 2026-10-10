@@ -1,0 +1,180 @@
+@1260
+H: Przyjmujesz od klientów przedmioty w zastaw i na tej podstawie proponujesz pożyczkę. Oceniasz, ile dana rzecz jest warta, i pilnujesz ewidencji tego, co leży w magazynie.
+T: Oglądasz przedmiot i sprawdzasz jego stan | Wyceniasz rzecz i ustalasz kwotę pożyczki | Spisujesz umowę i wydajesz pokwitowanie | Prowadzisz wykaz przedmiotów w magazynie
+D: 9:00 Otwierasz lombard i sprawdzasz, co czeka na odbiór | 11:00 Klient przynosi zegarek, oglądasz go pod lupą | 14:00 Ktoś wykupuje swój przedmiot, wydajesz go z regału | 17:00 Uzupełniasz wykaz i porządkujesz zastawy w sejfie
+Y: Wybierz w domu przedmiot, opisz jego stan w trzech zdaniach i oszacuj, od czego zależy jego wartość.
+
+@1261
+H: Pracujesz na zapleczu firmy finansowej: nie stoisz przy okienku, tylko przetwarzasz dokumenty, dane i zlecenia przekazane przez inne działy. Dbasz o to, żeby wszystkie zapisy się zgadzały.
+T: Wprowadzasz dane z umów do systemu | Sprawdzasz, czy dokumenty są kompletne | Rozliczasz zlecenia przekazane z innych działów | Poprawiasz rozbieżności w zapisach
+D: 8:00 Przeglądasz maile z nowymi umowami do wprowadzenia | 10:00 Dane z umowy nie zgadzają się, dzwonisz wyjaśnić | 13:00 Rozliczasz transakcje z poprzedniego dnia | 16:00 Przygotowujesz listę zaległych spraw dla kierownika
+Y: Wypisz z ulotki lub menu pięć cen, zsumuj je dwoma różnymi sposobami i porównaj wyniki.
+
+@1262
+H: Gdy maklerzy zawrą transakcje na sali notowań, Ty dopilnowujesz, żeby każda została poprawnie zapisana i rozliczona. Zajmujesz się papierami wartościowymi, walutami i towarami od strony dokumentów.
+T: Rejestrujesz zawarte transakcje w systemie | Porównujesz zapisy ze stronami transakcji | Pilnujesz terminów rozliczenia i płatności | Wyjaśniasz różnice w kwotach i ilościach
+D: 7:30 Sprawdzasz wczorajsze transakcje, które nie zostały potwierdzone | 9:30 Sesja trwa, wpadają nowe zlecenia do zapisania | 13:00 Druga strona podaje inną kwotę, szukasz błędu | 16:30 Zamykasz dzień i potwierdzasz, że wszystko rozliczone
+Y: Wymyśl trzy wymiany rzeczy między dwiema osobami, zapisz je w tabelce po obu stronach i porównaj zapisy.
+
+@1263
+H: Wspierasz biuro nieruchomości od strony organizacyjnej: umawiasz oglądanie mieszkań, przygotowujesz dokumenty i odpowiadasz klientom na pytania. Pomagasz też ustalić, ile dana nieruchomość może być warta.
+T: Umawiasz terminy oglądania mieszkań | Przygotowujesz projekty umów i dokumenty | Zbierasz informacje o cenach podobnych lokali | Odpowiadasz klientom na pytania o koszty
+D: 9:00 Układasz grafik oglądania na cały dzień | 11:00 Pokazujesz kupującym mieszkanie i odpowiadasz na pytania | 14:00 Szukasz cen podobnych lokali w okolicy | 17:00 Drukujesz umowę na jutrzejsze spotkanie u notariusza
+Y: Obejrzyj własny pokój jak kupujący i zapisz pięć jego zalet oraz dwie wady do ogłoszenia.
+
+@1264
+H: Wymieniasz klientom pieniądze na inne waluty w kantorze lub banku. Podajesz aktualne kursy, liczysz kwoty i sprawdzasz, czy banknoty są prawdziwe.
+T: Podajesz klientom aktualny kurs wymiany | Przeliczasz kwoty i wypłacasz walutę | Sprawdzasz autentyczność banknotów | Zapisujesz każdą transakcję w rejestrze
+D: 8:30 Otwierasz kasę i liczysz gotówkę na start | 10:00 Turysta pyta o kurs i chce wymienić banknoty | 13:00 Banknot budzi wątpliwości, sprawdzasz jego zabezpieczenia | 17:30 Zamykasz kasę, zestawiasz gotówkę z rejestrem
+Y: Wymyśl kurs, na przykład 4 złote za jedną jednostkę obcej waluty, i przelicz w pamięci pięć kwot.
+
+@1265
+H: Sprawdzasz, czy liczby w księgach firmy są prawdziwe i prawidłowo zapisane. Przeglądasz dokumenty i bazy danych, a gdy coś się nie zgadza, ustalasz, skąd wzięła się różnica.
+T: Porównujesz zapisy w bazie z dokumentami | Szukasz błędów i podejrzanych transakcji | Pytasz księgowych o źródło danej kwoty | Opisujesz wyniki kontroli w raporcie
+D: 8:30 Wybierasz próbkę faktur do sprawdzenia | 10:30 Porównujesz każdą fakturę z zapisem w bazie | 13:30 Kwota nie pasuje, dzwonisz do księgowej | 16:00 Dopisujesz uwagi do raportu z kontroli
+Y: Przepisz z książki listę dziesięciu liczb do tabelki, potem sprawdź przepisanie i znajdź swoje pomyłki.
+
+@1266
+H: Wspierasz osoby, które zarządzają akcjami, obligacjami i innymi papierami wartościowymi, oraz załatwiasz papierkową robotę w dziale inwestycji. Pilnujesz, żeby zlecenia i dokumenty były gotowe na czas.
+T: Przygotowujesz dokumenty do zleceń kupna i sprzedaży | Aktualizujesz zestawienia posiadanych papierów wartościowych | Odpowiadasz klientom na pytania o ich portfel | Sprawdzasz notowania i zapisujesz zmiany
+D: 8:00 Czytasz poranny przegląd rynku i notowania | 9:30 Klient chce zmienić zlecenie, przygotowujesz dokumenty | 12:30 Aktualizujesz zestawienie papierów dla doradcy | 16:00 Archiwizujesz potwierdzenia dzisiejszych transakcji
+Y: Wymyśl fikcyjny portfel z trzech firm po tysiąc złotych i policz jego wartość, gdy jedna z nich traci połowę.
+
+@1267
+H: Zbierasz dokumenty finansowe firmy lub klienta i przygotowujesz je do rozliczenia z urzędem skarbowym. Poza tym wykonujesz zwykłe zadania biurowe: segregujesz papiery, wysyłasz pisma, pilnujesz terminów.
+T: Zbierasz faktury i inne dokumenty finansowe | Przygotowujesz zestawienia do deklaracji podatkowych | Sprawdzasz, czy w papierach niczego nie brakuje | Pilnujesz terminów składania rozliczeń
+D: 8:30 Segregujesz faktury, które przyszły pocztą | 10:30 Wpisujesz kwoty do zestawienia przed deklaracją | 13:00 Dzwonisz do klienta po brakujący dokument | 15:30 Wysyłasz gotowe pismo do urzędu
+Y: Posegreguj dziesięć dowolnych kartek lub starych paragonów według dat i zapisz, których dni brakuje w stosie.
+
+@1268
+H: Obsługujesz sprawy w zakładzie ubezpieczeń: tłumaczysz klientom, co obejmuje polisa, i dbasz o formalności przy umowach. Dużo czasu spędzasz na dokumentach, telefonie i wiadomościach.
+T: Tłumaczysz klientom zakres polisy | Przygotowujesz i wysyłasz umowy ubezpieczeniowe | Wprowadzasz zmiany w danych polis | Przyjmujesz zgłoszenia i pilnujesz dokumentów
+D: 8:00 Odbierasz telefony od klientów z pytaniami o polisę | 10:00 Przygotowujesz umowę ubezpieczenia mieszkania do podpisu | 13:00 Klient zgłasza szkodę, spisujesz, co się stało | 15:30 Uzupełniasz dokumenty w teczkach spraw
+Y: Znajdź w instrukcji dowolnego urządzenia warunki gwarancji i zapisz trzy sytuacje, w których nie obowiązuje.
+
+@1269
+H: Pomagasz działowi sprzedaży od strony papierów i liczb: sprawdzasz faktury klientów, zbierasz dane i przygotowujesz zestawienia. Handlowcy dostają od Ciebie gotowe raporty, więc nie liczą wszystkiego ręcznie.
+T: Sprawdzasz faktury klientów i zapisy księgowe | Zbierasz dane o sprzedaży z różnych źródeł | Przygotowujesz raporty dla innych działów | Pomagasz układać plan sprzedaży
+D: 8:30 Pobierasz wyniki sprzedaży z wczorajszego dnia | 10:30 Faktura klienta ma złą kwotę, zgłaszasz poprawkę | 13:00 Zestawiasz dane do raportu dla dyrektora | 15:30 Pomagasz handlowcowi policzyć plan na kwartał
+Y: Wymyśl sklep z pięcioma produktami, zapisz fikcyjną sprzedaż z tygodnia i wskaż, który produkt schodzi najlepiej.
+
+@1270
+H: Wystawiasz faktury i faktury korygujące dla klientów firmy i pilnujesz, żeby wszystkie kwoty i dane się zgadzały. Gdy w fakturze jest błąd, to Ty wystawiasz poprawkę.
+T: Wystawiasz faktury po zakończonej sprzedaży | Poprawiasz błędy fakturami korygującymi | Wysyłasz dokumenty do klientów | Aktualizujesz dane klientów w kartotece
+D: 8:00 Przeglądasz listę zamówień do zafakturowania | 10:00 Wystawiasz serię faktur za zakończone usługi | 12:30 Klient zgłasza błąd w fakturze, robisz korektę | 15:00 Wysyłasz faktury i zapisujesz je w rejestrze
+Y: Narysuj na kartce wzór faktury za wymyśloną usługę: nabywca, sprzedawca, nazwa, ilość, cena i suma.
+
+@1271
+H: Liczysz, ile każdy pracownik firmy ma dostać na koniec miesiąca. Sprawdzasz godziny pracy, nadgodziny, urlopy i zwolnienia chorobowe, a potem przygotowujesz wypłaty.
+T: Sprawdzasz karty czasu pracy pracowników | Liczysz nadgodziny, urlopy i zwolnienia | Przygotowujesz listy płac | Wyjaśniasz pracownikom kwoty na pasku
+D: 8:00 Zbierasz karty czasu pracy z działów | 10:00 Wpisujesz zwolnienia chorobowe i dni urlopu | 13:00 Pracownik pyta, czemu dostał mniej, sprawdzasz | 15:00 Zatwierdzasz listę płac przed wysłaniem do banku
+Y: Wymyśl pracownika pracującego po 8 godzin przez 5 dni, dopisz dwie nadgodziny i policz godziny w tygodniu.
+
+@1272
+H: Kierujesz firmą, która pośredniczy w kupnie i sprzedaży akcji i obligacji. Decydujesz o strategii, pilnujesz wyników i czasem doradzasz ważnym klientom przy większych transakcjach.
+T: Ustalasz strategię handlu papierami wartościowymi | Nadzorujesz maklerów i dział rozliczeń | Analizujesz wyniki i rentowność firmy | Doradzasz klientom przy dużych transakcjach
+D: 7:30 Czytasz raporty z rynku przed otwarciem sesji | 9:00 Odprawa z maklerami, omawiacie plan na dzień | 12:00 Spotykasz klienta, który chce zainwestować większą sumę | 16:30 Analizujesz wyniki dnia i koszty działu
+Y: Wymyśl trzy spółki, zapisz dla każdej jeden plus i jedno ryzyko, a potem wskaż, w którą zainwestujesz.
+
+@1273
+H: Zarządzasz oddziałem, który sprzedaje ubezpieczenia, i odpowiadasz za to, żeby klienci dostali dobrą poradę. Układasz pracę agentów, a w trudniejszych sprawach rozmawiasz z klientem osobiście.
+T: Układasz grafik pracy agentów | Doradzasz klientom przy wyborze ubezpieczenia | Sprawdzasz wyniki sprzedaży oddziału | Rozwiązujesz trudne sprawy i reklamacje
+D: 8:00 Zebranie z agentami, omawiacie sprawy tygodnia | 10:00 Klient pyta, jak ubezpieczyć auto i dom | 13:00 Rozmawiasz z niezadowolonym klientem o odrzuconym wniosku | 16:00 Sprawdzasz tabelę wyników i planujesz kolejny tydzień
+Y: Zapisz, jakie trzy rzeczy w domu najbardziej warto chronić ubezpieczeniem, i uzasadnij każdy wybór jednym zdaniem.
+
+@1274
+H: Zarządzasz systemem, z którego ludzie dostają pieniądze na emeryturze. Pilnujesz, żeby fundusz był rozsądnie lokowany, i wymyślasz nowe pakiety emerytalne.
+T: Nadzorujesz codzienne lokowanie funduszu emerytalnego | Planujesz nowe pakiety świadczeń | Odpowiadasz na pytania o przyszłe świadczenia | Przygotowujesz raporty dla zarządu
+D: 8:30 Sprawdzasz, ile pieniędzy wpłynęło do funduszu | 10:30 Spotkanie o planowanym nowym pakiecie emerytalnym | 13:00 Tłumaczysz firmie, jak działa jej program emerytalny | 16:00 Czytasz prognozy i piszesz raport dla zarządu
+Y: Policz, ile odłożysz przez rok, jeśli co miesiąc odkładasz 100 złotych, i narysuj prosty wykres wzrostu.
+
+@1275
+H: Prowadzisz spółdzielczą kasę, do której należą jej członkowie i w której oszczędzają oraz biorą pożyczki. Kierujesz pracownikami, pilnujesz procedur i przygotowujesz sprawozdania finansowe.
+T: Kierujesz pracą pracowników kasy | Informujesz zespół o zmianach w procedurach | Rozpatrujesz trudne wnioski o pożyczkę | Przygotowujesz sprawozdania finansowe kasy
+D: 8:00 Krótka odprawa z pracownikami przed otwarciem | 10:00 Członek kasy prosi o pożyczkę na remont | 13:00 Tłumaczysz zespołowi nowe zasady udzielania kredytów | 16:30 Sprawdzasz bilans dnia i sprawozdanie
+Y: Zapisz trzy pytania, które warto zadać komuś proszącemu o pożyczkę, żeby ocenić, czy ją spłaci.
+
+@1276
+H: Zarządzasz jednym lub kilkoma obszarami działania banku i odpowiadasz za to, żeby wszystko szło zgodnie z prawem. Ustalasz zasady bezpiecznych operacji i kierujesz ludźmi w swoich oddziałach.
+T: Ustalasz zasady bezpiecznych operacji bankowych | Sprawdzasz zgodność działań z przepisami | Kierujesz pracownikami oddziałów | Analizujesz wyniki i cele handlowe banku
+D: 8:00 Czytasz raport z wczorajszych operacji w oddziałach | 9:30 Zebranie kierowników, omawiacie zmianę przepisów | 13:00 Rozmawiasz z pracownikiem, który ma problem z klientem | 16:00 Zatwierdzasz nowe zasady dla kas
+Y: Zapisz pięć zasad, które chroniłyby pieniądze w banku przed błędami i oszustwami, np. dwa podpisy.
+
+@1277
+H: Prowadzisz sprawy szkód w firmie ubezpieczeniowej i kierujesz pracownikami, którzy je rozpatrują. Zajmujesz się trudniejszymi skargami i sprawami, w których możesz podejrzewać oszustwo.
+T: Rozpatrujesz złożone zgłoszenia szkód | Kierujesz zespołem likwidatorów szkód | Weryfikujesz podejrzane roszczenia | Rozmawiasz z rzeczoznawcami i brokerami
+D: 8:30 Przeglądasz zgłoszenia szkód, które wpłynęły w nocy | 10:30 Rzeczoznawca przysyła raport o uszkodzonym samochodzie | 13:00 Zdjęcia szkody wyglądają podejrzanie, zlecasz dokładną kontrolę | 15:30 Rozmawiasz z rozżalonym klientem o odmowie wypłaty
+Y: Opisz w czterech zdaniach wymyśloną szkodę, np. zalane mieszkanie, i wypisz, jakich dowodów potrzeba do wypłaty.
+
+@1278
+H: Oceniasz, na co w firmie warto przeznaczyć pieniądze, zanim projekt dostanie finansowanie. Sprawdzasz plany finansowe działów i pilnujesz, żeby zasady budżetu były przestrzegane.
+T: Oceniasz propozycje finansowe poszczególnych działów | Decydujesz o przyznaniu środków na projekty | Monitorujesz wydatki względem budżetu | Liczysz, ile projekt może przynieść dochodu
+D: 8:30 Czytasz wnioski działów o pieniądze na projekty | 10:30 Dyrektor marketingu broni swojego budżetu na spotkaniu | 13:00 Porównujesz wydatki z planem i szukasz przekroczeń | 16:00 Piszesz uzasadnienie decyzji o przyznaniu środków
+Y: Zaplanuj budżet klasowej imprezy dla 20 osób: wypisz pięć kosztów i sprawdź, czy mieszczą się w limicie.
+
+@1279
+H: Pilnujesz, żeby firma zawsze miała dość gotówki na bieżące rachunki i pensje. Zarządzasz kontami, przepływem pieniędzy i ryzykiem, na przykład zmianą kursów walut.
+T: Monitorujesz przepływ pieniędzy na kontach | Planujesz, kiedy wpłyną i wypłyną środki | Ograniczasz ryzyko kursów walut i cen surowców | Kontaktujesz się z bankami i agencjami ratingowymi
+D: 8:00 Sprawdzasz stan wszystkich kont firmy na dziś | 10:00 Planujesz, skąd wziąć pieniądze na wypłaty | 13:00 Rozmowa z bankiem o linii kredytowej | 16:00 Kurs waluty skacze, analizujesz wpływ na firmę
+Y: Zrób tabelkę na dwa tygodnie, wpisz wymyślone wpływy i wydatki i znajdź dzień, w którym brakuje gotówki.
+
+@1280
+H: Odpowiadasz za wszystkie pieniądze firmy: skąd je brać, w co inwestować i jak je liczyć. Oceniasz plany firmy pod kątem finansowym, a na koniec roku przygotowujesz sprawozdania dla urzędów i właścicieli.
+T: Zarządzasz aktywami, zobowiązaniami i kapitałem firmy | Oceniasz finansowo plany strategiczne zarządu | Przygotowujesz roczne sprawozdanie finansowe | Rozmawiasz z organami podatkowymi i kontrolnymi
+D: 8:00 Przeglądasz raport o gotówce i zobowiązaniach | 10:00 Zarząd pyta, czy stać firmę na nową fabrykę | 13:00 Spotkanie z bankiem w sprawie finansowania inwestycji | 16:30 Sprawdzasz dokumenty przed kontrolą skarbową
+Y: Wypisz trzy źródła, z których firma może wziąć pieniądze na rozwój, i do każdego dopisz jedno ryzyko.
+
+@1281
+H: Odpowiadasz za finanse całego banku: pilnujesz, żeby miał dość pieniędzy na wypłaty klientów i spłatę swoich zobowiązań. Przygotowujesz budżety i sprawozdania, które sprawdzają biegli rewidenci.
+T: Pilnujesz płynności i wypłacalności banku | Przedstawiasz budżet i prognozy finansowe | Przygotowujesz sprawozdania dla audytorów | Nadzorujesz rachunki bankowe i dokumentację
+D: 7:30 Sprawdzasz, ile gotówki bank ma w rezerwie | 9:30 Omawiasz z zarządem prognozę na kolejny kwartał | 13:00 Audytor prosi o brakujące dokumenty do sprawozdania | 16:00 Zatwierdzasz przelewy między rachunkami banku
+Y: Wyobraź sobie, że klienci wypłacają w jeden dzień dużo gotówki, i zapisz trzy sposoby, jak bank to przetrwa.
+
+@1282
+H: Odpowiadasz za całe księgi firmy i za to, żeby sprawozdania finansowe były gotowe na czas i bez błędów. Ustalasz zasady księgowania i kierujesz pracą innych księgowych.
+T: Ustalasz zasady i procedury księgowania | Nadzorujesz pracę księgowych | Zatwierdzasz sprawozdania finansowe firmy | Pilnujesz terminów zamknięcia miesiąca
+D: 7:30 Sprawdzasz, które dokumenty czekają na zaksięgowanie | 9:30 Księgowa pyta, jak zapisać nietypowy wydatek | 12:00 Zamykasz miesiąc i uzgadniasz salda kont | 15:00 Poprawiasz sprawozdanie przed oddaniem do zarządu
+Y: Zapisz w dwóch kolumnach, co wpłynęło, a co wypłynęło z Twojej kieszeni w tym tygodniu, i policz saldo.
+
+@1283
+H: Szukasz sposobów, żeby gmina, region czy instytucja miała stabilniejszą gospodarkę i więcej miejsc pracy. Badasz trendy, wskazujesz zagrożenia i układasz plan działań.
+T: Badasz trendy gospodarcze w regionie | Wskazujesz zagrożenia dla lokalnej gospodarki | Łączysz instytucje, które wspierają rozwój | Piszesz plan działań i przedstawiasz go
+D: 8:30 Czytasz dane o bezrobociu i firmach w regionie | 10:30 Spotkanie z urzędnikami i przedstawicielami przedsiębiorców | 13:30 Zamyka się duża fabryka, szkicujesz plan pomocy | 16:00 Piszesz rekomendacje dla władz regionu
+Y: Wypisz, jakie firmy i miejsca pracy działają w Twojej okolicy, i wskaż jedną branżę, której brakuje.
+
+@1284
+H: Badasz, jak podatki wpływają na budżet państwa i życie ludzi, i podpowiadasz urzędom, jak zmienić przepisy. Liczysz, co się stanie, gdy podatek wzrośnie lub zostanie obniżony.
+T: Badasz skutki obecnych przepisów podatkowych | Piszesz projekty zmian w przepisach | Prognozujesz wpływ zmian na budżet | Doradzasz organom publicznym w sprawach finansów
+D: 8:30 Czytasz dane o wpływach z podatków | 10:30 Liczysz skutki obniżenia stawki dla małych firm | 13:30 Konsultacje z urzędnikami nad projektem zmiany przepisów | 16:00 Piszesz notatkę z wnioskami dla decydentów
+Y: Wymyśl prosty podatek od napojów słodzonych, załóż stawkę i policz, ile wpłynie do budżetu przy tysiącu sprzedanych butelek.
+
+@1285
+H: Śledzisz, co dzieje się w gospodarce, i podpowiadasz firmom oraz organizacjom, jak się do tego przygotować. Prognozujesz, jak zmienią się ceny, handel i podatki.
+T: Śledzisz wskaźniki i wiadomości gospodarcze | Prognozujesz zmiany cen i popytu | Piszesz rekomendacje dla klientów | Tłumaczysz klientom ryzyka i szanse
+D: 8:00 Przeglądasz nowe dane o inflacji i handlu | 10:00 Aktualizujesz prognozę dla klienta z branży spożywczej | 13:00 Spotkanie z klientem, który boi się podwyżek cen | 16:00 Przygotowujesz prezentację z zaleceniami
+Y: Zapytaj domowników, ile kosztował chleb pięć lat temu, i narysuj prosty wykres zmiany ceny.
+
+@1286
+H: Badasz, jak działa gospodarka: dlaczego rosną ceny, co wpływa na zatrudnienie i jak zachowują się konsumenci. Opierasz się na danych i modelach matematycznych, a wnioski przekazujesz rządom i firmom.
+T: Analizujesz dane statystyczne o gospodarce | Budujesz modele matematyczne zależności | Piszesz opracowania i artykuły naukowe | Doradzasz instytucjom w sprawie polityki gospodarczej
+D: 9:00 Wczytujesz nowe dane o zatrudnieniu i cenach | 11:00 Sprawdzasz, czy model dobrze tłumaczy wyniki | 14:00 Omawiasz wyniki badania na seminarium z kolegami | 16:30 Piszesz fragment raportu dla instytucji
+Y: Zapisz, jak według Ciebie cena biletu wpływa na liczbę osób w kinie, i narysuj taki wykres.
+
+@1287
+H: Analizujesz, jak sytuacja w gospodarce wpływa na konkretne branże i firmy, i doradzasz, jaką obrać strategię. Oceniasz też, czy nowy produkt ma szansę się sprzedać.
+T: Analizujesz sytuację konkretnej branży | Oceniasz opłacalność nowego produktu | Prognozujesz konsumpcję i rynki wschodzące | Doradzasz w planowaniu strategicznym
+D: 8:30 Czytasz raport o rynku, na którym działa firma | 10:30 Liczysz, ile klientów musi kupić nowy produkt | 13:00 Przedstawiasz zarządowi, czy wejść na nowy rynek | 15:30 Poprawiasz prognozę po nowych danych o sprzedaży
+Y: Wybierz pomysł na mały biznes, np. sprzedaż lemoniady, i zapisz trzy czynniki, które mogą zmniejszyć sprzedaż.
+
+@1288
+H: Pomagasz posłowi w pracy: czytasz projekty ustaw, przygotowujesz notatki i dbasz o jego kalendarz. Kontaktujesz się też z mieszkańcami i instytucjami, które chcą coś załatwić lub przekazać.
+T: Czytasz projekty ustaw i streszczasz je | Układasz kalendarz spotkań posła | Odpowiadasz na listy i wiadomości od mieszkańców | Organizujesz logistykę posiedzeń i wyjazdów
+D: 8:00 Przeglądasz pocztę i układasz plan dnia posła | 10:00 W parlamencie robisz notatkę z dyskusji nad ustawą | 13:00 Odbierasz telefon od organizacji, która prosi o spotkanie | 17:00 Przygotowujesz posłowi streszczenie dokumentów na jutro
+Y: Weź jedną ustawę lub uchwałę z internetu, przeczytaj pierwszą stronę i streść ją w trzech zdaniach.
+
+@1289
+H: Pomagasz organizacjom i rządom planować, jak ograniczać skutki kryzysów: wojen, klęsk żywiołowych czy głodu. Doradzasz, co dostarczyć, gdzie i we współpracy z kim.
+T: Analizujesz sytuację w regionie objętym kryzysem | Planujesz dostawy pomocy i priorytety | Doradzasz partnerom i organizacjom lokalnym | Piszesz raporty o skutkach działań
+D: 8:00 Czytasz nocne raporty z terenu kryzysu | 10:00 Narada z partnerami: gdzie najpierw wysłać wodę | 13:00 Ustalasz z lokalną organizacją trasę dostaw | 17:00 Rozmowa online z zespołem w innej strefie czasowej
+Y: Przygotuj listę dziesięciu rzeczy dla rodziny po powodzi i ułóż je od najważniejszej do najmniej ważnej.
+

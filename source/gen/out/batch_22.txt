@@ -1,0 +1,180 @@
+@1320
+H: Kierujesz firmą, której tłumacze przekładają rozmowy na żywo, na konferencjach, w sądach i podczas negocjacji. Dbasz, żeby na każde zlecenie trafiła właściwa osoba i żeby przekład był dobry.
+T: Przydzielasz tłumaczy do zleceń | Rozmawiasz z klientami o ich potrzebach | Sprawdzasz jakość pracy tłumaczy | Pilnujesz budżetu i terminów firmy
+D: 8:00 Szukasz zastępstwa za tłumacza, który zachorował | 10:30 Ustalasz z klientem język i sprzęt na konferencję | 13:00 Rozmawiasz z tłumaczem po trudnym zleceniu | 16:00 Rozliczasz zlecenia i planujesz grafik na tydzień
+Y: Przetłumacz na głos z polskiego na obcy język trzy zdania o swoim dniu, bez słownika.
+
+@1321
+H: Odpowiadasz za instytucję, która przechowuje dawne dokumenty i zbiory, i dbasz, żeby przetrwały dla przyszłych pokoleń. Współpracujesz z kuratorami i konserwatorami, a do tego zarządzasz ludźmi i budżetem.
+T: Decydujesz, jak chronić najcenniejsze zbiory | Planujesz budżet i pracę zespołu | Ustalasz zasady udostępniania dokumentów badaczom | Naradzasz się z kuratorami i konserwatorami
+D: 8:30 Sprawdzasz, czy w magazynie nie ma wilgoci | 10:00 Narada z konserwatorem o zniszczonych księgach | 12:00 Spotkanie z badaczem, który prosi o dostęp | 15:00 Piszesz plan wydatków na nowe regały
+Y: Wybierz jedną rodzinną pamiątkę, zapisz jej historię i wymyśl, jak ją zabezpieczyć na sto lat.
+
+@1322
+H: Prowadzisz galerię, która sprzedaje dzieła artystów. Musisz łączyć dobry gust z rachunkami: wybierasz, kogo pokazać, i dbasz, żeby galeria na siebie zarabiała.
+T: Wybierasz artystów i planujesz wystawy | Rozmawiasz z kolekcjonerami o zakupie dzieł | Ustalasz ceny obrazów z artystami | Organizujesz otwarcia wystaw i promocję
+D: 9:30 Oglądasz prace młodego malarza w jego pracowni | 12:00 Rozmowa z kolekcjonerem, który rozważa zakup | 15:00 Ustawiasz obrazy w salach przed nową wystawą | 18:00 Wernisaż: witasz gości i opowiadasz o pracach
+Y: Ułóż w domu minigalerię z trzech swoich rysunków lub zdjęć i napisz do każdego podpis.
+
+@1323
+H: Zarządzasz muzeum: zbiorami, pieniędzmi, ludźmi i promocją. Decydujesz, co jest pokazywane, jak to chronić i jak zachęcić ludzi, żeby przyszli.
+T: Nadzorujesz opiekę nad eksponatami | Planujesz wystawy i ich promocję | Układasz budżet muzeum | Kierujesz zespołem kuratorów i opiekunów sal
+D: 8:30 Obchodzisz sale i sprawdzasz stan eksponatów | 10:30 Narada o budżecie z księgową | 13:00 Ustalasz z kuratorem temat nowej wystawy | 16:00 Oprowadzasz ważnych gości po ekspozycji
+Y: Wybierz jedną rzecz z domu i napisz do niej krótką tabliczkę, jak w muzeum: co to, skąd, po co.
+
+@1324
+H: Nie wydajesz wyroków, tylko sprawiasz, żeby sąd mógł działać: odpowiadasz za urzędników, budynek, pieniądze i procedury. Sędziowie orzekają, a ty dbasz, żeby mieli do tego warunki.
+T: Kierujesz pracą urzędników sądu | Planujesz wydatki na sąd | Poprawiasz procedury obsługi spraw | Ustalasz z sędziami sprawy organizacyjne
+D: 7:45 Sprawdzasz, czy sale rozpraw są gotowe | 9:30 Rozmowa z sędzią o brakach kadrowych | 12:00 Zatwierdzasz zakup nowego wyposażenia do biura | 15:00 Przeglądasz procedurę, przez którą akta wolno krążą
+Y: Wymyśl i zapisz pięć kroków, jak w szkole załatwić sprawę, np. zwolnienie z lekcji.
+
+@1325
+H: Kierujesz więzieniem lub zakładem poprawczym: odpowiadasz za funkcjonariuszy, bezpieczeństwo i przestrzeganie przepisów. Dużo pracy to papiery, narady i współpraca z innymi instytucjami.
+T: Nadzorujesz funkcjonariuszy i ich grafik | Tworzysz i sprawdzasz procedury bezpieczeństwa | Pilnujesz zgodności pracy z przepisami | Współpracujesz z instytucjami spoza zakładu
+D: 7:00 Odprawa: raport o tym, co działo się w nocy | 9:00 Narada o nowej procedurze przeszukań | 12:00 Rozmowa z psychologiem o programie dla osadzonych | 15:00 Podpisujesz dokumenty i odpowiadasz na pisma
+Y: Wymyśl i zapisz pięć zasad dla swojej klasy na wycieczce, tak by dało się je łatwo sprawdzić.
+
+@1326
+H: Prowadzisz biuro, w którym tłumacze zamieniają teksty na inne języki: umowy, instrukcje, strony internetowe. Przyjmujesz zlecenia, dzielisz je między ludzi i pilnujesz, żeby tekst wyszedł bez błędów.
+T: Wyceniasz zlecenia i ustalasz terminy | Dobierasz tłumacza do dziedziny tekstu | Zlecasz sprawdzenie gotowych przekładów | Odpowiadasz na reklamacje klientów
+D: 8:30 Przychodzi pilna umowa do przetłumaczenia na jutro | 11:00 Dzielisz długą instrukcję między trzech tłumaczy | 14:00 Klient zgłasza błąd w gotowym tekście | 16:30 Czytasz końcową wersję przed wysłaniem
+Y: Przetłumacz na obcy język krótką instrukcję, jak zrobić kanapkę, a potem sprawdź ją w słowniku.
+
+@1327
+H: Decydujesz, jak ma wyglądać program teatru, orkiestry lub zespołu tanecznego: co zostanie zagrane, kto wystąpi i w jakim stylu. Odpowiadasz też za ludzi i pieniądze.
+T: Wybierasz repertuar na cały sezon | Dobierasz reżyserów, dyrygentów lub choreografów | Rozmawiasz z artystami o ich pomysłach | Pilnujesz budżetu i planu finansowego
+D: 10:00 Oglądasz próbę nowego spektaklu i robisz notatki | 12:30 Rozmowa z reżyserem o zmianie w obsadzie | 15:00 Spotkanie o budżecie na przyszły sezon | 19:00 Siedzisz na premierze i obserwujesz reakcje widzów
+Y: Ułóż listę pięciu utworów lub filmów na wieczór dla znajomych i uzasadnij każdy wybór jednym zdaniem.
+
+@1328
+H: Zarządzasz biblioteką: ludźmi, zbiorami i budżetem. Dbasz, żeby czytelnicy znaleźli to, czego szukają, i żeby sprzęt oraz książki służyły długo.
+T: Układasz grafik bibliotekarzy | Planujesz zakup nowych książek z budżetu | Szkolisz nowych pracowników | Pilnujesz, jak działają wypożyczalnia i czytelnia
+D: 8:00 Otwierasz bibliotekę i sprawdzasz, kto jest w pracy | 10:00 Wyjaśniasz nowej osobie zasady wypożyczeń | 13:00 Wybierasz książki do zamówienia z listy życzeń | 16:00 Liczysz, na co starczy pieniędzy w kwartale
+Y: Ułóż książki na jednej półce w domu według własnego systemu i napisz trzy zasady tego porządku.
+
+@1329
+H: Pilnujesz, ile energii zużywa firma lub instytucja, i szukasz sposobów, żeby zużywać mniej i taniej. Porównujesz źródła energii i liczysz, co się opłaca.
+T: Analizujesz zużycie energii w budynkach | Szukasz miejsc, w których energia się marnuje | Porównujesz źródła energii pod kątem kosztów | Przygotowujesz plany oszczędzania dla zarządu
+D: 8:30 Przeglądasz wykresy zużycia z ostatniego miesiąca | 10:30 Obchodzisz halę i szukasz nieszczelnych miejsc | 13:00 Porównujesz oferty dwóch dostawców energii | 15:30 Prezentujesz zarządowi plan obniżenia rachunków
+Y: Przejdź po swoim pokoju i zapisz pięć sposobów, w jakie można tam zaoszczędzić energię.
+
+@1330
+H: Doradzasz urzędom, jak chronić przyrodę i zdrowie mieszkańców: od odpadów po parki. Oceniasz zagrożenia w regionie i prowadzisz kampanie, które mają coś zmienić.
+T: Oceniasz zagrożenia dla przyrody w regionie | Doradzasz urzędom przy tworzeniu przepisów | Planujesz kampanie o segregacji odpadów | Pilnujesz składowisk i terenów zielonych
+D: 8:30 Czytasz raport o jakości wód w rzece | 10:30 Spotkanie z urzędnikami o planie zbiórki odpadów | 13:00 Oglądasz na miejscu teren zaniedbanego składowiska | 16:00 Piszesz hasła i plan kampanii dla mieszkańców
+Y: Policz, ile rodzajów odpadów wyrzuca twoja rodzina w ciągu dnia, i zapisz, co z nich da się ponownie użyć.
+
+@1331
+H: Kierujesz laboratorium, które bada próbki krwi i innych materiałów dla lekarzy. Układasz pracę zespołu, pilnujesz sprzętu i zasad bezpieczeństwa.
+T: Układasz harmonogram pracy diagnostów | Sprawdzasz, czy badania idą zgodnie z procedurami | Zamawiasz odczynniki i naprawy sprzętu | Pilnujesz zasad higieny i bezpieczeństwa
+D: 7:00 Odprawa: ile próbek przyjechało w nocy | 9:00 Maszyna do badań krwi zgłasza błąd | 12:00 Rozmowa z lekarzem o opóźnionym wyniku | 15:00 Kontrola, czy zespół stosuje zasady bezpieczeństwa
+Y: Wymyśl i zapisz kolejność siedmiu ruchów dokładnego mycia rąk, a potem umyj je według niej.
+
+@1332
+H: Kierujesz stacją, z której wyjeżdżają ratownicy do wypadków i nagłych zachorowań. Układasz dyżury, pilnujesz sprzętu i dbasz, żeby akcje były bezpieczne i zgodne z przepisami.
+T: Układasz grafik dyżurów ratowników | Sprawdzasz gotowość sprzętu i pojazdów | Omawiasz z zespołem przebieg trudnych akcji | Załatwiasz sprawy administracyjne stacji
+D: 7:00 Przejmujesz informacje po nocnej zmianie | 9:00 Kontrolujesz, czy wyposażenie karetek jest kompletne | 12:00 Rozmawiasz z dyspozytorem o brakach w zespołach | 15:00 Wypełniasz sprawozdania i układasz grafik na miesiąc
+Y: Przypomnij sobie numer alarmowy i zapisz trzy informacje, które trzeba podać, zgłaszając wypadek.
+
+@1333
+H: Odpowiadasz za część teatru lub kina, w której czekają i siedzą widzowie: bilety, bufet, wejścia, porządek. Chodzi o to, żeby goście bez stresu trafili na swoje miejsca.
+T: Pilnujesz sprzedaży biletów i wejść | Organizujesz obsługę bufetu i poczęstunku | Kierujesz zespołem obsługi widowni | Uzgadniasz z kierownikiem miejsca godzinę otwarcia drzwi
+D: 15:00 Sprawdzasz, czy foyer jest czyste i oznaczone | 17:00 Odprawa z obsługą: kto stoi przy którym wejściu | 18:30 Otwierasz drzwi, a tłum szuka swoich miejsc | 21:00 W przerwie rozwiązujesz problem z kolejką i biletem
+Y: Narysuj plan domowego seansu filmowego dla ośmiu osób: miejsca, wejście i stolik z przekąskami.
+
+@1334
+H: Pilnujesz, żeby newslettery, instrukcje, raporty i strony internetowe firmy powstały na czas i trafiły do właściwych czytelników. Koordynujesz autorów, redaktorów i grafików.
+T: Planujesz harmonogram wydania publikacji | Rozdzielasz teksty między redaktorów i grafików | Sprawdzasz gotowe materiały przed publikacją | Ustalasz, jakimi kanałami publikacja dotrze do odbiorców
+D: 9:00 Poranna odprawa: co wychodzi w tym tygodniu | 11:00 Autor spóźnia się z tekstem, negocjujesz nowy termin | 13:30 Czytasz skład newslettera i szukasz literówek | 16:00 Ustalasz, kiedy i gdzie ukażą się materiały
+Y: Zaplanuj gazetkę klasową na jednej kartce: trzy tematy, autorzy i termin oddania każdego tekstu.
+
+@1335
+H: Dbasz o bezpieczeństwo tam, gdzie lądują i startują samoloty: pas, płyta postojowa, drogi dla pojazdów. Analizujesz zagrożenia, piszesz sprawozdania i poprawiasz procedury.
+T: Analizujesz zagrożenia na płycie lotniska | Piszesz sprawozdania z kontroli bezpieczeństwa | Sprawdzasz zgodność pracy z przepisami lotniczymi | Poprawiasz procedury dla pracowników strefy operacyjnej
+D: 6:30 Obchód strefy operacyjnej przed pierwszymi lotami | 9:00 Czytasz zgłoszenie o ptakach przy pasie startowym | 12:00 Piszesz raport z analizy zagrożeń | 15:00 Szkolisz obsługę naziemną z nowej procedury
+Y: Znajdź w domu trzy miejsca, w których łatwo się potknąć lub poślizgnąć, i zapisz, jak zmniejszyć ryzyko.
+
+@1336
+H: Dbasz o to, żeby urządzenia śledzące samoloty, naziemne i pokładowe, działały bezpiecznie i pasowały do siebie. Uzgadniasz kody i ustawienia, żeby systemy się nie myliły.
+T: Sprawdzasz, czy systemy dozorowania pasują do siebie | Analizujesz dane techniczne urządzeń naziemnych i pokładowych | Koordynujesz przydział kodów identyfikacyjnych | Uzgadniasz wspólne zasady z innymi instytucjami lotniczymi
+D: 8:30 Czytasz zgłoszenie o zakłóceniach w śledzeniu samolotów | 10:30 Porównujesz specyfikacje dwóch urządzeń od różnych producentów | 13:00 Telekonferencja o wspólnych kodach z partnerami z zagranicy | 15:30 Piszesz opinię, czy nowy system pasuje do reszty
+Y: Wymyśl system oznaczeń dla dziesięciu przedmiotów w domu tak, by żadne dwa kody się nie powtórzyły.
+
+@1337
+H: Zajmujesz się tym, jak najlepiej wykorzystać niebo nad Europą: gdzie i kiedy mogą latać samoloty, żeby było bezpiecznie i bez zbędnych opóźnień. Pracujesz na planach, analizach i uzgodnieniach między krajami.
+T: Analizujesz natężenie ruchu lotniczego | Planujesz nowe podziały i trasy w przestrzeni powietrznej | Szukasz sposobów na większą przepustowość sieci | Uzgadniasz zmiany z liniami lotniczymi i służbami
+D: 8:30 Sprawdzasz, gdzie wczoraj tworzyły się opóźnienia | 10:30 Analizujesz, jak zmiana trasy odciąży zatłoczony sektor | 13:00 Spotkanie z liniami lotniczymi o nowych trasach | 15:30 Opisujesz proponowane zmiany w raporcie
+Y: Narysuj plan szkolnego korytarza i strzałkami zaplanuj ruch uczniów, tak by w przerwie nikt na siebie nie wpadał.
+
+@1338
+H: Dbasz o to, by piloci, kontrolerzy i systemy mogły się ze sobą porozumiewać. Planujesz infrastrukturę łączności i dzielisz dostępne częstotliwości tak, by się nie zagłuszały.
+T: Planujesz projekty infrastruktury łączności lotniczej | Przydzielasz częstotliwości radiowe różnym użytkownikom | Sprawdzasz, czy kanały łączności się nie zagłuszają | Uzgadniasz rozwiązania z innymi krajami
+D: 8:30 Czytasz raport o zakłóceniach na jednym kanale | 10:30 Szukasz wolnej częstotliwości dla nowej wieży kontroli | 13:00 Spotkanie projektowe o nowej sieci łączności | 15:30 Wysyłasz uzgodnienia do zagranicznych partnerów
+Y: Z kimś w domu ustal trzy gesty, którymi przekażecie sobie komunikat z drugiego końca pokoju.
+
+@1339
+H: Decydujesz, które rękopisy staną się książkami. Nadzorujesz też, jak książka powstaje, jak ją promować i jak trafia do księgarń.
+T: Wybierasz rękopisy do wydania | Rozmawiasz z redaktorami o ich propozycjach | Zatwierdzasz projekt i druk książki | Planujesz promocję i dystrybucję nowości
+D: 9:00 Czytasz fragment rękopisu od debiutanta | 11:00 Narada z redaktorami: które książki wchodzą do planu | 14:00 Oglądasz projekt okładki i akceptujesz go do druku | 16:00 Ustalasz z księgarniami termin premiery
+Y: Przeczytaj pierwsze dwie strony dowolnej książki i w trzech zdaniach uzasadnij, czy warto ją wydać.
+
+@1340
+H: Kierujesz elektrownią, czyli miejscem, które produkuje prąd i wysyła go do sieci. Pilnujesz produkcji, remontów i bezpieczeństwa oraz budowy i utrzymania sieci przesyłowej.
+T: Koordynujesz produkcję energii w zakładzie | Nadzorujesz przeglądy i remonty urządzeń | Planujesz budowę i rozbudowę linii przesyłowych | Podejmujesz decyzje podczas awarii zasilania
+D: 6:30 Odprawa z kierownikami zmian po nocy | 9:00 Obchód hali z turbinami razem z inżynierem | 12:30 Awaria linii, decydujesz o przekierowaniu energii | 15:00 Spotkanie o terminie planowanego remontu bloku
+Y: Zapytaj domowników, o których godzinach używają najwięcej urządzeń, i narysuj z tego prosty wykres dobowy.
+
+@1341
+H: Dbasz o budynki, w których działa fabryka: ich przeglądy, bezpieczeństwo, ochronę przeciwpożarową i czystość. Nie kierujesz produkcją, tylko tym, żeby hale i instalacje nadawały się do pracy.
+T: Planujesz przeglądy i naprawy hal | Nadzorujesz pracę firm zewnętrznych | Kontrolujesz zasady BHP i ochrony przeciwpożarowej | Sprawdzasz, czy firma sprzątająca robi swoje
+D: 7:00 Obchód hal: przeciek w dachu, zepsuta brama | 9:30 Rozmowa z firmą, która remontuje instalację | 12:00 Kontrola gaśnic i oznaczeń dróg ewakuacyjnych | 15:00 Piszesz plan konserwacji na następny kwartał
+Y: Obejdź swój dom i zapisz pięć rzeczy, które wymagają naprawy lub przeglądu, od najpilniejszej.
+
+@1342
+H: Odpowiadasz za zakład, w którym odlewa się metalowe elementy. Planujesz produkcję na najbliższe tygodnie i miesiące oraz dbasz, żeby maszyny i procesy działały bez przestojów.
+T: Układasz plan produkcji na najbliższe miesiące | Rozmawiasz z działem konserwacji o maszynach | Ulepszasz procesy odlewnicze razem z inżynierami | Szukasz przyczyn wadliwych odlewów
+D: 6:00 Zmiana zaczyna się, sprawdzasz plan na dziś | 8:30 Inżynier pokazuje wadliwe odlewy z nocy | 11:00 Konserwatorzy zgłaszają awarię jednej z maszyn | 14:00 Planujesz zamówienia na przyszły miesiąc
+Y: Zrób w plastelinie lub mokrym piasku odcisk guzika i sprawdź, czy kształt wyszedł dokładnie.
+
+@1343
+H: Odpowiadasz za to, żeby woda z kranów była czysta: nadzorujesz jej oczyszczanie, magazynowanie i dostarczanie. Pilnujesz przepisów, ludzi i sprawności urządzeń.
+T: Nadzorujesz oczyszczanie i magazynowanie wody | Pilnujesz zgodności pracy stacji z przepisami | Kierujesz zespołem obsługi i konserwatorów | Planujesz konserwację i wymianę sprzętu
+D: 6:30 Sprawdzasz wyniki porannych badań wody | 9:00 Obchód stacji razem z konserwatorem | 11:30 Awaria pompy, organizujesz szybką naprawę | 14:00 Tłumaczysz zespołowi nową zasadę kontroli
+Y: Napełnij szklankę wodą z kranu i opisz jej wygląd, zapach i przezroczystość w trzech zdaniach.
+
+@1344
+H: Prowadzisz zakład, który przerabia drewno na deski, elementy lub meble, i zajmujesz się też jego sprzedażą. Planujesz, skąd kupić drewno, komu je sprzedać i jak obsłużyć klientów.
+T: Kupujesz drewno od dostawców | Planujesz sprzedaż desek i wyrobów z drewna | Rozmawiasz z klientami o zamówieniach | Kontrolujesz plan i koszty zakładu
+D: 7:00 Oglądasz dostawę drewna i oceniasz jego jakość | 9:30 Telefon od klienta, który chce większe zamówienie | 12:00 Układasz plan pracy hali na tydzień | 15:00 Negocjujesz cenę desek z dużym odbiorcą
+Y: Obejrzyj trzy drewniane przedmioty w domu i zapisz, jaki mają kolor, usłojenie i do czego służą.
+
+@1345
+H: Kierujesz zakładem, który produkuje wyroby chemiczne. Odpowiadasz za jakość produktów, bezpieczeństwo załogi, ochronę środowiska i za to, żeby zakład zarabiał.
+T: Koordynujesz bieżącą produkcję w zakładzie | Pilnujesz bezpieczeństwa załogi i środowiska | Planujesz inwestycje i budżet zakładu | Reprezentujesz zakład wobec urzędów i mieszkańców
+D: 6:30 Odprawa: wyniki jakości z nocnej produkcji | 9:00 Obchód instalacji z inspektorem bezpieczeństwa | 12:00 Spotkanie z urzędnikiem o wpływie zakładu na okolicę | 15:00 Zatwierdzasz budżet na nową linię produkcyjną
+Y: Zapisz trzy zasady bezpieczeństwa, które powinny obowiązywać w szkolnej pracowni, i uzasadnij każdą.
+
+@1346
+H: Odpowiadasz za to, żeby budynek firmy lub instytucji działał: był czysty, bezpieczny, naprawiany i dobrze wykorzystany. Pilnujesz wykonawców i planujesz, kto gdzie siedzi.
+T: Planujesz konserwację i naprawy budynku | Nadzorujesz firmy sprzątające i remontowe | Kontrolujesz zgodność budynku z przepisami BHP | Rozdzielasz biura i sale między działy
+D: 7:30 Zgłoszenie: w biurowcu nie działa winda | 10:00 Spotkanie z wykonawcą remontu łazienek | 13:00 Przydzielasz dwóm działom nowe piętro | 15:30 Sprawdzasz, czy sprzątanie wykonano zgodnie z umową
+Y: Narysuj plan swojego mieszkania i zaplanuj, gdzie postawić wspólną strefę do nauki dla całej rodziny.
+
+@1347
+H: Odpowiadasz za usługi, które twoja firma świadczy innym firmom. Ustalasz z klientami, co dokładnie dostaną, i pilnujesz, żeby umowa została wykonana.
+T: Rozmawiasz z klientem o jego potrzebach | Dopasowujesz zakres usługi do wymagań klienta | Uzgadniasz warunki umowy dla obu stron | Sprawdzasz, czy zespół dotrzymuje obietnic
+D: 9:00 Rozmowa z nową firmą: czego jej potrzeba | 11:00 Układasz ofertę dopasowaną do jej budżetu | 13:30 Negocjujesz zapisy umowy z prawnikiem klienta | 16:00 Sprawdzasz z zespołem, jak idzie realizacja usługi
+Y: Wymyśl usługę dla sąsiada, np. podlewanie roślin, i zapisz, co dokładnie dostanie i na jakich warunkach.
+
+@1348
+H: Odpowiadasz za bezpieczeństwo ludzi i mienia firmy: pracowników, klientów, budynków, pojazdów. Piszesz procedury na wypadek kryzysu, oceniasz ryzyka i kierujesz zespołem ochrony.
+T: Oceniasz słabe punkty w ochronie obiektu | Piszesz procedury reagowania na kryzysy | Kierujesz zespołem pracowników ochrony | Sprawdzasz, czy wszyscy stosują zasady bezpieczeństwa
+D: 7:00 Czytasz raport z nocnego dyżuru ochrony | 9:30 Obchód budynku w poszukiwaniu słabych punktów | 12:00 Ćwiczenie ewakuacji z pracownikami całego piętra | 15:00 Poprawiasz procedurę po zgłoszeniu kradzieży
+Y: Zapisz plan ewakuacji z twojego mieszkania: dwie drogi wyjścia i miejsce zbiórki przed blokiem.
+
+@1349
+H: Pilnujesz, żeby usługi firmy spełniały obietnice dane klientom i wewnętrzne normy. Mierzysz wyniki, szukasz, gdzie coś zawodzi, i wprowadzasz zmiany.
+T: Ustalasz normy jakości usług | Mierzysz wyniki i zbierasz opinie klientów | Szukasz przyczyn powtarzających się błędów | Wprowadzasz zmiany w sposobie pracy zespołów
+D: 8:30 Przeglądasz skargi klientów z ostatniego tygodnia | 10:30 Rozmawiasz z zespołem, gdzie proces się zacina | 13:00 Liczysz, jak często usługa się spóźnia | 15:30 Przedstawiasz kierownikom nową zasadę kontroli
+Y: Oceń jakość pięciu rzeczy z plecaka w skali jeden do pięciu i zapisz, co należałoby poprawić.
+

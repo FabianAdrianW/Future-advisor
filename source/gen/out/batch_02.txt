@@ -1,0 +1,180 @@
+@120
+H: Oglądasz uszyte ubrania i szukasz w nich wad, zanim trafią do sklepu. Decydujesz, które sztuki są dobre, a które wracają do poprawki.
+T: Oglądasz szwy, guziki i zamki | Mierzysz części i porównujesz z wzorcem | Sortujesz ubrania według jakości | Odkładasz wadliwe sztuki do poprawki
+D: 6:30 Zaczynasz zmianę przy stole z partią kurtek | 9:00 Mierzysz rękawy i sprawdzasz symetrię kieszeni | 11:30 Znajdujesz krzywy szew i odkładasz sztukę | 14:00 Zapisujesz liczbę wadliwych sztuk z partii
+Y: Obejrzyj swoją ulubioną koszulkę od środka i znajdź trzy rzeczy, które świadczą o jej jakości lub wadzie.
+
+@121
+H: Sprawdzasz, czy tkaniny i dzianiny mają taki splot, kolor i wytrzymałość, jakie zamówił klient. Szukasz plam, zaciągnięć i nierówności, zanim materiał pójdzie dalej.
+T: Rozwijasz zwój tkaniny na stole kontrolnym | Szukasz plam, zaciągnięć i dziur | Porównujesz kolor i gramaturę ze wzorem | Zaznaczasz miejsca z błędami
+D: 6:00 Zaczynasz od zwoju tkaniny na maszynie kontrolnej | 8:30 Zaznaczasz kredą miejsce z zaciągnięciem nitki | 11:00 Porównujesz kolor partii z próbką wzorcową | 13:00 Wypełniasz kartę kontroli dla działu produkcji
+Y: Rozciągnij kawałek starej tkaniny albo skarpetę pod światło i opisz, czym różnią się miejsca gęstsze od rzadszych.
+
+@122
+H: Sprawdzasz gotowe cygara: czy są równo zwinięte, mają właściwą wagę i nie mają wad liścia. Sortujesz je i odrzucasz te, które odbiegają od wzoru.
+T: Oglądasz liść okrywowy i zwinięcie | Ważysz cygara na wadze | Sortujesz cygara według wyglądu | Odrzucasz sztuki z wadami
+D: 7:00 Odbierasz partię cygar z hali zwijania | 9:00 Ważysz próbkę i zapisujesz odchylenia | 11:00 Sortujesz cygara na grupy według barwy liścia | 13:30 Odkładasz złamane sztuki i opisujesz wadę
+Y: Zważ na kuchennej wadze pięć jabłek lub ziemniaków i sprawdź, o ile różnią się masą.
+
+@123
+H: Oglądasz deski prosto z tartaku i sprawdzasz, czy mają sęki, pęknięcia lub krzywizny. Na tej podstawie przypisujesz im klasę jakości.
+T: Oglądasz deski z każdej strony | Wyszukujesz sęki, pęknięcia i krzywizny | Oceniasz rysunek słojów | Oznaczasz deski klasą jakości
+D: 6:30 Deski wyjeżdżają z tartaku na taśmie | 8:30 Przesuwasz dłonią po desce i szukasz pęknięć | 11:00 Oznaczasz kredą klasę na czole desek | 13:00 Odsuwasz zbyt krzywe deski na osobny stos
+Y: Znajdź w domu drewniany przedmiot, policz na nim sęki i sprawdź, czy nie jest wygięty.
+
+@124
+H: Oceniasz masę włóknistą, z której robi się papier: z czego powstała, jak była bielona i jak długie ma włókna. Na tej podstawie przypisujesz jej klasę.
+T: Pobierasz próbki pulpy z partii | Sprawdzasz długość włókien | Ustalasz surowiec i metodę bielenia | Przypisujesz partii klasę
+D: 7:00 Odbierasz próbki pulpy z linii produkcyjnej | 9:30 Rozcierasz próbkę i oceniasz długość włókien | 12:00 Sprawdzasz w dokumentach, z jakiego surowca powstała partia | 14:00 Wpisujesz klasę i przekazujesz partię dalej
+Y: Rozedrzyj kartkę z zeszytu raz wzdłuż, raz w poprzek i porównaj, który brzeg jest równiejszy.
+
+@125
+H: Sprawdzasz płyty, sklejki i inne gotowe wyroby z drewna pod kątem skaz, wypaczeń i słabego sklejenia. Badasz też, ile obciążenia wytrzymują, i sortujesz je według klas.
+T: Oglądasz płyty i sklejki z bliska | Szukasz wypaczeń i rozklejonych warstw | Sprawdzasz wytrzymałość na obciążenie | Sortujesz wyroby według wytycznych
+D: 6:00 Stos płyt czeka na kontrolę przy hali | 8:30 Układasz płytę na stole i szukasz wypaczeń | 11:00 Testujesz, ile ciężaru wytrzyma deska | 13:30 Segregujesz płyty na klasy i opisujesz partię
+Y: Postaw dwie książki jako podpórki, połóż na nich linijkę i sprawdź, ile lekkich przedmiotów wytrzyma.
+
+@126
+H: Sprawdzasz materiały i produkty na kolejnych etapach produkcji i oceniasz, czy spełniają normę. Gdy coś nie pasuje, odsyłasz to do naprawy lub poprawki.
+T: Pobierasz próbki z różnych etapów produkcji | Mierzysz i porównujesz z normą | Klasyfikujesz materiały według jakości | Odsyłasz wadliwe partie do poprawki
+D: 7:00 Obchodzisz halę i pobierasz próbki z linii | 9:30 Sprawdzasz wymiary elementów suwmiarką i wzorcem | 12:00 Notujesz, że jedna partia nie spełnia normy | 14:00 Rozmawiasz z mistrzem o odesłaniu partii do poprawki
+Y: Zmierz linijką pięć ołówków lub długopisów i sprawdź, czy wszystkie mają dokładnie taką samą długość.
+
+@127
+H: Oglądasz buty i materiały, z których powstają, i decydujesz, czy je przyjąć, czy odrzucić. Wyniki zapisujesz w raportach dla działu jakości.
+T: Oglądasz cholewki, podeszwy i szwy | Porównujesz buty ze wzorcowym egzemplarzem | Decydujesz o przyjęciu lub odrzuceniu | Piszesz raporty dla działu jakości
+D: 7:00 Dostajesz pierwsze pary z linii montażu | 9:00 Oglądasz klejenie podeszwy i równość szwów | 11:30 Odrzucasz parę z przebarwioną skórą | 14:00 Opisujesz powtarzającą się wadę w raporcie
+Y: Obejrzyj swoje buty i porównaj lewy z prawym: sprawdź szwy, klejenie i symetrię. Zapisz trzy różnice.
+
+@128
+H: Sprawdzasz produkty w fabryce przed produkcją, w jej trakcie i po niej. Gdy coś działa źle albo wygląda inaczej, niż powinno, odsyłasz to do naprawy i szukasz przyczyny.
+T: Sprawdzasz produkty na różnych etapach | Testujesz, czy wyrób działa poprawnie | Odsyłasz gorsze sztuki do naprawy | Szukasz przyczyny powtarzających się problemów
+D: 7:00 Sprawdzasz pierwsze sztuki po uruchomieniu linii | 10:00 Testujesz losowe wyroby ze środka partii | 12:30 Odsyłasz źle działający wyrób do naprawy | 14:30 Rozmawiasz z operatorem maszyny o powtarzającej się wadzie
+Y: Weź swój plecak i sprawdź po kolei zamki, szwy i szelki. Zapisz, co działa, a co nie.
+
+@129
+H: Badasz metalowe elementy na różnych etapach produkcji i sprawdzasz, czy spełniają normę. Wadliwe sztuki testujesz i odsyłasz do naprawy.
+T: Mierzysz wymiary metalowych elementów | Oglądasz powierzchnię w poszukiwaniu rys | Testujesz wytrzymałość i dopasowanie | Odsyłasz wadliwe wyroby do naprawy
+D: 7:00 Odbierasz skrzynię elementów z obróbki | 9:30 Mierzysz średnice otworów i grubość blachy | 12:00 Znajdujesz rysę na powierzchni i odkładasz sztukę | 14:00 Wpisujesz wyniki pomiarów do dokumentu kontroli
+Y: Obejrzyj sztućce lub klucz w domu i poszukaj rys, wgnieceń i nierówności krawędzi. Opisz najgorszą wadę.
+
+@130
+H: Oglądasz torebki, paski i inne wyroby ze skóry i oceniasz wygląd, kolor oraz proste szwy. Robisz też testy, które w krótkim czasie pokazują, jak produkt się zużyje.
+T: Sprawdzasz szwy i wykończenie krawędzi | Porównujesz kolor skóry ze wzorem | Szukasz zmarszczeń i zabrudzeń | Przeprowadzasz przyspieszone testy zużycia
+D: 7:30 Rozpakowujesz partię torebek na stole kontrolnym | 9:30 Sprawdzasz, czy szwy biegną idealnie prosto | 11:30 Porównujesz kolor dwóch pasków w świetle dziennym | 13:30 Uruchamiasz test, który imituje miesiące użytkowania
+Y: Obejrzyj dowolny pasek lub portfel w domu i sprawdź, czy szwy są proste, a kolor jednolity.
+
+@131
+H: Prowadzisz prototypy aut, które jeszcze nie trafiły do sprzedaży, i oceniasz ich zachowanie, bezpieczeństwo i komfort. Swoje spostrzeżenia opisujesz w raportach dla inżynierów.
+T: Prowadzisz prototypy w różnych warunkach | Oceniasz hamowanie, skręcanie i komfort | Zapisujesz usterki i dziwne odgłosy | Piszesz raporty dla inżynierów
+D: 6:30 Odbierasz prototyp i czytasz plan dzisiejszych testów | 8:00 Wyjeżdżasz na tor i oceniasz zachowanie w zakręcie | 12:00 Testujesz hamowanie na mokrej nawierzchni | 15:00 Opisujesz inżynierom, co jest niewygodne i niepokojące
+Y: Usiądź na krześle, na którym zwykle odrabiasz lekcje, i opisz w pięciu punktach jego komfort, jak w raporcie.
+
+@132
+H: Oglądasz cienkie arkusze drewna, którymi okleja się meble, i szukasz w nich skaz i błędów produkcji. Oceniasz też, czy rysunek słojów jest ładny, i przypisujesz arkuszom klasy.
+T: Przeglądasz arkusze forniru pod światło | Wychwytujesz pęknięcia, dziury i przebarwienia | Oceniasz atrakcyjność rysunku słojów | Układasz arkusze w stosy według klas
+D: 7:00 Dostajesz paczkę arkuszy forniru dębowego | 9:00 Przeglądasz każdy arkusz pod lampą | 11:30 Odkładasz arkusz z pęknięciem na osobny stos | 13:30 Wybierasz najładniejsze rysunki na drzwi szafy
+Y: Znajdź w domu mebel z fornirem lub drewnem i opisz, jak układają się słoje. Który fragment jest najładniejszy?
+
+@133
+H: Testujesz tablice sterownicze, czyli skrzynki pełne połączonych przewodów. Czytasz plan połączeń, sprawdzasz, czy każdy przewód jest tam, gdzie powinien, i poprawiasz błędy.
+T: Czytasz schematy połączeń | Porównujesz przewody z planem | Mierzysz i testujesz działanie tablicy | Poprawiasz wadliwe przewody i elementy
+D: 7:00 Rozkładasz plan połączeń obok nowej tablicy | 9:00 Sprawdzasz, czy każdy przewód trafia do właściwego zacisku | 11:30 Mierzysz, który obwód nie działa jak trzeba | 13:30 Poprawiasz źle podłączony przewód i testujesz ponownie
+Y: Narysuj pięć punktów, połącz je kolorowymi liniami według planu i sprawdź, czy każda linia kończy się we właściwym punkcie.
+
+@134
+H: Sprawdzasz płytki z elektroniką, takie jak te w telefonie czy pralce, i wykonujesz na nich serię testów. Drobne usterki poprawiasz od razu na stanowisku.
+T: Oglądasz płytki pod lupą | Wykonujesz serię testów elektrycznych | Znajdujesz przerwane ścieżki i zwarcia | Naprawiasz drobne usterki na płytce
+D: 7:00 Dostajesz tacę świeżo zmontowanych płytek | 9:00 Oglądasz lutowania pod powiększeniem i szukasz błędów | 11:30 Uruchamiasz test i płytka nie przechodzi | 13:30 Naprawiasz drobny defekt i testujesz ponownie
+Y: Obejrzyj w internecie zdjęcie płytki z elektroniką z bliska i policz, ile ma rodzajów elementów.
+
+@135
+H: Mierzysz, ile energii mieści akumulator i jak szybko traci siłę, a także badasz odrzucone baterie, by znaleźć powód usterki. Używasz do tego specjalnych przewodów i mierników.
+T: Podłączasz akumulator do miernika | Sprawdzasz pojemność i opór ogniwa | Badasz odrzucone baterie | Zapisujesz przyczyny usterek
+D: 7:00 Zaczynasz od partii akumulatorów do przeglądu | 9:00 Mierzysz pojemność kolejnych sztuk | 11:30 Testujesz odrzuconą baterię i szukasz przyczyny usterki | 14:00 Zapisujesz, które egzemplarze nie spełniają normy
+Y: Zrób listę pięciu urządzeń w domu zasilanych baterią i zapisz, które z nich najszybciej się rozładowuje.
+
+@136
+H: Obsługujesz maszynę z kamerami, która ogląda zmontowane płytki elektroniczne i wyłapuje wady. Czytasz plany i oceniasz, czy zgłoszona wada jest prawdziwa.
+T: Ładujesz płytki do maszyny kamerowej | Wczytujesz plan i program kontroli | Oceniasz zgłoszone wady na ekranie | Odkładasz płytki z usterkami
+D: 6:00 Przygotowujesz maszynę i wczytujesz plan płytki | 8:00 Maszyna fotografuje kolejne płytki, ty pilnujesz ekranu | 10:30 Maszyna zgłasza wadę, oglądasz ją w powiększeniu | 13:00 Odkładasz płytki z prawdziwą wadą do naprawy
+Y: Znajdź w internecie zagadkę z szukaniem różnic między dwoma obrazkami i rozwiąż ją w dziesięć minut.
+
+@137
+H: Badasz konstrukcje, spawy i części, nie uszkadzając ich, za pomocą promieni, ultradźwięków lub kamer na podczerwień. Na podstawie wyników piszesz raport, czy element jest bezpieczny.
+T: Prześwietlasz spawy i elementy promieniami | Badasz konstrukcje ultradźwiękami | Odczytujesz wyniki z obrazów i wykresów | Piszesz raport o stanie elementu
+D: 7:00 Dojeżdżasz do zakładu i przygotowujesz aparaturę | 9:00 Badasz spoiny zbiornika głowicą ultradźwiękową | 12:00 Na obrazie widzisz ukrytą pustkę w spawie | 15:00 Piszesz raport i oceniasz, czy element jest bezpieczny
+Y: Postukaj łyżką w różne kubki, miski i garnki; zapisz, który dźwięk jest czysty, a który głuchy.
+
+@138
+H: Nurkujesz niezbyt głęboko i zbierasz z dna glony, korale, jeżowce czy gąbki. Pracujesz na wstrzymanym oddechu lub z powietrzem podawanym z powierzchni.
+T: Nurkujesz na wstrzymanym oddechu lub z wężem | Wyszukujesz glony, jeżowce i gąbki | Zbierasz zasoby ostrożnie, bez niszczenia dna | Wynosisz zebrane okazy na powierzchnię
+D: 6:00 Sprawdzasz sprzęt i pogodę przed wypłynięciem | 8:00 Schodzisz pod wodę i szukasz gąbek | 10:30 Zbierasz okazy do siatki, uważając na dno | 13:00 Wracasz na brzeg i sortujesz połów
+Y: Wyszukaj w internecie sygnały ręczne używane przez nurków pod wodą i naucz się pokazywać pięć z nich.
+
+@139
+H: Pracujesz pod wodą przy kanałach, śluzach i konstrukcjach portowych: instalujesz urządzenia, oglądasz konstrukcje i naprawiasz je. Pracujesz w ciężkich warunkach, więc liczy się dokładny plan.
+T: Instalujesz urządzenia pod wodą | Oglądasz konstrukcje hydrotechniczne | Naprawiasz uszkodzone elementy | Usuwasz przeszkody i stare konstrukcje
+D: 7:00 Omawiasz plan zanurzenia z kierownikiem robót | 9:00 Schodzisz pod wodę do ściany kanału | 11:00 Oglądasz pęknięcie i fotografujesz je kamerą | 14:00 Opisujesz uszkodzenie i planujesz naprawę
+Y: Narysuj prosty szkic śluzy lub zapory z przekrojem i zaznacz miejsca, które nurek musiałby sprawdzać pod wodą.
+
+@140
+H: Wkraczasz, gdy pod wodą dzieje się coś złego: szukasz ludzi lub przedmiotów i wydobywasz je. Pracujesz w morzu, kanałach i innych trudnych miejscach.
+T: Szukasz ludzi i przedmiotów pod wodą | Ratujesz poszkodowanych z wody | Sprawdzasz i obsługujesz sprzęt ratowniczy | Zapobiegasz problemom podczas nurkowania
+D: 6:30 Sprawdzasz butle i sprzęt ratowniczy w bazie | 9:00 Ćwiczysz akcję ratunkową z zespołem | 13:00 Dostajesz zgłoszenie, ktoś zniknął pod wodą | 14:30 Schodzisz pod wodę i szukasz poszkodowanego
+Y: Przećwicz na głos, jak zgłosić służbom, że ktoś tonie: gdzie jesteś, co się stało, ile osób.
+
+@141
+H: Pozbywasz się szczurów, myszy, karaluchów i innych szkodników z mieszkań, magazynów i lokali. Ustawiasz pułapki, stosujesz środki i doradzasz mieszkańcom, jak zapobiegać powrotowi szkodników.
+T: Szukasz śladów szkodników w budynku | Ustawiasz pułapki na szlakach szkodników | Stosujesz środki zgodnie z zasadami | Doradzasz klientom, jak zapobiegać powrotowi
+D: 8:00 Jedziesz do restauracji, gdzie widziano karaluchy | 9:30 Szukasz śladów i ustawiasz pułapki w kuchni | 12:00 Zabezpieczasz piwnicę przed szczurami zgodnie z procedurą | 15:00 Tłumaczysz właścicielowi, jak utrzymać porządek
+Y: Obejdź mieszkanie i poszukaj miejsc, którędy mógłby wejść szkodnik: szpary, kosze, okruchy. Zapisz pięć.
+
+@142
+H: Opryskujesz drzewa, rośliny i trawniki środkami przeciw szkodnikom i chorobom roślin. Mieszasz roztwory, obsługujesz opryskiwacze i czyścisz sprzęt po pracy.
+T: Mieszasz środki ochrony roślin | Opryskujesz drzewa i trawniki | Czyścisz i konserwujesz opryskiwacze | Pilnujesz bezpieczeństwa w obszarze zabiegu
+D: 6:00 Wcześnie rano sprawdzasz opryskiwacz i ubranie ochronne | 7:00 Przygotowujesz roztwór według instrukcji | 9:00 Opryskujesz rzędy drzew w sadzie | 13:00 Myjesz sprzęt i oznaczasz teren po zabiegu
+Y: Obejrzyj rośliny w okolicy i znajdź liść z plamami lub dziurami. Opisz, co mogło go uszkodzić.
+
+@143
+H: Rozmieszczasz materiały wybuchowe w wybranym miejscu i w kontrolowany sposób je detonujesz, by rozerwać skałę lub konstrukcję. Cała praca opiera się na procedurach bezpieczeństwa.
+T: Czytasz plan rozmieszczenia ładunków | Rozstawiasz ładunki w wyznaczonych miejscach | Odgradzasz teren i sprawdzasz, czy nikogo nie ma | Detonujesz ładunki z bezpiecznej odległości
+D: 6:30 Omawiasz plan odpalenia z kierownikiem robót | 9:00 Układasz ładunki w wyznaczonych miejscach | 12:00 Po sprawdzeniu strefy odpalasz ładunki z dystansu | 14:00 Obchodzisz teren po wybuchu i szukasz niewypałów
+Y: Narysuj plan boiska i zaznacz na nim strefę bezpieczeństwa, z której przed wydarzeniem wszyscy musieliby wyjść.
+
+@144
+H: Dbasz, żeby maszyny w elektrowni działały bez przerwy, i naprawiasz je, gdy się psują. Czasem obsługujesz je bezpośrednio, a czasem z dyspozytorni.
+T: Obsługujesz maszyny w elektrowni | Usuwasz awarie urządzeń | Dbasz, by energia płynęła bezpiecznie do sieci | Sterujesz pracą urządzeń z dyspozytorni
+D: 6:00 Dowiadujesz się od nocnej zmiany, co się działo | 8:00 Obchodzisz maszyny i sprawdzasz wskazania | 11:00 Alarm: jeden z agregatów wyłącza się sam | 14:00 Usuwasz awarię i wpisujesz ją do dziennika
+Y: Zrób listę rzeczy w domu, które przestałyby działać bez prądu, i podziel je na ważne i mniej ważne.
+
+@145
+H: Obsługujesz turbiny parowe napędzane gorącą parą z wnętrza Ziemi, które wytwarzają prąd. Pilnujesz wskazań, reagujesz na usterki i ustawiasz generatory tak, by do sieci szła odpowiednia ilość energii.
+T: Obsługujesz turbiny parowe i generatory | Odczytujesz wskazania przyrządów pomiarowych | Reagujesz na usterki instalacji | Regulujesz ilość energii wysyłanej do sieci
+D: 6:00 Czytasz wskazania ciśnienia pary w instalacji | 8:30 Obchodzisz turbiny i nasłuchujesz niepokojących dźwięków | 11:00 Zmieniasz ustawienia generatora, bo rośnie zapotrzebowanie | 14:00 Znajdujesz nieszczelność w instalacji i zgłaszasz ją
+Y: Obejrzyj schemat elektrowni geotermalnej i opisz własnymi słowami, którędy płynie para, zanim powstanie prąd.
+
+@146
+H: Pilnujesz, żeby panele i urządzenia zamieniające światło słoneczne na prąd działały sprawnie. Sprawdzasz odczyty, szukasz powodu spadku produkcji i usuwasz awarie.
+T: Monitorujesz odczyty z urządzeń pomiarowych | Szukasz przyczyn spadku produkcji | Usuwasz awarie instalacji | Dopasowujesz pracę elektrowni do potrzeb produkcji
+D: 7:00 Czytasz wykresy produkcji z poprzedniego dnia | 9:30 Widzisz spadek w jednym rzędzie paneli | 11:00 Jedziesz na pole paneli szukać przyczyny | 14:00 Usuwasz usterkę i sprawdzasz odczyty ponownie
+Y: Połóż kartkę w słonecznym oknie i co pięć minut zaznaczaj ołówkiem koniec cienia stojącego przedmiotu.
+
+@147
+H: Obsługujesz turbiny napędzane przepływem wody i ustawiasz, ile wody ma przez nie płynąć, żeby pokryć zapotrzebowanie na prąd. Wykonujesz też remonty i konserwację.
+T: Obsługujesz turbiny i generatory wodne | Regulujesz przepływ wody przez elektrownię | Odczytujesz urządzenia pomiarowe | Wykonujesz remonty i konserwację maszyn
+D: 6:00 Sprawdzasz poziom wody w zbiorniku i prognozę | 8:00 Zwiększasz przepływ, bo rośnie zapotrzebowanie na energię | 11:00 Obchodzisz turbinę i smarujesz łożyska | 14:00 Prowadzisz planowy przegląd jednej z maszyn
+Y: Przechylaj nad zlewem butelkę z wodą i obserwuj, jak zmienia się siła strumienia.
+
+@148
+H: Obsługujesz kotły, turbiny i generatory, w których z gazu lub węgla powstaje prąd. Pilnujesz, by instalacje były sprawne i zgodne z przepisami; w elektrociepłowni wykorzystujesz też ciepło odpadowe.
+T: Obsługujesz kotły, turbiny i generatory | Sprawdzasz zgodność instalacji z przepisami | Utrzymujesz w ruchu urządzenia energetyczne | Wykorzystujesz ciepło odpadowe w elektrociepłowni
+D: 6:00 Przejmujesz zmianę i czytasz stan kotłów | 8:00 Obchodzisz halę turbin z listą kontrolną | 11:00 Wykrywasz przeciek pary i zgłaszasz usterkę | 13:30 Wpisujesz zdarzenia do dziennika i przekazujesz zmianę
+Y: Narysuj prosty schemat drogi od kotła przez turbinę do gniazdka. Podpisz każdy etap własnymi słowami.
+
+@149
+H: Siedzisz w nastawni i czuwasz nad pracą elektrowni oraz stacji przesyłowych. Gdy dojdzie do awarii albo przerwy w dostawie prądu, wiesz, co robić według procedur.
+T: Monitorujesz pracę elektrowni z nastawni | Utrzymujesz maszyny i urządzenia w ruchu | Reagujesz na awarie i przerwy w dostawie | Naprawiasz urządzenia i przywracasz zasilanie
+D: 7:00 Siadasz przed ekranami stacji i czytasz alerty | 10:00 Obserwujesz wskazania w czasie normalnej pracy | 13:00 Nagle w regionie znika zasilanie, włącza się alarm | 13:30 Wydajesz polecenia i krok po kroku przywracasz zasilanie
+Y: Ułóż w kolejności plan pięciu działań na wypadek kilkugodzinnej przerwy w dostawie prądu w domu.
+

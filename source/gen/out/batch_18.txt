@@ -1,0 +1,360 @@
+@1080
+H: Składasz z drobnych części mierniki i inne przyrządy pomiarowe, a potem sprawdzasz, czy pokazują wynik dokładnie. Pracujesz według schematów, małymi narzędziami ręcznymi lub na maszynach.
+T: Czytasz schematy i rysunki montażowe | Łączysz drobne części narzędziami ręcznymi | Kalibrujesz przyrząd, żeby mierzył dokładnie | Badasz gotowe urządzenie pod kątem błędów
+D: 7:00 Rozkładasz części według rysunku montażowego | 9:00 Skręcasz mechanizm licznika małym wkrętakiem | 12:00 Kalibrujesz miernik, wynik odbiega od wzorca | 14:00 Odrzucasz egzemplarz i szukasz przyczyny błędu
+Y: Zmierz tę samą książkę linijką trzy razy i sprawdź, czy za każdym razem wynik jest identyczny.
+
+@1081
+H: Robisz i naprawiasz narzędzia, którymi chirurg operuje: zaciski, chwytaki, sondy i narzędzia tnące. Liczy się każda krawędź i każde połączenie, bo narzędzie musi działać bez zarzutu.
+T: Projektujesz zaciski, chwytaki i sondy | Formujesz i szlifujesz metalowe elementy | Składasz mechanizmy z kilku części | Naprawiasz zużyte lub uszkodzone narzędzia
+D: 7:00 Odczytujesz rysunek nowego zacisku chirurgicznego | 9:30 Szlifujesz końcówki chwytaka, aż będą gładkie | 12:00 Sprawdzasz, czy szczęki zaciskają się równo | 14:00 Z kliniki wraca narzędzie z luzem w zawiasie
+Y: Obejrzyj w kuchni zwykłe nożyczki i sprawdź, jak ich dwie części są ze sobą połączone.
+
+@1082
+H: Składasz zegary i zegarki z dziesiątek maleńkich części, mechanicznych lub elektronicznych. Pracujesz pęsetą i precyzyjnymi narzędziami, w warsztacie albo na linii w fabryce.
+T: Składasz mechanizm z maleńkich kół zębatych | Pracujesz pęsetą i precyzyjnymi narzędziami | Regulujesz mechanizm, żeby zegarek szedł dokładnie | Obsługujesz maszyny składające zegary w fabryce
+D: 8:00 Zakładasz lupę i pochylasz się nad mechanizmem | 10:00 Pęsetą wkładasz kółko zębate na swoje miejsce | 13:00 Sprawdzasz, ile sekund na dobę zegar się spieszy | 15:00 Zamykasz obudowę i pakujesz gotowy zegarek
+Y: Porównaj w domu dwa zegary i zapisz, o ile minut pokazują inną godzinę.
+
+@1083
+H: Naprawiasz zegarki i zegary: szukasz usterki, wymieniasz baterie, paski i zużyte części. Czasem odnawiasz też zabytkowe zegary.
+T: Szukasz przyczyny, dla której zegarek stanął | Wymieniasz baterie i paski | Oliwisz mechanizm i wymieniasz zużyte części | Odnawiasz zabytkowe zegary
+D: 9:00 Klient przynosi zegarek po dziadku, który stanął | 10:30 Otwierasz kopertę i oglądasz mechanizm pod lupą | 13:00 Wymieniasz baterię i pasek w trzech zegarkach | 16:00 Oliwisz mechanizm starego zegara i puszczasz go w ruch
+Y: Obejrzyj w domu stary zegarek lub budzik i opisz trzy rzeczy, które mogłyby się w nim zepsuć.
+
+@1084
+H: Robisz papier od zera: masę papierniczą rozprowadzasz na ekranie i suszysz powstałą kartkę. Pracujesz rękami, często w wilgoci.
+T: Przygotowujesz masę papierniczą z włókien | Rozprowadzasz masę na ekranie | Zdejmujesz mokry arkusz z ekranu | Suszysz arkusze ręcznie lub drobnym sprzętem
+D: 7:30 Mieszasz włókna z wodą w dużej kadzi | 9:00 Zanurzasz ekran i wyciągasz równą warstwę masy | 12:00 Układasz mokre arkusze do odsączenia | 15:00 Zdejmujesz suche kartki i oceniasz ich grubość
+Y: Podrzyj stronę ze starej gazety na drobne kawałki, zalej je wodą w misce i zobacz, jak się rozpadają.
+
+@1085
+H: Z kawałka drewna ręcznie wycinasz kształt: dekorację, zabawkę, przybór albo element większej rzeczy. Pracujesz nożami, dłutami i żłobakami, więc liczy się cierpliwość i kierunek słojów.
+T: Szkicujesz kształt na kawałku drewna | Zdejmujesz drewno dłutem warstwa po warstwie | Żłobisz szczegóły nożem i żłobakiem | Szlifujesz i wykańczasz gotową rzeźbę
+D: 8:00 Wybierasz klocek drewna i rysujesz na nim zarys | 9:30 Dłutem zdejmujesz pierwsze duże wióry | 13:00 Nożem dłubiesz szczegóły figurki, oczy i fałdy | 16:00 Oglądasz rzeźbę pod światło i poprawiasz nierówności
+Y: Narysuj na kartce zwierzę z trzech stron: z przodu, z boku i z góry.
+
+@1086
+H: Robisz szczotki i pędzle: osadzasz włosie lub włókna w metalowych tulejach i dodajesz uchwyt. Na końcu sprawdzasz, czy główka trzyma kształt.
+T: Wkładasz włosie lub nylon do tulei | Wsuwasz wkładkę, która formuje główkę pędzla | Mocujesz uchwyt z drugiej strony tulei | Zanurzasz główkę w substancji chroniącej kształt
+D: 7:00 Sortujesz włosie i włókna według długości | 9:00 Wkładasz pęk włosia w metalową tuleję | 12:00 Mocujesz uchwyt i wykańczasz końcówki pędzla | 14:00 Kontrolujesz pędzle, wadliwe odkładasz na bok
+Y: Obejrzyj w domu dwie szczotki lub pędzle i sprawdź, jak włosie jest zamocowane w oprawie.
+
+@1087
+H: Z rattanu albo wierzbowych gałązek splatasz krzesła, stoły i kanapy. Materiał najpierw przygotowujesz i zmiękczasz, a gotowy mebel zabezpieczasz woskiem lub lakierem.
+T: Wybierasz i przygotowujesz gałązki rattanu | Tniesz i giesz materiał do kształtu | Splatasz siedzisko, oparcie i boki | Pokrywasz mebel woskiem lub lakierem
+D: 7:30 Wybierasz gałązki bez pęknięć i zmiękczasz je | 9:30 Giesz pręty na szkielet krzesła | 12:00 Splatasz oparcie, dociągając każdy rząd | 15:00 Nakładasz pędzlem warstwę ochronną na gotowy fotel
+Y: Zapleć z trzech pasków papieru warkocz długości dłoni i zwróć uwagę, czy splot jest równy.
+
+@1088
+H: Ze sztywnych włókien ręcznie wyplatasz koszyki, maty i pojemniki. Technika zależy od regionu i od tego, do czego przedmiot ma służyć.
+T: Dobierasz włókna do rodzaju koszyka | Układasz dno i pionowe pręty | Przeplatasz poziome włókna wokół prętów | Wykańczasz brzeg, żeby nic nie wystawało
+D: 8:00 Sortujesz pęk włókien według grubości | 10:00 Układasz krzyżowo pręty, tworząc dno | 13:00 Przeplatasz boki koszyka, rząd po rzędzie | 16:00 Sprawdzasz, czy koszyk stoi prosto i utrzyma ciężar
+Y: Zrób z pasków papieru w dwóch kolorach małą kratkę, przeplatając je raz nad, raz pod.
+
+@1089
+H: Projektujesz i robisz ręcznie zabawki z drewna, tworzyw i tkanin, a także naprawiasz zepsute, nawet mechaniczne. Zaczynasz od szkicu, a kończysz na tym, że zabawka znów działa.
+T: Szkicujesz zabawkę i dobierasz materiały | Kroisz i kształtujesz drewno lub tkaninę | Wymieniasz uszkodzone części w starych zabawkach | Naprawiasz zabawki mechaniczne, żeby znów działały
+D: 8:00 Rysujesz szkic drewnianego pociągu dla dzieci | 10:30 Szlifujesz kółka i wagoniki z drewna | 13:00 Ktoś przynosi misia z urwaną łapą | 15:00 Naprawiasz nakręcaną zabawkę i testujesz jej ruch
+Y: Wymyśl zabawkę z pudełka i zakrętek, narysuj ją i opisz jednym zdaniem, jak się nią bawić.
+
+@1090
+H: Z przędzy robisz tkaninę, przeplatając ją w rzędy pętli za pomocą igieł. Dobierasz przędzę i technikę tak, żeby dzianina miała odpowiednią grubość i gęstość.
+T: Dobierasz przędzę i igły do wzoru | Nabierasz oczka i dzianiesz rząd po rzędzie | Zmieniasz technikę, żeby zmienić gęstość dzianiny | Sprawdzasz, czy oczka są równe
+D: 7:30 Wybierasz przędzę i igły do zamówienia | 9:00 Nabierasz oczka i zaczynasz pierwszy rząd | 12:00 Liczysz oczka, bo w jednym rzędzie czegoś brakuje | 15:00 Mierzysz gotowy fragment i porównujesz go ze wzorem
+Y: Zrób z włóczki lub sznurka łańcuszek z dziesięciu pętli, przeciągając każdą nową przez poprzednią.
+
+@1091
+H: Robisz ręcznie torby, rękawice, paski i inne rzeczy ze skóry, według zamówienia albo własnego projektu. Naprawiasz też buty, torby i rękawice, które się zniszczyły.
+T: Projektujesz wyrób według życzeń klienta | Wycinasz i szyjesz skórę ręcznie | Przeszywasz części mocną nicią | Naprawiasz buty, torby i rękawice
+D: 9:00 Klient pokazuje, jak ma wyglądać portfel | 10:30 Wycinasz skórę i znaczysz miejsca na szwy | 13:00 Ręcznie przeszywasz kieszeń mocną nicią | 15:30 Naprawiasz zerwany uchwyt w torbie
+Y: Obejrzyj skórzany pasek lub portfel i znajdź miejsca, gdzie skóra jest szyta, a gdzie klejona.
+
+@1092
+H: Robisz i naprawiasz sieci rybackie. Wiążesz oczka ze sznura, łączysz kawałki w całość i łatasz dziury.
+T: Wiążesz oczka sieci według rysunku | Łączysz kawałki sieci w większą całość | Łatasz dziury i zerwane oczka | Konserwujesz sieć, żeby dłużej służyła
+D: 6:00 Rozkładasz sieć na pomoście i szukasz dziur | 8:00 Łatasz rozdarcie, wiążąc nowe oczka | 11:00 Łączysz dwa kawałki sieci w jedną dłuższą | 14:00 Zwijasz naprawione sieci i odkładasz do magazynu
+Y: Obejrzyj siatkę, na przykład z worka na owoce, i narysuj, jak splecione lub związane są jej oczka.
+
+@1093
+H: Obsługujesz krosno i wytwarzasz tkaniny, od jedwabiu po dywany. Pilnujesz, żeby materiał wychodził równy, a maszyna działała bez usterek.
+T: Zakładasz nitki osnowy na krosno | Uruchamiasz krosno i pilnujesz jego pracy | Kontrolujesz jakość tkaniny w trakcie tkania | Naprawiasz krosno i wypełniasz arkusz kontroli
+D: 6:00 Sprawdzasz krosno i nitki przed zmianą | 8:00 Uruchamiasz krosno i obserwujesz, jak rośnie tkanina | 11:00 Zrywa się nitka, zatrzymujesz maszynę i naprawiasz | 13:30 Wpisujesz do arkusza stan krosna przed końcem zmiany
+Y: Naciągnij nitki sznurka na ramkę z kartonu i przeplataj między nimi pasek papieru, raz górą, raz dołem.
+
+@1094
+H: Robisz ręcznie dywany i chodniki z wełny lub innych włókien, tkając, wiążąc albo strzygąc włosie. Jeden dywan to często wiele godzin powtarzalnej, dokładnej pracy.
+T: Dobierasz kolory wełny do wzoru | Wiążesz kolejne węzły z kolorowej wełny | Układasz wzór rząd po rzędzie | Strzyżesz włosie do równej wysokości
+D: 8:00 Rozwijasz wzór i dobierasz kolory wełny | 10:00 Wiążesz kolejne węzły i dociskasz rząd | 13:00 Strzyżesz włosie nożyczkami do jednakowej wysokości | 16:00 Mierzysz, ile centymetrów dywanu przybyło dziś
+Y: Zawiąż na sznurku kilkanaście krótkich kawałków włóczki jak frędzle i przytnij je równo.
+
+@1095
+H: Obsługujesz maszyny, które produkują dywany i chodniki z wełny lub materiałów syntetycznych. Ustawiasz sprzęt, pilnujesz jego pracy i sprawdzasz, czy wzór wychodzi zgodnie z zamówieniem.
+T: Ustawiasz maszynę do wybranego rodzaju dywanu | Zakładasz szpule z przędzą na maszynę | Obserwujesz pracę maszyny i wzór | Zatrzymujesz urządzenie, gdy pojawi się wada
+D: 6:00 Przejmujesz zmianę i sprawdzasz ustawienia maszyny | 8:30 Zakładasz nowe szpule przędzy w kolorze z zamówienia | 11:00 Zatrzymujesz maszynę, bo wzór przestał się zgadzać | 13:30 Mierzysz gotowy kawałek i odkładasz do kontroli
+Y: Zmierz długość i szerokość podłogi w pokoju i oblicz, ile metrów kwadratowych dywanu by ją zakryło.
+
+@1096
+H: Formujesz ręcznie cegły, rury i inne wyroby odporne na wysoką temperaturę. Wypełniasz formy mieszanką, suszysz cegły w piecu i na końcu je wygładzasz.
+T: Przygotowujesz formy według podanych wymiarów | Czyścisz formy i smarujesz je olejem | Wypełniasz formę mieszanką i wyjmujesz cegłę | Suszysz cegły w piecu i wygładzasz je
+D: 7:00 Czyścisz formy i smarujesz je olejem | 9:00 Wciskasz mieszankę w formy i ściągasz nadmiar | 12:00 Wyjmujesz świeże cegły i układasz do suszenia | 14:00 Wygładzasz krawędzie cegieł, które wyszły z pieca
+Y: Ulep z plasteliny lub ciasta trzy takie same prostokątne klocki i sprawdź linijką, czy mają identyczne wymiary.
+
+@1097
+H: Z gliny formujesz ręcznie albo na kole garncarskim naczynia, a potem wypalasz je w piecu. Praca jest brudna i wymaga cierpliwości, bo efekt widać dopiero po wypale.
+T: Ugniatasz glinę przed formowaniem | Formujesz kubek lub miskę na kole | Ręcznie lepisz talerze i dzbanki | Wstawiasz suche naczynia do pieca
+D: 8:00 Ugniatasz kulę gliny przed pracą na kole | 9:30 Formujesz na kole miskę, podnosząc jej ścianki | 13:00 Układasz wyschnięte naczynia w piecu do wypału | 16:00 Wyjmujesz wypalone kubki i oglądasz, czy nie pękły
+Y: Ulep z plasteliny kulę i zrób z niej miseczkę, ugniatając kciukiem środek i wyciągając ścianki.
+
+@1098
+H: Projektujesz i robisz wyroby ze szkła: witraże, lustra, szkło do budynków, a czasem szklane naczynia dla laboratoriów. Niektórzy specjalizują się w naprawie i odnawianiu starych szklanych przedmiotów.
+T: Projektujesz szklany przedmiot lub witraż | Wytwarzasz wyroby szklane w pracowni | Dekorujesz szkło wzorami | Naprawiasz i odnawiasz stare szklane przedmioty
+D: 8:00 Szkicujesz wzór witrażu dla klienta | 10:00 Dobierasz kawałki kolorowego szkła do witrażu | 13:00 Dekorujesz szklane naczynie wzorem | 15:00 Odnawiasz stare szkło przyniesione przez klienta
+Y: Narysuj projekt małego witrażu z pięciu kolorowych kształtów i zaznacz, gdzie przebiegają łączenia.
+
+@1099
+H: Mierzysz, tniesz i montujesz szyby oraz lustra, często u klienta na miejscu. Wozisz szkło na instalacje, osadzasz je w ramach i dopasowujesz do wymiarów zamówienia.
+T: Mierzysz otwór i ustalasz wymiar szkła | Tniesz szkło płaskie i lustra | Ładujesz i rozładowujesz szyby ostrożnie | Montujesz szkło w ramach u klienta
+D: 7:00 Ładujesz na samochód zamówione szyby i lustra | 8:30 Jedziesz do klienta, mierzysz okno do wymiany | 11:00 Osadzasz nową szybę w drewnianej ramie | 14:00 W warsztacie tniesz szkło według wymiarów z zamówienia
+Y: Zmierz w domu jedno okno lub lustro i zapisz jego szerokość i wysokość w centymetrach.
+
+@1100
+H: Naprawiasz rakiety, łuki, namioty i inny sprzęt do sportu i turystyki, żeby znów nadawał się do użycia. Wymieniasz uszkodzone części specjalistycznymi narzędziami i konserwujesz wyposażenie.
+T: Oceniasz, co jest zepsute w sprzęcie | Wymieniasz zerwane struny i uszkodzone części | Łatasz namioty i wyposażenie kempingowe | Konserwujesz sprzęt łuczniczy i sportowy
+D: 9:00 Klient przynosi rakietę z zerwanymi strunami | 11:00 Zszywasz rozdarcie w namiocie przed wyjazdem klienta | 14:00 Konserwujesz łuk i sprawdzasz cięciwę | 16:30 Wydajesz naprawiony sprzęt i tłumaczysz, co było zepsute
+Y: Obejrzyj swój plecak, piłkę lub rakietę i znajdź jedną rzecz, która się zużyła i wymaga naprawy.
+
+@1101
+H: Odlewasz świece: mocujesz knot w formie, zalewasz ją woskiem, a po stwardnieniu wyjmujesz świecę i wygładzasz. Sprawdzasz każdą sztukę pod kątem krzywizn i wad.
+T: Mocujesz knot w środku formy | Zalewasz formę woskiem ręcznie lub maszynowo | Wyjmujesz świecę z formy | Usuwasz nadmiar wosku i kontrolujesz kształt
+D: 7:00 Rozstawiasz formy i mocujesz w każdej knot | 9:00 Zalewasz formy woskiem i czekasz, aż zastygną | 12:00 Wyjmujesz świece i usuwasz nadmiar wosku | 14:00 Oglądasz świece, krzywe i pęknięte odkładasz
+Y: Narysuj trzy świece o różnych kształtach i zaznacz, gdzie w każdej powinien być knot.
+
+@1102
+H: Przy komputerze projektujesz wzory butów i przygotowujesz ich wersje w różnych rozmiarach. Sprawdzasz też, jak ułożyć elementy na materiale, żeby zużyć go jak najmniej.
+T: Rysujesz na ekranie wzór buta | Modyfikujesz wzór po próbnym modelu | Sprawdzasz, jak ułożyć elementy na materiale | Tworzysz serię wzorów w różnych rozmiarach
+D: 8:00 Otwierasz wzór sandała i poprawiasz linię cholewki | 10:00 Układasz elementy na wirtualnej skórze, licząc zużycie | 12:30 Po zatwierdzeniu próbnego buta tworzysz resztę rozmiarów | 15:00 Przekazujesz gotowe wzory do hali produkcyjnej
+Y: Narysuj but z boku i podziel go liniami na osobne elementy, które trzeba by wykroić z materiału.
+
+@1103
+H: Robisz buty tradycyjnie, ręcznie i na maszynach, a w warsztacie naprawczym przywracasz zużyte obuwie do użytku. Znasz cały przebieg pracy od materiału po gotowy but.
+T: Wykonujesz kolejne etapy powstawania buta | Pracujesz ręcznie i na maszynach | Łączysz cholewkę z podeszwą | Naprawiasz zużyte obuwie w warsztacie
+D: 7:30 Przygotowujesz elementy buta do szycia | 9:30 Przyszywasz cholewkę do podeszwy | 12:00 Klient oddaje buty z odklejoną podeszwą | 15:00 Czyścisz i polerujesz gotowe buty
+Y: Obejrzyj swoje buty i wypisz osobno wszystkie ich części, jakie potrafisz wskazać.
+
+@1104
+H: Robisz buty na zamówienie dla jednej osoby w małej pracowni. Przechodzisz wszystkie etapy: od mierzenia stopy i projektu, przez krój i szycie, po wykończenie.
+T: Mierzysz stopy klienta i notujesz wymiary | Projektujesz wzór buta na zamówienie | Wykrawasz, szyjesz i składasz elementy | Wykańczasz but i poprawiasz po przymiarce
+D: 9:00 Mierzysz stopy klienta i notujesz wymiary | 10:30 Rysujesz wzór i omawiasz z nim kolor skóry | 13:30 Wykrawasz skórę na cholewki według wzoru | 16:00 Przymierzacie gotowy but i poprawiasz uciskające miejsce
+Y: Zmierz linijką długość własnej stopy w centymetrach i zapisz też jej najszersze miejsce.
+
+@1105
+H: Naciągasz cholewkę i wyściółki na kopyto szewskie, żeby but dostał ostateczny kształt. Pracujesz ręcznymi narzędziami, a materiał utrwalasz szyciem lub klejeniem.
+T: Naciągasz przód cholewki na kopyto | Dociskasz przewężenie i siodełko do kopyta | Spłaszczasz krawędzie i odcinasz nadmiar skóry | Utrwalasz kształt szyciem lub klejeniem
+D: 7:30 Zakładasz wyściółkę i cholewkę na kopyto | 9:30 Naciągasz skórę na palce i mocno dociskasz | 12:00 Spłaszczasz zagięcia i odcinasz nadmiar materiału | 14:30 Przyklejasz brzegi i zostawiasz but na kopycie
+Y: Naciągnij starą skarpetę na pięść i rozprostuj wszystkie fałdy tak, by gładko przylegała.
+
+@1106
+H: Robisz buty i wkładki dla osób, którym zwykłe obuwie nie pasuje do stopy lub kostki. Dopasowujesz wzór do kształtu stopy i wykonujesz też ortezy oraz specjalne podeszwy.
+T: Oceniasz kształt stopy i problem z dopasowaniem | Projektujesz wzór buta dla konkretnej stopy | Wykonujesz wkładki i podeszwy ortopedyczne | Wytwarzasz ortezy i inne elementy ortopedyczne
+D: 8:30 Pacjent opisuje, w którym miejscu but go uwiera | 10:00 Rysujesz wzór uwzględniający kształt jego stopy | 13:00 Wycinasz i szlifujesz wkładkę pod łuk stopy | 15:30 Przymiarka gotowych butów i poprawka w miejscu ucisku
+Y: Stań na kartce, obrysuj swoją stopę i zaznacz jej najszersze i najwęższe miejsce.
+
+@1107
+H: Łączysz wykrojone kawałki skóry igłą i nicią, żeby powstała cholewka. Szyjesz też szwy dekoracyjne oraz przyszywasz cholewkę do podeszwy.
+T: Łączysz wykrojone kawałki skóry w cholewkę | Używasz igieł, szczypiec i nożyczek | Robisz ozdobne szwy na wierzchu buta | Przyszywasz cholewkę do podeszwy
+D: 8:00 Rozkładasz wykrojone kawałki skóry na stole | 9:30 Zszywasz cholewkę, przeciągając igłę szczypcami | 12:30 Wzdłuż boku buta robisz ozdobny szew | 15:00 Przyszywasz cholewkę do podeszwy w parze butów
+Y: Zszyj ręcznie dwa kawałki starego materiału równym ściegiem co pół centymetra i sprawdź, czy się nie rozchodzą.
+
+@1108
+H: Rysujesz i wykrawasz wzory na buty ręcznie, prostymi narzędziami i maszynami. Gdy próbny model dostanie zgodę, robisz z niego serię wzorów na różne rozmiary.
+T: Projektujesz wzory dla różnych rodzajów obuwia | Wykrawasz wzory narzędziami ręcznymi | Szacujesz, ile materiału zużyje but | Tworzysz serię wzorów w kolejnych rozmiarach
+D: 8:00 Rysujesz wzór kozaka na papierze | 10:00 Wykrawasz wzór i sprawdzasz krzywizny | 12:30 Układasz wzory na skórze, szacując zużycie | 15:00 Po zatwierdzeniu modelu rozpisujesz wszystkie rozmiary
+Y: Odrysuj podeszwę swojego buta na kartce i wytnij ją jako pierwszy wzór.
+
+@1109
+H: Naprawiasz zniszczone buty, paski i torby. Wymieniasz podeszwy i obcasy oraz sprzączki, a na koniec czyścisz i polerujesz obuwie.
+T: Odrywasz zużytą podeszwę lub obcas | Przyklejasz i przyszywasz nową podeszwę | Wymieniasz sprzączkę w pasku lub torbie | Czyścisz i polerujesz gotowe buty
+D: 8:00 Otwierasz warsztat, na ladzie czeka kilka par butów | 10:00 Przy maszynie przyszywasz nową podeszwę | 13:00 Ktoś przynosi torbę ze zepsutą sprzączką | 16:00 Polerujesz naprawione buty i wydajesz zamówienia
+Y: Obejrzyj podeszwy i obcasy butów w domu i znajdź ten, który jest starty najbardziej.
+
+@1110
+H: Obsługujesz narzędzia, którymi łączysz elementy skórzane, żeby przygotować je do zszycia albo zamknąć już zszyte części. Dzięki temu płaski kawałek skóry dostaje trójwymiarowy kształt.
+T: Przygotowujesz brzegi skórzanych części do łączenia | Łączysz elementy przed zszyciem | Zamykasz już zszyte części wyrobu | Nadajesz płaskiej skórze przestrzenny kształt
+D: 7:30 Odbierasz pocięte części skóry z wykrojowni | 9:30 Przygotowujesz brzegi dwóch elementów do zszycia | 12:00 Zamykasz zszytą torebkę, formując jej kształt | 14:30 Sprawdzasz symetrię wyrobów i odkładasz do dalszej obróbki
+Y: Złóż kartkę w kształt otwartej kopertki i sprawdź, czy rogi i krawędzie schodzą się równo.
+
+@1111
+H: Wykańczasz gotowe torby, walizki i inne skórzane akcesoria. Nakładasz wykończenie powierzchni i mocujesz uchwyty oraz metalowe ozdoby według arkusza technicznego.
+T: Czytasz arkusz techniczny modelu i polecenia | Mocujesz uchwyty i metalowe aplikacje | Nakładasz wybrane wykończenie powierzchni skóry | Porządkujesz wyroby przed wykończeniem
+D: 7:00 Odbierasz od przełożonego instrukcję do nowej serii toreb | 9:00 Mocujesz uchwyty i metalowe klamry na torbach | 11:30 Nakładasz wykończenie i polerujesz powierzchnię walizki | 14:00 Oglądasz wyroby i odkładasz do pakowania
+Y: Obejrzyj torbę lub plecak w domu i wypisz, z jakich elementów, na przykład uchwytów i zapięć, się składa.
+
+@1112
+H: Zszywasz ręcznie wykrojone kawałki skóry, żeby z płaskich części powstała gotowa torba lub portfel. Dodajesz też ozdobne szwy, bo ręczny ścieg bywa częścią wyglądu wyrobu.
+T: Łączysz kawałki skóry igłą i nicią | Zamykasz wyrób, na przykład torbę lub etui | Robisz ozdobne szwy ręczne | Używasz szczypiec, żeby przeciągnąć igłę przez skórę
+D: 8:30 Układasz wycięte części portfela na stole | 10:00 Zszywasz krawędź kieszeni równym ściegiem | 13:00 Przeciągasz igłę szczypcami przez grubą skórę | 15:00 Dodajesz ozdobny szew i obcinasz końce nici
+Y: Policz, ile ściegów mieści się na jednym centymetrze szwu w ubraniu albo plecaku.
+
+@1113
+H: Wybierasz miejsca na skórze, z których wykrawasz części wyrobów, i robisz to ręcznie. Skóra ma wady i różną grubość, więc od twojego oka zależy, ile materiału się zmarnuje.
+T: Oglądasz skórę i szukasz wad | Układasz matryce tnące na najlepszych miejscach | Wykrawasz części ręcznie | Sprawdzasz, czy wykrojone elementy spełniają wymagania
+D: 7:00 Rozkładasz skórę pod światłem i szukasz skaz | 9:00 Układasz matryce tak, by ominąć uszkodzone miejsca | 11:30 Wykrawasz części i dopasowujesz je parami | 14:00 Mierzysz wykrojone elementy i porównujesz z wymaganiami
+Y: Obejrzyj skórzany pasek lub torbę i znajdź jedno miejsce z zarysowaniem lub zmianą koloru skóry.
+
+@1114
+H: Na podstawie szkicu projektanta tworzysz wykroje ubrań i kroisz z nich próbne egzemplarze. Z takich prototypów powstają potem ubrania w różnych rozmiarach.
+T: Odczytujesz szkic projektanta i wymiary | Rysujesz wykrój na papierze | Kroisz próbki i prototypy ubrań | Przygotowujesz wzory na kolejne rozmiary
+D: 8:00 Rozkładasz szkic nowej kurtki na stole | 10:00 Rysujesz wykrój rękawa na grubym papierze | 12:30 Kroisz próbny egzemplarz i oddajesz do zszycia | 15:00 Poprawiasz wykrój po przymiarce na manekinie
+Y: Obrysuj na papierze rękaw starej koszulki i zaznacz, które brzegi zostałyby zszyte.
+
+@1115
+H: W komputerze rysujesz wykroje ubrań i je poprawiasz. Ustawiasz elementy tak, żeby zmarnować jak najmniej materiału, i przygotowujesz wzory w kolejnych rozmiarach.
+T: Rysujesz i zmieniasz wykroje na ekranie | Sprawdzasz rozkład elementów na materiale | Liczysz zużycie tkaniny | Tworzysz serię wzorów w kolejnych rozmiarach
+D: 8:30 Poprawiasz na ekranie linię ramienia w wykroju | 10:30 Układasz elementy bluzy, żeby zostało jak najmniej odpadów | 13:00 Po akceptacji próbki przygotowujesz wszystkie rozmiary | 15:30 Wysyłasz gotowy plik do krojowni
+Y: Wytnij z papieru kilka kształtów jak części koszulki i ułóż je tak, by zostało jak najmniej wolnego miejsca.
+
+@1116
+H: Projektujesz wzory wyrobów skórzanych, na przykład torebek, i wycinasz ich modele. Sprawdzasz, jak ułożyć części na skórze, i szacujesz zużycie materiału.
+T: Projektujesz model wyrobu skórzanego | Wycinasz modele ręcznie i prostymi maszynami | Sprawdzasz różne układy części na skórze | Szacujesz zużycie materiału na jedną sztukę
+D: 8:00 Szkicujesz torbę i rozpisujesz jej części | 10:00 Wycinasz z tektury model płata torby | 12:30 Układasz modele na skórze na różne sposoby | 14:30 Szacujesz, ile skóry zużyje seria stu toreb
+Y: Narysuj wzór portfela jako płaskie wykroje: z jakich kawałków skóry składałby się po złożeniu.
+
+@1117
+H: W komputerze rysujesz płaskie modele wyrobów skórzanych i je poprawiasz. Sprawdzasz rozmieszczenie części na skórze i szacujesz zużycie materiału.
+T: Rysujesz płaskie modele 2D na ekranie | Korygujesz kształt części po uwagach | Sprawdzasz ułożenie elementów na skórze | Szacujesz zużycie materiału na zamówienie
+D: 8:30 Otwierasz na ekranie model torby listonoszki | 10:30 Przesuwasz kontur kieszeni, żeby pasował do reszty | 13:00 Testujesz kilka ułożeń części na wirtualnej skórze | 15:00 Wpisujesz do zamówienia, ile skóry będzie potrzeba
+Y: Zmierz swój telefon i narysuj na kratkowanej kartce płaski wzór etui o właściwych wymiarach.
+
+@1118
+H: Z jednego wzoru ubrania robisz wzory w całej serii rozmiarów, większych i mniejszych. Pracujesz na tabelach rozmiarów, ręcznie albo na ekranie.
+T: Czytasz tabele rozmiarów i wymiary | Powiększasz wzór ubrania do większych rozmiarów | Zmniejszasz wzór do mniejszych rozmiarów | Przerysowujesz wykroje ręcznie lub na ekranie
+D: 8:00 Wyciągasz tabelę rozmiarów dla nowej sukienki | 10:00 Rysujesz powiększony wykrój o dwa rozmiary | 13:00 Sprawdzasz, czy szwy w obu wykrojach się zgadzają | 15:30 Opisujesz każdy wykrój i odkładasz do archiwum
+Y: Zmierz szerokość dwóch koszulek w różnych rozmiarach i zapisz, o ile centymetrów się różnią.
+
+@1119
+H: W produkcji odzieży rozkładasz materiał na stole i kroisz go według dokumentacji, tak by powstały elementy ubrań. Liczy się dokładność, bo błąd w kroju psuje całą partię.
+T: Rozkładasz tkaninę warstwami na stole | Oznaczasz na materiale linie cięcia | Tniesz materiał według dokumentacji | Przycinasz i układasz wykrojone części
+D: 6:30 Rozkładasz kilka warstw tkaniny na długim stole | 8:30 Kładziesz wykrój i znaczysz linie cięcia | 11:00 Tniesz materiał wzdłuż linii, kawałek po kawałku | 13:00 Układasz wycięte części w paczki dla szwalni
+Y: Zaznacz linijką na gazecie prostokąt 10 na 15 centymetrów i wytnij go równo po linii.
+
+@1120
+H: Przenosisz papierowy wzór ubrania do komputera i obsługujesz maszyny, które wytwarzają prototypy. Dzięki temu projektant szybko widzi, jak wygląda jego pomysł.
+T: Przenosisz wzór z papieru do komputera | Poprawiasz cyfrowy model ubrania | Uruchamiasz maszynę wytwarzającą prototyp | Nadzorujesz pracę maszyn przy produkcji
+D: 8:00 Wprowadzasz papierowy wykrój spódnicy do komputera | 10:00 Poprawiasz na ekranie linię talii | 12:30 Ustawiasz maszynę i uruchamiasz prototyp | 14:30 Sprawdzasz, czy gotowy prototyp zgadza się z projektem
+Y: Narysuj prosty szkic spodni i zapisz obok trzy wymiary, które trzeba znać, by je uszyć.
+
+@1121
+H: Obijasz meble, części pojazdów i inne przedmioty miękkim pokryciem. Zakładasz, naprawiasz albo wymieniasz tapicerkę z tkaniny, skóry lub zamszu.
+T: Zdejmujesz zniszczony materiał z przedmiotu | Zakładasz taśmy tapicerskie i sprężyny | Wypełniasz element miękką warstwą | Naciągasz nowy materiał i go mocujesz
+D: 7:30 Zdejmujesz stary pokrowiec z fotela | 9:30 Zakładasz taśmy i sprężyny pod siedzisko | 12:00 Naciągasz nową tkaninę i mocujesz ją na brzegach | 14:30 Ustalasz z klientem kolor materiału na kanapę
+Y: Znajdź w domu trzy przedmioty z obiciem i zapisz, z jakiego materiału jest każdy.
+
+@1122
+H: Robisz i naprawiasz wnętrza łodzi: siedzenia, panele i obicia w kabinach. Przygotowujesz materiały, mocujesz je narzędziami ręcznymi i elektrycznymi, a potem sprawdzasz, czy wszystko pasuje do łodzi.
+T: Wykonujesz siedzenia i obicia do wnętrz łodzi | Kontrolujesz dostarczone materiały | Przygotowujesz wnętrze łodzi pod nowe elementy | Montujesz i mocujesz gotowe obicia
+D: 7:00 Wchodzisz do kajuty i mierzysz miejsce na kanapę | 9:30 Sprawdzasz dostarczoną tkaninę, czy nie ma wad | 11:30 Kroisz piankę i obijasz materiałem panel | 14:00 Mocujesz gotowe obicie na łodzi w porcie
+Y: Zmierz wolny kąt pokoju i narysuj na kartce plan wąskiej ławki, która by się tam zmieściła.
+
+@1123
+H: Robisz wzory i elementy wnętrza wagonów kolejowych: siedzenia, panele i wykończenie. Używasz narzędzi ręcznych, elektrycznych i obrabiarek sterowanych cyfrowo.
+T: Tworzysz wzory elementów wnętrza wagonu | Obsługujesz obrabiarki sterowane cyfrowo | Kontrolujesz dostarczone materiały | Mocujesz elementy wykończenia w wagonie
+D: 7:00 Odbierasz dostawę materiałów i oglądasz je | 9:00 Wycinasz na obrabiarce elementy paneli bocznych | 11:30 Przygotowujesz puste wnętrze wagonu na nowe elementy | 14:00 Mocujesz panele i sprawdzasz, czy pasują do wnętrza
+Y: Znajdź zdjęcie wnętrza wagonu kolejowego i wypisz pięć elementów, które wykonuje tapicer.
+
+@1124
+H: Odnawiasz siedzenia i oparcia mebli: zdejmujesz stare obicie, wymieniasz wypełnienie, sprężyny i popękane naciągi, a potem zakładasz nowe pokrycie. Dzięki temu stary fotel znów jest wygodny.
+T: Wyciągasz gwoździe i zdejmujesz stare obicie | Wymieniasz popękane naciągi i wypełnienie | Zakładasz sprężyny i taśmy tapicerskie | Naciągasz nowe pokrycie na siedzisko i oparcie
+D: 8:00 Dostajesz fotel z podartym obiciem i zapadniętym siedziskiem | 9:30 Wyciągasz gwoździe wyciągaczem i zdejmujesz materiał | 12:30 Zakładasz nowe wypełnienie i naciągasz tkaninę | 15:30 Siadasz na gotowym fotelu i sprawdzasz wygodę
+Y: Obejrzyj od spodu krzesło z miękkim siedziskiem i znajdź, jak obicie jest do niego przymocowane.
+
+@1125
+H: Robisz i montujesz wnętrza samochodów, autobusów i ciężarówek. Przygotowujesz wnętrze pojazdu, kroisz obicia według wzorca i zakładasz je na miejsce.
+T: Robisz wzorce do elementów wnętrza pojazdu | Wytwarzasz obicia siedzeń i paneli | Przygotowujesz wnętrze pojazdu do montażu | Montujesz gotowe elementy tapicerki
+D: 7:30 Zdejmujesz zniszczone obicie z siedzenia kierowcy | 10:00 Odrysowujesz stary pokrowiec na nowy materiał | 12:30 Wycinasz i szyjesz pokrowiec według wzorca | 15:00 Zakładasz gotowe obicie i sprawdzasz dopasowanie
+Y: Narysuj siedzenie samochodowe z boku i zaznacz, gdzie według ciebie powinny biec szwy obicia.
+
+@1126
+H: Montujesz i naprawiasz wnętrze samolotu: siedzenia, wykładziny, panele drzwi, sufity i oświetlenie. Wymieniasz też systemy rozrywki dla pasażerów i sprawdzasz materiały, zanim trafią do kabiny.
+T: Montujesz siedzenia i panele w kabinie | Układasz wykładzinę i sufity | Wymieniasz systemy rozrywki wideo | Kontrolujesz materiały i przygotowujesz kabinę
+D: 6:00 Samolot stoi w hangarze, wyjmujesz stare siedzenia | 8:00 Układasz nową wykładzinę w przejściu | 11:00 Montujesz panel drzwi i sprawdzasz oświetlenie | 14:00 Wymieniasz ekran wideo przy fotelu pasażera
+Y: Narysuj z góry plan trzech rzędów foteli w samolocie i zaznacz przejście między nimi.
+
+@1127
+H: Robisz materace od podstaw: szyjesz pokrycia, składasz wkład ze sprężyn i wypełnienia i ręcznie pikujesz. Rozciągasz i mocujesz wszystkie warstwy tak, żeby leżały równo.
+T: Wykonujesz wkłady i pokrycia materacy | Przycinasz materiał wyściełający do wymiaru | Rozciągasz warstwy na układzie sprężyn | Ręcznie pikujesz materac, spinając warstwy
+D: 7:00 Rozkładasz układ sprężyn na dużym stole | 9:00 Przycinasz warstwy wyściółki do wymiaru | 11:30 Rozciągasz pokrycie i mocujesz je na sprężynach | 14:00 Pikujesz materac ręcznie dużymi ściegami
+Y: Przyciśnij ręką materac i kanapę w domu i opisz, który z nich jest bardziej sprężysty.
+
+@1128
+H: Projektujesz i robisz kapelusze, czapki i inne nakrycia głowy. Dopasowujesz kształt i materiał do głowy i okazji.
+T: Szkicujesz projekt nakrycia głowy | Dobierasz materiał na kapelusz lub czapkę | Formujesz i zszywasz poszczególne części | Dopasowujesz gotowy kapelusz do głowy klienta
+D: 9:00 Klient opisuje, jakiego kapelusza potrzebuje | 11:00 Rysujesz projekt i dobierasz materiał | 13:30 Formujesz rondo i zszywasz części | 16:00 Przymierzasz kapelusz klientowi i poprawiasz rozmiar
+Y: Zmierz sznurkiem obwód własnej głowy i zapisz go w centymetrach, bo od tego zaczyna się czapka.
+
+@1129
+H: Sortujesz skóry według rodzaju, wagi, rozmiaru i wad. Porównujesz każdą partię ze specyfikacją i przydzielasz ją do odpowiedniej klasy.
+T: Oglądasz skóry i szukasz wad | Ważysz i mierzysz skóry | Porównujesz partię ze specyfikacją | Przypisujesz skórę do odpowiedniej klasy
+D: 7:00 Rozkładasz partię surowych skór na stole | 9:00 Liczysz i zaznaczasz wady, jak blizny i dziury | 11:30 Ważysz skóry i wpisujesz wynik do karty | 14:00 Układasz skóry w stosy według przydzielonej klasy
+Y: Obejrzyj trzy skórzane przedmioty w domu i ustaw je od najmniej do najbardziej zarysowanego.
+
+@1130
+H: Szyjesz kostiumy do teatru, filmu i telewizji według szkiców projektanta. Dopasowujesz je tak, żeby aktor mógł się swobodnie ruszać.
+T: Czytasz szkic projektanta kostiumów | Szyjesz i zszywasz elementy kostiumu | Dopasowujesz strój do ruchów aktora | Naprawiasz kostiumy między przedstawieniami
+D: 9:00 Projektant pokazuje szkic kostiumu na bal | 10:30 Szyjesz rękawy do kostiumu królowej | 14:00 Aktor przymierza strój i podnosi ręce, sprawdzasz ruch | 18:00 Przed spektaklem poprawiasz oderwany szew za kulisami
+Y: Załóż starą bluzę, podnieś ręce, usiądź i sprawdź, w których miejscach krępuje ruch.
+
+@1131
+H: Szyjesz, przerabiasz i naprawiasz odzież damską i dziecięcą na miarę klienta. Czytasz tabele rozmiarów i zdejmujesz miarę, żeby ubranie dobrze leżało.
+T: Zdejmujesz miarę z klienta | Szyjesz odzież damską i dziecięcą na zamówienie | Skracasz, zwężasz i przerabiasz gotowe ubrania | Czytasz tabele rozmiarów i wymiary wyrobów
+D: 9:00 Klient przymierza sukienkę, a ty zaznaczasz szpilkami poprawki | 11:00 Zdejmujesz miarę do nowego płaszcza | 13:30 Skracasz spódnicę i przeszywasz dół | 16:00 Wydajesz przerobione ubrania i przyjmujesz nowe
+Y: Zmierz sznurkiem i linijką obwód swojej talii oraz długość ręki i zapisz oba wymiary.
+
+@1132
+H: Szyjesz, przerabiasz i naprawiasz odzież męską, na przykład marynarki i spodnie, według miary klienta. Czasem robisz też czapki i peruki męskie.
+T: Zdejmujesz miarę do marynarki lub spodni | Szyjesz odzież męską na indywidualne zamówienie | Przerabiasz i naprawiasz gotowe ubrania | Dopasowujesz długość rękawów i nogawek
+D: 8:30 Klient przymierza marynarkę, a ty sprawdzasz ramiona | 10:30 Kroisz wełnę na spodnie według miary | 13:00 Ręcznie przyszywasz rękaw do marynarki | 15:30 Skracasz nogawki i krótko tłumaczysz poprawki
+Y: Zmierz szerokość ramion w swojej koszuli, od szwu do szwu, i zapisz w centymetrach.
+
+@1133
+H: Robisz i naprawiasz peruki i inne protezy włosów do codziennego użytku. Pracujesz według szkiców i zdjęć, często razem z projektantami.
+T: Oglądasz szkice i zdjęcia fryzury | Wykonujesz perukę lub protezę włosów | Dopasowujesz ją do głowy użytkownika | Naprawiasz i konserwujesz gotowe peruki
+D: 9:00 Projektant pokazuje zdjęcia fryzury do wykonania | 10:30 Przyczepiasz pasma włosów do podstawy peruki | 13:30 Dopasowujesz perukę do głowy i przycinasz | 16:00 Naprawiasz zniszczoną perukę przyniesioną przez klienta
+Y: Narysuj głowę z boku i dorysuj fryzurę, zaznaczając strzałkami kierunek, w którym układają się włosy.
+
+@1134
+H: Zdobisz tkaniny haftem, ręcznie lub na maszynie haftującej. Wyszywasz wzory na ubraniach, dodatkach i dekoracjach do domu.
+T: Projektujesz wzór haftu | Wyszywasz ręcznie tradycyjnymi ściegami | Ustawiasz i uruchamiasz maszynę haftującą | Kończysz haft i sprawdzasz dokładność wzoru
+D: 8:00 Przenosisz wzór kwiatów na tkaninę | 10:00 Wyszywasz liście ręcznie kolorową nicią | 13:00 Zakładasz materiał w maszynę i startujesz haft | 15:30 Sprawdzasz tył haftu i obcinasz nitki
+Y: Wyszyj na kawałku materiału igłą i nicią małą literę lub prosty kształt.
+
+@1135
+H: Projektujesz i szyjesz rękawice: techniczne, sportowe albo zwykłe do ubrania. Dopasowujesz kształt do dłoni, a każdy palec musi mieć odpowiedni rozmiar.
+T: Projektujesz rękawice techniczne, sportowe lub odzieżowe | Rysujesz wykrój dłoni i palców | Kroisz materiał i skórę na rękawice | Szyjesz palce i zszywasz całą rękawicę
+D: 8:00 Obrysowujesz dłoń na papierze i rysujesz wykrój | 10:00 Kroisz materiał na cztery palce i kciuk | 13:00 Zszywasz boki palców małymi ściegami | 15:00 Przymierzasz rękawicę i sprawdzasz, czy kciuk się zgina
+Y: Obrysuj własną dłoń na kartce i dorysuj wokół drugi kontur pół centymetra większy na szwy.
+
+@1136
+H: Zszywasz elementy ubrań na maszynie do szycia, a czasem naprawiasz lub odnawiasz odzież ręcznie. W szwalni często powtarzasz ten sam szew na wielu sztukach.
+T: Zszywasz elementy odzieży na maszynie | Przyszywasz kieszenie, rękawy i kołnierze | Naprawiasz i odnawiasz ubrania ręcznie | Sprawdzasz, czy szwy są proste i mocne
+D: 6:30 Siadasz do maszyny i zakładasz nić | 8:00 Przyszywasz rękawy do kolejnych bluz | 11:30 Pęka igła, wymieniasz ją i wracasz do pracy | 13:30 Przeglądasz uszyte sztuki i poprawiasz krzywe szwy
+Y: Przyszyj igłą i nicią guzik do starej koszuli lub kawałka materiału, tak by mocno się trzymał.
+
+@1137
+H: Projektujesz i robisz lalki z porcelany, drewna lub tworzyw. Odlewasz formy, sklejasz części i naprawiasz uszkodzone lalki.
+T: Projektujesz wygląd lalki i dobierasz materiał | Robisz formy odlewnicze do części lalki | Łączysz części klejem i narzędziami | Naprawiasz zniszczone lalki
+D: 8:30 Szkicujesz twarz lalki i dobierasz materiał | 10:30 Przygotowujesz formę do odlania główki | 13:00 Sklejasz ręce, nogi i tułów | 15:30 Ktoś przynosi starą lalkę z oderwaną nogą
+Y: Narysuj lalkę i zaznacz liniami, z ilu osobnych części trzeba by ją sklejać.
+
+@1138
+H: Szyjesz z tkanin gotowe rzeczy, które nie są ubraniami: pościel, poduszki, pufy czy wyroby na zewnątrz. Czasem są to też abażury albo żagle.
+T: Kroisz tkaninę na elementy wyrobu | Zszywasz poszewki, pufy i poduszki | Wykonujesz wyroby do użytku na zewnątrz | Wypychasz i zamykasz gotowy wyrób
+D: 7:30 Rozkładasz tkaninę i znaczysz wymiary poszewki | 9:30 Zszywasz dwie warstwy na trzech bokach | 12:00 Wypychasz poduszkę i zamykasz ostatni bok | 14:30 Sprawdzasz, czy wymiary zgadzają się z zamówieniem
+Y: Zmierz poduszkę z kanapy i oblicz, ile centymetrów materiału trzeba na nową poszewkę.
+
+@1139
+H: W garbarni i w magazynie oceniasz skóry w trakcie i na koniec produkcji. Sprawdzasz kolor, grubość, miękkość i wady, a potem decydujesz, do czego skóra się nada.
+T: Oceniasz kolor, grubość i miękkość skóry | Szukasz wad naturalnych | Porównujesz skórę z wymaganiami klienta | Dobierasz skóry do konkretnego zastosowania
+D: 7:00 Wchodzisz do garbarni i przeglądasz skóry po obróbce | 9:30 Dotykiem sprawdzasz miękkość i grubość skóry | 12:00 Odkładasz skóry z wadami naturalnymi na osobny stos | 14:30 W magazynie dobierasz skóry do zamówienia klienta
+Y: Przesuń dłonią po trzech skórzanych rzeczach i opisz, która jest najmiększa, a która najgrubsza.
+

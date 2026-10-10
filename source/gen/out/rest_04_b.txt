@@ -1,0 +1,180 @@
+@1440
+H: Jedziesz karetką do ludzi w nagłych wypadkach i udzielasz im pomocy, zanim trafią do szpitala. W drodze cały czas obserwujesz stan pacjenta.
+T: Oceniasz stan pacjenta na miejscu zdarzenia | Udzielasz pierwszej pomocy ratunkowej | Przewozisz poszkodowanych do szpitala | Monitorujesz stan pacjenta w drodze
+D: 6:00 Przejmujesz karetkę i sprawdzasz sprzęt na zmianie | 9:15 Wezwanie do mężczyzny z bólem w klatce piersiowej | 14:00 Wypadek na drodze, zabezpieczasz rannego i jedziecie do szpitala | 21:30 Nocne wezwanie do dziecka z wysoką gorączką
+Y: Zapisz, co powiedzieć dyspozytorowi numeru alarmowego: gdzie jesteś, co się stało, ilu jest poszkodowanych.
+
+@1441
+H: Dopasowujesz okulary do recepty od lekarza: pomagasz wybrać oprawki i mocujesz w nich szkła. Nie badasz wzroku i nie wypisujesz recept.
+T: Czytasz receptę i dobierasz szkła | Pomagasz klientowi wybrać oprawki | Mocujesz soczewki w oprawce | Dopasowujesz okulary do twarzy klienta
+D: 9:00 Otwierasz salon i układasz oprawki na wystawie | 10:30 Klientka przynosi receptę, dobierasz soczewki | 13:00 Ustawiasz oprawkę, żeby nie uwierała w nosie | 16:30 Tłumaczysz, jak dbać o soczewki kontaktowe
+Y: Obejrzyj okulary swoje lub domownika i nazwij ich części: oprawka, szkła, zausznik, mostek.
+
+@1442
+H: Wykonujesz okulary w pracowni: tniesz, szlifujesz i polerujesz soczewki według recepty. Potem mocujesz je w oprawkach i sprawdzasz, czy zgadzają się z receptą.
+T: Szlifujesz i polerujesz soczewki na maszynach | Powlekasz soczewki specjalnymi warstwami |Mocujesz soczewki w oprawkach | Sprawdzasz zgodność okularów z receptą
+D: 7:30 Odbierasz zlecenia i recepty na dzisiejsze okulary | 9:00 Szlifujesz soczewki do kształtu oprawki | 11:30 Mierzysz gotowe szkła i porównujesz z receptą | 14:00 Naprawiasz pękniętą oprawkę przesłaną z salonu
+Y: Obejrzyj okulary pod światło i sprawdź, czy szkła są równo osadzone w oprawce.
+
+@1443
+H: Uczysz ludzi, jak reagować, gdy ktoś potrzebuje natychmiastowej pomocy. Pokazujesz na manekinie resuscytację, pozycję boczną ustaloną i opatrywanie urazów.
+T: Pokazujesz resuscytację na manekinie | Uczysz pozycji bocznej ustalonej | Pokazujesz, jak postępować z urazami | Przygotowujesz sprzęt do ćwiczeń
+D: 8:00 Rozkładasz manekiny i bandaże w sali szkoleniowej | 9:00 Pokazujesz grupie, gdzie i jak uciskać klatkę piersiową | 12:00 Ćwiczenia w parach: układanie osoby w pozycji bocznej | 14:00 Sprawdzasz, jak kursanci zakładają opatrunek
+Y: Znajdź opis pozycji bocznej ustalonej i wytłumacz ją domownikowi własnymi słowami, krok po kroku.
+
+@1444
+H: Chodzisz do ludzi w lokalnej społeczności i tłumaczysz im, jak dbać o zdrowie. Pomagasz między innymi w opiece nad kobietami w ciąży, doradzasz w żywieniu i wspierasz osoby rzucające palenie.
+T: Doradzasz w sprawach żywienia | Wspierasz osoby rzucające palenie | Pomagasz w opiece przed porodem i po nim | Planujesz programy profilaktyki zdrowotnej
+D: 8:30 Układasz plan spotkania o zdrowym jedzeniu w świetlicy | 10:00 Odwiedzasz kobietę w ciąży i omawiasz badania | 13:00 Rozmowa z mężczyzną, który próbuje rzucić palenie | 15:30 Prowadzisz pogadankę o profilaktyce dla seniorów
+Y: Przygotuj plakat o zdrowym śniadaniu na jednej kartce, z trzema wskazówkami.
+
+@1445
+H: Pomagasz lekarzom na sali operacyjnej: podajesz narzędzia i wykonujesz proste czynności pomocnicze. Zajmujesz się też czystością, dezynfekcją i sterylizacją sprzętu.
+T: Podajesz narzędzia chirurgowi podczas zabiegu | Przygotowujesz salę zabiegową do operacji | Czyścisz, dezynfekujesz i sterylizujesz sprzęt | Wykonujesz dokumentację zabiegów
+D: 6:45 Przygotowujesz salę i sprawdzasz zestawy narzędzi | 8:00 Operacja: podajesz narzędzia i asystujesz lekarzowi | 11:30 Po zabiegu liczysz narzędzia i oddajesz je do sterylizacji | 13:00 Uzupełniasz dokumentację i przygotowujesz salę na kolejny zabieg
+Y: Umyj ręce dokładnie przez 40 sekund, według instrukcji mycia dłoni, i wymień po kolei kroki.
+
+@1446
+H: Badasz w laboratorium próbki krwi i innych materiałów, żeby lekarz wiedział, co dolega pacjentowi. Wyniki przekazujesz personelowi medycznemu.
+T: Badasz próbki krwi i innych materiałów | Wykonujesz analizy mikrobiologiczne i hematologiczne | Obsługujesz analizatory laboratoryjne | Przekazujesz wyniki lekarzom
+D: 6:30 Odbierasz rano próbki krwi z oddziałów | 8:00 Uruchamiasz analizatory i sprawdzasz zapas odczynników | 10:30 Oglądasz rozmaz krwi pod mikroskopem | 13:00 Wynik jest alarmowy, od razu dzwonisz do lekarza
+Y: Obejrzyj przez szkło powiększające okruch soli lub ziarno cukru i opisz trzy jego cechy.
+
+@1447
+H: Oglądasz pod mikroskopem komórki pobrane od pacjentów i szukasz tych, które wyglądają nieprawidłowo. Podejrzane preparaty przekazujesz patologowi, który stawia diagnozę.
+T: Oglądasz preparaty komórek pod mikroskopem | Wyszukujesz nieprawidłowe komórki | Przekazujesz podejrzane przypadki patologowi | Opisujesz każdy preparat w dokumentacji
+D: 7:30 Układasz na biurku preparaty do dzisiejszego przeglądu | 8:30 Przeglądasz szkiełko po szkiełku pod mikroskopem | 11:30 Znajdujesz nietypowe komórki i zaznaczasz je | 13:00 Przekazujesz oznaczone szkiełka patologowi do oceny
+Y: Znajdź ilustrację pełną szczegółów i w dziesięć minut wypisz pięć niezwykłych lub nietypowych elementów.
+
+@1448
+H: Pracujesz z patologiem przy sekcjach zwłok: przygotowujesz próbki, rejestrujesz ustalenia i zajmujesz się narządami. To praca ze zmarłymi, która wymaga spokoju.
+T: Pomagasz patologowi przy sekcjach zwłok | Rejestrujesz próbki i narządy | Zapisujesz ustalenia z sekcji | Zajmujesz się właściwym usuwaniem materiału
+D: 7:30 Przygotowujesz salę sekcyjną i narzędzia | 8:30 Asystujesz patologowi przy sekcji | 11:30 Opisujesz i rejestrujesz pobrane próbki | 13:30 Sprzątasz salę i dezynfekujesz stanowisko
+Y: Narysuj schemat drogi próbki od pobrania do archiwum, z opisem każdego z pięciu etapów.
+
+@1449
+H: Projektujesz i dopasowujesz protezy kończyn oraz ortezy dla osób po wypadkach, chorobach lub z wadami wrodzonymi. Spotykasz się z pacjentem i robisz urządzenie na jego miarę.
+T: Mierzysz pacjenta do protezy | Projektujesz protezy i ortezy na zamówienie | Wytwarzasz je i dopasowujesz | Rozmawiasz z pacjentem o jego potrzebach
+D: 8:00 Rozmowa z pacjentem o tym, co chce robić | 9:30 Mierzysz kikut i robisz odlew do protezy | 12:00 Szlifujesz i składasz gotową część protezy | 14:30 Przymiarka: pacjent chodzi, a ty poprawiasz ustawienie
+Y: Zmierz centymetrem swoje przedramię i nadgarstek i narysuj, jak wyglądałaby orteza na nadgarstek.
+
+@1450
+H: Robisz i naprawiasz sprzęt, który pomaga chodzić i ruszać się: klamry, przeguby, wzmocnienia podbicia i inne ortezy. Dopasowujesz go do pacjenta i poprawiasz, gdy się psuje.
+T: Wykonujesz klamry, przeguby i wzmocnienia | Zakładasz sprzęt ortopedyczny pacjentowi | Naprawiasz uszkodzone urządzenia | Dopasowujesz wkładki i wzmocnienia podbicia
+D: 8:00 Odbierasz od lekarza zamówienie na wzmocnienie stopy | 10:00 Wycinasz i wyginasz element z tworzywa lub metalu | 13:00 Przymiarka u pacjenta, poprawiasz ucisk klamry | 15:00 Naprawiasz zepsuty przegub w ortezie kolana
+Y: Obejrzyj swoje buty, zaznacz, gdzie podeszwa jest najbardziej starta, i zapisz, co to mówi o twoim kroku.
+
+@1451
+H: Przygotowujesz próbki do analizy i obsługujesz podstawowe urządzenia w laboratorium pod okiem naukowca. Zajmujesz się też zapasami odczynników.
+T: Sprawdzasz dane na pobranych próbkach | Ładujesz próbki i odczynniki do analizatorów | Pakujesz próbki do dalszych badań | Pilnujesz zapasów odczynników
+D: 7:00 Rozpakowujesz próbki i porównujesz je z listą | 8:30 Ładujesz probówki do analizatora | 11:00 Wymieniasz odczynnik, który się kończy | 13:00 Pakujesz próbki do wysyłki do innego laboratorium
+Y: Policz i posegreguj według koloru dwadzieścia drobnych przedmiotów z szuflady i zapisz wynik w tabelce.
+
+@1452
+H: Pomagasz w aptece: obsługujesz klientów przy okienku, układasz towar i prowadzisz spis zapasów. Wszystko robisz pod nadzorem farmaceuty.
+T: Obsługujesz klientów przy okienku | Liczysz zapasy w aptece | Układasz towar na półkach | Wprowadzasz dostawy i faktury do systemu
+D: 8:00 Otwierasz aptekę i sprawdzasz, czego brakuje | 9:30 Przyjmujesz dostawę i porządkujesz towar | 12:00 Obsługujesz klientów przy okienku | 15:00 Liczysz zapasy i zgłaszasz braki farmaceucie
+Y: Wypisz na kartce dziesięć produktów z domowej spiżarni i policz, ile sztuk każdego zostało.
+
+@1453
+H: Obsługujesz maszynę, która na czas operacji serca zastępuje serce i płuca pacjenta. Cały czas pilnujesz krążenia krwi i mówisz zespołowi, jak pacjent się trzyma.
+T: Przygotowujesz sztuczne płuco-serce do operacji | Podłączasz pacjenta do aparatu | Monitorujesz krążenie i oddychanie pacjenta | Informujesz zespół o stanie pacjenta
+D: 6:30 Składasz i sprawdzasz aparat przed operacją | 8:00 Podłączasz pacjenta do sztucznego płuco-serca | 9:00 Obserwujesz wskazania i informujesz chirurga o stanie pacjenta | 13:00 Po operacji odłączasz aparat i zapisujesz przebieg
+Y: Policz tętno w spoczynku przez minutę i po dwudziestu przysiadach, a potem porównaj wyniki.
+
+@1454
+H: Wykonujesz i serwisujesz aparaty słuchowe oraz ochronniki słuchu. Dobierasz je osobom, które ich potrzebują, i ustawiasz tak, żeby pasowały.
+T: Wykonujesz wkładki i obudowy aparatów | Serwisujesz aparaty słuchowe | Dobierasz aparat do potrzeb klienta | Zakładasz i ustawiasz aparat w uchu
+D: 8:30 Czyścisz i naprawiasz aparaty oddane do serwisu | 10:00 Robisz odcisk ucha klienta pod wkładkę | 12:30 Klient zakłada aparat i sprawdza, jak słyszy | 15:00 Pokazujesz starszej pani, jak wymieniać baterię
+Y: Posłuchaj przez pięć minut dźwięków w domu, zapisz osiem różnych i uporządkuj od najcichszych do najgłośniejszych.
+
+@1455
+H: W pracowni wytwarzasz na zamówienie korony, mostki i protezy zębowe według wskazówek dentysty. Pracujesz precyzyjnie, głównie rękami.
+T: Wykonujesz korony i mostki | Wytwarzasz protezy dentystyczne | Odtwarzasz kształt zęba według zlecenia | Poprawiasz pracę po uwagach dentysty
+D: 8:00 Odbierasz od dentysty odcisk i zlecenie | 9:00 Odlewasz model szczęki z gipsu | 11:30 Modelujesz koronę, żeby pasowała do sąsiednich zębów | 14:30 Szlifujesz i polerujesz protezę przed wysyłką
+Y: Ulep z folii aluminiowej lub plasteliny model zęba trzonowego na podstawie rysunku i wygładź go.
+
+@1456
+H: W aptece lub hurtowni kontrolujesz dostawy i zapasy leków oraz zajmujesz się ich transportem i przechowywaniem. Jeśli pozwalają na to przepisy, wydajesz leki i tłumaczysz, jak ich używać.
+T: Kontrolujesz przyjmowane dostawy leków | Sprawdzasz daty ważności i stan zapasów | Organizujesz przechowywanie i transport produktów | Wydajesz leki i tłumaczysz ich stosowanie
+D: 7:30 Przyjmujesz dostawę i sprawdzasz ją z fakturą | 9:00 Odkładasz leki wymagające niskiej temperatury do lodówki | 11:30 Wyszukujesz leki z kończącą się datą ważności | 14:00 Wydajesz lek klientowi i tłumaczysz dawkowanie
+Y: Znajdź w lodówce produkty z datą ważności i ułóż je od najkrócej ważnych.
+
+@1457
+H: Pomagasz pielęgniarkom w opiece nad pacjentami w każdym wieku. Wspierasz fizycznie i rozmową zarówno pacjentów, jak i ich bliskich.
+T: Pomagasz pacjentom w codziennych czynnościach | Wspierasz pielęgniarki przy opiece | Rozmawiasz z pacjentami i ich rodzinami | Zauważasz zmiany w samopoczuciu pacjenta
+D: 7:00 Przejmujesz zmianę i dowiadujesz się, kto potrzebuje pomocy | 8:00 Pomagasz pacjentowi umyć się i zjeść śniadanie | 11:00 Pomagasz pielęgniarce przy zmianie opatrunku | 14:00 Siadasz przy pacjencie, który boi się jutrzejszego zabiegu
+Y: Zapytaj starszą osobę z rodziny, co najbardziej pomaga jej w trudnym dniu, i zapisz trzy odpowiedzi.
+
+@1458
+H: Wspierasz pielęgniarki w opiece nad pacjentami w szpitalu, przychodni lub na izbie przyjęć. Zajmujesz się tym, czego potrzebują ludzie w różnym wieku.
+T: Przygotowujesz pacjentów do badań w przychodni | Pomagasz pielęgniarkom na izbie przyjęć | Przenosisz i układasz pacjentów | Odpowiadasz na pytania pacjentów o przebieg wizyty
+D: 7:30 Zaczynasz na izbie przyjęć, wchodzi pierwsza karetka | 9:00 Pomagasz położyć pacjenta na łóżku i podłączyć monitor | 12:00 Przewozisz pacjenta na badanie do innej części szpitala | 14:30 Wyjaśniasz rodzinie, gdzie poczekać na wyniki
+Y: Zapisz pięć uspokajających pytań lub zdań dla zdenerwowanego pacjenta na izbie przyjęć.
+
+@1459
+H: Odwiedzasz osoby, które z powodu choroby, wieku lub niepełnosprawności nie radzą sobie same w domu. Pomagasz im w higienie, jedzeniu, rozmowie i lekach według zaleceń personelu medycznego.
+T: Pomagasz w higienie osobistej | Karmisz i przygotowujesz posiłki | Przypominasz o lekach zgodnie z zaleceniami | Rozmawiasz i pomagasz się porozumiewać
+D: 7:30 Przychodzisz do starszej pani i pomagasz jej wstać | 8:30 Pomagasz w myciu i przygotowujesz śniadanie | 11:00 Podajesz leki zgodnie z rozpiską lekarza | 14:00 Idziecie na krótki spacer i rozmawiacie
+Y: Przygotuj kanapkę pokrojoną na małe kawałki dla domownika i zapytaj, czy wygodnie się ją je.
+
+@1460
+H: Pobierasz pacjentom próbki krwi do badań i dbasz, żeby czuli się przy tym bezpiecznie. Potem odwozisz próbki do laboratorium według instrukcji lekarza.
+T: Pobierasz krew z żyły pacjenta | Uspokajasz osoby, które boją się igły | Opisujesz probówki z próbkami | Transportujesz próbki do laboratorium
+D: 7:00 Otwierasz punkt pobrań, w kolejce czeka już kilkanaście osób | 8:15 Pobierasz krew dziecku i rozmawiasz z nim o bajkach | 11:00 Pacjentowi robi się słabo, układasz go i podajesz wodę | 12:30 Zawozisz zebrane próbki do laboratorium
+Y: Poćwicz rozmowę uspokajającą: napisz w trzech zdaniach, co powiesz osobie, która boi się igły.
+
+@1461
+H: Przewozisz pacjentów na noszach i wózkach po szpitalu oraz przenosisz sprzęt i inne rzeczy. Jesteś w ciągłym ruchu, a praca jest fizyczna.
+T: Przewozisz pacjentów na noszach i wózkach | Przenosisz sprzęt i przedmioty między oddziałami | Przekładasz pacjentów z łóżka na łóżko | Odbierasz zlecenia transportu od personelu
+D: 6:00 Odbierasz pierwsze zlecenie: pacjent na prześwietlenie | 8:30 Zwozisz pacjenta po operacji z bloku na oddział | 11:00 Dowozisz sprzęt i pościel na trzeci oddział | 13:30 Pomagasz przełożyć ciężkiego pacjenta na łóżko
+Y: Zmierz szerokość drzwi i korytarza w domu i sprawdź, czy przejdą tamtędy nosze o szerokości 60 cm.
+
+@1462
+H: Sprawiasz, że sprzęt używany w szpitalu jest całkowicie czysty i bezpieczny. Rozkładasz narzędzia na części, odkażasz je, składasz z powrotem i pakujesz do ponownego użycia.
+T: Demontujesz zużyty sprzęt medyczny | Odkażasz narzędzia według ścisłych procedur | Składasz sprzęt z powrotem i pakujesz | Sprawdzasz, czy zestawy narzędzi są kompletne
+D: 6:00 Odbierasz wózek z użytymi narzędziami z bloku operacyjnego | 7:30 Rozkładasz narzędzia i myjesz je w specjalnej myjni | 10:30 Składasz zestaw na operację i zamykasz go w opakowaniu | 13:00 Oddajesz sterylne zestawy na blok przed kolejnym zabiegiem
+Y: Rozłóż na części długopis lub inny prosty przedmiot, wytrzyj każdą część i złóż go z powrotem.
+
+@1463
+H: Wkładasz cienkie igły w wybrane punkty ciała, aby według zasad akupunktury przywracać równowagę organizmu. Skuteczność tej metody bywa oceniana różnie.
+T: Rozmawiasz z klientem o dolegliwościach | Wybierasz punkty akupunktury na meridianach | Wkładasz i usuwasz cienkie igły | Dobierasz terapię do schorzenia klienta
+D: 9:00 Wywiad z klientem, który skarży się na bóle pleców | 10:00 Wybierasz punkty na ciele i wkładasz igły | 13:00 Drugi klient leży, a igły zostają na ciele kilkanaście minut | 16:00 Zapisujesz przebieg wizyt w kartotekach
+Y: Poszukaj, jak tradycja akupunktury opisuje meridiany, i narysuj jeden z nich na schemacie ciała.
+
+@1464
+H: Dobierasz klientom środki homeopatyczne według zasady, że podobne leczy się podobnym. Badania naukowe nie potwierdzają ich działania ponad placebo.
+T: Rozmawiasz z klientem o dolegliwościach | Zbierasz szczegółowy wywiad o objawach | Dobierasz środek homeopatyczny | Zalecasz sposób stosowania środka
+D: 10:00 Długa rozmowa z klientem o objawach i samopoczuciu | 11:30 Zaglądasz do spisu środków i szukasz pasującego | 14:00 Wydajesz środek i tłumaczysz, jak go stosować | 16:30 Rozmowa kontrolna z klientką, która wraca po dwóch tygodniach
+Y: Zapisz w trzech punktach, czym różni się lek sprawdzony w badaniach od środka bez takich dowodów.
+
+@1465
+H: Stosujesz metody tradycyjnej medycyny chińskiej: zioła, akupunkturę, masaże i dietę. Chcesz poprawić ogólny stan pacjenta i zapobiegać chorobom, choć skuteczność wielu z tych metod bywa sporna.
+T: Dobierasz mieszanki ziołowe | Stosujesz akupunkturę i masaże | Układasz zalecenia dietetyczne | Rozmawiasz z pacjentem o zdrowiu i stylu życia
+D: 9:00 Wywiad z pacjentem, który ma kłopoty z trawieniem | 10:30 Układasz mieszankę ziół i opisujesz sposób parzenia | 13:00 Masaż i akupunktura u kolejnego pacjenta | 15:30 Tłumaczysz zasady diety w tradycji chińskiej
+Y: Przeczytaj o tradycyjnym podziale potraw na rozgrzewające i chłodzące i zapisz trzy przykłady z kuchni.
+
+@1466
+H: Oferujesz terapie uzupełniające, na przykład aromaterapię, ziołolecznictwo czy homeopatię, obok zwykłego leczenia. Skuteczność tych metod jest zróżnicowana i często niepotwierdzona badaniami.
+T: Rozmawiasz z klientem o jego samopoczuciu | Dobierasz terapie uzupełniające do potrzeb | Prowadzisz zajęcia o zdrowym stylu życia | Wspierasz osoby z chorobami przewlekłymi obok leczenia
+D: 9:30 Rozmowa z klientem o stresie i bezsenności | 11:00 Dobierasz olejki lub zioła do sesji z klientem | 14:00 Prowadzisz pogadankę o profilaktyce zdrowotnej | 16:30 Zalecasz kuracje wspierające obok leczenia u lekarza
+Y: Zapisz trzy zwykłe nawyki, na przykład sen, ruch i picie wody, i oceń swoje w skali jeden do pięciu.
+
+@1467
+H: Opiekujesz się pacjentami w wybranej dziedzinie pielęgniarstwa, na przykład na oddziale z chorymi na serce albo z dziećmi. Wspierasz zdrowie, rozpoznajesz problemy i prowadzisz opiekę.
+T: Opiekujesz się pacjentami w swojej specjalizacji | Oceniasz stan zdrowia pacjentów | Planujesz opiekę pielęgniarską | Uczysz pacjentów, jak radzić sobie z chorobą
+D: 7:00 Przejęcie oddziału i omówienie ciężkich przypadków | 8:30 Oceniasz stan pacjenta po zabiegu i dostosowujesz opiekę | 11:30 Instruujesz pacjenta, jak radzić sobie z chorobą | 14:30 Wpisujesz do karty zmiany i przekazujesz dyżur
+Y: Wybierz jedną chorobę przewlekłą, na przykład cukrzycę, i zapisz trzy rady, które pacjent powinien usłyszeć od pielęgniarki.
+
+@1468
+H: Masz szersze kompetencje niż zwykła pielęgniarka: stawiasz diagnozy i prowadzisz opiekę nad chorymi przewlekle. Koordynujesz leczenie i nadzorujesz wyznaczonych członków zespołu.
+T: Stawiasz diagnozy w trudnych przypadkach | Koordynujesz opiekę nad chorymi przewlekle | Podejmujesz złożone decyzje kliniczne | Nadzorujesz pracę wyznaczonych osób
+D: 8:00 Wizyta pacjenta z cukrzycą, zmieniasz plan opieki | 10:00 Badasz pacjenta z nowymi objawami i stawiasz diagnozę | 12:30 Omawiasz przypadki z lekarzem i młodszymi pielęgniarkami | 15:00 Układasz zintegrowany plan dla chorego z kilkoma chorobami
+Y: Wymyśl starszą osobę z kilkoma chorobami i wypisz pięć rzeczy, które trzeba u niej regularnie sprawdzać.
+
+@1469
+H: Towarzyszysz kobietom w ciąży, podczas porodu i po nim, odbierasz poród i opiekujesz się noworodkiem. Radzisz też, jak dbać o zdrowie i przygotować się do rodzicielstwa.
+T: Prowadzisz wizyty w ciąży i uczysz przygotowania do porodu | Odbierasz poród i towarzyszysz rodzącej | Wykrywasz komplikacje u matki i dziecka | Opiekujesz się noworodkiem po urodzeniu
+D: 8:00 Wizyta u kobiety w ciąży, słuchasz tętna dziecka | 10:30 Szkoła rodzenia: uczysz oddychania i pozycji porodowych | 14:00 Zaczyna się poród, zostajesz przy rodzącej | 19:30 Dziecko przychodzi na świat, sprawdzasz jego oddech i stan
+Y: Dowiedz się, jak wygląda zdrowy noworodek, i wypisz pięć rzeczy, które sprawdza się zaraz po urodzeniu.
+

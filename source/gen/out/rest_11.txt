@@ -1,0 +1,180 @@
+@1860
+H: Dbasz o ryby hodowane w halach, w zbiornikach z wodą, która krąży i jest stale oczyszczana. Pilnujesz składu wody i ilości tlenu, bo od tego zależy życie ryb.
+T: Mierzysz tlen i odczyn wody w zbiornikach | Kontrolujesz pompy, napowietrzanie i filtry biologiczne | Karmisz ryby i obserwujesz ich zachowanie | Wyławiasz chore lub martwe osobniki
+D: 7:00 Obchód hali, sprawdzasz odczyty z czujników | 9:00 Czyszczenie filtrów i kontrola pomp | 12:00 Karmienie ryb i notowanie zjedzonych porcji | 15:00 Sortowanie ryb według wielkości do przeniesienia
+Y: Wypisz pięć rzeczy, których potrzebuje ryba w zbiorniku, i zastanów się, które z nich da się zmierzyć.
+
+@1861
+H: Badasz glebę, rośliny i zwierzęta gospodarskie, żeby uprawy i hodowle dawały lepszy plon i mniej szkodziły środowisku. Pracujesz na polu i przy biurku.
+T: Pobierasz próbki gleby z pól | Planujesz doświadczenia z nawozami i odmianami | Opisujesz wyniki w raportach | Doradzasz rolnikom, co zmienić w uprawie
+D: 7:30 Wyjazd na pole doświadczalne z próbnikiem | 10:00 Mierzenie wysokości i stanu roślin | 13:00 Porównywanie wyników z poprzednich lat w tabeli | 15:00 Rozmowa z rolnikiem o spadku plonów
+Y: Weź garść ziemi z podwórka lub doniczki i zapisz trzy jej cechy: kolor, strukturę i wilgotność.
+
+@1862
+H: Badasz próbki, na przykład krwi, wody czy roślin, i sprawdzasz, co zawierają. Dokładnie zapisujesz każdy krok, bo od wyniku zależą decyzje innych osób.
+T: Pobierasz i opisujesz próbki | Wykonujesz testy i pomiary na aparatach | Zapisujesz kolejne etapy badania | Sprawdzasz, czy wyniki wyglądają wiarygodnie
+D: 7:30 Odbierasz próbki i oznaczasz je kodami | 9:00 Przygotowanie próbek do badania na aparacie | 12:00 Sprawdzasz wyniki serii i porównujesz z normą | 14:30 Wpisujesz wyniki do rejestru i czyścisz stanowisko
+Y: Zmierz temperaturę w trzech pokojach i zapisz wyniki w tabelce z godziną pomiaru.
+
+@1863
+H: Pomagasz badać bakterie: hodujesz je na pożywkach i oglądasz pod mikroskopem. Pracujesz bardzo czysto, bo jeden błąd może zepsuć całą próbę.
+T: Wysiewasz bakterie na płytki z pożywką | Oglądasz preparaty pod mikroskopem | Liczysz kolonie i notujesz wyniki | Dbasz o sterylność narzędzi i stanowiska
+D: 7:30 Zakładasz fartuch i dezynfekujesz stół roboczy | 9:00 Wysiew próbek na płytki z pożywką | 11:30 Odczyt płytek z poprzedniego dnia | 14:00 Raport z liczby kolonii dla prowadzącego badanie
+Y: Umyj ręce przez pełne 30 sekund i zapisz, które miejsca dłoni najłatwiej pominąć.
+
+@1864
+H: Pomagasz sprawdzać, jak organizmy żywe reagują na substancje chemiczne. Przygotowujesz próby, obsługujesz aparaturę i zbierasz dane do eksperymentów.
+T: Przygotowujesz roztwory i próbki do doświadczeń | Obsługujesz aparaty pomiarowe w laboratorium | Zbierasz dane i układasz je w tabelach | Pilnujesz zapasów odczynników w magazynie
+D: 8:00 Odważasz składniki i przygotowujesz próby | 10:00 Uruchamiasz aparat i ustawiasz serię pomiarów | 13:00 Zapisujesz wyniki i szukasz odchyleń | 15:00 Sprawdzasz stany magazynowe odczynników
+Y: Pokrój jabłko, zostaw połowę na talerzu i po 15 minutach opisz zmianę koloru miąższu.
+
+@1865
+H: Pomagasz badać, jak organizmy żyją w swoim środowisku. Analizujesz próbki, takie jak płyny ustrojowe, rośliny czy żywność, i przygotowujesz dane dla naukowców.
+T: Badasz próbki roślin, płynów i żywności | Oglądasz materiał pod mikroskopem | Zbierasz dane z doświadczeń | Porządkujesz sprzęt i zapasy w pracowni
+D: 8:00 Pobierasz próbki z hodowli i opisujesz je | 10:30 Mikroskop: liczenie komórek w preparatach | 13:00 Wprowadzasz dane do arkusza badania | 15:00 Dezynfekcja sprzętu i uzupełnianie zapasów
+Y: Obejrzyj z bliska liść lub płatek kwiatu przez lupę albo aparat telefonu i narysuj, co widzisz.
+
+@1866
+H: Pomagasz badać rośliny: jak rosną, jak są zbudowane i do czego można je wykorzystać. Dużo czasu spędzasz przy hodowlach i pod mikroskopem.
+T: Mierzysz wzrost i opisujesz budowę roślin | Prowadzisz hodowle w szklarni lub na szalkach | Testujesz właściwości roślin w laboratorium | Piszesz raporty z obserwacji
+D: 7:30 Podlewasz i mierzysz rośliny w szklarni | 9:30 Pobierasz fragmenty tkanek do badania | 12:00 Oglądasz preparaty i zapisujesz cechy | 14:30 Piszesz krótki raport o tempie wzrostu
+Y: Zmierz linijką wysokość dwóch roślin w domu i zapisz wyniki z datą, żeby porównać je za tydzień.
+
+@1867
+H: Pomagasz badać zwierzęta i ich środowisko: zbierasz dane, obserwujesz i opisujesz. Część pracy wykonujesz w terenie, część w pracowni i przy komputerze.
+T: Obserwujesz zwierzęta i notujesz ich zachowania | Zbierasz próbki i ślady w terenie | Prowadzisz badania w pracowni | Opracowujesz dane i raporty
+D: 6:30 Wyjście w teren, liczenie ptaków przy stawie | 10:00 Zbieranie próbek w miejscach żerowania | 13:00 Pracownia: opis i oznaczanie zebranego materiału | 15:30 Zestawiasz liczebności gatunków w tabeli
+Y: Przez 15 minut obserwuj ptaki lub owady za oknem i zapisz, ile ich było i co robiły.
+
+@1868
+H: Doradzasz właścicielom winnic, jak poprawić uprawę krzewów i produkcję wina. Dużo czasu spędzasz między rzędami krzewów, oglądając grona i liście.
+T: Oceniasz stan krzewów i gron w winnicy | Radzisz, kiedy ciąć krzewy i zbierać grona | Wskazujesz choroby i szkodniki winorośli | Proponujesz zmiany w produkcji wina
+D: 7:00 Przejście po rzędach, oglądasz liście i grona | 10:00 Rozmowa z właścicielem o terminie zbiorów | 13:00 Sprawdzasz dojrzałość gron w próbce soku | 16:00 Piszesz zalecenia na kolejny sezon
+Y: Jeśli masz w domu winogrona lub inny owoc na szypułce, opisz kolor, kształt i grubość skórki.
+
+@1869
+H: Kontrolujesz duże hodowle ryb i innych organizmów wodnych, żeby produkcja szła sprawnie i bezpiecznie. Pilnujesz zdrowia zwierząt, sprzętu i usuwania odpadów.
+T: Obchodzisz stawy i zbiorniki z hodowlą | Planujesz ochronę przed chorobami i drapieżnikami | Nadzorujesz usuwanie odpadów z hodowli | Sprawdzasz maszyny i bezpieczeństwo pracowników
+D: 7:00 Objazd stawów i sprawdzenie stanu ryb | 9:30 Kontrola pomp i sprzętu do napowietrzania | 12:00 Spotkanie z obsługą o ryzyku choroby ryb | 15:00 Spisujesz uwagi z kontroli w protokole
+Y: Narysuj prosty plan stawu hodowlanego i zaznacz, gdzie mogą pojawić się zagrożenia dla ryb.
+
+@1870
+H: Pilnujesz, żeby ryby i inne organizmy z hodowli były zdrowe i bezpieczne dla jedzących. Kontrolujesz zwierzęta i sprawdzasz, czy firma trzyma się przepisów.
+T: Pobierasz próbki ryb do badań | Sprawdzasz, czy produkcja spełnia normy | Dokumentujesz każdą kontrolę | Ustalasz zasady kontroli jakości w zakładzie
+D: 8:00 Przyjazd do hodowli i rozmowa z kierownikiem | 9:30 Pobieranie próbek ryb z różnych zbiorników | 12:30 Przegląd dokumentów o paszy i pochodzeniu ryb | 15:00 Pisanie protokołu z uwagami do poprawy
+Y: Spójrz na etykietę dowolnego produktu spożywczego i wypisz trzy informacje, które producent musi podać.
+
+@1871
+H: Pomagasz naukowcom w laboratorium opracowywać i testować rozwiązania oparte na żywych komórkach i organizmach. Przygotowujesz sprzęt, wykonujesz badania i zbierasz dane.
+T: Ustawiasz i przygotowujesz sprzęt laboratoryjny | Przygotowujesz hodowle komórek do badań | Wykonujesz zaplanowane testy według instrukcji | Zbierasz i porządkujesz dane naukowe
+D: 8:00 Sprawdzasz aparaty i przygotowujesz pożywki | 10:00 Zakładasz nowe hodowle komórek | 13:00 Seria testów według protokołu badacza | 15:30 Wpisujesz dane i opisujesz przebieg doświadczenia
+Y: Znajdź w kuchni dwa produkty powstałe dzięki fermentacji, na przykład jogurt, i zapisz, z czego powstają.
+
+@1872
+H: Wspierasz leśniczego w pracy w lesie: nadzorujesz ekipy z maszynami, zbierasz dane i pilnujesz planów wycinki oraz nasadzeń.
+T: Nadzorujesz ekipy pracujące przy wycince | Mierzysz drzewa i zbierasz dane o lesie | Pilnujesz planu nasadzeń i ochrony | Zgłaszasz szkodniki i zniszczenia w drzewostanie
+D: 6:00 Odprawa ekipy i omówienie zadań na dziś | 8:00 Oznaczasz farbą drzewa przeznaczone do wycinki | 12:00 Pomiar drzew i zapis w notesie | 15:00 Zgłaszasz leśniczemu świerki uszkodzone przez korniki
+Y: Wybierz drzewo w okolicy i zmierz sznurkiem obwód jego pnia, a potem sprawdź długość linijką.
+
+@1873
+H: Zbierasz próbki z pól, ogrodów czy pasiek i badasz je w doświadczeniach. Dostarczasz naukowcom i rolnikom danych o tym, co dzieje się w uprawie.
+T: Pobierasz próbki gleby i roślin | Prowadzisz doświadczenia na poletkach | Oceniasz warunki środowiska uprawy | Piszesz sprawozdania z wyników
+D: 7:00 Wyjazd na poletka doświadczalne | 9:00 Pobieranie próbek gleby z kilku miejsc | 12:00 Pomiary wilgotności i opis roślin | 14:30 Opracowanie sprawozdania dla rolnika
+Y: Jeśli masz nasiona lub fasolę, włóż je do wilgotnej waty na talerzyku i zapisz datę.
+
+@1874
+H: Kontrolujesz zakłady, które przechowują lub używają niebezpiecznych substancji, i sprawdzasz, czy trzymają się przepisów. Oceniasz też, czy ludzie wiedzą, co robić w razie awarii.
+T: Kontrolujesz magazyny i oznaczenia substancji | Badasz naruszenia przepisów | Obserwujesz ćwiczenia na wypadek awarii | Doradzasz, jak poprawić procedury w zakładzie
+D: 8:00 Wchodzisz do zakładu i sprawdzasz magazyn | 10:30 Porównujesz oznaczenia pojemników z dokumentami | 13:00 Obserwujesz próbną ewakuację pracowników | 15:30 Omawiasz z dyrekcją listę usterek
+Y: Przejrzyj domowe środki czystości, znajdź na etykietach znaki ostrzegawcze i zapisz, co oznaczają.
+
+@1875
+H: Sprawdzasz, czy zakłady poprawnie pozbywają się niebezpiecznych odpadów, i uczysz ludzi, jak z nimi postępować. Łączysz kontrole z prowadzeniem pogadanek.
+T: Kontrolujesz, jak zakład utylizuje odpady | Sprawdzasz sprawność urządzeń do unieszkodliwiania | Prowadzisz pogadanki o groźnych substancjach | Przygotowujesz materiały edukacyjne dla mieszkańców
+D: 8:00 Kontrola instalacji do unieszkodliwiania w fabryce | 11:00 Sprawdzenie dokumentów przekazania odpadów | 13:30 Przygotowanie plakatu o zużytych bateriach | 16:00 Spotkanie z mieszkańcami o bezpiecznej zbiórce
+Y: Zrób listę pięciu domowych odpadów, których nie wolno wyrzucać do zwykłego kosza, i sprawdź, gdzie je oddać.
+
+@1876
+H: Jeździsz po firmach i sprawdzasz, czy odpady przemysłowe są zbierane i unieszkodliwiane zgodnie z prawem. Czytasz dokumenty, oglądasz miejsce i pobierasz próbki.
+T: Sprawdzasz dokumentację odpadów w firmie | Pobierasz próbki do analizy | Oglądasz składowiska i miejsca magazynowania | Doradzasz, jak naprawić nieprawidłowości
+D: 8:00 Dojazd do zakładu i rozmowa z kierownikiem | 9:30 Przegląd kart przekazania odpadów | 11:30 Oględziny placu i pobranie próbki | 14:30 Pisanie protokołu z zaleceniami
+Y: Zajrzyj do kuchennego kosza i zapisz, ile rodzajów odpadów w nim widzisz.
+
+@1877
+H: Sprawdzasz, czy w zakładzie pracy da się pracować bezpiecznie. Oglądasz stanowiska, rozmawiasz z pracownikami i badasz przyczyny wypadków.
+T: Robisz audyty stanowisk pracy | Rozmawiasz z pracownikami o zagrożeniach | Badasz przyczyny wypadków przy pracy | Sprawdzasz dokumenty i szkolenia
+D: 7:30 Obchód hali i oglądanie stanowisk | 10:00 Rozmowa z pracownikiem o niebezpiecznej maszynie | 12:30 Analiza dokumentów po wypadku | 15:00 Spotkanie z kierownictwem o poprawkach
+Y: Obejdź swój pokój i kuchnię i wypisz trzy miejsca, w których ktoś mógłby się potknąć lub zranić.
+
+@1878
+H: Odwiedzasz placówki medyczne i sprawdzasz, czy zasady higieny chronią pacjentów przed zakażeniami. Patrzysz na sprzęt, procedury i to, jak pracuje personel.
+T: Oglądasz sale, sprzęt i sterylizację | Obserwujesz, jak personel stosuje zasady higieny | Sprawdzasz plany zapobiegania zakażeniom | Spisujesz uchybienia i terminy poprawy
+D: 8:00 Wchodzisz do szpitala i zaczynasz od oddziału | 10:00 Sprawdzasz, jak wygląda sterylizacja narzędzi | 12:30 Rozmowa z pielęgniarką o procedurach | 15:00 Piszesz protokół i terminy poprawek
+Y: Zapisz, jakie przedmioty w domu dotykasz najczęściej po powrocie z zewnątrz, i wybierz pięć do przecierania.
+
+@1879
+H: Pomagasz producentom żywności dostosować się do przepisów. Sprawdzasz procesy, etykiety i tabele wartości odżywczych, a czasem opiniujesz sprawy dla sądu.
+T: Robisz audyty w zakładzie przetwórczym | Sprawdzasz i poprawiasz wzory etykiet | Układasz tabele wartości odżywczych | Śledzisz, skąd pochodzą składniki
+D: 8:30 Dojazd do zakładu na audyt produkcji | 10:00 Przegląd opakowań i składu produktów | 13:00 Poprawianie projektu etykiety po zmianie receptury | 15:30 Raport z zaleceniami dla firmy
+Y: Weź opakowanie z kuchni i sprawdź, czy etykieta ma skład, datę ważności i wartości odżywcze.
+
+@1880
+H: Oceniasz, czy w firmach transportowych na drogach, morzu i w magazynach praca jest bezpieczna. Szukasz zagrożeń dla ludzi, towarów i systemów komputerowych i układasz procedury ograniczania ryzyka.
+T: Oceniasz systemy bezpieczeństwa w firmie transportowej | Szukasz zagrożeń na trasach i w bazach | Układasz procedury ograniczania ryzyka | Szkolisz kierowców i obsługę
+D: 7:30 Oglądasz bazę transportową i plac manewrowy | 10:00 Rozmowa z kierowcami o zagrożeniach na trasie | 13:00 Pisanie nowej procedury załadunku | 15:30 Szkolenie z zasad bezpiecznej pracy
+Y: Narysuj prosty schemat drogi paczki od sklepu do twojego domu i zaznacz trzy miejsca ryzyka.
+
+@1881
+H: Sprawdzasz, czy miejsca i firmy nie szkodzą zdrowiu ludzi i środowisku. Reagujesz na skargi mieszkańców, na przykład na zapachy czy hałas, i opisujesz ustalenia.
+T: Przyjmujesz skargi mieszkańców i sprawdzasz je | Oglądasz miejsca i obiekty na miejscu | Piszesz sprawozdania z ustaleń | Doradzasz, jak zapobiec zagrożeniom w przyszłości
+D: 8:00 Czytasz nowe skargi od mieszkańców | 9:30 Wyjazd do zakładu, o którym piszą sąsiedzi | 12:00 Oględziny i rozmowa z właścicielem | 15:00 Sprawozdanie i termin usunięcia problemu
+Y: Posłuchaj przez 15 minut z okna lub podwórka i zapisz, jakie hałasy i zapachy mogą przeszkadzać mieszkańcom.
+
+@1882
+H: Z urzędu kontrolujesz zakłady spożywcze i sprawdzasz, czy jedzenie jest produkowane bezpiecznie. Oglądasz produkcję i dokumenty oraz pilnujesz przepisów.
+T: Kontrolujesz zakłady przetwórstwa spożywczego | Sprawdzasz temperatury i czystość na produkcji | Przeglądasz dokumenty i pochodzenie surowców | Wypisujesz zalecenia i kontrolujesz poprawki
+D: 7:00 Wchodzisz do zakładu w ubraniu ochronnym | 9:00 Sprawdzasz temperaturę w chłodniach | 11:30 Przegląd dokumentów o dostawcach surowców | 14:00 Protokół z kontroli podpisujesz z kierownikiem
+Y: Sprawdź, czy produkty w lodówce są ułożone bezpiecznie, na przykład surowe mięso nisko, i zapisz uwagi.
+
+@1883
+H: Projektujesz rozwiązania, które chronią wodę, powietrze i tereny przyrodnicze przy budowach i inwestycjach. Współpracujesz z inżynierami innych branż i sprawdzasz, jak projekt wpłynie na przyrodę.
+T: Oceniasz wpływ projektu na środowisko | Projektujesz instalacje sanitarne i oczyszczające | Ustalasz z innymi inżynierami rozwiązania ochronne | Rysujesz plany i piszesz opisy techniczne
+D: 8:00 Przeglądasz projekt nowego osiedla | 10:00 Obliczasz, ile ścieków trzeba odprowadzić | 13:00 Spotkanie z architektem w sprawie zieleni i wody | 15:00 Poprawiasz rysunki instalacji
+Y: Naszkicuj drogę, jaką woda pokonuje od kranu w twoim domu aż do kanalizacji.
+
+@1884
+H: Pilnujesz, żeby kopalnia lub kamieniołom jak najmniej szkodziły przyrodzie. Wymyślasz i wdrażasz sposoby ochrony wody, gleby i powietrza wokół wydobycia.
+T: Mierzysz wpływ kopalni na wodę i powietrze | Projektujesz systemy ochrony środowiska | Nadzorujesz rekultywację terenów po wydobyciu | Sprawdzasz, czy kopalnia spełnia normy
+D: 7:00 Wyjazd na teren kamieniołomu | 9:00 Odczyty z czujników pyłu i poziomu wód | 12:00 Spotkanie o planie rekultywacji hałdy | 15:00 Raport o wpływie wydobycia dla zarządu
+Y: Znajdź w sieci zdjęcia dawnej kopalni zamienionej w park lub jezioro i opisz, co zrobiono.
+
+@1885
+H: Projektujesz, jak zbierać, przerabiać i przewozić odpady w mieście. Szukasz sposobów, żeby sortownie i instalacje działały sprawnie i mało obciążały środowisko.
+T: Projektujesz obiekty i sprzęt do przetwarzania odpadów | Analizujesz skład przetwarzanych odpadów | Sprawdzasz przepisy i normy środowiskowe | Optymalizujesz trasy i procesy zbiórki
+D: 8:00 Przeglądasz wyniki składu odpadów z miesiąca | 10:30 Rysujesz zmiany w układzie sortowni | 13:00 Liczysz, ile śmieciarek potrzeba na dzielnicę | 15:30 Rozmowa z urzędem o nowych przepisach
+Y: Zapisz, co wyrzuca twój dom w jeden wieczór, i oceń, czy trafia do dobrego pojemnika.
+
+@1886
+H: Sprawdzasz, ile energii i emisji CO2 powodują komputery, serwery i sieci w firmie. Pilnujesz, żeby informatyka firmy była zgodna z przepisami o zielonych technologiach.
+T: Mierzysz zużycie energii sprzętu informatycznego | Szacujesz emisje CO2 serwerów i sieci | Pilnujesz zgodności z przepisami o zielonych technologiach | Proponujesz oszczędniejsze rozwiązania
+D: 8:30 Przeglądasz raport zużycia energii w serwerowni | 10:30 Liczysz emisje z całej sieci firmy | 13:00 Spotkanie z działem informatyki o wymianie sprzętu | 15:00 Piszesz plan ograniczenia zużycia prądu
+Y: Wypisz urządzenia w domu, które bywają włączone cały dzień, i oceń, które da się wyłączać.
+
+@1887
+H: Dbasz, żeby firma lub urząd segregowały odpady zgodnie z przepisami. Sprawdzasz, jak to wygląda w praktyce, i uczysz pracowników, jak robić to dobrze.
+T: Czytasz przepisy o recyklingu i wdrażasz je | Kontrolujesz miejsca segregacji odpadów | Zamawiasz pojemniki i sprzęt do recyklingu | Nadzorujesz pracowników i doradzasz zmiany
+D: 7:30 Obchód punktów segregacji w firmie | 10:00 Zamawiasz nowe pojemniki do plastiku | 12:30 Krótkie szkolenie dla pracowników sprzątania | 15:00 Raport o ilości posegregowanych odpadów
+Y: Zrób na kartce plan segregacji odpadów dla swojego domu: co do którego pojemnika, prostymi słowami.
+
+@1888
+H: Szukasz technicznych sposobów na problemy takie jak zanieczyszczenie, a potem tworzysz nowe procesy produkcji, które szkodzą mniej. Wyniki opisujesz w sprawozdaniach.
+T: Wykrywasz i analizujesz problemy środowiskowe | Opracowujesz nowe procesy produkcyjne | Badasz skutki nowych rozwiązań | Opisujesz wyniki w sprawozdaniach naukowych
+D: 8:00 Analizujesz dane o zanieczyszczeniu z zakładu | 10:30 Szkicujesz zmianę w procesie produkcji | 13:00 Test nowego rozwiązania na małej instalacji | 15:30 Piszesz sprawozdanie z wynikami
+Y: Wybierz jeden przedmiot w domu i zapisz, jak można go wytwarzać z mniejszą ilością odpadów.
+
+@1889
+H: Sortujesz odpady i materiały, żeby trafiły do właściwych pojemników i mogły być użyte ponownie. Czasem rozbierasz stare pojazdy na części.
+T: Sortujesz materiały na taśmie | Wyjmujesz to, co nie nadaje się do recyklingu | Rozbierasz pojazdy i segregujesz części | Czyścisz materiały i stanowisko
+D: 6:00 Zaczynasz zmianę przy taśmie sortowniczej | 9:00 Wyciągasz folie i śmieci z plastiku | 11:30 Przerwa i zmiana stanowiska na rozbiórkę | 14:00 Układasz posortowane części w kontenerach
+Y: Weź kilka czystych opakowań z kosza i podziel je na plastik, papier i metal.
+

@@ -1,0 +1,54 @@
+@2340
+H: Planujesz warsztaty, lekcje i oprowadzania, dzięki którym klasy i grupy uczą się na wystawach. Sprawdzasz też, czy te zajęcia faktycznie coś dają odwiedzającym.
+T: Układasz program warsztatów dla szkolnych klas | Umawiasz się z nauczycielami na wizyty | Przygotowujesz materiały do zajęć na wystawie | Zbierasz opinie i poprawiasz ofertę
+D: 8:30 Odpisujesz na maile od szkół pytających o zajęcia | 10:00 Prowadzisz warsztaty dla czwartej klasy w sali wystawowej | 13:00 Projektujesz kartę pracy do nowej wystawy | 15:30 Czytasz ankiety po wczorajszych zajęciach
+Y: Wybierz dowolny obraz z domu lub internetu i napisz trzy pytania, które zaczną o nim rozmowę.
+
+@2341
+H: Wymyślasz wystawę: wybierasz dzieła, układasz je w sali tak, by opowiadały jedną historię, i piszesz o nich teksty. Współpracujesz z artystami, instytucjami i ekipą od montażu.
+T: Wybierasz prace do nowej wystawy | Rozmawiasz z artystami o ich dziełach | Projektujesz układ prac w sali | Piszesz teksty ścienne i opisy
+D: 9:00 Przeglądasz prace artysty i wybierasz te do wystawy | 11:30 Rysujesz plan sali, gdzie zawisną obrazy | 14:00 Pilnujesz, jak ekipa wiesza prace na ścianie | 17:00 Piszesz tekst do katalogu wystawy
+Y: Wybierz pięć przedmiotów z domu, ułóż je jako mini wystawę na jeden temat i nadaj jej tytuł.
+
+@2342
+H: Pomagasz odwiedzającym zrozumieć wystawę: rozmawiasz z nimi przy dziełach i szukasz sposobów, by sztuka trafiła do osób, które się na niej nie znają. Badasz też, jak ludzie odbierają ekspozycję.
+T: Oprowadzasz grupy i zadajesz pytania | Tłumaczysz trudne dzieło prostym językiem | Obserwujesz, jak ludzie chodzą po wystawie | Wymyślasz gry i zadania dla zwiedzających
+D: 10:00 Stoisz w sali i zagadujesz osoby przy obrazie | 12:00 Oprowadzasz grupę seniorów po nowej ekspozycji | 14:30 Zapisujesz, przy których dziełach ludzie się zatrzymują | 16:00 Poprawiasz opisy, bo nikt ich nie rozumie
+Y: Poproś kogoś z domu, by opowiedział, co widzi na jednym obrazku, i zapisz jego słowa bez poprawiania.
+
+@2343
+H: Dbasz o to, by przedmioty w muzeum przetrwały: wiesz, gdzie leży każdy z nich i w jakim jest stanie. Pilnujesz magazynu, dokumentacji i bezpiecznego przewozu eksponatów.
+T: Opisujesz stan przedmiotu w kartotece | Pilnujesz temperatury i wilgoci w magazynie | Pakujesz eksponaty do bezpiecznego transportu | Prowadzisz spis wszystkich przedmiotów w zbiorze
+D: 8:00 Sprawdzasz odczyty wilgoci w magazynie zbiorów | 10:00 Oglądasz w rękawiczkach obraz wracający z wystawy | 13:00 Pakujesz rzeźbę do wysyłki na wypożyczenie | 15:00 Uzupełniasz w kartotece lokalizację nowych nabytków
+Y: Wybierz w domu najbardziej kruchą rzecz i znajdź dla niej miejsce bez słońca, wilgoci i wstrząsów.
+
+@2344
+H: Pracujesz w muzeum, które zbiera rzeczy z przyrody, historii lub życia dawnych ludzi. Raz badasz zbiory, raz przygotowujesz wystawę, raz zajmujesz się dokumentami.
+T: Przeszukujesz magazyn w poszukiwaniu eksponatów | Opisujesz i katalogujesz nowe zbiory | Przygotowujesz gabloty na wystawę | Wypełniasz dokumenty i pilnujesz terminów prac
+D: 8:30 Schodzisz do magazynu po eksponaty na wystawę | 10:30 Opisujesz stary przedmiot i wpisujesz go do katalogu | 13:00 Ustawiasz eksponaty w gablocie i poprawiasz podpisy | 15:00 Piszesz pismo w sprawie wypożyczenia zbioru
+Y: Wybierz w domu jeden stary przedmiot i opisz go: wygląd, materiał, do czego służy, skąd pochodzi.
+
+@2345
+H: Dbasz o to, by w bibliotece było to, czego ludzie szukają, i by dało się to znaleźć. Wypożyczasz książki, ale też porządkujesz zbiory i pomagasz czytelnikom w wyszukiwaniu informacji.
+T: Wypożyczasz i przyjmujesz książki | Opisujesz nowe książki w katalogu | Pomagasz czytelnikom znaleźć potrzebne informacje | Wybierasz, jakie książki kupić do zbioru
+D: 8:00 Otwierasz bibliotekę i sortujesz zwroty z wczoraj | 10:00 Pomagasz uczniowi znaleźć źródła do referatu | 12:30 Wpisujesz do katalogu paczkę nowych książek | 15:00 Prowadzisz spotkanie dla dzieci z czytaniem na głos
+Y: Zapytaj domownika, co chce przeczytać, dopytaj o szczegóły i wskaż mu trzy pasujące książki lub teksty.
+
+@2346
+H: Odpowiadasz za to, by ludzie w firmie lub urzędzie szybko dostawali potrzebne informacje i dokumenty. Ustalasz, gdzie i jak są przechowywane, kto ma do nich dostęp i jak je wyszukać.
+T: Ustalasz zasady przechowywania dokumentów | Nadajesz dokumentom opisy ułatwiające wyszukiwanie | Przydzielasz pracownikom dostęp do zasobów | Szukasz informacji na zamówienie współpracowników
+D: 8:30 Porządkujesz wspólne foldery, w których nikt nic nie znajduje | 10:30 Spotykasz się z działem, który gubi dokumenty | 13:00 Szukasz w kilku źródłach informacji dla dyrektora | 15:30 Ustawiasz, kto może czytać poufne pliki
+Y: Wymyśl zasady nazywania i układania swoich notatek tak, by każdą znaleźć w mniej niż minutę.
+
+@2347
+H: Żyjesz we wspólnocie religijnej według jej reguły i składasz śluby. Dzień dzielisz między modlitwę, pracę na rzecz klasztoru i życie z pozostałymi osobami we wspólnocie.
+T: Modlisz się razem ze wspólnotą kilka razy dziennie | Pracujesz w kuchni, ogrodzie lub warsztacie klasztoru | Przestrzegasz reguły i ślubów swojej wspólnoty | Rozważasz teksty religijne w ciszy i skupieniu
+D: 5:30 Wstajesz na poranną modlitwę we wspólnocie | 8:00 Po śniadaniu pracujesz w klasztornym ogrodzie lub kuchni | 12:30 Wspólny obiad, potem godzina ciszy i czytania | 18:00 Wieczorna modlitwa i spotkanie całej wspólnoty
+Y: Posiedź dziesięć minut w ciszy bez telefonu, a potem zapisz, jak się z tym czujesz.
+
+@2348
+H: Pracujesz dla wspólnoty religijnej jako osoba świecka: uczysz, organizujesz pomoc dla potrzebujących i wspierasz duchownych. Rozmawiasz też z członkami wspólnoty, którzy mają kłopoty rodzinne, społeczne lub emocjonalne.
+T: Prowadzisz zajęcia o wierze dla dzieci i dorosłych | Organizujesz zbiórki i pomoc dla potrzebujących | Pomagasz przygotować obrzędy religijne razem z duchownymi | Wysłuchujesz osób z kłopotami i kierujesz po pomoc
+D: 8:00 Planujesz z duchownym tydzień zajęć wspólnoty | 10:00 Układasz paczki z jedzeniem dla rodzin w potrzebie | 15:00 Prowadzisz cotygodniowe spotkanie grupy młodzieżowej | 18:00 Słuchasz osoby, która niedawno straciła kogoś bliskiego
+Y: Zapisz trzy sposoby, jak można pomóc samotnej osobie z okolicy, i wybierz jeden do zrobienia w tym tygodniu.
+

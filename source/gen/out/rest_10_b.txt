@@ -1,0 +1,180 @@
+@1830
+H: Szukasz, skąd bierze się choroba i jak się rozprzestrzenia, żeby jej zapobiec. Pracujesz głównie na danych, wywiadach i raportach.
+T: Zbierasz dane o zachorowaniach | Szukasz źródła i dróg zakażenia | Porównujesz grupy chorych i zdrowych | Proponujesz sposoby zapobiegania
+D: 8:00 Przeglądasz nowe zgłoszenia zachorowań w regionie | 10:00 Rozmawiasz z lekarzami o wspólnym źródle zakażenia | 13:00 Porównujesz dane chorych i zdrowych | 15:30 Piszesz zalecenia dla urzędu zdrowia
+Y: Wypisz trzy sposoby, którymi grypa przenosi się w klasie, i do każdego dopisz sposób zapobiegania.
+
+@1831
+H: Badasz, jak ciało i jego narządy reagują na wysiłek, stres czy chorobę. Z tych reakcji wyciągasz wnioski o tym, jak działa organizm.
+T: Mierzysz tętno, oddech i ciśnienie badanych | Planujesz doświadczenia z wysiłkiem | Porównujesz reakcje zdrowych i chorych | Opisujesz działanie narządów
+D: 8:30 Przygotowujesz stanowisko do badania wysiłkowego | 10:00 Mierzysz oddech i tętno osoby na bieżni | 13:00 Porównujesz wyniki z poprzednią grupą | 16:00 Piszesz opis wyników
+Y: Policz swoje oddechy w minutę w spoczynku, potem po 20 podskokach, i porównaj wyniki.
+
+@1832
+H: Badasz, jak geny przekazują cechy z rodziców na dzieci i skąd biorą się choroby dziedziczne. Pracujesz z wynikami badań, a czasem rozmawiasz z rodzinami pacjentów.
+T: Badasz, jak geny przekazują cechy | Analizujesz DNA pacjentów | Tłumaczysz rodzinom ryzyko chorób dziedzicznych | Szukasz wad genetycznych
+D: 8:30 Przeglądasz wyniki badań genetycznych | 10:30 Rozmawiasz z rodziną o chorobie dziedzicznej | 13:00 Porównujesz zmiany w genach u chorych i zdrowych | 15:30 Notujesz wnioski dla lekarza
+Y: Zapisz trzy swoje cechy odziedziczone po rodzicach, na przykład kolor oczu, i narysuj proste drzewko.
+
+@1833
+H: Zarządzasz zbiorami roślin w ogrodzie botanicznym: decydujesz, jakie gatunki zbierać i jak układać je w krajobrazie. Prowadzisz katalog kolekcji.
+T: Rozbudowujesz kolekcję o nowe gatunki | Katalogujesz rośliny w bazie | Planujesz układ rabat | Wymieniasz okazy z innymi ogrodami
+D: 8:00 Sprawdzasz zapisy w katalogu kolekcji | 9:30 Oglądasz rośliny, które słabo rosną | 12:00 Planujesz układ nowej rabaty | 14:30 Piszesz do innego ogrodu o wymianie okazów
+Y: Zrób katalog trzech roślin w domu: nazwa, miejsce, krótki opis stanu i data.
+
+@1834
+H: Badasz bakterie, grzyby i wirusy, których nie widać gołym okiem. Szukasz, co wywołuje chorobę albo psuje żywność.
+T: Hodujesz bakterie i grzyby na szalkach | Oglądasz drobnoustroje pod mikroskopem | Rozpoznajesz, co wywołuje chorobę | Badasz próbki żywności i wody
+D: 8:00 Zakładasz hodowle z nowych próbek | 10:00 Oglądasz kolonie pod mikroskopem | 13:00 Ustalasz, jaki drobnoustrój wywołał zakażenie | 15:00 Wpisujesz wyniki do raportu
+Y: Znajdź w kuchni trzy produkty, przy których pracują bakterie lub drożdże, i zapisz, co robią.
+
+@1835
+H: Pomagasz hodować ryby i rośliny wodne tak, by rosły zdrowo i bez szkody dla środowiska. Zaglądasz do stawów i basenów hodowlanych i szukasz przyczyn problemów.
+T: Sprawdzasz stan zwierząt w basenach hodowlanych | Mierzysz parametry wody | Szukasz przyczyn chorób ryb | Proponujesz zmiany w hodowli
+D: 7:00 Obchód stawów i sprawdzenie ryb | 9:00 Mierzysz parametry wody w stawie | 12:00 Ryby słabo jedzą, szukasz przyczyny | 15:00 Spotkanie z właścicielem gospodarstwa
+Y: Wypisz pięć rzeczy, których potrzebuje ryba w akwarium, i zaznacz te, o których łatwo zapomnieć.
+
+@1836
+H: Dobierasz zioła i rośliny do napojów alkoholowych na bazie ziół. Łączysz wiedzę o roślinach, smaku i procesach technologicznych.
+T: Dobierasz zioła i rośliny do receptury | Mielisz surowce, by zachować aromat | Oceniasz zapach i smak surowców | Notujesz wyniki prób
+D: 8:00 Sprawdzasz partię suszonych ziół | 10:00 Ustawiasz maszynę mielącą na delikatne zgniatanie | 13:00 Oceniasz zapach próbek z zespołem | 15:00 Zapisujesz, jak zmienił się aromat
+Y: Powąchaj trzy przyprawy z kuchni i opisz zapach każdej z nich trzema słowami.
+
+@1837
+H: Badasz, jak substancje chemiczne szkodzą ludziom, zwierzętom i środowisku. Ustalasz, od jakiej dawki zaczyna się zagrożenie.
+T: Badasz, jak substancje szkodzą organizmom | Ustalasz dawki, od których zaczyna się szkodliwość | Prowadzisz badania w hodowlach komórek | Oceniasz wpływ na środowisko
+D: 8:30 Planujesz doświadczenie z nową substancją | 10:30 Przygotowujesz hodowlę komórek do testu | 13:30 Sprawdzasz, przy jakiej dawce komórki obumierają | 16:00 Piszesz ocenę ryzyka
+Y: Przeczytaj etykietę kosmetyku z łazienki i przepisz wszystkie ostrzeżenia. Zapisz, przed czym ostrzegają.
+
+@1838
+H: Obserwujesz zachowanie zwierząt i uczysz ich opiekunów, jak zapobiegać problemom, na przykład szczekaniu czy niszczeniu mebli. Pracujesz i ze zwierzęciem, i z jego właścicielem.
+T: Obserwujesz zachowanie zwierzęcia | Rozmawiasz z właścicielem o codziennej rutynie | Układasz plan zmiany zachowania | Sprawdzasz efekty podczas wizyty kontrolnej
+D: 9:00 Wizyta u właściciela psa, który niszczy meble | 11:00 Obserwujesz zwierzę i notujesz sygnały | 14:00 Pokazujesz rodzinie ćwiczenia | 17:00 Piszesz plan na kolejne tygodnie
+Y: Obserwuj przez 15 minut zwierzę, na przykład psa, kota albo ptaka za oknem, i zapisz, co robi.
+
+@1839
+H: Analizujesz dane biologiczne za pomocą komputera: budujesz bazy i szukasz wzorców w DNA. Większość dnia spędzasz przed ekranem.
+T: Piszesz kod do analizy danych biologicznych | Budujesz bazy sekwencji DNA | Szukasz wzorców w danych genetycznych | Pomagasz biologom zrozumieć wyniki
+D: 9:00 Pobierasz nowe dane z sekwencji DNA | 10:30 Piszesz skrypt, który porządkuje dane | 13:00 Szukasz powtarzających się wzorców | 15:30 Tłumaczysz biologom wyniki
+Y: Ułóż ciąg 20 liter z liter A, C, G i T i policz, ile razy powtarza się każda.
+
+@1840
+H: Badasz, jak żywność się psuje i jak bakterie wywołują zatrucia. Pilnujesz, żeby produkty były bezpieczne i spełniały przepisy.
+T: Badasz, jak psują się produkty | Szukasz bakterii wywołujących zatrucia | Sprawdzasz zgodność z przepisami | Testujesz sposoby konserwacji
+D: 8:00 Pobierasz próbki jogurtu z linii produkcji | 10:00 Hodujesz i liczysz bakterie | 13:00 Sprawdzasz zgodność wyników z przepisami | 15:00 Zespół pyta, czemu partia szybko się psuje
+Y: Zapisz, jak i jak długo przechowujesz w domu trzy produkty, i uzasadnij, dlaczego tak.
+
+@1841
+H: Badasz, jak leki działają na komórki i narządy, i szukasz substancji, które mogą leczyć choroby. Sprawdzasz też, jakie mają skutki uboczne.
+T: Badasz działanie leków na komórki i narządy | Szukasz substancji o działaniu leczniczym | Sprawdzasz skutki uboczne | Porównujesz dawki i efekty
+D: 8:30 Planujesz test nowej substancji | 10:30 Podajesz substancję hodowli komórek | 13:00 Odczytujesz wyniki i porównujesz dawki | 15:30 Spisujesz skutki uboczne
+Y: Przeczytaj ulotkę leku z domowej apteczki, bez brania go, i wypisz dawkowanie oraz działania niepożądane.
+
+@1842
+H: Badasz układ odpornościowy i to, jak organizm walczy z wirusami, bakteriami i pasożytami. Szukasz sposobów leczenia chorób związanych z odpornością.
+T: Badasz reakcję organizmu na wirusy i bakterie | Analizujesz próbki krwi pacjentów | Badasz choroby związane z odpornością | Szukasz sposobów leczenia
+D: 8:30 Przygotowujesz próbki krwi do badania | 10:30 Oglądasz komórki odpornościowe pod mikroskopem | 13:00 Porównujesz reakcje zdrowych i chorych | 15:30 Spisujesz wyniki badań
+Y: Wyjaśnij własnymi słowami w trzech zdaniach, jak organizm uczy się rozpoznawać wirusa.
+
+@1843
+H: Analizujesz, z czego składa się pasza dla zwierząt i czy wystarcza im składników odżywczych. Doradzasz rolnikom i hodowcom, jak układać dawki.
+T: Analizujesz skład i wartość odżywczą pasz | Układasz dawki pokarmowe dla zwierząt | Doradzasz rolnikom i hodowcom | Śledzisz nowe badania o żywieniu
+D: 8:00 Odbierasz próbki paszy z gospodarstwa | 10:00 Analizujesz zawartość białka i włókna | 13:00 Układasz dawkę dla krów mlecznych | 15:30 Rolnik dzwoni po poradę
+Y: Przeczytaj skład karmy dla zwierzęcia lub płatków śniadaniowych i wypisz trzy składniki oraz ich rolę.
+
+@1844
+H: Pilnujesz warunków w wodzie, w której rosną ryby i rośliny, żeby nic im nie zagrażało. Układasz programy kontroli i wydajesz zalecenia hodowcom.
+T: Monitorujesz warunki w wodzie hodowli | Szukasz zagrożeń dla ryb i roślin | Planujesz programy kontroli | Piszesz zalecenia dla hodowców
+D: 7:30 Pobierasz próbki wody ze zbiornika | 10:00 Sprawdzasz temperaturę i zawartość tlenu | 13:00 Szukasz źródła zanieczyszczenia | 15:00 Piszesz plan monitoringu
+Y: Postaw szklankę wody w oknie i co 5 minut dotykaj jej, notując, czy robi się cieplejsza.
+
+@1845
+H: Doradzasz firmom i władzom, jak korzystać z wody, gleby, lasów i zwierząt, żeby ich nie zniszczyć. Łączysz wiedzę o przyrodzie z przepisami i gospodarką.
+T: Doradzasz firmom w ochronie wody, gleby i lasów | Oceniasz wpływ działalności firm na przyrodę | Przygotowujesz zalecenia dla władz | Tłumaczysz skutki dla zdrowia
+D: 9:00 Czytasz plan firmy, która chce wykorzystać teren | 11:00 Oceniasz, jak wpłynie na wodę i las | 14:00 Spotkanie z klientem o zaleceniach | 16:00 Spisujesz opinię
+Y: Wypisz pięć zasobów naturalnych, z których korzysta twoja rodzina w ciągu dnia, i skąd pochodzą.
+
+@1846
+H: Badasz, jak żyją razem rośliny, zwierzęta i ludzie w jednym miejscu, na przykład nad jeziorem albo w lesie. Zajmujesz się zwykle jednym środowiskiem.
+T: Liczysz gatunki w danym miejscu | Oceniasz stan siedlisk | Badasz zależności między organizmami | Specjalizujesz się na przykład w wodach słodkich
+D: 6:30 Wychodzisz nad jezioro liczyć ptaki | 9:00 Pobierasz próbki roślin | 12:30 Opisujesz siedlisko na mapie | 15:00 Analizujesz zebrane dane
+Y: Narysuj prosty łańcuch pokarmowy z udziałem zwierząt, które żyją w pobliżu twojego domu.
+
+@1847
+H: Badasz glebę i doradzasz, jak poprawić jej jakość pod uprawy, budowę albo ochronę przyrody. Zajmujesz się też erozją i odbudową zniszczonej ziemi.
+T: Pobierasz próbki gleby z pola | Oceniasz jakość i skład gleby | Doradzasz, jak chronić glebę przed erozją | Planujesz nawadnianie
+D: 7:00 Wychodzisz w pole z narzędziami do próbek | 9:00 Kopiesz odkrywkę i opisujesz warstwy gleby | 12:00 Notujesz kolor i skład | 15:00 Analizujesz dane i piszesz zalecenia
+Y: Nabierz garść ziemi z ogrodu, rozetrzyj w palcach i opisz, czy jest piaszczysta czy gliniasta.
+
+@1848
+H: Opiekujesz się parkami i terenami zielonymi: pilnujesz ich stanu, zachęcasz ludzi do odwiedzin i uczysz, jak je chronić. Dużo chodzisz po terenie.
+T: Obchodzisz tereny zielone | Rozmawiasz ze zwiedzającymi o zasadach | Zgłaszasz zniszczenia | Organizujesz akcje edukacyjne
+D: 8:00 Obchód ścieżek w parku | 10:30 Zgłaszasz zniszczoną tablicę informacyjną | 13:00 Prowadzisz grupę szkolną po terenie | 16:00 Wpisujesz do raportu stan terenów
+Y: Zaproponuj trzy zasady dla odwiedzających park i narysuj dla nich prosty znak.
+
+@1849
+H: Poprawiasz stan przyrody w swojej okolicy razem z mieszkańcami. Prowadzisz projekty dla konkretnych gatunków i miejsc oraz uczysz ludzi, jak o nie dbać.
+T: Realizujesz projekty ochrony gatunków | Poprawiasz stan siedlisk w gminie | Organizujesz warsztaty dla mieszkańców | Współpracujesz z lokalnymi społecznościami
+D: 9:00 Planujesz sadzenie roślin miododajnych w parku | 11:00 Prowadzisz warsztaty dla uczniów | 14:00 Oglądasz staw, który ma stać się siedliskiem płazów | 16:00 Rozmowa z mieszkańcami o projekcie
+Y: Narysuj plan miejsca dla dzikich zwierząt w ogrodzie: woda, kryjówka i pożywienie.
+
+@1850
+H: Opracowujesz programy, dzięki którym firma lub instytucja szkodzi środowisku mniej. Kontrolujesz obiekty i uczysz ludzi.
+T: Opracowujesz programy poprawy efektywności środowiskowej | Kontrolujesz obiekty pod kątem przepisów | Edukujesz mieszkańców | Raportujesz wyniki zarządowi
+D: 8:30 Sprawdzasz zużycie wody i śmieci w firmie | 10:30 Kontrola obiektu pod kątem przepisów | 13:00 Prowadzisz szkolenie o segregacji odpadów | 15:30 Piszesz raport dla zarządu
+Y: Sprawdź, jak segregujesz śmieci w domu, i zapisz trzy pomysły na ograniczenie odpadów.
+
+@1851
+H: Pilnujesz, żeby budowa rurociągu nie zniszczyła rzek, lasów i okolicznej przyrody. Analizujesz trasę razem ze specjalistami i zbierasz opinie.
+T: Analizujesz trasę rurociągu pod kątem przyrody | Zbierasz opinie specjalistów | Oceniasz kwestie środowiskowe | Pilnujesz, by projekt spełniał przepisy
+D: 9:00 Oglądasz mapę trasy rurociągu | 11:00 Spotkanie ze specjalistami o rzekach i lasach | 14:00 Terenowa wizyta w miejscu przejścia | 16:00 Piszesz raport z uwagami
+Y: Narysuj mapę trasy z domu do szkoły i zaznacz miejsca ważne dla przyrody, jak parki.
+
+@1852
+H: Badasz powietrze, wodę i glebę, żeby znaleźć zagrożenia dla środowiska i podpowiedzieć, jak im zapobiec. Oceniasz też, jak nowa budowa wpłynie na okolicę.
+T: Pobierasz próbki powietrza, wody i gleby | Oceniasz ryzyko środowiskowe | Doradzasz w sprawie odpadów i wody | Sprawdzasz zgodność z przepisami
+D: 8:00 Wyjeżdżasz na teren planowanej budowy | 10:00 Pobierasz próbki wody i gleby | 13:00 Analizujesz dane z laboratorium | 15:30 Piszesz opinię o wpływie budowy
+Y: Wyjrzyj przez okno i zapisz wszystkie źródła hałasu i zanieczyszczeń, które widać lub słychać.
+
+@1853
+H: Chronisz lasy, parki i rezerwaty: dbasz o dziką zwierzynę, różnorodność gatunków i wartość krajobrazu. Dużo czasu spędzasz w terenie.
+T: Chronisz siedliska dzikich zwierząt | Oceniasz różnorodność biologiczną lasu | Prowadzisz prace w terenie | Zarządzasz obszarem chronionym
+D: 6:30 Idziesz do lasu liczyć ślady zwierząt | 9:00 Oceniasz stan siedliska w rezerwacie | 12:00 Rozmawiasz z leśnikami o zagrożeniach | 15:00 Wpisujesz dane do dokumentacji
+Y: Wypisz pięć gatunków zwierząt żyjących w pobliżu i zapisz, czego potrzebuje każdy z nich.
+
+@1854
+H: Pilnujesz, żeby woda z kranu, do podlewania i do innych celów była bezpieczna. Pobierasz próbki, badasz je w laboratorium i planujesz oczyszczanie.
+T: Pobierasz próbki wody | Badasz je w laboratorium | Opracowujesz procedury oczyszczania | Pilnujesz norm wody pitnej
+D: 7:30 Pobierasz próbki z ujęcia wody | 10:00 Badasz je w laboratorium | 13:00 Wynik przekracza normę, szukasz przyczyny | 15:30 Planujesz zmianę sposobu oczyszczania
+Y: Obejrzyj szklankę wody z kranu pod światło i opisz jej kolor, zapach i przejrzystość.
+
+@1855
+H: Monitorujesz, jak lotnisko wpływa na okolicę: spaliny, hałas i dzikie zwierzęta przy pasie startowym. Układasz zasady, które ograniczają szkody.
+T: Monitorujesz emisje i hałas wokół lotniska | Obserwujesz dziką zwierzynę przy pasie | Badasz wpływ lotniska na okolicę | Wdrażasz zasady zrównoważonego rozwoju
+D: 8:00 Czytasz dane o hałasie i spalinach | 10:30 Obchód terenu: ptaki i zwierzęta przy pasie | 13:00 Spotkanie z mieszkańcami o hałasie | 15:00 Piszesz plan ograniczenia emisji
+Y: Posłuchaj przez 5 minut odgłosów z okna, zapisz dźwięki i oceń głośność każdego w skali od 1 do 5.
+
+@1856
+H: Doradzasz właścicielom lasów, jak nimi gospodarować, żeby dawały dochód i zostały zdrowe. Wyjaśniasz też przepisy o wycince i zalesianiu.
+T: Doradzasz właścicielom lasów | Wyjaśniasz przepisy o gospodarce leśnej | Oceniasz stan drzewostanu | Planujesz zalesienia i cięcia
+D: 8:30 Jedziesz do lasu prywatnego właściciela | 10:00 Oglądasz drzewostan razem z właścicielem | 13:00 Tłumaczysz przepisy o wycince | 15:30 Piszesz plan gospodarowania lasem
+Y: Rozpoznaj w parku lub ogrodzie trzy gatunki drzew po liściach i zapisz ich nazwy.
+
+@1857
+H: Doradzasz rolnikom i hodowcom, jak poprawić hodowlę zwierząt i produkcję, na przykład mleka czy mięsa. Jeździsz do gospodarstw i oglądasz stada.
+T: Doradzasz rolnikom w żywieniu zwierząt | Oceniasz wyniki produkcji mleka lub mięsa | Sprawdzasz warunki w oborze | Planujesz zmiany w hodowli
+D: 7:30 Wizyta w gospodarstwie z krowami | 9:30 Oglądasz stado i warunki w oborze | 12:00 Liczysz wyniki produkcji mleka | 14:30 Przedstawiasz rolnikowi plan zmian
+Y: Wypisz trzy pytania do rolnika o jego zwierzęta, które pokażą, czy hodowla się opłaca.
+
+@1858
+H: Doradzasz plantatorom i rolnikom, jak uprawiać rośliny, żeby plony były większe. Prowadzisz doświadczenia na poletkach i porównujesz wyniki.
+T: Doradzasz plantatorom w uprawie roślin | Prowadzisz doświadczenia na poletkach | Badasz plony | Oceniasz opłacalność uprawy
+D: 7:00 Jedziesz do gospodarstwa na wizytę | 9:00 Oglądasz poletko doświadczalne | 12:00 Porównujesz plony z dwóch odmian | 15:00 Piszesz zalecenia dla rolnika
+Y: Włóż nasiono fasoli lub groszku do wilgotnej waty i zapisz dzisiejszą datę oraz plan obserwacji.
+
+@1859
+H: Doradzasz, jak zarządzać zasobami ryb i ich siedliskami, żeby połowy nie wyniszczały populacji. Opracowujesz plany dla rybołówstwa przybrzeżnego i hodowli.
+T: Doradzasz w zarządzaniu zasobami ryb | Planujesz modernizację połowów | Piszesz plany zarządzania rybołówstwem | Doradzasz w sprawie hodowli ryb
+D: 8:00 Spotkanie w porcie z rybakami | 10:30 Analizujesz dane połowów | 13:00 Piszesz plan ochrony zasobów ryb | 16:00 Rozmowa z gminą o zmianach
+Y: Narysuj cykl życia ryby i zaznacz etap, w którym jest najbardziej narażona.
+

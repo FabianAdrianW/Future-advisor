@@ -1,0 +1,180 @@
+@990
+H: Uczysz ludzi żonglować, balansować i robić proste akrobacje dla zabawy, nie dla wyczynu. Pokazujesz triki i pozwalasz próbować, aż każdy znajdzie swój styl.
+T: Pokazujesz wolno ruch żonglerski krok po kroku | Asekurujesz uczniów przy akrobatyce i trapezie | Opowiadasz o historii cyrku i znanych numerach | Pomagasz każdemu wymyślić własny numer
+D: 11:00 Przygotowujesz salę: maty, piłeczki, obręcze, liny | 16:00 Zajęcia dla dzieci: pierwsze podrzuty trzech piłek | 18:00 Grupa młodzieży ćwiczy monocykl i akrobatykę w parach | 20:00 Dorośli próbują nowych trików, ty poprawiasz ich chwyty
+Y: Podrzucaj parę zwiniętych skarpetek jedną ręką i spróbuj złapać je bez upuszczenia dziesięć razy z rzędu.
+
+@991
+H: Uczysz ludzi tańczyć, od pierwszych kroków do całego układu. Układasz choreografie i przygotowujesz grupy do występu na scenie.
+T: Pokazujesz kroki i liczysz takt na głos | Układasz choreografię do wybranej muzyki | Poprawiasz postawę i ruchy uczniów | Koordynujesz stroje, rekwizyty i scenografię przed występem
+D: 14:00 Układasz nową choreografię do piosenki grupy | 16:30 Zajęcia dla dzieci: pierwsze kroki i rytm | 18:30 Grupa dorosłych uczy się tańca towarzyskiego w parach | 20:00 Próba generalna przed występem, sprawdzasz stroje i wejścia
+Y: Ułóż osiem kroków do ulubionej piosenki, zapisz je liczeniem do ośmiu i naucz układu kogoś z domu.
+
+@992
+H: Uczysz ludzi wyrażać się głosem i ciałem: od improwizacji po monologi i wiersze. Pomagasz uczniom wejść w rolę i znaleźć własny sposób grania.
+T: Prowadzisz ćwiczenia z głosem i oddechem | Uczysz improwizować krótkie scenki | Pracujesz z uczniami nad monologiem lub dialogiem | Pokazujesz różnicę między komedią a tragedią w graniu
+D: 15:00 Planujesz warsztaty: wiersz, scenka, ćwiczenia głosowe | 16:30 Zajęcia dla dzieci: improwizacja z jednym rekwizytem | 18:00 Młodzież ćwiczy dialog w parach, ty dajesz wskazówki | 19:30 Grupa dorosłych czyta monologi na głos
+Y: Przeczytaj krótki wiersz na głos trzy razy: smutno, wesoło i ze złością, i zapisz różnice.
+
+@993
+H: Badasz, jak uczą się ludzie i jak działają szkoły, a potem podpowiadasz, co zmienić. Wyniki przekazujesz tym, którzy decydują o edukacji.
+T: Zbierasz dane o tym, jak przebiega nauka | Analizujesz, co w szkołach działa gorzej | Piszesz raporty z propozycjami zmian | Doradzasz urzędnikom i pracodawcom w sprawach edukacji
+D: 8:30 Czytasz nowe badania o skuteczności nauczania | 10:30 Analizujesz wyniki ankiet z kilku szkół | 13:00 Spotkanie z urzędnikami o planie zmian | 15:30 Piszesz raport z konkretnymi propozycjami
+Y: Zapisz, w jakich warunkach najlepiej zapamiętujesz lekcje, i zaproponuj jedną konkretną zmianę w swoim sposobie nauki.
+
+@994
+H: Pilnujesz, żeby uczniowie z niepełnosprawnościami dostawali w szkole wsparcie, którego potrzebują. Nadzorujesz programy pomocy i doradzasz dyrekcji, co zmienić.
+T: Sprawdzasz, jakiej pomocy potrzebują poszczególni uczniowie | Nadzorujesz programy wsparcia w szkole | Śledzisz nowe badania o specjalnych potrzebach | Doradzasz dyrektorowi w sprawie nowych programów
+D: 8:00 Rozmowa z nauczycielem o uczniu, który traci wątek | 10:00 Obserwujesz zajęcia i notujesz, co pomaga | 12:30 Czytasz nowy artykuł o terapii pedagogicznej | 14:30 Przedstawiasz dyrektorowi plan zmian w programie
+Y: Obejrzyj swój pokój lub klasę i zapisz trzy rzeczy, które utrudniałyby naukę komuś, kto słabo widzi albo słyszy.
+
+@995
+H: Układasz i poprawiasz programy nauczania: co, w jakiej kolejności i jak uczy się w szkole. Sprawdzasz, co w obecnym programie nie działa, i przygotowujesz lepszą wersję.
+T: Analizujesz jakość obecnych programów nauczania | Rozmawiasz z nauczycielami o tym, co nie działa | Piszesz poprawione plany zajęć | Przygotowujesz sprawozdania ze zmian w programie
+D: 9:00 Porównujesz dwa programy z tego samego przedmiotu | 11:00 Rozmowa z nauczycielem, któremu brakuje czasu na materiał | 13:30 Przepisujesz plan tematów w logiczniejszej kolejności | 15:00 Wypełniasz dokumenty i piszesz sprawozdanie dla dyrekcji
+Y: Weź jeden temat ze szkolnego przedmiotu i rozpisz go na pięć lekcji, od najłatwiejszej do najtrudniejszej.
+
+@996
+H: Odwiedzasz szkoły i sprawdzasz, czy działają zgodnie z przepisami. Obserwujesz lekcje, czytasz dokumenty i piszesz raport z uwagami.
+T: Obserwujesz lekcje, siedząc z tyłu klasy | Sprawdzasz dokumenty, wyposażenie i przepisy w szkole | Piszesz sprawozdanie z wizyty dla przełożonych | Dajesz nauczycielom uwagi i porady
+D: 7:30 Dojeżdżasz do szkoły w innej miejscowości | 9:00 Siedzisz na lekcji matematyki i robisz notatki | 12:00 Przeglądasz dziennik i dokumenty szkoły | 14:30 Przekazujesz dyrektorowi uwagi i porady
+Y: Oceń swój pokój do nauki w pięciu punktach: światło, porządek, miejsce, powietrze, cisza, i zapisz uwagi.
+
+@997
+H: Uczysz ludzi obsługiwać programy i systemy informacyjne, których potrzebują w pracy. Sprawdzasz, czego im brakuje, i układasz pod to szkolenie.
+T: Badasz, czego uczestnicy szkolenia jeszcze nie umieją | Układasz plan szkolenia i materiały | Prowadzisz zajęcia w sali lub przez internet | Sprawdzasz postępy uczestników i piszesz raport
+D: 8:30 Aktualizujesz materiały po zmianie w systemie | 10:00 Szkolenie w firmie: pokazujesz nowy system pracownikom | 13:00 Zajęcia online dla grupy z innego miasta | 15:30 Sprawdzasz wyniki testu i piszesz raport
+Y: Napisz prostą instrukcję w pięciu krokach: jak założyć folder i zapisać w nim plik, dla początkującego.
+
+@998
+H: Uczysz podstaw obsługi komputera: od włączenia sprzętu po bezpieczne korzystanie z internetu. Tłumaczysz tak, żeby zrozumiał to każdy, także osoba, która boi się klikać.
+T: Pokazujesz, jak obsługiwać mysz, klawiaturę i pliki | Tłumaczysz zasady bezpiecznego korzystania z internetu | Tworzysz ćwiczenia dla początkujących | Zmieniasz kurs, gdy pojawiają się nowe technologie
+D: 9:00 Sprawdzasz, czy komputery w pracowni działają | 10:00 Lekcja dla seniorów: pierwsza wiadomość e-mail | 13:00 Pomagasz uczniowi odnaleźć zapisany plik | 15:00 Zmieniasz zadania, bo część kursu jest już nieaktualna
+Y: Zapisz trzy cechy mocnego hasła i wytłumacz je komuś z domu, nie podając żadnego prawdziwego hasła.
+
+@999
+H: Uczysz języka migowego osoby w każdym wieku, zarówno słyszące, jak i niesłyszące. To język oparty na gestach, mimice i przestrzeni, a nie na dźwięku.
+T: Pokazujesz znaki i prosisz o ich powtórzenie | Ćwiczysz z grupą krótkie rozmowy na migi | Przygotowujesz materiały: filmy, obrazki, ćwiczenia | Oceniasz postępy zadaniami i egzaminem
+D: 9:00 Szykujesz materiały na zajęcia z nowymi słowami | 10:30 Kurs dla dorosłych: uczysz alfabetu palcowego | 15:00 Grupa dzieci ćwiczy rozmowę w parach | 17:30 Sprawdzasz, czy uczniowie rozumieją krótkie zdania
+Y: Wyszukaj alfabet palcowy w internecie i przeliteruj nim swoje imię, pokazując litery po kolei przed lustrem.
+
+@1000
+H: Uczysz dorosłych i młodzież języka, który przyda im się w pracy, w podróży albo za granicą. Stawiasz na to, co da się od razu użyć w prawdziwej rozmowie, a nie na gramatykę dla niej samej.
+T: Prowadzisz rozmowy z grupą w uczonym języku | Układasz scenki: zamawianie, spotkanie, rozmowa kwalifikacyjna | Tłumaczysz słownictwo potrzebne uczniom w pracy | Poprawiasz wymowę i błędy w mowie
+D: 8:30 Przygotowujesz lekcję o rozmowach telefonicznych w pracy | 12:00 Zajęcia indywidualne z menedżerem w jego firmie | 17:00 Grupa po pracy ćwiczy scenkę w restauracji | 19:00 Wieczorny kurs dla osób wyjeżdżających za granicę
+Y: Odegraj na głos scenkę zamawiania obiadu w restauracji w języku, którego się uczysz, grając obie role.
+
+@1001
+H: Uczysz grać na instrumencie i muzykować dla przyjemności, od klasyki po rocka. Więcej czasu spędzasz na graniu z uczniami niż na opowiadaniu o muzyce.
+T: Pokazujesz, jak grać wybrany utwór na instrumencie | Dobierasz repertuar do możliwości ucznia | Opowiadasz o historii gatunków muzycznych | Prowadzisz próby zespołu przed koncertem uczniów
+D: 13:00 Układasz repertuar na koncert szkolnych zespołów | 15:00 Lekcja indywidualna: dziecko uczy się pierwszych akordów | 17:00 Próba zespołu młodzieży przed występem | 19:00 Dorosły uczeń gra pierwszy raz bez nut
+Y: Wystukaj palcami na stole rytm ulubionej piosenki i naucz go kogoś z domu, bez muzyki w tle.
+
+@1002
+H: Szkolisz przyszłych stewardów i stewardessy z pracy w kabinie samolotu: od kontroli przed lotem po ewakuację. Uczysz procedur, sprzętu ratunkowego i obsługi pasażerów.
+T: Uczysz procedur bezpieczeństwa i ewakuacji | Pokazujesz obsługę sprzętu ratunkowego na pokładzie | Ćwiczysz kontrolę kabiny przed lotem i po nim | Uczysz obsługi pasażerów w trudnych sytuacjach
+D: 7:30 Odprawa i plan szkolenia na dziś | 9:00 Kursanci ćwiczą ewakuację w makiecie kabiny | 13:00 Pokazujesz, jak serwować posiłki w wąskim przejściu | 15:30 Egzamin praktyczny z pierwszej pomocy na pokładzie
+Y: Napisz trzy zdania komunikatu dla pasażerów o zapinaniu pasów i przeczytaj je na głos spokojnym tonem.
+
+@1003
+H: Uczysz zawodowych kierowców, jak prowadzić pojazd zgodnie z przepisami i jak o niego dbać. Siedzisz obok kursanta, oceniasz jego jazdę i uczysz też obsługi pasażerów.
+T: Tłumaczysz przepisy i zasady jazdy zawodowej | Siedzisz obok kursanta i oceniasz jazdę | Pokazujesz podstawową obsługę pojazdu | Uczysz kontaktu z pasażerami i przepisów bezpieczeństwa
+D: 7:00 Kontrola autobusu przed wyjazdem na plac manewrowy | 8:00 Kursant uczy się ruszać i zatrzymywać pojazd | 12:00 Jazda szkoleniowa po mieście, zapisujesz błędy | 15:00 Wykład z przepisów o czasie pracy kierowców
+Y: Narysuj z pamięci sześć znaków drogowych i podpisz każdy, co oznacza, bez wychodzenia z domu.
+
+@1004
+H: Uczysz przyszłych maszynistów, motorniczych i kierowców metra prowadzić pojazdy szynowe. Tłumaczysz przepisy i obsługę pojazdu, a potem oceniasz praktykę kursantów.
+T: Tłumaczysz sygnały i przepisy ruchu kolejowego | Pokazujesz, jak ruszać i hamować płynnie | Obserwujesz jazdę kursanta i notujesz błędy | Uczysz zasad bezpieczeństwa i kontaktu z pasażerami
+D: 6:00 Wsiadasz z kursantem do pojazdu przed pierwszym kursem | 8:30 Kursant prowadzi, a ty obserwujesz jego decyzje | 12:00 Wykład o sygnałach i zasadach bezpieczeństwa | 14:30 Omawiasz z kursantem błędy z porannej jazdy
+Y: Narysuj schemat dowolnej linii tramwajowej lub kolejowej i zaznacz przystanki, zakręty oraz miejsca, w których pojazd musi zwolnić.
+
+@1005
+H: Uczysz przyszłych szyprów i kapitanów prowadzić łodzie i statki zgodnie z przepisami. Oceniasz ich praktykę na wodzie i tłumaczysz też bezpieczeństwo oraz kontakt z pasażerami.
+T: Tłumaczysz przepisy żeglugi i zasady nawigacji | Pokazujesz, jak sterować i konserwować łódź lub statek | Obserwujesz praktykę kursanta na wodzie | Uczysz zasad bezpieczeństwa i obsługi pasażerów
+D: 7:00 Kontrola jednostki w porcie przed wypłynięciem | 9:00 Kursant steruje, a ty stoisz obok i obserwujesz | 13:00 Zajęcia w sali o nawigacji i znakach na szlaku | 15:30 Omawiasz z kursantami błędy z manewrów w porcie
+Y: Znajdź na mapie najbliższą rzekę i zapisz po kolei pięć miejscowości, które mija statek płynący w dół rzeki.
+
+@1006
+H: Szkolisz przyszłych kontrolerów ruchu lotniczego, którzy odpowiadają za bezpieczeństwo samolotów w powietrzu i na lotnisku. Uczysz dyrektyw i komunikacji, żeby ruch był płynny.
+T: Uczysz dyrektyw wydawanych przez kontrolę ruchu | Ćwiczysz z kursantami rozmowy z pilotami | Tłumaczysz zasady nawigacji na lotnisku | Sprawdzasz, czy kursant zachowuje spokój i precyzję
+D: 7:00 Odprawa dla grupy kursantów przed ćwiczeniami | 9:00 Kursant wydaje polecenia, ty wcielasz się w pilota | 13:00 Wykład o zasadach przepływu ruchu na lotnisku | 16:00 Omawiasz z grupą nagranie ćwiczenia, krok po kroku
+Y: Wymyśl krótką rozmowę pilota z wieżą o lądowaniu i przeczytaj ją na głos, mówiąc wolno i wyraźnie.
+
+@1007
+H: Uczysz przyszłych pielęgniarzy, pielęgniarki i położne praktycznych umiejętności przy pacjencie. Tłumaczysz, pokazujesz na ćwiczeniach i sprawdzasz, czy technika jest opanowana.
+T: Tłumaczysz techniki opieki nad pacjentem | Pokazujesz zabiegi na fantomie | Pomagasz indywidualnie uczniom, którym coś nie wychodzi | Oceniasz wiedzę testami i egzaminem praktycznym
+D: 7:30 Przygotowujesz salę ćwiczeń i sprzęt do zajęć | 8:30 Pokazujesz grupie, jak bezpiecznie przekładać pacjenta | 11:30 Uczeń ćwiczy zabieg, a ty poprawiasz jego ruchy | 14:00 Test z wiedzy i ocena wyników grupy
+Y: Zapisz po kolei kroki mycia rąk, a potem naucz ich domownika, poprawiając mu ruchy dłoni.
+
+@1008
+H: Szkolisz kadetów, którzy mają zostać żołnierzami i oficerami. Masz własne doświadczenie oficerskie i uczysz teorii: prawa, przepisów oraz modeli obrony i ataku.
+T: Prowadzisz wykłady o prawie krajowym i międzynarodowym | Omawiasz modele obrony i ataku | Tłumaczysz, co dzieje się w sprawach światowych | Przygotowujesz materiały i kursy dla kadetów
+D: 6:30 Zbiórka kadetów i sprawdzenie obecności | 8:00 Wykład o prawie międzynarodowym na sali | 11:00 Ćwiczenie w grupach: planowanie obrony na mapie | 15:00 Omawiasz z kadetem wyniki jego pracy pisemnej
+Y: Wybierz jedną wiadomość ze świata z dzisiaj i streść ją w pięciu zdaniach, bez własnych ocen.
+
+@1009
+H: Uczysz studentów projektowania, głównie od strony praktycznej: jak zaprojektować grafikę, wnętrze albo przedmiot. Pokazujesz technikę i sprawdzasz, czy studenci ją opanowali.
+T: Tłumaczysz zasady projektowania grafiki i wnętrz | Pokazujesz techniki rysunku i projektu | Oceniasz prace studentów i omawiasz poprawki | Układasz zadania projektowe na semestr
+D: 9:00 Pracownia: studenci szkicują projekty wnętrz | 11:30 Indywidualna konsultacja nad projektem plakatu | 14:00 Wykład o kolorze i kompozycji | 16:00 Oceniasz prace i piszesz uwagi do każdej
+Y: Narysuj pięć szybkich szkiców jednego kubka z domu, za każdym razem zmieniając kształt uchwytu.
+
+@1010
+H: Uczysz młodzież i dorosłych fryzjerstwa, które jest głównie praktyczne. Pokazujesz technikę na główce treningowej, pomagasz każdemu osobno i oceniasz testami oraz egzaminem.
+T: Pokazujesz cięcie i modelowanie na główce treningowej | Tłumaczysz teorię fryzjerstwa przed praktyką | Poprawiasz chwyt nożyczek i ruchy ucznia | Oceniasz wiedzę i umiejętności testem i egzaminem
+D: 8:00 Przygotowujesz stanowiska i narzędzia do zajęć | 9:00 Pokazujesz grupie, jak równo przyciąć pasmo | 12:00 Uczennica ćwiczy zaplatanie, a ty poprawiasz jej chwyt | 14:30 Test z teorii i omówienie wyników
+Y: Zapleć warkocz z trzech sznurówek przywiązanych do oparcia krzesła i opisz sobie po kolei każdy ruch.
+
+@1011
+H: Uczysz sprzedaży i marketingu w praktyce: jak znaleźć klienta, przygotować ofertę i przekonać go do zakupu. Pokazujesz techniki i sprawdzasz je w ćwiczeniach.
+T: Tłumaczysz techniki sprzedaży i obsługi klienta | Układasz zadania z reklamy i promocji | Prowadzisz scenki sprzedaży z udziałem uczniów | Oceniasz wiedzę zadaniami, testami i egzaminem
+D: 8:00 Lekcja o tym, jak zbadać potrzeby klienta | 9:45 Scenka: jeden uczeń sprzedaje, drugi kupuje | 12:00 Grupa projektuje kampanię dla wymyślonej firmy | 14:00 Sprawdzasz testy i przygotowujesz zadanie domowe
+Y: Wymyśl hasło reklamowe dla zwykłego przedmiotu z domu i zapisz, do kogo jest skierowane i dlaczego.
+
+@1012
+H: Uczysz przyszłych elektryków i techników, jak działają układy elektroniczne i zautomatyzowane urządzenia. Tłumaczysz teorię, a na zajęciach pokazujesz, jak ją zastosować w praktyce.
+T: Tłumaczysz schematy układów elektronicznych | Pokazujesz montaż i sprawdzanie prostych układów | Pokazujesz, jak zastosować teorię w pracy elektryka | Układasz ćwiczenia z automatyki procesów produkcyjnych
+D: 8:00 Wykład o czytaniu schematów elektrycznych | 9:45 Uczniowie składają prosty układ na stanowiskach | 12:30 Szukasz z uczniem usterki w niedziałającym układzie | 14:30 Sprawdzasz testy i układasz kolejne zadania
+Y: Rozpisz na kartce krok po kroku, co robi czujnik, a co silnik w automatycznych drzwiach sklepu.
+
+@1013
+H: Uczysz przyszłych kucharzy i obsługę sali pracy w gastronomii. Pokazujesz technikę na stanowisku, tłumaczysz zasady higieny i sprawdzasz, czy uczniowie opanowali praktykę.
+T: Pokazujesz techniki przygotowania potraw | Tłumaczysz zasady higieny w kuchni | Pilnujesz uczniów przy pracy na stanowiskach | Oceniasz praktyki, zadania i egzaminy
+D: 7:30 Sprawdzasz zapasy i stanowiska w kuchni szkolnej | 8:30 Pokazujesz grupie, jak równo pokroić warzywa | 11:00 Uczniowie gotują obiad, ty chodzisz między stanowiskami | 13:30 Oceniasz gotowe dania i omawiasz błędy
+Y: Rozpisz kolejność prac przy przygotowaniu kanapek dla dziesięciu osób, od mycia rąk po podanie na stół.
+
+@1014
+H: Uczysz przyszłych recepcjonistów i pokojowych, jak przyjmować gości i przygotowywać pokoje. To głównie praktyka: zameldowanie, rozmowa z gościem, porządek w pokoju.
+T: Pokazujesz, jak zameldować gościa w recepcji | Uczysz przygotowania pokoju do przyjazdu gości | Ćwiczysz z uczniami scenki z trudnym klientem | Oceniasz wiedzę zadaniami, testami i egzaminem
+D: 8:00 Ustawiasz w sali stanowisko recepcji do ćwiczeń | 9:30 Scenka: gość narzeka na hałas, uczeń odpowiada | 12:00 Uczysz ścielenia łóżka i układania ręczników | 14:00 Sprawdzasz testy i oceniasz pracę uczniów
+Y: Zaściel łóżko jak w hotelu: napięte prześcieradło, równa kołdra, poduszki ułożone symetrycznie, i sprawdź efekt z daleka.
+
+@1015
+H: Uczysz przyszłych manikiurzystów, wizażystów i stylistów fryzur praktycznych technik. Pokazujesz zabieg krok po kroku i poprawiasz uczniom ruchy dłoni.
+T: Pokazujesz zabieg krok po kroku | Uczysz doboru kolorów i techniki makijażu | Tłumaczysz teorię kosmetologii | Poprawiasz ruchy ucznia na modelu
+D: 8:30 Przygotowujesz stanowiska do zajęć z manicure | 9:30 Pokazujesz grupie, jak opiłować paznokcie | 12:00 Uczniowie malują się nawzajem, ty poprawiasz kreski | 14:30 Omawiasz z każdym uczniem jego pracę i błędy
+Y: Narysuj na kartce kształt paznokcia i zaprojektuj trzy różne wzory, każdy w innej kolorystyce.
+
+@1016
+H: Uczysz przyszłych techników laboratoryjnych pracy z próbkami i sprzętem w laboratorium medycznym. To głównie praktyka, więc najpierw pokazujesz technikę, a potem patrzysz, jak uczniowie ją powtarzają.
+T: Tłumaczysz teorię badań laboratoryjnych | Pokazujesz technikę pracy z próbkami | Pilnujesz zasad czystości i bezpieczeństwa w pracowni | Oceniasz wiedzę uczniów zadaniami i testami
+D: 8:00 Wprowadzenie do zajęć: zasady pracy w pracowni | 9:00 Uczniowie ćwiczą technikę, ty chodzisz między stanowiskami | 12:00 Omawiasz sposób zapisu wyników badań | 14:00 Sprawdzasz testy i wyniki ćwiczeń
+Y: Obejrzyj z bliska liść szkłem powiększającym lub aparatem telefonu i narysuj dokładnie trzy szczegóły, które widzisz.
+
+@1017
+H: Uczysz praktycznych umiejętności związanych z uprawą ziemi, lasem i rybami. Tłumaczysz teorię, a potem prowadzisz uczniów w teren.
+T: Tłumaczysz podstawy uprawy roślin i gospodarki leśnej | Pokazujesz praktyczne techniki pracy w terenie | Uczysz rozpoznawać rośliny, drzewa i zwierzęta | Oceniasz wiedzę i umiejętności uczniów
+D: 7:30 Plan zajęć w terenie i sprawdzenie sprzętu | 9:00 Prowadzisz grupę do lasu rozpoznawać gatunki drzew | 12:30 Wykład w sali o planowaniu upraw | 14:30 Sprawdzasz zeszyty i wyniki prac praktycznych
+Y: Rozpoznaj w okolicy trzy gatunki drzew po liściach lub korze, zapisz ich nazwy i narysuj po jednym liściu.
+
+@1018
+H: Uczysz przyszłych cieśli i blacharzy budowlanych wykonywania wyrobów własnymi rękami. Pokazujesz technikę, pilnujesz, jak uczniowie ją powtarzają, i oceniasz efekty.
+T: Pokazujesz obróbkę drewna i blachy | Uczysz czytać rysunki techniczne i mierzyć | Pilnujesz bezpiecznego używania narzędzi | Oceniasz wykonane prace, zadania i testy
+D: 7:30 Rozkładasz materiały i narzędzia w pracowni | 8:30 Pokazujesz, jak zmierzyć i wyciąć element | 11:30 Uczeń łączy dwa elementy, a ty poprawiasz kąt | 14:00 Oceniasz gotowe prace i piszesz uwagi
+Y: Zmierz linijką trzy drewniane przedmioty w domu i narysuj je w skali na kartce, podpisując wymiary.
+
+@1019
+H: Uczysz przyszłych księgowych i pracowników banków, jak prowadzić firmowe liczby, dokumenty i sprawy finansowe. Tłumaczysz zasady, ćwiczysz na przykładach i oceniasz wiedzę uczniów.
+T: Tłumaczysz podstawy księgowości i finansów firmy | Układasz przykłady z życia firmy do ćwiczeń | Sprawdzasz zadania i wskazujesz błędy w rachunkach | Oceniasz wiedzę testami i praktyką
+D: 8:00 Wykład o tym, czym są przychody i koszty | 9:45 Uczniowie liczą wynik finansowy wymyślonej firmy | 12:00 Sprawdzasz zadania i podkreślasz błędy w rachunkach | 14:00 Omawiasz z uczniami praktykę w firmie
+Y: Rozpisz na kartce wydatki i przychody wymyślonej kawiarni z jednego dnia i policz, czy wychodzi nadwyżka.
+

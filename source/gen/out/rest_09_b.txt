@@ -1,0 +1,180 @@
+@1770
+H: Czytasz położenie planet i gwiazd i na tej podstawie opisujesz klientom ich charakter, zdrowie i uczucia. Nauka nie potwierdza, że to działa, więc ta praca opiera się na wierze klientów.
+T: Układasz wykres planet w chwili urodzenia | Interpretujesz położenie planet i gwiazd | Opisujesz klientowi temperament i predyspozycje | Doradzasz w sprawach pracy i uczuć
+D: 10:00 Zbierasz od klienta datę i miejsce urodzenia | 11:30 Liczysz pozycje planet na dzień urodzenia | 14:00 Rozmowa z klientem o jego pytaniach | 17:00 Piszesz miesięczny horoskop dla czytelników
+Y: Przeczytaj horoskop dla dwóch różnych znaków i sprawdź, czy po zamianie podpisów nadal by pasowały.
+
+@1771
+H: Twierdzisz, że przekazujesz wiadomości od zmarłych bliskich osób. Nauka nie potwierdza takiej łączności, więc praca opiera się na wierze klientów i ich potrzebie pocieszenia.
+T: Prowadzisz spotkania z klientami | Przekazujesz obrazy rzekomo pochodzące od zmarłych | Wysłuchujesz osoby w żałobie | Ustalasz zasady spotkania i granice
+D: 11:00 Rozmawiasz z klientką, która straciła babcię | 12:00 Opisujesz obrazy, które uznajesz za przekaz | 16:00 Spotkanie grupowe w wynajętej sali | 19:00 Odpowiadasz na wiadomości osób pytających o termin
+Y: Zapisz pięć ogólnych zdań o charakterze, które pasują do każdego, i zapytaj domownika, ile uznaje za trafne.
+
+@1772
+H: Twierdzisz, że masz zdolności pozazmysłowe, i doradzasz klientom, często z kart tarota lub z dłoni. Nauka nie potwierdza takich zdolności, a porady o zdrowiu nie zastępują lekarza.
+T: Rozkładasz karty tarota | Czytasz z linii dłoni | Doradzasz w sprawach pieniędzy i miłości | Wyjaśniasz klientowi znaczenie symboli
+D: 10:00 Przygotowujesz gabinet i rozkładasz talię kart | 12:00 Klient pyta o decyzję zawodową | 15:00 Odczytujesz linie dłoni nowej klientce | 18:00 Odpowiadasz na prośby o wizytę
+Y: Narysuj trzy własne karty z symbolami i dopisz, co każda oznacza w Twojej wymyślonej talii.
+
+@1773
+H: Twierdzisz, że przewidujesz przyszłość, i odczytujesz ją z kart, dłoni albo fusów. Nie ma dowodów, że przepowiednie sprawdzają się częściej niż przypadek.
+T: Rozkładasz karty i interpretujesz układ | Czytasz wzory z fusów herbacianych | Opisujesz klientowi możliwe wydarzenia | Dopytujesz klienta o to, co go trapi
+D: 11:00 Klientka pyta, czy zmieni pracę | 13:00 Czytasz wzory z fusów po herbacie | 16:00 Rozkładasz karty dla pary przed ślubem | 19:00 Prowadzisz stoisko z wróżbami na jarmarku
+Y: Wylosuj kartę z talii, napisz przepowiednię na resztę dnia i wieczorem sprawdź, czy się sprawdziła.
+
+@1774
+H: Organizujesz pogrzeby razem z rodziną zmarłego: terminy, miejsce pochówku, msza, przewóz i formalności. Kierujesz też codzienną pracą krematorium.
+T: Rozmawiasz z rodziną o jej życzeniach | Załatwiasz formalności i dokumenty | Umawiasz miejsce na cmentarzu i termin mszy | Nadzorujesz pracę personelu krematorium
+D: 7:30 Odbierasz telefon od rodziny, która straciła bliską osobę | 10:00 Dzwonisz do cmentarza w sprawie terminu pochówku | 13:00 Sprawdzasz dokumenty wymagane przez przepisy | 15:30 Omawiasz z personelem plan jutrzejszej kremacji
+Y: Rozpisz listę dziesięciu rzeczy do ustalenia przy organizacji dużej uroczystości rodzinnej: miejsce, termin, goście.
+
+@1775
+H: Dbasz o teren cmentarza, przygotowujesz groby przed pogrzebem i prowadzisz rejestr pochówków. Odpowiadasz też na pytania odwiedzających.
+T: Kosisz trawę i porządkujesz alejki | Przygotowujesz grób przed pogrzebem | Prowadzisz rejestr pochówków | Pomagasz odwiedzającym znaleźć grób
+D: 6:30 Zamiatasz alejki i zbierasz zwiędłe kwiaty | 8:00 Przygotowujesz grób na jutrzejszy pogrzeb | 11:00 Wpisujesz do rejestru numer kwatery | 14:00 Odwiedzający pyta, gdzie jest szukany grób
+Y: Zrób na kartce rejestr rzeczy z jednej szuflady: numer, nazwa i miejsce każdej z nich.
+
+@1776
+H: Przenosisz trumny do kaplicy i na cmentarz, układasz kwiaty i kierujesz żałobnikami podczas uroczystości. Pracujesz fizycznie i w ciszy, wśród ludzi w żałobie.
+T: Niesiesz trumnę z innymi pracownikami | Układasz kwiaty i wieńce wokół trumny | Wskazujesz żałobnikom miejsca i drogę | Sprzątasz kaplicę po uroczystości
+D: 8:00 Ładujesz kwiaty i wieńce do samochodu | 10:00 W kaplicy układasz kwiaty wokół trumny | 11:30 Prowadzisz kondukt do grobu i ustawiasz żałobników | 13:30 Zbierasz sprzęt i sprzątasz po pogrzebie
+Y: Ułóż z liści, gałązek lub papieru symetryczny wieniec wokół pudełka i sprawdź, czy wygląda równo.
+
+@1777
+H: Przygotowujesz ciało zmarłej osoby do pożegnania: myjesz, dezynfekujesz i delikatnie malujesz, żeby rodzina zobaczyła spokojny, naturalny wygląd. To praca, która wymaga odporności i szacunku.
+T: Odbierasz ciało z miejsca zgonu | Myjesz i dezynfekujesz ciało | Nakładasz makijaż ukrywający widoczne uszkodzenia | Ustalasz z kierownikiem życzenia rodziny
+D: 7:00 Jedziesz po ciało do szpitala lub domu | 9:00 Myjesz i dezynfekujesz ciało w pracowni | 11:00 Nakładasz makijaż, żeby twarz wyglądała naturalnie | 14:00 Omawiasz z kierownikiem życzenia rodziny dotyczące ubioru
+Y: Zapisz trzy spokojne, życzliwe zdania, którymi możesz wesprzeć osobę po stracie kogoś bliskiego.
+
+@1778
+H: Pomagasz klientom znaleźć partnera lub umówić się na randkę, doradzając indywidualnie. Czasem robisz to online, pomagając prowadzić profil i wiadomości.
+T: Pytasz klienta, kogo szuka | Pomagasz napisać opis profilu | Doradzasz, jak zacząć rozmowę | Planujesz miejsce i przebieg pierwszej randki
+D: 10:00 Rozmowa z klientem o tym, kogo szuka | 12:00 Poprawiasz opis na jego profilu towarzyskim | 15:00 Doradzasz, jak odpisać po pierwszej randce | 18:00 Spotkanie z klientką, której brakuje pewności siebie
+Y: Napisz trzy zdania opisu wymyślonej osoby do profilu towarzyskiego: konkretnie, uczciwie i bez przesady.
+
+@1779
+H: Witasz gości przy wejściu do klubu i dbasz, żeby poczuli się dobrze obsłużeni. Pracujesz głównie wieczorami i w nocy.
+T: Witasz gości przy wejściu | Sprawdzasz listę rezerwacji | Wskazujesz stolik lub szatnię | Reagujesz na skargi gości
+D: 20:00 Sprawdzasz listę rezerwacji na dzisiejszy wieczór | 22:00 Witasz grupę gości i prowadzisz do stolika | 0:30 Gość narzeka na hałas, szukasz innego miejsca | 2:30 Żegnasz ostatnich gości przy wyjściu
+Y: Przećwicz na głos powitanie gościa i wskazanie stolika w trzech zdaniach, patrząc w lustro.
+
+@1780
+H: Towarzyszysz klientom na wydarzeniach towarzyskich i prywatnych wyjściach, na przykład na kolacji. To praca wyłącznie dla dorosłych, a jej zakres zależy od prawa i umowy.
+T: Towarzyszysz klientowi na kolacji lub imprezie | Prowadzisz rozmowę i dbasz o dobrą atmosferę | Organizujesz transport i kupujesz bilety | Ustalasz granice i zasady spotkania
+D: 17:00 Ustalasz z klientem plan wieczoru i zasady | 19:00 Kupujesz bilety i zamawiasz transport do teatru | 21:00 Kolacja: rozmawiasz i pilnujesz miłej atmosfery | 23:30 Odprowadzasz klienta i kończysz spotkanie
+Y: Wypisz pięć tematów do rozmowy z kimś nowo poznanym na uroczystej kolacji i jedno pytanie do każdego.
+
+@1781
+H: Opiekujesz się starszą lub chorą osobą w jej domu: gotujesz, robisz zakupy, rozmawiasz i grasz w karty. Dbasz też, żeby punktualnie dotarła na wizyty lekarskie.
+T: Przygotowujesz posiłki i sprzątasz kuchnię | Robisz codzienne zakupy | Czytasz na głos i grasz w karty | Dbasz o punktualne dotarcie na wizyty lekarskie
+D: 8:00 Pomagasz przy śniadaniu i porządkach w kuchni | 10:30 Odprowadzasz na wizytę do lekarza | 13:00 Gotujesz obiad i siadasz do stołu razem | 15:30 Czytasz na głos albo grasz w karty
+Y: Przeczytaj na głos starszemu domownikowi fragment książki albo zagraj z nim w karty przez piętnaście minut.
+
+@1782
+H: Kontrolujesz bilety przy wejściu do teatru, na stadion albo do sali koncertowej i pokazujesz ludziom drogę do miejsc. Zwracasz też uwagę na bezpieczeństwo.
+T: Sprawdzasz bilety przy wejściu | Pokazujesz drogę do właściwego miejsca | Odpowiadasz na pytania widzów | Zawiadamiasz ochronę o problemach
+D: 17:30 Otwierasz drzwi i sprawdzasz pierwsze bilety | 18:30 Prowadzisz spóźnioną parę do miejsc w ciemności | 20:30 W przerwie odpowiadasz na pytania o toalety | 22:30 Po koncercie kierujesz tłum do wyjść
+Y: Wytłumacz domownikowi w trzech zdaniach trasę z drzwi wejściowych do wybranego pokoju i sprawdź, czy trafi.
+
+@1783
+H: Mocujesz plakaty i inne reklamy w budynkach, autobusach, metrze i centrach handlowych. Czasem sięgasz wysoko, korzystając ze sprzętu i przepisów bezpieczeństwa.
+T: Przyklejasz plakaty na tablicach i szybach | Mocujesz reklamy w autobusach i metrze | Używasz sprzętu do pracy na wysokości | Przestrzegasz przepisów bezpieczeństwa pracy
+D: 6:00 Odbierasz z magazynu plakaty na dzisiejszą trasę | 8:00 Wymieniasz reklamy w autobusach na zajezdni | 11:30 Zakładasz uprząż i mocujesz baner na elewacji | 14:30 Wieszasz plakaty w centrum handlowym
+Y: Zaprojektuj na kartce plakat, który da się przeczytać z trzech metrów, i sprawdź to, odchodząc od niego.
+
+@1784
+H: Obsługujesz przejazd w atrakcji turystycznej i pilnujesz, żeby wszystko działało bezpiecznie. W razie potrzeby udzielasz pierwszej pomocy i zgłaszasz problem przełożonemu.
+T: Otwierasz i zamykasz atrakcję według procedury | Kontrolujesz przejazd i obserwujesz gości | Dostarczasz potrzebne materiały | Udzielasz pierwszej pomocy i zgłaszasz usterki
+D: 9:00 Otwierasz atrakcję według listy kontrolnej | 11:00 Wpuszczasz kolejną grupę i obserwujesz przejazd | 14:00 Dziecko się potyka, więc opatrujesz kolano plastrem | 18:00 Zamykasz atrakcję i zgłaszasz usterkę
+Y: Obejrzyj plac zabaw w okolicy i zapisz trzy rzeczy, które trzeba sprawdzić przed otwarciem.
+
+@1785
+H: Wykonujesz różne zadania w wesołym miasteczku: obsługujesz przejazdy i stoiska, konserwujesz sprzęt i wydajesz go uczestnikom zajęć rekreacyjnych. Twój dzień zależy od tego, gdzie Cię dziś ustawią.
+T: Obsługujesz stoisko z grami lub przejazdami | Wydajesz sprzęt uczestnikom zajęć | Konserwujesz i czyścisz urządzenia | Planujesz wykorzystanie obiektów
+D: 10:00 Sprawdzasz i czyścisz sprzęt przed otwarciem | 12:00 Obsługujesz stoisko, gdzie dzieci celują do kubków | 16:00 Wydajesz sprzęt grupie na zajęcia | 21:00 Sprzątasz teren po zamknięciu parku
+Y: Zaplanuj na kartce grafik obsługi trzech stanowisk w parku rozrywki na jeden dzień.
+
+@1786
+H: Pomagasz klientom pralni samoobsługowej, gdy maszyna na monety, suszarka albo automat nie działa. Dbasz o czystość lokalu.
+T: Tłumaczysz klientom obsługę pralek | Rozwiązujesz problemy z automatem na monety | Uzupełniasz automat sprzedający proszek | Sprzątasz pralnię i wycierasz maszyny
+D: 8:00 Otwierasz pralnię i wycierasz bębny | 10:00 Pralka wzięła monety i nie ruszyła, sprawdzasz ją | 14:00 Uzupełniasz automat z proszkiem i płynem | 19:00 Zamiatasz i opróżniasz kosze na śmieci
+Y: Napisz klientowi instrukcję w pięciu krokach, jak zrobić pranie w pralce na monety.
+
+@1787
+H: Przyjmujesz rzeczy osobiste w szatniach sal sportowych i teatralnych, oddajesz je właścicielom i pomagasz, gdy coś się zgubi. Pilnujesz też porządku w swojej strefie.
+T: Przyjmujesz plecaki i torby klientów | Oznaczasz bagaż i zapisujesz miejsce | Oddajesz rzeczy po okazaniu numerka | Pomagasz szukać zgubionych rzeczy
+D: 9:00 Sprawdzasz regały i zapas numerków | 17:30 Po treningach przyjmujesz plecaki grupami | 19:00 Klient szuka numerka od torby i prosi o pomoc | 21:30 Zamykasz przechowalnię i spisujesz zostawione rzeczy
+Y: Opisz w trzech zdaniach swój plecak tak, żeby ktoś obcy mógł go rozpoznać wśród innych.
+
+@1788
+H: Przyjmujesz kurtki, płaszcze i torby gości, dajesz numerek i oddajesz rzeczy po jego okazaniu. Rozpatrujesz też drobne skargi i prośby.
+T: Przyjmujesz kurtki i torby od gości | Wydajesz żetony lub numerki | Wieszasz rzeczy w ustalonej kolejności | Oddajesz właściwe rzeczy właściwej osobie
+D: 17:00 Układasz wieszaki i sprawdzasz zapas żetonów | 18:30 Tłum wchodzi, przyjmujesz kurtki jedna po drugiej | 21:00 Robi się spokojniej, porządkujesz zapomniane szaliki | 23:00 Wszyscy wychodzą, oddajesz ostatnie płaszcze
+Y: Przypisz numerki do pięciu kurtek lub toreb w domu i sprawdź, jak szybko oddasz właściwą.
+
+@1789
+H: Stoisz przy wejściu hotelu, restauracji lub klubu, witasz gości i pomagasz z bagażem. Dbasz też o ich bezpieczeństwo przy wejściu.
+T: Witasz gości i otwierasz im drzwi | Pomagasz w niesieniu bagażu | Pilnujesz, kto wchodzi do obiektu | Wzywasz taksówkę lub ochronę
+D: 12:00 Zajmujesz miejsce przy drzwiach hotelu | 14:00 Goście przyjeżdżają, bierzesz walizki | 18:00 Pytasz gości klubu o rezerwację | 23:00 Wzywasz taksówkę gościom wychodzącym
+Y: Wymyśl trzy różne zdania powitania gościa przy drzwiach i przećwicz je z uśmiechem przed lustrem.
+
+@1790
+H: Witasz gości hotelu, zanosisz im bagaże do pokoju i wykonujesz drobne usługi, na przykład okazjonalne czyszczenie. Pracujesz przy wejściu i w holu, często na stojąco.
+T: Witasz gości przed wejściem do hotelu | Przewozisz bagaże wózkiem do pokoju | Wskazujesz drogę do windy i sal | Czyścisz drobne rzeczy na prośbę gości
+D: 10:00 Czekasz w holu na autokar z turystami | 10:30 Zawozisz dwanaście walizek na piętra | 15:00 Pomagasz gościowi z wózkiem dziecięcym przy wejściu | 20:00 Czyścisz torbę gościa po deszczu
+Y: Zaplanuj na kartce trasę przeniesienia trzech bagaży z wejścia hotelu do pokoju na piętrze.
+
+@1791
+H: Chodzisz po budynkach i zapisujesz stany liczników gazu, wody i prądu, a potem przekazujesz je klientom i dostawcom. Dużo chodzisz i wchodzisz po schodach.
+T: Odwiedzasz mieszkania i zakłady z listą adresów | Odczytujesz stany liczników | Zapisujesz wyniki bez pomyłek | Przekazujesz odczyty dostawcy
+D: 8:00 Odbierasz listę adresów na dzisiejszą trasę | 9:00 Schodzisz do piwnicy po licznik wody | 12:00 Nikogo nie ma w domu, zostawiasz kartkę | 15:00 Wprowadzasz odczyty do systemu dostawcy
+Y: Odczytaj stan licznika wody w domu, zapisz go z godziną, a wieczorem sprawdź, ile zużyto.
+
+@1792
+H: Objeżdżasz automaty, opróżniasz je z monet i żetonów, sprawdzasz i uzupełniasz towar. Zdarza Ci się też drobna konserwacja.
+T: Opróżniasz automaty z monet i żetonów | Oglądasz maszynę i zgłaszasz usterki | Uzupełniasz towar w automatach | Wykonujesz podstawową konserwację
+D: 7:00 Ładujesz towar i pojemniki na monety | 9:00 Opróżniasz automat z napojami w hali sportowej | 12:00 Automat się zacina, więc go czyścisz | 15:00 Liczysz zebrane monety i oddajesz do rozliczenia
+Y: Policz monety w skarbonce, posortuj je według nominałów i zapisz sumę w tabelce.
+
+@1793
+H: Naprawiasz i utrzymujesz budynki oraz teren wokół nich: ogrodzenia, bramy, dachy, meble, instalacje. Dostajesz zgłoszenia i jeździsz od usterki do usterki.
+T: Naprawiasz ogrodzenia, bramy i drobne elementy | Montujesz meble | Sprawdzasz ogrzewanie, wentylację i wilgoć | Wykonujesz proste prace hydrauliczne i elektryczne
+D: 7:30 Odbierasz zgłoszenia usterek z całego budynku | 9:00 Naprawiasz zawias w bramie na podwórku | 12:00 Sprawdzasz wilgoć w piwnicy i wentylację | 14:30 Skręcasz nowe biurka w biurze
+Y: Obejdź dom i zapisz trzy drobne usterki, na przykład skrzypiące drzwi, i pomyśl, jak je naprawić.
+
+@1794
+H: Zarządzasz służbą w dużym domu: nadzorujesz posiłki i nakrywanie do stołu, podajesz oficjalne obiady i zajmujesz się sprawami pracodawcy. Ta praca wymaga dyskrecji i dokładności.
+T: Nadzorujesz przygotowanie posiłków i nakrycie stołu | Podajesz oficjalne obiady | Kierujesz służbą domową | Rezerwujesz podróże i stoliki dla pracodawcy
+D: 7:00 Omawiasz z kucharzem dzisiejsze menu | 11:00 Sprawdzasz, czy srebra i szkło są wypolerowane | 19:00 Podajesz uroczystą kolację dla ośmiu gości | 22:00 Rezerwujesz pracodawcy bilety na jutrzejszy lot
+Y: Nakryj stół dla czterech osób według etykiety: widelce po lewej, noże po prawej, szklanki nad nożem.
+
+@1795
+H: Prowadzisz cały dom: gotowanie, sprzątanie, pranie, zakupy, dzieci i ogród. W dużych domach instruujesz też innych pracowników.
+T: Planujesz posiłki i zamawiasz produkty | Sprzątasz i dbasz o pranie | Zajmujesz się dziećmi i ogrodem | Pilnujesz wydatków domowych
+D: 6:30 Planujesz posiłki i sprawdzasz zapasy | 8:00 Odprowadzasz dzieci do szkoły | 11:00 Zamawiasz zakupy i zapisujesz wydatki | 15:00 Instruujesz nową pomoc, jak prać delikatne tkaniny
+Y: Ułóż plan domowych obowiązków na trzy dni: zakupy, pranie, sprzątanie i obiady.
+
+@1796
+H: Dbasz o stan i bezpieczeństwo budynku mieszkalnego: sprzątasz, robisz drobne naprawy i pilnujesz ogrzewania oraz ciepłej wody. Jesteś pierwszą osobą, do której zgłaszają się mieszkańcy.
+T: Sprzątasz klatki schodowe i teren | Robisz drobne naprawy | Sprawdzasz ogrzewanie i ciepłą wodę | Przyjmujesz zgłoszenia od mieszkańców
+D: 6:30 Zamiatasz klatkę i wynosisz kosze | 8:30 Mieszkaniec zgłasza brak ciepłej wody | 11:00 Wymieniasz przepaloną żarówkę na korytarzu | 15:00 Obchodzisz budynek i sprawdzasz zamki i drzwi
+Y: Obejdź klatkę schodową lub korytarz i zapisz, co wymaga sprzątania lub naprawy.
+
+@1797
+H: Obsługujesz gości wysokiej klasy hotelu osobiście i kierujesz pracą służby pięter. Dbasz, żeby pokoje były czyste, a goście dostawali to, czego potrzebują.
+T: Przyjmujesz prośby gości i je realizujesz | Kierujesz pracą służby pięter | Kontrolujesz czystość pokoi | Dbasz o dobre samopoczucie gości
+D: 7:00 Rozdzielasz pokoje do sprzątania zespołowi pięter | 9:30 Kontrolujesz apartament przed przyjazdem gościa | 14:00 Gość prosi o dodatkową poduszkę i herbatę | 21:00 Przygotowujesz pokój na noc i zostawiasz kartkę
+Y: Napisz kartkę powitalną dla gościa hotelu i wypisz trzy drobne udogodnienia, które możesz mu zapewnić.
+
+@1798
+H: Pomagasz w kościele i parafii: sprzątasz, przygotowujesz sprzęt do mszy, wykonujesz zadania administracyjne i wspierasz księdza.
+T: Przygotowujesz kościół i sprzęt przed mszą | Sprzątasz po nabożeństwie | Dbasz o konserwację sprzętu kościoła | Pomagasz proboszczowi w sprawach administracyjnych
+D: 6:00 Otwierasz kościół i przygotowujesz ołtarz | 7:00 Pomagasz księdzu przed poranną mszą | 10:00 Sprzątasz kościół po nabożeństwie | 15:00 Wpisujesz intencje mszy do parafialnego zeszytu
+Y: Zrób listę pięciu rzeczy do przygotowania i posprzątania w dużej sali przed uroczystością i po niej.
+
+@1799
+H: Pilnujesz domów, gdy ich właściciele wyjeżdżają: obchodzisz je, sprawdzasz zamki, instalacje i ogrzewanie, a w razie potrzeby wzywasz fachowców. Odbierasz też pocztę i płacisz rachunki.
+T: Obchodzisz dom i sprawdzasz wejścia | Kontrolujesz hydraulikę i ogrzewanie | Wzywasz fachowców do napraw | Przekazujesz pocztę i płacisz rachunki
+D: 8:00 Obchodzisz dom i sprawdzasz zamki i okna | 10:00 Kontrolujesz rury i temperaturę po nocnym mrozie | 13:00 Dzwonisz po hydraulika do cieknącego zaworu | 17:00 Wysyłasz właścicielom zdjęcia i raport z obchodu
+Y: Zrób listę kontrolną pięciu rzeczy do sprawdzenia w domu przed długim wyjazdem na wakacje.
+

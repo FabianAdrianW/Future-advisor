@@ -1,0 +1,180 @@
+@2280
+H: Mieszkasz za granicą i stamtąd opisujesz wydarzenia dla mediów w kraju. Sprawdzasz informacje i redagujesz relacje z miejsca zdarzeń.
+T: Sprawdzasz wiadomości w lokalnych źródłach | Rozmawiasz z rozmówcami w obcym języku | Redagujesz relację dla redakcji w kraju | Zgłaszasz się na żywo do radia lub telewizji
+D: 7:00 Przeglądasz lokalną prasę i serwisy informacyjne | 10:00 Jedziesz na konferencję prasową rządu | 14:00 Piszesz tekst i sprawdzasz cytaty | 20:30 Wchodzisz na żywo do wieczornych wiadomości
+Y: Wybierz jedno miasto za granicą i napisz pięć pytań do lokalnego mieszkańca, by zrozumieć, co się tam dzieje.
+
+@2281
+H: Oglądasz, czytasz lub słuchasz dzieła i piszesz, co o nim sądzisz. Ocenę opierasz na wiedzy i doświadczeniu, a nie tylko na guście.
+T: Oglądasz film lub słuchasz płyty przed premierą | Porównujesz dzieło z innymi z tego gatunku | Piszesz recenzję z oceną i uzasadnieniem | Pilnujesz terminu oddania tekstu do redakcji
+D: 10:00 Pokaz prasowy nowego filmu | 13:00 Robisz notatki i szukasz porównań | 16:00 Piszesz recenzję, szlifujesz pierwsze zdanie | 21:00 Wysyłasz tekst do redakcji przed terminem
+Y: Wybierz ostatnio oglądany film i napisz pięć zdań recenzji z jednym konkretnym argumentem.
+
+@2282
+H: Piszesz felietony i komentarze do wydarzeń, w których widać twój punkt widzenia. Czytelnicy mają rozpoznać twój styl już po kilku zdaniach.
+T: Wybierasz wydarzenie, które chcesz skomentować | Zbierasz fakty i sprawdzasz źródła | Piszesz tekst z wyraźną tezą | Odpowiadasz na reakcje czytelników
+D: 8:00 Czytasz poranną prasę i wybierasz temat | 11:00 Dzwonisz do eksperta po komentarz | 14:00 Piszesz felieton, zaczynasz od mocnej tezy | 17:00 Redaktor wraca z uwagami do tekstu
+Y: Wybierz wydarzenie ze szkoły lub okolicy i napisz o nim akapit z własną tezą.
+
+@2283
+H: Decydujesz, o czym napisze magazyn, i przydzielasz tematy dziennikarzom. Pilnujesz, żeby każdy artykuł miał swoje miejsce i był gotowy na czas.
+T: Wybierasz tematy do najbliższego numeru | Zlecasz artykuły dziennikarzom | Ustalasz długość tekstów i ich miejsce na stronach | Pilnujesz terminów oddania materiałów
+D: 9:00 Kolegium redakcji układa plan numeru | 11:30 Dzwonisz do autora, który spóźnia tekst | 14:00 Skracasz artykuł, żeby zmieścił się na stronie | 17:00 Sprawdzasz makietę numeru przed drukiem
+Y: Zaplanuj spis treści szkolnej gazetki na pięć artykułów i wpisz przy każdym liczbę słów.
+
+@2284
+H: Co dnia decydujesz, które wydarzenia trafią do jutrzejszego wydania gazety. Przydzielasz reporterom zadania i walczysz z czasem do zamknięcia numeru.
+T: Wybierasz najważniejsze wiadomości dnia | Wysyłasz reporterów na miejsce wydarzeń | Decydujesz, co trafia na pierwszą stronę | Przycinasz teksty tuż przed zamknięciem wydania
+D: 10:00 Zebranie, dzielisz tematy między reporterów | 14:00 Pojawia się pilna informacja, zmieniasz plan | 18:00 Układasz pierwszą stronę z grafikiem | 22:00 Zamykasz numer i puszczasz go do druku
+Y: Z dzisiejszych wiadomości wybierz trzy i ułóż je według ważności. Uzasadnij wybór jednym zdaniem.
+
+@2285
+H: Odpowiadasz za całą publikację: jej treść, zespół i terminy. Ostatnie słowo należy do ciebie, także gdy tekst jest ryzykowny.
+T: Ustalasz kierunek i tematykę publikacji | Kierujesz zespołem redaktorów i dziennikarzy | Zatwierdzasz najważniejsze teksty przed publikacją | Reprezentujesz redakcję na spotkaniach
+D: 9:00 Odprawa z szefami działów | 12:00 Decydujesz, czy publikować sporny tekst | 15:00 Spotkanie z wydawcą o budżecie | 19:00 Czytasz gotowy numer przed wysłaniem
+Y: Wymyśl nazwę i trzy działy dla gazety o twojej okolicy. Zapisz je.
+
+@2286
+H: Czytasz cudze teksty i poprawiasz błędy oraz niezręczne zdania. Dbasz, żeby tekst dobrze się czytał i był poprawny.
+T: Poprawiasz ortografię i interpunkcję | Wygładzasz niezgrabne zdania | Sprawdzasz spójność nazw i zapisów | Uzgadniasz poprawki z autorem
+D: 8:30 Dostajesz do czytania rozdział książki | 11:00 Zaznaczasz błędy i powtórzenia na marginesie | 13:30 Szukasz w słowniku wątpliwej pisowni | 15:30 Omawiasz zmiany z autorem przez telefon
+Y: Weź swoje ostatnie wypracowanie i znajdź w nim trzy rzeczy do poprawienia.
+
+@2287
+H: Zamieniasz dialogi i dźwięki z filmu na krótkie napisy, które pojawiają się dokładnie w odpowiednim momencie. Piszesz je dla widzów niesłyszących albo do filmu w obcym języku.
+T: Słuchasz dialogów i dzielisz je na linijki | Tłumaczysz lub skracasz wypowiedzi do napisów | Ustawiasz czas pojawienia się każdego napisu | Opisujesz ważne dźwięki dla niesłyszących
+D: 9:00 Dostajesz film i skrypt dialogów | 10:00 Skracasz długie zdanie, żeby dało się je przeczytać | 13:00 Synchronizujesz napisy z ruchem ust | 16:00 Oglądasz całość i wyłapujesz spóźnione napisy
+Y: Wybierz minutę ulubionego filmu i zapisz dialog tak, żeby zmieścił się w dwóch krótkich linijkach.
+
+@2288
+H: Przekładasz dokumenty i teksty z jednego języka na drugi tak, żeby nic nie zginęło z sensu. Pracujesz głównie przy komputerze, na zlecenia.
+T: Czytasz cały tekst przed tłumaczeniem | Szukasz właściwych odpowiedników trudnych terminów | Przekładasz zdania, zachowując sens i ton | Czytasz gotowy przekład i poprawiasz
+D: 8:00 Odbierasz zlecenie i sprawdzasz termin | 9:30 Tłumaczysz umowę i pilnujesz prawniczych zwrotów | 13:00 Szukasz w słownikach trafnego określenia | 16:00 Czytasz przekład na głos i poprawiasz
+Y: Przetłumacz jeden akapit z podręcznika na język obcy, który znasz, i zaznacz trudne słowa.
+
+@2289
+H: Dostosowujesz tekst do kultury odbiorców: powiedzonka, żarty i przykłady zmieniasz tak, żeby brzmiały naturalnie. Często pracujesz nad grami i aplikacjami.
+T: Zamieniasz żart na odpowiednik zrozumiały lokalnie | Dopasowujesz daty, jednostki i nazwy do kraju | Sprawdzasz, czy napis mieści się na ekranie | Testujesz przetłumaczoną wersję i zgłaszasz błędy
+D: 9:00 Dostajesz paczkę tekstów do gry | 11:00 Szukasz polskiego odpowiednika angielskiego powiedzenia | 14:00 Uruchamiasz wersję testową i czytasz dialogi | 16:30 Zgłaszasz napis, który nie mieści się w oknie
+Y: Weź angielskie powiedzenie i wymyśl polski odpowiednik, który brzmi naturalnie, a nie dosłownie.
+
+@2290
+H: Badasz język jak naukowiec: jak jest zbudowany, jak brzmi i jak zmienia się z czasem. Czytasz dawne teksty i analizujesz współczesną mowę.
+T: Analizujesz gramatykę i znaczenia słów | Badasz, jak zmienia się język | Czytasz i interpretujesz dawne teksty | Piszesz artykuły naukowe i prowadzisz zajęcia
+D: 8:30 Czytasz stary tekst i notujesz nietypowe formy | 11:00 Prowadzisz zajęcia ze studentami | 14:00 Porównujesz nagrania mowy z różnych regionów | 17:00 Piszesz fragment artykułu o zmianach znaczeń
+Y: Zapisz pięć słów używanych przez rówieśników, których dorośli mogą nie rozumieć, i opisz ich znaczenie.
+
+@2291
+H: Tłumaczysz teksty prawne i jednocześnie rozumiesz, co znaczą prawnie. Dzięki temu umowa czy przepis w innym języku mówi dokładnie to samo.
+T: Czytasz umowy i przepisy w dwóch językach | Szukasz prawnych odpowiedników obcych pojęć | Tłumaczysz tekst i sprawdzasz skutki prawne | Wyjaśniasz trudne zapisy klientom
+D: 8:30 Otwierasz umowę spółki w obcym języku | 10:30 Sprawdzasz, czy pojęcie ma polski odpowiednik | 13:30 Konsultujesz sporny zapis z prawnikiem | 16:00 Oddajesz tłumaczenie z uwagami o różnicach
+Y: Znajdź w regulaminie dowolnej aplikacji jedno trudne zdanie i napisz własnymi słowami, co znaczy.
+
+@2292
+H: Analizujesz pismo ręczne: kształt liter, nacisk i układ tekstu na kartce. Porównujesz próbki, żeby ocenić autorstwo, choć wnioski o osobowości są naukowo sporne.
+T: Porównujesz próbki pisma z dokumentem | Mierzysz nachylenie i wielkość liter | Opisujesz charakterystyczne zawijasy i łączenia | Piszesz opinię o autorstwie tekstu
+D: 9:00 Dostajesz do analizy odręczny list | 10:30 Oglądasz litery pod lupą i mierzysz | 13:30 Zestawiasz podpisy z różnych lat | 16:00 Spisujesz opinię z uzasadnieniem
+Y: Napisz to samo zdanie trzy razy i sprawdź, co zmienia się w twoim piśmie.
+
+@2293
+H: Piszesz hasła do słowników: ustalasz, co słowo znaczy i jak się go używa. Decydujesz też, które nowe słowa są już na tyle popularne, że zasługują na wpis.
+T: Zbierasz przykłady użycia nowych słów | Piszesz definicje do haseł słownikowych | Sprawdzasz, jak często słowo występuje | Decydujesz, które słowa trafią do słownika
+D: 9:00 Przeglądasz zbiór tekstów i szukasz nowych słów | 11:00 Piszesz definicję w jednym zdaniu | 13:30 Spierasz się z zespołem o znaczenie słowa | 15:30 Dodajesz przykłady użycia do haseł
+Y: Wybierz słowo z młodzieżowego slangu i napisz jego definicję w stylu słownika, z przykładem.
+
+@2294
+H: Przekładasz mowę na język migowy i odwrotnie, na bieżąco, żeby osoba niesłysząca mogła uczestniczyć w rozmowie. Pracujesz u lekarza, w urzędzie, na lekcji czy w telewizji.
+T: Słuchasz i migasz przekład niemal od razu | Odczytujesz migi i mówisz na głos | Oddajesz ton i emocje wypowiedzi | Przygotowujesz słownictwo przed tematem spotkania
+D: 8:00 Przeglądasz słownictwo przed wizytą w szpitalu | 9:00 Tłumaczysz rozmowę pacjenta z lekarzem | 12:00 Robisz przerwę, bo przekład mocno męczy | 14:00 Tłumaczysz wykład na uczelni
+Y: Naucz się alfabetu palcowego i przeliteruj nim swoje imię oraz nazwę swojej ulicy.
+
+@2295
+H: Tłumaczysz mowę na inny język w trakcie rozmowy, na konferencji lub przez telefon. Słuchasz, notujesz i oddajesz sens niemal od razu.
+T: Słuchasz wypowiedzi i robisz skrótowe notatki | Przekazujesz sens w drugim języku | Przygotowujesz słownictwo do tematu spotkania | Tłumaczysz rozmowy biznesowe lub telefoniczne
+D: 7:30 Uczysz się terminów przed konferencją | 9:00 Tłumaczysz przemówienie, zdanie po zdaniu | 13:00 Tłumaczysz rozmowę biznesową przy obiedzie | 17:00 Odbierasz telefon i tłumaczysz rozmowę z lekarzem
+Y: Włącz krótki film w obcym języku i po każdym zdaniu powiedz jego sens po polsku.
+
+@2296
+H: Piszesz słowa do piosenek, dopasowane do melodii i klimatu muzyki. Pracujesz z kompozytorem lub wykonawcą.
+T: Słuchasz melodii i łapiesz jej nastrój | Układasz zwrotki i refren | Szukasz rymów i rytmu pasującego do muzyki | Poprawiasz tekst z kompozytorem
+D: 10:00 Słuchasz demo nowej melodii kilka razy | 12:00 Zapisujesz pomysły na refren | 15:00 Siadasz z wokalistą i próbujesz śpiewać tekst | 19:00 Skracasz zwrotkę, bo nie mieści się w taktach
+Y: Puść ulubioną melodię i napisz do jej pierwszej zwrotki cztery wersy własnego tekstu.
+
+@2297
+H: Wymyślasz i piszesz książki: powieści, opowiadania, wiersze lub komiksy. Większość czasu spędzasz na pisaniu i przepisywaniu.
+T: Planujesz fabułę i postaci | Piszesz kolejne rozdziały | Przerabiasz tekst po uwagach redaktora | Spotykasz się z czytelnikami i wydawcą
+D: 7:00 Piszesz pierwsze strony, zanim dzień ruszy | 11:00 Czytasz wczorajszy tekst i skreślasz połowę | 14:00 Szukasz informacji do sceny w bibliotece | 18:00 Spotkanie autorskie w księgarni
+Y: Napisz pierwszy akapit opowiadania, w którym ktoś znajduje w plecaku dziwny przedmiot.
+
+@2298
+H: Piszesz scenariusze filmów i seriali: wątki, postaci i dialogi scena po scenie. Twój tekst jest planem dla reżysera i aktorów.
+T: Układasz fabułę w sceny | Piszesz dialogi dla postaci | Opisujesz miejsca i czynności bohaterów | Poprawiasz scenariusz po uwagach reżysera
+D: 9:00 Piszesz scenę kłótni dwóch bohaterów | 12:00 Spotkanie z reżyserem o zakończeniu | 15:00 Wycinasz zbędne kwestie z dialogu | 18:00 Czytasz scenariusz na głos z kolegą
+Y: Napisz scenę rozmowy dwóch osób na przystanku: sam dialog i jedno zdanie opisu miejsca.
+
+@2299
+H: Piszesz instrukcje, podręczniki i pomoc do produktów tak, żeby zwykły użytkownik zrozumiał, co robić. Najpierw musisz zrozumieć, jak produkt naprawdę działa.
+T: Testujesz produkt, żeby go zrozumieć | Piszesz instrukcje krok po kroku | Układasz strukturę pomocy i podręczników | Pytasz konstruktorów o niejasne szczegóły
+D: 9:00 Testujesz nową funkcję i notujesz kroki | 11:00 Pytasz konstruktora, co robi ten przycisk | 13:30 Piszesz instrukcję obsługi dla początkujących | 16:00 Sprawdzasz, czy testowy użytkownik daje radę
+Y: Napisz w sześciu krokach instrukcję robienia kanapki tak, żeby zrozumiał ją młodszy kolega.
+
+@2300
+H: Piszesz przemówienia dla osób, które wygłoszą je publicznie. Tekst ma brzmieć naturalnie i zostać zapamiętany.
+T: Rozmawiasz z mówcą o tym, co chce przekazać | Badasz temat i odbiorców | Piszesz tekst brzmiący jak mowa | Ćwiczysz z mówcą wygłaszanie
+D: 9:00 Wywiad z mówcą o jego głównej myśli | 11:00 Szukasz anegdoty na początek | 14:00 Czytasz szkic na głos i skracasz | 16:30 Próba z mówcą, poprawiasz trudne zdania
+Y: Napisz minutowe przemówienie o swojej szkole, przeczytaj na głos i skróć zdania, o które się potykasz.
+
+@2301
+H: Czytasz nowe sztuki i razem z reżyserem decydujesz, co teatr wystawi. Zbierasz wiedzę o autorze i epoce i pomagasz zrozumieć tekst.
+T: Czytasz nowe sztuki i oceniasz je | Zbierasz informacje o autorze i czasach | Analizujesz tematy i postaci z reżyserem | Piszesz teksty do programu przedstawienia
+D: 9:00 Czytasz nadesłaną sztukę od młodego autora | 11:30 Szukasz w książkach o epoce sztuki | 15:00 Próba, rozmawiasz z reżyserem o scenie | 18:00 Siedzisz na widowni i notujesz uwagi
+Y: Przeczytaj krótką scenę z lektury i zapisz trzy pytania do reżysera o jej wystawienie.
+
+@2302
+H: Badasz książki, wiersze i ich historię, żeby zrozumieć, co znaczą i jak powstały. Wyniki opisujesz w artykułach i na zajęciach.
+T: Czytasz utwory i dawną krytykę | Porównujesz dzieła z różnych epok | Szukasz w bibliotece listów i rękopisów | Piszesz prace naukowe i uczysz studentów
+D: 8:00 Czytasz powieść i robisz notatki o motywach | 10:30 Szukasz w bibliotece listów autora | 13:00 Prowadzisz seminarium o poezji | 16:00 Piszesz rozdział pracy o zmianach gatunku
+Y: Przeczytaj krótki wiersz i zapisz, jaki nastrój tworzą trzy wybrane przez ciebie słowa.
+
+@2303
+H: Szukasz tekstów, które warto wydać jako książki, i opiekujesz się nimi od rękopisu do druku. Oceniasz, czy książka znajdzie czytelników, i trzymasz kontakt z autorami.
+T: Czytasz nadesłane rękopisy | Oceniasz, czy książka się sprzeda | Proponujesz autorom zmiany w tekście | Pilnujesz harmonogramu wydania książki
+D: 9:00 Czytasz rękopis, który przyszedł pocztą | 11:00 Zebranie, przedstawiasz książkę zespołowi | 14:00 Dzwonisz do autora w sprawie zmian | 16:00 Wybierasz okładkę z grafikiem
+Y: Przeczytaj pierwszą stronę wybranej książki i napisz trzy zdania o tym, komu ją polecisz.
+
+@2304
+H: Opisujesz słowami to, co widać na ekranie lub scenie, żeby osoby niewidome rozumiały film czy spektakl. Piszesz opis i nagrywasz go lub przekazujesz lektorowi.
+T: Oglądasz film i notujesz, co widać | Piszesz krótkie opisy między dialogami | Wybierasz tylko to, co ważne dla fabuły | Nagrywasz opis głosem
+D: 9:00 Oglądasz film bez dźwięku, notujesz sceny | 11:00 Piszesz opis wyglądu bohaterki | 14:00 Sprawdzasz, czy opis zmieści się w pauzie | 16:00 Nagrywasz opis w studiu
+Y: Opisz słowami obraz z podręcznika tak, żeby ktoś, kto go nie widzi, wyobraził sobie scenę.
+
+@2305
+H: Jesteś głosem lub twarzą programu: zapowiadasz go, prowadzisz i rozmawiasz z gośćmi. Musisz brzmieć swobodnie, nawet gdy coś idzie nie tak.
+T: Zapowiadasz program i kolejne części | Przygotowujesz pytania do gości | Rozmawiasz na żywo z publicznością | Reagujesz na wpadki i zmiany planu
+D: 12:00 Omawiasz scenariusz audycji z producentem | 14:00 Czytasz notatki o dzisiejszym gościu | 16:00 Wchodzisz na antenę, zapowiadasz pierwszy utwór | 17:30 Gość utknął w korku, wypełniasz czas rozmową
+Y: Nagraj w telefonie minutową zapowiedź swojej ulubionej piosenki i posłuchaj, czy brzmisz naturalnie.
+
+@2306
+H: Czytasz wiadomości w radiu lub telewizji i zapowiadasz materiały reporterów. Masz być zrozumiały i spokojny, także przy ważnych, trudnych tematach.
+T: Czytasz teksty z promptera | Zapowiadasz materiały i łączenia z reporterami | Redagujesz własne zapowiedzi | Reagujesz na pilną wiadomość w trakcie programu
+D: 11:00 Przeglądasz agencje i wybierasz tematy | 14:00 Zebranie wydawców, ustalacie kolejność | 17:30 Charakteryzacja i próba mikrofonu | 19:00 Prowadzisz wieczorne wydanie na żywo
+Y: Przeczytaj głośno akapit z wiadomości, nagraj się telefonem i sprawdź, czy każde słowo jest zrozumiałe.
+
+@2307
+H: Nagrywasz filmy, w których mówisz o wybranym temacie, i wrzucasz je do internetu. Często dzielisz się też własną opinią.
+T: Planujesz temat i scenariusz filmu | Nagrywasz siebie przed kamerą | Montujesz nagranie i dodajesz napisy | Odpowiadasz na komentarze widzów
+D: 9:00 Piszesz plan nowego odcinka | 11:00 Nagrywasz kilka podejść do wstępu | 15:00 Montujesz film i wycinasz pauzy | 20:00 Publikujesz i czytasz pierwsze komentarze
+Y: Nagraj telefonem jednominutowy film o swoim hobby i obejrzyj go, szukając, co skrócić.
+
+@2308
+H: Piszesz teksty do internetu na wybrany temat, często z własną opinią. Czytelnicy odpowiadają ci w komentarzach.
+T: Wymyślasz tematy wpisów | Piszesz i redagujesz artykuły | Dobierasz zdjęcia i tytuły | Odpowiadasz na komentarze czytelników
+D: 7:30 Zapisujesz pomysły na wpisy w notesie | 10:00 Piszesz wpis o nowej książce | 13:00 Poprawiasz tytuł, żeby zachęcał do kliknięcia | 18:00 Odpisujesz na komentarze pod wczorajszym tekstem
+Y: Napisz wpis blogowy w pięciu zdaniach o rzeczy, która ostatnio zrobiła na tobie wrażenie.
+
+@2309
+H: Regularnie publikujesz filmy, zdjęcia lub teksty i budujesz wokół nich społeczność. Współpracujesz też z markami, więc jesteś jednocześnie autorem i małą firmą.
+T: Planujesz kalendarz publikacji | Nagrywasz i montujesz treści | Rozmawiasz z odbiorcami | Negocjujesz współpracę z firmami
+D: 10:00 Układasz plan treści na cały tydzień | 12:00 Nagrywasz trzy krótkie filmy | 16:00 Montujesz i dobierasz muzykę | 20:00 Publikujesz i sprawdzasz statystyki wyświetleń
+Y: Rozpisz plan sześciu postów na tydzień dla wymyślonego profilu o jednym temacie.
+

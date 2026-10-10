@@ -1,0 +1,180 @@
+@2250
+H: Uczysz gry w tenisa: chwytów, uderzeń i serwów. Prowadzisz lekcje na korcie i motywujesz do poprawy wyników.
+T: Uczysz chwytów rakiety | Pokazujesz forhend, bekhend i serwis | Podajesz piłki do ćwiczeń | Wskazujesz błędy i dajesz wskazówki
+D: 7:00 Zbierasz piłki i przygotowujesz kort | 9:00 Lekcja z dzieckiem, ćwiczycie podbijanie | 15:30 Dorosły uczeń trenuje serwis, ty korygujesz | 18:00 Grupowy trening w parach
+Y: Odbijaj zwiniętą skarpetę o ścianę i licz udane odbicia z rzędu przez pięć minut.
+
+@2251
+H: Uczysz jazdy na łyżwach, od figur po szybkie sprinty. Trenujesz siłę i koordynację oraz wspierasz na zawodach.
+T: Uczysz jazdy i obrotów | Trenujesz siłę i koordynację | Planujesz sesje na lodzie | Towarzyszysz zawodnikom na zawodach
+D: 5:30 Poranny trening na pustym lodowisku | 8:00 Ćwiczenia siły na suchym lądzie | 16:00 Grupa dzieci uczy się hamować | 19:00 Z zawodnikiem szlifujesz program na turniej
+Y: Stań na jednej nodze na dwadzieścia sekund, potem na drugiej, i powtórz to trzy razy.
+
+@2252
+H: Prowadzisz drużynę piłkarską: planujesz treningi, ustalasz skład i taktykę oraz kierujesz zespołem w meczu.
+T: Planujesz treningi techniki i kondycji | Ustalasz skład i taktykę | Podajesz instrukcje z linii bocznej | Dokonujesz zmian zawodników w trakcie meczu
+D: 8:00 Układasz plan tygodnia treningowego | 16:30 Trening młodzieży, ćwiczycie podania | 19:00 Odprawa przed meczem i ogłoszenie składu | 20:30 Po meczu omawiasz błędy w szatni
+Y: Rozrysuj na kartce ustawienie jedenastu piłkarzy i zapisz, kto ma bronić, a kto atakować.
+
+@2253
+H: Prowadzisz rekreacyjne zajęcia w swojej dyscyplinie dla uczestników w różnym wieku i uczysz uczciwej gry.
+T: Sprawdzasz, co uczestnicy już umieją | Układasz program dla grup lub osób | Uczysz fair play | Oceniasz poprawę wyników uczestników
+D: 8:00 Obserwujesz nową grupę i oceniasz poziom | 10:00 Prowadzisz trening według ułożonego planu | 14:00 Rozmawiasz z rodzicem o postępach dziecka | 17:00 Spisujesz wyniki i planujesz następne zajęcia
+Y: Wybierz dyscyplinę i ułóż plan jednego treningu z rozgrzewką, ćwiczeniami i rozciąganiem.
+
+@2254
+H: Szkolisz przyszłych ratowników: uczysz nadzoru nad pływającymi, pierwszej pomocy oraz ratowniczego pływania i nurkowania.
+T: Uczysz rozpoznawać niebezpieczne sytuacje | Ćwiczysz ratownicze pływanie i nurkowanie | Pokazujesz pierwszą pomoc po urazach | Omawiasz profilaktykę i obowiązki ratownika
+D: 8:00 Wykład o ocenie ryzyka nad wodą | 10:00 Kursanci ćwiczą holowanie manekina | 13:00 Demonstrujesz reanimację na fantomie | 15:30 Egzamin praktyczny i omówienie błędów
+Y: Znajdź w wiarygodnym źródle numery alarmowe i spisz, co mówi się dyspozytorowi przy wypadku.
+
+@2255
+H: Pilnujesz przestrzegania przepisów sportowych, zdrowia i bezpieczeństwa uczestników oraz organizujesz imprezy sportowe.
+T: Stosujesz przepisy podczas zawodów | Sprawdzasz bezpieczeństwo uczestników i obiektu | Organizujesz imprezy sportowe | Utrzymujesz kontakt z klubami i rywalami
+D: 8:00 Sprawdzasz obiekt przed turniejem | 10:00 Odprawa sędziów i drużyn z regulaminu | 12:00 Rozstrzygasz spór o przepis w trakcie meczu | 16:00 Zbierasz protokoły i wyniki
+Y: Wybierz grę planszową lub sportową i spisz jej pięć zasad tak, by nie dało się ich źle zrozumieć.
+
+@2256
+H: Uczysz sportowców tańca, aktorstwa i występów, żeby lepiej wypadali na zawodach i przed publicznością.
+T: Planujesz zajęcia z tańca i ekspresji | Uczysz sportowców występów przed publicznością | Pokazujesz ćwiczenia aktorskie | Łączysz ruch artystyczny z techniką sportu
+D: 9:00 Rozgrzewka taneczna z łyżwiarzami | 11:00 Ćwiczycie mimikę i ekspresję przed lustrem | 15:00 Układasz choreografię do programu zawodnika | 17:00 Próba występu przed małą publicznością
+Y: Ułóż do ulubionej piosenki choreografię z czterech ruchów i zatańcz ją trzy razy.
+
+@2257
+H: Trenujesz każdego dnia i startujesz w zawodach w swojej dyscyplinie. Sukces wymaga talentu, planu i wytrwałości.
+T: Trenujesz codziennie z trenerem | Startujesz w zawodach | Ćwiczysz siłę i technikę | Regenerujesz się i planujesz sezon
+D: 6:30 Poranny trening wytrzymałościowy | 10:00 Siłownia i ćwiczenia siły | 14:00 Rozmowa z trenerem i analiza nagrania | 17:00 Drugi trening techniczny i rozciąganie
+Y: Zapisz swój plan treningu na trzy dni w tygodniu z dniami odpoczynku między nimi.
+
+@2258
+H: Zarządzasz gabinetem: pracownikami, zapasami, budżetem i czystością. Dbasz, żeby klienci wychodzili zadowoleni.
+T: Układasz grafik pracowników | Zamawiasz kosmetyki i pilnujesz zapasów | Kontrolujesz budżet gabinetu | Ustalasz zasady czystości i higieny
+D: 8:30 Sprawdzasz grafik i zapasy kosmetyków | 10:00 Rozmawiasz z niezadowolonym klientem | 13:00 Zamawiasz brakujące produkty u dostawcy | 16:00 Układasz post promujący gabinet w mediach
+Y: Napisz krótki post reklamujący wymyślony gabinet, w trzech zdaniach i bez przesady.
+
+@2259
+H: Kierujesz zakładem z grami hazardowymi, szkolisz pracowników i pilnujesz zgodności z przepisami o hazardzie.
+T: Nadzorujesz codzienną pracę kasyna | Szkolisz krupierów i obsługę | Sprawdzasz zgodność z przepisami | Analizujesz rentowność całego zakładu
+D: 15:00 Zaczynasz zmianę od przeglądu raportów | 18:00 Szkolisz nowych krupierów z procedur | 22:00 Pilnujesz sali podczas największego ruchu | 1:00 Rozwiązujesz spór gościa z obsługą
+Y: Wypisz pięć zasad, które chroniłyby klientów w lokalu z grami, i uzasadnij każdą jednym zdaniem.
+
+@2260
+H: Kierujesz organizacją loterii, pilnujesz procedur losowania i przepisów oraz szkolisz pracowników.
+T: Kontrolujesz procedury losowania | Nadzorujesz pracę zespołu | Pilnujesz zgodności z przepisami loteryjnymi | Planujesz nagrody i szkolenia zespołu
+D: 8:30 Sprawdzasz raporty sprzedaży losów | 11:00 Nadzorujesz losowanie według procedury | 14:00 Szkolisz sprzedawców z obowiązujących przepisów | 16:30 Rozmawiasz ze zwycięzcą o odbiorze nagrody
+Y: Wymyśl uczciwe zasady losowania nagrody wśród dziesięciu osób i sprawdź, czy każdy ma równą szansę.
+
+@2261
+H: Koordynujesz pracę spa: zespołu, finansów, dostawców i reklamy, żeby goście byli zadowoleni.
+T: Nadzorujesz pracę zespołu spa | Pilnujesz finansów ośrodka | Zamawiasz u dostawców | Planujesz reklamę i promocje
+D: 8:00 Sprawdzasz grafik zabiegów na dzień | 10:00 Rozmawiasz z dostawcą olejków | 13:00 Przeglądasz wydatki i przychody | 16:00 Planujesz kampanię na weekend dla gości
+Y: Narysuj plan relaksacyjnego dnia w spa dla gości, z podziałem na godziny i zabiegi.
+
+@2262
+H: Kierujesz dużym obiektem rozrywkowym, na przykład zoo, ogrodem lub spa, i koordynujesz wszystkie jego działy.
+T: Planujesz pracę działów obiektu | Koordynujesz pracowników i infrastrukturę | Pilnujesz budżetu i zasobów | Śledzisz nowości w branży
+D: 8:00 Odprawa z szefami działów obiektu | 10:30 Obchód terenu i sprawdzenie atrakcji | 13:00 Rozmowa o budżecie z księgową | 16:00 Reagujesz na skargę gościa
+Y: Zaplanuj na kartce dzień wymyślonego parku rozrywki: otwarcie, trzy atrakcje i zamknięcie.
+
+@2263
+H: Prowadzisz punkt przyjmowania zakładów, pilnujesz przepisów, szkolisz pracowników i obsługujesz kasę.
+T: Obsługujesz kasę i wypłaty | Szkolisz nowych pracowników | Nadzorujesz przestrzeganie przepisów | Analizujesz wyniki sprzedaży punktu
+D: 10:00 Otwierasz punkt i liczysz gotówkę w kasie | 12:00 Szkolisz nowego pracownika z przepisów | 17:00 Obsługujesz tłum przed meczem | 22:00 Rozliczasz kasę i zamykasz lokal
+Y: Zapisz trzy zasady, które chroniłyby osoby niepełnoletnie w lokalu z zakładami.
+
+@2264
+H: Zarządzasz częścią zoo i zbiorem zwierząt: hodowlą, dobrostanem, nowymi okazami i budową wybiegów.
+T: Nadzorujesz hodowlę zwierząt | Planujesz dobrostan i opiekę | Organizujesz przyjęcie i transport zwierząt | Rozwijasz projekty nowych wybiegów
+D: 7:30 Obchód z opiekunami po wybiegach | 10:00 Omawiasz hodowlę i dobrostan zwierząt | 13:00 Rozmowa o transporcie nowego zwierzęcia | 15:30 Spotkanie o projekcie nowego wybiegu
+Y: Narysuj plan wybiegu dla wybranego zwierzęcia: miejsce na cień, wodę i kryjówkę.
+
+@2265
+H: Zarządzasz lokalnym centrum kultury, wymyślasz wydarzenia i kierujesz zespołem, żeby mieszkańcy mieli co robić.
+T: Układasz program wydarzeń i warsztatów | Promujesz imprezy wśród mieszkańców | Zarządzasz zespołem i salami | Rozliczasz budżet wydarzeń
+D: 9:00 Sprawdzasz grafik sal i zajęć | 11:00 Ustalasz z artystą termin koncertu | 14:00 Układasz plakat i ogłoszenie o warsztatach | 18:00 Czuwasz nad wieczornym wydarzeniem
+Y: Wymyśl wydarzenie kulturalne dla swojej okolicy i zaprojektuj jego plakat w pięciu linijkach.
+
+@2266
+H: Kierujesz teatrem, kinem lub salą koncertową: planujesz repertuar, dzielisz zadania działom i pilnujesz budżetu.
+T: Planujesz repertuar na kolejne miesiące | Koordynujesz działy teatru i obsługi | Zarządzasz budżetem i polityką placówki | Śledzisz nowości w kulturze
+D: 9:00 Spotkanie z szefami działów | 11:30 Ustalasz repertuar na następny miesiąc | 15:00 Rozmowa z agentem artysty | 19:00 Witasz widzów przed spektaklem
+Y: Ułóż repertuar kina na jeden weekend: cztery filmy, godziny seansów i krótkie uzasadnienie.
+
+@2267
+H: Zajmujesz się praktyczną stroną spektaklu: ludźmi, materiałami, transportem, harmonogramem i problemami w ostatniej chwili.
+T: Rekrutujesz ekipę techniczną i obsługę | Zamawiasz materiały i usługi | Planujesz transport i harmonogram prób | Rozwiązujesz problemy i pilnujesz bezpieczeństwa
+D: 8:00 Dzwonisz do dostawców dekoracji | 11:00 Układasz grafik prób i ekipy | 15:00 Rozwiązujesz kłopot z opóźnioną ciężarówką | 20:00 Czuwasz przy premierze za kulisami
+Y: Rozpisz na kartce listę zadań i terminów do zorganizowania szkolnego przedstawienia.
+
+@2268
+H: Prowadzisz halę, basen lub klub: grafik zajęć, sprzedaż, bezpieczeństwo, personel i obsługę klientów.
+T: Planujesz grafik zajęć i obiektu | Zarządzasz personelem | Sprawdzasz bezpieczeństwo i stan obiektu | Promujesz ofertę i sprzedaż karnetów
+D: 7:00 Obchodzisz halę i sprawdzasz awarie | 9:30 Rozmowa z trenerami o grafiku | 13:00 Rozmowa z klientem, który chce zwrócić karnet | 17:00 Pilnujesz wieczornego szczytu
+Y: Ułóż tygodniowy grafik sal w hali dla trzech drużyn tak, by nikt nie kolidował.
+
+@2269
+H: Grasz zawodowo w gry komputerowe, zwykle w drużynie. Trenujesz wiele godzin dziennie i analizujesz rywali.
+T: Trenujesz wiele godzin dziennie | Analizujesz mecze rywali | Ćwiczysz taktykę z drużyną | Startujesz w turniejach
+D: 11:00 Rozgrzewka i ćwiczenia refleksu | 13:00 Trening taktyczny z drużyną | 17:00 Oglądasz nagrania przeciwników | 20:00 Mecz turniejowy lub sparing online
+Y: Po dowolnej partii zapisz trzy decyzje, które warto poprawić, i jedną, która się udała.
+
+@2270
+H: Przygotowujesz drużynę do turniejów: układasz taktykę, oglądasz nagrania meczów i dbasz o formę psychiczną graczy.
+T: Układasz taktykę drużyny | Analizujesz nagrania meczów | Planujesz treningi i przygotowanie do turniejów | Pilnujesz współpracy i formy psychicznej
+D: 10:00 Oglądasz nagranie wczorajszego meczu | 12:00 Omawiasz błędy z graczami | 15:00 Ustalasz plan treningu na tydzień | 19:00 Wspierasz graczy podczas meczu
+Y: Obejrzyj mecz dowolnego sportu i zapisz, kiedy drużyna zmieniła taktykę i dlaczego.
+
+@2271
+H: Prowadzisz zajęcia łączące ruch, oddech i skupienie. Dobierasz pozycje do możliwości grupy i poprawiasz ułożenie ciała.
+T: Prowadzisz sekwencje pozycji jogi | Uczysz oddychania i koncentracji | Dobierasz pozycje do możliwości grupy | Poprawiasz ułożenie ciała uczestników
+D: 7:00 Poranne zajęcia dla osób przed pracą | 10:00 Spokojna lekcja dla seniorów | 17:30 Pokazujesz bezpieczną wersję pozycji nowemu uczestnikowi | 19:30 Wieczorne rozciąganie i relaks
+Y: Usiądź prosto i przez trzy minuty licz wdechy i wydechy, nie zmieniając tempa na siłę.
+
+@2272
+H: Zbierasz informacje o gospodarce i firmach i piszesz o nich artykuły dla mediów. Rozmawiasz z ludźmi i jeździsz na wydarzenia.
+T: Szukasz informacji o gospodarce | Przeprowadzasz rozmowy z ekspertami | Piszesz artykuły o firmach i rynkach | Relacjonujesz konferencje i wydarzenia
+D: 8:30 Czytasz raporty o inflacji i cenach | 10:30 Wywiad z właścicielem firmy | 14:00 Piszesz tekst o podwyżkach cen | 17:00 Konferencja o rynku pracy
+Y: Zapytaj domowników, ile kosztował chleb dawniej i dziś, i napisz z tego dwa zdania.
+
+@2273
+H: Decydujesz, które wiadomości trafią do serwisu, komu je przydzielić, jak długo je pokazać i w jakiej kolejności.
+T: Wybierasz tematy do serwisu | Przydzielasz reporterów do wiadomości | Ustalasz długość każdego materiału | Układasz kolejność w serwisie
+D: 6:00 Przeglądasz depesze z nocy | 8:00 Zebranie redakcji, wybieracie tematy | 11:00 Wysyłasz reportera na miejsce wydarzenia | 17:30 Skracasz materiały przed wieczornym serwisem
+Y: Wybierz pięć dzisiejszych wiadomości i ułóż je w kolejności od najważniejszej, z uzasadnieniem.
+
+@2274
+H: Szukasz informacji o przestępstwach i procesach i piszesz o nich teksty. Bywasz w sądzie i rozmawiasz z ludźmi.
+T: Zbierasz informacje o wydarzeniach kryminalnych | Siedzisz na rozprawach w sądzie | Przeprowadzasz rozmowy z osobami z tej sprawy | Piszesz sprawozdania z procesów
+D: 8:00 Czytasz komunikaty policji z minionej doby | 9:30 Rozprawa w sądzie, notujesz przebieg | 13:00 Dzwonisz do rzecznika sądu po komentarz | 16:00 Piszesz tekst, nie zdradzając danych osób
+Y: Wymyśl krótką historię zdarzenia i opisz ją w trzech zdaniach: same fakty, bez ocen.
+
+@2275
+H: Piszesz o koncertach, filmach i wystawach. Rozmawiasz z artystami i gwiazdami i bywasz na premierach.
+T: Chodzisz na premiery i wernisaże | Przeprowadzasz wywiady z artystami | Piszesz recenzje i relacje | Wyszukujesz ciekawe wydarzenia kulturalne
+D: 10:00 Przygotowujesz pytania do wywiadu z muzykiem | 13:00 Rozmowa z malarzem w jego pracowni | 16:00 Piszesz recenzję wczorajszego filmu | 20:00 Siedzisz na premierze spektaklu
+Y: Obejrzyj lub posłuchaj czegoś i napisz pięciozdaniową recenzję z uzasadnieniem swojej oceny.
+
+@2276
+H: Zbierasz informacje o polityce i politykach, piszesz o tym teksty, rozmawiasz z ludźmi i bywasz na wydarzeniach.
+T: Śledzisz decyzje polityków | Przeprowadzasz wywiady z politykami | Sprawdzasz wypowiedzi i obietnice | Relacjonujesz obrady i konferencje
+D: 8:00 Czytasz porządek obrad parlamentu | 10:00 Konferencja prasowa, zadajesz pytanie | 14:00 Dzwonisz do komentatora po opinię | 18:00 Piszesz tekst o dzisiejszym głosowaniu
+Y: Przeczytaj program samorządu uczniowskiego i wypisz dwa pytania do jego przewodniczącego.
+
+@2277
+H: Piszesz i relacjonujesz wydarzenia sportowe oraz sylwetki sportowców. Jeździsz na mecze i rozmawiasz z zawodnikami.
+T: Relacjonujesz mecze i zawody | Przeprowadzasz wywiady ze sportowcami | Piszesz komentarze po meczach | Sprawdzasz wyniki i statystyki
+D: 11:00 Rozmowa z trenerem przed meczem | 17:00 Zajmujesz miejsce na trybunie prasowej | 21:00 Piszesz relację na gorąco | 23:30 Poprawiasz tekst i wysyłasz do redakcji
+Y: Obejrzyj fragment meczu i opisz go w pięciu zdaniach, jakby czytał to ktoś, kto go nie widział.
+
+@2278
+H: Sprawdzasz, czy każda informacja w tekście przed publikacją jest prawdziwa. Weryfikujesz fakty i poprawiasz błędy.
+T: Sprawdzasz fakty z podanych źródeł | Weryfikujesz daty, nazwiska i liczby | Poprawiasz błędy w tekstach | Szukasz dokumentów potwierdzających informacje
+D: 8:30 Dostajesz tekst gotowy do druku | 10:00 Sprawdzasz daty i liczby w źródłach | 13:00 Dzwonisz, by potwierdzić cytat | 15:30 Wskazujesz autorowi znalezione błędy
+Y: Weź akapit z podręcznika i sprawdź w drugim źródle trzy podane w nim fakty.
+
+@2279
+H: Wybierasz i zatwierdzasz zdjęcia i ilustracje do gazet i magazynów oraz pilnujesz terminów dostarczenia.
+T: Przeglądasz setki zdjęć od fotoreporterów | Wybierasz najlepsze ujęcia do wydania | Zatwierdzasz ilustracje do tekstów | Pilnujesz terminu oddania materiałów
+D: 9:00 Omawiasz z redaktorem okładkę numeru | 11:00 Przeglądasz zdjęcia z wczorajszego wydarzenia | 14:00 Wybierasz ujęcia do reportażu | 17:00 Przypominasz fotografowi o terminie
+Y: Zrób dziesięć zdjęć swojego pokoju lub podwórka i wybierz jedno najlepsze, zapisując dlaczego.
+

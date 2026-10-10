@@ -1,0 +1,180 @@
+@960
+H: Jeździsz do bankomatów, które przestały działać, i ustalasz, co jest nie tak. Naprawiasz je narzędziami ręcznymi i oprogramowaniem, zwykle na miejscu u klienta.
+T: Diagnozujesz usterkę bankomatu | Wymieniasz zepsute podzespoły | Konserwujesz urządzenie podczas przeglądu | Jeździsz do klientów z narzędziami
+D: 7:30 Odbierasz listę zgłoszeń i ruszasz w trasę | 9:00 Bankomat nie wydaje pieniędzy, szukasz przyczyny | 12:00 Wymiana uszkodzonego podzespołu i test urządzenia | 15:00 Przegląd planowy w innym oddziale
+Y: Wypisz z pamięci wszystkie elementy bankomatu, które użytkownik widzi i dotyka, a potem zgadnij, który psuje się najczęściej.
+
+@961
+H: Naprawiasz telewizory, sprzęt audio i kamery, które przestały działać. Szukasz usterki, czytasz instrukcje producenta i wymieniasz to, co się zepsuło.
+T: Testujesz sprzęt i szukasz usterki | Czytasz instrukcje producenta | Wymieniasz uszkodzone elementy | Sprawdzasz, czy sprzęt działa po naprawie
+D: 8:00 Przyjmujesz do warsztatu telewizor bez obrazu | 10:00 Rozkręcasz obudowę i szukasz uszkodzonego elementu | 13:00 Czytasz schemat w instrukcji producenta | 15:30 Test po naprawie i telefon do klienta
+Y: Weź dowolny pilot do telewizora, wypisz trzy możliwe przyczyny, dla których przestaje reagować, i uporządkuj je od najprostszej.
+
+@962
+H: Montujesz panele słoneczne, najczęściej na dachach, i podłączasz je do instalacji w budynku. Pracujesz na zewnątrz, w każdą pogodę, często wysoko.
+T: Przygotowujesz uchwyty i osprzęt na dachu | Mocujesz panele słoneczne | Podłączasz panele do falownika | Serwisujesz istniejące instalacje
+D: 6:30 Ładujesz panele na busa i jedziesz na budowę | 8:00 Montujesz uchwyty na dachu domu | 11:30 Mocujesz kolejne panele rząd po rzędzie | 14:00 Podłączasz instalację i sprawdzasz, czy działa
+Y: Obserwuj z okna lub podwórka, która strona dachu swojego domu najdłużej łapie słońce, i zapisz godziny.
+
+@963
+H: Konserwujesz i naprawiasz turbiny wiatrowe: szukasz usterek, wykonujesz badania i dbasz, żeby działały zgodnie z przepisami. Czasem pomagasz inżynierom przy budowie nowych turbin.
+T: Wykonujesz badania diagnostyczne turbiny | Analizujesz usterki i ich przyczyny | Naprawiasz uszkodzone elementy | Testujesz i instalujesz sprzęt turbiny
+D: 6:00 Odprawa i sprawdzenie prognozy wiatru | 8:00 Jedziesz do farmy wiatrowej na przegląd | 11:00 Diagnoza usterki w jednej turbinie | 15:00 Spisujesz raport z naprawy i testów
+Y: Sprawdź w prognozie, jaki wiatr będzie jutro w trzech miastach, i zdecyduj, gdzie turbina kręciłaby się najszybciej.
+
+@964
+H: Instalujesz i serwisujesz urządzenia, które ogrzewają budynek energią z powietrza lub gruntu. Na końcu uruchamiasz instalację i uczysz właściciela, jak z niej korzystać.
+T: Dobierasz moc urządzenia do budynku | Podłączasz instalację grzewczą | Uruchamiasz i ustawiasz pompę ciepła | Uczysz właściciela obsługi
+D: 7:00 Pakujesz narzędzia i jedziesz do nowego domu | 9:00 Ustawiasz jednostkę zewnętrzną i prowadzisz rury | 12:30 Podłączasz instalację do ogrzewania w budynku | 15:00 Pokazujesz właścicielowi, jak ustawić temperaturę
+Y: Sprawdź w domu, czym ogrzewany jest budynek, i narysuj prosty schemat: skąd ciepło trafia do grzejników.
+
+@965
+H: Diagnozujesz i naprawiasz samochody elektryczne, hybrydowe oraz stacje ładowania. Pracujesz z wysokim napięciem, więc ściśle trzymasz się zasad bezpieczeństwa.
+T: Diagnozujesz usterki aut elektrycznych | Naprawiasz hybrydy i stacje ładowania | Przestrzegasz procedur pracy z wysokim napięciem | Sprawdzasz stan baterii i układu ładowania
+D: 7:30 Odprawa i przypisanie aut do stanowisk | 9:00 Samochód elektryczny nie ładuje się, szukasz przyczyny | 12:00 Odłączasz układ wysokiego napięcia według procedury | 14:30 Naprawiasz stację ładowania u klienta
+Y: Wypisz trzy różnice między autem elektrycznym a spalinowym i zaznacz, która może utrudniać naprawę.
+
+@966
+H: Uczysz studentów pracy socjalnej i nadzorujesz ich praktyki w instytucjach pomocy. Oceniasz ich pracę i pomagasz znaleźć miejsca praktyk.
+T: Prowadzisz zajęcia ze studentami | Nadzorujesz ich praktyki w terenie | Oceniasz prace i postępy studentów | Polecasz studentów do miejsc praktyk
+D: 9:00 Wykład o zasadach pracy z rodziną | 11:00 Rozmowa ze studentem po pierwszej praktyce | 13:30 Czytasz sprawozdania z praktyk i oceniasz | 15:30 Ustalasz z ośrodkiem miejsca dla studentów
+Y: Wypisz trzy cechy, które powinna mieć osoba pomagająca innym w trudnej sytuacji, i uzasadnij każdą jednym zdaniem.
+
+@967
+H: Prowadzisz wykłady i ćwiczenia dla studentów w swojej wąskiej dziedzinie. Przygotowujesz egzaminy, sprawdzasz prace i omawiasz z nimi wyniki.
+T: Prowadzisz wykłady dla studentów | Układasz egzaminy i sprawdzasz prace | Prowadzisz ćwiczenia i zajęcia laboratoryjne | Omawiasz ze studentami ich wyniki
+D: 8:30 Wykład dla pierwszego roku w dużej sali | 11:00 Konsultacje, studenci pytają o kolokwium | 13:00 Z asystentem układasz pytania na egzamin | 15:00 Sprawdzasz prace i piszesz uwagi
+Y: Wybierz temat, który dobrze znasz, i w pięć minut wytłumacz go komuś z rodziny, a potem zapytaj, co było niejasne.
+
+@968
+H: Tworzysz materiały do nauki przez internet: slajdy, nagrania wideo, podcasty i testy. Zamieniasz trudną wiedzę w prosty kurs, który da się przejść w domu, w swoim tempie.
+T: Piszesz treść lekcji i zadań | Nagrywasz wideo i podcasty | Projektujesz slajdy i materiały pomocnicze | Układasz testy sprawdzające wiedzę
+D: 9:00 Planujesz układ nowego kursu na kartce | 11:00 Piszesz skrypt do krótkiego nagrania | 13:30 Nagrywasz lekcję i montujesz screencast | 16:00 Układasz quiz na koniec modułu
+Y: Wybierz jedną rzecz, którą umiesz, i napisz plan trzyminutowej lekcji o niej w trzech krokach.
+
+@969
+H: W szkole jesteś osobą, do której uczniowie przychodzą z problemami osobistymi i szkolnymi. Rozmawiasz z nimi indywidualnie, w małych grupach lub w klasach i pomagasz znaleźć rozwiązanie.
+T: Rozmawiasz z uczniami o ich problemach | Omawiasz wyniki testów | Pomagasz dobrać odpowiedni program nauki | Informujesz o dalszych drogach kształcenia
+D: 8:00 Uczeń przychodzi przed lekcjami, ma kłopot w klasie | 10:00 Zajęcia w małej grupie o relacjach | 12:00 Omawiasz z uczennicą wyniki ostatniego testu | 14:00 Rozmowa o tym, jaką szkołę wybrać dalej
+Y: Wypisz trzy problemy, z którymi uczniowie mogą przyjść do doradcy, i jedno pytanie, od którego zaczniesz rozmowę.
+
+@970
+H: Pomagasz studentom wybrać przedmioty i zaplanować drogę do kariery. Omawiasz z nimi wyniki, podpowiadasz, jak się uczyć, i znasz aktualne wymogi uczelni.
+T: Ustalasz ze studentem plan zajęć | Wyjaśniasz wymagania programów studiów | Omawiasz wyniki i podpowiadasz sposoby nauki | Pomagasz zaplanować karierę zawodową
+D: 9:00 Student pyta, które przedmioty wybrać na semestr | 11:00 Sprawdzasz zmiany w przepisach uczelni | 13:00 Rozmowa z kimś, kto oblał egzaminy | 15:00 Spotkanie z profesorami w sprawie programu
+Y: Wypisz swoje trzy ulubione przedmioty szkolne i do każdego dopisz jeden zawód, który z niego korzysta.
+
+@971
+H: Przyjmujesz wnioski kandydatów do szkoły lub na uniwersytet i decydujesz, kto spełnia wymagania. Potem pomagasz przyjętym osobom zapisać się na programy i zajęcia.
+T: Czytasz wnioski i dokumenty kandydatów | Porównujesz je z regułami przyjęć | Zatwierdzasz lub odrzucasz wnioski | Pomagasz przyjętym zapisać się na zajęcia
+D: 8:30 Otwierasz nowe wnioski, jest ich kilkadziesiąt | 10:30 Sprawdzasz dokumenty kandydata według regulaminu | 13:00 Spotkanie z dyrekcją o zasadach przyjęć | 15:00 Pomagasz przyjętej osobie wybrać zajęcia
+Y: Ułóż listę pięciu kryteriów, według których szkoła mogłaby wybierać osoby na ograniczoną liczbę miejsc, i oceń ich uczciwość.
+
+@972
+H: Uczysz osoby odbywające karę zachowań i umiejętności, które pomogą im wrócić do społeczeństwa i znaleźć pracę po wyjściu. Pilnujesz też, żeby miejsce zajęć i materiały były bezpieczne i policzone.
+T: Oceniasz potrzeby uczenia się każdego więźnia | Planujesz zajęcia i przygotowujesz materiały | Uczysz umiejętności przydatnych po wyjściu | Pilnujesz bezpieczeństwa i liczysz materiały
+D: 8:00 Wchodzisz do zakładu i liczysz materiały | 9:30 Prowadzisz zajęcia z grupą, uczysz podstaw zawodu | 12:00 Rozmowa indywidualna o planie po wyjściu | 14:30 Uzupełniasz dokumentację postępów
+Y: Wypisz pięć umiejętności, które pomagają dostać pracę, i zaznacz te, których ktoś mógłby nauczyć się w tydzień.
+
+@973
+H: Wspierasz uczniów z kłopotami w nauce, z frekwencją lub z zachowaniem, ale też takich, którzy chcą robić więcej. Ustalasz z nimi plan działania i sprawdzasz, czy się sprawdza.
+T: Rozmawiasz z uczniem o trudnościach | Układasz harmonogram i plan działania | Wspierasz go w klasie i poza nią | Monitorujesz postępy z tygodnia na tydzień
+D: 7:45 Rozmowa z uczniem, który często się spóźnia | 9:00 Siedzisz z grupą w klasie i pomagasz | 12:00 Plan na semestr z uzdolnioną uczennicą | 14:30 Sprawdzasz, czy plan działa, i poprawiasz
+Y: Wybierz jedną swoją trudność w nauce i rozpisz plan na tydzień: trzy małe kroki przypisane do dni.
+
+@974
+H: Uczysz dorosłych, którzy chcą poszerzyć wiedzę lub zdobyć nowe kwalifikacje: od języków po obsługę komputera. Bierzesz pod uwagę to, co już wiedzą i umieją z pracy i z życia.
+T: Układasz kurs dla dorosłej grupy | Prowadzisz zajęcia o praktycznych umiejętnościach | Odwołujesz się do doświadczeń uczestników | Wspierasz uczących się po zajęciach
+D: 17:00 Przygotowujesz salę przed wieczornym kursem | 17:30 Uczysz grupę dorosłych podstaw obsługi komputera | 19:00 Ćwiczenia w parach, chodzisz i podpowiadasz | 20:30 Odpowiadasz na pytania po zajęciach
+Y: Naucz kogoś starszego w domu jednej prostej czynności ze smartfona i zapytaj, co było trudne.
+
+@975
+H: Tworzysz materiały do szkoleń, dzięki którym nauka idzie szybciej i jest ciekawsza. Łączysz multimedia i narzędzia projektowe, żeby zamienić suchą wiedzę w ćwiczenia.
+T: Zamieniasz wiedzę fachową w lekcje | Projektujesz grafiki, filmy i ćwiczenia | Testujesz materiały na uczestnikach | Poprawiasz szkolenie po opiniach
+D: 9:00 Rozmowa z ekspertem, który zna temat | 11:00 Szkicujesz układ interaktywnego ćwiczenia | 13:30 Przygotowujesz grafiki i krótkie nagranie | 15:30 Uczestnicy testowego szkolenia dają opinie
+Y: Narysuj instrukcję jednej prostej czynności, np. wiązania butów, używając tylko obrazków bez słów.
+
+@976
+H: Planujesz, jak cała organizacja ma uczyć się przez internet: jakie ustalić zasady i jaką infrastrukturę zbudować. Nie robisz pojedynczych lekcji, tylko cały system, w którym one działają.
+T: Określasz cele nauki online w organizacji | Ustalasz zasady korzystania z platformy | Planujesz infrastrukturę techniczną | Sprawdzasz, czy system wspiera cele
+D: 9:00 Spotkanie z działem szkoleń o celach | 11:00 Porównujesz możliwości platform do nauki | 13:30 Szkicujesz schemat, jak połączyć kursy | 15:30 Opisujesz procedury dla nauczycieli i uczestników
+Y: Narysuj schemat: kto w szkole zapisuje się na kurs online, kto go prowadzi i gdzie widać wyniki.
+
+@977
+H: Jesteś pierwszą osobą, do której studenci zgłaszają problemy z nauką i życiem na uczelni. Organizujesz dodatkowe zajęcia dla tych, którym idzie gorzej, i wydarzenia społeczne przez cały rok.
+T: Odpowiadasz na zgłoszenia studentów | Organizujesz dodatkowe zajęcia wyrównawcze | Planujesz wydarzenia społeczne | Kierujesz studentów do odpowiedniej pomocy
+D: 8:30 Student w biurze, pogubiony w terminach | 10:30 Układasz harmonogram zajęć wyrównawczych | 13:00 Spotkanie w sprawie wieczoru integracyjnego | 15:00 Rozmowa ze studentką ze słabymi wynikami
+Y: Zaplanuj w jednym akapicie, jak powitać nowych uczniów w swojej klasie, żeby nikt nie czuł się samotny.
+
+@978
+H: Uczysz klientów, jak mówić publicznie: wyraźnie, przekonująco i bez paniki. Często pracujesz z jedną osobą naraz i dopasowujesz ćwiczenia do jej mocnych i słabych stron.
+T: Oceniasz mocne i słabe strony klienta | Ćwiczysz z nim artykulację i głos | Uczysz mowy ciała i prezentacji | Pokazujesz techniki argumentowania i debaty
+D: 9:00 Pierwsze spotkanie z klientem, który boi się sceny | 11:00 Ćwiczysz z nim oddech i wyraźną dykcję | 14:00 Nagrywasz próbną prezentację i razem ją oglądacie | 17:00 Warsztat debaty dla grupy uczniów
+Y: Nagraj telefonem minutę swojej wypowiedzi o ulubionym temacie i zanotuj trzy rzeczy do poprawy.
+
+@979
+H: Uczysz indywidualnie dziecko lub dorosłego poza szkołą, w tempie dopasowanym do ucznia. Uczysz też, jak się uczyć, i na bieżąco sprawdzasz, czy są postępy.
+T: Dobierasz materiał do poziomu ucznia | Tłumaczysz zagadnienie krok po kroku | Uczysz technik i strategii nauki | Oceniasz postępy w trakcie lekcji
+D: 15:00 Lekcja z dzieckiem, które nie rozumie ułamków | 16:30 Dorosły uczeń ćwiczy rozmowę w obcym języku | 18:00 Przygotowujesz zadania na jutrzejsze zajęcia | 19:00 Rozmawiasz z rodzicem o postępach dziecka
+Y: Wytłumacz komuś z domu jedno zagadnienie z ostatniej lekcji krok po kroku i poproś o powtórzenie własnymi słowami.
+
+@980
+H: Uczysz w domu dzieci, które z powodu choroby lub niepełnosprawności nie mogą chodzić do szkoły. Jesteś też łącznikiem między uczniem, rodzicami i szkołą.
+T: Jeździsz do domów uczniów na lekcje | Dostosowujesz materiał do możliwości dziecka | Pośredniczysz między rodzicami a szkołą | Pomagasz rozwiązywać problemy z zachowaniem
+D: 8:30 Jedziesz do domu chorego ucznia | 9:00 Lekcja matematyki przy łóżku lub biurku | 12:00 Telefon do szkoły w sprawie zaległych sprawdzianów | 14:00 Rozmowa z rodzicami o frekwencji
+Y: Przygotuj krótkie zadanie z języka polskiego, które da się zrobić w łóżku, bez komputera.
+
+@981
+H: Uczysz małe dzieci z różnymi niepełnosprawnościami, w sposób dopasowany do każdego z nich. Zmieniasz program tak, by każde dziecko mogło dojść do swojego poziomu.
+T: Prowadzisz zabawy edukacyjne w małej grupie | Dostosowujesz program do potrzeb dziecka | Ćwiczysz z dziećmi podstawowe umiejętności | Obserwujesz, co dziecko już potrafi
+D: 8:00 Witasz dzieci i spokojnie zaczynasz dzień | 9:30 Zabawa w liczenie z kolorowymi klockami | 11:30 Dziecko z trudnościami ćwiczy chwytanie kredki | 13:30 Notujesz postępy i rozmawiasz z rodzicami
+Y: Wymyśl jedną zabawę z klockami lub kubkami, która uczy liczenia do pięciu, i opisz ją dwoma zdaniami.
+
+@982
+H: Uczysz dzieci ze szkoły podstawowej z różnym stopniem niepełnosprawności, na lekcjach dopasowanych do ich możliwości. Przy łagodnej lub umiarkowanej niepełnosprawności uczysz według zmodyfikowanego programu.
+T: Układasz lekcje dopasowane do możliwości uczniów | Modyfikujesz program nauczania dla dziecka | Uczysz czytania, liczenia i pisania | Sprawdzasz, co uczeń opanował
+D: 8:00 Lekcja czytania z trzema uczniami | 9:45 Ćwiczenia liczenia z kartami i liczmanami | 12:00 Dostosowujesz kartkówkę dla ucznia z trudnościami | 14:00 Rozmowa z rodzicem o zmianach w programie
+Y: Wybierz jedno zadanie szkolne z matematyki i zapisz dwa prostsze sposoby, żeby je wyjaśnić.
+
+@983
+H: Przygotowujesz zajęcia dla nastolatków z niepełnosprawnościami w szkole ponadpodstawowej i dopasowujesz je do tego, co każdy z nich potrafi. Rozmawiasz z nimi jak z młodzieżą, a nie jak z małymi dziećmi.
+T: Przygotowujesz lekcje dla nastolatków z różnymi potrzebami | Upraszczasz materiał, ale nie traktujesz ich jak dzieci | Modyfikujesz program do możliwości ucznia | Oceniasz postępy uczniów w nauce
+D: 8:00 Zajęcia z klasą o różnych niepełnosprawnościach | 10:00 Dostosowujesz tekst dla ucznia z trudnościami | 12:30 Rozmowa z wychowawcą o planie dla klasy | 14:00 Układasz nowe zadania na jutro
+Y: Weź akapit z podręcznika dla liceum i przepisz go prostszym językiem, nie tracąc sensu.
+
+@984
+H: Uczysz dzieci, nastolatków i dorosłych z niepełnosprawnością intelektualną lub fizyczną. Dobierasz metody i pomoce tak, żeby uczeń jak najlepiej się komunikował, poruszał i radził sobie na co dzień.
+T: Dobierasz metody komunikacji dla ucznia | Uczysz codziennych czynności i samodzielności | Wybierasz pomoce i narzędzia wspierające | Pracujesz nad włączaniem ucznia w społeczność
+D: 8:00 Ćwiczysz z uczniem rozumienie obrazkowych poleceń | 10:00 Zajęcia z samodzielnego robienia kanapki | 12:30 Dopasowujesz pomoce dla ucznia na wózku | 15:00 Wspólne wyjście ucznia z klasą do sklepu
+Y: Wymyśl sposób, jak komuś bez mowy przekazać prostą prośbę o picie, używając obrazków lub gestów.
+
+@985
+H: Uczysz dorosłych podstaw czytania i pisania, często imigrantów lub osoby, które wcześnie przerwały szkołę. Zajęcia planujesz razem z nimi, a postępy sprawdzasz zadaniami i egzaminami.
+T: Uczysz dorosłych liter i prostych tekstów | Planujesz z uczniami czytanie | Dobierasz teksty z życia codziennego | Sprawdzasz postępy zadaniami i egzaminami
+D: 9:00 Uczysz grupę imigrantów czytać krótkie ogłoszenia | 11:00 Ćwiczenia pisania krótkich zdań o sobie | 13:00 Czytasz z grupą prosty tekst z gazety | 17:00 Egzamin z czytania dla jednego ucznia
+Y: Przepisz jedno zdanie z dowolnej ulotki w domu najprostszymi słowami i krótkimi wyrazami.
+
+@986
+H: Pomagasz uczniom, którym wolniej idzie czytanie, liczenie i pisanie, w szkole podstawowej lub średniej. Szukasz sposobów, żeby zrozumieli materiał, i sprawdzasz, czy robią postępy.
+T: Ćwiczysz z uczniem czytanie i liczenie | Wymyślasz strategie uczenia się | Określasz potrzeby i postępy ucznia | Wspierasz go przy pracy szkolnej
+D: 8:00 Siedzisz obok ucznia na lekcji polskiego | 10:00 Ćwiczenia czytania sylab z małą grupą | 12:00 Gra w tabliczkę mnożenia z dwoma uczniami | 14:00 Zapisujesz, co uczeń opanował w tym tygodniu
+Y: Wymyśl grę na pięć minut, która pomaga zapamiętać tabliczkę mnożenia przez trzy, i spróbuj z kimś.
+
+@987
+H: Uczysz uzdolnione dzieci i nastolatków tak, żeby nie nudziły się na lekcjach. Dobierasz dodatkowe zadania, pilnujesz szkolnych zasad pracy z talentami i obserwujesz postępy uczniów.
+T: Proponujesz dodatkowe, trudniejsze zadania | Pilnujesz zasad pracy z uzdolnionymi | Obserwujesz postępy utalentowanych uczniów | Organizujesz zajęcia rozszerzające wiedzę
+D: 8:30 Uczeń kończy zadanie w dziesięć minut, dajesz trudniejsze | 10:00 Prowadzisz koło dla uzdolnionych z matematyki | 12:30 Rozmowa z rodzicami o dodatkowych zajęciach | 14:30 Sprawdzasz postępy w notatniku obserwacji
+Y: Wymyśl zagadkę logiczną trudniejszą niż typowe zadanie szkolne i sprawdź, czy ktoś w domu ją rozwiąże.
+
+@988
+H: Uczysz na kursach, jak robić zdjęcia: portrety, przyrodę, makro, zdjęcia podróżnicze i czarno-białe. Dajesz dużo praktyki, a na koniec organizujesz wystawę prac uczniów.
+T: Pokazujesz techniki portretu, makro i zdjęć w ruchu | Prowadzisz uczniów na zdjęcia w plener | Oceniasz postępy uczniów | Przygotowujesz wystawę prac kursantów
+D: 10:00 Omawiasz z grupą zdjęcia z zeszłego tygodnia | 12:00 Plener, uczniowie szukają ciekawych kadrów | 15:00 Pokazujesz historię fotografii na przykładach | 18:00 Wieczorna sesja portretowa z kursantami
+Y: Zrób telefonem trzy zdjęcia tego samego przedmiotu z różnych kątów i wybierz najlepsze, zapisując dlaczego.
+
+@989
+H: Uczysz hobbystycznie rysowania, malowania i rzeźbienia. Zachęcasz uczestników do próbowania różnych technik, aż znajdą własny styl.
+T: Pokazujesz techniki rysunku i malarstwa | Uczysz podstaw rzeźbienia | Opowiadasz o historii sztuki na przykładach | Pomagasz uczestnikom znaleźć własny styl
+D: 16:00 Rozkładasz farby i papier przed zajęciami | 16:30 Grupa uczy się rysować martwą naturę | 18:00 Chodzisz między sztalugami i poprawiasz kompozycje | 19:00 Oglądasz z grupą prace i omawiasz je
+Y: Ustaw na stole dwa przedmioty i narysuj je ołówkiem w kwadrans, zwracając uwagę na cienie.
+

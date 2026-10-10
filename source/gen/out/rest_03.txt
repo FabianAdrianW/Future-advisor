@@ -1,0 +1,180 @@
+@1230
+H: Pilnujesz, żeby bank udzielał kredytów według zasad i nie brał na siebie zbyt dużego ryzyka. Kierujesz działem, który ustala limity i sprawdza, czy klienci spłacają raty.
+T: Ustalasz limity i warunki kredytów | Oceniasz, jakie ryzyko jest jeszcze dopuszczalne | Kontrolujesz, czy klienci płacą w terminie | Zarządzasz pracą działu kredytowego
+D: 8:00 Przeglądasz raport o zaległych spłatach | 10:00 Spotkanie z zespołem o zmianie zasad | 12:30 Decydujesz w sprawie spornego wniosku o limit | 15:30 Ustalasz z doradcą warunki dla dużego klienta
+Y: Spisz regulamin pożyczania rzeczy w domu: co można pożyczyć, na jak długo i co się dzieje przy spóźnieniu.
+
+@1231
+H: Pomagasz studentom ogarnąć opłaty za naukę i kredyty studenckie. Tłumaczysz im, z jakiego wsparcia mogą skorzystać, i załatwiasz sprawy z bankami.
+T: Wyjaśniasz, jak ubiegać się o kredyt | Ustalasz kwoty i warunki kredytów studenckich | Doradzasz, który kredyt pasuje do studenta | Kontaktujesz się z bankami w sprawie wniosków
+D: 8:30 Student pyta, jak zapłacić za semestr | 10:30 Rozmawiasz z bankiem o zablokowanym wniosku | 12:30 Przygotowujesz ulotkę o dostępnych kredytach | 14:30 Tłumaczysz rodzicom warunki spłaty kredytu
+Y: Zapisz pięć pytań, które zadajesz osobie szukającej pieniędzy na naukę, zanim doradzisz jej rodzaj wsparcia.
+
+@1232
+H: Sprawdzasz, czy bank przyznaje kredyty na mieszkania zgodnie z wytycznymi. Przeglądasz też kredyty już zamknięte i sprawy, w których bank odmawia pożyczki.
+T: Sprawdzasz zgodność kredytu z wytycznymi | Wdrażasz nowe zasady przyznawania kredytu | Przeglądasz kredyty już zamknięte | Analizujesz przypadki odmowy kredytu
+D: 8:30 Czytasz nowe wytyczne i omawiasz je z zespołem | 10:30 Sprawdzasz losowo wybrane zamknięte teczki kredytowe | 13:00 Szukasz błędu w dokumentach odrzuconego wniosku | 15:00 Piszesz notatkę o niezgodnościach dla kierownika
+Y: Przeczytaj instrukcję gry planszowej i wypisz pięć zasad, które da się jednoznacznie sprawdzić tak lub nie.
+
+@1233
+H: Oceniasz wnioski o pożyczki od osób i firm i decydujesz, czy je zatwierdzić. Pilnujesz, żeby cała transakcja między pożyczającym, pożyczkobiorcą i sprzedającym doszła do skutku.
+T: Oceniasz wnioski o pożyczki osób i firm | Sprawdzasz, czy klient da radę spłacać | Zatwierdzasz lub odrzucasz wnioski | Dopilnowujesz transakcji między pożyczającym a sprzedającym
+D: 8:00 Przeglądasz nowe wnioski o pożyczki | 10:00 Dzwonisz do klienta po brakujące dokumenty | 12:30 Zatwierdzasz pożyczkę na zakup mieszkania | 15:00 Pilnujesz podpisów przy finalizacji transakcji
+Y: Spisz, co powinna zawierać prośba o pożyczkę na rower, żeby ktoś mógł rozsądnie zdecydować o jej przyznaniu.
+
+@1234
+H: Wyceniasz kamienie szlachetne i minerały, oglądając ich szlif, cechy i pochodzenie. Twoja ocena decyduje, ile kamień jest wart w handlu albo czy opłaca się go szlifować.
+T: Oglądasz kamień z bliska i opisujesz cechy | Oceniasz szlif i jakość kamienia | Ustalasz pochodzenie minerału | Określasz wartość rynkową do sprzedaży
+D: 9:00 Dostajesz od handlarza partię nieoszlifowanych kamieni | 11:00 Porównujesz szlif i barwę dwóch podobnych kamieni | 13:30 Sprawdzasz, skąd pochodzi podejrzanie tani minerał | 15:30 Wpisujesz wycenę do raportu dla kupującego
+Y: Znajdź w domu lub w ogrodzie trzy kamienie i opisz każdy: kolor, połysk, kształt, ciężar w dłoni.
+
+@1235
+H: Badasz zgłoszone szkody ubezpieczeniowe: ustalasz, co się stało, kto za to odpowiada i ile trzeba wypłacić. Rozmawiasz ze zgłaszającymi i świadkami, a potem piszesz zalecenie dla ubezpieczyciela.
+T: Rozmawiasz ze zgłaszającymi i świadkami | Ustalasz odpowiedzialność i wysokość szkody | Piszesz sprawozdanie z zaleceniem dla ubezpieczyciela | Konsultujesz się z ekspertami od szkód
+D: 8:00 Czytasz nowe zgłoszenia szkód z nocy | 10:00 Telefon do świadka stłuczki na parkingu | 12:00 Oglądasz zdjęcia zalanego mieszkania i wyliczasz straty | 15:00 Informujesz klienta, ile i kiedy dostanie
+Y: Wyobraź sobie rozbitą szklankę w kuchni i spisz pytania, które zadajesz domownikom, żeby ustalić, jak do tego doszło.
+
+@1236
+H: Oceniasz wartość przedmiotów osobistych, takich jak książki, wina, dzieła sztuki i antyki. Twoja wycena służy przy sprzedaży albo ubezpieczeniu rzeczy.
+T: Badasz wiek i stan przedmiotu | Oceniasz jakość i potrzebę napraw | Ustalasz wartość do sprzedaży lub ubezpieczenia | Piszesz sprawozdanie z wyceny
+D: 9:00 Przyjmujesz do oceny starą szafę po dziadkach | 11:00 Oglądasz sygnaturę i ślady napraw na obrazie | 13:30 Szukasz w katalogach cen podobnych antyków | 15:30 Wręczasz właścicielowi gotowy raport z wyceną
+Y: Wybierz w domu jedną starą rzecz i opisz jej wiek, stan oraz to, co wymagałoby naprawy.
+
+@1237
+H: Szacujesz wartość nieruchomości na potrzeby podatków, zwykle dla urzędów lokalnych i rządowych. Wyceniasz wiele nieruchomości naraz, według precyzyjnych metod.
+T: Badasz i szacujesz wartość nieruchomości | Wyceniasz całe grupy nieruchomości hurtowo | Stosujesz precyzyjne techniki oceny | Przygotowujesz wyceny dla urzędów
+D: 8:00 Dostajesz od urzędu listę nieruchomości do wyceny | 10:00 Wprowadzasz dane o działkach i budynkach | 13:00 Sprawdzasz, czy wyniki nie odbiegają od okolicy | 15:00 Przekazujesz urzędowi gotowe zestawienie podatkowe
+Y: Zapisz po trzy cechy dwóch podobnych domów w swojej okolicy, które wpływają na to, ile mogą być warte.
+
+@1238
+H: Pilnujesz, żeby każde roszczenie ubezpieczeniowe zostało obsłużone, a ważne roszczenia kończyły się wypłatą. Śledzisz postęp spraw i mówisz posiadaczom polis, co mają zrobić.
+T: Pilnujesz obsługi każdego roszczenia | Liczysz i korygujesz kwoty na podstawie danych | Informujesz klientów o koniecznych krokach | Monitorujesz postęp spraw
+D: 8:00 Sprawdzasz, które sprawy stoją bez ruchu | 10:00 Tłumaczysz klientowi przez telefon, co dosłać | 12:30 Przeliczasz kwotę po nowej opinii | 15:00 Zlecasz wypłatę przy zatwierdzonym roszczeniu
+Y: Narysuj tabelkę pięciu spraw do załatwienia w domu i oznacz, która jest w toku, a która skończona.
+
+@1239
+H: Przeglądasz dokumenty nieruchomości zajętych przez bank, bo właściciel przestał spłacać kredyt. Pomagasz właścicielom ocenić, czy mogą jeszcze zachować swój dom.
+T: Czytasz dokumentację zajętych nieruchomości | Oceniasz szanse zachowania domu przez właściciela | Rozmawiasz z właścicielami o możliwych wyjściach | Współpracujesz z bankiem przejmującym majątek
+D: 8:30 Czytasz akta mieszkania zajętego przez bank | 10:30 Rozmawiasz z właścicielem o zaległych ratach | 13:00 Liczysz, czy właściciel da radę spłacać dług | 15:00 Ustalasz z bankiem termin sprzedaży nieruchomości
+Y: Zapisz pięć stałych miesięcznych wydatków wymyślonej rodziny i oceń, który z nich najtrudniej byłoby ciąć.
+
+@1240
+H: Ustalasz wartość mieszkań, domów i lokali handlowych na potrzeby sprzedaży, kredytu lub ubezpieczenia. Oglądasz stan nieruchomości i opisujesz go w raporcie.
+T: Oglądasz nieruchomość i oceniasz jej stan | Sporządzasz spis wyposażenia | Porównujesz wartość z podobnymi nieruchomościami | Piszesz raport dla kredytu lub ubezpieczenia
+D: 9:00 Wchodzisz do mieszkania i mierzysz pomieszczenia | 10:30 Fotografujesz wilgoć na ścianie i stare okna | 13:00 Zestawiasz ceny podobnych lokali z okolicy | 15:30 Piszesz raport dla banku w sprawie kredytu
+Y: Obejdź jeden pokój w domu i spisz całe jego wyposażenie wraz z krótką oceną stanu każdej rzeczy.
+
+@1241
+H: Wyłapujesz podejrzane roszczenia i wnioski, które mogą być próbą wyłudzenia. Podejrzane sprawy przekazujesz ubezpieczeniowcom, którzy sprawdzają je dokładniej.
+T: Badasz okoliczności podejrzanych roszczeń | Przyglądasz się nowym klientom i zakupom polis | Weryfikujesz obliczenia składek | Przekazujesz podejrzane wnioski do dochodzenia
+D: 8:30 Przeglądasz listę roszczeń oznaczonych jako podejrzane | 10:30 Porównujesz daty i opisy dwóch podobnych zgłoszeń | 13:00 Zauważasz, że nowy klient zgłasza szkodę po tygodniu | 15:00 Przekazujesz sprawę do działu dochodzeń
+Y: Napisz pięć zdań o wymyślonym zdarzeniu i ukryj w nich trzy sprzeczności, które ktoś z domu ma znaleźć.
+
+@1242
+H: Pomagasz księgowemu: rejestrujesz rozliczenia sprzedaży biletów, sprawdzasz zaliczki i przygotowujesz dzienne zestawienia. Gdy system sprzedaży biletów szwankuje, zgłaszasz to kierownikom.
+T: Rejestrujesz rozliczenia biletów dla księgowego | Sprawdzasz zaliczki i ich rozliczenia | Sporządzasz dzienne sprawozdania i zestawienia | Prowadzisz rachunki zwrotów
+D: 8:00 Sprawdzasz wczorajszą sprzedaż biletów w zestawieniu | 10:00 Zbierasz zatwierdzone kwity do zwrotu pieniędzy | 12:30 Zgłaszasz kierownikowi sprzedaży błąd w systemie | 15:00 Przekazujesz księgowemu dzienne sprawozdanie do podpisu
+Y: Wymyśl szkolną imprezę, policz utarg ze sprzedaży 30 biletów w dwóch cenach i zapisz zwrot jednego biletu.
+
+@1243
+H: Zapisujesz codzienne transakcje firmy: sprzedaż, zakupy, płatności i pokwitowania. Pilnujesz, żeby wszystko trafiło do właściwej księgi i żeby liczby się zgadzały.
+T: Zapisujesz sprzedaż, zakupy i płatności | Wpisujesz transakcje do księgi głównej | Sprawdzasz, czy zapisy się bilansują | Przygotowujesz rejestry dla księgowego
+D: 8:00 Segregujesz faktury i pokwitowania z poprzedniego dnia | 10:00 Wpisujesz sprzedaż do dziennika sprzedaży | 12:30 Suma nie wychodzi, szukasz brakującej złotówki | 14:30 Oddajesz księgowemu uporządkowane rejestry
+Y: Zrób dwie kolumny, wpływy i wydatki, wpisz sześć wymyślonych operacji i wylicz saldo na koniec.
+
+@1244
+H: Śledzisz dostępne dotacje na badania, przygotowujesz wnioski i przekazujesz przyznane środki. Pilnujesz też, żeby beneficjent wydawał pieniądze zgodnie z warunkami.
+T: Śledzisz nowe oferty dotacji | Przygotowujesz wnioski o dotację | Przekazujesz przyznane środki beneficjentom | Kontrolujesz, czy pieniądze idą zgodnie z warunkami
+D: 8:30 Przeglądasz ogłoszenia o nowych konkursach dotacyjnych | 10:30 Poprawiasz budżet we wniosku zespołu naukowego | 13:00 Porównujesz faktury z zatwierdzonym planem wydatków | 15:00 Przypominasz beneficjentowi o terminie rozliczenia dotacji
+Y: Wymyśl projekt klasowy za 500 zł i rozpisz w pięciu pozycjach, na co pójdą te pieniądze.
+
+@1245
+H: Zbierasz dane i liczysz je wzorami statystycznymi, a wyniki pokazujesz w sprawozdaniach. Robisz z liczb wykresy i diagramy, które każdy może szybko zrozumieć.
+T: Zbierasz dane do badań | Stosujesz wzory statystyczne | Rysujesz wykresy i diagramy | Przygotowujesz sprawozdania z badań
+D: 8:30 Zbierasz odpowiedzi z ankiet w jednej tabeli | 10:30 Liczysz średnią i rozrzut wyników | 13:00 Rysujesz wykres porównujący dwie grupy badanych | 15:00 Opisujesz wyniki w krótkim sprawozdaniu
+Y: Policz, ile razy każda litera występuje w jednym akapicie książki, i narysuj wykres dziesięciu najczęstszych.
+
+@1246
+H: Analizujesz dane statystyczne, żeby ustalić, ile powinny kosztować polisy ubezpieczeniowe. Liczysz, jak prawdopodobne są wypadki, obrażenia i szkody majątkowe.
+T: Analizujesz dane statystyczne o zdarzeniach | Liczysz prawdopodobieństwo wypadków i szkód | Budujesz modele statystyczne dla ubezpieczeń | Pomagasz ustalać stawki składek
+D: 8:30 Wczytujesz dane o szkodach z zeszłego roku | 10:30 Porównujesz częstość wypadków w różnych grupach wiekowych | 13:30 Sprawdzasz model na świeżych danych | 15:30 Zapisujesz wnioski o składkach dla aktuariusza
+Y: Rzuć dwiema monetami 20 razy i policz, jak często wypadają oba orły, a potem porównaj z oczekiwaną jedną czwartą.
+
+@1247
+H: Kierujesz bieżącą pracą kasyna: personelem, salami gier i ochroną. Pilnujesz też, żeby wszystko działało zgodnie z przepisami o grach hazardowych.
+T: Nadzorujesz pracę personelu | Monitorujesz sale gier | Pilnujesz usług ochrony | Sprawdzasz zgodność z przepisami o grach
+D: 18:00 Odprawa przed otwarciem sali z zespołem | 20:00 Obchodzisz sale i obserwujesz stoły | 23:00 Reagujesz na zgłoszenie od ochrony | 2:00 Zamykasz zmianę i piszesz raport dla zarządu
+Y: Narysuj plan wymyślonej sali rozrywkowej z wejściem, kasą i stołami i zaznacz trzy miejsca dla ochrony.
+
+@1248
+H: Wspierasz kierownictwo i odpowiadasz za salę gier: pilnujesz stołów, bezpieczeństwa i tego, żeby obsługa trzymała standardy. Zwracasz też uwagę na wynik finansowy sali, w granicach przepisów.
+T: Nadzorujesz gry i stoły na sali | Kontrolujesz przebieg gier i procedur | Pilnujesz bezpieczeństwa gości i obsługi | Śledzisz przychody i wydatki sali
+D: 19:00 Rozdzielasz krupierów do stołów | 21:00 Obserwujesz, czy goście i obsługa trzymają zasady | 0:30 Rozstrzygasz spór między gościem a krupierem | 3:00 Podsumowujesz wyniki nocy dla kierownictwa
+Y: Rozpisz podział zadań przy domowym obiedzie dla czterech osób i sprawdź, czy ktoś nie ma zbyt dużo.
+
+@1249
+H: Obliczasz kursy, przyjmujesz zakłady na wydarzenia sportowe i wypłacasz wygrane. Zarządzasz ryzykiem, żeby jeden wynik nie zachwiał finansami firmy.
+T: Przyjmujesz zakłady od klientów | Obliczasz notowania wydarzeń sportowych | Wypłacasz klientom ich wygrane | Zarządzasz ryzykiem przy popularnych zakładach
+D: 10:00 Sprawdzasz listę meczów na wieczór | 13:00 Przeliczasz kursy po zmianie składu drużyny | 18:00 Obserwujesz, na jaki wynik stawia najwięcej osób | 22:30 Rozliczasz zakłady po zakończonym meczu
+Y: Policz, jakie jest prawdopodobieństwo wyrzucenia szóstki kostką, i zapisz je jako ułamek oraz procent.
+
+@1250
+H: Wymieniasz klientom żetony i tokeny na pieniądze i organizujesz wypłaty. Zbierasz podpisy i dane identyfikacyjne, a przepisy o praniu pieniędzy musisz stosować bez wyjątków.
+T: Wymieniasz żetony i tokeny na pieniądze | Odbierasz podpisy i dane identyfikacyjne klientów | Przeliczasz gotówkę w kasie na koniec zmiany | Stosujesz przepisy o praniu pieniędzy
+D: 19:00 Odbierasz kasę i liczysz gotówkę na start | 21:00 Wymieniasz gościowi stos żetonów na gotówkę | 0:00 Prosisz o dokument przy dużej wypłacie | 3:00 Zamykasz kasę i uzgadniasz stan z raportem
+Y: Posortuj drobne monety z domu według nominału, policz sumę dwa razy i sprawdź, czy wynik jest taki sam.
+
+@1251
+H: Stoisz przy stole do gry, rozdajesz karty i obsługujesz sprzęt do gier losowych. Wypłacasz wygrane i zbierasz przegrane żetony lub pieniądze.
+T: Rozdajesz karty graczom przy stole | Obsługujesz sprzęt do gier losowych | Wypłacasz graczom wygrane żetony | Zbierasz żetony od przegranych graczy
+D: 19:00 Rozkładasz stół i sprawdzasz karty | 21:00 Rozdajesz karty przy pełnym stole graczy | 23:30 Liczysz i wypłacasz wygrane żetony | 3:00 Przekazujesz stół zmiennikowi i idziesz na przerwę
+Y: Potasuj talię kart i rozdaj je na cztery równe stosy, dbając o płynny, równy ruch ręki.
+
+@1252
+H: Ustalasz kursy i notowania w zakładach sportowych i grach losowych, a potem je korygujesz. Śledzisz też rachunki klientów i to, czy zakłady są opłacalne dla firmy.
+T: Wystawiasz kursy na wydarzenia sportowe | Korygujesz notowania po zmianie sytuacji | Monitorujesz rachunki klientów | Sprawdzasz pozycję finansową bukmachera
+D: 8:30 Analizujesz formę drużyn przed weekendem | 11:00 Wystawiasz kursy na nowe wydarzenia | 14:00 Widzisz nagły napływ zakładów i korygujesz kursy | 17:00 Sprawdzasz, ile firma ryzykuje przy każdym wyniku
+Y: Wybierz mecz, oszacuj w procentach szanse obu drużyn na wygraną i wypisz trzy powody, dla których tak sądzisz.
+
+@1253
+H: Obsługujesz codzienną pracę punktu loteryjnego: wprowadzasz i sprawdzasz dane w systemie, robisz sprawozdania i pomagasz wysyłać sprzęt. Instalujesz też, likwidujesz i konserwujesz urządzenia.
+T: Wprowadzasz i weryfikujesz dane w systemie | Przygotowujesz sprawozdania z działalności loterii | Pomagasz w wysyłce sprzętu firmowego | Instalujesz i konserwujesz sprzęt
+D: 8:00 Wprowadzasz do systemu wyniki z poprzedniego dnia | 10:30 Pakujesz urządzenie do wysyłki do innego punktu | 12:30 Instalujesz sprzęt w nowym punkcie loterii | 15:00 Piszesz sprawozdanie i porządkujesz dokumenty
+Y: Zapisz dziesięć dowolnych liczb, przepisz je do tabelki i porównaj obie listy, szukając pomyłek.
+
+@1254
+H: Obsługujesz totalizator na torze wyścigów konnych: wprowadzasz dane, przygotowujesz raporty dla biura toru i dbasz o tablice wyników. Pracujesz też przy sprzęcie i łączności.
+T: Wprowadzasz i sprawdzasz dane totalizatora | Przygotowujesz sprawozdania dla biura toru | Obsługujesz tablice wyników i notowań | Rozwiązujesz problemy z tablicami i łącznością
+D: 9:00 Sprawdzasz tablice wyników przed pierwszą gonitwą | 12:00 Wprowadzasz do systemu dane o zakładach | 15:30 Tablica notowań przestaje działać, szukasz przyczyny | 18:30 Piszesz sprawozdanie dla biura toru po wyścigach
+Y: Zrób z kartki tablicę wyników do domowej gry i aktualizuj ją po każdej rundzie.
+
+@1255
+H: Prowadzisz grę w bingo w hali lub klubie: wywołujesz numery i pilnujesz zasad. Znasz przepisy oraz regulaminy klubu dla różnych odmian gry.
+T: Organizujesz grę w bingo | Wywołujesz kolejne wylosowane numery | Sprawdzasz zgłoszone wygrane | Egzekwujesz przepisy i zasady klubu
+D: 17:00 Ustawiasz salę i sprawdzasz kule | 18:00 Tłumaczysz zasady uczestnikom przed pierwszą rundą | 19:00 Wywołujesz numery, a sala zaznacza je | 21:00 Sprawdzasz zgłoszone bingo i ogłaszasz zwycięzcę
+Y: Zrób dziesięć karteczek z numerami, wyciągaj je na głos po kolei i ćwicz wyraźne wywoływanie.
+
+@1256
+H: Obsługujesz okienko na poczcie: sprzedajesz znaczki i usługi oraz pomagasz wysyłać i odbierać listy i paczki. Sprzedajesz też produkty finansowe.
+T: Sprzedajesz znaczki i usługi pocztowe | Pomagasz klientom nadać przesyłkę | Wydajesz odebrane paczki i listy | Sprzedajesz produkty finansowe
+D: 8:00 Otwierasz okienko i liczysz gotówkę w kasie | 10:00 Klient pyta, jak wysłać paczkę za granicę | 12:30 Wydajesz awizowane przesyłki przy dużej kolejce | 15:30 Zamykasz kasę i uzgadniasz utarg dnia
+Y: Przygotuj kopertę i zapisz na niej wymyślone adresy nadawcy i odbiorcy w czytelnym układzie.
+
+@1257
+H: Obsługujesz klientów przy okienku w banku: wpłaty, wypłaty, przelewy i informacje o kontach. Przyjmujesz i rozliczasz gotówkę oraz czeki i polecasz produkty banku.
+T: Przyjmujesz wpłaty i wypłaty gotówki | Informujesz klientów o saldzie i przelewach | Zamawiasz karty i czeki dla klientów | Polecasz produkty i usługi banku
+D: 8:30 Liczysz gotówkę w kasie przed otwarciem | 10:00 Klient wpłaca czek, sprawdzasz podpis i dokument | 12:30 Tłumaczysz klientowi, czym jest konto oszczędnościowe | 15:30 Rozliczasz kasę i odnosisz gotówkę do skarbca
+Y: Wyjaśnij komuś w domu, jak działa przelew z konta na konto, używając prostych słów.
+
+@1258
+H: Odzyskujesz długi, głównie te, które dawno minęły termin płatności, dla firm i instytucji. Dzwonisz i piszesz do dłużników, żeby ustalić, jak i kiedy zapłacą.
+T: Kontaktujesz się z dłużnikami | Przypominasz o zaległych płatnościach | Ustalasz sposób i termin spłaty | Prowadzisz dokumentację każdej sprawy
+D: 8:30 Przeglądasz listę spraw do odzyskania | 10:00 Dzwonisz do dłużnika, który długo nie odbiera | 13:00 Ustalasz raty z zdenerwowanym dłużnikiem | 15:30 Wpisujesz do akt ustalenia i kolejne terminy
+Y: Napisz na kartce uprzejmą, ale stanowczą prośbę o oddanie pożyczonej rzeczy, bez gróźb i pretensji.
+
+@1259
+H: Odzyskujesz zaległe składki za polisy: zdrowotne, na życie, samochodowe i inne. Często rozmawiasz z osobami prywatnymi i proponujesz plan spłaty dopasowany do ich sytuacji.
+T: Przypominasz o zaległych składkach ubezpieczeniowych | Proponujesz plan spłaty dopasowany do sytuacji | Pomagasz klientowi w realizacji płatności | Znasz rodzaje ubezpieczeń: zdrowotne, życiowe, samochodowe
+D: 9:00 Sortujesz sprawy według rodzaju polisy | 11:00 Dzwonisz do klienta z zaległą składką za auto | 13:30 Rozkładasz zaległość na mniejsze miesięczne raty | 16:00 Potwierdzasz klientowi pisemnie nowy harmonogram wpłat
+Y: Rozłóż wymyślony dług 600 zł na raty tak, by miesięczna kwota była możliwa do udźwignięcia, i zapisz harmonogram.
+

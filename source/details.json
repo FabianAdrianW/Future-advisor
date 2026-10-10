@@ -1,0 +1,202 @@
+{
+  "Twórca oprogramowania": {
+    "hook": "Piszesz kod, z którego powstają aplikacje, strony i gry. Dostajesz problem i budujesz rozwiązanie, które działa u tysięcy ludzi.",
+    "tasks": ["Piszesz i poprawiasz kod nowych funkcji", "Szukasz przyczyn błędów i je naprawiasz", "Czytasz kod innych i dajesz im uwagi", "Ustalasz z zespołem, co i jak zbudować"],
+    "day": [["9:30", "Krótkie spotkanie zespołu: kto co dziś robi"], ["10:00", "Kilka godzin skupienia nad nową funkcją"], ["14:00", "Test nie przechodzi. Szukasz, w którym miejscu kod się myli"], ["16:00", "Wysyłasz zmianę do sprawdzenia i czytasz uwagi"]],
+    "skills": [["Logiczne myślenie", "L"], ["Jeden język programowania", "L"], ["Angielski techniczny", "S"], ["Cierpliwość do błędów", "L"], ["Praca w zespole", "P"], ["Samodzielna nauka", "L"]],
+    "plus": ["Widzisz efekt swojej pracy na ekranie", "Często można pracować zdalnie", "Uczysz się czegoś nowego co tydzień"],
+    "minus": ["Wiele godzin przed ekranem", "Bywa frustrująco, gdy błąd nie chce się znaleźć", "Technologie szybko się zmieniają"],
+    "path": ["Zacznij od darmowego kursu Pythona albo JavaScriptu", "Zbuduj dwa lub trzy własne małe projekty i pokaż je w sieci", "Technikum programistyczne albo studia informatyczne pomagają, ale liczy się to, co umiesz zbudować"],
+    "try": "Wejdź na stronę z kursem dla początkujących i napisz program, który pyta o imię i wita Cię po imieniu."
+  },
+  "Analityk danych": {
+    "hook": "Z tabel pełnych liczb wyciągasz odpowiedzi na konkretne pytania: co się sprzedaje, gdzie firma traci, co zmienić.",
+    "tasks": ["Zbierasz i porządkujesz dane z różnych źródeł", "Liczysz, porównujesz i szukasz wzorców", "Robisz wykresy, które każdy zrozumie", "Tłumaczysz wyniki ludziom, którzy podejmują decyzje"],
+    "day": [["9:00", "Pytanie od zespołu: czemu w marcu spadła sprzedaż?"], ["10:00", "Ściągasz dane i czyścisz je z błędów"], ["13:00", "Sprawdzasz kilka hipotez, jedna się potwierdza"], ["15:30", "Pokazujesz trzy wykresy i jedną rekomendację"]],
+    "skills": [["Matematyka i statystyka", "L"], ["Arkusz kalkulacyjny i SQL", "L"], ["Dociekliwość", "L"], ["Jasne tłumaczenie", "S"], ["Czytelne wykresy", "O"], ["Dokładność", "L"]],
+    "plus": ["Twoje wnioski realnie zmieniają decyzje", "Przydaje się w każdej branży", "Dużo samodzielnego myślenia"],
+    "minus": ["Sporo czasu schodzi na czyszczenie bałaganu w danych", "Praca głównie przy komputerze", "Czasem dane nie dają jasnej odpowiedzi"],
+    "path": ["Naucz się dobrze arkusza kalkulacyjnego, potem podstaw SQL", "Weź publiczny zbiór danych i odpowiedz na własne pytanie", "Studia z matematyki, informatyki, ekonomii lub socjologii dają dobry start"],
+    "try": "Zapisz przez tydzień, ile czasu spędzasz w telefonie, i narysuj z tego wykres. Co Cię zaskoczyło?"
+  },
+  "Projektant interfejsu użytkownika": {
+    "hook": "Projektujesz ekrany aplikacji i stron tak, żeby dało się ich używać bez instrukcji. Łączysz rysowanie z rozumieniem ludzi.",
+    "tasks": ["Rysujesz układ ekranów i przycisków", "Sprawdzasz na ludziach, gdzie się gubią", "Dobierasz kolory, litery i ikony", "Ustalasz z programistami, co da się zbudować"],
+    "day": [["9:30", "Oglądasz nagranie: ktoś nie może znaleźć przycisku „Zapłać”"], ["11:00", "Szkicujesz trzy wersje ekranu"], ["14:00", "Pięć osób testuje prototyp, notujesz, gdzie się zatrzymują"], ["16:00", "Poprawiasz projekt i przekazujesz go programistom"]],
+    "skills": [["Wyczucie estetyki", "O"], ["Empatia", "P"], ["Logiczne myślenie", "L"], ["Szkicowanie", "O"], ["Figma lub podobny program", "O"], ["Rozmowy z użytkownikami", "P"]],
+    "plus": ["Z Twojej pracy korzystają tysiące ludzi", "Łączy kreatywność z logiką", "Można pracować zdalnie"],
+    "minus": ["Trzeba bronić swoich pomysłów na spotkaniach", "Dużo poprawek po uwagach", "Efekt zależy też od innych osób w zespole"],
+    "path": ["Przerysuj w Figmie ekran ulubionej aplikacji", "Zaprojektuj własną małą aplikację i opisz, czemu wygląda tak, a nie inaczej", "Kursy lub studia z grafiki, wzornictwa, psychologii albo informatyki; najważniejsze jest portfolio"],
+    "try": "Poproś kogoś, żeby przy Tobie kupił bilet w aplikacji, której nie zna. Zapisz trzy miejsca, w których się zawahał."
+  },
+  "Projektant grafiki": {
+    "hook": "Zamieniasz pomysły w obraz: logo, plakaty, opakowania, posty. Sprawiasz, że coś od razu wiadomo, o co chodzi, i dobrze wygląda.",
+    "tasks": ["Rozmawiasz z klientem o tym, co chce przekazać", "Szkicujesz kilka pomysłów", "Składasz projekt w programie graficznym", "Przygotowujesz pliki do druku lub internetu"],
+    "day": [["9:00", "Klient opisuje, jak ma wyglądać plakat festiwalu"], ["10:30", "Szukasz inspiracji i robisz szybkie szkice"], ["13:00", "Dopracowujesz dwie najlepsze wersje"], ["16:00", "Wysyłasz projekt i nanosisz pierwsze poprawki"]],
+    "skills": [["Wyczucie koloru i kompozycji", "O"], ["Rysunek", "O"], ["Programy graficzne", "O"], ["Słuchanie klienta", "P"], ["Pomysłowość", "O"], ["Pilnowanie terminów", "L"]],
+    "plus": ["Twoje prace widać na mieście i w sieci", "Każdy projekt jest inny", "Można pracować na własny rachunek"],
+    "minus": ["Klient często chce wielu poprawek", "Terminy bywają krótkie", "Gust to rzecz sporna"],
+    "path": ["Zrób plakat wydarzenia w swojej szkole", "Zbieraj najlepsze prace w portfolio", "Liceum plastyczne, studia graficzne albo kursy; pracodawcy patrzą głównie na portfolio"],
+    "try": "Zaprojektuj okładkę ulubionej płyty od nowa, używając tylko dwóch kolorów."
+  },
+  "Twórca gier komputerowych": {
+    "hook": "Wymyślasz i budujesz gry: zasady, poziomy, postacie i to, żeby chciało się zagrać jeszcze raz.",
+    "tasks": ["Projektujesz zasady i poziomy", "Programujesz mechanikę gry", "Testujesz, czy gra jest zabawna i uczciwa", "Pracujesz z grafikami i dźwiękowcami"],
+    "day": [["10:00", "Zespół gra w nowy poziom i mówi, co nudzi"], ["11:00", "Zmieniasz zasady walki z bossem"], ["14:00", "Programujesz nowy ruch postaci"], ["16:30", "Kolejny test: teraz jest za trudno, poprawiasz"]],
+    "skills": [["Programowanie", "L"], ["Wyobraźnia", "O"], ["Logiczne myślenie", "L"], ["Rozumienie graczy", "P"], ["Opowiadanie historii", "S"], ["Praca w zespole", "P"]],
+    "plus": ["Tworzysz coś, co daje ludziom frajdę", "Łączy technikę, sztukę i opowieść", "Polska ma silną branżę gier"],
+    "minus": ["Przed premierą bywa bardzo dużo pracy", "Wiele pomysłów ląduje w koszu", "Duża konkurencja na start"],
+    "path": ["Zrób prostą grę w darmowym silniku, np. Godot albo Unity", "Weź udział w game jamie, czyli maratonie tworzenia gier", "Studia informatyczne lub kierunek związany z grami pomagają, ale liczą się ukończone projekty"],
+    "try": "Wymyśl grę na kartce dla dwóch osób z trzema zasadami i zagraj w nią z kimś. Co trzeba zmienić?"
+  },
+  "Operator dźwięku": {
+    "hook": "Dbasz o to, żeby koncert, film albo podcast dobrze brzmiał. Ustawiasz mikrofony, miksujesz i ratujesz sytuację, gdy coś zacznie piszczeć.",
+    "tasks": ["Rozstawiasz i podłączasz mikrofony i głośniki", "Ustawiasz głośność i barwę każdego źródła", "Nagrywasz i montujesz dźwięk", "Reagujesz na żywo, gdy coś pójdzie nie tak"],
+    "day": [["12:00", "Rozładunek sprzętu i podłączanie sceny"], ["15:00", "Próba dźwięku z zespołem"], ["20:00", "Koncert: cały czas pilnujesz miksu"], ["23:00", "Zwijanie kabli i pakowanie"]],
+    "skills": [["Dobry słuch", "O"], ["Obsługa sprzętu", "R"], ["Spokój pod presją", "P"], ["Podstawy elektryki", "R"], ["Programy do montażu", "O"], ["Dogadywanie się z artystami", "P"]],
+    "plus": ["Jesteś blisko muzyki i sceny", "Każde wydarzenie jest inne", "Efekt słychać od razu"],
+    "minus": ["Praca wieczorami i w weekendy", "Dźwiganie ciężkiego sprzętu", "Błąd słyszy cała sala"],
+    "path": ["Zgłoś się do obsługi nagłośnienia w szkole lub domu kultury", "Nagrywaj i montuj własne nagrania w darmowym programie", "Szkoła z kierunkiem realizacji nagrań albo studia z reżyserii dźwięku"],
+    "try": "Nagraj telefonem ten sam tekst w łazience, w szafie i na dworze. Posłuchaj, jak pomieszczenie zmienia głos."
+  },
+  "Dziennikarz": {
+    "hook": "Dowiadujesz się, co się dzieje, sprawdzasz, czy to prawda, i opowiadasz to innym tak, żeby zrozumieli.",
+    "tasks": ["Szukasz tematów i rozmówców", "Zadajesz pytania i sprawdzasz fakty", "Piszesz teksty albo nagrywasz materiały", "Poprawiasz je po uwagach redaktora"],
+    "day": [["8:30", "Kolegium: redakcja ustala tematy dnia"], ["10:00", "Dzwonisz do trzech osób i jedziesz na miejsce"], ["14:00", "Piszesz tekst, sprawdzasz liczby i nazwiska"], ["17:00", "Redaktor skraca, Ty dopisujesz brakujący cytat"]],
+    "skills": [["Pisanie", "S"], ["Ciekawość", "S"], ["Rozmawianie z ludźmi", "P"], ["Sprawdzanie faktów", "L"], ["Odporność na stres", "P"], ["Szybkie czytanie", "S"]],
+    "plus": ["Poznajesz ludzi i miejsca, do których inni nie mają dostępu", "Każdy dzień jest inny", "Twoja praca może coś zmienić"],
+    "minus": ["Ciągła presja czasu", "Nieregularne godziny", "Rozmówcy bywają niechętni albo wrogo nastawieni"],
+    "path": ["Pisz do gazetki szkolnej, na bloga albo nagrywaj podcast", "Zgłoś się na praktyki do lokalnej redakcji", "Studia dziennikarskie pomagają, ale do zawodu trafia się też po innych kierunkach"],
+    "try": "Opisz w pięciu zdaniach coś, co wydarzyło się dziś w Twojej okolicy. Odpowiedz na pytania: kto, co, gdzie, kiedy, dlaczego."
+  },
+  "Radca prawny": {
+    "hook": "Pomagasz ludziom i firmom poruszać się w przepisach: doradzasz, piszesz umowy i bronisz ich spraw w sądzie.",
+    "tasks": ["Czytasz przepisy i wyroki", "Piszesz umowy, opinie i pisma do sądu", "Doradzasz klientom, co mogą zrobić", "Występujesz na rozprawach"],
+    "day": [["9:00", "Klient pyta, czy może wypowiedzieć umowę"], ["10:30", "Szukasz przepisów i podobnych wyroków"], ["13:00", "Rozprawa w sądzie"], ["16:00", "Piszesz opinię prostym językiem"]],
+    "skills": [["Czytanie ze zrozumieniem", "S"], ["Logiczne argumentowanie", "L"], ["Precyzyjne pisanie", "S"], ["Dobra pamięć", "S"], ["Rozmowa z klientem", "P"], ["Odporność na stres", "P"]],
+    "plus": ["Realnie pomagasz ludziom w trudnych sytuacjach", "Zawód cieszy się szacunkiem", "Wiedza przydaje się też prywatnie"],
+    "minus": ["Długa droga do zawodu", "Dużo czytania i papierów", "Odpowiedzialność za cudze sprawy"],
+    "path": ["Liceum, najlepiej z mocną historią, WOS-em i polskim", "Pięcioletnie studia prawnicze", "Trzyletnia aplikacja radcowska zakończona egzaminem"],
+    "try": "Przeczytaj regulamin aplikacji, której używasz, i znajdź jedną rzecz, na którą się zgodziłeś, nie wiedząc o tym."
+  },
+  "Psycholog": {
+    "hook": "Pomagasz ludziom zrozumieć, co się z nimi dzieje, i poradzić sobie z trudnościami. Słuchasz, pytasz, diagnozujesz i wspierasz.",
+    "tasks": ["Prowadzisz rozmowy z osobami w kryzysie", "Robisz testy i stawiasz diagnozę", "Układasz plan pomocy", "Współpracujesz z rodziną, szkołą lub lekarzem"],
+    "day": [["9:00", "Pierwsza rozmowa z nastolatkiem, który przestał chodzić do szkoły"], ["11:00", "Badanie testem i opracowanie wyników"], ["13:30", "Spotkanie z rodzicami"], ["15:00", "Notatki i konsultacja trudnego przypadku z kolegą"]],
+    "skills": [["Uważne słuchanie", "P"], ["Empatia", "P"], ["Analityczne myślenie", "L"], ["Dyskrecja", "P"], ["Odporność psychiczna", "P"], ["Jasne mówienie", "S"]],
+    "plus": ["Widzisz, jak ludzie stają na nogi", "Wiele ścieżek: szkoła, szpital, firma, sport", "Lepiej rozumiesz siebie i innych"],
+    "minus": ["Cudze problemy obciążają", "Efekty przychodzą powoli", "Trzeba stale się szkolić"],
+    "path": ["Liceum; przyda się biologia i dobre wyniki z matury", "Pięcioletnie jednolite studia magisterskie z psychologii", "Staże i szkolenia w wybranej dziedzinie, np. klinicznej lub szkolnej"],
+    "try": "Przez całą rozmowę z kimś bliskim tylko słuchaj i dopytuj, bez dawania rad. Zobacz, jak trudne to jest."
+  },
+  "Nauczyciel w szkole podstawowej/nauczycielka w szkole podstawowej": {
+    "hook": "Uczysz dzieci i sprawiasz, że chce im się rozumieć świat. Prowadzisz lekcje, ale też wychowujesz i wspierasz.",
+    "tasks": ["Przygotowujesz i prowadzisz lekcje", "Sprawdzasz prace i oceniasz postępy", "Rozmawiasz z rodzicami", "Pomagasz uczniom, którym idzie trudniej"],
+    "day": [["8:00", "Pierwsza lekcja: ułamki na pizzy z papieru"], ["10:45", "Dyżur na przerwie i rozdzielanie sprzeczki"], ["13:30", "Koniec lekcji, sprawdzasz kartkówki"], ["16:00", "Zebranie z rodzicami"]],
+    "skills": [["Tłumaczenie trudnych rzeczy prosto", "S"], ["Cierpliwość", "P"], ["Panowanie nad grupą", "P"], ["Wiedza z przedmiotu", "S"], ["Pomysłowość", "O"], ["Organizacja", "L"]],
+    "plus": ["Widzisz, jak dzieci robią postępy dzięki Tobie", "Dużo wolnego w wakacje i ferie", "Każda klasa jest inna"],
+    "minus": ["Hałas i ciągła uwaga przez wiele godzin", "Praca po lekcjach: sprawdzanie i przygotowania", "Trudne rozmowy z rodzicami"],
+    "path": ["Sprawdź się jako korepetytor albo opiekun na półkoloniach", "Studia z wybranego przedmiotu z przygotowaniem pedagogicznym", "Dla klas 1–3: pięcioletnie studia z pedagogiki wczesnoszkolnej"],
+    "try": "Wytłumacz młodszemu dziecku coś, co sam niedawno zrozumiałeś. Użyj przykładu z jego życia."
+  },
+  "Pielęgniarz/pielęgniarka praktyki ogólnej": {
+    "hook": "Jesteś najbliżej pacjenta: podajesz leki, robisz zabiegi, obserwujesz i pierwszy zauważasz, gdy coś jest nie tak.",
+    "tasks": ["Podajesz leki i zakładasz kroplówki", "Mierzysz ciśnienie, temperaturę, pobierasz krew", "Zmieniasz opatrunki", "Rozmawiasz z pacjentami i ich rodzinami"],
+    "day": [["7:00", "Przejęcie zmiany: co działo się w nocy"], ["8:00", "Poranne leki i pomiary na całym oddziale"], ["11:00", "Przygotowanie pacjenta do zabiegu"], ["15:00", "Pacjent słabnie, wzywasz lekarza i działasz"]],
+    "skills": [["Opanowanie", "P"], ["Empatia", "P"], ["Wiedza o ciele i lekach", "N"], ["Zręczne ręce", "R"], ["Dokładność", "L"], ["Kondycja", "N"]],
+    "plus": ["Codziennie komuś realnie pomagasz", "Pracę znajdziesz wszędzie", "Wiele specjalizacji do wyboru"],
+    "minus": ["Zmiany nocne i świąteczne", "Praca fizycznie i psychicznie ciężka", "Kontakt z cierpieniem i śmiercią"],
+    "path": ["Liceum, najlepiej z biologią i chemią", "Trzyletnie studia licencjackie z pielęgniarstwa z praktykami w szpitalu", "Prawo wykonywania zawodu, potem specjalizacje"],
+    "try": "Zrób kurs pierwszej pomocy. Zobaczysz, czy widok krwi i presja Cię paraliżują, czy mobilizują."
+  },
+  "Lekarz podstawowej opieki zdrowotnej": {
+    "hook": "Jesteś pierwszym lekarzem, do którego trafia pacjent. Słuchasz, badasz, stawiasz diagnozę i decydujesz, co dalej.",
+    "tasks": ["Badasz pacjentów i zbierasz wywiad", "Zlecasz i czytasz wyniki badań", "Przepisujesz leki i wystawiasz skierowania", "Tłumaczysz, co pacjent ma robić"],
+    "day": [["8:00", "Pierwszy pacjent: kaszel od trzech tygodni"], ["10:00", "Dziecko z gorączką, uspokajasz też mamę"], ["12:30", "Wyniki badań: jedną osobę kierujesz pilnie do szpitala"], ["15:00", "Wizyta domowa u starszej pacjentki"]],
+    "skills": [["Wiedza medyczna", "N"], ["Uważne słuchanie", "P"], ["Kojarzenie faktów", "L"], ["Podejmowanie decyzji", "L"], ["Jasne tłumaczenie", "S"], ["Wytrwałość w nauce", "N"]],
+    "plus": ["Leczysz ludzi i znasz ich latami", "Zawód stabilny i szanowany", "Ciągle uczysz się nowych rzeczy"],
+    "minus": ["Bardzo długa nauka", "Duża odpowiedzialność", "Wielu pacjentów i mało czasu na każdego"],
+    "path": ["Liceum z rozszerzoną biologią i chemią, bardzo dobra matura", "Sześć lat studiów lekarskich, potem staż i egzamin", "Kilkuletnia specjalizacja z medycyny rodzinnej"],
+    "try": "Naucz się mierzyć tętno i ciśnienie i zmierz je trzem osobom w domu. Zapytaj każdą, jak się czuje."
+  },
+  "Lekarz weterynarii": {
+    "hook": "Leczysz zwierzęta, które nie powiedzą, co je boli. Badasz, operujesz i tłumaczysz właścicielom, jak o nie dbać.",
+    "tasks": ["Badasz i diagnozujesz zwierzęta", "Szczepisz, operujesz, opatrujesz rany", "Robisz USG, rentgen i badania krwi", "Doradzasz właścicielom"],
+    "day": [["9:00", "Szczepienie szczeniaka i rozmowa o żywieniu"], ["10:30", "Kot po upadku z balkonu: rentgen"], ["13:00", "Operacja usunięcia guza u psa"], ["17:00", "Trudna rozmowa z właścicielem starego psa"]],
+    "skills": [["Wiedza o zwierzętach", "N"], ["Spostrzegawczość", "N"], ["Pewne ręce", "R"], ["Rozmowa z właścicielami", "P"], ["Opanowanie", "P"], ["Kojarzenie objawów", "L"]],
+    "plus": ["Ratujesz zwierzęta", "Każdy pacjent to inna zagadka", "Można mieć własny gabinet"],
+    "minus": ["Zwierzę może ugryźć lub podrapać", "Czasem trzeba je uśpić", "Dyżury i nagłe wezwania"],
+    "path": ["Pomagaj w schronisku albo zapytaj w lecznicy o praktyki", "Liceum z biologią i chemią", "Studia weterynaryjne: jedenaście semestrów"],
+    "try": "Przez tydzień obserwuj swoje lub cudze zwierzę i zapisuj, ile je, pije i śpi. Co uznasz za normę?"
+  },
+  "Fizjoterapeuta": {
+    "hook": "Pomagasz ludziom wrócić do sprawności po urazach, operacjach i przy bólu. Pracujesz rękami, ruchem i rozmową.",
+    "tasks": ["Badasz, jak pacjent się rusza", "Układasz plan ćwiczeń", "Prowadzisz terapię manualną i ćwiczenia", "Uczysz, co robić samodzielnie w domu"],
+    "day": [["8:00", "Pacjent po operacji kolana uczy się znowu zginać nogę"], ["10:00", "Nastolatek ze skrzywieniem kręgosłupa: ćwiczenia"], ["13:00", "Sportowiec po skręceniu kostki"], ["16:00", "Zapisujesz postępy i zmieniasz plany"]],
+    "skills": [["Znajomość anatomii", "N"], ["Sprawne ręce", "R"], ["Motywowanie ludzi", "P"], ["Cierpliwość", "P"], ["Własna kondycja", "N"], ["Obserwacja", "N"]],
+    "plus": ["Widzisz postępy pacjenta z tygodnia na tydzień", "Praca w ruchu, nie za biurkiem", "Możliwa praca ze sportowcami"],
+    "minus": ["Wysiłek fizyczny przez cały dzień", "Postępy bywają powolne", "Część pacjentów nie ćwiczy w domu"],
+    "path": ["Liceum z biologią", "Pięcioletnie jednolite studia magisterskie z fizjoterapii", "Egzamin państwowy i prawo wykonywania zawodu"],
+    "try": "Naucz kogoś z rodziny trzech ćwiczeń rozciągających na plecy i dopilnuj, żeby robił je przez tydzień."
+  },
+  "Mechanik pojazdów samochodowych": {
+    "hook": "Znajdujesz, co się zepsuło w samochodzie, i to naprawiasz. Łączysz pracę rąk z diagnostyką komputerową.",
+    "tasks": ["Podłączasz komputer i czytasz kody usterek", "Wymieniasz zużyte części", "Robisz przeglądy i wymiany oleju", "Tłumaczysz klientowi, co było nie tak"],
+    "day": [["8:00", "Auto nie odpala: zaczynasz od akumulatora"], ["10:00", "Wymiana klocków i tarcz hamulcowych"], ["13:00", "Dziwny stuk w zawieszeniu, jazda próbna"], ["16:00", "Oddajesz samochód i pokazujesz starą część"]],
+    "skills": [["Zręczne ręce", "R"], ["Rozumienie mechanizmów", "R"], ["Logiczne szukanie usterek", "L"], ["Dokładność", "R"], ["Podstawy elektroniki", "L"], ["Rozmowa z klientem", "P"]],
+    "plus": ["Efekt pracy widać od razu: auto jedzie", "Mechaników zawsze brakuje", "Można otworzyć własny warsztat"],
+    "minus": ["Brudna i fizyczna praca", "Praca w niewygodnych pozycjach", "Samochody mają coraz więcej elektroniki, trzeba się doszkalać"],
+    "path": ["Napraw własny rower albo skuter", "Szkoła branżowa lub technikum na kierunku samochodowym", "Praktyki w warsztacie, potem egzamin zawodowy"],
+    "try": "Sprawdź w rodzinnym samochodzie poziom oleju i ciśnienie w oponach. Instrukcja jest w schowku."
+  },
+  "Elektryk": {
+    "hook": "Sprawiasz, że w budynkach jest prąd i że jest bezpiecznie. Układasz instalacje, podłączasz urządzenia i szukasz usterek.",
+    "tasks": ["Układasz przewody i montujesz gniazdka", "Podłączasz rozdzielnice i zabezpieczenia", "Mierzysz instalację i szukasz zwarć", "Czytasz schematy elektryczne"],
+    "day": [["7:00", "Na budowie: plan instalacji w nowym mieszkaniu"], ["8:00", "Kucie bruzd i układanie przewodów"], ["12:00", "Montaż rozdzielnicy"], ["15:00", "Pomiary i pierwsze włączenie światła"]],
+    "skills": [["Dokładność", "R"], ["Czytanie schematów", "L"], ["Zręczne ręce", "R"], ["Znajomość zasad bezpieczeństwa", "R"], ["Logiczne myślenie", "L"], ["Brak lęku wysokości", "N"]],
+    "plus": ["Fachowiec poszukiwany wszędzie", "Konkretny, widoczny efekt", "Łatwo pracować na swoim"],
+    "minus": ["Błąd może być groźny dla życia", "Praca na budowach, często w kurzu", "Trzeba odnawiać uprawnienia"],
+    "path": ["Zbuduj prosty obwód z baterią, żarówką i wyłącznikiem", "Szkoła branżowa lub technikum elektryczne", "Uprawnienia elektryczne potwierdzone egzaminem"],
+    "try": "Znajdź w domu skrzynkę z bezpiecznikami i ustal z dorosłym, który odpowiada za które pomieszczenie."
+  },
+  "Kucharz/kucharka": {
+    "hook": "Gotujesz dla dziesiątek osób naraz, szybko i równo. Kuchnia to praca zespołowa pod presją czasu.",
+    "tasks": ["Przygotowujesz składniki przed otwarciem", "Gotujesz i wydajesz dania na czas", "Pilnujesz czystości i świeżości", "Wymyślasz i testujesz nowe dania"],
+    "day": [["10:00", "Krojenie, wywary, sosy: wszystko przed otwarciem"], ["13:00", "Pora obiadu, zamówienia wchodzą jedno po drugim"], ["16:00", "Chwila spokoju i próba nowego dania"], ["19:00", "Wieczorny szczyt, potem sprzątanie kuchni"]],
+    "skills": [["Wyczucie smaku", "R"], ["Szybkie ręce", "R"], ["Praca pod presją", "P"], ["Organizacja stanowiska", "L"], ["Współpraca w zespole", "P"], ["Estetyka podania", "O"]],
+    "plus": ["Od razu widzisz, czy ludziom smakuje", "Pracę znajdziesz na całym świecie", "Dużo miejsca na kreatywność"],
+    "minus": ["Gorąco, głośno i cały czas na nogach", "Praca wieczorami, w weekendy i święta", "Duże tempo w godzinach szczytu"],
+    "path": ["Gotuj w domu i ugotuj obiad dla sześciu osób na konkretną godzinę", "Szkoła branżowa lub technikum gastronomiczne", "Praktyki w restauracji i awans od pomocy kuchennej"],
+    "try": "Ugotuj jedno danie trzy razy w tym tygodniu, za każdym razem zmieniając jedną rzecz. Zapisz, co wyszło lepiej."
+  },
+  "Fryzjer/fryzjerka": {
+    "hook": "Strzyżesz, farbujesz i układasz włosy. Klient wychodzi od Ciebie z nowym wyglądem i lepszym humorem.",
+    "tasks": ["Ustalasz z klientem, czego chce", "Strzyżesz, farbujesz, modelujesz", "Doradzasz pielęgnację", "Dbasz o narzędzia i czystość stanowiska"],
+    "day": [["9:00", "Strzyżenie męskie: dwadzieścia minut"], ["10:00", "Koloryzacja, która zajmie trzy godziny"], ["14:00", "Klientka chce fryzurę ze zdjęcia, tłumaczysz, co się uda"], ["17:00", "Upięcie na studniówkę"]],
+    "skills": [["Zręczne ręce", "R"], ["Wyczucie stylu", "O"], ["Rozmowa z klientem", "P"], ["Cierpliwość", "P"], ["Podstawy chemii farb", "N"], ["Wytrzymałość na stanie", "N"]],
+    "plus": ["Efekt widać od razu w lustrze", "Stali klienci, którzy Cię lubią", "Można otworzyć własny salon"],
+    "minus": ["Cały dzień na stojąco", "Kontakt z chemią", "Niezadowolony klient to trudna rozmowa"],
+    "path": ["Ćwicz upięcia i warkocze na znajomych", "Szkoła branżowa lub technikum fryzjerskie", "Praktyki w salonie i egzamin zawodowy"],
+    "try": "Obejrzyj poradnik i zrób komuś jedno konkretne upięcie. Porównaj efekt ze zdjęciem."
+  },
+  "Strażak": {
+    "hook": "Jedziesz tam, skąd inni uciekają: do pożarów, wypadków i powodzi. Między akcjami ćwiczysz i dbasz o sprzęt.",
+    "tasks": ["Gasisz pożary i ratujesz ludzi", "Wycinasz poszkodowanych z rozbitych aut", "Udzielasz pierwszej pomocy", "Ćwiczysz i sprawdzasz sprzęt"],
+    "day": [["8:00", "Zmiana służby i sprawdzenie wozów"], ["10:00", "Ćwiczenia: ewakuacja z zadymionego budynku"], ["14:20", "Alarm: wypadek na drodze, wyjazd w minutę"], ["2:00", "Nocny pożar mieszkania"]],
+    "skills": [["Sprawność fizyczna", "N"], ["Opanowanie w stresie", "P"], ["Praca w zespole", "P"], ["Obsługa sprzętu", "R"], ["Pierwsza pomoc", "N"], ["Odwaga z rozsądkiem", "P"]],
+    "plus": ["Ratujesz życie", "Silna, zgrana ekipa", "Duży szacunek ludzi"],
+    "minus": ["Realne ryzyko", "Służby całodobowe", "Trudne widoki zostają w głowie"],
+    "path": ["Dołącz do młodzieżowej drużyny przy ochotniczej straży pożarnej", "Dbaj o kondycję: w naborze są testy sprawnościowe", "Nabór do służby albo szkoła pożarnicza"],
+    "try": "Sprawdź, gdzie w Twojej szkole są gaśnice i wyjścia ewakuacyjne, i przejdź najkrótszą drogę na zewnątrz."
+  },
+  "Pilot statku powietrznego": {
+    "hook": "Prowadzisz samolot lub śmigłowiec i odpowiadasz za wszystkich na pokładzie. Większość pracy to przygotowanie i procedury.",
+    "tasks": ["Planujesz lot: trasa, pogoda, paliwo", "Sprawdzasz maszynę przed startem", "Pilotujesz i rozmawiasz z kontrolą lotów", "Ćwiczysz sytuacje awaryjne na symulatorze"],
+    "day": [["5:30", "Odprawa: pogoda na trasie i lotniskach zapasowych"], ["6:15", "Obchód samolotu i listy kontrolne"], ["7:00", "Start, potem dwa odcinki z międzylądowaniem"], ["14:00", "Lądowanie i dokumentacja lotu"]],
+    "skills": [["Koncentracja", "L"], ["Opanowanie", "P"], ["Angielski lotniczy", "S"], ["Fizyka i matematyka", "L"], ["Orientacja w przestrzeni", "R"], ["Bardzo dobre zdrowie", "N"]],
+    "plus": ["Widok z kabiny", "Wyjątkowy, szanowany zawód", "Podróże"],
+    "minus": ["Kosztowne i długie szkolenie", "Nieregularne godziny i noce poza domem", "Regularne badania i egzaminy przez całą karierę"],
+    "path": ["Spróbuj lotu zapoznawczego w aeroklubie albo szybownictwa", "Badania lotniczo-lekarskie i licencja turystyczna", "Szkolenie do licencji zawodowej w szkole lotniczej lub na studiach lotniczych"],
+    "try": "Uruchom darmowy symulator lotu i spróbuj wylądować małym samolotem. Zwróć uwagę, ile rzeczy trzeba pilnować naraz."
+  }
+}

@@ -1,0 +1,180 @@
+@1410
+H: Rehabilitujesz zwierzęta po operacjach i urazach na podstawie diagnozy lub skierowania weterynarza. Stosujesz terapię fizyczną i ćwiczenia, żeby zwierzę wróciło do sprawności.
+T: Czytasz diagnozę i skierowanie od weterynarza | Układasz zestaw ćwiczeń dla zwierzęcia | Prowadzisz terapię fizyczną po operacji | Pokazujesz opiekunowi ćwiczenia do domu
+D: 9:00 Pies po operacji łapy przychodzi na pierwszą wizytę | 10:30 Ćwiczysz z nim stawianie łapy na podłożu | 13:00 Rozmawiasz z opiekunem o postępach zwierzęcia | 15:30 Dopisujesz do karty zwierzęcia plan ćwiczeń
+Y: Obserwuj przez kilka minut chód zwierzęcia lub ptaka i opisz, czy wszystkie kończyny pracują tak samo.
+
+@1411
+H: Diagnozujesz i leczysz zaburzenia słuchu i równowagi u dzieci i dorosłych, np. niedosłuch, szumy w uszach i zawroty głowy. Możesz zalecić aparat słuchowy lub ocenić, kto skorzysta z implantu.
+T: Badasz słuch pacjentów różnymi testami | Diagnozujesz przyczyny zawrotów głowy i szumów | Zalecasz aparaty słuchowe | Kwalifikujesz pacjentów do implantów słuchowych
+D: 8:00 Przyjmujesz dziecko z podejrzeniem niedosłuchu | 9:30 Badasz pacjenta ze szumem w uszach | 11:30 Dobierasz aparat słuchowy starszej osobie | 14:00 Omawiasz kwalifikację do implantu z zespołem
+Y: Posłuchaj w ciszy przez minutę i wypisz wszystkie dźwięki, które słyszysz, od najgłośniejszego do najcichszego.
+
+@1412
+H: Pomagasz ludziom w każdym wieku mówić, rozumieć innych i komunikować się, a także bezpiecznie połykać. Ćwiczysz z nimi język, mowę, głos i artykulację.
+T: Badasz mowę i rozumienie u pacjenta | Ćwiczysz z dzieckiem trudne głoski | Układasz ćwiczenia ust i języka | Pracujesz z osobami z trudnościami w połykaniu
+D: 8:30 Dziecko ćwiczy głoskę r przy lustrze z Tobą | 10:30 Badasz mowę osoby po urazie głowy | 13:00 Ćwiczysz połykanie z pacjentem w szpitalu | 15:30 Pokazujesz rodzicom zestaw ćwiczeń do domu
+Y: Powiedz przed lustrem wolno słowa chrząszcz i szczebrzeszyn i obserwuj, jak pracują usta i język.
+
+@1413
+H: Zapobiegasz chorobom zębów, jamy ustnej i szczęk, diagnozujesz je i leczysz. Pracujesz precyzyjnie w małej przestrzeni, patrząc w usta pacjenta.
+T: Badasz zęby i jamę ustną pacjenta | Leczysz uszkodzone lub chore zęby | Znieczulasz miejsce zabiegu | Tłumaczysz, jak dbać o zęby
+D: 8:00 Pierwsza wizyta: dziecko boi się fotela | 10:00 Leczysz ząb dorosłego pacjenta pod znieczuleniem | 13:00 Oglądasz zdjęcie zębów i planujesz leczenie | 16:00 Tłumaczysz pacjentowi, jak czyścić zęby nitką
+Y: Obejrzyj swoje zęby w lustrze i policz siekacze, kły i trzonowce, zapisując wynik.
+
+@1414
+H: Leczysz trudniejsze przypadki w jednej dziedzinie stomatologii, np. w chirurgii jamy ustnej, ortodoncji, periodontologii albo protetyce. Zajmujesz się tym, z czym lekarz ogólny odsyła pacjenta dalej.
+T: Oceniasz zdjęcia i skany trudnych przypadków | Planujesz leczenie w swojej specjalizacji | Zakładasz aparaty lub wykonujesz zabiegi chirurgiczne | Kontrolujesz postępy i korygujesz leczenie
+D: 8:00 Oceniasz skany zębów nastolatka przed leczeniem | 9:30 Zakładasz aparat stały i tłumaczysz zasady higieny | 12:30 Zmieniasz druty u pacjenta na kontroli | 15:00 Planujesz leczenie trudnej wady zgryzu
+Y: Zagryź zęby i sprawdź w lustrze, czy górne zęby zachodzą na dolne, i zapisz, co widzisz.
+
+@1415
+H: Badasz oczy, szukasz wad wzroku i chorób, a potem dobierasz okulary lub szkła kontaktowe. Jeśli coś niepokoi, kierujesz pacjenta do lekarza.
+T: Badasz ostrość widzenia pacjenta | Dobierasz soczewki do okularów i szkła kontaktowe | Doradzasz w sprawie problemów ze wzrokiem | Kierujesz pacjentów do lekarza przy niepokojących objawach
+D: 9:00 Badasz wzrok osoby, która ma bóle głowy przy czytaniu | 11:00 Pacjent czyta litery z tablicy, Ty zmieniasz soczewki | 14:00 Uczysz nowego użytkownika zakładania szkieł kontaktowych | 16:30 Kierujesz osobę z podejrzanym objawem do okulisty
+Y: Zasłoń jedno oko i przeczytaj mały napis z kilku metrów, potem zasłoń drugie i porównaj wyraźność.
+
+@1416
+H: Diagnozujesz i ćwiczysz widzenie obuoczne: pracujesz z zezem, niedowidzeniem i zaburzeniami ruchu oczu. Często uczysz oczy lepiej ze sobą współpracować, także u dzieci.
+T: Badasz, jak oczy współpracują ze sobą | Wykrywasz zez i niedowidzenie | Prowadzisz ćwiczenia treningu wzroku | Doradzasz rodzicom i zalecasz okulary
+D: 8:30 Dziecko śledzi zabawkę wzrokiem, Ty oceniasz ruch oczu | 10:30 Zakrywasz jedno oko i sprawdzasz, jak reaguje drugie | 13:00 Prowadzisz ćwiczenia widzenia z pacjentem | 15:00 Tłumaczysz rodzicom, jak ćwiczyć z dzieckiem w domu
+Y: Wyciągnij palec przed nos, przybliżaj go powoli i zauważ, w którym momencie zaczynasz widzieć go podwójnie.
+
+@1417
+H: Oceniasz potrzeby żywieniowe ludzi i układasz porady, które chronią lub przywracają zdrowie. Pomagasz wybierać jedzenie odżywcze, bezpieczne i smaczne.
+T: Rozmawiasz z pacjentem o jego nawykach żywieniowych | Oceniasz potrzeby żywieniowe zależnie od wieku i zdrowia | Układasz jadłospis dopasowany do problemu zdrowotnego | Tłumaczysz, jak wybierać zdrowe produkty
+D: 8:30 Pytasz pacjenta o to, co zwykle je | 10:30 Liczysz, ile białka i błonnika potrzebuje klient | 13:00 Układasz jadłospis dla nastolatka z niedowagą | 15:30 Tłumaczysz rodzinie, jak czytać etykiety
+Y: Spisz wszystkie posiłki z dzisiejszego dnia i policz porcje warzyw i owoców.
+
+@1418
+H: Sprawdzasz skład i wartość odżywczą gotowych dań, żeby były wartościowe i bezpieczne. Informujesz, co zawierają, w tym alergeny, składniki odżywcze i minerały.
+T: Oceniasz składniki i sposób produkcji dań | Badasz wartość odżywczą gotowych posiłków | Opisujesz alergeny na etykiecie | Informujesz o składzie makro- i mikroelementów
+D: 8:30 Czytasz listę składników nowego dania obiadowego | 10:30 Sprawdzasz, ile białka i soli ma porcja | 13:00 Rozmawiasz z technologami o zmianie przepisu | 15:00 Dopisujesz alergeny do etykiety
+Y: Weź etykietę z gotowego produktu i wypisz alergeny oraz trzy pierwsze składniki.
+
+@1419
+H: Leczysz zwierzęta po diagnozie weterynarza, pracując rękami i urządzeniami na tkankach miękkich. Wspierasz powrót do zdrowia, np. masując mięśnie psa albo konia.
+T: Masujesz mięśnie zwierzęcia po urazie | Stosujesz zabiegi ręczne i mechaniczne na tkankach miękkich | Czytasz diagnozę od weterynarza | Obserwujesz reakcje zwierzęcia
+D: 9:00 Pies po kontuzji czeka na masaż mięśni | 10:30 Zabieg na końskim grzbiecie w stajni | 13:30 Rozmawiasz z opiekunem o zmianach w chodzie | 15:30 Zapisujesz w karcie przebieg zabiegów
+Y: Delikatnie rozmasuj sobie przedramię kciukiem i zauważ, gdzie mięsień jest twardszy, a gdzie miękki.
+
+@1420
+H: Leczysz zwierzęta w wodzie, wykorzystując jej opór do rehabilitacji, ćwiczeń przed operacją i opieki po niej. Działasz na podstawie diagnozy lub skierowania weterynarza.
+T: Prowadzisz zwierzę przez ćwiczenia w wodzie | Dobierasz poziom oporu wody do stanu zwierzęcia | Prowadzisz ćwiczenia przed i po operacji | Pilnujesz bezpieczeństwa zwierzęcia w basenie
+D: 8:30 Przygotowujesz basen i sprawdzasz skierowania pacjentów | 9:30 Pies po operacji stawu ćwiczy chodzenie w wodzie | 12:00 Starszy pies ćwiczy kondycję, Ty stoisz obok | 15:00 Osuszasz zwierzę i zapisujesz przebieg zajęć
+Y: Poruszaj ręką w misce z wodą i w powietrzu, a potem opisz różnicę w oporze.
+
+@1421
+H: Pomagasz zwierzętom wrócić do zdrowia, pracując na podstawie diagnozy lub skierowania weterynarza. Prowadzisz terapię i rehabilitację zgodnie z jego zaleceniami.
+T: Czytasz skierowanie i zalecenia weterynarza | Prowadzisz terapię zwierzęcia krok po kroku | Obserwujesz, jak zwierzę reaguje na zabiegi | Pokazujesz opiekunowi, jak pomagać w domu
+D: 9:00 Czytasz zalecenia weterynarza dla starego kota | 10:30 Delikatnie prowadzisz zwierzę przez serię ćwiczeń | 12:30 Notujesz, jak zwierzę zniosło zabieg | 15:00 Pokazujesz opiekunowi ćwiczenia do robienia w domu
+Y: Napisz trzy zasady opieki nad zwierzęciem z bolącą łapą, np. odpoczynek, krótki spacer, kontrola u weterynarza.
+
+@1422
+H: Używasz olejków eterycznych z roślin, nakładanych na skórę i błony śluzowe, żeby poprawić samopoczucie klientów. Przy chorobach pracujesz pod nadzorem lekarza i na jego zlecenie.
+T: Dobierasz olejki eteryczne do potrzeb klienta | Wykonujesz zabiegi z olejkami na skórze | Rozmawiasz z klientem o jego samopoczuciu | Współpracujesz z lekarzem przy leczeniu chorych
+D: 9:00 Pytasz klienta o stres i sen | 10:00 Mieszasz olejki do masażu zgodnie z jego potrzebami | 12:00 Wykonujesz zabieg z olejkiem na plecach klienta | 15:00 Konsultujesz z lekarzem terapię dla chorego pacjenta
+Y: Powąchaj trzy zioła lub przyprawy z kuchni i zapisz, z czym każde się kojarzy.
+
+@1423
+H: Pomagasz fizjoterapeucie w zabiegach według ustalonych zasad, zbierasz dane o pacjentach i dbasz o sprzęt. Działasz pod nadzorem, a odpowiedzialność za leczenie ponosi osoba, która wydała skierowanie.
+T: Wykonujesz zabiegi według gotowego protokołu | Zbierasz dane o pacjentach | Dbasz o sprzęt do zabiegów | Pomagasz pacjentom przy ćwiczeniach
+D: 7:30 Przygotowujesz salę i sprawdzasz sprzęt do zabiegów | 8:30 Pomagasz pacjentowi po operacji kolana w ćwiczeniach | 11:30 Mierzysz zakres ruchu i wpisujesz wynik do karty | 14:00 Odkładasz sprzęt i zgłaszasz usterkę
+Y: Zmierz miarką, jak daleko sięgniesz rękami w przód w siadzie, i zapisz wynik.
+
+@1424
+H: Stosujesz shiatsu: dotyk i nacisk dłoni, które według tej metody regulują przepływ energii życiowej w organizmie. Oceniasz stan klienta, doradzasz w sprawie samopoczucia i uczysz, jak dbać o zdrowie.
+T: Oceniasz stan klienta według zasad shiatsu | Uciskasz punkty na ciele dłońmi | Rozciągasz i masujesz ciało klienta | Doradzasz klientowi w sprawie samopoczucia
+D: 9:00 Pytasz klienta o sen, stres i napięcie | 9:30 Oceniasz jego stan, zanim zaczniesz zabieg | 10:00 Uciskasz dłońmi punkty wzdłuż pleców klienta | 14:00 Pokazujesz klientowi proste ćwiczenia relaksacyjne
+Y: Delikatnie uciśnij kciukiem środek dłoni drugiej ręki przez pół minuty i opisz, co czujesz.
+
+@1425
+H: Uczysz klientów dynamicznej relaksacji: zestawu ćwiczeń ciała i umysłu, które zmniejszają stres. Pracujesz na zlecenie lekarza, żeby poprawić zdrowie i samopoczucie.
+T: Uczysz ćwiczeń dynamicznej relaksacji | Prowadzisz ćwiczenia fizyczne i psychologiczne | Oceniasz poziom stresu klienta | Pracujesz z lekarzem nad planem terapii
+D: 9:00 Rozmawiasz z klientem o tym, co go stresuje | 10:00 Prowadzisz grupę przez ćwiczenia rozluźniające ciało | 13:00 Uzgadniasz z lekarzem plan zajęć dla pacjenta | 15:00 Sprawdzasz, czy klient radzi sobie z napięciem
+Y: Napinaj i rozluźniaj po kolei dłonie, ramiona, brzuch i nogi po kilka sekund, a potem oceń swoje napięcie.
+
+@1426
+H: Wykonujesz masaże lecznicze, np. szwedzki, dobrane do potrzeb klienta. Chodzi o to, żeby klient czuł się po wizycie lepiej.
+T: Wybierasz rodzaj masażu dla klienta | Masujesz plecy, kark i kończyny | Pytasz klienta o preferencje i dolegliwości | Dopasowujesz siłę nacisku do potrzeb klienta
+D: 9:00 Pytasz klienta, co go boli i czego oczekuje | 9:30 Wykonujesz masaż szwedzki pleców i karku | 12:00 Dobierasz delikatniejszy masaż dla starszego klienta | 16:00 Przygotowujesz stół i bieliznę do kolejnej wizyty
+Y: Rozmasuj sobie kark i barki przez kilka minut, zmieniając siłę nacisku, i zapisz, przy której czujesz ulgę.
+
+@1427
+H: Czytasz dokumentację pacjenta i zamieniasz diagnozy, urazy i zabiegi na kody. Dzięki nim rozlicza się koszty leczenia i powstają statystyki zdrowotne.
+T: Czytasz dokumentację medyczną pacjenta | Interpretujesz orzeczenia lekarskie o chorobach i zabiegach | Przypisujesz kody klasyfikacji zdrowotnej | Sprawdzasz, czy kod pasuje do opisu leczenia
+D: 8:00 Otwierasz dokumentację pacjentów wypisanych wczoraj | 9:30 Zamieniasz opis zabiegu na odpowiedni kod | 12:00 Dzwonisz do lekarza, bo opis diagnozy jest niejasny | 14:30 Sprawdzasz kody przed rozliczeniem kosztów leczenia
+Y: Wymyśl własne kody dla pięciu przedmiotów w pokoju i zapisz zasadę ich nadawania.
+
+@1428
+H: Porządkujesz, aktualizujesz i archiwizujesz dokumentację pacjentów, żeby personel medyczny szybko do niej docierał. Przenosisz informacje z papieru do formy elektronicznej.
+T: Porządkujesz dokumentację pacjentów | Aktualizujesz karty po kolejnych wizytach | Przenosisz dane z papieru do formy elektronicznej | Archiwizujesz zakończone dokumentacje w odpowiednich miejscach
+D: 7:30 Odnosisz teczki pacjentów na oddziały | 9:00 Wpisujesz do komputera dane z papierowej karty | 11:30 Lekarz prosi o historię pacjenta, szukasz jej | 14:00 Odkładasz zakończone dokumentacje do archiwum
+Y: Uporządkuj dziesięć swoich notatek lub kartek według daty i zrób do nich spis treści.
+
+@1429
+H: Dbasz o system, do którego trafiają zdjęcia z aparatów rentgenowskich i innych urządzeń, żeby lekarze mogli je szybko otworzyć. Zajmujesz się jego codziennym działaniem i konserwacją.
+T: Pilnujesz, żeby obrazy z aparatów trafiały do systemu | Zarządzasz kopiami i archiwum obrazów | Naprawiasz usterki, gdy lekarze nie mogą otworzyć zdjęć | Konserwujesz system na co dzień
+D: 7:30 Sprawdzasz, czy nocne zdjęcia dotarły do systemu | 9:30 Lekarz zgłasza, że nie otwiera zdjęcia rezonansu | 12:00 Podłączasz nowy aparat do systemu obrazów | 15:00 Wykonujesz konserwację i kopię zapasową
+Y: Narysuj schemat drogi zdjęcia od aparatu do lekarza w czterech krokach.
+
+@1430
+H: Układasz harmonogram sal operacyjnych i listy oczekujących. Wzywasz pacjentów na operacje i pilnujesz, żeby sale były dobrze wykorzystane.
+T: Prowadzisz listy oczekujących na operacje | Planujesz terminy zajęcia sal operacyjnych | Dzwonisz do pacjentów i wzywasz ich na zabieg | Zmieniasz plan, gdy operacja trwa dłużej
+D: 7:00 Sprawdzasz plan operacji na dziś | 9:00 Dzwonisz do pacjenta, żeby przyszedł na zabieg | 12:00 Jedna operacja się przedłuża, przesuwasz kolejne | 14:30 Ustalasz grafik sal na przyszły tydzień
+Y: Rozpisz na kartce plan pięciu zabiegów w dwóch salach tak, by żadna nie czekała bezczynnie.
+
+@1431
+H: Kierujesz pracą działu dokumentacji medycznej, który przechowuje i chroni dane pacjentów. Szkolisz pracowników i wdrażasz zasady obowiązujące w placówce.
+T: Nadzorujesz pracę działu dokumentacji | Szkolisz pracowników z zasad przechowywania danych | Wdrażasz politykę działu medycznego | Pilnujesz, żeby dane pacjentów były zabezpieczone
+D: 8:00 Rozdzielasz zadania zespołowi na dzisiejszy dzień | 10:00 Szkolisz nową osobę z zasad ochrony danych | 12:30 Sprawdzasz, czy archiwum jest zamknięte i zabezpieczone | 15:00 Omawiasz z dyrekcją zmianę zasad wydawania dokumentów
+Y: Napisz trzy zasady, jak w domu przechowywać ważne dokumenty, by się nie zgubiły i nikt obcy ich nie czytał.
+
+@1432
+H: Pomagasz anestezjologowi przy znieczuleniu: przygotowujesz salę i sprzęt oraz asystujesz w trakcie znieczulenia i po nim. Działasz pod nadzorem i na polecenie lekarza.
+T: Przygotowujesz salę operacyjną do znieczulenia | Przygotowujesz sprzęt anestezjologiczny | Asystujesz lekarzowi przy podawaniu znieczulenia | Pomagasz w opiece po znieczuleniu
+D: 6:45 Sprawdzasz sprzęt na sali przed pierwszą operacją | 7:30 Podajesz lekarzowi potrzebne rzeczy przy rozpoczęciu znieczulenia | 10:00 Obserwujesz pacjenta w trakcie zabiegu | 12:30 Pomagasz pacjentowi budzącemu się po znieczuleniu
+Y: Ułóż listę kontrolną z pięciu punktów do sprawdzenia przed wyjściem z domu, jak przed znieczuleniem.
+
+@1433
+H: Wspierasz psychologa w pracy z pacjentami w placówce zdrowia lub w prywatnej praktyce. Przeprowadzasz testy psychologiczne, pomagasz w terapii i zajmujesz się dokumentami.
+T: Przeprowadzasz testy psychologiczne z pacjentami | Oceniasz stan pacjenta na podstawie wyników | Pomagasz psychologowi w prowadzeniu terapii | Prowadzisz dokumentację i umawiasz wizyty
+D: 8:30 Umawiasz pacjentów i przygotowujesz formularze testów | 10:00 Pacjent wypełnia test, Ty obserwujesz jego pracę | 12:30 Liczysz punkty testu i opisujesz wynik | 14:30 Pomagasz psychologowi w grupie wsparcia
+Y: Napisz pięć pytań do rozmowy z osobą w trudnej sytuacji, które nie oceniają, tylko zachęcają do mówienia.
+
+@1434
+H: Leczysz bóle pleców i stawów oraz inne problemy z układem mięśniowo-szkieletowym, a nawet zaburzenia trawienne. Pracujesz rękami: dotykiem, rozciąganiem, masażem i manipulacją tkankami.
+T: Badasz napięcie tkanek dotykiem | Rozciągasz i masujesz mięśnie pacjenta | Wykonujesz manipulacje tkankami ciała | Doradzasz zdrowy tryb życia
+D: 8:30 Sprawdzasz dłońmi napięcie mięśni przy bólu barku | 10:30 Rozciągasz mięśnie pleców pacjenta | 13:00 Pacjent z problemami trawienia opowiada o stylu życia | 15:30 Radzisz, jak siedzieć i rozciągać się w pracy
+Y: Połóż dłoń na karku i sprawdź, czy mięśnie po jednej stronie są bardziej napięte niż po drugiej.
+
+@1435
+H: Pomagasz dietetykowi planować jadłospisy i programy żywieniowe dla pacjentów szpitala. Oceniasz razem z nim stan pacjenta, planujesz żywienie dojelitowe i sprawdzasz wartości odżywcze.
+T: Układasz jadłospisy dla pacjentów | Pomagasz oceniać stan odżywienia pacjenta | Planujesz żywienie dojelitowe | Sprawdzasz wartości odżywcze posiłków
+D: 7:30 Sprawdzasz listę diet pacjentów na oddziale | 9:00 Układasz lekki jadłospis dla pacjenta po zabiegu | 11:30 Liczysz kalorie i białko w dzisiejszym obiedzie | 14:00 Omawiasz z dietetykiem żywienie przez sondę
+Y: Ułóż jadłospis na dzień dla osoby, która może jeść tylko miękkie potrawy, i zaznacz źródła białka.
+
+@1436
+H: Pomagasz lekarzom przy problemach z oddychaniem: obsługujesz sprzęt, którym bada się płuca i układ oddechowy. Zajmujesz się też aparatami do oddychania podczas operacji.
+T: Badasz oddech pacjentów specjalistycznym sprzętem | Obsługujesz aparaty do oddychania na operacjach | Pomagasz w leczeniu zaburzeń oddechowych | Dbasz o sprawność i czystość sprzętu
+D: 7:30 Sprawdzasz aparaty oddechowe przed operacjami | 9:00 Pacjent dmucha do aparatu, Ty zapisujesz wynik | 11:30 Podczas operacji pilnujesz pracy aparatu do oddychania | 14:30 Pomagasz pacjentowi ćwiczyć oddychanie po chorobie
+Y: Wykonaj pięć spokojnych oddechów i policz, ile sekund trwa wdech i wydech.
+
+@1437
+H: Pomagasz dentyście przy pacjencie: przygotowujesz stanowisko, podajesz narzędzia i asystujesz podczas zabiegu. Zajmujesz się też sprawami administracyjnymi w gabinecie.
+T: Przygotowujesz gabinet i narzędzia | Podajesz lekarzowi narzędzia w trakcie zabiegu | Asystujesz lekarzowi przy leczeniu pacjenta | Zajmujesz się dokumentami i rejestracją
+D: 7:45 Rozkładasz sterylne narzędzia na tacy | 8:30 Podajesz lekarzowi narzędzia, gdy leczy ząb | 11:30 Uspokajasz dziecko przed wizytą | 15:00 Wprowadzasz dane i umawiasz kolejne wizyty
+Y: Przygotuj na tacy przybory do dokładnego mycia zębów w takiej kolejności, w jakiej będą używane.
+
+@1438
+H: Czyścisz i polerujesz zęby, usuwasz kamień i nakładasz materiały ochronne. Uczysz pacjentów, jak dbać o higienę jamy ustnej, pod nadzorem dentysty.
+T: Usuwasz kamień naddziąsłowy i poddziąsłowy | Polerujesz zęby po oczyszczeniu | Nakładasz materiały zapobiegające próchnicy | Uczysz pacjenta właściwej higieny jamy ustnej
+D: 8:00 Oceniasz stan zębów i dziąseł pacjenta | 9:00 Usuwasz kamień specjalnym narzędziem | 11:30 Polerujesz zęby dziecku i nakładasz lakier ochronny | 14:30 Pokazujesz, jak prawidłowo używać nici dentystycznej
+Y: Umyj zęby, poświęcając po 20 sekund każdej z czterech części, i zapisz, które miejsca zwykle pomijasz.
+
+@1439
+H: Prowadzisz pojazd ratowniczy w nagłych wypadkach i bezpiecznie wozisz pacjentów. Pomagasz ratownikom, obserwujesz funkcje życiowe pacjenta i dbasz o sprzęt medyczny w karetce.
+T: Jedziesz karetką do miejsca wypadku | Bezpiecznie przewozisz pacjentów | Obserwujesz funkcje życiowe pacjenta w czasie jazdy | Dbasz o sprzęt medyczny w karetce
+D: 6:00 Sprawdzasz paliwo, światła i sprzęt w karetce | 9:30 Alarm: jedziesz na miejsce wypadku z ratownikami | 14:00 Pomagasz przenieść pacjenta na nosze | 21:00 Wieziesz pacjenta na szpitalny oddział ratunkowy
+Y: Zapisz, co trzeba powiedzieć dyspozytorowi pod numerem alarmowym: gdzie jesteś, co się stało, ile jest poszkodowanych.
+

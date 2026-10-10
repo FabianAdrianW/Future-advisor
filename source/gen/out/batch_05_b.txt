@@ -1,0 +1,180 @@
+@330
+H: Szukasz firm, które chcą kupić duże ilości towaru, i firm, które mogą go dostarczyć, a potem je łączysz. Zawierasz transakcje obejmujące duże partie.
+T: Szukasz hurtowych nabywców i dostawców | Sprawdzasz, czego potrzebuje każda strona | Kojarzysz kupującego z odpowiednim dostawcą | Ustalasz cenę i ilość w umowie
+D: 8:00 Przeglądasz zapytania od sklepów i firm | 10:00 Dzwonisz do dostawcy z pytaniem o dużą partię | 13:00 Negocjujesz cenę za paletę towaru | 15:30 Podpisujesz umowę na regularne dostawy
+Y: Wybierz drobny produkt z domu i oszacuj, o ile taniej powinna być sztuka przy zakupie stu sztuk naraz.
+
+@331
+H: Kupujesz i sprzedajesz na giełdzie surowce, takie jak złoto, bydło czy pszenica, na zlecenie klientów. Śledzisz ceny i popyt, żeby wiedzieć, kiedy zawrzeć transakcję.
+T: Realizujesz zlecenia kupna i sprzedaży surowców | Negocjujesz warunki sprzedaży i dostawy | Analizujesz trendy cen i popyt | Informujesz pracodawcę o sytuacji na rynku
+D: 7:30 Czytasz, jak zmieniają się ceny surowców | 9:00 Giełda startuje, realizujesz pierwsze zlecenia | 12:00 Negocjujesz warunki dostawy pszenicy | 15:30 Podliczasz transakcje i piszesz raport o rynku
+Y: Wybierz jeden surowiec, na przykład pszenicę, i zapisz trzy powody, dla których jego cena mogłaby wzrosnąć.
+
+@332
+H: Pilnujesz, żeby towary z umów z dostawcami przychodziły regularnie i na czas, zanim zabraknie ich w firmie. Planujesz, ile i kiedy zamówić.
+T: Sprawdzasz stan magazynu i zużycie towarów | Planujesz terminy kolejnych zamówień | Przypominasz dostawcom o umówionych dostawach | Reagujesz, gdy dostawa się opóźnia
+D: 8:00 Porównujesz stan magazynu z planem produkcji | 10:00 Wysyłasz zamówienie na kolejną partię materiałów | 12:30 Dostawca zawiadamia o opóźnieniu, szukasz rozwiązania | 15:00 Aktualizujesz harmonogram dostaw na następny miesiąc
+Y: Sprawdź zapasy żywności w kuchni i zapisz, czego zabraknie za trzy dni.
+
+@333
+H: Kupujesz dla producentów wyrobów włókienniczych materiały na różnych etapach, od włókien po gotowe tkaniny. Oceniasz, co spełnia potrzeby produkcji.
+T: Oceniasz próbki tkanin dotykiem i wzrokiem | Porównujesz oferty dostawców włókien i tkanin | Zamawiasz materiały dla producenta | Pilnujesz terminów i jakości dostaw
+D: 8:30 Oglądasz nowe próbki tkanin od dostawców | 10:30 Porównujesz ceny dwóch dostawców bawełny | 13:00 Dzwonisz do fabryki w sprawie opóźnionej partii | 15:00 Składasz zamówienie na materiał do nowej kolekcji
+Y: Porównaj dotykiem trzy tkaniny w domu, na przykład koszulkę, ręcznik i dżinsy, i opisz różnice.
+
+@334
+H: Kupujesz dla firmy sprzęt i usługi informatyczne oraz telekomunikacyjne, od zamówienia po fakturę. Negocjujesz z dostawcami cenę, jakość i warunki dostawy.
+T: Przygotowujesz zamówienia na sprzęt i usługi | Porównujesz oferty dostawców technologii | Negocjujesz cenę, jakość i termin dostawy | Sprawdzasz faktury i odbiór zamówionych rzeczy
+D: 8:30 Zbierasz od zespołów listę potrzebnego sprzętu | 10:30 Porównujesz oferty dwóch dostawców usług | 13:00 Negocjujesz z dostawcą cenę i poziom usług | 15:30 Zestawiasz fakturę z zamówieniem i odbiorem
+Y: Zapisz pięć wymagań, jakie powinien spełniać telefon dla ucznia, i uszereguj je od najważniejszego.
+
+@335
+H: Kupujesz surowe ziarna kawy od producentów z całego świata dla palarni. Znasz drogę kawy od owocu do filiżanki i na tej podstawie wybierasz partie warte kupienia.
+T: Szukasz producentów kawy na świecie | Oceniasz próbki ziaren i ich jakość | Negocjujesz cenę i wielkość partii | Uzgadniasz z palarnią, jakiej kawy potrzebuje
+D: 8:00 Rozpakowujesz próbki ziaren przysłane z zagranicy | 10:00 Oglądasz ziarna i oceniasz ich jakość | 13:00 Rozmawiasz z producentem o cenie partii | 16:00 Wysyłasz palarni zestawienie wybranych kaw
+Y: Przeczytaj na opakowaniu kawy lub herbaty w domu kraj pochodzenia i znajdź go na mapie.
+
+@336
+H: Wybierasz i kupujesz dla firmy materiały, towary lub usługi, a dostawców dobierasz w przetargach. Porównujesz oferty i sprawdzasz, kto da lepszą cenę i warunki.
+T: Zbierasz zapotrzebowania od działów firmy | Ogłaszasz przetarg i zbierasz oferty | Porównujesz oferty dostawców | Wybierasz dostawcę i składasz zamówienie
+D: 8:00 Dostajesz listę potrzeb od magazynu | 10:00 Wysyłasz zapytanie ofertowe do kilku dostawców | 13:00 Porównujesz przysłane oferty w tabeli | 15:00 Wybierasz dostawcę i składasz zamówienie
+Y: Porównaj w domu dwa podobne produkty, na przykład dwa długopisy, i wybierz lepszy, wypisując trzy kryteria.
+
+@337
+H: Kupujesz i wypożyczasz tkaniny, nici, dodatki i gotowe ubrania do kostiumów, według szkiców kostiumografa. Dzięki tobie kostiumy mogą zostać uszyte lub skompletowane na czas.
+T: Czytasz szkice kostiumografa i listy potrzeb | Szukasz tkanin, nici i dodatków | Kupujesz lub wypożyczasz gotowe ubrania | Pilnujesz budżetu i terminów zakupów
+D: 9:00 Omawiasz z kostiumografem szkice nowych kostiumów | 11:00 Szukasz w sklepie tkaniny o właściwym kolorze | 14:00 Wypożyczasz gotowe płaszcze z wypożyczalni | 17:00 Zapisujesz wydatki i układasz paragony
+Y: Wybierz postać z ulubionego filmu i wypisz tkaniny, kolory i dodatki z jej stroju.
+
+@338
+H: Czytasz scenariusz i ustalasz, jakie rekwizyty i dekoracje są potrzebne w każdej scenie, a potem je kupujesz, wypożyczasz lub zlecasz wykonanie. Pilnujesz, żeby wyglądały wiarygodnie w danej epoce i miejscu.
+T: Analizujesz scenariusz scena po scenie | Konsultujesz się ze scenografem i ekipą rekwizytorów | Kupujesz, wypożyczasz lub zlecasz wykonanie rekwizytów | Sprawdzasz, czy przedmioty pasują do epoki
+D: 9:00 Czytasz scenę i zaznaczasz potrzebne przedmioty | 11:00 Omawiasz ze scenografem wygląd kuchni z lat siedemdziesiątych | 14:00 Szukasz w antykwariacie krzesła pasującego do epoki | 16:30 Zamawiasz u stolarza rekwizyt, którego nie da się kupić
+Y: Wybierz scenę z książki i wypisz dziesięć przedmiotów, które musiałyby stać na planie, żeby wyglądała wiarygodnie.
+
+@339
+H: Oceniasz jakość, ilość i wartość drewna oraz wyrobów z drewna, a potem kupujesz je dla firmy lub organizujesz jego sprzedaż. Wiesz, jak rozpoznać dobre drewno i ile jest warte na rynku.
+T: Oceniasz jakość i ilość drewna | Sprawdzasz aktualne ceny drewna na rynku | Negocjujesz cenę zakupu z dostawcami drewna | Zamawiasz drewno i organizujesz jego odbiór
+D: 7:30 Jedziesz na skład obejrzeć partię desek | 9:30 Oceniasz słoje, sęki i pęknięcia w deskach | 12:30 Negocjujesz cenę zakupu z dostawcą | 15:00 Zamawiasz transport zakupionej partii do firmy
+Y: Obejrzyj drewniany mebel lub deskę w domu i wypisz widoczne słoje, sęki i pęknięcia.
+
+@340
+H: Oceniasz, jak duże jest ryzyko, że firma poniesie szkodę, i decydujesz, czy i na jakich zasadach ją ubezpieczyć. Sprawdzasz też stan nieruchomości firmy.
+T: Analizujesz dane od potencjalnego klienta | Sprawdzasz stan budynków i majątku firmy | Oceniasz, jak prawdopodobne jest zgłoszenie szkody | Przygotowujesz warunki umowy ubezpieczenia
+D: 8:30 Czytasz dokumenty firmy, która chce ubezpieczenia | 10:30 Oglądasz magazyn klienta i zabezpieczenia przeciwpożarowe | 13:30 Wyliczasz ryzyko szkody i proponowaną składkę | 15:30 Przedstawiasz klientowi warunki polisy
+Y: Wybierz sklep w okolicy i wypisz pięć zdarzeń, które mogłyby spowodować w nim szkodę, oraz jak ich uniknąć.
+
+@341
+H: Oceniasz, jakie ryzyko grozi majątkowi klienta, i ustalasz, na jaką kwotę i od czego go ubezpieczyć. Sprawdzasz też, czy warunki polisy zgadzają się z przepisami.
+T: Szacujesz wartość domu, mieszkania lub majątku | Oceniasz zagrożenia, na przykład powódź czy kradzież | Ustalasz zakres ochrony w polisie | Sprawdzasz zgodność warunków z przepisami
+D: 8:30 Czytasz zgłoszenie klienta z opisem domu | 10:30 Sprawdzasz, czy dom leży w strefie zagrożonej powodzią | 13:00 Ustalasz zakres ochrony i sumę ubezpieczenia | 15:00 Weryfikujesz zapisy polisy z przepisami
+Y: Spisz pięć najcenniejszych rzeczy w swoim pokoju i oszacuj, od czego najłatwiej mogłyby ulec zniszczeniu.
+
+@342
+H: Doradzasz klientom, jakie ubezpieczenie naprawdę im się przyda, i szukasz dla nich najlepszej oferty u kilku towarzystw. Negocjujesz warunki polisy w ich imieniu.
+T: Pytasz klienta, czego chce chronić | Porównujesz oferty towarzystw ubezpieczeniowych | Negocjujesz warunki i zakres polisy | Tłumaczysz, co polisa obejmuje, a czego nie
+D: 9:00 Klient opowiada, jak chce zabezpieczyć rodzinę | 11:00 Porównujesz oferty trzech towarzystw ubezpieczeniowych | 13:30 Dzwonisz do ubezpieczyciela i negocjujesz warunki polisy | 16:00 Wyjaśniasz klientowi, czego polisa nie obejmuje
+Y: Zapisz trzy sytuacje podczas wakacyjnego wyjazdu, w których przydałoby się ubezpieczenie, i krótko je opisz.
+
+@343
+H: Badasz, jakie ryzyko finansowe wiąże się z ubezpieczeniem danego przedmiotu, nieruchomości lub terenu. Wyniki opisujesz w sprawozdaniu dla ubezpieczyciela.
+T: Zbierasz informacje o ubezpieczanym majątku | Sprawdzasz zapisy o szkodach w danym miejscu | Szacujesz możliwą wielkość strat | Piszesz sprawozdanie z oceną ryzyka
+D: 8:30 Zbierasz informacje o terenie, który ma być ubezpieczony | 10:30 Sprawdzasz zapisy o szkodach w tej okolicy | 13:00 Liczysz, jak duże straty mogłyby wystąpić | 15:30 Piszesz sprawozdanie dla ubezpieczyciela
+Y: Sprawdź w internecie, jakie zjawiska pogodowe najczęściej szkodzą w Twojej okolicy, i zapisz trzy.
+
+@344
+H: Sprzedajesz produkty lub usługi swojej firmy innym firmom i organizacjom. Opowiadasz o ofercie, odpowiadasz na pytania i starasz się zdobyć zamówienie.
+T: Umawiasz spotkania z firmami | Przedstawiasz ofertę i odpowiadasz na pytania | Dowiadujesz się, czego potrzebuje klient | Przekazujesz zamówienie do realizacji
+D: 8:30 Dzwonisz do firm i umawiasz spotkania | 10:30 Jedziesz do klienta z próbkami produktów | 12:00 Prezentujesz ofertę i słuchasz zastrzeżeń | 16:00 Wpisujesz zamówienia i planujesz kolejne wizyty
+Y: Wybierz przedmiot z biurka i opowiedz na głos w minutę, komu i do czego mógłby się przydać.
+
+@345
+H: Sprawdzasz, ile energii elektrycznej potrzebuje klient, i przekonujesz go do zakupu prądu od firmy, którą reprezentujesz. Negocjujesz z nim warunki sprzedaży.
+T: Pytasz klienta, na co zużywa energię | Szacujesz jego roczne zapotrzebowanie na energię | Przedstawiasz ofertę swojej firmy | Negocjujesz warunki umowy
+D: 9:00 Analizujesz zużycie energii w firmie klienta | 11:00 Spotykasz właściciela małej hali produkcyjnej | 13:00 Tłumaczysz różnice między swoją ofertą a obecną | 15:30 Negocjujesz warunki i wysyłasz projekt umowy
+Y: Napisz trzyzdaniową propozycję dla rodziny, jak w domu oszczędzać energię, i uzasadnij każdy pomysł.
+
+@346
+H: Dowiadujesz się, ile energii potrzebuje klient, i przekonujesz go do kupowania jej ze źródeł odnawialnych, takich jak słońce czy wiatr. Promujesz dostawców zielonej energii i produkty na niej oparte.
+T: Oceniasz zapotrzebowanie klienta na energię | Przedstawiasz zalety energii odnawialnej | Promujesz dostawców i produkty z odnawialnych źródeł | Odpowiadasz na wątpliwości klientów co do kosztów
+D: 8:30 Przygotowujesz ofertę dla firmy z dużym dachem | 10:30 Wyjaśniasz kierownikowi, skąd bierze się energia z wiatru | 13:00 Odpowiadasz na pytania o koszty i zwrot inwestycji | 15:30 Dzwonisz do klientów, którzy rozważają zmianę dostawcy
+Y: Narysuj prosty schemat, jak słońce lub wiatr zamieniają się w energię dla domu, i opisz go w trzech zdaniach.
+
+@347
+H: Odpowiadasz za cały duży sklep z wieloma działami: za pracę ludzi, sprzedaż i obsługę klientów. Podejmujesz decyzje o pracownikach, zamówieniach i organizacji sklepu.
+T: Układasz grafik i zadania dla kierowników działów | Czytasz raporty sprzedaży z wszystkich działów | Rozwiązujesz poważne skargi klientów | Decydujesz o organizacji i wyglądzie sklepu
+D: 8:00 Zebranie z kierownikami działów przed otwarciem | 10:00 Obchodzisz sklep i oglądasz wystawy | 13:00 Rozmawiasz z klientem, który złożył skargę | 16:00 Analizujesz sprzedaż z całego dnia
+Y: Narysuj plan wymyślonego sklepu z czterema działami i zapisz, które powinny być blisko wejścia.
+
+@348
+H: Odpowiadasz za działanie całego supermarketu i jego pracowników, od dostaw przez półki po kasy. Pilnujesz, żeby półki były pełne, kasy działały, a pracownicy wiedzieli, co mają robić.
+T: Sprawdzasz dostawy i stan półek | Układasz grafik pracy kasjerów i magazynierów | Reagujesz na braki towaru i awarie | Rozmawiasz z dostawcami o terminach i cenach
+D: 6:00 Przyjeżdżasz przed otwarciem i sprawdzasz dostawy | 8:00 Otwierasz sklep, na kasach brakuje ludzi | 12:00 Awaria chłodni, organizujesz przeniesienie towaru | 15:00 Liczysz utarg i planujesz grafik na kolejny tydzień
+Y: Zaplanuj w zeszycie grafik dla pięciu pracowników sklepu na jeden dzień tak, by przy kasach zawsze ktoś był.
+
+@349
+H: Odpowiadasz za jeden dział w domu towarowym, na przykład odzież lub zabawki: za jego ludzi, towar i wygląd. Pilnujesz, żeby dział miał towar i obsadę.
+T: Układasz grafik sprzedawców w swoim dziale | Zamawiasz towar i ustawiasz go na półkach | Pomagasz sprzedawcom przy trudnych klientach | Sprawdzasz, ile dział sprzedaje danego dnia
+D: 8:30 Sprawdzasz wyniki wczorajszej sprzedaży i zamawiasz towar | 10:00 Razem ze sprzedawcami zmieniasz wystawę działu | 14:00 Klient żąda zwrotu, tłumaczysz zasady | 17:00 Liczysz utarg działu i zamykasz stoisko
+Y: Wybierz jedną półkę w domu i przestaw rzeczy tak, by najczęściej używane były najłatwiejsze do chwycenia.
+
+@350
+H: Prowadzisz niewielki wyspecjalizowany sklep, na przykład ze sprzętem sportowym czy zabawkami: odpowiadasz za sprzedawców i za to, żeby sklep zarabiał. Często stajesz też za ladą.
+T: Zamawiasz towar do sklepu | Układasz grafik pracy sprzedawców | Rozmawiasz z klientami i doradzasz | Podliczasz dzień i zamykasz kasę
+D: 8:30 Otwierasz sklep i rozpakowujesz poranną dostawę | 11:00 Doradzasz klientowi przy wyborze produktu | 14:00 Dostawca się spóźnia, dzwonisz i ustalasz nowy termin | 18:30 Podliczasz kasę i zamykasz sklep
+Y: Wymyśl mały sklep specjalistyczny i opisz w trzech zdaniach, co w nim sprzedajesz i komu.
+
+@351
+H: Jesteś głównym kontaktem firmy dla wybranych klientów: sprzedajesz im produkty lub usługi i utrzymujesz z nimi relację przez lata. Znasz ich potrzeby, proponujesz rozwiązania i przygotowujesz umowy.
+T: Rozmawiasz z klientem o jego potrzebach | Proponujesz produkty i usługi firmy | Przygotowujesz umowy i warunki współpracy | Odpowiadasz na pytania klientów po sprzedaży
+D: 9:00 Sprawdzasz notatki przed rozmową z klientem | 10:30 Dzwonisz do klienta, który ma problem z usługą | 13:00 Przedstawiasz klientowi nową ofertę na wideorozmowie | 15:30 Piszesz projekt umowy na kolejny rok
+Y: Zapytaj domownika, z czym ma kłopot w codziennym życiu, i zaproponuj mu jedno rozwiązanie.
+
+@352
+H: Odpowiadasz za wiele sklepów lub oddziałów w jednym regionie i za ich kierowników. Jeździsz po placówkach, porównujesz wyniki i decydujesz, co zmienić.
+T: Jeździsz po sklepach w swoim regionie | Porównujesz wyniki sprzedaży placówek | Rozmawiasz z kierownikami o problemach | Ustalasz cele sprzedaży na kolejny okres
+D: 7:30 Jedziesz do pierwszego sklepu w regionie | 9:00 Oglądasz sklep razem z jego kierownikiem | 13:00 Porównujesz wyniki sprzedaży wszystkich placówek | 16:00 Na zebraniu online ustalasz cele na kolejny kwartał
+Y: Wybierz dwa sklepy w okolicy lub w internecie i wypisz trzy różnice w tym, jak prezentują towar.
+
+@353
+H: Pomagasz kierownikom marketingu w codziennych sprawach: przygotowujesz zestawienia dla innych działów i organizujesz ludzi do zadań. Pilnujesz, żeby na każde działanie ktoś był przydzielony.
+T: Przygotowujesz sprawozdania z działań marketingowych | Wysyłasz zestawienia do księgowości i finansów | Pilnujesz, żeby na zadania byli ludzie | Wspierasz kierownika przy organizacji kampanii
+D: 8:30 Zbierasz wyniki wczorajszej kampanii do raportu | 10:30 Wysyłasz zestawienie kosztów do księgowości | 12:30 Ustalasz, kto z zespołu zajmie się sesją zdjęciową | 15:00 Rezerwujesz salę na spotkanie z klientem
+Y: Zapisz w tabelce pięć zadań do zorganizowania urodzin i przypisz każde innej osobie.
+
+@354
+H: Planujesz, jak firma ma sprzedawać swoje produkty i usługi przez internet, i pilnujesz, żeby ten plan działał. Sprawdzasz, jak idzie sprzedaż w sieci, i poprawiasz to, co nie działa.
+T: Układasz strategię sprzedaży przez internet | Sprawdzasz, czy dane o produktach są spójne | Śledzisz wyniki sprzedaży w sklepie internetowym | Ustalasz z marketingiem i sprzedażą wspólne cele
+D: 9:00 Oglądasz wyniki sklepu internetowego z weekendu | 11:00 Znajdujesz sprzeczne opisy tego samego produktu | 13:00 Spotykasz się z zespołem marketingu w sprawie promocji | 15:30 Zmieniasz plan, bo jedna strona sprzedaje słabo
+Y: Wejdź na stronę dowolnego sklepu internetowego i wypisz trzy rzeczy, które ułatwiają lub utrudniają kupowanie.
+
+@355
+H: Doradzasz firmom, jak wprowadzić na rynek markę lub produkt i jak sprawić, żeby klienci widzieli firmę tak, jak ona chce. Najpierw badasz, jak firma jest postrzegana dzisiaj.
+T: Badasz, jak klienci widzą firmę | Ustalasz cel kampanii razem z klientem | Opracowujesz strategię wprowadzenia produktu | Przedstawiasz klientowi plan działania
+D: 9:00 Czytasz wyniki ankiety wśród klientów firmy | 11:00 Rozmawiasz z właścicielem o celu nowej kampanii | 13:30 Szkicujesz plan wprowadzenia nowego produktu | 16:00 Prezentujesz klientowi plan na spotkaniu
+Y: Zapytaj trzy osoby, z czym kojarzy im się jeden sklep w okolicy, i zapisz odpowiedzi.
+
+@356
+H: Promujesz produkty i marki w internecie: przez e-maile, strony i media społecznościowe. Sprawdzasz, co przyciąga ludzi, i według tego zmieniasz kolejne posty i wiadomości.
+T: Planujesz posty w mediach społecznościowych | Wysyłasz wiadomości e-mail do klientów | Sprawdzasz, ile osób klika w reklamę | Poprawiasz treści na podstawie wyników
+D: 9:00 Oglądasz statystyki wczorajszych postów i reklam | 10:30 Wymyślasz temat nowego newslettera | 13:00 Planujesz posty na cały tydzień | 15:30 Zmieniasz tytuł e-maila, bo mało osób go otwiera
+Y: Zaplanuj w zeszycie jeden tydzień postów dla wymyślonej kawiarni: temat i dzień publikacji.
+
+@357
+H: Wybierasz, gdzie reklama ma się pojawić: w telewizji, radiu, internecie czy na billboardach, żeby trafiła do właściwych ludzi. Oceniasz, który kanał najlepiej pasuje do przekazu.
+T: Analizujesz plan reklamowy i cel kampanii | Porównujesz kanały komunikacji i ich zasięg | Oceniasz, który kanał przyniesie najwięcej odpowiedzi | Doradzasz klientowi, gdzie kupić miejsce na reklamę
+D: 9:00 Czytasz cele kampanii nowego produktu | 11:00 Porównujesz zasięg radia i serwisów internetowych | 13:30 Liczysz, ile osób z grupy docelowej zobaczy reklamę | 16:00 Przedstawiasz klientowi plan z podziałem na kanały
+Y: Wybierz produkt dla nastolatków i zapisz trzy miejsca, w których warto go reklamować, z krótkim uzasadnieniem.
+
+@358
+H: Wspierasz promocje w sklepach i innych punktach sprzedaży: zbierasz informacje, czy dana promocja ma sens, a jeśli tak, zdobywasz materiały do jej przeprowadzenia. Pomagasz kadrze kierowniczej podjąć decyzję.
+T: Zbierasz informacje o sprzedaży i cenach | Sprawdzasz, czy promocja jest potrzebna | Zamawiasz plakaty, stojaki i inne materiały | Sprawdzasz w sklepach, jak przebiega promocja
+D: 8:30 Zbierasz dane o sprzedaży produktu przed promocją | 10:30 Przygotowujesz dla kierownika krótką notatkę z wnioskami | 13:00 Zamawiasz plakaty i stojaki do sklepów | 15:00 Jedziesz do sklepu i sprawdzasz, jak wygląda ekspozycja
+Y: Zrób plakat promocyjny na kartce dla wymyślonego produktu, z ceną, hasłem i jednym obrazkiem.
+
+@359
+H: Wymyślasz teksty i hasła reklamowe: krótkie, zapamiętywalne zdania, które mają sprzedać produkt albo markę. Pracujesz z grafikiem, który dopasowuje do nich obraz.
+T: Wymyślasz slogany i hasła reklamowe | Piszesz teksty reklam do druku i radia | Skracasz i poprawiasz zdania, aż brzmią dobrze | Omawiasz pomysły z grafikiem reklamowym
+D: 9:00 Dostajesz opis nowego produktu i grupy odbiorców | 10:00 Zapisujesz kilkadziesiąt pomysłów na hasło | 13:00 Pokazujesz trzy najlepsze grafikowi reklamowemu | 16:00 Poprawiasz tekst po uwagach klienta
+Y: Wymyśl trzy hasła reklamowe dla zwykłego przedmiotu z biurka, każde nie dłuższe niż sześć słów.
+

@@ -1,0 +1,180 @@
+@450
+H: Sprzedajesz towary i usługi w stałych miejscach na ulicach i rynkach albo na ustalonej trasie. Pracujesz na dworze, więc pogoda i dobre miejsce decydują o tym, ilu klientów zatrzymasz.
+T: Rozkładasz towar w stałym miejscu | Zagadujesz ludzi mijających twoje stoisko | Przyjmujesz zapłatę i wydajesz resztę | Obchodzisz stałą trasę i szukasz klientów
+D: 7:30 Docierasz na swoje miejsce i rozkładasz towar | 9:00 Poranny ruch, ludzie śpieszą się do pracy | 13:00 Zaczyna padać, szybko przykrywasz towar | 17:30 Zbierasz towar i liczysz dzienny utarg
+Y: Zastanów się, gdzie w okolicy przechodzi najwięcej ludzi, i zapisz trzy powody wyboru miejsca na stoisko.
+
+@451
+H: Kierujesz zespołem menedżerów, którzy odpowiadają za poszczególne obszary lotniska, programy i projekty. Dbasz, żeby cały port działał sprawnie, bezpiecznie i w budżecie.
+T: Nadzorujesz menedżerów poszczególnych obszarów lotniska | Zatwierdzasz plany i projekty rozwoju portu | Omawiasz z zespołem problemy operacyjne | Pilnujesz budżetu i bezpieczeństwa portu
+D: 7:30 Odprawa z szefami obsługi naziemnej i operacji | 10:00 Burza opóźnia loty, decydujesz o planie awaryjnym | 13:30 Spotkanie z finansami o budżecie nowego terminalu | 17:00 Obchód hali odlotów i rozmowa z pracownikami
+Y: Narysuj prosty plan lotniska z odprawą, bagażami i wyjściem do samolotów i zaznacz możliwe zatory.
+
+@452
+H: Kierujesz projektami przesyłu towarów rurociągami. Nadzorujesz planowanie, wybór trasy i codzienną pracę, a do tego układasz długoterminową wizję rozwoju sieci.
+T: Planujesz trasy nowych rurociągów | Zarządzasz zasobami i budżetem projektu | Nadzorujesz codzienną pracę sieci | Opracowujesz plan rozwoju na wiele lat
+D: 8:00 Przeglądasz raporty z całej sieci rurociągów | 10:30 Spotkanie projektowe o trasie nowego odcinka | 13:30 Rozmowa z kierownikiem eksploatacji o problemie w sieci | 16:00 Aktualizujesz długoterminowy plan rozbudowy sieci
+Y: Narysuj mapę trasy rurociągu między dwoma punktami i zaznacz trzy przeszkody, które trzeba ominąć.
+
+@453
+H: Dbasz o to, żeby film lub serial trafił do kin, telewizji i na nośniki, a stamtąd do widzów. Koordynujesz dystrybucję i nadzorujesz sprzedaż.
+T: Koordynujesz dystrybucję filmów i seriali | Negocjujesz z kinami i stacjami emisję | Nadzorujesz sprzedaż filmów na nośnikach | Planujesz premiery w różnych miejscach
+D: 9:00 Sprawdzasz, ile kopii filmu trafiło do kin | 11:00 Rozmowa ze stacją telewizyjną o emisji serialu | 14:00 Analizujesz sprzedaż płyt z ostatniego miesiąca | 16:30 Ustalasz datę premiery w kolejnych krajach
+Y: Ułóż plan premiery ulubionego filmu: w jakich miejscach go pokazać i w jakiej kolejności.
+
+@454
+H: Decydujesz, jak towary są przechowywane i przewożone, żeby trafiły we właściwe miejsce na czas i w rozsądnej cenie. Odpowiadasz za cały łańcuch dostaw firmy.
+T: Planujesz magazynowanie i dystrybucję towarów | Wybierasz usługi i firmy transportowe | Pilnujesz terminów i kosztów dostaw | Dopilnowujesz przepisów w pracy magazynu
+D: 7:00 Sprawdzasz, które dostawy mają dziś opóźnienie | 9:30 Rozmowa z przewoźnikiem o tańszej trasie | 12:00 Spotkanie z kierownikiem magazynu o braku miejsca | 15:00 Przeliczasz koszty dostaw do nowego regionu
+Y: Narysuj pięć punktów na kartce i połącz je najkrótszą trasą dostawy, zaczynając od magazynu.
+
+@455
+H: Organizujesz codzienną pracę dworca: utrzymanie budynku i wyposażenia oraz bezpieczeństwo podróżnych. Odpowiadasz też za pracowników stacji, których bywa wielu.
+T: Organizujesz sprzątanie, konserwację i naprawy dworca | Dbasz o bezpieczeństwo i komfort pasażerów | Kierujesz pracownikami stacji | Pilnujesz, jak działają sklepy w budynku
+D: 5:30 Obchód dworca przed pierwszymi pociągami | 8:00 Zgłoszenie o zepsutej windzie, organizujesz naprawę | 12:00 Rozmowa z najemcą kiosku w hali | 16:30 Odprawa z ochroną przed wieczornym szczytem
+Y: Zapisz pięć rzeczy, które sprawiają, że dworzec lub przystanek jest wygodny i bezpieczny dla pasażerów.
+
+@456
+H: Koordynujesz ludzi, samochody i terminy w firmie, która przewozi rzeczy z miejsca na miejsce. Ustalasz z klientami, czego potrzebują, i pilnujesz, żeby ekipy pracowały zgodnie z przepisami.
+T: Ustalasz z klientem zakres przeprowadzki | Przydzielasz ekipy i samochody do zleceń | Kontaktujesz się z firmami dostawczymi | Pilnujesz przepisów i zadowolenia klientów
+D: 7:00 Rozdzielasz ekipy i samochody na dzisiejsze zlecenia | 9:30 Rozmowa z klientem o dodatkowych kartonach | 13:00 Ekipa dzwoni, że winda w bloku nie działa | 16:30 Układasz grafik ekip na przyszły tydzień
+Y: Rozpisz dla czterech osób i dwóch samochodów, kto co robi podczas przeprowadzki jednego mieszkania.
+
+@457
+H: Koordynujesz planowanie obsługi naziemnej, techniczną obsługę samolotów i obsługę klientów, żeby zasoby były dobrze wykorzystane. Na co dzień pilnujesz bezpieczeństwa, jakości i ryzyka.
+T: Koordynujesz planowanie obsługi naziemnej samolotów | Planujesz obsługę techniczną statków powietrznych | Pilnujesz bezpieczeństwa i oceniasz ryzyko | Porównujesz wyniki z innymi instytucjami żeglugi powietrznej
+D: 6:00 Sprawdzasz plan dzisiejszych lotów i dostępne zasoby | 9:00 Przydzielasz obsługę naziemną do opóźnionego samolotu | 13:00 Narada o ryzyku po zgłoszeniu incydentu | 16:00 Porównujesz wyniki dnia z innymi instytucjami
+Y: Rozpisz, co trzeba zrobić między lądowaniem a kolejnym startem samolotu, w sześciu krokach.
+
+@458
+H: Decydujesz w imieniu firm, czy towar może przejść przez granicę, i pilnujesz zgodności z przepisami. Pośredniczysz między importerami a urzędami oraz liczysz podatki i opłaty.
+T: Zatwierdzasz lub odrzucasz przepływ towarów przez granicę | Sprawdzasz zgodność przesyłki z przepisami | Obliczasz podatki i opłaty celne | Rozmawiasz z urzędnikami w imieniu firmy
+D: 8:00 Czytasz dokumenty przesyłki, która stoi na granicy | 10:00 Urzędnik pyta o brakujący certyfikat towaru | 12:30 Liczysz cło i podatek dla importera | 15:00 Informujesz firmę, że ładunek może przejechać
+Y: Wypisz cztery informacje, które urzędnik musi znać o towarze przywożonym z zagranicy.
+
+@459
+H: Pilnujesz, żeby przesyłki jechały przez kilka krajów bez opóźnień i bez problemów z papierami. Rozwiązujesz kłopoty z transportem i znasz przepisy przywozu i wywozu.
+T: Monitorujesz międzynarodowe przesyłki | Rozwiązujesz problemy z transportem | Załatwiasz formalności przywozowe i wywozowe | Koordynujesz łańcuch dostaw w kilku krajach
+D: 7:30 Sprawdzasz, gdzie są dziś ciężarówki w trzech krajach | 10:00 Przesyłka stoi na granicy, szukasz brakującego dokumentu | 13:00 Rozmowa z klientem o nowych przepisach wywozu | 16:00 Zmieniasz trasę, bo prom jest odwołany
+Y: Sprawdź na mapie, którędy ciężarówka przejedzie z Polski do Hiszpanii, i wypisz kraje po drodze.
+
+@460
+H: Planujesz i organizujesz przewóz ładunków po kraju i za granicą. Szukasz przewoźnika, negocjujesz warunki i informujesz klienta o kosztach.
+T: Szukasz przewoźnika do danego ładunku | Negocjujesz cenę i sposób wysyłki | Planujesz drogę ładunku do odbiorcy | Informujesz klientów o warunkach i kosztach
+D: 8:00 Klient pyta o przewóz dziesięciu palet | 10:00 Dzwonisz do trzech przewoźników i porównujesz oferty | 13:00 Dobierasz transport do ładunku wymagającego specjalnych przepisów | 16:00 Informujesz odbiorcę o planowanej godzinie dostawy
+Y: Wymyśl, czym i którędy przewieźć sto kartonów mleka z Gdańska do Krakowa, i zapisz plan.
+
+@461
+H: Dbasz, żeby przewóz niebezpiecznych towarów odbywał się zgodnie z europejskimi przepisami. Kontrolujesz firmy, piszesz zalecenia i badasz naruszenia bezpieczeństwa.
+T: Kontrolujesz, czy transport spełnia przepisy | Piszesz zalecenia dla firmy przewozowej | Przygotowujesz raporty bezpieczeństwa | Badasz naruszenia zasad bezpieczeństwa
+D: 8:30 Sprawdzasz dokumenty ciężarówki z towarem niebezpiecznym | 11:00 Rozmowa z kierowcą o prawidłowym oznakowaniu ładunku | 14:00 Piszesz zalecenia po kontroli magazynu | 16:30 Analizujesz zgłoszenie o naruszeniu zasad przewozu
+Y: Wypisz pięć znaków ostrzegawczych, które znasz ze szkoły, i opisz, przed czym ostrzegają.
+
+@462
+H: Zatwierdzasz i kontrolujesz loty komercyjne zgodnie z przepisami państwa i firmy. Przygotowujesz dokumenty lotu i reagujesz na opóźnienia, odwołania i zmiany planu.
+T: Zatwierdzasz plan lotu przed startem | Przygotowujesz dokumentację każdego lotu | Reagujesz na opóźnienia i odwołane loty | Zmieniasz rozkłady i plany lotów
+D: 5:00 Sprawdzasz pogodę i plan pierwszych porannych lotów | 8:00 Zatwierdzasz dokumenty lotu przed odprawą załogi | 12:00 Burza nad lotniskiem, zmieniasz plan kilku lotów | 20:00 Przekazujesz nocnej zmianie listę opóźnionych lotów
+Y: Sprawdź prognozę pogody dla dwóch miast i zdecyduj, czy lot między nimi byłby bezpieczny.
+
+@463
+H: Koordynujesz wejścia i wyjścia statków z portu. Przygotowujesz zlecenia dla pilotów morskich i powiadamiasz ich, który statek mają prowadzić.
+T: Przyjmujesz zgłoszenia wejścia i wyjścia statków | Wpisujesz do zlecenia statek, nabrzeże i holownik | Powiadamiasz pilota morskiego o przydzielonym zleceniu | Odbierasz od pilotów rachunki po pilotażu
+D: 6:00 Przyjmujesz zgłoszenie, że statek wpłynie do portu | 8:30 Piszesz zlecenie: statek, nabrzeże, holownik i godzina | 10:00 Dzwonisz do pilota, że ma prowadzić kontenerowiec | 14:00 Pilot wraca ze statku, odbierasz rachunek
+Y: Napisz zlecenie dla wymyślonego statku: nazwa, nabrzeże, godzina wejścia i wyjścia oraz pilot.
+
+@464
+H: Przyjmujesz zamówienia na przejazd, wysyłasz najbliższe taksówki i kierujesz pracą kierowców. Jednocześnie rozmawiasz z klientami, którzy czekają na auto.
+T: Przyjmujesz zamówienia od klientów | Wysyłasz kierowcę pod wskazany adres | Koordynujesz pracę wielu kierowców | Informujesz klientów, kiedy auto dojedzie
+D: 14:00 Zaczynasz zmianę i sprawdzasz, którzy kierowcy są wolni | 18:00 Kierowca zgłasza korek, szukasz zastępstwa | 22:30 Piątkowy wieczór, telefony dzwonią bez przerwy | 2:00 Nocą wysyłasz auto po osobę wychodzącą z imprezy
+Y: Przećwicz z domownikiem rozmowę, w której przyjmujesz zamówienie na taksówkę i zapisujesz skąd, dokąd, o której.
+
+@465
+H: Przydzielasz tramwaje i motorniczych do linii i pilnujesz, żeby jeździły zgodnie z planem. Prowadzisz też rejestr przejechanych kilometrów i wykonanych napraw.
+T: Przydzielasz tramwaje i motorniczych do linii | Reagujesz, gdy tramwaj jest spóźniony | Prowadzisz rejestr przebiegu pojazdów | Zapisujesz naprawy wykonane w zajezdni
+D: 4:30 Wypuszczasz pierwsze tramwaje na poranne linie | 8:00 Awaria na trasie, kierujesz zastępczy tramwaj | 13:00 Wpisujesz do rejestru przejechane kilometry i naprawy | 19:00 Przydzielasz wieczornym kierowcom tramwaje na ostatnie kursy
+Y: Rozpisz godziny odjazdów dla dwóch tramwajów na jednej linii, tak aby jechały co dziesięć minut.
+
+@466
+H: Koordynujesz ruch autobusów i innych pojazdów, ich trasy i kierowców. Czasem nadzorujesz też załadunek, rozładunek i sprawdzanie bagaży lub przesyłek wysyłanych autobusem.
+T: Przydzielasz kierowców do tras | Ustalasz drogę i godziny przejazdu | Kontrolujesz załadunek i rozładunek | Sprawdzasz bagaże i przesyłki ekspresowe
+D: 5:00 Sprawdzasz, którzy kierowcy są dziś na dyżurze | 8:00 Jeden autobus zepsuty, szukasz zastępczego | 12:30 Nadzorujesz załadunek przesyłek do autobusu dalekobieżnego | 17:00 Ustalasz trasy i kierowców na jutro
+Y: Zaplanuj na mapie trasę autobusu przez pięć przystanków tak, by była jak najkrótsza.
+
+@467
+H: Przyjmujesz i przekazujesz komunikaty o pojazdach, sprzęcie i przesyłkach oraz planujesz, czym i którędy ładunek pojedzie. Dobierasz rodzaj transportu, wysyłasz pracowników i odpowiadasz za dokumenty.
+T: Planujesz wysyłkę i wybierasz rodzaj transportu | Organizujesz trasy i usługi przewozu | Wysyłasz pracowników i pojazdy do zadań | Przekazujesz dokumenty prawne stronom przewozu
+D: 7:00 Odbierasz komunikaty o dzisiejszych przesyłkach | 9:30 Wybierasz kolej zamiast ciężarówki dla ciężkiego ładunku | 12:30 Wysyłasz kierowcę z ładunkiem do magazynu | 15:30 Przekazujesz umowę transportową obu stronom
+Y: Wyobraź sobie ciężką maszynę do wysłania i zapisz, czy lepiej wysłać ją koleją, ciężarówką czy statkiem.
+
+@468
+H: Nadzorujesz codzienną pracę rurociągów, którymi płyną towary. Masz wgląd w całą sieć, wybierasz najtańsze i najwydajniejsze trasy i rozwiązujesz pojawiające się problemy.
+T: Śledzisz przepływ towarów w całej sieci | Planujesz najwydajniejsze trasy przewozu | Rozwiązujesz problemy w różnych punktach sieci | Sprawdzasz zgodność pracy z przepisami
+D: 6:00 Odbierasz od nocnej zmiany raport z sieci | 9:00 Planujesz, którędy puścić dostawę na następny dzień | 13:00 Problem na jednym odcinku, ustalasz obejście | 16:00 Porównujesz wykonanie celów przewozowych z planem
+Y: Narysuj schemat czterech punktów połączonych rurami i zaznacz, którędy pójdzie dostawa, gdy jeden odcinek zawiedzie.
+
+@469
+H: Siedzisz w nastawni i obsługujesz sygnały oraz rozjazdy, dzięki którym pociągi jeżdżą bezpiecznie i na czas. Kontrolujesz kolejność i ruch pociągów, także w sytuacjach awaryjnych.
+T: Ustawiasz sygnały i rozjazdy | Kontrolujesz kolejność pociągów na trasie | Pilnujesz norm bezpieczeństwa w ruchu | Reagujesz w sytuacjach awaryjnych
+D: 6:00 Przejmujesz nastawnię i czytasz uwagi poprzedniej zmiany | 9:00 Pociąg towarowy zwalnia, przepuszczasz najpierw osobowy | 14:00 Awaria sygnału, informujesz maszynistów przez radio | 22:00 Nocna zmiana, mniej pociągów, ale pełne skupienie
+Y: Narysuj dwa tory z jednym rozjazdem i zapisz, który z dwóch pociągów ma jechać pierwszy.
+
+@470
+H: Przejmujesz od klienta informacje o przeprowadzce i zamieniasz je w plan działania. Dbasz, żeby przeprowadzka przebiegła sprawnie i w konkurencyjnej cenie.
+T: Zbierasz od klienta informacje o przeprowadzce | Układasz plan czynności krok po kroku | Wyceniasz usługę w konkurencyjnej cenie | Sprawdzasz, czy klient jest zadowolony
+D: 8:30 Klient opisuje przez telefon, ile ma mebli i pięter | 11:00 Wyceniasz usługę i wysyłasz ofertę | 13:30 Układasz plan: pakowanie, załadunek, przejazd, rozładunek | 17:00 Dzwonisz do klienta po przeprowadzce z pytaniem o opinię
+Y: Wyceń przeprowadzkę swojego pokoju: ile pudeł, ile osób i ile godzin potrzeba.
+
+@471
+H: Zarządzasz przewozami statków czarterowych i dbasz o ich wydajność. Sprawdzasz certyfikaty, licencje i dokumenty załóg oraz prowadzisz rejestry obsługi technicznej.
+T: Zarządzasz przewozami statków czarterowych | Oceniasz ryzyko dla różnych ładunków | Sprawdzasz certyfikaty, paszporty i licencje załogi | Prowadzisz rejestry obsługi technicznej statków
+D: 8:00 Sprawdzasz, które statki dziś wypływają z portu | 10:30 Zauważasz, że jednemu marynarzowi kończy się licencja | 13:00 Rozmowa z klientem, który zgłasza opóźnienie ładunku | 16:00 Wpisujesz do rejestru zaplanowany przegląd techniczny
+Y: Wypisz pięć dokumentów lub uprawnień, jakie powinna mieć załoga, zanim statek wypłynie z portu.
+
+@472
+H: Zarządzasz ruchem statków w portach i na drogach wodnych. Dbasz, żeby statki firmy żeglugowej były rozmieszczone tak, by wszystko działało sprawnie.
+T: Śledzisz położenie statków na wodzie | Ustalasz kolejność wejścia do portu | Rozmieszczasz statki firmy w różnych portach | Informujesz porty o planowanych przybyciach
+D: 6:00 Przeglądasz mapę z pozycjami statków | 10:00 Dwa statki chcą wejść na to samo nabrzeże | 14:00 Przesuwasz jeden statek do innego portu | 22:00 Dyżur nocny, statek zgłasza opóźnienie
+Y: Narysuj port z trzema nabrzeżami i rozpisz, w jakiej kolejności wpłynie do niego pięć statków.
+
+@473
+H: Pilnujesz, żeby walizki na lotnisku trafiły na właściwy samolot i na czas dotarły do celu. Monitorujesz przepływ bagażu, zwłaszcza przy przesiadkach.
+T: Monitorujesz przepływ bagażu na ekranie | Pilnujesz transferu bagażu przy przesiadkach | Kontaktujesz się z kierownikami obsługi bagażowej | Stosujesz przepisy dotyczące bagażu
+D: 5:30 Sprawdzasz, czy taśmy bagażowe działają przed lotami | 8:00 Szczyt odlotów, setki walizek jadą na taśmach | 12:00 Pasażer ma krótką przesiadkę, szukasz jego walizki | 15:00 Rozmowa z kierownikiem obsługi bagażowej o zaległościach
+Y: Narysuj trasę walizki od odprawy do samolotu, z jedną przesiadką, i opisz każdy etap.
+
+@474
+H: Odbierasz gaz ziemny ze stacji produkcyjnej i przesyłasz go rurociągami do stacji dystrybucji. Pilnujesz, żeby dostawy docierały tam, gdzie trzeba.
+T: Odbierasz gaz ze stacji produkcyjnej | Przesyłasz go rurociągami do dystrybucji | Monitorujesz przepływ w sieci | Pilnujesz dostaw do stacji dystrybucyjnych
+D: 6:00 Przejmujesz zmianę i czytasz stan sieci | 9:30 Rano zużycie gazu rośnie, zwiększasz przepływ | 14:00 Sprawdzasz odczyty w stacji dystrybucji | 22:00 Nocny dyżur, pilnujesz wskazań na ekranie
+Y: Narysuj schemat drogi gazu od źródła do odbiorcy i opisz trzy etapy.
+
+@475
+H: Monitorujesz i sterujesz przepływem gazu ziemnego między gazociągami a siecią dystrybucyjną, zgodnie z harmonogramem. Gdy coś nie gra, zmieniasz plan, żeby spełnić zapotrzebowanie.
+T: Sterujesz przepływem gazu w sieci | Pilnujesz harmonogramu dostaw | Piszesz sprawozdania z przepływu gazu | Zmieniasz harmonogram, gdy pojawia się problem
+D: 7:00 Sprawdzasz zapotrzebowanie odbiorców na dziś | 10:00 Dostosowujesz przepływ z gazociągu do sieci miasta | 14:00 Piszesz sprawozdanie z przepływu za pierwszą połowę dnia | 18:00 Odbiorca zgłasza większe zużycie, zmieniasz harmonogram
+Y: Wymyśl dane i narysuj prosty wykres zużycia gazu w mieście rano, w południe i wieczorem.
+
+@476
+H: Zarządzasz przewozami towarów koleją, czasem razem z innymi środkami transportu. Dbasz, żeby wagony i sprzęt były na miejscu na czas, a dostawy dla klientów szły bez przerw.
+T: Przydzielasz wagony i sprzęt do przewozów | Pilnujesz terminów dostaw koleją | Łączysz kolej z innymi środkami transportu | Budujesz sprawne łańcuchy dostaw dla klientów
+D: 7:00 Sprawdzasz, ile wagonów czeka na stacji | 9:30 Klient prosi o dodatkowy skład z towarem | 13:00 Ustalasz, jak przeładować kontenery z pociągu na ciężarówki | 16:00 Pociąg się spóźnia, informujesz odbiorcę
+Y: Rozpisz drogę towaru z fabryki do sklepu, tak by najdłuższy odcinek jechał koleją.
+
+@477
+H: Dopasowujesz dostępne statki do dostępnych ładunków, żeby rejsy się opłacały. Pilnujesz bezpieczeństwa statku, planujesz załadunek kontenerów, naprawy i załogę.
+T: Dopasowujesz statki do ładunków | Planujesz rozmieszczenie kontenerów na statku | Skracasz czas postoju i koszty obsługi | Układasz plan konserwacji, napraw i załogi
+D: 8:00 Sprawdzasz, jakie ładunki czekają w porcie | 10:30 Rozkładasz kontenery na planie statku | 13:30 Skracasz postój, żeby statek wypłynął szybciej | 16:00 Planujesz przegląd techniczny i dobór załogi
+Y: Narysuj siatkę jako plan statku i rozmieść w niej dziesięć kartek tak, by ciężkie były na dole.
+
+@478
+H: Kierujesz pracą terminali ładunków lotniczych i ramp. Sprawdzasz, jakie loty nadlatują, planujesz załadunki i pilnujesz, żeby było dość ludzi i sprzętu.
+T: Przeglądasz dane o lotach przychodzących | Układasz plany załadunku odlatujących lotów | Ustalasz z nadzorcami obsadę i sprzęt | Kierujesz obsługą ładunków i bagażu
+D: 5:30 Czytasz listę lotów, które lądują dziś rano | 8:00 Układasz plan załadunku samolotu towarowego | 12:00 Brakuje ludzi do rozładunku, dzwonisz do nadzorcy | 17:00 Przed odlotem sprawdzasz ostatnie palety
+Y: Wypisz, ilu ludzi i jakiego sprzętu potrzeba do rozładunku trzech lotów w jednej godzinie.
+
+@479
+H: Pilnujesz, żeby tramwaje i autobusy w mieście przechodziły wszystkie wymagane kontrole techniczne. Planujesz, kiedy i które pojazdy trafiają na konserwację.
+T: Pilnujesz procedur kontroli pojazdów | Układasz harmonogram przeglądów i konserwacji | Planujesz, które pojazdy zjadą z linii | Przydzielasz mechaników i sprzęt do przeglądów
+D: 6:00 Sprawdzasz, które tramwaje wracają z nocnej trasy | 9:00 Układasz harmonogram przeglądów na przyszły tydzień | 12:00 Mechanik zgłasza usterkę, planujesz zjazd pojazdu z linii | 15:00 Sprawdzasz w dokumentach, czy kontrole mają komplet wpisów
+Y: Ułóż tygodniowy plan przeglądów dla pięciu autobusów, tak by nie wszystkie stały jednocześnie w zajezdni.
+

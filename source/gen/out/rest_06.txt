@@ -1,0 +1,179 @@
+@1530
+H: Zakotwiczasz pływające klatki hodowlane, żeby nie dryfowały. Do tego obsługujesz specjalistyczny sprzęt, zwykle z łodzi lub platformy.
+T: Układasz liny i łańcuchy cumownicze | Obsługujesz sprzęt do zakotwiczania klatek | Sprawdzasz, czy klatki trzymają pozycję | Wymieniasz zużyte elementy mocowania
+D: 6:30 Odprawa i sprawdzenie prognozy fal i wiatru | 8:00 Wypływasz łodzią do klatek przy brzegu | 11:00 Przeciągasz nową linię cumowniczą do kotwicy | 14:30 Przeglądasz mocowania i zapisujesz usterki
+Y: Zawiąż na sznurku trzy różne węzły i sprawdź, który najtrudniej rozwiązać po pociągnięciu.
+
+@1531
+H: Pomagasz przy zbiorach ryb i innych organizmów wodnych hodowanych w zbiornikach na lądzie. Pracujesz w wilgoci, z siecią i skrzyniami w rękach.
+T: Przygotowujesz sieci i pojemniki do zbioru | Odławiasz ryby siecią | Przekładasz odłowione zwierzęta do pojemników | Myjesz basen i sprzęt po zbiorze
+D: 5:30 Przygotowujesz sieci i pojemniki przed zbiorem | 7:00 Odławiasz ryby z basenu partiami | 10:30 Ładujesz pojemniki z rybami na samochód | 13:00 Myjesz baseny i suszysz sprzęt
+Y: Wrzuć do miski z wodą 20 papierowych kulek i wyłów je durszlakiem, mierząc czas.
+
+@1532
+H: Pracujesz na pływających lub zanurzonych konstrukcjach, w których rosną hodowane organizmy wodne. Wykonujesz prace ręczne przy hodowli i dbasz o stan sprzętu.
+T: Czyścisz sieci i klatki z zanieczyszczeń | Sprawdzasz liny cumownicze i mocowania | Obserwujesz hodowlę i zapisujesz zmiany | Pomagasz przy zbiorze i przetwarzaniu
+D: 6:00 Dopływasz łodzią do pływających klatek | 8:00 Szorujesz zabrudzoną sieć szczotką | 11:30 Pomagasz przy zbiorze i sortowaniu ryb | 14:00 Zwijasz liny i porządkujesz sprzęt na pokładzie
+Y: Narysuj schemat pływającej klatki z linami i kotwicami, opisując, co ją utrzymuje na miejscu.
+
+@1533
+H: Pracujesz ręcznie w winnicy przy winoroślach: uprawiasz je, rozmnażasz odmiany i zbierasz winogrona. Czasem pomagasz też przy produkcji i pakowaniu wina.
+T: Przycinasz i podwiązujesz pędy winorośli | Zbierasz dojrzałe grona ręcznie | Pomagasz przy rozmnażaniu odmian | Pakujesz butelki wina do kartonów
+D: 7:00 Idziesz rzędami winorośli sprawdzać grona | 9:00 Zbierasz grona do skrzynek | 13:00 Zawozisz pełne skrzynki do tłoczni | 15:00 Pakujesz butelki do kartonów w magazynie
+Y: Przyjrzyj się dowolnej roślinie pnącej i narysuj, jak wspina się po podporze.
+
+@1534
+H: Zbierasz ręcznie owoce, warzywa i orzechy, wybierając tylko te dojrzałe, i robisz to metodą właściwą dla danej rośliny. Pracujesz na polu lub w sadzie, w tempie narzuconym przez sezon.
+T: Wybierasz dojrzałe owoce i warzywa | Zrywasz je metodą dobraną do rośliny | Układasz zbiór w skrzynkach | Odrzucasz uszkodzone sztuki
+D: 5:30 Dojeżdżasz na pole i dostajesz rzędy | 6:00 Zrywasz dojrzałe owoce, odkładasz uszkodzone | 11:00 Niesiesz pełne skrzynki do punktu odbioru | 14:30 Kończysz ostatni rząd i sprzątasz skrzynki
+Y: Posortuj kilka owoców z domu na dojrzałe, niedojrzałe i uszkodzone i zapisz, po czym je poznajesz.
+
+@1535
+H: Wykonujesz proste prace przy kwiatach, drzewach i krzewach w parkach albo prywatnych ogrodach. Pracujesz głównie na zewnątrz, według poleceń ogrodnika.
+T: Podlewasz i pielisz rabaty | Sadzisz kwiaty i krzewy | Grabisz liście i zbierasz ścięte gałęzie | Pomagasz przy przycinaniu krzewów
+D: 7:00 Odbierasz narzędzia i plan prac na dzień | 8:00 Pielisz rabaty w parku | 11:00 Sadzisz sadzonki kwiatów według rozpiski | 14:00 Grabisz liście i myjesz narzędzia
+Y: Obejrzyj roślinę doniczkową: sprawdź palcem, czy ziemia jest sucha, i zdecyduj, czy trzeba ją podlać.
+
+@1536
+H: Pomagasz przy uprawie roślin na polu i wykonujesz praktyczne prace, od których zależy plon. Zajęcia zmieniają się z porami roku: siew, pielęgnacja, zbiór.
+T: Wysiewasz i sadzisz rośliny w rzędach | Pielisz i pomagasz przy pielęgnacji upraw | Zbierasz plony i ładujesz je na przyczepę | Sprawdzasz, czy rośliny dobrze rosną
+D: 6:00 Omawiasz z gospodarzem prace na dziś | 7:00 Wysiewasz nasiona w przygotowaną ziemię | 11:00 Pielisz rzędy młodych roślin | 15:00 Ładujesz zebrane plony i porządkujesz narzędzia
+Y: Posadź w doniczce lub kubku z ziemią pestkę lub nasiono z domu i zapisz datę siewu.
+
+@1537
+H: Dbasz o las: sadzisz drzewa, przerzedzasz je, wycinasz wskazane sztuki i chronisz las przed szkodnikami i chorobami. Pracujesz w terenie przy każdej pogodzie.
+T: Sadzisz młode drzewa w rzędach | Przerzedzasz zbyt gęste młode drzewa | Wycinasz drzewa wskazane do ścięcia | Szukasz śladów szkodników i uszkodzeń
+D: 6:00 Dojeżdżasz w las, bierzesz sadzonki | 7:00 Sadzisz sadzonki w rzędach na wyciętym terenie | 11:00 Przerzedzasz zbyt gęsto rosnące młode drzewa | 14:00 Oglądasz kory drzew w poszukiwaniu szkodników
+Y: Wybierz w okolicy jedno drzewo i zapisz, po czym rozpoznajesz jego gatunek: kora, liście, pokrój.
+
+@1538
+H: Nadzorujesz codzienną opiekę nad krowami i innym bydłem: karmienie, zdrowie, dobrostan. Dzień zaczyna się bardzo wcześnie i kończy po wieczornej obsłudze stada.
+T: Karmisz i poisz stado | Obserwujesz zwierzęta i wychwytujesz oznaki choroby | Czyścisz boksy i wymieniasz ściółkę | Wzywasz weterynarza i pomagasz przy zabiegach
+D: 5:00 Obchód obory, sprawdzasz każde zwierzę | 6:00 Rozwozisz paszę i sprawdzasz poidła | 12:00 Krowa kuleje, oglądasz kopyto i dzwonisz do weterynarza | 17:00 Wieczorny obchód i zapis w dokumentach stada
+Y: Obserwuj przez 10 minut kota, psa lub ptaka za oknem i zapisz, czy zachowuje się zwyczajnie.
+
+@1539
+H: Opiekujesz się końmi każdego dnia: karmisz je, pilnujesz ich zdrowia i ruchu. Praca zaczyna się wcześnie i obejmuje też weekendy.
+T: Karmisz konie i sprawdzasz wodę | Czyścisz boksy i wymieniasz ściółkę | Wyprowadzasz konie na padok i ruszasz je | Oglądasz kopyta i sprawdzasz, czy nie kuleją
+D: 6:00 Karmisz konie siankiem i owsem | 8:00 Wyprowadzasz konie na padok | 11:00 Czyścisz kopyta i szczotkujesz sierść | 17:00 Wieczorne karmienie i obchód stajni przed zamknięciem
+Y: Narysuj konia z boku i podpisz jego części ciała, szukając nazw w książce lub encyklopedii.
+
+@1540
+H: Opiekujesz się stadem owiec: pilnujesz ich zdrowia i wypasu. Najwięcej pracy masz przy narodzinach jagniąt i w czasie strzyży.
+T: Wypędzasz owce na pastwisko | Liczysz owce i szukasz chorych | Pomagasz przy porodach jagniąt | Strzyżesz owce i zbierasz wełnę
+D: 6:00 Obchód zagrody, liczysz owce i jagnięta | 8:00 Wypędzasz stado na pastwisko | 12:00 Sprawdzasz ogrodzenie i poidło na łące | 18:00 Zaganiasz stado do zagrody na noc
+Y: Wypisz pięć zagrożeń dla owiec na otwartym pastwisku i do każdego dopisz, jak je ograniczyć.
+
+@1541
+H: Nadzorujesz chów świń, od prosiąt po tuczniki, i dbasz o ich zdrowie i dobrostan. Pracujesz w chlewni, gdzie podstawą jest czystość.
+T: Dozujesz paszę dla każdej grupy świń | Myjesz kojce i wymieniasz ściółkę | Obserwujesz świnie i wyłapujesz chore | Doglądasz lochy i prosięta
+D: 5:30 Obchód chlewni, szukasz chorych zwierząt | 7:00 Dozujesz paszę i sprawdzasz poidła | 10:00 Myjesz kojce i zmieniasz ściółkę | 15:00 Ważysz młode świnie i zapisujesz wyniki
+Y: Policz, ile paszy dziennie zjada 20 świń, jeśli każda dostaje 3 kilogramy, i ile w tydzień.
+
+@1542
+H: Prowadzisz stado owiec, kóz lub innych zwierząt po pastwiskach i pilnujesz, żeby miały co jeść i nie zginęły. Często pracujesz w górach lub na odludziu, daleko od domu.
+T: Prowadzisz stado na nowe pastwiska | Liczysz zwierzęta i pilnujesz granic wypasu | Sprawdzasz, czy zwierzęta są zdrowe | Prowadzisz stado do wody
+D: 5:30 Wypuszczasz stado z koszaru | 7:00 Prowadzisz zwierzęta na wyższe pastwisko | 12:00 Odpoczywasz w cieniu, nie spuszczając stada z oczu | 18:30 Sprowadzasz stado na noc i liczysz
+Y: Narysuj na kartce mapę wymyślonej doliny i zaznacz trasę wypasu z wodą i cieniem po drodze.
+
+@1543
+H: Kierujesz pracą stajni: dzielisz zadania między pracowników, pilnujesz koni, bezpieczeństwa i czystości. Rozmawiasz też z właścicielami koni i klientami.
+T: Układasz grafik pracowników stajni | Sprawdzasz zdrowie i kondycję koni | Pilnujesz zasad bezpieczeństwa i czystości | Rozmawiasz z właścicielami o ich koniach
+D: 7:00 Rozdzielasz zadania pracownikom na dzień | 9:30 Oglądasz konia, który wczoraj gorzej jadł | 13:00 Rozmawiasz z właścicielem konia o opłatach za boks | 17:00 Obchód stajni, kontrola drzwi i boksów
+Y: Ułóż na kartce plan dnia dla trzech pracowników stajni tak, żeby wszystkie konie dostały jedzenie i ruch.
+
+@1544
+H: Nadzorujesz chów kurcząt lub innego drobiu i pilnujesz ich zdrowia. Dużo czasu spędzasz w kurniku, gdzie liczą się temperatura i czystość.
+T: Pilnujesz temperatury i świeżego powietrza w kurniku | Dozujesz paszę i sprawdzasz wodę | Wyłapujesz chore lub osłabione ptaki | Zapisujesz zużycie paszy i liczbę ptaków
+D: 5:30 Wchodzisz do kurnika i oglądasz całe stado | 7:00 Dosypujesz paszę, sprawdzasz poidła | 11:00 Wyłapujesz osłabione ptaki do osobnego kojca | 16:00 Wpisujesz zużycie paszy i liczbę ptaków
+Y: Narysuj kurnik z miejscem na karmniki, poidła i wentylację tak, żeby każdy ptak miał dostęp do paszy.
+
+@1545
+H: Sprawdzasz płeć świeżo wyklutych piskląt i oddzielasz samce od samic. Robisz to szybko, setki sztuk po kolei, przez wiele godzin dziennie.
+T: Oglądasz pisklęta pojedynczo | Ustalasz płeć każdego ptaka | Rozdzielasz samce i samice do osobnych skrzynek | Liczysz i zapisujesz posortowane sztuki
+D: 6:00 Odbierasz skrzynki ze świeżo wyklutymi pisklętami | 7:00 Sprawdzasz płeć setek piskląt jedno po drugim | 11:00 Krótka przerwa, bo oczy i dłonie męczą się | 14:00 Podliczasz posortowane pisklęta i zamykasz skrzynki
+Y: Obejrzyj zdjęcia dwóch ptaków tego samego gatunku i znajdź trzy różnice w wyglądzie.
+
+@1546
+H: Opiekujesz się zwierzętami hodowanymi dla futra, na przykład lisami lub norkami, i pilnujesz ich zdrowia. Codziennie rozdajesz paszę, sprawdzasz klatki i pilnujesz czystości.
+T: Rozdajesz paszę i sprawdzasz wodę | Oglądasz zwierzęta i szukasz objawów chorób | Czyścisz klatki i teren fermy | Zapisujesz w dzienniku liczbę miotów
+D: 6:00 Obchód fermy, sprawdzasz każdą klatkę | 7:30 Rozwozisz wózkiem paszę i dolewasz wody | 11:00 Czyścisz klatki i sprawdzasz zamki | 15:00 Wpisujesz do dziennika stan zwierząt i młodych
+Y: Opisz w czterech punktach futro dowolnego zwierzęcia ze zdjęcia: kolor, długość, gęstość i połysk.
+
+@1547
+H: Opiekujesz się rodzinami pszczelimi, pilnujesz ich zdrowia i zbierasz miód. Pracujesz w kombinezonie ochronnym wśród uli, najczęściej w ciepłe dni.
+T: Otwierasz ule i oglądasz ramki | Sprawdzasz, czy rodzina pszczela jest zdrowa | Zbierasz i odwirowujesz miód | Dokarmiasz pszczoły przed zimą
+D: 8:00 Zakładasz kombinezon i idziesz do pasieki | 9:00 Otwierasz ul i oglądasz ramki z pszczołami | 13:00 Wyjmujesz ramki z miodem i odwirowujesz je | 16:00 Zapisujesz stan każdej rodziny w notesie
+Y: Obserwuj z daleka przez 10 minut kwitnącą roślinę i policz, ile owadów ją odwiedziło.
+
+@1548
+H: Pomagasz weterynarzowi przy zabiegach i opiekujesz się zwierzętami przed nimi i po nich. Doradzasz też właścicielom, jak dbać o zdrowie zwierzęcia i zapobiegać chorobom.
+T: Przygotowujesz zwierzę do zabiegu | Pilnujesz zwierzęcia po znieczuleniu | Opatrujesz rany i zmieniasz opatrunki | Radzisz właścicielom, jak zapobiegać chorobom
+D: 8:00 Przyjmujesz pierwsze zwierzęta i ważysz je | 9:30 Pomagasz lekarzowi przy zabiegu | 12:30 Pilnujesz psa wybudzającego się po operacji | 16:00 Tłumaczysz właścicielowi, jak karmić po zabiegu
+Y: Owiń pluszaka paskiem materiału jak bandażem tak, żeby opatrunek trzymał i nie był zbyt ciasny.
+
+@1549
+H: Oglądasz zęby koni i wykonujesz rutynowe zabiegi stomatologiczne specjalnym sprzętem. Pracujesz w stajniach, tuż przy dużym i silnym zwierzęciu.
+T: Oglądasz zęby i jamę ustną konia | Wykonujesz rutynowe zabiegi na zębach | Przygotowujesz i obsługujesz specjalistyczny sprzęt | Uspokajasz konia i rozmawiasz z właścicielem
+D: 8:00 Dojeżdżasz do stajni, poznajesz pierwszego konia | 9:00 Uspokajasz konia i zaglądasz mu do pyska | 11:00 Wykonujesz zabieg na zębach specjalnym sprzętem | 14:00 Opisujesz właścicielowi stan zębów konia
+Y: Obejrzyj w lustrze swoje zęby i narysuj, które służą do gryzienia, a które do mielenia.
+
+@1550
+H: Pomagasz weterynarzowi przenosić zarodki z jednego zwierzęcia do drugiego, zawsze pod jego nadzorem. Pracujesz precyzyjnie i w ścisłej higienie, w gospodarstwie lub laboratorium.
+T: Przygotowujesz sprzęt i stanowisko do zabiegu | Pomagasz lekarzowi w przenoszeniu zarodków | Oznaczasz zarodki i dbasz o ich przechowywanie | Prowadzisz dokumentację zwierząt
+D: 7:00 Przygotowujesz sprzęt i opisujesz zwierzęta w oborze | 9:00 Sprawdzasz zarodki w laboratorium | 11:00 Asystujesz weterynarzowi przy zabiegu | 15:00 Wpisujesz numery zwierząt i zarodków do rejestru
+Y: Zapisz na kartce sześć zasad czystości, które według ciebie obowiązują przy delikatnym zabiegu, i uzasadnij je.
+
+@1551
+H: Zapładniasz zwierzęta hodowlane wcześniej pobranym nasieniem, zgodnie z przepisami. Jeździsz między gospodarstwami, a termin zabiegu zależy od cyklu zwierzęcia.
+T: Sprawdzasz, czy zwierzę jest gotowe do zabiegu | Przygotowujesz nasienie i narzędzia | Wykonujesz zabieg unasienniania | Zapisujesz daty i numery zwierząt w dokumentach
+D: 6:00 Telefon od rolnika, że krowa jest gotowa | 7:00 Dojeżdżasz do gospodarstwa z pojemnikiem na nasienie | 8:00 Wykonujesz zabieg w oborze | 12:00 Wpisujesz daty zabiegów i umawiasz kontrolę
+Y: Wpisz do kalendarza datę zabiegu i policz, kiedy wypada kontrola po 21 dniach.
+
+@1552
+H: Wspierasz lekarza weterynarii w pracy technicznej i administracyjnej: pomagasz przy badaniach, pilnujesz sprzętu i dokumentów. To praca przy zwierzętach i w papierach, w przychodni.
+T: Przytrzymujesz zwierzę podczas badania | Pobierasz próbki i opisujesz je | Przygotowujesz sprzęt i gabinet | Prowadzisz karty pacjentów i rejestrację
+D: 8:00 Otwierasz gabinet i przygotowujesz narzędzia | 9:00 Przytrzymujesz kota podczas badania krwi | 12:00 Opisujesz próbki i wpisujesz wyniki | 15:00 Rozmawiasz z właścicielami i umawiasz wizyty
+Y: Narysuj kartę pacjenta dla swojego zwierzaka lub wymyślonego: imię, gatunek, waga, szczepienia, uwagi.
+
+@1553
+H: Badasz chore lub ranne zwierzęta i stosujesz metody alternatywne, na przykład akupunkturę czy homeopatię; skuteczność części z nich jest sporna. Zalecasz też sposoby, które mają wspierać zdolność zwierzęcia do powrotu do zdrowia.
+T: Badasz zwierzę i pytasz właściciela o objawy | Dobierasz metodę leczenia alternatywnego | Stosujesz zabieg, na przykład akupunkturę | Zalecasz właścicielowi dalszą opiekę w domu
+D: 9:00 Przyjmujesz właściciela z psem po urazie | 10:00 Badasz zwierzę i oglądasz jego chód | 12:00 Dojeżdżasz do stajni obejrzeć konia | 16:00 Rozpisujesz właścicielowi zalecenia na kolejne tygodnie
+Y: Przyjrzyj się, jak chodzi pies lub kot, i zapisz, czy któraś łapa porusza się inaczej.
+
+@1554
+H: Odpowiadasz za zdrowie zwierząt na poziomie kraju: zwalczanie chorób zwierząt, kontrola żywności i przewóz zwierząt przez granice. To bardziej praca urzędowa i organizacyjna niż leczenie pojedynczych pacjentów.
+T: Planujesz programy zwalczania chorób zwierząt | Kontrolujesz przewóz zwierząt i produktów | Nadzorujesz bezpieczeństwo żywności pochodzenia zwierzęcego | Koordynujesz pracę inspektorów i lekarzy
+D: 8:00 Czytasz raporty o chorobach zwierząt z regionów | 10:00 Narada nad planem walki z chorobą zwierząt | 13:00 Decydujesz o kontroli przesyłki zwierząt na granicy | 16:00 Przygotowujesz komunikat dla hodowców i lekarzy
+Y: Wypisz pięć sposobów, w jakie choroba zwierząt może przenosić się między gospodarstwami, i jak to ograniczyć.
+
+@1555
+H: Leczysz zwierzęta ruchami kręgosłupa i terapią manualną, ale dopiero po diagnozie lub skierowaniu od lekarza weterynarii. Pracujesz rękami ze zwierzętami, które mają ból albo sztywność.
+T: Czytasz diagnozę i skierowanie od weterynarza | Badasz ruch i kręgosłup zwierzęcia dłońmi | Wykonujesz delikatne manipulacje kręgosłupa | Informujesz właściciela o ćwiczeniach i kontroli
+D: 9:00 Czytasz skierowanie i rozmawiasz z właścicielem | 10:00 Dotykiem sprawdzasz kręgosłup sztywnego psa | 13:00 Terapia manualna u konia w stajni | 16:00 Piszesz raport do lekarza weterynarii
+Y: Wyczuj palcami kręgi na własnym karku i narysuj schemat kręgosłupa z podpisanymi odcinkami.
+
+@1556
+H: Diagnozujesz i leczysz choroby ryb i innych zwierząt wodnych w hodowlach, pobierając próbki i nadzorując szczepienia. Zbierasz dane o zdrowiu ryb i uczysz pracowników gospodarstwa dobrych praktyk.
+T: Pobierasz próbki od ryb do badań | Nadzorujesz szczepienia i podawanie leków | Piszesz regularne raporty o zdrowiu ryb | Uczysz pracowników, jak dbać o hodowane ryby
+D: 7:30 Dojeżdżasz do gospodarstwa, rozmawiasz z kierownikiem | 9:00 Pobierasz próbki z kilku zbiorników | 12:00 Czytasz wyniki badań próbek | 15:00 Pokazujesz pracownikom, jak rozpoznać chore ryby
+Y: Przyjrzyj się zdjęciu zdrowej ryby i wypisz pięć cech, po których widać jej dobrą kondycję.
+
+@1557
+H: Jesteś lekarzem weterynarii ze specjalizacją w konkretnym gatunku zwierząt lub rodzaju zabiegów. Zajmujesz się bardziej skomplikowanymi przypadkami niż w zwykłym gabinecie.
+T: Diagnozujesz trudne przypadki, często po skierowaniu | Planujesz zabieg i jego przebieg | Wykonujesz zabiegi z wąskiej specjalizacji | Tłumaczysz właścicielowi ryzyko i dalsze leczenie
+D: 8:00 Czytasz wyniki badań pacjenta z innego gabinetu | 10:00 Operujesz psa, śledząc na monitorze jego tętno | 14:00 Konsultujesz z innym lekarzem trudny przypadek | 17:00 Rozmawiasz z właścicielem o rokowaniu i leczeniu
+Y: Wypisz pięć pytań, które warto zadać właścicielowi chorego zwierzęcia, żeby zrozumieć problem.
+
+@1558
+H: Kierujesz hodowlą ryb lub innych organizmów wodnych od strony chowu: karmienia, wzrostu i stanu zapasów. Pilnujesz, ile zwierząt jest w zbiornikach i jak szybko rosną.
+T: Ustalasz plan karmienia dla zbiorników | Śledzisz wzrost i masę hodowanych zwierząt | Liczysz zapasy ryb i planujesz obsadę | Wydajesz polecenia pracownikom przy chowie
+D: 7:00 Obchód zbiorników, sprawdzasz zachowanie ryb | 9:00 Ważysz próbkę ryb i zapisujesz wyniki | 11:30 Zmieniasz dawki paszy dla szybciej rosnących | 15:00 Planujesz obsadę zbiorników na kolejny miesiąc
+Y: Policz: ryba waży 100 gramów i co tydzień przybywa jej 20 gramów; ile będzie ważyć po sześciu tygodniach?
+
+@1559
+H: Kontrolujesz, jak przebiega odłów organizmów wodnych w hodowli. Znasz techniki i sprzęt odłowu i decydujesz, jak je użyć.
+T: Planujesz termin i sposób odłowu | Dobierasz sieci i sprzęt do odłowu | Kierujesz ekipą podczas odławiania | Sprawdzasz ilość i stan odłowionych zwierząt
+D: 6:00 Odprawa z ekipą przed odłowem, podział zadań | 7:00 Nadzorujesz ustawianie sieci przy zbiorniku | 11:00 Sprawdzasz pierwsze skrzynie z odłowu | 14:00 Rozliczasz ilość odłowu i zamawiasz transport
+Y: Zaplanuj na kartce, kto z pięciu osób ciągnie sieć, kto sortuje, a kto liczy ryby.

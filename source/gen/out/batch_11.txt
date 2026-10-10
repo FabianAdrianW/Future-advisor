@@ -1,0 +1,360 @@
+@660
+H: Pomagasz inżynierom sprawić, żeby nowy produkt działał lepiej: ustawiasz sprzęt, testujesz rozwiązania i szukasz przyczyn usterek. Dużo mierzysz i zapisujesz, co wyszło.
+T: Konfigurujesz sprzęt do prób | Testujesz prototypy i nowe rozwiązania | Zbierasz dane z pomiarów | Szukasz przyczyny problemu technicznego
+D: 8:00 Odbierasz od inżyniera plan dzisiejszych prób | 10:00 Ustawiasz stanowisko i uruchamiasz test prototypu | 12:30 Prototyp zawodzi, szukasz, co poszło nie tak | 14:30 Spisujesz wyniki i wysyłasz je technologowi
+Y: Wybierz przedmiot z domu, np. zawias drzwiczek szafki, i sprawdź 10 razy, czy działa zawsze tak samo.
+
+@661
+H: Pomagasz technologom opracować, jak z surowców powstaje bezpieczna żywność. Testujesz składniki, dodatki i opakowania oraz sprawdzasz, czy produkt spełnia przepisy.
+T: Próbujesz nowych składników i dodatków | Testujesz, jak opakowanie chroni produkt | Pobierasz próbki z linii produkcyjnej | Sprawdzasz zgodność produktu z przepisami
+D: 7:00 Pobierasz próbki pierwszej partii z linii | 9:30 W laboratorium oceniasz wygląd, zapach i konsystencję | 12:00 Próbna receptura z mniejszą ilością cukru | 14:00 Zestawiasz wyniki i sprawdzasz je z przepisami
+Y: Porównaj składy na opakowaniach dwóch podobnych produktów z kuchni i zapisz trzy różnice.
+
+@662
+H: Sprawdzasz w laboratorium, czy silnik samolotowy pracuje tak, jak powinien. Montujesz go na stanowisku testowym i zapisujesz wyniki pomiarów.
+T: Montujesz silnik na stanowisku testowym | Łączysz go narzędziami ręcznymi z instalacją | Odczytujesz temperaturę, obroty i ciśnienie oleju | Zapisujesz zużycie paliwa i ciśnienie spalin
+D: 7:30 Kontrolujesz plan prób i dokumenty silnika | 9:00 Silnik trafia na stanowisko, łączysz go z instalacją | 11:00 Uruchamiasz próbę i obserwujesz wskazania na ekranie | 14:00 Porównujesz zapisane dane z normami producenta
+Y: Znajdź schemat silnika odrzutowego i na kartce podpisz sprężarkę, komorę spalania i turbinę.
+
+@663
+H: Wchodzisz na pokład statków i sprawdzasz, czy statek i jego wyposażenie spełniają międzynarodowe przepisy morskie. Piszesz, co jest w porządku, a co trzeba poprawić.
+T: Wchodzisz na pokład i oglądasz statek | Sprawdzasz sprzęt pod kątem międzynarodowych przepisów | Oceniasz obiekty i projekty na morzu | Piszesz raport z zaleceniami poprawek
+D: 7:00 Jedziesz do portu, statek stoi przy nabrzeżu | 9:00 Oglądasz kadłub, sprzęt ratunkowy i oznaczenia | 13:00 Rozmawiasz z kapitanem o znalezionych usterkach | 16:00 Piszesz raport z inspekcji w biurze portowym
+Y: Zrób listę kontrolną 5 rzeczy awaryjnych w domu, np. apteczka, latarka, i odhacz, które są na miejscu.
+
+@664
+H: Liczysz na komputerze, czy konstrukcja wytrzyma obciążenia i zmęczenie materiału, zanim ktoś ją zbuduje. Wyniki opisujesz w raportach dla zespołu projektowego.
+T: Planujesz analizy wytrzymałości konstrukcji | Liczysz obciążenia statyczne i zmęczenie materiału | Piszesz raporty techniczne z wynikami | Proponujesz zmiany w projekcie
+D: 8:30 Sprawdzasz, czy wczorajsze obliczenia się zakończyły | 10:00 Analizujesz miejsca, gdzie konstrukcja najbardziej się odkształca | 13:00 Przegląd projektu z konstruktorami, bronisz swoich wyników | 15:00 Piszesz sprawozdanie i plan badań konstrukcji
+Y: Zbuduj most z kartki papieru między dwoma stosami książek i policz, ile monet utrzyma.
+
+@665
+H: Organizujesz, kto i kiedy przegląda oraz naprawia maszyny w zakładzie, żeby nic nie stanęło. Pilnujesz też, żeby przeglądy były zgodne z zasadami bezpieczeństwa i higieny.
+T: Planujesz przeglądy maszyn na cały tydzień | Przydzielasz zadania zespołowi konserwatorów | Sprawdzasz, czy przeglądy spełniają normy bezpieczeństwa | Reagujesz, gdy maszyna się zatrzyma
+D: 6:30 Odprawa z ekipą, rozdajesz zlecenia na zmianę | 8:30 Obchód hali, oglądasz maszyny z listą przeglądów | 11:00 Linia stanęła, decydujesz, kogo wysłać do naprawy | 14:00 Sprawdzasz papiery po przeglądzie i zamawiasz części
+Y: Zrób listę 5 rzeczy w domu do regularnego sprawdzania, np. zawiasów, i przypisz każdej dzień tygodnia.
+
+@666
+H: Oglądasz silniki samolotów w zakładzie i decydujesz, czy spełniają normy, zanim wrócą do użytku. Kontrolujesz je po przeglądzie, po wypadku i przed oddaniem.
+T: Kontrolujesz silnik po przeglądzie lub wypadku | Porównujesz stan silnika z normami | Przeglądasz dokumentację napraw i rejestry | Zgłaszasz ustalenia do obsługi technicznej
+D: 7:00 Silnik po remoncie czeka na twoją kontrolę | 9:30 Sprawdzasz łopatki, połączenia i szczelność | 12:00 Przeglądasz karty napraw, czy każdy krok jest zapisany | 14:30 Zgłaszasz usterkę i silnik wraca do poprawek
+Y: Wybierz przedmiot z ruchomą częścią i zrób listę 5 punktów kontroli, każdy oceń: dobrze albo do poprawki.
+
+@667
+H: Kontrolujesz silniki lokomotyw, wysokoprężne i elektryczne, zanim wrócą na tory. Sprawdzasz je okresowo, po przeglądzie i po wypadku oraz opisujesz, co trzeba poprawić.
+T: Oglądasz silniki wysokoprężne i elektryczne lokomotyw | Wykonujesz kontrole okresowe i powypadkowe | Przygotowujesz dokumentację działań naprawczych | Analizujesz, jak sprawnie pracują silniki
+D: 6:00 Lokomotywa stoi w hali, zaczynasz od silnika | 8:30 Kontrola po przeglądzie, zaglądasz do każdej sekcji | 11:30 Znajdujesz zużytą część i opisujesz usterkę | 14:00 Przekazujesz warsztatowi zalecenia naprawcze na piśmie
+Y: Znajdź zdjęcie lokomotywy i wypisz 5 elementów, które według ciebie wymagają regularnej kontroli.
+
+@668
+H: Kontrolujesz silniki samochodów, autobusów i ciężarówek w zakładzie montażowym lub warsztacie. Sprawdzasz zgodność z normami i opisujesz, co trzeba naprawić.
+T: Kontrolujesz silniki różnych typów napędu | Robisz kontrole po przeglądzie i wypadku | Opisujesz wymagane działania naprawcze | Wspierasz warsztaty radą techniczną
+D: 6:30 Odbierasz z linii pierwsze silniki do kontroli | 9:00 Sprawdzasz silnik po montażu, punkt po punkcie | 11:30 Silnik z wypadku, oceniasz, czy nadaje się do naprawy | 14:00 Dzwonisz do warsztatu i opisujesz usterkę
+Y: Wypisz 5 rzeczy, które twoim zdaniem trzeba sprawdzić w nowym silniku, zanim auto trafi do klienta.
+
+@669
+H: Oceniasz stan wagonów towarowych i pasażerskich, zanim pociąg ruszy w drogę. Sprawdzasz urządzenia techniczne, hamulce i dokumenty, a czasem robisz drobne naprawy od ręki.
+T: Oceniasz stan techniczny wagonów | Sprawdzasz urządzenia techniczne i hamulce | Wypełniasz listy kontrolne i dokumenty | Wykonujesz drobne naprawy lub wymiany
+D: 5:30 Skład stoi na torze, zaczynasz obchód wagonów | 7:00 Sprawdzasz hamulce w wagonach towarowych | 10:00 Wagon pasażerski ma usterkę, zgłaszasz wymianę | 13:30 Podpisujesz dokumenty i dopuszczasz skład do jazdy
+Y: Sprawdź w szkolnym plecaku zamki, szelki i szwy, a potem zapisz, co jest uszkodzone lub zużyte.
+
+@670
+H: Badasz spoiny między metalami i oceniasz, czy połączenie jest bezpieczne. Część czasu spędzasz w terenie przy konstrukcjach, a część w biurze nad raportami.
+T: Oglądasz spoiny i oceniasz ich jakość | Badasz połączenia metali przyrządami | Sprawdzasz zgodność materiałów z wytycznymi | Piszesz sprawozdania w biurze
+D: 7:30 Dojeżdżasz na plac, gdzie spawają konstrukcję | 9:00 Oglądasz spoiny z latarką i lupą | 11:30 Znajdujesz wadę i oznaczasz miejsce do poprawki | 14:00 W biurze piszesz sprawozdanie z kontroli
+Y: Obejrzyj z bliska 3 metalowe połączenia w domu, np. nity lub śruby, i opisz, czy wyglądają solidnie.
+
+@671
+H: Kontrolujesz silniki statków i łodzi w zakładzie montażowym, od diesli po napędy elektryczne. Sprawdzasz zgodność z normami, także po przeglądach i po wypadkach.
+T: Kontrolujesz silniki statków i łodzi | Sprawdzasz zgodność z normami bezpieczeństwa | Robisz inspekcje przed oddaniem do eksploatacji | Oceniasz silnik po przeglądzie lub wypadku
+D: 7:00 Nowy silnik okrętowy stoi w hali montażowej | 9:30 Oglądasz uszczelnienia i połączenia z listą wymagań | 12:00 Silnik łodzi po awarii, oceniasz uszkodzenia | 15:00 Podpisujesz protokół przed oddaniem do eksploatacji
+Y: Znajdź zdjęcie silnika zaburtowego i zapisz trzy powody, dla których woda i sól mogą mu szkodzić.
+
+@672
+H: Sprawdzasz, jak wydajnie pracują silniki lokomotyw, wysokoprężne i elektryczne. Ustawiasz je na stanowisku testowym i notujesz odczyty z próby.
+T: Ustawiasz silnik lokomotywy na stanowisku | Łączysz go narzędziami z aparaturą pomiarową | Odczytujesz temperaturę, obroty i zużycie paliwa | Zapisujesz dane próby w komputerze
+D: 7:00 Silnik lokomotywy dojeżdża na stanowisko testowe | 9:00 Podłączasz go do aparatury i sprawdzasz połączenia | 10:30 Podczas próby pilnujesz obrotów i ciśnienia oleju | 14:00 Wyniki odbiegają od normy, szukasz przyczyny
+Y: Zakręć monetą 5 razy, zmierz stoperem czas każdego kręcenia i zapisz wyniki w tabeli.
+
+@673
+H: Badasz sprawność silników samochodowych, od diesla i benzyny po gaz i napęd elektryczny. W laboratorium podłączasz silnik do stanowiska i zapisujesz, jak pracuje.
+T: Testujesz silniki różnych rodzajów paliwa | Podłączasz silnik do aparatury narzędziami ręcznymi | Mierzysz zużycie paliwa i ciśnienie spalin | Wprowadzasz wyniki do komputera
+D: 7:30 Do laboratorium trafia nowy silnik benzynowy | 9:30 Mocujesz go na stanowisku i łączysz z aparaturą | 11:00 Odczytujesz zużycie paliwa przy różnych obrotach | 14:00 Porównujesz wyniki z poprzednią wersją silnika
+Y: Znajdź w sieci, czym różni się silnik benzynowy od diesla, i zapisz trzy różnice własnymi słowami.
+
+@674
+H: Testujesz w specjalistycznym zakładzie, jak pracują silniki statków. Badasz ich parametry na stanowisku testowym i zapisujesz wyniki.
+T: Dajesz ekipie instrukcje ustawienia silnika | Łączysz silnik z aparaturą narzędziami ręcznymi | Badasz parametry pracy silnika okrętowego | Zapisujesz wyniki do dalszej analizy
+D: 7:00 Wielki silnik okrętowy czeka na stanowisku testowym | 9:00 Dajesz ekipie instrukcje, jak go ustawić | 11:30 Badasz parametry przy rosnącym obciążeniu | 14:30 Zestawiasz pomiary w raport dla projektantów
+Y: Zrób papierową łódkę i zmierz stoperem, jak szybko przepłynie miskę po jednym dmuchnięciu; powtórz 3 razy.
+
+@675
+H: Wspierasz inżynierów przy produkcji urządzeń mechanicznych: rysujesz układy, pomagasz w projektach i testujesz. Zestawiasz dane i opisujesz wyniki w sprawozdaniach.
+T: Rysujesz układy i rysunki techniczne | Pomagasz w projektach i modyfikacjach | Przeprowadzasz testy urządzeń | Zestawiasz dane i piszesz sprawozdania
+D: 7:30 Inżynier przekazuje poprawki do rysunku mechanizmu | 9:30 Rysujesz nowy układ elementów | 11:30 Na hali testujesz prototyp i notujesz wyniki | 14:00 Zestawiasz dane w tabelę i piszesz sprawozdanie
+Y: Zmierz linijką kubek, zapisz wymiary i naszkicuj go z boku z wymiarami, jak na rysunku technicznym.
+
+@676
+H: Razem z inżynierami obsługujesz, konserwujesz i testujesz sprzęt w samolotach i statkach kosmicznych. Czytasz schematy i instrukcje, sprawdzasz, czy części działają, i zapisujesz wyniki.
+T: Czytasz schematy i instrukcje testów | Sprawdzasz, czy części statku działają | Konserwujesz sprzęt statków powietrznych | Zapisujesz wyniki badań i zalecenia
+D: 6:00 W hangarze czytasz plan przeglądu samolotu | 8:00 Sprawdzasz część według instrukcji, krok po kroku | 11:00 Test pokazuje odchyłkę, szukasz przyczyny | 14:00 Wpisujesz wyniki i zalecasz zmianę części
+Y: Złóż papierowy samolot, puść go trzy razy, odegnij końcówki skrzydeł i zapisz, co się zmieniło.
+
+@677
+H: Wspierasz inżynierów przy projektowaniu, budowie, testowaniu i konserwacji łodzi i okrętów, od jachtów po okręty podwodne. Prowadzisz eksperymenty, zbierasz dane i opisujesz wnioski.
+T: Pomagasz przy projekcie i budowie łodzi | Instalujesz i testujesz urządzenia okrętowe | Prowadzisz eksperymenty i zbierasz dane | Przedstawiasz ustalenia inżynierom
+D: 7:30 W stoczni omawiasz z inżynierem postęp budowy | 10:00 Przy kadłubie sprawdzasz montaż urządzeń | 12:30 Przeprowadzasz próbę i zapisujesz dane | 15:00 Przedstawiasz inżynierom wnioski z prób
+Y: Ulep z folii aluminiowej dwie łódki o różnych kształtach i sprawdź, która udźwignie więcej monet.
+
+@678
+H: Pomagasz inżynierom taboru przy projektowaniu, budowie, testach i konserwacji pojazdów szynowych: wagonów, lokomotyw i zespołów trakcyjnych. Prowadzisz eksperymenty i analizujesz dane.
+T: Pomagasz przy projektach pojazdów szynowych | Instalujesz i konserwujesz wózki i zespoły | Testujesz lokomotywy i wagony | Analizujesz dane z eksperymentów
+D: 7:00 W zakładzie taboru dostajesz zadania od inżyniera | 9:00 Sprawdzasz montaż elementów wózka wagonu | 11:30 Test lokomotywy w hali, notujesz wyniki | 14:00 Analizujesz dane i przedstawiasz wnioski
+Y: Zrób z pudełek wagony na sznurku, ciągnij je po podłodze z ładunkiem i bez, i opisz różnicę.
+
+@679
+H: Planujesz i pilnujesz produkcji w zakładzie, a gdy coś nie działa, szukasz technicznego rozwiązania. Współpracujesz z inżynierami i technologami, kontrolujesz produkty i przeprowadzasz testy.
+T: Planujesz produkcję na kolejne dni | Śledzisz przebieg procesu na linii | Kontrolujesz gotowe produkty | Testujesz rozwiązania problemów technicznych
+D: 6:00 Zmiana, sprawdzasz, ile linia wyprodukowała w nocy | 8:30 Linia zwalnia, szukasz przyczyny z operatorem | 11:00 Narada z technologiem o zmianie ustawień | 14:00 Kontrolujesz próbkę produktów i zapisujesz pomiary
+Y: Zmierz stoperem każdy krok pakowania plecaka na jutro i wskaż etap, który najbardziej wydłuża całość.
+
+@680
+H: Łączysz mechanikę, elektronikę i komputery w jednym urządzeniu. Razem z inżynierami budujesz, testujesz i ustawiasz takie układy, a gdy nie działają, szukasz błędu.
+T: Budujesz układy z mechaniki i elektroniki | Testujesz i instalujesz urządzenia mechatroniczne | Kalibrujesz układy do właściwych parametrów | Szukasz usterek i usuwasz problemy
+D: 7:30 Dostajesz od inżyniera schemat nowego urządzenia | 9:30 Składasz mechanikę i podłączasz elektronikę | 12:00 Układ nie reaguje, sprawdzasz po kolei każdy element | 14:30 Kalibrujesz urządzenie i zapisujesz wyniki testu
+Y: Narysuj na kartce pomysł automatycznej bramki i zaznacz, które części to mechanika, a które elektronika.
+
+@681
+H: Budujesz i testujesz prototypy urządzeń z elementami optycznymi: zwierciadłami, stołami optycznymi i mocowaniami. Precyzyjnie je ustawiasz i dobierasz materiały.
+T: Konstruujesz prototypy urządzeń optomechanicznych | Montujesz zwierciadła i mocowania optyczne | Testujesz i konserwujesz gotowe układy | Określasz wymagane materiały i sposób montażu
+D: 8:00 Odbierasz od inżyniera rysunki nowego mocowania | 10:00 Montujesz zwierciadło na tablicy optycznej bardzo ostrożnie | 13:00 Sprawdzasz, czy ustawienie nie zmienia się w czasie | 15:30 Dobierasz materiały do kolejnej wersji prototypu
+Y: Złap małym lusterkiem światło z okna i utrzymaj plamkę w jednym punkcie na ścianie przez minutę.
+
+@682
+H: Razem z inżynierami eksploatujesz, naprawiasz i testujesz sprzęt w pojazdach. Czytasz schematy, sprawdzasz, czy części działają, a wyniki prób zapisujesz razem z zaleceniami zmian.
+T: Czytasz schematy i plany pojazdu | Naprawiasz i konserwujesz sprzęt pojazdowy | Testujesz części i zapisujesz wyniki | Proponujesz zmiany po badaniach
+D: 7:30 Dostajesz pojazd i schemat do próby | 9:30 Sprawdzasz, czy część działa jak w projekcie | 12:00 Wynik testu odbiega od normy, szukasz przyczyny | 14:30 Spisujesz procedurę próby i zalecenia
+Y: Znajdź w sieci uproszczony schemat układu hamulcowego i opisz własnymi słowami, jak działa pedał.
+
+@683
+H: Oceniasz układy na sprężone powietrze, takie jak sprężarki, i podpowiadasz, jak sprawić, by działały sprawniej. Pomagasz też projektować takie układy i ich części.
+T: Oceniasz działanie sprężarek i układów | Zalecasz zmiany zwiększające efektywność | Projektujesz obwody pneumatyczne | Rysujesz podzespoły układu
+D: 8:00 Oglądasz na hali działającą sprężarkę i układ | 10:30 Szukasz miejsc, gdzie układ pracuje nieefektywnie | 13:00 Projektujesz nowy obwód dla maszyny klienta | 15:00 Omawiasz zalecane zmiany z inżynierem
+Y: Nadmuchaj balon i puść go, mierząc, jak daleko poleci; powtórz z mniejszą i większą ilością powietrza.
+
+@684
+H: Pomagasz projektować urządzenia, które ogrzewają, wietrzą, klimatyzują i chłodzą budynki. Pilnujesz norm środowiskowych i bezpiecznego obchodzenia się z substancjami używanymi w instalacjach.
+T: Pomagasz projektować ogrzewanie i wentylację | Dobierasz urządzenia do klimatyzacji i chłodzenia | Sprawdzasz zgodność sprzętu z normami środowiska | Dbasz o ostrożne obchodzenie się z substancjami
+D: 8:00 Oglądasz plan budynku i rozmieszczenie pomieszczeń | 10:00 Dobierasz klimatyzację do dużej sali | 12:30 Sprawdzasz, czy czynnik chłodniczy spełnia normy | 14:30 Omawiasz poprawki projektu z projektantem
+Y: Obejdź mieszkanie i zapisz w każdym pokoju, gdzie jest zimno lub duszno i dlaczego.
+
+@685
+H: Tworzysz rysunki techniczne pokazujące, jak coś jest zbudowane lub jak działa. Rysujesz na komputerze albo ręcznie, a według tych rysunków inni coś budują lub produkują.
+T: Rysujesz plany i rysunki techniczne | Przenosisz szkice inżyniera na dokumentację | Dobierasz wymiary i opisy do rysunku | Poprawiasz rysunki po uwagach
+D: 8:00 Dostajesz od inżyniera odręczny szkic do przerysowania | 10:00 Rysujesz widoki i wpisujesz wymiary | 13:00 Sprawdzasz rysunek, czy wymiary się zgadzają | 14:30 Wprowadzasz poprawki po uwagach konstruktora
+Y: Narysuj linijką widok z góry swojego pokoju w skali 1 cm na 50 cm i wpisz wymiary.
+
+@686
+H: Planujesz, jak na płytce elektronicznej poprowadzić ścieżki i gdzie umieścić elementy, żeby urządzenie działało. Rysujesz to na komputerze, a potem według twojego projektu powstaje płytka.
+T: Rysujesz schematy elektroniczne | Układasz elementy na płytce obwodu | Prowadzisz ścieżki miedziane i styki | Sprawdzasz logiczne rozmieszczenie torów
+D: 8:30 Dostajesz od inżyniera schemat nowego urządzenia | 10:00 Rozmieszczasz elementy tak, by tory były krótkie | 13:00 Prowadzisz ścieżki między stykami bez krzyżowania | 15:30 Poprawiasz projekt po uwagach inżyniera
+Y: Narysuj na kartce 6 punktów i połącz je w trzy pary liniami, które się nie przecinają.
+
+@687
+H: Projektujesz odzież na komputerze: płaski rysunek ubrania albo jego model trójwymiarowy. Dzięki temu produkt widać w wersji wirtualnej, zanim ktoś go uszyje.
+T: Rysujesz płaski wygląd ubrania | Budujesz trójwymiarowy model odzieży | Oglądasz produkt w wersji wirtualnej | Poprawiasz projekt przed szyciem
+D: 8:00 Dostajesz szkic nowej kurtki od projektanta | 10:00 Rysujesz płaski wzór z częściami ubrania | 12:30 Przerabiasz projekt na model trójwymiarowy | 14:30 Oglądasz wirtualną wersję i poprawiasz krój
+Y: Narysuj płaski projekt koszulki z przodu i z tyłu i zaznacz, gdzie będą szwy.
+
+@688
+H: Pracujesz z drukarkami 3D: wspierasz projektowanie przedmiotów, od protez po miniatury, i dbasz, żeby wydruki wychodziły dobrze. Drukarki też konserwujesz, naprawiasz i czyścisz.
+T: Wspierasz projektowanie przedmiotów do druku | Sprawdzasz wyniki renderingu dla klientów | Przeprowadzasz próbne wydruki | Czyścisz, konserwujesz i naprawiasz drukarki
+D: 8:00 Czyścisz drukarkę i sprawdzasz, czy jest gotowa | 9:30 Oglądasz projekt klienta na ekranie przed wydrukiem | 11:00 Uruchamiasz próbny wydruk miniatury | 14:00 Wydruk wyszedł krzywo, szukasz przyczyny
+Y: Ułóż z monet lub guzików mały stożek warstwami i narysuj, jak wygląda każda warstwa z góry.
+
+@689
+H: Zbierasz próbki skał i gruntu oraz opisujesz, jaki jest górotwór: jego budowę, kolor i stopień wietrzenia. Wyniki przekazujesz geologom i inżynierom.
+T: Pobierasz próbki skał i gleby | Opisujesz budowę, barwę i wietrzenie górotworu | Przygotowujesz próbki do badań | Mierzysz rozmiar podziemnych pustek
+D: 6:30 Wchodzisz na teren badań z torbą na próbki | 9:00 Pobierasz próbki skał i oznaczasz miejsce | 12:00 Opisujesz kolor i wietrzenie ściany skalnej | 15:00 Przekazujesz opis i próbki geologowi
+Y: Zbierz trzy różne kamienie z okolicy i opisz każdy: barwę, ciężar i to, czy się kruszy.
+
+@690
+H: Nadzorujesz w kopalni systemy bezpieczeństwa i higieny pracy. Oceniasz zagrożenia dla ludzi, opisujesz wypadki i proponujesz, jak im zapobiec.
+T: Oceniasz zagrożenia dla zdrowia i bezpieczeństwa | Zgłaszasz wypadki w miejscu pracy | Opracowujesz statystyki wypadków | Proponujesz nowe środki i techniki ochrony
+D: 6:00 Zaczynasz obchód wyrobisk razem z górnikami | 9:00 Zgłaszasz brak zabezpieczenia przy maszynie | 12:00 Spisujesz wypadek i rozmawiasz ze świadkami | 14:30 Zestawiasz statystyki i piszesz zalecenia
+Y: Obejdź mieszkanie i zapisz 5 możliwych zagrożeń, np. śliską podłogę, oraz sposób na ich zmniejszenie.
+
+@691
+H: Mierzysz teren i wyrobiska w górnictwie, żeby wiedzieć, jak postępuje wydobycie. Obsługujesz przyrządy pomiarowe i liczysz wyniki.
+T: Wykonujesz pomiary geodezyjne i topograficzne | Obsługujesz przyrządy pomiarowe w terenie | Liczysz wyniki pomiarów | Sprawdzasz postęp prac wydobywczych
+D: 6:30 Ustawiasz przyrząd pomiarowy na stanowisku | 8:30 Mierzysz punkty na ścianie wyrobiska | 11:30 W biurze wprowadzasz dane i liczysz objętość | 13:30 Porównujesz wynik z planem wydobycia
+Y: Zmierz długość pokoju krokami, potem linijką lub miarką, i oblicz długość swojego kroku.
+
+@692
+H: Wspierasz badania i eksperymenty na minerałach, metalach, stopach, ropie i gazie oraz pomagasz ulepszać metody wydobycia. Pracujesz przy próbkach i zapisujesz, co z nich wynika.
+T: Pomagasz w badaniach minerałów i metali | Prowadzisz eksperymenty na stopach | Zbierasz i zapisujesz wyniki prób | Pomagasz usprawniać metody wydobycia
+D: 7:00 Odbierasz próbki rudy do badań | 9:00 Przygotowujesz próbki w laboratorium | 11:30 Eksperyment ze stopem, notujesz każdy parametr | 14:00 Omawiasz z inżynierem, co poprawić w wydobyciu
+Y: Porównaj magnesem 4 metalowe przedmioty z domu i opisz, które się przyciągają, a które nie.
+
+@693
+H: Obsługujesz i pilnujesz urządzenia, które zamieniają wodę morską w wodę nadającą się do użytku. Monitorujesz pracę instalacji i dbasz, żeby działała zgodnie z przepisami.
+T: Obsługujesz urządzenia do odsalania wody | Monitorujesz parametry pracy instalacji | Utrzymujesz urządzenia w ruchu | Pilnujesz zgodności z przepisami bezpieczeństwa
+D: 6:00 Przejmujesz zmianę i czytasz zapisy z nocy | 8:00 Obchodzisz instalację i sprawdzasz wskazania | 11:00 Urządzenie zgłasza alarm, szukasz przyczyny | 13:30 Wpisujesz do dziennika stan instalacji
+Y: Dowiedz się, dlaczego woda morska nie nadaje się do picia, i zapisz trzy powody.
+
+@694
+H: Opracowujesz receptury kolorów i mieszanek barwiących do skór. Dbasz, żeby kolor wyglądał tak samo, nawet gdy skóry pochodzą z różnych dostaw.
+T: Tworzysz receptury kolorów do skór | Przygotowujesz mieszanki barwiące | Porównujesz próbki koloru ze wzorcem | Wyrównujesz kolor między partiami materiału
+D: 7:00 Dostajesz wzorzec koloru od klienta | 8:30 Mieszasz barwniki według receptury na próbkę | 11:00 Porównujesz próbkę ze wzorcem przy świetle dziennym | 14:00 Nowa partia wychodzi inna, poprawiasz recepturę
+Y: Pomieszaj dwie farby lub kredki na kartce, by uzyskać kolor podobny do wybranego przedmiotu, i zapisz proporcje.
+
+@695
+H: Badasz asfalt i surowce do niego w laboratorium i sprawdzasz, czy nawierzchnia będzie dobrej jakości. Czasem jedziesz na plac budowy, żeby pomóc rozwiązać problem.
+T: Kontrolujesz asfalt i powiązane surowce | Wykonujesz badania laboratoryjne próbek | Oceniasz jakość produktów nawierzchniowych | Pomagasz rozwiązywać problemy na placu budowy
+D: 7:00 Dostajesz próbki asfaltu z nowej dostawy | 9:00 W laboratorium badasz próbki | 11:30 Wyniki odbiegają od wymagań, powtarzasz badanie | 13:30 Jedziesz na plac budowy sprawdzić nawierzchnię
+Y: Znajdź w sieci zdjęcia uszkodzonej drogi i wypisz trzy rodzaje uszkodzeń, które widzisz.
+
+@696
+H: Wykonujesz precyzyjne pomiary produktów chemicznych i sprawdzasz, czy spełniają wymagania. Wiele badań robisz na maszynach i systemach sterowanych komputerowo.
+T: Wykonujesz kontrole i precyzyjne pomiary | Obsługujesz maszyny sterowane komputerowo | Badasz jakość próbek produktu | Zapisujesz wyniki i zgłaszasz odchylenia
+D: 6:00 Pobierasz próbki z pierwszej partii produkcyjnej | 7:30 Mierzysz ich parametry na maszynie | 10:00 Wynik wychodzi poza normę, powtarzasz pomiar | 13:00 Zgłaszasz odchylenie i zapisujesz je w raporcie
+Y: Zmierz linijką średnicę pięciu takich samych monet i zapisz, czy wszystkie mają identyczny wynik.
+
+@697
+H: Zbierasz niebezpieczne odpady, na przykład łatwopalne, żrące lub trujące, z zakładów i domów i wozisz je do zakładu przetwarzania. Pilnujesz, żeby zostały zniszczone zgodnie z przepisami.
+T: Zbierasz odpady niebezpieczne z zakładów | Transportujesz je do zakładu przetwarzania | Pomagasz usuwać wycieki odpadów | Doradzasz, jak je prawidłowo przetwarzać
+D: 6:00 Odbierasz zlecenie i sprawdzasz dokumenty odpadów | 7:30 Ładujesz oznaczone beczki, zakładasz odzież ochronną | 11:00 Wyciek w zakładzie, zabezpieczasz miejsce i wzywasz ekipę | 14:00 Rozładunek w zakładzie przetwarzania i podpisy
+Y: Znajdź w sieci znaki ostrzegawcze dla substancji niebezpiecznych i narysuj trzy z opisem znaczenia.
+
+@698
+H: Przetwarzasz surowce w produkty chemiczne, testujesz je i sprawdzasz, jak poprawić pracę zakładu. Możesz pracować przy tworzywach sztucznych, papierze lub lekach.
+T: Przetwarzasz surowce na produkty chemiczne | Testujesz nowe produkty w laboratorium | Obserwujesz przebieg procesów w zakładzie | Wskazujesz, jak poprawić proces
+D: 6:30 Sprawdzasz, jak zakład pracował w nocy | 8:30 Opracowujesz próbną partię produktu z surowców | 11:00 Testujesz próbkę i porównujesz z wymaganiami | 14:00 Proponujesz zmianę, by proces szedł sprawniej
+Y: Porwij kartkę na drobne kawałki, namocz w wodzie i rozgnieć na papkę; rozprowadź cienką warstwę do wyschnięcia.
+
+@699
+H: Testujesz i ustawiasz sprzęt elektryczny i elektroniczny tak, żeby działał i wskazywał dokładnie według wzorca. Dla każdego produktu opracowujesz procedurę badań na podstawie schematów.
+T: Testujesz sprzęt elektryczny i elektroniczny | Kalibrujesz przyrządy do wzorca | Czytasz schematy i rysunki techniczne | Piszesz procedurę badań dla produktu
+D: 7:30 Czytasz schemat nowego przyrządu i plan kalibracji | 9:30 Porównujesz wskazania przyrządu ze wzorcem | 12:00 Przyrząd się rozjechał, regulujesz go i mierzysz ponownie | 14:30 Zapisujesz procedurę badań i wyniki
+Y: Przyłóż do siebie dwie linijki i zapisz, na którym centymetrze ich podziałki się rozjeżdżają.
+
+@700
+H: Budujesz, instalujesz i naprawiasz urządzenia, w których razem działają mechanika i elektryka. Sprawdzasz je przyrządami pomiarowymi i lutujesz uszkodzone połączenia.
+T: Konstruujesz urządzenia elektromechaniczne | Testujesz obwody oscyloskopem i woltomierzem | Lutujesz uszkodzone połączenia w urządzeniach | Monitorujesz i konserwujesz systemy
+D: 7:00 Urządzenie wróciło z reklamacji, oglądasz je | 9:00 Mierzysz napięcia w obwodzie i zapisujesz wyniki | 11:30 Lutujesz wymieniony element w płytce sterownika | 14:00 Instalujesz sprawny układ u klienta
+Y: Zbuduj z kartonu, spinacza i gumki prosty mechanizm, który coś porusza, gdy pociągniesz za sznurek.
+
+@701
+H: Pomagasz inżynierom elektrykom badać, projektować i uruchamiać instalacje oraz urządzenia elektryczne. Wykonujesz zadania techniczne, od testów po eksploatację.
+T: Wykonujesz elektryczne badania techniczne | Pomagasz projektować instalacje elektryczne | Testujesz urządzenia przed uruchomieniem | Obsługujesz instalacje i urządzenia w eksploatacji
+D: 7:00 Odbierasz od inżyniera zakres dzisiejszych badań | 9:00 Sprawdzasz instalację w rozdzielni według schematu | 12:00 Test wykazuje usterkę w obwodzie, szukasz przyczyny | 14:30 Dokumentujesz wyniki dla inżyniera
+Y: Narysuj na kartce schemat obwodu z ogniwem, wyłącznikiem i żarówką i podpisz, którędy płynie prąd.
+
+@702
+H: Instalujesz i utrzymujesz urządzenia w elektrowni wodnej. Sprawdzasz turbiny, szukasz przyczyn problemów i je naprawiasz, a inżynierom pomagasz przy ich budowie.
+T: Instalujesz systemy w elektrowni wodnej | Kontrolujesz turbiny i pozostałe urządzenia | Analizujesz problemy i naprawiasz usterki | Pilnujesz zgodności pracy turbin z przepisami
+D: 6:00 Obchód hali turbin, słuchasz, czy pracują równo | 8:30 Przegląd wyłączonej turbiny według harmonogramu | 11:00 Alarm w układzie, ustalasz, co go wywołało | 14:00 Pomagasz inżynierowi przy montażu nowego elementu
+Y: Zrób młynek z papierowego kubeczka i patyczka i sprawdź, czy kręci się pod strużką wody.
+
+@703
+H: Pomagasz inżynierom elektronikom opracowywać sprzęt i urządzenia elektroniczne. Budujesz je, testujesz i konserwujesz, a gdy nie działają, szukasz przyczyny.
+T: Budujesz urządzenia elektroniczne według schematu | Testujesz gotowe układy | Konserwujesz sprzęt elektroniczny | Szukasz przyczyny awarii
+D: 8:00 Dostajesz płytki z pierwszej serii do sprawdzenia | 10:00 Testujesz każde urządzenie i oznaczasz wadliwe | 12:30 Szukasz przyczyny, dlaczego jedno nie startuje | 14:30 Konserwujesz sprzęt testowy w pracowni
+Y: Zrób listę 6 domowych urządzeń elektronicznych i dla każdego zgadnij, co ma mierzyć lub wykrywać.
+
+@704
+H: Projektujesz i prowadzisz obiekty, które dostarczają energię z sieci do odbiorców. Szukasz sposobów na lepszą dystrybucję i pilnujesz, żeby odbiorcy mieli zasilanie.
+T: Projektujesz obiekty rozdzielające energię | Badasz sposoby optymalizacji dystrybucji | Monitorujesz zautomatyzowane procesy w zakładach | Sprawdzasz zgodność z przepisami bezpieczeństwa
+D: 7:30 Na ekranach sprawdzasz obciążenie sieci w regionie | 9:30 Planujesz rozbudowę stacji dla nowego osiedla | 12:00 Awaria u odbiorców, ustalasz, jak przywrócić zasilanie | 15:00 Przegląd bezpieczeństwa zakładu z zespołem
+Y: Narysuj mapę mieszkania i zaznacz, w których pokojach jest najwięcej urządzeń zasilanych z gniazdek.
+
+@705
+H: Projektujesz elementy i urządzenia oparte na elektromagnesach, jak głośniki, blokady, magnesy do rezonansu czy silniki elektryczne. Często sprawdzasz pomysły w symulacjach komputerowych.
+T: Projektujesz elektromagnesy do głośników i silników | Opracowujesz magnesy do rezonansu magnetycznego | Tworzysz blokady elektromagnetyczne | Symulujesz pola elektromagnetyczne w komputerze
+D: 8:30 Analizujesz wyniki wczorajszej symulacji pola magnetycznego | 10:30 Zmieniasz kształt magnesu, żeby wzmocnić pole | 13:00 Narada z zespołem o nowym silniku | 15:00 Opisujesz projekt w dokumentacji
+Y: Sprawdź magnesem z lodówki, jakie przedmioty w domu przyciąga i przez ile kartek papieru jeszcze działa.
+
+@706
+H: Projektujesz systemy, które wytwarzają energię elektryczną, i wymyślasz, jak ulepszyć te, które już działają. Szukasz rozwiązań jednocześnie trwałych, skutecznych i opłacalnych dla odbiorców.
+T: Projektujesz systemy wytwarzania energii | Planujesz ulepszenia istniejących elektrowni | Porównujesz rozwiązania pod kątem zrównoważenia | Włączasz się w projekty wymagające dostaw energii
+D: 8:30 Otwierasz projekt modernizacji starej elektrowni | 10:30 Porównujesz dwie wersje, tańszą i czystszą | 13:30 Spotkanie z zespołem projektu potrzebującego dostaw energii | 15:30 Piszesz strategię modernizacji dla inwestora
+Y: Wypisz źródła energii, z których może korzystać Polska, i przy każdym dopisz jedną zaletę i wadę.
+
+@707
+H: Projektujesz maszyny i sprzęt, w których współpracuje mechanika z elektryką. Szkicujesz, opisujesz materiały i montaż, badasz prototypy i pilnujesz produkcji.
+T: Szkicujesz maszyny i ich układ | Przygotowujesz dokumenty z materiałami i montażem | Badasz i oceniasz prototypy | Nadzorujesz wytwarzanie urządzeń
+D: 8:00 Szkicujesz układ nowej maszyny z napędem | 10:30 Piszesz specyfikację materiałów dla zamówień | 13:00 Prototyp wraca z testów, oceniasz wyniki | 15:00 Jedziesz na halę, nadzorujesz montaż serii
+Y: Narysuj szkic prostego urządzenia, np. otwieracza drzwi na sznurek, i wypisz materiały do jego zbudowania.
+
+@708
+H: Projektujesz systemy elektryczne, silniki i sprzęt przesyłający energię, od wielkich elektrowni po urządzenia w domach. Odpowiadasz za to, żeby działały i były bezpieczne.
+T: Projektujesz systemy i podzespoły elektryczne | Rozwijasz silniki i sprzęt do przesyłu energii | Pracujesz przy projektach elektrowni | Dostosowujesz rozwiązania do urządzeń domowych
+D: 8:30 Przeglądasz wymagania dla nowego urządzenia domowego | 10:30 Rysujesz schemat zasilania i liczysz obciążenia | 13:00 Konsultujesz projekt silnika z zespołem | 15:00 Poprawiasz dokumentację po uwagach z testów
+Y: Znajdź w sieci schemat drogi prądu od elektrowni do domu i opisz własnymi słowami każdy etap.
+
+@709
+H: Nadzorujesz zakup, instalację i konserwację sprzętu elektrycznego w kopalni. Organizujesz wymiany i naprawy urządzeń oraz ich części.
+T: Nadzorujesz zakup sprzętu elektrycznego | Pilnujesz instalacji urządzeń w kopalni | Organizujesz konserwację i naprawy | Organizujesz wymianę zużytych części
+D: 6:30 Odprawa z elektrykami przed zjazdem do kopalni | 8:30 Sprawdzasz, jak zainstalowano nową maszynę | 11:30 Urządzenie stanęło, organizujesz naprawę i część zamienną | 14:00 Porównujesz oferty dostawców i zamawiasz sprzęt
+Y: Wyobraź sobie kopalnię bez zasilania i wypisz 5 urządzeń, które przestałyby działać, oraz plan awaryjny.
+
+@710
+H: Projektujesz podstacje średniego i wysokiego napięcia, które przekazują i rozdzielają energię w sieci. Dbasz, żeby działały sprawnie oraz spełniały normy bezpieczeństwa i ochrony środowiska.
+T: Projektujesz podstacje średniego i wysokiego napięcia | Opracowujesz układ urządzeń na terenie podstacji | Sprawdzasz zgodność z normami bezpieczeństwa | Oceniasz wpływ obiektu na środowisko
+D: 8:00 Oglądasz mapę terenu pod nową podstację | 10:30 Rozmieszczasz urządzenia na planie podstacji | 13:00 Sprawdzasz odstępy i normy bezpieczeństwa | 15:00 Poprawiasz projekt po uwagach ochrony środowiska
+Y: Ustaw na stole 6 pudełek jako urządzenia tak, by każde miało dojście i odstęp, potem narysuj plan.
+
+@711
+H: Oceniasz, czego organizacja potrzebuje w telefonach, sieciach i łączności, i czy obecne systemy to zapewniają. Potem uczysz ludzi, jak z tych systemów korzystać.
+T: Analizujesz potrzeby łączności w organizacji | Oceniasz działanie istniejących systemów | Porównujesz możliwości systemów z wymaganiami | Szkolisz użytkowników z funkcji systemu
+D: 8:30 Rozmowa z dyrektorem, czego brakuje w łączności | 10:30 Analizujesz, jak działa obecny system telefoniczny | 13:00 Piszesz ocenę i listę potrzebnych zmian | 15:00 Szkolisz pracowników z nowych funkcji systemu
+Y: Zapisz, jakie sposoby łączności wykorzystuje twoja rodzina, i oceń, który jest najbardziej zawodny.
+
+@712
+H: Projektujesz, budujesz i testujesz sieci łączności, w tym radiowe i nadawcze. Rozmawiasz z klientami o potrzebach, nadzorujesz instalację sprzętu i szkolisz ludzi po wdrożeniu.
+T: Projektujesz systemy i sieci telekomunikacyjne | Analizujesz wymagania klientów | Nadzorujesz instalację sprzętu | Szkolisz pracowników po uruchomieniu systemu
+D: 8:00 Rozmawiasz z klientem o zasięgu w jego budynkach | 10:30 Rysujesz rozmieszczenie nadajników i urządzeń | 13:00 Jedziesz sprawdzić instalację sprzętu na miejscu | 15:30 Szkolisz pracowników klienta z obsługi
+Y: Połącz dwa kubeczki napiętym sznurkiem i sprawdź, z jakiej odległości słychać szept.
+
+@713
+H: Projektujesz obwody i układy elektroniczne z tranzystorów, diod, kondensatorów i rezystorów. Twoje projekty trafiają do telekomunikacji, sprzętu audio, przyrządów i sterowania.
+T: Projektujesz obwody elektroniczne | Dobierasz tranzystory, diody i kondensatory | Opracowujesz zastosowania w telekomunikacji i akustyce | Badasz działanie przyrządów i układów sterowania
+D: 8:30 Analizujesz wymagania dla nowego urządzenia | 10:00 Dobierasz elementy i rysujesz obwód | 13:00 Testujesz prototyp i mierzysz jego działanie | 15:30 Poprawiasz projekt po wynikach pomiarów
+Y: Dowiedz się, do czego służy rezystor, dioda i kondensator, i opisz każdy jednym zdaniem.
+
+@714
+H: Pilnujesz, żeby budowa szła zgodnie z planem na każdym etapie. Rozdzielasz zadania między brygady i rozwiązujesz problemy na bieżąco.
+T: Śledzisz postęp wszystkich etapów budowy | Koordynujesz pracę różnych brygad | Przydzielasz zadania na dany dzień | Rozwiązujesz problemy na placu budowy
+D: 6:30 Na placu rozdajesz brygadom zadania na dziś | 9:00 Sprawdzasz, czy murarze trzymają się planu | 11:30 Dostawa materiałów nie przyjechała, szukasz rozwiązania | 14:00 Odbierasz wykonaną pracę i planujesz jutro
+Y: Zaplanuj na kartce kolejność budowy domku z klocków lub pudełek i ustal, kto co robi.
+
+@715
+H: Nadzorujesz podwodne budowy, jak tunele, śluzy i filary mostów, i kierujesz pracą nurków. Instruujesz ich i pilnujesz zasad bezpieczeństwa.
+T: Monitorujesz podwodne prace budowlane | Kierujesz pracą nurków na budowie | Instruujesz nurków przed zadaniem | Pilnujesz przestrzegania przepisów bezpieczeństwa
+D: 6:30 Odprawa z nurkami, omawiasz plan zanurzenia | 8:00 Nurkowie schodzą pod wodę, ty nadzorujesz | 11:00 Nurek zgłasza problem przy filarze, zmieniasz plan | 14:00 Sprawdzasz sprzęt i zapisujesz postęp prac
+Y: Ułóż w wiadrze z wodą wieżę z pięciu klocków i opisz, co utrudnia pracę pod wodą.
+
+@716
+H: Montujesz i naprawiasz instalacje wodne, gazowe i kanalizacyjne w budynkach. Gniesz i tniesz rury, łączysz je i sprawdzasz, czy nic nie cieknie.
+T: Gniesz, tniesz i łączysz rury | Montujesz urządzenia sanitarne | Przeglądasz instalacje i usuwasz usterki | Testujesz instalacje przed oddaniem
+D: 7:30 Pierwszy klient, cieknie syfon pod zlewem | 10:00 Montujesz nową umywalkę w remontowanej łazience | 13:00 Przecinasz i łączysz rury do nowego grzejnika | 15:30 Sprawdzasz szczelność i pokazujesz klientowi
+Y: Obejrzyj wszystkie krany w domu i sprawdź, czy któryś kapie; zapisz, który i jak szybko.
+
+@717
+H: Układasz w wykopach rury kanalizacyjne, które odprowadzają ścieki z budynków. Pilnujesz kąta nachylenia i szczelności, budujesz studzienki i naprawiasz stare sieci.
+T: Wykopujesz rowy pod rury | Układasz rury pod właściwym kątem | Łączysz rury tak, by były wodoszczelne | Budujesz studzienki i naprawiasz sieci
+D: 7:00 Czytasz plan trasy rur i oznaczasz wykop | 8:00 Wykopujesz rów i układasz rury z nachyleniem | 11:30 Łączysz rury i sprawdzasz szczelność | 14:00 Budujesz studzienkę w miejscu skrzyżowania rur
+Y: Zwiń z folii rynnę, polej ją wodą i znajdź nachylenie, przy którym woda płynie, ale się nie przelewa.
+
+@718
+H: Budujesz instalacje, które doprowadzają wodę do pól i gleby, zwykle w rolnictwie. Specjalizujesz się w jednym lub kilku rodzajach stałych systemów nawadniania.
+T: Planujesz przebieg instalacji nawadniającej | Układasz rury i przewody na polu | Montujesz stałe systemy nawadniania | Sprawdzasz, czy woda dociera do całego pola
+D: 6:30 Wyznaczasz na polu linie dla nowych rur | 8:00 Układasz przewody i montujesz końcówki | 12:00 Uruchamiasz próbę i patrzysz, gdzie woda nie dochodzi | 15:00 Poprawiasz miejsca z za małym przepływem
+Y: Narysuj plan ogródka lub skrzynki z rzędami roślin i poprowadź linie rur tak, by woda dotarła wszędzie.
+
+@719
+H: Czyścisz i konserwujesz szamba i zbiorniki na ścieki oraz naprawiasz ich usterki. Obsługujesz maszyny do czyszczenia, trzymając się zasad bezpieczeństwa.
+T: Czyścisz zbiorniki i systemy septyczne | Naprawiasz uszkodzenia i usterki | Obsługujesz maszyny do czyszczenia | Stosujesz procedury bezpieczeństwa przy pracy
+D: 6:30 Ładujesz sprzęt na samochód i jedziesz do klientów | 8:00 Otwierasz zbiornik i oceniasz jego stan | 10:30 Czyścisz zbiornik maszyną do czyszczenia | 13:00 Naprawiasz uszkodzoną pokrywę i spisujesz zlecenie
+Y: Dowiedz się, jak działa szambo lub przydomowa oczyszczalnia, i narysuj prosty schemat z trzema częściami.
+

@@ -1,0 +1,179 @@
+@2010
+H: Tworzysz zapachy: komponujesz mieszanki z wielu składników, wąchasz próbki i poprawiasz je, aż zapach spełni oczekiwania klienta. Twoim głównym narzędziem jest nos.
+T: Komponujesz mieszanki zapachowe z wielu składników | Wąchasz i oceniasz próbki | Poprawiasz recepturę po testach | Dopasowujesz zapach do życzeń klienta
+D: 8:30 Wąchasz paski testowe z poprzedniej wersji | 10:00 Odmierzasz składniki nowej kompozycji | 13:00 Porównujesz dwie wersje zapachu z zespołem | 15:30 Zapisujesz proporcje i uwagi klienta
+Y: Powąchaj z zamkniętymi oczami pięć przypraw z kuchni i spróbuj opisać każdy zapach trzema słowami.
+
+@2011
+H: Błyskawicznie badasz skład chemiczny stali podczas jej wytopu w hucie. Na podstawie wyniku zespół poprawia skład płynnego metalu, zanim będzie za późno.
+T: Odbierasz próbki stali prosto z wytopu | Szybko analizujesz ich skład chemiczny | Przekazujesz wynik do operatorów pieca | Podpowiadasz, jak skorygować skład metalu
+D: 6:00 Przejmujesz zmianę w laboratorium huty | 8:15 Odbierasz gorącą próbkę z wytopu | 8:25 Podajesz wynik, operatorzy dodają składniki | 14:00 Kalibrujesz sprzęt i archiwizujesz wyniki
+Y: Zapisz, z jakich metali zrobione są trzy przedmioty w domu, i sprawdź, który przyciąga magnes.
+
+@2012
+H: Badasz, jak ludzie odbierają smak, zapach i konsystencję produktów. Prowadzisz testy z uczestnikami i na podstawie wyników zmieniasz jedzenie, napoje lub kosmetyki.
+T: Organizujesz testy smaku i zapachu z uczestnikami | Zbierasz oceny konsumentów | Analizujesz wyniki statystycznie | Pomagasz poprawiać smak i zapach produktów
+D: 8:00 Przygotowujesz próbki do degustacji z kodami | 10:00 Prowadzisz test z grupą osób | 13:00 Wpisujesz oceny uczestników do tabeli | 15:00 Liczysz wyniki i piszesz wnioski dla producenta
+Y: Daj domownikom dwa rodzaje tego samego produktu bez nazw i zapisz, który wybierze większość.
+
+@2013
+H: Badasz, jak zmienia się klimat przez dziesięciolecia, na podstawie dawnych pomiarów pogody. Na tej podstawie przewidujesz zmiany temperatur i doradzasz w sprawie ochrony środowiska, budownictwa czy rolnictwa.
+T: Analizujesz dane pogodowe z wielu lat | Wykrywasz trendy zmian temperatury | Przewidujesz przyszłe zmiany klimatu | Doradzasz rolnikom, budowniczym i urzędom
+D: 8:30 Pobierasz serie pomiarów z ostatnich dekad | 10:00 Wykrywasz trend ocieplenia w regionie | 13:00 Porównujesz dane z różnych stacji | 15:30 Piszesz raport dla urzędu o zagrożeniach
+Y: Zapisuj dziś temperaturę rano i wieczorem, a potem porównaj ją z tym, co pamiętasz sprzed tygodnia.
+
+@2014
+H: Analizujesz, co dzieje się w atmosferze, i przewidujesz pogodę na najbliższe dni. Twoje prognozy czytają ludzie, firmy i służby.
+T: Mierzysz temperaturę, wiatr i ciśnienie | Analizujesz mapy i modele pogodowe | Przygotowujesz prognozy i ostrzeżenia | Doradzasz użytkownikom informacji o pogodzie
+D: 5:30 Zbierasz nocne dane z czujników | 7:00 Analizujesz mapy i modele komputerowe | 9:00 Publikujesz prognozę na dziś i jutro | 15:00 Aktualizujesz ostrzeżenie przed burzą
+Y: Obserwuj dziś niebo trzy razy, zapisz chmury i wiatr, a wieczorem sprawdź, czy prognoza się sprawdziła.
+
+@2015
+H: Prognozujesz pogodę specjalnie dla lotniska: wiatr, widoczność, chmury i burze. Pilot decyduje o starcie i lądowaniu między innymi na podstawie Twoich komunikatów.
+T: Obserwujesz warunki pogodowe na lotnisku | Przygotowujesz godzinowe prognozy i ostrzeżenia | Przekazujesz komunikaty pilotom i liniom lotniczym | Prognozujesz pogodę na trasach lotów
+D: 5:00 Odczytujesz widoczność i podstawę chmur | 6:00 Wydajesz prognozę dla porannych odlotów | 12:00 Ostrzegasz przed mgłą nad lotniskiem | 21:00 Przekazujesz zmianę nocnemu koledze
+Y: Wyjrzyj przez okno i opisz widoczność, wiatr i chmury w formie krótkiego komunikatu dla pilota.
+
+@2016
+H: Zbierasz dane o pogodzie, tworzysz prognozę i przedstawiasz ją odbiorcom w radiu, telewizji lub internecie. Musisz nie tylko znać się na pogodzie, ale też mówić o niej zrozumiale.
+T: Zbierasz i oglądasz dane meteorologiczne | Tworzysz prognozę dla widzów i słuchaczy | Przygotowujesz mapy pogody do emisji | Przedstawiasz prognozę przed kamerą lub mikrofonem
+D: 6:00 Analizujesz nocne mapy pogodowe | 8:00 Przygotowujesz grafiki do porannej prognozy | 9:15 Prezentujesz pogodę na antenie | 17:00 Przygotowujesz prognozę na wieczorne wydanie
+Y: Nagraj telefonem trzyzdaniową prognozę pogody na jutro dla swojej okolicy i odsłuchaj, czy jest zrozumiała.
+
+@2017
+H: Zajmujesz się samą nauką o mierzeniu: tworzysz jednostki, metody i wzorce, na których opierają się wszystkie pomiary. Dzięki Tobie centymetr, kilogram czy sekunda znaczą to samo wszędzie.
+T: Opracowujesz metody pomiaru | Tworzysz i utrzymujesz wzorce jednostek | Szacujesz dokładność i niepewność pomiaru | Ulepszasz narzędzia do pomiarów
+D: 8:00 Sprawdzasz warunki w laboratorium wzorców | 9:30 Porównujesz wzorzec z kopią | 13:00 Liczysz niepewność pomiaru | 15:00 Piszesz opis nowej metody
+Y: Zmierz trzykrotnie długość biurka linijką i sprawdź, czy wyniki różnią się o milimetr.
+
+@2018
+H: Badasz gwiazdy, planety, galaktyki i materię w kosmosie, używając teleskopów i danych z satelitów. Większość pracy to analiza obrazów i liczb, a nie tylko patrzenie w niebo.
+T: Obserwujesz niebo przez teleskopy | Analizujesz dane z teleskopów i satelitów | Badasz budowę i rozwój ciał niebieskich | Piszesz artykuły naukowe o odkryciach
+D: 9:00 Przeglądasz nocne obserwacje z teleskopu | 11:00 Analizujesz jasność gwiazdy z danych | 14:00 Omawiasz wyniki ze współpracownikami | 21:00 Przy teleskopie zbierasz dane z nieba
+Y: Wyjdź wieczorem przed dom, policz widoczne gwiazdy w jednym fragmencie nieba i zapisz wynik.
+
+@2019
+H: Badasz prawa rządzące materią, energią i ruchem, od najmniejszych cząstek po wszechświat. Swoją wiedzę zamieniasz w nowe technologie, od energetyki po medycynę.
+T: Projektujesz doświadczenia i je przeprowadzasz | Mierzysz zjawiska fizyczne | Tworzysz modele matematyczne zjawisk | Zastosowujesz wyniki w technice i medycynie
+D: 8:30 Planujesz doświadczenie na nadchodzący tydzień | 10:00 Ustawiasz aparaturę i robisz pomiary | 13:00 Liczysz wyniki i budujesz model | 16:00 Omawiasz rezultaty na seminarium
+Y: Puść z tej samej wysokości lekką i ciężką piłeczkę i zapisz, która spadła pierwsza.
+
+@2020
+H: Zastanawiasz się, jak powstał wszechświat, jak się zmienia i jak się skończy. Wykorzystujesz obserwacje galaktyk, czarnych dziur i gwiazd oraz modele matematyczne.
+T: Analizujesz obserwacje odległych galaktyk | Badasz czarne dziury i ewolucję gwiazd | Budujesz modele powstania wszechświata | Sprawdzasz hipotezy o jego przyszłości
+D: 9:00 Pobierasz nowe obserwacje odległych galaktyk | 11:00 Sprawdzasz, czy dane pasują do modelu | 14:00 Dyskutujesz przy tablicy z kolegami | 16:30 Piszesz fragment artykułu o ekspansji
+Y: Nadmuchaj balon, narysuj na nim kropki i zobacz, jak oddalają się od siebie, gdy go nadmuchujesz.
+
+@2021
+H: Badasz, czym i gdzie zanieczyszczone jest powietrze. Pobierasz próbki w terenie, badasz je w laboratorium i wskazujesz, skąd pochodzi smog.
+T: Pobierasz próbki powietrza w terenie | Badasz je w laboratorium | Określasz źródła zanieczyszczeń | Porównujesz poziomy w różnych dzielnicach
+D: 7:30 Sprawdzasz stacje pomiarowe w mieście | 9:30 Zbierasz próbki obok fabryki | 13:00 Badasz je w laboratorium | 15:30 Porównujesz wyniki z poprzednim miesiącem
+Y: Sprawdź w internecie mapę jakości powietrza w Twoim mieście i zapisz najgorszą i najlepszą dzielnicę.
+
+@2022
+H: Pilnujesz czystości wód pod ziemią: pobierasz próbki ze studni i piezometrów i badasz je. Dbasz też o sprawność urządzeń, które mierzą jakość wody.
+T: Pobierasz próbki wód gruntowych ze studni | Badasz je w terenie i w laboratorium | Szukasz źródeł zanieczyszczenia | Konserwujesz urządzenia pomiarowe
+D: 7:00 Jedziesz do punktów pomiarowych na polach | 9:00 Opuszczasz sondę do studni i pobierasz wodę | 12:00 Opisujesz próbki i pakujesz je do laboratorium | 14:30 Naprawiasz uszkodzony czujnik poziomu wody
+Y: Narysuj prostą mapę, którędy deszczówka z Twojej ulicy może dostać się do gruntu.
+
+@2023
+H: Szukasz źródeł zanieczyszczeń gleby, wody i innych elementów środowiska. Pobierasz próbki, badasz je i pomagasz tworzyć plany ochrony przed skażeniami.
+T: Pobierasz próbki gleby i wody | Badasz poziom zanieczyszczenia | Ustalasz źródło skażenia | Pomagasz tworzyć plany ochrony środowiska
+D: 7:30 Pakujesz sprzęt do pobierania próbek | 9:00 Pobierasz glebę wokół zakładu | 13:00 Badasz poziom skażenia w terenie | 15:30 Spisujesz wyniki do planu ochrony
+Y: Obejdź okolicę domu i wypisz trzy możliwe źródła zanieczyszczeń, które zauważysz.
+
+@2024
+H: Pomagasz chemikom w laboratorium lub zakładzie: wykonujesz badania substancji, notujesz wyniki i pilnujesz przebiegu procesów. To praca precyzyjna i oparta na procedurach.
+T: Wykonujesz badania substancji według procedur | Monitorujesz procesy chemiczne w zakładzie | Notujesz i analizujesz dane z pomiarów | Zgłaszasz wyniki chemikom
+D: 7:00 Przygotowujesz stanowisko i sprzęt laboratoryjny | 8:30 Odmierzasz próbki i uruchamiasz badanie | 12:00 Notujesz wyniki serii pomiarów | 14:00 Omawiasz odchylenia z chemikiem
+Y: Odmierz łyżką dokładnie sto mililitrów wody, odlej do kubka i sprawdź wynik miarką kuchenną.
+
+@2025
+H: Rozdzielasz mieszaniny na składniki, żeby sprawdzić, co w nich jest. Obsługujesz i kalibrujesz specjalną aparaturę, a przy potrzebie opracowujesz nowe metody badań.
+T: Rozdzielasz próbki na składniki | Kalibrujesz aparaturę do chromatografii | Przygotowujesz roztwory i sprzęt | Opracowujesz nowe metody dla trudnych próbek
+D: 7:30 Kalibrujesz aparat przed serią próbek | 9:00 Wprowadzasz próbki i uruchamiasz analizę | 12:00 Odczytujesz wykresy z wynikami | 14:30 Poprawiasz metodę dla trudnej próbki
+Y: Narysuj kropkę flamastrem na kawałku bibuły, zanurz brzeg w wodzie i obserwuj, jak kolory się rozdzielają.
+
+@2026
+H: Badasz jedzenie w laboratorium: sprawdzasz jego skład, cechy fizyczne i obecność bakterii. Pilnujesz, żeby produkty trafiające do ludzi spełniały normy.
+T: Badasz skład chemiczny produktów spożywczych | Sprawdzasz zawartość drobnoustrojów | Mierzysz cechy fizyczne jedzenia | Wykonujesz badania według norm
+D: 7:00 Odbierasz próbki z linii produkcyjnej | 8:30 Przygotowujesz je do badania | 11:00 Sprawdzasz zawartość tłuszczu i wody | 14:00 Wpisujesz wyniki partii do rejestru
+Y: Przeczytaj etykietę produktu i zapisz, jaki procent stanowią tłuszcze, cukry i białko w 100 g.
+
+@2027
+H: Badasz skóry i wyroby skórzane w laboratorium: ich chemię, wytrzymałość i wpływ produkcji na środowisko. Dbasz, żeby wyniki zgadzały się z normami lub wymaganiami klienta.
+T: Wykonujesz chemiczne i fizyczne badania skór | Analizujesz substancje używane w garbarni | Sprawdzasz ścieki i emisje zanieczyszczeń | Przygotowujesz raporty zgodne z normami
+D: 7:30 Przyjmujesz partię skór do badań | 9:00 Mierzysz wytrzymałość na rozciąganie | 12:00 Badasz skład ścieków z garbarni | 14:30 Piszesz raport zgodny z wymaganiami klienta
+Y: Rozciągnij delikatnie skórzany pasek lub portfel i opisz, jak się zachowuje i jak pachnie.
+
+@2028
+H: Badasz glebę: jej rodzaj, skład i właściwości. Używasz sprzętu pomiarowego i obliczeń, żeby określić, do czego dany grunt się nadaje.
+T: Pobierasz próbki gleby | Klasyfikujesz rodzaje gleby | Mierzysz jej właściwości sprzętem badawczym | Wykonujesz obliczenia i interpretujesz dane
+D: 7:00 Jedziesz na pole pobrać próbki | 9:30 Wbijasz sondę i opisujesz kolejne warstwy | 13:00 W laboratorium przesiewasz i ważysz glebę | 15:30 Liczysz wyniki i klasyfikujesz grunt
+Y: Zwilż garść ziemi, ulep kulkę i wałeczek, a potem opisz, czy gleba jest piaszczysta czy gliniasta.
+
+@2029
+H: Pilnujesz, żeby poziom promieniowania w budynkach i obiektach, na przykład w elektrowniach jądrowych, był bezpieczny. Mierzysz go i planujesz działania na wypadek skażenia.
+T: Mierzysz poziomy promieniowania w obiektach | Sprawdzasz zgodność z normami bezpieczeństwa | Opracowujesz plany ochrony przed promieniowaniem | Ograniczasz skażenie w razie awarii
+D: 7:00 Zakładasz osłony i dozymetr przed obchodem | 8:00 Mierzysz poziom promieniowania w halach | 12:00 Analizujesz zapisy z czujników | 14:00 Aktualizujesz plan ochrony przed skażeniem
+Y: Dowiedz się z wiarygodnego źródła, jakie naturalne źródła promieniowania występują w domu, i zapisz trzy.
+
+@2030
+H: Zbierasz dane o terenie z samolotów, dronów i satelitów, korzystając ze specjalnego sprzętu. Wykorzystuje się je w ochronie przyrody, planowaniu miast i wojsku.
+T: Zbierasz dane z powietrza i kosmosu | Określasz położenie geograficzne punktów | Obsługujesz sprzęt do teledetekcji | Przygotowujesz dane do planowania przestrzennego
+D: 6:30 Planujesz trasę lotu zbierającego dane | 8:00 Sprawdzasz sprzęt przed startem | 10:30 Odbierasz dane po lądowaniu | 14:00 Porządkujesz je dla urbanistów
+Y: Otwórz zdjęcie satelitarne swojej okolicy w internecie i zapisz, gdzie widać pola, lasy i zabudowę.
+
+@2031
+H: Badasz gleby, beton, kamień i asfalt, żeby sprawdzić, czy wytrzymają to, do czego zostaną użyte. Twój wynik może zdecydować, czy droga lub budynek powstanie z danego materiału.
+T: Pobierasz próbki betonu, kamienia i asfaltu | Badasz wytrzymałość materiałów | Porównujesz wyniki ze specyfikacją | Raportujesz, czy materiał nadaje się do użycia
+D: 7:00 Jedziesz na budowę pobrać próbki betonu | 9:30 W laboratorium przygotowujesz kostki do badań | 11:30 Ściskasz próbkę w prasie do rozerwania | 14:00 Porównujesz wynik z normą i piszesz raport
+Y: Obserwuj kilka rodzajów kamieni z podwórka i oceń, który wydaje się najtwardszy, a potem zapisz dlaczego.
+
+@2032
+H: Pomagasz fizykom w laboratorium, szkole lub zakładzie: przygotowujesz doświadczenia, obsługujesz aparaturę i spisujesz wyniki. Zajmujesz się praktyczną stroną badań.
+T: Przygotowujesz stanowiska do doświadczeń | Obsługujesz aparaturę pomiarową | Wykonujesz pomiary zjawisk fizycznych | Opisujesz wyniki w sprawozdaniach
+D: 7:30 Ustawiasz aparaturę przed zajęciami lub badaniem | 9:00 Wykonujesz serię pomiarów | 12:00 Zapisujesz wyniki w tabelach | 14:00 Przekazujesz sprawozdanie fizykowi
+Y: Zmierz stoperem, ile razy w ciągu minuty wahadło z nitki i kluczy wykona pełny ruch.
+
+@2033
+H: Pomagasz geologom w terenie i w laboratorium: zbierasz próbki, wykonujesz pomiary i obsługujesz sprzęt na wiertniach. Twoja praca pomaga ocenić, czy teren nadaje się na poszukiwania ropy lub gazu.
+T: Zbierasz próbki z ziemi w terenie | Pracujesz na terenach wiertniczych | Uczestniczysz w badaniach geofizycznych | Opisujesz próbki pod nadzorem geologa
+D: 6:00 Dojeżdżasz w teren wiertniczy | 8:00 Pobierasz próbki gruntu do badań geochemicznych | 12:00 Opisujesz i znakujesz próbki | 15:00 Zdajesz notatki geologowi
+Y: Weź garść gleby z ogrodu lub skwerku, rozsyp ją na kartce i opisz kolory oraz wielkość ziaren.
+
+@2034
+H: Pomagasz mierzyć dno i wody: mapujesz kształt podwodnego terenu i badasz właściwości wód. Pracujesz z inspektorami hydrograficznymi, często na łodzi lub statku.
+T: Mapujesz dno i podwodny teren | Instalujesz sprzęt hydrograficzny na statku | Prowadzisz pomiary w środowisku morskim | Przygotowujesz sprawozdania z pomiarów
+D: 6:00 Ładujesz sprzęt na łódź pomiarową | 7:30 Instalujesz sondę do mierzenia głębokości | 10:00 Płyniesz po wyznaczonych liniach i zapisujesz dane | 16:00 Przenosisz pomiary do komputera i opisujesz
+Y: Zmierz sznurkiem z ciężarkiem głębokość wiadra wypełnionego wodą i narysuj jej profil.
+
+@2035
+H: Zbierasz dane o pogodzie z czujników i przyrządów i wspierasz meteorologów. Twoje pomiary pomagają tworzyć dokładne prognozy dla lotnictwa i instytucji pogodowych.
+T: Zbierasz dane z przyrządów pogodowych | Obsługujesz specjalistyczne narzędzia pomiarowe | Przekazujesz obserwacje meteorologom | Pomagasz w pracach naukowych nad pogodą
+D: 5:00 Obchodzisz stację meteorologiczną i czytasz przyrządy | 7:00 Przekazujesz poranne odczyty meteorologowi | 11:00 Naprawiasz wadliwy czujnik wiatru | 18:00 Wpisujesz wieczorne pomiary do systemu
+Y: Zbuduj z kubka i patyka prosty deszczomierz i ustaw go z miarką na zewnątrz.
+
+@2036
+H: Kalibrujesz przyrządy pomiarowe i sprawdzasz, czy mierzą dokładnie. Gdy waga, suwmiarka czy czujnik się mylą, to Ty to wychwytujesz.
+T: Kalibrujesz przyrządy pomiarowe | Porównujesz je ze wzorcami | Sprawdzasz precyzję i dokładność sprzętu | Doradzasz w sprawie doboru przyrządów
+D: 7:30 Odbierasz partię przyrządów do sprawdzenia | 9:00 Porównujesz je z wzorcem | 12:30 Notujesz odchyłki i korygujesz przyrządy | 15:00 Wystawiasz raport z kalibracji
+Y: Zważ ten sam przedmiot na dwóch różnych wagach kuchennych lub łazienkowych i porównaj wyniki.
+
+@2037
+H: Pracujesz w laboratorium lub elektrowni jądrowej: obsługujesz sprzęt, mierzysz promieniowanie i przestrzegasz procedur bezpieczeństwa. Pomagasz fizykom i inżynierom.
+T: Obsługujesz sprzęt jądrowy | Mierzysz poziom promieniowania | Przestrzegasz procedur bezpieczeństwa | Pomagasz fizykom i inżynierom
+D: 6:00 Przejmujesz zmianę i czytasz dziennik | 7:30 Sprawdzasz odczyty urządzeń kontrolnych | 11:00 Mierzysz promieniowanie w strefie kontrolowanej | 17:00 Wpisujesz raport przed zmianą nocną
+Y: Opisz w trzech zdaniach, dlaczego przy pracy z promieniowaniem ważne są czas, odległość i osłona.
+
+@2038
+H: Mierzysz cechy ludzkiego ciała, takie jak odciski palców, tęczówka czy kształt twarzy, i analizujesz je statystycznie. Wyniki trafiają do medycyny lub do systemów rozpoznawania.
+T: Mierzysz cechy ciała, na przykład odciski palców | Planujesz badania statystyczne i biologiczne | Analizujesz dane z pomiarów | Oceniasz dokładność metod rozpoznawania
+D: 8:30 Planujesz badanie na grupie ochotników | 10:00 Zbierasz pomiary od uczestników | 13:00 Liczysz dokładność metody rozpoznawania | 15:00 Piszesz wnioski dla zespołu medycznego
+Y: Obejrzyj w lupie lub z bliska własny palec i opisz wzór linii papilarnych jednym zdaniem.
+
+@2039
+H: Zbierasz liczby z różnych dziedzin, układasz je w tabele i szukasz w nich wzorców. Na tej podstawie doradzasz, na przykład w sprawach zdrowia, finansów czy demografii.
+T: Zbierasz i porządkujesz dane liczbowe | Interpretujesz badania statystyczne | Szukasz wzorców w danych | Doradzasz na podstawie analizy
+D: 8:30 Porządkujesz nowe dane z ankiet | 10:00 Liczysz średnie i rozrzut wyników | 13:00 Rysujesz wykresy dla klienta | 15:00 Tłumaczysz klientowi, co z danych wynika
+Y: Zapytaj dziesięć osób o ulubioną porę roku i zapisz wyniki w tabelce z procentami.

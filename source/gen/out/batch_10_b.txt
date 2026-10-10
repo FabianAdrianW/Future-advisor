@@ -1,0 +1,180 @@
+@630
+H: Projektujesz sieci, którymi gaz ziemny płynie do domów i firm, i dbasz o ich budowę. Szukasz rozwiązań tańszych i mniej obciążających środowisko.
+T: Projektujesz rurociągi rozprowadzające gaz do odbiorców | Łączysz sieć dystrybucji z przyłączami klientów | Planujesz trasę nowej instalacji | Szukasz rozwiązań tańszych i lepszych dla środowiska
+D: 8:00 Oglądasz plan osiedla, gdzie ma dojść gaz | 10:30 Wyznaczasz na mapie trasę nowej rury | 13:00 Spotkanie z wykonawcą o przyłączach do domów | 15:00 Liczysz koszty dwóch wariantów trasy
+Y: Narysuj plan ulicy z pięcioma domami i poprowadź jedną linię, która dociera do każdego domu najkrótszą drogą.
+
+@631
+H: Wymyślasz, jak wydobywać i produkować gaz dla energetyki i użyteczności publicznej. Ulepszasz działające systemy, żeby dawały więcej przy mniejszych stratach.
+T: Opracowujesz systemy produkcji gazu | Nadzorujesz bieżącą pracę zakładu produkcyjnego | Analizujesz wydajność istniejących instalacji | Wprowadzasz usprawnienia w działających systemach
+D: 6:30 Sprawdzasz odczyty z instalacji po nocnej zmianie | 9:00 Obchód zakładu z kierownikiem zmiany | 11:30 Analizujesz, gdzie tracisz część wyprodukowanego gazu | 14:00 Projektujesz poprawkę w istniejącym układzie
+Y: Wypisz cztery wielkości, które warto mierzyć w zakładzie produkującym gaz, i po co każda.
+
+@632
+H: Pilnujesz, żeby w papierni z surowców powstawał dobry papier. Wybierasz surowiec, ustawiasz maszyny i sprawdzasz, co z nich wychodzi.
+T: Wybierasz surowce pierwotne i z recyklingu | Sprawdzasz jakość masy i gotowego papieru | Optymalizujesz pracę maszyn papierniczych | Dobierasz dodatki do produkcji papieru
+D: 6:00 Przejmujesz maszynę papierniczą od nocnej zmiany | 8:30 Pobierasz próbkę papieru i oceniasz grubość | 11:00 Zmieniasz dodatek, bo papier zbyt łatwo się rwie | 14:00 Sprawdzasz dostawę makulatury przed rozładunkiem
+Y: Porównaj trzy rodzaje papieru z domu: jak łatwo się rwą i jak wchłaniają kroplę wody.
+
+@633
+H: Odpowiadasz za to, żeby piwo było takie, jakie ma być, od początku do końca warzenia. Pracujesz też nad nowymi recepturami.
+T: Nadzorujesz cały proces warzenia piwa | Pilnujesz jakości produktu na każdym etapie | Tworzysz mieszaniny do nowych produktów | Zmieniasz receptury i techniki przetwarzania
+D: 6:00 Zaczynasz warzenie, sprawdzasz surowce | 9:00 Pobierasz próbkę z kadzi do oceny | 12:00 Testujesz nową recepturę na małej partii | 15:00 Omawiasz z zespołem wyniki próby
+Y: Zapisz pomysł na napój bezalkoholowy: składniki, kolejne etapy przygotowania i trzy cechy, które miałby mieć.
+
+@634
+H: Planujesz i pilnujesz, jak z jabłek powstaje cydr. Dopracowujesz receptury i szukasz nowych napojów na bazie cydru.
+T: Planujesz proces wytwarzania cydru | Kontrolujesz jakość na etapach produkcji | Zmieniasz receptury i techniki przetwarzania | Opracowujesz nowe napoje na bazie cydru
+D: 7:00 Sprawdzasz, jak fermentuje partia w zbiornikach | 9:30 Odbierasz dostawę jabłek i oceniasz je | 12:00 Zapisujesz zmiany w recepturze nowego napoju | 15:00 Rozmowa z zespołem o terminie rozlewu
+Y: Obejrzyj trzy jabłka i oceń każde w skali do pięciu: wygląd, zapach, twardość.
+
+@635
+H: Opracowujesz, jak produkty spożywcze mają powstawać w fabryce: z jakich surowców i w jakich krokach. Nadzorujesz też ludzi i ulepszasz technologię.
+T: Opracowujesz procesy wytwarzania produktów spożywczych | Planujesz urządzenia i sprzęt do produkcji | Kontrolujesz proces produkcji na linii | Nadzorujesz personel i wprowadzasz ulepszenia
+D: 7:00 Obchód linii, oceniasz wygląd i konsystencję produktu | 9:30 Rozmowa z operatorami o zmianie receptury | 12:00 Próba nowego produktu na małej partii | 14:30 Rysujesz zmiany w układzie sprzętu
+Y: Przeczytaj skład na opakowaniu przekąski i zapisz, jak myślisz, do czego służą trzy składniki.
+
+@636
+H: Opracowujesz i ulepszasz sposoby wytwarzania materiałów syntetycznych, takich jak tworzywa. Projektujesz też instalacje i maszyny, które je produkują.
+T: Rozwijasz nowe procesy produkcji materiałów syntetycznych | Ulepszasz istniejące procesy wytwarzania | Projektujesz instalacje i maszyny produkcyjne | Testujesz próbki surowców pod kątem jakości
+D: 8:00 Odbierasz próbki surowców, zapisujesz wyniki testów | 10:00 Rysujesz maszynę do formowania nowego materiału | 13:00 Rozmowa z zakładem o problemie z partią | 15:00 Porównujesz dwa warianty procesu w raporcie
+Y: Obejrzyj trzy plastikowe przedmioty w domu i zapisz, który jest najbardziej giętki, a który najtwardszy.
+
+@637
+H: Projektujesz maszyny i urządzenia mechaniczne, a potem pilnujesz, żeby powstały, działały i dało się je naprawiać. Dużo liczysz i analizujesz dane.
+T: Projektujesz produkty i systemy mechaniczne | Analizujesz dane z badań i pomiarów | Nadzorujesz wytwarzanie i montaż | Planujesz instalację i naprawę urządzeń
+D: 8:30 Rysujesz część maszyny na ekranie | 10:30 Liczysz, czy element wytrzyma obciążenie | 13:00 Na hali sprawdzasz pierwszy zmontowany egzemplarz | 15:30 Omawiasz z serwisem usterkę u klienta
+Y: Obejrzyj zawias drzwi lub zamek w szufladzie i narysuj schemat, jak się porusza.
+
+@638
+H: Sprawdzasz, czy produkty i maszyny spełniają normy, i szukasz przyczyn defektów. Pracujesz z inżynierami i uczysz innych, jak kontrolować.
+T: Sprawdzasz produkty pod kątem defektów | Badasz maszyny, które mogą powodować wady | Przygotowujesz plany inspekcji | Szkolisz pracowników z technik kontrolnych
+D: 7:00 Pobierasz pierwszą sztukę z linii i mierzysz | 9:30 Porównujesz wyniki pomiarów z normą | 11:30 Szukasz z inżynierem przyczyny powtarzających się wad | 14:00 Prowadzisz szkolenie z kontroli dla nowej osoby
+Y: Zmierz linijką pięć ołówków albo długopisów i sprawdź, czy różnią się długością o mniej niż milimetr.
+
+@639
+H: Badasz w laboratorium buty oraz ich materiały i elementy według norm. Na podstawie wyników doradzasz, czy partię przyjąć, czy odrzucić.
+T: Wykonujesz laboratoryjne badania obuwia | Analizujesz i interpretujesz wyniki testów | Przygotowujesz sprawozdania dla kierownika jakości | Uczestniczysz w audytach systemu jakości
+D: 8:00 Przygotowujesz próbkę buta do badania | 9:30 Test wytrzymałości podeszwy na zginanie | 12:00 Porównujesz wynik z wymaganiem normy | 14:30 Piszesz sprawozdanie: przyjąć czy odrzucić partię
+Y: Wybierz stary but, ugnij jego podeszwę w dłoniach i zapisz, gdzie się zgina, a gdzie jest sztywna.
+
+@640
+H: Badasz w laboratorium wyroby ze skóry i ich materiały zgodnie z normami. Przygotowujesz próbki, wykonujesz testy i proponujesz poprawki.
+T: Przygotowujesz próbki skóry do badań | Stosujesz procedury badawcze zgodnie z normami | Porównujesz wyniki z wytycznymi | Współpracujesz z zewnętrznymi laboratoriami
+D: 8:00 Wycinasz próbki z dostarczonej partii skóry | 10:00 Test odporności na ścieranie i rozciąganie | 12:30 Zlecasz badanie, którego nie zrobisz u siebie | 14:30 Opisujesz usterki i proponujesz środki naprawcze
+Y: Potrzyj skórzany lub skóropodobny przedmiot suchą ściereczką dwadzieścia razy i zapisz, co zmieniło się w wyglądzie.
+
+@641
+H: Badasz chemicznie tkaniny i inne wyroby włókiennicze i oceniasz wyniki. Pomagasz też przy farbowaniu i wykańczaniu materiałów.
+T: Wykonujesz chemiczne badania laboratoryjne tkanin | Interpretujesz wyniki i oceniasz materiał | Asystujesz przy farbowaniu materiałów | Uczestniczysz w wykańczaniu tkanin
+D: 8:00 Przygotowujesz próbki materiału do badania | 10:00 Odczytujesz wynik i porównujesz z wymaganiem | 12:30 Asystujesz przy farbowaniu nowej partii tkaniny | 14:30 Opisujesz, czy kolor spełnia wymagania
+Y: Obejrzyj dwie podobne koszulki, jedną nową, drugą często noszoną, i zapisz, jak zmienił się kolor.
+
+@642
+H: Pilnujesz norm i procedur jakości w produkcji obuwia. Analizujesz wyniki, piszesz sprawozdania i doradzasz, co poprawić.
+T: Pilnujesz norm jakości procesów i produktów | Analizujesz i interpretujesz wyniki kontroli | Piszesz sprawozdania i zalecenia naprawcze | Doradzasz, jak zapobiegać powtarzaniu się wad
+D: 7:30 Oglądasz buty z porannej partii na stole | 10:00 Sprawdzasz klejenie i szwy w trzech parach | 12:30 Zapisujesz wady i ich liczbę w tabeli | 14:30 Spotkanie z produkcją o przyczynie wad
+Y: Obejrzyj parę butów i sprawdź, czy oba są symetryczne, równo przeszyte i klejone. Zapisz wady.
+
+@643
+H: Kontrolujesz jakość wyrobów ze skóry, materiałów i składników, także w badaniach laboratoryjnych. Wyniki zamieniasz na sprawozdania i zalecenia.
+T: Kontrolujesz gotowe wyroby i używane materiały | Wykonujesz badania laboratoryjne według norm | Analizujesz wyniki i piszesz sprawozdania | Doradzasz, jak naprawić i zapobiec błędom
+D: 8:00 Oglądasz torby z partii i szukasz wad | 10:00 Sprawdzasz zamki i klamry w gotowych torbach | 13:00 Zestawiasz wyniki badań materiału w sprawozdaniu | 15:00 Doradzasz szwalni, jak uniknąć powtórzenia błędu
+Y: Obejrzyj plecak lub torbę i oceń szwy, zamek i uchwyty w skali od jednego do pięciu.
+
+@644
+H: Badasz fizycznie tkaniny i wyroby włókiennicze i porównujesz je z normami. Sprawdzasz w laboratorium ich właściwości, na przykład wytrzymałość.
+T: Wykonujesz fizyczne badania tkanin w laboratorium | Porównujesz właściwości z wymaganymi normami | Interpretujesz wyniki badań | Zapisujesz wyniki każdej partii w dokumentacji
+D: 8:00 Mocujesz pasek tkaniny w urządzeniu do rozciągania | 10:00 Mierzysz, ile materiał kurczy się po praniu | 12:30 Porównujesz wynik z normą w tabeli | 14:30 Zapisujesz wyniki partii w dokumentacji
+Y: Zmierz linijką pasek starej tkaniny, rozciągnij go delikatnie, zmierz ponownie i zapisz różnicę.
+
+@645
+H: Budujesz, uruchamiasz i pilnujesz systemów, które same sterują maszynami w fabryce. Pracujesz z komputerami sterującymi i z inżynierami automatyki.
+T: Budujesz sterowane komputerowo systemy automatyki | Testujesz, czy system robi to, co trzeba | Monitorujesz pracę zautomatyzowanej linii | Naprawiasz i utrzymujesz układy sterowania
+D: 7:00 Sprawdzasz, czy linia w nocy działała bez zatrzymań | 9:30 Linia stanęła, szukasz usterki w sterowaniu | 12:00 Testujesz zmieniony program na sterowniku | 14:30 Ustalasz z inżynierem zmiany w układzie
+Y: Opisz krok po kroku w formie schematu, jak automat do napojów decyduje, czy wydać produkt.
+
+@646
+H: Składasz, testujesz i ustawiasz roboty, łącząc mechanikę, elektronikę i komputer. Pracujesz z inżynierami nad urządzeniami z zakresu robotyki.
+T: Wykonujesz elementy i zespoły urządzeń robotycznych | Testujesz roboty i sprawdzasz ich ruchy | Instalujesz roboty w miejscu pracy | Kalibrujesz urządzenia, żeby były dokładne
+D: 8:00 Montujesz ramię robota według rysunku | 10:30 Test: robot wykonuje zaprogramowany ruch | 13:00 Instalujesz robota u klienta, obok linii produkcyjnej | 15:30 Kalibrujesz czujniki, żeby robot trafiał w punkt
+Y: Narysuj ramię robota z trzema przegubami i opisz, jakie ruchy może wykonać.
+
+@647
+H: Odpowiadasz za zasady bezpieczeństwa w firmach lotniczych: analizujesz przepisy, układasz procedury i pilnujesz, żeby ludzie je stosowali.
+T: Opracowujesz procedury bezpieczeństwa dla firm lotniczych | Analizujesz przepisy i ograniczenia | Organizujesz pracę personelu zgodnie z procedurami | Sprawdzasz, czy środki bezpieczeństwa są stosowane
+D: 8:00 Czytasz nowe przepisy i porównujesz z procedurami | 10:00 Obchód hangaru, sprawdzasz stosowanie zasad | 13:00 Rozmowa z personelem o niejasnym punkcie procedury | 15:00 Piszesz poprawioną procedurę dla firmy
+Y: Wypisz pięć zasad bezpieczeństwa obowiązujących pasażerów na pokładzie samolotu i wybierz najważniejszą.
+
+@648
+H: Pilnujesz, żeby produkcja wyrobów włókienniczych szła zgodnie ze specyfikacją i budżetem. Łączysz obróbkę materiału, projekt, jakość i koszty.
+T: Wykonujesz czynności obróbki materiałów włókienniczych | Kontrolujesz zgodność procesu ze specyfikacjami | Korzystasz z narzędzi do produkcji wspomaganej komputerowo | Porównujesz koszty procesów z innymi działami
+D: 7:00 Sprawdzasz na ekranie, jak idzie dzisiejsza produkcja | 9:30 Na hali porównujesz wzór tkaniny ze specyfikacją | 12:00 Rozmowa z działem kosztorysów o droższej partii | 14:30 Wprowadzasz korektę do planu produkcji
+Y: Oszacuj na kartce koszt uszycia jednej poszewki: materiał, czas pracy, nici. Przyjmij własne ceny.
+
+@649
+H: Pilnujesz, żeby rurociągi i prace przy nich były zgodne z przepisami. Kontrolujesz obiekty, zbierasz dowody i zgłaszasz kierownictwu, co trzeba poprawić.
+T: Śledzisz zgodność działań na rurociągach z przepisami | Kontrolujesz obiekty i gromadzisz dowody | Wdrażasz polityki zgodności w firmie | Zalecasz sposoby zmniejszenia ryzyka
+D: 8:00 Czytasz zmiany w przepisach dotyczących rurociągów | 10:00 W terenie kontrolujesz oznakowanie i zawory rurociągu | 13:00 Robisz zdjęcia i notatki jako dowody | 15:00 Zgłaszasz kierownictwu, co wymaga poprawy
+Y: Sprawdź kran lub rurę pod zlewem pod kątem wycieków i zapisz wynik w liście kontrolnej z pięciu punktów.
+
+@650
+H: Sprawdzasz, czy turbiny i inne urządzenia w sieciach wodnych, gazowych czy elektrycznych są zbudowane i działają zgodnie z przepisami. Opisujesz usterki i zalecasz naprawy.
+T: Badasz turbiny i systemy użyteczności publicznej | Sprawdzasz zgodność budowy z przepisami | Sporządzasz sprawozdania z kontroli | Zalecasz ulepszenia i naprawę uszkodzonych części
+D: 8:00 Czytasz dokumentację turbiny przed kontrolą | 10:00 Oglądasz urządzenie na miejscu, porównujesz z przepisami | 13:00 Fotografujesz uszkodzony element i opisujesz go | 15:00 Piszesz sprawozdanie z zaleceniami dla zarządcy
+Y: Wybierz wentylator lub pompkę w domu i zapisz pięć rzeczy, które sprawdza kontroler, bez włączania.
+
+@651
+H: Pracujesz ze światłem w urządzeniach: laserach, soczewkach i światłowodach. Wykonujesz je, testujesz i ustawiasz według rysunków technicznych.
+T: Wykonujesz urządzenia optyczne według schematów | Testujesz lasery, soczewki i światłowody | Instalujesz sprzęt optyczny | Opracowujesz procedury testowania i kalibracji
+D: 8:00 Czytasz schemat układu optycznego | 10:00 Składasz soczewki w obudowie według rysunku | 13:00 Test: sprawdzasz, czy światło trafia we właściwy punkt | 15:00 Piszesz procedurę kalibracji dla nowego urządzenia
+Y: Zmierz linijką, w jakiej odległości od tekstu lupa daje najostrzejszy obraz liter. Nie kieruj jej na słońce.
+
+@652
+H: Pomagasz inżynierom oceniać działające procesy produkcji i szukać oszczędności. Chodzi o niższe koszty i bardziej zrównoważoną produkcję.
+T: Oceniasz istniejące procesy i konfiguracje systemów | Zbierasz dane do porównania wariantów | Szukasz sposobów na niższe koszty produkcji | Opisujesz najlepsze praktyki dla zespołu
+D: 7:30 Zbierasz odczyty z linii z całej nocy | 10:00 Zestawiasz zużycie energii dla dwóch ustawień | 12:30 Z inżynierem omawiasz, gdzie można oszczędzić | 14:30 Spisujesz nowy sposób pracy dla operatorów
+Y: Policz, ile razy do wieczora domownicy odkręcają kran w kuchni, i wymyśl jedną oszczędność.
+
+@653
+H: Pomagasz inżynierom sprawić, żeby zakład pracował wydajniej i bezpieczniej. Badasz produkcję, rysujesz projekty maszyn i proponujesz poprawki.
+T: Prowadzisz badania przebiegu produkcji | Przygotowujesz projekty maszyn i urządzeń | Proponujesz rozwiązania problemów z jakością | Pomagasz inżynierom poprawiać bezpieczeństwo zakładu
+D: 7:30 Obserwujesz stanowisko i notujesz każdy ruch | 10:00 Rysujesz projekt uchwytu do ułatwienia montażu | 12:30 Wspólnie z inżynierem analizujesz wady na linii | 15:00 Piszesz propozycję zmiany dla kierownika
+Y: Zaprojektuj na kartce prostą podstawkę pod książkę i opisz, z czego by była i jak ułatwia pracę.
+
+@654
+H: Zamieniasz projekt buta w coś, co da się wyprodukować. Robisz wykroje, prototypy i rysunki narzędzi, a potem sprawdzasz próbki.
+T: Wykonujesz prototypy obuwia według projektu | Dobierasz lub przeprojektowujesz kopyta i elementy | Tworzysz wykroje cholewek i podeszew | Rysujesz narzędzia, na przykład matryce do cięcia
+D: 8:00 Dostajesz szkic buta od projektanta | 10:00 Rysujesz wykrój cholewki na kartonie | 12:30 Składasz prototyp i sprawdzasz, jak leży na kopycie | 15:00 Sprawdzasz koszt i ustalasz poprawki z klientem
+Y: Obrysuj stopę na kartce i dorysuj wokół niej kształt podeszwy z zapasem na brzegach.
+
+@655
+H: Zamieniasz projekt torby, paska czy portfela w wymagania techniczne i wykroje. Wybierasz materiały i rysujesz narzędzia do cięcia.
+T: Analizujesz specyfikację projektanta wyrobu | Określasz elementy składowe i materiały | Wykonujesz ręcznie wykroje | Rysujesz narzędzia, zwłaszcza do cięcia
+D: 8:00 Czytasz projekt nowej torebki od projektanta | 10:00 Rozkładasz torebkę na elementy i wybierasz materiały | 12:30 Wykonujesz ręcznie wykrój głównego panelu | 15:00 Rysujesz narzędzie do cięcia według wykroju
+Y: Narysuj na kartce wykrój prostego etui na telefon, z zapasem na szew, i podpisz wymiary.
+
+@656
+H: Dbasz, żeby wszystko, co na lotnisku musi działać, rzeczywiście działało: oświetlenie, bagaże, zabezpieczenia, odwodnienie. Naprawiasz usterki i pilnujesz stanu urządzeń.
+T: Utrzymujesz instalacje i pomoce wizualne lotniska | Sprawdzasz systemy bagażowe i zabezpieczeń | Pilnujesz stanu nawierzchni i odwodnienia | Pilnujesz stanu terenów nieutwardzonych
+D: 5:30 Obchód oświetlenia pasa przed pierwszymi lotami | 8:30 Usterka w taśmie bagażowej, szukasz przyczyny | 12:00 Sprawdzasz odwodnienie po nocnym deszczu | 15:00 Wpisujesz naprawy do dziennika
+Y: Wypisz w domu pięć rzeczy, które muszą stale działać, i jak często warto sprawdzać każdą.
+
+@657
+H: Zajmujesz się produkcją obuwia na każdym etapie, od technologii po konstrukcję. Szukasz sposobu, żeby szło szybciej i taniej, a buty były wygodne i dobrze zrobione.
+T: Pracujesz na wszystkich etapach produkcji obuwia | Wykonujesz prace konstrukcyjne i technologiczne | Szukasz sposobów na krótszy czas produkcji | Obniżasz koszty, utrzymując jakość butów
+D: 7:00 Odbierasz plan produkcji nowego modelu | 9:00 Sprawdzasz na linii, jak łączone są elementy | 12:00 Poprawiasz kolejność operacji, żeby skrócić czas | 14:30 Oceniasz pierwszą parę z nowej serii
+Y: Rozpisz na kartce co najmniej sześć etapów powstawania buta, od materiałów po gotową parę.
+
+@658
+H: Wykonujesz wyroby ze skóry, głównie ręcznie, z pomocą prostych maszyn. Tniesz, zszywasz i wykańczasz, często na zamówienie klienta albo w bardzo małych seriach.
+T: Tniesz skórę według wykroju | Zszywasz elementy wyrobu | Wykańczasz krawędzie i powierzchnie | Rozmawiasz z klientem o wymaganiach zamówienia
+D: 8:00 Rozmowa z klientem o kolorze i rozmiarze portfela | 9:30 Wycinasz elementy ze skóry według wykroju | 12:30 Zszywasz boki, sprawdzając równość ściegów | 15:00 Wykańczasz krawędzie i pakujesz gotowy wyrób
+Y: Narysuj linijką linię szwu długości dwudziestu centymetrów z dziurkami co pół centymetra i policz dziurki.
+
+@659
+H: Jesteś na końcu projektu: gdy instalacja jest już zbudowana i przetestowana, sprawdzasz, czy wszystko naprawdę działa. W razie potrzeby naprawiasz lub konserwujesz.
+T: Nadzorujesz końcowe etapy realizacji projektu | Sprawdzasz działanie maszyn i instalacji | Kontrolujesz obiekty przed odbiorem | Wykonujesz naprawy i prace konserwacyjne
+D: 7:00 Odprawa z inżynierem odbioru przed testami | 9:00 Uruchamiasz instalację krok po kroku, notując wyniki | 12:30 Jeden zawór nie działa, szukasz przyczyny | 15:00 Naprawiasz usterkę i powtarzasz próbę
+Y: Sprawdź po kolei drzwi, okno i trzy szuflady w pokoju i zapisz, co działa gładko, a co zgrzyta.
+

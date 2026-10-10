@@ -1,0 +1,180 @@
+@90
+H: Obsługujesz maszynę, która rozgrzewa arkusz plastiku i zasysa go na formę, więc po schłodzeniu ma jej kształt. Doglądasz maszyny i utrzymujesz ją w porządku.
+T: Wkładasz arkusze tworzywa do maszyny | Pilnujesz nagrzewania i zasysania | Wyjmujesz schłodzone wyroby z formy | Konserwujesz maszynę i sprawdzasz formy
+D: 6:00 Zakładasz pierwszy arkusz i uruchamiasz cykl | 8:00 Gorący plastik opada na formę, po chwili wyjmujesz tackę | 11:00 Brzeg tacki się marszczy, korygujesz nagrzewanie | 13:30 Czyścisz formę i sprawdzasz otwory ssące
+Y: Obejrzyj plastikową tackę po owocach lub ciastkach i zapisz, jak wyglądają jej kształty i grubość ścianek.
+
+@91
+H: Ustawiasz maszynę, która nawija rurki izolacyjne i tnie je na zadane długości. Pilnujesz wymiarów, bo każda rurka ma pasować do zamówienia.
+T: Ustawiasz maszynę na wymiar zamówienia | Zakładasz materiał do nawijania | Kontrolujesz długość pociętych rurek | Odkładasz gotowe rurki do skrzyń
+D: 7:00 Odczytujesz z zamówienia długość i średnicę rurek | 8:30 Ustawiasz maszynę i nawijasz pierwszą próbkę | 10:30 Mierzysz kilka rurek, są za krótkie, poprawiasz | 13:00 Pakujesz rurki w paczki i oznaczasz
+Y: Nawiń pasek papieru na ołówek, zsuń rurkę i zrób trzy takie same, mierząc je linijką.
+
+@92
+H: Pilnujesz maszyn, które wytwarzają plastikowe krzesła i stoły. Oglądasz każdy element, usuwasz wadliwe i czasem składasz części w całość.
+T: Dozorujesz maszyny do obróbki tworzyw | Sprawdzasz każdy wyrób pod kątem wad | Usuwasz niewłaściwe części z linii | Montujesz nogi i oparcia z tworzywa
+D: 6:00 Uruchamiasz maszynę i patrzysz na pierwsze krzesło | 8:30 Z formy wychodzi krzesło, oglądasz je z każdej strony | 11:00 Odkładasz oparcie z wypukłością do przemiału | 14:00 Zakładasz nogi i układasz krzesła na palecie
+Y: Obejrzyj plastikowe krzesło lub stolik i znajdź na nim ślady produkcji: szwy, punkt wtrysku, wzmocnienia.
+
+@93
+H: Obsługujesz maszynę, która przeciąga włókna szklane przez żywicę i ogrzaną matrycę, tworząc sztywne kompozytowe profile. Proces idzie bez przerwy, więc stale go obserwujesz.
+T: Zakładasz szpule z włóknem do maszyny | Kontrolujesz nasycenie włókien żywicą | Pilnujesz temperatury i prędkości przeciągania | Tniesz gotowy profil na zadane długości
+D: 6:00 Zakładasz nowe szpule i przeciągasz włókna | 8:00 Profil wyjeżdża z matrycy, mierzysz jego wymiar | 11:00 Włókna się plączą, zatrzymujesz maszynę i poprawiasz | 13:30 Tniesz profil i odkładasz sztuki na stelaż
+Y: Skręć razem kilka nitek w jeden gruby sznur i sprawdź, czy jest mocniejszy od pojedynczej nitki.
+
+@94
+H: Obsługujesz maszyny z walcami, które spłaszczają tworzywo w folie i arkusze albo zwijają je w rolki. Badasz surowiec i gotowy wyrób, żeby grubość się zgadzała.
+T: Ustawiasz walce na grubość materiału | Ładujesz surowiec do maszyny | Mierzysz grubość gotowej folii | Zdejmujesz rolki i opisujesz je
+D: 7:00 Sprawdzasz surowiec i ustawiasz szczelinę między walcami | 9:00 Mierzysz grubość pierwszej partii folii | 11:30 Folia jest nierówna, korygujesz docisk walców | 14:00 Zdejmujesz ciężką rolkę i wpisujesz jej numer
+Y: Rozwałkuj plastelinę na równą warstwę o grubości trzech milimetrów i sprawdź linijką w pięciu miejscach.
+
+@95
+H: Obsługujesz maszynę, która nasyca nici żywicą i nawija je na obracającą się formę. Tak powstają rury, zbiorniki i inne wydrążone przedmioty.
+T: Zakładasz szpule z nićmi szklanymi lub węglowymi | Kontrolujesz powlekanie nici żywicą | Pilnujesz kąta i naciągu nawijania | Zdejmujesz utwardzoną rurę z formy
+D: 6:30 Mocujesz formę i zaczepiasz początek nici | 8:00 Forma się obraca, a nić układa się w siatkę | 11:30 Naciąg słabnie, poprawiasz ustawienie głowicy | 15:00 Zdejmujesz gotową rurę i mierzysz średnicę
+Y: Nawiń nić na rolkę po papierze, krzyżując kierunki, i sprawdź, czy rolka robi się sztywniejsza.
+
+@96
+H: Ustawiasz prasy, które w gorącej formie wytłaczają przedmioty z tworzywa. Zakładasz odpowiednią matrycę, odmierzasz porcję materiału i pilnujesz temperatury.
+T: Wybierasz i zakładasz matryce na prasę | Odważasz porcję materiału do formy | Regulujesz temperaturę matryc | Wyjmujesz wyprasowane wyroby i oceniasz je
+D: 6:00 Zakładasz nową matrycę na prasę | 7:30 Odważasz porcję i wsypujesz ją do wgłębienia | 10:00 Prasa się zamyka, czekasz na koniec cyklu | 13:00 Wyjmujesz wypraskę i szukasz niedolanych miejsc
+Y: Odważ trzy porcje mąki lub kaszy po pięćdziesiąt gramów i zapisz, o ile ważenia się różnią.
+
+@97
+H: Obsługujesz prasy hydrauliczne, które zgniatają i wypiekają plastikowe wióry w arkusze tworzywa. Najważniejsze są dla ciebie właściwe ciśnienie i temperatura.
+T: Ustawiasz prasę hydrauliczną | Wsypujesz plastikowe wióry do formy | Regulujesz ciśnienie i temperaturę | Wyjmujesz arkusze i sprawdzasz ich wygląd
+D: 6:00 Uruchamiasz prasę i czekasz na nagrzanie | 8:00 Wsypujesz wióry równą warstwą do formy | 10:30 Arkusz wychodzi pofalowany, zmieniasz ciśnienie | 13:30 Odkładasz arkusze na stos i zapisujesz parametry
+Y: Ugnieć kulkę plasteliny, dociśnij ją deską do płaskiej płytki i sprawdź, czy ma wszędzie tę samą grubość.
+
+@98
+H: Obsługujesz maszynę, która rozdmuchuje podgrzane tworzywo w formie, tak powstają butelki i inne puste wyroby. Obcinasz nadmiar i zbierasz odpady do ponownego użycia.
+T: Ustawiasz temperaturę i ciśnienie powietrza | Kontrolujesz ilość tworzywa w cyklu | Odcinasz nadmiar nożem | Mielisz odpady do ponownego użycia
+D: 6:00 Uruchamiasz rozdmuchiwarkę i ustawiasz ciśnienie powietrza | 8:00 Zdejmujesz butelki i odcinasz nadmiar na dnie | 11:00 Ścianka butelki jest za cienka, zmieniasz ustawienia | 13:30 Wrzucasz odpady do młynka i odkładasz butelki
+Y: Nadmuchaj balon i obserwuj, w którym miejscu ścianka cieńsieje najbardziej. Zapisz wniosek.
+
+@99
+H: Obsługujesz urządzenie, które rozpyla żywicę z włóknem szklanym na formę, tak powstają wanny czy kadłuby. Pilnujesz równej warstwy, a maszynę utrzymujesz w czystości.
+T: Obsługujesz urządzenie natryskowe | Kontrolujesz grubość nakładanej warstwy | Konserwujesz maszynę i czyścisz dysze | Sprawdzasz gotowy produkt pod kątem wad
+D: 6:30 Zakładasz kombinezon i maskę, sprawdzasz maszynę | 8:00 Rozpylasz mieszankę na formę wanny równą warstwą | 11:00 Warstwa w rogu jest za cienka, nakładasz więcej | 14:00 Czyścisz dysze i odkładasz formę do utwardzenia
+Y: Rozpyl wodę z butelki z rozpylaczem na kartkę z dwóch odległości i porównaj, jak zmienia się plama.
+
+@100
+H: Hartujesz i wyżarzasz wyroby z tworzyw w piecach, według zapisanych temperatur i czasów. Potem zdejmujesz je, czekasz na ostygnięcie i sprawdzasz, czy spełniają wymagania.
+T: Ustawiasz piec według instrukcji produkcji | Ładujesz wyroby do pieca | Zdejmujesz i studzisz gotowe produkty | Badasz, czy wyrób spełnia wymagania
+D: 6:00 Czytasz kartę i ustawiasz temperaturę pieca | 8:00 Układasz wyroby na półkach pieca | 11:00 Wyjmujesz partię i czekasz, aż ostygnie | 13:30 Badasz próbki i wpisujesz wynik do karty
+Y: Zostaw w pokoju kostkę lodu i kawałek masła na talerzykach i co pięć minut zapisz, jak się zmieniają.
+
+@101
+H: Obsługujesz prasę, która wciska ciepły krążek winylu w matrycę z rowkami, więc powstaje płyta do odtwarzania. Każdą płytę oglądasz, bo jedna rysa psuje dźwięk.
+T: Zakładasz matryce i krążki winylu | Obsługujesz prasę tłoczącą płyty | Obcinasz brzegi tłoczonej płyty | Oglądasz płyty i odkładasz wadliwe
+D: 8:00 Zakładasz matrycę wzorcową w prasie | 9:30 Prasa wciska krążek i wyjmujesz świeżą płytę | 12:00 Zauważasz bąbel w rowkach, odkładasz płytę | 14:30 Pakujesz sprawdzone płyty w koperty
+Y: Obejrzyj dowolną płytę winylową lub jej zdjęcie i zapisz, co jest na etykiecie i jak wyglądają rowki.
+
+@102
+H: Obsługujesz maszynę z nożem, która tnie papier i inne materiały w arkuszach na zadany rozmiar. Mierzysz, ustawiasz stos i pilnujesz, żeby cięcia były równe.
+T: Ustawiasz wymiary cięcia na maszynie | Układasz stos papieru pod nóż | Tniesz i perforujesz arkusze | Mierzysz pocięte arkusze
+D: 6:00 Odczytujesz z zamówienia wymiar ulotek | 7:30 Wyrównujesz stos papieru i uruchamiasz nóż | 10:30 Krawędź wyszła skośna, ustawiasz stos od nowa | 13:00 Paczkujesz pocięte arkusze i opisujesz je
+Y: Narysuj na kartce prostokąt dziesięć na piętnaście centymetrów, wytnij go nożyczkami i sprawdź, czy rogi są proste.
+
+@103
+H: Pilnujesz maszyny, która tnie papier, składa go i skleja w koperty, a na klapkę nakłada klej do zwilżenia. Wychwytujesz źle sklejone sztuki.
+T: Ładujesz papier do podajnika maszyny | Kontrolujesz cięcie, zagięcia i klejenie | Uzupełniasz klej na klapki | Sprawdzasz koperty i wyjmujesz wadliwe
+D: 6:00 Zakładasz stos papieru i ustawiasz zagięcia | 8:00 Koperty wyjeżdżają szybko, sprawdzasz, czy się sklejają | 11:00 Klapki nie trzymają, zmieniasz ilość kleju | 13:30 Liczysz koperty i pakujesz po sto sztuk
+Y: Zrób kopertę z kartki, wymyślając wcześniej, jak ją złożyć, i sprawdź, czy mieści kartkę w połowie mniejszą.
+
+@104
+H: Pilnujesz maszyny, która zagina i skleja papier w torby o różnych rozmiarach i wytrzymałości. Sprawdzasz, czy dno jest mocne i czy torba się nie rozkleja.
+T: Zakładasz rolki lub arkusze papieru | Ustawiasz maszynę na rozmiar toreb | Sprawdzasz dno i szwy | Układasz gotowe torby w paczkach
+D: 6:30 Ustawiasz format toreb na dzisiejsze zamówienie | 8:00 Maszyna zgina rurę papieru i skleja dno | 11:00 Sprawdzasz, czy dno wytrzyma obciążenie | 13:30 Pakujesz torby po pięćdziesiąt sztuk
+Y: Złóż z papieru torbę z dnem, włóż do niej lekki ciężar i sprawdź, czy dno wytrzyma.
+
+@105
+H: Pilnujesz maszyny, która rozdrabnia włókna celulozowe i prasuje je w chłonny materiał do pieluszek i środków higienicznych. Czuwasz nad jednolitością i czystością produktu.
+T: Zasilasz maszynę włóknami celulozowymi | Kontrolujesz grubość i gęstość materiału | Usuwasz zacięcia na linii | Pobierasz próbki do sprawdzenia chłonności
+D: 6:00 Przejmujesz linię i sprawdzasz zapas celulozy | 8:00 Pobierasz próbkę wkładu i oceniasz jej grubość | 11:00 Linia staje przez zacięcie, usuwasz zator | 13:30 Notujesz parametry zmiany w dzienniku
+Y: Porównaj, ile wody wchłaniają ręcznik papierowy i kartka z zeszytu, odmierzając ją łyżeczką.
+
+@106
+H: Obsługujesz maszyny, które składają z tektury pudełka, tuby, szpule czy talerzyki. Pilnujesz, żeby produkty wychodziły z maszyny równe i bez uszkodzeń.
+T: Zakładasz arkusze tektury do podajnika | Ustawiasz maszynę do składania konkretnego produktu | Kontrolujesz kształt i wymiary | Układasz złożone produkty w kartonach
+D: 6:00 Zmieniasz format maszyny na nowe pudełka | 8:00 Maszyna składa pudełka, ty oglądasz narożniki | 11:00 Pudełka się rozklejają, poprawiasz klejenie | 13:30 Układasz paczki po dwadzieścia pudełek
+Y: Rozłóż płasko puste pudełko po płatkach, obejrzyj linie zgięć i złóż je z powrotem w tej samej kolejności.
+
+@107
+H: Pilnujesz maszyny, która perforuje bibułę i przewija ją w rolki papieru toaletowego. Sprawdzasz, czy rolki mają właściwą długość i czy nie ma zacięć.
+T: Zakładasz duże rolki bibuły | Ustawiasz długość i perforację | Obserwujesz przewijanie rolek | Wyjmujesz zgniecione i luźne rolki
+D: 6:00 Zakładasz wielką rolkę bibuły i zaczepiasz początek | 8:00 Maszyna przewija rolki, a ty liczysz perforacje | 11:00 Bibuła się rwie, usuwasz zator | 13:30 Pakujesz rolki w folię po osiem sztuk
+Y: Policz listki na jednej rolce papieru toaletowego i zmierz długość jednego listka.
+
+@108
+H: Pilnujesz maszyny, która zagina papier w fale i okleja go z obu stron, tworząc lekką, ale wytrzymałą tekturę do pakowania. Sprawdzasz grubość i wytrzymałość.
+T: Zakładasz rolki papieru do maszyny | Kontrolujesz fale i klejenie warstw | Mierzysz grubość gotowej tektury | Tniesz tekturę na arkusze
+D: 6:00 Zmieniasz rolki papieru i łączysz ich początki | 8:00 Tektura wyjeżdża z maszyny, sprawdzasz wygląd | 11:30 Warstwy się rozwarstwiają, korygujesz klej | 14:00 Układasz arkusze na paletach
+Y: Zegnij pasek papieru w fale, przyklej go taśmą do dwóch płaskich pasków i porównaj jego wytrzymałość z jednym paskiem.
+
+@109
+H: Obsługujesz maszyny, które ugniatają, mieszają i formują gumę z kauczuku. Odmierzasz składniki i pilnujesz temperatury, ciśnienia i prędkości.
+T: Odmierzasz składniki gumy | Ładujesz je do mieszarki lub maszyny | Pilnujesz temperatury, ciśnienia i prędkości | Wytłaczasz i utwardzasz wyroby gumowe
+D: 6:00 Odmierzasz składniki mieszanki według receptury | 8:00 Mieszanka trafia do maszyny, obserwujesz wskazania | 11:00 Temperatura wzrasta ponad normę, obniżasz ustawienie | 14:00 Zdejmujesz wytłoczony profil i pobierasz próbkę
+Y: Zmierz długość gumki recepturki, potem rozciągnij ją i zmierz ponownie. Zapisz różnicę.
+
+@110
+H: Kontrolujesz budowane łodzie i statki, sprawdzając, czy spełniają wymagania techniczne i przepisy bezpieczeństwa. Mierzysz, szukasz uszkodzeń i opisujesz wszystko w dokumentacji.
+T: Mierzysz zespoły okrętu urządzeniami pomiarowymi | Szukasz uszkodzeń i nieprawidłowości | Kontrolujesz wykonane naprawy | Piszesz raport z zaleceniami
+D: 7:00 Wchodzisz do stoczni i czytasz plan kontroli | 9:00 Sprawdzasz grubość spoin w kadłubie | 12:00 Znajdujesz pęknięcie przy burcie i dokumentujesz je | 15:00 Piszesz raport i zalecasz poprawki
+Y: Sprawdź w misce wody, czy trzy różne przedmioty pływają, i zapisz wyniki w tabelce.
+
+@111
+H: Kontrolujesz pojazdy na końcu produkcji, mierząc i testując, czy zgadzają się z normami. Jeśli coś jest nie tak, opisujesz wadę i mówisz, co trzeba poprawić.
+T: Mierzysz i testujesz zmontowane pojazdy | Szukasz wad lakieru, szczelin i usterek | Kontrolujesz naprawy po zgłoszeniu wad | Wypełniasz protokół i zalecasz poprawki
+D: 6:00 Oglądasz kolejny samochód zjeżdżający z taśmy | 8:30 Mierzysz szczeliny między drzwiami a błotnikiem | 11:00 Wykrywasz rysę na lakierze, oznaczasz ją naklejką | 14:00 Wpisujesz wyniki do protokołu kontroli
+Y: Obejrzyj stojący rower, hulajnogę lub wózek i zrób listę sześciu punktów, które warto sprawdzić.
+
+@112
+H: Kontrolujesz montaż samolotów i śmigłowców, sprawdzając urządzeniami pomiarowymi, czy każdy zespół spełnia normy bezpieczeństwa. Twoje notatki decydują, czy praca idzie dalej, czy wraca do poprawki.
+T: Oglądasz połączenia i mocowania | Mierzysz luzy i zgodność z planem | Kontrolujesz prace naprawcze | Prowadzisz szczegółową dokumentację kontroli
+D: 7:00 Przeglądasz rysunki i listę kontrolną samolotu | 9:00 Sprawdzasz mocowania skrzydła w ustalonych punktach | 12:00 Wykrywasz luz w osłonie, wstrzymujesz zespół | 15:00 Piszesz szczegółowy raport z zaleceniem naprawy
+Y: Złóż papierowy samolot i skontroluj go: symetria skrzydeł, zagięcia, środek ciężkości. Zapisz wynik.
+
+@113
+H: Kontrolujesz budowę wagonów, lokomotyw i tramwajów, sprawdzając urządzeniami, czy spełniają specyfikacje i przepisy bezpieczeństwa. Dokumentujesz odchylenia i zalecasz poprawki.
+T: Analizujesz zespoły taboru pod kątem uszkodzeń | Mierzysz wymiary podzespołów | Sprawdzasz poprawność wykonanych napraw | Dokumentujesz wyniki kontroli
+D: 7:00 Idziesz wzdłuż wagonu z listą kontrolną | 9:30 Mierzysz odległości między kołami na jednym wózku | 12:00 Znajdujesz niedokręcone mocowanie, zgłaszasz poprawkę | 14:30 Wpisujesz odchylenia i zalecenia do raportu
+Y: Obejrzyj zdjęcie wagonu lub tramwaju i wypisz pięć elementów, które trzeba w nim skontrolować.
+
+@114
+H: Sprawdzasz, czy zmontowane produkty spełniają wymagania klienta i przepisy jakości. Mierzysz, testujesz, a potem opisujesz wszystko w raporcie.
+T: Oceniasz produkty pod kątem wad | Mierzysz i testujesz urządzeniami kontrolnymi | Porównujesz wynik z wymaganiami klienta | Piszesz zalecenia przy wykryciu problemów
+D: 7:30 Dostajesz wymagania klienta i próbki produktu | 9:00 Mierzysz kilka sztuk z partii i je testujesz | 11:30 Dwie sztuki odbiegają od specyfikacji, wstrzymujesz partię | 14:00 Piszesz raport i proponujesz działania
+Y: Wybierz długopis, zapisz długość i działanie, jakich wymaga klient, i sprawdź to na trzech sztukach.
+
+@115
+H: Sprawdzasz gotowy sprzęt elektroniczny pod kątem wad i usterek oraz tego, czy został złożony zgodnie z wymogami. Oglądasz obudowy i połączenia, porównując je z przepisami.
+T: Oglądasz płytki i obudowy pod powiększeniem | Porównujesz montaż z dokumentacją | Zgłaszasz wady do produkcji | Dopilnowujesz zgodności z przepisami
+D: 6:30 Odbierasz pierwszą partię sprzętu z linii | 8:00 Oglądasz lutowania pod lupą i porównujesz z wzorem | 11:00 Jedna płytka ma krzywo osadzony element, zgłaszasz to | 13:30 Zamykasz zgłoszenie i wpisujesz wynik partii
+Y: Weź dwa takie same przedmioty, na przykład dwie nakrętki, i znajdź różnice, jakich normalnie nie widać.
+
+@116
+H: Sprawdzasz gotowe urządzenia elektryczne pod kątem wad obudowy i błędnych połączeń. Wyniki wpisujesz do rejestru, a niesprawne zespoły wracają do produkcji.
+T: Oglądasz obudowy i połączenia przewodów | Odnotowujesz wyniki inspekcji w rejestrze | Odsyłasz wadliwe zespoły do produkcji | Przyglądasz się oznaczeniom i wtykom
+D: 7:00 Rozpakowujesz partię urządzeń z hali montażowej | 9:00 Oglądasz przewody i sprawdzasz, czy każdy jest na miejscu | 11:30 Wykrywasz pęknięcie obudowy i odsyłasz zespół | 14:00 Wpisujesz wszystko do rejestru kontroli
+Y: Odszukaj w instrukcji sprzętu domowego trzy oznaczenia lub symbole i zapisz, co oznaczają.
+
+@117
+H: Oceniasz zmontowane przedmioty codziennego użytku, na przykład sprzęty domowe czy zabawki, pod kątem wad. Zapisujesz pęknięcia, rysy, wady szlifowania i kłopoty z ruchomymi częściami.
+T: Oglądasz pęknięcia, rysy i wady szlifu | Sprawdzasz, czy ruchome części chodzą gładko | Porównujesz wyrób z wymaganiami klienta | Opisujesz wyniki w sprawozdaniu
+D: 6:30 Rozkładasz na stole próbki z partii | 8:30 Przesuwasz zawiasy i szuflady, szukając oporu | 11:00 Znajdujesz rysę, robisz zdjęcie do raportu | 13:30 Wpisujesz ustalenia do sprawozdania
+Y: Sprawdź szuflady, drzwiczki i zawiasy w domu: które chodzą gładko, a które haczą? Zapisz trzy uwagi.
+
+@118
+H: Sprawdzasz, czy produkty są zgodne z normami: obserwujesz, mierzysz, testujesz i pytasz. Wyniki wpisujesz w formularz, pracując w firmie albo jako kontroler z zewnątrz.
+T: Obserwujesz proces i mierzysz produkty | Testujesz próbki z partii | Zadajesz pytania pracownikom produkcji | Wypełniasz formularz z uwagami
+D: 8:00 Przyjeżdżasz do zakładu i oglądasz stanowiska | 10:00 Mierzysz próbki i porównujesz z normą | 12:00 Pytasz operatora, jak kontroluje swoje wyniki | 15:00 Wpisujesz poziom zgodności i uwagi do formularza
+Y: Wybierz kubek i zrób listę pięciu pytań lub pomiarów, które pokażą, czy jest dobrze zrobiony.
+
+@119
+H: Pilnujesz, żeby przyrządy pomiarowe, takie jak mikrometry, mierzyły dokładnie według projektu. Gdy coś się rozjeżdża, regulujesz instrument lub jego elementy.
+T: Sprawdzasz dokładność przyrządów pomiarowych | Porównujesz wskazania ze wzorcem | Regulujesz instrument i jego elementy | Odsyłasz przyrząd, który nie spełnia normy
+D: 7:00 Rozkładasz wzorce i instrumenty do sprawdzenia | 9:00 Mierzysz wzorzec mikrometrem i porównujesz wynik | 11:30 Wskazanie odbiega o ułamek milimetra, regulujesz śrubę | 14:00 Opisujesz przyrząd i oddajesz go do użytku
+Y: Zmierz grubość kartki papieru, mierząc linijką stos stu kartek i dzieląc wynik przez sto.
+

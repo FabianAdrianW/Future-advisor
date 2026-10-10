@@ -1,0 +1,180 @@
+@840
+H: Ustawiasz i obsługujesz maszyny sterowane komputerem, które wycinają metalowe części według programu. Programujesz je, pilnujesz wymiarów i sprawdzasz jakość gotowych sztuk.
+T: Programujesz obrabiarkę według rysunku | Mocujesz materiał i ustawiasz narzędzia | Mierzysz gotowe części i porównujesz z rysunkiem | Konserwujesz maszynę i wymieniasz narzędzia
+D: 6:00 Wczytujesz program i mocujesz surowy materiał | 7:00 Uruchamiasz pierwszą sztukę i obserwujesz ruch narzędzia | 10:30 Mierzysz część, korygujesz ustawienie o kilka setnych | 14:00 Czyścisz maszynę i przekazujesz zmianę
+Y: Zapisz współrzędne czterech punktów prostokąta na kratkowanym papierze i narysuj go, łącząc je po kolei.
+
+@841
+H: Obsługujesz maszynę, która wypala kształty w grubych elementach metalowych palnikiem rozgrzewającym metal i przecinającym go strumieniem tlenu. Ustawiasz palnik i pilnujesz, żeby cięcie szło po zadanej linii.
+T: Ustawiasz palnik nad blachą | Wybierasz ustawienia dla grubości metalu | Pilnujesz cięcia i jakości krawędzi | Usuwasz żużel z wypalonych elementów
+D: 6:00 Układasz grubą blachę na stole maszyny | 7:00 Ustawiasz palnik i program wypalania | 9:30 Kontrolujesz krawędź cięcia, zmieniasz prędkość | 13:00 Usuwasz żużel i układasz wypalone elementy
+Y: Narysuj prostokątną blachę i rozmieść na niej trzy kształty tak, żeby odpadło jak najmniej materiału.
+
+@842
+H: Obsługujesz piece, w których odlewy przechodzą obróbkę cieplną, żeby spełniały normy. Śledzisz odczyty temperatur i danych komputerowych, kierujesz załadunkiem i pilnujesz całego cyklu.
+T: Ładujesz odlewy do pieca | Ustawiasz temperaturę i czas obróbki | Odczytujesz dane z komputera i przyrządów | Sprawdzasz, czy odlewy spełniają normy
+D: 5:30 Przejmujesz piece, czytasz zapis temperatur z nocy | 7:00 Ładujesz nową partię odlewów do pieca | 10:00 Temperatura odbiega od normy, poprawiasz ustawienia | 13:00 Wysyłasz schłodzone odlewy do kontroli twardości
+Y: Zapisz co pięć minut temperaturę ciepłej wody w kubku i narysuj wykres stygnięcia.
+
+@843
+H: Obsługujesz urządzenia, które suszą, mieszają i sprasowują zrębki w twarde brykiety dla huty. Pilnujesz, żeby materiał miał odpowiednią wilgotność, a prasa pracowała bez przerw.
+T: Wsypujesz zrębki do suszarki | Sprawdzasz wilgotność i skład mieszanki | Obsługujesz prasę formującą brykiety | Układasz gotowe brykiety na palecie
+D: 6:00 Włączasz suszarnię, kontrolujesz, czy zrębki są suche | 8:00 Mieszanka trafia do prasy, ustawiasz docisk | 11:00 Oglądasz brykiety, kruszące się odrzucasz | 13:00 Układasz brykiety na palety i czyścisz stanowisko
+Y: Ściśnij mocno w dłoniach garść podartego papieru w zwartą kulkę i sprawdź, czy trzyma kształt.
+
+@844
+H: Obsługujesz prasę, w której matryca opada na blachę i wytłacza z niej mniejsze metalowe części. Ustawiasz maszynę i pilnujesz, żeby każda sztuka wychodziła taka sama.
+T: Zakładasz matrycę i ustawiasz skok prasy | Podajesz blachę lub detal pod matrycę | Sprawdzasz kształt pierwszych wytłoczek | Usuwasz zacięcia i konserwujesz maszynę
+D: 6:00 Zakładasz matrycę i ustawiasz prasę | 7:00 Wytłaczasz pierwsze sztuki i mierzysz je | 10:00 Podajesz kolejne arkusze blachy pod matrycę | 13:30 Układasz gotowe części w skrzyniach
+Y: Wciśnij dno małej szklanki w kilka warstw folii aluminiowej i porównaj odcisk z jej kształtem.
+
+@845
+H: Obsługujesz maszynę z rolkami, która prostuje metalowe elementy naciskiem. Ustawiasz kąt i wysokość rolek oraz siłę docisku, żeby detal był prosty, ale nie stał się zbyt twardy.
+T: Ustawiasz kąt i wysokość rolek | Dobierasz siłę nacisku do wytrzymałości metalu | Przepuszczasz krzywe pręty lub blachy przez maszynę | Kontrolujesz prostość gotowych elementów
+D: 6:30 Sprawdzasz zlecenie: grubość i rodzaj prętów | 7:30 Ustawiasz rolki i przepuszczasz próbny pręt | 10:00 Pręt wciąż lekko krzywy, zmieniasz docisk | 13:00 Przykładasz gotowe pręty do liniału
+Y: Wyprostuj zgięty spinacz, przeciągając go między kciukiem a palcem, i sprawdź linijką, czy jest prosty.
+
+@846
+H: Obsługujesz strugarkę do metalu, w której narzędzie porusza się po prostej względem detalu i ścina z niego nadmiar materiału. Robisz długie, proste cięcia.
+T: Mocujesz metalowy detal na stole maszyny | Ustawiasz głębokość i długość posuwu | Prowadzisz narzędzie wzdłuż prostej ścieżki | Mierzysz powierzchnię po każdym przejściu
+D: 6:00 Mocujesz odlew na stole strugarki | 7:00 Ustawiasz głębokość pierwszego przejścia | 9:30 Narzędzie ściąga cienką warstwę, ty mierzysz | 13:00 Zdejmujesz detal i szukasz zadziorów
+Y: Przyłóż linijkę do blatu stołu w kilku miejscach i patrz pod światło, czy widać szczelinę.
+
+@847
+H: Wycinasz wzory i kształty w blasze ręcznymi albo zasilanymi nożycami i wiertłami wibracyjnymi. Pracujesz według rysunku i dbasz, żeby krawędzie były równe.
+T: Odczytujesz rysunek i znakujesz blachę | Wycinasz kształty nożycami do blach | Wygładzasz ostre krawędzie po cięciu | Sprawdzasz wymiary wyciętych elementów
+D: 7:00 Zaznaczasz kontury na arkuszu blachy | 8:30 Wycinasz prostokątne i okrągłe otwory | 11:00 Wygładzasz ostre krawędzie pilnikiem | 14:00 Układasz wycięte elementy zgodnie z zamówieniem
+Y: Narysuj na kartonie dużą literę S i wytnij ją nożyczkami dokładnie po linii.
+
+@848
+H: Obsługujesz maszynę z palnikiem plazmowym, który topi metal i wycina z niego kształty, zdmuchując stopiony materiał z cięcia. Ustawiasz urządzenie i dbasz o dokładność cięcia.
+T: Układasz blachę na stole do cięcia | Ustawiasz palnik plazmowy i prędkość | Uruchamiasz program z kształtami | Oceniasz krawędź i poprawiasz parametry cięcia
+D: 6:00 Układasz blachę i sprawdzasz dyszę palnika | 7:00 Wczytujesz kształty i robisz próbne cięcie | 10:00 Krawędź jest szorstka, zmieniasz prędkość | 13:00 Odkładasz gotowe elementy i sprzątasz stół
+Y: Narysuj na kartce trzy kształty, ponumeruj kolejność ich wycinania i zaznacz, gdzie zaczyna się każde cięcie.
+
+@849
+H: Obsługujesz maszynę, w której wiązka lasera wycina lub grawerowuje wzory na metalu. Ustawiasz moc, kierunek i prędkość wiązki oraz pilnujesz, żeby wzór wyszedł dokładnie.
+T: Ustawiasz moc i prędkość lasera | Sprawdzasz, czy ploter jest ustawiony prawidłowo | Wczytujesz wzór do grawerowania | Oglądasz efekt i poprawiasz ustawienia
+D: 7:00 Sprawdzasz ustawienie plotera laserowego | 8:00 Wczytujesz wzór i robisz próbę na odpadzie | 10:30 Dostrajasz moc, bo linia wychodzi zbyt płytka | 13:00 Grawerujesz serię tabliczek według zamówienia
+Y: Narysuj prosty wzór z linii i kółek, a potem opisz go słowami tak, by ktoś mógł go odtworzyć.
+
+@850
+H: Obsługujesz maszynę, która wciska gwint w metalowy pręt, odciskając na nim matrycę. Gwint zewnętrzny lub wewnętrzny powstaje przez odkształcenie metalu, a nie przez jego wycinanie.
+T: Zakładasz matryce walcarki | Wkładasz pręty w maszynę | Sprawdzasz średnicę i kształt gwintu | Wyrzucasz wadliwe sztuki i poprawiasz ustawienie
+D: 6:00 Wybierasz matryce pod zamówiony rozmiar gwintu | 7:00 Uruchamiasz walcarkę i robisz próbny gwint | 10:00 Sprawdzasz gwint sprawdzianem i nakrętką | 13:00 Odkładasz gotowe śruby do skrzyń
+Y: Przetocz śrubę po płaskim kawałku plasteliny i obejrzyj, jak odbija się jej gwint.
+
+@851
+H: Obsługujesz maszynę z obrotowym narzędziem o wielu ostrzach, która powiększa już istniejący otwór w metalowym detalu. Ustawiasz i konserwujesz urządzenia jedno- i wielowrzecionowe.
+T: Mocujesz detal z otworem na stole | Ustawiasz narzędzie na wymiar otworu | Powiększasz otwór do wymaganej średnicy | Konserwujesz maszynę i wymieniasz narzędzia
+D: 6:00 Przygotowujesz maszynę i narzędzie do zlecenia | 7:30 Mocujesz pierwszy detal z wstępnym otworem | 9:30 Powiększasz otwór i mierzysz jego średnicę | 13:00 Czyścisz maszynę i wymieniasz stępione narzędzie
+Y: Znajdź trzy przedmioty z okrągłymi otworami, zmierz je linijką i ułóż od najmniejszego do największego.
+
+@852
+H: Obsługujesz wytaczarkę, która obrotowym narzędziem skrawa metal w detalu i powiększa w nim otwór. Ustawiasz maszynę i prowadzisz narzędzie wzdłuż osi detalu.
+T: Mocujesz formowany detal w uchwycie | Prowadzisz narzędzie wzdłuż osi otworu | Ścinasz nadmiar materiału z wnętrza | Kontrolujesz średnicę i gładkość otworu
+D: 6:30 Zakładasz uchwyt i sprawdzasz bicie narzędzia | 8:00 Wprowadzasz narzędzie w detal i powiększasz otwór | 11:00 Wymieniasz stępiony przyrząd i zaczynasz kolejną partię | 14:00 Mierzysz otwory i zapisujesz wyniki w karcie
+Y: Zwiń z kartki rurkę, wsuń w nią ołówek i sprawdź, czy przesuwa się równo, bez zahaczania.
+
+@853
+H: Programujesz i obsługujesz poziome wytaczarki, które drążą otwory w dużych detalach. Czytasz schematy i instrukcje oprzyrządowania, a w trakcie pracy korygujesz głębokość i obroty narzędzia.
+T: Czytasz schematy i instrukcje oprzyrządowania | Programujesz ruchy wytaczarki | Korygujesz głębokość i prędkość obrotową | Prowadzisz regularną konserwację maszyny
+D: 6:00 Czytasz instrukcję i dobierasz oprzyrządowanie | 7:30 Wprowadzasz program dla dużego korpusu | 10:00 Obserwujesz wytaczanie i zmieniasz obroty narzędzia | 13:30 Smarujesz i czyścisz maszynę przed następną zmianą
+Y: Wypisz w pięciu punktach kolejne kroki wykonania otworu w klocku: mocowanie, pomiar, narzędzie, głębokość, kontrola.
+
+@854
+H: Z metalowych półfabrykatów toczysz i frezujesz części do maszyn według rysunku. Gotowe elementy muszą do siebie pasować i nadawać się do montażu.
+T: Czytasz rysunek i planujesz kolejność obróbki | Toczysz okrągłe części, na przykład wałki | Frezujesz rowki, płaskie ścianki i otwory | Sprawdzasz pasowanie części przed montażem
+D: 6:00 Czytasz rysunek wałka i przygotowujesz pręt | 7:30 Toczysz wałek do wymaganej średnicy | 10:30 Frezujesz rowek na wpust i mierzysz go | 13:30 Przymierzasz gotowy wałek do tulei
+Y: Dopasuj w pary pięć zakrętek i słoików z kuchni i zapisz, które pasują ciasno, a które luźno.
+
+@855
+H: Robisz metalowe łańcuchy, także drobne łańcuszki jubilerskie z metali szlachetnych. Maszyna formuje ogniwa z drutu, a ty łączysz końce szczypcami i lutujesz je na gładko.
+T: Zakładasz drut w maszynie do łańcuchów | Zaginasz i łączysz końce ogniw szczypcami | Lutujesz złączenia na gładko | Przycinasz i wygładzasz końce łańcuszka
+D: 8:00 Zakładasz cienki drut i uruchamiasz maszynę | 9:30 Zaginasz szczypcami końce świeżo wykonanego łańcuszka | 12:30 Lutujesz łączenia, żeby były gładkie w dotyku | 15:00 Sprawdzasz długość i wygląd gotowych łańcuszków
+Y: Połącz dziesięć spinaczy w łańcuszek i sprawdź, czy utrzyma ciężar kilku monet.
+
+@856
+H: Podgrzewasz stal w kuźni i kształtujesz ją młotem, dłutem i na kowadle. Dziś robisz głównie rzemieślnicze wyroby: przedmioty ozdobne, ale także podkowy.
+T: Rozgrzewasz stalowy pręt w palenisku kuźni | Uderzasz młotem, nadając metalowi kształt | Dłutem odcinasz i wycinasz detale | Wykańczasz ozdobne wyroby i sprawdzasz kształt
+D: 8:00 Rozpalasz kuźnię i szykujesz stalowe pręty | 9:00 Kujesz ozdobny hak na kowadle | 12:00 Dłutem robisz ozdobne nacięcia w gorącym metalu | 14:30 Rozmawiasz z klientem o bramie na zamówienie
+Y: Narysuj z boku prosty hak do ubrań z jednego pręta i zaznacz miejsca, gdzie trzeba zgiąć metal.
+
+@857
+H: Dbasz o kopyta koni: oglądasz je, przycinasz, dopasowujesz i przybijasz podkowy. Pracujesz przy żywym zwierzęciu, więc liczą się spokój i dokładność.
+T: Oglądasz kopyto i sposób chodzenia konia | Przycinasz i wyrównujesz kopyto | Dopasowujesz podkowę do kształtu kopyta | Przybijasz podkowę i sprawdzasz, jak koń stąpa
+D: 7:00 Dojeżdżasz do stajni, oglądasz kopyta kilku koni | 8:30 Zdejmujesz starą podkowę i przycinasz kopyto | 10:30 Dopasowujesz nową podkowę w przenośnej kuźni | 13:00 Przybijasz podkowę i patrzysz, jak koń idzie
+Y: Przyjrzyj się podeszwom swoich butów i zaznacz miejsca najbardziej wytarte, co mówi o twoim chodzie.
+
+@858
+H: Obsługujesz młot hydrauliczny, który ściska metalowy detal siłą tłoka i cieczy pod ciśnieniem, nadając mu kształt rury, profilu lub innego półproduktu stalowego. Pilnujesz ciśnienia i dokładności.
+T: Ustawiasz ciśnienie i skok tłoka | Wkładasz detal między matryce | Obserwujesz kształtowanie rur i profili | Sprawdzasz wymiary po każdej partii
+D: 6:00 Sprawdzasz poziom oleju i wskazania ciśnienia | 7:30 Wsuwasz pierwszy detal pod tłok | 10:00 Formujesz rurę prasą i mierzysz jej średnicę | 13:00 Zapisujesz wyniki i odkładasz gotowe profile
+Y: Ściśnij dłońmi zakręconą pełną butelkę z wodą i opisz, jak czujesz opór cieczy.
+
+@859
+H: Obsługujesz młot kuźniczy, który spada na metalowy detal i zmienia jego kształt zgodnie z formą matrycy. Ustawiasz maszynę, wybierasz matrycę i pilnujesz powtarzalnych uderzeń.
+T: Zakładasz matryce otwarte lub zamknięte | Układasz detal na matrycy | Uruchamiasz młot i kontrolujesz uderzenia | Sprawdzasz, czy wyrób ma wymagany kształt
+D: 6:00 Dobierasz matrycę do zamówionego wyrobu | 7:00 Układasz pierwszy detal i uruchamiasz młot | 10:00 Młot opada, sprawdzasz zgodność z szablonem | 13:00 Odkładasz gotowe odkuwki na paletę
+Y: Spłaszcz kulkę z folii aluminiowej kilkoma uderzeniami grubej książki i opisz kolejne kształty.
+
+@860
+H: Obsługujesz prasę napędzaną korbą, krzywką i kolankiem, która powtarzalnymi uderzeniami formuje metalowe części, także rury i profile. Ustawiasz siłę docisku i pilnujesz rytmu pracy.
+T: Ustawiasz skok i siłę prasy | Podajesz detale pod stempel | Kontrolujesz powtarzalność kolejnych uderzeń | Smarujesz i czyścisz ruchome części
+D: 6:00 Smarujesz korbę i sprawdzasz osłony prasy | 7:00 Ustawiasz skok i robisz próbne uderzenia | 10:00 Podajesz kolejne półfabrykaty w równym rytmie | 13:00 Mierzysz losową sztukę i spisujesz wynik
+Y: Połóż linijkę na ołówku jak huśtawkę, naciśnij jeden koniec i zmierz, o ile unosi się drugi.
+
+@861
+H: Wytwarzasz bardzo dokładne części metalowe do maszyn i składasz je w działające zespoły. Wykonujesz też drobne elementy pomiarowe i sterujące.
+T: Wykonujesz części na frezarce, wiertarce i szlifierce | Gładzisz powierzchnie do dokładnego wymiaru | Montujesz części w działające zespoły | Składasz elementy pomiarowe i sterujące
+D: 7:00 Czytasz rysunek i szykujesz materiał na część | 8:30 Frezujesz i wiercisz element z dokładnością do setnych | 11:30 Szlifujesz powierzchnię, aż pasuje do wzornika | 13:30 Składasz mały mechanizm i sprawdzasz jego ruch
+Y: Rozbierz niepotrzebny długopis na części, ułóż je po kolei i złóż go z powrotem tak, by działał.
+
+@862
+H: Robisz wzory z drewna, metalu lub plastiku, według których powstają odlewy. Wzór jest odciskany w formie, więc gotowy odlew ma dokładnie jego kształt.
+T: Czytasz rysunek odlewanego wyrobu | Rzeźbisz model z drewna lub tworzywa | Dopasowujesz wymiary modelu do odlewu | Wygładzasz i sprawdzasz model przed formowaniem
+D: 7:00 Studiujesz rysunek wyrobu, który ma być odlany | 8:30 Wycinasz z drewna zgrubny kształt modelu | 11:00 Szlifujesz i dopasowujesz części modelu | 14:00 Z odlewnikiem sprawdzasz, czy model wyjdzie z formy
+Y: Narysuj dowolny przedmiot z kuchni w trzech widokach: z góry, z przodu i z boku, z wymiarami.
+
+@863
+H: Naprawiasz i przerabiasz metalową broń palną według zamówienia klienta oraz odnawiasz starą. Pracujesz na maszynach i narzędziach ręcznych, a czasem dodajesz grawerunek i ozdobne wykończenie.
+T: Rozbierasz broń i oceniasz uszkodzenia | Obrabiasz części szlifierką, frezarką i pilnikiem | Dopasowujesz zmiany do wymagań klienta | Grawerujesz i wykańczasz gotowy wyrób
+D: 9:00 Oglądasz starą broń przyniesioną do renowacji | 10:30 Szlifujesz i dopasowujesz zużytą część | 13:00 Ustalasz z klientem zmiany w wykończeniu | 15:30 Grawerujesz ozdobny wzór na metalowej części
+Y: Narysuj ołówkiem ozdobny wzór z liści lub spiral, który zmieści się na pasku papieru szerokim na dwa centymetry.
+
+@864
+H: Instalujesz i naprawiasz zamki mechaniczne i elektroniczne, robisz kopie kluczy i otwierasz drzwi, gdy ktoś zostanie zamknięty. Doradzasz też, jak lepiej zabezpieczyć mieszkanie lub firmę.
+T: Wycinasz kopie kluczy na maszynie | Montujesz i wymieniasz zamki w drzwiach | Naprawiasz zacięte lub zepsute mechanizmy | Otwierasz drzwi w nagłych wypadkach
+D: 8:00 Wycinasz kopie kluczy dla klientów w warsztacie | 10:30 Wymieniasz zamek w drzwiach mieszkania | 14:00 Telefon: ktoś zatrzasnął drzwi, jedziesz je otworzyć | 17:30 Doradzasz firmie, jakie zamki wybrać do biura
+Y: Przyjrzyj się własnemu kluczowi, narysuj jego profil i policz, ile ma wcięć i wypustek.
+
+@865
+H: Wytwarzasz metalowe narzędzia i matryce, którymi inni potem produkują setki części. Projektujesz je, wycinasz, dopasowujesz i wykańczasz ręcznie lub na maszynach CNC.
+T: Projektujesz narzędzie lub matrycę do wyrobu | Wycinasz i obrabiasz metal do odpowiedniego rozmiaru | Wykańczasz powierzchnie narzędziami ręcznymi | Programujesz maszyny CNC do trudnych kształtów
+D: 7:00 Rysujesz matrycę do nowej, drobnej części | 9:00 Obrabiasz blok stali na maszynie | 12:30 Dopasowujesz matrycę pilnikiem, aż zamyka się równo | 15:00 Próbne tłoczenie: sprawdzasz, czy wytłoczka wychodzi dobrze
+Y: Wytnij z kartonu szablon litery L i obrysuj go pięć razy, sprawdzając, czy kształty są takie same.
+
+@866
+H: Ostrzysz i szlifujesz metalowe przedmioty i narzędzia bardzo precyzyjnie. Czytasz instrukcje oprzyrządowania i pilnujesz, żeby detal miał wymagany wymiar.
+T: Mocujesz narzędzie lub detal na szlifierce | Ostrzysz noże, frezy i wiertła | Wygładzasz powierzchnie do wymaganej gładkości | Mierzysz efekt zgodnie z instrukcją
+D: 6:30 Czytasz instrukcję i dobierasz tarczę szlifierską | 8:00 Mocujesz stępiony frez w ostrzarce | 10:30 Szlifujesz ostrze i oglądasz je pod lupą | 13:00 Mierzysz kąt i wymiar, odkładasz gotowe narzędzia
+Y: Obejrzyj z bliska powierzchnię trzech przedmiotów z kuchni i ułóż je od najgładszej do najbardziej chropowatej.
+
+@867
+H: Polerujesz metalowe wyroby, żeby były gładkie i błyszczące, i zdejmujesz z nich rdzę oraz zmatowienie. Obsługujesz maszyny z tarczami polerskimi i dbasz o ich stan.
+T: Mocujesz prawie gotowy detal | Usuwasz rdzę i zmatowienie z powierzchni | Polerujesz tarczą do wysokiego połysku | Wymieniasz zużyte tarcze polerskie
+D: 6:30 Sprawdzasz stan tarcz polerskich | 7:30 Szorstkujesz detal, żeby usunąć ślady po obróbce | 10:00 Polerujesz partię klamek do wysokiego połysku | 13:00 Oglądasz powierzchnię pod światło i poprawiasz plamy
+Y: Potrzyj suchą miękką szmatką matową metalową łyżeczkę przez pięć minut i opisz różnicę w połysku.
+
+@868
+H: Naprawiasz i konserwujesz ciągniki oraz maszyny do siewu, zbioru i pracy w polu. Szukasz usterek, wymieniasz części, a przed sezonem robisz przeglądy, żeby sprzęt nie stanął w środku prac.
+T: Oceniasz stan ciągnika lub kombajnu | Robisz przeglądy przed sezonem prac polowych | Szukasz usterek w hydraulice i napędzie | Wymieniasz zużyte części i smarujesz mechanizmy
+D: 7:00 Jedziesz do gospodarstwa, bo kombajn nie rusza | 9:00 Szukasz przyczyny i znajdujesz zatkany filtr paliwa | 12:00 Wymieniasz zużyty łańcuch w siewniku | 15:00 Robisz przegląd ciągnika przed wiosennym siewem
+Y: Obejrzyj rower lub inne urządzenie w domu i wypisz pięć miejsc, które wymagają regularnego przeglądu.
+
+@869
+H: Konserwujesz maszyny pracujące w lesie i przewozisz je tam, gdzie są potrzebne. Korzystasz z komputerowych systemów i przyrządów, które zapisują dane o pracy maszyny.
+T: Konserwujesz maszyny używane w lesie | Odczytujesz dane o pracy z systemów komputerowych | Naprawiasz usterki w terenie | Przewozisz maszyny na miejsce wycinki
+D: 6:30 Sprawdzasz olej i filtry w maszynie leśnej | 8:30 Podłączasz komputer i czytasz zapis błędów | 11:30 Naprawiasz usterkę na polanie w środku lasu | 15:00 Ładujesz maszynę na przyczepę i przewozisz ją
+Y: Wypisz w kolejności maszyny potrzebne w lesie od wycinki drzewa do wywózki drewna.
+

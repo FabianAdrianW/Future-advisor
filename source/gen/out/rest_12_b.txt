@@ -1,0 +1,180 @@
+@1950
+H: Reprezentujesz członków związku, stowarzyszenia lub organizacji i negocjujesz w ich imieniu. Zajmujesz się np. warunkami pracy i bezpieczeństwem.
+T: Negocjujesz z pracodawcami warunki dla członków | Piszesz stanowiska organizacji w ważnych sprawach | Tłumaczysz członkom nowe przepisy | Pilnujesz wykonania ustaleń po negocjacjach
+D: 8:30 Czytasz skargi członków na warunki pracy | 11:00 Negocjacje z pracodawcą o godzinach pracy | 14:00 Spotkanie z członkami, tłumaczysz wynik rozmów | 16:30 Piszesz komunikat dla mediów
+Y: Zapytaj dwie osoby, co zmieniłyby w szkole lub pracy, i zapisz wspólne punkty.
+
+@1951
+H: Kontrolujesz ładunki w transporcie: czy są bezpieczne, dobrze zabezpieczone i mają komplet dokumentów. Sprawdzasz zgodność z przepisami krajowymi i międzynarodowymi.
+T: Sprawdzasz dokumenty przewozowe kierowców | Oglądasz zabezpieczenie i zawartość ładunku | Zapisujesz naruszenia w protokole | Wyjaśniasz przewoźnikom wymagane przepisy
+D: 6:00 Wyjeżdżasz na punkt kontrolny przy trasie | 8:00 Sprawdzasz papiery ciężarówki z międzynarodowym ładunkiem | 11:00 Ładunek jest źle zamocowany, spisujesz protokół | 14:00 Przepisujesz notatki do raportu w biurze
+Y: Zapisz, jakie informacje powinna mieć etykieta na paczce, by kurier wiedział, co i gdzie dostarcza.
+
+@1952
+H: Pracujesz w porcie i sprawdzasz towary na statku, czy zgadzają się z dokumentami. Oceniasz też wyposażenie statku i wymagane licencje.
+T: Porównujesz ładunek z manifestem okrętowym | Oglądasz stan towarów w ładowniach | Kontrolujesz wyposażenie ochronne statku | Sprawdzasz licencje i zbiorniki paliwa
+D: 7:00 Wchodzisz na pokład z dokumentami statku | 9:00 Porównujesz towary w ładowni z listą | 12:00 Oglądasz sprzęt ratunkowy i zbiorniki paliwa | 15:00 Piszesz raport z portowego biura
+Y: Wypisz dziesięć przedmiotów z jednej szuflady, potem policz je i sprawdź, czy lista się zgadza.
+
+@1953
+H: Sprawdzasz, czy w opakowaniu jest tyle towaru, ile napisano na etykiecie. Kontrolujesz sklepy i producentów i spisujesz nieprawidłowości.
+T: Ważysz zapakowane produkty na wzorcowej wadze | Porównujesz wynik z napisem na opakowaniu | Spisujesz naruszenia w protokole | Doradzasz firmom, jak zgodnie pakować towar
+D: 8:00 Jedziesz na kontrolę do zakładu pakującego | 9:30 Ważysz losowe paczki z linii | 12:00 Dwa opakowania ważą mniej niż na etykiecie | 14:30 Wpisujesz wyniki i opisujesz naruszenie
+Y: Zważ w domu trzy produkty na wadze kuchennej i porównaj wynik z wagą na etykiecie.
+
+@1954
+H: Sprawdzasz, jak pracownicy wykonują prace w lesie i czy przestrzegają przepisów. Oceniasz też bezpieczeństwo, koszty i płace.
+T: Odwiedzasz miejsca prac leśnych | Sprawdzasz przestrzeganie przepisów i norm | Oceniasz środki bezpieczeństwa pracy | Piszesz sprawozdania z ustaleń
+D: 7:00 Jedziesz w teren, gdzie trwa wycinka | 9:00 Obserwujesz drwali i sprawdzasz kaski oraz odzież ochronną | 12:00 Porównujesz zapisy płac i kosztów z umową | 15:00 Piszesz sprawozdanie w biurze
+Y: Obejrzyj trzy drzewa w okolicy i zapisz gatunek oraz stan pnia każdego z nich.
+
+@1955
+H: Kontrolujesz firmy, czy przestrzegają prawa pracy i zasad bezpieczeństwa. Rozmawiasz z pracodawcami i pracownikami oraz piszesz protokoły.
+T: Odwiedzasz zakłady pracy na kontrolach | Sprawdzasz umowy i normy czasu pracy | Oceniasz warunki bezpieczeństwa i higieny | Piszesz protokoły i zalecenia
+D: 8:00 Wchodzisz do zakładu z legitymacją | 9:30 Przeglądasz umowy i listy obecności | 11:30 Rozmowa z pracownikami o warunkach | 14:00 Piszesz protokół i zalecenia dla pracodawcy
+Y: Wypisz pięć praw, które powinien mieć każdy pracownik, i sprawdź jedno w internecie.
+
+@1956
+H: Jeździsz po gospodarstwach i sprawdzasz, czy produkcja, bezpieczeństwo i higiena spełniają przepisy. Z ustaleń robisz raport.
+T: Odwiedzasz gospodarstwa i obiekty rolnicze | Oglądasz pomieszczenia i miejsca przechowywania plonów | Sprawdzasz zapisy kosztów i produkcji | Piszesz raport z ustaleniami
+D: 7:30 Dojeżdżasz do gospodarstwa na umówioną kontrolę | 9:00 Oglądasz chlewnię i magazyn z paszą | 11:30 Porównujesz zapisy produkcji z tym, co widzisz | 14:00 Rozmowa z właścicielem o poprawkach
+Y: Sprawdź, jak oznaczone są produkty rolne w sklepie, i zapisz trzy informacje z jednej etykiety.
+
+@1957
+H: Płyniesz na statkach rybackich i zapisujesz, gdzie łowi załoga, czym i ile. Twoje raporty pomagają naukowcom i pokazują, czy przestrzegane są przepisy ochrony ryb.
+T: Zapisujesz pozycję statku i miejsca połowów | Sprawdzasz, jakich narzędzi połowowych używa załoga | Rejestrujesz gatunki i ilość złowionych ryb | Przygotowujesz raporty dla naukowców
+D: 5:00 Wchodzisz na pokład, zaczyna się wyciąganie sieci | 8:00 Mierzysz i liczysz ryby z połowu | 13:00 Zapisujesz współrzędne i dane o sieciach | 21:00 Wpisujesz wyniki dnia do raportu
+Y: Zrób w zeszycie tabelę połowów z kolumnami: gatunek, ilość, miejsce, i wpisz trzy wymyślone przykłady.
+
+@1958
+H: Pomagasz ludziom, którzy mają problem z kupionym towarem lub usługą. Tłumaczysz im ich prawa i pomagasz w sporach ze sprzedawcami.
+T: Odbierasz reklamacje i skargi konsumentów | Tłumaczysz prawa po zakupie towarów i usług | Piszesz pisma do sprzedawców | Sprawdzasz, czy firmy przestrzegają norm
+D: 8:30 Czytasz pocztę ze skargami od klientów | 10:00 Telefon do sklepu w sprawie zepsutej pralki | 13:00 Doradzasz klientowi, jak napisać reklamację | 15:30 Kontrolujesz, czy firma przestrzega zasad zwrotów
+Y: Zapisz w czterech punktach, co zrobisz, gdy kupiony przedmiot okaże się wadliwy.
+
+@1959
+H: Pracujesz w kasynie lub salonie gier: prowadzisz i nadzorujesz gry, pilnujesz zasad i tego, żeby nikt nie oszukiwał. Obsługujesz też pytania i skargi graczy.
+T: Prowadzisz gry przy stole zgodnie z zasadami | Obserwujesz graczy, czy nie oszukują | Sprawdzasz sprzęt do gier | Odpowiadasz na pytania i skargi graczy
+D: 16:00 Zaczynasz zmianę i sprawdzasz stoły | 18:00 Prowadzisz grę, obserwujesz ruchy graczy | 22:00 Gracz kwestionuje wynik, tłumaczysz zasady | 1:30 Raportujesz zdarzenia zmiany i kończysz pracę
+Y: Wymyśl prostą grę z kartami i zapisz pięć zasad, które zapobiegają oszustwom.
+
+@1960
+H: Obsługujesz systemy emerytalne: sprawdzasz, czy świadczenia są dobrze policzone. Odpowiadasz klientom i przygotowujesz sprawozdania.
+T: Obliczasz wysokość świadczeń emerytalnych | Sprawdzasz zgodność wypłat z przepisami | Przygotowujesz sprawozdania dla instytucji | Tłumaczysz klientom, jak działa ich plan
+D: 8:00 Otwierasz nowe wnioski o emeryturę | 10:00 Liczysz świadczenie na podstawie lat składek | 13:00 Tłumaczysz klientowi przez telefon wynik obliczeń | 15:30 Zestawiasz sprawozdanie miesięczne dla zarządu
+Y: Policz, ile przez 40 lat uzbiera osoba odkładająca 100 zł miesięcznie, bez odsetek.
+
+@1961
+H: Doradzasz ludziom, jakie świadczenia im przysługują, i pomagasz złożyć wnioski. Chodzi np. o chorobę, urodzenie dziecka, rentę czy zasiłek.
+T: Tłumaczysz, jakie świadczenia przysługują klientowi | Pomagasz wypełnić wnioski o zasiłek | Sprawdzasz dokumenty potwierdzające prawo do świadczeń | Informujesz o dodatkowym wsparciu
+D: 8:00 Otwierasz okienko, kolejka już czeka | 9:30 Pomagasz młodej mamie z wnioskiem o zasiłek | 12:00 Sprawdzasz dokumenty i brakujące zaświadczenia | 14:30 Oddzwaniasz do klienta z wynikiem sprawy
+Y: Wypisz pięć sytuacji w życiu, w których człowiek może potrzebować pomocy z ubezpieczenia społecznego.
+
+@1962
+H: Badasz skargi pracowników na nadużycia, np. niewypłacone pensje lub brak opłaconych składek. Kontrolujesz firmy i wnioski o świadczenia.
+T: Analizujesz skargi pracowników na firmy | Kontrolujesz firmy na miejscu | Sprawdzasz wnioski o przyznanie świadczeń | Spisujesz ustalenia w sprawozdaniach
+D: 8:30 Czytasz nową skargę na niewypłaconą pensję | 10:30 Jedziesz do firmy i żądasz dokumentów | 12:30 Rozmawiasz z pracownikami i księgową | 15:00 Spisujesz, co jest zgodne z prawem, a co nie
+Y: Wymyśl przykładową skargę pracownika na pracodawcę i wypisz, jakie dokumenty by ją potwierdziły.
+
+@1963
+H: Pomagasz ludziom, którzy chcą przeprowadzić się do innego kraju, w sprawach pobytu i dokumentów. Tłumaczysz im przepisy i prowadzisz ich przez cały proces.
+T: Tłumaczysz klientom przepisy imigracyjne | Ustalasz, jakie dokumenty są potrzebne | Pomagasz wypełnić i złożyć wnioski | Pilnujesz terminów w urzędach
+D: 9:00 Rozmowa z rodziną, która chce wyjechać | 11:00 Sprawdzasz listę wymaganych dokumentów | 13:30 Wypełniasz wniosek o pozwolenie na pobyt | 16:00 Telefon do urzędu z pytaniem o termin
+Y: Sprawdź na oficjalnej stronie rządowej, jakich dokumentów potrzebuje Polak do wyjazdu do pracy w innym kraju UE.
+
+@1964
+H: Rozpatrujesz wnioski o licencje i pozwolenia, np. na prowadzenie działalności. Sprawdzasz, czy wnioskodawca spełnia warunki, i doradzasz w sprawach prawa.
+T: Czytasz i oceniasz wnioski o licencje | Sprawdzasz, czy wnioskodawca spełnia wymagania | Pilnujesz wpłat opłat licencyjnych | Doradzasz, jak poprawić brakujący wniosek
+D: 8:00 Przeglądasz nowe wnioski na biurku | 10:00 Dzwonisz do wnioskodawcy po brakujący dokument | 12:30 Sprawdzasz, czy opłata wpłynęła na konto | 15:00 Wydajesz decyzję i zapisujesz ją w aktach
+Y: Wymyśl trzy warunki, jakie powinien spełnić ktoś, kto chce otworzyć kiosk, i uzasadnij każdy.
+
+@1965
+H: Wydajesz paszporty i inne dokumenty podróży, także dla uchodźców. Sprawdzasz tożsamość wnioskodawców i prowadzisz rejestr wydanych dokumentów.
+T: Przyjmujesz wnioski o paszport | Sprawdzasz tożsamość wnioskodawców | Wystawiasz dokumenty podróży | Wpisujesz wydane paszporty do rejestru
+D: 8:00 Otwierasz okienko i przyjmujesz pierwsze wnioski | 10:00 Porównujesz zdjęcie i dane z dokumentem | 12:30 Pomagasz osobie, która potrzebuje dokumentu podróży | 15:00 Uzupełniasz rejestr wydanych paszportów
+Y: Wypisz pięć elementów, jakie powinno mieć dobre zdjęcie paszportowe, według oficjalnych wytycznych.
+
+@1966
+H: Sprawdzasz, czy osoby i firmy dobrze liczą podatki i płacą je na czas. Analizujesz dokumenty finansowe i szukasz nadużyć.
+T: Analizujesz rachunki i dokumentację finansową | Obliczasz należny podatek | Wyjaśniasz podatnikom przepisy | Szukasz oznak oszustw w dokumentach
+D: 8:00 Zaczynasz od dokumentów małej firmy | 10:00 Porównujesz faktury z deklaracją podatkową | 13:00 Znajdujesz niezgodność i prosisz o wyjaśnienia | 15:30 Piszesz wynik kontroli dla przełożonego
+Y: Weź paragon i przelicz, czy suma pozycji zgadza się z kwotą na dole.
+
+@1967
+H: Przyjmujesz w imieniu urzędu opłaty, podatki i należności, np. lokalne. Wykonujesz pracę biurową i kontaktujesz się z innymi instytucjami.
+T: Przyjmujesz wpłaty podatków i opłat lokalnych | Wydajesz potwierdzenia płatności | Przygotowujesz zestawienia wpływów | Wyjaśniasz mieszkańcom, ile i do kiedy zapłacić
+D: 8:00 Otwierasz kasę i sprawdzasz rejestr | 9:30 Klient pyta o podatek od nieruchomości | 12:00 Uzgadniasz z innym urzędem brakującą wpłatę | 15:00 Zamykasz kasę i zestawiasz dzienne wpływy
+Y: Sprawdź, jakie lokalne opłaty i podatki płacą mieszkańcy w twojej gminie, i wypisz trzy.
+
+@1968
+H: Pomagasz prawnikom przygotować się do procesu, zwłaszcza z ławą przysięgłych. Badasz jej skład, ćwiczysz ze świadkami i budujesz argumenty.
+T: Badasz skład ławy przysięgłych | Ćwiczysz ze świadkami odpowiedzi na pytania | Obserwujesz reakcje przysięgłych w trakcie procesu | Podpowiadasz prawnikom strategię i argumenty
+D: 9:00 Czytasz profile kandydatów na przysięgłych | 11:00 Ćwiczysz ze świadkiem trudne pytania | 14:00 Na sali notujesz reakcje przysięgłych | 18:00 Omawiasz z prawnikami zmianę argumentacji
+Y: Wybierz spór, np. o zasady w domu, i napisz po jednym argumencie dla każdej strony.
+
+@1969
+H: Doradzasz firmom i osobom prywatnym w sprawach prawnych poza salą sądową. Czytasz umowy i mówisz, co w nich jest ryzykowne.
+T: Czytasz i poprawiasz umowy | Doradzasz przy zakupie nieruchomości | Tłumaczysz klientom skutki ich decyzji | Przygotowujesz opinie prawne na piśmie
+D: 9:00 Czytasz projekt umowy przed spotkaniem | 11:00 Klient pyta o zakup lokalu na firmę | 14:00 Zaznaczasz zapisy, które mogą być ryzykowne | 16:30 Wysyłasz klientowi opinię w trzech akapitach
+Y: Przeczytaj regulamin dowolnej aplikacji lub strony i zaznacz trzy zapisy, które mogą być niekorzystne dla użytkownika.
+
+@1970
+H: Pilnujesz, żeby nowy produkt lub usługa spełniały przepisy, zanim trafią na rynek. Łączysz prawników, firmę i urzędy.
+T: Sprawdzasz przepisy dla nowych produktów | Przygotowujesz dokumenty dla urzędów | Rozmawiasz z prawnikami i regulatorami | Kierujesz zespołem od zgodności z prawem
+D: 8:30 Czytasz zmianę przepisów w branży | 10:30 Spotkanie z zespołem produktu o terminach | 13:00 Przygotowujesz dokumenty do urzędu | 16:00 Telefon do urzędu z pytaniem o wymagania
+Y: Wybierz produkt z domu i znajdź na opakowaniu trzy oznaczenia wymagane przepisami.
+
+@1971
+H: Badasz zmarłych w nietypowych okolicznościach, żeby ustalić przyczynę śmierci. Prowadzisz dokumentację i współpracujesz z policją i prokuraturą.
+T: Ustalasz przyczynę śmierci po badaniu | Opisujesz ustalenia w dokumentach | Współpracujesz z policją i prokuratorem | Przedstawiasz wnioski w sądzie
+D: 8:00 Dostajesz zgłoszenie o nagłym zgonie | 9:30 Badasz ciało i zbierasz próbki | 13:00 Zapisujesz szczegółowy opis w dokumentacji | 15:30 Rozmowa z policją o ustaleniach
+Y: Zapisz trzy pytania, na które musi odpowiedzieć lekarz, by ustalić przyczynę śmierci.
+
+@1972
+H: Pomagasz dwóm stronom sporu dogadać się bez procesu w sądzie. Słuchasz obu stron i szukasz rozwiązania, które mogą przyjąć.
+T: Słuchasz każdej strony osobno i wspólnie | Pilnujesz, by rozmowa była spokojna | Podpowiadasz możliwe rozwiązania sporu | Spisujesz ugodę, którą strony podpisują
+D: 9:00 Rozmowa z pierwszą stroną o jej oczekiwaniach | 10:30 Rozmowa z drugą stroną o jej oczekiwaniach | 12:00 Wspólne spotkanie, tłumaczysz zasady rozmowy | 14:30 Spisujesz warunki ugody i zbierasz podpisy
+Y: Wysłuchaj dwóch domowników w drobnym sporze, bez oceniania, i zapisz, czego każdy z nich chce.
+
+@1973
+H: Potwierdzasz, że ważne dokumenty, np. umowy kupna mieszkania, są prawdziwe i zgodne z prawem. Sprawdzasz tożsamość stron i spisujesz akty.
+T: Sprawdzasz tożsamość osób podpisujących | Czytasz umowę na głos przed podpisaniem | Poświadczasz podpisy | Spisujesz akty notarialne
+D: 9:00 Przygotowujesz akt sprzedaży mieszkania | 11:00 Sprawdzasz dowody stron i czytasz akt na głos | 11:45 Strony podpisują, ty poświadczasz podpisy | 15:00 Archiwizujesz akt i rozliczasz sprawę
+Y: Napisz krótką umowę pożyczki książki: kto pożycza, co, od kiedy i do kiedy.
+
+@1974
+H: Obserwujesz przebieg wyborów, żeby były uczciwe i przejrzyste. Po szkoleniu stoisz w lokalu i patrzysz, jak przebiega głosowanie i liczenie głosów.
+T: Obserwujesz otwarcie lokalu wyborczego | Patrzysz, jak ludzie głosują i liczy się głosy | Notujesz wszelkie nieprawidłowości | Piszesz raport dla organizacji, która cię wysyła
+D: 6:00 Dojeżdżasz do lokalu wyborczego przed otwarciem | 7:00 Obserwujesz otwarcie urn i początek głosowania | 21:00 Zamknięcie lokalu, obserwujesz liczenie głosów | 1:00 Spisujesz notatki do raportu
+Y: Sprawdź, jak wygląda w Polsce proces liczenia głosów, i opisz go w czterech krótkich krokach.
+
+@1975
+H: Czytasz projekty ustaw i poprawiasz je, żeby były jasne i precyzyjne. Czasem dodajesz pojęcia, których brakuje w tekście.
+T: Czytasz projekty przepisów zdanie po zdaniu | Upraszczasz niejasne i sprzeczne zapisy | Porównujesz projekt z obowiązującym prawem | Dodajesz brakujące pojęcia do tekstu
+D: 8:30 Dostajesz projekt ustawy do sprawdzenia | 10:00 Zaznaczasz zdania, które można odczytać dwojako | 13:00 Poprawiasz zapisy i porównujesz z innymi ustawami | 15:30 Omawiasz zmiany z autorami projektu
+Y: Przepisz regulamin szkolny lub domowy tak, żeby każda zasada miała jedno jasne znaczenie.
+
+@1976
+H: Pomagasz obywatelom w sporach z urzędami i instytucjami, gdy siły stron są nierówne. Działasz jak bezstronny pośrednik i szukasz rozwiązania.
+T: Przyjmujesz skargi obywateli na instytucje | Rozmawiasz z obiema stronami sporu | Badasz sprawę i dokumenty | Doradzasz, jak rozwiązać konflikt
+D: 9:00 Czytasz skargę na urząd, który odmówił zasiłku | 11:00 Dzwonisz do urzędu po wyjaśnienia | 13:30 Spotkanie z osobą, która złożyła skargę | 16:00 Piszesz pismo z wnioskami do instytucji
+Y: Napisz krótką skargę na wymyśloną odmowę urzędu: opisz sytuację i czego oczekujesz.
+
+@1977
+H: Badasz przypadki łamania praw człowieka i planujesz, jak im zapobiegać. Czytasz skargi i rozmawiasz z poszkodowanymi, drugą stroną i organizacjami.
+T: Analizujesz skargi o łamaniu praw człowieka | Rozmawiasz z poszkodowanymi i drugą stroną | Zbierasz i sprawdzasz informacje | Piszesz plany ograniczania naruszeń
+D: 9:00 Czytasz nowe skargi i sprawdzasz dowody | 11:00 Rozmowa z osobą poszkodowaną o zdarzeniu | 14:00 Spotkanie z organizacją zajmującą się prawami człowieka | 16:30 Piszesz plan działań wobec naruszeń
+Y: Wybierz jedno prawo z Powszechnej Deklaracji Praw Człowieka i wypisz, jak widać je w szkole.
+
+@1978
+H: Doradzasz klientom w sprawach prawnych i reprezentujesz ich przed sądem. Czytasz przepisy i dokumenty, żeby zbudować argumenty.
+T: Czytasz akta sprawy i przepisy | Piszesz pisma i pozwy do sądu | Reprezentujesz klienta na rozprawie | Doradzasz klientom, co mogą zrobić
+D: 8:30 Spotkanie z klientem, który chce złożyć pozew | 10:30 Szukasz w przepisach i wyrokach podobnych spraw | 13:00 Rozprawa w sądzie, zadajesz pytania świadkowi | 17:00 Piszesz pismo procesowe na jutro
+Y: Wybierz wymyślony spór o pożyczoną rzecz i napisz trzy argumenty dla jednej ze stron.
+
+@1979
+H: Oskarżasz osoby podejrzane o złamanie prawa i reprezentujesz państwo w sądzie. Badasz dowody, zadajesz pytania i budujesz oskarżenie.
+T: Czytasz akta i analizujesz dowody | Przesłuchujesz świadków i podejrzanych | Interpretujesz przepisy prawa karnego | Przedstawiasz oskarżenie na rozprawie
+D: 8:00 Czytasz nowe akta i opinie biegłych | 10:00 Przesłuchujesz świadka w prokuraturze | 13:00 Rozprawa, odczytujesz akt oskarżenia | 16:00 Piszesz wniosek o dalsze dowody
+Y: Wymyśl krótką sprawę o zniknięciu kanapki i wypisz trzy dowody wskazujące, kto ją zjadł.
+

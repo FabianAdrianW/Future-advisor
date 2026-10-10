@@ -1,0 +1,180 @@
+@930
+H: Instalujesz i naprawiasz instalacje elektryczne i elektroniczne na statkach: oświetlenie, klimatyzację, ogrzewanie, akumulatory. Szukasz usterek sprzętem diagnostycznym.
+T: Instalujesz oświetlenie i przewody na statku | Naprawiasz klimatyzację i ogrzewanie okrętowe | Kontrolujesz statek sprzętem diagnostycznym | Wymieniasz akumulatory i podzespoły
+D: 7:00 Wejście na pokład, w kajutach nie świeci światło | 9:30 Szukasz uszkodzonego przewodu w ciasnym korytarzu | 13:00 Naprawiasz klimatyzację w mesie załogi | 16:00 Sprawdzasz alternator przyrządem diagnostycznym
+Y: Wypisz sześć rzeczy na statku, które muszą działać również wtedy, gdy zabraknie zasilania z lądu.
+
+@931
+H: Naprawiasz instalacje elektryczne i elektroniczne w pojazdach szynowych: światła, ogrzewanie, klimatyzację. Pracujesz w zajezdni, często na zmianach.
+T: Naprawiasz okablowanie w pojazdach szynowych | Instalujesz oświetlenie i ogrzewanie wagonów | Znajdujesz usterki sprzętem diagnostycznym | Konserwujesz klimatyzację w składach
+D: 6:00 Zajezdnia, skład wrócił z zepsutym ogrzewaniem | 8:30 Podpinasz sprzęt diagnostyczny i szukasz usterki | 12:00 Wymieniasz przepalone oświetlenie w wagonie | 14:00 Testujesz klimatyzację i kończysz dokumentację
+Y: Wypisz pięć elementów pociągu, które muszą mieć zasilanie, i uporządkuj je według ważności dla pasażera.
+
+@932
+H: Montujesz windy w przygotowanych szybach, podłączasz ich elementy elektroniczne i kabinę. Potem przeglądasz je i naprawiasz.
+T: Montujesz wsporniki i prowadnice w szybie | Instalujesz silnik, linę i mechanizm windy | Podłączasz elementy elektroniczne i kabinę | Kontrolujesz i naprawiasz działające windy
+D: 7:00 Przegląd windy w bloku, mieszkańcy skarżą się na szarpanie | 10:00 Montujesz wsporniki w pustym szybie nowej windy | 13:00 Łączysz elementy elektroniczne z kabiną | 15:30 Sprawdzasz działanie i wpisujesz wynik inspekcji
+Y: Narysuj prosty przekrój windy w budynku: szyb, kabina, lina, silnik, i podpisz każdy element.
+
+@933
+H: Instalujesz, konserwujesz i naprawiasz specjalistyczne urządzenia elektryczne w kopalniach. Pilnujesz też zasilania pod ziemią.
+T: Instalujesz urządzenia elektryczne w kopalni | Konserwujesz specjalistyczny sprzęt górniczy | Naprawiasz uszkodzone instalacje | Monitorujesz zasilanie w kopalni
+D: 5:30 Zjazd w dół, odczyt zasilania w wyrobisku | 8:00 Wymieniasz uszkodzone zasilanie maszyny górniczej | 11:30 Szukasz przyczyny braku zasilania w oddziale | 13:30 Notujesz stan instalacji przed zmianą
+Y: Wypisz pięć pytań, które należy zadać, gdy w całym domu przestaje działać światło.
+
+@934
+H: Naprawiasz wiertarki, pilarki łańcuchowe, kosiarki i szlifierki. Rozbierasz je, szukasz wadliwej części, wymieniasz ją i doradzasz klientom.
+T: Szukasz wady w wiertarce lub pilarce | Rozbierasz i testujesz narzędzia | Wymieniasz wadliwe części narzędzi | Doradzasz klientom w konserwacji sprzętu
+D: 8:00 Klient przynosi pilarkę, która gaśnie | 10:00 Rozbierasz kosiarkę i oglądasz zużyte elementy | 13:00 Wymieniasz zużytą część szlifierki | 15:30 Radzisz klientowi, jak dbać o narzędzie
+Y: Obejrzyj w domu śrubokręt lub kombinerki i opisz, która ich część zużyje się najszybciej.
+
+@935
+H: Kontrolujesz i naprawiasz światła na lotnisku, które prowadzą samoloty. Rejestrujesz wyniki kontroli i decydujesz, co trzeba naprawić.
+T: Kontrolujesz oświetlenie dróg startowych | Konserwujesz systemy świetlne lotniska | Rejestrujesz wyniki kontroli | Określasz potrzebne działania naprawcze
+D: 21:00 Zaczynasz zmianę, gdy na lotnisku zapada zmrok | 22:30 Sprawdzasz, które światła przy pasie nie świecą | 1:00 Wymieniasz uszkodzone oprawy przy pasie | 4:30 Wpisujesz w rejestr, co zrobiono i co zostało
+Y: Narysuj lotnisko z lotu ptaka: pas, drogę dojazdową, i zaznacz, gdzie potrzebne są światła.
+
+@936
+H: Naprawiasz karuzele, kolejki i inne atrakcje, żeby były sprawne i bezpieczne dla gości. Prowadzisz rejestr napraw, przestojów i czasu pracy każdej atrakcji.
+T: Konserwujesz urządzenia atrakcji | Naprawiasz uszkodzone elementy karuzel | Prowadzisz rejestr napraw i przestojów | Sprawdzasz bezpieczeństwo przed otwarciem parku
+D: 6:30 Obchód atrakcji przed otwarciem parku | 9:00 Sprawdzasz zabezpieczenia i napęd kolejki | 14:00 Karuzela stanęła, szukasz usterki przy tłumie gości | 18:00 Zapisujesz naprawy i godziny przestoju
+Y: Obserwuj plac zabaw w okolicy i zapisz pięć elementów, które powinny być sprawdzane codziennie.
+
+@937
+H: Montujesz, sprawdzasz i wymieniasz akumulatory w samochodach. Oceniasz, czy problem z zasilaniem leży w akumulatorze, i przygotowujesz stare do utylizacji.
+T: Montujesz akumulatory w samochodach | Testujesz akumulator przyrządem elektrycznym | Oceniasz, skąd bierze się problem z zasilaniem | Przygotowujesz stare akumulatory do usunięcia
+D: 8:00 Klient zgłasza, że auto nie odpala rano | 9:30 Mierzysz stan akumulatora testerem | 12:00 Wymieniasz akumulator i sprawdzasz działanie auta | 15:00 Przygotowujesz stare akumulatory do odbioru
+Y: Zrób listę trzech oznak, że akumulator w aucie jest słaby, i sprawdź je w internecie.
+
+@938
+H: Instalujesz i naprawiasz liczniki prądu w budynkach. Sprawdzasz, czy działają zgodnie z przepisami, i tłumaczysz mieszkańcom ich obsługę.
+T: Instalujesz liczniki prądu w budynkach | Testujesz poprawność działania urządzeń | Naprawiasz usterki liczników | Doradzasz, jak korzystać z urządzenia
+D: 8:00 Wizyta w bloku, wymiana licznika w rozdzielni | 10:30 Testujesz nowy licznik przed odbiorem | 12:30 Mieszkaniec zgłasza błędny odczyt, sprawdzasz | 15:00 Wyjaśniasz, jak odczytywać wskazania licznika
+Y: Zmierz linijką ten sam stół trzykrotnie i sprawdź, czy wyniki pomiarów są identyczne.
+
+@939
+H: Układasz przewody i instalacje elektryczne w budynkach i sprawdzasz, czy izolacja jest szczelna i nie grozi pożarem. Dostosowujesz instalację do życzeń inwestora.
+T: Układasz przewody w ścianach budynku | Instalujesz gniazdka i rozdzielnie | Kontrolujesz izolację i bezpieczeństwo pożarowe | Wprowadzasz zmiany na życzenie klienta
+D: 7:00 Budowa domu, plan instalacji na ścianie | 9:30 Układasz przewody w bruzdach w ścianach | 12:30 Sprawdzasz izolację zgodnie z wymaganiami | 14:30 Wprowadzasz poprawki w planie po rozmowie z inwestorem
+Y: Narysuj plan jednego pokoju i zaznacz, gdzie przydałyby się gniazdka, włączniki i lampy.
+
+@940
+H: Instalujesz i naprawiasz instalacje elektryczne w mieszkaniach i domach oraz sprzęt domowy. Jeździsz do klientów, sprawdzasz i wymieniasz wadliwe części.
+T: Naprawiasz instalacje w mieszkaniach i domach | Wymieniasz wadliwe części sprzętu domowego | Sprawdzasz, czy naprawione urządzenie działa skutecznie | Instalujesz sprzęt domowy u klientów
+D: 8:30 Wizyta w mieszkaniu, w kuchni nie ma prądu | 10:30 Szukasz usterki w pralce klienta | 13:30 Wymieniasz wadliwy element sprzętu | 16:00 Sprawdzasz działanie sprzętu i tłumaczysz klientowi
+Y: Zapisz, które urządzenia w Twojej kuchni mają najwięcej ruchomych części, i oceń, co mogłoby się zepsuć.
+
+@941
+H: Budujesz tymczasowe instalacje elektryczne na koncerty, wesela i festiwale, także tam, gdzie nie ma stałego zasilania. Po imprezie wszystko rozbierasz.
+T: Montujesz tymczasowe instalacje na imprezy | Zasilasz scenę tam, gdzie nie ma sieci | Liczysz obciążenia według planów | Demontujesz instalację po zakończeniu imprezy
+D: 6:00 Plac festiwalowy, rozkładasz plan zasilania sceny | 10:00 Układasz kable do sceny i zaplecza | 17:00 Sprawdzasz zasilanie przed próbą dźwięku | 1:00 Po koncercie zwijasz kable i demontujesz instalację
+Y: Rozpisz na kartce, ile urządzeń potrzebuje zasilania na małej imprezie domowej i gdzie je rozstawić.
+
+@942
+H: Instalujesz i konserwujesz instalacje elektryczne w dużych halach, fabrykach i budynkach handlowych. Szukasz usterek w instalacji i wymieniasz wadliwe części.
+T: Prowadzisz przewody w halach produkcyjnych | Konserwujesz instalacje w centrach handlowych | Kontrolujesz instalację po awarii zasilania | Wymieniasz wadliwe części w rozdzielni
+D: 6:00 Fabryka, awaria zasilania na jednej linii | 8:30 Sprawdzasz instalację i znajdujesz uszkodzoną część | 11:30 Konserwacja instalacji w centrum handlowym | 14:00 Opisujesz awarię i wpisujesz naprawę do rejestru
+Y: Zrób schemat budynku szkoły: zaznacz, gdzie według Ciebie potrzeba najwięcej zasilania, i uzasadnij to.
+
+@943
+H: Układasz i naprawiasz kable zasilające pod ziemią, w rurach i rowach. Łączysz też odbiorców z siecią elektryczną.
+T: Układasz kable w rurach i rowach | Konserwujesz podziemne przewody zasilające | Naprawiasz uszkodzone kable | Podłączasz odbiorców do sieci elektrycznej
+D: 7:00 Wykop przy ulicy, odsłaniasz uszkodzony kabel | 10:00 Przeciągasz nowy kabel przez rurę | 13:00 Łączysz końce kabli w studzience | 15:00 Zasypujesz rów i opisujesz trasę kabla
+Y: Narysuj plan drogi od ulicy do swojego domu i zaznacz, którędy mógłby biec kabel pod ziemią.
+
+@944
+H: Budujesz i naprawiasz sieć, która zasila lampy uliczne w mieście. Wymieniasz zepsute oprawy i pilnujesz zasad bezpieczeństwa.
+T: Budujesz instalacje zasilające lampy uliczne | Testujesz oświetlenie uliczne | Naprawiasz zepsute oprawy i przewody | Konserwujesz oświetlenie według przepisów bezpieczeństwa
+D: 6:00 Rano zbierasz zgłoszenia o zgaszonych lampach | 9:00 Sprawdzasz zasilanie w słupie, lampa nie świeci | 13:00 Wymieniasz oprawę przy ulicy osiedlowej | 20:00 Wieczorna kontrola, czy lampy włączają się o zmroku
+Y: Wieczorem policz z okna lub podwórka, ile lamp świeci, a ile nie, i zapisz wynik.
+
+@945
+H: Budujesz i naprawiasz linie, którymi prąd płynie z elektrowni do miast i domów. Pracujesz w terenie, w każdej pogodzie, według rygorystycznych przepisów bezpieczeństwa.
+T: Budujesz instalacje przesyłowe i dystrybucyjne | Konserwujesz linie energetyczne | Naprawiasz uszkodzone odcinki linii | Pracujesz według przepisów bezpieczeństwa
+D: 6:00 Odprawa przed wyjazdem w teren | 8:00 Szukasz miejsca awarii na linii po burzy | 12:00 Naprawiasz uszkodzony odcinek instalacji | 15:00 Notujesz wykonane prace i zabezpieczasz miejsce
+Y: Zapisz w pięciu krokach trasę, którą według Ciebie prąd pokonuje od elektrowni do Twojego domu.
+
+@946
+H: Budujesz i naprawiasz przewody zawieszone na słupach i masztach, które niosą prąd przez pola i miasta. Pracujesz na zewnątrz, więc pogoda i bezpieczeństwo decydują o każdym dniu.
+T: Montujesz przewody zasilające na słupach | Naprawiasz napowietrzne przewody po awarii | Konserwujesz przewody sterujące linii | Podłączasz odbiorców do sieci
+D: 6:30 Wyjazd w teren, wichura zerwała przewód | 9:00 Zabezpieczasz się i wchodzisz na słup | 12:00 Naprawiasz przewód i sprawdzasz linię | 15:00 Podłączasz dom do sieci i notujesz prace
+Y: Spójrz z okna na słupy i przewody w okolicy i zapisz trzy cechy: kształt, wysokość, liczbę przewodów.
+
+@947
+H: Naprawiasz telefony: wymieniasz ekrany, baterie i przyciski oraz aktualizujesz oprogramowanie. Doradzasz też klientom w sprawie gwarancji.
+T: Testujesz działanie telefonu klienta | Wymieniasz ekran, baterię i klawisze | Instalujesz i aktualizujesz oprogramowanie | Doradzasz w sprawach gwarancji
+D: 9:00 Otwierasz serwis, klient z pękniętym ekranem | 10:30 Wymieniasz baterię, która szybko się rozładowuje | 13:00 Aktualizujesz oprogramowanie w kilku telefonach | 16:00 Wyjaśniasz klientowi, czy naprawa mieści się w gwarancji
+Y: Obejrzyj swój telefon z zewnątrz i wypisz pięć elementów, które mogą się zużyć lub uszkodzić.
+
+@948
+H: Diagnozujesz błędy w małych urządzeniach przenośnych i naprawiasz je, żeby działały lepiej. Informujesz klientów o gwarancji i serwisie po sprzedaży.
+T: Diagnozujesz błędy w urządzeniach przenośnych | Naprawiasz uszkodzone urządzenia | Poprawiasz jakość działania sprzętu | Informujesz o gwarancji i serwisie
+D: 8:30 Przyjmujesz urządzenie z opisem usterki | 10:30 Wykonujesz diagnostykę i znajdujesz błąd | 13:00 Naprawiasz urządzenie i testujesz je | 15:30 Informujesz klienta o gwarancji i serwisie
+Y: Opisz w czterech krokach, jak szukać przyczyny, gdy przenośny głośnik przestaje grać.
+
+@949
+H: Montujesz czujniki i urządzenia sterujące, które chronią dom lub firmę przed włamaniem i pożarem. Na końcu pokazujesz użytkownikom, jak z nich korzystać.
+T: Instalujesz czujniki włamania i pożaru | Podłączasz systemy sterujące do zasilania | Łączysz alarmy z liniami telekomunikacyjnymi | Pokazujesz użytkownikom obsługę systemu
+D: 8:00 Jedziesz do sklepu zamontować nowy alarm | 10:00 Montujesz czujniki przy drzwiach i oknach | 13:00 Testujesz, czy system wywołuje alarm | 15:00 Pokazujesz właścicielowi, jak włączać i wyłączać alarm
+Y: Obejdź mieszkanie i zaznacz na planie, gdzie powinny być czujniki, żeby nikt nie wszedł niezauważony.
+
+@950
+H: Instalujesz i naprawiasz infrastrukturę, przez którą działa łączność: kable, sieci i urządzenia. Dbasz, żeby systemy komunikacyjne działały bez przerw.
+T: Instalujesz infrastrukturę systemów łączności | Naprawiasz uszkodzone elementy sieci | Konserwujesz urządzenia obsługujące łączność | Szukasz przyczyny przerwy w łączności
+D: 7:00 Zgłoszenie: w całej dzielnicy brak łączności | 9:00 Jedziesz do szafy telekomunikacyjnej sprawdzić stan | 12:00 Naprawiasz uszkodzony odcinek kabla | 15:00 Konserwujesz urządzenia i wpisujesz wyniki w dzienniku
+Y: Wypisz pięć elementów, które muszą działać, żeby rozmowa telefoniczna dotarła z jednego miasta do drugiego.
+
+@951
+H: Instalujesz i naprawiasz nadajniki, odbiorniki, anteny i wzmacniacze, dzięki którym działa łączność radiowa i komórkowa. Sprawdzasz też zasięg sieci.
+T: Instalujesz anteny, wzmacniacze i złączki | Naprawiasz radiowe urządzenia nadawcze | Konserwujesz sprzęt na wieżach komunikacyjnych | Testujesz i analizujesz zasięg sieci
+D: 7:30 Wyjazd do wieży, brak zasięgu w okolicy | 9:30 Sprawdzasz antenę i wzmacniacz | 12:30 Naprawiasz radiostację w pojeździe ratunkowym | 15:00 Mierzysz zasięg w terenie i notujesz wyniki
+Y: Narysuj wieżę z antenami i podpisz, co według Ciebie nadaje sygnał, a co go odbiera.
+
+@952
+H: Naprawiasz komputery i urządzenia do nich podłączane. Sprawdzasz, co nie działa, i wymieniasz uszkodzone części.
+T: Instalujesz i testujesz sprzęt komputerowy | Sprawdzasz działanie komputerów | Wymieniasz uszkodzone komponenty | Naprawiasz urządzenia peryferyjne
+D: 9:00 Komputer klienta nie włącza się | 10:30 Rozkręcasz obudowę i szukasz przyczyny | 13:00 Wymieniasz uszkodzony komponent na nowy | 15:30 Testujesz sprzęt i oddajesz go klientowi
+Y: Ułóż listę pięciu kroków diagnozy dla komputera, który się nie włącza, od najprostszego do najtrudniejszego.
+
+@953
+H: Instalujesz, testujesz i naprawiasz systemy telekomunikacyjne, a gdy sprzęt zawodzi, wymieniasz go. Pomagasz też użytkownikom, którzy mają z nim problem.
+T: Instalujesz systemy telekomunikacyjne | Testujesz łączność po instalacji | Wymieniasz wadliwe urządzenia | Prowadzisz wykaz materiałów i pomagasz klientom
+D: 8:00 Odbierasz materiały do instalacji w firmie | 10:00 Montujesz centralę i łączysz linie | 13:00 Testujesz łączność we wszystkich pokojach | 15:30 Wyjaśniasz pracownikom, jak korzystać z nowego systemu
+Y: Zrób inwentarz swojego biurka: policz i zapisz kable, ładowarki i przejściówki oraz opisz ich zastosowanie.
+
+@954
+H: Instalujesz, ustawiasz i naprawiasz radiowe systemy nadawcze i odbiorcze oraz łączność dwukierunkową. Monitorujesz ich pracę i szukasz przyczyn błędów.
+T: Instalujesz i regulujesz systemy radiowe | Testujesz radiostacje i urządzenia nadawcze | Monitorujesz skuteczność łączności radiowej | Ustalasz przyczyny błędów w transmisji
+D: 8:00 Radiostacja nie odbiera, sprawdzasz ustawienia | 10:30 Instalujesz urządzenie dwukierunkowe w pojeździe | 13:00 Monitorujesz jakość sygnału podczas testu | 15:00 Znajdujesz przyczynę trzasków w odbiorze
+Y: Porównaj, jak działa Twoje radio lub telefon w różnych pokojach, i zapisz, co zmienia jakość odbioru.
+
+@955
+H: Instalujesz, testujesz i konserwujesz urządzenia, które sterują ruchem pociągów: łączność radiową, radary i systemy elektroniczne. Od nich zależy, kiedy i którędy jedzie skład.
+T: Instalujesz urządzenia sterowania pociągami | Testujesz systemy łączności radiowej | Konserwujesz urządzenia elektroniczne i elektromagnetyczne | Kontrolujesz działanie radarów przy torach
+D: 5:30 Zgłoszenie o awarii urządzeń przy torze | 8:00 Testujesz łączność radiową dla maszynistów | 11:00 Konserwujesz urządzenia w nastawni | 14:00 Sprawdzasz po naprawie, czy system pracuje poprawnie
+Y: Narysuj prosty odcinek toru z dwoma pociągami i opisz, co powinno sterować tym, by nie zderzyły się.
+
+@956
+H: Rozmieszczasz, instalujesz i naprawiasz elektroniczne systemy statku według schematów i rysunków montażowych. Dbasz, żeby na pokładzie wszystko działało poprawnie.
+T: Rozmieszczasz sprzęt elektroniczny na statku | Montujesz elementy według schematów | Podłączasz przewody według rysunków | Naprawiasz systemy elektroniczne na pokładzie
+D: 7:00 Statek w porcie, instalujesz nowy system nawigacyjny | 10:00 Podłączasz przewody według rysunku montażowego | 13:00 Test elektroniki na mostku | 16:00 Naprawiasz uszkodzony element systemu
+Y: Narysuj schemat, jak połączone są urządzenia elektroniczne w jednym pokoju, i podpisz każdą linię.
+
+@957
+H: Montujesz w samochodach urządzenia takie jak odtwarzacze i nawigacje. Gdy coś nie działa, szukasz i poprawiasz usterkę.
+T: Instalujesz odtwarzacze i nawigacje w autach | Wiercisz otwory i prowadzisz przewody | Kontrolujesz nieprawidłowo działające urządzenia | Montujesz akcesoria zgodnie z życzeniem klienta
+D: 9:00 Klient przyjeżdża po nowy odtwarzacz w aucie | 11:00 Chowasz przewody pod osłonami deski rozdzielczej | 13:30 Sprawdzasz, czemu nawigacja się resetuje | 16:00 Testujesz wszystko i pokazujesz klientowi obsługę
+Y: Zaplanuj na rysunku wnętrza auta, którędy można ukryć przewód od głośnika do radia.
+
+@958
+H: Jeździsz po firmach i instalujesz, naprawiasz i konserwujesz drukarki, skanery i modemy. Zapisujesz, co zrobiono, i zabierasz sprzęt do serwisu, gdy trzeba.
+T: Instalujesz drukarki i skanery w firmach | Konserwujesz urządzenia biurowe | Naprawiasz modemy i inny sprzęt | Prowadzisz ewidencję wykonanych usług
+D: 8:00 Wizyta w biurze, drukarka zacina papier | 10:00 Czyścisz rolki i wymieniasz zużytą część | 12:30 Instalujesz skaner w innej firmie | 15:00 Wpisujesz usługi do ewidencji i zabierasz sprzęt do serwisu
+Y: Zapisz trzy możliwe powody, dla których drukarka zacina papier, i uporządkuj je od najbardziej prawdopodobnego.
+
+@959
+H: Montujesz, testujesz i naprawiasz sprzęt elektroniczny samolotów: nawigację, łączność i sterowanie lotem. Diagnozujesz problemy i regulujesz urządzenia.
+T: Instalujesz systemy nawigacji i łączności | Testujesz sprzęt elektroniczny samolotu | Diagnozujesz problemy w sterowaniu lotem | Regulujesz i naprawiasz urządzenia pokładowe
+D: 6:00 Hangar, pilot zgłasza błąd nawigacji | 8:30 Podpinasz urządzenie testowe i szukasz usterki | 12:00 Wymieniasz moduł łączności w kokpicie | 15:00 Sprawdzasz działanie systemów i podpisujesz kartę prac
+Y: Narysuj kokpit samolotu z pamięci lub ze zdjęcia i podpisz pięć przyrządów oraz ich zadania.
+

@@ -1,0 +1,180 @@
+@870
+H: Utrzymujesz w ruchu traktory, kombajny i inne maszyny rolnicze, żeby w sezonie nie stawały w polu. Naprawiasz je w warsztacie albo jeździsz do gospodarstw.
+T: Przeglądasz maszyny przed sezonem żniw | Wymieniasz zużyte noże i łożyska | Szukasz przyczyny awarii w polu | Smarujesz i regulujesz ruchome części
+D: 6:30 Wyjazd do gospodarstwa, kombajn stanął w polu | 9:00 Wymieniasz zerwany pas napędowy na miejscu | 13:00 W warsztacie rozbierasz skrzynię biegów siewnika | 16:30 Zapisujesz naprawy i zamawiasz brakujące części
+Y: Obejrzyj w domu rower lub taczkę i wskaż trzy ruchome części, które wymagają smarowania.
+
+@871
+H: Montujesz i naprawiasz dźwigi przemysłowe i portowe oraz przenośniki. Pracujesz tam, gdzie urządzenie stoi, często w hali albo w porcie.
+T: Składasz części dźwigu na miejscu | Instalujesz przenośniki i urządzenia sterujące | Konserwujesz liny, przekładnie i mechanizmy | Naprawiasz dźwig po awarii
+D: 6:00 Odprawa w porcie, plan przeglądu suwnicy | 8:30 Sprawdzasz liny i hamulce dźwigu | 12:00 Montujesz przenośnik taśmowy w nowej hali | 14:30 Wpisujesz do dziennika wykonane czynności
+Y: Znajdź w domu dźwignię, na przykład otwieracz do butelek, i opisz, jak ułatwia pracę ręki.
+
+@872
+H: Naprawiasz spychacze, koparki i kombajny pracujące na budowach, w lesie i na polach. Często jedziesz do maszyny, bo ona sama nie dojedzie do warsztatu.
+T: Przeglądasz koparki i spychacze | Oceniasz stan sprzętu i jego bezpieczeństwo | Wymieniasz zużyte części maszyn | Naprawiasz usterki na placu budowy
+D: 6:30 Dojazd na budowę, koparka nie podnosi łyżki | 9:00 Szukasz przyczyny awarii razem z operatorem | 12:30 Wymieniasz zużyte części w gąsienicy | 15:00 Oceniasz stan spychacza przed oddaniem klientowi
+Y: Wypisz pięć rzeczy, które mogłyby się zepsuć w koparce pracującej cały dzień w błocie i pyle.
+
+@873
+H: Dbasz o maszyny, które odlewają i formują tworzywa sztuczne i inne materiały. Gdy coś przestaje działać, szukasz usterki i ustawiasz maszynę od nowa.
+T: Kalibrujesz maszyny do formowania | Wykonujesz regularną konserwację urządzeń | Badasz gotowe wyroby pod kątem wad | Usuwasz usterki w trakcie produkcji
+D: 6:00 Przejmujesz hałaśliwą halę, sprawdzasz stan maszyn | 8:30 Odlewy wychodzą krzywe, kalibrujesz formę | 11:30 Przegląd w przerwie produkcji | 14:00 Oglądasz próbki gotowych wyrobów pod kątem wad
+Y: Znajdź w domu trzy plastikowe przedmioty i poszukaj na nich śladów po formie, czyli linii łączenia.
+
+@874
+H: Odpowiadasz za silniki i maszyny na statku, od napędu po generatory i kotły. Pracujesz w maszynowni, w stałym kontakcie z resztą załogi.
+T: Pilnujesz pracy silników podczas rejsu | Wymieniasz wadliwe części i sprzęt | Konserwujesz kotły i generatory | Ustalasz z załogą, co jest potrzebne
+D: 4:00 Wachta w maszynowni, odczyt temperatur i ciśnień | 8:00 Wymieniasz uszkodzoną pompę w ciasnej maszynowni | 13:00 Przegląd generatora, zgłaszasz stan na mostek | 20:00 Wieczorny obchód maszyn przed końcem wachty
+Y: Naszkicuj prosty schemat napędu statku: silnik, wał, śruba, i opisz każdą część jednym zdaniem.
+
+@875
+H: Instalujesz, rozbierasz i naprawiasz maszyny używane w kopalniach. Dbasz, żeby sprzęt wytrzymywał ciężkie warunki pod ziemią i w odkrywce.
+T: Montujesz maszyny górnicze w nowych wyrobiskach | Demontujesz sprzęt po zakończeniu pracy | Konserwujesz maszyny według harmonogramu przeglądów | Naprawiasz uszkodzony sprzęt na miejscu
+D: 5:30 Zjazd na dół razem z brygadą | 7:00 Wymieniasz zużyte części w maszynie górniczej | 11:00 Przenosisz i montujesz sprzęt w nowym miejscu | 13:30 Wyjazd na powierzchnię i zapis napraw
+Y: Znajdź w internecie zdjęcie przekroju kopalni i wypisz trzy rodzaje maszyn, które tam pracują.
+
+@876
+H: Ustawiasz nowe maszyny w zakładzie, a potem dbasz, żeby nie stawały. Gdy coś szwankuje, diagnozujesz, która część wymaga wymiany.
+T: Uruchamiasz nowe maszyny w zakładzie | Konfigurujesz sprzęt do nietypowych zadań | Wykonujesz brakujący osprzęt do maszyn | Diagnozujesz usterki i wymieniasz części
+D: 7:00 Linia stanęła, szukasz przyczyny z operatorem | 9:30 Wymieniasz zużyte łożysko w maszynie | 12:00 Dopasowujesz maszynę do nowego produktu | 14:00 Robisz zaplanowany przegląd kolejnej maszyny
+Y: Wybierz w domu zawias lub zamek i opisz po kolei, co się w nim porusza, gdy go używasz.
+
+@877
+H: Pomagasz głównemu mechanikowi pilnować silnika i maszyn na statku rybackim. Uczysz się przy tym zasad bezpieczeństwa i opieki zdrowotnej na pokładzie.
+T: Pomagasz sprawdzać silnik napędowy | Konserwujesz maszyny i urządzenia pomocnicze | Uczysz się procedur przetrwania i pierwszej pomocy | Wykonujesz polecenia głównego mechanika
+D: 4:30 Pobudka na kutrze, sprawdzasz poziom oleju w silniku | 7:00 Pomagasz mechanikowi przy przeglądzie maszyny pomocniczej | 14:00 Połów trwa, pilnujesz pracy napędu | 21:00 Zapisujesz z mechanikiem stan maszyn na noc
+Y: Naucz się, jak opatrzyć małą ranę według zasad pierwszej pomocy, i opowiedz kroki na głos.
+
+@878
+H: Dbasz, żeby maszyny w zakładzie były dobrze nasmarowane i nie zacierały się. Obchodzisz je ze smarownicą i przy okazji robisz proste naprawy.
+T: Olejujesz maszyny smarownicą | Obchodzisz urządzenia według planu smarowania | Wykonujesz podstawowe naprawy i konserwację | Zgłaszasz maszyny, które pracują nierówno
+D: 6:00 Obchód hali z listą punktów do smarowania | 8:30 Smarujesz łańcuchy i łożyska przy przenośniku | 11:00 Słyszysz hałas w maszynie i zgłaszasz usterkę | 13:00 Dokręcasz poluzowaną śrubę i zakładasz osłonę
+Y: Przejdź po mieszkaniu, otwórz każde drzwi i zapisz, które zawiasy skrzypią i wymagają smarowania.
+
+@879
+H: Zajmujesz się maszynami sterowanymi komputerowo, które tkają, farbują i wykańczają materiały. Ustawiasz je, naprawiasz i pilnujesz, żeby produkcja się nie zatrzymała.
+T: Konfigurujesz maszyny do tkania i barwienia | Przeglądasz maszyny sterowane komputerowo | Naprawiasz urządzenia do wykańczania tkanin | Konserwujesz je według harmonogramu
+D: 6:00 Poranna zmiana, tkalnia stoi po awarii | 8:30 Ustawiasz maszynę do tkania pod nowy wzór | 12:00 Wymieniasz zużyty element w maszynie barwiącej | 14:00 Przekazujesz uwagi technikowi z następnej zmiany
+Y: Obejrzyj z bliska swoją koszulkę lub ściereczkę i sprawdź, jak krzyżują się nitki w tkaninie.
+
+@880
+H: Naprawiasz i konserwujesz prasy oraz inny sprzęt do obróbki materiałów w zakładzie przemysłowym. Zapobiegasz awariom, zanim się zdarzą.
+T: Konserwujesz prasy i narzędzia obróbkowe | Oceniasz stan sprzętu podczas przeglądu | Usuwasz usterki w prasie | Pomagasz w instalacji nowego sprzętu
+D: 6:00 Przegląd prasy przed rozpoczęciem produkcji | 9:00 Prasa tnie nierówno, szukasz usterki | 12:30 Pomagasz ustawić nowy sprzęt na hali | 14:00 Wymieniasz zużytą część w ramach profilaktyki
+Y: Odciśnij monetę w kawałku plasteliny i sprawdź, jak dokładnie odbił się wzór oraz co zmienia nacisk.
+
+@881
+H: Montujesz i uruchamiasz urządzenia napędzane sprężonym powietrzem lub gazem, według schematów. Testujesz je, a potem naprawiasz, gdy zaczynają słabnąć.
+T: Czytasz schematy i dokumentację techniczną | Montujesz elementy zasilane sprężonym powietrzem | Ustawiasz system zgodnie ze specyfikacją | Testujesz szczelność i działanie instalacji
+D: 7:00 Rozkładasz schemat nowej instalacji na stole | 9:30 Montujesz siłowniki i przewody według planu | 12:00 Uruchamiasz układ i szukasz nieszczelności | 14:30 Naprawiasz siłownik, który działa zbyt wolno
+Y: Nadmuchaj balon, puść go i opisz w trzech zdaniach, jak powietrze pod ciśnieniem wprawia go w ruch.
+
+@882
+H: Instalujesz sprzęt, w którym ciśnienie cieczy lub gazu przenosi i reguluje siłę, jak w prasie czy podnośniku. Testujesz go i konserwujesz, żeby działał pewnie.
+T: Instalujesz zespoły hydrauliczne i pneumatyczne | Przeprowadzasz próby ciśnieniowe | Regulujesz moc przekazywaną przez układ | Konserwujesz i serwisujesz sprzęt
+D: 7:30 Podnośnik opada samoczynnie, sprawdzasz cały układ | 10:00 Montujesz nowy zespół z pompą i zaworami | 13:00 Próba ciśnieniowa, notujesz wyniki testu | 15:00 Konserwacja prasy hydraulicznej u klienta
+Y: Napełnij foliowy woreczek wodą, zawiąż go nad zlewem i naciśnij palcem; opisz, gdzie woda napiera.
+
+@883
+H: Dbasz o turbiny, sprężarki, silniki i pompy, które pracują bez przerwy. Zapobiegasz awariom i naprawiasz urządzenia, od których zależy działanie całej instalacji.
+T: Konserwujesz turbiny i sprężarki | Przeglądasz pompy i silniki | Naprawiasz urządzenia wirujące po awarii | Sprawdzasz, czy systemy są niezawodne
+D: 6:00 Obchód stacji pomp i sprężarek | 8:30 Przegląd turbiny w czasie planowego postoju | 11:30 Pompa wibruje, ustalasz przyczynę | 14:00 Opisujesz stan urządzeń i oceniasz ich niezawodność
+Y: Zakręć kółkiem od zabawki lub bączkiem na stole i oceń, czy obraca się równo, czy drga.
+
+@884
+H: Organizujesz codzienną pracę stacji serwisowej: kto naprawia które auto i kiedy. Odpowiadasz za to, żeby klienci odbierali samochody na czas.
+T: Rozdzielasz zlecenia między mechaników | Rozmawiasz z klientami o terminach i naprawach | Sprawdzasz, czy naprawy są ukończone | Zamawiasz części i pilnujesz harmonogramu
+D: 7:30 Układasz plan dnia dla mechaników | 9:00 Klient dzwoni, że auto nie odpala | 12:00 Sprawdzasz, czy naprawa nie przekroczyła terminu | 16:00 Rozmawiasz z klientem o dodatkowej naprawie
+Y: Wypisz trzy zlecenia w warsztacie, na przykład wymianę opon, i ułóż je w kolejności z godzinami.
+
+@885
+H: Odnawiasz stare i klasyczne samochody tak, by znów wyglądały i działały jak dawniej. Często musisz szukać lub odtwarzać rzadkie części.
+T: Rozbierasz stare auto na części | Remontujesz elementy zabytkowego pojazdu | Szukasz lub odtwarzasz rzadkie części | Składasz auto z powrotem po remoncie
+D: 8:00 Przyjmujesz do warsztatu stary samochód sprzed lat | 10:00 Rozbierasz drzwi i oceniasz stan blachy | 13:00 Szukasz oryginalnej części w katalogach i archiwach | 15:30 Dopasowujesz odnowiony element do reszty auta
+Y: Znajdź zdjęcie klasycznego samochodu i wypisz trzy elementy, które różnią go od dzisiejszych aut.
+
+@886
+H: Zmieniasz opony w samochodach, wyważasz koła i sprawdzasz ich ustawienie. Doradzasz też klientom, jaki rodzaj opon pasuje do ich auta.
+T: Zdejmujesz i zakładasz opony na felgi | Wyważasz koła po zamontowaniu opon | Sprawdzasz ustawienie kół w pojeździe | Doradzasz klientom wybór opon
+D: 7:00 Kolejka aut na sezonową wymianę opon | 10:00 Wyważasz koła, klient pyta o bieżnik | 13:00 Naprawiasz oponę przebitą gwoździem | 17:00 Doradzasz klientowi, jakie opony wybrać do auta
+Y: Znajdź w domu oponę roweru lub wózka i opisz jej bieżnik: wzór, głębokość, ślady zużycia.
+
+@887
+H: Jedziesz do klientów, których auto stanęło na poboczu, i naprawiasz je na miejscu. Często pracujesz po zmroku i w każdej pogodzie.
+T: Lokalizujesz i odnajdujesz uszkodzony pojazd | Wymieniasz koło na poboczu | Diagnozujesz awarię silnika na miejscu | Decydujesz, czy da się naprawić auto na miejscu
+D: 5:30 Pierwsze zgłoszenie, auto stoi na poboczu | 8:00 Wymieniasz przebitą oponę w ulewnym deszczu | 14:00 Diagnozujesz silnik, który zgasł w trasie | 22:30 Nocne wezwanie, klient czeka przy drodze
+Y: Zrób listę pięciu rzeczy, które mogą przydać się w samochodzie przy awarii, i pokaż ją domownikom.
+
+@888
+H: Odnawiasz zużyte części silnika i pompy Diesla, zamiast je wyrzucać. W warsztacie rozbierasz je, mierzysz, naprawiasz i składasz ponownie.
+T: Rozbierasz silnik na pojedyncze części | Remontujesz wnętrze pompy Diesla | Sprawdzasz wymiary i zużycie elementów | Składasz odnowiony podzespół z powrotem
+D: 7:00 Na stole leży zużyta pompa wtryskowa | 9:30 Czyścisz i mierzysz elementy pompy | 12:00 Wymieniasz zużyte uszczelki i drobne części | 14:30 Składasz odnowioną pompę i przygotowujesz do montażu
+Y: Obejrzyj zdjęcie rozłożonego silnika w internecie i wypisz pięć części, które według Ciebie zużywają się najszybciej.
+
+@889
+H: Naprawiasz silniki Diesla i dbasz o ich konserwację. Rozbierasz silnik, mierzysz części precyzyjnymi przyrządami i wymieniasz te zużyte lub wadliwe.
+T: Diagnozujesz usterki silnika | Rozbierasz silnik narzędziami ręcznymi | Mierzysz części precyzyjnymi przyrządami | Wymieniasz wadliwe i zużyte elementy
+D: 7:00 Silnik pracuje nierówno, zaczynasz diagnozę | 9:30 Rozbierasz głowicę i oglądasz cylindry | 12:30 Mierzysz zużycie tłoków precyzyjnym przyrządem | 15:00 Składasz silnik z nowymi częściami
+Y: Zmierz linijką średnicę trzech monet i zapisz wyniki od największej do najmniejszej.
+
+@890
+H: Zajmujesz się tym, co pozwala autu bezpiecznie zwalniać, skręcać i tłumić wyboje: hamulcami, układem kierowniczym i zawieszeniem. Sprawdzasz też koła i opony.
+T: Diagnozujesz hamulce i zawieszenie | Naprawiasz układ kierowniczy | Wymieniasz zużyte elementy zawieszenia | Kontrolujesz koła i opony
+D: 8:00 Klient skarży się, że auto ściąga w bok | 10:30 Wymieniasz zużyte klocki hamulcowe i sprawdzasz tarcze | 13:00 Szukasz źródła stuku w zawieszeniu | 15:30 Kontrola kół po naprawie na podnośniku warsztatowym
+Y: Znajdź w domu pięć miejsc, gdzie coś tłumi wstrząsy, na przykład materac albo podeszwa buta.
+
+@891
+H: Formujesz części nadwozia z paneli blachy, wytwarzasz ramy i składasz karoserię pojazdu. Pracujesz w zakładzie, gdzie z osobnych elementów powstaje obudowa auta.
+T: Formujesz panele w części nadwozia | Wytwarzasz ramy i elementy pojazdu | Montujesz części karoserii | Dopasowujesz elementy nadwozia do siebie
+D: 6:00 Zmiana na hali, na stole panele do formowania | 8:30 Formujesz błotnik z płaskiej blachy | 11:30 Składasz ramę i dopasowujesz drzwi | 13:30 Kontrolujesz, czy karoseria pasuje do wzorca
+Y: Złóż z kartonu prosty model nadwozia auta z kilku kawałków i sprawdź, czy elementy do siebie pasują.
+
+@892
+H: Robisz podstawowe czynności w stacji obsługi: wymieniasz olej, filtry i świece zapłonowe. Wykonujesz je szybko i w tej samej kolejności, dzień po dniu.
+T: Spuszczasz zużyty olej i nalewasz nowy | Wymieniasz filtry powietrza i oleju | Wymieniasz świece zapłonowe | Sprawdzasz poziomy płynów w aucie
+D: 7:30 Pierwsze auto na podnośniku, wymiana oleju | 9:30 Wymieniasz filtr powietrza i filtr oleju | 12:00 Zmieniasz świece zapłonowe w drugim aucie | 15:00 Sprawdzasz poziomy płynów i oddajesz kluczyki
+Y: Zapisz po kolei, jak według Ciebie wymienia się olej w aucie, a potem sprawdź kroki w internecie.
+
+@893
+H: Planujesz prace przy samolotach w hangarach i warsztatach i układasz z nich harmonogram. Dbasz, żeby w dniu wjazdu samolotu były ludzie, części i czas.
+T: Planujesz prace przygotowawcze i konserwacyjne | Układasz harmonogram prac w hangarze | Zamawiasz zasoby potrzebne do prac | Raportujesz postępy kierownictwu
+D: 6:30 Sprawdzasz, które samoloty wjadą dziś do hangaru | 9:00 Układasz harmonogram prac na najbliższy tydzień | 12:00 Brakuje części, rozmawiasz z działem zaopatrzenia | 15:00 Raportujesz kierownictwu stan prac
+Y: Rozpisz na kartce, kto z domowników co robi i o której godzinie podczas wspólnego niedzielnego obiadu.
+
+@894
+H: Montujesz i naprawiasz urządzenia, które chronią samoloty i statki kosmiczne przed oblodzeniem. Po instalacji testujesz je i serwisujesz.
+T: Montujesz i instalujesz urządzenia odladzające | Testujesz systemy przeciwoblodzeniowe | Konserwujesz mechaniczne części systemów | Naprawiasz uszkodzone urządzenia odladzania
+D: 6:00 Hangar, nowy system do zamontowania na skrzydle | 9:00 Instalujesz elementy według dokumentacji | 12:00 Test działania systemu przed odbiorem | 14:30 Naprawiasz usterkę zgłoszoną po ostatnim locie
+Y: Obserwuj przez 15 minut, jak lód z zamrażarki topnieje na talerzu, i zapisz, co przyspiesza topnienie.
+
+@895
+H: Doradzasz, jak serwisować silniki samolotów i śmigłowców, i badasz ich części, żeby ocenić, czy nadal się nadają. Czytasz instrukcje producentów i pomagasz mechanikom je zrozumieć.
+T: Doradzasz w sprawie przeglądów silników | Badasz podzespoły i oceniasz ich przydatność | Interpretujesz specyfikacje techniczne producentów | Pomagasz mechanikom zrozumieć wytyczne
+D: 8:00 Czytasz nowe wytyczne producenta silnika | 10:30 Oceniasz wyniki badania podzespołu | 13:00 Tłumaczysz mechanikom, jak stosować instrukcję | 15:30 Piszesz zalecenia dotyczące kolejnych przeglądów
+Y: Przeczytaj w instrukcji obsługi dowolnego domowego urządzenia rozdział o konserwacji i streść go w trzech zdaniach.
+
+@896
+H: Przeglądasz samoloty według surowych procedur, żeby żaden uszkodzony element nie poleciał w powietrze. Sprawdzasz kadłub, silniki oraz układy hydrauliczne i pneumatyczne.
+T: Wykonujesz przeglądy według protokołów | Sprawdzasz kadłub i silniki | Kontrolujesz układy hydrauliczne i pneumatyczne | Wymieniasz części i dokumentujesz każdą czynność
+D: 6:00 Samolot wraca z nocnego lotu do hangaru | 8:00 Sprawdzasz kadłub punkt po punkcie według listy | 11:30 Wymieniasz element układu hydraulicznego | 14:00 Podpisujesz dokumentację wykonanych czynności
+Y: Napisz listę kontrolną z siedmiu punktów na wycieczkę i odhaczaj ją, pakując plecak.
+
+@897
+H: Remontujesz silniki turbośmigłowe: rozbierasz je, czyścisz, sprawdzasz i składasz z powrotem. Używasz do tego specjalistycznych narzędzi.
+T: Demontujesz silnik na elementy | Czyścisz i sprawdzasz poszczególne części | Naprawiasz uszkodzone podzespoły | Składasz silnik specjalistycznym oprzyrządowaniem
+D: 7:00 Silnik przyjechał na remont, rozkładasz go | 10:00 Sprawdzasz każdą część i opisujesz zużycie | 13:00 Naprawiasz uszkodzony podzespół specjalnym narzędziem | 15:30 Składasz silnik i przygotowujesz do prób
+Y: Rozłóż zużyty długopis na części, ułóż je w kolejności zdejmowania i złóż z powrotem bez błędu.
+
+@898
+H: Naprawiasz rowery i ich części oraz dopasowujesz je do wzrostu i potrzeb właściciela. W sezonie warsztat jest pełen jednośladów.
+T: Naprawiasz przebite dętki i opony | Regulujesz hamulce i przerzutki | Wymieniasz łańcuchy i inne zużyte części | Dopasowujesz rower do preferencji klienta
+D: 9:00 Otwierasz warsztat, pierwszy klient z przebitym kołem | 11:00 Wymieniasz łańcuch i regulujesz przerzutki | 14:00 Dopasowujesz siodełko i kierownicę do wzrostu klienta | 17:00 Przygotowujesz rower do odbioru i myjesz go
+Y: Obejrzyj rower w domu i zapisz, które trzy części są najbardziej zużyte: opona, łańcuch czy klocki.
+
+@899
+H: Montujesz rury i elementy rurociągów, którymi płynie woda, para lub inne media. Pracujesz według rysunków i specyfikacji, na budowie lub w zakładzie.
+T: Czytasz specyfikacje i rysunki techniczne | Montujesz odcinki rurociągu na miejscu | Łączysz rury i armaturę | Sprawdzasz zgodność z wymogami bezpieczeństwa
+D: 6:30 Rozkładasz rysunki rurociągu na placu budowy | 9:00 Łączysz kolejne odcinki rur według planu | 12:00 Sprawdzasz, czy połączenia spełniają wymagania | 14:30 Poprawiasz układ rur, bo plan się zmienił
+Y: Narysuj schemat rur w kuchni lub łazience: skąd woda dopływa do kranu i dokąd odpływa.
+

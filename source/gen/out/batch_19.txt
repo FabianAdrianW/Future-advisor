@@ -1,0 +1,360 @@
+@1140
+H: Ustawiasz i nadzorujesz prasę, która przenosi tusz z płyty na płat gumy, a stamtąd na papier lub inny nośnik. Pilnujesz, żeby kolory i ostrość wydruku zgadzały się ze wzorem.
+T: Zakładasz płyty drukarskie w prasie | Regulujesz ilość tuszu na płycie | Porównujesz odbitki ze wzorem klienta | Usuwasz zacięcia i drobne usterki
+D: 6:00 Przejmujesz zmianę i czytasz kartę zlecenia | 7:30 Zakładasz nowe płyty i ustawiasz prasę | 10:00 Kolor na odbitkach jest za blady, poprawiasz tusz | 13:30 Przed końcem zmiany czyścisz wałki i zapisujesz nakład
+Y: Weź ulotkę lub opakowanie i znajdź miejsce, w którym stykają się dwa kolory. Sprawdź, czy brzegi są ostre.
+
+@1141
+H: Obsługujesz prasę, która przeciska farbę przez sito na wybrany przedmiot. Drukujesz na przykład na twardych tworzywach, na których zwykły druk sobie nie radzi.
+T: Mocujesz sito w prasie | Przeciskasz farbę przez sito | Układasz przedmioty do zadruku | Sprawdzasz, czy nadruk jest równy
+D: 7:00 Ustawiasz sito i robisz próbny odcisk na kartonie | 9:00 Drukujesz serię plastikowych tabliczek | 12:00 Nadruk wychodzi lekko krzywo, poprawiasz ustawienie | 14:00 Pakujesz gotowe sztuki i myjesz sito
+Y: Narysuj prosty znak z dwóch kolorów i zaplanuj na kartce, w jakiej kolejności je nałożysz.
+
+@1142
+H: Drukujesz wzory na materiałach włókienniczych, takich jak tkaniny. Pilnujesz, żeby wzór wyszedł tak samo na całej długości materiału.
+T: Przygotowujesz tkaninę do zadruku | Ustawiasz urządzenie do druku na materiale | Pilnujesz, czy wzór się nie przesuwa | Oglądasz gotowy materiał i odrzucasz wadliwe fragmenty
+D: 6:30 Rozwijasz rolę tkaniny i ustawiasz ją w maszynie | 8:30 Drukujesz próbny odcinek wzoru | 11:00 Wzór zaczyna się przesuwać, zatrzymujesz maszynę | 13:00 Oglądasz gotowy materiał pod światło
+Y: Obejrzyj swoją koszulkę lub ścierkę i sprawdź, czy wzór powtarza się w równych odstępach.
+
+@1143
+H: Obsługujesz drukarki laserowe i atramentowe, które drukują wprost z pliku, bez płyt i długich przygotowań. Pilnujesz, żeby nie zabrakło papieru ani tuszu, a wydruki wyglądały dobrze.
+T: Wysyłasz pliki do druku | Wkładasz papier i wymieniasz tusz | Oglądasz pierwsze wydruki pod kątem błędów | Usuwasz zacięcia papieru i rozdzielasz zlecenia
+D: 7:30 Włączasz drukarki i drukujesz stronę testową | 9:00 Drukujesz pięćdziesiąt zaproszeń na wesele | 11:30 Papier zacina się, wyciągasz go z rolek | 14:00 Segregujesz wydruki i pakujesz je dla klientów
+Y: Wybierz stronę ze starej gazety i oceń, czy tekst jest wyraźny i czy brzegi liter są ostre.
+
+@1144
+H: Obsługujesz maszynę, która pod naciskiem wałków i w wysokiej temperaturze przykleja metaliczną folię do papieru lub innych materiałów. Przygotowujesz ją do pracy i pilnujesz, żeby błyszczący nadruk wychodził czysty.
+T: Mieszasz kolory i przygotowujesz maszynę | Zakładasz rolki folii metalicznej | Ustawiasz temperaturę i docisk wałków | Kontrolujesz nadruk w trakcie pracy
+D: 6:00 Zakładasz rolkę złotej folii do maszyny | 8:00 Ustawiasz temperaturę i robisz odbitkę próbną | 11:00 Folia nie łapie na brzegu, zwiększasz docisk | 13:00 Pakujesz błyszczące etykiety na paletę
+Y: Znajdź w domu trzy przedmioty z błyszczącym, metalicznym nadrukiem i opisz, na jakim materiale są wykonane.
+
+@1145
+H: Obsługujesz maszynę, w której płyta pokryta farbą dociska się do materiału i zostawia na nim obraz. Drukujesz tak na prawie wszystkim, na przykład na foliach i opakowaniach.
+T: Montujesz płyty fleksograficzne w maszynie | Uzupełniasz farbę w maszynie | Ustawiasz docisk płyty do materiału | Sprawdzasz, czy kolory i napisy się zgadzają
+D: 5:30 Zmieniasz płyty pod nowe zamówienie | 7:00 Rusza rolka z nadrukiem, oglądasz pierwsze metry | 10:30 Kolor odbiega od wzoru, korygujesz farbę | 13:00 Zdejmujesz gotową rolkę i zapisujesz nakład
+Y: Obejrzyj opakowanie po jedzeniu i sprawdź, czy brzegi liter są ostre, czy lekko rozmyte.
+
+@1146
+H: Obsługujesz prasę, w której obraz jest wygrawerowany bezpośrednio na wałku. Ustawiasz ją przed drukiem, pilnujesz podczas pracy i szukasz przyczyn, gdy coś idzie nie tak.
+T: Zakładasz wygrawerowany wałek w prasie | Przygotowujesz maszynę do nowego zlecenia | Obserwujesz druk i reagujesz na usterki | Przestrzegasz zasad bezpieczeństwa przy ruchomych częściach
+D: 6:00 Odbierasz od poprzedniej zmiany informacje o awariach | 7:30 Montujesz wałek do nowego zlecenia | 10:00 Obraz robi się blady, szukasz przyczyny | 14:00 Odkładasz wałki na regał i porządkujesz stanowisko
+Y: Zwiń kartkę w rurkę i narysuj wzór, który ciągnie się wokół niej bez przerwy na łączeniu.
+
+@1147
+H: Obsługujesz prasę, która dociska do papieru dwie pasujące do siebie matryce i tworzy wypukły lub wgłębiony wzór. Efekt wyczuwasz pod palcami, na przykład na zaproszeniach czy okładkach.
+T: Mocujesz matryce, aby do siebie pasowały | Układasz papier w prasie | Ustawiasz nacisk prasy | Sprawdzasz głębokość i ostrość tłoczenia
+D: 7:00 Dopasowujesz dwie matryce w prasie | 8:30 Tłoczysz próbną kartkę i oglądasz ją pod światło | 11:00 Wzór wychodzi zbyt płytko, zwiększasz nacisk | 13:30 Układasz tłoczone zaproszenia do paczek
+Y: Połóż cienką kartkę na monecie, potrzyj ją miękkim ołówkiem i zobacz, jak wypukły wzór się odbija.
+
+@1148
+H: Powielasz dokumenty i rysunki przez kopiowanie, skanowanie lub druk cyfrowy. Zwykle robisz to na potrzeby archiwów i uporządkowanych katalogów.
+T: Kopiujesz duże rysunki i dokumenty graficzne | Skanujesz dokumenty do archiwum | Drukujesz cyfrowo kopie zleconych materiałów | Porównujesz kopię z oryginałem
+D: 8:00 Odbierasz od biura teczkę dokumentów do skopiowania | 9:30 Skanujesz kruche kartki, nie niszcząc brzegów | 12:00 Kopia wychodzi z ciemnym pasem, czyścisz szybę | 14:30 Segregujesz oryginały i kopie, oddajesz zlecenie
+Y: Skopiuj odręcznie mały rysunek z książki i porównaj z oryginałem, szukając różnic w liniach.
+
+@1149
+H: Organizujesz pracę drukarni tkanin: pilnujesz przebiegu procesów drukarskich i tego, żeby zlecenia były gotowe na czas. Więcej planujesz i sprawdzasz, niż sam stoisz przy maszynie.
+T: Układasz plan zleceń na zmianę | Przekazujesz drukarzom wytyczne do wzoru | Obchodzisz maszyny i sprawdzasz przebieg druku | Notujesz problemy i terminy zamówień
+D: 7:00 Sprawdzasz listę zleceń na dziś | 8:30 Tłumaczysz drukarzowi, jak ma wyglądać wzór | 11:00 Maszyna stoi, ustalasz z mechanikiem plan naprawy | 14:00 Zapisujesz, ile metrów materiału wydrukowano
+Y: Ułóż na kartce kolejność trzech zleceń: torby na piątek, koszulki na jutro, ścierki na poniedziałek, i uzasadnij ją.
+
+@1150
+H: Układasz tekst i obrazy na stronie tak, żeby wydruk wyglądał jak najlepiej. Gotowy układ trafia na papier fotograficzny lub folię.
+T: Obrabiasz obrazy i wzory graficzne | Dobierasz układ tekstu i obrazu | Optymalizujesz wzór pod wydruk | Przenosisz gotowy układ na papier fotograficzny lub folię
+D: 8:00 Odbierasz zdjęcia i teksty od redakcji | 9:30 Układasz zdjęcie i podpis na stronie | 12:00 Obraz wychodzi za ciemny, poprawiasz go | 14:30 Wysyłasz gotowy układ na folię
+Y: Narysuj makietę strony: jedno zdjęcie, tytuł i dwa akapity tekstu tak, żeby nic na siebie nie nachodziło.
+
+@1151
+H: Sprawdzasz, czy tekst na stronie jest dobrze złożony i ładnie wygląda. Dawniej skład robiło się ręcznie, dziś pracujesz w programach cyfrowych.
+T: Składasz tekst w łamy i akapity | Poprawiasz odstępy i dzielenie wyrazów | Ustawiasz nagłówki, tytuły i zdjęcia | Sprawdzasz próbny wydruk strony
+D: 9:00 Dostajesz tekst książki do składu | 10:30 Poprawiasz za duże odstępy między wyrazami | 13:00 Autor zmienia tytuł, przestawiasz całą stronę | 15:30 Sprawdzasz wydruk próbny kolumna po kolumnie
+Y: Wybierz akapit z książki i sprawdź, czy w żadnym wierszu nie kończy się pojedynczą literą.
+
+@1152
+H: Kładziesz materiały drukarskie w skanerze i ustawiasz urządzenie tak, żeby skan miał jak najwyższą rozdzielczość. Przenosisz obrazy z papieru do postaci cyfrowej.
+T: Układasz oryginał prosto na skanerze | Ustawiasz rozdzielczość skanowania | Porównujesz skan z oryginałem | Czyścisz szybę z kurzu i smug
+D: 8:00 Czyścisz szybę i sprawdzasz, czy skaner działa | 9:30 Skanujesz stare fotografie do książki | 12:00 Skan ma pasek, więc powtarzasz go od nowa | 14:00 Zapisujesz pliki i podpisujesz je numerami
+Y: Wybierz stare zdjęcie i wypisz pięć najdrobniejszych szczegółów, które skan musiałby wiernie oddać.
+
+@1153
+H: Przygotowujesz tekst i grafiki do druku: układasz je na stronie i zamieniasz na postać elektroniczną. Zajmujesz się też prasami drukarskimi, które konserwujesz i naprawiasz.
+T: Układasz tekst i grafikę na stronie | Przetwarzasz teksty i obrazy do postaci elektronicznej | Przygotowujesz pliki do druku | Konserwujesz i naprawiasz prasy drukarskie
+D: 7:30 Odbierasz materiały od klienta i sprawdzasz pliki | 9:30 Układasz arkusz z kilkoma stronami książki | 12:00 Prasa piszczy podczas próby, szukasz usterki | 14:30 Przekazujesz gotowe pliki drukarzowi
+Y: Rozłóż jedną kartkę gazety i zapisz, jakie numery stron znajdują się na niej po obu stronach.
+
+@1154
+H: Robisz odbitkę próbną, czyli przybliżoną próbkę gotowego produktu. Na jej podstawie klient decyduje, czy druk może ruszyć.
+T: Drukujesz odbitki próbne z pliku klienta | Dopasowujesz kolory do przewidywanego efektu | Wyjaśniasz, czym próba różni się od końcowego druku | Przekazujesz uwagi klienta dalej
+D: 8:30 Dostajesz plik od klienta z prośbą o próbę | 10:00 Drukujesz próbną odbitkę i oglądasz kolory | 12:00 Klient uważa, że zieleń jest za ciemna | 14:30 Wysyłasz zatwierdzoną próbę do drukarni
+Y: Pokoloruj prosty rysunek i opisz dwa kolory, które trudno byłoby wiernie odtworzyć w druku.
+
+@1155
+H: Przygotowujesz metalowe płyty, z których potem drukuje się obraz. Zwykle wycinasz je laserem z pliku cyfrowego, a czasem pokrywasz specjalną emulsją.
+T: Przesyłasz plik cyfrowy do urządzenia na płyty | Wycinasz laserem obraz na metalowej płycie | Nakładasz emulsję przy tradycyjnej metodzie | Sprawdzasz płytę przed oddaniem do druku
+D: 7:00 Odbierasz plik i sprawdzasz, czy jest kompletny | 8:30 Urządzenie wycina obraz na metalowej płycie | 11:00 Płyta ma rysę, więc robisz nową | 13:30 Oznaczasz płyty i niesiesz je do drukarzy
+Y: Napisz swoje imię na kartce, przyłóż ją do lustra i przepisz napis tak, jak go widać.
+
+@1156
+H: Grawerujesz lub nacinasz sita, przez które potem drukuje się na materiałach włókienniczych. Od twojej precyzji zależy, czy wzór na tkaninie będzie ostry.
+T: Przenosisz wzór na sito | Nacinasz lub grawerujesz wzór w sicie | Poprawiasz drobne błędy krawędzi | Sprawdzasz, czy sito jest gotowe do druku
+D: 8:00 Oglądasz wzór, który ma trafić na sito | 9:30 Grawerujesz cienkie linie w sicie | 12:00 Jedna linia jest przerwana, naprawiasz ją | 14:00 Odkładasz gotowe sita na regał dla drukarzy
+Y: Narysuj linijką wzór z cienkich linii i sprawdź, czy każda ma tę samą grubość na całej długości.
+
+@1157
+H: Obsługujesz maszynę, która składa arkusze papieru w równe złożenia. Ustawiasz ją tak, żeby każda ulotka i każdy arkusz książki zginały się dokładnie w tym samym miejscu.
+T: Ustawiasz maszynę na właściwy format | Zakładasz stos papieru do podajnika | Sprawdzasz, czy zgięcia są równe | Usuwasz zacięcia i wygładzasz pomięte arkusze
+D: 6:30 Ustawiasz falcerkę pod nowy format ulotek | 8:00 Składasz tysiąc arkuszy na trzy części | 10:30 Papier zacina się, wyciągasz zgnieciony arkusz | 13:00 Układasz złożone stosy na palecie
+Y: Złóż kartkę A4 jak ulotkę na trzy równe części i sprawdź, czy brzegi się pokrywają.
+
+@1158
+H: Naprawiasz zniszczone książki i dbasz, żeby przetrwały jak najdłużej. Najpierw oceniasz ich wartość i to, co je niszczy, a dopiero potem decydujesz, co zrobić.
+T: Oceniasz stan i wartość historyczną książki | Szukasz przyczyn zniszczeń fizycznych i chemicznych | Naprawiasz podarte kartki i oprawę | Dobierasz sposób przechowywania książki
+D: 8:30 Oglądasz starą książkę i opisujesz uszkodzenia | 10:00 Delikatnie naprawiasz podarty róg kartki | 12:30 Na grzbiecie widać pleśń, ustalasz jej przyczynę | 14:30 Zapisujesz w karcie każdy wykonany zabieg
+Y: Delikatnie obejrzyj najstarszą książkę w domu i wypisz trzy oznaki zużycia, na przykład żółknące kartki.
+
+@1159
+H: Obsługujesz maszyny, które wiążą zadrukowane lub czyste kartki w tomy zszywkami, szpagatem, klejem albo inną techniką. Zamieniasz stosy arkuszy w zeszyty i książki.
+T: Ustawiasz maszynę pod rodzaj oprawy | Podajesz arkusze do wiązania | Sprawdzasz, czy zszywki lub klej trzymają | Uzupełniasz zszywki, szpagat lub klej w maszynie
+D: 6:00 Ustawiasz maszynę do wiązania zeszytów | 8:00 Wiążesz pierwszą partię i sprawdzasz grzbiety | 11:00 Kartki wypadają z grzbietu, zmieniasz ustawienia | 13:30 Pakujesz gotowe książki w kartony
+Y: Przejrzyj trzy zeszyty lub książki z domu i sprawdź, czym kartki są w każdym połączone.
+
+@1160
+H: Obsługujesz maszynę, która zszywa papier w tom. Pilnujesz, żeby sygnatury, czyli złożone arkusze, wchodziły do niej we właściwej kolejności i żeby nic jej nie zablokowało.
+T: Ładujesz sygnatury do podajnika | Kontrolujesz, czy wchodzą we właściwy sposób | Zatrzymujesz maszynę, gdy powstaje zator | Sprawdzasz zszyte tomy na wyrywkę
+D: 7:00 Ładujesz stos sygnatur do podajnika | 9:00 Maszyna zszywa pierwszą partię tomów | 11:30 Powstaje zator, usuwasz zablokowany arkusz | 14:00 Przeliczasz gotowe tomy i odkładasz na paletę
+Y: Złóż cztery kartki na pół, włóż jedną w drugą i ponumeruj strony tak, by szły po kolei.
+
+@1161
+H: Robisz beczki i drewniane naczynia z deszczułek, które formujesz i spinasz obręczami. Dziś najczęściej powstają z nich beczki na droższe alkohole.
+T: Dopasowujesz drewniane klepki do siebie | Formujesz drewno w kształt beczki | Zakładasz obręcze i zaciskasz je | Sprawdzasz, czy beczka jest szczelna
+D: 7:00 Wybierasz klepki i układasz je w kółko | 9:30 Zaciskasz obręcz, beczka nabiera kształtu | 12:00 Dwie klepki nie przylegają, dopasowujesz je | 14:30 Sprawdzasz szczelność gotowej beczki wodą
+Y: Ułóż w kółko pionowo kilka ołówków i spróbuj obwiązać je sznurkiem tak, aby się nie rozsypały.
+
+@1162
+H: Robisz ramy do obrazów i luster, najczęściej z drewna, według życzenia klienta. Czasem naprawiasz też stare, zabytkowe ramy.
+T: Ustalasz z klientem rozmiar i wygląd ramy | Przycinasz i łączysz drewniane listwy | Wycinasz szkło i osadzasz je w ramie | Barwisz drewno i naprawiasz stare ramy
+D: 8:30 Klient przynosi obraz i wybiera kolor ramy | 10:00 Przycinasz cztery listwy i łączysz narożniki | 13:00 Wycinasz szkło na wymiar i wkładasz do ramy | 15:30 Naprawiasz odpadający ornament na starej ramie
+Y: Zmierz zdjęcie lub plakat i zapisz wymiary ramy, która obejmie go z zapasem 1 cm z każdej strony.
+
+@1163
+H: Oceniasz stan zabytkowego mebla, ustalasz, z jakiej epoki i techniki pochodzi, a potem go odtwarzasz. Doradzasz też właścicielom, jak go konserwować i przechowywać.
+T: Oglądasz materiały i ślady narzędzi na meblu | Określasz wiek i styl zabytku | Odtwarzasz brakujące części dawnymi technikami | Radzisz klientom, jak dbać o stary mebel
+D: 9:00 Oglądasz starą komodę i szukasz śladów napraw | 11:00 Dorabiasz brakującą nóżkę według dawnej techniki | 13:30 Rozmawiasz z właścicielką o przechowywaniu mebla | 15:00 Fotografujesz mebel po zakończonej renowacji
+Y: Obejrzyj najstarszy mebel w domu z tyłu i od spodu i zapisz trzy ślady użytkowania.
+
+@1164
+H: Budujesz szafki i inne meble z drewna: tniesz, kształtujesz i składasz części. Pracujesz narzędziami ręcznymi i elektrycznymi.
+T: Tniesz deski piłą na wymiar | Strugasz i kształtujesz elementy | Toczysz części na tokarce | Składasz elementy w gotowy mebel
+D: 7:00 Odczytujesz z rysunku wymiary nowej szafki | 8:00 Przycinasz deski i strugasz krawędzie | 11:00 Drzwiczki nie domykają się równo, korygujesz je | 14:30 Składasz szafkę na sucho i sprawdzasz kąty
+Y: Obejrzyj drewniany mebel i wypisz, w trzech miejscach, jak łączą się jego części.
+
+@1165
+H: Wygładzasz i zabezpieczasz drewniane meble: szlifujesz, czyścisz i polerujesz je, a potem nakładasz powłokę ochronną lub ozdobną.
+T: Szlifujesz i czyścisz powierzchnię drewna | Dobierasz powłokę ochronną lub dekoracyjną | Nakładasz ją pędzlem lub pistoletem | Polerujesz wyschnięty mebel
+D: 7:30 Szlifujesz blat stołu coraz drobniejszym papierem | 10:00 Odpylasz drewno i nakładasz pierwszą warstwę | 12:30 Na boku zostają smugi, wygładzasz je | 15:00 Polerujesz gotowy stół i oglądasz go pod światło
+Y: Wybierz drewniany mebel w domu i opisz słowami jego kolor, połysk i ewentualne rysy.
+
+@1166
+H: Kopiujesz zabytkowe meble: robisz rysunki i wzory, dorabiasz każdą część i składasz całość zgodnie z oryginałem.
+T: Mierzysz i rysujesz oryginalny mebel | Wykonujesz wzory poszczególnych części | Dopasowujesz i montujesz części | Wykańczasz mebel tak jak oryginał
+D: 8:00 Mierzysz zabytkowe krzesło i szkicujesz je | 10:00 Robisz papierowy wzór zdobionej nogi | 12:30 Przycinasz drewno i dopasowujesz złącza | 15:00 Porównujesz kopię z oryginałem przy oknie
+Y: Wybierz krzesło lub stołek, narysuj jego szkic z trzech stron z wymiarami, tak by dało się zrobić kopię.
+
+@1167
+H: Budujesz miniatury prawdziwych przedmiotów w zmniejszonej skali, głównie ręcznie, z tworzyw, drewna, wosku lub metalu. Sam projekt modelu też należy do ciebie.
+T: Wymierzasz oryginał i przeliczasz wymiary | Projektujesz model w wybranej skali | Wycinasz i rzeźbisz części z materiału | Łączysz i wykańczasz części modelu
+D: 8:00 Przeliczasz wymiary budynku do skali pięćdziesiąt razy mniejszej | 10:00 Rzeźbisz maleńki szczegół z kawałka wosku | 13:00 Dwa elementy nie pasują, szlifujesz jeden z nich | 15:30 Ustawiasz gotowy model i porównujesz z planem
+Y: Zmierz kubek lub inny przedmiot i oblicz, jakie wymiary miałby jego model w skali dziesięć razy mniejszej.
+
+@1168
+H: Obsługujesz maszyny, które według ustalonej procedury wytwarzają drewniane części mebli. Pilnujesz, żeby pracowały bez przerw, a w razie potrzeby naprawiasz ich części.
+T: Uruchamiasz maszynę zgodnie z procedurą | Podajesz drewno do obróbki | Kontrolujesz wymiary wykonanych części | Naprawiasz zużyte części maszyny
+D: 6:00 Uruchamiasz maszynę i sprawdzasz pierwszą część | 8:30 Wytwarzasz serię nóg do krzeseł | 11:00 Maszyna zatrzymuje się, wymieniasz zużyty element | 13:30 Układasz gotowe części na wózku do montażu
+Y: Zmierz nogi krzesła lub stołu i sprawdź, czy wszystkie mają dokładnie ten sam wymiar.
+
+@1169
+H: Obsługujesz maszynę, która najczęściej hydraulicznie łączy drewniane elementy gwoździami. Ustawiasz części w odpowiedniej pozycji i pilnujesz, żeby proces się nie zatrzymywał.
+T: Układasz drewniane elementy w pozycji do zbicia | Uruchamiasz maszynę łączącą gwoździami | Nadzorujesz pracę i reagujesz na przestoje | Wyjmujesz zbite elementy i sprawdzasz połączenia
+D: 6:30 Ustawiasz deski w zbijarce według wzoru | 8:00 Maszyna zbija pierwszy komplet, sprawdzasz gwoździe | 11:00 Zacięty gwóźdź zatrzymuje zbijarkę, udrażniasz ją | 13:30 Odkładasz zbite elementy na stos
+Y: Narysuj prostą drewnianą skrzynię i zaznacz, gdzie trzeba wbić gwoździe, żeby nie rozeszła się w narożnikach.
+
+@1170
+H: Wygładzasz drewniane przedmioty papierem ściernym i innymi przyrządami do szlifowania. Szlifujesz tak długo, aż znikną wszystkie nierówności.
+T: Dobierasz papier ścierny o odpowiedniej gradacji | Szlifujesz płaskie i zaokrąglone powierzchnie | Sprawdzasz dłonią, czy zniknęły nierówności | Poprawiasz miejsca z zadziorami i wgłębieniami
+D: 7:00 Wybierasz papier ścierny do drewnianych krzeseł | 9:00 Szlifujesz oparcia, aż są gładkie w dotyku | 11:30 Znajdujesz zadzior i szlifujesz go jeszcze raz | 14:00 Odkładasz wyszlifowane elementy do dalszej obróbki
+Y: Przeciągnij dłonią po różnych drewnianych przedmiotach w domu i ułóż je od najbardziej gładkiego do najbardziej szorstkiego.
+
+@1171
+H: Obsługujesz tokarkę, która obraca kawałek drewna, a ty zdejmujesz zbędny materiał narzędziami kształtującymi. Tak powstają na przykład nogi stołów, wałki i misy.
+T: Mocujesz kawałek drewna w tokarce | Prowadzisz narzędzie wzdłuż obracającego się drewna | Zdejmujesz nadmiar materiału warstwami | Mierzysz średnicę i kształt detalu
+D: 7:30 Mocujesz klocek drewna w tokarce | 9:00 Toczysz nogę stołu według rysunku | 11:30 Mierzysz średnicę i zdejmujesz jeszcze cienką warstwę | 14:00 Porównujesz każdą gotową nogę ze wzorem
+Y: Obejrzyj drewnianą nogę stołu lub krzesła i narysuj jej profil, czyli kształt widziany z boku.
+
+@1172
+H: Wycinasz otwory w drewnianych częściach, używając wiertarek, frezarek lub specjalnych wierteł. Narzędzie wchodzi w głąb elementu, a nie przesuwa się po jego powierzchni.
+T: Zaznaczasz miejsca otworów na elemencie | Dobierasz wiertło do średnicy otworu | Wiercisz otwory na zadaną głębokość | Sprawdzasz położenie i średnicę otworów
+D: 7:00 Dostajesz stos desek i szablon z otworami | 9:00 Wiercisz otwory pod kołki w bokach szafki | 11:30 Jeden otwór wychodzi przesunięty, odkładasz element | 14:00 Przymierzasz kołki w otworach i sprawdzasz luz
+Y: Narysuj deskę szafki i zaznacz cztery miejsca na otwory, równo oddalone od brzegów.
+
+@1173
+H: Wytwarzasz drewniane palety do składowania i przewozu towarów, obsługując maszynę, która łączy deski gwoździami. Wszystkie palety muszą być takie same, żeby można je było wymieniać.
+T: Podajesz deski do maszyny zbijającej | Pilnujesz liczby i rodzaju gwoździ | Sprawdzasz, czy paleta ma wzorcowy wymiar | Odrzucasz uszkodzone deski i palety
+D: 6:00 Układasz deski w maszynie według wzoru palety | 8:00 Maszyna zbija paletę za paletą | 11:00 Jedna paleta jest krzywa, odrzucasz ją | 13:30 Piętrzysz gotowe palety w równe stosy
+Y: Narysuj z góry paletę z desek i zapisz wymiary tak, żeby każda w serii wyszła identyczna.
+
+@1174
+H: Nakładasz na drewno środki, które chronią je przed pleśnią, zimnem, wilgocią i plamami, a czasem je barwią. Używasz do tego chemii, ciepła, gazów lub promieniowania UV.
+T: Przygotowujesz drewno do impregnacji | Dobierasz środek do rodzaju zagrożenia | Nakładasz środek lub poddajesz drewno ciepłu | Sprawdzasz, czy drewno jest równomiernie zabezpieczone
+D: 7:00 Sortujesz deski i oceniasz ich wilgotność | 8:30 Przygotowujesz środek chroniący przed pleśnią | 11:00 Deski barwią się nierówno, dokładasz drugą warstwę | 14:00 Układasz zabezpieczone deski do wyschnięcia
+Y: Znajdź w domu drewniany przedmiot z plamą lub śladem wilgoci i zastanów się, przed czym trzeba go chronić.
+
+@1175
+H: Pilnujesz suszenia wilgotnego drewna w suszarni, aż stanie się suche i nadaje się do użycia. Wkładasz drewno do pieca i je wyjmujesz, regulujesz temperaturę i wentylację.
+T: Układasz wilgotne drewno w suszarni | Ustawiasz temperaturę i wentylację | Sprawdzasz wilgotność drewna w trakcie suszenia | Wyjmujesz suche drewno z pieca
+D: 6:00 Odczytujesz temperaturę i wilgotność w suszarni | 8:00 Wsuwasz wózkiem nową partię mokrych desek | 11:00 Drewno schnie za szybko, zmniejszasz temperaturę | 14:00 Wyjmujesz suche deski i sprawdzasz, czy nie pękły
+Y: Zwilż kawałek papieru, połóż go przy oknie i zapisz, po ilu minutach wyschnie.
+
+@1176
+H: Pomagasz klientom zrozumieć produkty finansowe i jesteś dla nich pierwszym kontaktem. Przygotowujesz też dokumenty i wyliczenia, na których opiera się osoba zarządzająca funduszem.
+T: Odpowiadasz na pytania nowych i dawnych klientów | Przygotowujesz materiały do tworzenia funduszu | Pomagasz wprowadzać decyzje zarządzającego funduszem | Tłumaczysz klientom produkty finansowe
+D: 8:30 Przeglądasz pocztę od klientów | 10:00 Przygotowujesz zestawienie dla zarządzającego funduszem | 12:30 Klient dzwoni z pytaniem o swój fundusz | 15:00 Wprowadzasz decyzję zarządzającego do dokumentów
+Y: Wyjaśnij domownikowi w trzech zdaniach, czym jest fundusz, do którego wiele osób wpłaca pieniądze.
+
+@1177
+H: Doradzasz osobom, rodzinom i właścicielom małych firm, jak inwestować w akcje, obligacje czy fundusze. Wyjaśniasz przejrzyście, jakie rozwiązanie pasuje do ich sytuacji.
+T: Pytasz klienta o cele i sytuację finansową | Porównujesz akcje, obligacje i fundusze | Zalecasz konkretne rozwiązania inwestycyjne | Tłumaczysz ryzyko prostym językiem
+D: 9:00 Spotkanie z rodziną, która oszczędza na mieszkanie | 11:00 Porównujesz kilka funduszy pod kątem ryzyka | 13:30 Właścicielka sklepu pyta, co zrobić z nadwyżką | 16:00 Piszesz klientom podsumowanie zalecanych działań
+Y: Zapisz trzy cele, na które można odkładać pieniądze, i ustal, który jest najbliższy.
+
+@1178
+H: Przekazujesz inwestorom strategię firmy i obserwujesz, jak na nią reagują. Odpowiadasz na pytania akcjonariuszy o stabilność, zapasy i politykę firmy.
+T: Przygotowujesz komunikaty o strategii firmy | Odpowiadasz na pytania akcjonariuszy | Śledzisz reakcje inwestorów na decyzje firmy | Ustalasz z działem finansów, co można ogłosić
+D: 8:30 Czytasz komentarze inwestorów do wczorajszego komunikatu | 10:30 Piszesz odpowiedź dla akcjonariusza o planach firmy | 13:00 Ustalasz z działem finansów treść ogłoszenia | 15:30 Prowadzisz rozmowę z grupą inwestorów
+Y: Napisz trzyzdaniowy komunikat o ostatnich sukcesach swojej klasy lub koła, zrozumiały dla osoby z zewnątrz.
+
+@1179
+H: Zarządzasz portfelem inwestycji firmy i szukasz najbardziej opłacalnych produktów finansowych. Doradzasz też klientom, jakie ryzyko wiąże się z wybranymi inwestycjami.
+T: Monitorujesz inwestycje należące do firmy | Porównujesz produkty i papiery wartościowe | Analizujesz rynki i stopy procentowe | Przedstawiasz klientom ryzyko i możliwy zysk
+D: 8:00 Przeglądasz wyniki portfela z wczoraj | 10:00 Czytasz o zmianie stóp procentowych i jej skutkach | 12:00 Porównujesz dwa produkty o różnym ryzyku | 15:00 Doradzasz klientowi, czy warto zmienić portfel
+Y: Zapisz dwie możliwości wykorzystania 100 złotych i przy każdej wypisz jedno ryzyko i jedną korzyść.
+
+@1180
+H: Doradzasz firmom i instytucjom, jak zdobyć kapitał, i pomagasz w dużych operacjach, takich jak połączenia firm czy emisja akcji. Dużo wiesz o rynkach kapitałowych.
+T: Doradzasz firmom w pozyskiwaniu kapitału | Przygotowujesz analizy przy połączeniach i przejęciach | Wyjaśniasz zasady emisji akcji i obligacji | Prowadzisz rozmowy z zarządami klientów
+D: 8:00 Przeglądasz dokumenty firmy, która szuka kapitału | 10:30 Liczysz, ile warta może być spółka | 13:00 Rozmowa z zarządem o emisji obligacji | 17:30 Dopracowujesz prezentację na jutrzejsze spotkanie
+Y: Wyobraź sobie, że klasa zbiera pieniądze na wycieczkę, zapisz trzy sposoby i wady każdego.
+
+@1181
+H: Pomagasz osobom prywatnym ułożyć plan na pieniądze: na emeryturę, inwestycje, ubezpieczenia i podatki. Dobierasz strategię do sytuacji konkretnego klienta.
+T: Rozmawiasz z klientem o jego celach i dochodach | Planujesz oszczędności na emeryturę | Dobierasz ubezpieczenia i inwestycje | Sprawdzasz dokumenty bankowe pod kątem poprawności
+D: 9:00 Pierwsze spotkanie z parą, która planuje dom | 11:00 Układasz miesięczny plan oszczędzania | 13:30 Sprawdzasz dokumenty bankowe klienta | 16:00 Wyjaśniasz klientowi, ile ryzyka niesie plan
+Y: Zrób na kartce plan: ile miesięcznie trzeba odkładać, aby w rok uzbierać na wybrany cel.
+
+@1182
+H: Dbasz o stałych i przyszłych klientów banku, doradzasz im i proponujesz kolejne produkty. Odpowiadasz za to, żeby klient zostawał w banku zadowolony.
+T: Utrzymujesz kontakt ze stałymi klientami | Szukasz nowych klientów dla banku | Doradzasz i proponujesz dodatkowe produkty bankowe | Sprawdzasz, czy klienci są zadowoleni z usług
+D: 8:30 Przeglądasz listę klientów, którzy czekają na kontakt | 10:00 Dzwonisz do klienta w sprawie nowej oferty | 12:30 Spotkanie z właścicielem sklepu o kredycie | 15:00 Rozwiązujesz skargę klienta na opłatę
+Y: Zapisz pięć pytań, dzięki którym poznasz potrzeby kogoś, kto prosi o poradę w sprawie oszczędzania.
+
+@1183
+H: Podpowiadasz osobom i firmom, z jakich dotacji, grantów i funduszy publicznych mogą skorzystać. Pomagasz im przejść procedurę składania wniosku.
+T: Rozmawiasz z klientem o jego potrzebach | Szukasz dotacji i grantów pasujących do projektu | Wypełniasz wnioski razem z klientem | Pilnujesz terminów naboru
+D: 9:00 Klient opowiada o pomyśle na warsztat rzemieślniczy | 10:30 Przeglądasz ogłoszenia o naborach na dotacje | 13:00 Poprawiasz opis projektu we wniosku | 15:00 Sprawdzasz, ile dni zostało do końca naboru
+Y: Wymyśl mały projekt dla osiedla i opisz w trzech zdaniach, kto skorzysta i co trzeba kupić.
+
+@1184
+H: Wykładasz prywatne pieniądze na młode firmy, które dopiero startują. Badasz ich rynek i produkt, doradzasz właścicielom i masz wpływ na kierunek firmy, ale nią nie kierujesz.
+T: Badasz rynek i produkt młodej firmy | Zapewniasz finansowanie ze środków prywatnych | Doradzasz założycielom i dzielisz się kontaktami | Głosujesz w sprawach strategii firmy
+D: 9:00 Czytasz plan biznesowy młodej firmy | 11:00 Rozmawiasz z założycielami o ich pomyśle | 14:00 Sprawdzasz, ilu klientów ma już startup | 17:00 Głosujesz na zebraniu nad dalszym kierunkiem firmy
+Y: Wymyśl pomysł na małą firmę i zapisz trzy powody, dla których ktoś miałby w nią zainwestować.
+
+@1185
+H: Wdrażasz strategię inwestycyjną funduszu i decydujesz, co kupić, a co sprzedać z jego portfela. Kierujesz analitykami, którzy badają inwestycje i przygotowują rekomendacje.
+T: Wdrażasz strategię inwestycyjną funduszu | Czytasz rekomendacje analityków | Decydujesz o kupnie i sprzedaży aktywów | Nadzorujesz pracę zespołu analityków
+D: 7:30 Przeglądasz wyniki funduszu przed otwarciem rynku | 9:00 Omawiasz z analitykami nowe rekomendacje | 11:00 Decydujesz, które aktywa sprzedać z portfela | 15:30 Sprawdzasz, czy portfel nadal trzyma się strategii
+Y: Stwórz listę pięciu pomysłów na wydanie wspólnych pieniędzy klasy i ułóż je od najbardziej do najmniej opłacalnego.
+
+@1186
+H: Szukasz zagrożeń, które mogą uderzyć w firmę, i oceniasz, jak bardzo są groźne. Układasz plany, jak ich uniknąć, oraz plany awaryjne na wypadek, gdy mimo to się pojawią.
+T: Wyszukujesz potencjalne zagrożenia dla firmy | Oceniasz prawdopodobieństwo i skutki każdego z nich | Piszesz plany zapobiegawcze | Wprowadzasz plany awaryjne
+D: 8:30 Przeglądasz problemy zgłoszone przez poszczególne działy | 10:30 Oceniasz, co się stanie po awarii serwera | 13:00 Spotkanie o planie na wypadek zalania magazynu | 15:30 Piszesz rekomendacje dla zarządu
+Y: Wypisz pięć rzeczy, które mogą pójść nie tak podczas szkolnej imprezy, i przy każdej jeden sposób zapobiegania.
+
+@1187
+H: Obsługujesz firmy i instytucje, doradzając im w kredytach, zarządzaniu gotówką, leasingu, ubezpieczeniach czy rynku kapitałowym. Dobierasz te usługi do potrzeb dużego klienta.
+T: Doradzasz firmom w sprawie kredytów i leasingu | Pomagasz zarządzać środkami pieniężnymi klienta | Przedstawiasz ofertę ubezpieczeń i papierów wartościowych | Przygotowujesz dla klienta informacje o przejęciach firm
+D: 8:30 Analizujesz wyniki finansowe firmy produkcyjnej | 10:30 Spotkanie z dyrektorem finansowym o kredycie na halę | 13:00 Przygotowujesz ofertę leasingu maszyn | 16:00 Odpowiadasz klientowi na pytania o ubezpieczenie
+Y: Zapisz, czym różni się kupno rzeczy za gotówkę od wynajmu za miesięczną opłatę, i podaj przykład.
+
+@1188
+H: Układasz plan, skąd organizacja weźmie pieniądze na swoje programy i działania. Prowadzisz jego opracowanie i wdrożenie.
+T: Opracowujesz strategię finansowania programów | Ustalasz, ile pieniędzy potrzebuje każdy program | Szukasz źródeł finansowania | Wdrażasz plan i sprawdzasz jego wykonanie
+D: 8:30 Sprawdzasz, ile pieniędzy zostało na programy | 10:30 Spotkanie z kierownikami programów o ich potrzebach | 13:00 Szukasz nowego źródła finansowania dla programu | 15:00 Poprawiasz plan po zmianie wysokości dotacji
+Y: Wypisz pięć zajęć w swojej szkole i przy każdych zapisz, kto mógłby je sfinansować.
+
+@1189
+H: Analizujesz, jak działa gospodarka kraju lub regionu, i proponujesz decyzje publiczne dotyczące handlu, innowacji i konkurencyjności. Piszesz zalecenia na podstawie badań.
+T: Monitorujesz konkurencyjność, handel i innowacje | Prowadzisz badania nad problemami gospodarczymi | Oceniasz skutki istniejących polityk i programów | Piszesz zalecenia dla urzędników
+D: 8:30 Czytasz raport o spadku eksportu w regionie | 10:30 Zestawiasz dane o handlu i produkcji | 13:00 Spotkanie o ocenie programu wsparcia firm | 15:30 Piszesz notatkę z zaleceniami dla urzędu
+Y: Wybierz problem w swojej okolicy, na przykład brak miejsc pracy, i zapisz trzy pytania do zbadania.
+
+@1190
+H: Ustalasz, ile warta jest firma, jej akcje lub wartości niematerialne, takie jak patent czy znak towarowy. Twoja wycena pomaga klientom przy przejęciach, sporach sądowych, upadłości i podatkach.
+T: Zbierasz dane finansowe wycenianej firmy | Liczysz wartość spółki i jej akcji | Wyceniasz wartości niematerialne i prawne | Piszesz raport z wyceną dla klienta
+D: 8:30 Przeglądasz sprawozdania finansowe małej firmy | 10:30 Porównujesz firmę z podobnymi na rynku | 13:00 Liczysz wartość patentu, który ma firma | 15:30 Tłumaczysz klientowi, jak wyszła końcowa kwota
+Y: Wybierz używany przedmiot w domu i zapisz trzy czynniki, które podnoszą lub obniżają jego wartość.
+
+@1191
+H: Zarządzasz funduszami powierniczymi, które służą konkretnym osobom lub celom. Czytasz dokumenty powiernicze i testamenty, żeby wiedzieć, co wolno robić z pieniędzmi.
+T: Interpretujesz dokumenty powiernicze i testamenty | Ustalasz cel inwestycyjny z doradcami finansowymi | Zlecasz kupno i sprzedaż papierów wartościowych | Regularnie przeglądasz sprawozdania finansowe klientów
+D: 9:00 Czytasz testament, żeby sprawdzić warunki funduszu | 10:30 Rozmawiasz z doradcą o celu inwestycji | 13:00 Zlecasz sprzedaż części papierów wartościowych | 15:30 Przeglądasz sprawozdanie jednego z funduszy
+Y: Napisz trzy zasady, według których wydawane byłyby pieniądze zebrane dla dziecka na naukę.
+
+@1192
+H: Pilnujesz, na co instytucja lub firma wydaje pieniądze i czy trzyma się budżetu. Przygotowujesz sprawozdania i sprawdzasz, czy wydatki są zgodne z przepisami.
+T: Monitorujesz wydatki instytucji | Przygotowujesz sprawozdania budżetowe | Sprawdzasz model budżetu stosowany w firmie | Weryfikujesz zgodność wydatków z przepisami
+D: 8:30 Zestawiasz wydatki działów z ostatniego miesiąca | 10:30 Dział marketingu przekroczył limit, szukasz przyczyny | 13:00 Piszesz sprawozdanie z wykonania budżetu | 15:00 Sprawdzasz, czy zakup spełnia wymogi prawne
+Y: Zapisz swoje wydatki z ostatniego tygodnia i policz, ile poszło na każdą kategorię.
+
+@1193
+H: Analizujesz koszty firmy i szukasz miejsc, w których można zaoszczędzić. Przygotowujesz regularne zestawienia, które pomagają planować i prognozować.
+T: Przygotowujesz regularne analizy kosztów | Uzgadniasz kluczowe salda | Porównujesz koszty z budżetem | Wskazujesz nowe możliwości oszczędności
+D: 8:30 Pobierasz koszty produkcji z ubiegłego miesiąca | 10:30 Porównujesz koszty rzeczywiste z zaplanowanymi | 13:00 Znajdujesz dostawcę, który liczy drożej bez powodu | 15:30 Piszesz prognozę kosztów na kolejny kwartał
+Y: Policz, ile kosztuje w domu zrobienie jednej kanapki, licząc osobno każdy składnik.
+
+@1194
+H: Oceniasz sprawozdania finansowe firm: bilans, arkusz przychodów i zestawienie przepływów pieniężnych. Sprawdzasz też, czy nowe zasady księgowania pasują do firmy i spełniają wymogi.
+T: Analizujesz bilans i arkusz przychodów | Czytasz noty do sprawozdań finansowych | Wdrażasz nowe procedury księgowe | Sprawdzasz, czy proponowany system spełnia zasady rachunkowości
+D: 8:30 Otwierasz sprawozdanie finansowe nowego klienta | 10:00 Porównujesz bilans z zeszłym rokiem | 12:30 Czytasz noty i szukasz niejasnych pozycji | 15:00 Oceniasz propozycję nowego systemu księgowania
+Y: Zapisz w dwóch kolumnach, co posiadasz i co ewentualnie musisz komuś oddać, i porównaj sumy.
+
+@1195
+H: Sprawdzasz dane finansowe firm i instytucji, żeby potwierdzić, że nie zawierają błędów ani nadużyć. Oceniasz też, czy firma działa zgodnie z prawem i sensownie.
+T: Zbierasz i analizujesz dane finansowe | Szukasz błędów i nadużyć w dokumentach | Sprawdzasz numerację w dokumentach i bazach | Oceniasz politykę kredytową i zgodność z prawem
+D: 8:30 Przychodzisz do klienta i dostajesz dostęp do dokumentów | 10:00 Wybierasz próbkę faktur do sprawdzenia | 12:30 W ciągu faktur brakuje numeru, pytasz księgową | 15:30 Piszesz notatkę o wykrytych nieprawidłowościach
+Y: Ponumeruj dziesięć kartek, schowaj jedną i poproś kogoś o znalezienie brakującego numeru.
+
+@1196
+H: Badasz podejrzane nadużycia finansowe: fałszowanie sprawozdań, manipulacje na rynku papierów wartościowych i korupcję. Analizujesz dowody i piszesz raporty, a z organami regulacyjnymi współpracujesz.
+T: Prowadzisz dochodzenia w sprawie nadużyć finansowych | Analizujesz i weryfikujesz dowody | Oceniasz ryzyko nadużyć w firmie | Przygotowujesz raporty kryminalistyczne
+D: 8:30 Dostajesz zgłoszenie o dziwnych przelewach w firmie | 10:30 Porównujesz przelewy z fakturami, szukasz niezgodności | 13:30 Rozmawiasz z regulatorem o dotychczasowych ustaleniach | 16:00 Dopisujesz do raportu kolejne dowody i wnioski
+Y: Wymyśl rachunek sklepu i wpisz do niego trzy pozycje, które wzbudziłyby podejrzenie kontrolera.
+
+@1197
+H: Tłumaczysz klientom skomplikowane przepisy podatkowe i dobierasz dla nich najkorzystniejszy sposób opodatkowania. Obsługujesz firmy z różnych branż.
+T: Czytasz przepisy podatkowe i ich zmiany | Wyjaśniasz klientom, co oznaczają przepisy | Opracowujesz strategię podatkową dla firmy | Pomagasz wybrać korzystną formę opodatkowania
+D: 8:30 Czytasz nowelizację przepisów podatkowych | 10:00 Właściciel warsztatu pyta o rozliczenie zakupu maszyny | 13:00 Porównujesz dwie formy opodatkowania dla firmy | 15:30 Piszesz klientowi opinię z zaleceniami
+Y: Policz, ile wynosi dwadzieścia procent z 250 złotych, i zapisz krok po kroku, jak doszło do wyniku.
+
+@1198
+H: Kierujesz skarbem w instytucji rządowej: nadzorujesz jej wydatki, dochody i podatki. Odpowiadasz za rejestry, plan budżetu i prognozy finansowe.
+T: Zarządzasz administracją finansową instytucji | Kontrolujesz wydatki i dochody | Pilnujesz przestrzegania przepisów finansowych i podatkowych | Opracowujesz plan budżetu i prognozy
+D: 8:00 Przeglądasz raport wydatków i wpływów z poprzedniego dnia | 10:00 Zebranie z pracownikami działu skarbu | 12:30 Podpisujesz sprawozdanie, które trafi do wyższej instytucji | 15:00 Dopracowujesz prognozę budżetu na przyszły rok
+Y: Sporządź budżet fikcyjnego koła szkolnego: trzy wpływy, pięć wydatków, i sprawdź, czy wynik jest dodatni.
+
+@1199
+H: Kierujesz zespołem audytorów: planujesz ich pracę i sprawdzasz, czy przygotowane dokumenty są zgodne z metodyką firmy. Wyniki podsumowujesz dla zarządu.
+T: Planujesz pracę zespołu audytorów | Przeglądasz dokumentację audytu | Oceniasz praktyki operacyjne firmy | Informujesz zarząd o ustaleniach
+D: 8:00 Rozdzielasz audytorom zadania na ten tydzień | 10:00 Czytasz dokumentację zespołu i zostawiasz uwagi | 13:00 Spotkanie o planie kontroli w innym oddziale | 16:00 Przedstawiasz zarządowi wyniki audytu
+Y: Ułóż plan trzech kontroli porządku w domu: szafa, biurko, półka, i zapisz, co sprawdzisz w każdej.
+

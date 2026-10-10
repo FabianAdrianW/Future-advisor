@@ -1,0 +1,180 @@
+@1020
+H: Uczysz młodzież zawodu elektryka: najpierw tłumaczysz teorię, potem pokazujesz, jak zrobić to w praktyce. Sprawdzasz, czy uczniowie opanowali potrzebne umiejętności.
+T: Tłumaczysz zasady działania instalacji | Pokazujesz uczniom ćwiczenia na stanowisku | Poprawiasz błędy w wykonaniu zadań | Układasz testy i oceniasz egzaminy
+D: 7:45 Przygotowujesz stanowiska ćwiczeniowe w pracowni | 8:00 Lekcja teorii o obwodach przy tablicy | 10:30 Uczniowie montują ćwiczenie, ty chodzisz między ławkami | 13:00 Sprawdzasz prace i wystawiasz oceny
+Y: Narysuj na kartce schemat latarki: bateria, wyłącznik, żarówka, i opisz drogę prądu.
+
+@1021
+H: Uczysz konkretnego zawodu praktycznego: tłumaczysz teorię i pokazujesz, jak wykonać pracę krok po kroku. Przy okazji uczysz uczniów podejścia do pracy.
+T: Przekazujesz teorię potrzebną w zawodzie | Pokazujesz technikę i patrzysz, jak uczniowie ją powtarzają | Pomagasz indywidualnie tym, którym nie wychodzi | Oceniasz zadania, testy i egzaminy
+D: 8:00 Krótki wykład przed zajęciami praktycznymi | 9:30 Pokaz techniki, potem uczniowie próbują sami | 12:00 Rozmowa z uczniem, który ciągle popełnia ten sam błąd | 14:00 Układasz egzamin praktyczny na przyszły tydzień
+Y: Wybierz prostą czynność, którą umiesz, i wytłumacz ją komuś w domu w pięciu krokach.
+
+@1022
+H: Uczysz przyszłych pracowników branży turystycznej, jak planować podróże i obsługiwać klientów. Łączysz teorię z ćwiczeniami praktycznymi.
+T: Uczysz układania programu wycieczki | Ćwiczysz z uczniami rozmowy z klientem | Tłumaczysz zasady rezerwacji i dokumentów podróży | Oceniasz zadania, testy i egzaminy
+D: 8:00 Lekcja o tym, jak zbudować ofertę wycieczki | 10:00 Uczniowie odgrywają rozmowę biura podróży z klientem | 12:30 Sprawdzasz plany wycieczek oddane przez uczniów | 14:00 Pomagasz uczniowi przygotować się do egzaminu
+Y: Zaplanuj na kartce jednodniową wycieczkę po swojej okolicy: trasa, przystanki, czas na każdy punkt.
+
+@1023
+H: Uczysz przyszłych mechaników, jak działają układy pojazdów, na przykład hamulce, sterowanie i zawieszenie. Najpierw dajesz teorię, potem ćwiczenia w warsztacie szkolnym.
+T: Tłumaczysz budowę hamulców i zawieszenia | Pokazujesz demontaż części w warsztacie | Pilnujesz zasad bezpieczeństwa przy pracy | Sprawdzasz wiedzę uczniów testami i egzaminami
+D: 7:30 Sprawdzasz, czy w warsztacie wszystko jest gotowe | 8:00 Lekcja o tym, jak działa układ hamulcowy | 10:00 Uczniowie rozbierają zawieszenie, ty pilnujesz poprawności | 13:00 Oceniasz sprawdzian i omawiasz błędy z klasą
+Y: Obejrzyj hamulec w rowerze stojącym w domu i opisz, co się rusza, gdy ściskasz klamkę.
+
+@1024
+H: Uczysz przyszłych organizatorów aktywności fizycznej, jak prowadzić zajęcia i dbać o zdrowie grupy. Teorię łączysz z ćwiczeniami na sali i na świeżym powietrzu.
+T: Pokazujesz prawidłową technikę ćwiczeń | Tłumaczysz, jak planować zajęcia dla grupy | Uczysz uczniów budować dobrą atmosferę w grupie | Oceniasz sprawdziany i praktyczne zaliczenia
+D: 8:00 Rozgrzewka z grupą na sali gimnastycznej | 10:00 Lekcja o tym, jak chronić zdrowie ćwiczących | 12:00 Uczniowie prowadzą zajęcia, ty obserwujesz i notujesz | 14:30 Układasz plan zajęć w terenie na wiosnę
+Y: Ułóż pięciominutową rozgrzewkę dla grupy i spisz kolejność ćwiczeń z liczbą powtórzeń.
+
+@1025
+H: Szkolisz przyszłych strażaków: na wykładach tłumaczysz przepisy, ryzyko i zapobieganie pożarom, a na zajęciach praktycznych pokazujesz, jak działać. Odpowiadasz za to, żeby kadeci byli gotowi na prawdziwą akcję.
+T: Prowadzisz wykłady o prawie i bezpieczeństwie | Uczysz zarządzania ryzykiem i zapobiegania pożarom | Pokazujesz, jak czytać plany działania | Prowadzisz ćwiczenia praktyczne z kadetami
+D: 8:00 Wykład o przepisach bezpieczeństwa dla kadetów | 10:00 Zajęcia o podstawach chemii w pożarach | 13:00 Ćwiczenia: kadeci czytają plan działania i dzielą role | 15:30 Omawiasz z grupą ich błędy z ćwiczeń
+Y: Narysuj plan ewakuacji swojego mieszkania z dwiema drogami wyjścia z każdego pokoju.
+
+@1026
+H: Szkolisz przyszłych policjantów i doświadczonych funkcjonariuszy z prawa, kontaktu z ludźmi i umiejętności praktycznych. Prowadzisz też trening kondycyjny, samoobronę i naukę pierwszej pomocy.
+T: Prowadzisz wykłady z prawa i przepisów | Uczysz pierwszej pomocy przedmedycznej | Prowadzisz trening fizyczny i samoobronę | Ćwiczysz z kadetami kontakt z mieszkańcami
+D: 8:00 Wykład o prawie i różnorodności ludzi | 10:00 Trening kondycyjny i samoobrona na sali | 13:00 Ćwiczenia pierwszej pomocy na manekinie | 15:00 Scenka: kadet rozmawia ze zdenerwowanym przechodniem
+Y: Naucz się numerów alarmowych i ułóż krótki komunikat, który podajesz dyspozytorowi przy wypadku.
+
+@1027
+H: Zarządzasz całą szkołą: ludźmi, budżetem i tym, żeby spełniała wymogi edukacji. Dużo czasu spędzasz na rozmowach z nauczycielami, rodzicami i urzędami.
+T: Oceniasz pracę nauczycieli i rozmawiasz o niej | Podejmujesz decyzje o naborze uczniów | Pilnujesz, żeby program nauczania spełniał standardy | Współpracujesz z samorządem i lokalną społecznością
+D: 7:30 Obchód szkoły przed pierwszą lekcją | 9:00 Spotkanie z kadrą o planie na semestr | 11:30 Rozmowa z zaniepokojonym rodzicem w gabinecie | 14:00 Praca nad budżetem i pismami do urzędu
+Y: Wypisz trzy rzeczy do zmiany w swojej szkole i uszereguj je od najpilniejszej.
+
+@1028
+H: Kierujesz szkołą dla młodszych dzieci: zarządzasz pracownikami, naborem i programem nauczania. Pilnujesz, żeby placówka spełniała przepisy prawa.
+T: Układasz zespół nauczycieli i obsługi | Decydujesz o przyjęciach nowych uczniów | Dopasowujesz program do wieku dzieci | Sprawdzasz, czy szkoła spełnia przepisy
+D: 7:30 Witasz dzieci i rodziców przy wejściu | 9:00 Rozmowa z nauczycielką klas pierwszych o planie | 11:00 Pomagasz uspokoić kłótnię na korytarzu | 14:00 Przygotowujesz dokumenty i listę przyjęć
+Y: Narysuj plan dnia siedmiolatka w szkole i zaznacz, kiedy dzieci potrzebują przerwy na ruch.
+
+@1029
+H: Kierujesz szkołą dla osób po maturze, na przykład instytutem technicznym lub szkołą policealną. Zarządzasz kadrą, budżetem i programami oraz pilnujesz komunikacji między działami.
+T: Decydujesz o naborze słuchaczy | Zarządzasz budżetem szkoły i programami | Nadzorujesz komunikację między działami szkoły | Pilnujesz zgodności z wymogami prawa
+D: 8:00 Przegląd planu zajęć i wolnych sal | 9:30 Spotkanie z kierownikami działów o programach | 12:00 Rozmowa ze słuchaczem, który chce zmienić kierunek | 14:30 Rozliczasz budżet pracowni technicznych
+Y: Zapisz pięć zawodów technicznych, które brzmią ciekawie, i dopisz po jednym pytaniu o każdy.
+
+@1030
+H: Kierujesz szkołą dla uczniów z niepełnosprawnością fizyczną, intelektualną lub trudnościami w uczeniu się. Wspierasz personel i starasz się o dotacje na potrzeby uczniów.
+T: Wspierasz nauczycieli i pracowników szkoły | Wprowadzasz programy pomocy dla uczniów | Starasz się o dotacje i granty | Zarządzasz budżetem i rekrutacją
+D: 7:45 Rozmowa z nauczycielem o trudnym dniu ucznia | 9:00 Obchód klas i szkolnych korytarzy | 11:30 Spotkanie z rodzicami o potrzebach dziecka | 14:00 Piszesz wniosek o grant na sprzęt
+Y: Wymyśl trzy sposoby, jak ułatwić komuś z niepełnosprawnością korzystanie z twojej szkoły, i zapisz je.
+
+@1031
+H: Kierujesz szkołą dla nastolatków: pilnujesz programu nauczania, oceniasz pracę nauczycieli i rozmawiasz z urzędami. Możesz też kierować szkołą zawodową.
+T: Oceniasz lekcje i pracę nauczycieli | Współpracujesz z kierownikami zespołów przedmiotowych | Pilnujesz zgodności programu ze standardami | Rozmawiasz z lokalną społecznością i urzędami
+D: 8:00 Obserwujesz lekcję i omawiasz ją z nauczycielem | 10:00 Narada z kierownikami zespołów przedmiotowych | 12:00 Rozmowa z rodzicami ucznia, który ma problemy z frekwencją | 15:00 Odpowiadasz na pisma z urzędu miasta
+Y: Spisz trzy zasady, dzięki którym w twojej szkole uczyłoby się lepiej, i uzasadnij każdą.
+
+@1032
+H: Kierujesz kilkoma wydziałami uczelni i ustalasz z nimi wspólne cele. Promujesz wydział na zewnątrz i pilnujesz jego finansów.
+T: Ustalasz cele z kierownikami katedr | Pilnujesz finansów wydziału | Promujesz wydział w regionie i za granicą | Prowadzisz narady z władzami uczelni
+D: 8:30 Przeglądasz budżet wydziału z księgową | 10:00 Narada z kierownikami katedr o celach | 13:00 Spotkanie z gośćmi z zagranicznej uczelni | 15:30 Przygotowujesz prezentację wydziału na konferencję
+Y: Zobacz na stronie dowolnej uczelni, jakie ma wydziały, i narysuj prosty schemat ich podziału.
+
+@1033
+H: Kierujesz zespołem naukowców w jednej dziedzinie i odpowiadasz za kierunek jej badań i nauczania. Współpracujesz z dziekanem i zdobywasz dodatkowe pieniądze dla katedry.
+T: Wyznaczasz kierunek badań katedry | Wspierasz pracowników katedry w karierze naukowej | Ustalasz cele z dziekanem | Szukasz zewnętrznych źródeł finansowania
+D: 9:00 Narada katedry: kto prowadzi które zajęcia | 11:00 Rozmowa z doktorantem o jego badaniach | 13:30 Spotkanie z dziekanem o celach na rok | 15:30 Rozmowa z firmą o wspólnym projekcie
+Y: Wybierz dziedzinę nauki, która cię ciekawi, i znajdź jedno pytanie, na które nikt jeszcze nie zna odpowiedzi.
+
+@1034
+H: Kierujesz jednym działem szkoły średniej i dbasz, żeby uczniowie uczyli się w bezpiecznych warunkach. Jesteś łącznikiem między dyrektorem, nauczycielami i rodzicami.
+T: Prowadzisz spotkania zespołu nauczycieli | Opracowujesz i sprawdzasz programy nauczania | Obserwujesz pracę nauczycieli | Przekazujesz informacje rodzicom i innym szkołom
+D: 8:00 Krótkie spotkanie z dyrektorem o zadaniach dnia | 9:30 Obserwujesz lekcję nauczyciela ze swojego działu | 12:00 Odpowiadasz rodzicom w sprawie ocen uczniów | 14:00 Sprawdzasz wydatki działu i zamawiasz materiały
+Y: Spisz plan 15-minutowej narady dla rodziny: trzy tematy i kto za co odpowiada.
+
+@1035
+H: Pilnujesz, żeby programy edukacyjne powstawały i działały zgodnie z planem. Zarządzasz budżetem i rozmawiasz z ośrodkami edukacji o problemach i rozwiązaniach.
+T: Nadzorujesz tworzenie i wdrażanie programów | Opracowujesz zasady promujące edukację | Układasz budżet programu | Rozmawiasz z ośrodkami o problemach
+D: 8:30 Sprawdzasz, na jakim etapie jest nowy program | 10:00 Rozmowa z ośrodkiem edukacji o problemie z zajęciami | 12:30 Rozliczasz budżet programu w tabeli | 15:00 Piszesz zasady dla nowych uczestników programu
+Y: Zaprojektuj na kartce pięciodniowy program warsztatów dla młodszych dzieci: temat każdego dnia i cel.
+
+@1036
+H: Kierujesz całą uczelnią: kadrą, budżetem, rekrutacją i programami na kampusie. Pilnujesz, żeby uczelnia spełniała wymogi prawa i żeby działy ze sobą współpracowały.
+T: Zarządzasz kadrą i budżetem uczelni | Podejmujesz decyzje o naborze studentów | Nadzorujesz standardy programów nauczania | Pilnujesz komunikacji między wydziałami
+D: 8:00 Przeglądasz sprawozdanie finansowe uczelni | 10:00 Posiedzenie z dziekanami o rekrutacji na przyszły rok | 13:00 Spotkanie z przedstawicielami studentów w sprawie kampusu | 15:30 Wystąpienie na uroczystości uczelni
+Y: Napisz trzyzdaniowe przemówienie powitalne do nowych studentów, które zajmie minutę.
+
+@1037
+H: Wspierasz dyrektora w kierowaniu szkołą i na bieżąco informujesz go, co się w niej dzieje. Wdrażasz jego decyzje, nadzorujesz uczniów i pilnujesz dyscypliny.
+T: Informujesz dyrektora o bieżących sprawach | Wdrażasz zasady i programy ustalone przez dyrektora | Nadzorujesz uczniów na przerwach | Egzekwujesz regulamin szkoły i dyscyplinę
+D: 7:30 Dyżur przy wejściu, sprawdzasz, kto się spóźnia | 9:00 Rozmowa z uczniem po bójce na przerwie | 11:30 Krótka odprawa u dyrektora o sprawach dnia | 14:00 Układasz zastępstwa za chorego nauczyciela
+Y: Napisz pięć jasnych zasad zachowania na korytarzu szkolnym, które uczniowie mogliby przyjąć.
+
+@1038
+H: Uczysz małe dzieci podstaw przez zabawę: liczb, liter, kolorów i nazw zwierząt. Przygotowujesz je do późniejszej nauki w szkole.
+T: Układasz plany lekcji dla grupy | Uczysz liczb, liter i kolorów | Prowadzisz zabawy rozwijające umiejętności społeczne | Sprawdzasz, co dzieci zapamiętały
+D: 7:30 Dzieci przychodzą, każdemu pomagasz zdjąć kurtkę | 9:00 Zabawa w liczenie z klockami | 10:30 Rysowanie zwierząt i zgadywanie ich nazw | 13:00 Układasz plan na jutro, sprzątasz salę
+Y: Wymyśl zabawę, która w pięć minut nauczy dziecko trzech kolorów, i opisz ją w trzech zdaniach.
+
+@1039
+H: Uczysz, pozwalając dzieciom odkrywać świat przez własne doświadczenia i samodzielnie wybierać zajęcia. Zamiast wykładać, przygotowujesz materiały i obserwujesz, jak dzieci pracują.
+T: Przygotowujesz materiały do samodzielnych doświadczeń | Obserwujesz, co dziecko wybiera i jak pracuje | Podpowiadasz tylko wtedy, gdy trzeba | Pilnujesz programu zgodnego z rozwojem dzieci
+D: 8:00 Ustawiasz materiały na niskich półkach | 8:30 Dzieci same wybierają, czym się zajmą | 10:30 Siedzisz obok dziecka i tylko obserwujesz | 13:00 Zapisujesz, co kto opanował w tym tygodniu
+Y: Przygotuj na tacy pięć domowych przedmiotów do sortowania według kształtu i sprawdź, jak domownik to robi.
+
+@1040
+H: Uczysz przez pytania, współpracę i demokrację: uczniowie metodą prób i błędów rozwijają własne zainteresowania. Razem z nimi ustalasz zasady w klasie.
+T: Zachęcasz uczniów do zadawania pytań | Prowadzisz klasowe głosowania nad zasadami | Pomagasz uczniom rozwijać własne zainteresowania | Organizujesz pracę w grupach nad wspólnym projektem
+D: 8:30 Poranny krąg: uczniowie zgłaszają tematy dnia | 9:30 Grupy badają własne pytania i próbują | 11:30 Klasa głosuje nad zasadą dotyczącą przerw | 13:00 Rozmawiasz z uczniem o jego projekcie
+Y: Sprawdź metodą prób i błędów, które z pięciu domowych przedmiotów pływają w misce wody.
+
+@1041
+H: Uczysz podobnych przedmiotów jak w zwykłej szkole, ale więcej przez praktykę, rękodzieło i sztukę. Stawiasz na zajęcia, które rozwijają zdolności społeczne, kreatywne i artystyczne.
+T: Prowadzisz lekcje z elementami sztuki | Organizujesz zajęcia praktyczne z materiałami | Uczysz tych samych przedmiotów innymi metodami | Prowadzisz uczniów przez wspólne projekty artystyczne
+D: 8:00 Lekcja główna: temat przez rysunek i opowieść | 10:00 Zajęcia praktyczne: uczniowie lepią i szyją | 12:00 Próba wspólnego przedstawienia klasy | 14:00 Przygotowujesz materiały artystyczne na jutro
+Y: Narysuj obrazek, który przedstawia temat z dzisiejszej lekcji, bez używania słów.
+
+@1042
+H: Pomagasz nauczycielowi pracować z uczniami o różnych niepełnosprawnościach i wspierasz ich w codziennych czynnościach. Jesteś blisko dziecka podczas lekcji, jedzenia i przejść między salami.
+T: Pomagasz uczniom jeść i korzystać z toalety | Towarzyszysz im w drodze do sal i autobusu | Wspierasz ucznia w wykonywaniu zadań | Pomagasz przygotować plany zajęć
+D: 7:30 Odbierasz uczniów z autobusu szkolnego | 9:00 Siedzisz obok ucznia i pomagasz z zadaniem | 12:00 Pomagasz przy obiedzie w stołówce | 14:00 Rozmowa z nauczycielem i rodzicem o postępach
+Y: Spróbuj przez 10 minut pisać drugą ręką i zapisz, co sprawia trudność.
+
+@1043
+H: Pomagasz nauczycielowi w przedszkolu lub żłobku, a pod jego nieobecność pilnujesz grupy. Poświęcasz więcej uwagi dzieciom, które jej potrzebują.
+T: Przygotowujesz pomoce do zajęć | Pilnujesz grupy, gdy nauczyciel wychodzi | Pomagasz dzieciom, które wymagają uwagi | Pomagasz realizować plan lekcji
+D: 7:00 Otwierasz salę i rozkładasz zabawki | 8:30 Uspokajasz malucha, który płacze po rozstaniu z rodzicem | 10:00 Wspierasz dziecko, któremu trudno usiedzieć w kole | 13:00 Pilnujesz leżakowania, gdy nauczyciel ma przerwę
+Y: Przeczytaj na głos krótką bajkę, zmieniając głos dla każdej postaci, i zobacz, kto słucha.
+
+@1044
+H: Wspierasz nauczyciela na lekcjach: powtarzasz uczniom polecenia, przygotowujesz materiały i pilnujesz klasy. Notujesz też, jak uczniowie radzą sobie w nauce i zachowaniu.
+T: Powtarzasz polecenia uczniom, którzy ich nie zrozumieli | Przygotowujesz kartki i materiały na lekcję | Notujesz postępy i zachowanie uczniów | Wykonujesz prace biurowe dla nauczyciela
+D: 7:45 Kserujesz karty pracy na pierwszą lekcję | 9:00 Siedzisz z uczniem, który nie zrozumiał polecenia | 11:00 Pilnujesz klasy, gdy nauczyciel wychodzi | 13:30 Wpisujesz notatki o postępach do dziennika
+Y: Weź zadanie z podręcznika, przepisz polecenie prostszymi słowami i sprawdź, czy domownik je rozumie.
+
+@1045
+H: Wspierasz nauczyciela w szkole średniej: przygotowujesz materiały i powtarzasz polecenia uczniom, którzy potrzebują więcej uwagi. Robisz też proste prace biurowe i pilnujesz klasy.
+T: Przygotowujesz materiały na lekcje | Tłumaczysz polecenia uczniowi, który się gubi | Śledzisz postępy w nauce i zachowanie | Zastępujesz nauczyciela przy pilnowaniu klasy
+D: 7:30 Przygotowujesz na lekcję zestawy do ćwiczeń | 9:00 Pomagasz licealiście, który gubi się w zadaniu | 11:30 Pilnujesz klasy podczas sprawdzianu | 14:00 Wprowadzasz do tabeli oceny i uwagi o zachowaniu
+Y: Wytłumacz komuś w domu trudny temat ze szkoły w trzech zdaniach i poproś o powtórzenie.
+
+@1046
+H: Uczysz nastolatków swojego przedmiotu: przygotowujesz lekcje, tłumaczysz materiał i oceniasz ich wiedzę. Pomagasz tym, którzy nie nadążają.
+T: Przygotowujesz plany lekcji i materiały | Tłumaczysz temat przy tablicy | Sprawdzasz kartkówki, prace i testy | Pomagasz indywidualnie uczniom, którzy nie nadążają
+D: 7:30 Dopracowujesz notatki do pierwszej lekcji | 8:00 Lekcja w klasie, tłumaczysz nowy temat | 11:00 Dyżur na przerwie i rozmowa z uczniem | 14:00 Sprawdzasz stos kartkówek w pokoju nauczycielskim
+Y: Zaplanuj na kartce 20-minutową lekcję o dowolnym temacie: cel, trzy kroki i jedno pytanie na koniec.
+
+@1047
+H: Budujesz instrumenty z klawiaturą według rysunków i schematów. Na końcu stroisz je i sprawdzasz, czy każdy klawisz brzmi, jak powinien.
+T: Czytasz schemat i planujesz elementy | Szlifujesz drewniane części papierem ściernym | Składasz klawiaturę i mechanizm instrumentu | Stroisz i testujesz gotowy instrument
+D: 8:00 Rozkładasz plan konstrukcji i dobierasz drewno | 10:00 Szlifujesz korpus, aż będzie gładki | 12:30 Montujesz klawisze i sprawdzasz, czy ruszają się równo | 15:00 Stroisz i grasz gamę na gotowym instrumencie
+Y: Obejrzyj zdjęcie klawiszowego instrumentu i wypisz pięć osobnych części, z których może być zbudowany.
+
+@1048
+H: Budujesz klawesyny, czyli dawne instrumenty z klawiaturą i strunami. Wykonujesz i składasz części według rysunków, a na końcu stroisz instrument.
+T: Szlifujesz drewniane części korpusu | Składasz części według rysunków | Stroisz instrument i sprawdzasz brzmienie | Kontrolujesz gotowy klawesyn przed oddaniem
+D: 8:30 Wybierasz deski na pudło rezonansowe | 10:30 Szlifujesz wieko, aż powierzchnia jest równa | 13:00 Składasz części mechanizmu z rysunkiem przed sobą | 16:00 Stroisz i testujesz każdy dźwięk
+Y: Posłuchaj nagrania klawesynu i wypisz trzy cechy brzmienia, którymi różni się od pianina.
+
+@1049
+H: Budujesz organy, wielkie instrumenty złożone z wielu części, według planów. Wykonujesz i szlifujesz elementy, składasz je i stroisz, aż instrument zabrzmi jak trzeba.
+T: Składasz piszczałki i elementy konstrukcji | Szlifujesz drewniane części | Stroisz każdą część instrumentu | Testujesz gotowe organy w pomieszczeniu
+D: 8:00 Czytasz plan wielkiego instrumentu na warsztacie | 10:00 Szlifujesz drewniane elementy skrzyni | 13:00 Montujesz piszczałki rząd po rzędzie | 16:00 Stroisz dźwięk po dźwięku w sali
+Y: Dmuchnij nad otworem dwóch pustych butelek różnej wielkości i zapisz, która brzmi niżej.
+

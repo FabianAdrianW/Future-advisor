@@ -1,0 +1,180 @@
+@1200
+H: Pilnujesz, żeby firma wydawała pieniądze zgodnie z planem. Układasz budżety, porównujesz je z rzeczywistością i tłumaczysz różnice zarządowi.
+T: Układasz roczny budżet firmy | Porównujesz plan z faktycznymi wydatkami | Przygotowujesz dokumenty dla audytorów | Prognozujesz przepływy pieniężne na kolejne miesiące
+D: 8:30 Sprawdzasz, czy koszty działów mieszczą się w budżecie | 10:30 Spotkanie z szefem działu, który przekroczył wydatki | 13:00 Zbierasz dokumenty dla audytorów z zewnątrz | 15:30 Aktualizujesz prognozę na kolejny kwartał
+Y: Zapisz wszystkie swoje wydatki z ostatnich trzech dni i sprawdź, która kategoria zajęła najwięcej.
+
+@1201
+H: Porządkujesz finanse firmy lub klientów: sprawdzasz dokumenty, rozliczasz podatki i wyłapujesz błędy w liczbach.
+T: Sprawdzasz sprawozdania i raporty finansowe | Szukasz błędów i nieprawidłowości w rozliczeniach | Przygotowujesz deklaracje podatkowe | Doradzasz klientom w sprawach finansowych
+D: 8:00 Przeglądasz wyciągi i faktury z poprzedniego dnia | 10:00 Znajdujesz różnicę w bilansie i szukasz przyczyny | 13:00 Rozmowa z klientem o terminie rozliczenia podatku | 15:00 Składasz deklarację podatkową przed terminem
+Y: Weź paragon z domu i sprawdź, czy suma pozycji zgadza się z kwotą na dole.
+
+@1202
+H: Obliczasz, ile zysku firmy trafia do poszczególnych udziałowców, i pilnujesz terminów wypłat. Ta praca opiera się na tabelach, przepisach i dokładności.
+T: Obliczasz kwoty dywidend dla każdej grupy udziałowców | Ustalasz harmonogram wypłat | Oceniasz ryzyko zmian cen rynkowych | Sprawdzasz, czy procesy firmy działają poprawnie
+D: 8:30 Sprawdzasz, ile zysku firma przeznaczyła na wypłaty | 10:30 Przeliczasz dywidendę na jedną akcję dla każdej kategorii | 13:00 Ustalasz z działem finansów terminy przelewów | 15:00 Opisujesz ryzyko opóźnienia wypłaty w raporcie
+Y: Podziel 1000 zł między czterech wspólników w proporcjach 50, 25, 15 i 10 procent.
+
+@1203
+H: Czytasz wnioski od organizacji, grup i badaczy, którzy proszą o pieniądze, i decydujesz, kto je dostanie. Trudniejsze sprawy kierujesz wyżej.
+T: Czytasz i oceniasz wnioski o dotacje | Sprawdzasz, czy projekt spełnia warunki funduszu | Decydujesz o przyznaniu lub odrzuceniu finansowania | Przekazujesz trudne wnioski komitetowi
+D: 8:30 Otwierasz nową partię wniosków od organizacji | 10:30 Porównujesz budżet projektu z zasadami funduszu | 13:00 Piszesz uzasadnienie odmowy dla jednego wnioskodawcy | 15:00 Posiedzenie komitetu w sprawie spornego wniosku
+Y: Wymyśl projekt dla swojej klasy za 500 zł i napisz trzy zdania, dlaczego zasługuje na dotację.
+
+@1204
+H: Przejmujesz sprawy firmy lub osoby, która zbankrutowała. Szukasz, co zostało do sprzedania, i dzielisz pieniądze między wierzycieli.
+T: Prowadzisz dochodzenie w dokumentach upadłego | Sprawdzasz, czy nie doszło do nadużyć finansowych | Sprzedajesz majątek niepodlegający zwolnieniu | Dzielisz uzyskane pieniądze między wierzycieli
+D: 8:00 Czytasz dokumenty upadłej firmy, szukasz podejrzanych przelewów | 10:30 Oględziny magazynu z majątkiem przeznaczonym do sprzedaży | 13:00 Rozmowa z wierzycielem pytającym o swoje pieniądze | 15:30 Przygotowujesz plan podziału środków dla wierzycieli
+Y: Zrób listę dziesięciu swoich rzeczy, które dałoby się sprzedać, i uszereguj je według wartości.
+
+@1205
+H: Pomagasz firmom kupować, sprzedawać i łączyć się z innymi. Oceniasz, ile warta jest druga strona i jakie ryzyko niesie transakcja.
+T: Oceniasz wartość przejmowanej firmy | Porównujesz ją z podobnymi firmami na rynku | Negocjujesz warunki umowy w imieniu klienta | Z prawnikami sprawdzasz zobowiązania i ryzyko prawne
+D: 9:00 Analizujesz wyniki firmy, którą klient chce kupić | 11:30 Zestawiasz ją z trzema podobnymi spółkami | 14:00 Negocjacje warunków umowy z drugą stroną | 18:30 Zostajesz dłużej, bo umowa ma być gotowa jutro
+Y: Porównaj dwie osiedlowe kawiarnie i wypisz pięć cech, które decydowałyby o wartości każdej z nich.
+
+@1206
+H: Badasz, czy firma lub instytucja jest w dobrej kondycji finansowej, i na tej podstawie podpowiadasz decyzje. Efektem pracy jest raport z zaleceniem.
+T: Zbierasz dane o rentowności i płynności firmy | Oceniasz zadłużenie i zarządzanie aktywami | Piszesz raport z zaleceniami dla zarządu | Śledzisz zmiany w gospodarce wpływające na wyniki
+D: 8:30 Pobierasz najnowsze dane finansowe firmy | 10:00 Liczysz wskaźniki zadłużenia i zdolności do spłaty | 13:00 Rysujesz wykres wyników z ostatnich pięciu lat | 15:30 Przedstawiasz zalecenie dyrektorowi finansowemu
+Y: Wymyśl budżet miesięczny dla rodziny z czterema osobami i oceń, czy stać ją na nową pralkę.
+
+@1207
+H: Badasz firmy, branże i wydarzenia w gospodarce, żeby podpowiedzieć zarządzającym funduszami, gdzie warto lokować pieniądze.
+T: Czytasz wyniki finansowe badanych firm | Śledzisz zmiany polityczne wpływające na rynki | Specjalizujesz się w jednej branży, np. energetyce | Piszesz zalecenia dla zarządzających funduszami
+D: 8:00 Przeglądasz nocne wiadomości z gospodarki światowej | 10:00 Czytasz raport roczny spółki energetycznej | 13:00 Porównujesz jej wyniki z konkurencją w tabeli | 16:00 Piszesz notatkę z zaleceniem dla zarządzającego
+Y: Wybierz jedną znaną firmę i wypisz trzy wydarzenia, które mogą zwiększyć lub zmniejszyć jej zyski.
+
+@1208
+H: Obserwujesz, jak zmieniają się ceny akcji i obligacji, i na tej podstawie przygotowujesz prognozy dla klientów biznesowych.
+T: Zbierasz informacje finansowe, prawne i gospodarcze | Analizujesz trendy cen akcji i obligacji | Oceniasz stabilność wybranego obszaru gospodarki | Sporządzasz prognozy dla klientów biznesowych
+D: 8:30 Sprawdzasz, jak zareagowały ceny po porannych wiadomościach | 10:30 Rysujesz trend cen obligacji z ostatniego roku | 13:30 Czytasz nowe przepisy, które dotyczą spółek giełdowych | 16:00 Wysyłasz klientowi prognozę na kolejny kwartał
+Y: Znajdź w wiadomościach jedną informację gospodarczą i zapisz, jak mogłaby wpłynąć na ceny w sklepach.
+
+@1209
+H: Szukasz miejsc, w których firma może stracić pieniądze, i liczysz, jak bardzo jej to grozi. Potem proponujesz, jak ograniczyć zagrożenie.
+T: Wskazujesz zagrożenia dla majątku firmy | Liczysz ryzyko kredytowe, rynkowe lub operacyjne | Używasz statystyki do oceny prawdopodobieństwa strat | Sprawdzasz dokumenty pod kątem zgodności z prawem
+D: 8:30 Przeglądasz wskaźniki ryzyka z poprzedniego dnia | 10:30 Model pokazuje, że jeden klient może nie spłacić długu | 13:00 Przeglądasz umowy, czy spełniają wymogi prawa | 15:30 Proponujesz limit, który ograniczy możliwe straty
+Y: Zapisz pięć rzeczy, które mogą pójść nie tak na klasowej wycieczce, i oceń, która jest najgroźniejsza.
+
+@1210
+H: Liczysz, ile klienci powinni płacić za ubezpieczenie, i oceniasz wiarygodność firm. Pracujesz w towarzystwie ubezpieczeniowym na tabelach i raportach.
+T: Obliczasz składki dla klientów firmy | Opracowujesz raporty ratingowe i dane finansowe | Analizujesz informacje o rynkach ubezpieczeń | Wyjaśniasz oceny kredytowe klientom i partnerom
+D: 8:30 Aktualizujesz tabelę stawek dla ubezpieczeń domów | 10:30 Przeliczasz składkę dla firmy transportowej | 13:00 Piszesz raport ratingowy o jednym kontrahencie | 15:00 Tłumaczysz klientowi, skąd wzięła się wysokość składki
+Y: Zastanów się, kto powinien płacić wyższą składkę za ubezpieczenie roweru, i zapisz trzy powody.
+
+@1211
+H: Pracujesz w zapleczu firmy finansowej: pilnujesz, żeby transakcje handlowców były zgodne z przepisami, i mierzysz ryzyko.
+T: Sprawdzasz transakcje pod kątem zgodności z przepisami | Mierzysz ryzyko po stronie firmy | Przygotowujesz analizy i raporty finansowe | Dostarczasz handlowcom potrzebne dane i wyliczenia
+D: 8:00 Przed otwarciem rynków sprawdzasz limity ryzyka | 10:00 Wychwytujesz transakcję niezgodną z wewnętrzną polityką firmy | 13:30 Przygotowujesz dla handlowców zestawienie ich pozycji | 16:00 Wysyłasz raport zgodności do kierownictwa
+Y: Wymyśl trzy zasady kontroli dla szkolnego sklepiku, żeby kasa zawsze się zgadzała.
+
+@1212
+H: Zbierasz pieniądze od wielu inwestorów i lokujesz je w akcje, obligacje i inne papiery. Odpowiadasz też na pytania o stan ich rachunków.
+T: Wybierasz akcje i obligacje do portfela funduszu | Odpowiadasz na pytania o stan rachunku klienta | Wyjaśniasz inwestorom zasady transakcji | Pilnujesz, by działania funduszu były zgodne z prawem
+D: 8:30 Przeglądasz wyniki funduszu z poprzedniej sesji | 10:00 Klient dzwoni z pytaniem o swój rachunek | 13:00 Wybierasz obligacje do dołączenia do portfela | 15:30 Sprawdzasz, czy zakupy mieszczą się w limitach prawnych
+Y: Wyobraź sobie, że masz 100 zł do podziału na trzy różne inwestycje, i napisz, jak je rozdzielisz.
+
+@1213
+H: Kupujesz i sprzedajesz waluty w imieniu klientów i próbujesz przewidzieć, jak zmienią się kursy. Przez cały dzień śledzisz ekrany z notowaniami.
+T: Kupujesz i sprzedajesz waluty obce dla klientów | Analizujesz płynność i zmienność rynku | Przewidujesz przyszłe kursy wymiany | Składasz zlecenia, gdy kurs osiąga potrzebny poziom
+D: 7:30 Sprawdzasz, jak kursy zmieniły się w nocy | 9:00 Klient zleca zakup dużej kwoty euro | 12:00 Kurs nagle skacze po wiadomościach z banku centralnego | 16:30 Zamykasz pozycje i zapisujesz wszystkie transakcje
+Y: Znajdź w sieci kursy euro z ostatnich siedmiu dni i zaznacz dzień o największej zmianie.
+
+@1214
+H: Kupujesz i sprzedajesz akcje na zlecenie klientów, pilnując, żeby wszystko zgadzało się z ich życzeniami. Dużo dzwonisz, analizujesz i szukasz nowych klientów.
+T: Realizujesz zlecenia kupna i sprzedaży akcji | Rozmawiasz z klientami o ich oczekiwaniach | Piszesz analizy i zalecenia inwestycyjne | Szukasz nowych klientów różnymi sposobami
+D: 8:00 Odsłuchujesz zlecenia klientów przed otwarciem giełdy | 9:00 Giełda startuje, składasz pierwsze zlecenia | 12:30 Dzwonisz do klienta, który waha się ze sprzedażą | 16:00 Po zamknięciu piszesz rekomendację na kolejny dzień
+Y: Zapytaj domownika, na co chciałby odkładać pieniądze, i napisz mu trzy zdania rady jak doradca.
+
+@1215
+H: Łączysz inwestorów z okazjami na rynku: kupujesz i sprzedajesz papiery wartościowe i pilnujesz, czy nie są zbyt ryzykowne.
+T: Dobierasz klientom odpowiednie papiery wartościowe | Obliczasz cenę papieru przed złożeniem zlecenia | Monitorujesz wyniki papierów klientów | Oceniasz, czy dany papier jest stabilny, czy spekulacyjny
+D: 8:30 Przeglądasz portfele klientów po nocnych zmianach cen | 10:30 Doradzasz klientowi, który szuka bezpiecznej inwestycji | 12:00 Składasz zlecenie zakupu obligacji | 15:30 Uprzedzasz klienta, że jego akcje stały się ryzykowne
+Y: Napisz dwa zdania, czym różni się bezpieczne oszczędzanie od ryzykownego inwestowania.
+
+@1216
+H: Działasz na rynkach finansowych w imieniu klientów: obserwujesz papiery wartościowe, planujesz zakupy i sprzedaże oraz liczysz koszty każdej transakcji.
+T: Monitorujesz papiery wartościowe i trendy rynkowe | Sprawdzasz dokumentację finansową klientów | Planujesz kupno i sprzedaż | Obliczasz koszty transakcji
+D: 8:30 Czytasz poranny przegląd wydarzeń na rynkach | 10:00 Przeglądasz dokumenty finansowe nowego klienta | 12:30 Planujesz sprzedaż części jego papierów | 15:00 Liczysz prowizje i koszty przed zleceniem
+Y: Policz, ile wyniosą koszty sprzedaży rzeczy za 200 zł, gdy pośrednik bierze dwa procent prowizji.
+
+@1217
+H: Pomagasz ludziom dostać kredyt na mieszkanie. Zbierasz dokumenty, szukasz najlepszej oferty i prowadzisz sprawę aż do podpisania umowy.
+T: Rozpatrujesz wnioski klientów o kredyt hipoteczny | Zbierasz dokumenty kredytowe | Szukasz nowych możliwości udzielania kredytów | Doprowadzasz sprawę do podpisania umowy
+D: 9:00 Klient przynosi zaświadczenia o dochodach i wniosek | 11:00 Sprawdzasz, których dokumentów jeszcze brakuje | 14:00 Rozmowa z bankiem o warunkach dla klienta | 17:00 Spotkanie z parą, która podpisuje umowę
+Y: Policz miesięczną ratę pożyczki 12000 zł rozłożonej na 24 miesiące, bez odsetek.
+
+@1218
+H: Pomagasz firmie wprowadzić nowe akcje lub obligacje na rynek: ustalasz z nią cenę i znajdujesz inwestorów, którzy je kupią.
+T: Ustalasz z emitentem cenę nowych papierów | Zarządzasz dystrybucją nowych papierów wartościowych | Sprzedajesz papiery innym inwestorom | Rozliczasz prowizję od klienta emitującego
+D: 9:00 Spotkanie z firmą, która chce wejść na giełdę | 11:30 Wspólnie ustalacie przedział ceny nowych akcji | 14:00 Dzwonisz do inwestorów z ofertą zakupu | 17:00 Podsumowujesz zapisy na akcje z całego dnia
+Y: Wymyśl firmę i oblicz cenę jednego udziału, jeśli chce zebrać 10000 zł, sprzedając sto udziałów.
+
+@1219
+H: Kupujesz i sprzedajesz energię, patrząc na ceny i prognozy. Liczysz, kiedy opłaca się sprzedać, a kiedy poczekać.
+T: Analizujesz rynek energii i trendy cenowe | Decydujesz o kupnie lub sprzedaży udziałów | Sporządzasz sprawozdania z procedur handlowych | Przedstawiasz prognozy rozwoju rynku
+D: 7:00 Sprawdzasz prognozę pogody i zapotrzebowanie na energię | 9:00 Ceny rosną, składasz zlecenie sprzedaży energii | 13:00 Liczysz wynik dnia i zapisujesz transakcje | 15:30 Przedstawiasz zarządowi prognozę cen na tydzień
+Y: Zapisz, w jakich porach roku ludzie potrzebują więcej ogrzewania, i jak może to wpływać na ceny energii.
+
+@1220
+H: Kupujesz i sprzedajesz akcje, obligacje i kontrakty, analizując wyniki firm i całej branży. Doradzasz też, jaka strategia inwestycyjna się opłaca.
+T: Kupujesz i sprzedajesz akcje oraz obligacje | Analizujesz wyniki konkretnej branży | Doradzasz strategię inwestycyjną zarządzającym aktywami | Rozliczasz prowizje i podatki od transakcji
+D: 8:00 Sprawdzasz wyniki spółek ogłoszone przed sesją | 9:00 Otwarcie giełdy, składasz pierwsze zlecenia | 13:00 Analizujesz, jak branża zareagowała na nowe przepisy | 17:00 Zestawiasz podatki i prowizje od dzisiejszych transakcji
+Y: Wybierz branżę, np. transport, i wypisz trzy wiadomości, które mogłyby zmienić wyniki jej firm.
+
+@1221
+H: Codziennie przewidujesz, czy cena kontraktu terminowego pójdzie w górę, czy w dół, i handlujesz na tej podstawie. Możesz zarobić, ale też stracić.
+T: Kupujesz kontrakty, których cena twoim zdaniem wzrośnie | Sprzedajesz te, które według ciebie stanieją | Spekulujesz na kierunku zmiany wartości kontraktów | Zamykasz pozycje na koniec dnia
+D: 8:00 Sprawdzasz ceny surowców z nocnych notowań | 9:30 Kupujesz kontrakty na pszenicę, bo cena ma wzrosnąć | 13:00 Cena spada, szybko decydujesz o zamknięciu pozycji | 17:00 Podliczasz zysk lub stratę z całego dnia
+Y: Zapisz prognozę, czy cena paliwa za tydzień wzrośnie, czy spadnie, i zobacz później, jak było naprawdę.
+
+@1222
+H: Handlujesz akcjami, obligacjami i udziałami na rachunek własny lub swojego pracodawcy. Każdą transakcję musisz dokładnie zapisać i udokumentować.
+T: Kupujesz i sprzedajesz akcje, obligacje i udziały | Obliczasz cenę papieru i składasz zlecenie | Rejestrujesz każdą transakcję w dokumentach | Oceniasz, czy papier jest stabilny, czy spekulacyjny
+D: 8:30 Czytasz wyniki spółek i ustalasz plan dnia | 10:00 Składasz zlecenie kupna po wyliczonej cenie | 13:00 Jedna akcja gwałtownie tanieje, oceniasz, co dalej | 16:30 Wpisujesz do rejestru wszystkie dzisiejsze transakcje
+Y: Zapisz w tabeli trzy wymyślone transakcje kupna i sprzedaży z datą, ceną i ilością.
+
+@1223
+H: Handlujesz różnymi produktami finansowymi dla klientów, banków i firm. Twoim celem jest zarobić jak najwięcej przy jak najmniejszym ryzyku.
+T: Kupujesz i sprzedajesz akcje, obligacje i inne aktywa | Ściśle obserwujesz rynki finansowe | Ograniczasz ryzyko, rozkładając pieniądze na różne produkty | Realizujesz transakcje dla klientów, banków i firm
+D: 7:30 Przeglądasz zachowanie rynków azjatyckich i europejskich | 9:00 Ustawiasz transakcje dla banku, który obsługujesz | 12:00 Ograniczasz ryzyko po nagłej zmianie cen | 16:00 Sprawdzasz, czy dzień zamknął się zyskiem
+Y: Wypisz, dlaczego rozkładanie oszczędności na kilka sposobów zmniejsza ryzyko, i podaj jeden przykład z życia.
+
+@1224
+H: Handlujesz walutami, żeby zarobić na zmianach kursów. Możesz pracować na własny rachunek albo dla pracodawcy, a wynik zależy od trafności analiz.
+T: Kupujesz i sprzedajesz waluty obce | Analizujesz płynność i zmienność rynku | Przewidujesz kursy na podstawie danych gospodarczych | Prowadzisz handel pod własną firmą lub dla pracodawcy
+D: 6:30 Czytasz kalendarz ważnych danych gospodarczych na dziś | 9:00 Otwierasz pozycję na parze euro i dolara | 14:30 Gwałtownie ruszają kursy po publikacji danych z USA | 18:00 Zapisujesz wnioski z dnia w dzienniku transakcji
+Y: Zapisz, co by się stało z cenami zagranicznych wakacji, gdyby złoty osłabł o dziesięć procent.
+
+@1225
+H: Zarządzasz cudzymi pieniędzmi: wybierasz, w co zainwestować, pilnujesz ryzyka i regularnie raportujesz klientom wyniki.
+T: Inwestujesz środki klienta w fundusze i aktywa | Pilnujesz polityki inwestycyjnej i limitów ryzyka | Oceniasz i monitorujesz ryzyko portfela | Przygotowujesz dla klientów informacje o wynikach
+D: 8:30 Przeglądasz wartość portfeli po wczorajszej sesji | 10:30 Rozmowa z klientem, który boi się strat | 13:00 Przesuwasz część środków do bezpieczniejszych obligacji | 16:00 Piszesz kwartalny raport o wynikach portfela
+Y: Narysuj wykres kołowy z podziałem wymyślonych 1000 zł na oszczędności, akcje i obligacje.
+
+@1226
+H: Czytasz wnioski o kredyt i oceniasz, czy bank powinien pożyczyć pieniądze. Sprawdzasz dane osoby lub firmy i piszesz rekomendację.
+T: Rozpatrujesz wnioski o kredyt złożone przez klientów | Zbierasz dane o osobie ubiegającej się o kredyt | Sprawdzasz zgodność wniosku z wytycznymi banku | Śledzisz rozwój portfela kredytów klientów
+D: 8:30 Otwierasz stos nowych wniosków kredytowych | 10:30 Brakuje zaświadczenia, prosisz inny dział o dane | 13:00 Sprawdzasz, czy klient zmieści się w wytycznych | 15:30 Piszesz rekomendację: udzielić pożyczki czy odmówić
+Y: Zapisz trzy pytania, na które musi odpowiedzieć każdy, kto prosi o pożyczkę, zanim ją dostanie.
+
+@1227
+H: Pomagasz klientom wybrać dobre rozwiązanie kredytowe i wyjść z długów. Oceniasz ich sytuację, a potem układasz plan spłat.
+T: Oceniasz zadłużenie klienta na kartach i kredytach | Dobierasz najkorzystniejsze rozwiązania kredytowe | Układasz plan spłaty długów | Przygotowujesz analizy kredytowe zgodnie z polityką banku
+D: 9:00 Klient przychodzi z listą rat i rachunków | 10:30 Liczysz, ile jego dług kosztuje miesięcznie | 13:00 Układasz plan, od którego długu zacząć spłatę | 15:00 Przygotowujesz analizę do decyzji w banku
+Y: Ułóż plan spłaty wymyślonego długu 600 zł w trzech ratach i zapisz daty wpłat.
+
+@1228
+H: Oceniasz, czy klient odda pożyczone pieniądze, i wyszukujesz sygnały oszustwa w dokumentach. Na tej podstawie ustalasz poziom ryzyka.
+T: Zarządzasz ryzykiem kredytowym pojedynczych klientów | Zapobiegasz nadużyciom finansowym | Analizujesz transakcje biznesowe klienta | Czytasz dokumenty prawne i zalecasz poziom ryzyka
+D: 8:30 Przeglądasz alerty o podejrzanych wnioskach z nocy | 10:30 Analizujesz transakcje firmy, która prosi o duży kredyt | 13:00 Czytasz umowę zabezpieczenia i szukasz luk | 15:30 Zalecasz niski limit dla jednego z klientów
+Y: Wypisz pięć rzeczy, które zwiększają ryzyko, że pożyczka nie zostanie oddana, i zaznacz najważniejszą.
+
+@1229
+H: Tłumaczysz osobom, które wchodzą do banku, jaki rachunek do nich pasuje, i prowadzisz je przez otwieranie konta oraz formularze.
+T: Wyjaśniasz różnice między rodzajami rachunków | Pomagasz klientom otworzyć rachunek bankowy | Wypełniasz z klientem wymagane dokumenty | Kierujesz klientów do innych działów banku
+D: 9:00 Pierwszy klient pyta o konto dla dziecka | 11:00 Wypełniacie razem wniosek o otwarcie rachunku | 13:30 Przedsiębiorca potrzebuje kredytu, kierujesz go do działu kredytów | 16:00 Odpowiadasz na pytania o karty i limity
+Y: Napisz krótką ulotkę dla nastolatka: do czego służy konto bankowe, karta i przelew.
+

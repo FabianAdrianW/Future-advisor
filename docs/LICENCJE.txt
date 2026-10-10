@@ -1,0 +1,3 @@
+Dane o zawodach: ESCO v1.0.8, Komisja Europejska (zmodyfikowane i uzupełnione). Wykorzystanie zgodne z warunkami ESCO, z podaniem źródła.
+Ilustracje: Fluent Emoji, Microsoft, licencja MIT.
+Czcionki: Figtree, Bricolage Grotesque, licencja SIL OFL 1.1.

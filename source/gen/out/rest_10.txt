@@ -1,0 +1,180 @@
+@1800
+H: Prowadzisz niewielki dom z pokojami dla gości i pilnujesz, żeby każdy miał czysto, ciepło i śniadanie. Jesteś jednocześnie recepcją, kucharzem i osobą od drobnych napraw.
+T: Przyjmujesz gości i wydajesz klucze | Układasz plan sprzątania pokoi | Przygotowujesz śniadania dla gości | Odpowiadasz na rezerwacje i pytania
+D: 6:30 Przygotowujesz śniadanie dla gości | 10:00 Wymeldowanie gości i sprawdzanie pokoi | 14:00 Meldujesz nowych gości i pokazujesz pokoje | 20:00 Odpisujesz na rezerwacje i planujesz jutro
+Y: Napisz listę pięciu rzeczy, jakich potrzebuje gość na weekend w pokoju, i ułóż ją według ważności.
+
+@1801
+H: Pilnujesz, żeby pokoje w hotelu były gotowe na czas, zanim przyjadą nowi goście. Rozdzielasz pokoje zespołowi i sprawdzasz, co wyszło.
+T: Rozdzielasz pokoje pokojowym na zmianę | Kontrolujesz posprzątane pokoje | Zamawiasz środki czystości i pościel | Reagujesz na zgłoszenia gości
+D: 7:00 Odprawa i podział pięter w zespole | 10:00 Kontrolujesz posprzątane pokoje piętro po piętrze | 13:00 Pilnie szykujesz pokój dla gościa, który przyjechał wcześniej | 15:30 Liczysz zapasy pościeli i środków czystości
+Y: Zrób listę kontrolną, co trzeba sprawdzić w posprzątanym pokoju, i obejdź nią swój pokój.
+
+@1802
+H: Gdy wesołe miasteczko zamyka się na noc, wychodzisz zbierać śmieci i myć alejki przy atrakcjach. W ciągu dnia łatasz drobne usterki.
+T: Zbierasz śmieci spomiędzy karuzel | Myjesz alejki i toalety | Naprawiasz drobne usterki, na przykład ławki | Zgłaszasz rzeczy, które mogą zagrażać gościom
+D: 22:00 Park się zamyka, zaczynasz zbierać śmieci | 1:00 Myjesz alejki i kosze przy karuzelach | 4:00 Zauważasz uszkodzoną ławkę i ją zabezpieczasz | 10:00 Pilnie czyścisz rozlany napój przy wejściu
+Y: Obejdź swoje podwórko lub klatkę i policz wszystkie śmieci, które widzisz. Zapisz, gdzie leży ich najwięcej.
+
+@1803
+H: Dbasz o czystość wody i brzegu basenu, plaży albo kąpieliska. Przy okazji zerkasz na to, czy nikomu nie dzieje się krzywda.
+T: Wyławiasz liście i brud z wody | Szorujesz brzeg i schodki | Sprawdzasz, czy nic nie zagraża pływakom | Odpowiadasz uprzejmie na pytania odwiedzających
+D: 6:00 Wyławiasz liście i śmieci z powierzchni wody | 9:00 Szorujesz brzeg, zanim przyjdą pierwsi pływacy | 13:00 Ktoś zostawił szkło na plaży, zbierasz je | 17:00 Ostatni obchód terenu przed zamknięciem
+Y: Wypisz pięć zagrożeń, jakie czyhają na dzieci przy basenie, i przy każdym dopisz sposób zapobiegania.
+
+@1804
+H: Czyścisz dywany i zasłony klientów z plam, kurzu i zapachów. Dobierasz sposób do materiału i sprzęt do wielkości dywanu.
+T: Usuwasz plamy z dywanów i zasłon | Neutralizujesz nieprzyjemne zapachy | Szorujesz szczotkami i maszyną | Dobierasz metodę do rodzaju włókna
+D: 8:00 Jedziesz do klienta z maszyną i szczotkami | 9:00 Oglądasz plamy i sprawdzasz rodzaj dywanu | 12:00 Czyścisz zasłony w dużym salonie | 15:00 Dywan schnie, tłumaczysz klientowi, jak o niego dbać
+Y: Sprawdź metkę na kocu lub poduszce i zapisz, jak producent zaleca je czyścić.
+
+@1805
+H: Zbierasz brudną pościel i ubrania robocze, pilnujesz, żeby wróciły czyste, i wiesz, ile czego jest na stanie. Pracujesz bardziej z listami i wózkami niż z ludźmi.
+T: Zbierasz brudną pościel i uniformy | Sortujesz pranie według rodzaju | Rozwozisz czyste rzeczy do działów | Zapisujesz stany magazynowe
+D: 6:00 Odbierasz brudną pościel z oddziałów | 8:00 Sortujesz pranie i ładujesz do maszyn | 11:00 Liczysz czyste komplety i wpisujesz do rejestru | 14:00 Rozwozisz świeże uniformy pracownikom
+Y: Posortuj pranie z kosza na trzy stosy według koloru i odczytaj z metek zalecane temperatury.
+
+@1806
+H: Czyścisz podziemne rury, którymi płyną ścieki z całej gminy, i usuwasz zatory. To brudna praca, od której zależy, czy w miastach działa woda.
+T: Usuwasz zatory w rurach | Czyścisz kanały specjalistycznym sprzętem | Oglądasz stan rur i zapisujesz uszkodzenia | Zgłaszasz awarie sieci kanalizacyjnej
+D: 7:00 Odbierasz zgłoszenie o cofających się ściekach | 9:00 Udrażniasz zatkany kanał sprzętem ciśnieniowym | 12:00 Oglądasz stan rury i notujesz uszkodzenia | 14:00 Myjesz sprzęt i wpisujesz raport
+Y: Znajdź w domu, którędy woda spływa z umywalki, i opisz jej drogę do kanalizacji.
+
+@1807
+H: Nadajesz ubraniom gładki, równy kształt za pomocą pary i pras. Wykonujesz te same ruchy setki razy dziennie, więc liczy się dokładność.
+T: Prasujesz koszule, spodnie i garnitury | Obsługujesz prasę parową i próżniową | Układasz ubrania na wieszakach | Wyłapujesz zagniecenia i plamy
+D: 7:00 Sprawdzasz zlecenia i ustawiasz stanowisko | 9:00 Prasujesz stos koszul dla klienta | 12:00 Kształtujesz marynarkę na prasie | 15:00 Pakujesz gotowe ubrania do odbioru
+Y: Wygładź dłońmi starą koszulkę i złóż ją równo w prostokąt tak, jak w sklepie.
+
+@1808
+H: Czyścisz i polerujesz samochody, autobusy albo inne pojazdy, w środku i na zewnątrz. Zaczynasz od wnętrza, kończysz na lakierze.
+T: Odkurzasz wnętrze i fotele | Myjesz karoserię i szyby | Polerujesz lakier i plastiki | Wyjmujesz śmieci spod siedzeń
+D: 7:00 Pierwszy samochód, czyścisz fotele i dywaniki | 10:00 Myjesz karoserię od góry do dołu | 13:00 Polerujesz lakier, aż zacznie się świecić | 16:00 Klient odbiera auto i ogląda wnętrze
+Y: Opróżnij swój plecak, wytrzep go i wytrzyj od środka wilgotną ściereczką.
+
+@1809
+H: Myjesz okna, lustra i szklane ściany, wewnątrz i na zewnątrz budynków. W wysokich budynkach używasz drabin i pasów zabezpieczających.
+T: Zmywasz szyby gąbką i detergentem | Dobierasz drabinę do wysokości | Zakładasz pasy zabezpieczające | Polerujesz lustra i szklane drzwi
+D: 7:00 Pakujesz środki i narzędzia na budynek | 9:00 Myjesz szyby biura od wewnątrz | 11:00 Zakładasz pasy i myjesz okna wyższego piętra | 14:00 Polerujesz szklane drzwi przy wejściu
+Y: Obejrzyj okno w domu pod światło, od środka, i policz wszystkie smugi i plamy.
+
+@1810
+H: Odświeżasz meble: usuwasz kurz i plamy, polerujesz drewno i przywracasz kolor. Pracujesz na jednym meblu naraz, powoli i dokładnie.
+T: Odkurzasz i wycierasz meble z kurzu | Usuwasz plamy z tapicerki | Nakładasz środek do polerowania drewna | Odświeżasz kolor zmatowiałych powierzchni
+D: 8:00 Oglądasz meble klienta i szukasz plam | 10:00 Usuwasz kurz z rzeźbionej komody | 12:30 Czyścisz plamę na tapicerowanej kanapie | 15:00 Polerujesz stół, żeby odzyskał kolor
+Y: Przyjrzyj się wybranemu meblowi i opisz, z czego jest zrobiony i gdzie zbiera się najwięcej kurzu.
+
+@1811
+H: Sprzątasz pokoje hotelowe po gościach i szykujesz je dla następnych. Zmieniasz pościel, myjesz łazienki i uzupełniasz kosmetyki.
+T: Ścielisz łóżka i zmieniasz pościel | Myjesz łazienkę i wymieniasz ręczniki | Uzupełniasz kosmetyki i wodę | Zgłaszasz zgubione rzeczy i usterki
+D: 8:00 Odbierasz klucz i listę pokoi do sprzątania | 9:30 Zdejmujesz pościel i szorujesz łazienkę | 12:00 Znajdujesz w szafce rzecz zostawioną przez gościa | 14:30 Sprawdzasz pokój, zanim wejdą nowi goście
+Y: Pościel swoje łóżko jak w hotelu: napięte prześcieradło, równa kołdra, równo ułożone poduszki.
+
+@1812
+H: Utrzymujesz w czystości biura, szpitale albo urzędy. Poza sprzątaniem sprawdzasz zamknięcia, okna i klimatyzację.
+T: Zamiatasz i myjesz podłogi mopem | Opróżniasz kosze na śmieci | Sprawdzasz zamknięcie okien i drzwi | Zgłaszasz awarie klimatyzacji
+D: 5:30 Zaczynasz w pustym biurowcu, zanim ktoś przyjdzie | 8:00 Myjesz podłogę w holu mopem | 11:00 Opróżniasz kosze i wymieniasz worki | 13:00 Obchód: okna zamknięte, klimatyzacja działa
+Y: Zrób obchód mieszkania i sprawdź, czy wszystkie okna są zamknięte i kosze opróżnione. Zapisz wynik.
+
+@1813
+H: Sprzątasz domy klientów: podłogi, kuchnię, łazienki i pranie. Wchodzisz do czyjegoś prywatnego miejsca, więc liczy się dyskrecja i dokładność.
+T: Zamiatasz i odkurzasz podłogi | Zmywasz naczynia i pierzesz odzież | Ścierasz kurze i szorujesz powierzchnie | Dezynfekujesz klamki i blaty
+D: 8:00 Wchodzisz do mieszkania i planujesz kolejność prac | 10:00 Szorujesz kuchnię i zmywasz naczynia | 12:30 Wstawiasz pranie i ścierasz kurze w pokojach | 15:00 Ostatnie zamiatanie i mycie podłóg
+Y: Zamieć jeden pokój od najdalszego kąta ku drzwiom i zmierz, ile to trwa.
+
+@1814
+H: Gdy samolot wyląduje, masz kilkadziesiąt minut, żeby wnętrze było gotowe na następny lot. Pracujesz szybko, w kabinie, kuchni pokładowej i toaletach.
+T: Zbierasz śmieci z kieszeni foteli | Odkurzasz kabinę i siedzenia | Układasz pasy bezpieczeństwa | Czyścisz kuchnię pokładową i toalety
+D: 5:00 Samolot ląduje, wchodzisz z zespołem na pokład | 5:20 Zbierasz śmieci z kieszeni i półek | 5:40 Układasz pasy i odkurzasz kabinę | 6:00 Czyścisz toalety i kuchnię przed następnym lotem
+Y: Zbierz w 15 minut wszystko, co leży na krzesłach w pokoju, i ułóż paski od toreb równo.
+
+@1815
+H: Utrzymujesz w czystości toalety w galeriach, biurach lub na dworcach: myjesz, uzupełniasz zapasy i notujesz, kiedy sprzątasz. Pracujesz przed otwarciem, w trakcie dnia i po zamknięciu.
+T: Myjesz umywalki, lustra i podłogi | Czyścisz sedesy i pisuary | Uzupełniasz papier, mydło i ręczniki | Wpisujesz godziny sprzątania do rejestru
+D: 6:30 Sprzątasz toalety w galerii przed otwarciem | 10:00 Kontrola: uzupełniasz papier i mydło | 14:00 Szybko sprzątasz po godzinach największego ruchu | 20:00 Dokładne mycie po zamknięciu i wpis do rejestru
+Y: Ułóż harmonogram kontroli czystości toalety w szkole co kilka godzin i dopisz, co sprawdzasz.
+
+@1816
+H: Czyścisz wnętrza pociągów, gdy stoją na bocznicy lub między kursami. Pracujesz o różnych porach, często nocą i wcześnie rano.
+T: Opróżniasz kosze w przedziałach | Odkurzasz fotele i podłogi w wagonie | Myjesz stoliki i okna | Robisz gruntowne sprzątanie na postoju
+D: 4:30 Pociąg stoi na bocznicy, wchodzisz do wagonu | 6:00 Opróżniasz kosze i zbierasz śmieci | 9:00 Myjesz stoliki i podłogę mopem | 22:00 Głębokie czyszczenie wagonu po ostatnim kursie
+Y: Wyobraź sobie biurko jako stolik w pociągu i wypisz, co trzeba z niego zebrać i umyć.
+
+@1817
+H: Prowadzisz biuro, które sprzedaje wyjazdy, i odpowiadasz za zespół oraz ofertę. Wybierasz kierunki, układasz wycieczki i pilnujesz sprzedaży.
+T: Układasz ofertę wycieczek | Kierujesz pracownikami biura | Reklamujesz wyjazdy w lokalnych mediach | Rozmawiasz z klientami o planach urlopu
+D: 8:30 Sprawdzasz rezerwacje i odprawiasz zespół | 11:00 Układasz ofertę wakacji w jednym regionie | 13:00 Klient pyta o wyjazd dla całej rodziny | 16:00 Zatwierdzasz ogłoszenie o nowych wycieczkach
+Y: Zaplanuj weekendowy wyjazd po Polsce dla trzech osób: cel, trasa i trzy atrakcje.
+
+@1818
+H: Kierujesz punktem, w którym turyści dowiadują się, co zobaczyć, gdzie spać i jak dojechać. Zarządzasz pracownikami i dbasz, żeby ich wiedza o okolicy była aktualna.
+T: Układasz grafik pracowników punktu | Aktualizujesz informacje o lokalnych imprezach | Zamawiasz mapy i ulotki | Odpowiadasz na trudniejsze pytania turystów
+D: 8:00 Otwierasz punkt i sprawdzasz plan imprez | 10:30 Turyści pytają o szlaki i noclegi | 13:00 Aktualizujesz informacje o festiwalu w mieście | 16:00 Układasz grafik pracowników na weekend
+Y: Wypisz pięć atrakcji w swojej okolicy i do każdej dopisz jedno zdanie dla turysty.
+
+@1819
+H: Kierujesz zespołem, który odpowiada na pytania i skargi klientów. Pilnujesz, żeby sprawy były załatwiane szybko i zgodnie z zasadami.
+T: Rozdzielasz zgłoszenia klientów w zespole | Sprawdzasz, jak rozwiązano trudne sprawy | Układasz grafik konsultantów | Zmieniasz procedury, gdy problemy się powtarzają
+D: 8:00 Sprawdzasz, ile zgłoszeń przyszło w nocy | 10:00 Rozmawiasz z konsultantem o trudnej skardze | 13:00 Poprawiasz procedurę, bo pytania się powtarzają | 15:30 Układasz grafik konsultantów na święta
+Y: Wymyśl trzy najczęstsze pytania klientów sklepu i napisz do każdego krótką, uprzejmą odpowiedź.
+
+@1820
+H: Odpowiadasz za to, żeby w dużej pralni, na przykład dla szpitali i hoteli, pranie było gotowe na czas. Zarządzasz ludźmi, zamówieniami i budżetem.
+T: Układasz plan pracy pralni | Pilnujesz zasad bezpieczeństwa przy maszynach | Zamawiasz środki i materiały | Pilnujesz budżetu i terminów
+D: 6:00 Sprawdzasz plan prania dla szpitala i hoteli | 8:00 Odprawa z pracownikami i przypomnienie zasad bezpieczeństwa | 11:00 Zamawiasz brakujące środki i materiały | 14:00 Klient skarży się na opóźnienie, szukasz przyczyny
+Y: Policz, ile kompletów pościeli i ręczników ma twój dom, i zapisz, ile prań potrzeba na tydzień.
+
+@1821
+H: Zwykle nie naprawiasz aut własnoręcznie, tylko organizujesz pracę mechaników i biura. Rozmawiasz z klientami o terminie i zakresie naprawy.
+T: Przydzielasz auta mechanikom | Rozmawiasz z klientami o terminie naprawy | Nadzorujesz pracę biura warsztatu | Sprawdzasz naprawione auta przed wydaniem
+D: 7:30 Rozdzielasz dzisiejsze zlecenia mechanikom | 9:30 Klient pyta, czemu naprawa trwa dłużej | 12:00 Zamawiasz brakującą część u dostawcy | 16:00 Sprawdzasz naprawione auto i oddajesz klucze
+Y: Wyjaśnij w trzech prostych zdaniach komuś, kto nie zna się na autach, do czego służą hamulce.
+
+@1822
+H: Zarządzasz kempingiem: planujesz miejsca dla namiotów i przyczep, nadzorujesz obsługę i rozwiązujesz problemy gości. Najwięcej pracy masz w sezonie, w weekendy i wakacje.
+T: Planujesz rozmieszczenie miejsc dla namiotów | Zarządzasz obsługą kempingu | Pilnujesz łazienek i wody | Rozwiązujesz problemy gości
+D: 8:00 Obchód: łazienki, śmieci, miejsca po wyjeździe gości | 11:00 Wymeldowanie gości i przydział nowych miejsc | 14:00 Rozdzielasz zadania obsłudze na sezon | 18:00 Rozmawiasz z gośćmi, którym zepsuł się sprzęt
+Y: Narysuj plan małego kempingu z miejscami na pięć namiotów, łazienką i pojemnikiem na śmieci.
+
+@1823
+H: Rozdajesz ulotki na ulicy albo wrzucasz je do skrzynek, żeby ludzie dowiedzieli się o ofercie. Pracujesz na nogach i dużo mówisz do obcych.
+T: Rozdajesz ulotki przechodniom | Wrzucasz reklamy do skrzynek | Mówisz krótko, czego dotyczy oferta | Pilnujesz, żeby rozdać cały nakład
+D: 9:00 Odbierasz paczkę ulotek i rejon do obejścia | 10:00 Stoisz przy przejściu i podajesz ulotki | 13:00 Wrzucasz ulotki do skrzynek na osiedlu | 16:00 Zostało kilka paczek, wracasz w tłoczne miejsce
+Y: Napisz hasło na ulotkę o szkolnym wydarzeniu: maksymalnie osiem słów, jasne dla przechodnia.
+
+@1824
+H: Badasz, jakie reakcje chemiczne zachodzą w komórkach i organizmach, na przykład gdy działa lek. Większość dnia spędzasz w laboratorium i przy analizie wyników.
+T: Planujesz doświadczenia w laboratorium | Badasz reakcje chemiczne w komórkach | Analizujesz wyniki pomiarów | Pracujesz nad nowymi substancjami, na przykład lekami
+D: 8:30 Przygotowujesz próbki do doświadczenia | 10:00 Uruchamiasz pomiar reakcji i czekasz na wynik | 13:00 Porównujesz wyniki z poprzednimi doświadczeniami | 15:30 Zapisujesz wnioski w dokumentacji
+Y: Żuj kawałek chleba przez minutę i opisz zmianę smaku. Zapisz własne przypuszczenie, dlaczego tak się dzieje.
+
+@1825
+H: Używasz fizyki, żeby zrozumieć, jak działają żywe organizmy, od cząsteczek DNA po całe komórki. Mierzysz, liczysz i budujesz modele.
+T: Mierzysz właściwości białek i cząsteczek | Budujesz modele zachowania komórek | Analizujesz dane z doświadczeń | Piszesz raporty z badań
+D: 9:00 Planujesz pomiar na cząsteczkach białka | 11:00 Przeprowadzasz doświadczenie w laboratorium | 14:00 Dopasowujesz model matematyczny do wyników | 16:30 Dyskusja z zespołem o wynikach
+Y: Rozciągnij gumkę recepturkę na różną długość i zapisz, jak mocno ją czujesz w palcach.
+
+@1826
+H: Badasz, jak żyją rośliny, zwierzęta i grzyby i jak wpływa na nie środowisko. Pracujesz w terenie i w laboratorium.
+T: Obserwujesz organizmy w naturze | Zbierasz próbki i dane | Opisujesz gatunki i ich zachowanie | Piszesz wnioski z badań
+D: 7:00 Wyjeżdżasz w teren obserwować ptaki | 10:00 Zbierasz próbki roślin | 13:30 Oglądasz je pod mikroskopem | 16:00 Wpisujesz obserwacje do notatek
+Y: Wyjdź na 15 minut na podwórko lub balkon i policz, ile różnych gatunków roślin lub ptaków widzisz.
+
+@1827
+H: Badasz próbki pacjentów w szpitalnym laboratorium, żeby lekarz mógł postawić diagnozę. Twoje wyniki decydują o tym, jak leczy się cukrzycę czy zaburzenia krzepnięcia.
+T: Analizujesz próbki krwi i tkanek | Wykonujesz badania na cukrzycę i krzepliwość | Sprawdzasz, czy wyniki są wiarygodne | Przekazujesz wyniki lekarzom
+D: 7:00 Odbierasz próbki, które przyszły w nocy | 9:00 Analizujesz krew pod kątem cukru i krzepnięcia | 12:00 Lekarz pilnie czeka na jeden wynik | 14:00 Kontrolujesz aparaty i wpisujesz wyniki
+Y: Zrób listę pytań, jakie lekarz zadaje przed badaniem krwi, i dopisz, po co każde jest potrzebne.
+
+@1828
+H: Prowadzisz badania, które mają przenieść odkrycia z laboratorium do medycyny. Uczysz też innych specjalistów.
+T: Projektujesz badania nad chorobami | Analizujesz dane z prób klinicznych | Uczysz studentów i młodszych kolegów | Piszesz publikacje naukowe
+D: 8:30 Przeglądasz nowe publikacje o chorobie | 10:00 Spotkanie z lekarzami o planie badania | 13:00 Prowadzisz zajęcia dla młodszych specjalistów | 15:30 Piszesz fragment artykułu naukowego
+Y: Wybierz chorobę i wypisz trzy pytania, na które badacze wciąż szukają odpowiedzi.
+
+@1829
+H: Opiekujesz się kolekcją roślin z całego świata, często w ogrodzie botanicznym, i badasz je. Czasem wyjeżdżasz zbierać rośliny dziko rosnące.
+T: Opisujesz i badasz gatunki roślin | Pielęgnujesz rośliny w szklarniach | Wyjeżdżasz zbierać rośliny dziko rosnące | Planujesz rozwój ogrodu
+D: 8:00 Obchodzisz szklarnie i sprawdzasz stan roślin | 10:30 Opisujesz nowy okaz zebrany w terenie | 13:00 Rozmawiasz z odwiedzającymi o rzadkich roślinach | 15:00 Planujesz nowy dział ogrodu
+Y: Wybierz roślinę z domu lub podwórka, narysuj jej liść i opisz kształt oraz brzeg.
+

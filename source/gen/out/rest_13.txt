@@ -1,0 +1,179 @@
+@1980
+H: Prowadzisz rozprawy i na podstawie dowodów i przepisów rozstrzygasz, kto ma rację. Zajmujesz się sprawami karnymi, rodzinnymi, cywilnymi i dotyczącymi nieletnich.
+T: Przewodniczysz rozprawie i pilnujesz jej przebiegu | Analizujesz dowody i zeznania świadków | Wydajesz wyroki i uzasadniasz je na piśmie | Sprawdzasz, czy procedury zostały zachowane
+D: 7:30 Czytasz akta sprawy przed rozprawą | 9:00 Prowadzisz rozprawę, przesłuchujesz świadków | 13:00 Naradzasz się i piszesz uzasadnienie wyroku | 15:00 Przeglądasz kolejne akta na jutro
+Y: Przeczytaj krótki artykuł o jakiejś sprawie sądowej i zapisz, jakie dowody mogły przesądzić o wyroku.
+
+@1981
+H: Orzekasz w sądzie wyższej instancji, w skomplikowanych sprawach karnych i cywilnych. Decydujesz o winie i o karze, a przy okazji pilnujesz, żeby proces był zgodny z prawem.
+T: Rozpatrujesz trudne sprawy karne i cywilne | Kierujesz rozprawą i pomagasz ławie przysięgłych | Ustalasz kary po stwierdzeniu winy | Sprawdzasz, czy proces był uczciwy i zgodny z prawem
+D: 8:00 Studiujesz grube akta i wcześniejsze orzeczenia | 10:00 Prowadzisz rozprawę w poważnej sprawie | 14:00 Podsumowujesz sprawę dla ławy przysięgłych | 16:30 Piszesz wyrok i jego uzasadnienie
+Y: Wypisz na kartce dwa argumenty za i dwa przeciw w dowolnym sporze, a potem rozstrzygnij go i uzasadnij.
+
+@1982
+H: Rozstrzygasz drobne spory i sprawy o małe przestępstwa w swojej okolicy. Często najpierw próbujesz pogodzić strony, zanim dojdzie do wyroku.
+T: Rozpatrujesz drobne roszczenia i spory | Sądzisz sprawy o małe przestępstwa | Mediujesz między skłóconymi stronami | Dbasz o spokój na swoim obszarze
+D: 8:30 Przyjmujesz strony sporu o ogrodzenie | 10:30 Mediujesz i szukasz ugody | 13:00 Rozpatrujesz sprawę o drobne wykroczenie | 15:30 Spisujesz decyzje i zamykasz akta
+Y: Poproś dwie osoby o różne zdania w drobnej sprawie i znajdź kompromis, który obie zaakceptują.
+
+@1983
+H: Zbierasz informacje na zlecenie klienta: obserwujesz, robisz zdjęcia, rozmawiasz z ludźmi i sprawdzasz fakty. Na końcu przekazujesz wszystko w uporządkowanym raporcie.
+T: Obserwujesz osoby i robisz zdjęcia | Sprawdzasz przeszłość i powiązania ludzi | Przeprowadzasz wywiady z osobami | Szukasz osób zaginionych i śladów oszustw
+D: 6:00 Zajmujesz miejsce obserwacji pod domem | 10:00 Zapisujesz godziny wyjść i robisz zdjęcia | 14:00 Rozmawiasz z sąsiadami i świadkami | 20:00 Piszesz raport dla klienta
+Y: Obserwuj przez dziesięć minut jedno miejsce w okolicy i zapisz godziny oraz szczegóły, które zauważysz.
+
+@1984
+H: Wypatrujesz kradzieży w sklepie, patrząc na ludzi i na obraz z kamer. Gdy przyłapiesz złodzieja, zatrzymujesz go zgodnie z prawem i wzywasz policję.
+T: Obserwujesz klientów na sali i na monitorach | Rozpoznajesz zachowania typowe dla kradzieży | Zatrzymujesz złapaną osobę zgodnie z prawem | Wzywasz policję i spisujesz zdarzenie
+D: 9:00 Obchodzisz sklep i sprawdzasz kamery | 12:00 Zauważasz osobę chowającą towar do torby | 12:20 Zatrzymujesz ją przy wyjściu, dzwonisz na policję | 17:00 Spisujesz notatkę i zgrywasz nagranie
+Y: Zapamiętaj w sklepie lub na ulicy pięć szczegółów jednej sytuacji i zapisz je po wyjściu.
+
+@1985
+H: Wspierasz prawników w przygotowaniu spraw: szukasz przepisów i porządkujesz dokumenty. Odpowiadasz za papiery i terminy, żeby prawnik mógł skupić się na samej sprawie.
+T: Szukasz przepisów i orzeczeń do sprawy | Przygotowujesz i porządkujesz dokumentację | Pilnujesz terminów i spraw administracyjnych | Pomagasz prawnikom w przygotowaniu rozprawy
+D: 8:30 Układasz teczki do dzisiejszej rozprawy | 10:00 Szukasz podobnych orzeczeń dla prawnika | 12:30 Dostarczasz pisma do sądu | 15:00 Sprawdzasz terminy kolejnych spraw
+Y: Ułóż w domu pięć dowolnych papierów w teczkę chronologicznie i podpisz każdy jednym zdaniem.
+
+@1986
+H: Pomagasz sędziemu w pracy: analizujesz prawo, przygotowujesz projekty opinii i odpowiadasz na pytania stron. Dzięki Tobie sędzia ma przygotowaną sprawę, zanim wejdzie na salę.
+T: Analizujesz przepisy do konkretnej sprawy | Przygotowujesz projekty opinii i orzeczeń | Odpowiadasz na pytania stron postępowania | Przekazujesz informacje sędziemu i urzędnikom
+D: 8:00 Czytasz nowe akta przydzielone sędziemu | 9:30 Piszesz notatkę o przepisach w sprawie | 12:00 Odpowiadasz na telefony stron | 14:30 Omawiasz z sędzią projekt orzeczenia
+Y: Streść w trzech zdaniach dowolną krótką wiadomość prasową, w formie notatki dla szefa.
+
+@1987
+H: Egzekwujesz wyroki sądowe: odzyskujesz pieniądze od dłużników, zajmujesz majątek i sprzedajesz go na licytacji. Dużo jeździsz po terenie i rozmawiasz z ludźmi w trudnych sytuacjach.
+T: Odzyskujesz należne pieniądze od dłużników | Zajmujesz majątek zgodnie z nakazem sądu | Przeprowadzasz licytacje publiczne | Wysyłasz wezwania i doręczasz nakazy
+D: 8:00 Sprawdzasz akta i plan wizyt | 10:00 Jedziesz do dłużnika zająć majątek | 13:00 Spisujesz zajęte rzeczy i wręczasz pismo | 16:00 Prowadzisz licytację zajętych przedmiotów
+Y: Przygotuj spis wszystkich rzeczy na swoim biurku z krótkim opisem każdej, tak jak przy protokole.
+
+@1988
+H: Zajmujesz się papierami w sądzie: przyjmujesz wnioski, prowadzisz dokumentację i pomagasz na sali. Dzięki Tobie sprawy mają kompletne akta i właściwy bieg.
+T: Przyjmujesz wnioski i sprawdzasz ich kompletność | Prowadzisz rejestry i akta spraw | Wyczytujesz sprawy i strony na sali | Zapisujesz nakazy wydane przez sędziego
+D: 7:30 Sortujesz poranną pocztę i nowe wnioski | 9:00 Wyczytujesz strony przed rozprawą | 10:00 Notujesz postanowienia sędziego na sali | 14:00 Wpisujesz sprawy do rejestru
+Y: Wypełnij na kartce prosty formularz o sobie i sprawdź, czy każda rubryka jest uzupełniona.
+
+@1989
+H: Pilnujesz, żeby sprawa sądowa przeszła od złożenia do zamknięcia zgodnie z przepisami i w terminie. Sprawdzasz akta i upewniasz się, że żaden krok nie został pominięty.
+T: Śledzisz postęp spraw od otwarcia do zamknięcia | Przeglądasz akta pod kątem zgodności z przepisami | Pilnujesz terminów w każdej sprawie | Sprawdzasz, czy wszystko zostało wykonane przed zamknięciem
+D: 8:00 Przeglądasz listę spraw z terminami na dziś | 10:00 Wyłapujesz brakujący dokument w aktach | 12:30 Dzwonisz do strony po uzupełnienie | 15:00 Zamykasz sprawę po sprawdzeniu wszystkich kroków
+Y: Zrób listę kontrolną zadań na jutro z terminami i odhaczaj je wieczorem.
+
+@1990
+H: Przygotowujesz formalne przeniesienie własności nieruchomości z jednej osoby na drugą. Pilnujesz, żeby umowy, tytuły i prawa trafiły do właściwych rąk.
+T: Przygotowujesz dokumenty przeniesienia własności | Sprawdzasz tytuły prawne do nieruchomości | Wymieniasz umowy między stronami transakcji | Dbasz o przekazanie wszystkich praw
+D: 8:30 Sprawdzasz dokumenty do dzisiejszej transakcji | 10:00 Porównujesz dane w umowie z księgą | 12:00 Spotykasz kupującego i sprzedającego | 15:00 Składasz komplet papierów do rejestru
+Y: Sprawdź w domowych dokumentach, czy imię, nazwisko i data na jednym piśmie się zgadzają.
+
+@1991
+H: Dbasz o porządek i bezpieczeństwo w sądzie: pilnujesz sali, sprawdzasz osoby i wzywasz świadków. Możesz też doprowadzać zatrzymanych na rozprawę i z powrotem.
+T: Sprawdzasz osoby i pomieszczenia pod kątem zagrożeń | Doprowadzasz zatrzymanych na salę rozpraw | Wzywasz świadków i otwierasz sąd | Pilnujesz spokoju podczas rozprawy
+D: 7:00 Otwierasz sąd i przeglądasz sale | 8:30 Kontrolujesz osoby wchodzące do budynku | 10:00 Doprowadzasz oskarżonego na rozprawę | 11:30 Wzywasz świadka na korytarzu
+Y: Obejdź mieszkanie i wypisz trzy rzeczy, które mogłyby stanowić zagrożenie dla osób w pokoju.
+
+@1992
+H: Badasz, jakie pierwiastki chemiczne są w skałach, glebie i wodzie. Ustalasz, skąd pobrać próbki i jakie metale w nich oznaczyć.
+T: Planujesz pobieranie próbek skał i gleby | Wybierasz metale do analizy | Interpretujesz wyniki badań składu chemicznego | Badasz wpływ minerałów na wody
+D: 7:00 Pakujesz sprzęt i jedziesz w teren | 9:30 Pobierasz próbki skał z odsłonięcia | 13:00 Opisujesz i znakujesz każdą próbkę | 15:30 W laboratorium zestawiasz wyniki analizy
+Y: Zbierz dwa różne kamienie z okolicy, opisz ich kolor i fakturę i porównaj je w tabelce.
+
+@1993
+H: Badasz, z czego zbudowana jest Ziemia i jak się zmieniała przez miliony lat. Zależnie od specjalizacji zajmujesz się warstwami skał, minerałami, trzęsieniami ziemi albo wulkanami.
+T: Badasz warstwy skał i ich historię | Pobierasz próbki w terenie | Rysujesz mapy geologiczne | Oceniasz jakość minerałów i zagrożenia
+D: 6:30 Wyjeżdżasz w teren z młotkiem i mapą | 9:00 Opisujesz odsłonięcie skalne, mierzysz warstwy | 13:00 Pobierasz próbki i oznaczasz miejsce | 17:00 Nanosisz dane na mapę
+Y: Obejrzyj wykop, skarpę lub ścianę ze skałą w okolicy i naszkicuj widoczne warstwy.
+
+@1994
+H: Pracujesz na wiertni i badasz płyn wiertniczy wynoszący na powierzchnię drobiny skał. Na tej podstawie ustalasz, jakie skały i jakie węglowodory są na danej głębokości.
+T: Pobierasz próbki płynu wiertniczego | Analizujesz je w laboratorium | Określasz rodzaj skał na danej głębokości | Monitorujesz gaz ziemny podczas wiercenia
+D: 6:00 Przejmujesz zmianę na wiertni | 8:00 Odbierasz próbkę z płuczki | 11:00 Oglądasz okruchy skał pod lupą | 22:00 W nocy zapisujesz wzrost gazu na głębokości
+Y: Przepłucz garść ziemi w słoiku z wodą i opisz, jakie drobiny opadają na dno.
+
+@1995
+H: Szukasz w skałach surowców i oceniasz, ile ich jest i jak są ułożone. Doradzasz kierownictwu kopalni, gdzie opłaca się wydobywać.
+T: Lokalizujesz zasoby mineralne | Oceniasz ilość i jakość złoża | Opisujesz budowę geologiczną wyrobiska | Doradzasz kierownictwu kopalni, gdzie kopać
+D: 6:00 Zjeżdżasz do wyrobiska na obchód | 8:00 Opisujesz ścianę i pobierasz próbki | 11:00 Nanosisz wyniki na mapę złoża | 14:00 Doradzasz kierownikowi kopalni, gdzie kopać dalej
+Y: Przejrzyj w domu różne kamienie lub kruszywo i ułóż je od najdrobniejszego do największego.
+
+@1996
+H: Znajdujesz miejsca, gdzie w ziemi leży opłacalne złoże, i zarządzasz badaniami, które to potwierdzają. Zajmujesz się też zdobywaniem prawa do eksploatacji złoża.
+T: Szukasz złóż minerałów w terenie | Planujesz i prowadzisz program badań | Zlecasz wiercenia i analizujesz próbki | Zabiegasz o prawo do eksploatacji złoża
+D: 7:00 Jedziesz na teren poszukiwań | 9:00 Wskazujesz miejsca kolejnych wierceń | 13:00 Oglądasz rdzeń wiertniczy i opisujesz go | 16:00 Aktualizujesz plan badań i budżet
+Y: Narysuj mapę swojej okolicy i zaznacz, gdzie według Ciebie mogą być kopaliny, uzasadniając wybór.
+
+@1997
+H: Sprawdzasz, jak wydobycie surowców zmienia ziemię i środowisko. Doradzasz, jak naprawić zniszczone tereny i ograniczyć zanieczyszczenia.
+T: Badasz wpływ kopalni na grunt i wodę | Wykrywasz skażenia gleby | Doradzasz, jak rekultywować tereny | Przygotowujesz opinie o skutkach wydobycia
+D: 7:30 Jedziesz na teren dawnej kopalni | 9:00 Pobierasz próbki gleby z kilku punktów | 12:30 Oceniasz, czy wody są zanieczyszczone | 15:00 Piszesz zalecenia dotyczące rekultywacji
+Y: Znajdź w okolicy zdegradowane lub zaniedbane miejsce i zapisz trzy pomysły, jak je odnowić.
+
+@1998
+H: Badasz, ile jest wody w rzekach, strumieniach i źródłach i jaka ona jest. Pomagasz planować, jak dostarczać wodę miastom bez wyczerpywania zasobów.
+T: Mierzysz przepływ i jakość wody w rzekach | Badasz dostawy ze źródeł i strumieni | Planujesz zaopatrzenie miast w wodę | Opracowujesz dane razem z zespołem specjalistów
+D: 7:00 Jedziesz nad rzekę do punktu pomiarowego | 9:00 Mierzysz poziom i prędkość wody | 12:00 Pobierasz próbkę do badań jakości | 15:00 Wpisujesz dane i porównujesz z zeszłym rokiem
+Y: Obserwuj przez dziesięć minut, jak woda spływa po ulicy lub trawniku po deszczu, i narysuj jej drogę.
+
+@1999
+H: Badasz, którędy płynie woda w podziemiach kopalni i jak jest czysta. Dbasz o to, żeby wyrobiska nie były zalewane, a wody gruntowe nie zostały zanieczyszczone.
+T: Badasz przepływ wód podziemnych w kopalni | Oceniasz jakość wody w wyrobiskach | Zapewniasz wodę potrzebną do procesów | Chronisz wody gruntowe przed zanieczyszczeniem
+D: 6:30 Sprawdzasz odczyty ze studni pomiarowych | 8:30 Schodzisz do wyrobiska, gdzie sączy się woda | 12:00 Pobierasz próbkę wody do badań | 14:30 Oceniasz ryzyko zalania i piszesz zalecenia
+Y: Wlej wodę do słoika z ziemią, piaskiem lub żwirem i zmierz, jak szybko przesiąka.
+
+@2000
+H: Badasz morza i oceany: fale, skład wody, życie pod powierzchnią albo dno morskie. Zależnie od specjalizacji spędzasz czas na statku badawczym albo w laboratorium.
+T: Mierzysz fale, prądy i pływy | Badasz skład chemiczny wody morskiej | Obserwujesz organizmy i ekosystemy pod wodą | Analizujesz osady z dna morza
+D: 6:00 Wypływasz statkiem badawczym na punkt pomiarowy | 8:00 Opuszczasz sondę i pobierasz wodę | 13:00 Segregujesz próbki i opisujesz je | 20:00 Wpisujesz dane do dziennika pomiarów
+Y: Wlej do przezroczystej szklanki wodę i dodaj łyżkę soli, a potem opisz różnicę w smaku i wyglądzie z zwykłą wodą.
+
+@2001
+H: Badasz skamieniałości i odtwarzasz, jak wyglądało życie na Ziemi miliony lat temu. Z kości, odcisków i pyłków wyczytujesz, jak żyły dawne organizmy i jaki był klimat.
+T: Wykopujesz skamieniałości w terenie | Oczyszczasz i opisujesz znalezione szczątki | Porównujesz organizmy dawne i współczesne | Odtwarzasz dawny klimat z pyłków i odcisków
+D: 6:30 Dojeżdżasz na stanowisko wykopaliskowe | 8:00 Odsłaniasz kość pędzelkiem i szpachelką | 13:00 Fotografujesz i mierzysz znalezisko | 17:00 W muzeum porównujesz je z okazami
+Y: Znajdź w domu lub w ogrodzie muszlę, liść albo kamień i zrób dokładny rysunek jego struktury.
+
+@2002
+H: Badasz drgania skorupy ziemskiej i fale sejsmiczne wywoływane przez trzęsienia ziemi, wulkany czy ruchy płyt. Swoje wyniki przekazujesz tak, żeby budowle i infrastruktura były bezpieczniejsze.
+T: Analizujesz zapisy ruchów skorupy ziemskiej | Badasz ruchy płyt tektonicznych | Lokalizujesz źródła trzęsień ziemi | Doradzasz budowniczym, jak chronić konstrukcje
+D: 8:00 Sprawdzasz nocne zapisy ze stacji pomiarowych | 10:00 Lokalizujesz małe wstrząsy na mapie | 13:00 Piszesz opinię dla inżynierów budowy | 16:00 W razie silnego wstrząsu sprawdzasz alarmy
+Y: Połóż ciężką książkę na stole i delikatnie stuknij w blat obok, a potem opisz, jak drgania się rozchodzą.
+
+@2003
+H: Badasz Ziemię od środka, ale bez kopania: mierzysz grawitację, drgania i pole elektromagnetyczne. Na podstawie pomiarów ustalasz, co jest pod powierzchnią.
+T: Mierzysz grawitację i drgania gruntu | Używasz fal do prześwietlania warstw ziemi | Rysujesz przekroje budowy podziemnej | Ustalasz skład i strukturę pod ziemią
+D: 7:00 Wyznaczasz linię pomiarową w terenie | 9:00 Rozkładasz czujniki co kilka metrów | 13:00 Zbierasz zapisy z pomiarów | 16:00 Zamieniasz dane na przekrój podziemia
+Y: Zrzuć kamyk do wody w misce i zaobserwuj, jak rozchodzą się fale, a potem narysuj ich kształt.
+
+@2004
+H: Identyfikujesz i klasyfikujesz minerały: sprawdzasz ich budowę, twardość i inne cechy. Porównujesz próbki i potwierdzasz, czym naprawdę są.
+T: Pobierasz i przygotowujesz próbki minerałów | Określasz budowę i właściwości minerałów | Klasyfikujesz i nazywasz znalezione okazy | Opisujesz wyniki testów w raportach
+D: 8:00 Odbierasz paczkę próbek z terenu | 9:30 Oglądasz kryształy pod mikroskopem | 12:30 Sprawdzasz twardość i połysk okazów | 15:00 Wpisujesz klasyfikację do katalogu
+Y: Weź dwa kamienie, oceń, który jest twardszy, próbując zarysować jednym drugi, i zapisz wynik.
+
+@2005
+H: Badasz w laboratorium budowę i właściwości substancji. Wyniki wykorzystujesz do ulepszania produktów i procesów w przemyśle.
+T: Analizujesz skład substancji w laboratorium | Testujesz jakość gotowych produktów | Przekładasz wyniki na procesy produkcji | Oceniasz wpływ produktów na środowisko
+D: 7:30 Przygotowujesz próbki do badań | 9:00 Uruchamiasz aparaturę i notujesz pomiary | 12:00 Analizujesz wyniki partii produkcyjnej | 14:30 Omawiasz poprawki procesu z technologami
+Y: Sprawdź etykiety trzech produktów domowych i porównaj, które składniki powtarzają się w każdym z nich.
+
+@2006
+H: Tworzysz nowe produkty chemiczne według potrzeb klienta, dobierając składniki i proporcje. Potem sprawdzasz, czy receptura działa tak, jak powinna.
+T: Opracowujesz receptury produktów | Dopracowujesz proces ich przygotowania | Testujesz skuteczność każdej receptury | Dostosowujesz skład do oczekiwań klienta
+D: 8:00 Czytasz wymagania klienta wobec nowego produktu | 9:30 Odmierzasz składniki do próbnej partii | 12:30 Porównujesz wyniki trzech wersji receptury | 15:00 Zapisujesz poprawioną recepturę w dokumentacji
+Y: Zapisz dokładną recepturę ulubionej kanapki z ilościami, a potem zmień jeden składnik i opisz efekt.
+
+@2007
+H: Opracowujesz receptury kosmetyków, takich jak szminki, mydła, perfumy czy farby do włosów. Tworzysz je od zera, testujesz i poprawiasz tak, żeby były skuteczne i przyjemne w użyciu.
+T: Opracowujesz receptury kosmetyków | Testujesz trwałość, zapach i konsystencję | Poprawiasz istniejące produkty | Sprawdzasz właściwości mydeł i detergentów
+D: 8:30 Przeglądasz wyniki testów nowego kremu | 10:00 Przygotowujesz próbną partię mydła | 13:00 Oceniasz zapach i konsystencję próbek | 15:30 Zmieniasz recepturę po uwagach testerów
+Y: Porównaj w domu dwa kosmetyki: opisz zapach, konsystencję i łatwość rozprowadzania każdego z nich.
+
+@2008
+H: Badasz skład chemiczny substancji i sprawdzasz, jak zachowują się w różnych warunkach. Twoje wnioski pomagają zrozumieć, jak działają substancje o znaczeniu medycznym.
+T: Opisujesz skład chemiczny substancji | Badasz ich zachowanie w różnych warunkach | Wyciągasz wnioski z wyników badań | Dokumentujesz eksperymenty w laboratorium
+D: 8:00 Planujesz serię doświadczeń na dziś | 9:30 Przygotowujesz próbki substancji do badania | 12:00 Obserwujesz, jak zmieniają się w innej temperaturze | 15:00 Opisujesz wnioski w raporcie
+Y: Przechowaj plasterek jabłka przez dziesięć minut na powietrzu i zapisz, jak zmienia się jego kolor.
+
+@2009
+H: Nadzorujesz procesy chemiczne w produkcji tkanin i przędzy, takie jak barwienie i wykańczanie. Pilnujesz, żeby kolor, trwałość i wygląd materiału były takie, jak trzeba.
+T: Nadzorujesz barwienie przędzy i tkanin | Kontrolujesz wykończenie materiałów | Koordynujesz procesy chemiczne w produkcji | Sprawdzasz zgodność koloru i trwałości
+D: 6:00 Sprawdzasz plan barwienia partii tkanin | 8:00 Kontrolujesz kąpiele barwiące w zakładzie | 11:30 Porównujesz kolor próbki ze wzorcem | 14:00 Poprawiasz parametry wykończenia materiału
+Y: Obejrzyj trzy ubrania z domu i zapisz, który materiał jest najbardziej odporny na zagniecenia.

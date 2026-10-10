@@ -1,0 +1,180 @@
+@1500
+H: Kierujesz zespołem w sadzie, układasz codzienny plan prac i sprawdzasz, czy wszystko jest zrobione w porę. Pracujesz też przy drzewach razem z ekipą, więc nie siedzisz tylko za biurkiem.
+T: Układasz dzienny plan prac w sadzie | Organizujesz zbiory owoców i ekipę | Sprawdzasz stan drzew i owoców | Pracujesz razem z zespołem przy drzewach
+D: 6:00 Rozdzielasz zadania przed wyjściem do sadu | 8:00 Razem z ekipą przycinasz młode jabłonie | 11:00 Oceniasz, czy owoce są już gotowe do zbioru | 15:00 Organizujesz skrzynki i transport zebranych owoców
+Y: Obejrzyj owoc w kuchni i opisz po kolorze, zapachu i twardości, czy jest dojrzały.
+
+@1501
+H: Nadzorujesz prace w winnicy, żeby winogrona wyrosły w dobrej jakości, i odpowiadasz za zespół, w tym za pracowników sezonowych. Najwięcej dzieje się w czasie zbiorów, gdy liczy się każdy dzień.
+T: Organizujesz prace przy krzewach winorośli | Prowadzisz pracowników sezonowych | Decydujesz, kiedy zacząć zbiory | Obserwujesz winogrona i pogodę
+D: 6:00 Odprawa z sezonowymi pracownikami przed zbiorami | 7:00 Zbiór winogron, kontrolujesz jakość gron | 12:00 Próbujesz winogron i oceniasz ich dojrzałość | 16:00 Organizujesz odwóz winogron do wytwórni
+Y: Spróbuj kilku różnych owoców i opisz ich słodycz, kwaskowatość i miękkość jak degustator.
+
+@1502
+H: Odpowiadasz za całą winnicę i wytwórnię wina, od uprawy winorośli po sprzedaż. Czasem zajmujesz się też papierami i promocją.
+T: Koordynujesz uprawę i produkcję wina | Rozmawiasz z kierownikami winnicy i piwnicy | Prowadzisz sprawy administracyjne | Promujesz wino i szukasz klientów
+D: 8:00 Przegląd planów upraw z kierownikiem winnicy | 10:30 Rozmowa z piwnicznym o terminie butelkowania | 13:00 Przygotowujesz ofertę dla restauracji | 16:00 Oprowadzasz gości po winnicy i wytwórni
+Y: Zaprojektuj na kartce etykietę fikcyjnego soku winogronowego: nazwę, krótki opis smaku i prosty rysunek.
+
+@1503
+H: Odpowiadasz za piwnicę winiarską od przyjęcia winogron aż po butelkowanie gotowego wina. Pilnujesz, żeby na każdym etapie spełnione były normy jakości i przepisy.
+T: Przyjmujesz winogrona i sprawdzasz ich stan | Kontrolujesz dojrzewanie wina w zbiornikach | Pobierasz próbki i oceniasz jakość | Nadzorujesz butelkowanie i etykietowanie
+D: 7:00 Dostawa winogron, oceniasz partię przed tłoczeniem | 10:00 Sprawdzasz próbki z kilku zbiorników | 13:00 Prowadzisz zapisy wymagane przez kontrolę | 15:30 Nadzorujesz butelkowanie nowej partii
+Y: Wypisz w kolejności etapy od winogrona do butelki i zaznacz, na którym najłatwiej o błąd.
+
+@1504
+H: Obsługujesz maszyny przy uprawie i rozmnażaniu winorośli oraz przy produkcji wina. Wykonujesz konkretne zadania praktyczne, najczęściej według planu przełożonego.
+T: Obsługujesz maszyny do prac w winnicy | Pomagasz w rozmnażaniu odmian winorośli | Obsługujesz sprzęt w wytwórni wina | Czyścisz maszyny po użyciu
+D: 6:30 Wyjeżdżasz maszyną w rzędy winorośli | 9:00 Obsługujesz maszynę przy pielęgnacji krzewów | 13:00 Przechodzisz do wytwórni, obsługujesz urządzenia | 16:00 Czyścisz maszyny i zgłaszasz usterki
+Y: Narysuj schemat drogi winogron od krzewu do tłoczni i podpisz, jaka maszyna wykonuje który etap.
+
+@1505
+H: Sadzisz, uprawiasz i zbierasz chmiel, który trafia między innymi do browarów. Chmiel to pnącze, więc sporo pracy to konstrukcje, po których rośnie.
+T: Sadzisz chmiel wiosną | Kierujesz pędy chmielu po sznurach | Pilnujesz roślin i ich zdrowia latem | Zbierasz i suszysz szyszki chmielu
+D: 6:00 Obchód plantacji, sprawdzasz pędy i liście | 9:00 Kierujesz młode pędy na sznury | 13:00 Naprawiasz słupy i druty na plantacji | 17:00 Pod koniec lata dowozisz szyszki do suszarni
+Y: Poszukaj w okolicy rośliny pnącej, na przykład powoju, i zobacz, jak owija się wokół podpory.
+
+@1506
+H: Opiekujesz się drzewami owocowymi: obserwujesz ich zdrowie, przycinasz je, chronisz przed szkodnikami i zbierasz owoce. Cała praca zależy od pory roku i od pogody.
+T: Oglądasz drzewa w poszukiwaniu chorób | Przycinasz gałęzie dla lepszego owocowania | Chronisz drzewa przed szkodnikami | Zbierasz owoce i sortujesz je
+D: 6:00 Obchód sadu, sprawdzasz liście i pąki | 8:00 Przycinasz gałęzie młodych grusz | 12:00 Znajdujesz szkodniki na liściach i notujesz | 15:00 Zbierasz dojrzałe śliwki i sortujesz skrzynki
+Y: Przyjrzyj się drzewu owocowemu lub krzewowi w okolicy i zapisz trzy oznaki, że jest zdrowe albo chore.
+
+@1507
+H: Prowadzisz zespół pracujący na polach: układasz dzienny plan prac przy uprawach i pracujesz razem z ludźmi. Dużo zależy od pogody, więc plan często się zmienia.
+T: Rozdzielasz zadania na polu między pracowników | Pilnujesz terminów siewu i zbioru | Pracujesz razem z zespołem przy uprawach | Zmieniasz plan, gdy psuje się pogoda
+D: 5:30 Odprawa z ekipą, plan prac na polu | 7:00 Razem z ludźmi sprawdzasz młode rośliny | 11:00 Zapowiada się deszcz, przestawiasz zbiór | 16:00 Zapisujesz, co zrobiono, i planujesz jutro
+Y: Sprawdź prognozę na jutro i zaplanuj trzy prace polowe, które mają sens przy takiej pogodzie.
+
+@1508
+H: Zarządzasz gospodarstwem rolnym: planujesz, co uprawiać, prowadzisz firmę i bierzesz udział w produkcji. Łączysz pracę w polu z papierami i rachunkami.
+T: Planujesz uprawy na cały sezon | Zamawiasz nasiona, nawozy i paliwo | Pracujesz przy siewie i zbiorze | Prowadzisz rachunki gospodarstwa
+D: 6:00 Obchód pól, sprawdzasz stan upraw po deszczu | 8:00 Jedziesz ciągnikiem na siew pola | 13:00 Rozmowa z kupcem zboża o terminie dostawy | 17:00 Wieczorem prowadzisz rachunki i planujesz prace
+Y: Rozpisz na kartce plan roku w gospodarstwie: kolejne miesiące i po jednej pracy polowej w każdym.
+
+@1509
+H: Odpowiadasz za bezpieczne zakotwiczenie dużych sadzów, czyli pływających klatek do hodowli ryb, na wodach otwartych. Musisz uwzględniać prądy, fale i ukształtowanie dna.
+T: Planujesz sposób cumowania sadzów | Sprawdzasz prądy, fale i ukształtowanie dna | Nadzorujesz ekipę przy zakładaniu cum | Kontrolujesz stan lin, kotwic i łańcuchów
+D: 6:30 Odprawa i sprawdzenie prognozy fal | 8:00 Wypływasz łodzią do sadzów | 11:00 Ekipa układa cumy, ty pilnujesz kolejności | 15:00 Notujesz zużycie lin i planujesz wymianę
+Y: Zawiąż na sznurku trzy proste węzły i sprawdź, który najmocniej trzyma zawieszony kubek.
+
+@1510
+H: Kierujesz dużą wylęgarnią, w której z ikry wykluwają się ryby i skorupiaki. Planujesz tarło, inkubację i pierwsze karmienie, tak by młode przeżyły.
+T: Planujesz tarło ryb i skorupiaków | Nadzorujesz inkubację ikry | Kontrolujesz wczesne karmienie młodych | Koordynujesz pracę techników wylęgarni
+D: 7:00 Przegląd zbiorników z ikrą i larwami | 9:30 Odprawa z technikami, plan tarła | 13:00 Oceniasz, ile młodych przeżyło wylęg | 16:00 Aktualizujesz harmonogram produkcji na kolejne tygodnie
+Y: Zaplanuj na kartce harmonogram od tarła do pierwszego karmienia dla wymyślonej ryby, w tygodniach.
+
+@1511
+H: Pomagasz w hodowli organizmów wodnych w zbiornikach na lądzie, na wszystkich etapach ich życia. Wykonujesz codzienne prace przy karmieniu i opiece nad nimi.
+T: Karmisz ryby w zbiornikach | Sprzątasz baseny i filtry | Sortujesz osobniki według wielkości | Zauważasz martwe lub chore sztuki
+D: 6:30 Karmienie ryb w zbiornikach, sprawdzasz apetyt | 9:00 Czyścisz baseny i wymieniasz część wody | 12:00 Sortujesz młode według wielkości | 15:00 Wyławiasz martwe sztuki i notujesz ich liczbę
+Y: Obserwuj akwarium lub nagranie ryb przez kwadrans i zapisz, kiedy jedzą i jak się poruszają.
+
+@1512
+H: Zajmujesz się najmłodszymi stadiami ryb i skorupiaków w lądowej wylęgarni. Gdy trzeba, wypuszczasz młode do wody.
+T: Pilnujesz ikry w inkubatorach | Karmisz bardzo małe larwy | Wybierasz z ikry martwe jaja | Wypuszczasz młode do wody, gdy trzeba
+D: 6:00 Sprawdzasz ikrę w inkubatorach | 8:30 Pierwsze karmienie świeżo wyklutych larw | 12:00 Przenosisz młode do większych zbiorników | 15:00 Ładujesz narybek do wypuszczenia do rzeki
+Y: Narysuj ikrę, larwę i młodą rybę tego samego gatunku i opisz, czym się różnią.
+
+@1513
+H: Specjalizujesz się w karmieniu i pilnowaniu stada hodowlanych ryb lub innych organizmów wodnych. Odpowiadasz za to, żeby zwierzęta rosły równo i zdrowo.
+T: Ustalasz dawki karmy dla stada | Mierzysz i ważysz próbki zwierząt | Obserwujesz zachowanie i apetyt ryb | Zapisujesz wzrost i zużycie karmy
+D: 6:30 Karmisz stado według wyliczonej dawki | 9:00 Wyławiasz próbkę i ważysz osobniki | 12:30 Porównujesz wzrost z planem hodowli | 15:00 Zmieniasz dawkę karmy w jednym basenie
+Y: Policz dzienną porcję karmy dla dwudziestu ryb, jeśli każda dostaje dwa gramy, i zapisz wynik.
+
+@1514
+H: Odławiasz ryby i inne organizmy z hodowli, obsługując duże urządzenia i maszyny dobrane do gatunku. Pilnujesz, żeby zwierzęta nie ucierpiały podczas odłowu.
+T: Przygotowujesz sieci i urządzenia do odłowu | Obsługujesz maszyny do wyławiania zwierząt | Sortujesz złowione sztuki według rozmiaru | Sprawdzasz sprzęt po zakończeniu odłowu
+D: 5:00 Przygotowujesz sprzęt przed odłowem w stawie | 6:30 Obsługujesz urządzenie, które wyławia ryby | 10:00 Sortujesz ryby i ładujesz na transport | 14:00 Myjesz i sprawdzasz maszyny po odłowie
+Y: Wyłów sitkiem z miski z wodą dziesięć małych pływających przedmiotów i zapisz, co ułatwiło zadanie.
+
+@1515
+H: Obsługujesz zamknięte systemy, w których woda do hodowli ryb jest oczyszczana i używana ponownie. Pilnujesz pomp, napowietrzania, ogrzewania, filtrów i zasilania awaryjnego.
+T: Sprawdzasz pompy i napowietrzanie | Kontrolujesz filtry biologiczne i temperaturę wody | Testujesz zasilanie awaryjne | Reagujesz na alarmy systemu
+D: 6:00 Obchód hali, sprawdzasz pompy i alarmy | 9:00 Mierzysz parametry wody w kilku zbiornikach | 13:00 Płuczesz filtry i sprawdzasz przepływ | 21:00 Dyżur: sprawdzasz alarmy i zasilanie awaryjne
+Y: Narysuj obieg wody w układzie zamkniętym: zbiornik, pompa, filtr i powrót do zbiornika.
+
+@1516
+H: Wychowujesz młode ryby i inne organizmy wodne: pilnujesz ich wzrostu, przestawiasz na inny pokarm i przenosisz między zbiornikami. Najmłodsze stadia są wrażliwe, więc liczy się każdy drobiazg.
+T: Sprawdzasz wzrost młodych osobników | Przestawiasz młode na inny pokarm | Sortujesz je według wielkości | Zauważasz wczesne objawy choroby
+D: 7:00 Karmienie młodych w małych zbiornikach | 9:30 Liczysz i mierzysz próbkę narybku | 12:00 Przestawiasz grupę na nowy rodzaj paszy | 15:30 Przesadzasz większe osobniki do osobnego basenu
+Y: Zmierz wysokość rośliny doniczkowej i ułóż tabelkę, w której będziesz notować jej wzrost.
+
+@1517
+H: Hodujesz organizmy wodne w konstrukcjach zawieszonych w wodzie, takich jak tratwy, liny czy drewniane pale. Koordynujesz tuczenie, zbierasz zwierzęta do sprzedaży i pilnujesz sprzętu.
+T: Kontrolujesz tratwy, liny i pale hodowlane | Nadzorujesz tuczenie zwierząt w wodzie | Wyjmujesz i przetwarzasz zwierzęta do sprzedaży | Organizujesz konserwację sprzętu i konstrukcji
+D: 6:00 Łodzią dopływasz do tratw hodowlanych | 8:30 Sprawdzasz, jak rosną organizmy na linach | 12:00 Wyciągasz partię i przetwarzasz na brzegu | 15:00 Naprawiasz uszkodzone liny i pale
+Y: Zrób z patyków, sznurka i butelki mały model pływającej tratwy i sprawdź w misce, czy się utrzymuje.
+
+@1518
+H: Pracujesz przy hodowli ryb w sadzach, czyli pływających klatkach w wodzie słodkiej, słonawej albo słonej. Odpowiadasz za podchów, czyli wychowanie młodych ryb, w takich warunkach.
+T: Karmisz ryby w sadzach | Kontrolujesz siatki i stan sadzów | Obserwujesz zachowanie i zdrowie ryb | Mierzysz jakość i temperaturę wody
+D: 6:30 Wypływasz do sadzów i sprawdzasz sieci | 8:00 Karmisz ryby w kilku sadzach po kolei | 11:30 Notujesz temperaturę wody i zachowanie ryb | 14:30 Zgłaszasz dziurę w sieci do naprawy
+Y: Sprawdź w internecie, czym różni się woda słodka, słonawa i słona, i zapisz po jednym przykładzie.
+
+@1519
+H: Obsługujesz wszystkie etapy wylęgarni: zaczynasz od stada zarodowego, czyli dorosłych ryb dających ikrę, a kończysz na wychowie młodych. Pilnujesz parametrów i odpowiadasz za techniczne działanie procesu.
+T: Zarządzasz stadem ryb dających ikrę | Prowadzisz kontrolowane tarło i zapładnianie ikry | Kontrolujesz wylęg i warunki w inkubatorach | Wychowujesz młode w pierwszych tygodniach życia
+D: 7:00 Sprawdzasz stado zarodowe i parametry wody | 9:30 Prowadzisz tarło u wybranych ryb | 13:00 Kontrolujesz inkubatory i usuwasz martwą ikrę | 16:00 Zapisujesz dane i planujesz kolejną partię
+Y: Znajdź w sieci zdjęcia ikry różnych ryb i opisz, czym różni się wielkością i kolorem.
+
+@1520
+H: Dowodzisz statkiem rybackim w strefie przybrzeżnej: prowadzisz nawigację, pilnujesz pracy na pokładzie i w maszynowni oraz łowisz zgodnie z przepisami. Odpowiadasz za bezpieczeństwo załogi.
+T: Wyznaczasz kurs i nawigujesz przy brzegu | Kierujesz pracą załogi na pokładzie | Sprawdzasz silnik i sprzęt w maszynowni | Pilnujesz limitów i obszarów połowu
+D: 4:00 Wypływasz z portu na łowisko | 6:00 Załoga wyrzuca sieci, ty trzymasz kurs | 11:00 Sortujecie połów i chłodzicie ryby lodem | 15:00 Wracasz do portu i zapisujesz połów w dzienniku
+Y: Znajdź na mapie dowolny port rybacki i zaplanuj trasę wypłynięcia, zaznaczając trzy punkty orientacyjne.
+
+@1521
+H: Pracujesz na dużym statku rybackim, który może łowić na otwartym morzu. Planujesz i nadzorujesz połów, prowadzisz nawigację oraz pilnujesz załadunku i przechowywania ryb.
+T: Planujesz połowy i trasę statku | Nadzorujesz załadunek i rozmieszczenie ładunku | Kontrolujesz przetwarzanie i chłodzenie połowu | Prowadzisz i kontrolujesz nawigację statku
+D: 5:00 Wachta na mostku, sprawdzasz kurs | 8:00 Nadzorujesz wyciąganie sieci z rybami | 13:00 Kontrolujesz przetwarzanie i zamrażanie ryb | 22:00 Nocna wachta, notujesz pozycję i połów
+Y: Ułóż w pudle po butach kilka przedmiotów tak, by nic się nie przesuwało, gdy nim potrząśniesz.
+
+@1522
+H: Łowisz ryby głębinowe z pokładu statku, używając sieci i innego sprzętu. Połów od razu przetwarzasz i konserwujesz: solisz, chłodzisz lodem albo zamrażasz.
+T: Zarzucasz i wyciągasz sieci | Sortujesz i oczyszczasz złowione ryby | Solisz, chłodzisz lub zamrażasz połów | Naprawiasz sieci i sprzęt połowowy
+D: 4:30 Pobudka, sprawdzasz sprzęt przed zarzuceniem sieci | 6:00 Zarzucasz sieci, brzegu już nie widać | 12:00 Sortujesz i zamrażasz połów w ładowni | 20:00 Naprawiasz rozdartą sieć mimo kołysania statku
+Y: Spleć z kawałka sznurka lub włóczki kilkanaście oczek prostej sieci według opisu z internetu.
+
+@1523
+H: Tropisz zwierzynę i podchodzisz ją cicho, żeby ją schwytać lub upolować, czasem w ramach zarządzania liczebnością dzikich zwierząt. Używasz broni lub sideł, więc ogromne znaczenie mają przepisy i bezpieczeństwo.
+T: Czytasz tropy i ślady zwierząt | Cicho podchodzisz do zwierzyny | Obsługujesz broń zgodnie z przepisami | Zajmujesz się upolowaną zwierzyną
+D: 4:30 Wychodzisz przed świtem na wyznaczony teren | 6:00 Czekasz bez ruchu, obserwujesz łąkę | 10:00 Tropisz ślady zwierzyny w lesie | 17:00 Przygotowujesz upolowane zwierzę do transportu
+Y: Przez kwadrans cicho obserwuj ptaki za oknem lub w ogrodzie i zapisz, jak reagują na ruch.
+
+@1524
+H: Łowisz ryby z małej łodzi niedaleko brzegu i odpowiadasz za nawigację, silnik, sieci i pierwszą obróbkę połowu. Musisz znać przepisy krajowe i międzynarodowe oraz zasady bezpieczeństwa.
+T: Wypływasz małą łodzią i prowadzisz ją | Zastawiasz i wybierasz sieci przy brzegu | Sprawdzasz silnik i sprzęt przed rejsem | Układasz ryby w skrzynkach z lodem
+D: 4:00 Sprawdzasz silnik i paliwo na łodzi | 5:00 Wypływasz na łowisko blisko brzegu | 9:00 Wybierasz sieci i sortujesz ryby | 12:00 Wracasz do portu i czyścisz łódź
+Y: Zapisz nazwy trzech ryb żyjących w pobliżu wybrzeża Bałtyku i wymyśl, czym różnią się wyglądem.
+
+@1525
+H: Opiekujesz się końmi i kucami: karmisz je, poisz, czyścisz i pilnujesz, czy są zdrowe. Pracujesz w stajni lub na pastwisku, także w weekendy, bo zwierzęta potrzebują opieki codziennie.
+T: Karmisz konie i kuce o stałych porach | Wypuszczasz zwierzęta na pastwisko | Czyścisz kopyta i szczotkujesz sierść | Zauważasz kulawiznę lub zmianę apetytu
+D: 6:30 Śniadanie dla koni, sprawdzasz, które jedzą wolniej | 8:30 Wypuszczasz konie i kuce na pastwisko | 12:00 Szczotkujesz konia i czyścisz mu kopyta | 17:00 Sprowadzasz konie z pastwiska do boksów
+Y: Znajdź schemat konia i naucz się z pamięci nazw sześciu jego części ciała.
+
+@1526
+H: Opiekujesz się zwierzętami gospodarskimi: karmisz je, poisz i codziennie sprawdzasz, czy są zdrowe. Pracujesz w oborach, chlewniach lub kurnikach, rano i wieczorem.
+T: Rozdajesz paszę i uzupełniasz wodę | Sprawdzasz, czy zwierzęta nie kuleją i jedzą | Wymieniasz ściółkę w boksach | Zapisujesz zmiany w zdrowiu stada
+D: 5:30 Poranne karmienie i pojenie zwierząt | 8:00 Obchód boksów, szukasz chorych sztuk | 13:00 Zmieniasz słomę i sprzątasz stanowiska | 17:00 Wieczorne karmienie i ostatni obchód
+Y: Wypisz po pięć oznak, że zwierzę gospodarskie jest zdrowe i że coś jest nie tak.
+
+@1527
+H: Codziennie dbasz o konie w stajni: sprzątasz boksy, karmisz je i ćwiczysz, żeby były zdrowe i bezpieczne. Utrzymujesz też porządek w budynkach i wokół stajni.
+T: Sprzątasz boksy i zmieniasz ściółkę | Wyprowadzasz konie na ćwiczenia | Karmisz konie według planu | Utrzymujesz porządek w budynkach i na placu
+D: 6:00 Karmisz konie i wynosisz obornik z boksów | 9:00 Prowadzisz konia na ćwiczenia na lonży | 13:00 Zamiatasz korytarz stajni i uzupełniasz siano | 17:00 Wprowadzasz konie do boksów na noc
+Y: Ułóż harmonogram jednego dnia stajni dla dziesięciu koni: karmienie, sprzątanie, ćwiczenia i odpoczynek.
+
+@1528
+H: Wyłapujesz ptaki w halach hodowlanych i wkładasz je do skrzyń, żeby mogły zostać przewiezione. To ciężka fizyczna praca, często w nocy lub nad ranem, w zakurzonej i głośnej hali.
+T: Łapiesz ptaki w hali hodowlanej | Układasz je ostrożnie w skrzyniach | Przenosisz pełne skrzynie do ciężarówki | Uważasz, żeby nie połamać skrzydeł i nóg
+D: 0:30 Dojeżdżasz na fermę i dostajesz instrukcje | 1:30 Wchodzisz do półmrocznej hali i łapiesz kury | 4:00 Ładujecie pełne skrzynie na samochód | 6:30 Rozliczacie liczbę skrzyń i kończysz zmianę
+Y: Przenieś po jednym pięć miękkich zabawek do pudełka, trzymając je delikatnie, bez ściskania i rzucania.
+
+@1529
+H: Zbierasz z wody i brzegu wodorosty, małże, skorupiaki i inne organizmy wodne, także młode mięczaki. Praca zależy od poziomu wody i pogody.
+T: Zbierasz wodorosty z brzegu lub płycizny | Wybierasz małże i skorupiaki | Sortujesz zebrane organizmy | Układasz zbiór w skrzynkach
+D: 5:30 Dochodzisz na brzeg, oceniasz poziom wody | 7:00 Zbierasz małże i wodorosty z płycizny | 11:00 Sortujesz zbiór i odrzucasz uszkodzone sztuki | 14:00 Pakujesz skrzynki do transportu
+Y: Poszukaj w sieci zdjęć trzech gatunków wodorostów i opisz, czym różnią się kształtem i kolorem.
+

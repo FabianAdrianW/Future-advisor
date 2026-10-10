@@ -1,0 +1,82 @@
+{
+  "Twórca oprogramowania": [
+    {"n": "Przez studia", "s": [["szkola", "Liceum lub technikum z mocną matematyką", 4], ["projekt", "Dwa lub trzy własne małe programy pokazane w sieci", 0], ["studia", "Studia informatyczne (inżynierskie)", 3.5], ["praktyka", "Staż lub praktyki w firmie programistycznej", 0.5]]},
+    {"n": "Przez technikum", "s": [["szkola", "Technikum na kierunku technik programista", 5], ["projekt", "Portfolio: własne aplikacje i kod w sieci", 0], ["praktyka", "Staż albo pierwsza praca jako młodszy programista", 0.5]]},
+    {"n": "Samodzielnie", "s": [["kurs", "Kurs podstaw programowania, np. Python lub JavaScript", 0.5], ["projekt", "Trzy własne projekty, każdy trudniejszy od poprzedniego", 1], ["praktyka", "Staż albo zlecenia dla znajomych i małych firm", 0.5]]}
+  ],
+  "Analityk danych": [
+    {"n": "Przez studia", "s": [["szkola", "Liceum z rozszerzoną matematyką", 4], ["studia", "Studia: matematyka, informatyka, ekonomia lub socjologia", 3], ["projekt", "Własna analiza publicznego zbioru danych", 0], ["praktyka", "Staż w dziale analiz", 0.5]]},
+    {"n": "Kursy i projekty", "s": [["kurs", "Arkusz kalkulacyjny, potem SQL", 0.5], ["kurs", "Podstawy statystyki i czytelnych wykresów", 0.5], ["projekt", "Trzy analizy na prawdziwych danych, opisane w sieci", 0.5], ["praktyka", "Staż lub stanowisko młodszego analityka", 0.5]]}
+  ],
+  "Projektant interfejsu użytkownika": [
+    {"n": "Kursy i portfolio", "s": [["kurs", "Kurs projektowania interfejsów i obsługi Figmy", 0.5], ["projekt", "Przeprojektuj trzy istniejące aplikacje", 0.5], ["projekt", "Portfolio z opisem, dlaczego tak, a nie inaczej", 0], ["praktyka", "Staż w zespole produktowym lub agencji", 0.5]]},
+    {"n": "Przez studia", "s": [["szkola", "Liceum (także plastyczne) lub technikum", 4], ["studia", "Studia: grafika, wzornictwo, informatyka lub psychologia", 3], ["projekt", "Portfolio z projektami aplikacji", 0], ["praktyka", "Staż w zespole produktowym", 0.5]]}
+  ],
+  "Projektant grafiki": [
+    {"n": "Szkoła plastyczna", "s": [["szkola", "Liceum sztuk plastycznych", 5], ["projekt", "Portfolio: plakaty, logo, identyfikacje", 0], ["praktyka", "Praktyki w studiu graficznym lub drukarni", 0.5]]},
+    {"n": "Przez studia", "s": [["szkola", "Liceum lub technikum", 4], ["studia", "Studia graficzne lub projektowe", 3], ["projekt", "Portfolio z najlepszymi pracami", 0], ["praktyka", "Staż w agencji lub studiu", 0.5]]},
+    {"n": "Samodzielnie", "s": [["kurs", "Kurs programów graficznych", 0.5], ["projekt", "Zlecenia dla szkoły, znajomych i lokalnych firm", 1], ["projekt", "Portfolio w sieci", 0]]}
+  ],
+  "Twórca gier komputerowych": [
+    {"n": "Przez studia", "s": [["szkola", "Liceum lub technikum informatyczne", 4], ["studia", "Studia informatyczne lub kierunek związany z grami", 3.5], ["projekt", "Ukończona mała gra i udział w game jamie", 0], ["praktyka", "Staż w studiu gier, często jako tester", 0.5]]},
+    {"n": "Samodzielnie", "s": [["kurs", "Kurs darmowego silnika gier", 0.5], ["projekt", "Trzy małe, ukończone gry", 1], ["projekt", "Game jam: gra zrobiona w weekend, w zespole", 0], ["praktyka", "Pierwsza praca w studiu, np. jako tester", 0.5]]}
+  ],
+  "Operator dźwięku": [
+    {"n": "Przez technikum", "s": [["szkola", "Technikum na kierunku realizacji nagrań", 5], ["praktyka", "Praktyki przy koncertach lub w studiu", 0.5]]},
+    {"n": "Od praktyki", "s": [["praktyka", "Pomoc przy nagłośnieniu w szkole lub domu kultury", 1], ["kurs", "Kurs realizacji dźwięku i programów do montażu", 0.5], ["projekt", "Własne nagrania i miksy do pokazania", 0], ["praktyka", "Praca pomocnika w firmie nagłośnieniowej", 1]]}
+  ],
+  "Dziennikarz": [
+    {"n": "Przez studia", "s": [["szkola", "Liceum, najlepiej z mocnym polskim i WOS-em", 4], ["studia", "Studia: dziennikarstwo albo dziedzina, o której chcesz pisać", 3], ["projekt", "Własne teksty, podcast lub kanał", 0], ["praktyka", "Praktyki w redakcji", 0.5]]},
+    {"n": "Od redakcji", "s": [["projekt", "Gazetka szkolna, blog albo podcast", 1], ["praktyka", "Praktyki lub współpraca z lokalną redakcją", 1], ["projekt", "Teczka opublikowanych materiałów", 0]]}
+  ],
+  "Radca prawny": [
+    {"n": "Studia i aplikacja", "s": [["szkola", "Liceum z mocną historią, WOS-em i polskim", 4], ["studia", "Studia prawnicze", 5], ["egzamin", "Egzamin wstępny na aplikację", 0], ["praktyka", "Aplikacja radcowska", 3], ["egzamin", "Egzamin radcowski i wpis na listę", 0.5]]}
+  ],
+  "Psycholog": [
+    {"n": "Studia psychologiczne", "s": [["szkola", "Liceum; przyda się biologia", 4], ["studia", "Jednolite studia magisterskie z psychologii", 5], ["praktyka", "Staż lub wolontariat w poradni, szkole albo szpitalu", 1], ["kurs", "Szkolenia w wybranej dziedzinie, np. klinicznej lub szkolnej", 1]]}
+  ],
+  "Nauczyciel w szkole podstawowej/nauczycielka w szkole podstawowej": [
+    {"n": "Klasy 4–8", "s": [["szkola", "Liceum", 4], ["praktyka", "Korepetycje albo opieka na półkoloniach", 0], ["studia", "Studia z wybranego przedmiotu z przygotowaniem pedagogicznym", 5], ["praktyka", "Praktyki w szkole w trakcie studiów", 0]]},
+    {"n": "Klasy 1–3", "s": [["szkola", "Liceum", 4], ["praktyka", "Korepetycje albo opieka na półkoloniach", 0], ["studia", "Jednolite studia: pedagogika przedszkolna i wczesnoszkolna", 5], ["praktyka", "Praktyki w szkole w trakcie studiów", 0]]}
+  ],
+  "Pielęgniarz/pielęgniarka praktyki ogólnej": [
+    {"n": "Studia pielęgniarskie", "s": [["szkola", "Liceum, najlepiej z biologią i chemią", 4], ["kurs", "Kurs pierwszej pomocy", 0], ["studia", "Studia licencjackie z pielęgniarstwa z praktykami w szpitalu", 3], ["egzamin", "Prawo wykonywania zawodu", 0]]}
+  ],
+  "Lekarz podstawowej opieki zdrowotnej": [
+    {"n": "Studia lekarskie", "s": [["szkola", "Liceum z rozszerzoną biologią i chemią", 4], ["studia", "Studia lekarskie", 6], ["praktyka", "Staż podyplomowy", 1], ["egzamin", "Lekarski Egzamin Końcowy", 0], ["praktyka", "Specjalizacja z medycyny rodzinnej", 4]]}
+  ],
+  "Lekarz weterynarii": [
+    {"n": "Studia weterynaryjne", "s": [["szkola", "Liceum z biologią i chemią", 4], ["praktyka", "Wolontariat w schronisku lub lecznicy", 0], ["studia", "Studia weterynaryjne", 5.5], ["egzamin", "Prawo wykonywania zawodu", 0]]}
+  ],
+  "Fizjoterapeuta": [
+    {"n": "Studia z fizjoterapii", "s": [["szkola", "Liceum z biologią", 4], ["studia", "Jednolite studia magisterskie z fizjoterapii", 5], ["praktyka", "Praktyka zawodowa po studiach", 0.5], ["egzamin", "Egzamin państwowy i prawo wykonywania zawodu", 0]]}
+  ],
+  "Mechanik pojazdów samochodowych": [
+    {"n": "Szkoła branżowa", "s": [["szkola", "Szkoła branżowa I stopnia: mechanik pojazdów samochodowych", 3], ["praktyka", "Praktyki w warsztacie w trakcie szkoły", 0], ["egzamin", "Egzamin zawodowy", 0]]},
+    {"n": "Technikum", "s": [["szkola", "Technikum: technik pojazdów samochodowych", 5], ["praktyka", "Praktyki w serwisie", 0], ["egzamin", "Egzaminy zawodowe i matura", 0]]}
+  ],
+  "Elektryk": [
+    {"n": "Szkoła branżowa", "s": [["szkola", "Szkoła branżowa I stopnia: elektryk", 3], ["egzamin", "Egzamin zawodowy", 0], ["egzamin", "Uprawnienia elektryczne", 0], ["praktyka", "Praca pod okiem doświadczonego elektryka", 1]]},
+    {"n": "Technikum", "s": [["szkola", "Technikum: technik elektryk", 5], ["egzamin", "Egzaminy zawodowe i uprawnienia elektryczne", 0], ["praktyka", "Praca pod okiem doświadczonego elektryka", 1]]}
+  ],
+  "Kucharz/kucharka": [
+    {"n": "Szkoła branżowa", "s": [["szkola", "Szkoła branżowa I stopnia: kucharz", 3], ["praktyka", "Praktyki w restauracji w trakcie szkoły", 0], ["egzamin", "Egzamin zawodowy", 0], ["praktyka", "Praca jako pomoc kuchenna i awans na własne stanowisko", 1]]},
+    {"n": "Technikum", "s": [["szkola", "Technikum żywienia i usług gastronomicznych", 5], ["praktyka", "Praktyki w restauracji lub hotelu", 0], ["egzamin", "Egzaminy zawodowe", 0]]}
+  ],
+  "Fryzjer/fryzjerka": [
+    {"n": "Szkoła branżowa", "s": [["szkola", "Szkoła branżowa I stopnia: fryzjer", 3], ["praktyka", "Praktyki w salonie w trakcie szkoły", 0], ["egzamin", "Egzamin zawodowy lub czeladniczy", 0]]},
+    {"n": "Technikum", "s": [["szkola", "Technikum usług fryzjerskich", 5], ["praktyka", "Praktyki w salonie", 0], ["egzamin", "Egzaminy zawodowe", 0]]}
+  ],
+  "Strażak": [
+    {"n": "Szkoła pożarnicza", "s": [["szkola", "Szkoła średnia z maturą", 4], ["praktyka", "Młodzieżowa drużyna lub ochotnicza straż pożarna", 0], ["egzamin", "Testy sprawnościowe i rekrutacja", 0], ["studia", "Szkoła aspirantów albo studia w akademii pożarniczej", 2]]},
+    {"n": "Nabór do służby", "s": [["szkola", "Szkoła średnia", 4], ["praktyka", "Ochotnicza straż pożarna i trening kondycji", 0], ["egzamin", "Nabór w komendzie: testy sprawnościowe i rozmowa", 0], ["kurs", "Szkolenie podstawowe strażaka", 0.5]]}
+  ],
+  "Pilot statku powietrznego": [
+    {"n": "Szkoła lotnicza", "s": [["szkola", "Szkoła średnia; ważny angielski, matematyka i fizyka", 4], ["egzamin", "Badania lotniczo-lekarskie", 0], ["kurs", "Licencja turystyczna", 1], ["kurs", "Szkolenie do licencji zawodowej", 1.5], ["praktyka", "Zbieranie godzin w powietrzu, np. jako instruktor", 1]]},
+    {"n": "Studia lotnicze", "s": [["szkola", "Szkoła średnia; ważny angielski, matematyka i fizyka", 4], ["egzamin", "Badania lotniczo-lekarskie", 0], ["studia", "Studia lotnicze ze szkoleniem pilota", 3.5], ["praktyka", "Zbieranie godzin w powietrzu i rekrutacja do linii", 1]]}
+  ],
+  "Inżynier AI": [
+    {"n": "Przez studia", "s": [["szkola", "Liceum lub technikum z mocną matematyką", 4], ["studia", "Studia informatyczne lub pokrewne", 3.5], ["projekt", "Własny asystent lub narzędzie oparte na modelu AI", 0], ["praktyka", "Staż w zespole budującym produkty z AI", 0.5]]},
+    {"n": "Samodzielnie", "s": [["kurs", "Podstawy programowania w Pythonie", 0.5], ["kurs", "Kurs budowania aplikacji z modelami językowymi", 0.5], ["projekt", "Trzy działające projekty pokazane w sieci", 0.5], ["praktyka", "Staż albo zlecenia dla małych firm", 0.5]]}
+  ]
+}

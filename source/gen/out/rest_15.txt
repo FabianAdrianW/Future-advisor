@@ -1,0 +1,180 @@
+@2100
+H: Tworzysz obrazy, animacje lub interaktywne instalacje, w których komputer albo czujnik jest częścią pomysłu. Efekt oglądają ludzie w internecie, na wystawie lub na ekranie.
+T: Szkicujesz pomysł i dobierasz technikę | Tworzysz obraz lub animację na komputerze | Programujesz reakcję pracy na ruch widza | Przygotowujesz pracę do pokazu na wystawie
+D: 9:00 Szkicujesz koncepcję nowej pracy | 11:00 Układasz animację klatka po klatce | 14:00 Testujesz, jak instalacja reaguje na widzów | 17:00 Wysyłasz zdjęcia pracy do galerii
+Y: Narysuj na kartce trzy proste kształty i opisz, jak każdy miałby się ruszać, gdyby ożył na ekranie.
+
+@2101
+H: Decydujesz, jak ma wyglądać kampania, sesja czy spektakl, i pilnujesz, żeby wszyscy pracowali w jednym stylu. Współpracujesz z grafikami, fotografami i klientem.
+T: Opracowujesz wizualną koncepcję projektu | Dobierasz kolory, zdjęcia i styl | Wydajesz zespołowi wskazówki do pracy | Oceniasz gotowe materiały przed oddaniem klientowi
+D: 9:00 Przeglądasz inspiracje z zespołem kreatywnym | 11:00 Pokazujesz klientowi propozycje wyglądu kampanii | 13:30 Na planie zdjęciowym poprawiasz ustawienie kadru | 16:00 Wskazujesz grafikowi, co zmienić w plakacie
+Y: Wybierz plakat lub okładkę, która ci się podoba, i zapisz trzy powody, dla których działa.
+
+@2102
+H: Budujesz w komputerze trójwymiarowe przedmioty, postacie i wirtualne światy, które można obracać i oglądać z każdej strony. Trafiają do gier, filmów i wizualizacji.
+T: Modelujesz bryły postaci i przedmiotów | Nakładasz tekstury i kolory | Ustawiasz światło i kamerę w scenie | Poprawiasz model według uwag zespołu
+D: 9:00 Rzeźbisz w komputerze głowę postaci | 11:30 Malujesz tekstury na modelu | 14:00 Omawiasz z zespołem wygląd lokacji | 16:00 Renderujesz scenę i szukasz błędów
+Y: Weź kubek, obejrzyj go z czterech stron i narysuj, z jakich prostych brył się składa.
+
+@2103
+H: Układasz teksty, zdjęcia i ilustracje na stronach tak, żeby gazeta, ulotka czy książka były czytelne i ładne. Gotowy plik trafia do drukarni.
+T: Układasz tekst i zdjęcia na stronie | Dobierasz czcionki i marginesy | Poprawiasz kolory pod druk | Sprawdzasz plik przed wysłaniem do drukarni
+D: 8:00 Odbierasz teksty i zdjęcia od redakcji | 10:00 Układasz rozkładówkę magazynu | 13:00 Redaktor prosi o krótszy nagłówek, poprawiasz | 15:30 Wysyłasz sprawdzony plik do drukarni
+Y: Zaprojektuj na kartce stronę ulotki szkolnego koła: nagłówek, zdjęcie i krótki tekst.
+
+@2104
+H: Rysujesz obrazy do książek, magazynów i komiksów, które tłumaczą lub dopowiadają tekst. Najpierw czytasz, o czym jest treść, potem wymyślasz, jak to pokazać.
+T: Czytasz tekst i szukasz obrazu | Szkicujesz kilka wersji dla redaktora | Rysujesz gotową ilustrację ręcznie lub cyfrowo | Nanosisz poprawki zamawiającego
+D: 8:30 Czytasz rozdział książki dla dzieci | 10:00 Szkicujesz trzy wersje okładki | 13:00 Kolorujesz stronę komiksu | 16:00 Redaktor odsyła uwagi, poprawiasz rysunek
+Y: Przeczytaj jedno zdanie z ulubionej książki i narysuj do niego ilustrację w 10 minut.
+
+@2105
+H: Wymyślasz zasady, świat i przebieg gry oraz dbasz, żeby nie była ani za łatwa, ani za trudna. Dużo testujesz i liczysz.
+T: Opisujesz zasady i cel gry | Planujesz mapy i mechaniki | Ustawiasz liczby, jak siła i życie postaci | Testujesz grę i zbierasz opinie graczy
+D: 9:30 Spotkanie zespołu o nowej mechanice walki | 11:00 Wpisujesz w tabeli wartości punktów życia | 14:00 Grasz w wersję testową i notujesz błędy | 16:30 Rozmawiasz z testerami o nudnych momentach
+Y: Wymyśl prostą grę na kartce dla dwóch osób, spisz trzy zasady i zagraj jedną rundę.
+
+@2106
+H: Projektujesz zasady i układ gier losowych, zakładów i loterii oraz przedstawiasz je innym. Wymaga to liczenia szans i znajomości przepisów, a same gry są tylko dla dorosłych.
+T: Wymyślasz reguły i strukturę gry | Liczysz szanse wygranej i przegranej | Przygotowujesz prezentację gry dla klienta | Sprawdzasz, czy gra spełnia przepisy
+D: 9:00 Szkicujesz zasady nowej loterii | 11:00 Liczysz prawdopodobieństwa w arkuszu | 13:30 Prezentujesz grę zarządowi firmy | 15:30 Poprawiasz regulamin po uwagach prawnika
+Y: Rzuć monetą dwadzieścia razy, zapisz wyniki i sprawdź, ile razy wypadł orzeł.
+
+@2107
+H: Łączysz grafikę, animację, dźwięk i tekst w jeden produkt, na przykład stronę, aplikację czy pokaz w rzeczywistości wirtualnej. Czasem także programujesz.
+T: Projektujesz wygląd strony lub aplikacji | Edytujesz grafiki, dźwięk i krótkie filmy | Łączysz elementy w gotowy produkt | Testujesz, czy wszystko działa na telefonie
+D: 9:00 Ustalasz z klientem układ aplikacji | 11:00 Animujesz przycisk i ekran startowy | 14:00 Montujesz krótki film do strony | 16:00 Sprawdzasz projekt na kilku telefonach
+Y: Narysuj na kartce trzy ekrany prostej aplikacji do nauki i połącz je strzałkami.
+
+@2108
+H: Tworzysz na komputerze efekty, które w rzeczywistości nie istnieją: wybuchy, magię, tłumy czy smoka. Dodajesz je do filmów, wideo i gier.
+T: Tworzysz animowane wybuchy, dym i magię | Wklejasz wymyślone obiekty w nagrane ujęcia | Dopasowujesz światło i cienie do filmu | Poprawiasz ujęcia, aż efekt wygląda prawdziwie
+D: 9:00 Oglądasz ujęcie i planujesz efekt | 11:00 Animujesz chmurę dymu za bohaterem | 14:00 Dopasowujesz światło smoka do tła | 16:30 Reżyser prosi o poprawki, renderujesz ponownie
+Y: Nagraj telefonem pięć sekund pustego pokoju i opisz, jaki efekt warto by tam dodać.
+
+@2109
+H: Projektujesz obrazy i filmy wyświetlane na scenie, ścianie lub budynku jako część spektaklu czy koncertu. Współpracujesz z reżyserem, scenografem i operatorami.
+T: Wymyślasz koncepcję wyświetlanego obrazu | Nagrywasz i montujesz materiały wideo | Ustawiasz projektory i dopasowujesz obraz | Pilnujesz projekcji podczas próby
+D: 9:00 Omawiasz z reżyserem wizję spektaklu | 11:30 Montujesz film na tył sceny | 15:00 Ustawiasz projektory i sprawdzasz ostrość obrazu | 19:00 Podczas próby korygujesz moment wyświetlenia
+Y: Zaplanuj na kartce trzy obrazy, które pojawiłyby się za aktorem w scenie burzy.
+
+@2110
+H: W animacji 3D decydujesz, jak ustawić kamerę, kadr i światło w każdej scenie. Zamieniasz płaski scenorys na ujęcia w trzech wymiarach.
+T: Czytasz scenorys i plan reżysera | Ustawiasz kamerę wirtualną w scenie | Wybierasz kąt, kadr i oświetlenie | Ustalasz kolejność ujęć z kamerzystą
+D: 9:00 Studiujesz scenorys sceny pościgu | 11:00 Ustawiasz kamerę nad głową bohatera | 14:00 Pokazujesz reżyserowi trzy wersje ujęcia | 16:00 Zmieniasz kąt kamery po jego uwagach
+Y: Narysuj trzy kadry tej samej sceny: z góry, z dołu i z boku.
+
+@2111
+H: Opracowujesz nowe tkaniny i wyroby, od ubrań po tekstylia techniczne do sportu czy medycyny. Dobierasz włókna i właściwości materiału do zastosowania.
+T: Dobierasz włókna do przeznaczenia materiału | Projektujesz wzór i splot tkaniny | Zlecasz próbki i oceniasz je | Opracowujesz dokumentację dla produkcji
+D: 8:30 Oglądasz próbki nowej tkaniny sportowej | 10:30 Projektujesz wzór splotu na komputerze | 13:00 Sprawdzasz, czy materiał dobrze się rozciąga | 15:00 Omawiasz z fabryką termin produkcji
+Y: Porównaj trzy ubrania z szafy: sprawdź skład na metce i oceń, które lepiej oddycha.
+
+@2112
+H: Projektujesz wygląd i kształt przedmiotów codziennych, od zabawek po urządzenia. Produkt ma być ładny, wygodny i możliwy do wyprodukowania.
+T: Szkicujesz nowe pomysły na produkty | Budujesz makiety z kartonu i pianki | Sprawdzasz, czy produkt da się wyprodukować | Pokazujesz projekt zespołowi i klientom
+D: 9:00 Szkicujesz kilka kształtów nowego czajnika | 11:00 Kleisz makietę z pianki | 13:30 Technolog mówi, że forma jest za skomplikowana | 16:00 Poprawiasz projekt i prezentujesz klientowi
+Y: Wybierz codzienny przedmiot, na przykład długopis, i narysuj wersję wygodniejszą w dłoni.
+
+@2113
+H: Przygotowujesz i dobierasz kolory dla tkanin w przemyśle włókienniczym. Pilnujesz, żeby barwa wyszła taka sama w każdej partii materiału.
+T: Dobierasz kolor pod wzór klienta | Przygotowujesz receptury barwienia | Porównujesz próbki z wzorcem | Sprawdzasz trwałość koloru po praniu
+D: 7:00 Dostajesz próbkę koloru od klienta | 9:00 Przygotowujesz recepturę dla nowej partii | 11:30 Porównujesz wybarwioną próbkę z wzorcem | 14:00 Poprawiasz recepturę, bo kolor wyszedł ciemny
+Y: Znajdź w domu trzy ubrania w podobnym kolorze i uszereguj je od najjaśniejszego do najciemniejszego.
+
+@2114
+H: Budujesz z drewna, metalu i tworzyw elementy scenografii do teatru, filmu i na targi. Pracujesz według szkiców, planów i makiet.
+T: Czytasz plany i modele w skali | Tniesz i łączysz drewno oraz metal | Montujesz dekorację w hali lub na scenie | Naprawiasz elementy po spektaklu
+D: 7:30 Czytasz plan ściany do nowego spektaklu | 9:00 Tniesz sklejkę i skręcasz ramę | 12:30 Przewozisz gotowy element na scenę | 16:00 Z projektantem poprawiacie zbyt ciężkie drzwi
+Y: Narysuj z linijką plan prostego pudełka na rekwizyty z wymiarami każdej ścianki.
+
+@2115
+H: Malujesz dekoracje do przedstawień tak, żeby deski wyglądały jak kamień, a płótno jak niebo. Pracujesz na dużych powierzchniach według szkiców projektanta.
+T: Przenosisz szkic projektanta na dużą powierzchnię | Malujesz krajobrazy i iluzję głębi | Udajesz drewno, kamień i metal farbą | Poprawiasz kolory pod światłem sceny
+D: 8:00 Rozkładasz płótno i przenosisz szkic | 10:00 Malujesz mur ze starego zamku | 13:00 Cofasz się i oceniasz efekt z daleka | 16:00 Poprawiasz cienie, bo reflektor zmienia kolory
+Y: Namaluj na kartce kawałek ściany z cegieł, używając tylko trzech odcieni.
+
+@2116
+H: Pomagasz klientom urządzić mieszkania, sklepy i biura: dobierasz kolory, dodatki i ułożenie rzeczy. Zajmujesz się głównie wyglądem wnętrza, mniej jego konstrukcją.
+T: Rozmawiasz z klientem o jego potrzebach | Dobierasz kolory ścian i tkaniny | Wybierasz dodatki, lampy i obrazy | Ustawiasz meble i dekoracje na miejscu
+D: 9:00 Oglądasz z klientem salon i notujesz życzenia | 11:00 Składasz tablicę z próbkami kolorów | 13:30 Wybierasz w sklepie zasłony i poduszki | 16:00 Ustawiasz dodatki i robisz zdjęcia
+Y: Przestaw dziś pięć drobnych rzeczy w swoim pokoju i oceń, czy wnętrze wygląda lepiej.
+
+@2117
+H: Projektujesz lub odnawiasz całe wnętrza: ściany, instalacje, oświetlenie, meble i kolory. Dbasz, żeby przestrzeń była wygodna w użyciu i ładna.
+T: Mierzysz pomieszczenie i rysujesz plan | Planujesz zmiany ścian, światła i instalacji | Dobierasz meble, materiały i barwy | Nadzorujesz remont i współpracę wykonawców
+D: 8:30 Mierzysz mieszkanie miarą i fotografujesz | 11:00 Rysujesz rzut z nowym układem kuchni | 13:30 Pokazujesz klientom wizualizację salonu | 15:30 Na budowie ustalasz z elektrykiem miejsce gniazdek
+Y: Zmierz swój pokój linijką lub krokami i narysuj jego plan z meblami w skali.
+
+@2118
+H: Układasz towary na półkach według ustalonych zasad, żeby produkty były widoczne i łatwe do znalezienia. Często obsługujesz kilka sklepów w ciągu dnia.
+T: Rozkładasz produkty według planu ekspozycji | Uzupełniasz braki na półkach | Sprawdzasz ceny i oznaczenia | Robisz zdjęcia półek do raportu
+D: 7:00 Odbierasz plan ekspozycji nowej kampanii | 8:30 Przestawiasz towary na półce w pierwszym sklepie | 12:00 Uzupełniasz braki i sprawdzasz ceny | 15:00 Wysyłasz zdjęcia półek do przełożonego
+Y: Przejrzyj półkę z przyprawami lub książkami w domu i ułóż ją tak, żeby wszystko było widoczne.
+
+@2119
+H: Projektujesz, jak produkty wyglądają w witrynie i na sklepowych stoiskach, żeby przyciągnąć klientów. Zmieniasz układ wraz z sezonem i nowymi kolekcjami.
+T: Wymyślasz wygląd witryny sklepowej | Aranżujesz manekiny i rekwizyty | Planujesz drogę klienta po sklepie | Zmieniasz ekspozycje na nowy sezon
+D: 7:00 Przed otwarciem zmieniasz ubrania na manekinach | 9:30 Montujesz nową dekorację witryny | 12:00 Sprawdzasz z zewnątrz, czy witryna przyciąga wzrok | 15:00 Szkicujesz ekspozycję na święta
+Y: Ułóż na stole pięć przedmiotów jak w witrynie, zrób zdjęcie i zmień układ drugi raz.
+
+@2120
+H: Budujesz miniaturowe dekoracje i rekwizyty do filmów. Z małych modeli powstaje obraz, który na ekranie wygląda jak prawdziwy budynek czy miasto.
+T: Wycinasz elementy makiety ręcznymi narzędziami | Sklejasz trójwymiarowe modele z różnych materiałów | Malujesz je, żeby wyglądały realnie | Dopasowujesz makietę do planu zdjęciowego
+D: 8:00 Oglądasz projekt miniaturowej ulicy | 10:00 Wycinasz okna w budynku z tektury | 13:00 Malujesz mur, żeby wyglądał na stary | 16:00 Operator ocenia makietę w kadrze
+Y: Zbuduj z kartonu i papieru miniaturę swojego pokoju lub fragmentu ulicy.
+
+@2121
+H: Wymyślasz, jak ma wyglądać scena przedstawienia, i pilnujesz, żeby ekipa ją zbudowała. Uzgadniasz wizję z reżyserem i resztą artystów.
+T: Czytasz scenariusz i szukasz obrazów | Rysujesz projekty i robisz makiety | Ustalasz wygląd sceny z reżyserem | Nadzorujesz budowę i ustawienie dekoracji
+D: 9:00 Czytasz sztukę i notujesz miejsca akcji | 11:30 Pokazujesz reżyserowi makietę sceny | 14:00 W pracowni sprawdzasz postęp budowy dekoracji | 18:00 Na próbie ustalasz zmiany scen z ekipą
+Y: Przeczytaj krótką scenę z książki i naszkicuj, jak wyglądałaby na teatralnej scenie.
+
+@2122
+H: Dbasz o to, co publikuje strona internetowa: teksty, zdjęcia i układ. Pilnujesz, żeby treści pasowały do celów firmy i spełniały przepisy.
+T: Planujesz i publikujesz treści na stronie | Zbierasz prace autorów i grafików | Sprawdzasz zgodność z przepisami i prywatnością | Poprawiasz strony, żeby łatwiej je znaleźć
+D: 8:30 Sprawdzasz plan publikacji na ten tydzień | 10:00 Dodajesz nowy artykuł i zdjęcia | 12:30 Prosisz autora o poprawienie źródeł | 15:00 Przeglądasz stronę pod kątem przepisów o prywatności
+Y: Wybierz stronę znanej organizacji i zapisz trzy rzeczy, które warto w niej poprawić.
+
+@2123
+H: Sprawiasz, żeby strona firmy wyświetlała się wysoko, gdy ludzie wpisują w wyszukiwarce konkretne hasła. Analizujesz, co wpisują, i poprawiasz stronę.
+T: Sprawdzasz, jakich haseł szukają ludzie | Poprawiasz teksty i budowę strony | Analizujesz wyniki w statystykach | Prowadzisz płatne kampanie reklamowe
+D: 9:00 Sprawdzasz, które hasła przyniosły odwiedzających | 10:30 Wybierasz słowa kluczowe do nowego artykułu | 13:00 Poprawiasz tytuły i opisy podstron | 15:30 Omawiasz z klientem raport z wyników
+Y: Wpisz w wyszukiwarkę hasło związane z hobby i zapisz, jakie strony są na pierwszych pięciu miejscach.
+
+@2124
+H: Piszesz kod, dzięki któremu strona wygląda dobrze i działa według projektu. Szukasz i naprawiasz błędy oraz dopasowujesz stronę do potrzeb klienta.
+T: Zamieniasz projekt graficzny na działającą stronę | Piszesz kod i dokumentację | Znajdujesz i naprawiasz błędy | Ulepszasz stronę po uwagach klienta
+D: 9:00 Dostajesz projekt i planujesz zadania | 10:00 Piszesz kod menu i formularza | 13:00 Szukasz, czemu przycisk nie działa | 15:30 Klient prosi o nową podstronę
+Y: Zapisz na kartce, z jakich części składa się prosta strona wizytówka: nagłówek, menu, treść.
+
+@2125
+H: Robisz zdjęcia aparatem i obrabiasz je tak, żeby wyglądały dobrze w druku i w internecie. Możesz fotografować ludzi, produkty, wydarzenia albo naukę.
+T: Planujesz kadr i światło | Wykonujesz zdjęcia na planie lub w plenerze | Wybierasz najlepsze ujęcia | Obrabiasz zdjęcia i przygotowujesz wydruki
+D: 8:00 Przygotowujesz sprzęt przed sesją produktową | 10:00 Fotografujesz produkty w studiu | 14:00 Wybierasz z klientem najlepsze ujęcia | 16:30 Obrabiasz kolory i wysyłasz pliki
+Y: Zrób telefonem pięć zdjęć jednego przedmiotu przy oknie z różnych stron i wybierz najlepsze.
+
+@2126
+H: Fotografujesz wydarzenia, o których piszą media, i opowiadasz o nich zdjęciami. Często jesteś w terenie i musisz szybko działać.
+T: Jedziesz na miejsce wydarzenia z aparatem | Robisz zdjęcia pokazujące sedno historii | Wybierasz i podpisujesz najlepsze ujęcia | Szybko wysyłasz zdjęcia do redakcji
+D: 7:30 Redakcja zleca temat dnia | 9:00 Fotografujesz manifestację w centrum miasta | 13:00 W kawiarni wybierasz zdjęcia i piszesz podpisy | 15:00 Wysyłasz zdjęcia przed zamknięciem wydania
+Y: Opowiedz trzema zdjęciami dzisiejszy dzień, bez fotografowania obcych osób, i dopisz do każdego podpis.
+
+@2127
+H: Budujesz plansze, misje i zagadki, przez które przechodzi gracz. Rozmieszczasz przeszkody, przeciwników i nagrody tak, by tempo gry było dobre.
+T: Rysujesz plan poziomu na papierze | Rozmieszczasz przeciwników, pułapki i nagrody | Budujesz poziom w edytorze gry | Obserwujesz graczy i skracasz nudne fragmenty
+D: 9:30 Szkicujesz trasę przez nowe lochy | 11:00 Ustawiasz przeciwników przed trudnym zakrętem | 14:00 Obserwujesz, gdzie testerzy utykają | 16:00 Przesuwasz nagrodę, żeby gracz jej nie przegapił
+Y: Narysuj mapę prostego poziomu ze startem, trzema przeszkodami i nagrodą na końcu.
+
+@2128
+H: Kierujesz salą restauracji i odpowiadasz za to, jak goście są obsłużeni. Koordynujesz kelnerów od powitania po rachunek.
+T: Witasz gości i przydzielasz stoliki | Koordynujesz pracę kelnerów | Reagujesz na skargi i problemy gości | Pilnujesz płatności i porządku na sali
+D: 10:00 Odprawa z kelnerami przed otwarciem | 12:00 Witasz pierwszych gości lunchowych | 15:00 Uspokajasz gościa, któremu danie wystygło | 20:00 W godzinach szczytu pilnujesz kolejności dań
+Y: Napisz trzy zdania, którymi witasz gości przy wejściu do restauracji.
+
+@2129
+H: Podajesz gościom dania i napoje, nakrywasz stoły i przyjmujesz płatności. Prawie cały dzień jesteś na nogach i rozmawiasz z ludźmi.
+T: Nakrywasz stoły przed otwarciem | Przyjmujesz zamówienia od gości | Nosisz dania i napoje do stolików | Rozliczasz rachunki i sprzątasz stoły
+D: 10:30 Nakrywasz stoły i składasz serwetki | 12:30 Przyjmujesz zamówienia od rodziny z dziećmi | 14:00 Niesiesz trzy talerze naraz do stolika | 19:00 Wieczorem rozliczasz rachunek grupy znajomych
+Y: Nakryj do stołu w domu na cztery osoby, ustawiając sztućce i szklanki jak w restauracji.
+

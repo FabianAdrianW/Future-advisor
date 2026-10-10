@@ -1,0 +1,180 @@
+@60
+H: Składasz urządzenia elektryczne z gotowych elementów i przewodów, krok po kroku według schematu. Każde połączenie musi się zgadzać z rysunkiem.
+T: Czytasz schemat montażowy | Mocujesz elementy w obudowie | Łączysz przewody według oznaczeń | Sprawdzasz zmontowane urządzenie przed oddaniem
+D: 6:00 Zaczynasz zmianę, dostajesz schemat i zestaw części | 9:00 Mocujesz przewody w obudowie według oznaczeń | 12:00 Brakuje jednej części, zgłaszasz to magazynowi | 14:00 Kontrola gotowych urządzeń, odkładasz wadliwe
+Y: Narysuj na kartce schemat pilota jako prostokąty z podpisami: obudowa, przyciski, bateria, nadajnik, i połącz je strzałkami.
+
+@61
+H: Łączysz wiele kabli w jedną uporządkowaną wiązkę, która trafi do maszyny lub urządzenia. Pracujesz na planie, na którym każdy przewód ma swoje miejsce.
+T: Układasz przewody na tablicy montażowej | Odmierzasz i dobierasz kable według planu | Zaciskasz końcówki i łączysz przewody | Owijasz wiązkę rękawem lub opaską
+D: 6:30 Rozkładasz plan wiązki na tablicy montażowej | 9:00 Układasz kable w kolejności i je spinasz | 12:30 Zauważasz przewód w złym kolorze, poprawiasz | 14:30 Pakujesz gotowe wiązki i opisujesz je
+Y: Weź kilka sznurków lub wstążek w trzech kolorach i zwiąż je w jedną wiązkę zgodnie z własnym planem.
+
+@62
+H: Składasz z drobnych części narzędzia, którymi dentyści leczą zęby, na przykład wiertła, lusterka i sondy. Pracujesz powoli i dokładnie, często w czystym pomieszczeniu.
+T: Montujesz małe części precyzyjnymi narzędziami | Sklejasz elementy specjalnym klejem | Pracujesz w czystym pomieszczeniu w odzieży ochronnej | Sprawdzasz, czy narzędzie działa bez luzów
+D: 7:00 Zakładasz odzież ochronną i wchodzisz do czystej strefy | 8:30 Składasz małe części w rękojeść narzędzia | 11:00 Szukasz luzu w złożonym narzędziu pod lupą | 13:00 Opisujesz partię i przekazujesz ją do kontroli
+Y: Rozłóż zwykły długopis na części, obejrzyj każdą z nich i złóż całość z powrotem. Zapisz, ile było części.
+
+@63
+H: Pilnujesz maszyny, która układa maleńkie elementy elektroniczne na płytce i lutuje je na miejscu. Uzupełniasz maszynie elementy i reagujesz, gdy coś się zatnie.
+T: Ładujesz do maszyny rolki z elementami | Ustawiasz maszynę według programu płytki | Oglądasz płytki po montażu pod powiększeniem | Usuwasz zacięcia i poprawiasz ustawienia
+D: 6:00 Przejmujesz linię i sprawdzasz zapas elementów | 8:00 Maszyna staje, bo skończyła się rolka | 11:00 Oglądasz pierwszą płytkę z nowej serii | 13:30 Przekazujesz linię następnej zmianie z notatką
+Y: Wysyp na tacę kilka koralików lub guzików i ułóż je w siatkę trzy na trzy według wzoru.
+
+@64
+H: Obsługujesz maszynę, przez którą płytki elektroniczne przejeżdżają nad falą płynnego lutu. Przygotowujesz ustawienia i pilnujesz, żeby wszystkie połączenia wyszły czyste.
+T: Ustawiasz maszynę według schematu i projektu | Mocujesz płytki w ramkach transportowych | Obserwujesz, jak płytki przechodzą przez maszynę | Oglądasz lutowane połączenia i zgłaszasz błędy
+D: 6:00 Uruchamiasz maszynę i czekasz na właściwą temperaturę | 7:30 Płytki jadą przez maszynę, sprawdzasz pierwsze sztuki | 10:30 Połączenia wyglądają matowo, zmieniasz ustawienia | 13:00 Zapisujesz parametry zmiany i oddajesz stanowisko
+Y: Narysuj kwadrat podzielony na kratki pięć na pięć i rozmieść w nim osiem kropek tak, by żadne dwie się nie stykały.
+
+@65
+H: Pracujesz w fabryce amunicji, gdzie według ścisłych procedur składa się naboje i pociski. Bezpieczeństwo i dokładność ważą tu więcej niż tempo.
+T: Zestawiasz komponenty naboi według instrukcji | Odmierzasz materiały na wadze | Obsługujesz maszyny składające naboje | Prowadzisz dokumentację każdej partii
+D: 6:00 Odprawa bezpieczeństwa i sprawdzenie stanowiska | 7:00 Odmierzasz materiały według karty technologicznej | 10:30 Maszyna pracuje, ty kontrolujesz wymiary próbek | 13:00 Wpisujesz numer partii i podpisujesz dokumenty
+Y: Zważ na wadze kuchennej trzy małe przedmioty z domu, zapisz wyniki i sprawdź, czy powtórzone ważenie daje to samo.
+
+@66
+H: Wykańczasz gumowe wyroby, takie jak butelki na wodę, płetwy czy rękawice, dokładając do nich elementy z metalu i materiału. To praca rąk przy stole, w stałym rytmie.
+T: Mocujesz skuwki i sprzączki do gumy | Przyczepiasz paski do gotowych wyrobów | Owijasz zapięcia taśmą materiałową | Odkładasz wyroby z wadami
+D: 7:00 Przy stole układasz skrzynkę z paskami i sprzączkami | 9:00 Mocujesz zapięcia do kolejnych płetw | 11:30 Znajdujesz wyrób z pęknięciem, odkładasz go | 13:30 Pakujesz skompletowane wyroby do kartonów
+Y: Przywiąż pasek lub tasiemkę do pudełka tak, by trzymał mocno, i pociągnij, sprawdzając, czy się nie wysunie.
+
+@67
+H: Pracujesz w zakładzie pirotechnicznym, gdzie według planów składa się fajerwerki z osłonek i innych części. Obowiązują tu surowe zasady bezpieczeństwa, a pracuje się w małych, kontrolowanych porcjach.
+T: Czytasz plan i rysunek wyrobu | Przygotowujesz osłonki i rurki do składania | Składasz części w gotowy wyrób | Kontrolujesz produkt końcowy przed zapakowaniem
+D: 7:00 Odprawa i przypomnienie zasad bezpieczeństwa w zakładzie | 8:30 Ustawiasz osłonki według rysunku | 11:00 Składasz wyrób i oklejasz go | 13:00 Kontrolujesz gotową partię i wpisujesz ją do dokumentów
+Y: Narysuj plan wzoru nocnego pokazu w tabelce: kolory, kolejność i czas trwania każdego punktu.
+
+@68
+H: Dopasowujesz i łączysz metalowe części w konstrukcje według dokładnych rysunków, w hali albo na stanowisku. Pracujesz ciężkimi elementami i elektronarzędziami, w odzieży ochronnej.
+T: Czytasz rysunki techniczne konstrukcji | Docinasz i dopasowujesz elementy metalowe | Łączysz części elektronarzędziami | Sprawdzasz wymiary gotowego elementu
+D: 6:00 Dostajesz rysunki i listę elementów do zmontowania | 8:00 Dopasowujesz belki do siebie i mierzysz | 11:00 Dokręcasz połączenia elektronarzędziem | 13:30 Mierzysz gotową ramę i odkładasz do wysyłki
+Y: Zbuduj z patyczków lub kartonowych pasków kwadratową ramę i sprawdź, czy wygina się po naciśnięciu.
+
+@69
+H: Składasz meble z gotowych części według planu: nogi, panele, mechanizmy i poduchy. Używasz narzędzi ręcznych i wkrętarek.
+T: Czytasz instrukcję lub plan montażu | Łączysz korpus, nogi i fronty | Montujesz sprężyny i mechanizmy | Sprawdzasz, czy mebel stoi prosto
+D: 7:00 Bierzesz zlecenie i sprawdzasz komplet części | 9:00 Łączysz korpus szafki i wkręcasz uchwyty | 12:00 Drzwiczki nie domykają się, regulujesz zawiasy | 14:30 Pakujesz mebel w folię i kartony
+Y: Znajdź w domu mebel i sprawdź, jak połączone są jego części: wkręty, kołki czy klej. Opisz trzy złącza.
+
+@70
+H: Budujesz rowery z ram, kół i osprzętu, a potem ustawiasz je tak, żeby jeździły lekko i bezpiecznie. Montujesz też dodatki, na przykład przyczepki.
+T: Składasz ramę, koła i kierownicę | Ustawiasz hamulce i przerzutki | Montujesz błotniki, przyczepki i inne dodatki | Sprawdzasz działanie roweru na stojaku
+D: 8:00 Wyciągasz z kartonu nową ramę i koła | 10:00 Ustawiasz przerzutki, aż łańcuch przeskakuje czysto | 13:00 Dziecięcy rower dostaje boczne kółka | 15:30 Test na stojaku i etykieta z numerem
+Y: Obejrzyj rower w domu, nazwij jego główne części, a potem policz zębatki z tyłu.
+
+@71
+H: Składasz sprzęt medyczny, od prostych rurek i igieł po aparaty diagnostyczne. Od twojej dokładności zależy, czy urządzenie bezpiecznie posłuży w szpitalu.
+T: Składasz elementy według dokumentacji | Pracujesz w czystych warunkach | Sprawdzasz szczelność i działanie wyrobu | Zapisujesz numery partii i wyniki
+D: 6:30 Myjesz ręce, zakładasz fartuch i czepek | 8:00 Składasz zestaw do kroplówki z kilku części | 11:00 Test szczelności pokazuje usterkę, odkładasz sztukę | 13:00 Wpisujesz numery partii do dokumentacji
+Y: Połącz słomki i taśmę w rurkę długości dłoni i sprawdź, czy dmuchnięcie przechodzi bez ulatniania się powietrza.
+
+@72
+H: Składasz drewniane wyroby z gotowych elementów, łącząc je klejem i złączami. Obsługujesz maszynę, która dociska części, i pilnujesz, żeby wszystko trafiło na swoje miejsce.
+T: Układasz drewniane elementy w maszynie | Nakładasz klej na złącza | Obsługujesz prasę dociskającą części | Wyłapujesz krzywe lub pęknięte elementy
+D: 6:00 Układasz elementy na stole przed złożeniem | 8:00 Maszyna dociska ramę, ty odliczasz czas | 11:00 Jedna deska ma pęknięcie, odkładasz ją | 13:30 Odbierasz gotowe wyroby ze stanowiska
+Y: Wytnij z kartonu dwa paski, zrób w nich nacięcia i złóż je w krzyż bez kleju.
+
+@73
+H: Składasz gotowe plastikowe części w produkty, a w razie potrzeby przycinasz je lub kształtujesz. Pracujesz według instrukcji, więc liczy się powtarzalność.
+T: Dopasowujesz części z tworzywa sztucznego | Mocujesz je zatrzaskami, wkrętami lub klejem | Przycinasz nadmiar tworzywa | Sprawdzasz, czy produkt spełnia wymagania
+D: 7:00 Rozkładasz części plastikowe na stole montażowym | 9:30 Zatrzaskujesz obudowy i sprawdzasz szczeliny | 12:00 Przycinasz nadmiar tworzywa na brzegach | 14:00 Odkładasz wadliwe sztuki i liczysz gotowe
+Y: Rozłóż plastikowy przedmiot z zatrzaskami i sprawdź, w jakiej kolejności części wchodzą do siebie.
+
+@74
+H: Wytwarzasz metalowe meble, od biurowych szaf po ogrodowe krzesła: tniesz, gniesz i łączysz elementy maszynami. Na końcu polerujesz i zabezpieczasz powierzchnię.
+T: Tniesz i wyginasz elementy z metalu | Łączysz części maszynami i elektronarzędziami | Polerujesz i zabezpieczasz powierzchnię | Montujesz gotowy mebel i go oglądasz
+D: 6:00 Ustawiasz maszynę do cięcia rur na zmianę | 8:30 Wyginasz rury na kształt oparcia krzesła | 11:30 Polerujesz spawy, aż powierzchnia jest gładka | 14:00 Składasz gotowy stół i sprawdzasz, czy się kołysze
+Y: Sprawdź w domu metalowy mebel lub stojak: czy stoi stabilnie i jak połączone są jego rury lub pręty.
+
+@75
+H: Łączysz drobne elementy w bransoletki, naszyjniki i kolczyki, a także naprawiasz zerwane łańcuszki. Pracujesz szczypcami przy dobrym świetle, a precyzja jest ważniejsza niż tempo.
+T: Otwierasz i zamykasz ogniwa szczypcami | Nanizujesz koraliki i zawieszki na łańcuszek | Mocujesz zapięcia do końców łańcuszka | Naprawiasz zerwane łańcuszki
+D: 8:00 Wybierasz z szufladek ogniwa i zapięcia | 10:00 Łączysz kolejne ogniwa, aż powstaje bransoletka | 12:30 Ktoś przynosi zerwany łańcuszek, naprawiasz go | 15:00 Sprawdzasz zapięcia w gotowej partii
+Y: Nanizuj na nitkę dwadzieścia koralików lub kawałków makaronu w powtarzalnym wzorze i zawiąż końce.
+
+@76
+H: Na linii łączysz i montujesz części samochodowe, na przykład przewody i elementy wyposażenia, ręcznie i elektronarzędziami. Ustawiasz też roboty i sprawdzasz, czy zmontowane podzespoły działają.
+T: Montujesz podzespoły narzędziami ręcznymi | Łączysz przewody i wtyki | Ustawiasz urządzenia programowalne i roboty | Testujesz zmontowany element i szukasz wad
+D: 6:00 Zaczynasz zmianę przy taśmie, sprawdzasz zestaw części | 8:30 Montujesz podzespół, wkręcasz śruby elektronarzędziem | 11:00 Robot zatrzymuje się, zgłaszasz usterkę brygadziście | 13:00 Test elementu pokazuje błąd, odkładasz go do kontroli
+Y: Wybierz przedmiot z wielu części, na przykład zszywacz, i zapisz numerami kolejność jego składania.
+
+@77
+H: Łączysz duże elementy karoserii: ramy, drzwi, podwozie i pokrywy silnika. Pracujesz z maszynami i robotami, a po złożeniu mierzysz, czy wszystko pasuje.
+T: Zgrywasz drzwi, ramy i pokrywy | Łączysz blachy narzędziami i urządzeniami | Obsługujesz roboty i zautomatyzowane stanowiska | Mierzysz szczeliny i sprawdzasz zgodność z planem
+D: 6:00 Odbierasz od poprzedniej zmiany stan linii nadwozi | 8:00 Mocujesz drzwi i regulujesz równą szczelinę | 11:00 Robot zgrzewa ramę, ty kontrolujesz jej ułożenie | 13:00 Mierzysz gotowe nadwozie i wpisujesz wyniki
+Y: Otwórz i zamknij drzwi w domu, potem obejrzyj szczelinę przy futrynie: czy jest równa na całej długości?
+
+@78
+H: Na końcu linii instalujesz w samochodzie gotowe części i zespoły, takie jak fotele, deska rozdzielcza czy szyby. Potem sprawdzasz, czy wszystko działa i nie ma wad.
+T: Instalujesz prefabrykowane podzespoły w pojeździe | Sprawdzasz pojazd pod kątem wad | Testujesz zamontowane wyposażenie | Porównujesz wynik z normami jakości
+D: 6:00 Do stanowiska podjeżdża kolejne nadwozie na taśmie | 8:00 Montujesz deskę rozdzielczą i fotele | 11:00 Włączasz wyposażenie i sprawdzasz, czy działa | 13:30 Znajdujesz rysę na lakierze, oznaczasz wadę
+Y: Wypisz z pamięci lub ze zdjęcia osiem elementów wnętrza samochodu i ułóż je w kolejności montażu.
+
+@79
+H: Składasz silnik z gotowych części: spalinowy albo elektryczny. Czytasz rysunki i specyfikacje, a części niezgodne z wymogami odrzucasz.
+T: Czytasz rysunki techniczne i specyfikacje | Montujesz kolejne podzespoły silnika według instrukcji | Dokręcasz śruby z wymaganą siłą | Badasz gotowy silnik i odrzucasz wadliwe części
+D: 6:00 Dostajesz zestaw części i rysunki silnika | 8:00 Składasz blok i dokręcasz śruby z wymaganą siłą | 11:00 Test pokazuje stuk, rozbierasz podzespół | 13:00 Odrzucasz element niezgodny z normą i opisujesz powód
+Y: Znajdź w domu trzy śruby i trzy nakrętki, dopasuj pary i zapisz, po czym poznajesz, że pasują.
+
+@80
+H: Budujesz samoloty i śmigłowce z gotowych części: poszycia, układów sterowania i innych podzespołów. Pracujesz według rysunków, a każdy element musi pasować bardzo dokładnie.
+T: Czytasz plany i rysunki techniczne | Montujesz poszycie i elementy sterowania | Instalujesz układy mechaniczne w kadłubie | Sprawdzasz, jak działa zmontowany zespół
+D: 6:00 Zaczynasz zmianę przy kadłubie, czytasz plan pracy | 8:30 Mocujesz panel poszycia i sprawdzasz otwory | 11:30 Zespół sterowania chodzi za sztywno, regulujesz go | 14:00 Dokumentujesz wykonane prace i przekazujesz zmianie
+Y: Złóż papierowy samolot, odegnij na skrzydłach małe klapki i sprawdź, jak zmieniają jego lot.
+
+@81
+H: Składasz silniki do samolotów, od lekkich tłokowych po turbiny. Przy każdej części liczą się dokładność i dokumentacja, a niesprawne elementy odrzucasz.
+T: Montujesz części silnika według rysunków | Dopasowujesz łopatki, wały i obudowy | Badasz silnik po złożeniu | Zapisujesz w dokumentacji numery zamontowanych części
+D: 7:00 Rozkładasz części turbiny i sprawdzasz numery seryjne | 9:30 Osadzasz wirnik i mierzysz luzy | 12:30 Silnik na stanowisku testowym, notujesz odczyty | 15:00 Odrzucasz element z rysą i opisujesz powód
+Y: Zrób z kartki wiatraczek i sprawdź, jak liczba łopatek wpływa na to, jak łatwo kręci się pod dmuchnięciem.
+
+@82
+H: Składasz ogromne silniki do statków, od wysokoprężnych po elektryczne i turbinowe. Pracujesz na rysunkach i specyfikacjach, a elementy są duże i ciężkie.
+T: Czytasz rysunki i specyfikacje silnika | Przenosisz ciężkie części suwnicą | Instalujesz wały, cylindry i osprzęt | Badasz silnik i odrzucasz wadliwe części
+D: 6:00 Z brygadzistą ustalasz dzisiejszy etap montażu | 8:00 Suwnica podnosi ciężki blok na stanowisko | 11:00 Dopasowujesz wał i mierzysz jego ułożenie | 14:00 Silnik próbny pracuje, a ty słuchasz odgłosów
+Y: Zmierz linijką średnicę trzech okrągłych przedmiotów z domu i zapisz wyniki z dokładnością do milimetra.
+
+@83
+H: Budujesz maszyny dla fabryk: roboty, maszyny do etykietowania i linie montażowe. Składasz je z części i sprawdzasz, czy wszystko ze sobą współpracuje.
+T: Składasz ramy i mechanizmy maszyn | Montujesz napędy, prowadnice i czujniki | Korzystasz z maszyn sterowanych komputerowo | Uruchamiasz maszynę i usuwasz usterki
+D: 7:00 Czytasz dokumentację maszyny do etykietowania | 9:00 Mocujesz prowadnice i sprawdzasz poziom | 12:00 Uruchamiasz próbnie i obserwujesz ruch podajnika | 14:30 Poprawiasz ustawienie czujnika po zacięciu etykiet
+Y: Narysuj prostą maszynę, która przesuwa po kolei trzy przedmioty z jednego końca stołu na drugi, i oznacz ruchome części.
+
+@84
+H: Łączysz mechanikę, elektrykę i programowanie w jednym urządzeniu, jak robot, winda czy zaawansowany sprzęt domowy. Składasz, uruchamiasz i naprawiasz takie systemy.
+T: Składasz części mechaniczne i elektryczne | Instalujesz oprogramowanie w urządzeniu | Ustawiasz i uruchamiasz cały system | Szukasz usterek i naprawiasz podzespoły
+D: 7:30 Zaczynasz od zgłoszenia awarii w hali | 9:00 Sprawdzasz czujnik i część mechaniczną, która go porusza | 12:00 Instalujesz program w sterowniku robota | 14:30 Testujesz naprawione urządzenie i spisujesz zmiany
+Y: Zapisz kolejno, co musi się wydarzyć, żeby drzwi automatyczne w sklepie się otworzyły: czujnik, sterowanie, silnik.
+
+@85
+H: Składasz motocykle i skutery z ram, kół, silników i innych części. Montujesz je ręcznie i maszynowo, a potem kontrolujesz jakość montażu.
+T: Mocujesz silnik w ramie | Zakładasz koła, zawieszenie i hamulce | Korzystasz z zautomatyzowanych urządzeń montażowych | Kontrolujesz części i jakość montażu
+D: 6:00 Na stanowisku czeka goła rama motocykla | 8:30 Osadzasz silnik w ramie i dokręcasz mocowania | 11:00 Zakładasz koło i sprawdzasz, czy nie bije | 13:30 Kontrolujesz gotowy skuter według listy
+Y: Obejrzyj zdjęcie motocykla i narysuj jego szkielet: ramę, koła i miejsce silnika. Podpisz części.
+
+@86
+H: Budujesz wagony, tramwaje i pociągi, składając z gotowych części ich konstrukcję i wyposażenie. Pracujesz na dużych elementach z użyciem podnośników.
+T: Czytasz plany i interpretujesz rysunki | Montujesz podzespoły i konstrukcję nadwozia | Używasz podnośników do dużych elementów | Sprawdzasz działanie zespołów systemem kontrolnym
+D: 6:00 Odprawa przy wagonie, omawiasz dzisiejszy zakres prac | 8:00 Podnośnik ustawia podwozie pod wagonem | 11:00 Montujesz drzwi pasażerskie i regulujesz ich ruch | 14:00 Testujesz zespół i notujesz odchylenia
+Y: Przyjrzyj się zdjęciu pociągu lub tramwaju i narysuj, z jakich dużych modułów jest zbudowany.
+
+@87
+H: Pilnujesz maszyny, która topi granulat poliwęglanu i wtryskuje go do formy, tworząc płytę z cyfrowym zapisem. Obserwujesz proces i reagujesz, gdy coś odbiega od normy.
+T: Dozorujesz maszynę do tłoczenia | Uzupełniasz granulat w podajniku | Obserwujesz proces chłodzenia płyt | Wyławiasz wadliwe płyty z partii
+D: 6:00 Przejmujesz maszynę i sprawdzasz zapas granulatu | 8:00 Płyty wyjeżdżają z formy co kilka sekund | 11:00 Na jednej widzisz bąbelki, zatrzymujesz maszynę | 13:30 Przekazujesz partię płyt do kontroli odczytu
+Y: Obejrzyj pod światłem dowolną płytę CD lub DVD i opisz, co widać na jej powierzchni i brzegu.
+
+@88
+H: Obsługujesz maszynę, która wtłacza stopione tworzywo do formy i odlewa z niego plastikowe produkty. Ustawiasz temperaturę i ciśnienie, zdejmujesz gotowe wyroby i obcinasz nadmiar.
+T: Ustawiasz temperaturę, ciśnienie i ilość tworzywa | Zdejmujesz gotowe wyroby z formy | Obcinasz nadmiar nożykiem | Monitorujesz pracę maszyny cykl po cyklu
+D: 6:00 Ustawiasz parametry według karty dla nowej formy | 8:00 Zdejmujesz gorące wypraski i obcinasz zadziory | 11:30 Wypraski są niedolane, korygujesz ciśnienie | 14:00 Zmieniasz formę pod zaplanowane zamówienie
+Y: Obejrzyj plastikowy przedmiot z domu i znajdź ślad po wtrysku: mały punkt oraz linię łączenia form.
+
+@89
+H: Formujesz kadłuby i pokłady łodzi z mat szklanych nasyconych żywicą. Pracujesz w masce i rękawicach, a gotowy element musi być gładki i bez pęcherzy.
+T: Przygotowujesz formę woskiem i lakierem | Tniesz maty ze szkła według planu | Układasz maty i nasycasz je żywicą | Sprawdzasz gotowy element pod kątem wad
+D: 6:30 Zakładasz maskę, rękawice i odzież roboczą | 7:30 Układasz maty w formie kadłuba i wygładzasz | 11:00 Wałkujesz matę, żeby wygonić pęcherze powietrza | 14:00 Oglądasz utwardzony element, szukając matowych plam
+Y: Pokryj odwróconą miskę trzema warstwami pasków gazety z kleju z mąki i wody, zostaw do wyschnięcia.
+

@@ -1,0 +1,180 @@
+@0
+H: Przymocowujesz do buta podeszwę i obcas klejem, szwem albo gwoździami. Obsługujesz kilka maszyn, które robią to seryjnie, para po parze.
+T: Ustawiasz but w maszynie do przybijania obcasa | Przyklejasz lub przyszywasz podeszwę do cholewki | Odpylasz but przed klejeniem | Sprawdzasz, czy obcas trzyma prosto
+D: 6:00 Zmiana zaczyna się od ustawienia maszyn | 8:30 Przybijasz obcasy w kolejnej partii pantofli | 11:00 Przyklejasz podeszwy, para po parze | 13:30 Odkładasz gotowe buty do kontroli
+Y: Obejrzyj swoje buty i sprawdź, jak podeszwa i obcas są połączone, klejem, szwem czy gwoździami.
+
+@1
+H: Obsługujesz maszyny, które z kawałków materiału robią gotowe buty. Pilnujesz ich pracy i regularnie je konserwujesz.
+T: Uruchamiasz maszyny do formowania i wykańczania | Pilnujesz, czy wykroje są równo wycięte | Wyłapujesz wadliwe buty z linii | Czyścisz i smarujesz maszyny po zmianie
+D: 6:00 Przejmujesz linię i sprawdzasz ustawienia maszyn | 9:00 Maszyna do formowania zacina się, usuwasz zator | 12:00 Odrzucasz buty z krzywym szwem | 13:45 Czyścisz i smarujesz maszyny przed końcem zmiany
+Y: Obejrzyj parę swoich butów i porównaj, czy oba są identyczne w kształcie, szwach i wykończeniu.
+
+@2
+H: Zszywasz wykrojone kawałki skóry w cholewki, czyli górną część buta. Prowadzisz materiał pod igłą tak, żeby szew szedł równo przy krawędzi.
+T: Dobierasz nici i igły do materiału | Układasz części na stole maszyny | Prowadzisz skórę wzdłuż szwu pod igłą | Obcinasz nadmiar nitek i materiału
+D: 6:30 Zakładasz nić i próbujesz szew na ścinku | 8:00 Szyjesz języki i boki cholewek | 11:00 Wymieniasz igłę po złamaniu, wracasz do szycia | 13:00 Obcinasz nitki i odkładasz stos gotowych cholewek
+Y: Przyjrzyj się szwom w swoim bucie i znajdź miejsce, gdzie szwy są podwójne lub zachodzą na siebie.
+
+@3
+H: Przygotowujesz cholewki do formowania na kopycie, wkładasz usztywniacz pięty i przyklejasz wkładkę. Cholewka musi być przygotowana tak, żeby dała się potem ukształtować.
+T: Przyklejasz wkładkę do kopyta | Wkładasz usztywniacz w tylną część cholewki | Formujesz poduszki pod palce | Przygotowujesz cholewki przed naciąganiem na kopyto
+D: 6:00 Układasz przy stanowisku kopyta i cholewki | 8:30 Wkładasz usztywniacze w pięty całej partii | 11:00 Przyklejasz wkładki i sprawdzasz ich położenie | 13:00 Przekazujesz przygotowane cholewki na dalszą linię
+Y: Naciśnij palcami tylną część swojego buta i sprawdź, co sprawia, że pięta trzyma kształt.
+
+@4
+H: Z płatów skóry i materiałów wycinasz części przyszłych butów. Zanim zetniesz, oglądasz materiał i decydujesz, które miejsca są najlepsze, a które mają skazy.
+T: Oglądasz skórę i szukasz skaz | Wyznaczasz, gdzie i jak kroić | Programujesz maszynę lub automatyczny nóż | Rozkładasz skórę na stole do cięcia
+D: 6:00 Rozkładasz skórę i oglądasz ją pod światło | 7:30 Zaznaczasz, które części wyjdą z najlepszych miejsc | 10:00 Automatyczny nóż tnie, ty pilnujesz ułożenia | 13:00 Segregujesz wycięte elementy według rozmiarów
+Y: Narysuj na kartce kontur swojej stopy trzy razy obok siebie i wytnij je tak, by zmarnować jak najmniej papieru.
+
+@5
+H: Naciągasz cholewkę na kopyto, żeby but dostał swój ostateczny kształt. Maszyna pomaga, ale to ty ustawiasz nosek i pilnujesz, żeby materiał ułożył się bez fałd.
+T: Umieszczasz nosek cholewki w maszynie | Rozciągasz krawędzie cholewki na kopycie | Dociskasz siodełko i spłaszczasz brzegi | Odcinasz nadmiar materiału przy palcach
+D: 6:00 Sprawdzasz ustawienia maszyny na pierwszej cholewce | 8:00 Naciągasz nosek i dociskasz brzegi w maszynie | 11:00 Ucinasz nadmiar materiału przy palcach | 13:00 Oglądasz buty ze wszystkich stron, szukasz fałd
+Y: Naciągnij skarpetę na pięść i zobacz, w których miejscach materiał się marszczy, a gdzie rozciąga.
+
+@6
+H: Dbasz o to, żeby maszyny w fabryce obuwia nie stawały. Ustawiasz je, programujesz, naprawiasz i wymieniasz zużyte części.
+T: Szukasz przyczyny awarii maszyny szyjącej | Wymieniasz zużyte części | Smarujesz i przeglądasz maszyny według planu | Programujesz maszyny pod nowy model buta
+D: 6:00 Obchodzisz halę i słuchasz, jak pracują maszyny | 8:30 Maszyna do wykrawania staje, szukasz usterki | 11:00 Wymieniasz zużyty element i testujesz maszynę | 13:30 Zapisujesz w raporcie, co zużywa najwięcej energii
+Y: Posłuchaj przez minutę lodówki lub wentylatora i opisz w trzech zdaniach, czy dźwięk jest równy, czy coś zgrzyta.
+
+@7
+H: Na maszynach przemysłowych wykrawasz, zszywasz i wykańczasz torebki, walizki, uprzęże i inne wyroby skórzane. Dbasz też o rutynową konserwację tych maszyn.
+T: Wykrawasz części toreb i walizek | Zszywasz paski, uchwyty i uprząż | Wykańczasz krawędzie gotowych wyrobów | Czyścisz i oliwisz maszyny po pracy
+D: 6:00 Wykrawasz skórzane części na serię torebek | 8:30 Zszywasz uchwyty i paski do toreb | 11:30 Wykańczasz krawędzie i sprawdzasz zapięcia | 13:30 Czyścisz maszyny ze ścinków skóry
+Y: Policz, z ilu osobnych kawałków materiału zszyta jest torebka, portfel lub pasek, i zapisz wynik.
+
+@8
+H: Dbasz o maszyny, na których powstają skórzane torby i uprzęże. Dostrajasz je, programujesz i naprawiasz, gdy zaczynają źle szyć lub ciąć.
+T: Dostrajasz maszyny tnące i szyjące | Szukasz źródła usterek w maszynach | Wymieniasz zużyte części i smarujesz mechanizmy | Informujesz kierownictwo o zużyciu energii
+D: 7:00 Robisz obchód i sprawdzasz pracę maszyn | 9:00 Maszyna szyjąca gubi ściegi, szukasz powodu | 12:00 Wymieniasz część i smarujesz mechanizm | 14:00 Opisujesz w raporcie, ile energii zużywa linia
+Y: Znajdź w domu torbę lub plecak i sprawdź, który szew lub zamek najbardziej się zużył.
+
+@9
+H: Przygotowujesz części cholewek, zanim trafią do szycia: przycinasz brzegi skóry, zaginasz je, nakłuwasz i oznaczasz miejsca szwów. Pracujesz według arkusza technicznego, który mówi, co zrobić z każdą częścią.
+T: Przycinasz brzegi skóry maszyną | Zaginasz krawędzie części cholewki | Oznaczasz miejsca, gdzie pójdzie szew | Naklejasz paski wzmacniające
+D: 6:00 Czytasz arkusz techniczny nowego modelu buta | 7:30 Przycinasz brzegi i zaginasz części cholewek | 10:30 Znakujesz miejsca szwów i nakłuwasz skórę | 13:00 Przekazujesz przygotowane części do szycia
+Y: Zaznacz linijką i ołówkiem na kartce linię szwu równo pół centymetra od brzegu i dorysuj punkty co centymetr.
+
+@10
+H: Wysyłasz z komputera plik z kształtami do maszyny, która sama wykrawa części butów. Ty kładziesz materiał, zaznaczasz na nim skazy i sprawdzasz, czy wycięte elementy zgadzają się z wymaganiami.
+T: Wysyłasz plik z komputera do maszyny | Kładziesz materiał na stole maszyny | Cyfrowo zaznaczasz skazy na materiale | Porównujesz wycięte elementy z wymaganiami
+D: 6:00 Włączasz maszynę i sprawdzasz jej narzędzia tnące | 7:00 Wczytujesz plik z nowym zleceniem cięcia | 10:00 Zaznaczasz skazy na skórze przed cięciem | 13:00 Zbierasz wycięte części i mierzysz je
+Y: Zmierz linijką trzy przedmioty w domu i zapisz ich wymiary w tabelce o kolumnach nazwa, długość, szerokość.
+
+@11
+H: Z mocnych tkanin i skóry składasz takie rzeczy jak namioty, torby czy portfele. Materiał tego typu służy też artystom jako powierzchnia do malowania.
+T: Tniesz gruby materiał według wzoru | Zszywasz części namiotu lub torby | Przyszywasz uchwyty, paski i zapięcia | Sprawdzasz wytrzymałość szwów
+D: 7:00 Rozkładasz płótno i tniesz je według szablonu | 9:30 Zszywasz ściany namiotu mocnym szwem | 12:00 Przyszywasz paski do serii toreb | 14:00 Ciągniesz za szwy, żeby sprawdzić wytrzymałość
+Y: Porównaj w dłoniach gruby materiał, na przykład z plecaka, z cienką koszulką i opisz trzy różnice.
+
+@12
+H: Mierzysz powierzchnię skór na specjalnej maszynie, bo na podstawie ich wielkości wystawia się później fakturę. Dbasz, żeby maszyna była regularnie skalibrowana, a wynik trafił do dokumentów.
+T: Przepuszczasz skóry przez maszynę pomiarową | Kalibrujesz maszynę według wzorca | Zapisujesz powierzchnię każdej skóry | Przekazujesz wyniki do fakturowania
+D: 7:00 Kalibrujesz maszynę na wzorcu o znanej powierzchni | 8:00 Mierzysz kolejne skóry z palety | 11:00 Wpisujesz wielkość każdej skóry do rejestru | 14:00 Przekazujesz zestawienie do działu faktur
+Y: Obrysuj na kartce w kratkę swoją dłoń i policz kratki w środku, by oszacować jej powierzchnię.
+
+@13
+H: Obsługujesz maszyny, które składają materace. Na układ sprężyn nakładasz i mocujesz warstwy wyściółki oraz pokrycie, tak żeby materac wyszedł równy.
+T: Tniesz warstwy wyściółki na wymiar | Rozciągasz pokrycie nad układem sprężyn | Mocujesz warstwy do sprężyn maszyną | Sprawdzasz, czy materac jest równy
+D: 6:00 Ładujesz do maszyny rolki wyściółki i pokrycia | 8:00 Tniesz warstwy i układasz je na sprężynach | 11:00 Maszyna mocuje pokrycie, ty poprawiasz rogi | 13:30 Mierzysz gotowy materac i odstawiasz go na paletę
+Y: Naciśnij dłonią materac w trzech miejscach i sprawdź, czy wszędzie jest tak samo twardy.
+
+@14
+H: Obsługujesz maszyny, które z krótkich włókien robią włókninę, czyli materiał ani tkany, ani dziany. Wykonujesz kolejne etapy przetwarzania i pilnujesz, żeby materiał wychodził równy.
+T: Zasilasz maszynę włóknami | Obserwujesz, jak formuje się włóknina | Sprawdzasz grubość i równość materiału | Zdejmujesz i opisujesz gotowe rolki
+D: 6:00 Zasilasz maszynę nową partią włókien | 8:00 Obserwujesz wstęgę włókniny, szukasz grubszych miejsc | 11:00 Zatrzymujesz maszynę, gdy materiał się rwie | 13:30 Zdejmujesz gotową rolkę i opisujesz ją
+Y: Obejrzyj z bliska wacik kosmetyczny i opisz, czym jego struktura różni się od tkaniny koszulki.
+
+@15
+H: Nadzorujesz grupę maszyn oplatających, które splatają nici w gotowy wyrób. Sprawdzasz maszyny po ustawieniu, po uruchomieniu i w trakcie produkcji, czy wyrób spełnia normy.
+T: Sprawdzasz ustawienia po uruchomieniu maszyn | Obserwujesz jakość nici podczas oplatania | Porównujesz wyrób z normami jakości | Reagujesz, gdy któraś maszyna się zatrzymuje
+D: 6:00 Po uruchomieniu sprawdzasz ustawienia wszystkich oplatarek | 8:30 Obchodzisz grupę maszyn i oglądasz plecionkę | 11:00 Jedna maszyna staje, szukasz zerwanej nici | 13:30 Mierzysz próbkę i porównujesz z normą
+Y: Rozpleć koniec starej sznurówki lub liny i narysuj schemat tego, jak nitki się krzyżują.
+
+@16
+H: Tworzysz wzory i dekoracje na tkaniny, używając do tego maszyn i urządzeń. Decydujesz, z jakich materiałów je wykonać, i oceniasz tkaninę przed pracą i po niej.
+T: Projektujesz wzór na tkaninę | Wybierasz materiał pasujący do wzoru | Uruchamiasz urządzenie nanoszące wzór | Oceniasz jakość tkaniny przed i po pracy
+D: 8:00 Przeglądasz próbki tkanin i szukasz pomysłów | 10:00 Rysujesz wzór, który ma się powtarzać | 12:00 Uruchamiasz maszynę i oglądasz pierwszy odcinek tkaniny | 14:30 Oglądasz gotową tkaninę i notujesz poprawki
+Y: Narysuj na kartce mały motyw i powtórz go cztery razy tak, by powstał ciągły deseń.
+
+@17
+H: Ustawiasz procesy, w których powstają materiały nietkane, czyli włókniny. Dobierasz ustawienia maszyn do rodzaju materiału i sprawdzasz, czy wynik jest zgodny z wymaganiami.
+T: Ustawiasz parametry procesu na maszynach | Zmieniasz ustawienia przy nowym rodzaju włókniny | Oglądasz próbki i porównujesz je z wymaganiami | Notujesz, jakie ustawienia dały dobry wynik
+D: 7:00 Odbierasz od zmiany nocnej informacje o procesie | 9:00 Zmieniasz ustawienia maszyny pod nowe zamówienie | 11:30 Oglądasz próbkę włókniny i porównujesz z wymaganiami | 14:00 Zapisujesz, które ustawienia dały najlepszy wynik
+Y: Spróbuj rozerwać chusteczkę, wacik i ściereczkę jednorazową i ułóż je od najmocniejszej do najsłabszej.
+
+@18
+H: Ustawiasz maszyny do oplatania tak, żeby wyrób wychodził zgodny z wymaganiami. Przed startem produkcji dobierasz parametry i sprawdzasz pierwsze sztuki.
+T: Konfigurujesz oplatarkę przed nowym zleceniem | Zakładasz szpule z nićmi na maszynę | Sprawdzasz pierwsze metry wyrobu | Poprawiasz ustawienia, gdy splot jest nierówny
+D: 6:00 Czytasz zlecenie i wybierasz ustawienia oplatarki | 7:30 Zakładasz szpule z nićmi i uruchamiasz próbę | 10:00 Oglądasz pierwsze metry, splot jest nierówny | 12:30 Korygujesz ustawienia i przekazujesz maszynę operatorowi
+Y: Spleć warkocz z trzech sznurków, raz ciasno, raz luźno, i porównaj grubość obu warkoczy.
+
+@19
+H: Nadzorujesz grupę maszyn do tuftowania, czyli wszywania nitek w podłoże tak, że powstaje włochata powierzchnia, na przykład dywanu. Po ustawieniu maszyn i w czasie pracy sprawdzasz, czy wyrób spełnia normy.
+T: Pilnujesz kilku maszyn tuftujących naraz | Oceniasz jakość podłoża i nici | Oglądasz gęstość i równość wykończonej powierzchni | Zatrzymujesz maszynę, gdy pojawia się wada
+D: 6:00 Przejmujesz halę i uruchamiasz swoją grupę maszyn | 8:00 Oglądasz powierzchnię i szukasz brakujących pętli | 11:00 Zatrzymujesz maszynę, bo nić się splątała | 13:30 Porównujesz próbkę z wzorcem jakości
+Y: Obejrzyj dywanik od spodu i od wierzchu i opisz, jak nitki są w nim zamocowane.
+
+@20
+H: Ustawiasz i obsługujesz maszyny, na których nitki przędzy splatają się w tkaninę na odzież, tekstylia domowe lub produkty techniczne. Pilnujesz maszyn i naprawiasz drobne usterki.
+T: Zakładasz przędzę i uruchamiasz maszynę | Obserwujesz tkaninę podczas tkania | Łączysz zerwane nitki | Naprawiasz drobne usterki maszyn
+D: 6:00 Ustawiasz maszynę i zakładasz nowe szpule przędzy | 8:00 Obserwujesz, jak nitki splatają się w tkaninę | 10:30 Nitka się zrywa, łączysz ją i ruszasz | 13:30 Czyścisz maszynę i smarujesz ruchome części
+Y: Policz, ile nitek wzdłuż i w poprzek mieści się na jednym centymetrze w tkaninie koszuli.
+
+@21
+H: Odpowiadasz za to, żeby krosna w tkalni działały bez przestojów. Naprawiasz usterki zgłaszane przez tkaczy, konserwujesz maszyny i wypełniasz arkusze kontroli krosien.
+T: Obchodzisz tkalnię i słuchasz pracy krosien | Naprawiasz usterki zgłoszone przez tkacza | Oceniasz jakość tkaniny i stan maszyn | Wypełniasz arkusze kontroli krosien
+D: 6:00 Robisz obchód tkalni i oglądasz krosna | 8:00 Tkacz zgłasza usterkę, więc naprawiasz krosno | 11:00 Konserwujesz krosno przed dłuższą serią produkcji | 13:30 Wypełniasz arkusze kontroli i przekazujesz zmianę
+Y: Ułóż listę pięciu punktów do codziennego sprawdzenia swojego plecaka i odhacz je po kolei.
+
+@22
+H: Ustawiasz proces tkania tak, żeby krosna wyprodukowały tkaninę zgodną z zamówieniem. Dobierasz parametry maszyn dla każdego nowego wzoru i rodzaju przędzy.
+T: Ustawiasz krosna pod nowe zamówienie | Dobierasz parametry do rodzaju przędzy | Testujesz pierwsze metry tkaniny | Zapisujesz ustawienia, które się sprawdziły
+D: 7:00 Czytasz specyfikację nowego zamówienia na tkaninę | 8:30 Ustawiasz krosno pod właściwą przędzę i wzór | 11:00 Oglądasz pierwsze metry, szukasz dziur i zgrubień | 14:00 Zapisujesz parametry dla kolejnych zmian
+Y: Potnij dwie kartki na paski i spleć je w kratkę, wplatając naprzemiennie raz nad, raz pod.
+
+@23
+H: Obsługujesz maszyny dziewiarskie, które z nitek przędzy tworzą oczka, a z oczek dzianinę na odzież, dywany czy liny. Ustawiasz maszynę, pilnujesz jej pracy i naprawiasz usterki.
+T: Ustawiasz maszynę pod nowe zlecenie | Zakładasz szpule z przędzą | Wyłapujesz spuszczone oczka i dziury | Konserwujesz i naprawiasz dziewiarkę
+D: 6:00 Ustawiasz dziewiarkę i zakładasz szpule z przędzą | 8:00 Obserwujesz, jak rośnie rolka dzianiny | 10:30 Znajdujesz dziurę w dzianinie i zatrzymujesz maszynę | 13:00 Czyścisz maszynę z kłaczków i smarujesz ją
+Y: Rozciągnij skarpetkę lub sweter i obejrzyj z bliska, jak nitka tworzy oczka w rzędach.
+
+@24
+H: Odpowiadasz za grupę dziewiarek. Sprawdzasz je po ustawieniu, po uruchomieniu i w czasie produkcji, czy dzianina spełnia specyfikację i normy jakości.
+T: Kontrolujesz grupę dziewiarek po uruchomieniu | Porównujesz dzianinę ze specyfikacją zlecenia | Sprawdzasz jakość przędzy i warunki dziania | Wstrzymujesz maszynę, gdy pojawia się wada
+D: 6:00 Kontrolujesz uruchomienie całej grupy dziewiarek | 8:00 Mierzysz próbkę dzianiny i porównujesz ze specyfikacją | 11:00 Jedna maszyna daje wadę, więc wstrzymujesz ją | 13:30 Informujesz następną zmianę o stanie maszyn
+Y: Wybierz dwie koszulki i oceń, w której dzianina jest równiejsza, gładsza i bez zgrubień. Zapisz powody.
+
+@25
+H: Ustawiasz procesy dziewiarskie w zakładach, gdzie powstają dzianiny. Tworzysz wzory na komputerze, współpracujesz z laboratorium przy wyłapywaniu błędów i dbasz o jak najwyższą wydajność maszyn.
+T: Tworzysz wzór dzianiny na komputerze | Ustawiasz maszyny do dziania wątkowego lub osnowowego | Ustalasz z laboratorium, jak uniknąć błędów w dzianinie | Szukasz sposobów na wyższą wydajność
+D: 8:00 Projektujesz na komputerze nowy wzór dzianiny | 10:00 Ustawiasz maszynę i uruchamiasz próbną partię | 12:00 Laboratorium zgłasza błąd w próbce, szukacie przyczyny | 14:30 Porównujesz wydajność maszyn i szukasz usprawnień
+Y: Narysuj na kartce w kratkę wzór dzianiny, gdzie każda kratka to jedno oczko, i pokoloruj prosty deseń.
+
+@26
+H: Nadzorujesz grupę maszyn włókienniczych i pilnujesz jakości oraz wydajności produkcji. Kontrolujesz je po ustawieniu, po uruchomieniu i w czasie pracy, żeby wyrób spełniał normy.
+T: Obserwujesz wydajność całej grupy maszyn | Sprawdzasz parametry produktu w czasie pracy | Zgłaszasz usterki do działu technicznego | Notujesz wyniki kontroli w dzienniku zmiany
+D: 6:00 Odbierasz maszyny od poprzedniej zmiany | 7:30 Sprawdzasz, czy produkt zgadza się z normą | 10:00 Maszyna zwalnia, zgłaszasz usterkę do techników | 13:30 Wpisujesz do dziennika wyniki całej zmiany
+Y: Zapisz trzy cechy dobrej koszulki, na przykład równe szwy i brak dziur, potem oceń według nich jedną ze swoich.
+
+@27
+H: Obsługujesz maszyny, które z surowych włókien robią przędzę, skręcają ją i nawijają. Przygotowujesz surowiec do przędzenia i dbasz o rutynową konserwację maszyn.
+T: Przygotowujesz surowe włókna do przędzenia | Zakładasz włókna w maszynie przędzalniczej | Zdejmujesz szpule z gotową przędzą | Czyścisz maszynę z kłaczków i pyłu
+D: 6:00 Rozkładasz surowiec i przygotowujesz go do przędzenia | 8:00 Uruchamiasz maszynę, a włókno zamienia się w przędzę | 11:00 Nić się zrywa, więc szybko ją łączysz | 13:30 Zdejmujesz pełne szpule i czyścisz maszynę
+Y: Skręć między palcami kilka włókien waty lub wełny i sprawdź, czy powstała wytrzymała nitka.
+
+@28
+H: Obsługujesz przędzarkę, czyli maszynę, która zamienia luźne włókna w przędzę. Pilnujesz, żeby nić wychodziła równa i się nie zrywała.
+T: Zakładasz włókna do przędzarki | Uruchamiasz przędzarkę i pilnujesz jej pracy | Łączysz zerwane końce nici | Zdejmujesz gotową przędzę z maszyny
+D: 6:00 Zakładasz nową partię włókien do przędzarki | 8:30 Pilnujesz, żeby nić wychodziła równa | 11:00 Nić się zrywa, łączysz końce palcami | 14:00 Zdejmujesz pełne szpule i odkładasz na wózek
+Y: Rozwiń metr nitki z kłębka, obejrzyj, czy jest wszędzie tak samo gruba, i policz zgrubienia.
+
+@29
+H: Obsługujesz maszyny, na których powstają włókna sztuczne i nitki z nich zrobione. Pilnujesz kolejnych etapów przetwarzania, aż włókno nadaje się do dalszej produkcji.
+T: Uruchamiasz maszynę do formowania włókien | Pilnujesz kolejnych etapów przetwarzania nitek | Sprawdzasz, czy włókno jest równe i ciągłe | Zdejmujesz gotowe szpule i opisujesz je
+D: 6:00 Odbierasz zmianę i sprawdzasz stan maszyn | 8:00 Uruchamiasz kolejną partię nitek na maszynie | 11:00 Zauważasz nierówną nitkę i zatrzymujesz proces | 14:00 Opisujesz szpule i przekazujesz je dalej
+Y: Sprawdź metki trzech ubrań i zapisz, które włókna są sztuczne, a które naturalne.
+

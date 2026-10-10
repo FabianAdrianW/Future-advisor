@@ -1,0 +1,180 @@
+@780
+H: Wycinasz i łączysz drewniane elementy konstrukcji, na przykład belki więźby dachowej i ramy drewnianych domów. Pracujesz według rysunku, a obok drewna używasz czasem metalu i tworzyw.
+T: Wymierzasz i zaznaczasz belki na rysunku | Przycinasz drewno na długość i kąt | Łączysz elementy w ramę lub więźbę | Montujesz gotowy szkielet na budowie
+D: 7:00 Odczytujesz z rysunku wymiary belek | 9:00 Przycinasz krokwie i znaczysz miejsca łączeń | 12:00 Razem z ekipą ustawiasz ramę ściany | 15:00 Sprawdzasz poziomicą, czy szkielet stoi prosto
+Y: Zrób z czterech pasków kartonu kwadrat spięty spinaczami, dodaj przekątną i zobacz, jak rośnie jego sztywność.
+
+@781
+H: Wymieniasz i osadzasz drzwi w ościeżnicy tak, żeby się dobrze zamykały. Robisz też przeglądy i regulujesz drzwi, które się zacinają.
+T: Demontujesz stare drzwi i ościeżnicę | Przygotowujesz otwór pod nowe drzwi | Ustawiasz drzwi w pionie i poziomie | Regulujesz zawiasy i sprawdzasz domykanie
+D: 8:00 Zdejmujesz stare drzwi u klienta w mieszkaniu | 10:00 Przygotowujesz ościeżnicę i osadzasz w niej nowe skrzydło | 12:30 Kładziesz poziomicę i dokręcasz zawiasy | 15:00 Naprawiasz drzwi, które ocierają o próg
+Y: Obejrzyj w domu trzy drzwi: sprawdź, czy się domykają, czy nie ocierają i czy zawiasy nie skrzypią.
+
+@782
+H: Montujesz meble i sprzęty kuchenne u ludzi w domach i podłączasz je do wody i gazu. Zaczynasz od dokładnych pomiarów pomieszczenia.
+T: Mierzysz pomieszczenie i zaznaczasz ściany | Demontujesz starą kuchnię | Składasz i wieszasz szafki | Podłączasz zlew, kuchenkę i zmywarkę
+D: 8:00 Dojeżdżasz do mieszkania i mierzysz ściany | 9:30 Zdejmujesz stare szafki i odkręcasz zlew | 12:00 Wieszasz szafki górne i wyrównujesz je | 15:00 Podłączasz zlew i sprawdzasz, czy nie cieknie
+Y: Narysuj plan swojej kuchni i zaznacz, gdzie dochodzi woda do zlewu i gdzie stoi lodówka.
+
+@783
+H: Instalujesz schody między piętrami, gotowe albo robione na wymiar. Każdy stopień musi mieć taką samą wysokość, bo inaczej łatwo się potknąć.
+T: Mierzysz wysokość między piętrami | Dobierasz liczbę i wysokość stopni | Ustawiasz konstrukcję i mocujesz ją | Sprawdzasz stabilność i równość stopni
+D: 7:30 Mierzysz otwór w stropie i wysokość piętra | 10:00 Rozkładasz elementy schodów w korytarzu | 12:30 Mocujesz belki nośne i pierwsze stopnie | 15:00 Sprawdzasz, czy wszystkie stopnie są równe
+Y: Zmierz wysokość trzech schodków w domu linijką lub miarką i sprawdź, czy są identyczne.
+
+@784
+H: Wymieniasz stare okna na nowe i pilnujesz, żeby nie wiało ani nie przeciekało. Serwisujesz też okna, które się zacinają lub nie domykają.
+T: Wyjmujesz stare okno z ościeżnicy | Przygotowujesz otwór w murze | Osadzasz okno w pionie i poziomie | Uszczelniasz szczeliny i regulujesz okucia
+D: 7:30 Ładujesz okna do busa i jedziesz do klienta | 9:00 Wyjmujesz stare skrzydła i oczyszczasz otwór | 11:30 Osadzasz nowe okno i sprawdzasz pion | 14:00 Uszczelniasz szczeliny i regulujesz klamkę
+Y: Sprawdź w domu, czy z okna nie wieje: przyłóż rękę wzdłuż ramy i zanotuj miejsca przeciągu.
+
+@785
+H: Składasz drewniane ściany i moduły, które potem jadą na budowę domu. Elementy mogą mieć już wbudowane okna i drzwi, a nawet być wielkości całego pokoju.
+T: Układasz szkielet ściany według rysunku | Wypełniasz go materiałem izolacyjnym | Mocujesz okna i drzwi w ścianie | Łączysz elementy w gotowy moduł
+D: 6:00 Zaczynasz zmianę od odczytania rysunku modułu | 8:00 Składasz drewnianą ramę ściany | 11:00 Wkładasz izolację i przykrywasz ramę płytą | 13:30 Pomagasz załadować gotowy moduł na ciężarówkę
+Y: Z kartonu zrób cztery ściany z wyciętymi oknami i złóż z nich model domku.
+
+@786
+H: Budujesz metalowe konstrukcje, po których inni wchodzą, żeby pracować przy elewacji lub dachu. Ułożenie elementów musi być dokładne, bo od niego zależy bezpieczeństwo ludzi na górze.
+T: Rozładowujesz rury, złącza i podesty | Ustawiasz podstawy na równym gruncie | Montujesz kolejne poziomy i pomosty | Rozbierasz rusztowanie po skończonych pracach
+D: 6:30 Rozładowujesz z samochodu rury i deski rusztowania | 8:00 Wyrównujesz podstawy i stawiasz pierwsze słupki | 11:00 Dokładasz kolejne poziomy i zakładasz barierki | 14:00 Rozbierasz rusztowanie przy skończonym budynku
+Y: Zbuduj na podłodze dwie wieże z pudełek, na szerokiej i wąskiej podstawie, i zobacz, która pierwsza się przewróci.
+
+@787
+H: Rozbierasz budynki w kontrolowany sposób i usuwasz gruz, żeby teren można było wykorzystać do innych celów. Obsługujesz ciężki sprzęt do burzenia.
+T: Zabezpieczasz teren przed wejściem ludzi | Obsługujesz maszynę do burzenia ścian | Segregujesz gruz, stal i drewno | Ładujesz odpady na wywrotki
+D: 7:00 Odbierasz plan rozbiórki i sprawdzasz zabezpieczenia | 8:30 Siadasz za sterami maszyny i zdejmujesz ścianę | 11:30 Ręcznie wybierasz metal i drewno z gruzu | 14:00 Ładujesz gruz na ciężarówki do wywozu
+Y: Rozbierz na części trzy puste opakowania i posortuj elementy według materiału: karton, plastik, folia.
+
+@788
+H: Wspinasz się po elewacjach budynków i konstrukcjach albo wjeżdżasz na nie podestem, żeby wykonać prace, do których nie da się dojść z ziemi. Każdy ruch zabezpieczasz sprzętem.
+T: Sprawdzasz uprząż, liny i punkty zaczepienia | Wspinasz się lub wjeżdżasz podestem na miejsce pracy | Naprawiasz lub czyścisz fragment elewacji | Asekurujesz współpracownika i pilnujesz zasad
+D: 7:00 Rozkładasz liny i oglądasz każdy karabinek | 8:30 Zjeżdżasz po elewacji do uszkodzonego miejsca | 11:00 Naprawiasz fragment ściany, a lina cię asekuruje | 13:30 Wracasz na ziemię i zwijasz sprzęt
+Y: Obejrzyj z okna swój budynek i wypisz trzy miejsca elewacji, do których trudno dojść z ziemi.
+
+@789
+H: Wlewasz beton do form i wykańczasz jego powierzchnię, aż będzie równa i gładka. Pracujesz w tempie, jakie narzuca wiązanie betonu.
+T: Ustawiasz formy z desek lub płyt | Wlewasz beton i rozprowadzasz go | Wyrównujesz i wygładzasz powierzchnię | Fazujesz krawędzie, żeby się nie kruszyły
+D: 6:00 Ustawiasz i sprawdzasz formy pod płytę | 8:00 Wlewasz beton z betoniarki i rozprowadzasz go | 10:30 Ściągasz nadmiar łatą i wyrównujesz powierzchnię | 13:00 Fazujesz krawędzie i wygładzasz, zanim stwardnieje
+Y: Wymieszaj mąkę z wodą na gęstą masę, rozsmaruj ją na tacy i wygładź płasko łyżką.
+
+@790
+H: Wylewasz podłogi i blaty z mieszanki cementu i kawałków marmuru, a potem szlifujesz je na gładko i błyszcząco. Efekt przypomina polerowany kamień z kolorowymi drobinami.
+T: Przygotowujesz podłoże pod posadzkę | Montujesz listwy dzielące pola | Wylewasz masę z cementu i kamienia | Szlifujesz i polerujesz powierzchnię na połysk
+D: 7:00 Czyścisz podłoże i mierzysz pomieszczenie | 8:30 Mocujesz listwy dzielące posadzkę na pola | 10:30 Wylewasz masę z drobinami marmuru | 14:00 Po związaniu masy szlifujesz ją maszyną
+Y: Ułóż na kartonie wzór z kolorowych kamyków lub guzików, jak drobiny w lastryko, i zrób zdjęcie.
+
+@791
+H: Obrabiasz kamień ręcznie: rzeźbisz ozdobne elementy i układasz kamień w budynkach. Maszyny przejmują sporo pracy, ale detale nadal wykonujesz własnymi rękami.
+T: Dobierasz blok kamienia do zlecenia | Rzeźbisz ozdobne detale dłutem | Obrabiasz kamień na wymiar | Układasz gotowe elementy na miejscu
+D: 7:00 Oglądasz blok kamienia i planujesz cięcie | 9:00 Dłutem wykuwasz ozdobny element ramy okiennej | 12:30 Dopasowujesz elementy według rysunku | 14:30 Układasz kamienne stopnie i sprawdzasz poziom
+Y: Wyrzeźb plastikową łyżką prosty wzór w kostce mydła i sprawdź, jak łatwo kruszą się krawędzie.
+
+@792
+H: Zdobisz kamienne powierzchnie napisami i wzorami, wyrytymi narzędziem lub wytrawionymi. Każda litera musi być równa, bo błędu w kamieniu nie da się zetrzeć.
+T: Przenosisz wzór lub napis na kamień | Ryjesz litery dłutem lub maszyną | Wytrawiasz motyw specjalnym środkiem | Sprawdzasz równość liter i głębokość
+D: 8:00 Przygotowujesz szablon napisu na płytę | 9:30 Znaczysz litery i zaczynasz ryć dłutem | 12:00 Nakładasz środek, który wytrawia wzór w kamieniu | 14:30 Poprawiasz krawędzie liter i czyścisz płytę
+Y: Narysuj ołówkiem cztery duże litery i popraw je, aż mają identyczną wysokość i równe odstępy.
+
+@793
+H: Układasz cegły w równych rzędach i łączysz je zaprawą, aż powstanie ściana. Każdy rząd sprawdzasz poziomicą, a spoiny wypełniasz na końcu.
+T: Mieszasz zaprawę i nakładasz ją kielnią | Układasz cegły w równych rzędach | Sprawdzasz pion i poziom ściany | Wypełniasz spoiny między cegłami
+D: 7:00 Mieszasz zaprawę i przygotowujesz pierwszy rząd | 9:00 Układasz cegły, każdą dociskasz i wyrównujesz | 12:00 Sprawdzasz poziomicą, czy ściana nie krzywi się | 14:30 Wypełniasz spoiny i zbierasz nadmiar zaprawy
+Y: Ułóż z klocków mur o przesuniętych spoinach, jak z cegieł, i sprawdź, czy stoi prosto.
+
+@794
+H: Pomagasz budować, utrzymywać i remontować domy i małe budynki, wykonując różne zadania zależnie od etapu prac. Raz murujesz, raz układasz podłogę, raz naprawiasz stary dach.
+T: Czytasz plan i ustalasz kolejność prac | Wykonujesz proste prace murarskie i wykończeniowe | Remontujesz fragmenty starego domu | Zmieniasz zadania w zależności od etapu budowy
+D: 7:00 Dostajesz od kierownika zadania na dziś | 8:30 Murujesz niską ściankę działową | 11:30 Wymieniasz zniszczone deski podłogi w starym domu | 14:00 Pomagasz ekipie wylać posadzkę w pokoju
+Y: Wypisz pięć rzeczy potrzebnych do remontu jednego pokoju i ułóż je w kolejności użycia.
+
+@795
+H: Czyścisz kominy w domach i blokach z sadzy i popiołu, a przy okazji kontrolujesz, czy nie grozi pożar albo zaczadzenie. Pracujesz w kombinezonie, często na dachach i w kotłowniach.
+T: Usuwasz sadzę i popiół z komina | Przeciągasz szczotkę przez przewód kominowy | Kontrolujesz, czy komin jest drożny i szczelny | Naprawiasz drobne uszkodzenia komina
+D: 7:30 Zakładasz kombinezon i jedziesz do pierwszego klienta | 9:00 Wchodzisz na dach ze szczotką kominiarską | 11:30 Zbierasz sadzę do worka przy kotle | 13:30 Wypełniasz protokół i tłumaczysz właścicielowi wynik
+Y: Narysuj przekrój domu z kominem i zaznacz strzałkami drogę, którą ciepłe powietrze unosi się w górę.
+
+@796
+H: Kierujesz pracą ekipy kominiarzy i pilnujesz przestrzegania przepisów bezpieczeństwa. Sprawdzasz, czy komin został dobrze wyczyszczony, i uczysz młodszych fachu.
+T: Rozdzielasz kominiarzom adresy i zadania | Kontrolujesz jakość wykonanego czyszczenia | Sprawdzasz zgodność z przepisami bezpieczeństwa | Pokazujesz młodszym kominiarzom prawidłową technikę
+D: 7:00 Planujesz trasę i rozdzielasz adresy w ekipie | 9:00 Kontrolujesz na miejscu komin wyczyszczony przez czeladnika | 11:30 Pokazujesz młodszemu kominiarzowi, jak chwycić szczotkę | 14:00 Omawiasz z zarządcą budynku wyniki kontroli
+Y: Wypisz pięć zasad bezpieczeństwa dla osoby czyszczącej komin i ułóż je od najważniejszej.
+
+@797
+H: Usuwasz azbest z budynków w kombinezonie ochronnym i według ścisłych przepisów. Najpierw sprawdzasz, jak duże jest skażenie, potem odgradzasz teren, żeby pył nie rozszedł się dalej.
+T: Badasz, jak duże jest skażenie azbestem | Odgradzasz strefę, żeby pył nie przeniósł się dalej | Ostrożnie zdejmujesz materiały z azbestem | Pakujesz odpady w szczelne worki
+D: 7:00 Zakładasz kombinezon ochronny i maskę | 8:00 Odgradzasz strefę, żeby pył nie wyszedł dalej | 9:30 Ostrożnie zdejmujesz stare płyty z azbestem | 13:00 Pakujesz odpady w szczelne worki i oznaczasz je
+Y: Sprawdź w internecie, gdzie dawniej stosowano azbest, i zapisz trzy przykłady elementów budynku.
+
+@798
+H: Usuwasz z budynków i terenów to, co szkodzi ludziom i środowisku, na przykład zanieczyszczoną glebę czy materiały radioaktywne. Najpierw ustalasz, skąd wzięło się skażenie, a potem je likwidujesz.
+T: Ustalasz przyczynę i zasięg skażenia | Pobierasz próbki gleby lub materiału | Usuwasz zanieczyszczoną ziemię lub elementy budowli | Przewozisz niebezpieczne odpady zgodnie z przepisami
+D: 7:30 Dostajesz zgłoszenie o zanieczyszczonym terenie | 9:00 Zbierasz próbki gleby i zapisujesz wyniki pomiarów | 11:30 W kombinezonie ochronnym wybierasz skażoną warstwę ziemi | 15:00 Ładujesz oznakowane pojemniki na specjalny transport
+Y: Zapisz cztery rzeczy z domu, których nie wolno wyrzucać do zwykłego kosza, i sprawdź, gdzie je oddać.
+
+@799
+H: Dbasz o czystość wokół budynków: zbierasz śmieci, zamiatasz i sprawdzasz, czy teren jest w dobrym stanie. Zgłaszasz uszkodzenia i wykonujesz drobne prace renowacyjne.
+T: Zbierasz śmieci i zamiatasz chodniki | Opróżniasz kosze i wymieniasz worki | Obchodzisz teren i szukasz uszkodzeń | Wykonujesz drobne prace renowacyjne na zewnątrz
+D: 6:00 Zaczynasz obchód terenu przed pobudką mieszkańców | 7:00 Zamiatasz chodniki i zbierasz śmieci z trawników | 10:00 Opróżniasz kosze i zgłaszasz pękniętą płytę | 12:30 Sprawdzasz ławki i place przed końcem zmiany
+Y: Obejdź swoją klatkę lub podwórko i wypisz pięć miejsc, które wymagają posprzątania lub naprawy.
+
+@800
+H: Pokrywasz metalowe, drewniane i plastikowe elementy twardą, trwałą warstwą lakieru, nakładaną pistoletem natryskowym. Najpierw przygotowujesz powierzchnię, bo każda niedoskonałość będzie widoczna po lakierowaniu.
+T: Czyścisz i matowisz elementy przed malowaniem | Mieszasz lakier i napełniasz pistolet | Natryskujesz równą warstwę w kabinie lakierniczej | Sprawdzasz połysk i usuwasz zacieki
+D: 6:30 Wieszasz elementy na stojakach w kabinie | 8:00 Mieszasz lakier i kolor według zlecenia | 10:00 Natryskujesz drugą warstwę równymi pociągnięciami | 13:00 Oglądasz wyschnięty detal pod mocnym światłem
+Y: Narysuj kredką na kartce kwadrat i wypełnij go równo, bez smug i przerw, ruchami w jedną stronę.
+
+@801
+H: Malujesz i naprawiasz lakier na samochodach, autobusach, łodziach czy motocyklach. Usuwasz zarysowania i dobierasz kolor tak, żeby po naprawie nie było widać różnicy.
+T: Szlifujesz zarysowanie i przygotowujesz powierzchnię | Dobierasz kolor lakieru do reszty pojazdu | Natryskujesz warstwy lakieru w kabinie | Polerujesz naprawiony fragment, żeby zniknęła granica
+D: 7:00 Oglądasz rysę na drzwiach przyjętego auta | 8:30 Szlifujesz uszkodzone miejsce i zaklejasz resztę taśmą | 11:00 Dobierasz kolor i natryskujesz warstwy lakieru | 14:00 Polerujesz miejsce naprawy i pokazujesz właścicielowi
+Y: Obejrzyj z bliska w świetle okna lakierowany przedmiot w domu, policz rysy i oceń, które są tylko powierzchowne.
+
+@802
+H: Chronisz metalowe elementy przed rdzą, nakładając na nie specjalne farby i powłoki. Oceniasz też, ile materiału potrzeba do zabezpieczenia danej powierzchni.
+T: Oceniasz stan metalu i ślady rdzy | Szacujesz ilość potrzebnej farby | Czyścisz metal z rdzy i brudu | Nakładasz powłokę ochronną warstwami
+D: 7:00 Oglądasz stalową konstrukcję i oceniasz zakres rdzy | 9:00 Obliczasz, ile farby ochronnej potrzeba na powierzchnię | 11:00 Czyścisz metal do czystej, jasnej powierzchni | 14:00 Nakładasz pierwszą warstwę zabezpieczenia i zapisujesz godzinę
+Y: Znajdź w domu lub na podwórku trzy metalowe przedmioty i zapisz, który ma rdzę i w jakim miejscu.
+
+@803
+H: Malujesz ściany i sufity w mieszkaniach i na zewnątrz budynków, pędzlem, wałkiem albo sprayem. Przed malowaniem zabezpieczasz podłogi i meble, bo samo malowanie to tylko część pracy.
+T: Zabezpieczasz podłogi, meble i okna folią | Naprawiasz ubytki i wygładzasz ścianę | Malujesz wałkiem i pędzlem | Kładziesz drugą warstwę i poprawiasz krawędzie
+D: 7:30 Wnosisz wiadra i zakrywasz meble folią | 9:00 Wałkiem malujesz sufit, potem ściany | 12:00 Pędzlem poprawiasz narożniki i okolice listew | 14:30 Zdejmujesz taśmę i sprzątasz pokój
+Y: Zmierz długość i wysokość jednej ściany w pokoju i policz jej powierzchnię w metrach kwadratowych.
+
+@804
+H: Oklejasz ściany tapetą tak, żeby wzór pasował na łączeniach, a pod spodem nie zostały bąble powietrza. Każdy pas musisz wyciąć na wymiar i dopasować do poprzedniego.
+T: Mierzysz ścianę i tniesz pasy tapety | Nakładasz klej na papier lub ścianę | Przyklejasz pas prosto i dopasowujesz wzór | Wygładzasz tapetę, żeby nie było bąbli
+D: 8:00 Mierzysz ścianę i tniesz pierwsze pasy | 9:30 Smarujesz klejem ścianę lub tapetę | 11:30 Przyklejasz pas, dopasowując wzór do poprzedniego | 14:00 Dociskasz krawędzie i wypędzasz pęcherzyki powietrza
+Y: Narysuj na dwóch kartkach powtarzalny wzór i połóż je obok siebie tak, by wzór łączył się bez przerwy.
+
+@805
+H: Budujesz tory kolejowe: na podsypce z kamieni kładziesz podkłady, a na nich szyny, które łączysz w stałej odległości. Zwykle pracujesz razem z maszyną, ale czasem układasz wszystko ręcznie.
+T: Obserwujesz maszynę układającą podkłady | Układasz szyny na podkładach | Mocujesz szyny w stałym rozstawie | Wyrównujesz warstwę kamiennego tłucznia
+D: 6:00 Dojeżdżasz na odcinek budowy nowego toru | 7:00 Maszyna kładzie podkłady, a ty pilnujesz odstępów | 10:30 Układasz szyny na podkładach i je łączysz | 13:00 Mierzysz odległość między szynami na całym odcinku
+Y: Ułóż na stole z patyczków i dwóch pasków papieru model toru i sprawdź linijką równy odstęp.
+
+@806
+H: Ustawiasz znaki drogowe w wyznaczonych miejscach: wiercisz otwór w ziemi albo zdejmujesz kawałek nawierzchni, a ciężkie słupy mocujesz w betonie. Znaki przywozisz na miejsce samochodem.
+T: Przywozisz znaki i słupki na wskazane miejsce | Wiercisz otwór w ziemi pod słupek | Usuwasz fragment nawierzchni, żeby dostać się do gleby | Zakotwiczasz ciężki znak w betonie
+D: 7:00 Ładujesz znaki i słupki na pakę | 8:30 Wyznaczasz miejsce i wiercisz otwór w ziemi | 11:00 Wstawiasz słupek i zalewasz go betonem | 13:30 Sprawdzasz, czy znak stoi prosto i pewnie
+Y: Narysuj z pamięci trzy znaki drogowe i obok każdego napisz, co oznacza.
+
+@807
+H: Pomagasz specjalistom na budowie: przygotowujesz stanowiska, nosisz materiały i sprzątasz po skończonych pracach. Wykonujesz proste zadania, bez których fachowcy nie mogliby zacząć.
+T: Rozładowujesz cegły, worki i narzędzia | Przygotowujesz stanowisko dla murarza | Mieszasz zaprawę i donosisz ją | Sprzątasz plac po skończonych pracach
+D: 6:30 Odbierasz od brygadzisty zadania na dziś | 7:30 Przenosisz worki i cegły do murarzy | 10:00 Układasz deski i wyrównujesz grunt pod stanowisko | 13:00 Zamiatasz plac i zbierasz gruz do pojemnika
+Y: Uporządkuj w domu jedną szufladę tak, by wszystko miało stałe miejsce, i zrób zdjęcie przed i po.
+
+@808
+H: Malujesz na jezdniach linie, strzałki i przejścia oraz montujesz odblaski, które pomagają kierowcom trafić i jechać bezpiecznie. Do malowania linii używasz specjalnych maszyn.
+T: Wyznaczasz miarą i znacznikami przebieg linii | Malujesz linie maszyną na jezdni | Montujesz odblaski w nawierzchni | Ustawiasz stożki i tablice ostrzegawcze
+D: 6:00 Ładujesz maszynę i farbę na samochód | 7:30 Ustawiasz stożki i wyznaczasz przebieg linii | 9:00 Prowadzisz maszynę i malujesz ciągłą linię | 13:00 Montujesz odblaski i zbierasz stożki
+Y: Narysuj na kartce skrzyżowanie z liniami i strzałkami, które pokazują kierowcom, gdzie jechać.
+
+@809
+H: Układasz w ziemi rury drenażowe, które odprowadzają wodę spod budynków i chodników. Dzięki temu woda gruntowa nie podtapia piwnic.
+T: Kopiesz rów wzdłuż fundamentu | Układasz rury drenażowe ze spadkiem | Zasypujesz rurę żwirem i ziemią | Sprawdzasz, czy woda swobodnie odpływa
+D: 7:00 Wyznaczasz przebieg rowu wzdłuż ściany piwnicy | 8:30 Kopiesz rów i układasz w nim rury | 12:00 Zasypujesz rury żwirem i przykrywasz ziemią | 14:00 Wlewasz wodę i sprawdzasz, jak odpływa
+Y: Pochyl nad zlewem długą plastikową tackę z wodą i sprawdź, jak mały spadek wystarczy, by woda spływała.
+

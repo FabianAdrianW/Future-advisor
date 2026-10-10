@@ -1,0 +1,180 @@
+@1350
+H: Sprawdzasz, czy firma postępuje uczciwie wobec ludzi i środowiska, i doradzasz jej, co poprawić. Namawiasz do działań, które pomagają społeczności, a nie tylko dają zysk.
+T: Oceniasz wpływ firmy na środowisko i ludzi | Doradzasz zarządowi w sprawach etyki | Planujesz akcje pomocowe i ekologiczne | Pilnujesz, czy obietnice firmy są dotrzymywane
+D: 9:00 Czytasz raport o zużyciu wody i odpadów w firmie | 11:00 Spotkanie z zarządem o zasadach współpracy z dostawcami | 13:30 Omawiasz z fundacją wspólną zbiórkę dla szkoły | 15:30 Piszesz wnioski z kontroli dostawcy
+Y: Wybierz jedną rzecz, którą często kupujesz, i zapisz trzy pytania o to, jak została wyprodukowana.
+
+@1351
+H: Odpowiadasz za jeden dział firmy: pilnujesz, żeby osiągał cele, i układasz pracę ludzi, którzy w nim są.
+T: Rozdzielasz zadania między pracowników | Sprawdzasz, czy dział osiąga cele | Rozmawiasz z pracownikami o ich wynikach | Ustalasz plan pracy na tydzień
+D: 8:30 Krótka odprawa, kto czym zajmuje się dziś | 10:00 Przeglądasz wyniki działu z ostatniego tygodnia | 12:30 Rozmowa z pracownikiem, który nie wyrabia się z terminem | 15:00 Raportujesz dyrekcji, co udało się zrobić
+Y: Rozpisz sprzątanie domu na cztery osoby tak, żeby każdy dostał inne zadanie i termin.
+
+@1352
+H: Pilnujesz, żeby projekt skończył się na czas i w ramach przyznanych pieniędzy. Ustalasz, kto co robi, i reagujesz, gdy coś się opóźnia.
+T: Układasz harmonogram i listę zadań | Pilnujesz budżetu i terminów | Rozwiązujesz problemy, gdy plan się sypie | Informujesz klienta o postępach prac
+D: 8:45 Sprawdzasz, które zadania z harmonogramu się opóźniają | 10:30 Spotkanie z klientem, który zmienia wymagania | 13:00 Przesuwasz terminy i ustalasz nowy podział zadań | 16:00 Aktualizujesz budżet i wysyłasz podsumowanie tygodnia
+Y: Zaplanuj przygotowanie obiadu dla rodziny: rozpisz kroki, kto robi co i o której skończycie.
+
+@1353
+H: Zajmujesz się papierami i organizacją w instytucji związanej z obronnością. Prowadzisz rejestry, obsługujesz ludzi i pilnujesz, żeby sprawy były załatwiane zgodnie z przepisami.
+T: Prowadzisz rejestry i dokumentację | Obsługujesz interesantów przy okienku | Pilnujesz terminów w sprawach pracowniczych | Przygotowujesz pisma i zestawienia
+D: 7:30 Zaczynasz od poczty i rejestru przychodzących pism | 9:00 Przyjmujesz interesantów z wnioskami i dokumentami | 12:00 Uzupełniasz akta pracowników po zmianie stanowisk | 14:00 Przygotowujesz zestawienie dla przełożonego
+Y: Zrób rejestr swoich książek lub gier: tabela z tytułem, datą zakupu i miejscem na półce.
+
+@1354
+H: Wymyślasz i wdrażasz plan, jak przyciągnąć do regionu więcej turystów. Sprawdzasz, co w branży działa, i planujesz promocję regionu także za granicą.
+T: Opracowujesz plany promocji regionu | Badasz, czego szukają turyści | Monitorujesz hotele, atrakcje i przewoźników | Przygotowujesz propozycje polityki turystycznej dla władz
+D: 8:30 Analizujesz liczbę noclegów w regionie z minionego miesiąca | 10:30 Spotkanie z właścicielami pensjonatów i przewodnikami | 13:00 Pracujesz nad planem promocji na targi turystyczne | 15:30 Przedstawiasz urzędnikom propozycje nowych szlaków
+Y: Napisz plan jednodniowej wycieczki po swojej okolicy dla turysty z zagranicy, z pięcioma punktami.
+
+@1355
+H: Kierujesz tworzeniem stanowisk i programów organizacji w sprawach takich jak środowisko, etyka czy zrównoważony rozwój. Pilnujesz, żeby cele strategiczne zamieniały się w konkretne kampanie.
+T: Nadzorujesz tworzenie stanowisk organizacji | Planujesz kampanie i rzecznictwo | Sprawdzasz, czy cele są realizowane | Przeglądasz dane o wpływie organizacji na środowisko
+D: 9:00 Omawiasz z zespołem projekt stanowiska w sprawie klimatu | 11:00 Poprawiasz plan kampanii, która ma przekonać posłów | 13:30 Spotkanie z partnerską organizacją w sprawie wspólnej kampanii | 15:00 Sprawdzasz, ile celów strategii już zrealizowano
+Y: Wybierz problem w swojej okolicy i napisz hasło kampanii oraz trzy kroki, które ją uruchomią.
+
+@1356
+H: Razem z zarządem układasz plan na kilka lat dla całej firmy, a potem rozpisujesz go na poszczególne działy. Pilnujesz, żeby wszystkie części firmy szły w tę samą stronę.
+T: Tworzysz plan strategiczny firmy | Rozpisujesz go na zadania dla działów | Tłumaczysz kierownikom ogólny plan | Sprawdzasz, czy wdrażanie jest spójne
+D: 9:00 Spotkanie zarządu o kierunku rozwoju na kolejne lata | 11:00 Rozpisujesz cele firmy na plan dla działu sprzedaży | 13:30 Tłumaczysz kierownikowi, jak jego zadania pasują do całości | 15:30 Wyłapujesz sprzeczności między planami dwóch departamentów
+Y: Wymyśl plan na kolejne trzy lata swojej nauki i rozpisz go na cele na każdy rok.
+
+@1357
+H: Kierujesz państwowymi programami wsparcia dla obywateli, na przykład świadczeniami dla osób w trudnej sytuacji. Sprawdzasz, czy zasady działają, i proponujesz zmiany.
+T: Kierujesz pracą urzędników od świadczeń | Analizujesz obowiązujące zasady wsparcia | Piszesz propozycje ulepszeń programów | Informujesz obywateli o dostępnych świadczeniach
+D: 8:00 Odprawa z urzędnikami, którzy rozpatrują wnioski o świadczenia | 10:00 Czytasz skargi obywateli na długie oczekiwanie | 12:30 Analizujesz, gdzie zasady zostawiają ludzi bez pomocy | 14:30 Piszesz propozycję zmiany dla ministerstwa
+Y: Znajdź w internecie, jakie formy wsparcia państwo oferuje uczniom, i wypisz trzy z nich.
+
+@1358
+H: Pilnujesz, żeby firma od gier hazardowych przestrzegała przepisów, a jej systemy informatyczne były bezpieczne. Sprawdzasz, czy nic nie łamie prawa ani nie naraża danych.
+T: Sprawdzasz zgodność działania z przepisami | Kontrolujesz zabezpieczenia systemów informatycznych | Przygotowujesz dokumenty dla organów nadzoru | Szkolisz pracowników z zasad bezpieczeństwa
+D: 8:30 Czytasz nowe przepisy o nadzorze nad grami | 10:30 Sprawdzasz z informatykami zabezpieczenia serwerów | 13:00 Odpowiadasz na pytania kontrolera z urzędu nadzoru | 15:00 Szkolisz pracowników z zasad ochrony danych graczy
+Y: Spisz pięć zasad bezpiecznego hasła i oceń według nich swoje własne, bez zapisywania ich nigdzie.
+
+@1359
+H: Zarządzasz kilkoma projektami naraz i pilnujesz, żeby do siebie pasowały. Nie prowadzisz każdego z osobna, lecz dbasz o to, co z nich wynika razem.
+T: Koordynujesz kilka projektów jednocześnie | Sprawdzasz, czy projekty sobie nie przeszkadzają | Rozmawiasz z kierownikami poszczególnych projektów | Oceniasz, czy projekty się opłacają
+D: 9:00 Przegląd stanu trzech projektów na jednej tablicy | 11:00 Zauważasz, że dwa projekty chcą tych samych ludzi | 13:30 Rozmowa z kierownikami o zmianie kolejności prac | 15:30 Decydujesz, który projekt wstrzymać lub zmniejszyć
+Y: Zapisz trzy swoje bieżące sprawy, na przykład naukę, trening i hobby, i ustal, która blokuje inną.
+
+@1360
+H: Odpowiadasz za to, jak firma szuka, zatrudnia i rozwija ludzi. Planujesz rekrutacje, szkolenia i oceny roczne, a także reagujesz na problemy pracowników.
+T: Planujesz rekrutacje i rozmowy o pracę | Układasz programy szkoleń | Prowadzisz roczne oceny pracowników | Reagujesz na skargi i problemy pracowników
+D: 8:30 Przeglądasz zgłoszenia kandydatów na stanowisko księgowego | 10:30 Rozmowa kwalifikacyjna z dwiema osobami | 13:00 Ustalasz z kierownikami plan szkoleń na kwartał | 15:00 Rozmowa z pracownikiem, który zgłasza konflikt
+Y: Napisz ogłoszenie o pracę dla osoby, która ma opiekować się zwierzętami sąsiadów: wymagania i obowiązki.
+
+@1361
+H: Układasz zasady, dzięki którym w firmie nikt nie jest traktowany gorzej z powodu płci, wieku, pochodzenia czy niepełnosprawności. Tłumaczysz je pracownikom i doradzasz kierownictwu.
+T: Piszesz zasady przeciwdziałania dyskryminacji | Prowadzisz szkolenia o różnorodności | Doradzasz kierownictwu w sprawie atmosfery w firmie | Wspierasz pracowników, którzy zgłaszają problemy
+D: 9:00 Analizujesz, kto awansował w firmie w tym roku | 11:00 Szkolenie dla kierowników o uprzedzeniach przy rekrutacji | 13:30 Rozmowa z pracownicą, która zgłasza nierówne traktowanie | 15:30 Poprawiasz regulamin, żeby był jasny dla wszystkich
+Y: Przejrzyj regulamin swojej klasy lub szkoły i zaznacz jeden zapis, który mógłby kogoś wykluczać.
+
+@1362
+H: Kierujesz placówką badawczą lub laboratorium: pilnujesz projektów i ludzi, którzy je prowadzą. Czasem także prowadzisz własne badania.
+T: Nadzorujesz projekty badawcze | Rozdzielasz zadania naukowcom i laborantom | Zatwierdzasz wyniki i plany badań | Doradzasz w sprawach prowadzenia badań
+D: 8:00 Przegląd, jak idą badania w trzech laboratoriach | 10:00 Omawiasz z naukowcem wyniki, które nie pasują do założeń | 13:00 Układasz plan pracy i zamówienia sprzętu | 15:30 Piszesz sprawozdanie z postępu prac
+Y: Zapisz hipotezę i plan prostego badania: czy roślina rośnie szybciej na parapecie czy w cieniu.
+
+@1363
+H: Koordynujesz ludzi, którzy wymyślają nowe produkty albo ulepszają obecne. Ustalasz cele i budżet oraz pilnujesz, żeby naukowcy, projektanci i badacze rynku szli w tym samym kierunku.
+T: Ustalasz cele prac badawczo-rozwojowych | Planujesz budżet badań | Łączysz pracę naukowców i projektantów produktu | Wybierasz pomysły, które warto rozwijać
+D: 9:00 Ustalasz z działem finansów budżet na przyszły rok | 11:00 Spotkanie z naukowcami i badaczami rynku o nowym pomyśle | 13:30 Oglądasz prototyp i zapisujesz, co trzeba poprawić | 15:30 Wybierasz, który z trzech pomysłów dostanie pieniądze
+Y: Wymyśl ulepszenie zwykłego przedmiotu z domu, narysuj szkic i opisz, komu by się przydał.
+
+@1364
+H: Śledzisz nowe technologie informatyczne i telekomunikacyjne i oceniasz, czy firma powinna z nich skorzystać. Organizujesz też szkolenia, żeby pracownicy umieli je wykorzystać.
+T: Planujesz prace badawcze nad nowymi technologiami | Oceniasz, które nowinki się przydadzą | Organizujesz szkolenia z nowych rozwiązań | Rekomendujesz wdrożenia nowych produktów
+D: 9:00 Czytasz o nowej technologii łączności i jej ograniczeniach | 11:00 Testy nowego rozwiązania razem z informatykami | 13:30 Przygotowujesz szkolenie dla pracowników o nowym systemie | 15:30 Piszesz rekomendację dla zarządu, czy to wdrożyć
+Y: Wybierz nowinkę technologiczną, o której słyszysz, i wypisz dwie korzyści oraz dwa ryzyka dla szkoły.
+
+@1365
+H: Koordynujesz powstawanie gier od pomysłu do sprzedaży. Rozmawiasz z producentami, żeby gra powstała w terminie i trafiła do graczy.
+T: Nadzorujesz tworzenie gier | Rozmawiasz z producentami o terminach | Planujesz wydanie i sprzedaż gry | Sprawdzasz, czy gra spełnia założenia
+D: 9:30 Przegląd postępów z zespołem tworzącym poziomy gry | 11:30 Rozmowa z producentem o opóźnieniu kolejnej wersji | 14:00 Planujesz z działem sprzedaży datę premiery | 16:00 Testujesz wersję i zapisujesz uwagi dla twórców
+Y: Wymyśl własną grę planszową na kartce i spisz jej zasady w pięciu punktach.
+
+@1366
+H: Prowadzisz nowy produkt od pomysłu do gotowej rzeczy: sprawdzasz potrzeby klientów, zlecasz prototypy i pilnujesz kosztów. Decydujesz, co ma mieć produkt i ile może kosztować.
+T: Badasz potrzeby rynku | Ustalasz wymagania techniczne i projektowe | Zlecasz wykonanie prototypów | Pilnujesz kosztów wytworzenia produktu
+D: 9:00 Czytasz ankiety klientów o tym, czego brakuje | 11:00 Briefing dla projektantów nowego produktu | 13:00 Oglądasz prototyp i liczysz koszt materiałów | 15:30 Zmieniasz założenia po testach wytrzymałości
+Y: Zrób ankietę z trzema pytaniami o to, czego brakuje w plecaku szkolnym, i zadaj je dwóm osobom z rodziny.
+
+@1367
+H: Pilnujesz, żeby nowy model buta powstał zgodnie z projektem, w terminie i w budżecie. Łączysz projektantów, technologów i fabrykę.
+T: Koordynujesz projektowanie nowych modeli obuwia | Sprawdzasz próbki butów z fabryki | Pilnujesz terminów kolekcji | Porównujesz projekt z kosztami produkcji
+D: 8:30 Oglądasz próbkę buta z krzywo przyszytą podeszwą | 10:30 Rozmowa z projektantem o zmianie wzoru cholewki | 13:00 Ustalasz z fabryką, kiedy ruszy produkcja serii | 15:00 Liczysz, czy model zmieści się w kosztach
+Y: Obejrzyj swoje buty od spodu i zapisz, z ilu różnych materiałów i części się składają.
+
+@1368
+H: Planujesz kolekcje ubrań: dla kogo mają być, w jakich kolorach i w jakiej cenie. Pilnujesz, żeby projekt zgadzał się ze strategią marki i budżetem.
+T: Ustalasz, kto ma nosić nową kolekcję | Wybierasz kolory i fasony na sezon | Przygotowujesz wytyczne dla projektantów | Pilnujesz budżetu całej kolekcji
+D: 9:00 Przeglądasz wyniki sprzedaży zeszłorocznej kolekcji | 11:00 Briefing dla projektantów: paleta kolorów na wiosnę | 13:30 Wybierasz z działem sprzedaży, co trafi do sklepów | 16:00 Przycinasz liczbę modeli, bo budżet jest za mały
+Y: Zrób zestaw na jesień z ubrań, które masz, i opisz w trzech zdaniach, do kogo jest.
+
+@1369
+H: Koordynujesz projektowanie toreb, pasków czy portfeli od szkicu do produkcji. Pilnujesz, żeby wyglądały jak zaplanowano, kosztowały tyle, ile założono, i były gotowe na czas.
+T: Prowadzisz proces tworzenia wyrobów skórzanych | Zamawiasz skóry i dodatki | Wyceniasz produkt razem z działem kosztów | Ustalasz terminy z produkcją i kontrolą jakości
+D: 8:30 Oglądasz próbkę torebki, szew się rozchodzi | 10:30 Rozmowa z krawcem o zmianie sposobu szycia | 13:00 Wycena paska po zmianie rodzaju skóry | 15:30 Ustalasz z logistyką, kiedy dostawa do sklepów
+Y: Obejrzyj swój pasek, portfel lub plecak i zapisz, z jakich części i zapięć się składa.
+
+@1370
+H: Odpowiadasz za produkt przez całe jego życie: od pomysłu, przez sprzedaż, aż do wycofania. Badasz rynek i decydujesz, co ulepszyć, żeby produkt lepiej się sprzedawał.
+T: Badasz rynek i konkurencję | Zbierasz opinie użytkowników o produkcie | Planujesz kolejne wersje produktu | Ustalasz działania marketingowe
+D: 9:00 Czytasz opinie użytkowników o najnowszej wersji | 11:00 Rozmowa z klientem o jego problemach z produktem | 13:30 Ustalasz z inżynierami, co wejdzie do następnej wersji | 15:30 Przygotowujesz plan promocji nowej funkcji
+Y: Wybierz przedmiot, którego często używasz, i wypisz trzy rzeczy, które warto w nim zmienić.
+
+@1371
+H: Wymyślasz i ustalasz kształt nowych ubezpieczeń, na przykład dla podróżnych czy kierowców. Potem informujesz dział sprzedaży, jak je sprzedawać.
+T: Projektujesz nowe produkty ubezpieczeniowe | Decydujesz, co obejmuje nowe ubezpieczenie | Koordynujesz marketing i sprzedaż produktu | Informujesz kierowników sprzedaży o nowej ofercie
+D: 9:00 Spotkanie o pomyśle ubezpieczenia dla rowerzystów | 11:00 Ustalasz, co ubezpieczenie obejmuje, a czego nie | 13:30 Przygotowujesz opis produktu dla działu marketingu | 15:00 Szkolisz sprzedawców z nowej oferty
+Y: Wymyśl ubezpieczenie dla plecaka szkolnego: napisz w pięciu zdaniach, co obejmuje, a czego nie.
+
+@1372
+H: Stoisz na czele firmy i podejmujesz najważniejsze decyzje. Odpowiadasz przed radą dyrektorów i akcjonariuszami za to, dokąd firma zmierza.
+T: Podejmujesz decyzje o kierunku rozwoju firmy | Analizujesz dane z różnych działów | Przedstawiasz wyniki radzie dyrektorów | Wdrażasz ogólną strategię firmy
+D: 7:30 Przeglądasz wyniki sprzedaży i dane z całej firmy | 9:30 Spotkanie z dyrektorami działów o problemie z dostawami | 13:00 Decydujesz, czy firma przejmie mniejszego konkurenta | 16:00 Rozmowa z radą dyrektorów o wynikach kwartału
+Y: Wyobraź sobie, że prowadzisz szkolny kiosk. Zapisz trzy najważniejsze decyzje na pierwszy miesiąc i powody.
+
+@1373
+H: Kierujesz grupą dyrektorów, z których każdy odpowiada za inną część lotniska. Na podstawie ich informacji decydujesz o kierunku rozwoju portu.
+T: Prowadzisz zebrania dyrektorów portu lotniczego | Czytasz raporty z każdego obszaru lotniska | Decydujesz o rozbudowie i rozwoju lotniska | Ustalasz priorytety strategiczne na kolejne lata
+D: 7:00 Odprawa o nocnych opóźnieniach i pogodzie na lotnisku | 9:30 Spotkanie z dyrektorami od ruchu, bezpieczeństwa i terminali | 13:00 Rozmowa o planie rozbudowy płyty postojowej dla samolotów | 16:00 Decydujesz, w co port zainwestuje w przyszłym roku
+Y: Narysuj prosty plan lotniska z pięcioma strefami i opisz, którędy przechodzi pasażer.
+
+@1374
+H: Zarządzasz oddziałem firmy w jednym regionie. Wdrażasz strategię centrali, ale dostosowujesz ją do lokalnego rynku.
+T: Prowadzisz wszystkie sprawy oddziału w regionie | Dostosowujesz plany centrali do lokalnego rynku | Kierujesz pracownikami oddziału | Rozliczasz oddział z celów i wyników
+D: 8:00 Rozmowa z centralą o nowych celach na kwartał | 10:00 Zmieniasz plan promocji, bo lokalny rynek reaguje inaczej | 13:00 Rozmowa z pracownikiem oddziału o wynikach sprzedaży | 15:30 Sprawdzasz, czy oddział osiąga założone cele
+Y: Wybierz sieciowy sklep w okolicy i zapisz, co mógłby zmienić w ofercie dla waszego miasta.
+
+@1375
+H: Odpowiadasz za jedną jednostkę firmy: ustalasz jej cele, planujesz działania i podejmujesz decyzje na podstawie danych. Rozmawiasz z pracownikami i właścicielami o tym, jak idzie.
+T: Określasz cele jednostki firmy | Układasz plan działań na rok | Przeglądasz wyniki działalności | Rozmawiasz z akcjonariuszami o postępach
+D: 8:30 Analizujesz wyniki jednostki z ostatniego miesiąca | 10:30 Ustalasz z kierownikami, co robić po spadku sprzedaży | 13:00 Spotkanie z akcjonariuszami o planie na przyszły rok | 15:30 Podpisujesz decyzję o zatrudnieniu nowych pracowników
+Y: Ustal trzy cele dla swojego klubu, grupy lub drużyny na ten semestr i zapisz plan działań.
+
+@1376
+H: Jesteś drugą osobą w firmie po dyrektorze generalnym i pilnujesz, żeby codzienna praca przebiegała sprawnie. Ustalasz też zasady i cele przedsiębiorstwa.
+T: Pilnujesz codziennego działania firmy | Rozwiązujesz problemy, które spowalniają firmę | Opracowujesz zasady i polityki firmy | Wspierasz dyrektora generalnego w decyzjach
+D: 7:30 Poranny przegląd awarii i opóźnień w firmie | 9:00 Rozmowa z kierownikami działów o brakach pracowników | 12:30 Zmieniasz zasady, żeby przyspieszyć obsługę zamówień | 15:30 Przekazujesz dyrektorowi generalnemu raport z dnia
+Y: Opisz w czterech krokach swój poranek w szkole od budzika do lekcji i znajdź jedno wąskie gardło.
+
+@1377
+H: Kierujesz ogrodem zoologicznym: ustalasz zasady, planujesz codzienną pracę i wykorzystanie pieniędzy. Często reprezentujesz zoo przed władzami i innymi ogrodami na świecie.
+T: Planujesz wykorzystanie pieniędzy i pracowników | Ustalasz zasady działania ogrodu | Reprezentujesz zoo wobec władz i innych ogrodów | Koordynujesz codzienne działania w zoo
+D: 7:30 Obchód ogrodu i rozmowa z opiekunami zwierząt | 10:00 Spotkanie o budowie nowego wybiegu dla słoni | 13:00 Rozmowa z urzędnikami o dofinansowaniu ogrodu | 16:00 Wideokonferencja z dyrektorami ogrodów z innych krajów
+Y: Wybierz jedno zwierzę i zapisz, czego potrzebuje do życia w zoo: miejsce, jedzenie, opieka.
+
+@1378
+H: Pomagasz osobom bez pracy znaleźć ofertę, która do nich pasuje. Doradzasz, jak szukać pracy i jak się do niej przygotować.
+T: Dopasowujesz kandydatów do ogłoszeń | Rozmawiasz z osobami szukającymi pracy | Doradzasz, jak pisać CV i szukać ofert | Kontaktujesz się z pracodawcami w sprawie wolnych stanowisk
+D: 8:00 Przeglądasz nowe oferty pracy od lokalnych firm | 9:30 Rozmowa z osobą, która szuka pracy po przerwie | 12:00 Dzwonisz do pracodawcy, żeby dopytać o wymagania | 14:00 Pomagasz poprawić CV i przygotować się do rozmowy
+Y: Wybierz ogłoszenie o pracę z internetu i wypisz, jakie umiejętności są w nim wymagane.
+
+@1379
+H: Tworzysz własną firmę wokół nowego pomysłu i na początku zajmujesz się niemal wszystkim. Szukasz klientów, pieniędzy i ludzi do pomocy.
+T: Rozmawiasz z potencjalnymi klientami | Szukasz pieniędzy na rozwój firmy | Budujesz pierwszy produkt lub usługę | Dobierasz pierwsze osoby do zespołu
+D: 8:00 Odpisujesz klientom i poprawiasz błąd w produkcie | 10:30 Rozmowa z pierwszym klientem, który testuje twój pomysł | 14:00 Przygotowujesz prezentację dla osoby, która może dać pieniądze | 21:00 Wieczorem rozliczasz faktury i układasz plan na jutro
+Y: Wymyśl usługę, którą dałoby się sprzedać w szkole, opisz jednym zdaniem, dla kogo jest, i zapytaj dwie osoby o zdanie.
+

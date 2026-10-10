@@ -1,0 +1,180 @@
+@300
+H: Obsługujesz maszyny, które sklejają drewniane wióry lub włókna w gładkie płyty używane do mebli i podłóg. Pilnujesz, żeby klej, temperatura i nacisk były ustawione tak, jak trzeba.
+T: Pilnujesz dozowania kleju do wiórów | Obserwujesz pracę prasy i panelu maszyny | Sprawdzasz grubość i wygląd gotowych płyt | Usuwasz zacięcia i odrzucasz wadliwe płyty
+D: 6:00 Przejmujesz maszynę i czytasz notatki z nocy | 8:30 Zmieniasz ustawienia na płytę o innej grubości | 11:00 Wyciągasz płytę z wadą, szukasz przyczyny | 13:30 Zapisujesz w dzienniku wyniki pomiarów zmiany
+Y: Obejrzyj brzeg starej płyty meblowej w domu i opisz, z czego jest zrobiona: wióry, włókna czy klejone warstwy.
+
+@301
+H: Obsługujesz maszyny, które mielą drewniane odpady i prasują je w małe, równe granulki na opał. Pilnujesz, żeby granulki miały stały kształt i rozmiar.
+T: Podajesz odpady drewniane do młyna | Kontrolujesz pracę prasy z matrycą | Sprawdzasz kształt i rozmiar granulek | Czyścisz maszynę z pyłu i resztek
+D: 6:00 Zaczynasz zmianę od przeglądu młyna i matrycy | 9:00 Granulki wychodzą nierówne, zmieniasz ustawienia | 12:00 Zrzucasz gotowy granulat do worków lub silosu | 14:00 Odkurzasz maszynę z pyłu drzewnego przed końcem zmiany
+Y: Zbierz wiórki z temperówki i sprawdź, czy da się je ścisnąć w zwartą kulkę bez kleju.
+
+@302
+H: Ścinasz drzewa i odcinasz konary ręczną piłą poprzeczną, a pnie tniesz na bale. To praca na świeżym powietrzu, fizyczna i zależna od pogody.
+T: Oceniasz, w którą stronę upadnie drzewo | Nacinasz pień i ścinasz drzewo | Odcinasz konary od powalonego pnia | Przecinasz pień na bale
+D: 6:30 Jedziesz w teren i oglądasz drzewa do ścięcia | 8:00 Nacinasz pień i ścinasz pierwsze drzewo | 11:00 Odcinasz konary i tniesz pień na bale | 14:00 Układasz bale w stos i sprawdzasz piłę
+Y: Zmierz sznurkiem obwód pnia drzewa w ogrodzie lub parku i oszacuj, jak szerokie byłoby przecięcie.
+
+@303
+H: Pilnujesz maszyny, która rozdrabnia drewno na małe wióry do płyt, papieru lub opału. Sprawdzasz, czy drewno wchodzi równo i czy wióry mają właściwy rozmiar.
+T: Zasilasz rębak pniami i kawałkami drewna | Obserwujesz, czy nic nie blokuje podawania | Sprawdzasz wielkość wyprodukowanych wiórów | Zatrzymujesz maszynę, gdy coś się zaklinuje
+D: 6:00 Sprawdzasz rębak i taśmy przed uruchomieniem | 8:00 Pnie wjeżdżają do rębaka, słuchasz pracy maszyny | 11:00 Zacięcie podawania, zatrzymujesz maszynę i usuwasz je | 13:00 Pobierasz próbkę wiórów i oglądasz ich rozmiar
+Y: Połam suchy patyk ręcznie na kawałki długości paznokcia i zmierz linijką, jak bardzo różnią się rozmiarami.
+
+@304
+H: Obsługujesz maszynę, która pokrywa papier cienką warstwą tworzywa, żeby był mocniejszy oraz odporny na wilgoć i plamy. Pilnujesz, żeby warstwa leżała równo.
+T: Zakładasz rolki papieru i folii w maszynie | Ustawiasz maszynę pod rodzaj papieru | Obserwujesz, czy warstwa nakłada się równo | Odrzucasz arkusze z bąblami lub zmarszczkami
+D: 6:00 Zakładasz nową rolkę papieru do laminatora | 8:30 Test na próbce: czy warstwa trzyma się równo | 11:00 Na papierze pojawiają się zmarszczki, korygujesz ustawienia | 13:00 Zdejmujesz gotową rolkę i opisujesz ją etykietą
+Y: Połóż kroplę wody na zwykłej kartce i na błyszczącej okładce czasopisma, porównaj, która szybciej chłonie.
+
+@305
+H: Obsługujesz zbiornik, w którym makulatura miesza się z wodą, a pęcherzyki powietrza wynoszą na wierzch farbę drukarską w postaci piany. Dzięki temu papier z recyklingu staje się jaśniejszy.
+T: Napełniasz zbiornik makulaturą i wodą | Pilnujesz temperatury roztworu | Kontrolujesz wdmuchiwanie pęcherzyków powietrza | Zbierasz i usuwasz pianę z farbą
+D: 6:00 Odczytujesz temperaturę i poziom w zbiorniku | 8:00 Wsypujesz nową partię makulatury do zbiornika | 10:30 Piana z farbą zbiera się na powierzchni | 13:00 Pobierasz próbkę masy i oglądasz jej jasność
+Y: Wrzuć do szklanki wody kilka skrawków zadrukowanej gazety, mieszaj i dmuchaj słomką; obserwuj, co wypływa na wierzch.
+
+@306
+H: Obsługujesz zbiornik, w którym makulatura jest płukana wodą z dodatkami odrywającymi farbę od włókien. Potem odwadniasz powstałą masę włóknistą, żeby wypłukać z niej farbę.
+T: Mieszasz makulaturę z wodą i dodatkami | Pilnujesz, żeby farba odeszła od włókien | Odwadniasz zawiesinę i płuczesz masę | Oceniasz jasność oczyszczonej masy
+D: 6:00 Przejmujesz zbiornik i sprawdzasz poziom wody | 8:30 Dozujesz dodatki do nowej partii makulatury | 11:00 Płuczesz masę, ciemna woda spływa do odpływu | 13:30 Porównujesz próbkę masy ze wzorcem jasności
+Y: Rozmocz w misce z wodą kawałek gazety, rozetrzyj palcami na papkę i zobacz, jak woda szarzeje.
+
+@307
+H: Obsługujesz maszyny, które dziurkują, perforują, zaginają i zestawiają papier w gotowe produkty, na przykład bloki czy formularze z kalką. Pilnujesz, żeby każda kartka wychodziła równo.
+T: Ustawiasz maszynę na dany wzór papieru | Wkładasz stosy papieru do podajnika | Sprawdzasz dziurki, perforacje i zagięcia | Zbierasz gotowe zestawy i układasz je do pakowania
+D: 6:00 Ustawiasz maszynę pod nowe zamówienie | 8:00 Wkładasz papier, kontrolujesz pierwsze gotowe sztuki | 10:30 Dziurki wychodzą krzywo, poprawiasz ustawienie | 13:00 Pakujesz zestawy z kalką do kartonów
+Y: Znajdź w domu kartkę z perforacją, na przykład z bloku, i oceń, czy linia oderwania jest prosta.
+
+@308
+H: Obsługujesz maszynę, która wybiela masę papierniczą, żeby powstał z niej biały papier. Dobierasz technikę wybielania do rodzaju masy i do tego, jak biały ma być papier.
+T: Kontrolujesz przepływ masy przez wybielanie | Ustawiasz sposób wybielania pod rodzaj masy | Pobierasz próbki i oceniasz stopień bieli | Zapisujesz parametry procesu w dzienniku
+D: 6:00 Odczytujesz parametry i sprawdzasz zapas surowca | 8:30 Zmieniasz technikę wybielania dla nowej partii | 11:00 Pobierasz próbkę masy do oceny bieli | 14:00 Biel poniżej normy, korygujesz proces
+Y: Porównaj trzy różne kartki z domu i ułóż je od najbielszej do najciemniejszej w świetle okna.
+
+@309
+H: Pilnujesz długiej maszyny, na której rzadka masa celulozowa jest rozlewana na sito, odsączana, prasowana i zamieniana we wstęgę papieru. Maszyna zwykle pracuje bez przerwy, więc obsługa działa na zmiany.
+T: Pilnujesz rozlewania masy na sito | Kontrolujesz odsączanie i prasowanie wstęgi | Reagujesz, gdy wstęga papieru się zerwie | Sprawdzasz grubość i wygląd papieru
+D: 6:00 Przejmujesz maszynę i słuchasz, jak pracuje | 8:30 Papier wychodzi za gruby, zmieniasz ustawienia | 11:00 Wstęga się zrywa, z zespołem wznawiasz produkcję | 13:30 Pobierasz próbkę i przekazujesz zmianę dalej
+Y: Obejrzyj zwykłą kartkę pod światło okna i opisz, gdzie jest grubsza, a gdzie cieńsza.
+
+@310
+H: Obsługujesz prasę, która formuje masę papierniczą w lekkie, ale sztywne kształty, takie jak wytłoczki na jajka. Pilnujesz, żeby każdy kształt wychodził cały i miał właściwą grubość.
+T: Pilnujesz zasilania prasy masą papierniczą | Sprawdzasz kształt i grubość wytłoczek | Zdejmujesz gotowe wyroby z formy | Usuwasz zniekształcone sztuki i resztki masy
+D: 6:00 Uruchamiasz prasę i sprawdzasz formy | 8:30 Pierwsze wytłoczki mają dziury, zmieniasz ustawienia | 11:00 Zdejmujesz gotowe wytłoczki i układasz je w stosy | 13:00 Czyścisz formę z resztek masy
+Y: Obejrzyj wytłoczkę po jajkach lub tekturowe opakowanie i opisz, jak jest ukształtowana i co trzyma jajko.
+
+@311
+H: Obsługujesz duży zbiornik, w którym wióry drzewne są gotowane z dodatkiem, żeby oddzielić masę celulozową od reszty drewna. Badasz próbki roztworu, żeby wiedzieć, czy gotowanie dobiegło końca.
+T: Napełniasz warnik wiórami drzewnymi | Ustawiasz warunki gotowania w warniku | Pobierasz próbki roztworu do badania | Decydujesz po badaniu, kiedy zakończyć gotowanie
+D: 6:00 Napełniasz warnik świeżymi wiórami drzewnymi | 8:30 Gotowanie trwa, odczytujesz wskazania przyrządów | 11:00 Pobierasz próbkę roztworu i testujesz ją | 13:00 Opróżniasz warnik i zapisujesz wyniki partii
+Y: Porównaj pod światło drewniany patyczek do lodów i kartkę papieru; opisz, co je łączy, a co dzieli.
+
+@312
+H: Pilnujesz, żeby linia produkcji masy papierniczej działała bez usterek i zgodnie ze specyfikacją. Konserwujesz maszyny i naprawiasz awarie, gdy tylko się pojawią.
+T: Przeglądasz i konserwujesz maszyny | Szukasz przyczyny usterki i ją usuwasz | Porównujesz parametry masy ze specyfikacją | Ustalasz z operatorami, co poprawić w produkcji
+D: 7:00 Obchód linii, słuchasz maszyn i sprawdzasz wskazania | 9:30 Pompa pracuje głośniej niż zwykle, szukasz przyczyny | 12:00 Wymieniasz zużytą część podczas planowanej przerwy | 14:00 Omawiasz z operatorami wyniki i odchylenia od normy
+Y: Posłuchaj przez minutę działającej lodówki lub pralki i opisz, jak brzmi, gdy wszystko działa normalnie.
+
+@313
+H: Obsługujesz maszynę, która przeciąga metal przez coraz węższe otwory, aż powstanie drut, pręt lub rura o właściwej grubości. Ustawiasz ją i pilnujesz, żeby wymiary się zgadzały.
+T: Zakładasz zwój lub pręt metalu do maszyny | Ustawiasz szereg ciągadeł do wybranej grubości | Mierzysz średnicę drutu lub pręta | Zatrzymujesz maszynę, gdy materiał pęka
+D: 6:00 Zakładasz nowy zwój metalu do maszyny | 7:30 Ustawiasz ciągadła pod zamówioną średnicę drutu | 10:00 Mierzysz drut suwmiarką i porównujesz z rysunkiem | 13:00 Drut pęka, szukasz przyczyny i ruszasz od nowa
+Y: Zmierz linijką grubość trzech różnych sznurków lub drutów w domu i ułóż je od najcieńszego.
+
+@314
+H: Ustawiasz i pilnujesz maszyny, która splata druty metalowe w siatkę. Dbasz, żeby oka siatki były regularne, a druty się nie plątały.
+T: Zakładasz szpule z drutem na maszynę | Ustawiasz maszynę na wymiar oczek siatki | Obserwujesz splot i szukasz błędów | Odcinasz i zwijasz gotową siatkę w rolki
+D: 6:00 Zakładasz nowe szpule z drutem | 8:00 Ustawiasz maszynę na nowy rozmiar oczek | 10:30 Drut się plącze, zatrzymujesz maszynę i poprawiasz | 13:00 Zwijasz gotową siatkę w rolkę i opisujesz
+Y: Przyjrzyj się sitku kuchennemu lub siatce na oknie i policz oczka na odcinku dziesięciu centymetrów.
+
+@315
+H: Obsługujesz maszyny, które zwijają i formują drut w sprężyny różnych rodzajów. Sprawdzasz, czy każda sprężyna ma właściwy kształt i działa jak trzeba.
+T: Ustawiasz maszynę pod wybrany rodzaj sprężyny | Zakładasz drut i uruchamiasz formowanie | Mierzysz długość i liczbę zwojów | Sprawdzasz, czy sprężyna wraca do kształtu
+D: 6:00 Zakładasz szpulę drutu i ustawiasz maszynę | 8:00 Pierwsze sprężyny są za krótkie, korygujesz ustawienia | 10:30 Ściskasz próbkę sprężyny, sprawdzasz jej sprężystość | 13:00 Pakujesz sprężyny partiami do pudełek
+Y: Porównaj sprężyny w dwóch klamerkach do bielizny i sprawdź, która mocniej ściska.
+
+@316
+H: Obsługujesz maszyny, do których wlewa się roztopiony metal, aby w formach powstały metalowe elementy. Obserwujesz przepływ metalu i przy usterce informujesz osoby uprawnione do jej usunięcia.
+T: Ustawiasz maszynę i formy do odlewu | Kierujesz roztopiony metal do form | Obserwujesz przepływ metalu i szukasz wad | Zgłaszasz usterkę i pomagasz ją usunąć
+D: 6:00 Sprawdzasz maszynę i formy przed odlewem | 8:00 Roztopiony metal wpływa do form, obserwujesz go | 10:30 Zauważasz usterkę i wzywasz osobę uprawnioną | 13:00 Oglądasz ostygnięte odlewy i odkładasz wadliwe
+Y: Zrób w plastelinie odcisk klucza albo monety i oceń, czy jego kształt odbił się dokładnie.
+
+@317
+H: Ustawiasz i pilnujesz maszyny, która przepuszcza metal przez pary walców i spłaszcza go do potrzebnej grubości. Zwracasz uwagę na temperaturę metalu, bo od niej zależy, jak się odkształca.
+T: Ustawiasz odstęp między walcami | Prowadzisz metal przez kolejne pary walców | Kontrolujesz temperaturę metalu w procesie | Mierzysz grubość i równość gotowego wyrobu
+D: 6:00 Ustawiasz walce pod grubość z zamówienia | 8:30 Metal przechodzi przez walce, sprawdzasz temperaturę | 11:00 Mierzysz grubość elementu w kilku miejscach | 13:30 Korygujesz odstęp walców, bo grubość się waha
+Y: Rozwałkuj kulkę plasteliny wałkiem na stole do równej grubości i sprawdź linijką w kilku miejscach.
+
+@318
+H: Obsługujesz maszynę, która topi surowiec i przeciska go przez kształtującą matrycę, tworząc ciągły profil, na przykład rurę lub folię. Ustawiasz ją, pilnujesz jej pracy i czyścisz.
+T: Ustawiasz maszynę i matrycę pod dany profil | Kontrolujesz nagrzewanie i przepływ surowca | Sprawdzasz wymiar i wygląd wychodzącego profilu | Czyścisz i konserwujesz maszynę
+D: 6:00 Uruchamiasz maszynę i czekasz na nagrzanie | 8:00 Profil wychodzi z matrycy, mierzysz go | 11:00 Przestawiasz maszynę na inny kształt profilu | 13:30 Czyścisz urządzenie po zakończeniu serii
+Y: Zrób w tekturze dziurkę długopisem, przeciśnij przez nią plastelinę i zobacz, jaki kształt dostaje.
+
+@319
+H: Obsługujesz piece, w których metal jest nagrzewany, a potem powoli studzony, żeby stał się miększy i łatwiejszy do cięcia i formowania. Cały czas sprawdzasz, czy metal nie ma wad.
+T: Układasz metalowe elementy w piecu | Ustawiasz temperaturę i czas nagrzewania | Pilnujesz powolnego schładzania metalu | Oglądasz metal, szukając pęknięć i innych wad
+D: 6:00 Ładujesz piec partią elementów do zmiękczenia | 8:00 Ustawiasz temperaturę i czas według specyfikacji | 11:00 Kontrolujesz, czy piec trzyma zadaną temperaturę | 14:00 Wyjmujesz ostygnięte elementy i oglądasz je pod kątem wad
+Y: Zegnij spinacz do papieru tam i z powrotem kilka razy i zauważ, jak metal staje się sztywniejszy.
+
+@320
+H: Obsługujesz urządzenia, które czyszczą powierzchnię metalowych elementów i nakładają na nią powłokę, na przykład ochronną lub dekoracyjną. Pilnujesz, żeby powłoka była równa i dobrze trzymała się metalu.
+T: Przygotowujesz elementy do obróbki powierzchni | Zawieszasz lub układasz elementy w urządzeniu | Pilnujesz ustawień i czasu procesu | Sprawdzasz grubość i wygląd powłoki
+D: 6:00 Układasz metalowe elementy na stojakach | 8:00 Uruchamiasz urządzenie i pilnujesz czasu procesu | 10:30 Oglądasz pierwsze sztuki w jasnym świetle | 13:00 Odrzucasz elementy z plamami lub nierówną powłoką
+Y: Obejrzyj metalowy przedmiot w domu, na przykład klamkę lub sztućce, i znajdź miejsce, gdzie powłoka jest starta.
+
+@321
+H: Zbierasz towary, pakujesz je do pudełek lub worków i naklejasz etykiety. Pilnujesz, żeby w każdej paczce było dokładnie to, co jest w zamówieniu.
+T: Zbierasz towary według listy zamówienia | Układasz je w kartonach lub workach | Naklejasz etykiety na gotowe paczki | Porównujesz zawartość paczki z instrukcją
+D: 6:00 Dostajesz listę zamówień na całą zmianę | 8:00 Zbierasz towary z regałów i pakujesz | 11:00 Naklejasz etykiety i odkładasz paczki na paletę | 13:30 Sprawdzasz losowo kilka paczek przed wysyłką
+Y: Zapakuj w domu trzy różne przedmioty do jednego pudełka tak, żeby nic nie grzechotało ani się nie przesuwało.
+
+@322
+H: Wypełniasz szczeliny między deskami pokładu lub kadłuba drewnianego statku, żeby woda nie przesiąkała. Używasz głównie narzędzi ręcznych, a materiał wbijasz w łączenia.
+T: Wbijasz pakuły w szczeliny między deskami | Podgrzewasz klej morski i wciskasz go w łączenia | Wbijasz liny konopne lub bawełniane w szwy | Smarujesz łączenia gorącą smołą
+D: 7:00 Oglądasz pokład i zaznaczasz nieszczelne szwy | 9:00 Wbijasz pakuły w łączenia narzędziem ręcznym | 12:00 Wciskasz ogrzany klej w szczeliny, wyrównujesz | 15:00 Sprawdzasz, czy szwy są wypełnione równo
+Y: Wepchnij kawałek miękkiego sznurka w wąską szczelinę między dwiema deseczkami lub książkami i oceń, jak szczelnie ją wypełnia.
+
+@323
+H: Przygotowujesz uszytą odzież do wysyłki: zakładasz zapięcia, zamki i wstążki oraz obcinasz zwisające nitki. Na końcu ważysz, pakujesz i etykietujesz gotowe ubrania.
+T: Zakładasz zamki, nasadki i wstążki | Obcinasz zwisające nitki | Ważysz i liczysz gotowe ubrania | Pakujesz i etykietujesz produkty
+D: 6:00 Dostajesz kartony z uszytymi bluzami do wykończenia | 8:30 Zakładasz zamki i obcinasz nitki, jedna po drugiej | 11:30 Ważysz partię i sprawdzasz zgodność z zamówieniem | 13:30 Składasz ubrania, pakujesz i naklejasz etykiety
+Y: Obejrzyj swoją bluzę od środka i znajdź metkę oraz wszystkie nitki, które odstają.
+
+@324
+H: Pomagasz operatorom maszyn i montażystom: czyścisz maszyny i stanowiska pracy oraz uzupełniasz materiały. Dzięki temu produkcja nie staje z powodu bałaganu lub braku części.
+T: Czyścisz maszyny i powierzchnie robocze | Zamiatasz i zbierasz odpady z hali | Uzupełniasz zapasy materiałów przy stanowiskach | Donosisz części i materiały do stanowisk
+D: 6:00 Zaczynasz od odkurzania i wycierania stanowisk | 8:30 Donosisz pudełka z częściami do montażu | 11:00 Operator prosi o uzupełnienie materiału przy maszynie | 13:00 Zbierasz odpady i opróżniasz kosze na hali
+Y: Posprzątaj swoje biurko lub półkę w 15 minut i ułóż wszystko tak, by miało stałe miejsce.
+
+@325
+H: Obsługujesz maszyny w zakładzie, który produkuje żywność, na przykład takie, które mieszają, formują lub pakują produkty. Pilnujesz, żeby produkt wychodził zgodnie z recepturą i w czystych warunkach.
+T: Uruchamiasz linię produkcyjną i ustawiasz ją | Dozujesz składniki lub podajesz surowiec | Kontrolujesz wygląd, wagę i opakowanie produktu | Myjesz maszynę zgodnie z zasadami higieny
+D: 6:00 Zakładasz fartuch, czepek i ruszasz z linią | 8:30 Sprawdzasz wagę i wygląd pierwszych produktów | 11:00 Przestawiasz maszynę na inny produkt | 13:30 Myjesz maszynę po zakończeniu zmiany
+Y: Przeczytaj z etykiety na opakowaniu, jaka jest masa produktu, i znajdź datę przydatności.
+
+@326
+H: Pośredniczysz między tymi, którzy kupują i sprzedają statki lub wynajmują miejsce na ładunek. Negocjujesz cenę i warunki przewozu oraz informujesz klientów, co dzieje się na rynku frachtu.
+T: Szukasz kupców i sprzedawców statków | Negocjujesz cenę statku lub miejsca na ładunek | Informujesz klientów o cenach frachtu na rynku | Ustalasz, jak ładunek dotrze do odbiorcy
+D: 8:00 Czytasz wiadomości o cenach frachtu i statkach | 10:00 Dzwonisz do armatora, który szuka ładunku | 13:00 Negocjujesz cenę przewozu partii towaru | 16:00 Wysyłasz klientowi ofertę z warunkami dostawy
+Y: Znajdź na mapie trasę morską z Gdańska do wybranego portu za granicą i wypisz morza, które mijasz.
+
+@327
+H: Łączysz kupujących ze sprzedającymi, na przykład surowców, zwierząt hodowlanych albo nieruchomości, i dostajesz prowizję od zawartej transakcji. Negocjujesz cenę i liczysz, ile kosztuje cała transakcja.
+T: Szukasz sprzedających i kupujących towaru | Badasz aktualne ceny na rynku | Negocjujesz cenę z obiema stronami | Przygotowujesz ofertę i liczysz koszty transakcji
+D: 8:30 Sprawdzasz aktualne ceny towarów na rynku | 10:30 Dzwonisz do sprzedającego z nową ofertą | 13:00 Negocjujesz cenę z kupującym, liczysz swoją prowizję | 16:00 Wysyłasz obu stronom ofertę do podpisu
+Y: Wyceń swoją starą książkę lub zabawkę: sprawdź, za ile sprzedaje się podobne, i zapisz uczciwą cenę.
+
+@328
+H: Łączysz klientów, którzy mają odpady, z firmami, które je odbierają, wywożą i przetwarzają. Pilnujesz, żeby odpady trafiły do właściwego zakładu.
+T: Ustalasz z klientem, jakie ma odpady | Wybierasz firmę, która je odbierze | Organizujesz transport do zakładu przetwarzania | Sprawdzasz, czy odpady dotarły we właściwe miejsce
+D: 8:00 Klient opisuje, jakie odpady produkuje | 10:00 Dzwonisz do firm i porównujesz warunki odbioru | 12:30 Umawiasz termin odbioru i transport do zakładu | 15:00 Potwierdzasz, że odpady dotarły na miejsce
+Y: Zajrzyj do domowych pojemników na odpady i zapisz, na jakie rodzaje dzieli się to, co wyrzucasz.
+
+@329
+H: Nie masz własnych statków: kupujesz miejsce na statkach od dużego przewoźnika i odsprzedajesz je mniejszym nadawcom towaru. Wystawiasz dokumenty przewozowe i publikujesz cennik.
+T: Kupujesz miejsce na statku od przewoźnika | Odsprzedajesz je mniejszym nadawcom towaru | Wystawiasz konosamenty, czyli dokumenty przewozu | Publikujesz cennik przewozów morskich
+D: 8:00 Sprawdzasz, ile miejsca zostało na rejsie | 10:00 Odpowiadasz małej firmie, która chce wysłać towar | 13:00 Wystawiasz konosament dla kolejnej przesyłki | 15:30 Aktualizujesz cennik przewozów na nowy miesiąc
+Y: Zapisz, co powinna zawierać etykieta paczki wysyłanej statkiem za ocean: nadawca, odbiorca, zawartość, waga.
+

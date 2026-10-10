@@ -1,0 +1,180 @@
+@1710
+H: Odpowiadasz za to, jak cała firma zbiera i wykorzystuje dane. Traktujesz je jak cenny zasób i budujesz zasady, dzięki którym różne działy mogą z nich korzystać.
+T: Zarządzasz działaniami firmy na danych | Ustalasz, jak dane służą strategii firmy | Wdrażasz wspólne zasady zarządzania informacją | Uzgadniasz z działami, kto korzysta z których danych
+D: 9:00 Dział sprzedaży i finansów podają różne liczby klientów | 11:00 Ustalasz, który raport jest wiarygodny i dlaczego | 14:00 Zarząd pyta, jak dane mogą pomóc w nowym sklepie | 16:00 Spisujesz zasady, kto może przeglądać dane
+Y: Wypisz pięć rodzajów informacji zapisanych w twoim telefonie i przy każdym zaznacz, kto powinien je widzieć.
+
+@1711
+H: Układasz, jak firma tworzy, przechowuje i udostępnia swoją wiedzę, żeby pracownicy szybko znajdowali to, czego potrzebują. Odpowiadasz za porządek w dokumentach, bazach i analizach.
+T: Określasz strategię zarządzania informacją w firmie | Wdrażasz zasady tworzenia i przechowywania wiedzy | Porządkujesz bazy danych, dokumenty i notatki | Budujesz struktury cyfrowe do analizy danych
+D: 9:00 Nowy pracownik nie wie, gdzie szukać instrukcji | 11:00 Zmieniasz sposób nazywania i układania dokumentów w firmie | 13:30 Ustalasz zasady, kto może edytować wspólne materiały | 15:30 Planujesz, jak dane trafią do raportów dla zarządu
+Y: Uporządkuj notatki z jednego przedmiotu w trzech stosach i podpisz je tak, żeby znaleźć każdą w dziesięć sekund.
+
+@1712
+H: Pilnujesz, żeby komputery, sieci i usługi firmy działały bez przerw. Planujesz zasoby, negocjujesz umowy z dostawcami i reagujesz, gdy usługi nie spełniają ustaleń.
+T: Koordynujesz usługi informatyczne i infrastrukturę | Planujesz i monitorujesz procesy komputerowe | Negocjujesz umowy z dostawcami usług | Nadzorujesz bieżące zadania zespołu przy systemach
+D: 8:00 Czytasz nocny raport, jeden serwer zgłosił awarię | 10:00 Dzwonisz do dostawcy, który nie dotrzymał umowy | 13:00 Planujesz, ile miejsca na dane będzie potrzebne w przyszłym roku | 15:30 Rozdzielasz zespołowi zadania na tydzień
+Y: Zapisz pięć rzeczy, które muszą działać w domu codziennie, i plan awaryjny na wypadek, gdy przestaną.
+
+@1713
+H: Nadzorujesz, jakie programy firma kupuje i tworzy, i czy spełniają potrzeby wszystkich działów. Sprawdzasz, czy projekty idą dobrze i czy gotowe rozwiązania działają jak trzeba.
+T: Nadzorujesz zakup i rozwój oprogramowania | Monitorujesz wyniki projektów informatycznych | Oceniasz jakość wdrożonych rozwiązań | Zbierasz potrzeby wszystkich działów firmy
+D: 9:00 Księgowość prosi o nowy program do faktur | 11:00 Czytasz raport o błędach w programie sprzedaży | 14:00 Z zespołem decydujesz, czy kupić gotowe rozwiązanie, czy napisać własne | 16:00 Sprawdzasz, czy projekt mieści się w terminie
+Y: Zapisz, co powinna robić aplikacja do wspólnych zadań w klasie, i podziel to na ważne i dodatkowe.
+
+@1714
+H: Decydujesz, jak firma używa technologii i na co przeznacza zasoby informatyczne. Przewidujesz zmiany na rynku i dbasz, żeby infrastruktura wspierała plany całej organizacji.
+T: Ustalasz strategię technologii informacyjnych firmy | Określasz zasoby potrzebne do jej wdrożenia | Przewidujesz zmiany na rynku technologii | Pilnujesz, żeby infrastruktura wspierała priorytety firmy
+D: 8:30 Przeglądasz plan rozwoju firmy razem z zarządem | 10:30 Przyjmujesz lub odrzucasz prośby działów o nowe systemy | 13:30 Ustalasz z szefem finansów, ile zasobów dostanie informatyka | 16:00 Czytasz o nowej technologii i oceniasz, czy firma jej potrzebuje
+Y: Wypisz trzy potrzeby techniczne swojej klasy i ułóż je w kolejności od najpilniejszej.
+
+@1715
+H: Odpowiadasz za to, jak firma rozwija swoje technologie, i wyznaczasz kierunek zgodny z jej celami wzrostu. Prowadzisz wszystkie sprawy związane z rozwojem techniki w przedsiębiorstwie.
+T: Współtworzysz wizję techniczną firmy | Prowadzisz rozwój wszystkich technologii firmy | Dopasowujesz kierunek technologii do celów wzrostu | Odpowiadasz na potrzeby technologiczne przedsiębiorstwa
+D: 8:30 Dyskutujesz z zespołem, jaka technologia ma napędzać nowy produkt | 11:00 Wybierasz kierunek rozwoju na następne dwa lata | 13:30 Rozmawiasz z szefem sprzedaży o tym, czego chcą klienci | 16:00 Przeglądasz wyniki zespołów technicznych i ustalasz priorytety
+Y: Wymyśl pomysł na produkt dla uczniów i w trzech zdaniach opisz, czego potrzeba, żeby go zbudować.
+
+@1716
+H: Kierujesz działem, który tworzy instrukcje i opisy produktów informatycznych. Pilnujesz norm, budżetu i terminów, żeby dokumentacja była zgodna z przepisami i zrozumiała dla użytkowników.
+T: Planujesz zasoby, ludzi i budżet działu dokumentacji | Pilnujesz zgodności z normami i przepisami | Ustalasz standardy pisania instrukcji | Sprawdzasz jakość i terminy dokumentów
+D: 9:00 Rozdzielasz autorom instrukcje do trzech nowych funkcji | 11:00 Czytasz instrukcję, której nie zrozumie osoba początkująca | 13:30 Przeliczasz budżet na tłumaczenia dokumentacji | 15:30 Sprawdzasz, czy dokument spełnia wymogi prawne
+Y: Napisz pięciokrokową instrukcję zawiązywania butów tak, żeby zrozumiała ją osoba, która nigdy tego nie robiła.
+
+@1717
+H: Dbasz o dobre relacje firmy z dostawcami technologii i usług informatycznych, zewnętrznymi i wewnętrznymi. Zarządzasz tym, co firma zleca na zewnątrz, i komunikacją w łańcuchu dostaw.
+T: Utrzymujesz relacje z dostawcami usług informatycznych | Zarządzasz zleceniami dla zewnętrznych firm | Pilnujesz komunikacji w całym łańcuchu dostaw | Wdrażasz działania zgodne z procesami organizacji
+D: 9:00 Dostawca serwerów zgłasza opóźnienie dostawy o tydzień | 11:00 Informujesz dział, który czeka na te serwery | 13:30 Spotkanie z zewnętrzną firmą prowadzącą pomoc techniczną | 16:00 Przeglądasz umowy i sprawdzasz, które kończą się niedługo
+Y: Napisz na kartce krótką wiadomość do dostawcy z prośbą o zmianę terminu i zachowaj uprzejmy ton.
+
+@1718
+H: Kierujesz ludźmi, którzy instalują, naprawiają i konserwują sieci oraz urządzenia telekomunikacyjne. Pilnujesz bezpieczeństwa ekipy, zapasów sprzętu i tego, żeby klienci dostali pomoc.
+T: Koordynujesz instalacje, naprawy i konserwację urządzeń | Nadzorujesz badanie i wdrażanie nowych technologii | Zapewniasz pracownikom bezpieczne środowisko pracy | Nadzorujesz spis zapasów i pomoc dla klientów
+D: 7:30 Układasz ekipom listę dzisiejszych zgłoszeń awarii | 10:00 Sprawdzasz stan magazynu, brakuje kabli i złączy | 13:00 Technik dzwoni, bo nie może znaleźć uszkodzonego łącza | 16:00 Oceniasz, czy nowa technologia nadaje się do wdrożenia
+Y: Narysuj na kartce sieć łączącą cztery pokoje i zaznacz, co zrobisz, gdy jedno połączenie zawiedzie.
+
+@1719
+H: Odpowiadasz za produkt informatyczny: oceniasz, czy się opłaca, jakie ma ryzyka i szanse. Układasz plan z terminami i etapami, żeby zespół zajmował się tym, co najważniejsze.
+T: Analizujesz stan produktu lub usługi | Oceniasz opłacalność, ryzyka i szanse | Układasz plan z terminami i kamieniami milowymi | Ustalasz, czym zajmie się zespół najpierw
+D: 9:00 Czytasz opinie użytkowników o aplikacji | 11:00 Wypisujesz mocne i słabe strony produktu na tablicy | 13:30 Tłumaczysz programistom, dlaczego najpierw robicie wyszukiwarkę | 16:00 Ustalasz na wykresie daty trzech etapów wdrożenia
+Y: Wybierz rzecz, której często używasz, i zapisz trzy jej słabe strony oraz co poprawić najpierw.
+
+@1720
+H: Prowadzisz projekt informatyczny od startu do zamknięcia: ustalasz budżet, harmonogram i podział zadań. Pilnujesz ryzyka i jakości oraz piszesz raport końcowy.
+T: Ustalasz budżet i harmonogram projektu | Przydzielasz ludzi i zasoby do zadań | Analizujesz ryzyka i pilnujesz jakości | Piszesz sprawozdanie z zamknięcia projektu
+D: 9:00 Krótka narada: kto dziś co robi i co przeszkadza | 11:00 Programista zgłasza opóźnienie, przesuwasz kolejne terminy | 14:00 Liczysz, czy budżet wystarczy do końca roku | 16:00 Klient pyta o postępy, pokazujesz harmonogram
+Y: Rozpisz na kartce plan przygotowania imprezy: zadania, osoby, terminy i trzy rzeczy, które mogą pójść źle.
+
+@1721
+H: Dbasz o serwer, na którym stoi strona, i o samą stronę. Pilnujesz, żeby działała szybko i bezpiecznie, i aktualizujesz jej treść.
+T: Wdrażasz i utrzymujesz serwer internetowy | Monitorujesz działanie i bezpieczeństwo strony | Robisz kopie zapasowe całej strony | Aktualizujesz treść i dodajesz nowe elementy
+D: 8:30 Sprawdzasz, czy strona otwiera się szybko i bez błędów | 10:30 Marketing prosi o nowy baner na stronie głównej | 13:30 Strona zwalnia, szukasz w statystykach przyczyny | 17:00 Uruchamiasz kopię zapasową przed piątkowymi zmianami
+Y: Narysuj na kartce stronę główną klasy z menu i pięcioma podstronami o prostych nazwach.
+
+@1722
+H: Kierujesz zespołem, który odpowiada na zgłoszenia użytkowników z problemami komputerowymi. Pilnujesz terminów odpowiedzi, planujesz dyżury i dbasz, żeby klienci dostali informację zwrotną.
+T: Planujesz dyżury zespołu pomocy | Pilnujesz terminów odpowiedzi na zgłoszenia | Rozwiązujesz najtrudniejsze problemy użytkowników | Ustalasz wytyczne obsługi klienta
+D: 8:00 Przeglądasz kolejkę zgłoszeń, kilka czeka od wczoraj | 10:00 Rozdzielasz pilne sprawy między członków zespołu | 13:00 Przejmujesz rozmowę ze zdenerwowanym klientem | 15:30 Piszesz wskazówki, jak odpowiadać na pytania o hasła
+Y: Napisz trzy spokojne kroki rozwiązania problemu z brakiem dźwięku w telefonie tak, żeby zrozumiała je osoba początkująca.
+
+@1723
+H: Instalujesz sieci i urządzenia podłączone do nich, takie jak drukarki, i naprawiasz je, gdy zawodzą. Rozwiązujesz problemy zgłaszane przez użytkowników.
+T: Instalujesz sprzęt sieciowy | Konserwujesz urządzenia podłączone do sieci | Analizujesz problemy zgłoszone przez użytkowników | Naprawiasz drukarki i połączenia
+D: 8:00 Biuro nie może drukować, sprawdzasz łącze drukarki | 10:30 Podłączasz nowy przełącznik w szafie z kablami | 13:00 Sprawdzasz, który kabel w ścianie nie przenosi sygnału | 15:30 Pracownik skarży się na wolny internet, szukasz przyczyny
+Y: Narysuj schemat sieci w domu z urządzeniami i zaznacz, co przestanie działać, gdy zawiedzie router.
+
+@1724
+H: Pracujesz w centrum danych, gdzie stoją serwery, i pilnujesz, żeby działały bez przerwy. Obserwujesz parametry systemu i reagujesz na alarmy, także w nocy.
+T: Prowadzisz codzienne operacje komputerowe w centrum danych | Obserwujesz wskaźniki pracy systemu | Rozwiązujesz problemy zgłaszane przez alarmy | Pilnujesz, żeby systemy były dostępne całą dobę
+D: 6:00 Przejmujesz zmianę i czytasz notatki od nocnej ekipy | 9:00 Alarm: temperatura w jednej szafie rośnie | 13:00 Obchodzisz hale z serwerami i sprawdzasz kontrolki | 17:30 Przekazujesz zmianę i opisujesz, co jeszcze nie działa
+Y: Obejdź mieszkanie, policz urządzenia ze świecącą kontrolką i zapisz, które muszą działać stale.
+
+@1725
+H: Pomagasz użytkownikom komputerów przez telefon lub wiadomości, gdy coś nie działa. Zadajesz pytania, szukasz przyczyny i prowadzisz rozmówcę krok po kroku do rozwiązania.
+T: Odbierasz zgłoszenia przez telefon i wiadomości | Zadajesz pytania, żeby znaleźć przyczynę | Prowadzisz użytkownika krok po kroku do rozwiązania | Tłumaczysz obsługę sprzętu i programów
+D: 8:00 Pierwsze zgłoszenie: ktoś nie może zalogować się do poczty | 10:30 Prosisz klienta o wyłączenie i ponowne uruchomienie komputera | 13:00 Okazuje się, że kabel sieciowy wypadł z gniazda | 15:00 Piszesz klientowi, jak zmienić ustawienia drukarki
+Y: Wytłumacz domownikowi słowami, bez dotykania jego telefonu, jak zrobić zrzut ekranu w trzech krokach.
+
+@1726
+H: Instalujesz, naprawiasz i obsługujesz komputery, drukarki, telefony i sieć w biurze lub u klientów. Zajmujesz się też oprogramowaniem, od sterowników po systemy operacyjne.
+T: Instalujesz laptopy, komputery, telefony i drukarki | Naprawiasz uszkodzone urządzenia | Instalujesz sterowniki, systemy operacyjne i aplikacje | Konserwujesz serwery i elementy sieci
+D: 8:00 Przygotowujesz pięć nowych laptopów dla nowych pracowników | 10:30 Wymieniasz zepsuty dysk w komputerze księgowej | 13:00 Drukarka w sekretariacie nie widzi sieci, sprawdzasz ustawienia | 15:30 Czyścisz stary sprzęt i zapisujesz go w spisie
+Y: Zajrzyj w telefonie do ustawień pamięci i zapisz, co zajmuje najwięcej miejsca, niczego nie usuwając.
+
+@1727
+H: Odpowiadasz za sieć, którą w lotnictwie przesyłane są dane. Planujesz ją, uruchamiasz i utrzymujesz, żeby użytkownicy mogli korzystać z komputerów centralnych.
+T: Planujesz sieć do przesyłania danych | Wdrażasz i uruchamiasz połączenia | Utrzymujesz sieć w ciągłej gotowości do pracy | Łączysz instytucje użytkowników z komputerami centralnymi
+D: 7:00 Sprawdzasz, czy wszystkie łącza do komputera centralnego działają | 10:00 Nowa instytucja prosi o dostęp do systemu | 13:00 Planujesz drugą trasę połączenia na wypadek awarii | 21:00 Dyżur wieczorny: pilnujesz, żeby dane płynęły bez przerw
+Y: Narysuj mapę czterech miast połączonych z jednym centrum i dorysuj drugą drogę na wypadek awarii.
+
+@1728
+H: Budujesz i utrzymujesz systemy, dzięki którym działają telefony, telekonferencje i poczta głosowa. Rozmieszczasz je, monitorujesz i naprawiasz, a czasem pomagasz przy ich projektowaniu.
+T: Rozmieszczasz urządzenia systemu telekomunikacyjnego | Monitorujesz działanie rozmów i transmisji danych | Konserwujesz i naprawiasz urządzenia | Pomagasz w badaniach nad nowymi urządzeniami
+D: 7:30 Sprawdzasz centralę w firmie, w której nie działają telefony | 10:30 Uruchamiasz salę do telekonferencji i testujesz połączenie | 13:00 Monitor pokazuje przerwy w łączu, szukasz przyczyny | 15:00 Pomagasz inżynierom badać prototyp nowego urządzenia
+Y: Sprawdź, w którym pokoju telefon ma najsłabszy zasięg, i zaznacz to na planie mieszkania.
+
+@1729
+H: Szukasz w dużych zbiorach danych odpowiedzi na pytania, budujesz z nich modele i wykresy. Potem tłumaczysz wyniki ekspertom i osobom bez wiedzy technicznej.
+T: Łączysz i czyścisz dane z różnych źródeł | Budujesz modele matematyczne na podstawie danych | Tworzysz wizualizacje pokazujące, co dane znaczą | Prezentujesz wnioski osobom spoza branży
+D: 9:00 Łączysz dwa zestawy danych i usuwasz powtórzenia | 11:00 Sprawdzasz, czy sprzedaż zależy od pogody | 13:30 Rysujesz wykres, na którym widać wyraźny spadek | 15:30 Tłumaczysz dyrektorowi wynik bez wzorów i trudnych słów
+Y: Zapisz z pamięci swój nastrój z ostatnich siedmiu dni w skali od jednego do pięciu i narysuj wykres.
+
+@1730
+H: Budujesz programy, które mają zachowywać się inteligentnie: rozwiązują problemy, wnioskują i podejmują decyzje. Korzystasz ze sztucznej inteligencji i uporządkowanej wiedzy, żeby poradzić sobie z trudnymi zadaniami.
+T: Projektujesz programy symulujące inteligentne zachowania | Budujesz systemy oparte na wiedzy | Tworzysz modele rozwiązywania problemów | Ustalasz, jak system podejmuje decyzje
+D: 9:00 Rysujesz schemat wyboru odpowiedzi na pytanie klienta | 11:00 Wpisujesz do systemu zasady podane przez eksperta | 14:00 Test: system podejmuje złą decyzję, szukasz powodu | 16:00 Omawiasz z inżynierem, czy model uczyć, czy dać mu zasady
+Y: Narysuj drzewko pytań tak lub nie, które po czterech pytaniach odgadnie jedno z pięciu zwierząt.
+
+@1731
+H: Zamieniasz wiedzę ekspertów w uporządkowaną postać, którą może wykorzystać komputer. Wyciągasz ją z dokumentów i rozmów, zapisujesz regułami i powiązaniami, a potem udostępniasz ludziom w firmie.
+T: Wydobywasz wiedzę z dokumentów i rozmów | Zapisujesz ją w zasadach i powiązaniach | Budujesz bazy wiedzy dla systemów komputerowych | Udostępniasz wiedzę organizacji lub użytkownikom
+D: 9:00 Wywiad z serwisantem, który opisuje, jak szuka usterek | 11:00 Zapisujesz jego wskazówki jako reguły typu jeśli-to | 13:30 Łączysz pojęcia w sieć: część, objaw, przyczyna | 16:00 Sprawdzasz na przykładach, czy baza daje dobre odpowiedzi
+Y: Wybierz coś, co umiesz, i zapisz pięć zasad w formie jeśli-to dla początkującego.
+
+@1732
+H: Uczysz komputery rozumieć i tłumaczyć ludzki język. Pracujesz nad tym, żeby tłumaczenia maszynowe były jak najbliższe pracy dokładnego tłumacza.
+T: Pracujesz nad przetwarzaniem języka naturalnego | Porównujesz tłumaczenia maszynowe z ludzkimi | Szukasz błędów w tłumaczeniach komputera | Poprawiasz sposób, w jaki program rozumie zdania
+D: 9:00 Czytasz zdanie przetłumaczone przez program i widzisz absurd | 11:00 Zestawiasz ją z tłumaczeniem zrobionym przez człowieka | 14:00 Szukasz wzorca: program myli zwroty przenośne | 16:00 Testujesz poprawioną wersję na setce zdań
+Y: Przetłumacz słowo w słowo polskie powiedzenie na angielski i zapisz, czemu brzmi dziwnie.
+
+@1733
+H: Uczysz modele rozpoznawania wzorców na danych, na przykład obrazów czy popytu. Przygotowujesz dane, sprawdzasz, czy model trafnie przewiduje, i wdrażasz go do działającego produktu.
+T: Przygotowujesz dane do trenowania modelu | Dobierasz metodę uczenia | Sprawdzasz trafność modelu na nowych danych | Wdrażasz model do działającego produktu
+D: 9:00 Usuwasz z danych błędne wpisy i puste wiersze | 11:00 Uruchamiasz trenowanie, które trwa kilka godzin | 14:00 Model dobrze rozpoznaje koty, ale myli psy z wilkami | 16:00 Przekazujesz model zespołowi, który włączy go do aplikacji
+Y: Narysuj pięć kółek i pięć trójkątów, zapisz zasadę ich rozróżniania i sprawdź ją na trzech nowych rysunkach.
+
+@1734
+H: Budujesz rurociągi, którymi dane płyną ze źródeł do analityków i modeli AI. Pilnujesz, żeby były aktualne, kompletne i dostępne na czas.
+T: Budujesz systemy zbierające dane z wielu źródeł | Czyścisz i porządkujesz dane | Sprawdzasz, czy dane są aktualne i kompletne | Usuwasz zatory, gdy dane nie docierają na czas
+D: 8:30 Poranny raport jest pusty, więc szukasz, gdzie dane utknęły | 10:30 Znajdujesz plik z błędnym zapisem daty | 13:30 Piszesz regułę, która automatycznie odrzuci uszkodzone wpisy | 16:00 Analityk prosi o nowe dane, ustalacie źródło
+Y: Zapisz jedną zasadę, która zamieni daty 5.03, 05/03 i 5 marca na ten sam format.
+
+@1735
+H: Dbasz, żeby modele AI po wdrożeniu działały stabilnie. Automatyzujesz ich trenowanie i aktualizacje, obserwujesz jakość i reagujesz, gdy model zaczyna się mylić.
+T: Automatyzujesz trenowanie i aktualizację modeli | Monitorujesz jakość działających modeli | Reagujesz, gdy model zaczyna się mylić | Wdrażasz nowe wersje modeli do produkcji
+D: 8:30 Wykres pokazuje, że trafność modelu spada od tygodnia | 10:00 Nowe dane od klientów różnią się od tych z nauki modelu | 13:00 Uruchamiasz automatyczne ponowne trenowanie modelu | 15:00 Wdrażasz nową wersję stopniowo, dla niewielkiej grupy użytkowników
+Y: Zapisz regułę alarmową dla swojej nauki: próg i trzy kroki, które uruchamiają się po jego przekroczeniu.
+
+@1736
+H: Wymyślasz nowe metody uczenia maszynowego i sprawdzasz je w eksperymentach. Czytasz i piszesz publikacje naukowe, a to, co się sprawdza, trafia później do produktów.
+T: Opracowujesz nowe metody uczenia maszynowego | Planujesz i przeprowadzasz eksperymenty | Czytasz publikacje naukowe innych badaczy | Piszesz własne artykuły o wynikach
+D: 9:00 Czytasz nową publikację i szukasz w niej słabego punktu | 11:00 Planujesz eksperyment porównujący twoją metodę ze starą | 14:00 Wyniki są lepsze o ułamek, sprawdzasz, czy to przypadek | 17:00 Piszesz część artykułu opisującą przebieg eksperymentu
+Y: Zaplanuj eksperyment porównujący dwa sposoby zapamiętywania dziesięciu słów i zapisz, jak sprawdzisz wynik.
+
+@1737
+H: Uczysz komputery rozumieć obrazy i nagrania wideo. Budujesz systemy, które wychwytują wady produktów na taśmie, rozpoznają znaki drogowe albo zmiany na zdjęciach medycznych.
+T: Trenujesz modele rozpoznające obiekty na obrazach | Zbierasz i oznaczasz zdjęcia do nauki | Sprawdzasz, gdzie system myli wady z cieniem | Dostosowujesz system do zastosowania w fabryce lub szpitalu
+D: 9:00 Oznaczasz ramkami wady na zdjęciach śrub z taśmy | 11:30 Uruchamiasz trenowanie i czekasz na pierwsze wyniki | 14:00 System myli rysę z odblaskiem, szukasz rozwiązania | 16:00 Testujesz model na nowym nagraniu z kamery fabrycznej
+Y: Wybierz trzy przedmioty z biurka i wypisz po trzy cechy wyglądu, po których komputer odróżni je.
+
+@1738
+H: Piszesz i testujesz instrukcje dla modeli językowych, żeby odpowiadały trafnie, bezpiecznie i w określonym stylu. Coraz częściej to część pracy innych specjalistów, a nie osobne stanowisko.
+T: Piszesz instrukcje dla modeli językowych | Testujesz je na wielu przykładowych pytaniach | Poprawiasz słowa, gdy odpowiedzi są niejasne | Pilnujesz, żeby odpowiedzi były bezpieczne i w odpowiednim stylu
+D: 9:00 Piszesz instrukcję dla asystenta sklepu, ma odpowiadać krótko i uprzejmie | 11:00 Sprawdzasz ją na pięćdziesięciu typowych pytaniach klientów | 13:30 Model za bardzo się rozpisuje, zmieniasz jedno zdanie | 16:00 Szukasz pytań, po których asystent mówi coś ryzykownego
+Y: Napisz trzyzdaniową instrukcję dla robota sprzątającego twój pokój i zaznacz miejsca, które mógłby zrozumieć źle.
+
+@1739
+H: Sprawdzasz, czy systemy sztucznej inteligencji są zgodne z prawem i nie szkodzą ludziom. Oceniasz ryzyko i piszesz zasady korzystania z AI w firmie, współpracując z prawnikami i inżynierami.
+T: Sprawdzasz zgodność systemów AI z prawem | Oceniasz ryzyko dla ludzi objętych decyzjami AI | Piszesz zasady korzystania z AI w firmie | Konsultujesz wątpliwości z prawnikami i inżynierami
+D: 9:00 Czytasz nowy przepis i zaznaczasz, co zmienia dla firmy | 11:00 Pytasz inżynierów, na jakich danych uczono model | 13:30 Wychodzi, że system gorzej ocenia jedną grupę osób | 16:00 Z prawnikiem piszesz zasady, kiedy wolno używać asystenta AI
+Y: Zapisz trzy sytuacje, w których decyzja programu mogłaby skrzywdzić człowieka, i dopisz do każdej zasadę ochronną.
+

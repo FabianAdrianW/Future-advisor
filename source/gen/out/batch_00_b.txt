@@ -1,0 +1,180 @@
+@30
+H: Obsługujesz maszyny, które skręcają razem dwie lub więcej nitek w jedną mocniejszą przędzę. Przygotowujesz materiał do skręcania i regularnie konserwujesz maszyny.
+T: Zakładasz szpule z kilkoma nitkami | Ustawiasz skręcarkę do łączenia nitek | Sprawdzasz, czy skręt jest równy | Czyścisz i konserwujesz skręcarkę
+D: 6:00 Zakładasz szpule z dwiema nitkami do skręcenia | 8:30 Uruchamiasz skręcarkę i oglądasz pierwsze metry | 11:00 Jedna nitka się kończy, wymieniasz szpulę | 13:30 Czyścisz skręcarkę i przygotowujesz ją na następną zmianę
+Y: Skręć ze sobą dwie nitki i sprawdź, czy łatwiej zerwać skręcone, czy pojedynczą.
+
+@31
+H: Przewijasz sznurki, taśmy i nici z jednych szpul na inne, żeby mogły trafić do kolejnego etapu produkcji. Obsługujesz nawijarkę i przygotowujesz materiał do nawijania.
+T: Zakładasz pustą szpulę lub bobinę | Uruchamiasz nawijarkę i pilnujesz nici | Zdejmujesz pełne szpule i układasz je | Czyścisz i smarujesz nawijarkę
+D: 6:00 Zakładasz puste bobiny na nawijarkę | 8:00 Pilnujesz, żeby nić nawijała się równo | 10:30 Nitka się plącze, zatrzymujesz maszynę | 13:00 Zdejmujesz pełne szpule i układasz na wózku
+Y: Nawiń nitkę lub sznurek na kawałek kartonu tak, żeby zwoje leżały równo obok siebie.
+
+@32
+H: Obsługujesz maszynę, która oddziela włókna bawełny od nasion. Dozorujesz prasę, zdejmujesz gotowe bele i dbasz o sprawny przebieg całego procesu.
+T: Podajesz surową bawełnę do odziarniarki | Pilnujesz, czy włókno oddziela się od nasion | Dozorujesz prasę formującą bele | Zdejmujesz gotowe bele z odziarniarki
+D: 6:00 Uruchamiasz odziarniarkę i podajesz surową bawełnę | 8:00 Sprawdzasz, czy we włóknie nie zostały nasiona | 11:00 Prasa formuje belę, ty pilnujesz jej pracy | 13:30 Zdejmujesz gotowe bele i czyścisz maszynę
+Y: Zmocz kroplą wody kawałek bawełnianej koszulki i syntetycznej bluzy i zobacz, który materiał szybciej wchłania wodę.
+
+@33
+H: Ustawiasz proces przędzenia tak, żeby z włókien powstawała przędza zgodna z zamówieniem. Dobierasz ustawienia maszyn do rodzaju surowca.
+T: Ustawiasz maszyny przędzalnicze pod zamówienie | Dobierasz ustawienia do rodzaju włókna | Oceniasz próbki przędzy po uruchomieniu | Poprawiasz proces, gdy przędza jest nierówna
+D: 7:00 Czytasz zamówienie na przędzę o określonej grubości | 8:30 Ustawiasz maszyny przędzalnicze i uruchamiasz próbę | 11:00 Oglądasz próbkę, przędza jest nierówna | 13:30 Zmieniasz ustawienia i zapisujesz, co pomogło
+Y: Porównaj dwie różne nitki lub sznurki z domu i opisz, która jest grubsza, równiejsza i bardziej skręcona.
+
+@34
+H: Szyjesz odzież ochronną, która chroni przed zagrożeniami, takimi jak zimno, deszcz, promieniowanie słoneczne czy substancje szkodliwe. Trzymasz się norm i oceniasz, czy gotowy wyrób je spełnia.
+T: Szyjesz kombinezony i kurtki ochronne | Dobierasz materiał do rodzaju zagrożenia | Przyszywasz odblaskowe pasy do odzieży | Sprawdzasz, czy wyrób spełnia normy
+D: 6:00 Czytasz wymagania normy dla nowej partii | 7:30 Szyjesz kurtki ochronne na przemysłowej maszynie | 10:30 Przyszywasz odblaskowe pasy do odzieży ostrzegawczej | 13:00 Sprawdzasz szwy i porównujesz z normą
+Y: Obejrzyj swoją kurtkę i znajdź trzy rozwiązania, które mają chronić przed wodą lub zimnem.
+
+@35
+H: Szyjesz odzież na przemysłowych maszynach w taśmowej produkcji. Łączysz części, wzmacniasz szwy w miejscach narażonych na zużycie i poprawiasz błędne ściegi.
+T: Zszywasz kolejne części odzieży na linii | Wzmacniasz szwy w miejscach narażonych na rozdarcie | Poprawiasz źle uszyte miejsca | Wymieniasz nić i igłę w maszynie
+D: 6:00 Zakładasz nić i szyjesz pierwsze sztuki | 8:00 Zszywasz boki koszul w równym tempie | 11:00 Poprawiasz krzywy szew w partii spodni | 13:30 Przekazujesz stos gotowych części dalej na linii
+Y: Policz szwy w swojej koszulce i zapisz, które kawałki materiału łączy każdy z nich.
+
+@36
+H: Zszywasz wykrojone kawałki skóry w wyroby skórzane na maszynach o różnej budowie: płaskich, ramieniowych i kolumnowych. Wybierasz nici i przeciągasz je przez prowadnice i igły.
+T: Dobierasz nici do grubości skóry | Przeciągasz nić przez prowadnice i igłę | Szyjesz skórzane części na maszynie płaskiej lub ramieniowej | Układasz części skóry w kolejności szycia
+D: 7:00 Wybierasz nić i przeciągasz ją przez prowadnice | 8:30 Szyjesz skórzane panele na maszynie płaskiej | 11:00 Przesiadasz się na maszynę ramieniową do trudnych miejsc | 14:00 Odkładasz uszyte części i sprawdzasz ściegi
+Y: Obejrzyj skórzany pasek lub portfel i sprawdź, czy ściegi mają wszędzie tę samą długość.
+
+@37
+H: Ozdabiasz odzież haftem, obsługując maszyny hafciarskie. Zakładasz materiał, pilnujesz haftowania i sprawdzasz, czy wzór wyszedł dokładnie.
+T: Naciągasz materiał w ramie maszyny | Zmieniasz nici w kolorach wzoru | Uruchamiasz haft i pilnujesz ściegu | Przycinasz końcówki nici po hafcie
+D: 7:00 Zakładasz nici w kolorach nowego wzoru | 8:30 Naciągasz kolejne koszulki w ramie hafciarki | 11:00 Nić pęka w środku wzoru, wznawiasz haft | 13:30 Przycinasz końcówki nici i układasz gotowe sztuki
+Y: Narysuj na kartce swój inicjał i zaznacz kropkami miejsca kolejnych ściegów haftu.
+
+@38
+H: Szyjesz pierwszy egzemplarz projektu odzieży, czyli próbkę, według której potem szyje się całą serię. Decydujesz, jak złożyć ubranie, żeby dało się je później szyć masowo.
+T: Szyjesz pierwszą próbkę według projektu | Ustalasz kolejność składania ubrania | Prasujesz gotową odzież | Kontrolujesz jakość wykonania próbki
+D: 8:00 Dostajesz od projektanta rysunek i materiał | 9:00 Szyjesz próbkę i notujesz, co jest trudne | 12:00 Prasujesz gotową próbkę i oglądasz szwy | 14:30 Oddajesz próbkę z uwagami do produkcji
+Y: Wybierz koszulkę i zapisz w punktach, w jakiej kolejności należałoby zszyć jej części.
+
+@39
+H: Poprawiasz gotową odzież, żeby spełniała wymagania firmy i klienta, na przykład skracasz lub dopasowujesz. Odpowiadasz za jakość każdej poprawki i pilnujesz zgodności z wytycznymi marki.
+T: Skracasz, zwężasz lub dopasowujesz ubrania | Oceniasz jakość każdej poprawki | Porównujesz wynik z wytycznymi marki | Pilnujesz stanu zapasu odzieży
+D: 8:00 Czytasz zlecenia poprawek z zaznaczonymi miejscami | 9:30 Skracasz nogawki spodni według zaznaczeń | 12:00 Sprawdzasz, czy poprawione ubranie dobrze leży | 14:30 Liczysz, ile poprawionych sztuk wraca do sklepu
+Y: Zmierz taśmą lub sznurkiem długość swojej ręki i porównaj ją z długością rękawa bluzy.
+
+@40
+H: Obsługujesz bębny garbarskie, w których surowa skóra zwierzęca staje się wyprawioną skórą. Według instrukcji myjesz ją, usuwasz włosy, garbujesz i barwisz, a w trakcie sprawdzasz pH, temperaturę i stężenie roztworów.
+T: Programujesz bęben garbarski według instrukcji | Mierzysz pH i temperaturę roztworu w bębnie | Sprawdzasz właściwości skóry w trakcie procesu | Myjesz, garbujesz i barwisz skóry w bębnie
+D: 6:00 Ładujesz skóry do bębna i programujesz proces | 8:00 Pobierasz próbkę roztworu i mierzysz pH | 11:00 Wyjmujesz kawałek skóry i oceniasz jej wygląd | 14:00 Opróżniasz bęben i zapisujesz parametry cyklu
+Y: Przyjrzyj się dwóm skórzanym rzeczom z domu i opisz, czym różnią się powierzchnią, kolorem i miękkością.
+
+@41
+H: Obsługujesz maszyny w garbarni, które obrabiają skóry według ustalonych programów. Pilnujesz, żeby dział spełniał normy produkcji, i regularnie konserwujesz maszyny.
+T: Uruchamiasz maszyny według programu garbarskiego | Przenosisz skóry między kolejnymi etapami obróbki | Sprawdzasz, czy skóry spełniają normy działu | Czyścisz i konserwujesz maszyny po zmianie
+D: 6:00 Wybierasz program dla zamówionego rodzaju skóry | 8:00 Przekładasz skóry z palety do maszyny | 11:00 Odkładasz skórę z uszkodzeniem na bok | 13:30 Czyścisz maszynę i zapisujesz liczbę przerobionych skór
+Y: Zegnij skórzany pasek i skórzany but i opisz, który jest grubszy i bardziej sprężysty.
+
+@42
+H: Wykańczasz skórę na maszynach tak, żeby miała zamówiony kolor, wzór i powierzchnię, a czasem też takie cechy jak wodoodporność. Dozujesz mieszanki wykończeniowe i konserwujesz maszyny.
+T: Ustawiasz maszynę pod wymagania klienta | Dozujesz mieszanki wykończeniowe na skórę | Porównujesz kolor i wzór z próbką | Sprawdzasz wodoodporność wykończonej skóry
+D: 6:00 Czytasz wymagania klienta dla zamówionej skóry | 7:30 Ustawiasz maszynę i dozowanie mieszanki | 10:00 Porównujesz odcień skóry z wzorcem klienta | 13:00 Czyścisz maszynę przed kolejnym zleceniem
+Y: Połóż po kropli wody na foliowej torbie, papierze i bawełnianej ściereczce i opisz, co dzieje się z każdą.
+
+@43
+H: Przygotowujesz kolory i mieszanki wykończeniowe do skór według ściśle określonych receptur. Odmierzasz pigmenty i barwniki, mieszasz je i nanosisz na skórę.
+T: Czytasz recepturę i odmierzasz składniki | Mieszasz pigmenty i barwniki w urządzeniu | Nanosisz mieszankę na skórę | Porównujesz uzyskany kolor z wzorcem
+D: 6:30 Czytasz recepturę nowego koloru skóry | 8:00 Odmierzasz pigmenty i uruchamiasz mieszalnik | 10:30 Nanosisz kolor na próbkę i porównujesz z wzorcem | 13:00 Zapisujesz recepturę i myjesz pojemniki
+Y: Nałóż na kartkę dwa kolory kredek jeden na drugi i zapisz recepturę tak, by odcień dało się powtórzyć.
+
+@44
+H: Barwisz przędzę i tkaniny w maszynach barwiących. Według receptur przygotowujesz barwniki i kąpiele, robisz próbki koloru i obliczasz potrzebne ilości składników.
+T: Przygotowujesz barwniki i kąpiele według receptury | Barwisz próbkę i porównujesz kolor ze wzorem | Ustawiasz maszyny barwiące | Obliczasz składniki do dużej partii tkaniny
+D: 6:00 Czytasz recepturę i przygotowujesz kąpiel barwiącą | 7:30 Barwisz małą próbkę i porównujesz kolor | 10:00 Ładujesz tkaninę do maszyny i uruchamiasz barwienie | 13:00 Porównujesz kolor po barwieniu ze wzorem
+Y: Przelicz na kartce składniki przepisu tak, żeby wystarczyło dla ośmiu osób zamiast dwóch.
+
+@45
+H: Obsługujesz maszyny, które nadają tkaninom końcowe cechy przed wysyłką, czyli poprawiają ich wygląd lub przydatność. Nadzorujesz ich pracę i dbasz o konserwację.
+T: Uruchamiasz maszynę wykończalniczą do tkanin | Pilnujesz przebiegu wykończenia tkaniny | Sprawdzasz wygląd i dotyk gotowej tkaniny | Czyścisz i konserwujesz maszyny
+D: 6:00 Przejmujesz maszynę i sprawdzasz jej stan | 8:00 Zakładasz rolkę tkaniny i uruchamiasz wykończenie | 11:00 Dotykiem i wzrokiem oceniasz gotową tkaninę | 13:30 Czyścisz maszynę i zgłaszasz zużyte części
+Y: Z zamkniętymi oczami dotknij trzech tkanin i opisz każdą jednym słowem, na przykład gładka, szorstka, miękka.
+
+@46
+H: Ustawiasz procesy barwienia tkanin tak, żeby kolor wychodził zgodny z zamówieniem. Gdy partia wychodzi w złym odcieniu, szukasz przyczyny i zmieniasz ustawienia.
+T: Ustawiasz parametry barwienia nowej partii | Porównujesz kolor próbki ze wzorcem | Szukasz przyczyny różnic w odcieniu | Zapisujesz ustawienia dla kolejnych partii
+D: 7:00 Dostajesz zamówienie na tkaninę w konkretnym kolorze | 8:30 Ustawiasz proces i uruchamiasz próbne barwienie | 11:00 Porównujesz odcień próbki ze wzorcem | 14:00 Zmieniasz ustawienia, bo kolor wyszedł za ciemny
+Y: Wybierz trzy ubrania w podobnym kolorze i ułóż je od najjaśniejszego do najciemniejszego przy oknie.
+
+@47
+H: Ustawiasz końcowe etapy produkcji tkanin, które poprawiają ich wygląd i przydatność. Dobierasz ustawienia maszyn wykończalniczych i sprawdzasz, czy efekt zgadza się z zamówieniem.
+T: Ustawiasz parametry maszyn wykończalniczych | Dobierasz rodzaj wykończenia do tkaniny | Oceniasz wygląd i właściwości gotowego materiału | Poprawiasz ustawienia po wynikach kontroli
+D: 7:00 Czytasz zamówienie na wykończenie tkaniny | 8:30 Ustawiasz maszynę i uruchamiasz próbny odcinek | 11:00 Oceniasz wygląd i dotyk próbnego odcinka | 13:30 Poprawiasz ustawienia po wynikach kontroli
+Y: Porównaj nową i starą koszulkę i zapisz, jak zmieniły się dotyk, połysk i kształt.
+
+@48
+H: Obsługujesz maszyny, w których pierze się lub czyści na sucho ubrania, pościel, zasłony i dywany. Sortujesz rzeczy od klientów według rodzaju tkaniny i wybierasz technikę czyszczenia, żeby nie zniszczyć koloru.
+T: Sortujesz rzeczy według rodzaju tkaniny | Czytasz metki i wybierasz technikę czyszczenia | Ładujesz i uruchamiasz maszyny pralnicze | Wyjmujesz pranie i sprawdzasz plamy
+D: 7:00 Rozpakowujesz worki od klientów i sortujesz rzeczy | 8:30 Ładujesz delikatne ubrania do czyszczenia na sucho | 11:00 Zasłony wymagają innego programu, więc go wybierasz | 14:00 Składasz czyste rzeczy i przygotowujesz zamówienia
+Y: Przeczytaj metki w trzech swoich ubraniach i zapisz, w jakiej temperaturze wolno je prać.
+
+@49
+H: Nadajesz ubraniom i pościeli właściwy kształt i usuwasz zagniecenia żelazkami, prasami i parownicami. Dbasz też o czystość stanowiska i porządek wśród rzeczy.
+T: Prasujesz koszule, spodnie i bieliznę pościelową | Prasujesz większe rzeczy na prasie | Usuwasz zagniecenia parownicą | Układasz wyprasowane rzeczy według zamówień
+D: 7:00 Włączasz prasy i parownice na stanowisku | 8:00 Prasujesz stos koszul od klientów | 11:00 Prasujesz pościel i obrusy na dużej prasie | 14:00 Układasz wyprasowane rzeczy i czyścisz stanowisko
+Y: Złóż pięć koszulek w równe prostokąty jak w sklepie i zmierz, ile czasu zajmuje ci jedna.
+
+@50
+H: Koordynujesz pracę zespołu w pralni: planujesz harmonogram, rozdzielasz zadania i pilnujesz jakości. Zatrudniasz i szkolisz nowych pracowników.
+T: Układasz harmonogram pracy pralni na dzień | Rozdzielasz zadania między pracowników | Sprawdzasz jakość wypranych i wyprasowanych rzeczy | Szkolisz nowych pracowników przy maszynach
+D: 6:30 Sprawdzasz zamówienia i układasz plan dnia | 8:00 Rozdzielasz zadania między pralnię i prasowalnię | 11:00 Pokazujesz nowej osobie, jak obsługiwać maszynę | 14:00 Oglądasz wyprasowane rzeczy i odsyłasz złe do poprawy
+Y: Rozpisz na kartce godzinny plan sprzątania mieszkania dla trzech osób, z podziałem zadań.
+
+@51
+H: Spawasz i montujesz części baterii, takie jak elementy elektroniczne, przewody i osłonki wokół ogniw. Pracujesz precyzyjnie, bo od jakości połączeń zależy, czy akumulator będzie działał.
+T: Spawasz połączenia między elementami baterii | Montujesz przewody i części elektroniczne | Zakładasz osłonki wokół ogniw | Sprawdzasz połączenia przed przekazaniem dalej
+D: 6:00 Przygotowujesz stanowisko i sprawdzasz rysunek montażowy | 7:30 Montujesz przewody na ogniwach według schematu | 10:30 Spawasz łączenia i oglądasz każde z bliska | 13:30 Zakładasz osłonki i przekazujesz baterie do kontroli
+Y: Obejrzyj pilota lub zabawkę na baterie i narysuj, gdzie w obudowie mieszczą się baterie.
+
+@52
+H: Montujesz płytki obwodów drukowanych według planów i rysunków. Lutujesz ręcznie i maszynowo drobne elementy elektroniczne tak, żeby każdy trafił na właściwe miejsce.
+T: Czytasz rysunki i plany płytki | Układasz drobne elementy na płytce | Lutujesz elementy ręcznie lub maszynowo | Sprawdzasz płytkę po montażu
+D: 6:00 Odbierasz plany i zestaw elementów do płytek | 7:30 Układasz drobne elementy według rysunku | 10:00 Lutujesz wybrane elementy ręcznie pod lupą | 13:00 Przekazujesz płytki do maszyny lutującej i kontroli
+Y: Wytnij pięć papierowych kółek, oznacz je literami i ułóż na kartce według własnego rysunku montażowego.
+
+@53
+H: Wytwarzasz półprzewodniki, czyli mikroczipy i układy scalone, a także testujesz je i naprawiasz. Pracujesz w pomieszczeniu czystym, w specjalnym stroju, żeby żaden pyłek nie zanieczyścił produktu.
+T: Zakładasz strój do pomieszczenia czystego | Wytwarzasz mikroczipy i układy scalone | Testujesz i przeglądasz gotowe elementy | Naprawiasz wadliwe urządzenia półprzewodnikowe
+D: 6:00 Przechodzisz przez śluzę i zakładasz specjalny strój | 7:00 Pracujesz na stanowisku produkcji układów scalonych | 10:30 Testujesz partię czipów i odkładasz wadliwe | 13:00 Zapisujesz wyniki partii przed końcem zmiany
+Y: Przetrzyj białą chusteczką trzy miejsca w pokoju i porównaj, gdzie jest najwięcej kurzu.
+
+@54
+H: Składasz urządzenia elektroniczne z komponentów i przewodów według schematów i rysunków montażowych. Czasem pomagasz też przy kontroli jakości i konserwacji sprzętu.
+T: Czytasz schemat i rysunek montażowy | Montujesz komponenty w obudowie urządzenia | Zakładasz i mocujesz przewody według schematu | Pomagasz kontrolować jakość gotowych urządzeń
+D: 7:00 Pobierasz zestaw części do montażu urządzeń | 8:30 Mocujesz płytkę i przewody w obudowie | 11:00 Porównujesz złożone urządzenie z rysunkiem montażowym | 14:00 Pomagasz przy kontroli jakości całej partii
+Y: Wypisz widoczne z zewnątrz części jednego urządzenia w domu i narysuj ich układ na kartce.
+
+@55
+H: Budujesz aparaty fotograficzne, kamery filmowe i projektory z drobnych części optycznych, elektronicznych i mechanicznych. Łączysz soczewki, lustra, akumulator i procesor obrazu według specyfikacji.
+T: Montujesz soczewki i lustra w aparacie | Składasz drobne elementy mechaniczne narzędziami | Instalujesz akumulator i procesor obrazu | Sprawdzasz, czy aparat robi ostry obraz
+D: 6:30 Rozkładasz soczewki, lustra i części według specyfikacji | 8:30 Mocujesz soczewkę w oprawie, nie dotykając szkła | 11:00 Wkładasz akumulator i procesor obrazu do korpusu | 13:30 Robisz próbne zdjęcie i oceniasz ostrość
+Y: Weź szkło powiększające lub okulary i sprawdź, jak zmienia się ostrość tekstu, gdy oddalasz je od kartki.
+
+@56
+H: Czytasz plany i rysunki, a potem składasz urządzenia, w których łączą się części mechaniczne i elektryczne. Na końcu kontrolujesz i testujesz gotowy zespół, czy działa tak, jak trzeba.
+T: Odczytujesz plany, rysunki i instrukcje | Składasz części mechaniczne i elektryczne w całość | Przerabiasz urządzenia według nowych instrukcji | Testujesz gotowy zespół pod kątem norm
+D: 7:00 Czytasz rysunki i instrukcję nowego zespołu | 8:30 Składasz części mechaniczne i elektryczne w całość | 11:00 Zmieniasz zespół według poprawionej instrukcji | 13:30 Testujesz gotowy zespół i wpisujesz wynik
+Y: Zbuduj dźwignię z linijki i ołówka i sprawdź, jak położenie ołówka zmienia siłę potrzebną do uniesienia książki.
+
+@57
+H: Składasz elektroniczne instrumenty muzyczne według szczegółowych instrukcji i schematów. Instalujesz przetworniki, sprawdzasz brzmienie, a gotowy instrument czyścisz i oglądasz.
+T: Montujesz części instrumentu według schematu | Instalujesz przetworniki elektryczne | Sprawdzasz, jak instrument brzmi po montażu | Czyścisz i oglądasz gotowy instrument
+D: 8:00 Czytasz schemat instrumentu i układasz części | 9:30 Montujesz przetworniki i prowadzisz przewody w obudowie | 12:00 Testujesz każdy dźwięk i szukasz zakłóceń | 14:30 Czyścisz gotowy instrument i oglądasz wykończenie
+Y: Stuknij łyżką w trzy różne przedmioty i opisz każdy dźwięk jednym słowem.
+
+@58
+H: Z rysunków schematycznych składasz zespoły z przewodów, przełączników i urządzeń pomiarowych, które sterują sprzętem elektrycznym. Układasz kable i mocujesz elementy narzędziami ręcznymi.
+T: Odczytujesz rysunki schematyczne aparatury | Układasz przewody i kable w zespole | Montujesz przełączniki i urządzenia pomiarowe | Dokręcasz elementy narzędziami ręcznymi
+D: 7:00 Rozkładasz rysunek schematyczny na stole montażowym | 8:30 Odmierzasz i układasz przewody w zespole | 11:00 Montujesz przełączniki i sprawdzasz ich położenie | 13:30 Dokręcasz połączenia i porównujesz z rysunkiem
+Y: Narysuj schemat swojego mieszkania jako punkty pokoi połączone liniami drzwi i korytarzy.
+
+@59
+H: Przygotowujesz kable i przewody ze stali, miedzi lub aluminium tak, żeby mogły przewodzić prąd w urządzeniach. Przycinasz je, formujesz i układasz, aż pasują do konkretnego urządzenia.
+T: Odmierzasz i przycinasz kable na długość | Formujesz przewody z miedzi lub aluminium | Układasz kable w wiązki | Sprawdzasz, czy kabel pasuje do urządzenia
+D: 6:00 Odczytujesz długości i rodzaje kabli z zamówienia | 8:00 Przycinasz miedziane przewody na zadaną długość | 11:00 Układasz kable w wiązki według rysunku | 13:30 Sprawdzasz, czy wiązka pasuje do urządzenia
+Y: Zmierz linijką lub sznurkiem odległość od łóżka do okna i zapisz, jak długi kabel by tam sięgnął.
+
