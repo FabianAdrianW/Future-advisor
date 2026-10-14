@@ -1,0 +1,119 @@
+@1890
+M: Stylizacja fryzur scenicznych :: Tworzysz fryzury zgodne z wizją artystyczną reżysera i całego zespołu. | Pielęgnacja i naprawa peruk :: Czyścisz, czeszesz i naprawiasz uszkodzone peruki używane na planie. | Mocowanie peruk :: Przyklejasz i stabilizujesz peruki tak, żeby wytrzymały cały występ. | Szybkie zmiany fryzur :: Zmieniasz fryzurę aktora w kilka minut między kolejnymi scenami.
+W: Charakteryzacja historyczna :: Odtwarzasz fryzury z różnych epok na podstawie materiałów historycznych. | Praca na planie :: Organizujesz swoją pracę tak, żeby nie zatrzymywać całej produkcji filmowej. | Dobór fryzury do kostiumu :: Uzgadniasz z kostiumografem fryzurę pasującą do całej stylizacji.
+
+@1891
+M: Strzyżenie i stylizacja włosów :: Przycinasz i układasz włosy zgodnie z koncepcją artystyczną produkcji. | Zakładanie peruk i dodatków :: Mocujesz peruki i akcesoria do włosów przed każdym występem. | Współpraca z dyrektorem artystycznym :: Dopasowujesz fryzurę do wizji artystycznej całej produkcji filmowej. | Poprawki fryzur na planie :: Naprawiasz fryzurę aktora między ujęciami, żeby wyglądała jak wcześniej.
+W: Koloryzacja włosów :: Zmieniasz kolor włosów zgodnie z wymaganiami odgrywanej roli. | Stylizacja na potrzeby teledysków :: Tworzysz fryzury dopasowane do stylu i tempa nagrania. | Pielęgnacja stylizowanych włosów :: Dbasz o włosy często stylizowane, żeby nie uległy zniszczeniu.
+
+@1892
+M: Sporządzanie horoskopu urodzeniowego :: Układasz wykres pozycji planet z chwili narodzin klienta. | Interpretacja układów planet :: Odczytujesz znaczenie wzajemnego ułożenia planet i znaków zodiaku. | Znajomość systemów astrologicznych :: Znasz zasady i symbole używane w tradycyjnej astrologii. | Prowadzenie konsultacji astrologicznej :: Rozmawiasz z klientem i przedstawiasz mu interpretację jego horoskopu.
+W: Astrologia predykcyjna :: Przewidujesz okresy sprzyjające pewnym wydarzeniom na podstawie ruchu planet. | Korzystanie z programów astrologicznych :: Obsługujesz oprogramowanie, które automatycznie wylicza pozycje planet na dany dzień. | Astrologia relacji :: Porównujesz horoskopy dwóch osób, żeby ocenić ich wzajemną zgodność.
+
+@1893
+M: Prowadzenie sesji z klientem :: Organizujesz spotkanie i ustalasz jego przebieg oraz czas trwania. | Techniki relaksacji i koncentracji :: Wprowadzasz się w stan skupienia potrzebny do prowadzenia sesji. | Rozmowa z żałobnikami :: Rozmawiasz z klientem w sposób wyciszony i uważny na jego emocje. | Ustalanie granic sesji :: Wyjaśniasz klientowi zasady i ograniczenia spotkania przed jego rozpoczęciem.
+W: Techniki opisowe i narracyjne :: Przekazujesz obrazy i wrażenia w zrozumiałej dla klienta formie. | Praca z grupą :: Prowadzisz sesje jednocześnie dla kilku osób w jednym pomieszczeniu. | Reagowanie na emocje klienta :: Reagujesz spokojnie i rzeczowo, gdy klient silnie przeżywa przebieg sesji.
+
+@1894
+M: Czytanie kart tarota :: Rozkładasz karty i interpretujesz ich znaczenie w kontekście pytania klienta. | Chiromancja :: Odczytujesz linie i znaki na dłoni klienta według tradycyjnych zasad. | Prowadzenie konsultacji :: Rozmawiasz z klientem o jego sytuacji, zanim przedstawisz interpretację. | Interpretacja symboli :: Tłumaczysz klientowi znaczenie symboli używanych w danej technice.
+W: Astrologia stosowana :: Wykorzystujesz tablice astrologiczne jako dodatkowe narzędzie interpretacji dla klienta. | Techniki numerologiczne :: Analizujesz daty i liczby ważne dla klienta i jego życia. | Prowadzenie dziennika sesji :: Zapisujesz przebieg spotkań, żeby śledzić powtarzające się tematy klienta.
+
+@1895
+M: Czytanie z kart :: Rozkładasz karty w określonym układzie i interpretujesz ich znaczenie. | Czytanie z dłoni :: Odczytujesz linie dłoni klienta według przyjętych, tradycyjnych reguł. | Czytanie z fusów herbacianych :: Interpretujesz wzory powstałe z fusów na dnie filiżanki. | Prowadzenie rozmowy z klientem :: Dopytujesz klienta o jego sytuację, żeby lepiej dopasować interpretację.
+W: Numerologia :: Analizujesz liczby związane z datą urodzenia klienta i jego imieniem. | Interpretacja snów :: Pomagasz klientowi zrozumieć symbole pojawiające się w jego snach. | Prowadzenie sesji telefonicznych :: Prowadzisz wróżby na odległość przez telefon lub wideorozmowę.
+
+@1896
+M: Organizacja ceremonii pogrzebowej :: Planujesz miejsce, termin i przebieg pogrzebu zgodnie z życzeniami rodziny. | Znajomość przepisów pogrzebowych :: Znasz wymogi prawne i dokumenty potrzebne do organizacji pochówku. | Współpraca z administracją cmentarza :: Uzgadniasz z cmentarzem termin i miejsce pochówku zmarłego. | Zarządzanie zespołem krematorium :: Nadzorujesz pracowników odpowiedzialnych za codzienną pracę krematorium w zakładzie.
+W: Doradztwo w wyborze nagrobka :: Pomagasz rodzinie wybrać nagrobek odpowiedni do budżetu i miejsca. | Organizacja transportu zwłok :: Planujesz bezpieczny i zgodny z przepisami przewóz ciała zmarłego. | Rozmowa z rodziną zmarłego :: Ustalasz szczegóły pogrzebu w sposób spokojny i uważny.
+
+@1897
+M: Konserwacja terenu cmentarza :: Kosisz trawę i porządkujesz alejki oraz groby na całym cmentarzu. | Przygotowanie grobu do pochówku :: Wykopujesz i przygotowujesz miejsce pochówku przed samą ceremonią. | Prowadzenie rejestru pochówków :: Zapisujesz dokładne dane o miejscu i dacie każdego pochówku. | Obsługa osób odwiedzających :: Udzielasz informacji o lokalizacji grobów na terenie cmentarza.
+W: Podstawy ogrodnictwa cmentarnego :: Dbasz o zieleń i nasadzenia na całym terenie cmentarza. | Współpraca z zakładami pogrzebowymi :: Uzgadniasz terminy i warunki pochówku z firmami pogrzebowymi. | Sprzęt do prac ziemnych :: Używasz narzędzi i maszyn do przygotowania grobów na cmentarzu.
+
+@1898
+M: Przenoszenie trumny :: Niesiesz trumnę razem z innymi pracownikami w sposób bezpieczny i zgodny z procedurą. | Dekoracja kwiatowa :: Układasz kwiaty i wieńce wokół trumny podczas całej ceremonii. | Prowadzenie żałobników :: Wskazujesz żałobnikom miejsca i kolejność podczas ceremonii pogrzebowej. | Organizacja sprzętu po ceremonii :: Sprzątasz i porządkujesz sprzęt użyty podczas całego pogrzebu.
+W: Obsługa pojazdów pogrzebowych :: Pomagasz w bezpiecznym transporcie trumny do kaplicy i na cmentarz. | Przebieg ceremonii religijnych :: Rozumiesz kolejność czynności w różnych obrzędach pogrzebowych i ceremoniach. | Komunikacja z rodziną zmarłego :: Udzielasz spokojnych i jasnych informacji rodzinie podczas ceremonii.
+
+@1899
+M: Przygotowanie ciała do pochówku :: Myjesz i dezynfekujesz ciało zgodnie z zasadami higieny i bezpieczeństwa. | Konserwacja ciała :: Stosujesz techniki, które tymczasowo zatrzymują naturalne procesy rozkładu ciała. | Makijaż pośmiertny :: Nakładasz makijaż, żeby ukryć widoczne uszkodzenia i przywrócić naturalny wygląd. | Przestrzeganie przepisów sanitarnych :: Znasz zasady higieny obowiązujące przy pracy z ciałem zmarłego.
+W: Rekonstrukcja wizerunku :: Odtwarzasz wygląd twarzy lub ciała po poważnych, widocznych uszkodzeniach. | Komunikacja z rodziną zmarłego :: Ustalasz z rodziną szczegóły dotyczące wyglądu zmarłego podczas pożegnania. | Transport i odbiór ciała :: Organizujesz bezpieczny odbiór ciała z miejsca zgonu zmarłego.
+
+@1900
+M: Tworzenie profilu klienta :: Pomagasz klientowi opisać siebie i swoje oczekiwania wobec partnera. | Dobieranie kandydatów :: Wybierasz osoby, które mogą odpowiadać oczekiwaniom klienta wobec partnera. | Prowadzenie rozmów doradczych :: Rozmawiasz z klientem o jego celach i dotychczasowych doświadczeniach w randkowaniu. | Obsługa platform randkowych :: Pomagasz klientowi zarządzać kontem i wiadomościami w serwisie randkowym.
+W: Doradzanie w komunikacji :: Podsuwasz klientowi sposoby prowadzenia rozmowy z nowo poznaną osobą. | Planowanie pierwszej randki :: Proponujesz miejsce i przebieg pierwszego spotkania dwóch klientów. | Pisanie opisu profilu :: Redagujesz tekst, który dobrze prezentuje klienta na portalu randkowym.
+
+@1901
+M: Obsługa gości przy wejściu :: Witasz klientów i sprawdzasz ich rezerwację przy wejściu do klubu. | Zarządzanie listą rezerwacji :: Sprawdzasz i aktualizujesz listę zarezerwowanych stolików lub miejsc. | Rozwiązywanie skarg gości :: Reagujesz na niezadowolenie klienta i proponujesz rozwiązanie na miejscu. | Organizacja przepływu gości :: Kierujesz gości do wolnych miejsc, żeby uniknąć tłoku przy wejściu.
+W: Podstawy obsługi klienta premium :: Dbasz o wysoki standard obsługi gości w ekskluzywnym miejscu. | Znajomość oferty lokalu :: Odpowiadasz gościom na pytania o dostępne usługi i wydarzenia. | Współpraca z ochroną :: Informujesz pracowników ochrony o sytuacjach wymagających szybkiej interwencji.
+
+@1902
+M: Prowadzenie rozmowy towarzyskiej :: Dbasz o przyjemną atmosferę podczas całego spotkania z klientem. | Organizacja wyjścia :: Planujesz miejsce, czas i przebieg spotkania zgodnie z życzeniem klienta. | Ustalanie zasad spotkania :: Jasno określasz z klientem granice i warunki przed samym spotkaniem. | Organizacja transportu i biletów :: Rezerwujesz transport oraz bilety na wydarzenia dla swojego klienta.
+W: Znajomość etykiety towarzyskiej :: Dopasowujesz zachowanie do charakteru wydarzenia, na które towarzyszysz klientowi. | Rezerwacje restauracji i wydarzeń :: Umawiasz stolik lub miejsce na wydarzeniu dla klienta. | Rozpoznawanie sytuacji ryzykownych :: Oceniasz sytuację i reagujesz, gdy spotkanie staje się niebezpieczne.
+
+@1903
+M: Przygotowywanie posiłków :: Gotujesz proste posiłki dostosowane do potrzeb i diety podopiecznego. | Prace domowe :: Sprzątasz i porządkujesz mieszkanie podopiecznego zgodnie z jego potrzebami. | Organizacja wizyt lekarskich :: Planujesz i dowozisz podopiecznego punktualnie na wizyty lekarskie. | Opieka nad osobą starszą :: Rozpoznajesz potrzeby i ograniczenia osoby starszej lub chorej.
+W: Zakupy i budżet domowy :: Robisz zakupy i rozliczasz wydatki związane z podopiecznym. | Organizacja czasu wolnego podopiecznego :: Proponujesz gry, czytanie i inne formy spędzania czasu. | Podstawy pierwszej pomocy :: Reagujesz w nagłych sytuacjach zdrowotnych dotyczących twojego podopiecznego.
+
+@1904
+M: Kontrola biletów wstępu :: Sprawdzasz bilety i uprawnienia wejścia na widowisko lub inne wydarzenie. | Udzielanie informacji widzom :: Wskazujesz drogę do miejsc i odpowiadasz na pytania widzów. | Monitorowanie bezpieczeństwa sali :: Obserwujesz widownię i zgłaszasz pracownikom ochrony nietypowe sytuacje. | Obsługa systemu biletowego :: Skanujesz lub sprawdzasz bilety w elektronicznym systemie wejścia.
+W: Pomoc osobom z niepełnosprawnościami :: Pomagasz widzom o ograniczonej mobilności dotrzeć na właściwe miejsce. | Obsługa sytuacji kryzysowych :: Wiesz, jak pokierować widzami podczas ewakuacji całego budynku. | Znajomość rozkładu sali :: Szybko kierujesz widzów do właściwego sektora i rzędu.
+
+@1905
+M: Montaż materiałów reklamowych :: Przyklejasz i mocujesz plakaty na tablicach i powierzchniach reklamowych. | Praca na wysokości :: Używasz sprzętu wspinaczkowego, żeby dotrzeć do wyższych miejsc montażu. | BHP przy pracy wysokościowej :: Znasz zasady bezpieczeństwa obowiązujące przy pracy na wysokości. | Montaż reklam w pojazdach :: Mocujesz materiały reklamowe wewnątrz i na zewnątrz autobusów i metra.
+W: Obsługa podnośników i rusztowań :: Korzystasz ze sprzętu umożliwiającego montaż na dużych wysokościach. | Planowanie trasy montażu :: Układasz kolejność miejsc, w których trzeba zamontować reklamy w ciągu dnia. | Podstawy obróbki materiałów reklamowych :: Przycinasz i przygotowujesz plakaty przed ich finalnym montażem.
+
+@1906
+M: Obsługa urządzeń rozrywkowych :: Uruchamiasz i zatrzymujesz atrakcję zgodnie z instrukcją producenta. | Procedury otwierania i zamykania :: Wykonujesz ustalone kroki kontrolne przed uruchomieniem i po zamknięciu atrakcji. | Pierwsza pomoc :: Udzielasz podstawowej pomocy osobom, które poczuły się źle na atrakcji. | Kontrola bezpieczeństwa uczestników :: Sprawdzasz, czy uczestnicy są prawidłowo zabezpieczeni przed startem atrakcji.
+W: Zgłaszanie usterek technicznych :: Rozpoznajesz nietypowe dźwięki lub działanie urządzenia i zgłaszasz je przełożonemu. | Zarządzanie kolejką gości :: Organizujesz ruch gości czekających na skorzystanie z atrakcji. | Obsługa spornych sytuacji :: Spokojnie wyjaśniasz gościom zasady korzystania z danej atrakcji.
+
+@1907
+M: Obsługa stoisk i przejazdów :: Uruchamiasz gry lub urządzenia i tłumaczysz gościom zasady korzystania. | Wydawanie sprzętu rekreacyjnego :: Wypożyczasz i odbierasz sprzęt używany przez uczestników zajęć rekreacyjnych. | Konserwacja urządzeń rekreacyjnych :: Czyścisz i sprawdzasz sprzęt, żeby nadawał się do dalszego użytku. | Planowanie wykorzystania obiektów :: Ustalasz grafik, kiedy i jak długo dany obiekt jest dostępny dla gości.
+W: Sprzedaż biletów i kasa :: Przyjmujesz płatności za przejazdy i wydajesz bilety wstępu gościom. | Organizacja wydarzeń rekreacyjnych :: Pomagasz przygotować konkursy lub pokazy organizowane dla gości parku. | Podstawy pierwszej pomocy :: Reagujesz w razie drobnego urazu gościa na terenie parku.
+
+@1908
+M: Obsługa pralek przemysłowych :: Tłumaczysz klientom, jak uruchomić i ustawić program danej pralki. | Naprawa prostych usterek automatów :: Usuwasz zacięcia i drobne problemy automatu przyjmującego monety. | Uzupełnianie automatów sprzedających :: Dopełniasz proszek i inne produkty w automatach sprzedających w pralni. | Utrzymanie czystości pralni :: Sprzątasz i dezynfekujesz urządzenia oraz podłogi w całej pralni.
+W: Obsługa płatności elektronicznych :: Rozwiązujesz problemy z płatnościami kartą lub aplikacją w pralni. | Podstawy konserwacji urządzeń AGD :: Rozpoznajesz typowe usterki pralek i zgłaszasz je serwisowi. | Obsługa spornych sytuacji :: Pomagasz klientowi, gdy maszyna nie zadziała zgodnie z oczekiwaniem.
+
+@1909
+M: Przyjmowanie i oznaczanie bagażu :: Nadajesz numer i miejsce przechowywania każdej oddanej przez gościa rzeczy. | Wydawanie bagażu po numerku :: Sprawdzasz numerek klienta i oddajesz mu właściwą rzecz. | Organizacja przestrzeni przechowalni :: Układasz bagaż w sposób, który pozwala go szybko odnaleźć. | Utrzymanie porządku w szatni :: Sprzątasz wyznaczony obszar i dbasz o jego stałą czystość.
+W: Postępowanie przy zgubionych rzeczach :: Pomagasz klientowi odnaleźć zgubiony przedmiot według zapisanych wcześniej danych. | Obsługa systemu ewidencji bagażu :: Zapisujesz dane o oddanych rzeczach w systemie komputerowym. | Obsługa spornych sytuacji :: Rozwiązujesz nieporozumienia dotyczące zagubionych lub pomylonych rzeczy klientów.
+
+@1910
+M: Przyjmowanie odzieży wierzchniej :: Odbierasz kurtki i torby klientów i zabezpieczasz je w szatni. | Wydawanie żetonów szatniowych :: Wymieniasz żeton na odpowiedni przedmiot po zakończeniu wizyty klienta. | Organizacja wieszaków i numeracji :: Układasz rzeczy w kolejności, która pozwala je szybko odnaleźć. | Rozpatrywanie drobnych skarg :: Reagujesz spokojnie, gdy klient zgłasza problem z oddaną rzeczą.
+W: Obsługa dużej liczby klientów :: Sprawnie obsługujesz tłum gości w krótkim czasie, na przykład po koncercie. | Podstawy obsługi klienta :: Uprzejmie i szybko informujesz gości o zasadach korzystania z szatni. | Rozpoznawanie podejrzanych sytuacji :: Zauważasz nietypowe zachowania i informujesz o nich pracowników ochrony.
+
+@1911
+M: Obsługa gości przy wejściu :: Witasz gości i otwierasz im drzwi przy wejściu do obiektu. | Pomoc w transporcie bagażu :: Pomagasz gościom nieść walizki i torby do pojazdu lub pokoju. | Kontrola wejścia do obiektu :: Sprawdzasz, kto wchodzi do budynku, i reagujesz na nieuprawnione osoby. | Organizacja transportu dla gości :: Wzywasz taksówkę lub inny transport na prośbę gościa.
+W: Współpraca z ochroną obiektu :: Informujesz pracowników ochrony o podejrzanych sytuacjach przy wejściu. | Znajomość okolicy obiektu :: Udzielasz gościom wskazówek dotyczących okolicznych miejsc i usług. | Obsługa gości zagranicznych :: Komunikujesz się z gośćmi zagranicznymi w podstawowym zakresie.
+
+@1912
+M: Witanie gości w hotelu :: Witasz gości i kierujesz ich do recepcji hotelu. | Transport bagażu gości :: Przewozisz walizki gości wózkiem bagażowym do ich pokoju hotelowego. | Wskazówki na terenie hotelu :: Wskazujesz gościom drogę do windy, restauracji i sal hotelowych. | Drobne usługi czyszczenia :: Czyścisz buty lub ubrania gościa na jego prośbę.
+W: Obsługa gości VIP :: Zapewniasz dodatkową uwagę i wsparcie najważniejszym gościom hotelu. | Znajomość okolicznych atrakcji :: Polecasz gościom restauracje i miejsca warte odwiedzenia w okolicy. | Obsługa gości zagranicznych :: Rozmawiasz z gośćmi zagranicznymi w podstawowym zakresie językowym.
+
+@1913
+M: Odczyt liczników mediów :: Zapisujesz dokładny stan licznika gazu, wody lub energii elektrycznej. | Planowanie trasy odczytów :: Układasz kolejność adresów, żeby odwiedzić je w jak najkrótszym czasie. | Rejestrowanie wyników pomiarów :: Wprowadzasz odczytane dane do systemu bez żadnych błędów. | Rozpoznawanie typów liczników :: Odróżniasz liczniki gazu, wody i energii i wiesz, jak je odczytać.
+W: Urządzenia mobilne do odczytów :: Korzystasz z tabletu lub skanera do rejestrowania odczytów w terenie. | Wykrywanie usterek licznika :: Zauważasz uszkodzony lub nietypowo działający licznik i zgłaszasz to dalej. | Komunikacja z mieszkańcami :: Wyjaśniasz mieszkańcom cel wizyty i sposób odczytu licznika.
+
+@1914
+M: Opróżnianie kas automatów :: Wyjmujesz pieniądze lub żetony z automatów zgodnie z procedurą bezpieczeństwa. | Kontrola techniczna automatów :: Sprawdzasz, czy automat działa prawidłowo, i zgłaszasz zauważone usterki. | Uzupełnianie towaru w automatach :: Dopełniasz produkty sprzedawane w automacie według zapotrzebowania klientów. | Podstawowa konserwacja urządzeń :: Czyścisz i smarujesz mechanizmy automatu, żeby działał bez zacięć.
+W: Prowadzenie rozliczeń gotówkowych :: Liczysz i dokumentujesz zebrane pieniądze z poszczególnych automatów. | Planowanie trasy serwisowej :: Układasz kolejność automatów do obsłużenia w ciągu całego dnia. | Rozpoznawanie prób oszustwa :: Zauważasz uszkodzenia wskazujące na próby włamania do automatu.
+
+@1915
+M: Naprawy ogólnobudowlane :: Naprawiasz ogrodzenia, bramy i drobne elementy konstrukcyjne całego budynku. | Podstawy hydrauliki :: Usuwasz drobne usterki instalacji wodnej, takie jak przecieki czy zatory. | Podstawy elektryki :: Wymieniasz żarówki, gniazdka i naprawiasz proste usterki elektryczne. | Montaż mebli i wyposażenia :: Składasz i mocujesz meble oraz inne wyposażenie wnętrz budynku.
+W: Kontrola wentylacji i ogrzewania :: Sprawdzasz, czy ogrzewanie i wentylacja działają prawidłowo w budynku. | Podstawy renowacji powierzchni :: Odnawiasz zniszczone elementy ścian, podłóg i dachów w budynku. | Prowadzenie rejestru usterek :: Zapisujesz zgłoszone problemy oraz terminy i sposób ich naprawy.
+
+@1916
+M: Organizacja oficjalnych posiłków :: Nadzorujesz przygotowanie i podanie posiłków zgodnie z zasadami etykiety. | Zarządzanie służbą domową :: Rozdzielasz zadania i kontrolujesz pracę całego personelu domowego. | Nakrywanie stołu według etykiety :: Ustawiasz zastawę i dekoracje zgodnie z zasadami formalnego przyjęcia. | Organizacja rezerwacji podróży :: Planujesz i rezerwujesz podróże oraz stoliki w restauracjach dla pracodawcy.
+W: Dbałość o odzież pracodawcy :: Organizujesz czyszczenie i przechowywanie garderoby swojego pracodawcy w rezydencji. | Planowanie przyjęć i wydarzeń :: Organizujesz przebieg formalnych przyjęć odbywających się w rezydencji. | Znajomość etykiety i protokołu :: Dopasowujesz zachowanie i organizację wydarzenia do zasad formalnej etykiety.
+
+@1917
+M: Planowanie posiłków i zakupów :: Układasz jadłospis i zamawiasz potrzebne produkty spożywcze dla domu. | Zarządzanie budżetem domowym :: Rozliczasz wydatki gospodarstwa domowego i pilnujesz ustalonego limitu. | Organizacja sprzątania i prania :: Planujesz i nadzorujesz regularne porządki w całym domu. | Koordynacja opieki nad dziećmi :: Organizujesz czas i zadania związane z opieką nad dziećmi w domu.
+W: Nadzór nad personelem domowym :: Instruujesz i kontrolujesz pracę innych osób zatrudnionych w domu. | Podstawy prac ogrodowych :: Organizujesz regularną pielęgnację ogrodu znajdującego się wokół domu. | Planowanie wydarzeń domowych :: Przygotowujesz logistykę przyjęć i spotkań organizowanych w domu.
+
+@1918
+M: Konserwacja budynku :: Wykonujesz drobne naprawy instalacji i elementów wspólnych budynku. | Kontrola ogrzewania i wody :: Kontrolujesz, czy mieszkańcy mają stały dostęp do ogrzewania i ciepłej wody. | Sprzątanie części wspólnych :: Utrzymujesz czystość na klatkach schodowych i terenie wokół budynku. | Przyjmowanie zgłoszeń mieszkańców :: Rejestrujesz i przekazujesz dalej problemy zgłaszane przez mieszkańców budynku.
+W: Podstawy drobnych prac elektrycznych :: Naprawiasz proste usterki elektryczne w częściach wspólnych budynku. | Nadzór nad bezpieczeństwem budynku :: Sprawdzasz, czy drzwi, oświetlenie i wyjścia ewakuacyjne są sprawne. | Dokumentacja techniczna budynku :: Zapisujesz wykonane naprawy i przeglądy instalacji w budynku.
+
+@1919
+M: Obsługa indywidualnych potrzeb gości :: Realizujesz konkretne prośby gości dotyczące ich pobytu w hotelu. | Nadzór nad służbą pięter :: Kierujesz pracą personelu odpowiedzialnego za czystość pokoi hotelowych. | Kontrola standardu czystości pokoi :: Sprawdzasz, czy pokoje spełniają wysoki standard całego hotelu. | Znajomość etykiety hotelowej :: Dopasowujesz sposób obsługi do formalnych zasad wysokiej klasy hotelu.
+W: Organizacja dodatkowych usług gościa :: Zamawiasz dla gościa transport, rezerwacje lub inne usługi na życzenie. | Rozwiązywanie problemów gościa :: Reagujesz szybko, gdy gość zgłasza niezadowolenie z pobytu. | Zarządzanie grafikiem służby pięter :: Planujesz godziny pracy personelu odpowiedzialnego za pokoje hotelowe.

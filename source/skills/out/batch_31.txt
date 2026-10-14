@@ -1,0 +1,119 @@
+@1860
+M: Zarządzanie danymi :: Ustalasz zasady, kto i w jaki sposób może korzystać z danych w firmie. | Modelowanie danych :: Projektujesz strukturę baz danych, żeby informacje były spójne i łatwe do znalezienia. | Analiza SQL :: Piszesz zapytania SQL, żeby sprawdzać i raportować stan danych w firmie. | Ocena jakości danych :: Sprawdzasz, czy dane są kompletne, aktualne i bez błędów przed raportem. | RODO i ochrona danych :: Znasz przepisy o ochronie danych osobowych i pilnujesz ich przestrzegania w firmie.
+W: Business Intelligence :: Budujesz dashboardy, które pokazują zarządowi kluczowe wskaźniki firmy na bieżąco. | Architektura danych :: Projektujesz, jak różne systemy w firmie wymieniają się informacjami między sobą. | Zarządzanie projektami IT :: Prowadzisz wdrożenia nowych systemów do zarządzania danymi krok po kroku.
+
+@1861
+M: Taksonomia informacji :: Tworzysz systemy kategorii, które porządkują wiedzę firmy w logiczne, łatwe do znalezienia grupy. | Systemy zarządzania treścią :: Obsługujesz programy do przechowywania i udostępniania dokumentów całej organizacji. | Audyt wiedzy :: Sprawdzasz, jakie informacje firma posiada, a jakich jej brakuje, i planujesz uzupełnienia. | Business Intelligence :: Łączysz dane z różnych działów w raporty, które wspierają decyzje zarządu.
+W: Zarządzanie zmianą :: Pomagasz pracownikom przyzwyczaić się do nowych systemów i sposobów pracy z wiedzą. | Analiza danych nieustrukturyzowanych :: Porządkujesz e-maile, notatki i pliki tekstowe tak, żeby dało się je przeszukiwać. | Projektowanie procesów informacyjnych :: Ustalasz, jak informacja ma przepływać między działami, żeby nic się nie gubiło.
+
+@1862
+M: Zarządzanie infrastrukturą IT :: Pilnujesz, żeby serwery, sieć i sprzęt działały bez przerw w pracy firmy. | Negocjacje umów z dostawcami :: Ustalasz warunki i ceny usług informatycznych z firmami zewnętrznymi dla organizacji. | Zarządzanie SLA :: Sprawdzasz, czy dostawcy dotrzymują ustalonych czasów naprawy i poziomu usług. | Planowanie zasobów IT :: Przewidujesz, jakiego sprzętu i licencji firma będzie potrzebować w kolejnych miesiącach.
+W: ITIL :: Korzystasz ze standardowych procedur zarządzania usługami informatycznymi uznawanych w całej branży IT. | Zarządzanie ryzykiem IT :: Oceniasz, co może zawieść w infrastrukturze, i przygotowujesz plany na taki wypadek. | Budżetowanie działu IT :: Planujesz wydatki na sprzęt, licencje i usługi informatyczne na cały rok.
+
+@1863
+M: Zarządzanie cyklem życia oprogramowania :: Nadzorujesz, jak powstaje, jest testowane i wdrażane oprogramowanie w firmie. | Ocena dostawców oprogramowania :: Porównujesz oferty firm zewnętrznych pod względem ceny, jakości i wsparcia technicznego. | Zarządzanie jakością oprogramowania :: Sprawdzasz, czy wdrożone programy działają zgodnie z wymaganiami i bez błędów. | Zbieranie wymagań biznesowych :: Rozmawiasz z działami firmy, czego potrzebują od nowego systemu informatycznego.
+W: Metodyki Agile :: Prowadzisz projekty programistyczne w krótkich etapach z regularnymi przeglądami postępów pracy. | Zarządzanie licencjami :: Pilnujesz, żeby firma miała legalne i aktualne licencje na używane programy. | Analiza kosztów wdrożeń :: Liczysz, czy zakup lub budowa oprogramowania rzeczywiście się firmie opłaca.
+
+@1864
+M: Strategia IT :: Tworzysz długofalowy plan rozwoju technologii zgodny z celami całej firmy. | Zarządzanie budżetem IT :: Planujesz i rozliczasz wydatki całego działu informatycznego w firmie przez cały rok. | Zarządzanie ryzykiem technologicznym :: Oceniasz, jakie zagrożenia dla firmy niosą zmiany w technologii i systemach. | Zarządzanie zespołami IT :: Organizujesz pracę kierowników i specjalistów odpowiedzialnych za systemy w firmie.
+W: Transformacja cyfrowa :: Prowadzisz zmiany, które przenoszą procesy firmy do nowych technologii i systemów. | Analiza trendów technologicznych :: Śledzisz nowe technologie i oceniasz, które z nich przydadzą się firmie. | Zarządzanie dostawcami strategicznymi :: Negocjujesz długoterminowe umowy z kluczowymi firmami technologicznymi dla organizacji.
+
+@1865
+M: Architektura systemów :: Projektujesz, jak poszczególne elementy technologii firmy mają współpracować ze sobą. | Planowanie rozwoju technologii :: Ustalasz, jakie technologie firma powinna wdrożyć w najbliższych latach rozwoju. | Zarządzanie zespołem technicznym :: Kierujesz pracą programistów i inżynierów realizujących projekty technologiczne firmy. | Ocena ryzyka technicznego :: Sprawdzasz, czy nowe rozwiązania techniczne są bezpieczne i stabilne dla firmy.
+W: Skalowanie systemów :: Planujesz, jak systemy firmy mają obsłużyć rosnącą liczbę użytkowników bez awarii. | Zarządzanie bezpieczeństwem IT :: Wdrażasz zasady chroniące systemy firmy przed atakami i wyciekami danych. | Mentoring techniczny :: Uczysz młodszych programistów dobrych praktyk pisania i testowania kodu.
+
+@1866
+M: Tworzenie dokumentacji technicznej :: Piszesz jasne instrukcje opisujące, jak działają produkty i systemy firmy. | Normy dokumentacji :: Znasz standardy, według których dokumentacja techniczna powinna być tworzona i formatowana. | Zarządzanie budżetem działu :: Planujesz wydatki zespołu odpowiedzialnego za dokumentację produktów firmy przez cały rok. | Analiza ryzyka w dokumentacji :: Sprawdzasz, gdzie w dokumentach mogą powstać błędy niosące konsekwencje prawne.
+W: Zarządzanie pisarzami technicznymi :: Organizujesz pracę osób piszących instrukcje i podręczniki dla produktów firmy. | Narzędzia do zarządzania treścią :: Obsługujesz programy do tworzenia i publikowania dokumentacji technicznej online. | Lokalizacja dokumentacji :: Nadzorujesz tłumaczenie instrukcji na inne języki dla rynków zagranicznych.
+
+@1867
+M: Zarządzanie outsourcingiem IT :: Nadzorujesz zlecanie zadań informatycznych firmom zewnętrznym i kontrolujesz efekty ich pracy. | Negocjacje umów :: Ustalasz warunki współpracy i ceny usług z dostawcami technologii dla firmy. | Zarządzanie łańcuchem dostaw IT :: Pilnujesz, żeby sprzęt i usługi docierały na czas do firmy. | Ocena ryzyka dostawców :: Sprawdzasz, czy firmy zewnętrzne są wiarygodne i stabilne finansowo przed podpisaniem umowy.
+W: Zarządzanie relacjami biznesowymi :: Budujesz długoterminową współpracę z kluczowymi dostawcami technologii dla organizacji. | Analiza kosztów usług IT :: Porównujesz oferty różnych firm pod względem opłacalności dla organizacji. | Zarządzanie konfliktami kontraktowymi :: Rozwiązujesz spory, gdy dostawca nie dotrzymuje warunków podpisanej umowy.
+
+@1868
+M: Infrastruktura telekomunikacyjna :: Nadzorujesz instalację i naprawę urządzeń łączności w całej firmie. | Planowanie konserwacji sieci :: Ustalasz harmonogramy przeglądów i napraw urządzeń telekomunikacyjnych w firmie. | Przepisy BHP w telekomunikacji :: Znasz zasady bezpiecznej pracy przy urządzeniach i instalacjach telekomunikacyjnych. | Zarządzanie zapasami sprzętu :: Pilnujesz, żeby firma miała wystarczające zasoby części i urządzeń zapasowych.
+W: Ocena nowych technologii :: Testujesz nowy sprzęt telekomunikacyjny i decydujesz, czy firma powinna go wdrożyć. | Zarządzanie zespołem techników :: Organizujesz pracę i grafiki ekipy instalującej i naprawiającej urządzenia. | Obsługa zgłoszeń klientów :: Nadzorujesz proces rozwiązywania problemów zgłaszanych przez użytkowników usług telekomunikacyjnych.
+
+@1869
+M: Analiza rynku produktowego :: Sprawdzasz, jak produkt wypada na tle konkurencji i czego chcą klienci. | Tworzenie roadmapy produktu :: Układasz plan rozwoju produktu z konkretnymi terminami i etapami realizacji. | Analiza rentowności produktu :: Liczysz, czy produkt przynosi firmie zysk, i szukasz sposobów na jego zwiększenie. | Priorytetyzacja zadań :: Decydujesz, które funkcje produktu zespół zrobi najpierw, a które zostaną później.
+W: Badania użytkowników :: Rozmawiasz z klientami i obserwujesz, jak faktycznie korzystają z produktu. | Analiza danych produktowych :: Sprawdzasz liczby użycia produktu, żeby ocenić, co działa, a co nie. | Zarządzanie interesariuszami :: Informujesz różne działy firmy o planach i zmianach w produkcie.
+
+@1870
+M: Harmonogramowanie projektów :: Układasz plan projektu z terminami poszczególnych zadań i jego etapów. | Budżetowanie projektu :: Planujesz i kontrolujesz wydatki na realizację projektu informatycznego od początku do końca. | Zarządzanie ryzykiem projektowym :: Przewidujesz, co może pójść źle w projekcie, i przygotowujesz plan działania. | Raportowanie postępów :: Piszesz sprawozdania pokazujące, na jakim etapie jest projekt i jakie są wyniki.
+W: Metodyki Agile i Scrum :: Prowadzisz projekt w krótkich etapach z regularnymi przeglądami pracy zespołu. | Zarządzanie zespołem projektowym :: Rozdzielasz zadania między członków zespołu i pilnujesz ustalonych terminów. | Narzędzia do zarządzania projektami :: Obsługujesz programy, które śledzą zadania, terminy i zasoby całego projektu.
+
+@1871
+M: Konfiguracja serwerów WWW :: Instalujesz i ustawiasz serwer, na którym działa strona internetowa firmy. | Zarządzanie systemem CMS :: Dodajesz i aktualizujesz treści strony przez system do zarządzania treścią. | Monitorowanie dostępności strony :: Sprawdzasz, czy strona działa bez przerw i szybko się wczytuje dla użytkowników. | Tworzenie kopii zapasowych :: Regularnie zapisujesz kopię całej strony, żeby nie stracić danych po awarii.
+W: Podstawy HTML i CSS :: Wprowadzasz drobne zmiany w wyglądzie i treści strony bez programisty. | Bezpieczeństwo stron WWW :: Zabezpieczasz stronę przed atakami i regularnie aktualizujesz jej oprogramowanie. | Optymalizacja SEO :: Poprawiasz elementy strony, żeby była lepiej widoczna w wynikach wyszukiwarek.
+
+@1872
+M: Zarządzanie zgłoszeniami :: Nadzorujesz system, w którym rejestrowane i rozwiązywane są zgłoszenia użytkowników. | Ustalanie SLA :: Wyznaczasz czasy, w jakich zespół musi odpowiedzieć na zgłoszenie i je zamknąć. | Zarządzanie zespołem wsparcia :: Planujesz grafiki i obciążenie pracą konsultantów pomocy technicznej w firmie. | Analiza najczęstszych problemów :: Sprawdzasz, jakie problemy powtarzają się najczęściej, i szukasz sposobu na ich eliminację.
+W: Szkolenie konsultantów :: Uczysz zespół, jak rozwiązywać nowe, wcześniej niespotykane typy problemów technicznych. | Tworzenie bazy wiedzy :: Spisujesz rozwiązania typowych problemów, żeby zespół mógł z nich szybko korzystać. | Analiza satysfakcji klientów :: Mierzysz, czy użytkownicy są zadowoleni z obsługi pomocy technicznej firmy.
+
+@1873
+M: Instalacja sprzętu sieciowego :: Montujesz routery, switche i inne urządzenia łączące komputery w sieć. | Diagnozowanie awarii sieci :: Sprawdzasz, gdzie w sieci powstał problem, i usuwasz jego właściwą przyczynę. | Konfiguracja urządzeń sieciowych :: Ustawiasz parametry routerów i switchy, żeby cała sieć działała poprawnie. | Okablowanie strukturalne :: Układasz i podłączasz kable sieciowe zgodnie z zasadami prawidłowej instalacji.
+W: Monitorowanie sieci :: Obserwujesz ruch w sieci, żeby wcześnie wykryć spadek jej wydajności. | Konfiguracja sieci bezprzewodowych :: Ustawiasz punkty dostępu Wi-Fi, żeby zasięg obejmował cały budynek. | Podstawy bezpieczeństwa sieci :: Blokujesz nieautoryzowany dostęp do urządzeń podłączonych do firmowej sieci.
+
+@1874
+M: Monitorowanie systemów serwerowych :: Obserwujesz wskaźniki pracy serwerów, żeby wcześnie zauważyć pojawiający się problem. | Reagowanie na alarmy systemowe :: Sprawdzasz zgłoszenia o awariach i podejmujesz pierwsze działania naprawcze w systemie. | Procedury dostępności systemów :: Znasz kroki, które zapewniają nieprzerwaną pracę serwerowni przez całą dobę. | Podstawy infrastruktury serwerowej :: Rozumiesz, jak działają serwery, zasilanie i chłodzenie w centrum danych.
+W: Automatyzacja zadań operacyjnych :: Piszesz proste skrypty, które same wykonują powtarzalne czynności w centrum danych. | Zarządzanie incydentami :: Koordynujesz działania zespołu podczas większej awarii systemów komputerowych. | Dokumentacja procedur :: Spisujesz instrukcje postępowania na wypadek typowych problemów w serwerowni.
+
+@1875
+M: Diagnostyka sprzętu komputerowego :: Sprawdzasz, która część komputera lub innego urządzenia jest uszkodzona. | Instalacja systemów operacyjnych :: Wgrywasz i konfigurujesz system operacyjny na komputerach i serwerach firmy. | Naprawa urządzeń peryferyjnych :: Usuwasz usterki drukarek, skanerów i innych urządzeń podłączonych do sieci. | Instalacja oprogramowania :: Wgrywasz i aktualizujesz programy na komputerach wszystkich użytkowników firmy.
+W: Konfiguracja sieci lokalnej :: Podłączasz i ustawiasz urządzenia tak, żeby działały w jednej sieci. | Podstawy wirtualizacji :: Uruchamiasz kilka systemów operacyjnych na jednym fizycznym komputerze firmowym. | Obsługa urządzeń mobilnych :: Konfigurujesz i naprawiasz smartfony oraz tablety należące do firmy.
+
+@1876
+M: Planowanie sieci transmisji danych :: Projektujesz, jak dane mają przepływać między systemami lotniczymi w organizacji. | Wdrażanie połączeń teleinformatycznych :: Łączysz systemy komputerowe różnych instytucji w jedną wspólną sieć. | Utrzymanie ciągłości działania sieci :: Pilnujesz, żeby sieć transmisji danych działała bez żadnych przerw. | Protokoły transmisji danych :: Znasz standardy, według których dane przesyłane są między komputerami w sieci.
+W: Bezpieczeństwo sieci krytycznych :: Zabezpieczasz sieć przed zakłóceniami, które mogłyby wpłynąć na pracę systemów. | Monitorowanie wydajności sieci :: Sprawdzasz, czy przesyłanie danych jest szybkie i stabilne cały czas. | Dokumentacja techniczna sieci :: Opisujesz strukturę sieci, żeby inni mogli ją zrozumieć i obsługiwać.
+
+@1877
+M: Instalacja systemów telekomunikacyjnych :: Montujesz urządzenia zapewniające połączenia telefoniczne i transmisję danych w firmie. | Diagnostyka usterek telekomunikacyjnych :: Sprawdzasz, która część systemu powoduje problemy z połączeniem lub transmisją. | Naprawa urządzeń telekomunikacyjnych :: Usuwasz usterki central telefonicznych i urządzeń do telekonferencji. | Transmisja głosu i danych :: Rozumiesz, jak przesyłane są rozmowy telefoniczne i dane w sieci.
+W: Testy nowych urządzeń :: Pomagasz testować nowe urządzenia telekomunikacyjne przed ich wprowadzeniem na rynek. | Konfiguracja systemów poczty głosowej :: Ustawiasz usługi nagrywania i odsłuchu wiadomości głosowych dla klientów. | Dokumentacja usterek :: Zapisujesz przyczyny i sposoby naprawy problemów telekomunikacyjnych w firmie.
+
+@1878
+M: Reprezentacja wiedzy :: Opisujesz wiedzę w postaci powiązanych pojęć i reguł zrozumiałych dla komputera. | Wydobywanie wiedzy z tekstu :: Wyciągasz istotne informacje z dokumentów i rozmów, żeby zapisać je w systemie. | Budowa baz wiedzy :: Tworzysz zbiory reguł i faktów, z których korzystają systemy komputerowe. | Sieci semantyczne :: Łączysz pojęcia w sieć powiązań, która pomaga komputerowi rozumieć szerszy kontekst.
+W: Systemy eksperckie :: Budujesz programy, które podejmują decyzje na podstawie zapisanej wiedzy fachowej. | Przetwarzanie języka naturalnego :: Uczysz systemy rozumienia i analizowania tekstu pisanego przez ludzi. | Narzędzia do zarządzania wiedzą :: Obsługujesz programy do gromadzenia i udostępniania wiedzy w organizacji.
+
+@1879
+M: Przetwarzanie języka naturalnego :: Piszesz programy, które analizują i rozumieją tekst zapisany w języku naturalnym. | Ocena jakości tłumaczeń maszynowych :: Porównujesz tłumaczenie komputera z tłumaczeniem człowieka i szukasz różnic. | Python do analizy tekstu :: Piszesz w nim kod przetwarzający i analizujący duże zbiory tekstu. | Lingwistyka komputerowa :: Rozumiesz, jak zbudowany jest język, żeby zaprogramować to w komputerze.
+W: Modele językowe :: Korzystasz z gotowych modeli językowych do analizy i generowania tekstu. | Analiza korpusów językowych :: Pracujesz z dużymi zbiorami tekstu, żeby znaleźć powtarzające się wzorce językowe. | Ewaluacja systemów tłumaczeniowych :: Mierzysz dokładność tłumaczenia za pomocą ustalonych, powtarzalnych metryk.
+
+@1880
+M: Audyt bezpieczeństwa IT :: Sprawdzasz, gdzie w systemach firmy są słabe punkty, które można zaatakować. | Zarządzanie dostępem do danych :: Ustalasz, kto w firmie może widzieć i zmieniać poszczególne dane. | Polityki bezpieczeństwa informacji :: Piszesz zasady, które mają chronić firmę przed wyciekiem ważnych danych. | Podstawy sieci i systemów :: Rozumiesz, jak działają sieci i serwery, żeby ocenić ich zabezpieczenia.
+W: Testy penetracyjne :: Próbujesz włamać się do systemu firmy, żeby znaleźć jego słabości. | Szkolenia z bezpieczeństwa :: Uczysz pracowników, jak rozpoznawać podejrzane wiadomości i próby ataku. | Reagowanie na incydenty :: Koordynujesz działania firmy po wykryciu ataku lub wycieku danych.
+
+@1881
+M: Aktualizacje i patche bezpieczeństwa :: Instalujesz poprawki, które usuwają znane luki w oprogramowaniu firmy. | Konfiguracja zabezpieczeń systemów :: Ustawiasz zapory sieciowe i programy antywirusowe na komputerach firmy. | Rozpoznawanie phishingu :: Sprawdzasz podejrzane wiadomości i tłumaczysz pracownikom, jak je rozpoznać. | Podstawy sieci komputerowych :: Rozumiesz, jak dane przepływają w sieci, żeby skutecznie je zabezpieczać.
+W: Prowadzenie szkoleń z bezpieczeństwa :: Uczysz pracowników zasad bezpiecznego korzystania z komputera i internetu. | Monitorowanie logów systemowych :: Przeglądasz zapisy zdarzeń w systemie, żeby wykryć nietypową aktywność. | Zarządzanie hasłami i uwierzytelnianiem :: Wdrażasz zasady tworzenia silnych haseł i dodatkowej weryfikacji logowania.
+
+@1882
+M: Podstawy dietetyki :: Rozumiesz, jak składniki pokarmowe wpływają na wagę i zdrowie klienta. | Planowanie jadłospisu :: Układasz plan posiłków dopasowany do celu i trybu życia klienta. | Obliczanie kaloryczności posiłków :: Liczysz, ile kalorii i składników odżywczych zawiera dany posiłek. | Monitorowanie postępów klienta :: Mierzysz wagę i inne wskaźniki, żeby sprawdzić, czy plan działa.
+W: Podstawy treningu fizycznego :: Proponujesz klientowi proste ćwiczenia wspierające odchudzanie i ogólną kondycję. | Aplikacje do liczenia kalorii :: Pokazujesz klientowi, jak samodzielnie śledzić posiłki w telefonie. | Psychologia zmiany nawyków :: Pomagasz klientowi wytrwać w nowych nawykach żywieniowych przez dłuższy czas.
+
+@1883
+M: Ocena fototypu skóry :: Sprawdzasz, jak skóra klienta reaguje na promieniowanie UV, żeby dobrać bezpieczny czas. | Obsługa łóżek do opalania :: Włączasz i ustawiasz urządzenia do opalania zgodnie z instrukcją producenta. | Zasady bezpiecznego opalania :: Znasz limity czasu i częstotliwości sesji, które chronią skórę klienta. | Dezynfekcja stanowiska :: Czyścisz i dezynfekujesz łóżko do opalania po każdym kliencie.
+W: Sprzedaż kosmetyków do opalania :: Dobierasz i polecasz klientowi produkty przygotowujące skórę do opalania. | Rozpoznawanie przeciwwskazań :: Sprawdzasz, czy stan zdrowia lub leki klienta wykluczają korzystanie z solarium. | Obsługa systemu rezerwacji :: Zapisujesz i planujesz wizyty klientów w systemie salonu.
+
+@1884
+M: Pielęgnacja stóp :: Wykonujesz kąpiele i zabiegi, które oczyszczają i nawilżają skórę stóp. | Obcinanie i formowanie paznokci :: Skracasz i nadajesz odpowiedni kształt paznokciom u nóg klienta. | Usuwanie zrogowaciałej skóry :: Złuszczasz nadmiar skóry na stopach za pomocą specjalnych narzędzi. | Zasady higieny i sterylizacji :: Dezynfekujesz narzędzia i stanowisko pracy po każdym kliencie.
+W: Lakierowanie i zdobienie paznokci :: Nakładasz lakier klasyczny lub hybrydowy i proste wzory ozdobne. | Rozpoznawanie problemów stóp :: Zauważasz grzybicę lub wrastające paznokcie i kierujesz klienta do specjalisty. | Masaż stóp :: Wykonujesz krótki masaż relaksacyjny jako część zabiegu pedikiuru.
+
+@1885
+M: Obsługa rezerwacji klientów :: Umawiasz i zmieniasz terminy wizyt w systemie salonu kosmetycznego. | Obsługa kasy i płatności :: Przyjmujesz płatności od klientów i wystawiasz im potwierdzenia zakupu. | Zarządzanie zapasami produktów :: Sprawdzasz stany kosmetyków i zamawiasz brakujące produkty do salonu. | Przekazywanie informacji o usługach :: Wyjaśniasz klientowi, co obejmuje dany zabieg i jak długo trwa.
+W: Sprzedaż produktów kosmetycznych :: Polecasz klientowi kosmetyki dopasowane do jego konkretnych potrzeb. | Obsługa reklamacji :: Przyjmujesz skargi klientów i proponujesz rozwiązanie zgłoszonego problemu. | Podstawy wizażu :: Doradzasz klientowi w wyborze kosmetyków kolorowych do makijażu.
+
+@1886
+M: Obsługa recepcji spa :: Witasz gości i wyjaśniasz, jakie zabiegi są dostępne w ośrodku. | Przygotowanie pomieszczeń zabiegowych :: Sprzątasz i przygotowujesz salę po każdym zabiegu dla kolejnego gościa. | Zapasy ręczników i produktów :: Pilnujesz, żeby w spa zawsze było wszystko potrzebne do zabiegów. | Monitorowanie bezpieczeństwa obiektu :: Sprawdzasz, czy w strefach takich jak sauna nic nie zagraża gościom.
+W: Sprzedaż pakietów zabiegów :: Proponujesz gościom dodatkowe usługi i karnety na kolejne zabiegi. | Podstawy aromaterapii :: Dobierasz olejki eteryczne używane podczas zabiegów relaksacyjnych w spa. | Obsługa systemu rezerwacji online :: Zarządzasz grafikiem zabiegów przez program do rezerwacji wizyt.
+
+@1887
+M: Depilacja woskiem :: Usuwasz owłosienie woskiem ciepłym lub twardym zgodnie z techniką zabiegu. | Depilacja pastą cukrową :: Usuwasz włoski metodą sugaringu, dopasowaną do delikatnej skóry klienta. | Epilacja IPL i elektroliza :: Wykonujesz trwałe usuwanie owłosienia za pomocą światła pulsującego lub prądu. | Ocena przeciwwskazań skórnych :: Sprawdzasz uczulenia i stan skóry klienta przed każdym zabiegiem.
+W: Pielęgnacja po depilacji :: Dobierasz kosmetyki łagodzące podrażnienia skóry po wykonanym zabiegu. | Depilacja laserowa :: Obsługujesz urządzenie laserowe do trwałego usuwania owłosienia u klienta. | Doradzanie w doborze metody :: Pomagasz klientowi wybrać najlepszą metodę depilacji dla jego skóry.
+
+@1888
+M: Analiza typu sylwetki :: Oceniasz proporcje ciała klienta, żeby dobrać korzystny krój ubrań. | Dobór kolorystyki :: Wybierasz kolory ubrań pasujące do karnacji i włosów klienta. | Znajomość trendów mody :: Śledzisz aktualne trendy w ubiorze, biżuterii i dodatkach modowych. | Planowanie stylizacji na okazje :: Dobierasz strój odpowiedni do konkretnego wydarzenia w życiu klienta.
+W: Przegląd i selekcja szafy :: Pomagasz klientowi wybrać i uporządkować ubrania, które warto zatrzymać. | Doradzanie w zakupach :: Towarzyszysz klientowi przy zakupach i pomagasz wybrać konkretne ubrania. | Budowanie wizerunku osobistego :: Uczysz klienta, jak strojem i dodatkami budować spójny wizerunek.
+
+@1889
+M: Mycie skóry głowy :: Myjesz włosy klienta szamponem i delikatnie masujesz skórę głowy. | Aplikacja odżywek i farb :: Nakładasz odżywkę lub farbę na włosy według zlecenia fryzjera. | Płukanie włosów po koloryzacji :: Usuwasz nadmiar farby lub odżywki wodą o odpowiedniej temperaturze. | Utrzymanie porządku na stanowisku :: Zamiatasz ścięte włosy i czyścisz narzędzia po każdym kliencie.
+W: Podstawy pielęgnacji skóry głowy :: Dobierasz produkty do pielęgnacji zależnie od stanu skóry głowy klienta. | Przygotowanie narzędzi fryzjerskich :: Dezynfekujesz grzebienie, szczotki i nożyczki przed każdym użyciem. | Obsługa klienta w salonie :: Witasz klientów i informujesz ich o czasie oczekiwania na wizytę.
