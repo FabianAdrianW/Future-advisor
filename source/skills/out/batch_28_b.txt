@@ -1,0 +1,120 @@
+@1710
+M: Zbieranie wodorostów :: Zbierasz wodorosty z brzegu lub płycizny w odpowiedniej porze roku. | Wybieranie małży i skorupiaków :: Rozpoznajesz i zbierasz małże oraz inne skorupiaki z dna lub piasku. | Sortowanie zebranych organizmów :: Rozdzielasz zebrane organizmy na grupy według gatunku i wielkości. | Układanie zbioru w skrzynkach :: Pakujesz zebrane surowce tak, żeby zachowały świeżość do transportu.
+W: Rozpoznawanie gatunków morskich :: Odróżniasz jadalne i chronione gatunki wodorostów oraz skorupiaków przybrzeżnych. | Znajomość pory zbioru :: Wiesz, kiedy pływy i sezon pozwalają na zbiór konkretnego surowca. | Przepisy zbioru z morza :: Znasz zasady i limity zbioru organizmów morskich obowiązujące w Polsce.
+
+@1711
+M: Układanie lin cumowniczych :: Rozkładasz i mocujesz liny oraz łańcuchy cumujące duże sadze. | Obsługa sprzętu do zakotwiczania :: Używasz specjalistycznego sprzętu, żeby zakotwiczyć klatki na otwartej wodzie. | Kontrola pozycji klatek :: Sprawdzasz, czy sadze trzymają wyznaczoną pozycję na akwenie. | Wymiana elementów mocowania :: Zastępujesz zużyte liny i łańcuchy nowymi elementami mocującymi.
+W: Praca na łodziach roboczych :: Poruszasz się i pracujesz bezpiecznie na łodzi przy sadzach. | Podstawy nurkowania :: Sprawdzasz stan podwodnych mocowań, gdy trzeba zejść pod wodę. | Bezpieczeństwo pracy na wodzie :: Stosujesz zasady bezpiecznej pracy przy cumowaniu w trudnych warunkach.
+
+@1712
+M: Przygotowanie sieci do zbioru :: Szykujesz sieci i pojemniki, zanim zaczniesz odłów organizmów wodnych. | Odławianie ryb siecią :: Wyławiasz ryby z basenu lub zbiornika przy użyciu sieci. | Przekładanie do pojemników :: Przenosisz odłowione zwierzęta do pojemników transportowych bez uszkodzeń. | Mycie basenu po zbiorze :: Czyścisz basen i sprzęt po zakończonym odłowie organizmów.
+W: Minimalizacja stresu podczas odłowu :: Dobierasz tempo pracy tak, żeby ograniczyć stres u zwierząt. | Sortowanie według wielkości :: Rozdzielasz odłowione organizmy na grupy wielkościowe przed transportem. | Obsługa prostych urządzeń pompowych :: Używasz pomp do przenoszenia ryb razem z wodą.
+
+@1713
+M: Czyszczenie sieci i klatek :: Usuwasz zanieczyszczenia osadzone na sieciach i klatkach hodowlanych. | Kontrola lin cumowniczych :: Sprawdzasz stan mocowań konstrukcji pływających na otwartej wodzie. | Obserwacja hodowli :: Zapisujesz zmiany w zachowaniu i wzroście organizmów wodnych. | Pomoc przy zbiorze :: Wspierasz zespół podczas zbioru i wstępnego przetwarzania organizmów.
+W: Praca na konstrukcjach pływających :: Bezpiecznie poruszasz się po tratwach i pomostach na wodzie. | Podstawy akwakultury morskiej :: Rozumiesz cykl hodowli organizmów w systemach zawieszonych na wodzie. | Drobne naprawy sieci :: Naprawiasz niewielkie uszkodzenia sieci samodzielnie, bez pomocy specjalisty z zewnątrz.
+
+@1714
+M: Przycinanie i podwiązywanie pędów :: Przycinasz i podwiązujesz pędy winorośli zgodnie z metodą prowadzenia krzewu. | Ręczny zbiór winogron :: Zbierasz dojrzałe grona ręcznie, dbając o ich jakość. | Pomoc przy rozmnażaniu odmian :: Wspierasz prace przy szczepieniu i sadzeniu nowych odmian winorośli. | Pakowanie butelek wina :: Pakujesz gotowe butelki wina do kartonów przed wysyłką.
+W: Podstawy agrotechniki winorośli :: Rozumiesz, jak nawożenie i przycinanie wpływają na jakość winogron. | Obsługa prostych maszyn winnicowych :: Pomagasz przy obsłudze maszyn do oprysków i koszenia w winnicy. | Rozpoznawanie dojrzałości winogron :: Oceniasz wizualnie, czy grona są gotowe do zbioru.
+
+@1715
+M: Wybieranie dojrzałych plonów :: Rozpoznajesz, które owoce i warzywa są gotowe do zerwania. | Technika zbioru ręcznego :: Zrywasz plony metodą dobraną do konkretnej rośliny, żeby ich nie uszkodzić. | Układanie zbioru w skrzynkach :: Pakujesz zebrane plony w skrzynki, zachowując przy tym ich jakość. | Odrzucanie uszkodzonych sztuk :: Oddzielasz uszkodzone owoce i warzywa od tych pełnowartościowych.
+W: Rozpoznawanie odmian roślin :: Odróżniasz odmiany owoców i warzyw, żeby zbierać je właściwą metodą. | Obsługa prostych narzędzi zbiorowych :: Używasz sekatorów i innych narzędzi do zbioru owoców i warzyw. | Praca w tempie zbiorowym :: Dotrzymujesz tempa zbioru wymaganego przy pracy w większej grupie.
+
+@1716
+M: Podlewanie i pielenie rabat :: Podlewasz rośliny i usuwasz chwasty z rabat kwiatowych w ogrodzie. | Sadzenie kwiatów i krzewów :: Sadzisz kwiaty i krzewy zgodnie z planem nasadzeń ogrodowych. | Grabienie i zbieranie gałęzi :: Grabisz liście i zbierasz ścięte gałęzie z terenu zielonego. | Pomoc przy przycinaniu krzewów :: Wspierasz ogrodnika podczas formowania i przycinania krzewów w ogrodzie.
+W: Podstawowe rośliny ogrodowe :: Odróżniasz popularne kwiaty, krzewy i drzewa używane w ogrodach. | Obsługa prostych narzędzi ogrodniczych :: Używasz grabi, sekatora i podkaszarki w codziennej pracy. | Podstawy nawożenia roślin :: Wiesz, kiedy i czym podlać rośliny odpowiednim nawozem.
+
+@1717
+M: Wysiew i sadzenie roślin :: Wysiewasz i sadzisz rośliny w rzędach zgodnie z instrukcją uprawy. | Pielenie i pielęgnacja uprawy :: Usuwasz chwasty i pomagasz przy innych zabiegach pielęgnacyjnych na polu. | Zbiór i transport plonów :: Zbierasz plony i ładujesz je na przyczepę lub do skrzyń. | Ocena stanu uprawy :: Sprawdzasz, czy rośliny rosną prawidłowo i zgłaszasz zauważone problemy.
+W: Obsługa prostych maszyn polowych :: Pomagasz przy obsłudze siewnika lub innych maszyn rolniczych w gospodarstwie. | Rozpoznawanie chwastów i szkodników :: Odróżniasz pożyteczne rośliny od chwastów i rozpoznajesz typowe szkodniki. | Praca sezonowa w zespole :: Dotrzymujesz tempa pracy zespołowej w okresach intensywnych prac polowych.
+
+@1718
+M: Sadzenie młodych drzew :: Sadzisz sadzonki drzew w rzędach zgodnie z planem zalesienia. | Przerzedzanie drzewostanu :: Usuwasz zbyt gęsto rosnące młode drzewa, żeby pozostałe miały miejsce do wzrostu. | Wycinka wskazanych drzew :: Ścinasz drzewa oznaczone do wycięcia przy użyciu piły spalinowej. | Rozpoznawanie szkodników leśnych :: Szukasz śladów szkodników i uszkodzeń na drzewach w lesie.
+W: Obsługa pilarki łańcuchowej :: Bezpiecznie posługujesz się pilarką podczas wycinki i przycinania drzew. | Pierwsza pomoc w lesie :: Udzielasz pomocy w razie wypadku podczas pracy w lesie. | Podstawy gospodarki leśnej :: Rozumiesz zasady odnawiania i ochrony lasu podczas codziennej pracy.
+
+@1719
+M: Karmienie i pojenie stada :: Zapewniasz bydłu regularny dostęp do paszy i czystej wody. | Rozpoznawanie objawów choroby :: Obserwujesz zwierzęta i wychwytujesz wczesne oznaki rozwijającej się choroby. | Utrzymanie czystości boksów :: Czyścisz boksy i wymieniasz ściółkę, żeby zwierzęta miały higieniczne warunki. | Pomoc przy zabiegach weterynaryjnych :: Wzywasz weterynarza i pomagasz przy zabiegach wykonywanych na zwierzętach.
+W: Podstawy rozrodu bydła :: Rozumiesz cykl rozrodczy krów, żeby planować kolejne wycielenia. | Ocena kondycji zwierząt :: Oceniasz wzrokowo kondycję bydła, żeby dostrzec problem żywieniowy. | Zarządzanie dokumentacją stada :: Prowadzisz pełną ewidencję zwierząt wymaganą prawnie w gospodarstwie hodowlanym.
+
+@1720
+M: Karmienie i pojenie koni :: Dbasz o regularne żywienie i dostęp do wody dla koni. | Czyszczenie boksów :: Czyścisz boksy i wymieniasz ściółkę, żeby konie miały suche miejsce. | Ruch i wyprowadzanie koni :: Wyprowadzasz konie na padok i zapewniasz im codzienny ruch. | Kontrola kopyt i kulawizny :: Oglądasz kopyta i sprawdzasz, czy koń nie kuleje.
+W: Podstawy rozrodu koni :: Rozumiesz cykl rozrodczy kobył, żeby planować nadchodzące źrebienia. | Pierwsza pomoc dla koni :: Reagujesz na drobne urazy, zanim przyjedzie wezwany weterynarz. | Ocena kondycji konia :: Oceniasz wygląd i zachowanie konia, żeby wychwycić problem zdrowotny.
+
+@1721
+M: Wypędzanie na pastwisko :: Prowadzisz owce na pastwisko i pilnujesz ich podczas wypasu. | Liczenie i kontrola stada :: Liczysz owce i szukasz osobników chorych lub rannych w stadzie. | Pomoc przy porodach jagniąt :: Wspierasz owce podczas porodu i opiekujesz się nowo narodzonymi jagniętami. | Strzyżenie owiec :: Strzyżesz owce i zbierasz wełnę w odpowiednim sezonie.
+W: Podstawy weterynarii owiec :: Rozpoznajesz typowe choroby owiec i wiesz, kiedy wezwać weterynarza. | Ocena jakości wełny :: Oceniasz wełnę pod względem jakości przed jej dalszą sprzedażą. | Zarządzanie wypasem :: Planujesz trasę i czas wypasu, żeby pastwisko się nie wyczerpało.
+
+@1722
+M: Dozowanie paszy dla świń :: Dawkujesz paszę dla różnych grup wiekowych świń w gospodarstwie. | Mycie kojców :: Myjesz kojce i wymieniasz ściółkę, żeby ograniczyć ryzyko chorób. | Rozpoznawanie chorych zwierząt :: Obserwujesz świnie i wyłapujesz osobniki wymagające szczególnej opieki. | Opieka nad prosiętami :: Doglądasz lochy przed porodem i opiekujesz się małymi prosiętami.
+W: Podstawy rozrodu świń :: Rozumiesz cykl rozrodczy loch, żeby planować nadchodzące porody. | Zarządzanie dokumentacją hodowli :: Prowadzisz ewidencję zwierząt wymaganą w gospodarstwie trzody chlewnej. | Profilaktyka chorób trzody :: Stosujesz podstawowe zasady higieny ograniczające rozprzestrzenianie chorób w chlewni.
+
+@1723
+M: Prowadzenie stada na pastwiska :: Prowadzisz stado zwierząt na nowe pastwiska w bezpieczny sposób. | Pilnowanie granic wypasu :: Liczysz zwierzęta i pilnujesz, żeby nie wyszły poza wyznaczony teren. | Ocena zdrowia zwierząt :: Sprawdzasz, czy zwierzęta w stadzie są zdrowe i nie kuleją. | Prowadzenie stada do wody :: Zapewniasz zwierzętom regularny dostęp do wody podczas wypasu.
+W: Współpraca z psem pasterskim :: Wykorzystujesz psa do kierowania stadem podczas codziennego wypasu. | Orientacja w terenie :: Znajdujesz bezpieczne i wydajne trasy wypasu w różnym terenie. | Podstawy weterynarii polowej :: Reagujesz na drobne problemy zdrowotne zwierząt daleko od gospodarstwa.
+
+@1724
+M: Planowanie grafiku pracowników :: Układasz grafik pracy pracowników stajni, żeby pokryć wszystkie obowiązki. | Kontrola zdrowia koni :: Regularnie sprawdzasz zdrowie i kondycję koni powierzonych opiece stajni. | Nadzór nad bezpieczeństwem :: Pilnujesz zasad bezpieczeństwa i czystości na terenie całej stajni. | Obsługa klientów i właścicieli :: Rozmawiasz z właścicielami koni o ich zwierzętach i potrzebach.
+W: Zarządzanie budżetem stajni :: Planujesz koszty utrzymania stajni i rozliczasz poniesione wydatki. | Organizacja zawodów i treningów :: Koordynujesz harmonogram treningów i wydarzeń jeździeckich w stajni. | Podstawy marketingu stajni :: Promujesz usługi stajni, żeby przyciągnąć do niej nowych klientów.
+
+@1725
+M: Kontrola temperatury w kurniku :: Pilnujesz temperatury i wentylacji, żeby drób miał dobre warunki. | Dozowanie paszy i wody :: Zapewniasz drobiu regularny dostęp do paszy i czystej wody. | Rozpoznawanie chorych ptaków :: Wyłapujesz osłabione lub chore ptaki z całego stada drobiu. | Prowadzenie ewidencji stada :: Zapisujesz zużycie paszy i liczbę ptaków w gospodarstwie.
+W: Profilaktyka chorób drobiu :: Stosujesz zasady higieny ograniczające rozprzestrzenianie chorób w kurniku. | Automatyzacja kurnika :: Obsługujesz automatyczne systemy karmienia i wentylacji w hodowli drobiu. | Podstawy rozrodu drobiu :: Rozumiesz cykl produkcji jaj i wylęgu, żeby planować produkcję.
+
+@1726
+M: Ocena pisklęcia pojedynczo :: Oglądasz każde pisklę indywidualnie, żeby ustalić jego dokładną płeć. | Ustalanie płci ptaków :: Rozpoznajesz różnice anatomiczne, które wskazują płeć pisklęcia drobiu. | Rozdzielanie samców i samic :: Sortujesz ptaki do osobnych skrzynek według ustalonej płci. | Liczenie posortowanych sztuk :: Zapisujesz liczbę samców i samic po zakończonym sortowaniu.
+W: Szybkość i precyzja sortowania :: Pracujesz sprawnie, żeby obsłużyć dużą liczbę piskląt bez błędów. | Minimalizacja stresu piskląt :: Obchodzisz się z ptakami tak, żeby ograniczyć ich stres podczas sortowania. | Rozpoznawanie ras drobiu :: Odróżniasz rasy drobiu, które mogą mieć inne cechy sortowania.
+
+@1727
+M: Rozdzielanie paszy i wody :: Zapewniasz zwierzętom futerkowym regularny dostęp do paszy i wody. | Rozpoznawanie objawów choroby :: Oglądasz zwierzęta i szukasz objawów choroby lub niepokoju w zachowaniu. | Czyszczenie klatek i terenu :: Czyścisz klatki oraz teren fermy, żeby ograniczyć ryzyko chorób. | Prowadzenie dziennika hodowli :: Zapisujesz w dzienniku liczbę miotów i inne dane hodowlane.
+W: Podstawy rozrodu zwierząt futerkowych :: Rozumiesz cykl rozrodczy, żeby planować nadchodzące okresy porodów. | Ocena jakości futra :: Oceniasz stan okrywy włosowej zwierząt przed ich dalszą sprzedażą. | Profilaktyka chorób fermowych :: Stosujesz zasady higieny ograniczające rozprzestrzenianie się chorób na fermie.
+
+@1728
+M: Przygotowanie zwierzęcia do zabiegu :: Przygotowujesz zwierzę fizycznie i psychicznie przed zabiegiem weterynaryjnym. | Monitorowanie zwierzęcia po znieczuleniu :: Pilnujesz parametrów zwierzęcia, dopóki nie wybudzi się ze znieczulenia. | Opatrywanie ran :: Opatrujesz rany i zmieniasz opatrunki zgodnie z zaleceniem lekarza. | Doradztwo profilaktyczne właścicielom :: Radzisz właścicielom, jak zapobiegać chorobom zwierząt w domu.
+W: Pobieranie próbek do badań :: Pobierasz krew lub inne próbki do analiz weterynaryjnych. | Podstawy anestezjologii zwierząt :: Rozumiesz zasady bezpiecznego znieczulenia zwierząt podczas zabiegów medycznych. | Obsługa sprzętu diagnostycznego :: Korzystasz z aparatury diagnostycznej używanej w gabinecie weterynaryjnym.
+
+@1729
+M: Badanie jamy ustnej konia :: Oglądasz zęby i jamę ustną konia, żeby ocenić ich stan. | Wykonywanie rutynowych zabiegów :: Wykonujesz podstawowe zabiegi stomatologiczne, takie jak piłowanie zębów konia. | Obsługa sprzętu stomatologicznego :: Przygotowujesz i obsługujesz specjalistyczny sprzęt dentystyczny dla koni. | Praca z niespokojnym koniem :: Uspokajasz konia podczas zabiegu i rozmawiasz z jego właścicielem.
+W: Rozpoznawanie problemów zębowych :: Diagnozujesz typowe wady zgryzu i uszkodzenia zębów konia. | Znajomość anatomii konia :: Rozumiesz budowę pyska i zębów, żeby bezpiecznie wykonywać zabiegi. | Przepisy praktyki dentystycznej :: Znasz krajowe zasady wykonywania zabiegów stomatologicznych u koni.
+
+@1730
+M: Przygotowanie sprzętu do zabiegu :: Przygotowujesz stanowisko i sprzęt do przenoszenia zarodków zwierzęcych. | Pomoc przy przenoszeniu zarodków :: Wspierasz lekarza weterynarii podczas całego zabiegu przenoszenia zarodków zwierzęcych. | Oznaczanie i przechowywanie zarodków :: Oznaczasz zarodki i dbasz o właściwe warunki ich przechowywania. | Prowadzenie dokumentacji zwierząt :: Zapisujesz dane dotyczące dawców i odbiorców zarodków w dokumentacji zabiegu.
+W: Podstawy embriologii zwierzęcej :: Rozumiesz etapy rozwoju zarodka, żeby prawidłowo go przechowywać i przenosić. | Kriokonserwacja zarodków :: Znasz metody mrożenia zarodków do ich późniejszego wykorzystania. | Obsługa sprzętu mikroskopowego :: Korzystasz z mikroskopu podczas oceny jakości zarodków przed zabiegiem.
+
+@1731
+M: Ocena gotowości zwierzęcia :: Sprawdzasz, czy zwierzę jest w odpowiedniej fazie cyklu do zabiegu. | Przygotowanie nasienia i narzędzi :: Przygotowujesz dawkę nasienia oraz narzędzia potrzebne do zabiegu. | Wykonywanie zabiegu unasienniania :: Wykonujesz zabieg sztucznego unasienniania zgodnie z ustaloną procedurą. | Prowadzenie dokumentacji zabiegów :: Zapisujesz daty i numery zwierząt poddanych zabiegowi unasienniania.
+W: Rozpoznawanie cyklu rozrodczego zwierząt :: Oceniasz objawy cyklu, żeby wybrać właściwy moment na zabieg. | Przechowywanie nasienia :: Dbasz o odpowiednie warunki przechowywania dawek nasienia przed użyciem. | Praca z różnymi gatunkami :: Dostosowujesz technikę zabiegu do gatunku, u którego go wykonujesz.
+
+@1732
+M: Badanie zwierzęcia i wywiad :: Badasz zwierzę i pytasz właściciela o objawy, żeby ocenić jego stan. | Dobór metody leczenia alternatywnego :: Wybierasz metodę, taką jak akupunktura, odpowiednią do danego przypadku. | Stosowanie zabiegów alternatywnych :: Wykonujesz wybrany zabieg, na przykład akupunkturę lub masaż leczniczy. | Doradzanie dalszej opieki :: Zalecasz właścicielowi sposób opieki nad zwierzęciem w domu.
+W: Znajomość homeopatii zwierzęcej :: Dobierasz środki homeopatyczne wspierające leczenie zwierzęcia pod opieką weterynarza. | Podstawy anatomii zwierząt :: Rozumiesz budowę ciała zwierzęcia, żeby bezpiecznie stosować terapię manualną. | Współpraca z lekarzem weterynarii :: Konsultujesz przypadki z weterynarzem, zanim zastosujesz terapię alternatywną.
+
+@1733
+M: Planowanie programów zwalczania chorób :: Opracowujesz krajowe programy ograniczające rozprzestrzenianie się chorób zwierząt. | Kontrola przewozu zwierząt :: Nadzorujesz przemieszczanie zwierząt i produktów zgodnie z obowiązującymi przepisami. | Nadzór nad bezpieczeństwem żywności :: Kontrolujesz bezpieczeństwo żywności pochodzenia zwierzęcego na każdym etapie. | Koordynacja pracy inspektorów :: Zarządzasz pracą inspektorów i lekarzy weterynarii w swoim obszarze.
+W: Znajomość prawa międzynarodowego :: Rozumiesz przepisy dotyczące przywozu i wywozu zwierząt między krajami. | Epidemiologia weterynaryjna :: Analizujesz rozprzestrzenianie się chorób zwierząt, żeby planować działania zapobiegawcze. | Zarządzanie kryzysowe w chorobach :: Koordynujesz działania podczas wykrycia ogniska choroby zakaźnej u zwierząt.
+
+@1734
+M: Analiza diagnozy weterynaryjnej :: Czytasz diagnozę i skierowanie od lekarza weterynarii przed zabiegiem. | Badanie manualne kręgosłupa :: Badasz ruch i kręgosłup zwierzęcia dłońmi, żeby znaleźć problem. | Wykonywanie manipulacji kręgosłupa :: Wykonujesz delikatne manipulacje kręgosłupa zgodnie z zasadami terapii manualnej. | Informowanie o dalszej opiece :: Informujesz właściciela o ćwiczeniach i konieczności dalszej kontroli zwierzęcia.
+W: Znajomość anatomii zwierząt :: Rozumiesz budowę układu kostnego u różnych gatunków zwierząt domowych. | Praca z różnymi gatunkami :: Dostosowujesz technikę terapii manualnej do wielkości i gatunku zwierzęcia. | Dokumentowanie przebiegu terapii :: Prowadzisz zapisy postępów terapii manualnej dla każdego zwierzęcia.
+
+@1735
+M: Pobieranie próbek od ryb :: Pobierasz próbki od ryb, żeby zbadać ich stan zdrowia. | Nadzór nad szczepieniami :: Nadzorujesz podawanie szczepionek i leków hodowanym rybom w gospodarstwie. | Raportowanie zdrowia ryb :: Opracowujesz regularne sprawozdania o zdrowiu ryb dla pracowników gospodarstwa. | Szkolenie pracowników fermy :: Uczysz pracowników, jak dbać o zdrowie hodowanych ryb.
+W: Diagnostyka chorób ryb :: Rozpoznajesz objawy chorób i dysfunkcji u hodowanych zwierząt wodnych. | Protokoły pobierania próbek :: Stosujesz ustalone procedury pobierania próbek, żeby wyniki były wiarygodne. | Specjalizacja w grupie zwierząt :: Rozwijasz wiedzę o zdrowiu konkretnej grupy zwierząt wodnych.
+
+@1736
+M: Diagnozowanie trudnych przypadków :: Diagnozujesz skomplikowane przypadki, często po skierowaniu od innego lekarza. | Planowanie zabiegu weterynaryjnego :: Planujesz przebieg zabiegu zgodnie z posiadaną wiedzą specjalistyczną. | Wykonywanie zabiegów specjalistycznych :: Wykonujesz zabiegi należące do twojej wąskiej specjalizacji weterynaryjnej. | Komunikacja z właścicielem zwierzęcia :: Tłumaczysz właścicielowi ryzyko zabiegu i dalsze leczenie zwierzęcia.
+W: Znajomość gatunku lub procedury :: Posiadasz uznaną wiedzę dotyczącą wybranego gatunku lub rodzaju zabiegu. | Chirurgia weterynaryjna :: Wykonujesz zabiegi chirurgiczne, które wymagają specjalistycznego przeszkolenia medycznego i doświadczenia. | Konsultacje międzyspecjalistyczne :: Współpracujesz z innymi specjalistami przy złożonych przypadkach klinicznych.
+
+@1737
+M: Ustalanie planu karmienia :: Ustalasz plan karmienia dla zbiorników zgodnie z potrzebami hodowli. | Śledzenie wzrostu hodowli :: Śledzisz wzrost i masę hodowanych zwierząt na bieżąco. | Planowanie obsady zbiorników :: Liczysz zapasy ryb i planujesz obsadę kolejnych zbiorników hodowlanych. | Kierowanie pracownikami chowu :: Wydajesz polecenia pracownikom zajmującym się codziennym chowem zwierząt.
+W: Optymalizacja konwersji pokarmu :: Dobierasz dawki karmy, żeby zwierzęta rosły efektywnie i bez strat. | Zarządzanie jakością wody :: Kontrolujesz parametry wody wpływające na tempo wzrostu zwierząt. | Planowanie produkcji na sezon :: Przewidujesz wielkość zbiorów na podstawie aktualnego tempa wzrostu hodowli.
+
+@1738
+M: Planowanie terminu odłowu :: Planujesz termin i sposób odłowu zgodnie z gotowością hodowli. | Dobór sieci i sprzętu :: Dobierasz sieci i sprzęt odpowiedni do skali planowanego odłowu. | Kierowanie ekipą podczas odłowu :: Kierujesz pracą ekipy w trakcie całego procesu odławiania zwierząt. | Kontrola jakości odłowionych zwierząt :: Sprawdzasz ilość i stan odłowionych zwierząt po zakończonej akcji.
+W: Znajomość technik odłowu :: Rozumiesz różne metody i sprzęt wykorzystywane w procesach odłowu. | Minimalizacja strat podczas odłowu :: Planujesz odłów tak, żeby ograniczyć uszkodzenia i śmiertelność zwierząt. | Logistyka transportu po odłowie :: Organizujesz szybki transport odłowionych zwierząt do dalszego przetwarzania.
+
+@1739
+M: Planowanie produkcji na sezon :: Układasz plan produkcji ryb lub skorupiaków na cały sezon. | Kierowanie zespołem hodowli :: Kierujesz kierownikami i pracownikami odpowiedzialnymi za poszczególne etapy hodowli. | Kontrola kosztów i terminów :: Pilnujesz kosztów, zamówień i terminów realizacji w gospodarstwie akwakultury. | Zapewnienie zgodności z przepisami :: Sprawdzasz, czy hodowla spełnia obowiązujące przepisy i normy.
+W: Zarządzanie wieloma gatunkami :: Koordynujesz produkcję różnych form życia wodnego w jednym gospodarstwie. | Planowanie zbiorów i wypuszczania :: Decydujesz, kiedy zebrać produkcję lub wypuścić organizmy do naturalnego środowiska. | Analiza rentowności produkcji :: Oceniasz, które gatunki lub metody przynoszą największy zysk gospodarstwu.
+

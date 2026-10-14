@@ -1,0 +1,120 @@
+@1680
+M: Pielęgnacja trawników :: Kosisz, wałujesz i nawadniasz trawę tak, żeby boisko lub ogród wyglądały równo i zdrowo. | Obsługa kosiarek :: Bezpiecznie uruchamiasz i ustawiasz kosiarki spalinowe oraz traktorki ogrodnicze do różnych terenów. | Przycinanie żywopłotów :: Formujesz krzewy i żywopłoty nożycami lub podkaszarką, żeby zachowały regularny, równy kształt. | Planowanie sezonowe :: Układasz harmonogram prac zależnie od pory roku, pogody i rodzaju rośliny.
+W: Systemy nawadniające :: Montujesz i regulujesz zraszacze oraz węże, żeby teren nie wysychał bez nadzoru. | Diagnoza chorób roślin :: Rozpoznajesz typowe choroby traw i drzew, żeby szybko zareagować nawozem lub środkiem. | Prawo jazdy kat. B :: Przewozisz sprzęt i materiały między obiektami, które masz pod codzienną opieką.
+
+@1681
+M: Planowanie prac sadowniczych :: Układasz harmonogram cięcia, oprysków i zbiorów zgodnie z cyklem wegetacji drzew. | Ocena stanu drzew :: Sprawdzasz zdrowie i owocowanie drzew, żeby wcześnie wychwycić pojawiający się problem. | Organizacja zbiorów :: Koordynujesz pracę zespołu i sprzętu podczas intensywnego okresu zbioru owoców. | Zarządzanie zespołem sezonowym :: Przydzielasz zadania pracownikom sezonowym i kontrolujesz tempo prac w sadzie.
+W: Dobór odmian :: Wybierasz odmiany drzew pod kątem gleby, klimatu i lokalnego rynku zbytu. | Przechowywanie owoców :: Ustalasz warunki chłodni, żeby zebrane owoce zachowały świeżość jak najdłużej. | Podstawy księgowości gospodarstwa :: Prowadzisz uproszczone rozliczenia kosztów i przychodów całego sadu.
+
+@1682
+M: Agrotechnika winorośli :: Dobierasz sposób prowadzenia krzewów, nawożenia i ochrony winorośli w danym terenie. | Ocena dojrzałości winogron :: Sprawdzasz cukier i kwasowość owoców, żeby wybrać właściwy moment zbioru. | Zarządzanie pracownikami sezonowymi :: Organizujesz i nadzorujesz ekipę przy zbiorach i pracach w winnicy. | Nadzór techniczny winnicy :: Pilnujesz sprzętu, nawodnienia i stanu rzędów krzewów przez cały sezon.
+W: Podstawy enologii :: Rozumiesz, jak jakość winogron wpływa na późniejsze wino, żeby lepiej planować zbiór. | Rolnictwo precyzyjne :: Wykorzystujesz czujniki i dane pogodowe do dokładniejszego planowania prac w winnicy. | Certyfikacja ekologiczna :: Znasz zasady produkcji ekologicznej, jeśli winnica stawia na taki profil.
+
+@1683
+M: Koordynacja uprawy i produkcji :: Łączysz prace w winnicy z procesem produkcji wina w jednym planie. | Współpraca z kierownikami działów :: Ustalasz priorytety z kierownikiem winnicy i kierownikiem piwnicy wina. | Zarządzanie budżetem gospodarstwa :: Planujesz wydatki i przychody całej winnicy w skali całego roku. | Organizacja pracy administracyjnej :: Prowadzisz dokumentację produkcji, umowy i rozliczenia całego gospodarstwa.
+W: Marketing wina :: Promujesz markę wina i szukasz nowych klientów lub dystrybutorów. | Podstawy prawa winiarskiego :: Znasz przepisy dotyczące etykietowania i sprzedaży wina w Polsce. | Organizacja degustacji :: Przygotowujesz wydarzenia degustacyjne, żeby przyciągnąć do winnicy nowych klientów.
+
+@1684
+M: Technologia produkcji wina :: Prowadzisz fermentację i dojrzewanie wina od przyjęcia winogron aż do butelki. | Kontrola jakości wina :: Pobierasz próbki i oceniasz smak, zapach i parametry wina na każdym etapie. | Zarządzanie procesem butelkowania :: Nadzorujesz butelkowanie, korkowanie i etykietowanie gotowego wina w zakładzie. | Przepisy dotyczące produkcji wina :: Znasz krajowe regulacje jakościowe, które musi spełniać wino w piwnicy.
+W: Degustacja sensoryczna :: Oceniasz wino zmysłami tak, żeby rozpoznać wady i mocne strony partii. | Blendowanie win :: Łączysz różne partie wina, żeby uzyskać pożądany, powtarzalny smak końcowy. | Dobór beczek :: Wybierasz rodzaj i wiek beczki, żeby wpłynąć na aromat wina.
+
+@1685
+M: Obsługa maszyn winnicowych :: Prowadzisz traktor i sprzęt do oprysków, koszenia oraz zbioru winogron. | Obsługa prasy i tłoczni :: Uruchamiasz urządzenia tłoczące winogrona na początku produkcji wina w zakładzie. | Rozmnażanie winorośli :: Pomagasz przy szczepieniu i sadzeniu nowych odmian winorośli w gospodarstwie. | Konserwacja sprzętu :: Czyścisz i przeglądasz maszyny po każdym użyciu, żeby działały bezpiecznie.
+W: Regulacja maszyn rolniczych :: Ustawiasz parametry maszyn pod konkretny teren i odmianę winorośli. | Podstawy mechaniki :: Naprawiasz drobne usterki sprzętu bez wezwania zewnętrznego serwisu. | Prawo jazdy kat. T :: Prowadzisz ciągniki i maszyny rolnicze na terenie winnicy.
+
+@1686
+M: Sadzenie chmielu :: Sadzisz sadzonki chmielu wiosną w rzędach pod konstrukcje wsporcze. | Prowadzenie pędów po sznurach :: Kierujesz rosnące pędy chmielu tak, żeby wspinały się po sznurach. | Ochrona roślin przed szkodnikami :: Rozpoznajesz choroby i szkodniki chmielu oraz stosujesz odpowiednie środki ochrony. | Zbiór i suszenie szyszek :: Zbierasz szyszki chmielu i suszysz je w suszarni do właściwej wilgotności.
+W: Obsługa maszyn chmielarskich :: Prowadzisz specjalistyczne maszyny do zbioru i oddzielania szyszek od pędów. | Ocena jakości chmielu :: Sprawdzasz wygląd i zapach szyszek, żeby ocenić ich wartość dla browaru. | Konstrukcje wsporcze :: Stawiasz i naprawiasz słupy oraz druty, po których rosną pędy.
+
+@1687
+M: Ocena zdrowia drzew :: Oglądasz liście, kwiaty i owoce, żeby wcześnie zauważyć chorobę lub szkodnika. | Cięcie sadownicze :: Przycinasz gałęzie sekatorem, żeby drzewo lepiej owocowało i rosło zdrowo. | Ochrona przed szkodnikami :: Dobierasz i stosujesz opryski chroniące drzewa przed szkodnikami i chorobami. | Zbiór i sortowanie owoców :: Zbierasz owoce ręcznie i sortujesz je według wielkości oraz jakości.
+W: Szczepienie drzew :: Łączysz zraz z podkładką, żeby uzyskać nowe drzewo o pożądanych cechach. | Nawadnianie sadu :: Ustawiasz i kontrolujesz system nawadniający, żeby drzewa dostawały odpowiednią ilość wody. | Przechowywanie owoców :: Przygotowujesz owoce do chłodni tak, żeby dłużej zachowały swoją świeżość.
+
+@1688
+M: Organizacja pracy zespołu :: Rozdzielasz codzienne zadania polowe między pracowników produkcji roślinnej w gospodarstwie. | Planowanie terminów agrotechnicznych :: Pilnujesz terminów siewu, oprysków i zbiorów zgodnie z kalendarzem uprawy. | Reagowanie na pogodę :: Zmieniasz plan prac, kiedy warunki pogodowe zagrażają uprawie lub zbiorom. | Praca przy uprawach :: Uczestniczysz osobiście w pracach polowych razem z całym zespołem.
+W: Podstawy agronomii :: Rozumiesz potrzeby różnych roślin, żeby lepiej planować nawożenie i zabiegi. | Obsługa maszyn polowych :: Potrafisz obsłużyć podstawowe maszyny rolnicze używane w codziennej pracy gospodarstwa. | Prowadzenie dokumentacji uprawy :: Zapisujesz wykonane zabiegi i terminy, żeby mieć pełną historię pola.
+
+@1689
+M: Planowanie produkcji rolnej :: Układasz plan uprawy na cały sezon, dobierając odpowiednie rośliny do pól. | Zarządzanie zaopatrzeniem :: Zamawiasz nasiona, nawozy i paliwo tak, żeby nic nie zabrakło w sezonie. | Nadzór nad pracami polowymi :: Pracujesz i nadzorujesz siew, opryski oraz zbiór na polach gospodarstwa. | Rachunkowość gospodarstwa :: Prowadzisz rachunki gospodarstwa, żeby kontrolować koszty i przychody produkcji.
+W: Dotacje rolne :: Znasz zasady ubiegania się o dopłaty i dotacje dla gospodarstw rolnych. | Rolnictwo precyzyjne :: Wykorzystujesz dane z pola, żeby dokładniej dawkować nawozy i środki ochrony. | Zarządzanie magazynem zbóż :: Przechowujesz zebrane plony tak, żeby zachowały jakość do sprzedaży.
+
+@1690
+M: Planowanie cumowania sadzów :: Dobierasz sposób zakotwiczenia klatek do warunków prądów i fal na akwenie. | Analiza warunków morskich :: Sprawdzasz prądy, fale i ukształtowanie dna przed rozmieszczeniem sadzów na wodzie. | Nadzór nad ekipą cumowniczą :: Kierujesz pracownikami podczas montażu i kontroli cum na otwartej wodzie. | Kontrola lin i kotwic :: Sprawdzasz stan lin, łańcuchów i kotwic mocujących duże sadze.
+W: Nurkowanie techniczne :: Schodzisz pod wodę, żeby ocenić stan konstrukcji i mocowań sadzów. | Prawo morskie w akwakulturze :: Znasz przepisy dotyczące bezpiecznego cumowania konstrukcji na otwartych wodach. | Obsługa sprzętu dźwigowego :: Operujesz dźwigami i wyciągarkami przy montażu dużych konstrukcji na wodzie.
+
+@1691
+M: Planowanie tarła :: Ustalasz termin i warunki tarła ryb lub skorupiaków w wylęgarni. | Nadzór nad inkubacją ikry :: Kontrolujesz temperaturę i jakość wody podczas inkubacji ikry w wylęgarni. | Zarządzanie wczesnym karmieniem :: Koordynujesz dawkowanie pokarmu dla najmłodszych stadiów rozwojowych organizmów. | Koordynacja pracy techników :: Rozdzielasz zadania między techników wylęgarni i kontrolujesz ich wykonanie.
+W: Techniki hormonalnej stymulacji tarła :: Stosujesz metody wspomagające rozmnażanie, gdy naturalne tarło nie wystarcza. | Diagnostyka chorób ryb :: Rozpoznajesz pierwsze objawy choroby u larw i młodych osobników. | Zarządzanie jakością wody :: Kontrolujesz parametry wody tak, żeby sprzyjały rozwojowi ikry i larw.
+
+@1692
+M: Karmienie ryb :: Dozujesz pokarm dla ryb w zbiornikach według ustalonego planu żywienia. | Czyszczenie basenów i filtrów :: Sprzątasz baseny oraz filtry, żeby woda zostawała czysta dla ryb. | Sortowanie według wielkości :: Rozdzielasz osobniki na grupy wielkościowe, żeby wszystkie lepiej rosły. | Rozpoznawanie chorych osobników :: Zauważasz martwe lub chore ryby i zgłaszasz to dalej.
+W: Podstawy parametrów wody :: Sprawdzasz temperaturę i poziom tlenu w wodzie, żeby ryby czuły się dobrze. | Obsługa sprzętu akwakultury :: Uruchamiasz pompy i urządzenia napowietrzające używane w codziennej hodowli. | Dokumentowanie hodowli :: Zapisujesz dane o karmieniu i stratach, żeby śledzić wyniki chowu.
+
+@1693
+M: Pilnowanie inkubatorów :: Obserwujesz ikrę w inkubatorach i reagujesz na zmiany warunków środowiska. | Karmienie larw :: Dozujesz bardzo małe porcje pokarmu dla najmłodszych larw ryb. | Selekcja martwej ikry :: Wybierasz z ikry martwe jaja, żeby nie zakażały zdrowych ziarenek. | Wypuszczanie młodych osobników :: Przenosisz i wypuszczasz młode organizmy do wody w odpowiednim momencie.
+W: Podstawy biologii rozwoju ryb :: Rozumiesz etapy rozwoju ikry i larw, żeby lepiej je pielęgnować. | Kontrola parametrów wody :: Mierzysz temperaturę i natlenienie wody w inkubatorach przez cały dzień. | Higiena wylęgarni :: Dezynfekujesz sprzęt i zbiorniki, żeby ograniczyć ryzyko chorób.
+
+@1694
+M: Ustalanie dawek karmy :: Wyliczasz ilość karmy dla stada na podstawie jego wielkości i wieku. | Pomiar i ważenie zwierząt :: Mierzysz i ważysz próbki, żeby śledzić tempo wzrostu hodowli. | Obserwacja zachowania ryb :: Oceniasz apetyt i zachowanie ryb, żeby wcześnie wykryć problem zdrowotny. | Prowadzenie dokumentacji wzrostu :: Zapisujesz dane o wzroście i zużyciu karmy w rejestrze hodowli.
+W: Konwersja pokarmu :: Liczysz, ile karmy potrzeba na kilogram przyrostu masy ryb. | Automatyczne systemy karmienia :: Programujesz automatyczne podajniki karmy dla zbiorników hodowlanych w gospodarstwie. | Analiza jakości wody :: Sprawdzasz podstawowe parametry wody wpływające na tempo wzrostu ryb.
+
+@1695
+M: Przygotowanie sprzętu do odłowu :: Szykujesz sieci i urządzenia, zanim zaczniesz wyławianie hodowanych zwierząt wodnych. | Obsługa maszyn do wyławiania :: Uruchamiasz specjalistyczne maszyny do odłowu organizmów wodnych w hodowli. | Sortowanie złowionych osobników :: Rozdzielasz wyłowione sztuki według rozmiaru i dalszego przeznaczenia. | Kontrola sprzętu po odłowie :: Sprawdzasz i czyścisz sieci oraz maszyny po zakończeniu odłowu.
+W: Minimalizacja stresu zwierząt :: Dobierasz tempo i sposób odłowu, żeby ograniczyć stres u ryb. | Transport żywych organizmów :: Przygotowujesz zbiorniki transportowe, żeby zwierzęta przetrwały przewóz w dobrym stanie. | Konserwacja urządzeń połowowych :: Naprawiasz i smarujesz maszyny, żeby działały bez awarii.
+
+@1696
+M: Kontrola systemów recyrkulacji wody :: Sprawdzasz pompy i obieg wody w zamkniętym systemie recyrkulacyjnym. | Nadzór nad filtrami biologicznymi :: Kontrolujesz działanie filtrów biologicznych usuwających zanieczyszczenia z wody. | Testowanie zasilania awaryjnego :: Sprawdzasz, czy generator i zasilanie zapasowe zadziałają w razie awarii. | Reagowanie na alarmy systemowe :: Szybko reagujesz na alarmy dotyczące temperatury, tlenu czy przepływu wody.
+W: Automatyka systemów RAS :: Obsługujesz sterowniki, które automatycznie regulują parametry systemu recyrkulacyjnego w hodowli. | Chemia wody w akwakulturze :: Interpretujesz wyniki testów wody, żeby ocenić jakość środowiska dla ryb. | Diagnostyka usterek urządzeń :: Lokalizujesz przyczynę awarii pompy lub filtra, zanim zrobi się poważna.
+
+@1697
+M: Monitorowanie wzrostu młodych osobników :: Sprawdzasz regularnie, jak rosną młode ryby lub skorupiaki w hodowli. | Przestawianie na inny pokarm :: Zmieniasz rodzaj karmy w miarę jak młode osobniki dorastają. | Sortowanie według wielkości :: Rozdzielasz osobniki na grupy, żeby większe nie dominowały mniejszych. | Wczesne wykrywanie choroby :: Zauważasz pierwsze objawy choroby u młodych zwierząt wodnych.
+W: Odsadzanie młodych osobników :: Przenosisz młode zwierzęta między etapami chowu w bezpieczny sposób. | Dokumentacja wychowu :: Prowadzisz zapisy przyrostów i strat w każdej partii młodych osobników. | Kontrola gęstości obsady :: Dobierasz liczbę osobników na zbiornik, żeby nie rosły w stresie.
+
+@1698
+M: Kontrola konstrukcji pływających :: Sprawdzasz stan tratw, lin i pali, na których prowadzona jest hodowla. | Nadzór nad tuczeniem zwierząt :: Pilnujesz karmienia i wzrostu organizmów utrzymywanych w otwartej wodzie. | Przetwarzanie organizmów do sprzedaży :: Wyjmujesz i przygotowujesz hodowane zwierzęta do dalszej komercjalizacji. | Organizacja konserwacji sprzętu :: Planujesz naprawy i czyszczenie konstrukcji hodowlanych na wodzie.
+W: Prace podwodne przy konstrukcjach :: Sprawdzasz stan podwodnych elementów mocujących, czasem z nurkowaniem. | Logistyka zbiorów z wody :: Organizujesz transport zebranych organizmów z akwenu do przetwórni. | Bezpieczeństwo pracy na wodzie :: Stosujesz zasady bezpiecznej pracy na łodziach i konstrukcjach pływających.
+
+@1699
+M: Karmienie ryb w sadzach :: Dozujesz pokarm dla ryb utrzymywanych w sadzach na otwartej wodzie. | Kontrola stanu sadzów :: Sprawdzasz siatki i konstrukcję sadzów, żeby ryby nie mogły uciec. | Obserwacja zdrowia ryb :: Oceniasz zachowanie i wygląd ryb, żeby wykryć problem zdrowotny. | Pomiar jakości wody :: Mierzysz temperaturę i inne parametry wody wokół sadzów.
+W: Naprawa siatek sadzowych :: Zszywasz lub wymieniasz uszkodzone fragmenty siatki w sadzu. | Rozpoznawanie gatunków hodowlanych :: Odróżniasz gatunki i stadia rozwojowe ryb hodowanych w sadzach. | Prowadzenie dziennika hodowli :: Zapisujesz dane o karmieniu, wodzie i zdrowiu ryb.
+
+@1700
+M: Zarządzanie stadem zarodowym :: Opiekujesz się dorosłymi rybami, które dają ikrę do wylęgu. | Kontrolowane tarło i zapłodnienie :: Prowadzisz sztuczne tarło i zapładnianie ikry w warunkach wylęgarni. | Kontrola warunków inkubacji :: Pilnujesz temperatury i czystości wody podczas wylęgu ikry w wylęgarni. | Wychów młodych osobników :: Opiekujesz się larwami w pierwszych tygodniach ich życia.
+W: Techniki sztucznego rozrodu ryb :: Stosujesz metody wspomagające naturalne tarło, gdy trzeba zwiększyć skuteczność. | Profilaktyka chorób w wylęgarni :: Dezynfekujesz sprzęt i wodę, żeby ograniczyć ryzyko chorób larw. | Selekcja osobników rozrodowych :: Wybierasz najlepsze ryby do stada zarodowego na podstawie ich cech.
+
+@1701
+M: Nawigacja przybrzeżna :: Wyznaczasz i prowadzisz kurs statku rybackiego w strefie przybrzeżnej. | Kierowanie załogą na pokładzie :: Wydajesz polecenia załodze podczas połowu i manewrów statku rybackiego. | Obsługa maszynowni :: Sprawdzasz silnik i podstawowe układy statku, żeby działały bez awarii. | Znajomość przepisów rybackich :: Pilnujesz limitów połowowych i granic obszarów zgodnie z przepisami.
+W: Obsługa radaru i GPS :: Korzystasz z urządzeń nawigacyjnych, żeby bezpiecznie poruszać się po akwenie. | Łączność radiowa morska :: Komunikujesz się z innymi statkami i portem przez radio pokładowe. | Pierwsza pomoc na morzu :: Udzielasz podstawowej pomocy załodze w razie wypadku na pokładzie.
+
+@1702
+M: Planowanie trasy połowowej :: Układasz plan połowu i trasę statku zgodnie z celem rejsu. | Nadzór nad załadunkiem statku :: Kontrolujesz rozmieszczenie i sztauowanie ładunku na statku rybackim. | Przetwarzanie i chłodzenie połowu :: Nadzorujesz sortowanie, przetwarzanie i chłodzenie złowionych ryb na statku. | Prowadzenie nawigacji statku :: Obsługujesz urządzenia nawigacyjne i kontrolujesz kurs jednostki na morzu.
+W: Obsługa dużych jednostek rybackich :: Pracujesz na statkach o dużej pojemności, zgodnie z wymaganymi uprawnieniami. | Przepisy międzynarodowego rybołówstwa :: Znasz zasady połowu obowiązujące poza polskimi wodami przybrzeżnymi. | Logistyka przechowywania połowu :: Planujesz sposób magazynowania ryb tak, żeby zachowały świeżość do portu.
+
+@1703
+M: Obsługa sieci rybackich :: Zarzucasz i wyciągasz sieci podczas połowu ryb głębinowych na morzu. | Sortowanie i oczyszczanie ryb :: Rozdzielasz złowione ryby według gatunku i wielkości na pokładzie. | Konserwowanie połowu :: Solisz, chłodzisz lub zamrażasz ryby, żeby zachowały świeżość w czasie rejsu. | Naprawa sprzętu połowowego :: Naprawiasz uszkodzone sieci i inny sprzęt używany do połowu.
+W: Obsługa sprzętu specjalistycznego :: Używasz prętów i innego sprzętu do połowu konkretnych gatunków ryb. | Przepisy rybołówstwa dalekomorskiego :: Znasz regulacje dotyczące połowów prowadzonych na pełnym morzu. | Bezpieczeństwo pracy na statku :: Stosujesz zasady bezpiecznej pracy przy sieciach i maszynach pokładowych.
+
+@1704
+M: Czytanie tropów zwierzyny :: Rozpoznajesz tropy i ślady zwierząt, żeby ustalić ich trasę przemieszczania. | Podchodzenie do zwierzyny :: Cicho i ostrożnie zbliżasz się do zwierzyny bez jej spłoszenia. | Obsługa broni myśliwskiej :: Bezpiecznie posługujesz się strzelbą lub łukiem zgodnie z przepisami. | Postępowanie z upolowaną zwierzyną :: Prawidłowo zajmujesz się tuszą zwierzyny po zakończonym polowaniu.
+W: Prawo łowieckie :: Znasz przepisy dotyczące sezonów, limitów i terenów łowieckich w Polsce. | Posługiwanie się wnykami :: Używasz przyrządów do łapania zwierząt zgodnie z obowiązującymi przepisami. | Zarządzanie populacją zwierzyny :: Rozumiesz zasady regulowania liczebności zwierząt na danym terenie.
+
+@1705
+M: Prowadzenie małej łodzi :: Wypływasz i kierujesz niewielką łodzią rybacką w pobliżu brzegu. | Zastawianie i wybieranie sieci :: Ustawiasz i zbierasz sieci rybackie w strefie przybrzeżnej morza. | Obsługa silnika łodzi :: Sprawdzasz i uruchamiasz silnik łodzi przed każdym wypłynięciem. | Konserwowanie świeżego połowu :: Układasz ryby z lodem w skrzynkach, żeby zachowały świeżość.
+W: Podstawy akwakultury przybrzeżnej :: Prowadzisz prostą hodowlę ryb lub skorupiaków blisko brzegu morza. | Przepisy rybołówstwa przybrzeżnego :: Znasz krajowe zasady połowu obowiązujące w strefie przybrzeżnej morza. | Pierwsza pomoc na wodzie :: Reagujesz na wypadek podczas rejsu niewielką łodzią rybacką.
+
+@1706
+M: Karmienie koni :: Podajesz paszę i wodę koniom o stałych porach dnia. | Czyszczenie kopyt i sierści :: Czyścisz kopyta i szczotkujesz sierść, żeby koń był zdrowy i czysty. | Wypuszczanie na pastwisko :: Bezpiecznie prowadzisz konie na pastwisko i z powrotem do stajni. | Rozpoznawanie objawów kulawizny :: Zauważasz kulawiznę lub zmianę apetytu i zgłaszasz to dalej.
+W: Podstawy jeździectwa :: Potrafisz dosiąść konia i poprowadzić go stępem na padoku. | Pierwsza pomoc dla koni :: Reagujesz na drobne skaleczenia i wzywasz pomoc w razie potrzeby. | Przygotowanie konia do zawodów :: Czyścisz i siodłasz konia przed wyjściem na zawody lub trening.
+
+@1707
+M: Karmienie i pojenie zwierząt :: Rozdzielasz paszę i uzupełniasz wodę dla zwierząt gospodarskich codziennie rano. | Obserwacja zdrowia stada :: Sprawdzasz, czy zwierzęta nie kuleją i normalnie jedzą przez cały dzień. | Wymiana ściółki :: Usuwasz zużytą ściółkę i rozkładasz nową w boksach zwierząt. | Dokumentowanie zmian w stadzie :: Zapisujesz zauważone zmiany w zdrowiu lub zachowaniu zwierząt.
+W: Podstawy zootechniki :: Rozumiesz potrzeby żywieniowe różnych gatunków zwierząt gospodarskich w gospodarstwie. | Obsługa urządzeń do karmienia :: Korzystasz z automatycznych podajników paszy w codziennej pracy gospodarstwa. | Pierwsza pomoc zwierzętom gospodarskim :: Reagujesz na drobne urazy zwierząt, zanim przyjedzie weterynarz.
+
+@1708
+M: Sprzątanie boksów :: Czyścisz boksy i wymieniasz ściółkę, żeby konie miały suche i czyste miejsce. | Wyprowadzanie koni na ćwiczenia :: Prowadzisz konie na padok lub do ćwiczeń zgodnie z planem dnia. | Karmienie według planu :: Podajesz paszę koniom zgodnie z ustalonym rozkładem żywienia. | Utrzymanie porządku w stajni :: Dbasz o czystość budynków, sprzętu i placu wokół stajni.
+W: Podstawy opieki weterynaryjnej :: Rozpoznajesz pierwsze objawy choroby i wiesz, kiedy wezwać weterynarza. | Siodłanie i czyszczenie sprzętu :: Przygotowujesz i czyścisz siodła oraz uzdy używane przy koniach. | Prowadzenie konia na lonży :: Pracujesz z koniem na linie, żeby go rozruszać bez jeźdźca.
+
+@1709
+M: Łapanie ptaków w hali :: Chwytasz drób w hali hodowlanej bez zadawania mu zbędnego stresu. | Bezpieczne układanie w skrzyniach :: Delikatnie umieszczasz ptaki w skrzyniach transportowych bez ich uszkodzenia. | Przenoszenie skrzyń :: Przenosisz pełne skrzynie z drobiem do ciężarówki transportowej. | Ochrona zwierząt przed urazem :: Uważasz, żeby nie połamać skrzydeł ani nóg ptaków podczas łapania.
+W: Organizacja pracy zespołowej :: Koordynujesz tempo łapania z resztą ekipy, żeby skrócić czas odłowu. | Podstawy dobrostanu drobiu :: Rozumiesz zasady minimalizowania stresu ptaków podczas transportu i łapania. | Obsługa sprzętu transportowego :: Ładujesz i zabezpieczasz skrzynie na ciężarówce przed transportem.
+
