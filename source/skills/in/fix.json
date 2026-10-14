@@ -1,0 +1,218 @@
+[
+ {
+  "id": 328,
+  "name": "Operator przędzarki",
+  "desc": "Operatorzy przędzarek przekształcają włókna w przędzę.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Zakładasz włókna do przędzarki",
+   "Uruchamiasz przędzarkę i pilnujesz jej pracy",
+   "Łączysz zerwane końce nici",
+   "Zdejmujesz gotową przędzę z maszyny"
+  ]
+ },
+ {
+  "id": 330,
+  "name": "Operator skręcarki do przędzy",
+  "desc": "Operatorzy skręcarek do przędzy dozorują maszyny, które skręcają razem dwa lub więcej włókien w przędzę. Obchodzą się surowcami, przygotowują je do przetwarzania oraz wykorzystują do tego celu skręcarki. Prowadzą oni również rutynową konserwację maszyn.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Zakładasz szpule z kilkoma nitkami",
+   "Ustawiasz skręcarkę do łączenia nitek",
+   "Sprawdzasz, czy skręt jest równy",
+   "Czyścisz i konserwujesz skręcarkę"
+  ]
+ },
+ {
+  "id": 338,
+  "name": "Pracownik szyjący pierwowzory odzieży",
+  "desc": "Pracownicy szyjący pierwowzory odzieży tworzą pierwszą sporządzoną próbkę projektu odzieży. Podejmują decyzje w odniesieniu do konstrukcji odzieży z uwzględnieniem produkcji masowej, aby zagwarantować, że zszyte próbki będą gotowe na czas. Prasują gotową odzież i przeprowadzają kontrolę jakości.",
+  "path": "Przemysł i produkcja > Tekstylia, skóra i obuwie",
+  "tasks": [
+   "Szyjesz pierwszą próbkę według projektu",
+   "Ustalasz kolejność składania ubrania",
+   "Prasujesz gotową odzież",
+   "Kontrolujesz jakość wykonania próbki"
+  ]
+ },
+ {
+  "id": 351,
+  "name": "Monter akumulatorów",
+  "desc": "Monterzy akumulatorów spawają i montują komponenty baterii, takie jak części elektroniczne, przewody i osłonki wokół ogniw.",
+  "path": "Przemysł i produkcja > Monterzy maszyn i sprzętu",
+  "tasks": [
+   "Spawasz połączenia między elementami baterii",
+   "Montujesz przewody i części elektroniczne",
+   "Zakładasz osłonki wokół ogniw",
+   "Sprawdzasz połączenia przed przekazaniem dalej"
+  ]
+ },
+ {
+  "id": 517,
+  "name": "Operator pompy do rurociągu",
+  "desc": "Operatorzy pomp do rurociągu dozorują sprzęt i systemy przenoszenia płynów i substancji (tj. roztwory chemiczne, ropa naftowa, gazy i inne) z jednego punktu do drugiego. Obsługują węże, pompy i inny sprzęt, zależnie od przenoszonych towarów. Zapewniają oni sprawny obieg i przepływ towarów w rurociągach.",
+  "path": "Przemysł i produkcja > Górnictwo i wydobycie",
+  "tasks": [
+   "Obsługujesz pompy i węże do przesyłu",
+   "Kontrolujesz przepływ towaru w rurociągu",
+   "Dobierasz sprzęt do rodzaju towaru",
+   "Wychwytujesz zakłócenia przepływu"
+  ]
+ },
+ {
+  "id": 599,
+  "name": "Operator peleciarki",
+  "desc": "Operatorzy peleciarek obsługują młyn młotkowy w celu przekształcenia odpadowych produktów drewnianych w granulat wykorzystywany jako paliwo. Zmielony produkt jest następnie przeciskany przez matrycę, tworząc znormalizowany kształt i rozmiar granulatu.",
+  "path": "Przemysł i produkcja > Obróbka drewna i produkcja papieru",
+  "tasks": [
+   "Podajesz odpady drewniane do młyna",
+   "Kontrolujesz pracę prasy z matrycą",
+   "Sprawdzasz kształt i rozmiar granulek",
+   "Czyścisz maszynę z pyłu i resztek"
+  ]
+ },
+ {
+  "id": 1258,
+  "name": "Dyrektor szkoły podstawowej",
+  "desc": "Dyrektorzy szkół podstawowych zarządzają bieżącą działalnością szkoły podstawowej. Zarządzają personelem, podejmują decyzje w sprawie naboru i odpowiadają za przestrzeganie standardów w zakresie programów nauczania, które są dostosowane do wieku uczniów szkoły podstawowej i ułatwiają edukację w zakresie rozwoju społecznego i akademickiego. Ponadto zapewniają, że placówka spełnia ustanowione przez prawo krajowe wymogi w zakresie edukacji.",
+  "path": "Edukacja > Dyrektor szkoły",
+  "tasks": [
+   "Układasz zespół nauczycieli i obsługi",
+   "Decydujesz o przyjęciach nowych uczniów",
+   "Dopasowujesz program do wieku dzieci",
+   "Sprawdzasz, czy szkoła spełnia przepisy"
+  ]
+ },
+ {
+  "id": 1555,
+  "name": "Kierownik ds. ochrony",
+  "desc": "Kierownicy ds. ochrony zapewniają bezpieczeństwo osobom, takim jak klienci i pracownicy, oraz rzeczom takim jak majątek przedsiębiorstwa, ruchomości, maszyny, pojazdy i nieruchomości. Zapewniają oni bezpieczeństwo poprzez egzekwowanie polityki bezpieczeństwa, śledzenie różnych wydarzeń, wdrażanie protokołów bezpieczeństwa, tworzenie procedur reagowania kryzysowego, przeprowadzanie ocen bezpieczeństwa oraz nadzorowanie pracowników ochrony.",
+  "path": "Zarządzanie i biznes > Kierownicy administracji i strategii",
+  "tasks": [
+   "Oceniasz słabe punkty w ochronie obiektu",
+   "Piszesz procedury reagowania na kryzysy",
+   "Kierujesz zespołem pracowników ochrony",
+   "Sprawdzasz, czy wszyscy stosują zasady bezpieczeństwa"
+  ]
+ },
+ {
+  "id": 1637,
+  "name": "Asystent / asystentka chirurga",
+  "desc": "Asystenci / asystentki chirurgów wspierają lekarzy w zakresie czynności medycznych, wykonując proste czynności pomocnicze podczas zabiegów medycznych, realizacji znormalizowanych programów diagnostycznych i znormalizowanych badań w miejscu świadczenia usług opieki zdrowotnej. Zapewniają higienę podczas zabiegów chirurgicznych oraz zajmują się czyszczeniem, dezynfekcją, sterylizacją i konserwacją urządzeń medycznych, a także wykonują zadania organizacyjne i administracyjne wymagane do przeprowadzania zabiegów pod nadzorem i na polecenie lekarza.",
+  "path": "Medycyna i zdrowie > Asystenci i technicy ochrony zdrowia",
+  "tasks": [
+   "Podajesz narzędzia chirurgowi podczas zabiegu",
+   "Przygotowujesz salę zabiegową do operacji",
+   "Czyścisz, dezynfekujesz i sterylizujesz sprzęt",
+   "Wykonujesz dokumentację zabiegów"
+  ]
+ },
+ {
+  "id": 1677,
+  "name": "Koordynator zespołu ds. produkcji ogrodniczej",
+  "desc": "Koordynatorzy zespołu ds. produkcji ogrodniczej są odpowiedzialni za kierowanie i współpracę z zespołem. Układają codzienne harmonogramy prac w zakresie produkcji ogrodniczej i uczestniczą w produkcji.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Układasz dzienny plan prac dla brygady",
+   "Pokazujesz nowym osobom, jak wykonać zadanie",
+   "Pracujesz razem z zespołem przy roślinach",
+   "Zgłaszasz kierownikowi braki i problemy"
+  ]
+ },
+ {
+  "id": 1683,
+  "name": "Menedżer winnicy",
+  "desc": "Menedżerowie winnic kierują prowadzeniem winnicy i wytwórni wina, a w niektórych przypadkach zajmują się także kwestiami administracyjnymi i marketingiem.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Koordynujesz uprawę i produkcję wina",
+   "Rozmawiasz z kierownikami winnicy i piwnicy",
+   "Prowadzisz sprawy administracyjne",
+   "Promujesz wino i szukasz klientów"
+  ]
+ },
+ {
+  "id": 1688,
+  "name": "Koordynator zespołu ds. produkcji roślinnej",
+  "desc": "Koordynatorzy zespołu ds. produkcji roślinnej są odpowiedzialni za kierowanie i współpracę z zespołem pracowników produkcji roślinnej. Organizują dzienny harmonogram prac w zakresie produkcji roślinnej i uczestniczą w produkcji.",
+  "path": "Rolnictwo, las i zwierzęta > Rolnicy, sadownicy, ogrodnicy",
+  "tasks": [
+   "Rozdzielasz zadania na polu między pracowników",
+   "Pilnujesz terminów siewu i zbioru",
+   "Pracujesz razem z zespołem przy uprawach",
+   "Zmieniasz plan, gdy psuje się pogoda"
+  ]
+ },
+ {
+  "id": 1709,
+  "name": "Łapacz drobiu",
+  "desc": "Łapacze drobiu to specjaliści pracujący w gospodarstwach zajmujących się hodowlą drobiu, łapiący drób.",
+  "path": "Rolnictwo, las i zwierzęta > Pomocnicy w rolnictwie i leśnictwie",
+  "tasks": [
+   "Łapiesz ptaki w hali hodowlanej",
+   "Układasz je ostrożnie w skrzyniach",
+   "Przenosisz pełne skrzynie do ciężarówki",
+   "Uważasz, żeby nie połamać skrzydeł i nóg"
+  ]
+ },
+ {
+  "id": 1755,
+  "name": "Aktor cyrkowy / aktorka cyrkowa",
+  "desc": "Aktorzy cyrkowi opracowują oryginalne występy, wykazując się dużymi umiejętnościami artystycznymi i estradowymi, prezentując głębię emocji i propozycje artystyczne dla widowni. Mogą występować, w zespole lub w pojedynkę, prezentując jedną lub więcej tradycyjnych lub oryginalnych dyscyplin cyrkowych, które zazwyczaj bazują na możliwościach fizycznych, takich jak wytrzymałość, równowaga, zwinność, elastyczność, sprawność i koordynacja ciała, oraz w połączeniu z dyscyplinami estradowymi, takimi jak taniec, teatr, występy mimów itd. Fizyczny charakter wykonywanych ćwiczeń często wiąże się z pewnym ryzykiem dla wykonawcy.",
+  "path": "Sztuka, scena i film > Artyści i twórcy",
+  "tasks": [
+   "Ćwiczysz akrobacje i elementy występu",
+   "Opracowujesz własny numer i choreografię",
+   "Rozgrzewasz i wzmacniasz ciało przed występem",
+   "Występujesz przed publicznością w zespole lub solo"
+  ]
+ },
+ {
+  "id": 1845,
+  "name": "Programista przemysłowych aplikacji mobilnych",
+  "desc": "Programiści przemysłowych aplikacji mobilnych wdrażają oprogramowanie aplikacji dla konkretnych, profesjonalnych przemysłowych urządzeń mobilnych (ręcznych), kierując się potrzebami zakładu, z wykorzystaniem ogólnych lub specjalnych narzędzi programowania dla systemów operacyjnych urządzeń.",
+  "path": "Informatyka i dane > Programiści i analitycy",
+  "tasks": [
+   "Programujesz aplikacje na ręczne urządzenia przemysłowe",
+   "Rozmawiasz z pracownikami zakładu o potrzebach",
+   "Dopasowujesz ekrany do pracy w rękawicach",
+   "Testujesz aplikację w hali, nie tylko przy biurku"
+  ]
+ },
+ {
+  "id": 1922,
+  "name": "Osoba prowadząca pensjonat",
+  "desc": "Osoby prowadzące pensjonat wykonują codzienne czynności związane z prowadzeniem pensjonatu. Dbają o zaspokajanie potrzeb gości.",
+  "path": "Uroda, dom i usługi osobiste > Gospodarze budynków i domów",
+  "tasks": [
+   "Przyjmujesz gości i wydajesz klucze",
+   "Układasz plan sprzątania pokoi",
+   "Przygotowujesz śniadania dla gości",
+   "Odpowiadasz na rezerwacje i pytania"
+  ]
+ },
+ {
+  "id": 1933,
+  "name": "Pokojowy/pokojowa",
+  "desc": "Pokojowi/pokojowe czyszczą, porządkują pokoje gościnne i inne obszary publiczne, w zależności od zaleceń, i uzupełniają w nich zapasy.",
+  "path": "Uroda, dom i usługi osobiste > Sprzątanie domów, hoteli i biur",
+  "tasks": [
+   "Ścielisz łóżka i zmieniasz pościel",
+   "Myjesz łazienkę i wymieniasz ręczniki",
+   "Uzupełniasz kosmetyki i wodę",
+   "Zgłaszasz zgubione rzeczy i usterki"
+  ]
+ },
+ {
+  "id": 2026,
+  "name": "Asystent pracownika socjalnego",
+  "desc": "Asystenci pracowników socjalnych są specjalistami działającymi na podstawie praktycznych doświadczeń, przyczyniającymi się do zmian społecznych i rozwoju, jedności społecznej oraz udzielenia ludziom większych uprawnień i wolności. Współpracują z poszczególnymi osobami, rodzinami, grupami, organizacjami i społecznościami w celu wsparcia różnych form terapii i doradztwa, pracy w grupach i pracy społecznej.",
+  "path": "Opieka i pomoc ludziom > Pomoc społeczna, prawo, religia",
+  "tasks": [
+   "Pomagasz w rozmowach z rodzinami",
+   "Prowadzisz dokumentację i notatki",
+   "Wspierasz zajęcia grupowe w społeczności",
+   "Przekazujesz informacje o świadczeniach"
+  ]
+ }
+]
