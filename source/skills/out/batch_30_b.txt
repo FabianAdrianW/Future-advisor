@@ -1,0 +1,119 @@
+@1830
+M: Projektowanie architektury systemu :: Planujesz ogólną strukturę systemu złożonego z wielu elementów. | Podział systemu na moduły :: Dzielisz całość na mniejsze części, które można budować niezależnie. | Projektowanie interfejsów systemu :: Ustalasz, jak poszczególne moduły będą się ze sobą komunikować. | Weryfikacja zgodności z wymaganiami :: Sprawdzasz, czy zaprojektowany system spełnia wszystkie ustalone wymagania.
+W: Modelowanie UML :: Rysujesz diagramy klas i sekwencji, które opisują działanie systemu. | Projektowanie wzorców architektonicznych :: Stosujesz uznane wzorce projektowe, które ułatwiają rozwój systemu. | Dokumentacja projektu technicznego :: Opisujesz projekt tak, żeby programiści mogli go wdrożyć bez wątpliwości.
+
+@1831
+M: Czytanie specyfikacji technicznych :: Odczytujesz dokumentację opisującą wymagania dla układu sterującego urządzenia. | Projektowanie struktury systemu wbudowanego :: Planujesz ogólną budowę systemu, który będzie działał w urządzeniu. | Specyfikowanie wymagań sterowania :: Zapisujesz, jakie zadania ma wykonywać układ sterujący urządzenia. | Podział zadań sterowania :: Rozdzielasz funkcje systemu na mniejsze, łatwiejsze do zbudowania części.
+W: Znajomość mikrokontrolerów :: Rozumiesz działanie małych procesorów stosowanych w urządzeniach elektronicznych. | Programowanie w C/C++ :: Piszesz niskopoziomowy kod, który bezpośrednio steruje podzespołami urządzenia. | Projektowanie z myślą o energii :: Planujesz system tak, żeby urządzenie zużywało mało energii.
+
+@1832
+M: Utrzymanie systemów wsparcia :: Dbasz o stałe i poprawne działanie systemów używanych przez organizację. | Diagnozowanie usterek systemu :: Znajdujesz przyczynę błędu w działaniu sprzętu lub oprogramowania. | Dobór technologii do potrzeb :: Wybierasz istniejące lub nowe technologie odpowiednie do konkretnego zadania. | Testowanie elementów systemu :: Sprawdzasz działanie sprzętu komputerowego i oprogramowania przed oddaniem do pracy.
+W: Udoskonalanie systemów istniejących :: Wprowadzasz zmiany, które poprawiają działanie już funkcjonującego systemu. | Dokumentowanie zmian w systemie :: Zapisujesz, co zostało zmienione i dlaczego, dla następnych osób. | Podstawy administracji systemami :: Zarządzasz kontami i uprawnieniami użytkowników w systemie organizacyjnym.
+
+@1833
+M: Testowanie dostępności klawiaturą :: Sprawdzasz, czy przez stronę lub aplikację da się przejść bez użycia myszy. | Ocena kontrastu i czytelności :: Weryfikujesz, czy kolory i wielkość tekstu są czytelne dla każdego użytkownika. | Testowanie z czytnikiem ekranu :: Sprawdzasz, czy program do odczytu tekstu prawidłowo odczytuje zawartość strony. | Zgłaszanie barier dostępności :: Opisujesz dokładnie miejsca, w których użytkownik może utknąć lub coś przegapić.
+W: Znajomość standardów WCAG :: Odnosisz się do uznanych wytycznych dostępności cyfrowej przy ocenie strony. | Testowanie dla osób niedowidzących :: Sprawdzasz działanie powiększenia i kontrastu dla osób słabowidzących. | Pisanie raportów dostępności :: Przygotowujesz dokument z listą problemów i sposobem ich naprawy.
+
+@1834
+M: Testowanie grup elementów systemu :: Sprawdzasz, czy połączone ze sobą moduły działają razem poprawnie. | Praca według planu testów integracji :: Wykonujesz testy zgodnie z wcześniej przygotowanym harmonogramem i zakresem. | Weryfikacja przepływu danych :: Sprawdzasz, czy dane prawidłowo przechodzą między różnymi modułami systemu. | Analiza zależności między modułami :: Rozpoznajesz, jak zmiana w jednym module wpływa na pracę innych.
+W: Automatyzacja testów integracyjnych :: Piszesz skrypty, które same sprawdzają połączenia między modułami. | Dokumentowanie wyników testów :: Zapisujesz wyniki testów w sposób zrozumiały dla zespołu programistów. | Znajomość środowisk testowych :: Konfigurujesz oddzielne środowisko, w którym testujesz integrację bez ryzyka dla produkcji.
+
+@1835
+M: Testowanie całego systemu :: Sprawdzasz działanie systemu jako całości przed przekazaniem go użytkownikom. | Planowanie testów :: Przygotowujesz zakres i kolejność testów, które trzeba przeprowadzić. | Sprawdzanie elementów sprzętowych i programowych :: Weryfikujesz, czy każda część systemu działa zgodnie z wymaganiami. | Zgłaszanie usterek :: Opisujesz znalezione błędy tak, żeby programiści mogli je szybko naprawić.
+W: Automatyzacja testów :: Piszesz skrypty, które automatycznie sprawdzają działanie systemu. | Testowanie regresyjne :: Sprawdzasz, czy wprowadzona poprawka nie zepsuła działania innej części systemu. | Podstawy usuwania usterek :: Samodzielnie naprawiasz proste błędy znalezione podczas testowania.
+
+@1836
+M: Obserwacja użytkowników aplikacji :: Patrzysz, jak realni użytkownicy wykonują zadania w testowanej aplikacji. | Opisywanie profili użytkowników :: Tworzysz opisy typowych osób korzystających z danego systemu. | Analiza scenariuszy użycia :: Rozpisujesz typowe ścieżki, którymi użytkownik przechodzi przez aplikację. | Przekazywanie uwag projektowych :: Formułujesz konkretne propozycje poprawek dla zespołu projektującego interfejs.
+W: Prowadzenie testów użyteczności :: Organizujesz sesję, w której użytkownicy testują aplikację pod twoim nadzorem. | Projektowanie person użytkownika :: Tworzysz fikcyjne, ale realistyczne postacie reprezentujące grupy użytkowników. | Analiza map ciepła :: Sprawdzasz, które miejsca na ekranie przyciągają najwięcej uwagi użytkownika.
+
+@1837
+M: Ocena ryzyka awarii :: Sprawdzasz, które systemy firmy są najbardziej narażone na awarię. | Pisanie procedur odtwarzania :: Tworzysz dokładny opis kroków potrzebnych do przywrócenia systemu po awarii. | Koordynacja testów kopii zapasowych :: Organizujesz regularne sprawdzanie, czy kopie zapasowe da się odtworzyć. | Wsparcie zespołów technicznych w kryzysie :: Pomagasz technikom działać według planu w trakcie prawdziwej awarii.
+W: Planowanie ciągłości działania :: Przygotowujesz strategię, która pozwala firmie dalej funkcjonować podczas awarii. | Znajomość strategii backupu :: Rozumiesz różne metody tworzenia kopii zapasowych danych firmowych. | Symulacje awaryjne :: Organizujesz ćwiczenia, w których zespół próbuje odtworzyć system w kontrolowanych warunkach.
+
+@1838
+M: Analiza wymagań pod kątem ryzyka :: Czytasz wymagania projektu i szukasz miejsc najbardziej podatnych na błędy. | Pisanie scenariuszy testowych :: Opisujesz krok po kroku, co i w jakiej kolejności ma być sprawdzone. | Przewidywanie nietypowych zachowań :: Wymyślasz sytuacje, w których użytkownik może zrobić coś nieoczekiwanego. | Ocena jakości produktu :: Sprawdzasz, czy gotowy produkt spełnia wymagania jakości i dokładności.
+W: Projektowanie przypadków granicznych :: Tworzysz testy dla wartości na granicy dopuszczalnego zakresu danych. | Dokumentacja strategii testów :: Opisujesz ogólny plan i podejście do testowania całego projektu. | Współpraca z testerami :: Przekazujesz przygotowane scenariusze testerom, którzy wykonują testy praktycznie.
+
+@1839
+M: Zarządzanie zespołem audytorów :: Przydzielasz audytorom systemy do sprawdzenia i nadzorujesz ich pracę. | Analiza raportów z audytów :: Czytasz i oceniasz wyniki audytów przygotowane przez zespół. | Ocena ryzyka organizacyjnego :: Szacujesz, jak wykryte problemy wpływają na bezpieczeństwo całej firmy. | Zalecanie usprawnień kontroli :: Proponujesz konkretne zmiany w systemach zarządzania ryzykiem.
+W: Planowanie harmonogramu audytów :: Ustalasz, kiedy i które systemy firmy zostaną skontrolowane. | Znajomość standardów audytu IT :: Odnosisz się do uznanych norm, na przykład COBIT, przy ocenie systemów. | Prezentacja wyników zarządowi :: Przedstawiasz wnioski z audytów w sposób zrozumiały dla kierownictwa firmy.
+
+@1840
+M: Wdrażanie systemów zarządzania jakością :: Wprowadzasz w dziale IT metody kontroli jakości zgodne z normami. | Pilnowanie zgodności z certyfikatami :: Sprawdzasz, czy firma spełnia wymagania potrzebne do utrzymania certyfikatu jakości. | Analiza danych o jakości :: Śledzisz statystyki, które pokazują, jak zmienia się jakość systemów w czasie. | Kontrola zabezpieczeń danych :: Sprawdzasz, czy wdrożone mechanizmy chronią dane i działania firmy.
+W: Prognozowanie problemów jakościowych :: Na podstawie danych przewidujesz, gdzie mogą wystąpić przyszłe błędy. | Znajomość norm ISO dla jakości :: Odnosisz się do uznanych standardów jakości przy ocenie procesów IT. | Szkolenie zespołu z zasad jakości :: Uczysz pracowników, jak stosować wymagania jakościowe w codziennej pracy.
+
+@1841
+M: Przegląd poprawności danych :: Sprawdzasz dane organizacji i wyłapujesz błędy lub nieścisłości. | Ocena spójności danych :: Porównujesz dane z różnych systemów, żeby sprawdzić, czy się zgadzają. | Tworzenie standardów jakości danych :: Spisujesz zasady, które określają, jak dane powinny wyglądać. | Monitorowanie zgodności przepływów danych :: Sprawdzasz, czy dane przepływające między systemami spełniają ustalone normy.
+W: Profilowanie danych :: Analizujesz zbiór danych, żeby zrozumieć jego strukturę i jakość. | Podstawy SQL :: Odpytujesz bazę danych, żeby samodzielnie zweryfikować poprawność rekordów. | Nadzór nad polityką ochrony danych :: Pilnujesz, żeby dane w organizacji były przetwarzane zgodnie z zasadami ochrony.
+
+@1842
+M: Programowanie według projektu :: Piszesz kod zgodnie z przekazaną dokumentacją i wymaganiami aplikacji. | Dobór języka i narzędzi :: Wybierasz język programowania i narzędzia odpowiednie do konkretnego zadania. | Debugowanie kodu :: Uruchamiasz program i znajdujesz przyczynę nieprawidłowego działania. | Integracja kodu z zespołem :: Łączysz swoją część programu z kodem napisanym przez innych programistów.
+W: Kontrola wersji w Git :: Zapisujesz historię zmian w kodzie i współpracujesz z innymi przez repozytorium. | Pisanie testów jednostkowych :: Tworzysz automatyczne testy sprawdzające poprawność działania pojedynczych funkcji. | Podstawy architektury oprogramowania :: Projektujesz strukturę programu tak, żeby łatwo go rozwijać w przyszłości.
+
+@1843
+M: Programowanie systemów wbudowanych :: Piszesz kod, który działa bezpośrednio na układzie w urządzeniu. | Wgrywanie oprogramowania na płytkę :: Przesyłasz program do pamięci urządzenia i sprawdzasz jego działanie. | Dokumentowanie oprogramowania :: Opisujesz, jak działa napisany kod, dla innych programistów. | Utrzymanie starszych wersji kodu :: Poprawiasz i aktualizujesz oprogramowanie napisane wcześniej przez innych.
+W: Programowanie w C/C++ :: Piszesz niskopoziomowy kod, który bezpośrednio steruje podzespołami urządzenia. | Diagnostyka sprzętowo-programowa :: Rozpoznajesz, czy problem w urządzeniu wynika z kodu czy z elektroniki. | Optymalizacja zużycia pamięci :: Piszesz kod, który zajmuje mało pamięci, typowej dla małych urządzeń.
+
+@1844
+M: Analiza rysunku technicznego części :: Odczytujesz zamówienie i rysunek, żeby zaplanować sposób obróbki części. | Programowanie obrabiarek CNC :: Piszesz program, który steruje ruchem maszyny podczas obróbki materiału. | Symulacja komputerowa obróbki :: Sprawdzasz program na komputerze, zanim uruchomisz go na prawdziwej maszynie. | Nadzór uruchomień próbnych :: Prowadzisz pierwszy przebieg programu na hali i poprawiasz błędy.
+W: Znajomość kodu G :: Piszesz lub poprawiasz program obrabiarki w standardowym języku instrukcji maszynowych. | Dobór narzędzi i parametrów skrawania :: Wybierasz odpowiednie narzędzie i prędkość obróbki dla danego materiału. | Kontrola jakości wykonanej części :: Mierzysz gotową część i porównujesz ją z wymaganiami z rysunku.
+
+@1845
+M: Programowanie aplikacji mobilnych :: Piszesz oprogramowanie dla ręcznych urządzeń używanych w zakładzie przemysłowym. | Analiza potrzeb zakładu :: Rozmawiasz z pracownikami hali, żeby zrozumieć, czego potrzebuje aplikacja. | Projektowanie interfejsu do pracy w terenie :: Dopasowujesz ekran i przyciski do obsługi w rękawicach lub trudnych warunkach. | Testowanie w warunkach przemysłowych :: Sprawdzasz działanie aplikacji na hali produkcyjnej, nie tylko przy biurku.
+W: Obsługa systemów operacyjnych urządzeń przemysłowych :: Znasz specyfikę systemu działającego na przemysłowych urządzeniach ręcznych. | Integracja z czujnikami przemysłowymi :: Łączysz aplikację z danymi z czytników kodów lub czujników na hali. | Praca w środowisku ograniczonej łączności :: Projektujesz aplikację tak, żeby działała bez stałego dostępu do internetu.
+
+@1846
+M: Zbieranie wymagań konfiguracyjnych :: Rozmawiasz z użytkownikami, żeby ustalić zasady działania potrzebne w systemie. | Konfiguracja parametrów systemu :: Ustawiasz w systemie opcje, role i zasady zgodne z potrzebami firmy. | Dokumentowanie konfiguracji :: Zapisujesz każde ustawienie, żeby można je było odtworzyć lub zmienić później. | Przygotowanie modułów pod klienta :: Dostosowujesz konkretne moduły systemu do wymagań danej organizacji.
+W: Konfiguracja systemów COTS :: Dostosowujesz gotowe, komercyjne oprogramowanie do potrzeb konkretnej firmy. | Tworzenie reguł biznesowych w systemie :: Zapisujesz w systemie zasady, według których ma on podejmować decyzje. | Testowanie wprowadzonej konfiguracji :: Sprawdzasz, czy ustawiony system działa zgodnie z oczekiwaniami użytkownika.
+
+@1847
+M: Zbieranie wymagań użytkowników :: Rozmawiasz z użytkownikami, żeby ustalić, czego potrzebują od programu. | Priorytetyzacja wymagań :: Ustalasz, które wymagania są najważniejsze i powinny być zrealizowane najpierw. | Pisanie specyfikacji oprogramowania :: Dokumentujesz dokładnie, co program ma robić i jak. | Weryfikacja zgodności ze specyfikacją :: Sprawdzasz, czy gotowy program działa zgodnie z opisanymi wymaganiami.
+W: Modelowanie procesów biznesowych :: Rysujesz schematy, które pokazują, jak działa proces, który program ma wspierać. | Pośredniczenie między biznesem a programistami :: Tłumaczysz wymagania użytkowników na język zrozumiały dla zespołu programistów. | Zarządzanie zmianami wymagań :: Śledzisz i dokumentujesz każdą zmianę w wymaganiach projektu.
+
+@1848
+M: Tworzenie modelu technicznego systemu :: Opracowujesz techniczny opis tego, jak system będzie działał wewnętrznie. | Projektowanie architektury systemu :: Rozrysowujesz moduły i połączenia między nimi w całym systemie. | Dobór platformy i języka programowania :: Wybierasz technologię odpowiednią do wymagań projektu i klienta. | Współpraca z programistami :: Omawiasz projekt z zespołem, który będzie go wdrażał w kodzie.
+W: Wzorce projektowe :: Stosujesz uznane, sprawdzone rozwiązania przy projektowaniu struktury oprogramowania. | Modelowanie UML :: Rysujesz diagramy klas i komponentów, które opisują strukturę systemu. | Projektowanie dla skalowalności :: Planujesz system tak, żeby dobrze działał przy dużej liczbie użytkowników.
+
+@1849
+M: Tworzenie polityki bezpieczeństwa IT :: Określasz zasady, które chronią dane i systemy całej firmy. | Zarządzanie środkami bezpieczeństwa :: Nadzorujesz wdrożenie zabezpieczeń we wszystkich systemach informatycznych firmy. | Zapewnianie dostępności informacji :: Pilnujesz, żeby potrzebne dane były dostępne wtedy, kiedy firma ich potrzebuje. | Raportowanie zagrożeń zarządowi :: Informujesz kierownictwo o ryzyku i podjętych decyzjach dotyczących bezpieczeństwa.
+W: Zarządzanie incydentami bezpieczeństwa :: Prowadzisz reakcję firmy na wykryty atak lub wyciek danych. | Znajomość norm bezpieczeństwa informacji :: Odnosisz się do uznanych standardów, na przykład ISO 27001, przy budowie polityki. | Budowanie kultury bezpieczeństwa w firmie :: Organizujesz szkolenia, które uczą pracowników rozpoznawać zagrożenia cyfrowe.
+
+@1850
+M: Proponowanie aktualizacji zabezpieczeń :: Wskazujesz, które zabezpieczenia systemu trzeba uaktualnić lub wzmocnić. | Szkolenie pracowników z bezpieczeństwa :: Uczysz zespół zasad ochrony danych i rozpoznawania zagrożeń. | Doradztwo zespołom technicznym :: Podsuwasz konkretne rozwiązania, jak lepiej chronić systemy i sieć. | Reagowanie na zagrożenia w sieci :: Podejmujesz działania, gdy wykryjesz atak lub podejrzaną aktywność w systemie.
+W: Analiza logów bezpieczeństwa :: Przeglądasz zapisy aktywności systemu, żeby wykryć nietypowe zdarzenia. | Testy penetracyjne :: Sprawdzasz praktycznie, czy zabezpieczenia systemu da się obejść. | Zarządzanie uprawnieniami użytkowników :: Pilnujesz, żeby każdy miał dostęp tylko do potrzebnych mu danych.
+
+@1851
+M: Badanie zagrożeń cyfrowych :: Analizujesz, jakie rodzaje ataków mogą dotknąć organizację. | Opracowywanie modeli odporności :: Tworzysz zasady i metody, które zwiększają zdolność firmy do przetrwania ataku. | Planowanie odzyskiwania po awarii :: Przygotowujesz narzędzia i procedury przywracania działania systemów po incydencie. | Ocena gotowości organizacji :: Sprawdzasz, jak dobrze firma poradzi sobie z rzeczywistym cyberatakiem.
+W: Zarządzanie ryzykiem cybernetycznym :: Szacujesz prawdopodobieństwo i skutki różnych scenariuszy ataku na firmę. | Prowadzenie symulacji cyberataków :: Organizujesz ćwiczenia, w których zespół reaguje na symulowany atak. | Znajomość ram odporności cybernetycznej :: Odnosisz się do uznanych standardów, na przykład NIST, przy planowaniu działań.
+
+@1852
+M: Łączenie baz danych :: Scalasz dane z różnych baz w jedną, spójną całość. | Mapowanie pól między bazami :: Ustalasz, które kolumny w różnych bazach odpowiadają sobie znaczeniem. | Utrzymanie połączeń między systemami :: Pilnujesz, żeby raz zbudowana integracja działała bez przerwy. | Naprawa błędów transferu danych :: Diagnozujesz i usuwasz przyczynę, gdy dane przestają się przesyłać.
+W: Znajomość SQL :: Piszesz zapytania, które pobierają, łączą i sprawdzają dane w bazach. | Procesy ETL :: Budujesz procesy, które pobierają, przekształcają i ładują dane między systemami. | Monitorowanie jakości integracji :: Sprawdzasz regularnie, czy przesyłane dane są kompletne i poprawne.
+
+@1853
+M: Projektowanie struktury logicznej bazy :: Planujesz, jak dane będą podzielone na tabele i powiązania. | Modelowanie danych :: Rysujesz diagram, który pokazuje, jakie dane i relacje zawiera baza. | Planowanie przepływu informacji :: Ustalasz, jak dane będą przemieszczać się między tabelami bazy. | Określanie zakresu zbieranych danych :: Decydujesz, jakie informacje baza powinna przechowywać dla danego celu.
+W: Znormalizowanie bazy danych :: Organizujesz tabele tak, żeby ograniczyć powtarzanie się tych samych danych. | Znajomość SQL :: Piszesz zapytania, które tworzą i modyfikują strukturę bazy danych. | Projektowanie indeksów :: Ustawiasz w bazie elementy, które przyspieszają wyszukiwanie danych.
+
+@1854
+M: Planowanie struktury hurtowni danych :: Projektujesz, jak dane z różnych źródeł będą przechowywane razem. | Budowanie procesów ETL :: Tworzysz procesy, które pobierają, przekształcają i wgrywają dane do hurtowni. | Ustalanie harmonogramu ładowania danych :: Planujesz, kiedy i jak często dane trafiają do hurtowni. | Utrzymanie raportów hurtowni :: Monitorujesz i poprawiasz raporty generowane na podstawie zebranych danych.
+W: Modelowanie wielowymiarowe :: Projektujesz dane w formie wymiarów i faktów, ułatwiającej analizę biznesową. | Optymalizacja wydajności zapytań :: Przyspieszasz działanie hurtowni, dopasowując strukturę danych do zapytań. | Narzędzia Business Intelligence :: Korzystasz z programów do analizy i wizualizacji danych z hurtowni.
+
+@1855
+M: Tworzenie tabel i zapytań :: Budujesz strukturę bazy danych i piszesz do niej zapytania. | Wdrażanie zmian w bazie :: Wprowadzasz modyfikacje do już istniejącej bazy danych. | Koordynacja zmian z programistami :: Uzgadniasz z zespołem, jak zmiana w bazie wpłynie na aplikację. | Sprawdzanie spójności danych po zmianie :: Weryfikujesz, czy dane nadal się zgadzają po wprowadzonych modyfikacjach.
+W: Znajomość systemów zarządzania bazami danych :: Pracujesz praktycznie z konkretnym systemem baz danych, na przykład PostgreSQL. | Pisanie procedur składowanych :: Tworzysz gotowe fragmenty kodu działające wewnątrz samej bazy danych. | Optymalizacja zapytań SQL :: Przyspieszasz działanie zapytań, które są wolne lub zbyt obciążające.
+
+@1856
+M: Dopasowanie systemu do klienta :: Ustawiasz system podstawowy i oprogramowanie zgodnie z potrzebami klienta. | Wykonywanie czynności konfiguracyjnych :: Przechodzisz krok po kroku przez proces ustawiania systemu. | Pisanie skryptów konfiguracyjnych :: Tworzysz skrypty, które automatyzują powtarzalne czynności konfiguracyjne. | Kontakt z użytkownikami w sprawie ustawień :: Rozmawiasz z użytkownikami, żeby dopasować ustawienia do ich pracy.
+W: Automatyzacja wdrożeń :: Używasz narzędzi, które same wprowadzają konfigurację na wielu systemach naraz. | Dokumentowanie konfiguracji systemu :: Opisujesz wprowadzone ustawienia, żeby można je powtórzyć lub zmienić. | Rozwiązywanie problemów konfiguracyjnych :: Diagnozujesz, dlaczego system nie działa zgodnie z ustawieniami.
+
+@1857
+M: Wdrażanie sieci komputerowych :: Budujesz i uruchamiasz sieć łączącą komputery i urządzenia w firmie. | Utrzymanie i wsparcie sieci :: Dbasz o stałe i bezpieczne działanie sieci komputerowej. | Modelowanie i analiza ruchu sieciowego :: Sprawdzasz, jak dane przepływają przez sieć, i planujesz jej rozwój. | Projektowanie zabezpieczeń sieci :: Wprowadzasz środki, które chronią sieć i komputery przed nieuprawnionym dostępem.
+W: Konfiguracja routerów i przełączników :: Ustawiasz urządzenia sieciowe, które kierują ruchem danych. | Diagnozowanie problemów sieciowych :: Znajdujesz przyczynę przerwy lub spowolnienia w działaniu sieci. | Dobór sprzętu komunikacyjnego :: Rekomendujesz urządzenia i oprogramowanie potrzebne do działania sieci.
+
+@1858
+M: Pomiar obciążenia infrastruktury :: Mierzysz, jak bardzo wykorzystywane są usługi i infrastruktura informatyczna. | Prognozowanie zapotrzebowania na moc :: Przewidujesz, ile zasobów będzie potrzebne w kolejnych miesiącach. | Planowanie zasobów dla usług :: Ustalasz, jakie zasoby są potrzebne, żeby usługa działała na czas. | Tworzenie planów długoterminowych :: Przygotowujesz plany zasobów na krótki, średni i długi okres.
+W: Analiza kosztów infrastruktury IT :: Dobierasz rozwiązania, które mieszczą się w dostępnym budżecie firmy. | Modelowanie wydajności systemów :: Przewidujesz, jak system zachowa się pod większym obciążeniem. | Monitorowanie poziomu usług :: Sprawdzasz, czy infrastruktura spełnia uzgodnione wskaźniki jakości usługi.
+
+@1859
+M: Planowanie topologii sieci :: Ustalasz, jak urządzenia i połączenia sieciowe będą rozmieszczone. | Dobór sprzętu sieciowego :: Wybierasz odpowiednie urządzenia i elementy infrastruktury do projektu sieci. | Rysowanie schematów połączeń :: Przygotowujesz dokumentację pokazującą, jak połączone są poszczególne elementy sieci. | Planowanie łączności dla nowych lokalizacji :: Uwzględniasz potrzeby komunikacyjne nowego biura czy budynku w projekcie.
+W: Projektowanie sieci bezprzewodowych :: Planujesz zasięg i rozmieszczenie punktów dostępowych Wi-Fi. | Zabezpieczanie sieci na etapie projektu :: Uwzględniasz segmentację i zabezpieczenia już w fazie planowania sieci. | Szacowanie kosztów infrastruktury sieciowej :: Liczysz koszt sprzętu i wdrożenia zaprojektowanej sieci.

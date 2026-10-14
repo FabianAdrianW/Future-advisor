@@ -1,0 +1,119 @@
+@1800
+M: Znajomość tekstu sztuki :: Znasz na pamięć cały tekst spektaklu i wiesz, gdzie jest każda kwestia. | Śledzenie przebiegu spektaklu :: Na bieżąco porównujesz to, co dzieje się na scenie, z tekstem w ręku. | Dyskretne podpowiadanie :: Podajesz zapomnianą kwestię tak cicho, że widzowie na widowni nic nie słyszą. | Znajomość inscenizacji :: Pamiętasz, gdzie na scenie powinien stać każdy wykonawca w danej chwili.
+W: Czytanie partytury muzycznej :: Rozumiesz zapis nutowy, gdy spektakl zawiera fragmenty śpiewane lub muzyczne. | Znajomość technik aktorskich :: Rozumiesz, jak aktorzy budują role, co pomaga przewidzieć ich błędy. | Praca z reżyserem :: Ustalasz z reżyserem, w jakich momentach twoja pomoc jest potrzebna najbardziej.
+
+@1801
+M: Obsługa sztankietów :: Podnosisz i opuszczasz elementy scenografii zawieszone nad sceną za pomocą sztankietów. | Systemy linowe :: Znasz budowę i działanie lin, bloków oraz przeciwwag używanych do ruchu dekoracji. | Czytanie planów technicznych :: Odczytujesz rysunki i instrukcje, które opisują, jak zawiesić i poruszać elementy. | Obliczenia wytrzymałościowe :: Liczysz obciążenie lin i konstrukcji, żeby zawieszony element nie spadł. | Programowanie automatyki scenicznej :: Wprowadzasz do sterownika sekwencje ruchu sztankietów na konkretny spektakl.
+W: Konserwacja urządzeń linowych :: Sprawdzasz stan lin i mechanizmów, żeby zapobiec awarii podczas przedstawienia. | Praca na wysokości :: Bezpiecznie przemieszczasz się po kładkach i konstrukcjach zawieszonych nad sceną. | Współpraca z projektantami scenografii :: Uzgadniasz z projektantem, jak zawiesić element zgodnie z jego wizją.
+
+@1802
+M: Czytanie szkiców projektowych :: Odczytujesz rysunki i plany, na podstawie których budujesz rekwizyt. | Modelowanie i stolarka :: Wykonujesz elementy rekwizytów z drewna, pianki, żywicy lub innych materiałów. | Malowanie imitacji :: Malujesz powierzchnię tak, żeby rekwizyt wyglądał jak metal, kamień lub inny materiał. | Konserwacja rekwizytów :: Naprawiasz i odtwarzasz zniszczone elementy rekwizytu w przerwach między spektaklami.
+W: Efekty specjalne w rekwizytach :: Montujesz proste mechanizmy elektroniczne lub pirotechniczne wewnątrz rekwizytu. | Odlewanie form :: Przygotowujesz formy i odlewasz z nich powtarzalne kopie tego samego przedmiotu. | Praca z metalem :: Gniesz i łączysz elementy metalowe, kiedy budowany rekwizyt tego wymaga.
+
+@1803
+M: Klasyfikacja danych cyfrowych :: Przypisujesz pliki do odpowiednich kategorii według ustalonego systemu porządkowania. | Metadane plików :: Opisujesz pliki dodatkowymi informacjami, które ułatwiają ich późniejsze odnalezienie. | Katalogowanie zasobów :: Prowadzisz uporządkowany spis wszystkich plików znajdujących się w bibliotece cyfrowej. | Migracja formatów danych :: Przenosisz stare pliki do nowych formatów, żeby nie stały się nieczytelne.
+W: Normy opisu metadanych :: Stosujesz uznane standardy opisu, dzięki którym pliki rozumie każdy system. | Podstawy baz danych :: Korzystasz z bazy danych, żeby szybko wyszukiwać i porządkować zasoby cyfrowe. | Zarządzanie dużymi zbiorami :: Pracujesz z bardzo dużymi ilościami plików bez utraty porządku.
+
+@1804
+M: Pakowanie dzieł sztuki :: Zabezpieczasz obrazy i obiekty specjalnymi materiałami przed transportem lub magazynowaniem. | Bezpieczne przenoszenie eksponatów :: Przenosisz cenne przedmioty tak, żeby nie dotykać ich bezpośrednio i nie uszkodzić. | Montaż i demontaż wystaw :: Zawieszasz i zdejmujesz obrazy oraz ustawiasz obiekty zgodnie z planem ekspozycji. | Organizacja magazynu :: Układasz eksponaty w magazynie tak, żeby każdy miał bezpieczne i znane miejsce.
+W: Podstawy konserwacji :: Rozpoznajesz pierwsze oznaki uszkodzenia dzieła i wiesz, kiedy wezwać konserwatora. | Dokumentacja stanu obiektu :: Opisujesz i fotografujesz stan dzieła przed przenosinami i po nich. | Obsługa wózków i podnośników :: Używasz sprzętu do przewozu ciężkich lub wielkoformatowych obiektów sztuki.
+
+@1805
+M: Garbowanie skór :: Przygotowujesz skórę zwierzęcia tak, żeby nie gniła i zachowała wygląd na lata. | Odtwarzanie anatomii zwierzęcia :: Budujesz wewnętrzną formę, która nadaje okazowi naturalny kształt ciała. | Montaż oczu i detali :: Wstawiasz sztuczne oczy i wykańczasz pysk, uszy oraz pazury okazu. | Układanie sierści i piór :: Rozczesujesz i ustawiasz okrycie zwierzęcia, żeby wyglądało naturalnie.
+W: Podstawy anatomii zwierząt :: Znasz budowę ciała różnych zwierząt, co pomaga wiernie odtworzyć ich kształt. | Rzeźbienie form :: Lepisz lub rzeźbisz formy z gliny czy pianki pod skórę zwierzęcia. | Przygotowanie ekspozycji muzealnej :: Ustawiasz gotowy okaz w pozycji i otoczeniu pasującym do wystawy.
+
+@1806
+M: Nagrywanie terenowe :: Rejestrujesz dźwięki otoczenia mikrofonem, żeby wykorzystać je w swojej pracy. | Montaż i przetwarzanie audio :: Łączysz i zmieniasz nagrania w programie do edycji dźwięku. | Budowa instalacji dźwiękowych :: Tworzysz przestrzenne obiekty lub systemy, które odtwarzają dźwięk w galerii. | Komponowanie z dźwięków :: Układasz nagrane dźwięki w całość, która ma swój sens i formę.
+W: Synteza dźwięku :: Tworzysz nowe brzmienia elektronicznie, zamiast nagrywać je z rzeczywistości. | Programowanie interaktywnych instalacji :: Piszesz proste programy, które zmieniają dźwięk w reakcji na ruch publiczności. | Prezentacja prac na żywo :: Przygotowujesz i obsługujesz sprzęt potrzebny do występu lub wystawy.
+
+@1807
+M: Obsługa mikrofonu na wysięgniku :: Utrzymujesz mikrofon nad aktorami tak, żeby nagrać czysty dialog bez cienia w kadrze. | Mikrofony bezprzewodowe :: Przypinasz i ukrywasz małe mikrofony pod ubraniem aktorów. | Rozmieszczanie mikrofonów na planie :: Ustawiasz mikrofony w dekoracji w miejscach, gdzie najlepiej wychwytują głos. | Kontrola jakości dialogu :: Słuchasz nagrania na słuchawkach i zgłaszasz problemy z brzmieniem głosu.
+W: Znajomość sprzętu nagłośnieniowego :: Rozumiesz działanie mikserów i rekorderów używanych na planie filmowym. | Praca z operatorem kamery :: Koordynujesz swoje ruchy z kamerą, żeby nie wejść w kadr. | Podstawy akustyki pomieszczeń :: Rozpoznajesz pogłos i echo w sali, które mogą zepsuć nagranie dźwięku.
+
+@1808
+M: Mastering nagrań :: Dopracowujesz brzmienie gotowego utworu, żeby dobrze grał na każdym sprzęcie. | Konwersja formatów audio :: Przygotowujesz pliki dźwiękowe w wersjach pod CD, winyl i streaming. | Korekcja i kompresja dźwięku :: Używasz korektora i kompresora, żeby wyrównać głośność i barwę nagrania. | Odsłuch referencyjny :: Porównujesz swoje nagranie z profesjonalnymi monitorami odsłuchowymi w różnych warunkach.
+W: Przygotowanie do tłoczenia winylu :: Znasz ograniczenia techniczne płyty winylowej i dostosowujesz do nich miks. | Normalizacja głośności :: Ustawiasz poziom głośności według standardów obowiązujących na platformach streamingowych. | Obsługa stacji DAW :: Pracujesz w programie do produkcji muzycznej na poziomie zaawansowanym.
+
+@1809
+M: Obsługa projektora cyfrowego :: Uruchamiasz i ustawiasz projektor tak, żeby obraz na ekranie był ostry i jasny. | Kontrola pliku filmowego :: Sprawdzasz kopię filmu przed seansem, żeby wykluczyć błędy dźwięku lub obrazu. | Nadzór podczas seansu :: Obserwujesz projekcję i szybko reagujesz, gdy obraz lub dźwięk zawiedzie. | Przechowywanie kopii filmów :: Magazynujesz i katalogujesz nośniki z filmami zgodnie z zasadami kina.
+W: Konserwacja sprzętu kinowego :: Czyścisz i serwisujesz projektor oraz system nagłośnienia sali kinowej. | Obsługa systemów dźwięku kinowego :: Kalibrujesz głośniki, żeby dźwięk brzmiał równo w każdym miejscu sali. | Harmonogramowanie seansów :: Ustawiasz w systemie kinowym kolejność i godziny wyświetlanych filmów.
+
+@1810
+M: Synchronizacja dźwięku z obrazem :: Dopasowujesz ścieżkę dźwiękową tak, żeby idealnie zgadzała się z ruchem na ekranie. | Montaż efektów dźwiękowych :: Wybierasz i wstawiasz odgłosy, które wzmacniają wydarzenia pokazane w scenie. | Miksowanie ścieżek audio :: Łączysz dialog, muzykę i efekty w jedną spójną ścieżkę dźwiękową. | Obsługa stacji montażu dźwięku :: Pracujesz w programie do edycji audio dla filmu lub gry.
+W: Foley, czyli odgłosy na żywo :: Nagrywasz własnoręcznie wykonane odgłosy, na przykład kroki, zamiast gotowych próbek. | Projektowanie dźwięku :: Tworzysz od podstaw nietypowe brzmienia, których nie da się nagrać w naturze. | Miks przestrzenny :: Rozmieszczasz dźwięk w wielu kanałach, żeby słuchacz czuł się w środku scenki.
+
+@1811
+M: Przygotowanie materiału wideo :: Montujesz i formatujesz fragmenty filmów lub animacji na potrzeby spektaklu. | Obsługa systemu wideo :: Ustawiasz i uruchamiasz projektory oraz ekrany podczas przedstawienia. | Programowanie sekwencji wyświetlania :: Wprowadzasz do systemu kolejność i moment pojawienia się każdego obrazu. | Praca według planu reżyserskiego :: Realizujesz projekcje zgodnie z instrukcjami zapisanymi w scenariuszu technicznym.
+W: Kierowanie ekipą techniczną :: Organizujesz pracę innych techników obsługujących sprzęt wideo na próbie. | Kalibracja obrazu projekcyjnego :: Dopasowujesz ostrość, kolor i jasność obrazu do warunków sceny. | Mapping wideo :: Dopasowujesz wyświetlany obraz do nieregularnej powierzchni dekoracji lub budynku.
+
+@1812
+M: Koncepcja dźwiękowa spektaklu :: Projektujesz, jak ma brzmieć całe przedstawienie, zgodnie z jego wizją artystyczną. | Nagrywanie i komponowanie :: Rejestrujesz odgłosy i tworzysz krótkie motywy muzyczne do konkretnych scen. | Edycja materiału dźwiękowego :: Przerabiasz nagrania tak, żeby dokładnie pasowały do danej scenki. | Współpraca z zespołem artystycznym :: Ustalasz z reżyserem i scenografem, jak dźwięk wspiera resztę przedstawienia.
+W: Komponowanie muzyki :: Piszesz oryginalną muzykę, gdy spektakl potrzebuje czegoś więcej niż efektów. | Reżyseria nagrań studyjnych :: Kierujesz sesją nagraniową z aktorami lub muzykami w studiu. | Obsługa systemów nagłośnienia teatralnego :: Rozumiesz, jak zaprojektowany dźwięk zabrzmi na konkretnym systemie w teatrze.
+
+@1813
+M: Montaż sprzętu scenicznego :: Rozstawiasz kolumny, mikrofony i pulpity przed koncertem lub imprezą. | Próba dźwiękowa :: Sprawdzasz brzmienie każdego instrumentu i mikrofonu przed występem na żywo. | Regulacja głośności na żywo :: Dopasowujesz poziom dźwięku w trakcie trwania koncertu lub imprezy. | Demontaż i pakowanie sprzętu :: Zwijasz kable i pakujesz urządzenia bezpiecznie po zakończeniu imprezy.
+W: Obsługa konsolety mikserskiej :: Sterujesz dźwiękiem z wielu kanałów podczas występu na żywo. | Oświetlenie estradowe :: Ustawiasz i obsługujesz podstawowe efekty świetlne podczas koncertu. | Rozwiązywanie problemów technicznych na żywo :: Szybko naprawiasz usterkę sprzętu w trakcie trwającego wydarzenia.
+
+@1814
+M: Instalacja sprzętu audio :: Rozładowujesz i ustawiasz nagłośnienie na scenie przed występem na żywo. | Kontrola mikrofonów i kabli :: Sprawdzasz każde połączenie, żeby uniknąć przerwy w dźwięku na scenie. | Konserwacja urządzeń audio :: Naprawiasz i serwisujesz sprzęt nagłaśniający między kolejnymi wydarzeniami. | Obsługa dźwięku na żywo :: Sterujesz brzmieniem w trakcie koncertu lub spektaklu z pulpitu mikserskiego.
+W: Współpraca z ekipą techniczną :: Koordynujesz swoją pracę z innymi technikami podczas rozładunku i montażu. | Akustyka sali koncertowej :: Rozpoznajesz, jak kształt i materiały sali wpływają na brzmienie dźwięku. | Konfiguracja systemów bezprzewodowych :: Ustawiasz kanały mikrofonów bezprzewodowych, żeby nie zakłócały się wzajemnie.
+
+@1815
+M: Ustawianie mikrofonów studyjnych :: Rozmieszczasz mikrofony w kabinie nagraniowej zależnie od głosu i instrumentu. | Obsługa pulpitu miksera :: Sterujesz poziomem i barwą dźwięku podczas sesji nagraniowej. | Montaż nagrań :: Łączysz i porządkujesz zarejestrowane fragmenty w gotowy produkt dźwiękowy. | Konserwacja sprzętu studyjnego :: Dbasz o stan mikrofonów, słuchawek i kabli w studiu nagrań.
+W: Doradztwo głosowe dla śpiewaków :: Podsuwasz śpiewakowi proste wskazówki, jak lepiej wykorzystać głos w nagraniu. | Obróbka dźwięku w programie DAW :: Poprawiasz brzmienie nagrania za pomocą efektów i korekcji w programie komputerowym. | Zarządzanie wymaganiami produkcji :: Planujesz, jaki sprzęt i czas są potrzebne do nagrania danego projektu.
+
+@1816
+M: Instalacja kamer i mikrofonów :: Rozstawiasz sprzęt do rejestracji obrazu i dźwięku na wydarzeniu. | Obsługa sprzętu rejestrującego :: Nagrywasz obraz i dźwięk na żywo podczas transmisji radiowej lub telewizyjnej. | Montaż nagranego materiału :: Składasz zarejestrowane ujęcia w gotowy materiał do emisji. | Transmisja sygnału do nadawcy :: Wysyłasz zarejestrowany obraz i dźwięk do stacji telewizyjnej lub radiowej.
+W: Konserwacja urządzeń audiowizualnych :: Serwisujesz kamery i rekordery, żeby działały bezawaryjnie podczas wydarzenia. | Transmisje telekomunikacyjne :: Rozumiesz, jak sygnał trafia z miejsca wydarzenia do odbiorców na odległość. | Harmonogramowanie transmisji :: Planujesz kolejność nagrań i emisji zgodnie z planem całego wydarzenia.
+
+@1817
+M: Montaż projektorów i ekranów :: Rozładowujesz i ustawiasz sprzęt wideo na scenie przed występem. | Podłączanie okablowania wideo :: Łączysz kable sygnałowe między kamerami, konsolą i ekranami. | Regulacja obrazu projekcyjnego :: Dopasowujesz ostrość, jasność i kolory wyświetlanego obrazu. | Konserwacja sprzętu wideo :: Sprawdzasz i czyścisz urządzenia wideo po każdym wydarzeniu.
+W: Obsługa konsoli wideo :: Przełączasz źródła obrazu i efekty podczas trwania wydarzenia na żywo. | Współpraca z ekipą techniczną :: Koordynujesz montaż sprzętu wideo z innymi działami technicznymi. | Diagnozowanie usterek sygnału :: Szybko znajdujesz przyczynę zaniku lub zakłócenia obrazu podczas występu.
+
+@1818
+M: Uruchamianie urządzeń nadawczych :: Konfigurujesz sprzęt, który wysyła sygnał telewizyjny lub radiowy do odbiorców. | Monitorowanie sygnału nadawania :: Obserwujesz ekrany kontrolne, żeby wychwycić zakłócenia w emitowanym sygnale. | Naprawa sprzętu nadawczego :: Diagnozujesz i usuwasz usterki w urządzeniach transmisyjnych. | Kontrola formatu materiału :: Sprawdzasz, czy plik jest w formacie gotowym do emisji przed terminem.
+W: Konserwacja urządzeń odbiorczych :: Serwisujesz urządzenia, które odbierają sygnał przed jego dalszym przekazaniem. | Znajomość norm transmisji sygnału :: Rozumiesz standardy techniczne obowiązujące w nadawaniu telewizyjnym i radiowym. | Zarządzanie harmonogramem emisji :: Pilnujesz, żeby materiał trafił na antenę zgodnie z planem.
+
+@1819
+M: Przyjmowanie i utrzymywanie pozy :: Ustawiasz ciało w pozycji uzgodnionej z artystą i zachowujesz ją przez dłuższy czas. | Kontrola napięcia mięśni :: Zarządzasz swoim ciałem tak, żeby długo pozostawać w bezruchu bez bólu. | Komunikacja z artystą o pozie :: Rozumiesz i realizujesz wskazówki artysty dotyczące ustawienia ciała. | Planowanie przerw w sesji :: Rozkładasz pozowanie na odcinki czasu z przerwami na odpoczynek mięśni.
+W: Znajomość podstaw anatomii artystycznej :: Rozumiesz, jak światło i kąt ciała wpływają na efekt pracy artysty. | Pozowanie do fotografii :: Dopasowujesz pozę i mimikę do wymagań sesji fotograficznej. | Pozowanie dla rzeźby :: Utrzymujesz dłużej skomplikowaną pozycję, potrzebną artyście pracującemu nad rzeźbą.
+
+@1820
+M: Analiza procesów biznesowych :: Badasz, jak firma działa na co dzień, żeby znaleźć miejsca do poprawy. | Zbieranie wymagań :: Rozmawiasz z pracownikami i spisujesz, czego potrzebują od nowego systemu. | Dokumentowanie wymagań :: Zapisujesz wymagania w formie zrozumiałej dla zespołu informatycznego i biznesu. | Ocena wpływu zmiany :: Przewidujesz, co się zmieni w firmie po wprowadzeniu nowego rozwiązania.
+W: Modelowanie procesów :: Rysujesz schematy procesów biznesowych w uznanej notacji, na przykład BPMN. | Zarządzanie wymaganiami w narzędziach IT :: Śledzisz status każdego wymagania w specjalnym programie do zarządzania projektem. | Podstawy SQL :: Odpytujesz bazę danych, żeby samodzielnie sprawdzić dane potrzebne do analizy.
+
+@1821
+M: Analiza wymagań systemowych :: Ustalasz, co system musi robić, żeby spełnić potrzeby użytkowników. | Modelowanie funkcji systemu :: Opisujesz działania systemu i sposób, w jaki prowadzą do celu. | Szacowanie kosztów rozwiązania :: Liczysz, ile będzie kosztować budowa i wdrożenie nowego systemu. | Projektowanie interfejsu danych :: Ustalasz, jak dane będą wyświetlane użytkownikowi końcowemu systemu.
+W: Modelowanie UML :: Rysujesz diagramy, które opisują strukturę i zachowanie systemu informatycznego. | Prototypowanie rozwiązań :: Budujesz uproszczoną wersję systemu, żeby sprawdzić pomysł przed pełną budową. | Zarządzanie projektem informatycznym :: Planujesz etapy i zasoby potrzebne do wdrożenia nowego systemu.
+
+@1822
+M: Audyt systemów informatycznych :: Sprawdzasz, czy system działa zgodnie z ustalonymi standardami firmy. | Ocena ryzyka IT :: Szacujesz, jakie zagrożenia dla firmy wynikają z błędów w infrastrukturze informatycznej. | Kontrola bezpieczeństwa danych :: Weryfikujesz, czy dane są odpowiednio chronione przed nieuprawnionym dostępem. | Raportowanie wyników audytu :: Piszesz dokument z wnioskami i zaleceniami dla kierownictwa firmy.
+W: Znajomość norm ISO dla IT :: Odnosisz się do uznanych standardów bezpieczeństwa, na przykład normy ISO 27001. | Testowanie zabezpieczeń systemów :: Sprawdzasz praktycznie, czy zabezpieczenia systemu da się obejść. | Audyt zgodności z przepisami :: Oceniasz, czy system przetwarza dane zgodnie z obowiązującym prawem.
+
+@1823
+M: Analiza wymagań integracyjnych :: Ustalasz, jak różne systemy w firmie powinny się ze sobą łączyć. | Projektowanie integracji systemów :: Opracowujesz sposób, w jaki aplikacje wymieniają między sobą dane. | Wykorzystanie API :: Łączysz systemy przez interfejsy programistyczne, zamiast pisać połączenia od zera. | Diagnozowanie usterek integracji :: Znajdujesz i usuwasz przyczyny błędów w komunikacji między systemami.
+W: Architektura mikroserwisów :: Projektujesz systemy jako zestaw małych, niezależnych usług, które współpracują razem. | Kolejki komunikatów :: Używasz systemów kolejkowych, żeby dane przesyłały się między aplikacjami bez utraty. | Dokumentacja techniczna integracji :: Opisujesz dokładnie, jak poszczególne systemy są połączone, dla innych inżynierów.
+
+@1824
+M: Zarządzanie zespołem analityków :: Organizujesz pracę analityków biznesowych i rozdzielasz między nich zadania. | Analiza potrzeb biznesowych :: Tłumaczysz cele firmy na konkretne wymagania dla rozwiązań informatycznych. | Monitorowanie skutków zmian :: Sprawdzasz, czy wdrożone zmiany faktycznie przyniosły oczekiwany efekt. | Planowanie strategii IT dla biznesu :: Ustalasz, jakie zmiany w systemach wsparłyby plany rozwoju firmy.
+W: Zarządzanie interesariuszami :: Uzgadniasz oczekiwania różnych działów firmy wobec jednego projektu informatycznego. | Budżetowanie projektów IT :: Planujesz koszty wdrożenia zmian systemowych w ramach budżetu firmy. | Metodyki zarządzania projektami :: Prowadzisz projekty według uznanej metodyki, na przykład Scrum lub Kanban.
+
+@1825
+M: Projektowanie badań :: Planujesz badanie tak, żeby odpowiadało na konkretne pytanie klienta. | Tworzenie kwestionariuszy :: Układasz pytania badawcze w narzędziach do ankiet internetowych. | Analiza wyników badań :: Przetwarzasz zebrane odpowiedzi i wyciągasz z nich wnioski. | Raportowanie wyników klientowi :: Przedstawiasz wyniki badania w zrozumiałej formie wraz z zaleceniami.
+W: Statystyka opisowa :: Liczysz podstawowe wskaźniki, które podsumowują zebrane dane liczbowe. | Narzędzia do analizy danych :: Używasz programów do przetwarzania i wizualizacji dużych zbiorów odpowiedzi. | Prezentacja wyników :: Przygotowujesz czytelną prezentację, która pokazuje wnioski z badania klientowi.
+
+@1826
+M: Diagnoza niekompatybilności systemów :: Sprawdzasz, które systemy firmy nie wymieniają się danymi poprawnie. | Doradztwo w integracji systemów :: Proponujesz sposób połączenia systemów, żeby dane przepływały bez błędów. | Identyfikacja redundancji danych :: Znajdujesz miejsca, w których te same dane wpisuje się kilka razy. | Komunikacja planu z klientem :: Tłumaczysz klientowi w prosty sposób, jak będzie wyglądać integracja systemów.
+W: Znajomość formatów wymiany danych :: Rozumiesz standardy takie jak XML lub JSON, używane do przesyłania danych. | Projektowanie architektury integracyjnej :: Opracowujesz całościowy schemat połączeń między systemami firmy. | Zarządzanie zmianą w organizacji :: Pomagasz pracownikom przyzwyczaić się do nowego sposobu wymiany danych.
+
+@1827
+M: Ocena narzędzi informatycznych firmy :: Sprawdzasz, jak firma wykorzystuje obecne systemy i narzędzia informatyczne. | Formułowanie zaleceń technologicznych :: Proponujesz konkretne zmiany, które poprawią działanie firmy. | Udział w definiowaniu projektów :: Pomagasz ustalić zakres i cele nowego projektu informatycznego. | Ocena rozwiązań technologicznych :: Porównujesz dostępne na rynku systemy pod kątem potrzeb klienta.
+W: Śledzenie trendów technologicznych :: Znasz nowe technologie i oceniasz, które mają sens dla konkretnej firmy. | Prezentacja rozwiązań klientowi :: Przedstawiasz propozycję technologiczną w sposób zrozumiały dla osób nietechnicznych. | Zarządzanie wyborem dostawcy IT :: Prowadzisz proces porównania i wyboru firmy dostarczającej rozwiązanie.
+
+@1828
+M: Ocena zużycia zasobów IT :: Mierzysz, ile energii i sprzętu zużywa infrastruktura informatyczna firmy. | Tworzenie strategii zielonego IT :: Opracowujesz plan ograniczenia wpływu technologii firmy na środowisko. | Ustalanie celów środowiskowych :: Określasz konkretne cele krótko-, średnio- i długoterminowe w zakresie ekologii IT. | Wdrażanie planu ekologicznego :: Pomagasz firmie wprowadzić w życie ustalone zmiany technologiczne.
+W: Znajomość certyfikatów środowiskowych IT :: Rozumiesz normy i certyfikaty dotyczące efektywności energetycznej sprzętu komputerowego. | Analiza śladu węglowego :: Szacujesz emisję związaną z działaniem serwerów i urządzeń firmy. | Doradztwo w zakupie sprzętu :: Proponujesz wybór energooszczędnego sprzętu komputerowego dla firmy.
+
+@1829
+M: Analiza strategii organizacji :: Rozpoznajesz cele i procesy firmy, żeby zaplanować dla nich odpowiednią infrastrukturę. | Mapowanie zasobów IT :: Tworzysz pełny obraz systemów i zasobów informatycznych w firmie. | Łączenie strategii biznesowej z IT :: Ustalasz, jak plany firmy przekładają się na potrzeby technologiczne. | Projektowanie architektury korporacyjnej :: Planujesz całościową strukturę systemów działających w dużej organizacji.
+W: Modelowanie architektury enterprise :: Rysujesz diagramy w uznanej notacji, na przykład TOGAF lub ArchiMate. | Zarządzanie zmianą technologiczną :: Planujesz, jak wdrożyć nową infrastrukturę bez zakłócenia pracy firmy. | Ocena ryzyka architektonicznego :: Przewidujesz, gdzie nowa infrastruktura może nie wytrzymać obciążenia firmy.

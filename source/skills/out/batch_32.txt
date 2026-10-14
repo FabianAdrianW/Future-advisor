@@ -1,0 +1,119 @@
+@1920
+M: Liturgia parafialna :: Znasz przebieg mszy i poszczególnych nabożeństw, żeby przygotować wszystko na czas. | Obsługa sprzętu liturgicznego :: Umiesz przygotować i konserwować naczynia, szaty i inny sprzęt używany podczas mszy. | Prace porządkowe w kościele :: Sprzątasz wnętrze świątyni i dbasz o jego codzienny wygląd po nabożeństwach. | Podstawy administracji parafialnej :: Prowadzisz prostą dokumentację i pomagasz w sprawach biurowych parafii.
+W: Dzwonienie i sygnały liturgiczne :: Wiesz, kiedy i jak obsługiwać dzwony oraz inne sygnały podczas nabożeństw. | Drobne naprawy budynku :: Potrafisz wykonać proste naprawy sprzętu i wyposażenia bez wezwania fachowca. | Organizacja wydarzeń parafialnych :: Pomagasz przygotować uroczystości, pogrzeby i śluby pod względem technicznym.
+
+@1921
+M: Obsługa systemów alarmowych :: Umiesz włączyć, wyłączyć i sprawdzić działanie domowego systemu alarmowego. | Kontrola instalacji domowych :: Sprawdzasz stan instalacji hydraulicznej, elektrycznej i ogrzewania w budynku. | Obchód i kontrola wejść :: Regularnie sprawdzasz drzwi, okna i inne miejsca dostępu do budynku. | Pierwsza pomoc przy awariach :: Wiesz, jak zareagować na wyciek wody lub gazu, zanim przyjedzie fachowiec.
+W: Obsługa poczty i rozliczeń :: Segregujesz przesyłki i opłacasz bieżące rachunki domu w imieniu właściciela. | Podstawy ogrodnictwa domowego :: Dbasz o rośliny i teren wokół domu podczas nieobecności właścicieli. | Koordynacja z firmami serwisowymi :: Umawiasz i nadzorujesz wizyty fachowców wykonujących naprawy w domu.
+
+@1922
+M: Obsługa rezerwacji :: Przyjmujesz zgłoszenia gości i prowadzisz grafik dostępnych pokoi w pensjonacie. | Organizacja pracy pokoi :: Układasz plan sprzątania i przygotowania pokoi na przyjazd kolejnych gości. | Przygotowanie posiłków dla gości :: Gotujesz i podajesz śniadania zgodnie z zasadami higieny żywności. | Podstawy księgowości pensjonatu :: Prowadzisz uproszczoną ewidencję przychodów i kosztów prowadzonego obiektu.
+W: Marketing lokalnej oferty :: Promujesz pensjonat w internecie i lokalnych kanałach, żeby przyciągnąć gości. | Obsługa platform rezerwacyjnych :: Zarządzasz ofertą i cenami pokoi na internetowych portalach rezerwacyjnych. | Podstawy gastronomii regionalnej :: Przygotowujesz lokalne dania, które wyróżniają ofertę pensjonatu na rynku.
+
+@1923
+M: Planowanie grafików pracy :: Układasz zmiany i przydzielasz pokoje pokojowym zgodnie z obciążeniem hotelu. | Kontrola jakości sprzątania :: Sprawdzasz posprzątane pokoje według ustalonych standardów działającego obiektu. | Zarządzanie magazynem środków czystości :: Zamawiasz i rozliczasz środki czystości oraz pościel dla zespołu. | Obsługa zgłoszeń gości :: Przyjmujesz i rozwiązujesz skargi gości dotyczące czystości pokoi hotelowych.
+W: Szkolenie nowych pracowników :: Wdrażasz nowych członków zespołu w procedury sprzątania i bezpieczeństwa pracy. | Podstawy BHP w hotelarstwie :: Pilnujesz, żeby praca z chemią i sprzętem była bezpieczna. | Optymalizacja kosztów serwisu :: Analizujesz zużycie środków i czas pracy, żeby ograniczyć koszty.
+
+@1924
+M: Obsługa sprzętu czyszczącego :: Używasz maszyn i narzędzi do mycia alejek i urządzeń parku. | Drobne naprawy mechaniczne :: Naprawiasz proste usterki ławek i wyposażenia parku rozrywki na miejscu. | Kontrola bezpieczeństwa terenu :: Zauważasz i zgłaszasz usterki, które mogłyby zagrozić gościom parku. | Praca zmianowa w nocy :: Organizujesz sprzątanie w godzinach, gdy park jest zamknięty dla gości.
+W: Podstawy konserwacji urządzeń rozrywkowych :: Rozpoznajesz wczesne oznaki zużycia karuzeli i innych atrakcji parku. | Segregacja odpadów :: Sortujesz śmieci zgodnie z zasadami recyklingu obowiązującymi w parku. | Obsługa zgłoszeń technicznych :: Przekazujesz informacje o usterkach do odpowiedniego działu technicznego.
+
+@1925
+M: Chemia basenowa :: Dobierasz i dozujesz środki do dezynfekcji wody, żeby była bezpieczna. | Sprzęt do czyszczenia basenu :: Używasz odkurzaczy basenowych i siatek do usuwania zanieczyszczeń z wody. | Kontrola parametrów wody :: Mierzysz poziom chloru i pH wody, żeby spełniała normy sanitarne. | Zasady bezpieczeństwa nad wodą :: Rozpoznajesz sytuacje zagrażające pływakom i wiesz, jak na nie reagować.
+W: Podstawy obsługi klienta :: Udzielasz informacji i pomagasz odwiedzającym w miejscu przeznaczonym do pływania. | Konserwacja sprzętu basenowego :: Dbasz o filtry i pompy, żeby działały bez przerwy. | Pierwsza pomoc przedmedyczna :: Udzielasz podstawowej pomocy osobie w sytuacji zagrożenia nad wodą.
+
+@1926
+M: Rozpoznawanie rodzajów włókien :: Rozpoznajesz materiał dywanu, żeby wybrać do niego bezpieczną metodę czyszczenia. | Chemia czyszcząca :: Dobierasz środki chemiczne do usuwania konkretnych rodzajów plam i zapachów. | Obsługa maszyn do pralowania :: Używasz szczotek i urządzeń mechanicznych do głębokiego czyszczenia tkanin. | Usuwanie plam specjalistycznych :: Stosujesz konkretne techniki na plamy z tłuszczu, wina czy atramentu.
+W: Neutralizacja zapachów :: Stosujesz środki zapachowe, które trwale usuwają nieprzyjemne zapachy z tkanin. | Czyszczenie tapicerki meblowej :: Rozszerzasz usługę o czyszczenie foteli i kanap u klienta. | Prowadzenie działalności usługowej :: Wyceniasz zlecenia i ustalasz terminy pracy z klientami.
+
+@1927
+M: Sortowanie tkanin :: Dzielisz pranie według rodzaju materiału i stopnia zabrudzenia przed czyszczeniem. | Obsługa pralnic przemysłowych :: Ustawiasz programy pralnicze odpowiednie do rodzaju tkaniny i zabrudzenia. | Prowadzenie ewidencji magazynowej :: Zapisujesz stany pościeli i umundurowania w systemie magazynowym pralni. | Logistyka wewnętrzna pralni :: Rozwozisz czyste rzeczy do odpowiednich działów zgodnie z grafikiem.
+W: Podstawy krawiectwa naprawczego :: Naprawiasz drobne uszkodzenia bielizny, zanim trafi do dalszego użytku. | Zarządzanie zapasami tekstyliów :: Planujesz zamówienia pościeli tak, żeby nigdy jej nie zabrakło. | Obsługa prasowalnic :: Wygładzasz uprane tkaniny na maszynach prasujących przed wydaniem rzeczy.
+
+@1928
+M: Sprzęt do czyszczenia kanałów :: Używasz specjalistycznych urządzeń do usuwania zatorów w rurach i kanałach. | Diagnostyka kamerą inspekcyjną :: Sprawdzasz stan rur kamerą, żeby zlokalizować miejsce uszkodzenia lub zatoru. | Czytanie map sieci kanalizacyjnej :: Odnajdujesz trasy rur i studzienki na podstawie planów technicznych gminy. | Praca w przestrzeniach zamkniętych :: Stosujesz procedury bezpieczeństwa przy pracy w studzienkach i kanałach.
+W: Podstawy hydrauliki :: Rozumiesz, jak działa przepływ ścieków, żeby skutecznie planować udrażnianie. | Sporządzanie raportów technicznych :: Opisujesz stan sieci i zgłaszasz awarie odpowiednim służbom gminy. | Obsługa pojazdów specjalistycznych :: Prowadzisz i obsługujesz pojazd z wyposażeniem do czyszczenia kanalizacji.
+
+@1929
+M: Obsługa prasy parowej :: Ustawiasz temperaturę i parę odpowiednio do rodzaju tkaniny, którą prasujesz. | Obsługa prasy próżniowej :: Wykorzystujesz podciśnienie stołu prasowalniczego, żeby nadać ubraniu właściwy kształt. | Rozpoznawanie tkanin :: Dobierasz technikę prasowania do materiału, żeby go nie uszkodzić. | Wykrywanie wad odzieży :: Zauważasz zagniecenia, plamy i uszkodzenia przed oddaniem ubrania klientowi.
+W: Prasowanie odzieży specjalistycznej :: Prasujesz garnitury, suknie i inne ubrania wymagające precyzyjnej techniki pracy. | Organizacja stanowiska pracy :: Układasz ubrania na wieszakach i foliujesz je do wydania. | Podstawy krawiectwa naprawczego :: Poprawiasz drobne usterki odzieży przed oddaniem jej klientowi.
+
+@1930
+M: Mycie karoserii :: Myjesz zewnętrzną powierzchnię pojazdu tak, żeby nie uszkodzić lakieru. | Czyszczenie wnętrza pojazdu :: Odkurzasz tapicerkę i czyścisz panele wewnętrzne wnętrza samochodu. | Polerowanie powierzchni :: Nakładasz pastę polerską, żeby odświeżyć lakier i plastikowe elementy. | Dobór środków czyszczących :: Wybierasz chemię odpowiednią do materiału, który czyścisz w pojeździe.
+W: Czyszczenie tapicerki skórzanej :: Konserwujesz skórzane fotele, żeby nie wysychały i nie pękały. | Usuwanie zapachów z wnętrza :: Stosujesz techniki ozonowania lub parowania, żeby zneutralizować zapachy w kabinie. | Detailing lakieru :: Wykonujesz dokładniejsze zabiegi odświeżające powłokę lakierniczą pojazdu klienta.
+
+@1931
+M: Technika mycia szyb :: Zmywasz okna gąbką i ściągaczką tak, żeby nie zostawić smug. | Sprzęt do pracy wysokościowej :: Wybierasz odpowiednią drabinę lub podest do wysokości danego budynku. | Zasady pracy na wysokości :: Zakładasz i sprawdzasz pasy zabezpieczające przed pracą na wysokości. | Dobór detergentów do szkła :: Wybierasz środki czyszczące, które nie uszkadzają ram i uszczelek okien.
+W: Mycie elewacji szklanych :: Czyścisz duże powierzchnie szklane budynków za pomocą systemów linowych. | Czyszczenie świetlików i luksferów :: Myjesz nietypowe powierzchnie szklane wymagające dodatkowej ostrożności przy pracy. | Obsługa klienta biznesowego :: Umawiasz i rozliczasz regularne zlecenia mycia okien dla firm.
+
+@1932
+M: Rozpoznawanie materiałów meblowych :: Rozpoznajesz drewno, skórę i tkaninę, żeby wybrać właściwą metodę czyszczenia. | Usuwanie plam z tapicerki :: Stosujesz środki i techniki usuwające konkretne rodzaje zabrudzeń z obicia. | Konserwacja drewna :: Nakładasz środki pielęgnacyjne, które chronią i odświeżają powierzchnię drewnianych mebli. | Czyszczenie na sucho :: Usuwasz kurz i drobne zabrudzenia bez użycia wody na meblach.
+W: Renowacja koloru mebli :: Odświeżasz zmatowiały lub wyblakły kolor powierzchni meblowych u klienta. | Czyszczenie mebli antycznych :: Dobierasz delikatniejsze metody do mebli o dużej wartości. | Dezynfekcja powierzchni :: Stosujesz środki odkażające w meblach używanych przez wiele osób.
+
+@1933
+M: Przygotowanie pokoju hotelowego :: Ścielisz łóżka i zmieniasz pościel według standardu obiektu hotelowego. | Dezynfekcja łazienki hotelowej :: Czyścisz i dezynfekujesz łazienkę zgodnie z procedurami sanitarnymi hotelu. | Uzupełnianie zapasów pokoju :: Dopełniasz kosmetyki, ręczniki i wodę w pokojach gości hotelowych. | Rozpoznawanie usterek pokoju :: Zauważasz i zgłaszasz uszkodzenia wyposażenia oraz zgubione przedmioty gości.
+W: Organizacja pracy na zmianie :: Planujesz kolejność sprzątanych pokoi, żeby zmieścić się w czasie. | Obsługa sprzętu sprzątającego :: Używasz wózków i urządzeń ułatwiających pracę w wielu pokojach. | Standardy jakości hotelowej :: Znasz wymagania danej kategorii hotelu dotyczące wyglądu pokoju.
+
+@1934
+M: Obsługa maszyn czyszczących :: Używasz mopów, odkurzaczy i maszyn do czyszczenia podłóg w budynku. | Kontrola systemów zabezpieczeń :: Sprawdzasz zamknięcia okien, drzwi i śluz podczas obchodu całego budynku. | Segregacja i wywóz śmieci :: Opróżniasz kosze i sortujesz odpady zgodnie z zasadami budynku. | Rozpoznawanie usterek technicznych :: Zauważasz nieprawidłowości w działaniu klimatyzacji i zgłaszasz je dalej.
+W: Czyszczenie przemysłowe powierzchni :: Stosujesz specjalistyczne techniki czyszczenia dużych powierzchni biurowych i publicznych. | Podstawy BHP przy chemii :: Bezpiecznie przechowujesz i stosujesz środki chemiczne do sprzątania. | Obsługa zgłoszeń serwisowych :: Zgłaszasz problemy techniczne odpowiednim działom administracji budynku.
+
+@1935
+M: Organizacja sprzątania domu :: Planujesz kolejność czynności, żeby efektywnie wysprzątać cały dom klienta. | Pranie i suszenie odzieży :: Dobierasz program pralki do rodzaju tkaniny i poziomu zabrudzenia. | Dezynfekcja powierzchni domowych :: Odkażasz klamki, blaty i urządzenia zgodnie z zasadami higieny. | Dobór środków czystości :: Wybierasz odpowiednią chemię do różnych powierzchni znajdujących się w domu.
+W: Pielęgnacja roślin domowych :: Podlewasz i przycinasz rośliny podczas codziennego sprzątania mieszkania. | Organizacja przestrzeni :: Porządkujesz szafy i pomieszczenia, żeby ułatwić codzienne życie domowników. | Obsługa sprzętu AGD :: Czyścisz i konserwujesz pralkę, lodówkę i inne urządzenia domowe.
+
+@1936
+M: Czyszczenie kabiny pasażerskiej :: Odkurzasz fotele i podłogę kabiny w krótkim czasie między rejsami. | Procedury bezpieczeństwa na płycie :: Przestrzegasz zasad poruszania się po płycie i wokół samolotu. | Kontrola wyposażenia bezpieczeństwa :: Sprawdzasz i układasz pasy, karty bezpieczeństwa i torebki w kieszeniach foteli. | Praca pod presją czasu :: Sprzątasz kabinę w ściśle określonym czasie między lądowaniem i startem.
+W: Czyszczenie kuchni pokładowej :: Czyścisz sprzęt i powierzchnie w kuchni pokładowej samolotu po rejsie. | Obsługa toalet lotniczych :: Czyścisz i uzupełniasz zapasy w toaletach znajdujących się w samolocie. | Współpraca z obsługą naziemną :: Koordynujesz pracę z innymi zespołami obsługującymi samolot na płycie.
+
+@1937
+M: Dezynfekcja urządzeń sanitarnych :: Czyścisz i dezynfekujesz toalety, umywalki i pisuary zgodnie z normami sanitarnymi. | Dobór środków czyszczących :: Wybierasz chemię skuteczną na kamień, osad i nieprzyjemne zapachy. | Uzupełnianie zapasów sanitarnych :: Dopełniasz papier, mydło i ręczniki zgodnie z zapotrzebowaniem toalety. | Prowadzenie rejestru czynności :: Zapisujesz godziny i zakres wykonanego sprzątania w dzienniku pracy.
+W: Czyszczenie fug i glazury :: Usuwasz trudny osad z fug i glazury znajdującej się w łazienkach. | Kontrola stanu wyposażenia :: Sprawdzasz działanie suszarek, kranów i dozowników mydła w toalecie. | Zarządzanie czasem sprzątania :: Planujesz czyszczenie tak, żeby nie zakłócać pracy klientów firmy.
+
+@1938
+M: Czyszczenie wnętrza wagonu :: Odkurzasz fotele i podłogi w krótkim czasie na stacji końcowej. | Opróżnianie koszy w pociągu :: Zbierasz i sortujesz odpady z przedziałów pasażerskich pociągu. | Mycie okien i stolików :: Czyścisz powierzchnie dotykowe, z którymi stykają się pasażerowie w wagonie. | Głębokie czyszczenie na postoju :: Wykonujesz dokładniejsze czyszczenie wagonu podczas dłuższej przerwy w trasie.
+W: Rozpoznawanie uszkodzeń wyposażenia :: Zauważasz i zgłaszasz zniszczenia foteli oraz wyposażenia znajdującego się w wagonie. | Dezynfekcja powierzchni w pociągu :: Odkażasz poręcze i uchwyty, z którymi stykają się pasażerowie. | Praca w ograniczonym czasie :: Organizujesz czyszczenie wagonu w ograniczonym czasie między kolejnymi kursami.
+
+@1939
+M: Konstruowanie ofert turystycznych :: Układasz pakiety wycieczek, łącząc transport, nocleg i miejscowe atrakcje. | Zarządzanie zespołem biura :: Planujesz grafiki i zadania pracowników zatrudnionych w biurze podróży. | Negocjacje z dostawcami usług :: Ustalasz warunki z hotelami i przewoźnikami przy tworzeniu oferty. | Obsługa systemów rezerwacyjnych :: Korzystasz z systemów do rezerwacji biletów i noclegów dla klientów.
+W: Marketing ofert turystycznych :: Promujesz wycieczki w mediach lokalnych oraz w internecie. | Analiza rentowności oferty :: Sprawdzasz, które wycieczki przynoszą zysk, a które trzeba zmienić. | Znajomość przepisów turystycznych :: Pilnujesz, żeby oferty spełniały wymogi prawa dotyczącego usług turystycznych.
+
+@1940
+M: Zarządzanie zespołem punktu :: Planujesz grafik i zadania pracowników centrum informacji turystycznej. | Aktualizacja bazy informacji :: Zbierasz i aktualizujesz dane o atrakcjach, wydarzeniach i zakwaterowaniu. | Obsługa trudnych zapytań turystów :: Udzielasz szczegółowych informacji, gdy pracownicy nie mogą sami pomóc. | Zarządzanie materiałami promocyjnymi :: Zamawiasz i rozdzielasz mapy, ulotki i broszury turystyczne.
+W: Współpraca z instytucjami lokalnymi :: Utrzymujesz kontakt z urzędem miasta i organizacjami turystycznymi. | Obsługa w językach obcych :: Komunikujesz się z zagranicznymi odwiedzającymi w ich własnym języku. | Analiza ruchu turystycznego :: Śledzisz liczbę odwiedzających, żeby lepiej planować zasoby punktu.
+
+@1941
+M: Zarządzanie zespołem konsultantów :: Planujesz grafiki i przydzielasz zgłoszenia pracownikom centrum obsługi klienta. | Analiza wskaźników obsługi :: Sprawdzasz czas odpowiedzi i poziom satysfakcji klientów na podstawie danych. | Rozwiązywanie eskalowanych spraw :: Przejmujesz trudne zgłoszenia, których konsultanci nie mogli samodzielnie zamknąć. | Aktualizacja procedur obsługi :: Zmieniasz zasady pracy zespołu, gdy problemy klientów się powtarzają.
+W: Szkolenie pracowników obsługi :: Uczysz konsultantów standardów rozmowy i rozwiązywania problemów klientów. | Obsługa systemów CRM :: Korzystasz z systemu do zarządzania zgłoszeniami i historią klientów. | Zarządzanie budżetem zespołu :: Planujesz koszty zatrudnienia i zasobów centrum obsługi klienta.
+
+@1942
+M: Planowanie pracy pralni :: Układasz grafik pracowników i harmonogram prania dla danej instytucji. | Nadzór procedur bezpieczeństwa :: Pilnujesz zasad bezpiecznej pracy przy maszynach i chemii pralniczej. | Zarządzanie budżetem pralni :: Planujesz koszty środków czystości i konserwacji sprzętu pralniczego. | Kontrola jakości usługi :: Sprawdzasz, czy wyprane rzeczy spełniają ustalone standardy jakości.
+W: Zamawianie dostaw i materiałów :: Zarządzasz zapasami środków piorących i materiałów eksploatacyjnych pralni. | Konserwacja pralnic przemysłowych :: Rozpoznajesz wczesne oznaki usterek maszyn pralniczych w pracy. | Zarządzanie klientami instytucjonalnymi :: Ustalasz warunki usług z hotelami lub szpitalami korzystającymi z pralni.
+
+@1943
+M: Planowanie pracy mechaników :: Przydzielasz zlecenia naprawcze zgodnie z umiejętnościami i obciążeniem zespołu. | Wycena usług warsztatowych :: Szacujesz koszt i czas naprawy na podstawie zgłoszonej usterki. | Kontrola jakości naprawy :: Sprawdzasz naprawione pojazdy przed ich wydaniem klientowi warsztatu. | Zarządzanie częściami zamiennymi :: Zamawiasz i rozliczasz części potrzebne do napraw pojazdów klientów.
+W: Podstawy diagnostyki samochodowej :: Rozpoznajesz typowe usterki, żeby lepiej planować pracę mechaników. | Obsługa systemów warsztatowych :: Korzystasz z oprogramowania do zarządzania zleceniami i historią napraw. | Zarządzanie reklamacjami klientów :: Rozwiązujesz spory dotyczące jakości wykonanej naprawy pojazdu.
+
+@1944
+M: Planowanie przestrzenne kempingu :: Rozmieszczasz miejsca dla namiotów i przyczep tak, żeby wszystkim wystarczyło miejsca. | Zarządzanie personelem kempingu :: Planujesz zadania i grafiki pracowników obsługujących teren kempingowy. | Nadzór infrastruktury sanitarnej :: Pilnujesz stanu łazienek, prądu i dostępu do wody na terenie. | Rozwiązywanie zgłoszeń gości :: Reagujesz na problemy i skargi osób korzystających z kempingu.
+W: Organizacja wydarzeń rekreacyjnych :: Planujesz zajęcia i atrakcje dla gości korzystających z kempingu. | Ochrona środowiska naturalnego :: Pilnujesz, żeby działalność kempingu nie szkodziła otaczającej przyrodzie. | Zarządzanie rezerwacjami :: Prowadzisz system rezerwacji miejsc na terenie kempingowym.
+
+@1945
+M: Planowanie trasy dystrybucji :: Układasz trasę tak, żeby dotrzeć do jak największej liczby odbiorców. | Prezentacja oferty :: Przedstawiasz w kilku słowach, czego dotyczy reklama lub ulotka. | Segmentacja odbiorców :: Rozpoznajesz, które miejsca i osoby odpowiadają grupie docelowej ulotki. | Rozliczanie rozdanego nakładu :: Liczysz i raportujesz, ile materiałów faktycznie udało się rozdać.
+W: Obsługa klienta na ulicy :: Odpowiadasz na pytania przechodniów dotyczące rozdawanej oferty reklamowej. | Przepisy o reklamie :: Wiesz, gdzie wolno rozdawać materiały reklamowe, a gdzie tego zabroniono. | Zbieranie informacji zwrotnej :: Notujesz reakcje odbiorców, żeby przekazać je zamawiającemu akcję.
+
+@1946
+M: Techniki laboratoryjne biochemii :: Wykonujesz doświadczenia badające reakcje chemiczne zachodzące w komórkach i tkankach. | Analiza wyników badań :: Przetwarzasz dane pomiarowe, żeby sprawdzić, czy hipoteza się potwierdziła. | Praca z odczynnikami chemicznymi :: Bezpiecznie przygotowujesz i stosujesz roztwory używane w prowadzonych eksperymentach. | Badanie białek i enzymów :: Badasz budowę i działanie cząsteczek biologicznych w organizmie żywym.
+W: Opracowywanie nowych substancji :: Projektujesz i testujesz związki, które mogą stać się lekami. | Statystyka w badaniach biologicznych :: Analizujesz dane eksperymentalne metodami statystycznymi, żeby ocenić ich wiarygodność. | Pisanie publikacji naukowych :: Opisujesz wyniki badań w formie przyjętej w czasopismach naukowych.
+
+@1947
+M: Metody fizyczne w biologii :: Stosujesz techniki fizyczne do badania struktury komórek i białek. | Modelowanie procesów biologicznych :: Budujesz modele matematyczne opisujące zachowanie żywych układów biologicznych. | Analiza danych eksperymentalnych :: Przetwarzasz wyniki pomiarów, żeby wyciągnąć z nich wnioski naukowe. | Obsługa aparatury pomiarowej :: Korzystasz ze specjalistycznego sprzętu do badania cząsteczek i komórek.
+W: Programowanie naukowe :: Piszesz skrypty do analizy i wizualizacji danych biologicznych. | Mikroskopia zaawansowana :: Obserwujesz struktury komórkowe przy użyciu specjalistycznych mikroskopów naukowych. | Pisanie raportów badawczych :: Dokumentujesz metodykę i wyniki prowadzonych doświadczeń naukowych.
+
+@1948
+M: Diagnostyka laboratoryjna :: Analizujesz próbki krwi i tkanek, żeby wykryć objawy choroby. | Interpretacja wyników badań :: Oceniasz, czy wyniki testów wskazują na nieprawidłowości u pacjenta. | Kontrola jakości badań :: Sprawdzasz, czy wynik badania jest wiarygodny, zanim przekażesz go lekarzowi. | Obsługa aparatury diagnostycznej :: Korzystasz ze sprzętu do analizy krwi, hematologii i biologii molekularnej.
+W: Genomika diagnostyczna :: Analizujesz materiał genetyczny w poszukiwaniu przyczyn danej choroby. | Komunikacja wyników medycznych :: Przekazujesz lekarzom wyniki w sposób zrozumiały i przydatny klinicznie. | Udział w badaniach klinicznych :: Wspierasz testowanie nowych metod diagnostycznych lub terapii medycznych.
+
+@1949
+M: Projektowanie badań translacyjnych :: Planujesz badania, które przenoszą odkrycia naukowe do praktyki medycznej. | Analiza danych klinicznych :: Przetwarzasz wyniki badań na pacjentach, żeby ocenić skuteczność terapii. | Metodyka badań naukowych :: Stosujesz zasady rzetelnego planowania i prowadzenia eksperymentów biomedycznych. | Dokumentacja badawcza :: Zapisujesz przebieg i wyniki badań zgodnie z wymogami naukowymi.
+W: Nauczanie i mentoring :: Uczysz studentów oraz młodszych specjalistów metod pracy badawczej. | Pisanie publikacji naukowych :: Opisujesz wyniki badań w artykułach recenzowanych przez innych naukowców. | Współpraca międzynarodowa w badaniach :: Uczestniczysz w projektach badawczych razem z zespołami z innych krajów.
