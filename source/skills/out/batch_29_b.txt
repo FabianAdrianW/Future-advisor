@@ -1,0 +1,119 @@
+@1770
+M: Wybór scenariusza :: Oceniasz nadesłane scenariusze i decydujesz, który z nich zasługuje na realizację. | Pozyskiwanie finansowania filmu :: Zdobywasz środki od inwestorów, instytucji lub dystrybutorów na realizację projektu. | Nadzór nad produkcją filmową :: Kontrolujesz przebieg zdjęć i montażu, pilnując zgodności z planem i budżetem. | Decyzje dystrybucyjne :: Wybierasz, gdzie i jak gotowy film trafi do widzów po premierze.
+W: Znajomość rynku filmowego :: Rozumiesz, jakie produkcje mają szansę na sukces u danej widowni. | Praca z zespołem producentów :: Dzielisz zadania produkcyjne z innymi producentami przy dużych projektach. | Prawa autorskie w produkcji :: Dbasz o prawidłowe umowy dotyczące praw do scenariusza i materiału filmowego.
+
+@1771
+M: Planowanie etapu postprodukcji :: Układasz harmonogram montażu obrazu i dźwięku tak, żeby zmieścić się w budżecie. | Koordynacja montażystów :: Nadzorujesz pracę montażysty obrazu i montażysty dźwięku, żeby ich praca się zgrała. | Kontrola budżetu postprodukcji :: Pilnujesz kosztów etapu po zdjęciach, zgłaszając przekroczenia na czas. | Dostarczanie materiału do dystrybucji :: Przygotowujesz gotowy film w formatach wymaganych przez kanały dystrybucji.
+W: Podstawy montażu obrazu :: Rozumiesz proces montażu, żeby trafnie oceniać pracę montażystów na każdym etapie. | Obsługa systemów zarządzania plikami :: Organizujesz duże ilości materiału filmowego tak, żeby nic się nie zgubiło. | Standardy jakości dystrybucyjnej :: Znasz wymagania techniczne platform i kin dotyczące formatu finalnego filmu.
+
+@1772
+M: Planowanie audycji radiowej :: Wymyślasz temat i strukturę programu, który zainteresuje słuchaczy danej stacji. | Zapraszanie gości do studia :: Kontaktujesz się z gośćmi i ustalasz warunki ich udziału w audycji. | Nadzór nad realizacją dźwięku :: Pilnujesz jakości dźwięku na antenie podczas nagrania lub emisji na żywo. | Zarządzanie zespołem programu :: Układasz grafik pracy osób zaangażowanych w przygotowanie audycji.
+W: Montaż audycji radiowej :: Edytujesz nagrany materiał, usuwając błędy i skracając program do wymaganego czasu. | Znajomość przepisów medialnych :: Wiesz, czego nie można powiedzieć na antenie zgodnie z prawem. | Prowadzenie wywiadów radiowych :: Zadajesz pytania gościom tak, żeby rozmowa była ciekawa dla słuchaczy.
+
+@1773
+M: Analiza technik tanecznych :: Rozkładasz ruch taneczny na elementy, żeby zrozumieć jego budowę i pochodzenie. | Badanie historii tańca :: Szukasz informacji o pochodzeniu i kontekście danego stylu tańca. | Praca z archiwalnymi nagraniami :: Oglądasz stare zapisy tańca, żeby odtworzyć technikę z danej epoki. | Pisanie opracowań naukowych :: Opisujesz taniec w tekście akademickim, uwzględniając kontekst społeczny i historyczny.
+W: Metody etnograficzne :: Badasz taniec w jego pierwotnym środowisku społecznym i kulturowym. | Klasyfikacja ruchu tanecznego :: Opisujesz i katalogujesz elementy ruchu według przyjętych systemów notacji tańca. | Prowadzenie wykładów o tańcu :: Przekazujesz wiedzę o historii i teorii tańca innym osobom zainteresowanym tematem.
+
+@1774
+M: Nauka układu choreograficznego :: Uczysz tancerzy kroków krok po kroku, aż zapamiętają cały układ. | Pamięć choreografii :: Zapamiętujesz każdy szczegół układu tanecznego, żeby móc go odtworzyć bez choreografa. | Prowadzenie prób bez choreografa :: Prowadzisz próbę zgodnie z wcześniejszymi ustaleniami, kiedy choreograf jest nieobecny. | Korekta techniki tancerzy :: Poprawiasz pojedynczych wykonawców, wskazując błędy w ruchu i ustawieniu ciała.
+W: Znajomość różnych stylów tańca :: Rozumiesz zasady kilku technik tanecznych, żeby pracować z różnymi produkcjami. | Dokumentacja choreografii :: Zapisujesz układ taneczny w notatkach lub nagraniu, żeby zachować go na przyszłość. | Praca z muzyką :: Dopasowujesz układ ruchowy do rytmu i struktury muzycznej utworu.
+
+@1775
+M: Czytanie planów technicznych :: Rozumiesz rysunki i instrukcje techniczne potrzebne do montażu spektaklu. | Montaż systemów scenicznych :: Instalujesz oświetlenie, dźwięk i inne systemy techniczne przed przedstawieniem. | Programowanie urządzeń scenicznych :: Ustawiasz w urządzeniach sekwencje potrzebne do prowadzenia spektaklu. | Obsługa sprzętu podczas spektaklu :: Reagujesz na bieżąco, obsługując systemy techniczne w trakcie przedstawienia na żywo.
+W: Zarządzanie ekipą techniczną :: Koordynujesz pracę innych techników podczas montażu i spektaklu. | Bezpieczeństwo pracy na scenie :: Znasz zasady bezpiecznej pracy z urządzeniami i konstrukcjami scenicznymi. | Znajomość wielu systemów technicznych :: Rozumiesz zarówno oświetlenie, dźwięk, jak i systemy linowe używane na scenie.
+
+@1776
+M: Obsługa sztankietów scenicznych :: Ręcznie podnosisz i opuszczasz elementy dekoracji zawieszone nad sceną. | Zmiany scenografii w ciemności :: Przesuwasz i wymieniasz dekoracje szybko i bezszelestnie podczas przerwy w świetle. | Czytanie planów scenograficznych :: Rozumiesz rysunki techniczne, żeby prawidłowo ustawić dekoracje na scenie. | Współpraca z techniką obsługi :: Dogadujesz się z innymi technikami, żeby zmiany sceny przebiegały zgodnie z planem.
+W: Obliczenia obciążeń scenicznych :: Sprawdzasz, czy konstrukcja i mechanizmy sceniczne wytrzymają zaplanowany ciężar. | Konserwacja mechanizmów scenicznych :: Dbasz o sprawność lin, sztankietów i innych ruchomych elementów sceny. | Praca na wysokości :: Bezpiecznie wykonujesz zadania na podestach i mostkach technicznych nad sceną.
+
+@1777
+M: Śledzenie wykonawcy światłem :: Kierujesz reflektor tak, żeby wiązka światła zawsze trafiała na poruszającego się artystę. | Zmiana koloru plamy :: Regulujesz filtry i ostrość reflektora zgodnie z przebiegiem spektaklu. | Praca według instrukcji technicznych :: Realizujesz dokładne wskazówki zapisane w scenariuszu świetlnym całego przedstawienia. | Komunikacja z operatorem tablicy :: Słuchasz poleceń przez interkom i reagujesz na nie natychmiast.
+W: Praca na mostkach :: Bezpiecznie obsługujesz reflektor umieszczony wysoko nad widownią lub sceną. | Konserwacja reflektorów punktowych :: Sprawdzasz i czyścisz sprzęt przed każdym spektaklem, żeby działał bez usterek. | Znajomość różnych typów reflektorów :: Rozumiesz różnice między modelami sprzętu, z którym pracujesz w różnych teatrach.
+
+@1778
+M: Planowanie ustawienia reflektorów :: Decydujesz, gdzie i jak zawiesić każdy reflektor, żeby uzyskać zamierzony efekt. | Programowanie pulpitu świetlnego :: Zapisujesz sceny świetlne w konsoli, żeby odtworzyć je automatycznie podczas spektaklu. | Kierowanie ekipą techniczną :: Organizujesz pracę innych techników przy montażu systemu oświetlenia. | Obsługa oświetlenia na żywo :: Włączasz zaprogramowane sceny świetlne w odpowiednim momencie przedstawienia.
+W: Automatyczne systemy oświetlenia :: Obsługujesz ruchome głowy świetlne i inne zautomatyzowane urządzenia oświetleniowe. | Kontrola wideo w oświetleniu :: Integrujesz projekcje wideo z systemem świetlnym podczas spektaklu. | Projektowanie koncepcji świetlnej :: Współtworzysz wizję oświetlenia razem z reżyserem i scenografem.
+
+@1779
+M: Rozładunek i transport dekoracji :: Przewozisz i wnosisz elementy scenografii z transportu na miejsce montażu. | Montaż zmontowanych dekoracji :: Składasz wcześniej przygotowane elementy scenografii w całość na scenie. | Kontrola stanu dekoracji :: Sprawdzasz, czy dekoracje są sprawne i bezpieczne przed każdym występem. | Drobne naprawy scenografii :: Usuwasz na miejscu niewielkie uszkodzenia dekoracji, żeby spektakl mógł się odbyć.
+W: Czytanie rysunków scenograficznych :: Rozumiesz dokumentację techniczną dekoracji, żeby poprawnie je złożyć w całość. | Praca z materiałami scenicznymi :: Znasz właściwości drewna, metalu i tkanin używanych w dekoracjach. | Organizacja magazynu dekoracji :: Przechowujesz i starannie katalogujesz elementy scenografii między kolejnymi przedstawieniami teatru.
+
+@1780
+M: Budowa i rozbiórka scenografii :: Stawiasz i demontujesz elementy scenografii zgodnie z potrzebami spektaklu. | Ustawianie dźwięku i światła :: Instalujesz podstawowy sprzęt nagłośnienia i oświetlenia na potrzeby przedstawienia. | Obsługa sprzętu audiowizualnego :: Operujesz urządzeniami do nagrań dźwiękowych i wideo podczas spektaklu. | Transport sprzętu technicznego :: Pakujesz i przewozisz dekoracje oraz urządzenia na miejsca występów.
+W: Wielozadaniowość techniczna :: Łączysz różne umiejętności techniczne, od dźwięku po scenografię, w jednej produkcji. | Podstawy elektryki scenicznej :: Bezpiecznie podłączasz i obsługujesz instalacje elektryczne na potrzeby spektaklu. | Praca w trasie :: Organizujesz montaż i demontaż sprzętu w różnych miejscach podczas tournée.
+
+@1781
+M: Ubieranie aktorów :: Pomagasz wykonawcom i statystom w szybkim i poprawnym założeniu kostiumu. | Pilnowanie ciągłości wyglądu :: Sprawdzasz, czy strój wygląda identycznie w każdym ujęciu lub akcie. | Naprawa kostiumów :: Zszywasz i reperujesz uszkodzone elementy stroju podczas produkcji. | Przechowywanie kostiumów :: Pakujesz i odpowiednio składujesz stroje po zdjęciach lub przedstawieniu.
+W: Znajomość technik krawieckich :: Potrafisz szyć i przerabiać elementy kostiumu w razie potrzeby. | Organizacja garderoby na planie :: Katalogujesz i oznaczasz kostiumy, żeby łatwo je znaleźć podczas produkcji. | Szybkie zmiany kostiumu :: Pomagasz aktorowi przebrać się w bardzo krótkim czasie między scenami.
+
+@1782
+M: Przygotowanie kostiumów przed spektaklem :: Rozkładasz i sprawdzasz stroje, żeby były gotowe przed wejściem aktora na scenę. | Szybka zmiana kostiumu :: Pomagasz artyście przebrać się w bardzo krótkim czasie między scenami. | Naprawa i czyszczenie strojów :: Reperujesz i prasujesz kostiumy tak, żeby wyglądały dobrze na każdym spektaklu. | Układanie strojów po przedstawieniu :: Odwieszasz i starannie katalogujesz kostiumy po zakończeniu każdego spektaklu teatralnego.
+W: Znajomość konserwacji tkanin :: Wiesz, jak prać i przechowywać różne materiały, żeby nie uszkodzić kostiumu. | Praca pod presją czasu :: Radzisz sobie, gdy trzeba przygotować kilka zmian kostiumu w kilka minut. | Współpraca z kostiumografem :: Realizujesz wizję kostiumografa, pilnując, żeby strój był zgodny z projektem.
+
+@1783
+M: Rozładunek sprzętu oświetleniowego :: Przenosisz lampy i statywy z transportu na miejsce montażu. | Ustawianie lamp według planu :: Rozmieszczasz oświetlenie zgodnie z planem przygotowanym przez oświetleniowca lub realizatora. | Kontrola sprzętu przed zdjęciami :: Sprawdzasz, czy wszystkie lampy działają prawidłowo przed rozpoczęciem nagrania. | Przestawianie lamp między ujęciami :: Zmieniasz ustawienie oświetlenia tak, żeby odpowiadało kolejnemu kadrowi.
+W: Podstawy elektryki oświetleniowej :: Bezpiecznie podłączasz instalacje zasilające sprzęt oświetleniowy na planie. | Praca z filtrami światła :: Dobierasz filtry barwne i dyfuzyjne, żeby zmienić charakter padającego światła. | Obsługa statywów i konstrukcji :: Stawiasz stabilne konstrukcje do mocowania lamp w różnych warunkach.
+
+@1784
+M: Programowanie cyfrowego oświetlenia :: Ustawiasz sekwencje świetlne w zautomatyzowanych urządzeniach na potrzeby koncertu lub spektaklu. | Kontrola działania urządzeń :: Sprawdzasz, czy zautomatyzowane lampy działają zgodnie z zaprogramowanym scenariuszem. | Konserwacja sprzętu zautomatyzowanego :: Dbasz o sprawność ruchomych głów świetlnych i innych cyfrowych urządzeń. | Instalacja systemu oświetlenia :: Montujesz lampy i okablowanie razem z resztą ekipy technicznej.
+W: Protokoły sterowania światłem :: Rozumiesz standardy komunikacji między konsolą a urządzeniami oświetleniowymi. | Integracja z systemem dźwięku :: Synchronizujesz efekty świetlne z muzyką lub dźwiękiem na żywo. | Diagnostyka usterek elektronicznych :: Lokalizujesz i naprawiasz problemy w zautomatyzowanych urządzeniach oświetleniowych.
+
+@1785
+M: Tworzenie harmonogramu zdjęciowego :: Planujesz kolejność i czas realizacji scen na każdy dzień zdjęć. | Koordynacja obsady i ekipy :: Wzywasz aktorów i członków ekipy na plan w odpowiednim momencie. | Kontrola tempa produkcji :: Pilnujesz, żeby zdjęcia przebiegały zgodnie z zaplanowanym czasem. | Raportowanie do reżysera :: Informujesz reżysera o opóźnieniach, kosztach i problemach na planie filmowym.
+W: Znajomość etapów produkcji filmowej :: Rozumiesz cały proces powstawania filmu, żeby lepiej planować harmonogram. | Zarządzanie dokumentacją planu :: Prowadzisz listy obsady, lokacji i scen potrzebne do organizacji zdjęć. | Rozwiązywanie konfliktów na planie :: Łagodzisz spory między członkami ekipy, żeby nie zatrzymywać produkcji.
+
+@1786
+M: Notowanie ustaleń z prób :: Zapisujesz decyzje reżysera, żeby nic nie zostało zapomniane na kolejnej próbie. | Zapisywanie miejsc na scenie :: Dokumentujesz ustawienia sceniczne, żeby można je odtworzyć na następnej próbie. | Koordynacja terminów prób :: Układasz grafik prób tak, żeby wszyscy potrzebni aktorzy byli dostępni. | Przekazywanie uwag reżysera :: Tłumaczysz wskazówki reżysera na konkretne polecenia dla aktorów.
+W: Komunikacja z projektantami produkcji :: Ułatwiasz wymianę informacji między reżyserem, scenografem i innymi działami. | Prowadzenie przesłuchań :: Organizujesz i notujesz przebieg castingu do roli w przedstawieniu. | Znajomość struktury tekstu teatralnego :: Rozumiesz budowę scenariusza, żeby trafnie notować uwagi dotyczące scen.
+
+@1787
+M: Projektowanie toru lotu :: Planujesz trasę i sposób poruszania się aktora zawieszonego na linach. | Szkolenie aktorów w lataniu :: Uczysz wykonawców bezpiecznych ruchów podczas scen latania w powietrzu. | Współpraca z technikami lin :: Koordynujesz działania z osobami obsługującymi system linowy podczas spektaklu. | Prowadzenie lotu podczas spektaklu :: Nadzorujesz bezpieczne wykonanie zaplanowanego lotu aktora na żywo.
+W: Znajomość systemów linowych :: Rozumiesz działanie mechanizmów używanych do podnoszenia i prowadzenia aktora w powietrzu. | Bezpieczeństwo pracy na wysokości :: Znasz procedury, które minimalizują ryzyko wypadku podczas trudnych scen latania. | Dopasowanie do wizji artystycznej :: Łączysz efekty latania z ogólnym stylem i przekazem spektaklu.
+
+@1788
+M: Projektowanie sekwencji walki :: Układasz ciosy, uniki i ruchy tak, żeby walka wyglądała realistycznie i bezpiecznie. | Szkolenie w technikach walki :: Uczysz aktorów bezpiecznego wykonywania ruchów walki bez ryzyka urazu. | Praca w zwolnionym tempie :: Ćwiczysz sekwencję walki krok po kroku, zanim przyspieszysz ją do tempa spektaklu. | Dostosowanie walki do kamery :: Zmieniasz układ ruchów, żeby dobrze wyglądał z danego ujęcia lub z widowni.
+W: Znajomość sztuk walki :: Wykorzystujesz techniki takie jak judo, karate lub szermierka w choreografii. | Bezpieczeństwo sceniczne przy walce :: Stosujesz zasady, które chronią wykonawców przed rzeczywistym urazem. | Współpraca z kaskaderami :: Koordynujesz pracę z osobami wykonującymi trudniejsze elementy fizyczne walki.
+
+@1789
+M: Zastępowanie aktora na planie :: Stajesz w miejscu aktora i wykonujesz jego ruchy podczas ustawiania światła. | Powtarzanie ruchów aktora :: Odtwarzasz dokładnie to, co zrobi aktor, żeby ekipa mogła ustawić kadr. | Czekanie na gotowość ekipy :: Czekasz w pozycji, dopóki ekipa nie zakończy ustawiania oświetlenia i kamery. | Ustalanie precyzyjnej pozycji :: Wyznaczasz miejsce, w którym dokładnie powinien stać aktor w danej scenie.
+W: Znajomość pracy kamery :: Rozumiesz, jak kadr i ruch kamery wpływają na twoją pozycję na planie. | Współpraca z ekipą techniczną :: Komunikujesz się z operatorami kamery i oświetleniowcami podczas ustawiania ujęcia. | Podstawy gry aktorskiej :: Odtwarzasz podstawowe emocje i ruch aktora, żeby ustawienie było wiarygodne.
+
+@1790
+M: Tworzenie harmonogramu programów :: Ustalasz, w jakich godzinach i dniach nadawany jest każdy program telewizyjny. | Analiza wyników oglądalności :: Sprawdzasz dane o widzach, żeby ocenić, czy program radzi sobie dobrze. | Analiza danych demograficznych widzów :: Sprawdzasz, kim są odbiorcy programu, żeby lepiej dopasować harmonogram. | Decyzje o paśmie czasowym :: Przesuwasz audycje na lepszą godzinę na podstawie danych o widzach.
+W: Znajomość rynku medialnego :: Rozumiesz konkurencję i trendy, które wpływają na decyzje programowe. | Negocjacje z producentami treści :: Ustalasz warunki emisji programów z ich twórcami lub dystrybutorami. | Planowanie strategii kanału :: Tworzysz długofalowy plan programowy, który buduje widownię kanału.
+
+@1791
+M: Kontrola ciągłości ujęć :: Oglądasz każde ujęcie i porównujesz je ze scenariuszem, żeby wykryć niezgodności. | Dokumentowanie detali sceny :: Zapisujesz położenie rekwizytów i ubrań, żeby odtworzyć je w kolejnych ujęciach. | Notowanie zmian w dialogach :: Śledzisz, jakie zmiany tekstu wprowadzono na planie względem scenariusza. | Zgłaszanie błędów w ciągłości :: Informujesz reżysera i montażystę o niezgodnościach między ujęciami.
+W: Znajomość procesu montażu :: Rozumiesz, jak ujęcia łączą się w całość, żeby przewidzieć problemy z ciągłością. | Fotografowanie planu zdjęciowego :: Dokumentujesz zdjęciami ustawienie sceny, żeby łatwiej porównać kolejne ujęcia. | Organizacja dokumentacji produkcji :: Prowadzisz przejrzyste notatki dostępne dla całej ekipy produkcyjnej.
+
+@1792
+M: Określanie potrzeb technicznych :: Ustalasz, jakich ludzi i sprzętu potrzeba do realizacji konkretnego przedstawienia. | Kontrola procesów technicznych :: Monitorujesz pracę techniki podczas prób i przedstawień na żywo. | Pilnowanie bezpieczeństwa ekipy :: Dbasz o to, żeby prace techniczne odbywały się bezpiecznie dla wszystkich. | Dopasowanie do wizji artystycznej :: Sprawdzasz, czy obraz sceny odpowiada koncepcji reżysera i scenografa.
+W: Zarządzanie kosztami produkcji :: Pilnujesz, żeby wydatki techniczne nie przekroczyły założonego budżetu. | Koordynacja wielu działów technicznych :: Łączysz pracę oświetlenia, dźwięku i scenografii w jedną spójną całość. | Przepisy bezpieczeństwa scenicznego :: Wiesz, jakie normy musi spełniać instalacja techniczna na scenie.
+
+@1793
+M: Wyszukiwanie lokacji filmowych :: Szukasz miejsc, które dokładnie odpowiadają wymaganiom scenariusza i wizji reżysera. | Negocjowanie warunków wynajmu :: Ustalasz z właścicielem obiektu cenę i zasady korzystania z lokacji. | Organizacja logistyki zdjęć :: Planujesz transport, zasilanie i dostęp do miejsca podczas dnia zdjęciowego. | Zarządzanie bezpieczeństwem na lokacji :: Odpowiadasz za bezpieczeństwo ekipy i sprzętu w miejscu nagrań.
+W: Znajomość przepisów lokalnych :: Wiesz, jakie pozwolenia są potrzebne do filmowania w danym miejscu. | Zarządzanie relacjami z właścicielami :: Budujesz dobre relacje, które ułatwiają przyszłą współpracę przy kolejnych produkcjach. | Planowanie transportu ekipy :: Organizujesz dojazd i przewóz sprzętu do mniej dostępnych lokacji.
+
+@1794
+M: Czytanie dokumentacji produkcyjnej :: Analizujesz projekty i plany, żeby zrozumieć, co trzeba zbudować. | Koordynacja warsztatów produkcyjnych :: Rozdzielasz zadania między różne warsztaty budujące elementy scenografii. | Zarządzanie harmonogramem budowy :: Pilnujesz terminów, żeby dekoracje były gotowe przed próbami. | Współpraca z projektantami :: Uzgadniasz poprawki techniczne z osobami odpowiedzialnymi za wizję artystyczną.
+W: Znajomość materiałów scenograficznych :: Wiesz, które materiały najlepiej sprawdzą się w danej konstrukcji. | Zarządzanie budżetem warsztatów :: Pilnujesz kosztów materiałów i pracy w poszczególnych warsztatach. | Bezpieczeństwo konstrukcji scenicznych :: Sprawdzasz, czy zbudowane elementy są stabilne i bezpieczne dla wykonawców.
+
+@1795
+M: Przygotowanie materiałów pirotechniki :: Przygotowujesz efekty pirotechniczne zgodnie z wymaganiami bezpieczeństwa i koncepcją spektaklu. | Nadzór nad instalacją efektów :: Kontrolujesz montaż urządzeń pirotechnicznych na scenie przed przedstawieniem. | Programowanie urządzeń odpalających :: Ustawiasz precyzyjną kolejność i czas odpalenia wszystkich efektów pirotechnicznych. | Obsługa systemu podczas przedstawienia :: Odpalasz zaprogramowane efekty w precyzyjnie odpowiednim momencie całego spektaklu.
+W: Przepisy bezpieczeństwa pirotechnicznego :: Znasz zasady bezpiecznego stosowania materiałów wybuchowych w obecności publiczności. | Współpraca z ekipą techniczną :: Koordynujesz efekty pirotechniczne z oświetleniem i dźwiękiem spektaklu. | Przechowywanie materiałów pirotechniki :: Składujesz materiały zgodnie z przepisami, żeby zminimalizować ryzyko wypadku.
+
+@1796
+M: Opracowanie koncepcji oświetlenia :: Projektujesz całościową wizję świetlną spektaklu na podstawie wizji artystycznej. | Współpraca z zespołem artystycznym :: Uzgadniasz koncepcję światła z reżyserem i scenografem przedstawienia. | Dopracowywanie światła na próbach :: Obserwujesz próby i poprawiasz ustawienia świetlne, żeby lepiej oddawały zamysł. | Kierowanie operatorami świetlnymi :: Dajesz wskazówki operatorom, żeby zmiany światła były zsynchronizowane z akcją.
+W: Znajomość technologii oświetleniowej :: Rozumiesz możliwości różnych urządzeń świetlnych, żeby projektować realistyczne koncepcje. | Rysowanie planów świetlnych :: Przygotowujesz pełną dokumentację rozmieszczenia reflektorów dla całej ekipy technicznej. | Integracja światła i scenografii :: Łączysz koncepcję świetlną z dźwiękiem i scenografią w spójną całość.
+
+@1797
+M: Przygotowanie rekwizytów na spektakl :: Kompletujesz i sprawdzasz przedmioty potrzebne aktorom na scenie. | Kontrola działania rekwizytów :: Sprawdzasz, czy wszystkie przedmioty działają prawidłowo przed przedstawieniem. | Organizacja rekwizytów za kulisami :: Układasz przedmioty w ustalonym porządku, żeby łatwo je znaleźć w trakcie spektaklu. | Podawanie rekwizytów aktorom :: Przekazujesz i odbierasz przedmioty od aktorów w odpowiednich momentach przedstawienia.
+W: Drobne naprawy rekwizytów :: Reperujesz uszkodzone przedmioty, żeby mogły być użyte na kolejnym spektaklu. | Tworzenie prostych rekwizytów :: Wykonujesz brakujące przedmioty samodzielnie, na podstawie wskazówek otrzymanych od scenografa. | Dokumentacja listy rekwizytów :: Prowadzisz spis przedmiotów potrzebnych do każdej scenerii spektaklu.
+
+@1798
+M: Projektowanie układu efektów :: Planujesz rozmieszczenie i kolejność efektów pirotechnicznych w pokazie. | Synchronizacja pokazu z muzyką :: Dopasowujesz moment odpalenia efektów do rytmu i nastroju muzyki. | Tworzenie scenariusza czasowego pokazu :: Układasz bardzo precyzyjny plan czasowy całego widowiska pirotechnicznego dla widzów. | Kierowanie operatorami podczas prób :: Dajesz wskazówki osobom odpalającym efekty, żeby pokaz przebiegł zgodnie z planem.
+W: Znajomość przepisów pirotechnicznych :: Wiesz, jakie normy bezpieczeństwa trzeba zachować przy dużych pokazach. | Współpraca z dyrektorem artystycznym :: Dopasowujesz koncepcję pokazu do ogólnej wizji artystycznej całego wydarzenia. | Zarządzanie ryzykiem pokazu :: Przewidujesz możliwe zagrożenia i planujesz sposób ich ograniczenia.
+
+@1799
+M: Czekanie na wezwanie :: Pozostajesz w gotowości i czekasz na sygnał, żeby wejść do kadru. | Czynności w tle :: Odgrywasz naturalne zachowanie tła, nie zwracając na siebie uwagi kamery. | Powtarzanie ruchów w ujęciach :: Odtwarzasz dokładnie te same gesty, żeby ujęcia dobrze się łączyły. | Słuchanie poleceń ekipy :: Reagujesz natychmiast na instrukcje asystenta reżysera podczas nagrania.
+W: Czytanie prostych wskazówek scenariusza :: Rozumiesz, jaką rolę w tle odgrywasz w danej scenie zgodnie ze scenariuszem. | Współpraca z innymi statystami :: Dopasowujesz swoje ruchy do grupy, żeby tło wyglądało naturalnie i spójnie. | Podstawy zachowania przed kamerą :: Uczysz się prostych zasad ruchu i spojrzenia, żeby nie odwracać uwagi od głównej akcji.
