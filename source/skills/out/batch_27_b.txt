@@ -1,0 +1,119 @@
+@1650
+M: Demontaż sprzętu medycznego :: Rozkładasz zużyty sprzęt na części przed jego oczyszczeniem i sterylizacją. | Odkażanie narzędzi medycznych :: Czyścisz i dezynfekujesz instrumenty zgodnie ze ścisłymi procedurami higienicznymi. | Sterylizacja sprzętu medycznego :: Poddajesz narzędzia procesowi, który zabija drobnoustroje przed ponownym użyciem. | Składanie i pakowanie sprzętu :: Składasz z powrotem sterylny sprzęt i pakujesz go do dalszego użycia.
+W: Kontrola kompletności zestawów :: Sprawdzasz, czy każdy zestaw narzędzi zawiera wszystkie potrzebne elementy. | Obsługa autoklawu :: Posługujesz się urządzeniem, które wysoką temperaturą i parą sterylizuje narzędzia medyczne. | Kontrola zakażeń :: Stosujesz zasady, które zmniejszają ryzyko przeniesienia zakażenia między pacjentami szpitala.
+
+@1651
+M: Wywiad o dolegliwościach klienta :: Rozmawiasz z klientem o jego objawach, żeby wybrać odpowiednią terapię. | Znajomość punktów akupunktury :: Znasz położenie punktów na ciele, które odpowiadają za różne dolegliwości. | Wprowadzanie i usuwanie igieł :: Precyzyjnie wkładasz cienkie igły w wybrane punkty na ciele klienta. | Dobieranie terapii do schorzenia :: Wybierasz układ punktów i technikę zależnie od problemu zdrowotnego klienta.
+W: Znajomość meridianów ciała :: Rozumiesz koncepcję szlaków energetycznych, na których opiera się akupunktura. | Łączenie akupunktury z terapiami :: Uzupełniasz zabieg akupunktury technikami relaksacyjnymi lub poradami dotyczącymi stylu życia. | Higiena podczas zabiegu :: Stosujesz jednorazowe lub sterylne igły, żeby zabieg był bezpieczny dla klienta.
+
+@1652
+M: Zbieranie szczegółowego wywiadu :: Pytasz klienta o objawy, nawyki i samopoczucie, żeby dobrać odpowiedni środek. | Znajomość środków homeopatycznych :: Wiesz, jakie preparaty homeopatyczne stosuje się przy różnych objawach klienta. | Dobieranie środka do objawów :: Wybierasz konkretny preparat homeopatyczny na podstawie zasady, że podobne leczy podobne. | Zalecanie stosowania środka :: Tłumaczysz klientowi, jak i kiedy przyjmować wybrany preparat homeopatyczny.
+W: Obserwacja reakcji klienta :: Sprawdzasz w kolejnych rozmowach, jak klient reaguje na zastosowany środek. | Prowadzenie dokumentacji klienta :: Zapisujesz objawy i zastosowane środki, żeby śledzić historię terapii klienta. | Rozmowa o stylu życia :: Pytasz klienta o codzienne nawyki, które mogą wpływać na jego samopoczucie.
+
+@1653
+M: Dobieranie mieszanek ziołowych :: Wybierasz zioła i ich proporcje odpowiednie do stanu zdrowia pacjenta. | Stosowanie akupunktury :: Wkładasz igły w wybrane punkty na ciele, żeby złagodzić objawy pacjenta. | Wykonywanie masażu terapeutycznego :: Stosujesz techniki masażu, które wspierają leczenie w medycynie chińskiej. | Układanie zaleceń dietetycznych :: Proponujesz zmiany w diecie pacjenta zgodne z zasadami medycyny chińskiej.
+W: Rozmowa o zdrowiu pacjenta :: Pytasz pacjenta o codzienne nawyki, które mogą wpływać na jego zdrowie. | Teoria medycyny chińskiej :: Rozumiesz pojęcia równowagi i energii, na których opiera się ta terapia. | Łączenie różnych metod terapii :: Dopasowujesz kombinację ziół, akupunktury i masażu do potrzeb pacjenta.
+
+@1654
+M: Rozmowa o samopoczuciu klienta :: Pytasz klienta o jego stan fizyczny, psychiczny i emocjonalny przed terapią. | Dobieranie terapii uzupełniającej :: Wybierasz metodę, taką jak aromaterapia czy ziołolecznictwo, odpowiednią do potrzeb klienta. | Prowadzenie terapii holistycznej :: Łączysz różne metody komplementarne, żeby wspierać ciało, umysł i samopoczucie klienta. | Wspieranie osób przewlekle chorych :: Pomagasz osobom chorym przewlekle radzić sobie z objawami obok leczenia głównego.
+W: Zajęcia edukacyjne o zdrowiu :: Uczysz grupy, jak dbać o zdrowie i zapobiegać chorobom na co dzień. | Znajomość metod komplementarnych :: Znasz podstawy akupunktury, aromaterapii i ziołolecznictwa, żeby je łączyć. | Ocena postępów klienta :: Sprawdzasz, jak klient reaguje na terapię, i dopasowujesz dalsze działania.
+
+@1655
+M: Ocena stanu zdrowia pacjenta :: Badasz pacjenta i zbierasz informacje potrzebne do zaplanowania jego opieki. | Planowanie opieki pielęgniarskiej :: Układasz plan działań pielęgniarskich dopasowany do choroby i potrzeb pacjenta. | Wiedza specjalistyczna pielęgniarska :: Masz dodatkowe przeszkolenie w wybranym obszarze, takim jak onkologia czy pediatria. | Edukacja pacjenta o chorobie :: Uczysz pacjenta, jak radzić sobie z objawami i leczeniem jego choroby.
+W: Współpraca z lekarzami specjalistami :: Przekazujesz lekarzowi obserwacje dotyczące stanu pacjenta w swojej specjalizacji. | Dokumentacja pielęgniarska :: Zapisujesz przebieg opieki i reakcje pacjenta na zastosowane leczenie. | Nadzorowanie młodszego personelu :: Wspierasz i poprawiasz pracę asystentów pielęgniarskich na swoim oddziale.
+
+@1656
+M: Stawianie diagnoz pielęgniarskich :: Oceniasz objawy pacjenta i formułujesz diagnozę w ramach swoich uprawnień. | Koordynacja opieki przewlekle chorych :: Organizujesz opiekę nad pacjentem z chorobą przewlekłą na wielu poziomach. | Złożone decyzje kliniczne :: Decydujesz o dalszych krokach leczenia w trudnych i niejednoznacznych przypadkach. | Nadzór nad zespołem opieki :: Kierujesz pracą wyznaczonych członków zespołu zajmujących się danym pacjentem.
+W: Zapewnianie zintegrowanej opieki :: Łączysz działania różnych specjalistów, żeby opieka nad pacjentem była spójna. | Zaawansowana dokumentacja kliniczna :: Dokumentujesz złożone decyzje i ich uzasadnienie w karcie pacjenta. | Konsultowanie trudnych przypadków :: Rozmawiasz z lekarzami o najbardziej skomplikowanych przypadkach swoich pacjentów.
+
+@1657
+M: Nadzór nad systemami informacyjnymi :: Pilnujesz, żeby systemy z dokumentacją pacjentów działały bez przerw i błędów. | Analiza potrzeb personelu :: Rozmawiasz z lekarzami, żeby zrozumieć, co utrudnia im pracę z systemem. | Planowanie wdrożeń systemów :: Organizujesz wprowadzenie nowego oprogramowania do placówki medycznej krok po kroku. | Analiza danych medycznych :: Wykorzystujesz dane z systemów, żeby znaleźć sposoby poprawy opieki nad pacjentami.
+W: Bezpieczeństwo danych medycznych :: Pilnujesz, żeby dane pacjentów były chronione przed nieuprawnionym dostępem. | Szkolenie personelu z systemów :: Uczysz lekarzy i pracowników, jak korzystać z wdrożonego oprogramowania medycznego. | Współpraca z dostawcami IT :: Rozmawiasz z firmami informatycznymi o rozwoju i naprawie systemów placówki.
+
+@1658
+M: Planowanie grafiku personelu :: Układasz harmonogram pracy pracowników tak, żeby zapewnić ciągłą opiekę nad pacjentami. | Kontrola sprawności sprzętu :: Sprawdzasz, czy wyposażenie medyczne jest sprawne i regularnie serwisowane. | Nadzór nad dokumentacją placówki :: Pilnujesz, żeby wymagane rejestry i dokumenty były prowadzone zgodnie z przepisami. | Zarządzanie zespołem pracowników :: Nadzorujesz pracę personelu i rozwiązujesz bieżące problemy w zespole.
+W: Komunikacja z pacjentami :: Rozmawiasz z pacjentami i ich bliskimi o warunkach i jakości opieki. | Kontrola zgodności z wymogami :: Sprawdzasz, czy organizacja spełnia wymagania prawne dotyczące opieki zdrowotnej. | Planowanie budżetu placówki :: Rozdzielasz środki finansowe na personel, sprzęt i bieżące utrzymanie placówki.
+
+@1659
+M: Pomoc położnej przy porodzie :: Wspierasz położną w czynnościach wykonywanych podczas przebiegu porodu pacjentki. | Przygotowanie sali porodowej :: Ustawiasz salę i sprzęt tak, żeby poród mógł przebiegać bezpiecznie. | Wsparcie emocjonalne rodzącej :: Rozmawiasz z rodzącą i jesteś przy niej w trudnych momentach porodu. | Opieka nad noworodkiem :: Pomagasz w pierwszym karmieniu i pielęgnacji noworodka po porodzie.
+W: Wsparcie w okresie połogu :: Pomagasz matce w pierwszych dniach po porodzie w czynnościach opiekuńczych. | Obsługa sprzętu porodowego :: Przygotowujesz i podajesz sprzęt potrzebny położnej podczas porodu. | Dokumentacja porodu :: Zapisujesz przebieg porodu i stan noworodka w dokumentacji medycznej.
+
+@1660
+M: Wywiad o objawach pacjenta :: Pytasz pacjenta o dolegliwości i codzienne nawyki, żeby dobrać terapię ziołową. | Właściwości roślin leczniczych :: Wiesz, jak działają konkretne zioła i jakie mają zastosowanie leczniczo. | Układanie planu stosowania ziół :: Tworzysz indywidualny plan, jak i kiedy pacjent powinien stosować zioła. | Monitorowanie reakcji pacjenta :: Sprawdzasz w kolejnych rozmowach, jak pacjent reaguje na zastosowane zioła.
+W: Przygotowywanie mieszanek ziołowych :: Łączysz różne zioła w odpowiednich proporcjach zgodnie z planem leczenia. | Interakcje ziół z lekami :: Zwracasz uwagę, czy zioła mogą wchodzić w interakcję z lekami pacjenta. | Edukacja o ziołolecznictwie :: Tłumaczysz pacjentowi, jak bezpiecznie korzystać z ziół w codziennym życiu.
+
+@1661
+M: Szkolenie psa w komendach :: Uczysz psa reagować na komendy i omijać przeszkody na trasie. | Planowanie etapów szkolenia :: Układasz program nauki psa od podstaw aż do pracy z osobą niewidomą. | Dobieranie psa do klienta :: Łączysz konkretnego psa z osobą niewidomą, biorąc pod uwagę jej tempo i potrzeby. | Uczenie pracy z psem :: Pokazujesz osobie niewidomej, jak wydawać komendy i poruszać się z psem.
+W: Ocena predyspozycji psa :: Sprawdzasz temperament i zdolności psa, żeby ocenić, czy nada się do szkolenia. | Opieka nad szkolonymi psami :: Zapewniasz codzienną opiekę i rutynę psom przechodzącym szkolenie przewodnickie. | Poradnictwo dla osób niewidomych :: Radzisz, jak korzystać z technik wspomagających mobilność z psem przewodnikiem.
+
+@1662
+M: Praca z koniem :: Uczysz konia reagować na komendy, prowadząc go bez wsiadania na niego. | Trening konia w siodle :: Ćwiczysz konia pod jeźdźcem, poprawiając jego reakcje i posłuszeństwo. | Przyzwyczajanie konia do transportu :: Uczysz konia spokojnie wchodzić i stać w przyczepie podczas przewozu. | Prowadzenie lekcji dla jeźdźców :: Uczysz jeźdźców, jak prawidłowo komunikować się z koniem podczas jazdy.
+W: Przygotowanie konia do zawodów :: Ćwiczysz konia tak, żeby był gotowy do występu na zawodach lub pokazie. | Rozpoznawanie stresu u konia :: Zauważasz, kiedy koń jest niespokojny, i zmieniasz sposób pracy z nim. | Anatomia i ruch konia :: Rozumiesz budowę konia na tyle, żeby trening był bezpieczny i skuteczny.
+
+@1663
+M: Codzienna opieka nad zwierzętami :: Karmisz zwierzęta i sprawdzasz na bieżąco ich kondycję i samopoczucie. | Powtarzanie wyuczonych zachowań :: Utrwalasz ze zwierzętami komendy i zachowania, których już się nauczyły. | Uczenie komend metodą nagród :: Wprowadzasz nowe polecenia, nagradzając zwierzę za prawidłową reakcję. | Dokumentowanie postępów zwierząt :: Zapisujesz postępy w nauce i niepokojące objawy u podopiecznych zwierząt.
+W: Dobieranie metod tresury :: Wybierasz sposób nauki zależnie od gatunku i charakteru zwierzęcia. | Rozpoznawanie dyskomfortu zwierzęcia :: Zauważasz sygnały stresu, które mówią, że trzeba zmienić sposób pracy. | Przepisy dotyczące zwierząt :: Znasz obowiązujące przepisy dotyczące tresury i opieki nad zwierzętami.
+
+@1664
+M: Rozkładanie sztuczki na etapy :: Dzielisz trudną sztuczkę na małe kroki, które zwierzę łatwiej opanuje. | Nagradzanie poprawnych reakcji :: Nagradzasz zwierzę natychmiast po każdym dobrze wykonanym ruchu podczas tresury. | Przygotowanie zwierzęcia do występu :: Ćwiczysz z muzyką i w obecności publiczności, żeby przygotować zwierzę do pokazu. | Utrwalanie zachowań zwierzęcia :: Pokazujesz właścicielowi, jak kontynuować i utrwalać wyuczone zachowania zwierzęcia.
+W: Dobieranie metod tresury :: Wybierasz technikę nauki odpowiednią do konkretnego gatunku zwierzęcia. | Rozpoznawanie stresu u zwierzęcia :: Zauważasz, kiedy zwierzę jest przebodźcowane, i przerywasz lub zmieniasz ćwiczenie. | Przepisy dotyczące tresury :: Znasz krajowe przepisy regulujące dopuszczalne metody szkolenia zwierząt.
+
+@1665
+M: Przygotowywanie i podawanie karmy :: Przygotowujesz odpowiednią dla gatunku karmę i podajesz ją zwierzętom codziennie. | Mycie zwierząt i wybiegów :: Czyścisz wybiegi i w razie potrzeby myjesz zwierzęta, żeby zapewnić im higienę. | Rozpoznawanie objawów choroby :: Zauważasz nietypowe zachowanie lub wygląd zwierzęcia i zgłaszasz to weterynarzowi. | Prowadzenie działań edukacyjnych :: Oprowadzasz zwiedzających i odpowiadasz na ich pytania o zwierzęta.
+W: Udział w badaniach naukowych :: Pomagasz naukowcom zbierać dane o zachowaniu i zdrowiu zwierząt w zoo. | Wzbogacanie środowiska zwierząt :: Tworzysz zajęcia i elementy wybiegu, które pobudzają naturalne zachowania zwierząt. | Przestrzeganie dobrostanu zwierząt :: Dbasz, żeby warunki życia zwierząt spełniały wymagane standardy dobrostanu.
+
+@1666
+M: Karmienie i pojenie zwierząt :: Podajesz zwierzętom jedzenie i wodę o ustalonych, regularnych porach dnia. | Organizacja ruchu zwierząt :: Wyprowadzasz zwierzęta i zapewniasz im odpowiednią dawkę aktywności fizycznej. | Wzbogacanie środowiska zwierząt :: Wymyślasz zabawki i zajęcia, które pobudzają naturalne zachowania zwierząt. | Monitorowanie zdrowia i zachowania :: Zapisujesz zmiany w wyglądzie i zachowaniu zwierząt, które mogą wskazywać na problem.
+W: Czynności pielęgnacyjne zwierząt :: Czeszesz, myjesz i pielęgnujesz zwierzęta zgodnie z potrzebami gatunku. | Podstawy tresury zwierząt :: Uczysz zwierzęta prostych komend, które ułatwiają codzienną opiekę nad nimi. | Przepisy o zwierzętach :: Znasz obowiązujące przepisy dotyczące opieki nad zwierzętami niegospodarczymi.
+
+@1667
+M: Sprzątanie klatek i legowisk :: Czyścisz miejsca pobytu zwierząt tak, żeby były higieniczne i wygodne. | Karmienie według instrukcji właściciela :: Podajesz jedzenie zgodnie z zaleceniami, które zostawił właściciel zwierzęcia. | Wyprowadzanie psów na spacery :: Regularnie wyprowadzasz psy, żeby miały ruch i mogły załatwić swoje potrzeby. | Opieka nad chorymi zwierzętami :: Zwracasz dodatkową uwagę na zwierzęta, które wymagają szczególnej opieki w hotelu.
+W: Czynności pielęgnacyjne zwierząt :: Czeszesz i pielęgnujesz zwierzęta zgodnie z potrzebami ich gatunku i rasy. | Rozpoznawanie stresu u zwierząt :: Zauważasz, gdy zwierzę w hotelu jest niespokojne i potrzebuje uspokojenia. | Komunikacja z właścicielami :: Informujesz właścicieli o samopoczuciu ich zwierząt podczas pobytu w hotelu.
+
+@1668
+M: Ocena stanu racic :: Sprawdzasz racice krowy, żeby znaleźć pęknięcia, otarcia i inne uszkodzenia. | Korekta i przycinanie racic :: Przycinasz nadmiernie wyrośniętą racicę specjalnym narzędziem, żeby krowa chodziła bez bólu. | Bezpieczne obchodzenie się :: Ustawiasz i unieruchamiasz krowę tak, żeby praca przy racicach była bezpieczna. | Opatrywanie ran racic :: Czyścisz i opatrujesz rany na racicy, żeby zapobiec dalszym komplikacjom.
+W: Rozpoznawanie chorób racic :: Odróżniasz typowe schorzenia racic, które wymagają dodatkowego leczenia przez weterynarza. | Komunikacja z hodowcą :: Informujesz hodowcę o stanie racic i zalecanych dalszych działaniach wobec zwierzęcia. | Przepisy o pielęgnacji kopyt :: Znasz przepisy krajowe regulujące pielęgnację kopyt i opiekę nad bydłem.
+
+@1669
+M: Codzienna opieka nad psami :: Karmisz psy i sprzątasz kojce, żeby zapewnić im dobre warunki. | Nadzór nad zdrowiem szczeniąt :: Obserwujesz szczenięta i dorosłe psy, żeby wcześnie zauważyć problemy zdrowotne. | Dokumentacja hodowlana psów :: Zapisujesz informacje o psach, ich pochodzeniu i wykonanych szczepieniach. | Planowanie chowu psów :: Decydujesz, które psy łączyć w pary, żeby uzyskać zdrowe potomstwo.
+W: Poszukiwanie domów dla szczeniąt :: Rozmawiasz z osobami zainteresowanymi adopcją i wybierasz dla nich odpowiednie szczenię. | Podstawy genetyki psów :: Rozumiesz, jak cechy rodziców wpływają na zdrowie i wygląd potomstwa. | Socjalizacja szczeniąt :: Przyzwyczajasz szczenięta do ludzi i nowych sytuacji w pierwszych tygodniach życia.
+
+@1670
+M: Czynności wyjaśniające zgłoszenia :: Sprawdzasz zgłoszenia o podejrzeniu okrucieństwa lub zaniedbania zwierząt na miejscu. | Ocena warunków życia zwierzęcia :: Oceniasz, czy zwierzę ma odpowiednie jedzenie, przestrzeń i opiekę. | Dokumentowanie dowodów i ustaleń :: Spisujesz notatki i zbierasz dowody potrzebne do dalszego postępowania. | Doradzanie właścicielom zwierząt :: Tłumaczysz właścicielowi, co musi poprawić, żeby zapewnić zwierzęciu dobrostan.
+W: Współpraca z innymi instytucjami :: Kontaktujesz się z agencjami zewnętrznymi zajmującymi się dobrostanem zwierząt. | Bezpieczne odbieranie zwierząt :: Zabierasz zwierzę z miejsca zagrożenia, kiedy jego życie lub zdrowie jest w niebezpieczeństwie. | Przepisy o dobrostanie zwierząt :: Znasz krajowe przepisy, które określają minimalne standardy opieki nad zwierzętami.
+
+@1671
+M: Grafik pracowników schroniska :: Planujesz zadania i godziny pracy personelu opiekującego się psami. | Nadzór nad opieką psów :: Sprawdzasz, czy psy w schronisku mają odpowiednią opiekę i warunki. | Kontakt z właścicielami psów :: Rozmawiasz z ludźmi przekazującymi lub adoptującymi psy ze schroniska. | Zarządzanie zapasami schroniska :: Pilnujesz, żeby schronisko miało wystarczająco karmy i materiałów do opieki.
+W: Dokumentacja zwierząt w schronisku :: Zapisujesz informacje o każdym psie, jego historii i stanie zdrowia. | Współpraca z weterynarzem :: Organizujesz wizyty weterynaryjne i realizujesz jego zalecenia dla podopiecznych psów. | Zarządzanie budżetem schroniska :: Rozdzielasz dostępne środki na karmę, opiekę i utrzymanie schroniska.
+
+@1672
+M: Wyprowadzanie psów na spacery :: Regularnie wyprowadzasz psy, dbając o ich bezpieczeństwo na trasie spaceru. | Karmienie zwierząt u właściciela :: Podajesz jedzenie zwierzętom zgodnie z zasadami ustalonymi przez właściciela. | Dokumentowanie zachowania zwierzęcia :: Zapisujesz, jak zwierzę jadło i zachowywało się podczas twojej wizyty. | Bezpieczny transport zwierząt :: Przewozisz zwierzęta, kiedy jest to potrzebne, zgodnie z zasadami bezpieczeństwa.
+W: Rozpoznawanie stresu u zwierzęcia :: Zauważasz, kiedy zwierzę jest niespokojne pod twoją opieką, i reagujesz na to. | Pierwsza pomoc dla zwierząt :: Umiesz zareagować w razie drobnego urazu lub nagłego problemu zdrowotnego zwierzęcia. | Komunikacja z właścicielem :: Informujesz właściciela o tym, jak przebiegła opieka nad jego zwierzęciem.
+
+@1673
+M: Przydzielanie zadań opiekunom :: Rozdzielasz codzienne zadania opiekunów w swojej sekcji zoo. | Codzienna opieka nad zwierzętami :: Uczestniczysz razem z zespołem w karmieniu i opiece nad zwierzętami. | Planowanie chowu gatunków :: Planujesz, jak sekcja będzie rozwijać populację danych gatunków w zoo. | Zarządzanie zespołem opiekunów :: Nadzorujesz pracę dozorców i rozwiązujesz bieżące problemy w zespole.
+W: Rozmowy z dyrekcją zoo :: Zgłaszasz dyrekcji potrzeby sprzętowe i personalne swojej sekcji w zoo. | Planowanie budżetu sekcji :: Rozdzielasz dostępne środki na karmę, sprzęt i potrzeby zwierząt w sekcji. | Pozyskiwanie nowych gatunków :: Organizujesz sprowadzenie nowych zwierząt lub elementów wystawy do swojej sekcji.
+
+@1674
+M: Liczenie zwierzyny na terenie :: Obchodzisz powierzony obszar i szacujesz liczebność zwierząt łownych. | Dokarmianie zwierząt zimą :: Rozkładasz karmę w paśnikach, żeby zwierzęta przetrwały trudny okres zimowy. | Obserwacja stanu siedlisk :: Sprawdzasz tropy i stan terenu, żeby ocenić warunki życia zwierzyny. | Planowanie gospodarki łowieckiej :: Ustalasz z myśliwymi zasady i limity odstrzału na danym terenie.
+W: Naprawa urządzeń łowieckich :: Naprawiasz paśniki, ambony i inne urządzenia używane w gospodarce łowieckiej. | Przepisy prawa łowieckiego :: Znasz krajowe przepisy regulujące polowanie i ochronę zwierzyny. | Współpraca z leśnikami :: Uzgadniasz działania z leśnikami, żeby chronić siedliska zwierząt łownych.
+
+@1675
+M: Ocena zdrowia drzewa :: Sprawdzasz drzewo z ziemi i z korony, żeby ocenić jego stan i ryzyko. | Wspinanie się na drzewo :: Wchodzisz na drzewo przy użyciu lin i sprzętu zabezpieczającego przed upadkiem. | Przycinanie gałęzi sprzętem :: Obsługujesz piłę i inne narzędzia, żeby bezpiecznie przycinać gałęzie drzewa. | Wycinka i rozdrabnianie drzewa :: Ścinasz drzewo i rozdrabniasz je na mniejsze, łatwe do wywiezienia fragmenty.
+W: Obsługa sprzętu wysokościowego :: Posługujesz się podnośnikiem lub innym sprzętem, który pozwala pracować na wysokości. | Rozpoznawanie chorób drzew :: Zauważasz objawy choroby lub obecność szkodników na drzewie. | Planowanie pielęgnacji drzew :: Ustalasz, które drzewa wymagają przycięcia lub wycięcia na danym obszarze.
+
+@1676
+M: Planowanie cyklu produkcji :: Ustalasz, co i kiedy zostanie zasiane, żeby zapewnić ciągłość produkcji roślin. | Zarządzanie zespołem pracowników :: Przydzielasz zadania pracownikom i nadzorujesz ich wykonanie na co dzień. | Kontrola stanu roślin :: Sprawdzasz rośliny w szklarniach i na polu, żeby wcześnie wykryć problemy. | Zamówienia i koszty produkcji :: Pilnujesz zamówień materiałów i kosztów produkcji w przedsiębiorstwie ogrodniczym.
+W: Podstawy agrotechniki ogrodniczej :: Rozumiesz zasady uprawy, nawożenia i ochrony roślin stosowane w ogrodnictwie. | Planowanie logistyki dostaw :: Organizujesz dostawy materiałów i odbiór wyprodukowanych roślin z gospodarstwa. | Analiza wyników produkcji :: Sprawdzasz, które uprawy przynoszą najlepsze efekty, i planujesz zmiany.
+
+@1677
+M: Układanie dziennego planu prac :: Rozpisujesz codzienne zadania dla brygady pracującej przy produkcji ogrodniczej. | Instruowanie nowych pracowników :: Pokazujesz nowym osobom, jak prawidłowo wykonać zadanie przy roślinach. | Udział w pracach produkcyjnych :: Pracujesz razem z zespołem przy sadzeniu, pielęgnacji i zbiorze roślin. | Zgłaszanie problemów kierownikowi :: Informujesz kierownika o brakach materiałowych i problemach w pracy zespołu.
+W: Podstawy agrotechniki ogrodniczej :: Znasz zasady uprawy i pielęgnacji roślin stosowane w ogrodnictwie. | Organizacja pracy zespołu :: Dzielisz zadania między członków brygady, żeby praca szła sprawnie. | Kontrola jakości wykonanych prac :: Sprawdzasz, czy zadania przy roślinach zostały wykonane prawidłowo.
+
+@1678
+M: Siew i przesadzanie rozsady :: Wysiewasz nasiona i przesadzasz młode rośliny do większych pojemników. | Podlewanie roślin w szklarni :: Regularnie podlewasz rośliny tak, żeby miały odpowiednią ilość wody. | Usuwanie chwastów i liści :: Oczyszczasz uprawy z chwastów i usuwasz uszkodzone lub zwiędłe liście. | Układanie doniczek z roślinami :: Przenosisz i rozmieszczasz doniczki z roślinami w szkółce lub szklarni.
+W: Rozpoznawanie chorób roślin :: Zauważasz typowe objawy choroby lub szkodników na roślinach ogrodniczych. | Obsługa narzędzi ogrodniczych :: Posługujesz się narzędziami ręcznymi potrzebnymi do codziennej pracy w gospodarstwie. | Zasady nawożenia roślin :: Stosujesz odpowiednie dawki nawozu zgodnie z instrukcjami dla danej uprawy.
+
+@1679
+M: Pomiar warunków świetlnych :: Mierzysz wnętrze i sprawdzasz, ile naturalnego światła dociera do pomieszczenia. | Dobór roślin do wnętrza :: Wybierasz rośliny, które przetrwają w danych warunkach światła i temperatury. | Projektowanie rozmieszczenia roślin :: Planujesz, gdzie w przestrzeni ustawić rośliny i donice, żeby wyglądały dobrze. | Pielęgnacja roślin u klienta :: Regularnie dbasz o rośliny u klienta, żeby zachowały dobry wygląd i zdrowie.
+W: Dobór donic i dekoracji :: Wybierasz donice i dodatki, które współgrają z wnętrzem klienta. | Wymiana uszkodzonych roślin :: Zastępujesz uszkodzone lub obumarłe rośliny nowymi, zdrowymi egzemplarzami. | Rozmowa o oczekiwaniach klienta :: Pytasz klienta o jego preferencje i styl, żeby zaprojektować odpowiednią przestrzeń.
