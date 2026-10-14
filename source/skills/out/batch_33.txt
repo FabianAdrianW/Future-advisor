@@ -1,0 +1,120 @@
+@1980
+M: Przygotowywanie roztworów :: Dokładnie odmierzasz i mieszasz substancje chemiczne do testów na próbkach biologicznych. | Obsługa spektrofotometru :: Mierzysz tym urządzeniem, ile światła przepuszcza próbka, żeby poznać jej skład chemiczny. | Pipetowanie :: Precyzyjnie przenosisz małe ilości cieczy między probówkami za pomocą specjalnej pipety laboratoryjnej. | Prowadzenie dokumentacji laboratoryjnej :: Zapisujesz warunki i wyniki każdego eksperymentu w sposób możliwy do późniejszego sprawdzenia.
+W: Chromatografia :: Rozdzielasz składniki mieszaniny chemicznej, żeby sprawdzić, co dokładnie zawiera badana próbka. | Elektroforeza :: Rozdzielasz białka albo kwasy nukleinowe w żelu pod wpływem pola elektrycznego. | Statystyka w badaniach :: Sprawdzasz, czy różnice między wynikami eksperymentów są przypadkowe, czy rzeczywiście istotne.
+
+@1981
+M: Mikroskopia :: Oglądasz próbki pod mikroskopem i rozpoznajesz struktury komórek oraz tkanek organizmów żywych. | Przygotowywanie preparatów :: Wycinasz i barwisz próbki biologiczne, żeby można było je obserwować pod mikroskopem. | Analiza próbek biologicznych :: Badasz płyny ustrojowe, rośliny lub żywność według ustalonej procedury laboratoryjnej. | Prowadzenie dokumentacji badań :: Zapisujesz metodę i wynik każdego badania tak, żeby ktoś inny mógł je powtórzyć.
+W: Barwienie histologiczne :: Nakładasz specjalne barwniki na tkanki, żeby pod mikroskopem lepiej widzieć ich budowę. | Hodowla komórek :: Utrzymujesz żywe komórki w odpowiednich warunkach laboratoryjnych do dalszych badań. | Obsługa cytometru przepływowego :: Liczysz i sortujesz komórki według ich właściwości za pomocą tego urządzenia.
+
+@1982
+M: Identyfikacja roślin :: Rozpoznajesz gatunki roślin na podstawie ich budowy, liści i kwiatów. | Pomiary wzrostu roślin :: Mierzysz regularnie wysokość i rozwój roślin w ramach prowadzonego doświadczenia. | Prowadzenie hodowli roślin :: Dbasz o warunki uprawy roślin w szklarni albo na szalkach w laboratorium. | Dokumentacja obserwacji botanicznych :: Opisujesz zmiany w wyglądzie i zachowaniu rośliny w regularnych odstępach czasu.
+W: Analiza gleby :: Sprawdzasz skład i właściwości gleby, w której rosną badane przez ciebie rośliny. | Mikropropagacja :: Rozmnażasz rośliny z małych fragmentów tkanki w sterylnych warunkach laboratoryjnych. | Taksonomia roślin :: Klasyfikujesz rośliny według ich pokrewieństwa i charakterystycznych cech budowy.
+
+@1983
+M: Obserwacja zachowań zwierząt :: Notujesz, co zwierzę robi w danym momencie, żeby opisać jego typowe zachowanie. | Zbieranie próbek terenowych :: Pobierasz tropy, sierść albo odchody zwierząt podczas pracy w terenie. | Badania laboratoryjne na zwierzętach :: Wykonujesz testy na próbkach pobranych od zwierząt zgodnie z procedurą. | Dokumentacja badań zoologicznych :: Zapisujesz dane z obserwacji i badań w sposób gotowy do dalszej analizy.
+W: Telemetria zwierząt :: Śledzisz ruchy zwierzęcia za pomocą nadajnika przypiętego do jego ciała. | Obsługa pułapek fotograficznych :: Ustawiasz kamery w terenie, żeby nagrać zwierzęta bez ich płoszenia. | Analiza populacji :: Liczysz i szacujesz liczebność zwierząt żyjących na danym obszarze.
+
+@1984
+M: Ocena stanu krzewów :: Sprawdzasz zdrowie i rozwój krzewów winorośli podczas wizyty w winnicy. | Rozpoznawanie chorób winorośli :: Identyfikujesz typowe choroby i szkodniki atakujące krzewy winorośli w winnicy. | Planowanie zbioru winogron :: Określasz, kiedy grona są gotowe do zbioru na podstawie ich stanu. | Dobór technik cięcia krzewów :: Wybierasz sposób przycinania krzewów, który poprawia jakość i ilość gron.
+W: Podstawy enologii :: Rozumiesz, jak przebiega produkcja wina od winogron aż do butelki. | Analiza gleby winnicy :: Sprawdzasz, czy gleba pod winnicą dostarcza roślinom tego, czego potrzebują. | Nawadnianie winnicy :: Planujesz, kiedy i ile wody podać krzewom w zależności od pogody.
+
+@1985
+M: Kontrola warunków hodowli :: Sprawdzasz jakość wody i stan zwierząt w stawach albo zbiornikach hodowlanych. | Rozpoznawanie chorób ryb :: Identyfikujesz objawy choroby u ryb hodowanych w zakładzie akwakultury. | Planowanie ochrony przed szkodnikami :: Przygotowujesz działania, które chronią hodowlę przed drapieżnikami i chorobami. | Nadzór nad usuwaniem odpadów :: Dopilnowujesz, żeby odpady biologiczne i chemiczne z hodowli były usuwane bezpiecznie.
+W: Przepisy BHP w hodowli :: Znasz zasady bezpiecznej pracy obowiązujące na terenie zakładu akwakultury. | Konserwacja urządzeń hodowlanych :: Sprawdzasz stan maszyn i urządzeń używanych codziennie w produkcji akwakultury. | Zarządzanie jakością wody :: Monitorujesz parametry wody, takie jak temperatura i poziom natlenienia.
+
+@1986
+M: Pobieranie próbek ryb :: Pobierasz próbki żywych organizmów wodnych do badania jakości produkcji. | Stosowanie zasad HACCP :: Sprawdzasz krytyczne punkty procesu produkcji według systemu analizy zagrożeń żywności. | Kontrola zgodności z normami :: Porównujesz warunki produkcji z obowiązującymi przepisami bezpieczeństwa żywności wodnej. | Dokumentowanie wyników kontroli :: Zapisujesz każdą przeprowadzoną kontrolę w sposób, który można później sprawdzić.
+W: Opracowywanie procedur jakości :: Ustalasz zasady kontroli jakości, które obowiązują w całym zakładzie produkcyjnym. | Mikrobiologia żywności wodnej :: Rozpoznajesz zagrożenia mikrobiologiczne związane z produktami pochodzącymi z akwakultury. | Audyt wewnętrzny zakładu :: Sprawdzasz, czy zakład przestrzega własnych procedur dotyczących jakości.
+
+@1987
+M: Przygotowywanie sprzętu laboratoryjnego :: Ustawiasz i kalibrujesz urządzenia używane w doświadczeniach biotechnologicznych w laboratorium. | Hodowla komórek i mikroorganizmów :: Utrzymujesz kultury komórek w sterylnych warunkach potrzebnych do dalszych badań. | Wykonywanie testów według protokołu :: Realizujesz zaplanowane doświadczenie krok po kroku zgodnie z instrukcją badawczą. | Gromadzenie danych naukowych :: Zbierasz i porządkujesz wyniki doświadczeń tak, żeby można je analizować.
+W: Technika PCR :: Powielasz fragmenty DNA, żeby wykryć lub zbadać konkretny materiał genetyczny. | Sterylizacja materiałów :: Oczyszczasz sprzęt i podłoża z drobnoustrojów przed rozpoczęciem każdego doświadczenia. | Praca w komorze laminarnej :: Prowadzisz czynności wymagające sterylności pod specjalną komorą z przepływem powietrza.
+
+@1988
+M: Pobieranie próbek polowych :: Zbierasz próbki z pola, żeby zbadać ich skład i stan. | Prowadzenie doświadczeń polowych :: Zakładasz i obserwujesz poletka testowe z różnymi odmianami lub metodami uprawy. | Ocena warunków środowiska uprawy :: Sprawdzasz pogodę, wilgotność i stan gleby wpływające na wynik uprawy. | Sporządzanie sprawozdań z badań :: Opisujesz wyniki doświadczeń rolniczych w formie zrozumiałego dla innych raportu.
+W: Analiza żyzności gleby :: Sprawdzasz, ile składników odżywczych zawiera gleba na danym polu. | Polowy sprzęt pomiarowy :: Używasz urządzeń mierzących wilgotność, temperaturę i inne parametry uprawy. | Podstawy akwakultury :: Rozumiesz zasady prowadzenia hodowli organizmów wodnych obok uprawy roślin.
+
+@1989
+M: Kontrola oznakowania substancji :: Sprawdzasz, czy niebezpieczne materiały są poprawnie oznaczone i bezpiecznie przechowywane. | Badanie naruszeń przepisów :: Ustalasz, czy i jak zakład złamał przepisy dotyczące materiałów niebezpiecznych. | Ocena planów awaryjnych :: Sprawdzasz, czy zakład ma gotowy plan działania na wypadek awarii. | Sporządzanie raportów z inspekcji :: Opisujesz wyniki kontroli w dokumencie, na którym oparte są dalsze decyzje.
+W: Klasyfikacja materiałów niebezpiecznych :: Rozpoznajesz różne kategorie substancji niebezpiecznych i zasady ich oznaczania. | Konsultowanie procedur bezpieczeństwa :: Doradzasz zakładowi, jak poprawić swoje procedury postępowania z materiałami niebezpiecznymi. | Prawo ochrony środowiska :: Znasz przepisy regulujące pracę z materiałami niebezpiecznymi obowiązujące w Polsce.
+
+@1990
+M: Kontrola przepisów odpadowych :: Sprawdzasz, czy zakład przemysłowy przestrzega przepisów o unieszkodliwianiu odpadów. | Kontrola sprawności urządzeń :: Sprawdzasz, czy urządzenia do unieszkodliwiania odpadów działają prawidłowo i bezpiecznie. | Prowadzenie szkoleń edukacyjnych :: Tłumaczysz mieszkańcom albo pracownikom, jak bezpiecznie postępować z odpadami niebezpiecznymi. | Przygotowywanie materiałów edukacyjnych :: Tworzysz broszury albo prezentacje o substancjach i odpadach niebezpiecznych dla mieszkańców.
+W: Klasyfikacja odpadów niebezpiecznych :: Rozpoznajesz, które odpady wymagają specjalnego sposobu unieszkodliwiania i transportu. | Komunikacja ryzyka ze społecznością :: Wyjaśniasz mieszkańcom zagrożenia związane z odpadami w zrozumiały dla nich sposób. | Dokumentacja kontroli zakładów :: Zapisujesz wyniki inspekcji w formie, która pozwala śledzić zgodność z przepisami.
+
+@1991
+M: Kontrola dokumentacji odpadowej :: Sprawdzasz, czy firma prowadzi wymaganą dokumentację dotyczącą gospodarowania odpadami. | Pobieranie próbek do analizy :: Zbierasz próbki odpadów albo gleby, żeby sprawdzić ich skład w laboratorium. | Monitorowanie praktyk przemysłowych :: Obserwujesz, jak firma faktycznie postępuje z odpadami na terenie zakładu. | Doradzanie działań naprawczych :: Proponujesz konkretne zmiany, które poprawiają gospodarowanie odpadami w firmie.
+W: Przepisy o ochronie środowiska :: Znasz polskie i unijne przepisy dotyczące postępowania z odpadami przemysłowymi. | Ocena składowisk odpadów :: Sprawdzasz, czy miejsce magazynowania odpadów spełnia wymagane normy bezpieczeństwa. | Raportowanie wyników kontroli :: Przygotowujesz dokument z ustaleniami kontroli dla odpowiednich instytucji państwowych.
+
+@1992
+M: Przeprowadzanie audytów BHP :: Sprawdzasz stanowiska pracy pod kątem zgodności z przepisami bezpieczeństwa i higieny. | Badanie przyczyn wypadków :: Ustalasz, co doprowadziło do wypadku przy pracy i jak go uniknąć. | Przeprowadzanie wywiadów z pracownikami :: Rozmawiasz z pracownikami, żeby sprawdzić, czy przestrzegają zasad bezpieczeństwa pracy. | Analiza dokumentacji BHP :: Sprawdzasz, czy firma prowadzi wymagane szkolenia i dokumenty bezpieczeństwa pracy.
+W: Prawo pracy i BHP :: Znasz przepisy regulujące bezpieczeństwo i higienę pracy obowiązujące w Polsce. | Ocena ryzyka zawodowego :: Szacujesz, jak duże jest ryzyko wypadku na danym stanowisku pracy. | Kontrola środków ochrony osobistej :: Sprawdzasz, czy pracownicy mają i faktycznie używają odpowiedniego sprzętu ochronnego.
+
+@1993
+M: Kontrola stanu sanitarnego placówek :: Sprawdzasz czystość sal, sprzętu i procesu sterylizacji w placówce medycznej. | Ocena higieny personelu :: Sprawdzasz, czy personel stosuje zasady higieny podczas pracy z pacjentami. | Ocena planów zapobiegania zakażeniom :: Sprawdzasz, czy placówka ma skuteczny i aktualny plan ograniczania zakażeń. | Dokumentowanie uchybień i terminów :: Zapisujesz znalezione nieprawidłowości wraz z terminem ich obowiązkowego usunięcia.
+W: Przepisy sanitarno-epidemiologiczne :: Znasz przepisy dotyczące bezpieczeństwa sanitarnego placówek medycznych obowiązujące w Polsce. | Podstawy mikrobiologii :: Rozumiesz, jak rozprzestrzeniają się zakażenia i jak skutecznie je ograniczać. | Kontrola sterylizacji sprzętu medycznego :: Sprawdzasz, czy sprzęt medyczny jest poprawnie wysterylizowany przed jego użyciem.
+
+@1994
+M: Przeprowadzanie audytów żywnościowych :: Sprawdzasz, czy zakład przetwórczy przestrzega przepisów dotyczących produkcji żywności. | Weryfikacja etykiet produktów :: Sprawdzasz, czy etykiety żywności są zgodne z obowiązującymi przepisami prawa. | Opracowywanie tabel wartości odżywczych :: Liczysz i zapisujesz wartość odżywczą produktu na podstawie jego składu. | Śledzenie pochodzenia składników :: Sprawdzasz, skąd pochodzą surowce użyte w produkcji danej żywności.
+W: Prawo żywnościowe :: Znasz przepisy regulujące bezpieczeństwo i znakowanie żywności w Polsce i Unii Europejskiej. | Analiza jakości żywności :: Oceniasz, czy produkt spożywczy spełnia wymagane normy jakości i bezpieczeństwa. | Certyfikacja bezpieczeństwa żywności :: Sprawdzasz, czy zakład spełnia wymagania systemu takiego jak HACCP.
+
+@1995
+M: Ocena systemów bezpieczeństwa transportu :: Sprawdzasz, czy firma transportowa ma skuteczne zasady bezpieczeństwa w pracy. | Identyfikacja zagrożeń na trasach :: Szukasz sytuacji, które mogą zagrażać kierowcom i ładunkom w transporcie. | Procedury ograniczania ryzyka :: Tworzysz zasady, które zmniejszają ryzyko wypadków podczas codziennego transportu. | Szkolenie kierowców z bezpieczeństwa :: Uczysz kierowców i obsługę, jak bezpiecznie wykonywać swoją codzienną pracę.
+W: Przepisy transportowe :: Znasz normy bezpieczeństwa obowiązujące w transporcie drogowym i morskim. | Audyt flotowy :: Sprawdzasz stan techniczny i bezpieczeństwo pojazdów należących do firmy transportowej. | Analiza wypadków transportowych :: Ustalasz przyczyny wypadków, żeby zapobiec podobnym sytuacjom w przyszłości.
+
+@1996
+M: Rozpatrywanie skarg środowiskowych :: Sprawdzasz zgłoszenia mieszkańców dotyczące zagrożeń dla zdrowia i środowiska. | Przeprowadzanie wizji w terenie :: Oglądasz miejsce lub obiekt, żeby ocenić jego zgodność z przepisami. | Sporządzanie sprawozdań z ustaleń :: Opisujesz wyniki kontroli w dokumencie przekazywanym dalej do podjęcia decyzji. | Doradztwo zdrowia publicznego :: Doradzasz instytucjom, jak ograniczyć zagrożenia dla zdrowia okolicznych mieszkańców.
+W: Prawo ochrony zdrowia publicznego :: Znasz przepisy dotyczące ochrony środowiska i zdrowia publicznego w Polsce. | Ocena ryzyka środowiskowego :: Szacujesz, jak duże zagrożenie dla ludzi stwarza dana sytuacja. | Mediacja z przedsiębiorcami :: Rozmawiasz z właścicielami firm o sposobach usunięcia znalezionych nieprawidłowości.
+
+@1997
+M: Kontrola przetwórstwa spożywczego :: Sprawdzasz warunki produkcji żywności panujące w zakładzie przetwórczym. | Pomiar temperatury produkcji :: Sprawdzasz, czy temperatura i czystość na linii są zgodne z normami. | Przegląd dokumentacji surowców :: Sprawdzasz dokumenty potwierdzające pochodzenie i jakość surowców spożywczych. | Wydawanie zaleceń pokontrolnych :: Opisujesz, co zakład musi poprawić, i sprawdzasz wykonanie wydanych zaleceń.
+W: System HACCP :: Rozumiesz, jak wykrywać i kontrolować krytyczne punkty w produkcji żywności. | Mikrobiologia żywności :: Rozpoznajesz zagrożenia mikrobiologiczne, które mogą wystąpić w produkcji spożywczej. | Prawo żywnościowe UE :: Znasz unijne przepisy dotyczące bezpieczeństwa żywności, które obowiązują zakłady.
+
+@1998
+M: Pomiar wpływu kopalni :: Mierzysz, jak wydobycie wpływa na wodę, powietrze i gleby wokół kopalni. | Projektowanie systemów ekologicznych :: Tworzysz rozwiązania, które zmniejszają wpływ działalności kopalni na otoczenie. | Nadzór nad rekultywacją terenów :: Dopilnowujesz, żeby teren po wydobyciu wrócił do stanu umożliwiającego dalsze użytkowanie. | Kontrola norm środowiskowych :: Sprawdzasz, czy kopalnia działa zgodnie z obowiązującymi przepisami ochrony środowiska.
+W: Modelowanie zanieczyszczeń :: Przewidujesz, jak zanieczyszczenia z kopalni rozprzestrzenią się w otoczeniu. | Prawo górnicze i środowiskowe :: Znasz przepisy regulujące wpływ wydobycia na środowisko obowiązujące w Polsce. | Gospodarka wodna kopalni :: Zarządzasz sposobem, w jaki kopalnia korzysta z wody i ją oddaje.
+
+@1999
+M: Projektowanie instalacji odpadowych :: Projektujesz obiekty i urządzenia używane do zbierania i przetwarzania odpadów. | Analiza składu odpadów :: Badasz, z czego dokładnie składają się odpady trafiające do dalszego przetworzenia. | Optymalizacja trasy zbiórki odpadów :: Planujesz trasy i harmonogram odbioru odpadów tak, żeby były najbardziej efektywne. | Weryfikacja norm środowiskowych :: Sprawdzasz, czy projektowana instalacja spełnia obowiązujące normy ochrony środowiska.
+W: Technologie recyklingu :: Znasz metody przetwarzania różnych rodzajów odpadów na surowce wtórne. | Modelowanie procesów przetwarzania :: Przewidujesz, jak zmiana w instalacji wpłynie na ilość i jakość przetworzonych odpadów. | Zarządzanie projektem infrastrukturalnym :: Planujesz etapy budowy i wdrożenia instalacji do przetwarzania odpadów.
+
+@2000
+M: Pomiar energii sprzętu IT :: Mierzysz, ile energii pochłaniają serwery i urządzenia sieciowe w organizacji. | Szacowanie emisji CO2 :: Liczysz, jaki wpływ na emisję CO2 ma sprzęt informatyczny firmy. | Przepisy o zielonym IT :: Znasz ramy prawne dotyczące ekologicznych rozwiązań w technologiach informacyjnych. | Proponowanie rozwiązań energooszczędnych :: Wskazujesz zmiany w infrastrukturze IT, które zmniejszają zużycie energii elektrycznej.
+W: Analiza konfiguracji sieci :: Rozumiesz, jak układ sieci wpływa na zużycie energii w organizacji. | Zarządzanie zasobami energetycznymi :: Planujesz rozmieszczenie zasobów energetycznych potrzebnych dla infrastruktury informatycznej. | Raportowanie środowiskowe IT :: Przygotowujesz dokumenty opisujące wpływ infrastruktury IT na środowisko naturalne.
+
+@2001
+M: Interpretacja przepisów o recyklingu :: Czytasz przepisy dotyczące recyklingu i sprawdzasz, jak wdrożyć je w organizacji. | Przeprowadzanie inspekcji recyklingowych :: Kontrolujesz, czy miejsca segregacji odpadów działają zgodnie z zasadami. | Nadzorowanie pracowników recyklingu :: Kierujesz pracą osób zajmujących się sortowaniem i przetwarzaniem odpadów. | Doradztwo w gospodarce odpadami :: Proponujesz organizacji zmiany, które usprawniają jej gospodarowanie odpadami.
+W: Dobór sprzętu do recyklingu :: Wybierasz pojemniki i urządzenia potrzebne do segregacji odpadów. | Audyt procesów recyklingowych :: Sprawdzasz, czy procesy recyklingu w organizacji są zgodne z przepisami. | Edukacja pracowników o segregacji :: Uczysz pracowników, jak poprawnie segregować odpady w firmie.
+
+@2002
+M: Wykrywanie problemów środowiskowych :: Rozpoznajesz sytuacje, które szkodzą środowisku w danym procesie produkcyjnym. | Opracowywanie procesów produkcyjnych :: Projektujesz nowe sposoby produkcji, które ograniczają wpływ na środowisko. | Ocena wpływu technologii :: Sprawdzasz, jak nowe rozwiązanie techniczne wpływa na otaczające środowisko. | Przygotowywanie sprawozdań naukowych :: Opisujesz wyniki swoich badań w formie formalnego raportu naukowego.
+W: Ocena cyklu życia produktu :: Analizujesz wpływ produktu na środowisko od powstania do utylizacji. | Projektowanie ekologicznych procesów :: Proponujesz zmiany w procesie produkcji, które zmniejszają zużycie zasobów. | Modelowanie skutków środowiskowych :: Przewidujesz, jak dana technologia wpłynie na środowisko w przyszłości.
+
+@2003
+M: Sortowanie materiałów na taśmie :: Rozpoznajesz i rozdzielasz różne rodzaje materiałów przesuwających się na taśmie. | Wyłączanie odpadów z linii :: Wyjmujesz z linii przedmioty, które nie można przetworzyć ponownie. | Rozbieranie pojazdów na części :: Demontujesz pojazdy i segregujesz ich części według rodzaju materiału. | Czyszczenie materiałów :: Oczyszczasz materiały przed przekazaniem ich do dalszego przetworzenia.
+W: Obsługa prasy belującej :: Używasz urządzenia, które zgniata posortowane materiały w zwarte bele. | Rozpoznawanie tworzyw sztucznych :: Odróżniasz różne typy plastiku na podstawie oznaczeń i wyglądu. | Narzędzia demontażowe :: Używasz narzędzi do rozbierania pojazdów w sposób bezpieczny.
+
+@2004
+M: Załadunek śmieciarki :: Umieszczasz odpady w pojeździe zgodnie z zasadami bezpieczeństwa pracy. | Wspomaganie manewrów śmieciarki :: Pomagasz kierowcy w cofaniu i ustawianiu pojazdu na trasie zbiórki. | Rozładunek odpadów :: Pomagasz wyładować odpady z pojazdu w miejscu ich przetwarzania. | Ewidencja zebranych odpadów :: Notujesz ilość i rodzaj odpadów zebranych podczas całej trasy.
+W: Obsługa odpadów niebezpiecznych :: Rozpoznajesz i bezpiecznie zbierasz odpady niebezpieczne z placów budowy. | Znajomość trasy zbiórki :: Znasz kolejność ulic i punktów odbioru na przypisanej trasie. | BHP w pracy fizycznej :: Stosujesz zasady bezpieczeństwa przy podnoszeniu i przenoszeniu ciężkich odpadów.
+
+@2005
+M: Rozpoznawanie rodzajów materiałów :: Odróżniasz różne surowce wtórne na podstawie ich wyglądu i oznaczeń. | Usuwanie zanieczyszczeń z surowców :: Wyciągasz z linii przedmioty, które nie nadają się do przerobu. | Czyszczenie sortowanych materiałów :: Oczyszczasz surowce wtórne przed ich dalszym przetworzeniem w zakładzie. | Stosowanie przepisów o odpadach :: Pracujesz zgodnie z zasadami dotyczącymi postępowania z odpadami w zakładzie.
+W: Obsługa linii sortowniczej :: Posługujesz się maszynami, które wspomagają sortowanie odpadów na linii. | Rozpoznawanie kodów tworzyw sztucznych :: Odczytujesz oznaczenia na plastiku, żeby poprawnie go posortować. | BHP w sortowni :: Stosujesz zasady bezpieczeństwa charakterystyczne dla pracy przy linii sortowniczej.
+
+@2006
+M: Obsługa zamiatarki ulicznej :: Prowadzisz maszynę, która usuwa śmieci i piach z jezdni miejskiej. | Planowanie trasy zamiatania :: Wybierasz kolejność ulic tak, żeby pokryć wyznaczony obszar w wyznaczonym czasie. | Drobne naprawy maszyn :: Czyścisz zamiatarkę i usuwasz proste usterki, żeby działała bez przestojów. | Ewidencja wykonanych prac :: Zapisujesz, które ulice zostały już zamiecione w danym dniu pracy.
+W: Prawo jazdy kategorii C :: Masz uprawnienia potrzebne do prowadzenia dużych pojazdów komunalnych. | Zimowe utrzymanie dróg :: Potrafisz obsługiwać maszyny do odśnieżania i posypywania ulic solą. | Ocena stanu nawierzchni :: Zauważasz i zgłaszasz uszkodzenia chodników i jezdni podczas codziennej pracy.
+
+@2007
+M: Udzielanie informacji o antykoncepcji :: Tłumaczysz, jak działają różne metody antykoncepcyjne i jak je stosować. | Rozmowa o zdrowiu reprodukcyjnym :: Prowadzisz rozmowę o ciąży i rozrodczości w sposób rzeczowy i wrażliwy. | Profilaktyka chorób wenerycznych :: Wyjaśniasz, jak rozpoznawać i zapobiegać chorobom przenoszonym drogą płciową. | Kierowanie do specjalistów medycznych :: Przekazujesz osobę pod opiekę lekarza, kiedy sytuacja tego faktycznie wymaga.
+W: Znajomość przepisów dotyczących ciąży :: Znasz polskie przepisy regulujące kwestie związane z ciążą i jej przerwaniem. | Prowadzenie rozmów z młodzieżą :: Dopasowujesz sposób rozmowy o zdrowiu reprodukcyjnym do wieku swojego rozmówcy. | Dokumentacja poradnictwa :: Prowadzisz zapisy z udzielonych porad zgodnie z zasadami poufności danych.
+
+@2008
+M: Prowadzenie rozmowy w żałobie :: Rozmawiasz z osobą, która straciła bliskiego, w sposób wspierający i uważny. | Towarzyszenie w hospicjum :: Wspierasz pacjenta i rodzinę obecnością w ostatnim etapie choroby w hospicjum. | Wsparcie w organizacji pogrzebu :: Pomagasz rodzinie w sprawach związanych z pochówkiem osoby bliskiej. | Prowadzenie szkoleń o żałobie :: Uczysz innych specjalistów, jak rozpoznawać i wspierać osoby przechodzące żałobę.
+W: Rozpoznawanie etapów żałoby :: Rozumiesz typowe fazy, przez które przechodzi osoba po stracie bliskiego. | Żałoba u dzieci :: Dopasowujesz sposób wsparcia do wieku i rozwoju dziecka po stracie. | Prowadzenie grup wsparcia :: Organizujesz spotkania osób, które razem przechodzą przez trudną żałobę.
+
+@2009
+M: Prowadzenie terapii par :: Prowadzisz sesje, w których para razem pracuje nad swoją relacją. | Nauka komunikacji w relacji :: Uczysz partnerów, jak rozmawiać ze sobą bez eskalowania bieżącego konfliktu. | Prowadzenie terapii indywidualnej :: Pracujesz z jedną osobą nad jej trudnościami w relacji z partnerem. | Rozpoznawanie źródła konfliktu :: Pomagasz parze nazwać właściwą przyczynę powtarzającego się między nimi konfliktu.
+W: Uzależnienie w rodzinie :: Rozumiesz, jak uzależnienie jednego partnera wpływa na całą relację. | Prowadzenie terapii grupowej :: Prowadzisz sesje terapeutyczne przeznaczone dla kilku par jednocześnie. | Rozpoznawanie przemocy w relacji :: Zauważasz sygnały przemocy domowej podczas rozmowy z daną parą.
+

@@ -1,0 +1,119 @@
+@1950
+M: Identyfikacja gatunków roślin :: Rozpoznajesz rośliny na podstawie ich budowy i cech charakterystycznych. | Metody badań botanicznych :: Prowadzisz obserwacje i eksperymenty dotyczące wzrostu i rozmnażania roślin. | Pielęgnacja roślin w szklarni :: Zapewniasz odpowiednie warunki wzrostu rzadkim i egzotycznym gatunkom. | Dokumentacja gatunków roślin :: Katalogujesz rośliny w bazie danych ogrodu botanicznego.
+W: Prowadzenie wyjazdów terenowych :: Organizujesz i prowadzisz badania roślin w ich naturalnym środowisku. | Planowanie ogrodu botanicznego :: Projektujesz rozmieszczenie roślin tak, żeby służyło nauce i edukacji. | Edukacja przyrodnicza :: Prowadzisz zajęcia i wykłady o roślinach dla odwiedzających ogród.
+
+@1951
+M: Analiza danych o zachorowaniach :: Zbierasz i przetwarzasz dane, żeby ustalić skalę i przebieg epidemii. | Ustalanie źródła zakażenia :: Śledzisz drogi rozprzestrzeniania się choroby wśród ludzi. | Metody statystyczne w epidemiologii :: Porównujesz grupy chorych i zdrowych, żeby znaleźć czynniki ryzyka. | Projektowanie badań populacyjnych :: Planujesz badania obejmujące dużą liczbę osób, żeby wykryć zależności.
+W: Współpraca z instytucjami zdrowia :: Przekazujesz wnioski z badań organom odpowiedzialnym za politykę zdrowotną. | Modelowanie epidemii :: Prognozujesz rozwój epidemii na podstawie danych i modeli matematycznych. | Komunikacja ryzyka zdrowotnego :: Wyjaśniasz społeczeństwu zagrożenia i sposoby zapobiegania chorobom.
+
+@1952
+M: Pomiary fizjologiczne :: Mierzysz tętno, oddech i ciśnienie, żeby ocenić pracę organizmu. | Projektowanie doświadczeń z ludźmi :: Planujesz badania sprawdzające reakcję organizmu na wysiłek lub stres. | Analiza danych fizjologicznych :: Porównujesz wyniki badanych osób, żeby wyciągnąć wnioski naukowe. | Anatomia i fizjologia narządów :: Opisujesz, jak działają poszczególne układy organizmu.
+W: Fizjologia wysiłku sportowego :: Badasz, jak organizm reaguje na trening i aktywność fizyczną. | Metody rehabilitacyjne :: Proponujesz rozwiązania wspierające powrót organizmu do zdrowia po chorobie. | Obsługa aparatury pomiarowej :: Korzystasz ze specjalistycznego sprzętu do badania funkcji organizmu.
+
+@1953
+M: Katalogowanie zbiorów botanicznych :: Prowadzisz bazę danych opisującą rośliny znajdujące się w kolekcji. | Planowanie rozbudowy kolekcji :: Wybierasz nowe gatunki, które warto dodać do zbioru ogrodu. | Pielęgnacja roślin kolekcyjnych :: Zapewniasz odpowiednie warunki wzrostu rzadkim i wartościowym okazom. | Projektowanie układu rabat :: Planujesz rozmieszczenie roślin tak, żeby kolekcja była czytelna dla odwiedzających.
+W: Wymiana roślin z ogrodami :: Negocjujesz i organizujesz wymianę okazów z innymi instytucjami. | Ochrona gatunków zagrożonych :: Dbasz o rośliny wymagające szczególnej opieki ze względu na rzadkość. | Edukacja odwiedzających :: Opisujesz historię i znaczenie poszczególnych roślin w kolekcji.
+
+@1954
+M: Monitorowanie jakości wody :: Mierzysz parametry wody, żeby zapewnić dobre warunki zwierzętom wodnym. | Rozpoznawanie chorób ryb :: Zauważasz objawy choroby u zwierząt wodnych i ustalasz jej przyczynę. | Planowanie produkcji akwakultury :: Dobierasz warunki hodowli, żeby zwiększyć efektywność produkcji. | Ochrona środowiska wodnego :: Dbasz o to, żeby hodowla nie szkodziła otaczającemu ekosystemowi.
+W: Doradztwo dla hodowców :: Proponujesz zmiany w hodowli, żeby poprawić zdrowie zwierząt i wyniki. | Obsługa czujników wody :: Korzystasz z czujników i aparatury do stałego monitorowania zbiorników. | Profilaktyka zdrowotna zwierząt wodnych :: Wprowadzasz działania zapobiegające chorobom w hodowli.
+
+@1955
+M: Dobór surowców roślinnych :: Wybierasz zioła i rośliny odpowiednie do receptury napoju alkoholowego. | Obsługa maszyn mielących :: Mielisz surowce tak, żeby zachować jak najwięcej smaku i aromatu. | Ocena sensoryczna surowców :: Oceniasz zapach i smak roślin używanych w produkcji. | Procesy technologiczne produkcji :: Łączysz wiedzę chemiczną i biologiczną przy tworzeniu receptury napoju.
+W: Dokumentacja prób receptur :: Zapisujesz wyniki testów receptur, żeby powtarzać najlepsze efekty. | Przepisy dotyczące alkoholu :: Pilnujesz, żeby produkcja spełniała wymagania prawne branży. | Rozwój nowych receptur :: Proponujesz nowe połączenia ziół, które wzbogacają smak produktu.
+
+@1956
+M: Badanie wpływu substancji :: Oceniasz, jak związki chemiczne szkodzą zwierzętom i ludziom. | Ustalanie dawek toksycznych :: Określasz, od jakiej ilości substancja staje się szkodliwa dla organizmu. | Praca z hodowlami komórkowymi :: Prowadzisz eksperymenty na komórkach, żeby ocenić toksyczność substancji. | Ocena ryzyka środowiskowego :: Analizujesz wpływ chemikaliów na środowisko naturalne.
+W: Badania na zwierzętach :: Projektujesz i nadzorujesz eksperymenty zgodnie z zasadami etyki badań. | Opinie toksykologiczne :: Przygotowujesz dokumenty oceniające bezpieczeństwo substancji dla instytucji. | Znajomość przepisów chemicznych :: Sprawdzasz zgodność badanych substancji z regulacjami prawnymi.
+
+@1957
+M: Badanie trwałości żywności :: Sprawdzasz, jak długo produkt zachowuje jakość i bezpieczeństwo. | Wykrywanie patogenów żywności :: Identyfikujesz bakterie i inne czynniki wywołujące zatrucia pokarmowe. | Testowanie metod konserwacji :: Oceniasz skuteczność różnych sposobów przedłużania trwałości produktów. | Przepisy bezpieczeństwa żywności :: Sprawdzasz, czy produkty spożywcze spełniają wymogi prawa.
+W: Nowe metody konserwacji :: Proponujesz rozwiązania wydłużające trwałość żywności bez utraty jakości. | Analiza mikrobiologiczna produktów :: Badasz próbki żywności pod kątem obecności drobnoustrojów. | Współpraca z producentami żywności :: Doradzasz firmom w zakresie bezpieczeństwa i jakości produktów.
+
+@1958
+M: Badanie interakcji leków :: Sprawdzasz, jak leki wpływają na komórki, tkanki i narządy organizmu. | Poszukiwanie substancji leczniczych :: Testujesz związki chemiczne pod kątem ich działania terapeutycznego. | Ocena skutków ubocznych :: Analizujesz niepożądane działania substancji na organizm. | Porównywanie dawek i efektów :: Badasz zależność między ilością leku a jego działaniem.
+W: Badania kliniczne leków :: Planujesz testy nowych substancji na ludziach zgodnie z zasadami etyki. | Analiza danych farmakologicznych :: Przetwarzasz wyniki badań, żeby ocenić skuteczność leku. | Dokumentacja rejestracyjna leków :: Przygotowujesz dokumenty potrzebne do wprowadzenia leku na rynek.
+
+@1959
+M: Badanie reakcji odpornościowej :: Analizujesz, jak organizm reaguje na wirusy, bakterie i pasożyty. | Analiza próbek krwi :: Badasz skład krwi pacjenta, żeby ocenić stan jego odporności. | Badanie chorób autoimmunologicznych :: Sprawdzasz, jak układ odpornościowy błędnie atakuje własny organizm. | Metody laboratoryjne w immunologii :: Wykonujesz testy wykrywające przeciwciała i reakcje immunologiczne.
+W: Opracowywanie szczepionek :: Badasz substancje, które mogą pobudzić organizm do obrony przed chorobą. | Współpraca z lekarzami :: Przekazujesz wyniki badań, które pomagają w leczeniu pacjentów. | Pisanie publikacji naukowych :: Opisujesz odkrycia dotyczące układu odpornościowego w artykułach naukowych.
+
+@1960
+M: Analiza składu pasz :: Badasz wartość odżywczą pasz, żeby ocenić ich jakość dla zwierząt. | Układanie dawek pokarmowych :: Dobierasz ilość i rodzaj pokarmu odpowiedni do gatunku zwierzęcia. | Doradztwo żywieniowe dla rolników :: Proponujesz zmiany w diecie zwierząt, żeby poprawić ich zdrowie. | Normy żywienia zwierząt :: Sprawdzasz, czy dawki pokarmowe są zgodne z wymaganiami gatunku.
+W: Śledzenie badań o żywieniu :: Wykorzystujesz nowe odkrycia naukowe do poprawy jakości pasz. | Nowe receptury paszowe :: Projektujesz mieszanki pokarmowe lepiej dopasowane do potrzeb zwierząt. | Współpraca z producentami pasz :: Doradzasz producentom, jak poprawić skład swoich produktów.
+
+@1961
+M: Monitorowanie warunków środowiskowych :: Sprawdzasz czynniki, które mogą wpływać na zdrowie zwierząt wodnych. | Planowanie programów kontroli :: Opracowujesz działania zapobiegające zagrożeniom w hodowli wodnej. | Ocena ryzyka dla zwierząt :: Rozpoznajesz czynniki środowiskowe mogące szkodzić hodowli. | Zalecenia dla hodowców :: Przekazujesz wnioski z analiz w formie praktycznych wskazówek.
+W: Obsługa czujników środowiskowych :: Korzystasz z aparatury monitorującej parametry wody w czasie rzeczywistym. | Współpraca z ochroną środowiska :: Zgłaszasz wyniki analiz odpowiednim organom kontrolnym. | Analiza danych długoterminowych :: Śledzisz zmiany warunków środowiskowych w dłuższym okresie.
+
+@1962
+M: Ocena zasobów naturalnych :: Analizujesz jakość gleby, wody, fauny i flory na danym terenie. | Doradztwo środowiskowe dla firm :: Proponujesz przedsiębiorstwom rozwiązania ograniczające szkody środowiskowe. | Prawo ochrony środowiska :: Sprawdzasz, czy działalność firmy spełnia wymagania przepisów. | Zalecenia dla władz :: Opracowujesz dokumenty wspierające decyzje dotyczące zasobów naturalnych.
+W: Ocena wpływu inwestycji :: Analizujesz skutki planowanych projektów na środowisko naturalne. | Komunikacja ryzyka środowiskowego :: Wyjaśniasz skutki działalności przemysłowej dla zdrowia i przyrody. | Zrównoważone gospodarowanie zasobami :: Proponujesz rozwiązania godzące rozwój gospodarczy z ochroną przyrody.
+
+@1963
+M: Pobieranie próbek gleby :: Pozyskujesz próbki z pola w sposób zapewniający wiarygodne wyniki badań. | Analiza jakości gleby :: Oceniasz żyzność i strukturę gleby na podstawie badań laboratoryjnych. | Planowanie nawadniania :: Proponujesz sposoby dostarczania wody odpowiednie do rodzaju gleby i uprawy. | Ograniczanie erozji gleby :: Dobierasz techniki chroniące glebę przed wymywaniem i wietrzeniem.
+W: Rekultywacja terenów :: Proponujesz działania przywracające glebę zniszczoną przez rolnictwo lub przemysł. | Mapowanie typów gleb :: Tworzysz mapy przedstawiające rozmieszczenie różnych typów gleb na terenie. | Współpraca z rolnikami :: Doradzasz, jak wykorzystać teren zgodnie z jakością gleby.
+
+@1964
+M: Kontrola terenów chronionych :: Obchodzisz obszary naturalne, żeby sprawdzić, czy są przestrzegane zasady ochrony. | Rozpoznawanie naruszeń przepisów :: Zauważasz i zgłaszasz zniszczenia terenów chronionych. | Edukacja odwiedzających tereny :: Informujesz zwiedzających o zasadach obowiązujących na terenach chronionych. | Akcje edukacyjne :: Organizujesz wydarzenia podnoszące świadomość ekologiczną lokalnej społeczności.
+W: Dokumentacja terenowa :: Zapisujesz obserwacje i zdarzenia podczas kontroli terenu. | Współpraca z instytucjami :: Zgłaszasz naruszenia odpowiednim urzędom i organizacjom. | Przepisy o terenach chronionych :: Sprawdzasz zgodność działań na terenie z obowiązującym prawem.
+
+@1965
+M: Ochrona gatunków zwierząt :: Planujesz i wdrażasz działania chroniące konkretne gatunki zwierząt lub roślin. | Poprawa stanu siedlisk :: Proponujesz i wykonujesz działania odtwarzające naturalne środowisko. | Warsztaty edukacyjne :: Uczysz mieszkańców, jak dbać o lokalną przyrodę. | Projekty z mieszkańcami :: Angażujesz mieszkańców w działania na rzecz ochrony środowiska.
+W: Monitorowanie populacji gatunków :: Liczysz i obserwujesz zwierzęta lub rośliny, żeby śledzić zmiany ich liczby. | Plany ochrony przyrody :: Opracowujesz dokumenty określające działania ochronne na danym terenie. | Pozyskiwanie finansowania projektów :: Przygotowujesz wnioski o dofinansowanie działań ochronnych.
+
+@1966
+M: Programy środowiskowe :: Tworzysz plany poprawy zrównoważonego rozwoju w organizacji. | Kontrola zgodności z prawem :: Sprawdzasz, czy obiekty spełniają obowiązujące przepisy środowiskowe. | Edukacja ekologiczna :: Uczysz mieszkańców lub pracowników zasad ochrony środowiska. | Raportowanie wyników programów :: Przedstawiasz zarządowi efekty wdrożonych działań środowiskowych.
+W: Zarządzanie projektami środowiskowymi :: Planujesz harmonogram i zasoby potrzebne do realizacji programu. | Współpraca z organami nadzoru :: Kontaktujesz się z instytucjami kontrolującymi zgodność z przepisami. | Wskaźniki zrównoważonego rozwoju :: Mierzysz efektywność działań środowiskowych organizacji.
+
+@1967
+M: Analiza trasy inwestycji :: Oceniasz wpływ planowanej trasy rurociągu na okoliczną przyrodę. | Opinie specjalistów środowiskowych :: Konsultujesz projekt z ekspertami od przyrody i środowiska. | Ocena ryzyka inwestycji :: Przewidujesz możliwe szkody środowiskowe wynikające z budowy. | Przepisy ochrony środowiska :: Pilnujesz, żeby projekt spełniał wymagania prawne.
+W: Dokumentacja środowiskowa projektu :: Prowadzisz dokumenty wymagane do zatwierdzenia inwestycji. | Komunikacja z mieszkańcami :: Wyjaśniasz mieszkańcom wpływ inwestycji na ich otoczenie. | Koordynacja zespołu projektowego :: Łączysz pracę inżynierów, prawników i specjalistów środowiskowych.
+
+@1968
+M: Analiza próbek środowiskowych :: Badasz powietrze, wodę i glebę pod kątem zanieczyszczeń. | Ocena ryzyka środowiskowego :: Szacujesz, jak bardzo dane zagrożenie wpływa na środowisko i ludzi. | Gospodarka odpadami :: Proponujesz rozwiązania ograniczające ilość i szkodliwość odpadów. | Przepisy środowiskowe :: Sprawdzasz zgodność działań firm z prawem ochrony środowiska.
+W: Polityka ochrony środowiska :: Tworzysz dokumenty określające zasady działania instytucji w zakresie środowiska. | Ocena nowych inwestycji :: Analizujesz skutki środowiskowe planowanych obiektów budowlanych. | Zarządzanie wodą pitną :: Proponujesz rozwiązania poprawiające jakość i dostępność wody.
+
+@1969
+M: Ocena różnorodności biologicznej :: Badasz liczbę i rodzaje gatunków występujących na danym terenie. | Ochrona siedlisk przyrody :: Planujesz działania chroniące naturalne środowisko zwierząt i roślin. | Prace terenowe :: Zbierasz dane o przyrodzie bezpośrednio w lasach i parkach. | Zarządzanie obszarem chronionym :: Nadzorujesz działania na terenie rezerwatu lub parku narodowego.
+W: Monitorowanie zmian ekosystemów :: Śledzisz, jak środowisko zmienia się w dłuższym okresie. | Plany ochrony obszarów :: Opracowujesz dokumenty określające zasady zarządzania terenem chronionym. | Współpraca naukowa :: Uczestniczysz w badaniach prowadzonych przez inne organizacje.
+
+@1970
+M: Pobieranie próbek wody :: Pozyskujesz próbki w sposób zapewniający wiarygodność badań laboratoryjnych. | Analiza laboratoryjna wody :: Badasz skład chemiczny i biologiczny wody w laboratorium. | Procedury oczyszczania wody :: Projektujesz metody uzdatniania wody do picia lub nawadniania. | Normy jakości wody :: Sprawdzasz, czy woda spełnia wymagane standardy bezpieczeństwa.
+W: Monitorowanie sieci wodociągowej :: Śledzisz jakość wody w różnych punktach systemu zaopatrzenia. | Reagowanie na zanieczyszczenia :: Podejmujesz działania, gdy wykryjesz przekroczenie norm jakości. | Raporty o jakości wody :: Dokumentujesz wyniki badań dla instytucji nadzorujących.
+
+@1971
+M: Monitorowanie emisji zanieczyszczeń :: Mierzysz poziom hałasu i zanieczyszczeń powietrza wokół lotniska. | Obserwacja dzikiej zwierzyny :: Śledzisz obecność zwierząt, które mogą zagrażać bezpieczeństwu lotów. | Ocena wpływu lotniska :: Analizujesz skutki działalności lotniska dla środowiska i mieszkańców. | Zrównoważony rozwój lotniska :: Wprowadzasz działania ograniczające negatywny wpływ lotniska na środowisko.
+W: Współpraca z władzami lotniska :: Przekazujesz wyniki monitoringu osobom zarządzającym lotniskiem. | Zarządzanie terenami podmokłymi :: Dbasz o obszary naturalne znajdujące się w pobliżu infrastruktury. | Raporty środowiskowe :: Dokumentujesz wpływ działalności lotniska na otaczające środowisko.
+
+@1972
+M: Ocena stanu drzewostanu :: Sprawdzasz zdrowie i wiek drzew, żeby zaplanować dalsze działania w lesie. | Planowanie zalesień i wycinek :: Proponujesz, gdzie sadzić nowe drzewa, a gdzie prowadzić wycinkę. | Przepisy leśne :: Wyjaśniasz właścicielom lasów obowiązujące zasady gospodarki leśnej. | Doradztwo dla właścicieli lasów :: Pomagasz podejmować decyzje dotyczące wykorzystania lasu.
+W: Ochrona przeciwpożarowa lasu :: Proponujesz działania zmniejszające ryzyko pożaru w lesie. | Wpływ gospodarki leśnej :: Analizujesz, jak wycinka wpływa na okoliczną przyrodę. | Dokumentacja leśna :: Zapisujesz dane o stanie i wykorzystaniu lasu.
+
+@1973
+M: Doradztwo żywieniowe dla hodowców :: Proponujesz zmiany w diecie zwierząt, żeby poprawić ich wyniki produkcyjne. | Ocena warunków hodowli :: Sprawdzasz, czy warunki w oborze lub stajni są odpowiednie dla zwierząt. | Analiza wyników produkcji :: Oceniasz dane dotyczące produkcji mleka lub mięsa w hodowli. | Zmiany w hodowli :: Proponujesz konkretne usprawnienia w sposobie prowadzenia hodowli.
+W: Profilaktyka zdrowotna zwierząt :: Doradzasz, jak zapobiegać chorobom w stadzie. | Szkolenia dla rolników :: Przekazujesz wiedzę o hodowli grupom rolników i hodowców. | Rentowność hodowli :: Oceniasz, czy proponowane zmiany poprawią wynik finansowy gospodarstwa.
+
+@1974
+M: Doradztwo w uprawie roślin :: Proponujesz plantatorom metody poprawiające plony i jakość uprawy. | Doświadczenia polowe :: Testujesz nowe metody uprawy na wydzielonych poletkach. | Analiza wyników plonów :: Oceniasz dane zebrane z pól, żeby wskazać najlepsze rozwiązania. | Opłacalność uprawy :: Sprawdzasz, czy dana metoda uprawy jest korzystna finansowo dla gospodarstwa.
+W: Technologie rolnicze :: Wykorzystujesz nowe technologie i maszyny do poprawy efektywności uprawy. | Ochrona roślin :: Proponujesz sposoby zwalczania szkodników i chorób roślin. | Szkolenia dla rolników :: Przekazujesz rolnikom wiedzę o nowych metodach i technologiach uprawy.
+
+@1975
+M: Zarządzanie zasobami ryb :: Proponujesz działania chroniące populacje ryb na danym obszarze. | Modernizacja połowów :: Proponujesz zmiany usprawniające działalność połowową na wybrzeżu. | Plany zarządzania rybołówstwem :: Opracowujesz dokumenty określające zasady korzystania z łowisk. | Doradztwo hodowli ryb :: Proponujesz rozwiązania poprawiające warunki w gospodarstwach rybackich.
+W: Ocena siedlisk rybnych :: Analizujesz warunki środowiskowe wpływające na populacje ryb. | Współpraca z instytucjami rybackimi :: Uzgadniasz działania z organizacjami zarządzającymi zasobami rybnymi. | Przepisy rybackie :: Sprawdzasz zgodność planowanych działań z prawem dotyczącym rybołówstwa.
+
+@1976
+M: Kontrola parametrów wody :: Mierzysz poziom tlenu i odczyn wody, żeby zapewnić zdrowie ryb. | Obsługa systemów recyrkulacji :: Nadzorujesz pompy, napowietrzanie i filtry biologiczne w instalacji. | Karmienie i obserwacja ryb :: Dobierasz dawki pokarmu i obserwujesz zachowanie ryb w zbiorniku. | Usuwanie chorych osobników :: Wyławiasz ryby zagrażające zdrowiu całej hodowli.
+W: Diagnostyka usterek systemu :: Rozpoznajesz wczesne oznaki awarii pomp i filtrów. | Planowanie cykli produkcyjnych :: Organizujesz hodowlę tak, żeby zachować stały poziom produkcji. | Biologia gatunków hodowlanych :: Dobierasz warunki hodowli odpowiednie do konkretnego gatunku ryby.
+
+@1977
+M: Analiza próbek gleby :: Badasz skład gleby, żeby ocenić jej przydatność do uprawy. | Projektowanie doświadczeń rolniczych :: Planujesz testy nowych odmian i nawozów na poletkach doświadczalnych. | Raporty badawcze :: Opisujesz wyniki doświadczeń w formie zrozumiałej dla rolników. | Doradztwo dla rolników :: Proponujesz zmiany w uprawie na podstawie wyników badań.
+W: Wpływ rolnictwa na środowisko :: Analizujesz, jak metody uprawy wpływają na otaczającą przyrodę. | Projekty rozwojowe :: Realizujesz projekty badawcze na zlecenie instytucji lub klientów. | Nowe technologie rolnicze :: Wykorzystujesz nowe odmiany i metody w prowadzonych badaniach.
+
+@1978
+M: Przygotowanie próbek :: Pozyskujesz i opisujesz próbki zgodnie z procedurami laboratoryjnymi. | Obsługa aparatury laboratoryjnej :: Wykonujesz testy i pomiary przy użyciu specjalistycznego sprzętu. | Dokumentacja badań :: Zapisujesz kolejne etapy i wyniki wykonywanych analiz. | Kontrola wiarygodności wyników :: Sprawdzasz, czy uzyskane wyniki są zgodne z oczekiwaniami.
+W: Praca w różnych dziedzinach :: Wykonujesz analizy z zakresu biologii, środowiska lub farmakologii. | Systemy informatyczne laboratorium :: Wprowadzasz i porządkujesz dane badań w systemie laboratoryjnym. | Bezpieczeństwo pracy laboratoryjnej :: Przestrzegasz zasad bezpiecznej pracy z próbkami i odczynnikami.
+
+@1979
+M: Wysiew bakterii na podłoża :: Przygotowujesz próbki na płytkach z pożywką do dalszych badań. | Obsługa mikroskopu :: Oglądasz preparaty mikroskopowe, żeby zidentyfikować rodzaj bakterii. | Liczenie kolonii bakterii :: Zliczasz kolonie bakterii i zapisujesz wyniki obserwacji. | Sterylność stanowiska pracy :: Dbasz o czystość narzędzi i otoczenia, żeby uniknąć zanieczyszczenia próbek.
+W: Przygotowywanie pożywek mikrobiologicznych :: Sporządzasz podłoża potrzebne do wzrostu określonych bakterii. | Dokumentowanie wyników eksperymentów :: Sporządzasz raporty z przeprowadzonych badań bakteriologicznych. | Gospodarka zasobami laboratorium :: Zamawiasz i kontrolujesz zapasy odczynników i materiałów laboratoryjnych.
