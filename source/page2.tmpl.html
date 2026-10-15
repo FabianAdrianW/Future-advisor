@@ -624,8 +624,9 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   function fixedPay(n) { return NOCITY.g.indexOf(String(n.gk)) >= 0 || (NOCITY_RE && NOCITY_RE.test(n.fn || n.n)); }
   function payCard(n) {
     var p = payOf(n), fixed = fixedPay(n);
-    if (!p) return '<section class="sec"><h2>Zarobki</h2><div class="card"><p>Dla tego zawodu nie ma wiarygodnych danych o zarobkach. Dochody bywają tu bardzo nierówne albo zależą od stopnia i stażu.</p></div></section>';
+    if (!p) return '<section class="sec"><h2>Zarobki</h2><div class="card"><p>Dla tego zawodu nie ma wiarygodnych danych o zarobkach. Dochody bywają tu bardzo nierówne albo zależą od stopnia i stażu.</p><p class="small"><b>Dlaczego brak liczby:</b> nie mamy danych, które dałyby rzetelny przedział.</p></div></section>';
     var ci = fixed ? -1 : S.city, city = ci >= 0 && CITIES[ci], r = payRange(p.med, ci, p.q), base = payRange(p.med, -1, p.q), LO = 4000, HI = 26000;
+    var why = fixed ? 'w tym zawodzie płace ustalają przepisy i siatki płac, a nie rynek pracy.' : p.digits < 3 ? 'nie mamy danych dla tego konkretnego zawodu, więc pokazujemy średnią dla szerszej grupy.' : 'mamy dane dla grupy zawodów, do której należy ten zawód, a nie dla tego jednego zawodu.';
     var pos = function (x) { return Math.max(0, Math.min(100, (x - LO) / (HI - LO) * 100)); };
     var h = '<section class="sec"><div class="sec-h"><h2>Zarobki</h2><p>Typowe widełki na etacie, brutto miesięcznie.</p></div><div class="card pay">' +
       '<span class="eyebrow">' + esc(city ? city[0] : 'Cała Polska') + '</span><b class="amt">' + money(r[0]) + ' – ' + money(r[1]) + ' <span>zł brutto</span></b>' +
@@ -633,7 +634,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
       '<div class="scale"><span>4 tys.</span><span>15 tys.</span><span>26 tys. zł</span></div>';
     if (city) { var diff = Math.round((r[1] / base[1] - 1) * 100); h += '<p class="cmp">W całej Polsce: ' + money(base[0]) + ' – ' + money(base[1]) + ' zł. ' + (diff > 0 ? esc(city[0]) + ' płaci zwykle <b>ok. ' + diff + '% więcej</b>.' : diff < 0 ? esc(city[0]) + ' płaci zwykle ok. ' + (-diff) + '% mniej.' : 'Tu płace są zbliżone do średniej.') + (city ? ' Kreska na pasku to środek dla całej Polski.' : '') + '</p>'; }
     if (fixed) h += '<p class="cmp" id="pay-fixed">Tu płace wyznaczają głównie ogólnopolskie siatki i przepisy, więc nie przeliczamy ich na miasto.</p>';
-    h += (fixed ? '' : cityPicker()) + '<p class="small">To szacunek, nie oferta. Podstawa: GUS, październik 2024, przeliczone na 2025 r.; dane dla grupy zawodów „' + esc(p.name) + '”' + (p.digits < 3 ? ' (szersza grupa, mniej dokładne)' : '') + (p.q ? ', środkowe 50% pracowników z tej grupy' : ', mediana bez rozrzutu') + (fixed || S.city < 0 ? '.' : ', przesunięte o poziom płac w mieście.') + ' Na początku pracy zwykle zarabia się bliżej dolnej granicy.</p></div></section>';
+    h += '<p class="small"><b>Dlaczego ta liczba:</b> ' + why + '</p>' + (fixed ? '' : cityPicker()) + '<p class="small">To szacunek, nie oferta. Podstawa: GUS, październik 2024, przeliczone na 2025 r.; dane dla grupy zawodów „' + esc(p.name) + '”' + (p.digits < 3 ? ' (szersza grupa, mniej dokładne)' : '') + (p.q ? ', środkowe 50% pracowników z tej grupy' : ', mediana bez rozrzutu') + (fixed || S.city < 0 ? '.' : ', przesunięte o poziom płac w mieście.') + ' Na początku pracy zwykle zarabia się bliżej dolnej granicy.</p></div></section>';
     return h;
   }
   function fitCard(n) {
