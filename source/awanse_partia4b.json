@@ -1,0 +1,123 @@
+{
+  "Murarz": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Tynkarz": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Malarz": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Glazurnik": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Posadzkarz": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Szklarz": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Tapeciarz": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Operator koparki": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Operator spycharki": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Robotnik budowlany": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Blacharz budowlany": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Merchandiser": {
+    "do": [
+      "Specjalista ds. planowania zakupów"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Kierowca autobusu": {
+    "do": [
+      "Dyspozytor transportu samochodowego"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Kierowca samochodu ciężarowego": {
+    "do": [
+      "Dyspozytor transportu samochodowego",
+      "Koordynator spedycji międzynarodowej"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Kierowca betoniarki": {
+    "do": [
+      "Dyspozytor transportu samochodowego"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Piekarz": {
+    "do": [
+      "Mistrz cukiernictwa"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Asystent ds. marketingu": {
+    "do": [
+      "Specjalista ds. marketingu"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Asystent ds. wsparcia sprzedaży": {
+    "do": [
+      "Specjalista ds. administracji sprzedaży"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Asystent ds. promocji": {
+    "do": [
+      "Specjalista ds. reklamy"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Elektromechanik": {
+    "do": [
+      "Mistrz montażu w przemyśle"
+    ],
+    "pewnosc": "średnia"
+  }
+}

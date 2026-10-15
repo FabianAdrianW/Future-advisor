@@ -468,5 +468,34 @@
   ],
   "pewnosc": "średnia",
   "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Murarz": {
+  "do": [
+   "Mistrz produkcji w budownictwie"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Robotnik budowlany": {
+  "do": [
+   "Mistrz produkcji w budownictwie"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Elektromechanik": {
+  "do": [
+   "Mistrz montażu w przemyśle"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Kierowca samochodu ciężarowego": {
+  "do": [
+   "Dyspozytor transportu samochodowego",
+   "Koordynator spedycji międzynarodowej"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
  }
 }
