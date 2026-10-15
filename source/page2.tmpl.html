@@ -414,7 +414,28 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     szkola: { n: 'Szkoła', i: 'school', r: 1 }, studia: { n: 'Studia', i: 'graduation-cap', r: 0 }, kurs: { n: 'Kurs', i: 'open-book', r: 4 },
     projekt: { n: 'Własny projekt', i: 'toolbox', r: 5 }, praktyka: { n: 'Praktyka', i: 'handshake', r: 3 }, egzamin: { n: 'Egzamin', i: 'scroll', r: 2 }
   };
-  var STAGES = ['Szkoła podstawowa', 'Szkoła średnia', 'Po szkole średniej'];
+  var STAGES = ['Szkoła podstawowa', 'W szkole średniej', 'Po szkole, bez matury', 'Po maturze'];
+  // Etap użytkownika: 0 podstawówka, 1 w szkole średniej (zostają ok. 2 lata), 2 skończona szkoła bez matury, 3 po maturze.
+  // Nie wybrano (-1) liczy się jak 0, czyli cała droga od podstawówki.
+  var stg = function () { return S.stage < 0 ? 0 : S.stage; };
+  // Realny czas każdego kroku od etapu użytkownika. Szkołę, którą ma za sobą, pomijamy; po szkole bez matury doliczamy rok na maturę przed pierwszymi studiami.
+  function effYears(steps) {
+    var st = stg(), mat = false;
+    return steps.map(function (s) {
+      var y = +s[2] || 0;
+      if (s[0] === 'szkola') { if (st >= 2) return 0; if (st === 1) return Math.min(y, 2); }
+      if (s[0] === 'studia' && st === 2 && !mat) { mat = true; y += 1; }
+      return y;
+    });
+  }
+  function routeYears(steps) { return effYears(steps).reduce(function (a, y) { return a + y; }, 0); }
+  function setStage(i) { S.stage = i; LA = {}; fv++; save(); }
+  function stagePills() {
+    return '<div class="pills">' + STAGES.map(function (s, i) { return '<button type="button" class="pill" data-act="stage" data-i="' + i + '" aria-pressed="' + (i === S.stage) + '">' + s + '</button>'; }).join('') + '</div>';
+  }
+  function stageNote() {
+    return S.stage < 0 ? 'Nie wybrano etapu, więc liczę całą drogę od szkoły podstawowej.' : S.stage === 2 ? 'Do studiów doliczam rok na maturę.' : S.stage === 1 ? 'Do końca szkoły zostało Ci ok. 2 lat.' : '';
+  }
   var TICK = '<svg class="ico" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5" stroke-width="3"></path></svg>';
   var jobRoute = {}, confirmDel = false;
   function guessType(t) {
@@ -453,20 +474,20 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   function routeSection(n) {
     var routes = routesOf(n); if (!routes) return '';
     var key = n.fn || n.n, ri = Math.min(jobRoute[key] || 0, routes.length - 1), r = routes[ri];
-    var total = r.s.reduce(function (a, s) { return a + (+s[2] || 0); }, 0), has = planFor(key) >= 0;
+    var ys = effYears(r.s), total = ys.reduce(function (a, y) { return a + y; }, 0), has = planFor(key) >= 0;
     var h = '<section class="sec"><div class="sec-h"><h2>Droga do zawodu</h2><p>' + (routes.length > 1 ? 'Do tego zawodu prowadzą ' + routes.length + ' ' + pl(routes.length, 'droga', 'drogi', 'dróg') + '. Wybierz swoją.' : 'Krok po kroku do pierwszej pracy.') + '</p></div>';
     if (routes.length > 1) h += '<div class="pills">' + routes.map(function (x, i) { return '<button type="button" class="pill" data-act="route" data-i="' + i + '" aria-pressed="' + (i === ri) + '">' + esc(x.n) + '</button>'; }).join('') + '</div>';
-    h += '<div class="card"><ol class="path">' + r.s.map(function (s) { return stepRow(s, { when: yearsTxt(+s[2] || 0), idx: -1 }); }).join('') + goalRow(n, total ? 'razem ' + yearsTxt(total) : '') + '</ol></div>';
+    h += '<div class="card"><ol class="path">' + r.s.map(function (s, i) { return stepRow(s, { when: s[0] === 'szkola' && stg() >= 2 ? 'masz za sobą' : yearsTxt(ys[i]), idx: -1 }); }).join('') + goalRow(n, total ? 'razem ' + yearsTxt(total) : '') + '</ol></div>';
     return h + '<button type="button" class="btn" data-act="' + (has ? 'plan-open' : 'plan-add') + '">' + (has ? 'Otwórz mój plan' : 'Zaplanuj tę drogę') + '</button></section>';
   }
   function planSteps(plan, n) {
     var routes = routesOf(n) || [];
     if (!plan.steps) { var r0 = routes[Math.min(plan.route || 0, Math.max(routes.length - 1, 0))]; if (r0) { plan.steps = r0.s; plan.name = r0.n; } }
     var r = { n: plan.name || '', s: plan.steps || [] };
-    var stage = S.stage < 0 ? 0 : S.stage, cursor = new Date().getFullYear(), out = [];
+    var stage = stg(), ys = effYears(r.s), cursor = new Date().getFullYear(), out = [];
     r.s.forEach(function (s, i) {
-      var y = +s[2] || 0, locked = false, done = plan.done.indexOf(i) >= 0, when;
-      if (s[0] === 'szkola') { if (stage === 2) { done = true; locked = true; } else if (stage === 1) y = Math.min(y, 2); }
+      var y = ys[i], locked = false, done = plan.done.indexOf(i) >= 0, when;
+      if (s[0] === 'szkola' && stage >= 2) { done = true; locked = true; }
       if (done) when = 'zrobione'; else if (!y) when = ''; else { cursor += y; when = yearsTxt(y) + ' · do ok. ' + Math.ceil(cursor) + ' r.'; }
       out.push({ s: s, idx: i, done: done, locked: locked, when: when });
     });
@@ -499,7 +520,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     } else {
       h += '<section class="sec"><div class="card banner" style="background:var(--N-t)">' + img('party-popper', '', 64) + '<div class="txt"><b>Wszystkie kroki zrobione</b><span class="small">Czas szukać pierwszej pracy.</span></div></div></section>';
     }
-    h += '<section class="sec"><div class="sec-h"><h2>Skąd startujesz?</h2><p>Od tego zależą daty. Są orientacyjne.</p></div><div class="pills">' + STAGES.map(function (s, i) { return '<button type="button" class="pill" data-act="stage" data-i="' + i + '" aria-pressed="' + (i === (S.stage < 0 ? 0 : S.stage)) + '">' + s + '</button>'; }).join('') + '</div></section>';
+    h += '<section class="sec"><div class="sec-h"><h2>Skąd startujesz?</h2><p>Od tego zależą daty. Są orientacyjne.' + (stageNote() ? ' ' + stageNote() : '') + '</p></div>' + stagePills() + '</section>';
     h += '<section class="sec"><h2>Cała droga</h2><div class="card"><ol class="path">' + ps.steps.map(function (o) { return stepRow(o.s, o); }).join('') + goalRow(n, ps.left ? 'ok. ' + ps.end + ' r.' : '') + '</ol></div></section>';
     if (ps.routes.length > 1) h += '<section class="sec"><div class="sec-h"><h2>Inna droga</h2><p>Zmiana drogi czyści odhaczone kroki.</p></div><div class="pills">' + ps.routes.map(function (x, i) { return '<button type="button" class="pill" data-act="plan-route" data-i="' + i + '" aria-pressed="' + (x.n === plan.name) + '">' + esc(x.n) + '</button>'; }).join('') + '</div></section>';
     h += '<section class="sec"><div class="list">' + row(n, -1, 'Zobacz opis zawodu') + '</div><button type="button" class="link" data-act="plan-del" style="align-self:flex-start">' + (confirmDel ? 'Na pewno usunąć? Stuknij jeszcze raz' : 'Usuń ten plan') + '</button></section>';
@@ -688,7 +709,8 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     a = { fl: {}, yrs: null, rm: 0, mk: null };
     (routesOf(n) || []).forEach(function (r) {
       var hasS = false, hasK = false, sz = '', y = 0;
-      r.s.forEach(function (st) { if (st[0] === 'studia') hasS = true; if (st[0] === 'kurs') hasK = true; if (st[0] === 'szkola') sz += ' ' + norm(st[1]); y += st[2] || 0; });
+      r.s.forEach(function (st) { if (st[0] === 'studia') hasS = true; if (st[0] === 'kurs') hasK = true; if (st[0] === 'szkola') sz += ' ' + norm(st[1]); });
+      y = routeYears(r.s);
       if (a.yrs === null || y < a.yrs) a.yrs = y;
       if (hasS) { a.fl.stud = 1; return; }
       a.fl.nostud = 1;
@@ -748,7 +770,8 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     return '<div class="fpanel" role="dialog" aria-modal="true" aria-labelledby="fTitle"><div class="fhead"><h2 id="fTitle">Filtry zawodów</h2><button type="button" class="link" data-act="f-clear"' + (c ? '' : ' disabled') + '>Wyczyść</button></div><div class="fscroll">' +
       (hasProfile() ? '<section class="fgrp"><div class="pills"><button type="button" class="pill" data-act="f-set" data-g="fit" aria-pressed="' + !!f.fit + '">Tylko pasujące do mnie</button></div></section>' : '') +
       grp('edu', 'Jak wejść do zawodu', 'Na podstawie dróg do zawodu opisanych w aplikacji. Zaznacz, co Cię interesuje, a pokażę zawody, do których taka droga prowadzi.') +
-      grp('tm', 'Ile trwa droga', 'Czas najkrótszej drogi do pierwszej pracy.') +
+      '<section class="fgrp"><h3>Na jakim jesteś etapie?</h3><p class="small">Czas drogi liczę od Twojego etapu, bez szkoły, którą masz już za sobą.' + (stageNote() ? ' ' + stageNote() : '') + '</p>' + stagePills() + '</section>' +
+      grp('tm', 'Ile trwa droga', 'Najkrótsza droga do pierwszej pracy, licząc od Twojego etapu.') +
       grp('rm', 'Praca zdalna', 'To szacunek dla całej grupy zawodów, nie dla każdego stanowiska.') +
       grp('pay', 'Zarobki', 'Orientacyjnie brutto, dla miasta z zakładki Postać. Zawody bez danych o zarobkach są pomijane.') +
       grp('mk', 'Rynek pracy w 2026', 'Czy pracodawcom brakuje ludzi (Rośnie), czy jest równowaga, czy trudniej o ofertę.') +
@@ -797,6 +820,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     var p = profile(), h = '<header class="hello"><div><h1>Twoja postać</h1><p class="small">To z niej aplikacja wie, co Ci pokazać najpierw.</p></div></header>';
     h += '<section class="sec"><div class="card me-card"><span class="tile" style="--a:var(--O-t);--b:var(--P-t)">' + img('student', '', 50) + '</span><div class="txt"><b>' + (hasProfile() ? 'Lubisz ' + S.interests.length + ' ' + pl(S.interests.length, 'rzecz', 'rzeczy', 'rzeczy') + ' z listy' : 'Jeszcze nic nie wiem') + '</b>' +
       (hasProfile() ? '<span class="chips">' + INTERESTS.filter(function (it) { return S.interests.indexOf(it[0]) >= 0; }).map(function (it) { return '<span class="chip" style="--t:' + v(it[2], '-t') + ';--d:' + v(it[2], '-d') + ';--c:' + v(it[2]) + '"><i></i>' + it[1] + '</span>'; }).join('') + '</span>' :'<span class="small">Zaznacz, co lubisz robić. Zajmie to pół minuty.</span>') + '<button type="button" class="btn sm ghost" data-act="edit">' + (hasProfile() ? 'Zmień wybór' : 'Zaznacz, co lubisz') + '</button></div></div></section>';
+    h += '<section class="sec"><div class="sec-h"><h2>Twój etap</h2><p>Od niego liczę, ile jeszcze zostało do pierwszej pracy.' + (stageNote() ? ' ' + stageNote() : '') + '</p></div>' + stagePills() + '</section>';
     h += '<section class="sec"><div class="sec-h"><h2>Twoje miasto</h2><p>Pod nie przeliczam zarobki przy zawodach.</p></div><div class="card">' + cityPicker() + '</div></section>';
     h += '<section class="sec"><h2>Po co Ci postać?</h2><div class="card"><ul class="why">' +
       '<li>' + img('bullseye', '', 40) + '<div><b>Ustawia kierunki pod Ciebie</b><span>Na starcie widzisz te najbliższe temu, co lubisz.</span></div></li>' +
@@ -846,12 +870,12 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     else if (a === 'city') { S.city = +t.dataset.i; cityOpen = false; save(); render(true); }
     else if (a === 'route') { jobRoute[top.node.fn || top.node.n] = +t.dataset.i; render(true); }
     else if (a === 'plan-add') { var k = top.node.fn || top.node.n, rs = routesOf(top.node) || [], rr = rs[Math.min(jobRoute[k] || 0, Math.max(rs.length - 1, 0))] || { n: '', s: [] }; S.plans.unshift({ job: k, name: rr.n, steps: rr.s, done: [] }); S.planSel = 0; save(); setTab('plan'); }
+    else if (a === 'stage') { setStage(+t.dataset.i); render(true); }
     else if (a === 'plan-open') { S.planSel = Math.max(planFor(top.node.fn || top.node.n), 0); save(); setTab('plan'); }
     else if (top.t === 'plan') {
       var sel = Math.min(S.planSel || 0, S.plans.length - 1), plan = S.plans[sel], di = +t.dataset.i;
       if (a !== 'plan-del') confirmDel = false;
       if (a === 'step') { var at = plan.done.indexOf(di); if (at >= 0) plan.done.splice(at, 1); else plan.done.push(di); }
-      else if (a === 'stage') S.stage = di;
       else if (a === 'plan-sel') S.planSel = di;
       else if (a === 'plan-route') { var rs2 = routesOf(BYNAME[plan.job]) || []; if (rs2[di] && rs2[di].n !== plan.name) { plan.name = rs2[di].n; plan.steps = rs2[di].s; plan.done = []; } }
       else if (a === 'plan-del') { if (!confirmDel) confirmDel = true; else { S.plans.splice(sel, 1); S.planSel = 0; confirmDel = false; } }
@@ -865,6 +889,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     if (a === 'f-close') closeSheet();
     else if (a === 'f-clear') { S.f = {}; fv++; save(); refreshSheet(); }
     else if (a === 'f-set') { fset(t.dataset.g, t.dataset.v); refreshSheet(); }
+    else if (a === 'stage') { setStage(+t.dataset.i); refreshSheet(); }
   });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !$('fsheet').hidden) closeSheet(); });
   $('view').addEventListener('input', function (e) {
