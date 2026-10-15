@@ -440,5 +440,33 @@
   ],
   "pewnosc": "średnia",
   "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Kasjer biletowy": {
+  "do": [
+   "Kierownik kas"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Specjalista ds. obsługi klienta": {
+  "do": [
+   "Kierownik ds. obsługi klienta"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Konserwator": {
+  "do": [
+   "Kierownik ds. budynków"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Inspektor jakości": {
+  "do": [
+   "Kierownik ds. jakości"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
  }
 }
