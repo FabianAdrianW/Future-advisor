@@ -29,6 +29,7 @@ _gq=json.loads((B/'pay_gus2024.json').read_text(encoding='utf-8'))
 _f=_gq['przelicznik_2025']
 data['ads']=json.loads((B/'ads.json').read_text(encoding='utf-8'))
 data['awanse']=json.loads((B/'awanse.json').read_text(encoding='utf-8'))
+data['kursy']=json.loads((B/'kursy.json').read_text(encoding='utf-8'))
 data['payq']={c:[round(v['p25']*_f),round(v['p75']*_f)] for c,v in _gq['grupy'].items() if c in pay}
 # budżetówka: płace z ogólnopolskich siatek, bez korekty miasta (grupy + nazwy z grupy mieszanej 541)
 data['nocity']={'g':['222','322','231','232','233','234','5312','2635','335','3355','111'],'re':'^(Strażak|Policjant|Dzielnicowy|Komendant|Inspektor policji|Detektyw w policji|Strażnik (więzienny|miejski|ruchu drogowego|w zakładzie)|Funkcjonariusz|Operator sprzętu pożarniczego|Dowódca zastępu)'}

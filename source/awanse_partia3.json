@@ -1,0 +1,182 @@
+{
+  "Kierowca samochodu dostawczego": {
+    "do": [
+      "Specjalista ds. logistyki"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Kierowca samochodu ciężarowego": {
+    "do": [
+      "Kierownik działu transportu drogowego"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Kierowca autobusu": {
+    "do": [
+      "Kierownik działu transportu drogowego"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Kierowca przewożący towary niebezpieczne": {
+    "do": [
+      "Kierownik działu transportu drogowego"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Kierowca transportu medycznego": {
+    "do": [
+      "Kierownik działu transportu drogowego"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Glazurnik": {
+    "do": [
+      "Brygadzista glazurnik"
+    ],
+    "pewnosc": "wysoka"
+  },
+  "Malarz": {
+    "do": [
+      "Brygadzista malarz"
+    ],
+    "pewnosc": "wysoka"
+  },
+  "Pomocniczy robotnik budowlany": {
+    "do": [
+      "Brygadzista murarz"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Operator dźwigu jezdnego": {
+    "do": [
+      "Brygadzista monter urządzeń dźwigowych"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Taksówkarz": {
+    "do": [
+      "Dyspozytor taxi"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Piekarz": {
+    "do": [
+      "Kierownik produkcji żywności"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Lakiernik pojazdowy": {
+    "do": [
+      "Kierownik warsztatu samochodowego"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Ogrodnik/ogrodniczka": {
+    "do": [
+      "Kierownik produkcji w przedsiębiorstwie ogrodniczym"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Pracownik produkcji roślinnej": {
+    "do": [
+      "Kierownik produkcji w przedsiębiorstwie ogrodniczym"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Rzeźnik": {
+    "do": [
+      "Kierownik sklepu mięsnego"
+    ],
+    "pewnosc": "wysoka"
+  },
+  "Pokojowy/pokojowa": {
+    "do": [
+      "Kierownik działu obsługi pokoi"
+    ],
+    "pewnosc": "wysoka"
+  },
+  "Sanitariusz szpitalny": {
+    "do": [
+      "Opiekun medyczny"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Opiekun dziecięcy / opiekunka dziecięca": {
+    "do": [
+      "Kierownik placówki wsparcia dziennego"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Opiekun osób niepełnosprawnych": {
+    "do": [
+      "Kierownik placówki wsparcia dziennego"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Sprzedawca artykułów sportowych i rekreacyjnych": {
+    "do": [
+      "Kierownik sklepu"
+    ],
+    "pewnosc": "wysoka"
+  },
+  "Sprzedawca artykułów meblowych i wyposażenia wnętrz": {
+    "do": [
+      "Kierownik sklepu meblowego"
+    ],
+    "pewnosc": "wysoka"
+  },
+  "Sprzedawca biżuterii i zegarków": {
+    "do": [
+      "Kierownik sklepu jubilerskiego"
+    ],
+    "pewnosc": "wysoka"
+  },
+  "Sprzedawca artykułów gospodarstwa domowego": {
+    "do": [
+      "Kierownik sklepu"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Sprzedawca antyków": {
+    "do": [
+      "Kierownik sklepu"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Sprzedawca biletów kolejowych": {
+    "do": [
+      "Kierownik ds. obsługi klienta"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Sekretarka": {
+    "do": [
+      "Kierownik biura"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Konsultant ds. internetowej obsługi klienta": {
+    "do": [
+      "Kierownik ds. obsługi klienta"
+    ],
+    "pewnosc": "wysoka"
+  },
+  "Opiekun klienta": {
+    "do": [
+      "Kierownik ds. obsługi klienta"
+    ],
+    "pewnosc": "wysoka"
+  },
+  "Konsultant podróży": {
+    "do": [
+      "Kierownik biura podróży"
+    ],
+    "pewnosc": "wysoka"
+  },
+  "Kierowca betoniarki": {
+    "do": [
+      "Kierownik działu transportu drogowego"
+    ],
+    "pewnosc": "średnia"
+  }
+}

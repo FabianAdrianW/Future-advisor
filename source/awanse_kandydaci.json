@@ -1,0 +1,213 @@
+{
+  "Kelner/kelnerka": {
+    "do": [
+      "Główny kelner / główna kelnerka",
+      "Kierownik restauracji"
+    ],
+    "pewnosc": "wysoka",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Sprzedawca/sprzedawczyni": {
+    "do": [
+      "Kierownik sklepu",
+      "Kierownik w sklepie"
+    ],
+    "pewnosc": "wysoka",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Kasjer/kasjerka": {
+    "do": [
+      "Kierownik kas",
+      "Kierownik sklepu"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Fryzjer/fryzjerka": {
+    "do": [
+      "Kierownik gabinetu kosmetycznego"
+    ],
+    "pewnosc": "niska",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Elektryk": {
+    "do": [
+      "Kierownik prac konserwacyjnych i remontowych"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Magazynier": {
+    "do": [
+      "Kierownik ds. logistyki i dystrybucji",
+      "Specjalista ds. logistyki"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Hydraulik": {
+    "do": [
+      "Kierownik prac konserwacyjnych i remontowych",
+      "Kierownik budowy"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Spawacz": {
+    "do": [
+      "Koordynator procesu spawalniczego",
+      "Specjalista ds. kontroli robót spawalniczych"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Murarz": {
+    "do": [
+      "Kierownik budowy"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Operator wózka widłowego": {
+    "do": [
+      "Kierownik ds. logistyki i dystrybucji"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Kucharz/kucharka": {
+    "do": [
+      "Szef kuchni"
+    ],
+    "pewnosc": "wysoka",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Pomocnik kuchenny": {
+    "do": [
+      "Kucharz/kucharka"
+    ],
+    "pewnosc": "wysoka",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Barman/barmanka": {
+    "do": [
+      "Kierownik restauracji"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Recepcjonista/recepcjonistka": {
+    "do": [
+      "Kierownik biura"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Księgowy/księgowa": {
+    "do": [
+      "Główny księgowy"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Mechanik pojazdów samochodowych": {
+    "do": [
+      "Kierownik warsztatu samochodowego",
+      "Kierownik serwisu samochodowego"
+    ],
+    "pewnosc": "wysoka",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Kosmetyczka": {
+    "do": [
+      "Kierownik gabinetu kosmetycznego"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Opiekun osób starszych w placówce całodobowej": {
+    "do": [
+      "Kierownik domu spokojnej starości"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Opiekun medyczny": {
+    "do": [
+      "Kierownik domu spokojnej starości"
+    ],
+    "pewnosc": "niska",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Pracownik magazynu": {
+    "do": [
+      "Kierownik ds. logistyki i dystrybucji",
+      "Specjalista ds. logistyki"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Kierowca samochodu ciężarowego": {
+    "do": [
+      "Specjalista ds. logistyki"
+    ],
+    "pewnosc": "niska",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Kierowca samochodu dostawczego": {
+    "do": [
+      "Specjalista ds. logistyki"
+    ],
+    "pewnosc": "niska",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Ślusarz": {
+    "do": [
+      "Kierownik ds. produkcji"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Pracownik ochrony osób i mienia": {
+    "do": [
+      "Kierownik ds. ochrony"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Cieśla": {
+    "do": [
+      "Kierownik budowy"
+    ],
+    "pewnosc": "niska",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Tynkarz": {
+    "do": [
+      "Kierownik budowy"
+    ],
+    "pewnosc": "niska",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Malarz": {
+    "do": [
+      "Kierownik budowy"
+    ],
+    "pewnosc": "niska",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Sprzątacz budynków/sprzątaczka budynków": {
+    "do": [
+      "Kierownik ds. budynków"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  },
+  "Monter instalacji i urządzeń sanitarnych": {
+    "do": [
+      "Kierownik prac konserwacyjnych i remontowych"
+    ],
+    "pewnosc": "srednia",
+    "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+  }
+}
