@@ -1,0 +1,44 @@
+{
+  "Recepcjonista w placówce hotelarskiej / recepcjonistka w placówce hotelarskiej": {
+    "do": [
+      "Kierownik ds. zakwaterowania"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Typowy awans o jeden poziom: od stanowiska „Recepcjonista w placówce hotelarskiej” do funkcji nadzorczej „Kierownik ds. zakwaterowania”."
+  },
+  "Pracownik informacji turystycznej": {
+    "do": [
+      "Kierownik centrum informacji turystycznej"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Typowy awans o jeden poziom: od stanowiska „Pracownik informacji turystycznej” do funkcji nadzorczej „Kierownik centrum informacji turystycznej”."
+  },
+  "Organizator imprez zbiorowych": {
+    "do": [
+      "Kierownik ds. konferencji i bankietów"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Typowy awans o jeden poziom: od stanowiska „Organizator imprez zbiorowych” do funkcji nadzorczej „Kierownik ds. konferencji i bankietów”."
+  },
+  "Pracownik spa / pracownica spa": {
+    "do": [
+      "Kierownik ośrodka spa"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Typowy awans o jeden poziom: od stanowiska „Pracownik spa” do funkcji nadzorczej „Kierownik ośrodka spa”."
+  },
+  "Pracownik salonu piękności / pracownica salonu piękności": {
+    "do": [
+      "Kierownik gabinetu kosmetycznego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Typowy awans o jeden poziom: od stanowiska „Pracownik salonu piękności” do funkcji nadzorczej „Kierownik gabinetu kosmetycznego”."
+  },
+  "Prasowacz/prasowaczka": {
+    "do": [
+      "Brygadzista w pralni"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Typowy awans o jeden poziom: od stanowiska „Prasowacz/prasowaczka” do funkcji nadzorczej „Brygadzista w pralni”."
+  }
+}

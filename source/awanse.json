@@ -672,5 +672,61 @@
   ],
   "pewnosc": "średnia",
   "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Organizator imprez zbiorowych": {
+  "do": [
+   "Kierownik ds. konferencji i bankietów"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Prasowacz/prasowaczka": {
+  "do": [
+   "Brygadzista w pralni"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Specjalista ds. wprowadzania danych": {
+  "do": [
+   "Koordynator działu wprowadzania danych"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Asystent ds. pozyskiwania funduszy": {
+  "do": [
+   "Specjalista ds. pozyskiwania funduszy"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Asystent działu kadr": {
+  "do": [
+   "Specjalista ds. kadr"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Asystent ds. reklamy": {
+  "do": [
+   "Specjalista ds. reklamy"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Asystent ds. łańcucha dostaw": {
+  "do": [
+   "Specjalista ds. logistyki"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Instruktor zajęć na wolnym powietrzu": {
+  "do": [
+   "Koordynator zajęć na wolnym powietrzu"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
  }
 }

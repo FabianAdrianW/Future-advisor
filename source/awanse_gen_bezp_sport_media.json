@@ -1,0 +1,44 @@
+{
+ "Porządkowy/porządkowa": {
+  "do": [
+   "Kierownik ds. ochrony"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Z porządkowego, który pilnuje bezpieczeństwa imprez, na kierownika zespołu ochrony to typowy krok w obrębie tej samej dziedziny."
+ },
+ "Pracownik służby ochrony lotniska": {
+  "do": [
+   "Specjalista ds. bezpieczeństwa w części lotniczej lotniska"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Pracownik ochrony lotniska awansuje na specjalistę odpowiedzialnego za bezpieczeństwo strefy lotniczej."
+ },
+ "Instruktor kulturalno-oświatowy": {
+  "do": [
+   "Kierownik domu kultury"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Instruktor z doświadczeniem może awansować na kierownika placówki kultury w tym samym środowisku pracy."
+ },
+ "Pracownik do spraw kultury fizycznej i sportu": {
+  "do": [
+   "Kierownik ośrodka sportowego"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Pracownik kultury fizycznej i sportu może awansować na kierownika ośrodka sportowego."
+ },
+ "Instruktor zajęć na wolnym powietrzu": {
+  "do": [
+   "Koordynator zajęć na wolnym powietrzu"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Instruktor prowadzący zajęcia na wolnym powietrzu może awansować na koordynatora tych zajęć."
+ },
+ "Tłumacz pisemny": {
+  "do": [
+   "Kierownik agencji tłumaczeń pisemnych"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Doświadczony tłumacz pisemny może awansować na kierownika agencji tłumaczeniowej."
+ }
+}
