@@ -342,5 +342,103 @@
   ],
   "pewnosc": "średnia",
   "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Kierowca samochodu dostawczego": {
+  "do": [
+   "Specjalista ds. logistyki"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Taksówkarz": {
+  "do": [
+   "Dyspozytor taxi"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Lakiernik pojazdowy": {
+  "do": [
+   "Kierownik warsztatu samochodowego"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Ogrodnik/ogrodniczka": {
+  "do": [
+   "Kierownik produkcji w przedsiębiorstwie ogrodniczym"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Pracownik produkcji roślinnej": {
+  "do": [
+   "Kierownik produkcji w przedsiębiorstwie ogrodniczym"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Pokojowy/pokojowa": {
+  "do": [
+   "Kierownik działu obsługi pokoi"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Sanitariusz szpitalny": {
+  "do": [
+   "Opiekun medyczny"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Opiekun dziecięcy / opiekunka dziecięca": {
+  "do": [
+   "Kierownik placówki wsparcia dziennego"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Opiekun osób niepełnosprawnych": {
+  "do": [
+   "Kierownik placówki wsparcia dziennego"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Sprzedawca biletów kolejowych": {
+  "do": [
+   "Kierownik ds. obsługi klienta"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Sekretarka": {
+  "do": [
+   "Kierownik biura"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Konsultant ds. internetowej obsługi klienta": {
+  "do": [
+   "Kierownik ds. obsługi klienta"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Opiekun klienta": {
+  "do": [
+   "Kierownik ds. obsługi klienta"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Konsultant podróży": {
+  "do": [
+   "Kierownik biura podróży"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
  }
 }
