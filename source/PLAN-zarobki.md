@@ -29,7 +29,7 @@ Sprostowanie do wcześniejszej rekomendacji: Barometr zawodów opisuje popyt na 
 
 **Runda 1: DONE (w zmodyfikowanym zakresie).**
 - Ustalenie: GUS w tym pliku nie schodzi poniżej grup 3-cyfrowych ISCO. Zejście do 4 cyfr nie jest możliwe z tego źródła. Runda 1 w pierwotnej formie była błędna.
-- Zrobione: `source/pay_gus2024.json`, 174 grupy z medianą (5. decyl), P25/P75 przybliżonymi z decyli i średnią. Wartości z `pay_codes.txt` = mediana × 1,0868 dla 162 z 163 kodów; wyjątek: kod 226 („Lekarze dentyści”), w aplikacji 9 360 zł, GUS mediana × 1,0868 = 11 252 zł. Do wyjaśnienia.
+- Zrobione: `source/pay_gus2024.json`, 174 grupy z medianą (5. decyl), P25/P75 przybliżonymi z decyli i średnią. Wartości z `pay_codes.txt` = mediana × 1,0868 dla 162 z 163 kodów; wyjątek: kod 226 („Lekarze dentyści”) miał w aplikacji 9 360 zł (wartość grupy 229). Poprawiono na 11 253 zł (GUS × 1,0868).
 - Wniosek: sama tabela GUS nie usunie identycznych widełek, bo wszystkie zawody w grupie mają tę samą medianę. Zysk dają kwartyle (realny rozrzut zamiast −20/+25%).
 - Do rozstrzygnięcia przez Fabiana: źródło danych per zawód (np. ogłoszenia z jawnymi widełkami, raporty płacowe). Bez tego identyczne wartości w obrębie grupy zostaną.
 
