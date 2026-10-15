@@ -1,0 +1,44 @@
+{
+  "Fizjoterapeuta": {
+    "do": [
+      "Główny fizjoterapeuta"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony fizjoterapeuta może zostać głównym fizjoterapeutą, kierującym zespołem w placówce."
+  },
+  "Specjalista ds. kadr": {
+    "do": [
+      "Kierownik działu zarządzania zasobami ludzkimi"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista HR po latach pracy awansuje na kierownika działu zarządzania zasobami ludzkimi."
+  },
+  "Kierownik projektu": {
+    "do": [
+      "Kierownik programu"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Kierownik projektu, nadzorując kilka projektów, może awansować na kierownika programu."
+  },
+  "Referent": {
+    "do": [
+      "Specjalista ds. administracyjnych w administracji publicznej"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Referent w urzędzie po zdobyciu doświadczenia i kwalifikacji awansuje na stanowisko specjalisty ds. administracyjnych."
+  },
+  "Ratownik medyczny": {
+    "do": [
+      "Kierownik stacji ratownictwa"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony ratownik medyczny może awansować na kierownika stacji ratownictwa medycznego."
+  },
+  "Specjalista organizacji i zarządzania w ochronie zdrowia": {
+    "do": [
+      "Kierownik zakładu opieki zdrowotnej"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista organizacji ochrony zdrowia może awansować na kierownika zakładu opieki zdrowotnej."
+  }
+}

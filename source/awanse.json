@@ -497,5 +497,96 @@
   ],
   "pewnosc": "średnia",
   "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Specjalista ds. reklamy": {
+  "do": [
+   "Kierownik ds. reklamy"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Specjalista ds. public relations": {
+  "do": [
+   "Kierownik ds. public relations"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Specjalista ds. badań rynku": {
+  "do": [
+   "Kierownik ds. badań"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Specjalista ds. obsługi posprzedażowej": {
+  "do": [
+   "Kierownik ds. serwisu"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Konduktor": {
+  "do": [
+   "Kierownik pociągu"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Steward/stewardessa": {
+  "do": [
+   "Szef pokładu / szefowa pokładu"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Robotnik portowy": {
+  "do": [
+   "Brygadzista portowej ekipy przeładunkowej"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Spedytor": {
+  "do": [
+   "Koordynator spedycji międzynarodowej"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Dyżurny ruchu": {
+  "do": [
+   "Kierownik stacji kolejowej"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Mistrz produkcji w budownictwie": {
+  "do": [
+   "Kierownik budowy"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Serwisant pojazdów": {
+  "do": [
+   "Kierownik serwisu samochodowego"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Fizjoterapeuta": {
+  "do": [
+   "Główny fizjoterapeuta"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Specjalista ds. kadr": {
+  "do": [
+   "Kierownik działu zarządzania zasobami ludzkimi"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
  }
 }

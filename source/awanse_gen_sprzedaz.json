@@ -1,0 +1,100 @@
+{
+  "Sprzedawca/sprzedawczyni": {
+    "do": [
+      "Kierownik sklepu"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Sprzedawca w sklepie zostaje po awansie kierownikiem całego sklepu, odpowiadając za zespół i wyniki."
+  },
+  "Kasjer/kasjerka": {
+    "do": [
+      "Kierownik kas"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Kasjer po kilku latach pracy może zostać kierownikiem kas odpowiedzialnym za pracę wszystkich kasjerów."
+  },
+  "Specjalista ds. marketingu": {
+    "do": [
+      "Kierownik ds. reklamy"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista po doświadczeniu w kampaniach może przejąć kierowanie działem reklamy."
+  },
+  "Specjalista ds. reklamy": {
+    "do": [
+      "Kierownik ds. reklamy"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista ds. reklamy awansuje na kierownika odpowiedzialnego za cały obszar reklamy."
+  },
+  "Specjalista ds. public relations": {
+    "do": [
+      "Kierownik ds. public relations"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista PR po zdobyciu doświadczenia przejmuje kierowanie działem komunikacji."
+  },
+  "Rzecznik prasowy": {
+    "do": [
+      "Kierownik ds. public relations"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Rzecznik prasowy może awansować na kierownika działu PR odpowiedzialnego za strategię komunikacji."
+  },
+  "Specjalista ds. obsługi klienta": {
+    "do": [
+      "Kierownik ds. obsługi klienta"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista obsługi klienta po zdobyciu doświadczenia obejmuje kierowanie zespołem obsługi."
+  },
+  "Opiekun klienta": {
+    "do": [
+      "Kierownik ds. obsługi klienta"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Opiekun klienta z dużym portfelem może awansować na kierownika zespołu obsługi klienta."
+  },
+  "Zaopatrzeniowiec": {
+    "do": [
+      "Kierownik ds. logistyki i dystrybucji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Zaopatrzeniowiec po latach pracy może objąć kierowanie logistyką i dystrybucją."
+  },
+  "Specjalista ds. badań rynku": {
+    "do": [
+      "Kierownik ds. badań"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista badań rynku po doświadczeniu może kierować zespołem badawczym."
+  },
+  "Specjalista ds. kampanii politycznych": {
+    "do": [
+      "Szef sztabu wyborczego / szefowa sztabu wyborczego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista kampanii politycznych może awansować na szefa sztabu wyborczego."
+  },
+  "Menedżer produktów i usług": {
+    "do": [
+      "Kierownik ds. produktu"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Menedżer produktów i usług może awansować na kierownika odpowiedzialnego za produkt."
+  },
+  "Specjalista ds. obsługi posprzedażowej": {
+    "do": [
+      "Kierownik ds. serwisu"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista obsługi posprzedażowej po zdobyciu doświadczenia może kierować serwisem."
+  },
+  "Sprzedawca reklam": {
+    "do": [
+      "Kierownik ds. reklamy"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Sprzedawca reklam z dużym doświadczeniem może awansować na kierownika działu reklamy."
+  }
+}

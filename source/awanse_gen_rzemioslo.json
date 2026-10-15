@@ -1,0 +1,80 @@
+{
+  "Mechanik pojazdów samochodowych": {
+    "do": [
+      "Kierownik warsztatu samochodowego",
+      "Kierownik serwisu samochodowego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Mechanik po zdobyciu doświadczenia i uprawnień może prowadzić warsztat lub serwis."
+  },
+  "Serwisant pojazdów": {
+    "do": [
+      "Kierownik serwisu samochodowego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony serwisant może awansować na kierownika serwisu."
+  },
+  "Spawacz": {
+    "do": [
+      "Koordynator procesu spawalniczego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony spawacz może koordynować cały proces spawalniczy."
+  },
+  "Ślusarz": {
+    "do": [
+      "Mistrz produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Ślusarz z doświadczeniem może zostać mistrzem na hali produkcyjnej."
+  },
+  "Operator obrabiarki sterowanej numerycznie": {
+    "do": [
+      "Mistrz produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony operator CNC może objąć nadzór nad zmianą produkcyjną jako mistrz."
+  },
+  "Serwisant sprzętu komputerowego": {
+    "do": [
+      "Kierownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Serwisant z doświadczeniem może kierować działem wsparcia technicznego."
+  },
+  "Technik systemów telekomunikacyjnych": {
+    "do": [
+      "Kierownik działu telekomunikacji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony technik może objąć kierownictwo działu telekomunikacji."
+  },
+  "Stolarz meblowy": {
+    "do": [
+      "Mistrz produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Stolarz z doświadczeniem może nadzorować produkcję mebli jako mistrz."
+  },
+  "Szwacz/szwaczka": {
+    "do": [
+      "Kierownik ds. produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczona szwaczka może objąć kierownictwo produkcji odzieżowej."
+  },
+  "Obuwnik": {
+    "do": [
+      "Mistrz produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony obuwnik może nadzorować produkcję obuwia jako mistrz."
+  },
+  "Tkacz": {
+    "do": [
+      "Mistrz produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony tkacz może nadzorować zmianę produkcyjną jako mistrz."
+  }
+}

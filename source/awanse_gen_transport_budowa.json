@@ -1,0 +1,93 @@
+{
+  "Konduktor": {
+    "do": [
+      "Kierownik pociągu"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Konduktor może awansować na kierownika pociągu, odpowiedzialnego za cały skład i obsługę podróżnych."
+  },
+  "Steward/stewardessa": {
+    "do": [
+      "Szef pokładu / szefowa pokładu"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Steward po doświadczeniu zostaje szefem pokładu, koordynującym załogę kabinową podczas lotu."
+  },
+  "Robotnik portowy": {
+    "do": [
+      "Brygadzista portowej ekipy przeładunkowej"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony robotnik portowy może prowadzić ekipę przeładunkową jako brygadzista."
+  },
+  "Spedytor": {
+    "do": [
+      "Koordynator spedycji międzynarodowej"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Spedytor z doświadczeniem w transporcie może przejść do koordynowania spedycji międzynarodowej."
+  },
+  "Magazynier": {
+    "do": [
+      "Specjalista ds. logistyki"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Magazynier z wiedzą o procesach może awansować na specjalistę ds. logistyki odpowiedzialnego za planowanie przepływu towarów."
+  },
+  "Dyspozytor transportu samochodowego": {
+    "do": [
+      "Kierownik ds. logistyki i dystrybucji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Dyspozytor transportu, zarządzający przewozami, może objąć stanowisko kierownicze w logistyce i dystrybucji."
+  },
+  "Dyspozytor centrum dystrybucyjnego": {
+    "do": [
+      "Kierownik ds. logistyki i dystrybucji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Dyspozytor centrum dystrybucyjnego może awansować na kierownika odpowiedzialnego za logistykę i dystrybucję."
+  },
+  "Dyżurny ruchu": {
+    "do": [
+      "Kierownik stacji kolejowej"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony dyżurny ruchu może zostać kierownikiem stacji kolejowej odpowiedzialnym za cały ruch na stacji."
+  },
+  "Kierowca samochodu ciężarowego": {
+    "do": [
+      "Dyspozytor transportu samochodowego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Kierowca z doświadczeniem może przejść do dyspozytury, planując i nadzorując przewozy innych kierowców."
+  },
+  "Murarz": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony murarz może zostać mistrzem produkcji, kierującym pracą ekipy na budowie."
+  },
+  "Robotnik budowlany": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony robotnik budowlany może awansować na mistrza produkcji kierującego pracą ekipy."
+  },
+  "Mistrz produkcji w budownictwie": {
+    "do": [
+      "Kierownik budowy"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Mistrz produkcji może awansować na kierownika budowy, odpowiedzialnego za cały proces realizacji inwestycji."
+  },
+  "Technik inżynierii lądowej": {
+    "do": [
+      "Kierownik budowy"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Technik inżynierii lądowej z praktyką może objąć kierownictwo budowy po zdobyciu doświadczenia."
+  }
+}
