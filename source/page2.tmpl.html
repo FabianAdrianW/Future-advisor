@@ -646,6 +646,13 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     if (!tiles.length) return '';
     return '<section class="sec"><div class="sec-h"><h2>Dalej możesz</h2><p>Zawody, do których z tego zawodu często prowadzi droga.' + ' Źródło: ' + esc(A.zrodlo) + '. Pewność: ' + esc(A.pewnosc || 'średnia') + (A.pewnosc === 'średnia' ? ' — warto samemu sprawdzić, jak to wygląda w firmach.' : '.') + '</p></div><div class="list">' + tiles.map(function (x) { return row(x, -1); }).join('') + '</div></section>';
   }
+  function courseCard(n) {
+    var K = (DATA.kursy || {})[n.fn || n.n];
+    if (!K || !K.oferty || !K.oferty.length) return '';
+    return '<section class="sec"><div class="sec-h"><h2>Kursy i uprawnienia</h2><p>' + esc(K.info || '') + '</p></div><div class="list">' + K.oferty.map(function (o) {
+      return '<a class="row" href="' + esc(o.url) + '" target="_blank" rel="sponsored noopener"><span class="txt"><b>' + esc(o.nazwa) + '</b><span class="small">' + esc(o.opis || '') + '</span><span class="small">Reklama · partner</span></span></a>';
+    }).join('') + '</div>' + (K.darmowe ? '<p class="small">Bezpłatna ścieżka: <a href="' + esc(K.darmowe) + '" target="_blank" rel="noopener">sprawdź tutaj</a>.</p>' : '') + '</section>';
+  }
   function fitCard(n) {
     if (!hasProfile()) return '<section class="sec"><div class="card banner">' + img('bullseye', '', 64) + '<div class="txt"><b>Czy to zawód dla Ciebie?</b><span class="small">Zaznacz, co lubisz, a odpowiem przy każdym zawodzie.</span><button type="button" class="btn sm" data-act="edit">Zaznacz</button></div></div></section>';
     var l = level(n.w), tr = topRoots(n.w, 3, 0.2), mine = likes(tr, 3), p = profile();
@@ -691,7 +698,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     var desc = n.d || (n.fam ? 'Zawody z tej rodziny robią podobną pracę. Różnią się głównie branżą, maszyną albo produktem.' : '');
     h += '<section class="sec"><h2>Na czym polega</h2><p class="prose">' + esc(x && x.hook ? x.hook : desc) + '</p>' + (x && x.hook && desc ? '<p class="small">' + (n.own ? '' : 'Według klasyfikacji ESCO: ') + esc(desc) + '</p>' : '') + (n.own ? '<p class="small">Tego zawodu nie ma w naszej wersji klasyfikacji ESCO. Dodany na podstawie aktualnych zestawień nowych zawodów.</p>' : '') + '</section>';
     h += '<div id="details" style="display:flex;flex-direction:column;gap:26px">' + detailsBlock(n) + '</div>';
-    if (!n.c) h += marketCard(n) + payCard(n) + nextCard(n);
+    if (!n.c) h += marketCard(n) + payCard(n) + nextCard(n) + courseCard(n);
     if (n.s) h += '<section class="sec"><div class="sec-h"><h2>' + variants(n.s.length) + '</h2><p>Ta sama praca w różnych branżach lub specjalizacjach.</p></div><div class="specs">' + (n.s.length > 12 ? '<input class="field" id="specQ" type="search" placeholder="Filtruj odmiany" autocomplete="off" aria-label="Filtruj odmiany">' : '') +
       n.s.map(function (s, i) { return '<details' + (i === spec ? ' open class="hit"' : '') + ' data-h="' + esc(norm(s.n)) + '"><summary>' + esc(s.n.charAt(0).toUpperCase() + s.n.slice(1)) + '</summary><p>' + esc(s.d) + '</p></details>'; }).join('') + '</div></section>';
     if (n.a && n.a.length) h += '<p class="small" style="padding-inline:16px">Inne nazwy: ' + esc(n.a.join(', ')) + '</p>';
