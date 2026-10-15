@@ -249,6 +249,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
 .onb-scroll { flex: 1; min-height: 0; overflow-y: auto; padding: 24px 16px 16px; display: flex; flex-direction: column; gap: 16px; }
 .onb-head { display: flex; flex-direction: column; gap: 8px; }
 .onb-head img { width: 56px; height: 56px; filter: var(--sh-img); }
+.onb-head .onb-logo { width: 96px; height: 96px; filter: none; margin-bottom: 4px; }
 .onb-head p { font-size: 16px; line-height: 23px; color: var(--muted); text-wrap: pretty; }
 .grid3 { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
 .pick { position: relative; border: 2px solid transparent; background: var(--card); border-radius: 20px; padding: 10px 6px 10px; min-height: 112px; display: flex; flex-direction: column; align-items: center; gap: 6px; box-shadow: var(--sh); font-size: 13px; line-height: 16px; font-weight: 700; text-align: center; overflow-wrap: anywhere; }
@@ -270,7 +271,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   </nav>
   <section class="onb" id="onb" hidden aria-labelledby="onbTitle">
     <div class="onb-scroll">
-      <div class="onb-head"><img src="img/waving-hand.webp" alt="" width="56" height="56"><h1 id="onbTitle">Co lubisz robić?</h1><p>Wybierz co najmniej 3 rzeczy. Ustawię pod nie kierunki i przy każdym zawodzie powiem, czy do Ciebie pasuje.</p></div>
+      <div class="onb-head"><img class="onb-logo" src="img/logo.webp" alt="Future Advisor" width="96" height="96"><h1 id="onbTitle">Co lubisz robić?</h1><p>Wybierz co najmniej 3 rzeczy. Ustawię pod nie kierunki i przy każdym zawodzie powiem, czy do Ciebie pasuje.</p></div>
       <div class="grid3" id="picks"></div>
     </div>
     <div class="onb-bar"><button type="button" class="btn" id="onbGo" disabled>Wybierz jeszcze 3</button><button type="button" class="link" id="onbSkip">Na razie pomiń</button></div>
