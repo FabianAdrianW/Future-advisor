@@ -1,1 +1,17 @@
-{}
+{
+ "Operator wózka widłowego": {
+  "wymaga": "Zwykle potrzebne uprawnienia do obsługi wózka (szkolenie i egzamin UDT). Bez nich większość pracodawców nie zatrudni.",
+  "oferty": [],
+  "darmowe": null
+ },
+ "Spawacz": {
+  "wymaga": "Zwykle potrzebny certyfikat spawacza (egzamin i uprawnienia). Wymóg zależy od pracodawcy i rodzaju spawania.",
+  "oferty": [],
+  "darmowe": null
+ },
+ "Kierowca samochodu ciężarowego": {
+  "wymaga": "Potrzebne prawo jazdy kategorii C (często C+E) oraz kwalifikacje zawodowe kierowcy (kod 95).",
+  "oferty": [],
+  "darmowe": null
+ }
+}

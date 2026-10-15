@@ -648,7 +648,8 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   }
   function courseCard(n) {
     var K = (DATA.kursy || {})[n.fn || n.n];
-    if (!K || !K.oferty || !K.oferty.length) return '';
+    if (!K || !((K.oferty && K.oferty.length) || K.wymaga)) return '';
+    if (!K.oferty || !K.oferty.length) return '<section class="sec"><div class="sec-h"><h2>Kursy i uprawnienia</h2><p>' + esc(K.wymaga) + '</p></div></section>';
     return '<section class="sec"><div class="sec-h"><h2>Kursy i uprawnienia</h2><p>' + esc(K.info || '') + '</p></div><div class="list">' + K.oferty.map(function (o) {
       return '<a class="row" href="' + esc(o.url) + '" target="_blank" rel="sponsored noopener"><span class="txt"><b>' + esc(o.nazwa) + '</b><span class="small">' + esc(o.opis || '') + '</span><span class="small">Reklama · partner</span></span></a>';
     }).join('') + '</div>' + (K.darmowe ? '<p class="small">Bezpłatna ścieżka: <a href="' + esc(K.darmowe) + '" target="_blank" rel="noopener">sprawdź tutaj</a>.</p>' : '') + '</section>';
