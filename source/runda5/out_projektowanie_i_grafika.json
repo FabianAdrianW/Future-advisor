@@ -1,0 +1,22 @@
+{
+  "Projektant grafiki": {
+    "do": ["Kierownik artystyczny"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "W agencji projektant grafiki po kilku latach pracy awansuje na art directora, czyli kierownika zespołu kreatywnego."
+  },
+  "Twórca gier komputerowych": {
+    "do": ["Kierownik ds. rozwoju gier"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony twórca gier w studiu zwykle przechodzi na stanowisko prowadzącego rozwój gier, nadzorującego zespół."
+  },
+  "Projektant gier hazardowych, zakładów i loterii": {
+    "do": ["Kierownik ds. rozwoju gier"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Projektant gier w firmie z branży hazardowej awansuje na kierownika odpowiedzialnego za rozwój gier i zespół projektowy."
+  },
+  "Projektant wyrobów tekstylnych": {
+    "do": ["Kierownik ds. rozwoju produktów w branży odzieżowej"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "W firmie odzieżowej projektant wyrobów po okresie samodzielnej pracy zwykle obejmuje kierowanie rozwojem kolekcji i produktów."
+  }
+}

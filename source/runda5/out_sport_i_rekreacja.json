@@ -1,0 +1,32 @@
+{
+  "Instruktor rekreacji ruchowej": {
+    "do": ["Koordynator programów sportowych"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Instruktor prowadzący zajęcia w ośrodku awansuje na koordynatora, który planuje i nadzoruje programy sportowe tej samej placówki."
+  },
+  "Wyspecjalizowany instruktor rekreacji ruchowej": {
+    "do": ["Koordynator programów sportowych"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista prowadzący zajęcia ruchowe przechodzi na rolę koordynującą programy sportowe w ośrodku, zachowując zakres merytoryczny."
+  },
+  "Instruktor sportu": {
+    "do": ["Koordynator programów sportowych"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Instruktor sportu w klubie lub ośrodku awansuje na koordynatora odpowiedzialnego za cały program sportowy placówki."
+  },
+  "Pracownik do spraw kultury fizycznej i sportu": {
+    "do": ["Koordynator programów sportowych"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik ds. kultury fizycznej w gminie lub szkole przechodzi na stanowisko koordynatora programów sportowych z szerszym zakresem odpowiedzialności."
+  },
+  "Instruktor kulturalno-oświatowy": {
+    "do": ["Kierownik domu kultury"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Instruktor w domu kultury awansuje na kierownika tej samej placówki, przejmując zarządzanie jej pracą i budżetem."
+  },
+  "Instruktor ratownictwa": {
+    "do": ["Kierownik stacji ratownictwa"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Instruktor ratownictwa w organizacji ratowniczej awansuje na kierownika stacji, odpowiedzialnego za jej funkcjonowanie i personel."
+  }
+}

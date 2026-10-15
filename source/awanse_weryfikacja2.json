@@ -1,0 +1,233 @@
+[
+ {
+  "plik": "awanse_gen_finanse.json",
+  "zawod": "Krupier",
+  "cel": "Kierownik sali w kasynie",
+  "werdykt": "do_przegladu",
+  "powod": "Zwykle pośredni szczebel (inspektor sali) leży między krupierem a kierownikiem sali."
+ },
+ {
+  "plik": "awanse_gen_finanse.json",
+  "zawod": "Bukmacher",
+  "cel": "Kierownik punktu zakładów bukmacherskich",
+  "werdykt": "przyjety",
+  "powod": "Typowy awans z pracownika punktu na kierownika tego samego punktu."
+ },
+ {
+  "plik": "awanse_gen_finanse.json",
+  "zawod": "Doradca kredytowy",
+  "cel": "Kierownik ds. kredytów",
+  "werdykt": "przyjety",
+  "powod": "Doradca kredytowy naturalnie awansuje na kierownika zespołu/działu kredytów."
+ },
+ {
+  "plik": "awanse_gen_finanse.json",
+  "zawod": "Analityk kredytowy",
+  "cel": "Kierownik ds. kredytów",
+  "werdykt": "przyjety",
+  "powod": "Analityk kredytowy awansuje na kierownika działu kredytów w tej samej branży."
+ },
+ {
+  "plik": "awanse_gen_finanse.json",
+  "zawod": "Pracownik do spraw kredytów hipotecznych",
+  "cel": "Kierownik ds. kredytów",
+  "werdykt": "przyjety",
+  "powod": "Specjalista kredytów hipotecznych awansuje na kierownika ds. kredytów."
+ },
+ {
+  "plik": "awanse_gen_finanse.json",
+  "zawod": "Pracownik ds. audytu",
+  "cel": "Kierownik działu audytu",
+  "werdykt": "do_przegladu",
+  "powod": "Zwykle pomiędzy jest stanowisko starszego audytora, więc to może być skok o dwa poziomy."
+ },
+ {
+  "plik": "awanse_gen_inzynieria.json",
+  "zawod": "Inżynier mechanik",
+  "cel": "Kierownik ds. produkcji",
+  "werdykt": "do_przegladu",
+  "powod": "Inżynier mechanik nie musi pracować w produkcji, cel jest zbyt ogólny."
+ },
+ {
+  "plik": "awanse_gen_inzynieria.json",
+  "zawod": "Inżynier produkcji",
+  "cel": "Kierownik ds. produkcji",
+  "werdykt": "przyjety",
+  "powod": "Inżynier produkcji awansuje wprost na kierownika produkcji."
+ },
+ {
+  "plik": "awanse_gen_inzynieria.json",
+  "zawod": "Inżynier energetyki",
+  "cel": "Kierownik ds. energii",
+  "werdykt": "do_przegladu",
+  "powod": "Ścieżka plausible, ale rola kierownika ds. energii bywa wyżej niż jeden poziom."
+ },
+ {
+  "plik": "awanse_gen_inzynieria.json",
+  "zawod": "Inżynier chemik",
+  "cel": "Kierownik zakładu w przemyśle chemicznym",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik całego zakładu to zwykle skok o kilka poziomów od inżyniera."
+ },
+ {
+  "plik": "awanse_gen_inzynieria.json",
+  "zawod": "Inżynier naftowy",
+  "cel": "Kierownik ds. produkcji w górnictwie ropy naftowej i gazu",
+  "werdykt": "przyjety",
+  "powod": "Inżynier naftowy awansuje na kierownika produkcji w tej samej branży."
+ },
+ {
+  "plik": "awanse_gen_inzynieria.json",
+  "zawod": "Inżynier ds. komunikacji",
+  "cel": "Kierownik działu telekomunikacji",
+  "werdykt": "odrzucony",
+  "powod": "Inżynier ds. komunikacji (transportowej) nie jest z branży telekomunikacyjnej, dopasowanie po podobieństwie słów."
+ },
+ {
+  "plik": "awanse_gen_inzynieria.json",
+  "zawod": "Inżynier ds. serwisu technicznego",
+  "cel": "Kierownik ds. serwisu",
+  "werdykt": "przyjety",
+  "powod": "Inżynier serwisu awansuje na kierownika serwisu w tej samej firmie."
+ },
+ {
+  "plik": "awanse_gen_inzynieria.json",
+  "zawod": "Specjalista ds. logistyki",
+  "cel": "Kierownik ds. logistyki i dystrybucji",
+  "werdykt": "przyjety",
+  "powod": "Specjalista logistyki awansuje na kierownika logistyki."
+ },
+ {
+  "plik": "awanse_gen_inzynieria.json",
+  "zawod": "Technik mechanik",
+  "cel": "Kierownik prac konserwacyjnych i remontowych",
+  "werdykt": "do_przegladu",
+  "powod": "Technik zwykle najpierw zostaje brygadzistą lub mistrzem, więc to może być skok."
+ },
+ {
+  "plik": "awanse_gen_inzynieria.json",
+  "zawod": "Inżynier ds. rozwoju kopalni",
+  "cel": "Kierownik ds. produkcji w kopalni",
+  "werdykt": "do_przegladu",
+  "powod": "Rola rozwojowa i produkcyjna różnią się, nie jest jasne, że to jeden poziom wyżej."
+ },
+ {
+  "plik": "awanse_gen_inzynieria.json",
+  "zawod": "Technik mechanik urządzeń przemysłowych",
+  "cel": "Mistrz montażu w przemyśle",
+  "werdykt": "do_przegladu",
+  "powod": "Plausible, ale zależy od tego, czy firma ma montaż; możliwy ruch boczny."
+ },
+ {
+  "plik": "awanse_gen_inzynieria.json",
+  "zawod": "Inżynier ds. testów",
+  "cel": "Kierownik ds. jakości",
+  "werdykt": "do_przegladu",
+  "powod": "Testy i jakość to pokrewne, ale odmienne funkcje; ścieżka niepewna."
+ },
+ {
+  "plik": "awanse_gen_inzynieria.json",
+  "zawod": "Metalurg",
+  "cel": "Kierownik odlewni",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik odlewni to wyższy szczebel niż metalurg, możliwy skok o więcej niż jeden poziom."
+ },
+ {
+  "plik": "awanse_gen_przemysl.json",
+  "zawod": "Pracownik pralni",
+  "cel": "Brygadzista w pralni",
+  "werdykt": "przyjety",
+  "powod": "Pracownik pralni awansuje na brygadzistę w tej samej pralni."
+ },
+ {
+  "plik": "awanse_gen_przemysl.json",
+  "zawod": "Monter maszyn i urządzeń przemysłowych",
+  "cel": "Mistrz montażu w przemyśle",
+  "werdykt": "do_przegladu",
+  "powod": "Między monterem a mistrzem zwykle jest brygadzista, możliwy skok."
+ },
+ {
+  "plik": "awanse_gen_przemysl.json",
+  "zawod": "Kontroler jakości wyrobów",
+  "cel": "Kierownik ds. jakości",
+  "werdykt": "do_przegladu",
+  "powod": "Kontroler jakości zwykle najpierw zostaje starszym kontrolerem lub specjalistą, skok o kilka poziomów."
+ },
+ {
+  "plik": "awanse_gen_przemysl.json",
+  "zawod": "Inspektor jakości konfekcji",
+  "cel": "Kierownik ds. jakości",
+  "werdykt": "odrzucony",
+  "powod": "Cel ogólny, a inspektor konfekcji to wąska specjalizacja; skok o kilka poziomów."
+ },
+ {
+  "plik": "awanse_gen_przemysl.json",
+  "zawod": "Technik stacji uzdatniania wody",
+  "cel": "Kierownik stacji uzdatniania wody",
+  "werdykt": "do_przegladu",
+  "powod": "Plausible, ale skok od technika do kierownika stacji może pomijać stanowisko zmianowe."
+ },
+ {
+  "plik": "awanse_gen_przemysl.json",
+  "zawod": "Wiertacz",
+  "cel": "Główny wiertacz",
+  "werdykt": "przyjety",
+  "powod": "Wiertacz awansuje na głównego wiertacza w tej samej ekipie."
+ },
+ {
+  "plik": "awanse_gen_przemysl.json",
+  "zawod": "Operator w zakładzie przetwórstwa gazu",
+  "cel": "Brygadzista w zakładzie przetwórstwa gazu",
+  "werdykt": "przyjety",
+  "powod": "Operator awansuje na brygadzistę w tym samym zakładzie."
+ },
+ {
+  "plik": "awanse_gen_przemysl.json",
+  "zawod": "Operator centralnej sterowni w rafinerii ropy naftowej",
+  "cel": "Kierownik zmiany w rafinerii",
+  "werdykt": "przyjety",
+  "powod": "Operator sterowni awansuje na kierownika zmiany w rafinerii."
+ },
+ {
+  "plik": "awanse_gen_rolnictwo_sztuka.json",
+  "zawod": "Lekarz weterynarii",
+  "cel": "Główny lekarz weterynarii",
+  "werdykt": "do_przegladu",
+  "powod": "Funkcja głównego lekarza zależy od wielkości placówki; nie zawsze to jeden poziom."
+ },
+ {
+  "plik": "awanse_gen_rolnictwo_sztuka.json",
+  "zawod": "Pracownik schroniska dla zwierząt",
+  "cel": "Kierownik schroniska dla psów",
+  "werdykt": "do_przegladu",
+  "powod": "Skok od pracownika do kierownika i wąski cel (psy)."
+ },
+ {
+  "plik": "awanse_gen_rolnictwo_sztuka.json",
+  "zawod": "Sadownik",
+  "cel": "Kierownik gospodarstwa sadowniczego",
+  "werdykt": "do_przegladu",
+  "powod": "Sadownik bywa właścicielem gospodarstwa, więc awans w firmie jest niejasny."
+ },
+ {
+  "plik": "awanse_gen_rolnictwo_sztuka.json",
+  "zawod": "Montażysta obrazu",
+  "cel": "Kierownik postprodukcji",
+  "werdykt": "do_przegladu",
+  "powod": "Plausible, ale bywa skok o kilka poziomów w branży filmowej."
+ },
+ {
+  "plik": "awanse_gen_rolnictwo_sztuka.json",
+  "zawod": "Animator kultury",
+  "cel": "Kierownik domu kultury",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik domu kultury to zwykle konkurs na dyrektora, skok o kilka poziomów."
+ },
+ {
+  "plik": "awanse_gen_rolnictwo_sztuka.json",
+  "zawod": "Technik estradowy",
+  "cel": "Kierownik produkcji widowisk",
+  "werdykt": "do_przegladu",
+  "powod": "Techniczny na produkcyjny to inna ścieżka, możliwy ruch boczny lub skok."
+ }
+]

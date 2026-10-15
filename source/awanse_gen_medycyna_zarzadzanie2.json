@@ -1,0 +1,23 @@
+{
+  "Pielęgniarz/pielęgniarka praktyki ogólnej": {
+    "do": [
+      "Koordynator szpitalnego bloku operacyjnego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pielęgniarka z doświadczeniem w pracy klinicznej może objąć koordynację szpitalnego bloku operacyjnego, czyli kolejny szczebel zarządczy w tej samej dziedzinie."
+  },
+  "Administrator ds. sportu": {
+    "do": [
+      "Kierownik ośrodka sportowego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Administrator obiektów sportowych po zdobyciu doświadczenia w zarządzaniu obiektem może przejąć kierowanie całym ośrodkiem sportowym."
+  },
+  "Lekarz – specjalista": {
+    "do": [
+      "Kierownik przychodni"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Lekarz specjalista z doświadczeniem może zostać kierownikiem przychodni, co jest typowym kolejnym krokiem zarządczym w karierze lekarza."
+  }
+}

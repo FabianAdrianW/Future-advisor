@@ -1,0 +1,108 @@
+Dyrektor portu lotniczego
+Dyrektor sieci transportu rurociągowego
+Dystrybutor filmowy
+Kierownik ds. logistyki i dystrybucji
+Kierownik stacji kolejowej
+Kierownik w firmie przeprowadzkowej
+Specjalista ds. zarządzania ruchem lotniczym
+Agent celny
+Koordynator spedycji międzynarodowej
+Doradca do spraw bezpieczeństwa przewozu towarów niebezpiecznych w zakresie transportu drogowego
+Dyspozytor lotniczy
+Dyspozytor stacji pilotowej
+Dyspozytor taxi
+Dyspozytor tramwajów
+Dyspozytor transportu samochodowego
+Ekspedytor
+Kierownik eksploatacji rurociągów
+Kontroler ruchu kolejowego
+Koordynator ds. przeprowadzek
+Koordynator eksploatacji statków
+Koordynator ruchu statków
+Operator systemu przesyłu bagażu
+Pracownik systemu przesyłowego gazu ziemnego
+Specjalista ds. dystrybucji gazu
+Specjalista ds. logistyki kolejowej
+Specjalista ds. planowania statków
+Specjalista ds. spedycji lotniczej
+Specjalista ds. techniki taboru
+Zarządca portu
+Magazynier surowców
+Magazynier w fabryce obuwia
+Magazynier w fabryce wyrobów skórzanych
+Operator przyjęć surowców
+Pracownik magazynu odzieżowego
+Planista produkcyjny
+Instruktor pilotażu
+Mechanik pokładowy
+Pierwszy oficer - lotnictwo
+Pilot samolotowy liniowy
+Pilot samolotowy zawodowy
+Pilot statku powietrznego
+Pilot śmigłowcowy
+Prywatny pilot
+Astronauta
+Technik mechanik lotniczy
+Informator służby informacji powietrznej
+Kontroler ruchu lotniczego
+Pracownik ds. operacji lotniskowych
+Pracownik służby informacji lotniczej
+Inspektor lotniczy
+Pracownik lotniczych służb operacyjnych
+Kapitan statku morskiego
+Kapitan żeglugi śródlądowej
+Oficer pokładowy
+Pilot morski
+Stermotorzysta żeglugi śródlądowej
+Drugi oficer mechanik
+Mechanik urządzeń chłodniczych w rybołówstwie
+Mechanik wachtowy
+Oficer mechanik
+Technik urządzeń ruchu lotniczego
+Brygadzista portowej ekipy przeładunkowej
+Dyspozytor centrum dystrybucyjnego
+Operator sprzętu intermodalnego transportu kolejowego
+Pracownik przeprowadzkowy
+Pracownik sortowni bagażu
+Kurier rowerowy
+Pracownik rozkładający towar na półkach
+Prowadzący pojazdy ciągnięte przez zwierzęta
+Kierowca - operator tankowania statków powietrznych
+Kierowca betoniarki
+Kierowca przewożący towary niebezpieczne
+Kierowca wozu strażackiego
+Kierowca-ładowacz
+Pracownik ds. transportu żywych zwierząt
+Kierowca autobusu
+Kierowca trolejbusu
+Kierujący tramwajem
+Asystent lotu
+Asystent obsługi podróżnego
+Steward statku / stewardesa statku
+Kontroler biletów
+Kierownik pociągu
+Pracownik obsługi podróżnych na stacjach kolejowych
+Szef pokładu / szefowa pokładu
+Kierowca bankowozu
+Kierowca karawanu
+Kierowca transportu medycznego
+Kurier motocyklowy
+Parkingowy
+Prywatny kierowca
+Bosman
+Marynarz motorzysta żeglugi śródlądowej
+Marynarz statku morskiego
+Marynarz żeglugi śródlądowej
+Młodszy marynarz na statkach morskich
+Młodszy marynarz żeglugi śródlądowej
+Rybak
+Dróżnik przejazdowy
+Manewrowy
+Maszynista
+Przygotowujący pociąg
+Zwrotniczy
+Instruktor nauki jazdy
+Instruktor nauki jazdy autobusem
+Instruktor nauki jazdy motorem
+Instruktor nauki jazdy samochodem ciężarowym
+Instruktor nauki jazdy samochodem osobowym

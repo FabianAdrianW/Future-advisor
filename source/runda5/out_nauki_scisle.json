@@ -1,0 +1,23 @@
+{
+  "Technik ochrony środowiska": {
+    "do": [
+      "Specjalista ochrony środowiska"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Technik przechodzi na stanowisko specjalisty w tej samej dziedzinie, typowy awans o jeden poziom."
+  },
+  "Fizyk": {
+    "do": [
+      "Kierownik ds. badań"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Badacz prowadzący projekty awansuje na kierownika zespołu badawczego w instytucji naukowej."
+  },
+  "Chemik": {
+    "do": [
+      "Kierownik ds. badań"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Chemik-badacz awansuje na kierownika zespołu badawczego w laboratorium lub instytucie."
+  }
+}

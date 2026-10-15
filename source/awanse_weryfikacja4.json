@@ -1,0 +1,121 @@
+[
+ {
+  "plik": "awanse_gen_przyroda_nauki.json",
+  "zawod": "Ekolog",
+  "cel": "Kierownik ds. ochrony środowiska",
+  "werdykt": "przyjety",
+  "powod": "Specjalista ds. środowiska naturalnie awansuje na kierownika ds. ochrony środowiska."
+ },
+ {
+  "plik": "awanse_gen_przyroda_nauki.json",
+  "zawod": "Inspektor ochrony środowiska",
+  "cel": "Kierownik ds. ochrony środowiska",
+  "werdykt": "przyjety",
+  "powod": "Inspektor to typowa ścieżka do kierownika ds. ochrony środowiska."
+ },
+ {
+  "plik": "awanse_gen_przyroda_nauki.json",
+  "zawod": "Inżynier inżynierii środowiska",
+  "cel": "Kierownik ds. ochrony środowiska",
+  "werdykt": "przyjety",
+  "powod": "Inżynier środowiska może objąć stanowisko kierownika ds. ochrony środowiska w firmie."
+ },
+ {
+  "plik": "awanse_gen_przyroda_nauki.json",
+  "zawod": "Chemik",
+  "cel": "Kierownik zakładu w przemyśle chemicznym",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik całego zakładu chemicznego to zbyt luźne, wielostopniowe dopasowanie dla chemika."
+ },
+ {
+  "plik": "awanse_gen_przyroda_nauki.json",
+  "zawod": "Fizyk",
+  "cel": "Kierownik ds. badań i rozwoju",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ds. B+R jest możliwy, ale zależy od tego, czy fizyk pracuje w przemyśle, czy w nauce."
+ },
+ {
+  "plik": "awanse_gen_przyroda_nauki.json",
+  "zawod": "Statystyk",
+  "cel": "Kierownik badania ankietowego",
+  "werdykt": "do_przegladu",
+  "powod": "Kierowanie badaniem ankietowym to rola projektowa, niepewny szczebel awansu."
+ },
+ {
+  "plik": "awanse_gen_przyroda_nauki.json",
+  "zawod": "Specjalista ds. jakości wody",
+  "cel": "Kierownik stacji uzdatniania wody",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik stacji uzdatniania to inny zakres (zarządzanie obiektem), wymaga sprawdzenia."
+ },
+ {
+  "plik": "awanse_gen_przyroda_nauki.json",
+  "zawod": "Biolog",
+  "cel": "Kierownik ds. badań",
+  "werdykt": "do_przegladu",
+  "powod": "Cel ogólny, bez wskazania branży, trudno ocenić realność awansu."
+ },
+ {
+  "plik": "awanse_gen_projekt_spolecz.json",
+  "zawod": "Projektant gier",
+  "cel": "Kierownik ds. rozwoju gier",
+  "werdykt": "przyjety",
+  "powod": "Projektant gier awansuje na kierownika rozwoju gier w studiu."
+ },
+ {
+  "plik": "awanse_gen_projekt_spolecz.json",
+  "zawod": "Twórca gier komputerowych",
+  "cel": "Kierownik ds. rozwoju gier",
+  "werdykt": "do_przegladu",
+  "powod": "Nazwa zawodu ogólna, niejasne czy to programista, czy projektant."
+ },
+ {
+  "plik": "awanse_gen_projekt_spolecz.json",
+  "zawod": "Projektant wzornictwa przemysłowego",
+  "cel": "Kierownik ds. rozwoju produktu",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik rozwoju produktu to często inna ścieżka (produktowa), wymaga przeglądu."
+ },
+ {
+  "plik": "awanse_gen_projekt_spolecz.json",
+  "zawod": "Projektant wyrobów tekstylnych",
+  "cel": "Kierownik ds. rozwoju produktów w branży odzieżowej",
+  "werdykt": "do_przegladu",
+  "powod": "Cel dotyczy branży odzieżowej, a zawód wyrobów tekstylnych, dopasowanie niepewne."
+ },
+ {
+  "plik": "awanse_gen_projekt_spolecz.json",
+  "zawod": "Bibliotekarz",
+  "cel": "Kierownik biblioteki",
+  "werdykt": "przyjety",
+  "powod": "Bibliotekarz awansuje na kierownika biblioteki."
+ },
+ {
+  "plik": "awanse_gen_projekt_spolecz.json",
+  "zawod": "Muzealnik",
+  "cel": "Kierownik placówki kulturalnej",
+  "werdykt": "do_przegladu",
+  "powod": "Cel ogólny (placówka kulturalna), a nie muzeum, więc dopasowanie niepewne."
+ },
+ {
+  "plik": "awanse_gen_medycyna_zarzadzanie2.json",
+  "zawod": "Pielęgniarz/pielęgniarka praktyki ogólnej",
+  "cel": "Koordynator szpitalnego bloku operacyjnego",
+  "werdykt": "do_przegladu",
+  "powod": "Koordynator bloku operacyjnego wymaga specjalizacji, nie jest prostym awansem z praktyki ogólnej."
+ },
+ {
+  "plik": "awanse_gen_medycyna_zarzadzanie2.json",
+  "zawod": "Administrator ds. sportu",
+  "cel": "Kierownik ośrodka sportowego",
+  "werdykt": "przyjety",
+  "powod": "Administrator sportu naturalnie awansuje na kierownika ośrodka sportowego."
+ },
+ {
+  "plik": "awanse_gen_medycyna_zarzadzanie2.json",
+  "zawod": "Lekarz – specjalista",
+  "cel": "Kierownik przychodni",
+  "werdykt": "do_przegladu",
+  "powod": "Lekarz specjalista zwykle awansuje na ordynatora, kierownik przychodni to ścieżka częściowo boczna."
+ }
+]

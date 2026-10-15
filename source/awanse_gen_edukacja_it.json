@@ -1,0 +1,58 @@
+{
+ "Nauczyciel przedszkola/nauczycielka przedszkola": {
+  "do": [
+   "Kierownik przedszkola"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Nauczyciel przedszkola może awansować na kierownika placówki przedszkolnej, zachowując pracę pedagogiczną w tym samym sektorze."
+ },
+ "Nauczyciel akademicki": {
+  "do": [
+   "Kierownik katedry uniwersyteckiej"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Nauczyciel akademicki może objąć kierowanie katedrą, co jest typowym awansem w karierze uczelnianej."
+ },
+ "Analityk biznesowy w dziedzinie technologii informacyjno-telekomunikacyjnych": {
+  "do": [
+   "Kierownik ds. analizy biznesowej w zakresie technologii informacyjno-telekomunikacyjnych"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Doświadczony analityk biznesowy przejmuje odpowiedzialność za zespół analityczny w tym samym obszarze."
+ },
+ "Twórca oprogramowania": {
+  "do": [
+   "Kierownik ds. oprogramowania"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Programista z doświadczeniem może przejść na kierownika zespołu odpowiedzialnego za oprogramowanie."
+ },
+ "Tester oprogramowania": {
+  "do": [
+   "Kierownik kontroli jakości technologii informacyjno-telekomunikacyjnych"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Tester po awansie kieruje kontrolą jakości w zespole technologicznym."
+ },
+ "Technik technologii informacyjno-telekomunikacyjnych": {
+  "do": [
+   "Kierownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Technik wsparcia IT może awansować na kierownika działu pomocy technicznej."
+ },
+ "Pracownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych": {
+  "do": [
+   "Kierownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Pracownik helpdesku może awansować na kierownika tego samego działu."
+ },
+ "Administrator systemów informacyjno-telekomunikacyjnych": {
+  "do": [
+   "Kierownik ds. eksploatacji technologii informacyjno-telekomunikacyjnych"
+  ],
+  "pewnosc": "średnia",
+  "uzasadnienie": "Administrator systemów może awansować na kierownika odpowiedzialnego za eksploatację technologii."
+ }
+}

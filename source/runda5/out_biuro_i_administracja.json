@@ -1,0 +1,42 @@
+{
+  "Koordynator centrum obsługi klienta": {
+    "do": ["Kierownik centrum obsługi klienta"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Koordynator zespołu obsługi klienta w typowej firmie awansuje na kierownika całego centrum, czyli o jeden szczebel wyżej w tej samej ścieżce."
+  },
+  "Koordynator call centre": {
+    "do": ["Kierownik call centre"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Koordynator odpowiadający za pracę zespołu w call centre awansuje na kierownika tego call centre, czyli o jeden poziom wyżej."
+  },
+  "Pracownik centrum obsługi klienta": {
+    "do": ["Koordynator centrum obsługi klienta"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik operacyjny centrum obsługi klienta awansuje zwykle na koordynatora, przejmującego nadzór nad zmianą lub zespołem."
+  },
+  "Pracownik działu obsługi klienta": {
+    "do": ["Specjalista ds. obsługi klienta"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik wykonawczy obsługi klienta awansuje zwykle na specjalistę, który przejmuje trudniejsze sprawy i samodzielne decyzje."
+  },
+  "Pracownik ds. członkowskich": {
+    "do": ["Specjalista do spraw członkowskich"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik realizujący czynności członkowskie awansuje na specjalistę odpowiedzialnego za cały obszar członkostwa."
+  },
+  "Ankieter": {
+    "do": ["Specjalista ds. badań rynku"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Ankieter wykonujący badania terenowe awansuje na specjalistę, który projektuje badanie i analizuje jego wyniki."
+  },
+  "Ankieter w dziale analiz i badań rynkowych": {
+    "do": ["Specjalista ds. badań rynku"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Ankieter w dziale badawczym awansuje na specjalistę ds. badań rynku, przejmującego projektowanie i interpretację badań."
+  },
+  "Asystent chiropraktyka": {
+    "do": ["Specjalista chiropraktyk"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Asystent wspierający chiropraktyka po uzyskaniu odpowiednich uprawnień może przejść do samodzielnego wykonywania zabiegów jako specjalista."
+  }
+}

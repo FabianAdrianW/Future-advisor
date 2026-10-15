@@ -1,0 +1,44 @@
+{
+  "Krupier": {
+    "do": [
+      "Kierownik sali w kasynie"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Krupier po awansie zostaje kierownikiem sali w kasynie, nadzorując pracę innych krupierów i stoły."
+  },
+  "Bukmacher": {
+    "do": [
+      "Kierownik punktu zakładów bukmacherskich"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Bukmacher awansuje na kierownika punktu, odpowiadając za obsługę zakładów, personel i wyniki placówki."
+  },
+  "Doradca kredytowy": {
+    "do": [
+      "Kierownik ds. kredytów"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doradca kredytowy po awansie zarządza zespołem doradców i procesem udzielania kredytów."
+  },
+  "Analityk kredytowy": {
+    "do": [
+      "Kierownik ds. kredytów"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Analityk kredytowy z doświadczeniem może przejąć kierowanie zespołem ds. kredytów i zatwierdzaniem decyzji."
+  },
+  "Pracownik do spraw kredytów hipotecznych": {
+    "do": [
+      "Kierownik ds. kredytów"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik ds. kredytów hipotecznych po awansie kieruje działem kredytowym i jego zespołem."
+  },
+  "Pracownik ds. audytu": {
+    "do": [
+      "Kierownik działu audytu"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik ds. audytu po awansie kieruje działem audytu i planowaniem kontroli."
+  }
+}

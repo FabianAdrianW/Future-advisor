@@ -1,0 +1,65 @@
+Charakteryzator/charakteryzatorka
+Konsultant ds. odchudzania i odżywania / konsultantka ds. odchudzania i odżywiania
+Konsultant w solarium / konsultantka w solarium
+Manikiurzysta/manikiurzystka
+Masażysta/masażystka
+Pedikiurzysta/pedikiurzystka
+Pracownik salonu piękności / pracownica salonu piękności
+Pracownik spa / pracownica spa
+Specjalista ds. depilacji
+Stylista osobisty/stylistka osobista
+Wizażysta i stylista fryzur / wizażystka i stylistka fryzur
+Asystent fryzjera / asystentka fryzjera
+Fryzjer filmowo-teatralny
+Fryzjer męski / fryzjerka męska
+Fryzjer/fryzjerka
+Stylista fryzur / stylistka fryzur
+Astrolog
+Medium
+Parapsycholog
+Wróżbita/wróżbiarka
+Kierownik zakładu usług pogrzebowych
+Pracownik cmentarza
+Pracownik zakładu pogrzebowego
+Tanatoprakser
+Doradca matrymonialny / doradczyni matrymonialna
+Host/hostessa
+Osoba do towarzystwa
+Osoba do towarzystwa dla starszej osoby
+Bileter/bileterka
+Montażysta reklam
+Operator atrakcji turystycznej
+Pracownik obsługi w wesołych miasteczkach i parkach rozrywki
+Pracownik pralni samoobsługowej
+Pracownik przechowalni bagażu
+Szatniarz/szatniarka
+Odźwierny
+Portier hotelowy
+Odczytywacz liczników
+Wybieracz monet/żetonów z automatów
+Majordomus
+Organizator usług domowych / organizatorka usług domowych
+Gospodarz domu
+Kamerdyner
+Kościelny
+Opiekun domu
+Osoba prowadząca pensjonat
+Przełożony serwisu sprzątającego / przełożona serwisu sprzątającego
+Sprzątacz wesołych miasteczek
+Czyściciel basenów pływackich
+Czyściciel dywanów
+Osoba do czyszczenia i udrażniania kanalizacji
+Sprzątacz pojazdów/sprzątaczka pojazdów
+Zmywacz okien
+Czyściciel mebli
+Sprzątacz domowy/sprzątaczka domowa
+Sprzątacz samolotów/sprzątaczka samolotów
+Sprzątacz toalet/sprzątaczka toalet
+Sprzątacz wagonów kolejowych
+Kierownik biura podróży
+Kierownik centrum informacji turystycznej
+Kierownik centrum obsługi klienta
+Kierownik pralni
+Kierownik warsztatu samochodowego
+Zarządca terenu kempingowego
+Dystrybutor ulotek

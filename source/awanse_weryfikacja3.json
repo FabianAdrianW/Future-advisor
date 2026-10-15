@@ -1,0 +1,219 @@
+[
+ {
+  "plik": "awanse_gen_edukacja_it.json",
+  "zawod": "Nauczyciel przedszkola/nauczycielka przedszkola",
+  "cel": "Kierownik przedszkola",
+  "werdykt": "do_przegladu",
+  "powod": "Dyrektor przedszkola to realna ścieżka, ale wymaga stażu i kwalifikacji menedżerskich, więc skok jest niepewny."
+ },
+ {
+  "plik": "awanse_gen_edukacja_it.json",
+  "zawod": "Nauczyciel akademicki",
+  "cel": "Kierownik katedry uniwersyteckiej",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik katedry wymaga habilitacji i pomija stopnie pośrednie, więc skok jest wątpliwy."
+ },
+ {
+  "plik": "awanse_gen_edukacja_it.json",
+  "zawod": "Analityk biznesowy w dziedzinie technologii informacyjno-telekomunikacyjnych",
+  "cel": "Kierownik ds. analizy biznesowej w zakresie technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "do_przegladu",
+  "powod": "Przejście na kierownika pomija poziom starszego analityka, więc może to być skok o kilka poziomów."
+ },
+ {
+  "plik": "awanse_gen_edukacja_it.json",
+  "zawod": "Twórca oprogramowania",
+  "cel": "Kierownik ds. oprogramowania",
+  "werdykt": "odrzucony",
+  "powod": "Z programisty na kierownika oprogramowania prowadzi droga przez seniora i lidera zespołu, więc to skok o kilka poziomów."
+ },
+ {
+  "plik": "awanse_gen_edukacja_it.json",
+  "zawod": "Tester oprogramowania",
+  "cel": "Kierownik kontroli jakości technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "odrzucony",
+  "powod": "Z testera na kierownika kontroli jakości ICT to skok o kilka poziomów z pominięciem seniora i lidera."
+ },
+ {
+  "plik": "awanse_gen_edukacja_it.json",
+  "zawod": "Technik technologii informacyjno-telekomunikacyjnych",
+  "cel": "Kierownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "odrzucony",
+  "powod": "Z technika na kierownika działu pomocy technicznej to skok o kilka poziomów."
+ },
+ {
+  "plik": "awanse_gen_edukacja_it.json",
+  "zawod": "Pracownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych",
+  "cel": "Kierownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "do_przegladu",
+  "powod": "Awans na kierownika helpdesku jest częsty, ale zwykle poprzedza go rola lidera zmiany."
+ },
+ {
+  "plik": "awanse_gen_edukacja_it.json",
+  "zawod": "Administrator systemów informacyjno-telekomunikacyjnych",
+  "cel": "Kierownik ds. eksploatacji technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ds. eksploatacji ICT to naturalny kierunek, lecz pomija poziom starszego administratora."
+ },
+ {
+  "plik": "awanse_gen_uroda_gastro.json",
+  "zawod": "Recepcjonista w placówce hotelarskiej / recepcjonistka w placówce hotelarskiej",
+  "cel": "Kierownik ds. zakwaterowania",
+  "werdykt": "do_przegladu",
+  "powod": "Awans na kierownika zakwaterowania zwykle poprzedza zmianowy lub starszy recepcjonista."
+ },
+ {
+  "plik": "awanse_gen_uroda_gastro.json",
+  "zawod": "Pracownik informacji turystycznej",
+  "cel": "Kierownik centrum informacji turystycznej",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik centrum to możliwy awans, ale centra są małe i brakuje poziomu pośredniego."
+ },
+ {
+  "plik": "awanse_gen_uroda_gastro.json",
+  "zawod": "Organizator imprez zbiorowych",
+  "cel": "Kierownik ds. konferencji i bankietów",
+  "werdykt": "przyjety",
+  "powod": "Organizator imprez awansuje na kierownika konferencji i bankietów w tej samej branży eventowo-hotelarskiej."
+ },
+ {
+  "plik": "awanse_gen_uroda_gastro.json",
+  "zawod": "Pracownik spa / pracownica spa",
+  "cel": "Kierownik ośrodka spa",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ośrodka spa to skok z pominięciem starszego terapeuty lub koordynatora."
+ },
+ {
+  "plik": "awanse_gen_uroda_gastro.json",
+  "zawod": "Pracownik salonu piękności / pracownica salonu piękności",
+  "cel": "Kierownik gabinetu kosmetycznego",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik gabinetu to możliwy awans, lecz w małych gabinetach pomija poziom pośredni."
+ },
+ {
+  "plik": "awanse_gen_uroda_gastro.json",
+  "zawod": "Prasowacz/prasowaczka",
+  "cel": "Brygadzista w pralni",
+  "werdykt": "przyjety",
+  "powod": "Z prasowacza na brygadzistę w pralni to typowy awans o jeden poziom w tej samej branży."
+ },
+ {
+  "plik": "awanse_gen_biuro_opieka_prawo.json",
+  "zawod": "Pracownik centrum obsługi klienta",
+  "cel": "Kierownik centrum obsługi klienta",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik CoK zwykle poprzedza rola team leadera, więc skok jest wątpliwy."
+ },
+ {
+  "plik": "awanse_gen_biuro_opieka_prawo.json",
+  "zawod": "Pracownik działu obsługi klienta",
+  "cel": "Kierownik ds. obsługi klienta",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ds. obsługi klienta pomija poziom starszego specjalisty lub team leadera."
+ },
+ {
+  "plik": "awanse_gen_biuro_opieka_prawo.json",
+  "zawod": "Specjalista ds. wprowadzania danych",
+  "cel": "Koordynator działu wprowadzania danych",
+  "werdykt": "przyjety",
+  "powod": "Specjalista wprowadzania danych awansuje na koordynatora tego działu jako lider zespołu."
+ },
+ {
+  "plik": "awanse_gen_biuro_opieka_prawo.json",
+  "zawod": "Asystent ds. pozyskiwania funduszy",
+  "cel": "Specjalista ds. pozyskiwania funduszy",
+  "werdykt": "przyjety",
+  "powod": "Asystent awansuje na specjalistę w tej samej dziedzinie o jeden poziom."
+ },
+ {
+  "plik": "awanse_gen_biuro_opieka_prawo.json",
+  "zawod": "Asystent działu kadr",
+  "cel": "Specjalista ds. kadr",
+  "werdykt": "przyjety",
+  "powod": "Asystent kadr awansuje na specjalistę ds. kadr o jeden poziom."
+ },
+ {
+  "plik": "awanse_gen_biuro_opieka_prawo.json",
+  "zawod": "Asystent ds. reklamy",
+  "cel": "Specjalista ds. reklamy",
+  "werdykt": "przyjety",
+  "powod": "Asystent awansuje na specjalistę ds. reklamy o jeden poziom."
+ },
+ {
+  "plik": "awanse_gen_biuro_opieka_prawo.json",
+  "zawod": "Pracownik ds. członkowskich",
+  "cel": "Specjalista do spraw członkowskich",
+  "werdykt": "do_przegladu",
+  "powod": "Specjalista ds. członkowskich może być tylko zmianą nazwy stanowiska bez realnego awansu."
+ },
+ {
+  "plik": "awanse_gen_biuro_opieka_prawo.json",
+  "zawod": "Doradca prawny",
+  "cel": "Kierownik działu prawnego",
+  "werdykt": "odrzucony",
+  "powod": "Z doradcy prawnego na kierownika działu prawnego to skok z pominięciem starszego doradcy i zastępcy."
+ },
+ {
+  "plik": "awanse_gen_biuro_opieka_prawo.json",
+  "zawod": "Pracownik ds. socjalnych",
+  "cel": "Specjalista pracy socjalnej",
+  "werdykt": "odrzucony",
+  "powod": "Zawód nie jest liściem w drzewie, a przejście na specjalistę pracy socjalnej wynika z podobieństwa nazw."
+ },
+ {
+  "plik": "awanse_gen_biuro_opieka_prawo.json",
+  "zawod": "Pracownik młodzieżowy",
+  "cel": "Kierownik programu dla młodzieży",
+  "werdykt": "odrzucony",
+  "powod": "Zawód nie jest liściem w drzewie, więc wpis jest nieprawidłowy."
+ },
+ {
+  "plik": "awanse_gen_biuro_opieka_prawo.json",
+  "zawod": "Asystent ds. łańcucha dostaw",
+  "cel": "Specjalista ds. logistyki",
+  "werdykt": "przyjety",
+  "powod": "Asystent łańcucha dostaw awansuje na specjalistę ds. logistyki o jeden poziom w tej samej branży."
+ },
+ {
+  "plik": "awanse_gen_bezp_sport_media.json",
+  "zawod": "Porządkowy/porządkowa",
+  "cel": "Kierownik ds. ochrony",
+  "werdykt": "odrzucony",
+  "powod": "Z porządkowego na kierownika ds. ochrony to skok o kilka poziomów."
+ },
+ {
+  "plik": "awanse_gen_bezp_sport_media.json",
+  "zawod": "Pracownik służby ochrony lotniska",
+  "cel": "Specjalista ds. bezpieczeństwa w części lotniczej lotniska",
+  "werdykt": "do_przegladu",
+  "powod": "Specjalista ds. bezpieczeństwa lotniska wymaga dodatkowych uprawnień, więc czy to awans, jest niepewne."
+ },
+ {
+  "plik": "awanse_gen_bezp_sport_media.json",
+  "zawod": "Instruktor kulturalno-oświatowy",
+  "cel": "Kierownik domu kultury",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik domu kultury to możliwy, lecz bezpośredni skok bez stanowiska pośredniego."
+ },
+ {
+  "plik": "awanse_gen_bezp_sport_media.json",
+  "zawod": "Pracownik do spraw kultury fizycznej i sportu",
+  "cel": "Kierownik ośrodka sportowego",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ośrodka sportowego pomija poziom koordynatora, więc skok jest wątpliwy."
+ },
+ {
+  "plik": "awanse_gen_bezp_sport_media.json",
+  "zawod": "Instruktor zajęć na wolnym powietrzu",
+  "cel": "Koordynator zajęć na wolnym powietrzu",
+  "werdykt": "przyjety",
+  "powod": "Instruktor awansuje na koordynatora zajęć na wolnym powietrzu o jeden poziom."
+ },
+ {
+  "plik": "awanse_gen_bezp_sport_media.json",
+  "zawod": "Tłumacz pisemny",
+  "cel": "Kierownik agencji tłumaczeń pisemnych",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik agencji tłumaczeń to inna ścieżka (zarządzanie firmą), a nie awans tłumacza."
+ }
+]

@@ -1,0 +1,51 @@
+{
+  "Główny kelner / główna kelnerka": {
+    "do": [
+      "Kierownik restauracji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Główny kelner naturalnie awansuje na kierownika sali i restauracji."
+  },
+  "Lider zespołu w restauracji szybkiej obsługi": {
+    "do": [
+      "Kierownik restauracji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Lider zmiany w fast foodzie zwykle przechodzi na kierownika punktu gastronomicznego."
+  },
+  "Recepcjonista w placówce hotelarskiej / recepcjonistka w placówce hotelarskiej": {
+    "do": [
+      "Kierownik ds. zakwaterowania"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Recepcjonista w hotelu awansuje na kierownika części zakwaterowania obsługującego gości."
+  },
+  "Pracownik biura podróży": {
+    "do": [
+      "Kierownik biura podróży"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik biura podróży awansuje na kierownika biura, przejmując zarządzanie zespołem i ofertą."
+  },
+  "Organizator wycieczki": {
+    "do": [
+      "Kierownik organizatorów wycieczek"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Organizator wycieczek awansuje na kierownika zespołu organizatorów."
+  },
+  "Pracownik informacji turystycznej": {
+    "do": [
+      "Kierownik centrum informacji turystycznej"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik informacji turystycznej awansuje na kierownika centrum informacji."
+  },
+  "Pierwszy cukiernik": {
+    "do": [
+      "Mistrz cukiernictwa"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pierwszy cukiernik awansuje na mistrza cukiernictwa, odpowiedzialnego za cały proces produkcji."
+  }
+}

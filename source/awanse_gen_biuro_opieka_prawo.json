@@ -1,0 +1,79 @@
+{
+  "Pracownik centrum obsługi klienta": {
+    "do": [
+      "Kierownik centrum obsługi klienta"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Kierownik zespołu obsługi w centrum obsługi klienta, kolejny poziom po pracowniku tego samego stanowiska."
+  },
+  "Pracownik działu obsługi klienta": {
+    "do": [
+      "Kierownik ds. obsługi klienta"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Naturalny awans z szeregowego stanowiska obsługi klienta na kierownika tej funkcji."
+  },
+  "Specjalista ds. wprowadzania danych": {
+    "do": [
+      "Koordynator działu wprowadzania danych"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Po stażu w wprowadzaniu danych kolejny krok to koordynowanie pracy działu."
+  },
+  "Asystent ds. pozyskiwania funduszy": {
+    "do": [
+      "Specjalista ds. pozyskiwania funduszy"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Asystent przygotowujący wnioski przechodzi na samodzielne stanowisko specjalisty."
+  },
+  "Asystent działu kadr": {
+    "do": [
+      "Specjalista ds. kadr"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Asystent w dziale kadr po zdobyciu doświadczenia zostaje specjalistą ds. kadr."
+  },
+  "Asystent ds. reklamy": {
+    "do": [
+      "Specjalista ds. reklamy"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Asystent wykonujący zadania reklamowe przechodzi na samodzielnego specjalistę."
+  },
+  "Pracownik ds. członkowskich": {
+    "do": [
+      "Specjalista do spraw członkowskich"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik obsługujący członków organizacji awansuje na specjalistę tej obsługi."
+  },
+  "Doradca prawny": {
+    "do": [
+      "Kierownik działu prawnego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doradca prawny w firmie może awansować na kierownika działu prawnego."
+  },
+  "Pracownik ds. socjalnych": {
+    "do": [
+      "Specjalista pracy socjalnej"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik ds. socjalnych po zdobyciu kwalifikacji przechodzi na stanowisko specjalisty pracy socjalnej."
+  },
+  "Pracownik młodzieżowy": {
+    "do": [
+      "Kierownik programu dla młodzieży"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik młodzieżowy prowadzący zajęcia może awansować na kierownika programu."
+  },
+  "Asystent ds. łańcucha dostaw": {
+    "do": [
+      "Specjalista ds. logistyki"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Asystent łańcucha dostaw przechodzi na samodzielnego specjalistę logistyki."
+  }
+}

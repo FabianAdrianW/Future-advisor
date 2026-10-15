@@ -1,0 +1,58 @@
+{
+  "Operator obrabiarki sterowanej numerycznie": {
+    "do": [
+      "Mistrz produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony operator CNC w zakładzie produkcyjnym zwykle awansuje na mistrza zmiany/produkcji nadzorującego pracę operatorów."
+  },
+  "Mechanik urządzeń przemysłowych": {
+    "do": [
+      "Mistrz montażu w przemyśle"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Starszy mechanik utrzymania ruchu przechodzi zwykle na stanowisko mistrza nadzorującego montaż i naprawy maszyn."
+  },
+  "Mechanik precyzyjny samochodowy": {
+    "do": [
+      "Kierownik warsztatu samochodowego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony mechanik w warsztacie samochodowym awansuje zwykle na kierownika warsztatu, nadzorującego mechaników."
+  },
+  "Mechanik silników spalinowych": {
+    "do": [
+      "Kierownik warsztatu samochodowego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony mechanik silników w warsztacie awansuje zwykle na kierownika warsztatu nadzorującego zespół."
+  },
+  "Elektromechanik pojazdów samochodowych": {
+    "do": [
+      "Kierownik warsztatu samochodowego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony elektromechanik w warsztacie samochodowym może awansować na kierownika warsztatu nadzorującego pracę zespołu."
+  },
+  "Specjalista spawania laserowego": {
+    "do": [
+      "Koordynator procesu spawalniczego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista spawania awansuje zwykle na koordynatora procesu spawalniczego odpowiadającego za jakość i organizację spawania."
+  },
+  "Odlewnik": {
+    "do": [
+      "Mistrz produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony odlewnik w zakładzie odlewniczym awansuje zwykle na mistrza nadzorującego zmianę produkcyjną."
+  },
+  "Ślusarz narzędziowy": {
+    "do": [
+      "Mistrz produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony ślusarz narzędziowy w zakładzie produkcyjnym może awansować na mistrza nadzorującego produkcję."
+  }
+}

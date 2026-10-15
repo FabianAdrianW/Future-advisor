@@ -1,0 +1,17 @@
+{
+  "Badacz nauki o komunikowaniu": {
+    "do": ["Kierownik ds. badań"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Badacz prowadzący projekty może awansować na kierownika zespołu badawczego, co jest jednym poziomem wyżej w typowej instytucji naukowej."
+  },
+  "Badacz nauk o zachowaniu": {
+    "do": ["Kierownik ds. badań"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Badacz zachowań może awansować na kierownika zespołu badawczego, co jest jednym poziomem wyżej w typowej instytucji naukowej."
+  },
+  "Muzealnik": {
+    "do": ["Kierownik placówki kulturalnej"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Muzealnik może awansować na kierownika placówki kulturalnej, czyli na stanowisko nadzorujące instytucję, o jeden poziom wyżej."
+  }
+}

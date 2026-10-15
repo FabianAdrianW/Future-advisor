@@ -1,0 +1,79 @@
+{
+  "Operator centralnej sterowni w zakładzie przetwórstwa gazu": {
+    "do": [
+      "Brygadzista w zakładzie przetwórstwa gazu"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Operator sterowni awansuje zwykle na brygadzistę prowadzącego zmianę operatorów w tym samym zakładzie."
+  },
+  "Mistrz produkcji": {
+    "do": [
+      "Kierownik ds. produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Mistrz nadzoruje jeden wydział lub zmianę, a kierownik ds. produkcji zarządza całym obszarem produkcji, to typowy kolejny szczebel."
+  },
+  "Prasowacz w pralni": {
+    "do": [
+      "Brygadzista w pralni"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony pracownik pralni zwykle zostaje brygadzistą zespołu w tym samym zakładzie."
+  },
+  "Operator urządzeń uzdatniania wody": {
+    "do": [
+      "Kierownik stacji uzdatniania wody"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "W zakładach wodociągowych doświadczony operator awansuje na kierownika stacji, nadzorującego pracę zmian."
+  },
+  "Technik stacji uzdatniania wody": {
+    "do": [
+      "Kierownik stacji uzdatniania wody"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Technik prowadzący stację uzdatniania wody może przejąć kierowanie stacją jako kolejny szczebel w tym samym obszarze."
+  },
+  "Monter maszyn i urządzeń przemysłowych": {
+    "do": [
+      "Mistrz montażu w przemyśle"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony monter zwykle zostaje mistrzem montażu odpowiedzialnym za pracę ekipy montażowej."
+  },
+  "Operator wtryskarki": {
+    "do": [
+      "Mistrz produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Operator wtryskarki w zakładzie tworzyw może zostać mistrzem produkcji nadzorującym zmianę w tym samym profilu produkcji."
+  },
+  "Operator maszyny papierniczej": {
+    "do": [
+      "Mistrz produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Operator maszyny papierniczej może awansować na mistrza produkcji nadzorującego zmianę w tym samym profilu produkcji."
+  },
+  "Operator walcarki": {
+    "do": [
+      "Mistrz produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Operator walcarki w hucie lub walcowni może zostać mistrzem produkcji nadzorującym zmianę w tym samym profilu produkcji."
+  },
+  "Technik ds. barwienia tkanin": {
+    "do": [
+      "Specjalista ds. barwienia tkanin"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Technik procesu barwienia w zakładzie włókienniczym awansuje na specjalistę odpowiedzialnego za ten sam proces."
+  },
+  "Monter konstrukcji stalowych": {
+    "do": [
+      "Mistrz produkcji w budownictwie"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony monter konstrukcji stalowych może zostać mistrzem nadzorującym ekipę montażową na budowie."
+  }
+}

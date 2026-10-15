@@ -1,0 +1,27 @@
+{
+  "Zastępca dyrektora szkoły": {
+    "do": ["Dyrektor szkoły"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Zastępca dyrektora awansuje na stanowisko dyrektora tej samej szkoły, to jeden szczebel kierowniczy wyżej."
+  },
+  "Koordynator programu oświatowego": {
+    "do": ["Kierownik programu"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Koordynator prowadzący program oświatowy przechodzi na nadrzędną rolę kierownika tego programu."
+  },
+  "Asystent nauczyciela w szkole podstawowej": {
+    "do": ["Nauczyciel w szkole podstawowej/nauczycielka w szkole podstawowej"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Asystent po uzyskaniu kwalifikacji nauczycielskich przechodzi do roli nauczyciela w tej samej szkole."
+  },
+  "Asystent nauczyciela w przedszkolu": {
+    "do": ["Nauczyciel przedszkola/nauczycielka przedszkola"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Asystent po uzyskaniu kwalifikacji nauczycielskich przechodzi do roli nauczyciela przedszkola."
+  },
+  "Asystent nauczyciela w szkole średniej": {
+    "do": ["Nauczyciel w szkole ponadpodstawowej/nauczycielka w szkole ponadpodstawowej"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Asystent po uzyskaniu kwalifikacji nauczycielskich przechodzi do roli nauczyciela w szkole ponadpodstawowej."
+  }
+}

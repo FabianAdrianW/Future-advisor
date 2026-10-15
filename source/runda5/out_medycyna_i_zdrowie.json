@@ -1,0 +1,12 @@
+{
+  "Technik dietetyki szpitalnej": {
+    "do": ["Specjalista ds. dietetyki"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Przejście z technika żywienia szpitalnego na stanowisko specjalisty ds. dietetyki to awans w tym samym obszarze, bez zmiany profilu pracy."
+  },
+  "Zooterapeuta": {
+    "do": ["Specjalista zooterapii"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista zooterapii to wyższy poziom w tej samej dziedzinie, uzyskiwany przez doświadczenie i dodatkowe kwalifikacje."
+  }
+}

@@ -1,0 +1,317 @@
+[
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Sprzedawca/sprzedawczyni",
+  "cel": "Kierownik sklepu",
+  "werdykt": "do_przegladu",
+  "powod": "Skok z pracownika sprzedaży od razu na kierownika sklepu, zwykle pośredni jest zastępca lub starszy sprzedawca."
+ },
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Kasjer/kasjerka",
+  "cel": "Kierownik kas",
+  "werdykt": "przyjety",
+  "powod": "Kierownik kas to typowy kolejny szczebel w sieciach handlowych dla doświadczonego kasjera."
+ },
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Specjalista ds. marketingu",
+  "cel": "Kierownik ds. reklamy",
+  "werdykt": "do_przegladu",
+  "powod": "Marketing i reklama to pokrewne, ale różne obszary, więc dopasowanie celu jest niepewne."
+ },
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Specjalista ds. reklamy",
+  "cel": "Kierownik ds. reklamy",
+  "werdykt": "przyjety",
+  "powod": "Specjalista ds. reklamy awansuje naturalnie na kierownika w tym samym obszarze."
+ },
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Specjalista ds. public relations",
+  "cel": "Kierownik ds. public relations",
+  "werdykt": "przyjety",
+  "powod": "Specjalista PR awansuje naturalnie na kierownika PR w tej samej branży."
+ },
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Rzecznik prasowy",
+  "cel": "Kierownik ds. public relations",
+  "werdykt": "do_przegladu",
+  "powod": "Rzecznik prasowy to zwykle stanowisko równorzędne lub wyższe niż specjalista PR, więc awans na kierownika PR jest niejednoznaczny."
+ },
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Specjalista ds. obsługi klienta",
+  "cel": "Kierownik ds. obsługi klienta",
+  "werdykt": "przyjety",
+  "powod": "Specjalista obsługi klienta awansuje na kierownika tego samego zespołu."
+ },
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Opiekun klienta",
+  "cel": "Kierownik ds. obsługi klienta",
+  "werdykt": "przyjety",
+  "powod": "Opiekun klienta może objąć kierowanie zespołem obsługi klienta jako kolejny szczebel."
+ },
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Zaopatrzeniowiec",
+  "cel": "Kierownik ds. logistyki i dystrybucji",
+  "werdykt": "odrzucony",
+  "powod": "Skok z wykonawczego stanowiska zaopatrzeniowca na kierownika całej logistyki i dystrybucji pomija kilka szczebli."
+ },
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Specjalista ds. badań rynku",
+  "cel": "Kierownik ds. badań",
+  "werdykt": "przyjety",
+  "powod": "Specjalista badań rynku awansuje na kierownika zespołu badań w tym samym obszarze."
+ },
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Specjalista ds. kampanii politycznych",
+  "cel": "Szef sztabu wyborczego / szefowa sztabu wyborczego",
+  "werdykt": "do_przegladu",
+  "powod": "Szef sztabu wyborczego to stanowisko niszowe i nietypowe jako awans w firmie, wymaga oceny."
+ },
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Menedżer produktów i usług",
+  "cel": "Kierownik ds. produktu",
+  "werdykt": "odrzucony",
+  "powod": "Menedżer produktów i usług i kierownik ds. produktu to praktycznie ten sam poziom, więc to ruch boczny."
+ },
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Specjalista ds. obsługi posprzedażowej",
+  "cel": "Kierownik ds. serwisu",
+  "werdykt": "przyjety",
+  "powod": "Specjalista obsługi posprzedażowej awansuje na kierownika serwisu w tej samej ścieżce."
+ },
+ {
+  "plik": "awanse_gen_sprzedaz.json",
+  "zawod": "Sprzedawca reklam",
+  "cel": "Kierownik ds. reklamy",
+  "werdykt": "do_przegladu",
+  "powod": "Przejście ze sprzedaży powierzchni reklamowej na kierownika działu reklamy to częściowo zmiana funkcji i skok."
+ },
+ {
+  "plik": "awanse_gen_transport_budowa.json",
+  "zawod": "Konduktor",
+  "cel": "Kierownik pociągu",
+  "werdykt": "przyjety",
+  "powod": "Kierownik pociągu to realny kolejny szczebel w zawodzie konduktora."
+ },
+ {
+  "plik": "awanse_gen_transport_budowa.json",
+  "zawod": "Steward/stewardessa",
+  "cel": "Szef pokładu / szefowa pokładu",
+  "werdykt": "przyjety",
+  "powod": "Szef pokładu to standardowy awans stewarda w tej samej linii lotniczej."
+ },
+ {
+  "plik": "awanse_gen_transport_budowa.json",
+  "zawod": "Robotnik portowy",
+  "cel": "Brygadzista portowej ekipy przeładunkowej",
+  "werdykt": "przyjety",
+  "powod": "Brygadzista ekipy przeładunkowej to naturalny pierwszy szczebel kierowniczy dla robotnika portowego."
+ },
+ {
+  "plik": "awanse_gen_transport_budowa.json",
+  "zawod": "Spedytor",
+  "cel": "Koordynator spedycji międzynarodowej",
+  "werdykt": "przyjety",
+  "powod": "Koordynator spedycji międzynarodowej to realny wyższy szczebel w tej samej ścieżce spedycyjnej."
+ },
+ {
+  "plik": "awanse_gen_transport_budowa.json",
+  "zawod": "Magazynier",
+  "cel": "Specjalista ds. logistyki",
+  "werdykt": "do_przegladu",
+  "powod": "Specjalista ds. logistyki to zmiana charakteru pracy z magazynowej na biurową, a nie wprost awans."
+ },
+ {
+  "plik": "awanse_gen_transport_budowa.json",
+  "zawod": "Dyspozytor transportu samochodowego",
+  "cel": "Kierownik ds. logistyki i dystrybucji",
+  "werdykt": "odrzucony",
+  "powod": "Skok z dyspozytora na kierownika całego działu logistyki i dystrybucji pomija szczeble pośrednie."
+ },
+ {
+  "plik": "awanse_gen_transport_budowa.json",
+  "zawod": "Dyspozytor centrum dystrybucyjnego",
+  "cel": "Kierownik ds. logistyki i dystrybucji",
+  "werdykt": "odrzucony",
+  "powod": "Skok z dyspozytora na kierownika całego działu logistyki i dystrybucji pomija szczeble pośrednie."
+ },
+ {
+  "plik": "awanse_gen_transport_budowa.json",
+  "zawod": "Dyżurny ruchu",
+  "cel": "Kierownik stacji kolejowej",
+  "werdykt": "przyjety",
+  "powod": "Kierownik stacji kolejowej to realny awans dla doświadczonego dyżurnego ruchu."
+ },
+ {
+  "plik": "awanse_gen_transport_budowa.json",
+  "zawod": "Kierowca samochodu ciężarowego",
+  "cel": "Dyspozytor transportu samochodowego",
+  "werdykt": "do_przegladu",
+  "powod": "Przejście z kierowcy do dyspozytury to zmiana roli, a nie jednoznaczny awans."
+ },
+ {
+  "plik": "awanse_gen_transport_budowa.json",
+  "zawod": "Murarz",
+  "cel": "Mistrz produkcji w budownictwie",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz produkcji w budownictwie zwykle poprzedza brygadzista, więc może to być skok o szczebel."
+ },
+ {
+  "plik": "awanse_gen_transport_budowa.json",
+  "zawod": "Robotnik budowlany",
+  "cel": "Mistrz produkcji w budownictwie",
+  "werdykt": "odrzucony",
+  "powod": "Robotnik budowlany nie awansuje bezpośrednio na mistrza produkcji, pomijając kwalifikacje i szczebel brygadzisty."
+ },
+ {
+  "plik": "awanse_gen_transport_budowa.json",
+  "zawod": "Mistrz produkcji w budownictwie",
+  "cel": "Kierownik budowy",
+  "werdykt": "przyjety",
+  "powod": "Kierownik budowy to bezpośredni kolejny szczebel po mistrzu budowlanym."
+ },
+ {
+  "plik": "awanse_gen_transport_budowa.json",
+  "zawod": "Technik inżynierii lądowej",
+  "cel": "Kierownik budowy",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik budowy wymaga uprawnień budowlanych, a technik zwykle przechodzi przez stanowiska pośrednie."
+ },
+ {
+  "plik": "awanse_gen_rzemioslo.json",
+  "zawod": "Mechanik pojazdów samochodowych",
+  "cel": "Kierownik warsztatu samochodowego",
+  "werdykt": "przyjety",
+  "powod": "Kierownik warsztatu to typowy kolejny szczebel dla doświadczonego mechanika."
+ },
+ {
+  "plik": "awanse_gen_rzemioslo.json",
+  "zawod": "Mechanik pojazdów samochodowych",
+  "cel": "Kierownik serwisu samochodowego",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik serwisu to zbliżony cel jak kierownik warsztatu, a skok z mechanika bywa za duży."
+ },
+ {
+  "plik": "awanse_gen_rzemioslo.json",
+  "zawod": "Serwisant pojazdów",
+  "cel": "Kierownik serwisu samochodowego",
+  "werdykt": "przyjety",
+  "powod": "Kierownik serwisu to realny kolejny szczebel dla doświadczonego serwisanta."
+ },
+ {
+  "plik": "awanse_gen_rzemioslo.json",
+  "zawod": "Spawacz",
+  "cel": "Koordynator procesu spawalniczego",
+  "werdykt": "przyjety",
+  "powod": "Koordynator procesu spawalniczego to realny wyższy szczebel dla doświadczonego spawacza."
+ },
+ {
+  "plik": "awanse_gen_rzemioslo.json",
+  "zawod": "Ślusarz",
+  "cel": "Mistrz produkcji",
+  "werdykt": "przyjety",
+  "powod": "Mistrz na hali produkcyjnej to typowy awans doświadczonego ślusarza."
+ },
+ {
+  "plik": "awanse_gen_rzemioslo.json",
+  "zawod": "Operator obrabiarki sterowanej numerycznie",
+  "cel": "Mistrz produkcji",
+  "werdykt": "przyjety",
+  "powod": "Mistrz zmiany produkcyjnej to typowy awans doświadczonego operatora CNC."
+ },
+ {
+  "plik": "awanse_gen_rzemioslo.json",
+  "zawod": "Serwisant sprzętu komputerowego",
+  "cel": "Kierownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "odrzucony",
+  "powod": "Skok z serwisanta na kierownika całego działu pomocy technicznej pomija szczeble pośrednie."
+ },
+ {
+  "plik": "awanse_gen_rzemioslo.json",
+  "zawod": "Technik systemów telekomunikacyjnych",
+  "cel": "Kierownik działu telekomunikacji",
+  "werdykt": "odrzucony",
+  "powod": "Skok z technika na kierownika całego działu telekomunikacji pomija szczeble pośrednie."
+ },
+ {
+  "plik": "awanse_gen_rzemioslo.json",
+  "zawod": "Stolarz meblowy",
+  "cel": "Mistrz produkcji",
+  "werdykt": "przyjety",
+  "powod": "Mistrz produkcji w zakładzie meblarskim to realny awans stolarza."
+ },
+ {
+  "plik": "awanse_gen_rzemioslo.json",
+  "zawod": "Szwacz/szwaczka",
+  "cel": "Kierownik ds. produkcji",
+  "werdykt": "odrzucony",
+  "powod": "Skok ze szwaczki na kierownika produkcji pomija mistrza i brygadzistę."
+ },
+ {
+  "plik": "awanse_gen_rzemioslo.json",
+  "zawod": "Obuwnik",
+  "cel": "Mistrz produkcji",
+  "werdykt": "do_przegladu",
+  "powod": "Ogólny cel Mistrz produkcji nie wskazuje branży obuwniczej, więc wymaga sprawdzenia."
+ },
+ {
+  "plik": "awanse_gen_rzemioslo.json",
+  "zawod": "Tkacz",
+  "cel": "Mistrz produkcji",
+  "werdykt": "do_przegladu",
+  "powod": "Ogólny cel Mistrz produkcji nie wskazuje branży tkackiej, więc wymaga sprawdzenia."
+ },
+ {
+  "plik": "awanse_gen_medycyna.json",
+  "zawod": "Fizjoterapeuta",
+  "cel": "Główny fizjoterapeuta",
+  "werdykt": "przyjety",
+  "powod": "Główny fizjoterapeuta to wyższe stanowisko w tej samej ścieżce zawodowej."
+ },
+ {
+  "plik": "awanse_gen_medycyna.json",
+  "zawod": "Specjalista ds. kadr",
+  "cel": "Kierownik działu zarządzania zasobami ludzkimi",
+  "werdykt": "przyjety",
+  "powod": "Kierownik działu zarządzania zasobami ludzkimi to naturalny awans specjalisty HR."
+ },
+ {
+  "plik": "awanse_gen_medycyna.json",
+  "zawod": "Kierownik projektu",
+  "cel": "Kierownik programu",
+  "werdykt": "przyjety",
+  "powod": "Kierownik programu nadzoruje kilka projektów, więc to bezpośredni wyższy szczebel."
+ },
+ {
+  "plik": "awanse_gen_medycyna.json",
+  "zawod": "Referent",
+  "cel": "Specjalista ds. administracyjnych w administracji publicznej",
+  "werdykt": "przyjety",
+  "powod": "Specjalista w administracji publicznej to typowy awans referenta o jeden poziom."
+ },
+ {
+  "plik": "awanse_gen_medycyna.json",
+  "zawod": "Ratownik medyczny",
+  "cel": "Kierownik stacji ratownictwa",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik stacji ratownictwa to duży skok, zwykle poprzedzony stanowiskiem zespołu lub dyspozytora."
+ },
+ {
+  "plik": "awanse_gen_medycyna.json",
+  "zawod": "Specjalista organizacji i zarządzania w ochronie zdrowia",
+  "cel": "Kierownik zakładu opieki zdrowotnej",
+  "werdykt": "odrzucony",
+  "powod": "Skok ze specjalisty na kierownika całego zakładu opieki zdrowotnej pomija szczeble pośrednie."
+ }
+]

@@ -1,0 +1,107 @@
+Asystent inwestycyjny
+Doradca inwestycyjny
+Menedżer ds. relacji inwestorskich
+Menedżer inwestycyjny
+Specjalista ds. inwestycji korporacyjnych
+Planer finansowy
+Specjalista ds. bankowości relacyjnej
+Doradca ds. środków publicznych
+Inwestor venture capital
+Menedżer funduszu inwestycyjnego
+Menedżer ryzyka
+Specjalista ds. bankowości korporacyjnej
+Specjalista ds. finansowania programów
+Specjalista ds. polityki gospodarczej
+Specjalista ds. wyceny przedsiębiorstw
+Zarządzający funduszem osobistym
+Analityk budżetu
+Analityk kosztów
+Analityk księgowy
+Audytor finansowy
+Biegły ds. zapobiegania i wykrywania przestępstw gospodarczych i korupcji
+Doradca podatkowy
+Główny księgowy w sektorze finansów publicznych
+Kierownik działu audytu
+Kontroler finansowy
+Specjalista ds. dywidend
+Specjalista ds. rozpatrywania wniosków o dotacje
+Syndyk masy upadłościowej
+Analityk ds. fuzji i przejęć
+Analityk finansowy
+Analityk inwestycyjny
+Analityk rynku papierów wartościowych
+Analityk ryzyka finansowego
+Analityk ubezpieczeniowy
+Pracownik middle office
+Broker funduszy wspólnego inwestowania
+Dealer walutowy
+Makler giełdowy
+Makler papierów wartościowych
+Pośrednik finansowy
+Pośrednik kredytowy
+Specjalista ds. emisji papierów wartościowych
+Specjalista ds. handlu energią
+Trader giełdowy
+Trader kontraktów terminowych
+Trader papierów wartościowych
+Trader rynków finansowych
+Trader walutowy
+Menedżer portfela inwestycyjnego
+Analityk ryzyka kredytowego
+Doradca ds. rachunków bankowych
+Kierownik ds. kredytów
+Koordynator ds. wsparcia finansowego studentów
+Pracownik do spraw pożyczek
+Gemmolog
+Likwidator szkód
+Rzeczoznawca
+Rzeczoznawca majątkowy
+Specjalista ds. obsługi roszczeń
+Specjalista ds. sprzedaży egzekucyjnej nieruchomości
+Specjalista ds. wyceny nieruchomości
+Specjalista ds. wykrywania i zwalczania oszustw ubezpieczeniowych
+Asystent / asystentka ds. księgowości
+Kontysta / kontystka
+Specjalista ds. obsługi i rozliczania dotacji badawczych
+Asystent / asystentka ds. statystyki
+Asystent aktuarialny
+Kierownik kasyna gry
+Kierownik sali w kasynie
+Kasjer w kasynie
+Krupier
+Osoba wystawiająca kursy
+Pracownik kolektury
+Pracownik totalizatora
+Prowadzący grę bingo
+Asystent usług pocztowych
+Kasjer bankowy
+Windykator
+Windykator składek
+Pracownik lombardu
+Pracownik back office
+Pracownik back office operacji rynków finansowych
+Asystent ds. nieruchomości
+Kasjer walutowy / kasjerka walutowa
+Pracownik ds. audytu
+Pracownik ds. inwestycji
+Pracownik ds. podatków
+Pracownik ds. ubezpieczeń
+Asystent ds. wsparcia sprzedaży
+Fakturzysta
+Pracownik obsługi płacowej
+Dyrektor domu maklerskiego
+Kierownik agencji ubezpieczeniowej
+Kierownik programu emerytalnego
+Kierownik unii kredytowej
+Menedżer banku
+Specjalista ds. odszkodowań
+Dyrektor ds. budżetowania
+Dyrektor ds. płynności finansowej
+Dyrektor finansowy
+Dyrektor finansowy banku
+Główny księgowy
+Doradca do spraw rozwoju gospodarczego
+Doradca ds. polityki podatkowej
+Doradca ekonomiczny
+Ekonomista
+Ekonomista biznesu

@@ -1,0 +1,59 @@
+Ambasador
+Radca dyplomatyczny
+Wyższy urzędnik placówki dyplomatycznej
+Komendant policji
+Komendant straży pożarnej
+Konsul
+Prezes banku centralnego
+Sekretarz generalny/sekretarz generalna
+Wyższy urzędnik państwowy
+Burmistrz
+Minister
+Parlamentarzysta
+Radny/radna
+Sekretarz stanu
+Senator
+Wojewoda
+Zawodowy działacz organizacji członkowskiej
+Inspektor ds. przewozu towarów
+Inspektor frachtu morskiego
+Inspektor do spraw miar i wag
+Inspektor leśny
+Inspektor pracy
+Inspektor rolny
+Obserwator połowów
+Rzecznik praw konsumentów
+Specjalista ds. kontroli gier i zakładów
+Specjalista ds. emerytur
+Urzędnik ds. ubezpieczeń społecznych
+Inspektor ds. ubezpieczeń społecznych
+Doradca imigracyjny
+Urzędnik do spraw licencji
+Urzędnik do spraw paszportów
+Kontroler rozliczeń podatkowych
+Urzędnik podatkowy
+Doradca ds. strategii prowadzenia sporów sądowych
+Doradca prawny
+Kierownik działu spraw regulacyjnych
+Lekarz medycyny sądowej
+Mediator
+Notariusz
+Obserwator wyborów
+Redaktor legislacyjny
+Rzecznik praw obywatelskich
+Urzędnik ds. kontroli przestrzegania praw człowieka
+Prawnik
+Prokurator
+Radca prawny
+Sędzia
+Sędzia Sądu Najwyższego
+Sędzia pokoju
+Detektyw prywatny
+Detektyw sklepowy
+Asystent prawny
+Asystent sędziego
+Komornik
+Pracownik administracji sądowej
+Sekretarz sądowy
+Urzędnik ds. wieczystoksięgowych
+Woźny sądowy

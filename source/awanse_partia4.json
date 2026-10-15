@@ -1,0 +1,184 @@
+{
+  "Murarz": {
+    "do": [
+      "Brygadzista murarz"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Tynkarz": {
+    "do": [
+      "Brygadzista tynkarz"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Malarz": {
+    "do": [
+      "Brygadzista malarz"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Glazurnik": {
+    "do": [
+      "Brygadzista glazurnik"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Posadzkarz": {
+    "do": [
+      "Brygadzista posadzkarz"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Murarz-zbrojarz": {
+    "do": [
+      "Brygadzista murarz-zbrojarz"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Szklarz": {
+    "do": [
+      "Brygadzista szklarz"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Tapeciarz": {
+    "do": [
+      "Brygadzista tapeciarz"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Operator koparki": {
+    "do": [
+      "Brygadzista operatorów maszyn"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Operator spycharki": {
+    "do": [
+      "Brygadzista operatorów maszyn"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Robotnik budowlany": {
+    "do": [
+      "Brygadzista robót rozbiórkowych",
+      "Brygadzista robót izolacyjnych"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Blacharz budowlany": {
+    "do": [
+      "Brygadzista dekarz"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Kasjer biletowy": {
+    "do": [
+      "Kierownik kas"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Merchandiser": {
+    "do": [
+      "Kierownik ds. kategorii produktów"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Sprzedawca odzieży": {
+    "do": [
+      "Kierownik sklepu odzieżowego"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Specjalista ds. obsługi klienta": {
+    "do": [
+      "Kierownik ds. obsługi klienta"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Kierowca autobusu": {
+    "do": [
+      "Kierownik ds. przewozów drogowych"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Kierowca samochodu ciężarowego": {
+    "do": [
+      "Kierownik ds. przewozów drogowych"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Konserwator": {
+    "do": [
+      "Kierownik ds. budynków"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Piekarz": {
+    "do": [
+      "Kierownik piekarni"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Asystent ds. marketingu": {
+    "do": [
+      "Kierownik ds. marketingu"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Asystent ds. wsparcia sprzedaży": {
+    "do": [
+      "Kierownik ds. sprzedaży"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Asystent dyrektora": {
+    "do": [
+      "Kierownik biura"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Informatyk": {
+    "do": [
+      "Kierownik ds. oprogramowania",
+      "Kierownik ds. bezpieczeństwa technologii informacyjno-telekomunikacyjnych"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Elektromechanik": {
+    "do": [
+      "Brygadzista elektryk"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Inspektor jakości": {
+    "do": [
+      "Kierownik ds. jakości"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Asystent ds. promocji": {
+    "do": [
+      "Kierownik ds. promocji"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Referent": {
+    "do": [
+      "Kierownik biura"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Frezer": {
+    "do": [
+      "Brygadzista operatorów maszyn"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Kierowca betoniarki": {
+    "do": [
+      "Brygadzista betoniarz"
+    ],
+    "pewnosc": "średnia"
+  }
+}

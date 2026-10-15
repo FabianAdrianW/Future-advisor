@@ -1,0 +1,27 @@
+{
+  "Pracownik przeprowadzkowy": {
+    "do": ["Kierownik w firmie przeprowadzkowej"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Wykonawca prac przeprowadzkowych awansuje na kierownika zespołu przeprowadzkowego w tej samej firmie."
+  },
+  "Specjalista ds. logistyki kolejowej": {
+    "do": ["Kierownik ds. logistyki i dystrybucji"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista prowadzący operacje logistyczne przechodzi na stanowisko kierownicze nadzorujące logistykę i dystrybucję."
+  },
+  "Asystent lotu": {
+    "do": ["Szef pokładu / szefowa pokładu"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Członek załogi kabinowej awansuje na szefa pokładu odpowiedzialnego za załogę i procedury w locie."
+  },
+  "Pracownik obsługi podróżnych na stacjach kolejowych": {
+    "do": ["Kierownik stacji kolejowej"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik obsługi stacji po awansie zarządza stacją i jej personelem jako kierownik stacji."
+  },
+  "Ekspedytor": {
+    "do": ["Koordynator spedycji międzynarodowej"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Ekspedytor po awansie koordynuje przesyłki międzynarodowe i pracę innych spedytorów."
+  }
+}

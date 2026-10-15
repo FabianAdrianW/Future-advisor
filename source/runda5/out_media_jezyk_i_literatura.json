@@ -1,0 +1,12 @@
+{
+  "Specjalista ds. komunikacji technicznej": {
+    "do": ["Kierownik ds. komunikacji"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista odpowiadający za komunikację techniczną zwykle awansuje na kierownika obszaru komunikacji, który przejmuje zespół i strategię zamiast samych tekstów."
+  },
+  "Korespondent zagraniczny": {
+    "do": ["Kierownik biura"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony korespondent często zostaje szefem redakcyjnego biura za granicą, co jest typowym krokiem w górę w strukturze redakcji."
+  }
+}

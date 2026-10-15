@@ -1,0 +1,58 @@
+{
+  "Pracownik pralni": {
+    "do": [
+      "Brygadzista w pralni"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Brygadzista w pralni kieruje zespołem pracowników pralni, to bezpośredni awans z roli pracownika w tej samej branży."
+  },
+  "Monter maszyn i urządzeń przemysłowych": {
+    "do": [
+      "Mistrz montażu w przemyśle"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Mistrz montażu w przemyśle nadzoruje pracę ekip montażowych, co jest typowym kolejnym krokiem dla montera maszyn."
+  },
+  "Kontroler jakości wyrobów": {
+    "do": [
+      "Kierownik ds. jakości"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Kierownik ds. jakości odpowiada za cały system kontroli jakości, a kontroler wyrobów zwykle awansuje na to stanowisko po doświadczeniu."
+  },
+  "Inspektor jakości konfekcji": {
+    "do": [
+      "Kierownik ds. jakości"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Kierownik ds. jakości przejmuje odpowiedzialność za kontrolę jakości, do której inspektor przygotowuje, a awans jest typowy po kilku latach pracy."
+  },
+  "Technik stacji uzdatniania wody": {
+    "do": [
+      "Kierownik stacji uzdatniania wody"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Kierownik stacji uzdatniania wody przejmuje zarządzanie obiektem, a technik stacji jest naturalnym kandydatem po zdobyciu doświadczenia."
+  },
+  "Wiertacz": {
+    "do": [
+      "Główny wiertacz"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Główny wiertacz kieruje ekipą wiertniczą, co jest bezpośrednim awansem z funkcji wiertacza."
+  },
+  "Operator w zakładzie przetwórstwa gazu": {
+    "do": [
+      "Brygadzista w zakładzie przetwórstwa gazu"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Brygadzista koordynuje pracę zmiany operatorów, co jest typowym pierwszym awansem w zakładzie przetwórstwa gazu."
+  },
+  "Operator centralnej sterowni w rafinerii ropy naftowej": {
+    "do": [
+      "Kierownik zmiany w rafinerii"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Kierownik zmiany w rafinerii odpowiada za całą zmianę operatorów sterowni, co jest bezpośrednim awansem w tym zawodzie."
+  }
+}
