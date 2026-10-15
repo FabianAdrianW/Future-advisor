@@ -954,6 +954,42 @@
      "2026-10-15"
     ]
    ]
+  },
+  "Kosmetolog": {
+   "kod_gus": "325",
+   "n_ogloszen_strona": "pracuj.pl (pełne/niepełne etaty bez części etatu)",
+   "oferty": [
+    [
+     "Kosmetolog / Kosmetolożka",
+     2400,
+     7500,
+     "2026-10-15"
+    ],
+    [
+     "Kosmetolog / Kosmetolożka",
+     9000,
+     13000,
+     "2026-10-15"
+    ],
+    [
+     "Kosmetolog / Kosmetolożka",
+     5000,
+     8000,
+     "2026-10-14"
+    ],
+    [
+     "Kosmetolog - Specjalista ds. laseroterapii",
+     6000,
+     10000,
+     "2026-10-13"
+    ],
+    [
+     "Kosmetolog / Kosmetolożka",
+     5000,
+     15000,
+     "2026-10-06"
+    ]
+   ]
   }
  }
 }
