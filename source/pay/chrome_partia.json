@@ -528,6 +528,402 @@
      "2026-10-08"
     ]
    ]
+  },
+  "Sprzedawca": {
+   "kod_gus": "522",
+   "n_ogloszen_strona": "pracuj.pl",
+   "oferty": [
+    [
+     "Starszy Sprzedawca-Kasjer (m/k)",
+     5650,
+     6470,
+     "2026-10-14"
+    ],
+    [
+     "Kasjer - Sprzedawca (m/k) z możliwością przyuczenia",
+     5300,
+     8000,
+     "2026-10-14"
+    ],
+    [
+     "Sprzedawca (k/m/x) Netto, Warszawa Wawer",
+     5490,
+     5490,
+     "2026-10-14"
+    ],
+    [
+     "Sprzedawca (k/m/x) Netto, Łódź Bałuty",
+     4990,
+     4990,
+     "2026-10-14"
+    ],
+    [
+     "Sprzedawca - Stylista (k/m)",
+     6000,
+     7000,
+     "2026-10-14"
+    ]
+   ]
+  },
+  "Hydraulik": {
+   "kod_gus": "712",
+   "n_ogloszen_strona": "pracuj.pl",
+   "oferty": [
+    [
+     "Konserwator - Hydraulik",
+     6500,
+     7000,
+     "2026-10-13"
+    ],
+    [
+     "Hydraulik / Konserwator instalacji sanitarnych (k/m)",
+     7000,
+     9000,
+     "2026-10-11"
+    ],
+    [
+     "Hydraulik - Monter instalacji sanitarno-grzewczych",
+     6000,
+     15000,
+     "2026-10-10"
+    ],
+    [
+     "Hydraulik (K/M)",
+     6500,
+     8500,
+     "2026-10-08"
+    ],
+    [
+     "Hydraulik / Hydrauliczka",
+     10000,
+     13000,
+     "2026-10-01"
+    ],
+    [
+     "Instalator / Instalatorka - Hydraulik / Hydrauliczka",
+     6000,
+     12000,
+     "2026-10-01"
+    ],
+    [
+     "Hydraulik / Hydrauliczka - Brygadzista",
+     5000,
+     9000,
+     "2026-09-28"
+    ],
+    [
+     "Hydraulik / Hydrauliczka - Monter / Monterka",
+     10300,
+     13000,
+     "2026-10-06"
+    ],
+    [
+     "Hydraulik / Hydrauliczka – monter instalacji tryskaczowych",
+     9500,
+     14000,
+     "2026-10-13"
+    ],
+    [
+     "Instalator pomp ciepła - Hydraulik",
+     8000,
+     10000,
+     "2026-10-14"
+    ],
+    [
+     "Konserwator - Hydraulik (SM Ognivo)",
+     6500,
+     7000,
+     "2026-10-12"
+    ]
+   ]
+  },
+  "Spawacz": {
+   "kod_gus": "721",
+   "n_ogloszen_strona": "pracuj.pl",
+   "oferty": [
+    [
+     "Spawacz (MIG/MAG) (m/k)",
+     7000,
+     9000,
+     "2026-10-14"
+    ],
+    [
+     "Spawacz TIG 141 (k/m)",
+     8500,
+     10000,
+     "2026-10-14"
+    ],
+    [
+     "Spawacz torowy (K/M)",
+     7900,
+     8100,
+     "2026-10-14"
+    ],
+    [
+     "Spawacz / Spawaczka",
+     6500,
+     11000,
+     "2026-10-05"
+    ],
+    [
+     "Spawacz",
+     7000,
+     14000,
+     "2026-10-13"
+    ],
+    [
+     "Spawacz / Spawaczka",
+     8000,
+     9500,
+     "2026-10-14"
+    ],
+    [
+     "Spawacz (k/m)",
+     7000,
+     9000,
+     "2026-10-14"
+    ],
+    [
+     "Monter-Spawacz (M/K/X)",
+     5000,
+     8000,
+     "2026-10-12"
+    ],
+    [
+     "Monter - Spawacz - Ślusarz",
+     6000,
+     11000,
+     "2026-10-12"
+    ],
+    [
+     "Ślusarz - spawacz (K/M)",
+     6000,
+     7480,
+     "2026-10-13"
+    ],
+    [
+     "Spawacz - Ślusarz",
+     4950,
+     9050,
+     "2026-10-14"
+    ]
+   ]
+  },
+  "Mechanik samochodowy": {
+   "kod_gus": "723",
+   "n_ogloszen_strona": "pracuj.pl",
+   "oferty": [
+    [
+     "Mechanik samochodowy",
+     8000,
+     12000,
+     "2026-10-12"
+    ],
+    [
+     "Mechanik samochodowy autoryzowanej stacji obsługi",
+     8500,
+     10000,
+     "2026-10-08"
+    ],
+    [
+     "Mechanik Samochodów Ciężarowych (Własna Flota)",
+     7000,
+     11000,
+     "2026-10-14"
+    ],
+    [
+     "Mechanik samochodowy",
+     6500,
+     10000,
+     "2026-10-14"
+    ],
+    [
+     "Mechanik samochodowy (f/m/d)",
+     6000,
+     12000,
+     "2026-10-13"
+    ],
+    [
+     "Mechanik samochodowy Audi Centrum Wrocław (K/M)",
+     7000,
+     15000,
+     "2026-10-13"
+    ],
+    [
+     "Mechanik samochodowy",
+     7000,
+     8000,
+     "2026-10-10"
+    ],
+    [
+     "Mechanik samochodowy autoryzowanej stacji obsługi",
+     10000,
+     17000,
+     "2026-10-13"
+    ],
+    [
+     "Mechanik samochodowy autoryzowanej stacji obsługi",
+     8000,
+     14500,
+     "2026-10-04"
+    ],
+    [
+     "Mechanik pojazdów samochodowych",
+     5000,
+     10000,
+     "2026-10-02"
+    ],
+    [
+     "Mechanik samochodowy",
+     8000,
+     12000,
+     "2026-10-01"
+    ],
+    [
+     "Mechanik samochodowy",
+     5000,
+     8000,
+     "2026-10-01"
+    ],
+    [
+     "Mechanik samochodowy",
+     8000,
+     16000,
+     "2026-09-30"
+    ],
+    [
+     "Mechanik samochodowy",
+     5500,
+     9500,
+     "2026-10-08"
+    ]
+   ]
+  },
+  "Księgowy": {
+   "kod_gus": "331",
+   "n_ogloszen_strona": "pracuj.pl",
+   "oferty": [
+    [
+     "Accountant (F/M/D)",
+     6800,
+     7800,
+     "2026-10-15"
+    ],
+    [
+     "Główny/a Księgowy/a",
+     15000,
+     18000,
+     "2026-10-15"
+    ],
+    [
+     "Specjalista ds. księgowości",
+     5500,
+     7000,
+     "2026-10-15"
+    ],
+    [
+     "Starszy specjalista ds. finansowo-księgowych",
+     9000,
+     10500,
+     "2026-10-15"
+    ],
+    [
+     "Młodsza Księgowa / Młodszy Księgowy",
+     6000,
+     6700,
+     "2026-10-15"
+    ],
+    [
+     "Główna księgowa / Główny księgowy z obsługą Kadr i Płac",
+     9000,
+     13000,
+     "2026-10-14"
+    ]
+   ]
+  },
+  "Murarz": {
+   "kod_gus": "711",
+   "n_ogloszen_strona": "pracuj.pl",
+   "oferty": [
+    [
+     "Murarz",
+     6000,
+     8000,
+     "2026-10-15"
+    ],
+    [
+     "Pracownik budowlany - Murarz",
+     7500,
+     10000,
+     "2026-10-15"
+    ],
+    [
+     "Murarz",
+     8000,
+     10000,
+     "2026-10-13"
+    ],
+    [
+     "Murarz / Cieśla / Zbrojarz",
+     5000,
+     6500,
+     "2026-10-11"
+    ],
+    [
+     "Murarz",
+     4000,
+     5000,
+     "2026-10-11"
+    ],
+    [
+     "Pracownik budowlany - Murarz",
+     4806,
+     10000,
+     "2026-10-13"
+    ],
+    [
+     "Murarz",
+     5000,
+     12000,
+     "2026-10-15"
+    ]
+   ]
+  },
+  "Kurier": {
+   "kod_gus": "962",
+   "n_ogloszen_strona": "pracuj.pl",
+   "oferty": [
+    [
+     "Kurier - Kierowca",
+     6500,
+     8500,
+     "2026-10-14"
+    ],
+    [
+     "Kurier - Kierowca",
+     7000,
+     9000,
+     "2026-10-14"
+    ],
+    [
+     "Kurier - Kierowca",
+     6500,
+     10000,
+     "2026-10-15"
+    ],
+    [
+     "Kurier - Dostawca",
+     8500,
+     11000,
+     "2026-10-14"
+    ],
+    [
+     "Kurier - Kierowca",
+     6000,
+     8000,
+     "2026-10-13"
+    ]
+   ]
   }
  }
 }
