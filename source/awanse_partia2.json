@@ -1,0 +1,184 @@
+{
+  "Murarz": {
+    "do": [
+      "Kierownik budowy"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Ślusarz": {
+    "do": [
+      "Kierownik ds. produkcji"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Sprzątacz budynków/sprzątaczka budynków": {
+    "do": [
+      "Kierownik ds. budynków"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Barista": {
+    "do": [
+      "Kierownik restauracji"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Kucharz - grill": {
+    "do": [
+      "Szef kuchni"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Cukiernik": {
+    "do": [
+      "Mistrz cukiernictwa"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Sprzedawca na stacji paliw": {
+    "do": [
+      "Kierownik sklepu"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Wyspecjalizowany sprzedawca": {
+    "do": [
+      "Kierownik sklepu"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Sprzedawca w centrum sprzedaży telefonicznej": {
+    "do": [
+      "Koordynator call centre",
+      "Kierownik call centre"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Pracownik magazynu kompletujący zamówienia": {
+    "do": [
+      "Specjalista ds. logistyki"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Robotnik magazynowy": {
+    "do": [
+      "Magazynier"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Operator maszyn do szycia": {
+    "do": [
+      "Kierownik ds. produkcji"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Operator maszyn odlewniczych": {
+    "do": [
+      "Kierownik odlewni"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Operator urządzeń do pakowania i napełniania": {
+    "do": [
+      "Kierownik ds. produkcji"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Monter mebli": {
+    "do": [
+      "Kierownik ds. produkcji"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Stolarz meblowy": {
+    "do": [
+      "Kierownik ds. produkcji"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Pracownik produkcji nadwozi": {
+    "do": [
+      "Kierownik ds. produkcji"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Operator maszyn do produkcji mebli drewnianych": {
+    "do": [
+      "Kierownik ds. produkcji"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Elektryk przemysłowy": {
+    "do": [
+      "Kierownik prac konserwacyjnych i remontowych"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Monter instalacji i urządzeń grzewczych": {
+    "do": [
+      "Kierownik prac konserwacyjnych i remontowych"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Monter instalacji gazowych": {
+    "do": [
+      "Kierownik prac konserwacyjnych i remontowych"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Dekarz": {
+    "do": [
+      "Kierownik budowy"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Betoniarz": {
+    "do": [
+      "Kierownik budowy"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Monter rusztowań": {
+    "do": [
+      "Kierownik budowy"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Monter pojazdów samochodowych": {
+    "do": [
+      "Kierownik serwisu samochodowego"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Mechanik oponiarz": {
+    "do": [
+      "Kierownik serwisu samochodowego"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Kierowca - pracownik przeprowadzkowy": {
+    "do": [
+      "Kierownik w firmie przeprowadzkowej"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Pracownik ochrony osobistej": {
+    "do": [
+      "Kierownik ds. ochrony"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Opiekun dorosłych w placówce całodobowej": {
+    "do": [
+      "Kierownik domu spokojnej starości"
+    ],
+    "pewnosc": "średnia"
+  },
+  "Opiekun pralni": {
+    "do": [
+      "Brygadzista w pralni",
+      "Kierownik pralni"
+    ],
+    "pewnosc": "średnia"
+  }
+}

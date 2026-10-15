@@ -137,5 +137,210 @@
   ],
   "pewnosc": "średnia",
   "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Ślusarz": {
+  "do": [
+   "Kierownik ds. produkcji"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Sprzątacz budynków/sprzątaczka budynków": {
+  "do": [
+   "Kierownik ds. budynków"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Barista": {
+  "do": [
+   "Kierownik restauracji"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Kucharz - grill": {
+  "do": [
+   "Szef kuchni"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Cukiernik": {
+  "do": [
+   "Mistrz cukiernictwa"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Sprzedawca na stacji paliw": {
+  "do": [
+   "Kierownik sklepu"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Wyspecjalizowany sprzedawca": {
+  "do": [
+   "Kierownik sklepu"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Sprzedawca w centrum sprzedaży telefonicznej": {
+  "do": [
+   "Koordynator call centre",
+   "Kierownik call centre"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Pracownik magazynu kompletujący zamówienia": {
+  "do": [
+   "Specjalista ds. logistyki"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Robotnik magazynowy": {
+  "do": [
+   "Magazynier"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Operator maszyn do szycia": {
+  "do": [
+   "Kierownik ds. produkcji"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Operator maszyn odlewniczych": {
+  "do": [
+   "Kierownik odlewni"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Operator urządzeń do pakowania i napełniania": {
+  "do": [
+   "Kierownik ds. produkcji"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Monter mebli": {
+  "do": [
+   "Kierownik ds. produkcji"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Stolarz meblowy": {
+  "do": [
+   "Kierownik ds. produkcji"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Pracownik produkcji nadwozi": {
+  "do": [
+   "Kierownik ds. produkcji"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Operator maszyn do produkcji mebli drewnianych": {
+  "do": [
+   "Kierownik ds. produkcji"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Elektryk przemysłowy": {
+  "do": [
+   "Kierownik prac konserwacyjnych i remontowych"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Monter instalacji i urządzeń grzewczych": {
+  "do": [
+   "Kierownik prac konserwacyjnych i remontowych"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Monter instalacji gazowych": {
+  "do": [
+   "Kierownik prac konserwacyjnych i remontowych"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Dekarz": {
+  "do": [
+   "Kierownik budowy"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Betoniarz": {
+  "do": [
+   "Kierownik budowy"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Monter rusztowań": {
+  "do": [
+   "Kierownik budowy"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Monter pojazdów samochodowych": {
+  "do": [
+   "Kierownik serwisu samochodowego"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Mechanik oponiarz": {
+  "do": [
+   "Kierownik serwisu samochodowego"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Kierowca - pracownik przeprowadzkowy": {
+  "do": [
+   "Kierownik w firmie przeprowadzkowej"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Pracownik ochrony osobistej": {
+  "do": [
+   "Kierownik ds. ochrony"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Opiekun dorosłych w placówce całodobowej": {
+  "do": [
+   "Kierownik domu spokojnej starości"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Opiekun pralni": {
+  "do": [
+   "Brygadzista w pralni",
+   "Kierownik pralni"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
  }
 }
