@@ -882,5 +882,40 @@
   ],
   "pewnosc": "średnia",
   "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Główny kelner / główna kelnerka": {
+  "do": [
+   "Kierownik restauracji"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Administrator bezpieczeństwa systemów informacyjno-telekomunikacyjnych": {
+  "do": [
+   "Kierownik ds. bezpieczeństwa technologii informacyjno-telekomunikacyjnych"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Administrator systemów informacyjno-telekomunikacyjnych": {
+  "do": [
+   "Kierownik ds. eksploatacji technologii informacyjno-telekomunikacyjnych"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Technik stacji uzdatniania wody": {
+  "do": [
+   "Kierownik stacji uzdatniania wody"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Monter maszyn i urządzeń przemysłowych": {
+  "do": [
+   "Mistrz montażu w przemyśle"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
  }
 }
