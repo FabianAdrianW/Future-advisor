@@ -1,0 +1,181 @@
+{
+ "uwaga": "Pilot: 11 zweryfikowanych ogloszen z 6 zawodow. Male proby, czesc wygaslych, brak dat publikacji. Nie jest to mediana zatrudnionych; to zakresy ofert. Nie wplywa jeszcze na aplikacje.",
+ "oferty": [
+  {
+   "zawod": "Magazynier",
+   "kod_gus": "933",
+   "miasto": "Poznań",
+   "typ": "umowa o pracę",
+   "od": 6146,
+   "do": 6500,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "archiwalna",
+   "url": "https://rocketjobs.pl/oferta-pracy/jaga-recruitment-sp-z-o-o--magazynier-magazynierka-z-udt---jedna-zmiana-8-16---wysoki-sklad-poznan-logistyka-inne"
+  },
+  {
+   "zawod": "Magazynier",
+   "kod_gus": "933",
+   "miasto": "Stargard",
+   "typ": "umowa o pracę",
+   "od": 6200,
+   "do": 6200,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "ważna do 31.10",
+   "url": "https://www.pracuj.pl/praca/magazynier-k-m-stargard,oferta,1005129335"
+  },
+  {
+   "zawod": "Kierowca C+E",
+   "kod_gus": "833",
+   "miasto": "Szczecin",
+   "typ": "umowa o pracę",
+   "od": 13000,
+   "do": 14000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "ważna do 11.11",
+   "url": "https://www.pracuj.pl/praca/kierowca-ciezarowki-c%2be-szczecin,oferta,1005153240"
+  },
+  {
+   "zawod": "Elektromonter",
+   "kod_gus": "741",
+   "miasto": "Piaseczno",
+   "typ": "umowa o pracę/zlecenie/B2B",
+   "od": 6000,
+   "do": 8000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/elektromonter-m-k-piaseczno,oferta,1005023157"
+  },
+  {
+   "zawod": "Elektromonter",
+   "kod_gus": "741",
+   "miasto": "Płock",
+   "typ": "umowa o pracę",
+   "od": 6000,
+   "do": 8000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/elektromonter-m-k-plock,oferta,1005000023"
+  },
+  {
+   "zawod": "Mechanik samochodowy",
+   "kod_gus": "723",
+   "miasto": "Słubice",
+   "typ": "umowa o pracę",
+   "od": 7000,
+   "do": 13000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/mechanik-samochodowy-k-m-slubice,oferta,1004986819"
+  },
+  {
+   "zawod": "Mechanik samochodowy",
+   "kod_gus": "723",
+   "miasto": "Kobierzyce",
+   "typ": "umowa o pracę",
+   "od": 7000,
+   "do": 10000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/mechanik-samochodowy-kobierzyce-pow-wroclawski,oferta,1004962152"
+  },
+  {
+   "zawod": "Kucharz",
+   "kod_gus": "512",
+   "miasto": "Krapkowice",
+   "typ": "umowa o pracę",
+   "od": 4806,
+   "do": 7000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/kucharz-kucharka-krapkowice-rybacka-19,oferta,1004820514"
+  },
+  {
+   "zawod": "Kucharz",
+   "kod_gus": "512",
+   "miasto": "Sułoszowa",
+   "typ": "umowa o pracę",
+   "od": 6000,
+   "do": 9000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/kucharz-kucharka-suloszowa-pow-krakowski,oferta,1004990683"
+  },
+  {
+   "zawod": "Sprzedawca",
+   "kod_gus": "522",
+   "miasto": "Janki (pow. pruszkowski)",
+   "typ": "umowa o pracę + premie",
+   "od": 7000,
+   "do": 10000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-janki-pow-pruszkowski-wspolna-6,oferta,1005002321"
+  },
+  {
+   "zawod": "Grafik komputerowy",
+   "kod_gus": "brak",
+   "miasto": "Rumia",
+   "typ": "B2B",
+   "od": 6000,
+   "do": 7000,
+   "waluta": "NETTO/mies (nie przeliczono)",
+   "data": "brak",
+   "status": "archiwalna",
+   "url": "https://rocketjobs.pl/oferta-pracy/diety-od-brokula-grafik-komputerowy-rumia-design-grafika"
+  }
+ ],
+ "porownanie_z_gus": [
+  {
+   "zawod": "Magazynier",
+   "ogloszenia_n": 2,
+   "srednia_srodek_ogloszen": 6262,
+   "app_gus_brutto": 6521,
+   "roznica_pct": -4
+  },
+  {
+   "zawod": "Kierowca C+E",
+   "ogloszenia_n": 1,
+   "srednia_srodek_ogloszen": 13500,
+   "app_gus_brutto": 7951,
+   "roznica_pct": 70
+  },
+  {
+   "zawod": "Elektromonter",
+   "ogloszenia_n": 2,
+   "srednia_srodek_ogloszen": 7000,
+   "app_gus_brutto": 8621,
+   "roznica_pct": -19
+  },
+  {
+   "zawod": "Mechanik samochodowy",
+   "ogloszenia_n": 2,
+   "srednia_srodek_ogloszen": 9250,
+   "app_gus_brutto": 8365,
+   "roznica_pct": 11
+  },
+  {
+   "zawod": "Kucharz",
+   "ogloszenia_n": 2,
+   "srednia_srodek_ogloszen": 6702,
+   "app_gus_brutto": 5869,
+   "roznica_pct": 14
+  },
+  {
+   "zawod": "Sprzedawca",
+   "ogloszenia_n": 1,
+   "srednia_srodek_ogloszen": 8500,
+   "app_gus_brutto": 5513,
+   "roznica_pct": 54
+  }
+ ]
+}
