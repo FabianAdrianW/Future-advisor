@@ -588,5 +588,89 @@
   ],
   "pewnosc": "średnia",
   "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Bukmacher": {
+  "do": [
+   "Kierownik punktu zakładów bukmacherskich"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Doradca kredytowy": {
+  "do": [
+   "Kierownik ds. kredytów"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Analityk kredytowy": {
+  "do": [
+   "Kierownik ds. kredytów"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Pracownik do spraw kredytów hipotecznych": {
+  "do": [
+   "Kierownik ds. kredytów"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Inżynier produkcji": {
+  "do": [
+   "Kierownik ds. produkcji"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Inżynier naftowy": {
+  "do": [
+   "Kierownik ds. produkcji w górnictwie ropy naftowej i gazu"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Inżynier ds. serwisu technicznego": {
+  "do": [
+   "Kierownik ds. serwisu"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Specjalista ds. logistyki": {
+  "do": [
+   "Kierownik ds. logistyki i dystrybucji"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Pracownik pralni": {
+  "do": [
+   "Brygadzista w pralni"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Wiertacz": {
+  "do": [
+   "Główny wiertacz"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Operator w zakładzie przetwórstwa gazu": {
+  "do": [
+   "Brygadzista w zakładzie przetwórstwa gazu"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Operator centralnej sterowni w rafinerii ropy naftowej": {
+  "do": [
+   "Kierownik zmiany w rafinerii"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
  }
 }

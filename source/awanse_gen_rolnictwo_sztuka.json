@@ -1,0 +1,44 @@
+{
+  "Lekarz weterynarii": {
+    "do": [
+      "Główny lekarz weterynarii"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony lekarz weterynarii może zostać głównym lekarzem weterynarii, nadzorującym pracę całej placówki lub zespołu."
+  },
+  "Pracownik schroniska dla zwierząt": {
+    "do": [
+      "Kierownik schroniska dla psów"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony pracownik schroniska może zostać kierownikiem schroniska dla psów, odpowiadając za jego funkcjonowanie."
+  },
+  "Sadownik": {
+    "do": [
+      "Kierownik gospodarstwa sadowniczego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Sadownik z doświadczeniem może przejąć kierowanie całym gospodarstwem sadowniczym."
+  },
+  "Montażysta obrazu": {
+    "do": [
+      "Kierownik postprodukcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Montażysta z doświadczeniem może awansować na kierownika postprodukcji, zarządzającego pracami nad materiałem filmowym."
+  },
+  "Animator kultury": {
+    "do": [
+      "Kierownik domu kultury"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Animator kultury z doświadczeniem może zostać kierownikiem domu kultury, odpowiadając za całą jego działalność."
+  },
+  "Technik estradowy": {
+    "do": [
+      "Kierownik produkcji widowisk"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Technik estradowy z doświadczeniem może awansować na kierownika produkcji widowisk, odpowiedzialnego za organizację wydarzeń."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Inżynier mechanik": {
+    "do": [
+      "Kierownik ds. produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inżynier mechanik po kilku latach pracy może przejść na kierownika produkcji."
+  },
+  "Inżynier produkcji": {
+    "do": [
+      "Kierownik ds. produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inżynier produkcji po doświadczeniu zwykle obejmuje kierowanie produkcją."
+  },
+  "Inżynier energetyki": {
+    "do": [
+      "Kierownik ds. energii"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inżynier energetyki z doświadczeniem może odpowiadać za zarządzanie energią w firmie."
+  },
+  "Inżynier chemik": {
+    "do": [
+      "Kierownik zakładu w przemyśle chemicznym"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inżynier chemik po awansie może kierować zakładem produkcyjnym."
+  },
+  "Inżynier naftowy": {
+    "do": [
+      "Kierownik ds. produkcji w górnictwie ropy naftowej i gazu"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inżynier naftowy z doświadczeniem może objąć kierowanie produkcją w wydobyciu."
+  },
+  "Inżynier ds. komunikacji": {
+    "do": [
+      "Kierownik działu telekomunikacji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inżynier ds. komunikacji po doświadczeniu może kierować działem telekomunikacji."
+  },
+  "Inżynier ds. serwisu technicznego": {
+    "do": [
+      "Kierownik ds. serwisu"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inżynier serwisu technicznego może awansować na kierownika serwisu."
+  },
+  "Specjalista ds. logistyki": {
+    "do": [
+      "Kierownik ds. logistyki i dystrybucji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista logistyki po doświadczeniu może objąć kierowanie logistyką."
+  },
+  "Technik mechanik": {
+    "do": [
+      "Kierownik prac konserwacyjnych i remontowych"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Technik mechanik z doświadczeniem może kierować pracami konserwacyjnymi i remontowymi."
+  },
+  "Inżynier ds. rozwoju kopalni": {
+    "do": [
+      "Kierownik ds. produkcji w kopalni"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inżynier rozwoju kopalni może awansować na kierownika produkcji w kopalni."
+  },
+  "Technik mechanik urządzeń przemysłowych": {
+    "do": [
+      "Mistrz montażu w przemyśle"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Technik mechanik urządzeń przemysłowych może awansować na mistrza montażu."
+  },
+  "Inżynier ds. testów": {
+    "do": [
+      "Kierownik ds. jakości"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inżynier testów z doświadczeniem może objąć kierowanie jakością."
+  },
+  "Metalurg": {
+    "do": [
+      "Kierownik odlewni"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Metalurg z doświadczeniem w hutnictwie może kierować odlewnią."
+  }
+}
