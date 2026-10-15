@@ -924,6 +924,36 @@
      "2026-10-13"
     ]
    ]
+  },
+  "Programista": {
+   "kod_gus": "251",
+   "n_ogloszen_strona": "pracuj.pl (sample bias: 4/24 stron, głównie senior)",
+   "oferty": [
+    [
+     "Software Engineer 2 (.NET/C#) - Logistics team",
+     14600,
+     20825,
+     "2026-10-15"
+    ],
+    [
+     "Senior Fullstack Java Developer",
+     19000,
+     21000,
+     "2026-10-14"
+    ],
+    [
+     "Senior Dev Engineer",
+     15000,
+     20000,
+     "2026-10-15"
+    ],
+    [
+     "Senior PL/SQL Developer",
+     16800,
+     22600,
+     "2026-10-15"
+    ]
+   ]
   }
  }
 }
