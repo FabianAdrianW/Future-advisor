@@ -1,0 +1,23 @@
+{
+  "Pracownik ds. inwestycji": {
+    "do": [
+      "Specjalista ds. inwestycji korporacyjnych"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Przejście z pracownika wykonawczego na poziom specjalisty w tym samym obszarze inwestycji to typowy awans o jeden szczebel."
+  },
+  "Asystent ds. wsparcia sprzedaży": {
+    "do": [
+      "Specjalista ds. administracji sprzedaży"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Awans z asystenta na specjalistę w tym samym obszarze administracji sprzedaży to typowy jeden szczebel w firmach handlowych."
+  },
+  "Asystent ds. nieruchomości": {
+    "do": [
+      "Specjalista ds. wynajmu nieruchomości"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Przejście z asystenta na specjalistę w tym samym obszarze nieruchomości to typowy awans o jeden szczebel."
+  }
+}

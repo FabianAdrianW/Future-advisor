@@ -1,0 +1,12 @@
+{
+  "Osoba nadzorująca pracowników ochrony osób i mienia": {
+    "do": ["Kierownik ds. ochrony"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Nadzór nad pracownikami ochrony to naturalny krok do kierowania całym działem ochrony w firmie ochroniarskiej."
+  },
+  "Pracownik służby ochrony lotniska": {
+    "do": ["Specjalista ds. bezpieczeństwa w części lotniczej lotniska"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista ds. bezpieczeństwa w części lotniczej lotniska przejmuje bardziej eksperckie, koordynacyjne zadania w tym samym obszarze pracy."
+  }
+}

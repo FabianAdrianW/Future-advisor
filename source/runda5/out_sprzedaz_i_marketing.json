@@ -1,0 +1,22 @@
+{
+  "Asystent ds. marketingu": {
+    "do": ["Specjalista ds. marketingu"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Awans z asystenta na samodzielnego specjalistę ds. marketingu, który prowadzi własne działania i kampanie."
+  },
+  "Agent ubezpieczeniowy": {
+    "do": ["Kierownik agencji ubezpieczeniowej"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Typowy awans agenta sprzedażowego na kierownika agencji odpowiedzialnego za wyniki i zespół agentów."
+  },
+  "Rzecznik prasowy": {
+    "do": ["Kierownik ds. public relations"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Rzecznik prasowy awansuje na kierownika całego obszaru PR, odpowiedzialnego za strategię i zespół."
+  },
+  "Specjalista ds. programowych": {
+    "do": ["Kierownik programu"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista odpowiadający za treści przechodzi na kierownika programu z odpowiedzialnością za jego realizację."
+  }
+}

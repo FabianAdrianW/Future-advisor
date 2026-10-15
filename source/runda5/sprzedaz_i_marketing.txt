@@ -1,0 +1,113 @@
+Makler morski
+Pośrednik handlowy
+Pośrednik w obrocie odpadami
+Armator wirtualny
+Hurtownik
+Makler giełd towarowych
+Specjalista ds. planowania zakupów
+Specjalista ds. zakupu tkanin
+Specjalista ds. zakupów technologii informacyjno-telekomunikacyjnych
+Specjalista ds. zakupów zielonej kawy
+Zaopatrzeniowiec
+Agent ds. zakupów - kostiumy
+Specjalista ds. zakupów - scenografia i rekwizyty
+Specjalista ds. zakupów drewna
+Agent ubezpieczeniowy
+Agent ubezpieczeń nieruchomości
+Broker ubezpieczeniowy
+Specjalista ds. oceny ryzyka ubezpieczeniowego
+Przedstawiciel handlowy
+Przedstawiciel handlowy zakładu energetycznego
+Sprzedawca energii odnawialnej
+Dyrektor domu towarowego
+Dyrektor supermarketu
+Kierownik działu w domu towarowym
+Kierownik sklepu
+Regionalny dyrektor handlowy
+Asystent ds. marketingu
+Kierownik ds. usług elektronicznych
+Specjalista ds. marketingu
+Specjalista ds. marketingu internetowego
+Specjalista ds. planowania mediów
+Asystent ds. promocji
+Autor tekstów i sloganów reklamowych
+Dyrektor kreatywny
+Kierownik ds. obsługi klienta
+Menedżer ds. przychodów z hotelarstwa
+Menedżer marki
+Menedżer produktów i usług
+Specjalista do spraw członkowskich
+Specjalista ds. marketingu sieciowego
+Specjalista ds. polityki cenowej
+Specjalista ds. rozwoju biznesu
+Specjalista ds. zakupu mediów
+Doradca techniczny–przedstawiciel handlowy
+Przedstawiciel techniczno-handlowy ds. sprzedaży maszyn górniczych i budowlanych
+Przedstawiciel techniczno-handlowy ds. sprzedaży maszyn i urządzeń przemysłowych
+Przedstawiciel techniczno-handlowy ds. sprzedaży maszyn rolniczych
+Przedstawiciel techniczno-handlowy ds. sprzedaży maszyn włókienniczych
+Przedstawiciel techniczno-handlowy ds. sprzedaży produktów chemicznych
+Przedstawiciel techniczno-handlowy ds. sprzedaży sprzętu biurowego
+Przedstawiciel techniczno-handlowy ds. sprzedaży sprzętu hydraulicznego i grzejnego
+Doradca ds. energii odnawialnej
+Inżynier sprzedaży
+Przedstawiciel medyczny
+Specjalista ds. fotowoltaiki
+Agitator wyborczy
+Specjalista ds. kampanii politycznych
+Rzecznik prasowy
+Kierownik ds. społeczności internetowych
+Lobbysta
+Pracownik partii politycznej
+Specjalista ds. komunikacji międzykulturowej
+Specjalista ds. pozyskiwania funduszy
+Szef sztabu wyborczego / szefowa sztabu wyborczego
+Zawodowy działacz
+Inżynier przedsprzedaży technologii informacyjno-telekomunikacyjnych
+Kierownik ds. rozwoju przedsiębiorstwa w dziedzinie systemów informacyjno-telekomunikacyjnych
+Opiekun klienta w dziedzinie technologii informacyjno-telekomunikacyjnych
+Przedstawiciel techniczno-handlowy ds. sprzedaży urządzeń elektronicznych i telekomunikacyjnych
+Asystent sprzedaży / asystentka sprzedaży
+Doradca handlowy ds. części zamiennych
+Osobisty doradca ds. wizerunku i zakupów
+Przedstawiciel leasingowy
+Specjalista ds. administracji sprzedaży
+Kierownik kas
+Kierownik w sklepie
+Przedsiębiorca prowadzący jednostkę handlu detalicznego
+Doradca ds. ochrony własności intelektualnej
+Kierownik ds. imprez rozrywkowych
+Kierownik organizatorów wycieczek
+Licytator
+Menedżer artystyczny
+Negocjator kontraktów wycieczkowych
+Organizator koncertów
+Specjalista ds. prawa do publikacji w formie drukowanej
+Specjalista ds. programowych
+Specjalista ds. przeprowadzek
+Sprzedawca reklam
+Inwestor w nieruchomości
+Pośrednik w obrocie nieruchomościami
+Specjalista ds. wynajmu nieruchomości
+Agent do spraw pozyskiwania nieruchomości
+Specjalista ds. finalizacji transakcji
+Administrator nieruchomości
+Specjalista ds. zarządzania najmem
+Zarządca nieruchomości
+Demonstrator wyrobów
+Komiwojażer
+Menedżer wypożyczalni
+Pracownik obsługi wypożyczalni
+Pracownik wypożyczalni samochodów
+Dyrektor ds. marketingu
+Dyrektor handlowy
+Kierownik domu aukcyjnego
+Kierownik ds. komunikacji
+Kierownik ds. public relations
+Kierownik ds. reklamy
+Menedżer oferty turystycznej
+Menedżer produktów bankowych
+Kasjer w kolekturze
+Sprzedawca na targowisku i bazarze
+Sprzedawca uliczny żywności
+Sprzedawca uliczny

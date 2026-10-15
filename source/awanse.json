@@ -770,5 +770,117 @@
   ],
   "pewnosc": "średnia",
   "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Osoba nadzorująca pracowników ochrony osób i mienia": {
+  "do": [
+   "Kierownik ds. ochrony"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Koordynator centrum obsługi klienta": {
+  "do": [
+   "Kierownik centrum obsługi klienta"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Koordynator call centre": {
+  "do": [
+   "Kierownik call centre"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Pracownik centrum obsługi klienta": {
+  "do": [
+   "Koordynator centrum obsługi klienta"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Lider zespołu w restauracji szybkiej obsługi": {
+  "do": [
+   "Kierownik restauracji"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Operator centralnej sterowni w zakładzie przetwórstwa gazu": {
+  "do": [
+   "Brygadzista w zakładzie przetwórstwa gazu"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Mistrz produkcji": {
+  "do": [
+   "Kierownik ds. produkcji"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Prasowacz w pralni": {
+  "do": [
+   "Brygadzista w pralni"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Specjalista ochrony środowiska": {
+  "do": [
+   "Kierownik ds. ochrony środowiska"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Koordynator programów ochrony środowiska": {
+  "do": [
+   "Kierownik ds. ochrony środowiska"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Szef zespołu opiekunów zwierząt w zoo": {
+  "do": [
+   "Kierownik sekcji w ogrodzie zoologicznym"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Koordynator zespołu ds. produkcji ogrodniczej": {
+  "do": [
+   "Kierownik produkcji w przedsiębiorstwie ogrodniczym"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Pracownik gospodarstwa ogrodniczego": {
+  "do": [
+   "Koordynator zespołu ds. produkcji ogrodniczej"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Asystent lotu": {
+  "do": [
+   "Szef pokładu / szefowa pokładu"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Kierownik projektu": {
+  "do": [
+   "Kierownik programu"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Koordynator programów zatrudnienia": {
+  "do": [
+   "Kierownik programu"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
  }
 }

@@ -1,0 +1,870 @@
+[
+ {
+  "plik": "out_bezpieczenstwo_i_wojsko.json",
+  "zawod": "Osoba nadzorująca pracowników ochrony osób i mienia",
+  "cel": "Kierownik ds. ochrony",
+  "werdykt": "przyjety",
+  "powod": "Nadzorca ochrony to naturalny kandydat na kierownika ochrony, jeden szczebel wyżej."
+ },
+ {
+  "plik": "out_bezpieczenstwo_i_wojsko.json",
+  "zawod": "Pracownik służby ochrony lotniska",
+  "cel": "Specjalista ds. bezpieczeństwa w części lotniczej lotniska",
+  "werdykt": "do_przegladu",
+  "powod": "Rola specjalisty wymaga odrębnych uprawnień i certyfikacji, a cel ich nie wskazuje."
+ },
+ {
+  "plik": "out_biuro_i_administracja.json",
+  "zawod": "Koordynator centrum obsługi klienta",
+  "cel": "Kierownik centrum obsługi klienta",
+  "werdykt": "przyjety",
+  "powod": "Koordynator zespołu awansuje na kierownika tej samej jednostki."
+ },
+ {
+  "plik": "out_biuro_i_administracja.json",
+  "zawod": "Koordynator call centre",
+  "cel": "Kierownik call centre",
+  "werdykt": "przyjety",
+  "powod": "Koordynator zespołu awansuje na kierownika call centre."
+ },
+ {
+  "plik": "out_biuro_i_administracja.json",
+  "zawod": "Pracownik centrum obsługi klienta",
+  "cel": "Koordynator centrum obsługi klienta",
+  "werdykt": "przyjety",
+  "powod": "Pracownik liniowy awansuje na koordynatora zespołu w tej samej jednostce."
+ },
+ {
+  "plik": "out_biuro_i_administracja.json",
+  "zawod": "Pracownik działu obsługi klienta",
+  "cel": "Specjalista ds. obsługi klienta",
+  "werdykt": "odrzucony",
+  "powod": "Pracownik i specjalista obsługi klienta to ten sam poziom, więc ruch jest boczny."
+ },
+ {
+  "plik": "out_biuro_i_administracja.json",
+  "zawod": "Pracownik ds. członkowskich",
+  "cel": "Specjalista do spraw członkowskich",
+  "werdykt": "odrzucony",
+  "powod": "Zmiana nazwy stanowiska na specjalistę bez realnego wzrostu poziomu."
+ },
+ {
+  "plik": "out_biuro_i_administracja.json",
+  "zawod": "Ankieter",
+  "cel": "Specjalista ds. badań rynku",
+  "werdykt": "odrzucony",
+  "powod": "Ankieter to praca zlecona w terenie, a specjalista badań rynku to inna rola, nie awans o szczebel."
+ },
+ {
+  "plik": "out_biuro_i_administracja.json",
+  "zawod": "Ankieter w dziale analiz i badań rynkowych",
+  "cel": "Specjalista ds. badań rynku",
+  "werdykt": "odrzucony",
+  "powod": "Ankieter to praca zlecona w terenie, a specjalista badań rynku to inna rola, nie awans o szczebel."
+ },
+ {
+  "plik": "out_biuro_i_administracja.json",
+  "zawod": "Asystent chiropraktyka",
+  "cel": "Specjalista chiropraktyk",
+  "werdykt": "odrzucony",
+  "powod": "Chiropraktyk to zawód regulowany wymagający studiów, a nie awans asystenta."
+ },
+ {
+  "plik": "out_budownictwo_i_architektura.json",
+  "zawod": "Cieśla",
+  "cel": "Mistrz produkcji w budownictwie",
+  "werdykt": "do_przegladu",
+  "powod": "Przejście od rzemieślnika do mistrza produkcji pomija brygadzistę, więc może to być skok."
+ },
+ {
+  "plik": "out_budownictwo_i_architektura.json",
+  "zawod": "Kominiarz",
+  "cel": "Mistrz kominiarski",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz kominiarski wymaga egzaminu mistrzowskiego, którego cel nie wskazuje."
+ },
+ {
+  "plik": "out_budownictwo_i_architektura.json",
+  "zawod": "Inżynier budownictwa",
+  "cel": "Kierownik budowy",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik budowy wymaga uprawnień budowlanych, których cel nie wskazuje."
+ },
+ {
+  "plik": "out_budownictwo_i_architektura.json",
+  "zawod": "Inspektor jakości obiektów budowlanych",
+  "cel": "Kierownik ds. jakości",
+  "werdykt": "do_przegladu",
+  "powod": "Przejście z inspektora na kierownika jakości może pomijać szczebel specjalisty lub lidera."
+ },
+ {
+  "plik": "out_czlowiek_spoleczenstwo_kultura.json",
+  "zawod": "Badacz nauki o komunikowaniu",
+  "cel": "Kierownik ds. badań",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ds. badań jest celem ogólnym i zwykle wymaga stopnia naukowego."
+ },
+ {
+  "plik": "out_czlowiek_spoleczenstwo_kultura.json",
+  "zawod": "Badacz nauk o zachowaniu",
+  "cel": "Kierownik ds. badań",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ds. badań jest celem ogólnym i zwykle wymaga stopnia naukowego."
+ },
+ {
+  "plik": "out_czlowiek_spoleczenstwo_kultura.json",
+  "zawod": "Muzealnik",
+  "cel": "Kierownik placówki kulturalnej",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik placówki kulturalnej to skok o więcej niż jeden poziom."
+ },
+ {
+  "plik": "out_edukacja.json",
+  "zawod": "Zastępca dyrektora szkoły",
+  "cel": "Dyrektor szkoły",
+  "werdykt": "odrzucony",
+  "powod": "Błąd mechaniczny: cel-nie-w-liscie."
+ },
+ {
+  "plik": "out_edukacja.json",
+  "zawod": "Koordynator programu oświatowego",
+  "cel": "Kierownik programu",
+  "werdykt": "do_przegladu",
+  "powod": "Cel 'Kierownik programu' jest ogólny i niejasny w branży oświatowej."
+ },
+ {
+  "plik": "out_edukacja.json",
+  "zawod": "Asystent nauczyciela w szkole podstawowej",
+  "cel": "Nauczyciel w szkole podstawowej/nauczycielka w szkole podstawowej",
+  "werdykt": "odrzucony",
+  "powod": "Błąd mechaniczny: cel-nie-w-liscie."
+ },
+ {
+  "plik": "out_edukacja.json",
+  "zawod": "Asystent nauczyciela w przedszkolu",
+  "cel": "Nauczyciel przedszkola/nauczycielka przedszkola",
+  "werdykt": "odrzucony",
+  "powod": "Błąd mechaniczny: cel-nie-w-liscie."
+ },
+ {
+  "plik": "out_edukacja.json",
+  "zawod": "Asystent nauczyciela w szkole średniej",
+  "cel": "Nauczyciel w szkole ponadpodstawowej/nauczycielka w szkole ponadpodstawowej",
+  "werdykt": "odrzucony",
+  "powod": "Błąd mechaniczny: cel-nie-w-liscie."
+ },
+ {
+  "plik": "out_finanse.json",
+  "zawod": "Pracownik ds. inwestycji",
+  "cel": "Specjalista ds. inwestycji korporacyjnych",
+  "werdykt": "odrzucony",
+  "powod": "Pracownik i specjalista to ten sam poziom, więc ruch jest boczny."
+ },
+ {
+  "plik": "out_finanse.json",
+  "zawod": "Asystent ds. wsparcia sprzedaży",
+  "cel": "Specjalista ds. administracji sprzedaży",
+  "werdykt": "odrzucony",
+  "powod": "Asystent do specjalisty w tym samym obszarze to ruch boczny lub zmiana roli."
+ },
+ {
+  "plik": "out_finanse.json",
+  "zawod": "Asystent ds. nieruchomości",
+  "cel": "Specjalista ds. wynajmu nieruchomości",
+  "werdykt": "odrzucony",
+  "powod": "Asystent do specjalisty wynajmu to zmiana roli, a nie jeden szczebel."
+ },
+ {
+  "plik": "out_gastronomia_hotele_turystyka.json",
+  "zawod": "Główny kelner / główna kelnerka",
+  "cel": "Kierownik restauracji",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik restauracji może pomijać szczebel zmianowego lub zastępcy kierownika."
+ },
+ {
+  "plik": "out_gastronomia_hotele_turystyka.json",
+  "zawod": "Lider zespołu w restauracji szybkiej obsługi",
+  "cel": "Kierownik restauracji",
+  "werdykt": "przyjety",
+  "powod": "Lider zmiany awansuje na kierownika restauracji, co jest typowe w gastronomii."
+ },
+ {
+  "plik": "out_gastronomia_hotele_turystyka.json",
+  "zawod": "Recepcjonista w placówce hotelarskiej / recepcjonistka w placówce hotelarskiej",
+  "cel": "Kierownik ds. zakwaterowania",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik ds. zakwaterowania to skok o więcej niż jeden poziom."
+ },
+ {
+  "plik": "out_gastronomia_hotele_turystyka.json",
+  "zawod": "Pracownik biura podróży",
+  "cel": "Kierownik biura podróży",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik biura to skok ponad stanowisko starszego pracownika."
+ },
+ {
+  "plik": "out_gastronomia_hotele_turystyka.json",
+  "zawod": "Organizator wycieczki",
+  "cel": "Kierownik organizatorów wycieczek",
+  "werdykt": "do_przegladu",
+  "powod": "Cel jest wąskim i nietypowym stanowiskiem kierowniczym o niejasnej strukturze."
+ },
+ {
+  "plik": "out_gastronomia_hotele_turystyka.json",
+  "zawod": "Pracownik informacji turystycznej",
+  "cel": "Kierownik centrum informacji turystycznej",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik centrum to skok o więcej niż jeden poziom."
+ },
+ {
+  "plik": "out_gastronomia_hotele_turystyka.json",
+  "zawod": "Pierwszy cukiernik",
+  "cel": "Mistrz cukiernictwa",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz cukiernictwa wymaga egzaminu mistrzowskiego, którego cel nie wskazuje."
+ },
+ {
+  "plik": "out_informatyka_i_dane.json",
+  "zawod": "Analityk biznesowy w dziedzinie technologii informacyjno-telekomunikacyjnych",
+  "cel": "Kierownik ds. analizy biznesowej w zakresie technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ds. analizy może pomijać szczebel starszego analityka lub lidera, a cel to wąskie stanowisko."
+ },
+ {
+  "plik": "out_informatyka_i_dane.json",
+  "zawod": "Administrator bezpieczeństwa systemów informacyjno-telekomunikacyjnych",
+  "cel": "Kierownik ds. bezpieczeństwa technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ds. bezpieczeństwa to możliwy awans, ale może pomijać szczebel lidera."
+ },
+ {
+  "plik": "out_informatyka_i_dane.json",
+  "zawod": "Konsultant ds. bezpieczeństwa technologii informacyjno-telekomunikacyjnych",
+  "cel": "Kierownik ds. bezpieczeństwa technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "do_przegladu",
+  "powod": "Konsultant do kierownika to częściowo zmiana roli, więc wymaga przeglądu."
+ },
+ {
+  "plik": "out_informatyka_i_dane.json",
+  "zawod": "Analityk odtwarzania awaryjnego technologii informacyjno-telekomunikacyjnych",
+  "cel": "Kierownik ds. odporności technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "do_przegladu",
+  "powod": "Cel to rzadkie stanowisko kierownicze o niejasnej strukturze."
+ },
+ {
+  "plik": "out_informatyka_i_dane.json",
+  "zawod": "Analityk testów technologii informacyjno-telekomunikacyjnych",
+  "cel": "Kierownik kontroli jakości technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "do_przegladu",
+  "powod": "Przejście na kierownika kontroli jakości zmienia nieco rolę i może pomijać szczebel."
+ },
+ {
+  "plik": "out_informatyka_i_dane.json",
+  "zawod": "Pracownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych",
+  "cel": "Kierownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik działu to skok ponad stanowisko starszego specjalisty lub lidera."
+ },
+ {
+  "plik": "out_informatyka_i_dane.json",
+  "zawod": "Administrator systemów informacyjno-telekomunikacyjnych",
+  "cel": "Kierownik ds. eksploatacji technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "do_przegladu",
+  "powod": "Awans na kierownika eksploatacji jest możliwy, ale może pomijać szczebel lidera."
+ },
+ {
+  "plik": "out_informatyka_i_dane.json",
+  "zawod": "Konsultant ds. technologii informacyjno-telekomunikacyjnych",
+  "cel": "Kierownik projektów w zakresie technologii informacyjno-telekomunikacyjnych",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik projektów to zmiana roli, a nie awans w tej samej ścieżce."
+ },
+ {
+  "plik": "out_inzynieria_i_technika.json",
+  "zawod": "Technik mechanik urządzeń przemysłowych",
+  "cel": "Mistrz produkcji",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz produkcji może pomijać szczebel brygadzisty lub lidera."
+ },
+ {
+  "plik": "out_inzynieria_i_technika.json",
+  "zawod": "Technik mechatronik",
+  "cel": "Mistrz montażu w przemyśle",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz montażu może pomijać szczebel brygadzisty lub lidera."
+ },
+ {
+  "plik": "out_inzynieria_i_technika.json",
+  "zawod": "Inżynier energetyki",
+  "cel": "Kierownik ds. energii",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ds. energii jest możliwym awansem, ale cel jest ogólny."
+ },
+ {
+  "plik": "out_inzynieria_i_technika.json",
+  "zawod": "Inżynier ds. systemów energetycznych",
+  "cel": "Kierownik ds. energii",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ds. energii jest możliwym awansem, ale cel jest ogólny."
+ },
+ {
+  "plik": "out_inzynieria_i_technika.json",
+  "zawod": "Inżynier przemysłowy",
+  "cel": "Kierownik ds. produkcji",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ds. produkcji może pomijać szczebel kierownika zmiany lub działu."
+ },
+ {
+  "plik": "out_mechanika_i_elektryka.json",
+  "zawod": "Operator obrabiarki sterowanej numerycznie",
+  "cel": "Mistrz produkcji",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz produkcji może pomijać szczebel brygadzisty lub lidera."
+ },
+ {
+  "plik": "out_mechanika_i_elektryka.json",
+  "zawod": "Mechanik urządzeń przemysłowych",
+  "cel": "Mistrz montażu w przemyśle",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz montażu może pomijać szczebel brygadzisty lub lidera."
+ },
+ {
+  "plik": "out_mechanika_i_elektryka.json",
+  "zawod": "Mechanik precyzyjny samochodowy",
+  "cel": "Kierownik warsztatu samochodowego",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik warsztatu to skok ponad stanowisko starszego mechanika lub mistrza."
+ },
+ {
+  "plik": "out_mechanika_i_elektryka.json",
+  "zawod": "Mechanik silników spalinowych",
+  "cel": "Kierownik warsztatu samochodowego",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik warsztatu to skok ponad stanowisko starszego mechanika lub mistrza."
+ },
+ {
+  "plik": "out_mechanika_i_elektryka.json",
+  "zawod": "Elektromechanik pojazdów samochodowych",
+  "cel": "Kierownik warsztatu samochodowego",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik warsztatu to skok ponad stanowisko starszego mechanika lub mistrza."
+ },
+ {
+  "plik": "out_mechanika_i_elektryka.json",
+  "zawod": "Specjalista spawania laserowego",
+  "cel": "Koordynator procesu spawalniczego",
+  "werdykt": "do_przegladu",
+  "powod": "Koordynator procesu spawalniczego zwykle wymaga uprawnień nadzoru spawalniczego."
+ },
+ {
+  "plik": "out_mechanika_i_elektryka.json",
+  "zawod": "Odlewnik",
+  "cel": "Mistrz produkcji",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz produkcji może pomijać szczebel brygadzisty lub lidera."
+ },
+ {
+  "plik": "out_mechanika_i_elektryka.json",
+  "zawod": "Ślusarz narzędziowy",
+  "cel": "Mistrz produkcji",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz produkcji może pomijać szczebel brygadzisty lub lidera."
+ },
+ {
+  "plik": "out_media_jezyk_i_literatura.json",
+  "zawod": "Specjalista ds. komunikacji technicznej",
+  "cel": "Kierownik ds. komunikacji",
+  "werdykt": "do_przegladu",
+  "powod": "Cel 'Kierownik ds. komunikacji' jest ogólny i może oznaczać inną branżę."
+ },
+ {
+  "plik": "out_media_jezyk_i_literatura.json",
+  "zawod": "Korespondent zagraniczny",
+  "cel": "Kierownik biura",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik biura to zmiana roli z dziennikarskiej na zarządczą."
+ },
+ {
+  "plik": "out_medycyna_i_zdrowie.json",
+  "zawod": "Technik dietetyki szpitalnej",
+  "cel": "Specjalista ds. dietetyki",
+  "werdykt": "odrzucony",
+  "powod": "Specjalista ds. dietetyki wymaga wyższego wykształcenia, więc to nie ten sam tor awansu."
+ },
+ {
+  "plik": "out_medycyna_i_zdrowie.json",
+  "zawod": "Zooterapeuta",
+  "cel": "Specjalista zooterapii",
+  "werdykt": "odrzucony",
+  "powod": "Cel to tylko słowna wariacja nazwy zawodu, bez realnego awansu."
+ },
+ {
+  "plik": "out_nauki_scisle.json",
+  "zawod": "Technik ochrony środowiska",
+  "cel": "Specjalista ochrony środowiska",
+  "werdykt": "do_przegladu",
+  "powod": "Technik do specjalisty to możliwy awans, ale zależy od wykształcenia, którego cel nie wskazuje."
+ },
+ {
+  "plik": "out_nauki_scisle.json",
+  "zawod": "Fizyk",
+  "cel": "Kierownik ds. badań",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ds. badań jest celem ogólnym i zwykle wymaga stopnia naukowego."
+ },
+ {
+  "plik": "out_nauki_scisle.json",
+  "zawod": "Chemik",
+  "cel": "Kierownik ds. badań",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ds. badań jest celem ogólnym i zwykle wymaga stopnia naukowego."
+ },
+ {
+  "plik": "out_opieka_i_pomoc_ludziom.json",
+  "zawod": "Pracownik młodzieżowego ośrodka wychowawczego",
+  "cel": "Kierownik ośrodka dla młodzieży",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik ośrodka wymaga kwalifikacji i doświadczenia, więc to skok."
+ },
+ {
+  "plik": "out_prawo_i_urzedy.json",
+  "zawod": "Prawnik",
+  "cel": "Kierownik działu prawnego",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik działu prawnego jest możliwy, ale zależy od aplikacji i doświadczenia."
+ },
+ {
+  "plik": "out_prawo_i_urzedy.json",
+  "zawod": "Doradca prawny",
+  "cel": "Kierownik działu prawnego",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik działu prawnego jest możliwy, ale zależy od aplikacji i doświadczenia."
+ },
+ {
+  "plik": "out_prawo_i_urzedy.json",
+  "zawod": "Urzędnik ds. ubezpieczeń społecznych",
+  "cel": "Kierownik ds. ubezpieczeń społecznych",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik to skok ponad stanowisko starszego inspektora."
+ },
+ {
+  "plik": "out_prawo_i_urzedy.json",
+  "zawod": "Inspektor ds. ubezpieczeń społecznych",
+  "cel": "Kierownik ds. ubezpieczeń społecznych",
+  "werdykt": "do_przegladu",
+  "powod": "Awans na kierownika jest możliwy, ale może pomijać szczebel starszego inspektora."
+ },
+ {
+  "plik": "out_prawo_i_urzedy.json",
+  "zawod": "Specjalista ds. kontroli gier i zakładów",
+  "cel": "Kierownik ds. zgodności z przepisami i bezpieczeństwa informacji w dziedzinie gier hazardowych",
+  "werdykt": "do_przegladu",
+  "powod": "Cel to bardzo wąskie stanowisko kierownicze o niejasnej ścieżce."
+ },
+ {
+  "plik": "out_prawo_i_urzedy.json",
+  "zawod": "Detektyw sklepowy",
+  "cel": "Kierownik ds. ochrony",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik ds. ochrony to skok o więcej niż jeden poziom."
+ },
+ {
+  "plik": "out_projektowanie_i_grafika.json",
+  "zawod": "Projektant grafiki",
+  "cel": "Kierownik artystyczny",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik artystyczny to rola kreatywna, nie jasny awans o jeden szczebel."
+ },
+ {
+  "plik": "out_projektowanie_i_grafika.json",
+  "zawod": "Twórca gier komputerowych",
+  "cel": "Kierownik ds. rozwoju gier",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik ds. rozwoju gier jest możliwy, ale może pomijać szczebel lidera zespołu."
+ },
+ {
+  "plik": "out_projektowanie_i_grafika.json",
+  "zawod": "Projektant gier hazardowych, zakładów i loterii",
+  "cel": "Kierownik ds. rozwoju gier",
+  "werdykt": "odrzucony",
+  "powod": "Cel dotyczy rozwoju gier komputerowych, czyli innej branży."
+ },
+ {
+  "plik": "out_projektowanie_i_grafika.json",
+  "zawod": "Projektant wyrobów tekstylnych",
+  "cel": "Kierownik ds. rozwoju produktów w branży odzieżowej",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik rozwoju produktów to możliwy awans, ale może pomijać szczebel."
+ },
+ {
+  "plik": "out_przemysl_i_produkcja.json",
+  "zawod": "Operator centralnej sterowni w zakładzie przetwórstwa gazu",
+  "cel": "Brygadzista w zakładzie przetwórstwa gazu",
+  "werdykt": "przyjety",
+  "powod": "Operator sterowni awansuje na brygadzistę zmiany w tym samym zakładzie."
+ },
+ {
+  "plik": "out_przemysl_i_produkcja.json",
+  "zawod": "Mistrz produkcji",
+  "cel": "Kierownik ds. produkcji",
+  "werdykt": "przyjety",
+  "powod": "Mistrz produkcji awansuje na kierownika produkcji."
+ },
+ {
+  "plik": "out_przemysl_i_produkcja.json",
+  "zawod": "Prasowacz w pralni",
+  "cel": "Brygadzista w pralni",
+  "werdykt": "przyjety",
+  "powod": "Pracownik pralni awansuje na brygadzistę w tej samej pralni."
+ },
+ {
+  "plik": "out_przemysl_i_produkcja.json",
+  "zawod": "Operator urządzeń uzdatniania wody",
+  "cel": "Kierownik stacji uzdatniania wody",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik stacji to skok ponad stanowisko technika lub zmianowego."
+ },
+ {
+  "plik": "out_przemysl_i_produkcja.json",
+  "zawod": "Technik stacji uzdatniania wody",
+  "cel": "Kierownik stacji uzdatniania wody",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik stacji jest możliwy, ale może pomijać szczebel zmianowego."
+ },
+ {
+  "plik": "out_przemysl_i_produkcja.json",
+  "zawod": "Monter maszyn i urządzeń przemysłowych",
+  "cel": "Mistrz montażu w przemyśle",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz montażu może pomijać szczebel brygadzisty lub lidera."
+ },
+ {
+  "plik": "out_przemysl_i_produkcja.json",
+  "zawod": "Operator wtryskarki",
+  "cel": "Mistrz produkcji",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz produkcji może pomijać szczebel brygadzisty lub lidera."
+ },
+ {
+  "plik": "out_przemysl_i_produkcja.json",
+  "zawod": "Operator maszyny papierniczej",
+  "cel": "Mistrz produkcji",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz produkcji może pomijać szczebel brygadzisty lub lidera."
+ },
+ {
+  "plik": "out_przemysl_i_produkcja.json",
+  "zawod": "Operator walcarki",
+  "cel": "Mistrz produkcji",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz produkcji może pomijać szczebel brygadzisty lub lidera."
+ },
+ {
+  "plik": "out_przemysl_i_produkcja.json",
+  "zawod": "Technik ds. barwienia tkanin",
+  "cel": "Specjalista ds. barwienia tkanin",
+  "werdykt": "odrzucony",
+  "powod": "Technik do specjalisty tej samej dziedziny to słowna zmiana, nie wyraźny awans."
+ },
+ {
+  "plik": "out_przemysl_i_produkcja.json",
+  "zawod": "Monter konstrukcji stalowych",
+  "cel": "Mistrz produkcji w budownictwie",
+  "werdykt": "do_przegladu",
+  "powod": "Mistrz produkcji w budownictwie może pomijać szczebel brygadzisty."
+ },
+ {
+  "plik": "out_przyroda_i_srodowisko.json",
+  "zawod": "Specjalista ochrony środowiska",
+  "cel": "Kierownik ds. ochrony środowiska",
+  "werdykt": "przyjety",
+  "powod": "Specjalista awansuje na kierownika w tej samej dziedzinie."
+ },
+ {
+  "plik": "out_przyroda_i_srodowisko.json",
+  "zawod": "Koordynator programów ochrony środowiska",
+  "cel": "Kierownik ds. ochrony środowiska",
+  "werdykt": "przyjety",
+  "powod": "Koordynator awansuje na kierownika w tej samej dziedzinie."
+ },
+ {
+  "plik": "out_przyroda_i_srodowisko.json",
+  "zawod": "Specjalista ds. akwakultury",
+  "cel": "Kierownik akwakultury ds. produkcji",
+  "werdykt": "do_przegladu",
+  "powod": "Cel to wąskie stanowisko kierownicze, a awans może pomijać szczebel."
+ },
+ {
+  "plik": "out_przyroda_i_srodowisko.json",
+  "zawod": "Specjalista ds. akwakultury w systemie recyrkulacji wody",
+  "cel": "Kierownik akwakultury ds. produkcji",
+  "werdykt": "do_przegladu",
+  "powod": "Cel to wąskie stanowisko kierownicze, a awans może pomijać szczebel."
+ },
+ {
+  "plik": "out_rolnictwo_las_i_zwierzeta.json",
+  "zawod": "Technik akwakultury ds. chowu",
+  "cel": "Kierownik akwakultury ds. chowu",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik może być skokiem ponad stanowisko starszego technika."
+ },
+ {
+  "plik": "out_rolnictwo_las_i_zwierzeta.json",
+  "zawod": "Technik akwakultury ds. odłowów",
+  "cel": "Kierownik akwakultury ds. odłowów",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik może być skokiem ponad stanowisko starszego technika."
+ },
+ {
+  "plik": "out_rolnictwo_las_i_zwierzeta.json",
+  "zawod": "Sadownik",
+  "cel": "Kierownik gospodarstwa sadowniczego",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik gospodarstwa sadowniczego zależy od struktury firmy i nie jest typowym awansem."
+ },
+ {
+  "plik": "out_rolnictwo_las_i_zwierzeta.json",
+  "zawod": "Pracownik schroniska dla zwierząt",
+  "cel": "Kierownik schroniska dla psów",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik schroniska to skok ponad stanowisko opiekuna lub koordynatora."
+ },
+ {
+  "plik": "out_rolnictwo_las_i_zwierzeta.json",
+  "zawod": "Szef zespołu opiekunów zwierząt w zoo",
+  "cel": "Kierownik sekcji w ogrodzie zoologicznym",
+  "werdykt": "przyjety",
+  "powod": "Szef zespołu opiekunów awansuje na kierownika sekcji w zoo."
+ },
+ {
+  "plik": "out_rolnictwo_las_i_zwierzeta.json",
+  "zawod": "Lekarz weterynarii",
+  "cel": "Główny lekarz weterynarii",
+  "werdykt": "odrzucony",
+  "powod": "Główny Lekarz Weterynarii to urząd centralny, a nie awans o jeden szczebel."
+ },
+ {
+  "plik": "out_rolnictwo_las_i_zwierzeta.json",
+  "zawod": "Koordynator zespołu ds. produkcji ogrodniczej",
+  "cel": "Kierownik produkcji w przedsiębiorstwie ogrodniczym",
+  "werdykt": "przyjety",
+  "powod": "Koordynator zespołu awansuje na kierownika produkcji ogrodniczej."
+ },
+ {
+  "plik": "out_rolnictwo_las_i_zwierzeta.json",
+  "zawod": "Pracownik gospodarstwa ogrodniczego",
+  "cel": "Koordynator zespołu ds. produkcji ogrodniczej",
+  "werdykt": "przyjety",
+  "powod": "Pracownik awansuje na koordynatora zespołu w tym samym gospodarstwie."
+ },
+ {
+  "plik": "out_rzemioslo.json",
+  "zawod": "Konstruktor odzieży",
+  "cel": "Kierownik ds. rozwoju produktów w branży odzieżowej",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik rozwoju produktów może pomijać szczebel starszego konstruktora lub lidera."
+ },
+ {
+  "plik": "out_rzemioslo.json",
+  "zawod": "Konstruktor odzieży – operator CAD",
+  "cel": "Kierownik ds. rozwoju produktów w branży odzieżowej",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik rozwoju produktów może pomijać szczebel starszego konstruktora lub lidera."
+ },
+ {
+  "plik": "out_rzemioslo.json",
+  "zawod": "Konstruktor wyrobów skórzanych",
+  "cel": "Kierownik ds. rozwoju produktów w branży wyrobów skórzanych",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik rozwoju produktów może pomijać szczebel starszego konstruktora lub lidera."
+ },
+ {
+  "plik": "out_rzemioslo.json",
+  "zawod": "Konstruktor wyrobów skórzanych - operator CAD",
+  "cel": "Kierownik ds. rozwoju produktów w branży wyrobów skórzanych",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik rozwoju produktów może pomijać szczebel starszego konstruktora lub lidera."
+ },
+ {
+  "plik": "out_rzemioslo.json",
+  "zawod": "Konstruktor-modelarz obuwia operator CAD",
+  "cel": "Kierownik ds. rozwoju produktu w branży obuwniczej",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik rozwoju produktów może pomijać szczebel starszego konstruktora lub lidera."
+ },
+ {
+  "plik": "out_sport_i_rekreacja.json",
+  "zawod": "Instruktor rekreacji ruchowej",
+  "cel": "Koordynator programów sportowych",
+  "werdykt": "do_przegladu",
+  "powod": "Koordynator programów to możliwy awans, ale zmienia rolę z prowadzenia zajęć na organizację."
+ },
+ {
+  "plik": "out_sport_i_rekreacja.json",
+  "zawod": "Wyspecjalizowany instruktor rekreacji ruchowej",
+  "cel": "Koordynator programów sportowych",
+  "werdykt": "do_przegladu",
+  "powod": "Koordynator programów to możliwy awans, ale zmienia rolę z prowadzenia zajęć na organizację."
+ },
+ {
+  "plik": "out_sport_i_rekreacja.json",
+  "zawod": "Instruktor sportu",
+  "cel": "Koordynator programów sportowych",
+  "werdykt": "do_przegladu",
+  "powod": "Koordynator programów to możliwy awans, ale zmienia rolę z prowadzenia zajęć na organizację."
+ },
+ {
+  "plik": "out_sport_i_rekreacja.json",
+  "zawod": "Pracownik do spraw kultury fizycznej i sportu",
+  "cel": "Koordynator programów sportowych",
+  "werdykt": "do_przegladu",
+  "powod": "Koordynator programów to możliwy awans, ale cel jest niejasny co do poziomu."
+ },
+ {
+  "plik": "out_sport_i_rekreacja.json",
+  "zawod": "Instruktor kulturalno-oświatowy",
+  "cel": "Kierownik domu kultury",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik domu kultury to skok o więcej niż jeden poziom."
+ },
+ {
+  "plik": "out_sport_i_rekreacja.json",
+  "zawod": "Instruktor ratownictwa",
+  "cel": "Kierownik stacji ratownictwa",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik stacji ratownictwa to skok i wymaga odrębnych kwalifikacji."
+ },
+ {
+  "plik": "out_sprzedaz_i_marketing.json",
+  "zawod": "Asystent ds. marketingu",
+  "cel": "Specjalista ds. marketingu",
+  "werdykt": "odrzucony",
+  "powod": "Asystent i specjalista to zmiana tytułu, a nie realny szczebel."
+ },
+ {
+  "plik": "out_sprzedaz_i_marketing.json",
+  "zawod": "Agent ubezpieczeniowy",
+  "cel": "Kierownik agencji ubezpieczeniowej",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik agencji zależy od modelu pracy agenta i nie jest typowym awansem."
+ },
+ {
+  "plik": "out_sprzedaz_i_marketing.json",
+  "zawod": "Rzecznik prasowy",
+  "cel": "Kierownik ds. public relations",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik PR może być awansem, ale rola rzecznika bywa równorzędna."
+ },
+ {
+  "plik": "out_sprzedaz_i_marketing.json",
+  "zawod": "Specjalista ds. programowych",
+  "cel": "Kierownik programu",
+  "werdykt": "do_przegladu",
+  "powod": "Cel 'Kierownik programu' jest ogólny i niejasny co do branży."
+ },
+ {
+  "plik": "out_sztuka_scena_i_film.json",
+  "zawod": "Animator kultury",
+  "cel": "Kierownik domu kultury",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik domu kultury to skok o więcej niż jeden poziom."
+ },
+ {
+  "plik": "out_sztuka_scena_i_film.json",
+  "zawod": "Szef zespołu opiekunów zwierząt w zoo",
+  "cel": "Kierownik sekcji w ogrodzie zoologicznym",
+  "werdykt": "odrzucony",
+  "powod": "Błąd mechaniczny: nie-w-txt."
+ },
+ {
+  "plik": "out_sztuka_scena_i_film.json",
+  "zawod": "Technik teatralny",
+  "cel": "Kierownik techniczny",
+  "werdykt": "do_przegladu",
+  "powod": "Kierownik techniczny jest możliwy, ale może pomijać szczebel brygadzisty."
+ },
+ {
+  "plik": "out_transport_i_logistyka.json",
+  "zawod": "Pracownik przeprowadzkowy",
+  "cel": "Kierownik w firmie przeprowadzkowej",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik firmy to skok ponad stanowisko brygadzisty."
+ },
+ {
+  "plik": "out_transport_i_logistyka.json",
+  "zawod": "Specjalista ds. logistyki kolejowej",
+  "cel": "Kierownik ds. logistyki i dystrybucji",
+  "werdykt": "do_przegladu",
+  "powod": "Cel jest ogólny i może oznaczać inną gałąź logistyki."
+ },
+ {
+  "plik": "out_transport_i_logistyka.json",
+  "zawod": "Asystent lotu",
+  "cel": "Szef pokładu / szefowa pokładu",
+  "werdykt": "przyjety",
+  "powod": "Członek załogi kabinowej awansuje na szefa pokładu."
+ },
+ {
+  "plik": "out_transport_i_logistyka.json",
+  "zawod": "Pracownik obsługi podróżnych na stacjach kolejowych",
+  "cel": "Kierownik stacji kolejowej",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik stacji kolejowej to skok o więcej niż jeden poziom."
+ },
+ {
+  "plik": "out_transport_i_logistyka.json",
+  "zawod": "Ekspedytor",
+  "cel": "Koordynator spedycji międzynarodowej",
+  "werdykt": "do_przegladu",
+  "powod": "Koordynator spedycji międzynarodowej to raczej specjalizacja niż jasny szczebel."
+ },
+ {
+  "plik": "out_uroda_dom_i_uslugi_osobiste.json",
+  "zawod": "Pracownik salonu piękności / pracownica salonu piękności",
+  "cel": "Kierownik gabinetu kosmetycznego",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik gabinetu to skok ponad stanowisko starszego pracownika."
+ },
+ {
+  "plik": "out_uroda_dom_i_uslugi_osobiste.json",
+  "zawod": "Pracownik spa / pracownica spa",
+  "cel": "Kierownik ośrodka spa",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik ośrodka to skok ponad stanowisko starszego pracownika."
+ },
+ {
+  "plik": "out_uroda_dom_i_uslugi_osobiste.json",
+  "zawod": "Pracownik zakładu pogrzebowego",
+  "cel": "Kierownik zakładu usług pogrzebowych",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik zakładu to skok ponad stanowisko starszego pracownika."
+ },
+ {
+  "plik": "out_uroda_dom_i_uslugi_osobiste.json",
+  "zawod": "Pracownik pralni samoobsługowej",
+  "cel": "Kierownik pralni",
+  "werdykt": "odrzucony",
+  "powod": "Kierownik pralni to skok ponad stanowisko starszego pracownika."
+ },
+ {
+  "plik": "out_zarzadzanie_i_biznes.json",
+  "zawod": "Kierownik projektu",
+  "cel": "Kierownik programu",
+  "werdykt": "przyjety",
+  "powod": "Kierownik projektu awansuje na kierownika programu zarządzającego projektami."
+ },
+ {
+  "plik": "out_zarzadzanie_i_biznes.json",
+  "zawod": "Koordynator programów zatrudnienia",
+  "cel": "Kierownik programu",
+  "werdykt": "przyjety",
+  "powod": "Koordynator awansuje na kierownika programu w tej samej dziedzinie."
+ },
+ {
+  "plik": "out_zarzadzanie_i_biznes.json",
+  "zawod": "Koordynator programów sportowych",
+  "cel": "Kierownik programu",
+  "werdykt": "do_przegladu",
+  "powod": "Cel 'Kierownik programu' jest ogólny i może oznaczać inną branżę."
+ }
+]

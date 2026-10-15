@@ -1,0 +1,27 @@
+{
+  "Konstruktor odzieży": {
+    "do": ["Kierownik ds. rozwoju produktów w branży odzieżowej"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Konstruktor modeli odzieży awansuje na kierownika odpowiedzialnego za rozwój produktów w tej samej branży."
+  },
+  "Konstruktor odzieży – operator CAD": {
+    "do": ["Kierownik ds. rozwoju produktów w branży odzieżowej"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Operator CAD konstruujący odzież awansuje na kierownika rozwoju produktów w branży odzieżowej."
+  },
+  "Konstruktor wyrobów skórzanych": {
+    "do": ["Kierownik ds. rozwoju produktów w branży wyrobów skórzanych"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Konstruktor wyrobów skórzanych awansuje na kierownika rozwoju produktów w tej samej branży."
+  },
+  "Konstruktor wyrobów skórzanych - operator CAD": {
+    "do": ["Kierownik ds. rozwoju produktów w branży wyrobów skórzanych"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Operator CAD konstruujący wyroby skórzane awansuje na kierownika rozwoju produktów w tej branży."
+  },
+  "Konstruktor-modelarz obuwia operator CAD": {
+    "do": ["Kierownik ds. rozwoju produktu w branży obuwniczej"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Konstruktor-modelarz obuwia awansuje na kierownika rozwoju produktu w branży obuwniczej."
+  }
+}

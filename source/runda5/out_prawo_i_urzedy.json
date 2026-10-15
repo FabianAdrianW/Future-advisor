@@ -1,0 +1,32 @@
+{
+  "Prawnik": {
+    "do": ["Kierownik działu prawnego"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista prawny awansuje na kierownika działu prawnego w tej samej ścieżce, o jeden poziom wyżej."
+  },
+  "Doradca prawny": {
+    "do": ["Kierownik działu prawnego"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doradca prawny w strukturze przedsiębiorstwa lub urzędu awansuje na kierownika działu prawnego, o jeden poziom wyżej."
+  },
+  "Urzędnik ds. ubezpieczeń społecznych": {
+    "do": ["Kierownik ds. ubezpieczeń społecznych"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Urzędnik wykonawczy w ZUS-ie lub podobnej instytucji awansuje na kierownika komórki ds. ubezpieczeń społecznych, o jeden poziom wyżej."
+  },
+  "Inspektor ds. ubezpieczeń społecznych": {
+    "do": ["Kierownik ds. ubezpieczeń społecznych"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inspektor ds. ubezpieczeń społecznych awansuje na kierownika komórki ds. ubezpieczeń społecznych, o jeden poziom wyżej."
+  },
+  "Specjalista ds. kontroli gier i zakładów": {
+    "do": ["Kierownik ds. zgodności z przepisami i bezpieczeństwa informacji w dziedzinie gier hazardowych"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista kontroli w branży gier i zakładów awansuje na kierownika ds. zgodności z przepisami w tej samej dziedzinie, o jeden poziom wyżej."
+  },
+  "Detektyw sklepowy": {
+    "do": ["Kierownik ds. ochrony"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Detektyw sklepowy awansuje na kierownika ds. ochrony w tej samej ścieżce bezpieczeństwa, o jeden poziom wyżej."
+  }
+}

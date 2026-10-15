@@ -1,0 +1,91 @@
+Instruktor psów przewodników
+Trener koni/trenerka koni
+Trener psów / trenerka psów
+Treser i opiekun zwierząt
+Treser zwierząt
+Opiekun dzikich zwierząt
+Opiekun zwierząt
+Pracownik ds. opieki nad zwierzętami
+Pracownik hotelu dla zwierząt
+Asystent weterynarza wykonujący korektę i pielęgnację kopyt bydła
+Hodowca psów
+Inspektor weterynaryjny ds. zdrowia zwierząt
+Kierownik schroniska dla psów
+Opiekun zwierząt domowych
+Pracownik schroniska dla zwierząt
+Szef zespołu opiekunów zwierząt w zoo
+Łowczy
+Chirurg pielęgniarz drzew
+Kierownik produkcji w przedsiębiorstwie ogrodniczym
+Koordynator zespołu ds. produkcji ogrodniczej
+Pracownik gospodarstwa ogrodniczego
+Projektant wewnętrznych terenów zielonych
+Zarządca terenu
+Kierownik gospodarstwa sadowniczego
+Kierownik winnicy
+Menedżer winnicy
+Mistrz winiarski
+Operator urządzeń do uprawy winorośli i produkcji wina
+Rolnik chmielarz
+Sadownik
+Koordynator zespołu ds. produkcji roślinnej
+Zarządca produkcji rolnej
+Menedżer akwakultury ds. cumowania sadzów
+Menedżer wylęgarni ryb i skorupiaków
+Pracownik akwakultury ds. chowu
+Pracownik wylęgarni ryb i skorupiaków
+Technik akwakultury ds. chowu
+Technik akwakultury ds. odłowów
+Technik akwakultury ds. systemów recyrkulacyjnych
+Technik akwakultury ds. wychowu
+Technik akwakultury w systemach wodnych
+Technik ds. chowu sadzowego
+Technik wylęgarni ryb i skorupiaków
+Szyper
+Technik rybołówstwa
+Rybak rybołówstwa dalekomorskiego
+Myśliwy
+Rybak przybrzeżny
+Pracownik zajmujący się końmi
+Pracownik zajmujący się żywym inwentarzem
+Stajenny
+Łapacz drobiu
+Osoba zbierająca wodorosty morskie, skorupiaki i inne zwierzęta wodne
+Pracownik akwakultury ds. cumowania sadzów
+Pracownik akwakultury ds. odłowów
+Pracownik akwakultury w systemach wodnych
+Pracownik winnicy
+Zbieracz owoców i warzyw
+Pomocniczy robotnik w ogrodnictwie
+Robotnik leśny
+Hodowca bydła
+Hodowca koni
+Hodowca owiec
+Hodowca trzody chlewnej
+Pasterz
+Zarządca stajni
+Hodowca drobiu
+Sekser drobiu
+Hodowca zwierząt futerkowych
+Pszczelarz
+Pielęgniarz weterynaryjny / pielęgniarka weterynaryjna
+Technik dentystyczny dla koni
+Technik przenoszenia zarodków zwierzęcych
+Technik unasieniania zwierząt
+Technik weterynarii
+Zoofizjoterapeuta / zoofizjoterapeutka terapii alternatywnych
+Główny lekarz weterynarii
+Kręgarz zwierząt
+Lekarz weterynarii
+Specjalista ds. zdrowia zwierząt wodnych
+Weterynarz specjalista
+Kierownik akwakultury ds. chowu
+Kierownik akwakultury ds. odłowów
+Kierownik akwakultury ds. produkcji
+Kierownik w gospodarce leśnej
+Nadzorca maszyn rolniczych
+Operator maszyn leśnych
+Operator maszyn rolniczych
+Rolnik produkcji roślinnej i zwierzęcej
+Zarządca gospodarstwa rolnego
+Strażnik leśny

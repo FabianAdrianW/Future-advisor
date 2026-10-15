@@ -1,0 +1,82 @@
+Edukator pracy socjalnej
+Nauczyciel akademicki
+Autor programów nauczania przez internet
+Doradca edukacyjny
+Doradca edukacyjny i zawodowy
+Koordynator do spraw rekrutacji
+Kurator penitencjarny
+Mentor edukacyjny
+Nauczyciel osób dorosłych/nauczycielka osób dorosłych
+Projektant materiałów szkoleniowych
+Projektant systemów nauczania przez internet
+Specjalista do spraw studenckich
+Trener wystąpień publicznych
+Tutor/tutorka
+Nauczyciel dzieci ze specjalnymi potrzebami edukacyjnymi w warunkach pozaszkolnych/nauczycielka dzieci ze specjalnymi potrzebami edukacyjnymi w warunkach pozaszkolnych
+Nauczyciel nauczania przedszkolnego dzieci ze specjalnymi potrzebami edukacyjnymi/nauczycielka nauczania przedszkolnego dzieci ze specjalnymi potrzebami edukacyjnymi
+Nauczyciel osób ze specjalnymi potrzebami edukacyjnymi w szkole podstawowej/nauczycielka osób ze specjalnymi potrzebami edukacyjnymi w szkole podstawowej
+Nauczyciel osób ze specjalnymi potrzebami edukacyjnymi w szkole ponadpodstawowej/nauczycielka osób ze specjalnymi potrzebami edukacyjnymi w szkole ponadpodstawowej
+Nauczyciel osób ze specjalnymi potrzebami edukacyjnymi/nauczycielka osób ze specjalnymi potrzebami edukacyjnymi
+Nauczyciel umiejętności czytania i pisania dla osób dorosłych/nauczycielka umiejętności czytania i pisania dla osób dorosłych
+Nauczyciel wsparcia dzieci w uczeniu się/nauczycielka wsparcia dzieci w uczeniu się
+Nauczyciel uczniów szczególnie uzdolnionych/nauczycielka uczniów szczególnie uzdolnionych
+Nauczyciel fotografii/nauczycielka fotografii
+Nauczyciel sztuk wizualnych/nauczycielka sztuk wizualnych
+Nauczyciel sztuki cyrkowej/nauczycielka sztuki cyrkowej
+Nauczyciel tańca/nauczycielka tańca
+Nauczyciel technik teatralnych/nauczycielka technik teatralnych
+Doradca do spraw doskonalenia procesów edukacyjnych
+Koordynator do spraw specjalnych potrzeb edukacyjnych
+Specjalista do spraw programowych i dydaktycznych
+Wizytator
+Instruktor obsługi technologii informacyjno-telekomunikacyjnych
+Nauczyciel umiejętności cyfrowych/nauczycielka umiejętności cyfrowych
+Lektor języka migowego/lektorka języka migowego
+Lektor w szkole języków obcych/lektorka w szkole języków obcych
+Nauczyciel muzyki/nauczycielka muzyki
+Instruktor personelu pokładowego
+Instruktor szkolenia kierowców zawodowych
+Instruktor szkolenia maszynistów pojazdów trakcyjnych
+Instruktor szkolenia pilotów morskich i żeglugi śródlądowej
+Instruktor szkolenia w zakresie kontroli ruchu lotniczego
+Instruktor szkolenia w zakresie pomocy pielęgniarskiej i położnictwa
+Instruktor szkolenia wojskowego służby przygotowawczej i oficerskiej
+Nauczyciel akademicki wzornictwa i sztuki użytkowej
+Nauczyciel kształcenia zawodowego w dziedzinie fryzjerstwa
+Nauczyciel kształcenia zawodowego w zakresie biznesu i marketingu
+Nauczyciel kształcenia zawodowego w zakresie elektroniki i automatyki/nauczycielka kształcenia zawodowego w zakresie elektroniki i automatyki
+Nauczyciel kształcenia zawodowego w zakresie gastronomii/nauczycielka kształcenia zawodowego w zakresie gastronomii
+Nauczyciel kształcenia zawodowego w zakresie hotelarstwa/nauczycielka kształcenia zawodowego w zakresie hotelarstwa
+Nauczyciel kształcenia zawodowego w zakresie kosmetyki upiększającej/nauczycielka kształcenia zawodowego w zakresie kosmetyki upiększającej
+Nauczyciel kształcenia zawodowego w zakresie laboratoryjnej technologii medycznej/nauczycielka kształcenia zawodowego w zakresie laboratoryjnej technologii medycznej
+Nauczyciel kształcenia zawodowego w zakresie rolnictwa, leśnictwa i rybołówstwa/nauczycielka kształcenia zawodowego w zakresie rolnictwa, leśnictwa i rybołówstwa
+Nauczyciel kształcenia zawodowego w zakresie sztuki użytkowej/nauczycielka kształcenia zawodowego w zakresie sztuki użytkowej
+Nauczyciel kształcenia zawodowego w zakresie zarządzania biznesem/nauczycielka kształcenia zawodowego w zakresie zarządzania biznesem
+Nauczyciel kształcenia zawodowego – elektrotechnika i energetyka/nauczycielka kształcenia zawodowego – elektrotechnika i energetyka
+Nauczyciel kształcenia zawodowego/nauczycielka kształcenia zawodowego
+Wykładowca kształcenia zawodowego w zakresie obsługi podróży i turystyki
+Wykładowca kształcenia zawodowego w zakresie technologii transportu
+Wykładowca kształcenia zawodowego w zakresie wychowania fizycznego
+Wykładowca przedmiotów zawodowych w zakresie szkolenia w zawodzie strażak
+Wykładowca w zakresie kształcenia i doskonalenia zawodowego policji
+Dyrektor szkoły
+Dyrektor szkoły podstawowej
+Dyrektor szkoły pomaturalnej
+Dyrektor szkoły specjalnej
+Dyrektor szkoły średniej
+Dziekan
+Kierownik katedry uniwersyteckiej
+Kierownik w szkole średniej
+Koordynator programu oświatowego
+Rektor
+Zastępca dyrektora szkoły
+Nauczyciel przedszkola/nauczycielka przedszkola
+Nauczyciel w szkole Montessori/nauczycielka w szkole Montessori
+Nauczyciel w szkole freinetowskiej/nauczycielka w szkole freinetowskiej
+Nauczyciel w szkole podstawowej/nauczycielka w szkole podstawowej
+Nauczyciel w szkole waldorfskiej/nauczycielka w szkole waldorfskiej
+Asystent nauczyciela dla dzieci o specjalnych potrzebach edukacyjnych
+Asystent nauczyciela w przedszkolu
+Asystent nauczyciela w szkole podstawowej
+Asystent nauczyciela w szkole średniej
+Nauczyciel w szkole ponadpodstawowej/nauczycielka w szkole ponadpodstawowej

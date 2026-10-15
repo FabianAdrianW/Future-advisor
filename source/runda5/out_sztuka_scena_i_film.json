@@ -1,0 +1,17 @@
+{
+  "Animator kultury": {
+    "do": ["Kierownik domu kultury"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Animator prowadzący zajęcia w domu kultury może awansować na jego kierownika, czyli o jeden szczebel wyżej w tej samej placówce."
+  },
+  "Szef zespołu opiekunów zwierząt w zoo": {
+    "do": ["Kierownik sekcji w ogrodzie zoologicznym"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Szef zespołu opiekunów zwierząt, który przechodzi na stanowisko kierownika sekcji, awansuje o jeden poziom w strukturze zoo."
+  },
+  "Technik teatralny": {
+    "do": ["Kierownik techniczny"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Technik teatralny, który przejmuje kierowanie służbami technicznymi teatru, awansuje o jeden poziom w tej samej ścieżce zawodowej."
+  }
+}

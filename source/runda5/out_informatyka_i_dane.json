@@ -1,0 +1,58 @@
+{
+  "Analityk biznesowy w dziedzinie technologii informacyjno-telekomunikacyjnych": {
+    "do": [
+      "Kierownik ds. analizy biznesowej w zakresie technologii informacyjno-telekomunikacyjnych"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Analityk prowadzący analizy biznesowe awansuje na kierownika zespołu analizy biznesowej."
+  },
+  "Administrator bezpieczeństwa systemów informacyjno-telekomunikacyjnych": {
+    "do": [
+      "Kierownik ds. bezpieczeństwa technologii informacyjno-telekomunikacyjnych"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista ds. bezpieczeństwa awansuje na kierownika odpowiedzialnego za obszar bezpieczeństwa."
+  },
+  "Konsultant ds. bezpieczeństwa technologii informacyjno-telekomunikacyjnych": {
+    "do": [
+      "Kierownik ds. bezpieczeństwa technologii informacyjno-telekomunikacyjnych"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Konsultant bezpieczeństwa przechodzi na stanowisko kierownicze w tym samym obszarze."
+  },
+  "Analityk odtwarzania awaryjnego technologii informacyjno-telekomunikacyjnych": {
+    "do": [
+      "Kierownik ds. odporności technologii informacyjno-telekomunikacyjnych"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Analityk odtwarzania awaryjnego awansuje na kierownika odpowiedzialnego za odporność systemów."
+  },
+  "Analityk testów technologii informacyjno-telekomunikacyjnych": {
+    "do": [
+      "Kierownik kontroli jakości technologii informacyjno-telekomunikacyjnych"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Analityk testów awansuje na kierownika kontroli jakości zespołu."
+  },
+  "Pracownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych": {
+    "do": [
+      "Kierownik działu pomocy technicznej w zakresie technologii informacyjno-telekomunikacyjnych"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik helpdesku awansuje na kierownika działu pomocy technicznej."
+  },
+  "Administrator systemów informacyjno-telekomunikacyjnych": {
+    "do": [
+      "Kierownik ds. eksploatacji technologii informacyjno-telekomunikacyjnych"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Administrator systemów awansuje na kierownika odpowiedzialnego za eksploatację technologii."
+  },
+  "Konsultant ds. technologii informacyjno-telekomunikacyjnych": {
+    "do": [
+      "Kierownik projektów w zakresie technologii informacyjno-telekomunikacyjnych"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Konsultant technologiczny przechodzi na kierownika projektów w tym samym zakresie."
+  }
+}

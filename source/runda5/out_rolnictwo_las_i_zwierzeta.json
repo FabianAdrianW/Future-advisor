@@ -1,0 +1,42 @@
+{
+  "Technik akwakultury ds. chowu": {
+    "do": ["Kierownik akwakultury ds. chowu"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Technik prowadzący chów zwykle awansuje na kierownika działu chowu w tym samym zakładzie akwakultury."
+  },
+  "Technik akwakultury ds. odłowów": {
+    "do": ["Kierownik akwakultury ds. odłowów"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Technik odpowiadający za odłowy może przejąć kierowanie tym obszarem w firmie akwakultury."
+  },
+  "Sadownik": {
+    "do": ["Kierownik gospodarstwa sadowniczego"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony sadownik w typowym gospodarstwie naturalnie przejmuje kierowanie całym gospodarstwem sadowniczym."
+  },
+  "Pracownik schroniska dla zwierząt": {
+    "do": ["Kierownik schroniska dla psów"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik schroniska może awansować na kierownika tej samej placówki, o ile jest to schronisko dla psów."
+  },
+  "Szef zespołu opiekunów zwierząt w zoo": {
+    "do": ["Kierownik sekcji w ogrodzie zoologicznym"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Szef zespołu opiekunów przechodzi na kierownika sekcji, czyli kolejny szczebel w strukturze ogrodu zoologicznego."
+  },
+  "Lekarz weterynarii": {
+    "do": ["Główny lekarz weterynarii"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Lekarz weterynarii w placówce może zostać głównym lekarzem weterynarii tej jednostki."
+  },
+  "Koordynator zespołu ds. produkcji ogrodniczej": {
+    "do": ["Kierownik produkcji w przedsiębiorstwie ogrodniczym"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Koordynator zespołu produkcyjnego awansuje na kierownika całej produkcji w przedsiębiorstwie ogrodniczym."
+  },
+  "Pracownik gospodarstwa ogrodniczego": {
+    "do": ["Koordynator zespołu ds. produkcji ogrodniczej"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony pracownik gospodarstwa ogrodniczego może zostać koordynatorem zespołu produkcyjnego."
+  }
+}

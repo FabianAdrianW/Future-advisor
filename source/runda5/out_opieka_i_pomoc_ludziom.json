@@ -1,0 +1,7 @@
+{
+  "Pracownik młodzieżowego ośrodka wychowawczego": {
+    "do": ["Kierownik ośrodka dla młodzieży"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik wychowawczy w ośrodku dla młodzieży awansuje na kierownika tej samej placówki, czyli o jeden szczebel w tym samym obszarze pracy."
+  }
+}

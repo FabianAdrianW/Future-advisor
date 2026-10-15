@@ -1,0 +1,30 @@
+{
+  "Specjalista ochrony środowiska": {
+    "do": [
+      "Kierownik ds. ochrony środowiska"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista prowadzący zadania ochrony środowiska awansuje na kierownika tej samej komórki."
+  },
+  "Koordynator programów ochrony środowiska": {
+    "do": [
+      "Kierownik ds. ochrony środowiska"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Koordynator programów przejmuje odpowiedzialność kierowniczą za obszar ochrony środowiska."
+  },
+  "Specjalista ds. akwakultury": {
+    "do": [
+      "Kierownik akwakultury ds. produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista akwakultury awansuje na kierownika produkcji w tym samym obszarze."
+  },
+  "Specjalista ds. akwakultury w systemie recyrkulacji wody": {
+    "do": [
+      "Kierownik akwakultury ds. produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista systemów recyrkulacji awansuje na kierownika produkcji akwakultury."
+  }
+}

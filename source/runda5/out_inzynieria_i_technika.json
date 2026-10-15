@@ -1,0 +1,37 @@
+{
+  "Technik mechanik urządzeń przemysłowych": {
+    "do": [
+      "Mistrz produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Technik utrzymania ruchu przechodzi na nadzór nad zmianą produkcyjną jako mistrz, to typowy pierwszy krok kierowniczy."
+  },
+  "Technik mechatronik": {
+    "do": [
+      "Mistrz montażu w przemyśle"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Technik montażu i uruchamiania linii awansuje na mistrza nadzorującego pracę montażową, bez zmiany obszaru działania."
+  },
+  "Inżynier energetyki": {
+    "do": [
+      "Kierownik ds. energii"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inżynier odpowiadający za media energetyczne przejmuje kierowanie całym obszarem energii w zakładzie."
+  },
+  "Inżynier ds. systemów energetycznych": {
+    "do": [
+      "Kierownik ds. energii"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista systemów energetycznych awansuje na kierownika funkcji energii, z zachowaniem tej samej dziedziny."
+  },
+  "Inżynier przemysłowy": {
+    "do": [
+      "Kierownik ds. produkcji"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inżynier odpowiadający za usprawnienia procesów awansuje na kierownika produkcji, zachowując zakres pracy operacyjnej."
+  }
+}

@@ -1,0 +1,105 @@
+Mistrz produkcji w budownictwie podwodnym
+Instalator sieci wodno-kanalizacyjnej
+Instalator systemów odwadniania i nawadniania
+Konserwator urządzeń oczyszczania ścieków
+Monter sieci wodnych i kanalizacyjnych
+Monter wodnych instalacji przeciwpożarowych
+Pracownik obsługi rurociągu
+Pracownik obsługi sieci wodno-kanalizacyjnej
+Pracownik obsługi sieci wodociągowej
+Specjalista ds. obsługi systemów nawadniania i odwadniania
+Specjalista ds. uzdatniania wody
+Glazurnik
+Monter podłóg drewnianych
+Posadzkarz
+Układacz wykładziny
+Szklarz
+Szklarz samochodowy
+Monter sufitów
+Tynkarz
+Monter izolacji budowlanych
+Specjalista obsługi systemów grzewczych, wentylacyjnych, klimatyzacji i chłodzenia
+Audytor efektywności energetycznej
+Audytor energetyczny
+Inspektor budowy mostów
+Inspektor jakości obiektów budowlanych
+Inspektor nadzoru budowlanego
+Inspektor ochrony przeciwpożarowej
+Inspektor składowiska odpadów
+Konserwator dróg
+Konserwator infrastruktury kolejowej
+Konserwator urządzeń kanalizacyjnych
+Menedżer jakości obiektów budowlanych
+Technik inżynierii lądowej
+Technik inżynierii wodnej
+Technik ochrony przeciwpożarowej
+Tester bezpieczeństwa pożarowego
+Analityk ds. efektywności energetycznej
+Doradca ds. efektywności energetycznej
+Doradca ds. oszczędzania energii
+Inspektor BHP na placach budów
+Inspektor do spraw kontroli infrastruktury kolejowej
+Menedżer BHP na placach budów
+Technik diagnostyki rurociągów
+Technik geodeta
+Operator kafara
+Operator koparki
+Operator koparki na polach górniczych
+Operator odśnieżarki
+Operator pogłębiarki
+Operator równiarki
+Operator spycharki
+Operator walca
+Operator zgarniarki
+Pracownik budowy dróg
+Maszynista kolei linowych, wyciągów narciarskich i zjeżdżalni grawitacyjnych
+Operator dźwigu jezdnego
+Operator żurawia kontenerowego
+Operator żurawia warsztatowego
+Operator żurawia wieżowego
+Cieśla
+Monter drzwi
+Monter instalacji kuchennych
+Monter klatek schodowych
+Monter okien
+Monter drewnianych elementów prefabrykowanych do budowy domów
+Pracownik rozbiórkowy
+Pracownik z uprawnieniami do pracy na wysokości
+Lastrykarz
+Kamieniarz
+Kamieniarz grawer
+Kominiarz
+Mistrz kominiarski
+Specjalista ds. usuwania azbestu
+Specjalista ds. usuwania i unieszkodliwiania materiałów niebezpiecznych
+Sprzątacz terenu
+Lakiernik
+Specjalista ds. powierzchniowego zabezpieczenia antykorozyjnego
+Malarz
+Tapeciarz
+Monter torów kolejowych
+Monter znaków drogowych
+Pomocniczy robotnik budowlany
+Pracownik do oznakowania dróg
+Pracownik melioracji
+Robotnik drogowy
+Robotnik górniczy
+Robotnik pomocniczy budowy dróg wodnych
+Robotnik wykonujący prace proste w budownictwie drogowym i wodnym
+Inżynier geodeta
+Inżynier geodeta - geodezja górnicza
+Inżynier geodeta - hydrografia
+Inżynier geodeta - kataster i gospodarka nieruchomościami
+Inżynier geodeta – geomatyka
+Kartograf
+Deweloper budowlany
+Generalny wykonawca w budownictwie
+Kierownik budowy
+Planista przestrzenny
+Planista transportu
+Urbanista
+Architekt
+Architekt wnętrz
+Architekt krajobrazu
+Projektant krajobrazu
+Inżynier budownictwa

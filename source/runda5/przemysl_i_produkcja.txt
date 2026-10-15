@@ -1,0 +1,316 @@
+Operator maszyn do mocowania podeszew i przybijania obcasów
+Operator maszyn do produkcji obuwia
+Operator obuwniczych urządzeń szwalniczych
+Operator parzaka
+Operator urządzeń wykrawających elementy obuwia
+Operator ćwiekarki
+Technik utrzymania maszyn do produkcji obuwia
+Operator maszyn kaletniczych i rymarskich
+Technik utrzymania maszyn kaletniczych i rymarskich
+Operator maszyn do obróbki elementów obuwia przed zszyciem
+Operator zautomatyzowanych urządzeń wykrawających elementy obuwia
+Monter wyrobów z płótna i brezentu
+Operator maszyn do pomiaru powierzchni skór
+Operator maszyn do produkcji materacy
+Operator maszyn do produkcji włóknin staplowych
+Operator oplatarki
+Operator urządzeń do projektowania wzorów tkanin
+Technik ds. nietkanych materiałów włókienniczych
+Technik ds. procesu oplatania
+Operator maszyn do tuftowania
+Operator maszyn tkackich
+Osoba nadzorująca pracę maszyn tkackich
+Technik ds. procesu tkania
+Operator maszyn dziewiarskich
+Osoba nadzorująca pracę maszyn dziewiarskich
+Technik ds. procesu dziania
+Operator maszyn włókienniczych
+Operator maszyn przędzalniczych
+Operator przędzarki
+Operator przędzarki do włókien sztucznych
+Operator skręcarki do przędzy
+Operator nawijarki
+Operator odziarniarki
+Technik ds. procesu przędzenia
+Operator maszyn do produkcji odzieży ochronnej
+Operator maszyn do szycia skóry
+Operator maszyny hafciarskiej
+Pracownik szyjący pierwowzory odzieży
+Pracownik wprowadzający poprawki krawieckie
+Garbarz
+Operator maszyn i urządzeń do produkcji wyrobów skórzanych
+Operator maszyn wykończalniczych do skóry
+Operator urządzeń do mieszania farb do skór
+Barwiarz tkanin
+Operator maszyn wykończalniczych wyrobów włókienniczych
+Technik ds. barwienia tkanin
+Technik ds. procesów wykończalniczych wyrobów włókienniczych
+Prasowacz w pralni
+Brygadzista w pralni
+Monter akumulatorów
+Monter obwodów drukowanych
+Monter półprzewodników elektronicznych
+Monter sprzętu elektronicznego
+Monter sprzętu fotograficznego
+Monter urządzeń elektromechanicznych
+Monter-elektronik - elektroniczne instrumenty muzyczne
+Monter aparatury rozdzielczej i kontrolnej energii elektrycznej
+Monter kabli elektrycznych
+Monter sprzętu elektrycznego
+Monter wiązek elektrycznych
+Monter sprzętu stomatologicznego
+Operator maszyn do montażu powierzchniowego
+Operator maszyny do lutowania na fali
+Elaborant amunicji
+Konfekcjoner wyrobów gumowych
+Monter fajerwerków
+Monter konstrukcji stalowych
+Monter rowerów
+Monter urządzeń medycznych
+Monter wyrobów z drewna
+Monter wyrobów z tworzyw sztucznych
+Operator maszyn do produkcji mebli metalowych
+Składacz biżuterii
+Monter części samochodowych
+Monter nadwozi
+Monter silników pojazdów samochodowych
+Monter lotniczy
+Monter silników lotniczych
+Monter maszyn i urządzeń okrętowych
+Monter maszyn i urządzeń przemysłowych
+Monter mechatronik
+Monter motocykli
+Monter taboru szynowego
+Operator urządzeń do tłoczenia dysków optycznych
+Operator wtryskarki
+Laminator włóknem szklanym
+Operator maszyn do formowania próżniowego
+Operator maszyn do nawijania rurek izolacyjnych
+Operator maszyn do produkcji mebli z tworzyw sztucznych
+Operator maszyn do pultruzji
+Operator maszyn do walcowania tworzyw sztucznych
+Operator nawijarki do włókien
+Operator pras do formowania tłocznego
+Operator prasy do form do pieczenia ciast
+Operator rozdmuchiwarki
+Operator urządzeń do natryskowego laminowania włóknem szklanym
+Operator urządzeń do obróbki cieplnej tworzyw sztucznych
+Operator urządzeń do tłoczenia płyt winylowych
+Operator krajarki do papieru
+Operator maszyn do produkcji kopert
+Operator maszyn do produkcji toreb papierowych
+Operator maszyn do produkcji wkładów chłonnych
+Operator maszyn do składania produktów z tektury
+Operator przewijarki do papieru toaletowego
+Operator tekturnicy
+Operator maszyn do produkcji wyrobów gumowych
+Inspektor budownictwa okrętowego
+Inspektor montażu pojazdów
+Inspektor montażu statków powietrznych
+Inspektor montażu taboru kolejowego
+Inspektor montażu wyrobów
+Kontroler jakości sprzętu elektronicznego
+Kontroler jakości sprzętu elektrycznego
+Kontroler jakości wyrobów użytkowych
+Inspektor jakości instrumentów precyzyjnych
+Inspektor jakości konfekcji
+Inspektor jakości wyrobów tekstylnych
+Kontroler jakości cygar
+Klasyfikator drewna
+Klasyfikator pulpy papierniczej
+Klasyfikator wyrobów drewnopochodnych
+Klasyfikator wyrobów przemysłowych
+Kontroler jakości obuwia
+Kontroler jakości wyrobów
+Kontroler jakości wyrobów metalowych
+Kontroler jakości wyrobów skórzanych
+Kierowca doświadczalny
+Klasyfikator fornirów
+Kontroler jakości tablic kontrolnych
+Kontroler obwodów drukowanych
+Kontroler stanu akumulatorów
+Operator automatycznej inspekcji optycznej
+Specjalista kontroli z użyciem badań nieniszczących
+Nurek poławiacz zasobów morskich
+Nurek techniczny
+Płetwonurek ratownik
+Pracownik deratyzacji, dezynfekcji i dezynsekcji
+Pracownik ochrony roślin
+Strzałowy
+Elektroenergetyk
+Elektroenergetyk elektrowni geotermalnych
+Elektroenergetyk elektrowni słonecznych
+Elektroenergetyk elektrowni wodnych
+Elektroenergetyk elektrowni wykorzystujących paliwa kopalne
+Elektroenergetyk nastawni
+Maszynista turbozespołu parowego
+Operator reaktora jądrowego
+Pracownik systemu przesyłowego energii elektrycznej
+Technik ds. dystrybucji energii elektrycznej
+Operator spalarni odpadów komunalnych
+Operator urządzeń do utylizacji odpadów płynnych
+Operator urządzeń do utylizacji odpadów stałych
+Operator urządzeń oczyszczania ścieków
+Operator urządzeń uzdatniania wody
+Technik oczyszczania ścieków
+Technik stacji uzdatniania wody
+Brygadzista w zakładzie przetwórstwa gazu
+Kontroler procesów w przemyśle chemicznym
+Operator centralnej sterowni w zakładzie chemicznym
+Operator urządzeń do rozdzielania powietrza
+Pracownik stacji gazowej
+Technik produkcji biogazu
+Kierownik zmiany w rafinerii
+Operator centralnej sterowni w zakładzie przetwórstwa gazu
+Operator systemu pompowania ropy naftowej
+Kontroler procesów w przemyśle odzieżowym
+Operator zautomatyzowanej linii produkcyjnej
+Kontroler robotów przemysłowych
+Kontroler urządzeń do produkcji pulpy drzewnej
+Kontroler urządzeń do wytopu metali
+Mistrz montażu w przemyśle
+Mistrz produkcji
+Osoba dozoru ruchu w górnictwie
+Planista produkcji żywności
+Sztygar
+Technik gospodarki odpadami
+Technik przetwórstwa nabiału
+Operator urządzeń do produkcji farb
+Operator urządzeń do produkcji lakierów syntetycznych
+Operator urządzeń do produkcji lakierów żywicznych
+Operator urządzeń do produkcji mieszanek zapalających
+Operator urządzeń do produkcji nawozów sztucznych
+Operator urządzeń do produkcji pestycydów
+Operator urządzeń mieszających do produkcji wyrobów chemicznych
+Mydlarz
+Operator urządzeń do produkcji płatków mydlanych
+Operator urządzeń do produkcji wiórków mydlanych
+Dyspozytor kopalni
+Kontroler procesów przeróbki ropy naftowej
+Kontroler urządzeń koksowniczych
+Operator aparatu nitracyjnego
+Operator kapsułkarki
+Operator pieca do wypalania wapna
+Operator prasy do mydła
+Operator separatora grawitacyjnego nitrogliceryny
+Operator tabletkarki
+Operator urządzeń destylacyjnych
+Operator urządzeń do bielenia wosku
+Operator urządzeń do fermentacji
+Operator urządzeń do produkcji perfum
+Operator urządzeń do produkcji proszku mydlanego
+Operator urządzeń do produkcji wyrobów kosmetycznych
+Operator urządzeń do produkcji włóknin nietkanych
+Operator urządzeń granulujących
+Pracownik obsługi suszarni materiałów pirotechnicznych
+Pracownik odpowiedzialny za neutralizację nitrogliceryny
+Technik fotograf
+Technik laboratorium filmowego
+Główny wiertacz
+Kierownik wierceń
+Mechanik wieży wiertniczej
+Operator pompy do rurociągu
+Operator tunelowych maszyn wiertniczych
+Otworowy pomocnik wiertacza
+Pracownik wiertni
+Robotnik na platformie wiertniczej
+Wiertacz studni
+Odlewacz form betonowych
+Operator maszyn do produkcji prefabrykatów betonowych
+Operator mieszarki granulatu łupkowego
+Operator pustaczarki
+Operator urządzeń do produkcji mas asfaltowych
+Operator łuparki do kamienia
+Szlifierz kamienia
+Wytwórca ogniw elektrolitycznych
+Górnik pracujący na powierzchni
+Górnik pracujący pod ziemią
+Operator ciężkiego sprzętu górniczego
+Operator maszyn do odwadniania
+Operator kruszarki do surowców mineralnych
+Operator sprzętu do obróbki kamienia
+Operator sprzętu do przetwórstwa surowców mineralnych
+Wiertacz w kamieniu
+Operator pieca do wypalania gliny
+Operator pieca tunelowego
+Operator suszarni do gliny
+Maszynowy szlifierz-polerowacz szkła
+Operator automatów do formowania wyrobów szklanych
+Operator ceglarki
+Operator maszyn do formowania włókna szklanego
+Operator maszyn do produkcji cegieł i płytek ceramicznych
+Operator odprężarek wyrobów szklanych
+Operator pieca do produkcji szkła ciągnionego
+Operator prasy ślimakowej do gliny
+Operator urządzeń do formowania wyrobów ceramicznych
+Szkliwierz ceramiki
+Napełniacz butli gazowych
+Operator linii puszkowania i butelkowania
+Operator urządzeń do pakowania wyrobów skórzanych
+Operator urządzeń do wykańczania i pakowania obuwia
+Operator zgrzewarki
+Znawca gatunków cygar
+Maszynista kotła
+Palacz kotłów parowych
+Operator maszyn do cięcia wzdłużnego
+Operator okleiniarki
+Dyrektor kopalni
+Kierownik ds. produkcji w górnictwie ropy naftowej i gazu
+Kierownik ds. produkcji w kopalni
+Dyrektor kamieniołomu
+Kierownik ds. produkcji
+Masarz halal
+Masarz koszerny
+Rzeźnik
+Ubojowy
+Ubojowy rytualny halal
+Ubojowy rytualny według reguł koszerności
+Operator przetwórstwa mięsa
+Oprawiacz ryb
+Robotnik w przetwórstwie ryb
+Rozbieracz – wykrawacz
+Degustator kawy
+Klasyfikator żywności
+Kontroler jakości mleka w gospodarstwie rolnym
+Mistrz palenia kawy
+Mistrz słodowania
+Pracownik działu sezonowania
+Sortowacz liści
+Wiązacz liści
+Konserwator owoców i warzyw
+Operator prasy olejowej
+Pracownik tłoczenia oleju
+Operator odbioru mleka
+Robotnik w produkcji wyrobów mleczarskich
+Operator frezarki
+Operator pilarki tarczowej
+Operator piły taśmowej
+Operator wyrówniarko-grubościówki
+Operator łuszczarki do forniru
+Tartacznik
+Operator korowarki
+Operator maszyn do produkcji płyt drewnopochodnych
+Operator peleciarki
+Operator piły poprzecznej
+Operator rębaka
+Operator laminatora
+Operator maszyn do flotacyjnego odbarwiania makulatury
+Operator maszyn do odbarwiania makulatury metodą mycia
+Operator maszyn do produkcji papierowych artykułów piśmiennych
+Operator maszyn do wybielania masy papierniczej
+Operator maszyny papierniczej
+Operator pras do formowania wyrobów z masy papierniczej
+Operator warnika
+Technik ds. produkcji masy papierniczej
+Operator ciągarki
+Operator maszyn do produkcji siatek metalowych
+Operator maszyn do produkcji sprężyn
+Operator walcarki
+Operator wytłaczarki
+Operator wyżarzarki
+Operatorzy urządzeń do obróbki powierzchniowej metali i nakładania powłok
+Pakowacz ręczny/pakowaczka ręczna
+Pracownik do uszczelniania pokładów
+Pracownik do wykańczania odzieży
+Pracownik porządkowy w fabryce
+Operatorzy maszyn i urządzeń przemysłu spożywczego i pokrewni

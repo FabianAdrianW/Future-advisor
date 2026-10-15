@@ -1,0 +1,22 @@
+{
+  "Pracownik salonu piękności / pracownica salonu piękności": {
+    "do": ["Kierownik gabinetu kosmetycznego"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik wykonujący zabiegi w salonie awansuje na kierownika gabinetu kosmetycznego, czyli o jeden szczebel wyżej w tej samej branży."
+  },
+  "Pracownik spa / pracownica spa": {
+    "do": ["Kierownik ośrodka spa"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik spa przechodzi na kierownika ośrodka spa, zachowując branżę i zakres pracy, z przejęciem odpowiedzialności za zespół."
+  },
+  "Pracownik zakładu pogrzebowego": {
+    "do": ["Kierownik zakładu usług pogrzebowych"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Pracownik zakładu pogrzebowego awansuje na kierownika zakładu usług pogrzebowych, co jest typowym krokiem w tej samej firmie."
+  },
+  "Pracownik pralni samoobsługowej": {
+    "do": ["Kierownik pralni"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Obsługa pralni samoobsługowej rozwija się w kierowanie pralnią, czyli o jeden poziom wyżej w tej samej działalności usługowej."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Kierownik projektu": {
+    "do": ["Kierownik programu"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Prowadzenie pojedynczych projektów rozwija się w zarządzanie całym programem projektów, czyli jeden poziom wyżej w tej samej ścieżce kierowniczej."
+  },
+  "Koordynator programów zatrudnienia": {
+    "do": ["Kierownik programu"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Koordynator odpowiadający za realizację programów przechodzi zwykle na stanowisko kierownika programu z pełną odpowiedzialnością za jego wyniki."
+  },
+  "Koordynator programów sportowych": {
+    "do": ["Kierownik programu"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Koordynator realizujący programy sportowe awansuje zwykle na kierownika programu, przejmując odpowiedzialność za jego planowanie i wyniki."
+  }
+}

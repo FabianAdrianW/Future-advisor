@@ -1,0 +1,127 @@
+Budowniczy instrumentów klawiszowych
+Budowniczy klawesynów
+Budowniczy organów
+Monter fortepianów i pianin
+Budowniczy gitar
+Budowniczy harf
+Budowniczy instrumentów strunowych
+Budowniczy skrzypiec
+Budowniczy idiofonów
+Budowniczy instrumentów dętych
+Budowniczy instrumentów perkusyjnych membranowych
+Korektor instrumentów muzycznych
+Technik instrumentów muzycznych
+Grawer biżuterii
+Jubiler
+Jubiler specjalista naprawy biżuterii
+Jubiler specjalista osadzania kamieni szlachetnych
+Jubiler wytwórca filigranów
+Monter biżuterii
+Polerowacz biżuterii
+Srebrnik-jubiler
+Złotnik-jubiler
+Szlifierz kamieni szlachetnych
+Dekorator powierzchni drewnianych
+Dekorator powierzchni szklanych
+Dekorator wyrobów ceramicznych
+Dekorator wyrobów porcelanowych
+Malarz–zdobnik
+Specjalista grawerowania w metalu
+Specjalista grawerowania w szkle
+Szyldziarz
+Mechanik konserwator sprzętu optycznego
+Monter aparatów i przyrządów optycznych
+Monter urządzeń precyzyjnych
+Wytwórca narzędzi chirurgicznych
+Zegarmistrz
+Zegarmistrz specjalista naprawy zegarków i zegarów
+Papiernik
+Rzeźbiarz w drewnie
+Szczotkarz
+Wykonawca mebli wyplatanych
+Wyplatacz koszyków
+Zabawkarz
+Dziewiarz
+Rękodzielnik wyrobów skórzanych
+Sieciarz
+Tkacz
+Wytwórca dywanów
+Wytwórca dywanów metodą mechaniczną
+Cegielnik
+Garncarz
+Hutnik dmuchacz szkła
+Krajacz szkła
+Specjalista naprawy sprzętu sportowego i turystycznego
+Wytwórca świec
+Konstruktor-modelarz obuwia operator CAD
+Obuwnik
+Obuwnik miarowy
+Obuwnik montażysta
+Obuwnik ortopedyczny
+Obuwnik szwacz ręczny
+Obuwnik-modelarz
+Szewc
+Formowacz wyrobów skórzanych
+Pracownik wykańczalni wyrobów skórzanych
+Szwacz ręczny wyrobów skórzanych/szwaczka ręczna wyrobów skórzanych
+Wykrawacz wyrobów skórzanych
+Konstruktor odzieży
+Konstruktor odzieży – operator CAD
+Konstruktor wyrobów skórzanych
+Konstruktor wyrobów skórzanych - operator CAD
+Krawiec-modelarz
+Krojczy
+Wykonawca cyfrowych prototypów odzieży
+Tapicer
+Tapicer jachtowy
+Tapicer kolejowy
+Tapicer meblowy
+Tapicer samochodowy
+Monter wyposażenia wnętrz samolotów
+Wytwórca materacy metodą rzemieślniczą
+Kapelusznik-czapnik
+Klasyfikator skór
+Krawiec artystyczny / krawcowa artystyczna
+Krawiec odzieży damskiej / krawcowa odzieży damskiej
+Krawiec odzieży męskiej / krawcowa odzieży męskiej
+Perukarz
+Hafciarz/hafciarka
+Rękawicznik
+Szwacz/szwaczka
+Wytwórca lalek
+Wytwórca wyrobów tekstylnych
+Sortowacz skór
+Drukarz offsetowy
+Drukarz sitodrukowy
+Drukarz tkanin
+Operator drukarki
+Operator maszyn do nadruku foliowego
+Operator maszyn fleksograficznych
+Operator maszyny rotograwiurowej
+Operator prasy tłoczącej
+Specjalista ds. reprografii
+Technik druku na tkaninach
+Montażysta ilustracji
+Operator DTP
+Operator skanera
+Pracownik poligraficzny – formatowanie/przygotowanie materiałów do druku
+Pracownik poligraficzny – wykonywanie wydruków próbnych
+Specjalista wykonania form drukowych
+Specjalista wykonania form drukowych do sitodruku
+Falcerz
+Konserwator książek
+Operator maszyn introligatorskich
+Operator zszywarki introligatorskiej
+Bednarz
+Ramiarz
+Renowator mebli
+Stolarz meblowy wykończeniowy
+Stolarz wykonawca imitacji mebli zabytkowych
+Wykonawca modeli redukcyjnych
+Operator zbijarki
+Polerowacz wyrobów z drewna
+Tokarz w drewnie
+Wiertacz w drewnie
+Zbijacz palet
+Impregnator drewna
+Suszarniowy drewna

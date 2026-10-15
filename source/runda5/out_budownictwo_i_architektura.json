@@ -1,0 +1,22 @@
+{
+  "Cieśla": {
+    "do": ["Mistrz produkcji w budownictwie"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony cieśla zwykle przejmuje kierowanie brygadą na budowie, co odpowiada stanowisku mistrza produkcji."
+  },
+  "Kominiarz": {
+    "do": ["Mistrz kominiarski"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Po zdobyciu uprawnień i doświadczenia kominiarz awansuje na mistrza kominiarskiego, który nadzoruje pracę i odpowiada za jej jakość."
+  },
+  "Inżynier budownictwa": {
+    "do": ["Kierownik budowy"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inżynier budownictwa z odpowiednimi uprawnieniami i doświadczeniem przejmuje odpowiedzialność za prowadzenie całej budowy."
+  },
+  "Inspektor jakości obiektów budowlanych": {
+    "do": ["Kierownik ds. jakości"],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inspektor jakości po latach kontroli może awansować na kierownika odpowiedzialnego za system jakości w firmie."
+  }
+}
