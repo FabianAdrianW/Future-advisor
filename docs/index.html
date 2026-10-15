@@ -483,7 +483,15 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     var h = '<section class="sec"><div class="sec-h"><h2>Droga do zawodu</h2><p>' + (routes.length > 1 ? 'Do tego zawodu prowadzą ' + routes.length + ' ' + pl(routes.length, 'droga', 'drogi', 'dróg') + '. Wybierz swoją.' : 'Krok po kroku do pierwszej pracy.') + '</p></div>';
     if (routes.length > 1) h += '<div class="pills">' + routes.map(function (x, i) { return '<button type="button" class="pill" data-act="route" data-i="' + i + '" aria-pressed="' + (i === ri) + '">' + esc(x.n) + '</button>'; }).join('') + '</div>';
     h += '<div class="card"><ol class="path">' + r.s.map(function (s, i) { return stepRow(s, { when: s[0] === 'szkola' && stg() >= 2 ? 'masz za sobą' : yearsTxt(ys[i]), idx: -1 }); }).join('') + goalRow(n, total ? 'razem ' + yearsTxt(total) : '') + '</ol></div>';
+    if (r.s.some(function (st) { return st[0] === 'kurs'; })) h += kursSlot(key);
     return h + '<button type="button" class="btn" data-act="' + (has ? 'plan-open' : 'plan-add') + '">' + (has ? 'Otwórz mój plan' : 'Zaplanuj tę drogę') + '</button></section>';
+  }
+  function kursSlot(key) {
+    var K = (DATA.kursy || {})[key] || {}, offers = K.oferty || [];
+    var body = offers.length
+      ? offers.map(function (o) { return '<a class="row" href="' + esc(o.url) + '" target="_blank" rel="sponsored noopener"><span class="txt"><b>' + esc(o.nazwa) + '</b><span class="small">' + esc(o.opis || '') + '</span><span class="small">Reklama · partner</span></span></a>'; }).join('')
+      : '<p class="small">Oferty kursów od partnerów pojawią się tutaj. Na razie nie współpracujemy z żadnym dostawcą kursów.</p>';
+    return '<section class="sec"><div class="sec-h"><h2>Kursy w tej drodze</h2>' + (K.wymaga ? '<p>' + esc(K.wymaga) + '</p>' : '') + '</div><div class="list">' + body + '</div></section>';
   }
   function planSteps(plan, n) {
     var routes = routesOf(n) || [];
