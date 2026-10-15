@@ -1014,6 +1014,60 @@
      "2026-10-13"
     ]
    ]
+  },
+  "Operator wózka widłowego": {
+   "kod_gus": "832",
+   "n_ogloszen_strona": "pracuj.pl (max 2 ogłoszenia na pracodawcę)",
+   "oferty": [
+    [
+     "Operator wózka widłowego (k/m)",
+     6309,
+     6309,
+     "2026-10-15"
+    ],
+    [
+     "Operator wózka widłowego (k/m)",
+     5300,
+     5900,
+     "2026-10-15"
+    ],
+    [
+     "Operator wózka widłowego (k/m)",
+     5500,
+     6500,
+     "2026-10-14"
+    ],
+    [
+     "Operator wózka widłowego (M/K/X)",
+     5700,
+     6384,
+     "2026-10-14"
+    ],
+    [
+     "Operator wózka widłowego (M/K/X)",
+     6280,
+     6880,
+     "2026-10-12"
+    ],
+    [
+     "Operator wózka widłowego UDT",
+     6200,
+     6600,
+     "2026-10-15"
+    ],
+    [
+     "Operator Wózków Widłowych - Magazynier",
+     5700,
+     6000,
+     "2026-10-12"
+    ],
+    [
+     "Magazynier / Magazynierka - Operator Wózka Widłowego / Operatorka Wózka Widłowego",
+     5100,
+     6300,
+     "2026-10-14"
+    ]
+   ]
   }
  }
 }
