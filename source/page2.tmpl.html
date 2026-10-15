@@ -644,7 +644,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     if (!A) return '';
     var tiles = A.do.map(function (t) { return BYNAME[t]; }).filter(Boolean);
     if (!tiles.length) return '';
-    return '<section class="sec"><div class="sec-h"><h2>Dalej możesz</h2><p>Zawody, do których z tego zawodu często prowadzi droga.' + ' Ta lista to propozycja, nie sprawdzona ścieżka: ' + esc(A.zrodlo) + '.</p></div><div class="list">' + tiles.map(function (x) { return row(x, -1); }).join('') + '</div></section>';
+    return '<section class="sec"><div class="sec-h"><h2>Dalej możesz</h2><p>Zawody, do których z tego zawodu często prowadzi droga.' + ' Źródło: ' + esc(A.zrodlo) + '. Pewność: ' + esc(A.pewnosc || 'średnia') + (A.pewnosc === 'średnia' ? ' — warto samemu sprawdzić, jak to wygląda w firmach.' : '.') + '</p></div><div class="list">' + tiles.map(function (x) { return row(x, -1); }).join('') + '</div></section>';
   }
   function fitCard(n) {
     if (!hasProfile()) return '<section class="sec"><div class="card banner">' + img('bullseye', '', 64) + '<div class="txt"><b>Czy to zawód dla Ciebie?</b><span class="small">Zaznacz, co lubisz, a odpowiem przy każdym zawodzie.</span><button type="button" class="btn sm" data-act="edit">Zaznacz</button></div></div></section>';
