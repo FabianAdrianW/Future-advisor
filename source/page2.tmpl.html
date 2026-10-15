@@ -588,16 +588,18 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     return h;
   }
   var SK = DATA.sk || {}, MK = DATA.mk || null;
-  var PAY = DATA.pay || {}, CITIES = DATA.cities || [], NOCITY = DATA.nocity || { g: [], re: '' }, NOCITY_RE = NOCITY.re ? new RegExp(NOCITY.re) : null, MINPAY = DATA.minpay || 0, cityOpen = false;
+  var PAY = DATA.pay || {}, CITIES = DATA.cities || [], NOCITY = DATA.nocity || { g: [], re: '' }, NOCITY_RE = NOCITY.re ? new RegExp(NOCITY.re) : null, MINPAY = DATA.minpay || 0, PAYQ = DATA.payq || {}, cityOpen = false;
   var money = function (x) { return String(x).replace(/\B(?=(\d{3})+$)/g, '\u00a0'); };
   function payOf(n) {
     var k = String(n.gk || ''); if (!/^\d+$/.test(k)) return null;
-    for (var len = Math.min(k.length, 3); len >= 1; len--) { var p = PAY[k.slice(0, len)]; if (p) return { med: p[0], name: p[1] }; }
+    for (var len = Math.min(k.length, 3); len >= 1; len--) { var c = k.slice(0, len), p = PAY[c]; if (p) return { med: p[0], name: p[1], q: PAYQ[c] || null, digits: len }; }
     return null;
   }
-  function payRange(med, ci) {
+  function payRange(med, ci, q) {
     var k = ci >= 0 && CITIES[ci] ? 1 + (CITIES[ci][1] - 100) / 200 : 1, r = function (x) { return Math.round(x / 100) * 100; };
-    return [Math.max(MINPAY, r(med * 0.8 * k)), Math.max(MINPAY + 500, r(med * 1.25 * k))];
+    // q = [P25, P75] z GUS dla grupy; bez q zostaje dawny szacunek wokół mediany
+    var lo = q ? q[0] * k : med * 0.8 * k, hi = q ? q[1] * k : med * 1.25 * k;
+    return [Math.max(MINPAY, r(lo)), Math.max(MINPAY + 500, r(hi))];
   }
   function cityPicker() {
     var cur = S.city >= 0 && CITIES[S.city] ? CITIES[S.city][0] : 'Cała Polska';
@@ -627,7 +629,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   function payCard(n) {
     var p = payOf(n), fixed = fixedPay(n);
     if (!p) return '<section class="sec"><h2>Zarobki</h2><div class="card"><p>Dla tego zawodu nie ma wiarygodnych danych o zarobkach. Dochody bywają tu bardzo nierówne albo zależą od stopnia i stażu.</p></div></section>';
-    var ci = fixed ? -1 : S.city, city = ci >= 0 && CITIES[ci], r = payRange(p.med, ci), base = payRange(p.med, -1), LO = 4000, HI = 26000;
+    var ci = fixed ? -1 : S.city, city = ci >= 0 && CITIES[ci], r = payRange(p.med, ci, p.q), base = payRange(p.med, -1, p.q), LO = 4000, HI = 26000;
     var pos = function (x) { return Math.max(0, Math.min(100, (x - LO) / (HI - LO) * 100)); };
     var h = '<section class="sec"><div class="sec-h"><h2>Zarobki</h2><p>Typowe widełki na etacie, brutto miesięcznie.</p></div><div class="card pay">' +
       '<span class="eyebrow">' + esc(city ? city[0] : 'Cała Polska') + '</span><b class="amt">' + money(r[0]) + ' – ' + money(r[1]) + ' <span>zł brutto</span></b>' +
@@ -635,7 +637,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
       '<div class="scale"><span>4 tys.</span><span>15 tys.</span><span>26 tys. zł</span></div>';
     if (city) { var diff = Math.round((r[1] / base[1] - 1) * 100); h += '<p class="cmp">W całej Polsce: ' + money(base[0]) + ' – ' + money(base[1]) + ' zł. ' + (diff > 0 ? esc(city[0]) + ' płaci zwykle <b>ok. ' + diff + '% więcej</b>.' : diff < 0 ? esc(city[0]) + ' płaci zwykle ok. ' + (-diff) + '% mniej.' : 'Tu płace są zbliżone do średniej.') + (city ? ' Kreska na pasku to środek dla całej Polski.' : '') + '</p>'; }
     if (fixed) h += '<p class="cmp" id="pay-fixed">Tu płace wyznaczają głównie ogólnopolskie siatki i przepisy, więc nie przeliczamy ich na miasto.</p>';
-    h += (fixed ? '' : cityPicker()) + '<p class="small">To szacunek, nie oferta. Podstawa: mediana płac GUS dla grupy „' + esc(p.name) + '”' + (fixed ? '.' : ', przesunięta o poziom płac w mieście.') + ' Na początku pracy zwykle zarabia się bliżej dolnej granicy.</p></div></section>';
+    h += (fixed ? '' : cityPicker()) + '<p class="small">To szacunek, nie oferta. Podstawa: GUS, październik 2024, przeliczone na 2025 r.; dane dla grupy zawodów „' + esc(p.name) + '”' + (p.digits < 3 ? ' (szersza grupa, mniej dokładne)' : '') + (p.q ? ', środkowe 50% pracowników z tej grupy' : ', mediana bez rozrzutu') + (fixed || S.city < 0 ? '.' : ', przesunięte o poziom płac w mieście.') + ' Na początku pracy zwykle zarabia się bliżej dolnej granicy.</p></div></section>';
     return h;
   }
   function fitCard(n) {
@@ -729,7 +731,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     if (f.rm && f.rm.length && f.rm.indexOf(String(a.rm)) < 0) return false;
     if (f.mk && f.mk.length && f.mk.indexOf(a.mk) < 0) return false;
     if (f.tm && (a.yrs === null || a.yrs > f.tm)) return false;
-    if (f.pay) { var p = payOf(n); if (!p) return false; var r = payRange(p.med, fixedPay(n) ? -1 : S.city); if ((r[0] + r[1]) / 2 < f.pay) return false; }
+    if (f.pay) { var p = payOf(n); if (!p) return false; var r = payRange(p.med, fixedPay(n) ? -1 : S.city, p.q); if ((r[0] + r[1]) / 2 < f.pay) return false; }
     if (f.fit && hasProfile() && level(n.w) < 1) return false;
     return true;
   }
