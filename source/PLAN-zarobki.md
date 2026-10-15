@@ -27,10 +27,11 @@ Sprostowanie do wcześniejszej rekomendacji: Barometr zawodów opisuje popyt na 
 
 ## 3. Rundy
 
-**Runda 1: zejście z grup na podgrupy ISCO (4 cyfry).**
-- Claude: znaleźć w GUS („Struktura wynagrodzeń według zawodów”, edycja 2024) tablice na poziomie 4 cyfr, wczytać mediany i kwartyle, zapisać do `pay_isco4.json` z rokiem i źródłem.
-- Ograniczenie: shell w środowisku Claude może nie sięgać stat.gov.pl. Jeśli tak, Fabian wrzuca pobrany plik XLSX do czatu, resztę robi Claude.
-- Efekt: z ok. 119 do kilkuset różnych median.
+**Runda 1: DONE (w zmodyfikowanym zakresie).**
+- Ustalenie: GUS w tym pliku nie schodzi poniżej grup 3-cyfrowych ISCO. Zejście do 4 cyfr nie jest możliwe z tego źródła. Runda 1 w pierwotnej formie była błędna.
+- Zrobione: `source/pay_gus2024.json`, 174 grupy z medianą (5. decyl), P25/P75 przybliżonymi z decyli i średnią. Wartości z `pay_codes.txt` = mediana × 1,0868 dla 162 z 163 kodów; wyjątek: kod 226 („Lekarze dentyści”), w aplikacji 9 360 zł, GUS mediana × 1,0868 = 11 252 zł. Do wyjaśnienia.
+- Wniosek: sama tabela GUS nie usunie identycznych widełek, bo wszystkie zawody w grupie mają tę samą medianę. Zysk dają kwartyle (realny rozrzut zamiast −20/+25%).
+- Do rozstrzygnięcia przez Fabiana: źródło danych per zawód (np. ogłoszenia z jawnymi widełkami, raporty płacowe). Bez tego identyczne wartości w obrębie grupy zostaną.
 
 **Runda 2: dziury i zawody o małej próbie.**
 - Claude: wypisać zawody, dla których 4-cyfrowy kod ma za małą próbę lub brak. Dla nich dodać zakresy z jawnych widełek w ogłoszeniach (od końca 2025 pracodawcy w Polsce mają podawać wynagrodzenie; Claude sprawdzi dokładne przepisy i dostępność danych przed użyciem) oraz z publicznych raportów płacowych.
