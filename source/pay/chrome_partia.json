@@ -1016,7 +1016,7 @@
    ]
   },
   "Operator wózka widłowego": {
-   "kod_gus": "832",
+   "kod_gus": "834",
    "n_ogloszen_strona": "pracuj.pl (max 2 ogłoszenia na pracodawcę)",
    "oferty": [
     [
@@ -1070,7 +1070,7 @@
    ]
   },
   "Fizjoterapeuta": {
-   "kod_gus": "325",
+   "kod_gus": "226",
    "n_ogloszen_strona": "pracuj.pl (n=1: za mało jawnych widełek brutto na pełny etat, do wykluczenia z kalibracji)",
    "oferty": [
     [
