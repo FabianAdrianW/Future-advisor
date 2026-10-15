@@ -1,0 +1,1225 @@
+{
+ "src": "GUS, Struktura wynagrodzen wedlug zawodow, pazdziernik 2024 (tabl. 5 i 13), grupy 1-3 cyfry ISCO-08, brutto",
+ "uwaga": "Kwartyle przyblizone z decyli (granice 2. i 3. oraz 7. i 8.), interpolacja liniowa. Przelicznik na 2025: 1,0868 (jak w pay_codes.txt).",
+ "przelicznik_2025": 1.0868,
+ "grupy": {
+  "0": {
+   "n": "O G Ó Ł E M",
+   "med": 7404.69,
+   "p25": 5620.0,
+   "p75": 10370.0,
+   "avg": 8944.79
+  },
+  "1": {
+   "n": "RAZEM",
+   "med": 12185.73,
+   "p25": 8330.1,
+   "p75": 18341.5,
+   "avg": 15213.78
+  },
+  "11": {
+   "n": "Przedstawiciele władz publicznych, wyżsi urzędnicy i dyrektorzy generalni",
+   "med": 18004,
+   "p25": 11528.98,
+   "p75": 27900.62,
+   "avg": 22425.24
+  },
+  "111": {
+   "n": "Przedstawiciele władz publicznych i wyżsi urzędnicy",
+   "med": 16276.79,
+   "p25": 12531.53,
+   "p75": 20497.32,
+   "avg": 16383.78
+  },
+  "112": {
+   "n": "Dyrektorzy generalni i zarządzający",
+   "med": 18230,
+   "p25": 11402.02,
+   "p75": 29030.37,
+   "avg": 22911.9
+  },
+  "12": {
+   "n": "Kierownicy do spraw zarządzania i handlu",
+   "med": 13318.9,
+   "p25": 9508.16,
+   "p75": 19141.96,
+   "avg": 15720.82
+  },
+  "121": {
+   "n": "Kierownicy do spraw obsługi biznesu i zarządzania",
+   "med": 13325.84,
+   "p25": 9711.24,
+   "p75": 18840.86,
+   "avg": 15715.22
+  },
+  "122": {
+   "n": "Kierownicy do spraw sprzedaży, marketingu i rozwoju",
+   "med": 13303.95,
+   "p25": 8826.98,
+   "p75": 19920.67,
+   "avg": 15735.57
+  },
+  "13": {
+   "n": "Kierownicy do spraw produkcji i usług",
+   "med": 11745,
+   "p25": 8650.64,
+   "p75": 15816.75,
+   "avg": 13272.48
+  },
+  "131": {
+   "n": "Kierownicy produkcji w rolnictwie, leśnictwie i rybactwie",
+   "med": 11550,
+   "p25": 8061.31,
+   "p75": 16997.57,
+   "avg": 12873.68
+  },
+  "132": {
+   "n": "Kierownicy w górnictwie, przemyśle, budownictwie i dystrybucji",
+   "med": 10486.72,
+   "p25": 7672.68,
+   "p75": 14510.0,
+   "avg": 11914.78
+  },
+  "133": {
+   "n": "Kierownicy do spraw technologii informatycznych i telekomunikacyjnych",
+   "med": 19714.5,
+   "p25": 13757.56,
+   "p75": 27473.28,
+   "avg": 21489.76
+  },
+  "134": {
+   "n": "Kierownicy / dyrektorzy w instytucjach usług wyspecjalizowanych",
+   "med": 12681.49,
+   "p25": 10425.89,
+   "p75": 15424.11,
+   "avg": 13651.95
+  },
+  "14": {
+   "n": "Kierownicy w branży hotelarskiej, handlu i innych branżach usługowych",
+   "med": 7252.95,
+   "p25": 6106.59,
+   "p75": 9445.67,
+   "avg": 8459
+  },
+  "141": {
+   "n": "Kierownicy w gastronomii i hotelarstwie",
+   "med": 6763.3,
+   "p25": 5651.81,
+   "p75": 8455.08,
+   "avg": 7656.28
+  },
+  "142": {
+   "n": "Kierownicy do spraw handlu detalicznego i hurtowego",
+   "med": 7100,
+   "p25": 6036.44,
+   "p75": 8536.17,
+   "avg": 7634.81
+  },
+  "143": {
+   "n": "Kierownicy do spraw innych typów usług",
+   "med": 9491,
+   "p25": 7134.88,
+   "p75": 13184.17,
+   "avg": 11164.62
+  },
+  "2": {
+   "n": "RAZEM",
+   "med": 9466.17,
+   "p25": 7369.09,
+   "p75": 12376.71,
+   "avg": 10734.04
+  },
+  "21": {
+   "n": "Specjaliści nauk fizycznych, matematycznych i technicznych",
+   "med": 9506.2,
+   "p25": 7404.68,
+   "p75": 12731.18,
+   "avg": 10744.78
+  },
+  "211": {
+   "n": "Fizycy, chemicy i specjaliści nauk o ziemi",
+   "med": 9167.23,
+   "p25": 7317.34,
+   "p75": 12171.56,
+   "avg": 10452.82
+  },
+  "212": {
+   "n": "Matematycy, aktuariusze i statystycy",
+   "med": 8242.28,
+   "p25": 6907.56,
+   "p75": 11689.38,
+   "avg": 10407.47
+  },
+  "213": {
+   "n": "Specjaliści nauk biologicznych i dziedzin pokrewnych",
+   "med": 9003.15,
+   "p25": 7527.36,
+   "p75": 11378.68,
+   "avg": 10012.4
+  },
+  "214": {
+   "n": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+   "med": 9728.22,
+   "p25": 7490.23,
+   "p75": 13030.65,
+   "avg": 10918.02
+  },
+  "215": {
+   "n": "Inżynierowie elektrotechnologii",
+   "med": 11478.26,
+   "p25": 8917.85,
+   "p75": 15108.26,
+   "avg": 12819.97
+  },
+  "216": {
+   "n": "Architekci, geodeci i projektanci",
+   "med": 7801.75,
+   "p25": 6155.97,
+   "p75": 10301.96,
+   "avg": 8808.89
+  },
+  "22": {
+   "n": "Specjaliści do spraw zdrowia",
+   "med": 10645.25,
+   "p25": 8682.61,
+   "p75": 13587.2,
+   "avg": 11933.35
+  },
+  "221": {
+   "n": "Lekarze",
+   "med": 15451.2,
+   "p25": 11128.18,
+   "p75": 21085.38,
+   "avg": 17440.1
+  },
+  "222": {
+   "n": "Pielęgniarki",
+   "med": 10650.9,
+   "p25": 9170.33,
+   "p75": 12692.04,
+   "avg": 11046.62
+  },
+  "223": {
+   "n": "Położne",
+   "med": 10606.92,
+   "p25": 9114.69,
+   "p75": 12436.91,
+   "avg": 10955.09
+  },
+  "224": {
+   "n": "Specjaliści do spraw ratownictwa medycznego",
+   "med": 12852.65,
+   "p25": 9801.47,
+   "p75": 14804.56,
+   "avg": 12295.38
+  },
+  "225": {
+   "n": "Lekarze weterynarii",
+   "med": 11281.6,
+   "p25": 8985.24,
+   "p75": 13570.42,
+   "avg": 11631.08
+  },
+  "226": {
+   "n": "Lekarze dentyści",
+   "med": 10354.71,
+   "p25": 7659.0,
+   "p75": 16352.45,
+   "avg": 13830.72
+  },
+  "227": {
+   "n": "Diagności laboratoryjni",
+   "med": 10406.6,
+   "p25": 8228.99,
+   "p75": 13857.25,
+   "avg": 11667.41
+  },
+  "228": {
+   "n": "Farmaceuci",
+   "med": 9756.8,
+   "p25": 8250.5,
+   "p75": 11572.03,
+   "avg": 10227.2
+  },
+  "229": {
+   "n": "Inni specjaliści ochrony zdrowia",
+   "med": 8612.34,
+   "p25": 7361.11,
+   "p75": 11906.57,
+   "avg": 10074.97
+  },
+  "23": {
+   "n": "Specjaliści nauczania i wychowania",
+   "med": 8865.08,
+   "p25": 7055.16,
+   "p75": 10828.81,
+   "avg": 9241.9
+  },
+  "231": {
+   "n": "Nauczyciele akademiccy",
+   "med": 10312.72,
+   "p25": 7959.73,
+   "p75": 13188.11,
+   "avg": 11377.82
+  },
+  "232": {
+   "n": "Nauczyciele kształcenia zawodowego",
+   "med": 8676.58,
+   "p25": 6827.25,
+   "p75": 10964.9,
+   "avg": 9105.26
+  },
+  "233": {
+   "n": "Nauczyciele szkół ponadpodstawowych (z wyjątkiem nauczycieli kształcenia zawodowego)",
+   "med": 9447.48,
+   "p25": 7341.4,
+   "p75": 11314.41,
+   "avg": 9545.86
+  },
+  "234": {
+   "n": "Nauczyciele szkół podstawowych i specjaliści do spraw wychowania małego dziecka",
+   "med": 8651.25,
+   "p25": 7031.3,
+   "p75": 10366.52,
+   "avg": 8814.83
+  },
+  "235": {
+   "n": "Inni specjaliści nauczania i wychowania",
+   "med": 8307.77,
+   "p25": 6687.23,
+   "p75": 10492.5,
+   "avg": 8843.51
+  },
+  "24": {
+   "n": "Specjaliści do spraw ekonomicznych i zarządzania",
+   "med": 9068.94,
+   "p25": 7041.16,
+   "p75": 12199.3,
+   "avg": 10387.43
+  },
+  "241": {
+   "n": "Specjaliści do spraw finansowych",
+   "med": 9650,
+   "p25": 7469.66,
+   "p75": 13024.44,
+   "avg": 11041.69
+  },
+  "242": {
+   "n": "Specjaliści do spraw administracji i zarządzania",
+   "med": 9000,
+   "p25": 7149.95,
+   "p75": 11776.53,
+   "avg": 10073.5
+  },
+  "243": {
+   "n": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+   "med": 8623.18,
+   "p25": 6496.25,
+   "p75": 12207.74,
+   "avg": 10312.73
+  },
+  "244": {
+   "n": "Specjaliści do spraw rynku nieruchomości",
+   "med": 9654.5,
+   "p25": 7140.38,
+   "p75": 12676.33,
+   "avg": 11090.51
+  },
+  "25": {
+   "n": "Specjaliści do spraw technologii informacyjno-komunikacyjnych",
+   "med": 13269,
+   "p25": 9250.0,
+   "p75": 19069.3,
+   "avg": 15138.97
+  },
+  "251": {
+   "n": "Analitycy systemów komputerowych i programiści",
+   "med": 13900,
+   "p25": 9526.68,
+   "p75": 19821.0,
+   "avg": 15629.51
+  },
+  "252": {
+   "n": "Specjaliści do spraw baz danych i sieci komputerowych",
+   "med": 11943,
+   "p25": 8651.52,
+   "p75": 17212.98,
+   "avg": 13934.67
+  },
+  "26": {
+   "n": "Specjaliści z dziedziny prawa, dziedzin społecznych i kultury",
+   "med": 9558.4,
+   "p25": 7274.33,
+   "p75": 14513.92,
+   "avg": 11851.81
+  },
+  "261": {
+   "n": "Specjaliści z dziedziny prawa",
+   "med": 14744.66,
+   "p25": 9459.11,
+   "p75": 21619.38,
+   "avg": 15876.14
+  },
+  "262": {
+   "n": "Bibliotekoznawcy, archiwiści i muzealnicy",
+   "med": 7282.5,
+   "p25": 6079.1,
+   "p75": 9238.82,
+   "avg": 8205.72
+  },
+  "263": {
+   "n": "Specjaliści z dziedzin społecznych i religijnych",
+   "med": 8767.07,
+   "p25": 7369.82,
+   "p75": 11299.14,
+   "avg": 9449.61
+  },
+  "264": {
+   "n": "Literaci, dziennikarze i filolodzy",
+   "med": 8073.33,
+   "p25": 6254.39,
+   "p75": 11270.5,
+   "avg": 9672.48
+  },
+  "265": {
+   "n": "Twórcy i artyści",
+   "med": 7840.21,
+   "p25": 6008.09,
+   "p75": 10730.9,
+   "avg": 9293.47
+  },
+  "3": {
+   "n": "RAZEM",
+   "med": 7811.76,
+   "p25": 6303.36,
+   "p75": 10071.94,
+   "avg": 8701.93
+  },
+  "31": {
+   "n": "Średni personel nauk fizycznych, chemicznych i technicznych",
+   "med": 8126.63,
+   "p25": 6453.59,
+   "p75": 10638.67,
+   "avg": 9137.01
+  },
+  "311": {
+   "n": "Technicy nauk fizycznych, chemicznych i technicznych",
+   "med": 7920,
+   "p25": 6279.7,
+   "p75": 10185.19,
+   "avg": 8638.61
+  },
+  "312": {
+   "n": "Mistrzowie produkcji w przemyśle przetwórczym i budownictwie oraz osoby dozoru ruchu w górnictwie",
+   "med": 9468.26,
+   "p25": 7478.3,
+   "p75": 12199.51,
+   "avg": 10366.91
+  },
+  "313": {
+   "n": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+   "med": 7535.71,
+   "p25": 6247.15,
+   "p75": 9598.6,
+   "avg": 8239.33
+  },
+  "314": {
+   "n": "Technicy nauk biologicznych, rolniczych i technologii żywności",
+   "med": 8039.02,
+   "p25": 6283.97,
+   "p75": 10936.22,
+   "avg": 8855.95
+  },
+  "315": {
+   "n": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+   "med": 12799.81,
+   "p25": 8404.49,
+   "p75": 23207.75,
+   "avg": 18883.41
+  },
+  "32": {
+   "n": "Średni personel do spraw zdrowia",
+   "med": 7398,
+   "p25": 6283.48,
+   "p75": 9143.47,
+   "avg": 8055.94
+  },
+  "321": {
+   "n": "Technicy medyczni i farmaceutyczni",
+   "med": 7331.48,
+   "p25": 6258.85,
+   "p75": 8503.49,
+   "avg": 7575.16
+  },
+  "322": {
+   "n": "Dietetycy i żywieniowcy",
+   "med": 7534.8,
+   "p25": 6694.56,
+   "p75": 8779.43,
+   "avg": 8067.84
+  },
+  "323": {
+   "n": "Praktykujący niekonwencjonalne lub komplementarne metody terapii",
+   "med": 7576.48,
+   "p25": 7006.91,
+   "p75": 8825.86,
+   "avg": 8672.58
+  },
+  "324": {
+   "n": "Technicy weterynarii",
+   "med": 6883.65,
+   "p25": 5201.06,
+   "p75": 8892.84,
+   "avg": 7353
+  },
+  "325": {
+   "n": "Inny średni personel do spraw zdrowia",
+   "med": 7503.71,
+   "p25": 6311.44,
+   "p75": 10115.51,
+   "avg": 8491.76
+  },
+  "33": {
+   "n": "Średni personel do spraw biznesu i administracji",
+   "med": 7932.42,
+   "p25": 6317.71,
+   "p75": 10271.21,
+   "avg": 8780.15
+  },
+  "331": {
+   "n": "Średni personel do spraw finansowych",
+   "med": 7866.67,
+   "p25": 6379.47,
+   "p75": 9859.11,
+   "avg": 8559.48
+  },
+  "332": {
+   "n": "Agenci i pośrednicy handlowi",
+   "med": 8100,
+   "p25": 6041.5,
+   "p75": 11041.67,
+   "avg": 9289.69
+  },
+  "333": {
+   "n": "Pośrednicy usług biznesowych",
+   "med": 7040,
+   "p25": 5597.7,
+   "p75": 8925.0,
+   "avg": 7679.15
+  },
+  "334": {
+   "n": "Pracownicy administracyjni i sekretarze wyspecjalizowani",
+   "med": 7158.63,
+   "p25": 6138.46,
+   "p75": 9251.1,
+   "avg": 8243.33
+  },
+  "335": {
+   "n": "Urzędnicy państwowi do spraw nadzoru",
+   "med": 9619.14,
+   "p25": 7944.25,
+   "p75": 11295.57,
+   "avg": 9984.38
+  },
+  "34": {
+   "n": "Średni personel z dziedziny prawa, spraw społecznych, kultury i pokrewny",
+   "med": 7110.43,
+   "p25": 5992.32,
+   "p75": 8264.49,
+   "avg": 7337.29
+  },
+  "341": {
+   "n": "Średni personel z dziedziny prawa, spraw społecznych i religii",
+   "med": 7547.29,
+   "p25": 6611.94,
+   "p75": 8454.81,
+   "avg": 7699.21
+  },
+  "342": {
+   "n": "Sportowcy, trenerzy i zawody pokrewne",
+   "med": 6378.36,
+   "p25": 5433.01,
+   "p75": 7624.31,
+   "avg": 6865.94
+  },
+  "343": {
+   "n": "Średni personel w zakresie działalności artystycznej, kulturalnej i kulinarnej",
+   "med": 6152.06,
+   "p25": 5268.13,
+   "p75": 7505.3,
+   "avg": 6723.32
+  },
+  "35": {
+   "n": "Technicy informatycy",
+   "med": 8182.9,
+   "p25": 6296.93,
+   "p75": 11104.58,
+   "avg": 9505.08
+  },
+  "351": {
+   "n": "Technicy do spraw technologii teleinformatycznych i pomocy użytkownikom urządzeń teleinformatycznych",
+   "med": 8238.19,
+   "p25": 6329.43,
+   "p75": 11144.99,
+   "avg": 9588.01
+  },
+  "352": {
+   "n": "Technicy telekomunikacji i urządzeń transmisyjnych",
+   "med": 7905.15,
+   "p25": 6089.82,
+   "p75": 10743.03,
+   "avg": 8917.06
+  },
+  "4": {
+   "n": "RAZEM",
+   "med": 6418.75,
+   "p25": 5348.34,
+   "p75": 7985.36,
+   "avg": 6993.97
+  },
+  "41": {
+   "n": "Sekretarki, operatorzy urządzeń biurowych i pokrewni",
+   "med": 6611.44,
+   "p25": 5326.34,
+   "p75": 8169.43,
+   "avg": 7106.93
+  },
+  "411": {
+   "n": "Pracownicy obsługi biurowej",
+   "med": 6600.98,
+   "p25": 5270.81,
+   "p75": 8223.33,
+   "avg": 7112.4
+  },
+  "412": {
+   "n": "Sekretarki (ogólne)",
+   "med": 6671.88,
+   "p25": 5766.95,
+   "p75": 7912.19,
+   "avg": 7092.29
+  },
+  "413": {
+   "n": "Operatorzy urządzeń biurowych",
+   "med": 6465.93,
+   "p25": 5362.26,
+   "p75": 7841.44,
+   "avg": 6976.59
+  },
+  "42": {
+   "n": "Pracownicy obsługi klienta",
+   "med": 6228.19,
+   "p25": 5425.46,
+   "p75": 7620.43,
+   "avg": 6945.71
+  },
+  "421": {
+   "n": "Pracownicy obrotu pieniężnego",
+   "med": 6202.23,
+   "p25": 5482.55,
+   "p75": 8028.19,
+   "avg": 7230.52
+  },
+  "422": {
+   "n": "Pracownicy do spraw informowania klientów",
+   "med": 6236.25,
+   "p25": 5400.06,
+   "p75": 7433.97,
+   "avg": 6785.87
+  },
+  "43": {
+   "n": "Pracownicy do spraw finansowo-statystycznych i ewidencji materiałowej",
+   "med": 6327.89,
+   "p25": 5291.46,
+   "p75": 7793.76,
+   "avg": 6819.02
+  },
+  "431": {
+   "n": "Pracownicy do spraw finansowo-statystycznych",
+   "med": 6859.47,
+   "p25": 5500.0,
+   "p75": 8665.38,
+   "avg": 7547.12
+  },
+  "432": {
+   "n": "Pracownicy do spraw ewidencji materiałowej i transportu",
+   "med": 6240,
+   "p25": 5260.0,
+   "p75": 7621.23,
+   "avg": 6670
+  },
+  "44": {
+   "n": "Pozostali pracownicy obsługi biura",
+   "med": 6530.92,
+   "p25": 5474.38,
+   "p75": 8482.18,
+   "avg": 7306.36
+  },
+  "441": {
+   "n": "Pozostali pracownicy obsługi biura",
+   "med": 6530.92,
+   "p25": 5474.38,
+   "p75": 8482.18,
+   "avg": 7306.36
+  },
+  "5": {
+   "n": "RAZEM",
+   "med": 5281.03,
+   "p25": 4556.24,
+   "p75": 6386.05,
+   "avg": 5863.53
+  },
+  "51": {
+   "n": "Pracownicy usług osobistych",
+   "med": 5526.48,
+   "p25": 4497.34,
+   "p75": 6479.53,
+   "avg": 5864.93
+  },
+  "511": {
+   "n": "Stewardzi, konduktorzy i przewodnicy",
+   "med": 7918.51,
+   "p25": 6040.06,
+   "p75": 10539.18,
+   "avg": 8683.36
+  },
+  "512": {
+   "n": "Kucharze",
+   "med": 5400,
+   "p25": 4311.47,
+   "p75": 6384.1,
+   "avg": 5680.87
+  },
+  "513": {
+   "n": "Kelnerzy i barmani",
+   "med": 4711.94,
+   "p25": 4300.0,
+   "p75": 5692.24,
+   "avg": 5227.59
+  },
+  "514": {
+   "n": "Fryzjerzy, kosmetyczki i pokrewni",
+   "med": 4300,
+   "p25": 4300.0,
+   "p75": 4728.22,
+   "avg": 4881.43
+  },
+  "515": {
+   "n": "Gospodarze obiektów",
+   "med": 5701.2,
+   "p25": 4867.99,
+   "p75": 6515.15,
+   "avg": 5947.93
+  },
+  "516": {
+   "n": "Pozostali pracownicy usług osobistych",
+   "med": 5383.08,
+   "p25": 4722.57,
+   "p75": 6361.32,
+   "avg": 5775.94
+  },
+  "52": {
+   "n": "Sprzedawcy i pokrewni",
+   "med": 5220.11,
+   "p25": 4565.73,
+   "p75": 6286.26,
+   "avg": 5858.58
+  },
+  "522": {
+   "n": "Pracownicy sprzedaży w sklepach",
+   "med": 5072.8,
+   "p25": 4483.2,
+   "p75": 5955.68,
+   "avg": 5470.27
+  },
+  "523": {
+   "n": "Kasjerzy i sprzedawcy biletów",
+   "med": 5063.87,
+   "p25": 4583.86,
+   "p75": 5844.98,
+   "avg": 5415.25
+  },
+  "524": {
+   "n": "Inni pracownicy sprzedaży i pokrewni",
+   "med": 6256.5,
+   "p25": 5187.9,
+   "p75": 8715.51,
+   "avg": 7460.43
+  },
+  "53": {
+   "n": "Pracownicy opieki osobistej i pokrewni",
+   "med": 5792.14,
+   "p25": 5063.85,
+   "p75": 6948.7,
+   "avg": 6147.79
+  },
+  "531": {
+   "n": "Opiekunowie dziecięcy i asystenci nauczycieli",
+   "med": 5570.31,
+   "p25": 4922.96,
+   "p75": 6306.18,
+   "avg": 5771.2
+  },
+  "532": {
+   "n": "Pracownicy opieki osobistej w ochronie zdrowia i pokrewni",
+   "med": 6918.29,
+   "p25": 5866.25,
+   "p75": 8015.64,
+   "avg": 6997.66
+  },
+  "54": {
+   "n": "Pracownicy usług ochrony",
+   "med": 4673.6,
+   "p25": 4449.51,
+   "p75": 6018.99,
+   "avg": 5631.89
+  },
+  "541": {
+   "n": "Pracownicy usług ochrony",
+   "med": 4673.6,
+   "p25": 4449.51,
+   "p75": 6018.99,
+   "avg": 5631.89
+  },
+  "6": {
+   "n": "RAZEM",
+   "med": 5521.64,
+   "p25": 4334.86,
+   "p75": 7357.86,
+   "avg": 6264.42
+  },
+  "61": {
+   "n": "Rolnicy produkcji towarowej",
+   "med": 5999.11,
+   "p25": 4753.59,
+   "p75": 7777.68,
+   "avg": 6612.9
+  },
+  "611": {
+   "n": "Rolnicy produkcji roślinnej",
+   "med": 5421.28,
+   "p25": 4539.76,
+   "p75": 6816.57,
+   "avg": 5973.01
+  },
+  "612": {
+   "n": "Hodowcy zwierząt",
+   "med": 7411.65,
+   "p25": 5970.93,
+   "p75": 8973.62,
+   "avg": 7840.52
+  },
+  "613": {
+   "n": "Rolnicy produkcji roślinnej i zwierzęcej",
+   "med": 7020,
+   "p25": 5602.63,
+   "p75": 8752.3,
+   "avg": 7381.62
+  },
+  "62": {
+   "n": "Leśnicy i rybacy",
+   "med": 4300,
+   "p25": 4300.0,
+   "p75": 5800.0,
+   "avg": 5376.14
+  },
+  "621": {
+   "n": "Robotnicy leśni i pokrewni",
+   "med": 4300,
+   "p25": 4300.0,
+   "p75": 4641.59,
+   "avg": 4911.33
+  },
+  "622": {
+   "n": "Rybacy",
+   "med": 6159.11,
+   "p25": 5114.9,
+   "p75": 8862.33,
+   "avg": 7167.07
+  },
+  "7": {
+   "n": "RAZEM",
+   "med": 6414.06,
+   "p25": 4978.57,
+   "p75": 8345.98,
+   "avg": 7077.3
+  },
+  "71": {
+   "n": "Robotnicy budowlani i pokrewni (z wyłączeniem elektryków)",
+   "med": 6041.8,
+   "p25": 4470.0,
+   "p75": 7866.35,
+   "avg": 6586
+  },
+  "711": {
+   "n": "Robotnicy budowlani robót stanu surowego i pokrewni",
+   "med": 5700,
+   "p25": 4320.0,
+   "p75": 7443.32,
+   "avg": 6330.19
+  },
+  "712": {
+   "n": "Robotnicy budowlani robót wykończeniowych i pokrewni",
+   "med": 6420,
+   "p25": 4668.11,
+   "p75": 8167.82,
+   "avg": 6769.06
+  },
+  "713": {
+   "n": "Malarze, pracownicy czyszczący konstrukcje budowlane i pokrewni",
+   "med": 6524.07,
+   "p25": 5150.64,
+   "p75": 8534.6,
+   "avg": 7203.79
+  },
+  "72": {
+   "n": "Robotnicy obróbki metali, mechanicy maszyn i urządzeń i pokrewni",
+   "med": 7100,
+   "p25": 5673.2,
+   "p75": 9102.13,
+   "avg": 7733.56
+  },
+  "721": {
+   "n": "Formierze odlewniczy, spawacze, blacharze, monterzy konstrukcji metalowych i pokrewni",
+   "med": 7384,
+   "p25": 5728.5,
+   "p75": 9331.54,
+   "avg": 7949.25
+  },
+  "722": {
+   "n": "Kowale, ślusarze i pokrewni",
+   "med": 6767.93,
+   "p25": 5551.45,
+   "p75": 8437.12,
+   "avg": 7273.21
+  },
+  "723": {
+   "n": "Mechanicy maszyn i urządzeń",
+   "med": 7697.02,
+   "p25": 5944.57,
+   "p75": 10215.1,
+   "avg": 8415.59
+  },
+  "73": {
+   "n": "Rzemieślnicy i robotnicy poligraficzni",
+   "med": 6160.37,
+   "p25": 5167.76,
+   "p75": 7788.02,
+   "avg": 6802.22
+  },
+  "731": {
+   "n": "Rzemieślnicy",
+   "med": 6009.82,
+   "p25": 5021.78,
+   "p75": 7544.66,
+   "avg": 6712.53
+  },
+  "732": {
+   "n": "Robotnicy poligraficzni",
+   "med": 6296.88,
+   "p25": 5289.06,
+   "p75": 7928.69,
+   "avg": 6868.57
+  },
+  "74": {
+   "n": "Elektrycy i elektronicy",
+   "med": 7709.91,
+   "p25": 5885.81,
+   "p75": 10229.74,
+   "avg": 8369.68
+  },
+  "741": {
+   "n": "Elektrycy budowlani, elektromechanicy i elektromonterzy",
+   "med": 7932.81,
+   "p25": 6051.74,
+   "p75": 10490.98,
+   "avg": 8533.86
+  },
+  "742": {
+   "n": "Monterzy-elektronicy i monterzy instalacji i urządzeń telekomunikacyjnych",
+   "med": 6883.8,
+   "p25": 5313.07,
+   "p75": 9035.19,
+   "avg": 7699.06
+  },
+  "75": {
+   "n": "Robotnicy w przetwórstwie spożywczym, obróbce drewna, produkcji wyrobów tekstylnych i pokrewni",
+   "med": 5452.67,
+   "p25": 4475.5,
+   "p75": 6731.7,
+   "avg": 5917.69
+  },
+  "751": {
+   "n": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+   "med": 5710.57,
+   "p25": 4684.75,
+   "p75": 6977.76,
+   "avg": 6098.94
+  },
+  "752": {
+   "n": "Robotnicy obróbki drewna, stolarze meblowi i pokrewni",
+   "med": 5275.49,
+   "p25": 4356.87,
+   "p75": 6533.57,
+   "avg": 5657.07
+  },
+  "753": {
+   "n": "Robotnicy produkcji odzieży i pokrewni",
+   "med": 5173.6,
+   "p25": 4328.5,
+   "p75": 6570.09,
+   "avg": 5736.84
+  },
+  "754": {
+   "n": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+   "med": 5441.83,
+   "p25": 4590.4,
+   "p75": 6724.06,
+   "avg": 6058.55
+  },
+  "8": {
+   "n": "RAZEM",
+   "med": 6734.42,
+   "p25": 5275.92,
+   "p75": 8850.32,
+   "avg": 7476.61
+  },
+  "81": {
+   "n": "Operatorzy maszyn i urządzeń wydobywczych i przetwórczych",
+   "med": 6689.43,
+   "p25": 5452.73,
+   "p75": 8573.85,
+   "avg": 7523.49
+  },
+  "811": {
+   "n": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+   "med": 12536.71,
+   "p25": 9036.59,
+   "p75": 15125.66,
+   "avg": 12403.52
+  },
+  "812": {
+   "n": "Operatorzy maszyn i urządzeń do produkcji, przetwórstwa i obróbki wykończeniowej metalu",
+   "med": 6809.09,
+   "p25": 5720.14,
+   "p75": 8318.93,
+   "avg": 7228.81
+  },
+  "813": {
+   "n": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+   "med": 7429.86,
+   "p25": 6073.5,
+   "p75": 9130.47,
+   "avg": 7968.87
+  },
+  "814": {
+   "n": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+   "med": 6373.2,
+   "p25": 5379.5,
+   "p75": 7645.51,
+   "avg": 6710.6
+  },
+  "815": {
+   "n": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+   "med": 4963.02,
+   "p25": 4332.28,
+   "p75": 5993.44,
+   "avg": 5369.48
+  },
+  "816": {
+   "n": "Operatorzy maszyn i urządzeń do produkcji wyrobów spożywczych i pokrewni",
+   "med": 6800,
+   "p25": 5608.51,
+   "p75": 8262.2,
+   "avg": 7129.59
+  },
+  "817": {
+   "n": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+   "med": 5826.76,
+   "p25": 4773.59,
+   "p75": 7082.66,
+   "avg": 6321.77
+  },
+  "818": {
+   "n": "Operatorzy innych maszyn i urządzeń przetwórczych",
+   "med": 6713.74,
+   "p25": 5714.97,
+   "p75": 8140.39,
+   "avg": 7119.6
+  },
+  "82": {
+   "n": "Monterzy",
+   "med": 6051.96,
+   "p25": 5190.7,
+   "p75": 7581.39,
+   "avg": 6662.49
+  },
+  "821": {
+   "n": "Monterzy",
+   "med": 6051.96,
+   "p25": 5190.7,
+   "p75": 7581.39,
+   "avg": 6662.49
+  },
+  "83": {
+   "n": "Kierowcy i operatorzy pojazdów",
+   "med": 7038.36,
+   "p25": 5150.0,
+   "p75": 9365.83,
+   "avg": 7637.96
+  },
+  "831": {
+   "n": "Maszyniści kolejowi, dyżurni ruchu i pokrewni",
+   "med": 8851.97,
+   "p25": 7376.77,
+   "p75": 10535.4,
+   "avg": 9217.95
+  },
+  "832": {
+   "n": "Kierowcy samochodów osobowych, dostawczych i motocykli",
+   "med": 5692.05,
+   "p25": 4475.5,
+   "p75": 7572.8,
+   "avg": 6483.07
+  },
+  "833": {
+   "n": "Kierowcy ciężarówek i autobusów",
+   "med": 7315.9,
+   "p25": 5079.12,
+   "p75": 9849.42,
+   "avg": 7862.66
+  },
+  "834": {
+   "n": "Operatorzy pojazdów wolnobieżnych i pokrewni",
+   "med": 6796.38,
+   "p25": 5436.55,
+   "p75": 8415.31,
+   "avg": 7262.04
+  },
+  "835": {
+   "n": "Marynarze i pokrewni",
+   "med": 10409,
+   "p25": 8176.88,
+   "p75": 15155.04,
+   "avg": 11975.86
+  },
+  "9": {
+   "n": "RAZEM",
+   "med": 5501.66,
+   "p25": 4606.46,
+   "p75": 6284.02,
+   "avg": 5725.36
+  },
+  "91": {
+   "n": "Pomoce domowe i sprzątaczki",
+   "med": 5315.35,
+   "p25": 4454.5,
+   "p75": 5914.62,
+   "avg": 5407.98
+  },
+  "911": {
+   "n": "Pomoce i sprzątaczki domowe, biurowe, hotelowe",
+   "med": 5338.45,
+   "p25": 4473.33,
+   "p75": 5909.27,
+   "avg": 5406.1
+  },
+  "912": {
+   "n": "Myjący pojazdy, szyby, praczki i inni sprzątacze",
+   "med": 5040.58,
+   "p25": 4310.0,
+   "p75": 5988.73,
+   "avg": 5429
+  },
+  "92": {
+   "n": "Robotnicy wykonujący prace proste w rolnictwie, leśnictwie i rybactwie",
+   "med": 5490,
+   "p25": 4493.98,
+   "p75": 7171.33,
+   "avg": 6079.01
+  },
+  "921": {
+   "n": "Robotnicy wykonujący prace proste w rolnictwie, leśnictwie i rybactwie",
+   "med": 5490,
+   "p25": 4493.98,
+   "p75": 7171.33,
+   "avg": 6079.01
+  },
+  "93": {
+   "n": "Robotnicy wykonujący prace proste w górnictwie, przemyśle, budownictwie i transporcie",
+   "med": 5750.7,
+   "p25": 4755.6,
+   "p75": 7090.38,
+   "avg": 6202.29
+  },
+  "931": {
+   "n": "Robotnicy wykonujący prace proste w górnictwie i budownictwie",
+   "med": 6325.56,
+   "p25": 4621.57,
+   "p75": 8274.57,
+   "avg": 6939.62
+  },
+  "932": {
+   "n": "Robotnicy wykonujący prace proste w przemyśle",
+   "med": 5600.96,
+   "p25": 4709.41,
+   "p75": 6798.19,
+   "avg": 5971.2
+  },
+  "933": {
+   "n": "Robotnicy wykonujący prace proste w transporcie i proste prace magazynowe",
+   "med": 6000,
+   "p25": 5100.7,
+   "p75": 7173.34,
+   "avg": 6320.26
+  },
+  "94": {
+   "n": "Pracownicy wykonujący prace proste związane z przygotowywaniem posiłków",
+   "med": 5160,
+   "p25": 4518.56,
+   "p75": 5790.21,
+   "avg": 5310.66
+  },
+  "941": {
+   "n": "Pracownicy wykonujący prace proste związane z przygotowywaniem posiłków",
+   "med": 5160,
+   "p25": 4518.56,
+   "p75": 5790.21,
+   "avg": 5310.66
+  },
+  "95": {
+   "n": "Sprzedawcy uliczni i pracownicy świadczący usługi na ulicach",
+   "med": 6343.18,
+   "p25": 5687.72,
+   "p75": 7057.49,
+   "avg": 6318.61
+  },
+  "951": {
+   "n": "Pracownicy świadczący usługi na ulicach",
+   "med": 6343.18,
+   "p25": 5687.72,
+   "p75": 7057.49,
+   "avg": 6318.61
+  },
+  "96": {
+   "n": "Ładowacze nieczystości i inni pracownicy wykonujący prace proste",
+   "med": 5663.9,
+   "p25": 4995.22,
+   "p75": 6312.58,
+   "avg": 5817.03
+  },
+  "961": {
+   "n": "Ładowacze nieczystości i pokrewni",
+   "med": 5516.96,
+   "p25": 4773.93,
+   "p75": 6389.0,
+   "avg": 5765.29
+  },
+  "962": {
+   "n": "Inni pracownicy wykonujący prace proste",
+   "med": 5693.33,
+   "p25": 5110.16,
+   "p75": 6294.5,
+   "avg": 5838.49
+  }
+ }
+}

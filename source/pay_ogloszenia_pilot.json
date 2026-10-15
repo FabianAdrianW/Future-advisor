@@ -1,0 +1,387 @@
+{
+ "uwaga": "Pilot: 11 zweryfikowanych ogloszen z 6 zawodow. Male proby, czesc wygaslych, brak dat publikacji. Nie jest to mediana zatrudnionych; to zakresy ofert. Nie wplywa jeszcze na aplikacje.",
+ "oferty": [
+  {
+   "zawod": "Magazynier",
+   "kod_gus": "933",
+   "miasto": "Poznań",
+   "typ": "umowa o pracę",
+   "od": 6146,
+   "do": 6500,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "archiwalna",
+   "url": "https://rocketjobs.pl/oferta-pracy/jaga-recruitment-sp-z-o-o--magazynier-magazynierka-z-udt---jedna-zmiana-8-16---wysoki-sklad-poznan-logistyka-inne"
+  },
+  {
+   "zawod": "Magazynier",
+   "kod_gus": "933",
+   "miasto": "Stargard",
+   "typ": "umowa o pracę",
+   "od": 6200,
+   "do": 6200,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "ważna do 31.10",
+   "url": "https://www.pracuj.pl/praca/magazynier-k-m-stargard,oferta,1005129335"
+  },
+  {
+   "zawod": "Kierowca C+E",
+   "kod_gus": "833",
+   "miasto": "Szczecin",
+   "typ": "umowa o pracę",
+   "od": 13000,
+   "do": 14000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "ważna do 11.11",
+   "url": "https://www.pracuj.pl/praca/kierowca-ciezarowki-c%2be-szczecin,oferta,1005153240"
+  },
+  {
+   "zawod": "Elektromonter",
+   "kod_gus": "741",
+   "miasto": "Piaseczno",
+   "typ": "umowa o pracę/zlecenie/B2B",
+   "od": 6000,
+   "do": 8000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/elektromonter-m-k-piaseczno,oferta,1005023157"
+  },
+  {
+   "zawod": "Elektromonter",
+   "kod_gus": "741",
+   "miasto": "Płock",
+   "typ": "umowa o pracę",
+   "od": 6000,
+   "do": 8000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/elektromonter-m-k-plock,oferta,1005000023"
+  },
+  {
+   "zawod": "Mechanik samochodowy",
+   "kod_gus": "723",
+   "miasto": "Słubice",
+   "typ": "umowa o pracę",
+   "od": 7000,
+   "do": 13000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/mechanik-samochodowy-k-m-slubice,oferta,1004986819"
+  },
+  {
+   "zawod": "Mechanik samochodowy",
+   "kod_gus": "723",
+   "miasto": "Kobierzyce",
+   "typ": "umowa o pracę",
+   "od": 7000,
+   "do": 10000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/mechanik-samochodowy-kobierzyce-pow-wroclawski,oferta,1004962152"
+  },
+  {
+   "zawod": "Kucharz",
+   "kod_gus": "512",
+   "miasto": "Krapkowice",
+   "typ": "umowa o pracę",
+   "od": 4806,
+   "do": 7000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/kucharz-kucharka-krapkowice-rybacka-19,oferta,1004820514"
+  },
+  {
+   "zawod": "Kucharz",
+   "kod_gus": "512",
+   "miasto": "Sułoszowa",
+   "typ": "umowa o pracę",
+   "od": 6000,
+   "do": 9000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/kucharz-kucharka-suloszowa-pow-krakowski,oferta,1004990683"
+  },
+  {
+   "zawod": "Sprzedawca",
+   "kod_gus": "522",
+   "miasto": "Janki (pow. pruszkowski)",
+   "typ": "umowa o pracę + premie",
+   "od": 7000,
+   "do": 10000,
+   "waluta": "brutto/mies",
+   "data": "brak",
+   "status": "wygasła",
+   "url": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-janki-pow-pruszkowski-wspolna-6,oferta,1005002321"
+  },
+  {
+   "zawod": "Grafik komputerowy",
+   "kod_gus": "brak",
+   "miasto": "Rumia",
+   "typ": "B2B",
+   "od": 6000,
+   "do": 7000,
+   "waluta": "NETTO/mies (nie przeliczono)",
+   "data": "brak",
+   "status": "archiwalna",
+   "url": "https://rocketjobs.pl/oferta-pracy/diety-od-brokula-grafik-komputerowy-rumia-design-grafika"
+  }
+ ],
+ "porownanie_z_gus": [
+  {
+   "zawod": "Magazynier",
+   "ogloszenia_n": 2,
+   "srednia_srodek_ogloszen": 6262,
+   "app_gus_brutto": 6521,
+   "roznica_pct": -4
+  },
+  {
+   "zawod": "Kierowca C+E",
+   "ogloszenia_n": 1,
+   "srednia_srodek_ogloszen": 13500,
+   "app_gus_brutto": 7951,
+   "roznica_pct": 70
+  },
+  {
+   "zawod": "Elektromonter",
+   "ogloszenia_n": 2,
+   "srednia_srodek_ogloszen": 7000,
+   "app_gus_brutto": 8621,
+   "roznica_pct": -19
+  },
+  {
+   "zawod": "Mechanik samochodowy",
+   "ogloszenia_n": 2,
+   "srednia_srodek_ogloszen": 9250,
+   "app_gus_brutto": 8365,
+   "roznica_pct": 11
+  },
+  {
+   "zawod": "Kucharz",
+   "ogloszenia_n": 2,
+   "srednia_srodek_ogloszen": 6702,
+   "app_gus_brutto": 5869,
+   "roznica_pct": 14
+  },
+  {
+   "zawod": "Sprzedawca",
+   "ogloszenia_n": 1,
+   "srednia_srodek_ogloszen": 8500,
+   "app_gus_brutto": 5513,
+   "roznica_pct": 54
+  }
+ ],
+ "partia2_wygasle": {
+  "uwaga": "Partia 2: 12 ofert z 6 zawodow. WSZYSTKIE wygasle (wygasly 1-4 mies. temu wg strony). Nie spelniaja kryterium aktualnosci. Tylko do orientacji.",
+  "oferty": [
+   {
+    "zawod": "Analityk danych",
+    "kod_gus": "251",
+    "miasto": "Wrocław",
+    "od": 10000,
+    "do": 22000,
+    "waluta": "brutto/mies",
+    "typ": "umowa o pracę",
+    "status": "wygasła ok. 2 mies. temu",
+    "url": "https://www.pracuj.pl/praca/analityk-analityczka-danych-wroclaw-plac-powstancow-slaskich-1-3,oferta,1004980073"
+   },
+   {
+    "zawod": "Pielęgniarka",
+    "kod_gus": "222",
+    "miasto": "Wrocław (USK im. Mikulicza-Radeckiego)",
+    "od": 7691,
+    "do": 10555,
+    "waluta": "brutto/mies",
+    "typ": "umowa o pracę",
+    "status": "wygasła ok. 4 mies. temu",
+    "url": "https://www.pracuj.pl/praca/pielegniarka-pielegniarz-wroclaw-borowska-213,oferta,1004818319"
+   },
+   {
+    "zawod": "Pielęgniarka",
+    "kod_gus": "222",
+    "miasto": "Wrocław (Kniaziewicza)",
+    "od": 9500,
+    "do": 10500,
+    "waluta": "brutto/mies",
+    "typ": "umowa o pracę",
+    "status": "wygasła ok. 3 mies. temu",
+    "url": "https://www.pracuj.pl/praca/pielegniarka-pielegniarz-wroclaw-kniaziewicza-29,oferta,1004931642"
+   },
+   {
+    "zawod": "Fryzjer",
+    "kod_gus": "514",
+    "miasto": "Warszawa (Grójecka)",
+    "od": 4806,
+    "do": 5767,
+    "waluta": "brutto/mies",
+    "typ": "umowa o pracę",
+    "status": "wygasła ok. 2 mies. temu",
+    "url": "https://www.pracuj.pl/praca/fryzjer-fryzjerka-warszawa-grojecka-14a,oferta,1004937130"
+   },
+   {
+    "zawod": "Fryzjer",
+    "kod_gus": "514",
+    "miasto": "Warszawa (Ordona)",
+    "od": 5300,
+    "do": 12000,
+    "waluta": "brutto/mies",
+    "typ": "umowa o pracę / zlecenie",
+    "status": "wygasła ok. 3 mies. temu",
+    "url": "https://www.pracuj.pl/praca/fryzjer-fryzjerka-warszawa-juliana-konstantego-ordona-12a,oferta,1004925515"
+   },
+   {
+    "zawod": "Kelner",
+    "kod_gus": "512",
+    "miasto": "Warszawa",
+    "od": 6000,
+    "do": 8000,
+    "waluta": "brutto/mies",
+    "typ": "zlecenie",
+    "status": "wygasła ok. 2 mies. temu",
+    "url": "https://www.pracuj.pl/praca/kelner-kelnerka-warszawa,oferta,1004935585"
+   },
+   {
+    "zawod": "Kelner",
+    "kod_gus": "512",
+    "miasto": "Gorzów Wielkopolski",
+    "od": 4900,
+    "do": 5000,
+    "waluta": "brutto/mies",
+    "typ": "umowa o pracę / zlecenie (część etatu)",
+    "status": "wygasła ok. 2 mies. temu",
+    "url": "https://www.pracuj.pl/praca/kelner-kelnerka-gorzow-wielkopolski,oferta,1004939118"
+   },
+   {
+    "zawod": "Hydraulik",
+    "kod_gus": "712",
+    "miasto": "Poznań",
+    "od": 8000,
+    "do": 12000,
+    "waluta": "brutto/mies",
+    "typ": "zlecenie",
+    "status": "wygasła >1 mies. temu",
+    "url": "https://www.pracuj.pl/praca/hydraulik-hydrauliczka-monter-monterka-poznan,oferta,1005001075"
+   },
+   {
+    "zawod": "Hydraulik",
+    "kod_gus": "712",
+    "miasto": "Piaseczno",
+    "od": 10000,
+    "do": 11000,
+    "waluta": "brutto/mies",
+    "typ": "umowa o pracę",
+    "status": "wygasła >1 mies. temu",
+    "url": "https://www.pracuj.pl/praca/hydraulik-hydrauliczka-monter-monterka-piaseczno,oferta,1005005347"
+   },
+   {
+    "zawod": "Spawacz",
+    "kod_gus": "722",
+    "miasto": "Stanowice (oławski)",
+    "od": 6500,
+    "do": 9000,
+    "waluta": "brutto/mies",
+    "typ": "umowa o pracę",
+    "status": "wygasła ok. 2 mies. temu",
+    "url": "https://www.pracuj.pl/praca/spawacz-spawaczka-stanowice-pow-olawski-lesna-2,oferta,1004988877"
+   },
+   {
+    "zawod": "Spawacz",
+    "kod_gus": "722",
+    "miasto": "Bolesławiec",
+    "od": 5400,
+    "do": 6300,
+    "waluta": "brutto/mies",
+    "typ": "umowa o pracę tymczasową",
+    "status": "wygasła ok. 2 mies. temu",
+    "url": "https://www.pracuj.pl/praca/spawacz-m-k-x-boleslawiec,oferta,1004983640"
+   },
+   {
+    "zawod": "Nauczyciel przedszkola",
+    "kod_gus": "234",
+    "miasto": "Kraków",
+    "od": 6800,
+    "do": 8000,
+    "waluta": "brutto/mies",
+    "typ": "umowa o pracę",
+    "status": "wygasła ok. 2 mies. temu",
+    "url": "https://www.pracuj.pl/praca/nauczyciel-nauczycielka-przedszkola-krakow-wielicka-57,oferta,1004974994"
+   },
+   {
+    "zawod": "Nauczyciel przedszkola",
+    "kod_gus": "234",
+    "miasto": "Pruszcz Gdański",
+    "od": 6900,
+    "do": 8300,
+    "waluta": "brutto/mies",
+    "typ": "umowa o pracę",
+    "status": "wygasła ok. 3 mies. temu",
+    "url": "https://www.pracuj.pl/praca/nauczyciel-przedszkolny-nauczycielka-przedszkolna-pruszcz-gdanski-podkomorzego-20,oferta,1004912135"
+   }
+  ],
+  "porownanie_z_gus": [
+   {
+    "zawod": "Analityk danych",
+    "kod_gus": "251",
+    "ogloszenia_n": 1,
+    "srednia_srodek": 16000,
+    "app_gus": 15107,
+    "roznica_pct": 6
+   },
+   {
+    "zawod": "Pielęgniarka",
+    "kod_gus": "222",
+    "ogloszenia_n": 2,
+    "srednia_srodek": 9562,
+    "app_gus": 11575,
+    "roznica_pct": -17
+   },
+   {
+    "zawod": "Fryzjer",
+    "kod_gus": "514",
+    "ogloszenia_n": 2,
+    "srednia_srodek": 6968,
+    "app_gus": 4673,
+    "roznica_pct": 49
+   },
+   {
+    "zawod": "Kelner",
+    "kod_gus": "512",
+    "ogloszenia_n": 2,
+    "srednia_srodek": 5975,
+    "app_gus": 5869,
+    "roznica_pct": 2
+   },
+   {
+    "zawod": "Hydraulik",
+    "kod_gus": "712",
+    "ogloszenia_n": 2,
+    "srednia_srodek": 10250,
+    "app_gus": 6977,
+    "roznica_pct": 47
+   },
+   {
+    "zawod": "Spawacz",
+    "kod_gus": "722",
+    "ogloszenia_n": 2,
+    "srednia_srodek": 6800,
+    "app_gus": 7355,
+    "roznica_pct": -8
+   },
+   {
+    "zawod": "Nauczyciel przedszkola",
+    "kod_gus": "234",
+    "ogloszenia_n": 2,
+    "srednia_srodek": 7500,
+    "app_gus": 9402,
+    "roznica_pct": -20
+   }
+  ]
+ }
+}

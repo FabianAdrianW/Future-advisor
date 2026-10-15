@@ -24,6 +24,10 @@ for l in open(B/'pay_codes.txt'):
     for x in l.strip().split('|'):
         c_,m_=x.split(); pay[c_]=[int(m_),names[int(m_)]]
 data['pay']=pay; data['minpay']=4806
+# kwartyle (P25/P75) z GUS 2024 przeliczone na 2025 tym samym przelicznikiem co mediany; tylko grupy z pay_codes
+_gq=json.loads((B/'pay_gus2024.json').read_text(encoding='utf-8'))
+_f=_gq['przelicznik_2025']
+data['payq']={c:[round(v['p25']*_f),round(v['p75']*_f)] for c,v in _gq['grupy'].items() if c in pay}
 # budżetówka: płace z ogólnopolskich siatek, bez korekty miasta (grupy + nazwy z grupy mieszanej 541)
 data['nocity']={'g':['222','322','231','232','233','234','5312','2635','335','3355','111'],'re':'^(Strażak|Policjant|Dzielnicowy|Komendant|Inspektor policji|Detektyw w policji|Strażnik (więzienny|miejski|ruchu drogowego|w zakładzie)|Funkcjonariusz|Operator sprzętu pożarniczego|Dowódca zastępu)'}
 # rynek pracy: najnowszy source/market-<rok>.json (co rok podmienia się ten jeden plik)
