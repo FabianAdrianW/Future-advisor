@@ -624,8 +624,9 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   function fixedPay(n) { return NOCITY.g.indexOf(String(n.gk)) >= 0 || (NOCITY_RE && NOCITY_RE.test(n.fn || n.n)); }
   function payCard(n) {
     var p = payOf(n), fixed = fixedPay(n);
-    if (!p) return '<section class="sec"><h2>Zarobki</h2><div class="card"><p>Dla tego zawodu nie ma wiarygodnych danych o zarobkach. Dochody bywają tu bardzo nierówne albo zależą od stopnia i stażu.</p></div></section>';
+    if (!p) return '<section class="sec"><h2>Zarobki</h2><div class="card"><p>Dla tego zawodu nie ma wiarygodnych danych o zarobkach. Dochody bywają tu bardzo nierówne albo zależą od stopnia i stażu.</p><p class="small"><b>Dlaczego brak liczby:</b> nie mamy danych, które dałyby rzetelny przedział.</p></div></section>';
     var ci = fixed ? -1 : S.city, city = ci >= 0 && CITIES[ci], r = payRange(p.med, ci, p.q), base = payRange(p.med, -1, p.q), LO = 4000, HI = 26000;
+    var why = fixed ? 'w tym zawodzie płace ustalają przepisy i siatki płac, a nie rynek pracy.' : p.digits < 3 ? 'nie mamy danych dla tego konkretnego zawodu, więc pokazujemy średnią dla szerszej grupy.' : 'mamy dane dla grupy zawodów, do której należy ten zawód, a nie dla tego jednego zawodu.';
     var pos = function (x) { return Math.max(0, Math.min(100, (x - LO) / (HI - LO) * 100)); };
     var h = '<section class="sec"><div class="sec-h"><h2>Zarobki</h2><p>Typowe widełki na etacie, brutto miesięcznie.</p></div><div class="card pay">' +
       '<span class="eyebrow">' + esc(city ? city[0] : 'Cała Polska') + '</span><b class="amt">' + money(r[0]) + ' – ' + money(r[1]) + ' <span>zł brutto</span></b>' +
@@ -633,8 +634,17 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
       '<div class="scale"><span>4 tys.</span><span>15 tys.</span><span>26 tys. zł</span></div>';
     if (city) { var diff = Math.round((r[1] / base[1] - 1) * 100); h += '<p class="cmp">W całej Polsce: ' + money(base[0]) + ' – ' + money(base[1]) + ' zł. ' + (diff > 0 ? esc(city[0]) + ' płaci zwykle <b>ok. ' + diff + '% więcej</b>.' : diff < 0 ? esc(city[0]) + ' płaci zwykle ok. ' + (-diff) + '% mniej.' : 'Tu płace są zbliżone do średniej.') + (city ? ' Kreska na pasku to środek dla całej Polski.' : '') + '</p>'; }
     if (fixed) h += '<p class="cmp" id="pay-fixed">Tu płace wyznaczają głównie ogólnopolskie siatki i przepisy, więc nie przeliczamy ich na miasto.</p>';
-    h += (fixed ? '' : cityPicker()) + '<p class="small">To szacunek, nie oferta. Podstawa: GUS, październik 2024, przeliczone na 2025 r.; dane dla grupy zawodów „' + esc(p.name) + '”' + (p.digits < 3 ? ' (szersza grupa, mniej dokładne)' : '') + (p.q ? ', środkowe 50% pracowników z tej grupy' : ', mediana bez rozrzutu') + (fixed || S.city < 0 ? '.' : ', przesunięte o poziom płac w mieście.') + ' Na początku pracy zwykle zarabia się bliżej dolnej granicy.</p></div></section>';
+    var AD = (DATA.ads || {})[n.fn || n.n];
+    if (AD) { var dAd = Math.round((AD.med / p.med - 1) * 100); h += '<p class="small"><b>Z ogłoszeń o pracy</b> (' + AD.n + ' ogłoszeń, ' + AD.od + '–' + AD.do + '): zwykle ' + money(AD.lo) + ' – ' + money(AD.hi) + ' zł brutto. Ogłoszenia to oferty, nie płace pracowników.' + (Math.abs(dAd) > 20 ? ' <b>Różnica jest duża, warto samemu sprawdzić w ogłoszeniach.</b>' : '') + '</p>'; }
+    h += '<p class="small"><b>Dlaczego ta liczba:</b> ' + why + '</p>' + (fixed ? '' : cityPicker()) + '<p class="small">To szacunek, nie oferta. Podstawa: GUS, październik 2024, przeliczone na 2025 r.; dane dla grupy zawodów „' + esc(p.name) + '”' + (p.digits < 3 ? ' (szersza grupa, mniej dokładne)' : '') + (p.q ? ', środkowe 50% pracowników z tej grupy' : ', mediana bez rozrzutu') + (fixed || S.city < 0 ? '.' : ', przesunięte o poziom płac w mieście.') + ' Na początku pracy zwykle zarabia się bliżej dolnej granicy.</p></div></section>';
     return h;
+  }
+  function nextCard(n) {
+    var A = (DATA.awanse || {})[n.fn || n.n];
+    if (!A) return '';
+    var tiles = A.do.map(function (t) { return BYNAME[t]; }).filter(Boolean);
+    if (!tiles.length) return '';
+    return '<section class="sec"><div class="sec-h"><h2>Dalej możesz</h2><p>Zawody, do których z tego zawodu często prowadzi droga.' + ' Ta lista to propozycja, nie sprawdzona ścieżka: ' + esc(A.zrodlo) + '.</p></div><div class="list">' + tiles.map(function (x) { return row(x, -1); }).join('') + '</div></section>';
   }
   function fitCard(n) {
     if (!hasProfile()) return '<section class="sec"><div class="card banner">' + img('bullseye', '', 64) + '<div class="txt"><b>Czy to zawód dla Ciebie?</b><span class="small">Zaznacz, co lubisz, a odpowiem przy każdym zawodzie.</span><button type="button" class="btn sm" data-act="edit">Zaznacz</button></div></div></section>';
@@ -681,7 +691,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     var desc = n.d || (n.fam ? 'Zawody z tej rodziny robią podobną pracę. Różnią się głównie branżą, maszyną albo produktem.' : '');
     h += '<section class="sec"><h2>Na czym polega</h2><p class="prose">' + esc(x && x.hook ? x.hook : desc) + '</p>' + (x && x.hook && desc ? '<p class="small">' + (n.own ? '' : 'Według klasyfikacji ESCO: ') + esc(desc) + '</p>' : '') + (n.own ? '<p class="small">Tego zawodu nie ma w naszej wersji klasyfikacji ESCO. Dodany na podstawie aktualnych zestawień nowych zawodów.</p>' : '') + '</section>';
     h += '<div id="details" style="display:flex;flex-direction:column;gap:26px">' + detailsBlock(n) + '</div>';
-    if (!n.c) h += marketCard(n) + payCard(n);
+    if (!n.c) h += marketCard(n) + payCard(n) + nextCard(n);
     if (n.s) h += '<section class="sec"><div class="sec-h"><h2>' + variants(n.s.length) + '</h2><p>Ta sama praca w różnych branżach lub specjalizacjach.</p></div><div class="specs">' + (n.s.length > 12 ? '<input class="field" id="specQ" type="search" placeholder="Filtruj odmiany" autocomplete="off" aria-label="Filtruj odmiany">' : '') +
       n.s.map(function (s, i) { return '<details' + (i === spec ? ' open class="hit"' : '') + ' data-h="' + esc(norm(s.n)) + '"><summary>' + esc(s.n.charAt(0).toUpperCase() + s.n.slice(1)) + '</summary><p>' + esc(s.d) + '</p></details>'; }).join('') + '</div></section>';
     if (n.a && n.a.length) h += '<p class="small" style="padding-inline:16px">Inne nazwy: ' + esc(n.a.join(', ')) + '</p>';
