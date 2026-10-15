@@ -241,6 +241,26 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
 .next .eyebrow { color: var(--d); }
 .next .btn { margin-top: 6px; }
 
+.fbar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.fbtn { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 16px 0 12px; border: 0; border-radius: 22px; background: var(--ink); color: var(--card); font-size: 15px; font-weight: 700; }
+.fbtn img { width: 22px; height: 22px; }
+.fbtn b { display: grid; place-items: center; min-width: 22px; height: 22px; border-radius: 11px; background: var(--card); color: var(--ink); font-size: 13px; }
+.fchip { min-height: 44px; padding: 0 12px 0 14px; border: 0; border-radius: 22px; background: var(--card); box-shadow: inset 0 0 0 1.5px var(--ink); color: var(--ink); font-size: 14px; font-weight: 600; }
+.fchip span { margin-left: 4px; color: var(--muted); }
+.fsheet { position: absolute; inset: 0; z-index: 25; background: rgba(20, 23, 38, .5); display: flex; align-items: flex-end; }
+.fpanel { width: 100%; max-height: 90%; display: flex; flex-direction: column; background: var(--bg); border-radius: 28px 28px 0 0; box-shadow: 0 -10px 40px rgba(20, 23, 38, .25); animation: fup 260ms cubic-bezier(.23, 1, .32, 1); outline: 0; }
+@keyframes fup { from { transform: translateY(24px); opacity: .6; } to { transform: none; opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .fpanel { animation: none; } }
+.fhead { display: flex; align-items: center; justify-content: space-between; padding: 18px 16px 6px; }
+.fhead h2 { font-size: 20px; }
+.fhead .link:disabled { opacity: .4; }
+.fscroll { overflow-y: auto; padding: 8px 16px 16px; display: flex; flex-direction: column; gap: 22px; }
+.fgrp { display: flex; flex-direction: column; gap: 8px; }
+.fgrp h3 { font-size: 16px; }
+.fgrp .small { font-size: 13px; line-height: 18px; color: var(--muted); }
+.fbar2 { padding: 12px 16px calc(14px + env(safe-area-inset-bottom)); background: var(--card); border-top: 1px solid var(--line); }
+.fbar2 .btn { width: 100%; }
+
 .tabs { flex-shrink: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); background: var(--card); border-top: 1px solid var(--line); padding: 6px 8px 8px; }
 .tab { border: 0; background: none; min-height: 52px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; font-size: 12px; font-weight: 700; color: var(--faint); border-radius: 16px; }
 .tab[aria-current="page"] { color: var(--ink); background: var(--bg); }
@@ -268,6 +288,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     <button type="button" class="tab" data-tab="plan"><svg class="ico" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 21V4"></path><path d="M5 5h12l-2.5 3.5L17 12H5"></path></svg>Plan</button>
     <button type="button" class="tab" data-tab="me"><svg class="ico" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4"></circle><path d="M4 21c0-4.4 3.6-8 8-8s8 3.6 8 8"></path></svg>Postać</button>
   </nav>
+  <section class="fsheet" id="fsheet" hidden></section>
   <section class="onb" id="onb" hidden aria-labelledby="onbTitle">
     <div class="onb-scroll">
       <div class="onb-head"><h1 id="onbTitle">Co lubisz robić?</h1><p>Wybierz co najmniej 3 rzeczy. Ustawię pod nie kierunki i przy każdym zawodzie powiem, czy do Ciebie pasuje.</p></div>
@@ -346,13 +367,13 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   var snippet = function (d) { if (!d) return ''; var m = d.match(/^.{20,}?[.!?](\s|$)/); return (m ? m[0] : d).trim(); };
 
   // ---- stan i pamięć przeglądarki ----
-  var S = { interests: [], favs: [], onboarded: false, plans: [], stage: -1, planSel: 0, city: -1 };
+  var S = { interests: [], favs: [], onboarded: false, plans: [], stage: -1, planSel: 0, city: -1, f: {} };
   try {
     var saved = JSON.parse(localStorage.getItem('fa.v2'));
     if (saved && Array.isArray(saved.interests)) {
       S.interests = saved.interests; S.favs = saved.favs || []; S.onboarded = !!saved.onboarded;
       S.plans = Array.isArray(saved.plans) ? saved.plans.filter(function (p) { return p && typeof p.job === 'string' && Array.isArray(p.done); }) : [];
-      S.stage = typeof saved.stage === 'number' ? saved.stage : -1; S.city = typeof saved.city === 'number' ? saved.city : -1; S.planSel = saved.planSel || 0;
+      S.stage = typeof saved.stage === 'number' ? saved.stage : -1; S.city = typeof saved.city === 'number' ? saved.city : -1; S.planSel = saved.planSel || 0; if (saved.f && typeof saved.f === 'object') S.f = saved.f;
     }
   } catch (e) {}
   var save = function () { try { localStorage.setItem('fa.v2', JSON.stringify(S)); } catch (e) {} };
@@ -488,11 +509,11 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   // ---- klocki ----
   function areaCard(a) {
     return '<button type="button" class="areacard" data-ref="' + ref(a) + '"><span class="tile" style="' + tint(a.w) + '">' + img(a.i, '', 68) + (a.i2 ? img(a.i2, 'i2', 34) : '') + '</span>' +
-      '<span class="txt"><span class="name">' + esc(a.n) + '</span><span class="meta">' + dots(a.w) + jobs(a.k) + '</span>' + fitBadge(a.w) + '</span></button>';
+      '<span class="txt"><span class="name">' + esc(a.n) + '</span><span class="meta">' + dots(a.w) + jobs(fcount() ? jcnt(a) : a.k) + '</span>' + fitBadge(a.w) + '</span></button>';
   }
   function row(n, spec, subOverride) {
     var isBranch = !!n.c, name = spec >= 0 ? n.s[spec].n : n.n;
-    var sub = subOverride || (isBranch ? jobs(n.k) : (n.s ? variants(n.s.length) + (n.d ? ' · ' : '') : '') + snippet(n.x ? n.x.hook : n.d));
+    var sub = subOverride || (isBranch ? jobs(fcount() ? jcnt(n) : n.k) : (n.s ? variants(n.s.length) + (n.d ? ' · ' : '') : '') + snippet(n.x ? n.x.hook : n.d));
     var tags = fitBadge(n.w);
     return '<button type="button" class="rowi" data-ref="' + ref(n, spec) + '"><span class="tile" style="' + tint(n.w) + '">' + img(n.i, '', 40) + '</span>' +
       '<span class="txt"><span class="name">' + esc(name.charAt(0).toUpperCase() + name.slice(1)) + (n.g ? ' <span style="font-weight:500;color:var(--muted)">(ogólnie)</span>' : '') + '</span>' +
@@ -510,6 +531,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   // ---- ekrany ----
   function viewHome() {
     var h = '<header class="hello"><div><p class="eyebrow">Kompas karier</p><h1>Co chcesz dziś odkryć?</h1></div><button type="button" class="avatar" data-tab="me" aria-label="Twoja postać">' + img('student', '', 36) + '</button></header>';
+    h += '<section class="sec"><button type="button" class="rowi" data-act="f-open"><span class="tile" style="--a:var(--L-t);--b:var(--S-t)">' + img('control-knobs', '', 40) + '</span><span class="txt"><span class="name">Filtruj zawody</span><span class="sub">' + (fcount() ? fcount() + ' ' + pl(fcount(), 'filtr aktywny', 'filtry aktywne', 'filtrów aktywnych') : 'Bez studiów, zdalnie, zarobki, droga do zawodu') + '</span></span>' + CHEV + '</button></section>';
     var p0 = S.plans[Math.min(S.planSel || 0, S.plans.length - 1)], n0 = p0 && BYNAME[p0.job];
     if (n0) {
       var nx0 = planSteps(p0, n0).steps.filter(function (o) { return !o.done; })[0];
@@ -534,13 +556,13 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   function viewRoot(i) {
     var r = ROOTS[i], rn = rootNodes[i];
     return BACK + '</div><div class="hero" style="--a:' + v(i, '-t') + ';--b:' + v(i, '-t') + '">' + img(r.i, 'hero-img', 108) + '<p class="eyebrow">Korzeń</p><h1>' + r.n + '</h1><p class="lead">' + r.tag + '</p><p class="hmeta">' + rn.c.length + ' ' + pl(rn.c.length, 'kierunek', 'kierunki', 'kierunków') + '</p></div>' +
-      '<section class="sec"><div class="sec-h"><h2>Kierunki</h2><p>Od najmocniej związanych z tym korzeniem. Dwa kolory to splot dwóch korzeni.</p></div><div class="grid2">' + rn.c.map(areaCard).join('') + '</div></section>';
+      '<section class="sec"><div class="sec-h"><h2>Kierunki</h2><p>Od najmocniej związanych z tym korzeniem. Dwa kolory to splot dwóch korzeni.</p></div>' + filterBar() + (rn.c.filter(function (a) { return !fcount() || jcnt(a) > 0; }).length ? '' : noMatch()) + '<div class="grid2">' + rn.c.filter(function (a) { return !fcount() || jcnt(a) > 0; }).map(areaCard).join('') + '</div></section>';
   }
   function viewNode(n) {
-    var all = sorted(n.c), limit = Math.min(limits.get(n) || PAGE, all.length), path = pathOf(n);
+    var all = sorted(n.c).filter(function (c) { return !fcount() || jcnt(c) > 0; }), limit = Math.min(limits.get(n) || PAGE, all.length), path = pathOf(n);
     var leafOnly = all.every(function (c) { return !c.c; });
-    var h = BACK + '</div><div class="hero" style="' + tint(n.w) + '">' + img(n.i, 'hero-img', 108) + '<p class="eyebrow">' + (path.length ? esc(path.map(function (x) { return x.n; }).join(' › ')) : 'Kierunek') + '</p><h1' + (n.n.length > 30 ? ' class="long"' : '') + '>' + esc(n.n) + '</h1><p class="hmeta">' + jobs(n.k) + '</p>' + rootChips(n.w, false) + '</div>';
-    h += '<section class="sec"><div class="sec-h"><h2>' + (leafOnly ? 'Zawody' : 'Co tu rośnie') + '</h2>' + (hasProfile() ? '<p>Najbliższe Twoim zainteresowaniom są na górze.</p>' : '') + '</div><div class="list">' + all.slice(0, limit).map(function (c) { return row(c, -1); }).join('') +
+    var h = BACK + '</div><div class="hero" style="' + tint(n.w) + '">' + img(n.i, 'hero-img', 108) + '<p class="eyebrow">' + (path.length ? esc(path.map(function (x) { return x.n; }).join(' › ')) : 'Kierunek') + '</p><h1' + (n.n.length > 30 ? ' class="long"' : '') + '>' + esc(n.n) + '</h1><p class="hmeta">' + jobs(fcount() ? jcnt(n) : n.k) + '</p>' + rootChips(n.w, false) + '</div>';
+    h += '<section class="sec"><div class="sec-h"><h2>' + (leafOnly ? 'Zawody' : 'Co tu rośnie') + '</h2>' + (hasProfile() ? '<p>Najbliższe Twoim zainteresowaniom są na górze.</p>' : '') + '</div>' + filterBar() + (all.length ? '' : noMatch()) + '<div class="list">' + all.slice(0, limit).map(function (c) { return row(c, -1); }).join('') +
       (limit < all.length ? '<button type="button" class="more" data-act="more">Pokaż kolejne ' + Math.min(PAGE, all.length - limit) + ' <span>· zostało ' + (all.length - limit) + '</span></button>' : '') + '</div></section>';
     return h;
   }
@@ -647,8 +669,105 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     return h;
   }
   var lastQ = '';
+
+  // ---- filtry zawodów ----
+  var RMAP = DATA.rm || {};
+  var FOPT = {
+    edu: [['nostud', 'Bez studiów'], ['kurs', 'Po kursie'], ['nomat', 'Bez matury'], ['mat', 'Po maturze'], ['stud', 'Po studiach']],
+    rm: [['2', 'Całkowicie zdalnie'], ['1', 'Hybrydowo'], ['0', 'Na miejscu']],
+    pay: [[6000, 'od 6 000 zł'], [8000, 'od 8 000 zł'], [10000, 'od 10 000 zł']],
+    mk: [['up', 'Rośnie'], ['flat', 'Stabilnie'], ['down', 'Trudniej']],
+    tm: [[1, 'do roku'], [3, 'do 3 lat'], [5, 'do 5 lat']]
+  };
+  var FMULTI = { edu: 1, rm: 1, mk: 1 };
+  var LEAVES = [], fv = 0, LA = {};
+  (function collect(nodes) { nodes.forEach(function (n) { if (n.c) collect(n.c); else if (!n.fam) LEAVES.push(n); }); })(AREAS);
+  function fcount() { var f = S.f || {}; return (f.edu || []).length + (f.rm || []).length + (f.mk || []).length + (f.pay ? 1 : 0) + (f.tm ? 1 : 0) + (f.fit && hasProfile() ? 1 : 0); }
+  function fattrs(n) {
+    var key = n.fn || n.n, a = LA[key]; if (a) return a;
+    a = { fl: {}, yrs: null, rm: 0, mk: null };
+    (routesOf(n) || []).forEach(function (r) {
+      var hasS = false, hasK = false, sz = '', y = 0;
+      r.s.forEach(function (st) { if (st[0] === 'studia') hasS = true; if (st[0] === 'kurs') hasK = true; if (st[0] === 'szkola') sz += ' ' + norm(st[1]); y += st[2] || 0; });
+      if (a.yrs === null || y < a.yrs) a.yrs = y;
+      if (hasS) { a.fl.stud = 1; return; }
+      a.fl.nostud = 1;
+      if (hasK || !sz) a.fl.kurs = 1;
+      if (!sz || (/branzow|zawodow|technikum|szkola srednia/.test(sz) && !/z matura/.test(sz))) a.fl.nomat = 1;
+      if (/liceum|technikum|z matura|szkola srednia/.test(sz)) a.fl.mat = 1;
+    });
+    var k = String(n.gk || ''), len;
+    if (RMAP[k] !== undefined) a.rm = RMAP[k]; else for (len = Math.min(k.length, 4); len >= 1; len--) { if (RMAP[k.slice(0, len)] !== undefined) { a.rm = RMAP[k.slice(0, len)]; break; } }
+    if (MK) { var g = MK.groups[n.gk], j = MK.jobs[key]; a.mk = (j && j.label) || (g && g.label) || null; }
+    LA[key] = a; return a;
+  }
+  function jm(n) {
+    var f = S.f || {}, a = fattrs(n), ok, i;
+    if (f.edu && f.edu.length) { ok = false; for (i = 0; i < f.edu.length; i++) if (a.fl[f.edu[i]]) ok = true; if (!ok) return false; }
+    if (f.rm && f.rm.length && f.rm.indexOf(String(a.rm)) < 0) return false;
+    if (f.mk && f.mk.length && f.mk.indexOf(a.mk) < 0) return false;
+    if (f.tm && (a.yrs === null || a.yrs > f.tm)) return false;
+    if (f.pay) { var p = payOf(n); if (!p) return false; var r = payRange(p.med, fixedPay(n) ? -1 : S.city); if ((r[0] + r[1]) / 2 < f.pay) return false; }
+    if (f.fit && hasProfile() && level(n.w) < 1) return false;
+    return true;
+  }
+  function jcnt(n) {
+    if (!n.c) return jm(n) ? 1 : 0;
+    if (n._fc && n._fc[0] === fv) return n._fc[1];
+    var t = 0; n.c.forEach(function (c) { t += jcnt(c); }); n._fc = [fv, t]; return t;
+  }
+  function fall() { var t = 0; LEAVES.forEach(function (n) { if (jm(n)) t++; }); return t; }
+  function flabel(g, val) { var o = FOPT[g].filter(function (x) { return String(x[0]) === String(val); })[0]; return o ? o[1] : ''; }
+  function fchips() {
+    var f = S.f || {}, out = [];
+    ['edu', 'rm', 'mk'].forEach(function (g) { (f[g] || []).forEach(function (x) { out.push([g, x, (g === 'mk' ? 'Rynek: ' : '') + flabel(g, x)]); }); });
+    if (f.pay) out.push(['pay', f.pay, 'Zarobki ' + flabel('pay', f.pay)]);
+    if (f.tm) out.push(['tm', f.tm, 'Droga ' + flabel('tm', f.tm)]);
+    if (f.fit && hasProfile()) out.push(['fit', 1, 'Pasuje do mnie']);
+    return out;
+  }
+  function filterBar() {
+    var c = fchips();
+    return '<div class="fbar"><button type="button" class="fbtn" data-act="f-open">' + img('control-knobs', '', 22) + 'Filtry' + (c.length ? '<b>' + c.length + '</b>' : '') + '</button>' +
+      c.map(function (x) { return '<button type="button" class="fchip" data-act="f-rm" data-g="' + x[0] + '" data-v="' + esc(x[1]) + '" aria-label="Usuń filtr: ' + esc(x[2]) + '">' + esc(x[2]) + ' <span aria-hidden="true">✕</span></button>'; }).join('') + '</div>';
+  }
+  function fset(g, val) {
+    var f = S.f = S.f || {};
+    if (g === 'fit') f.fit = !f.fit;
+    else if (FMULTI[g]) { var a = f[g] = f[g] || [], i = a.indexOf(String(val)); if (i >= 0) a.splice(i, 1); else a.push(String(val)); }
+    else f[g] = (+f[g] === +val) ? 0 : +val;
+    fv++; save();
+  }
+  function noMatch() { return '<div class="empty">Żaden zawód nie spełnia wszystkich filtrów naraz. Zdejmij któryś z nich.<br><button type="button" class="btn sm ghost" style="margin-top:12px" data-act="f-clear">Wyczyść filtry</button></div>'; }
+  function sheetHtml() {
+    var f = S.f || {}, on = function (g, v) { var x = f[g]; return FMULTI[g] ? (x || []).indexOf(String(v)) >= 0 : +x === +v; };
+    var grp = function (g, title, note) {
+      return '<section class="fgrp"><h3>' + title + '</h3>' + (note ? '<p class="small">' + note + '</p>' : '') + '<div class="pills">' + FOPT[g].map(function (o) { return '<button type="button" class="pill" data-act="f-set" data-g="' + g + '" data-v="' + o[0] + '" aria-pressed="' + on(g, o[0]) + '">' + o[1] + '</button>'; }).join('') + '</div></section>';
+    };
+    var n = fall(), c = fcount();
+    return '<div class="fpanel" role="dialog" aria-modal="true" aria-labelledby="fTitle"><div class="fhead"><h2 id="fTitle">Filtry zawodów</h2><button type="button" class="link" data-act="f-clear"' + (c ? '' : ' disabled') + '>Wyczyść</button></div><div class="fscroll">' +
+      (hasProfile() ? '<section class="fgrp"><div class="pills"><button type="button" class="pill" data-act="f-set" data-g="fit" aria-pressed="' + !!f.fit + '">Tylko pasujące do mnie</button></div></section>' : '') +
+      grp('edu', 'Jak wejść do zawodu', 'Na podstawie dróg do zawodu opisanych w aplikacji. Zaznacz, co Cię interesuje, a pokażę zawody, do których taka droga prowadzi.') +
+      grp('tm', 'Ile trwa droga', 'Czas najkrótszej drogi do pierwszej pracy.') +
+      grp('rm', 'Praca zdalna', 'To szacunek dla całej grupy zawodów, nie dla każdego stanowiska.') +
+      grp('pay', 'Zarobki', 'Orientacyjnie brutto, dla miasta z zakładki Postać. Zawody bez danych o zarobkach są pomijane.') +
+      grp('mk', 'Rynek pracy w 2026', 'Czy pracodawcom brakuje ludzi (Rośnie), czy jest równowaga, czy trudniej o ofertę.') +
+      '</div><div class="fbar2"><button type="button" class="btn" data-act="f-close">' + (n ? 'Pokaż ' + jobs(n) : 'Brak zawodów') + '</button></div></div>';
+  }
+  function openSheet() { var el = $('fsheet'); el.innerHTML = sheetHtml(); el.hidden = false; }
+  function refreshSheet() { var el = $('fsheet'), sc = el.querySelector('.fscroll'), y = sc ? sc.scrollTop : 0; el.innerHTML = sheetHtml(); var nsc = el.querySelector('.fscroll'); if (nsc) nsc.scrollTop = y; }
+  function closeSheet() {
+    $('fsheet').hidden = true;
+    var top = stack[stack.length - 1];
+    if (top.t === 'home' || top.t === 'me' || top.t === 'plan') { if (fcount()) setTab('search'); else render(true); } else render(true);
+  }
   function searchResults(q) {
     q = norm(q.trim());
+    if (q.length < 2 && fcount()) {
+      var br = sorted(LEAVES.filter(jm));
+      if (!br.length) return noMatch();
+      return '<p class="small">' + jobs(br.length) + (br.length > 30 ? ', pokazuję 30' : '') + '</p><div class="list">' + br.slice(0, 30).map(function (nn) { return row(nn, -1, pathOf(nn).map(function (x) { return x.n; }).slice(0, 2).join(' › ')); }).join('') + '</div>';
+    }
     if (q.length < 2) return '<div class="chips">' + ['AI', 'e-sport', 'grafik', 'pielęgniarka', 'mechanik', 'youtuber', 'weterynarz', 'kucharz', 'dron', 'psycholog'].map(function (s) { return '<button type="button" class="sugg" data-sugg="' + s + '">' + s + '</button>'; }).join('') + '</div>';
     var words = q.split(/\s+/), hits = [];
     for (var i = 0; i < INDEX.length; i++) {
@@ -659,10 +778,12 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
         if (!found) { ok = false; break; }
       }
       if (!ok) continue;
+      if (fcount() && !jm(e.node)) continue;
       var nn = norm(e.n);
       hits.push({ e: e, s: (e.node.x && e.spec < 0 ? -1 : 0) + (nn.indexOf(q) === 0 ? 0 : (' ' + nn).indexOf(' ' + words[0]) >= 0 ? 1 : nn.indexOf(words[0]) >= 0 ? 2 : 3) });
     }
     hits.sort(function (a, b) { return a.s - b.s || a.e.n.length - b.e.n.length || collator.compare(a.e.n, b.e.n); });
+    if (!hits.length && fcount()) return noMatch();
     if (!hits.length) return '<div class="empty">Nic nie znalazłem. Spróbuj krótszego słowa, np. samego początku nazwy.</div>';
     return '<p class="small">' + hits.length + ' ' + pl(hits.length, 'wynik', 'wyniki', 'wyników') + (hits.length > 30 ? ', pokazuję 30' : '') + '</p><div class="list">' + hits.slice(0, 30).map(function (h) {
       var p = pathOf(h.e.node).map(function (x) { return x.n; }).slice(0, 2); if (h.e.spec >= 0) p = [h.e.node.n];
@@ -670,7 +791,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     }).join('') + '</div>';
   }
   function viewSearch() {
-    return '<header class="hello"><div><h1>Szukaj zawodu</h1><p class="small">' + INDEX.length + ' nazw zawodów i ich odmian.</p></div></header><section class="sec"><input class="field" id="q" type="search" placeholder="np. grafik, spawacz, lekarz" autocomplete="off" aria-label="Szukaj zawodu" value="' + esc(lastQ) + '"><div id="results" style="display:flex;flex-direction:column;gap:12px">' + searchResults(lastQ) + '</div></section>';
+    return '<header class="hello"><div><h1>Szukaj zawodu</h1><p class="small">' + INDEX.length + ' nazw zawodów i ich odmian.</p></div></header><section class="sec"><input class="field" id="q" type="search" placeholder="np. grafik, spawacz, lekarz" autocomplete="off" aria-label="Szukaj zawodu" value="' + esc(lastQ) + '">' + filterBar() + '<div id="results" style="display:flex;flex-direction:column;gap:12px">' + searchResults(lastQ) + '</div></section>';
   }
   function viewMe() {
     var p = profile(), h = '<header class="hello"><div><h1>Twoja postać</h1><p class="small">To z niej aplikacja wie, co Ci pokazać najpierw.</p></div></header>';
@@ -709,7 +830,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   $('app').addEventListener('click', function (e) {
     var sg = e.target.closest('[data-sugg]');
     if (sg) { lastQ = sg.dataset.sugg; $('q').value = lastQ; REG = []; $('results').innerHTML = searchResults(lastQ); return; }
-    var t = e.target.closest('[data-tab],[data-root],[data-ref],[data-act]'); if (!t || t.closest('#onb')) return;
+    var t = e.target.closest('[data-tab],[data-root],[data-ref],[data-act]'); if (!t || t.closest('#onb') || t.closest('#fsheet')) return;
     if (t.dataset.tab) return setTab(t.dataset.tab);
     if (t.dataset.root !== undefined) return push({ t: 'root', i: +t.dataset.root });
     if (t.dataset.ref !== undefined) { var r = REG[+t.dataset.ref]; return push(r.node.c ? { t: 'node', node: r.node } : { t: 'job', node: r.node, spec: r.spec }); }
@@ -717,6 +838,9 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     if (a === 'back') { if (stack.length > 1) { stack.pop(); render(); } }
     else if (a === 'more') { limits.set(top.node, (limits.get(top.node) || PAGE) + PAGE); render(true); }
     else if (a === 'edit') openOnb();
+    else if (a === 'f-open') openSheet();
+    else if (a === 'f-rm') { fset(t.dataset.g, t.dataset.v); render(true); }
+    else if (a === 'f-clear') { S.f = {}; fv++; save(); render(true); }
     else if (a === 'fav') { var key = top.node.fn || top.node.n, i = S.favs.indexOf(key); if (i >= 0) S.favs.splice(i, 1); else S.favs.unshift(key); save(); render(true); }
     else if (a === 'city-toggle') { cityOpen = !cityOpen; render(true); }
     else if (a === 'city') { S.city = +t.dataset.i; cityOpen = false; save(); render(true); }
@@ -734,6 +858,15 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
       save(); render(true);
     }
   });
+  $('fsheet').addEventListener('click', function (e) {
+    if (e.target.id === 'fsheet') return closeSheet();
+    var t = e.target.closest('[data-act]'); if (!t) return;
+    var a = t.dataset.act;
+    if (a === 'f-close') closeSheet();
+    else if (a === 'f-clear') { S.f = {}; fv++; save(); refreshSheet(); }
+    else if (a === 'f-set') { fset(t.dataset.g, t.dataset.v); refreshSheet(); }
+  });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !$('fsheet').hidden) closeSheet(); });
   $('view').addEventListener('input', function (e) {
     if (e.target.id === 'q') { lastQ = e.target.value; REG = []; $('results').innerHTML = searchResults(lastQ); }
     if (e.target.id === 'specQ') { var q = norm(e.target.value.trim()); $('view').querySelectorAll('.specs details').forEach(function (d) { d.hidden = q !== '' && d.dataset.h.indexOf(q) < 0; }); }

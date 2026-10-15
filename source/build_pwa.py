@@ -36,6 +36,7 @@ sys.path.insert(0,str(B/'skills'))
 import validate as _sv
 _sj={j['id']:j['name'] for j in json.load(open(B/'skills/jobs.json',encoding='utf-8'))}
 data['sk']={_sj[i]:{'m':d['M'],'w':d['W']} for i,d in _sv.parse().items() if not _sv.ok(d)}
+data['rm']=json.loads((B/'remote.json').read_text(encoding='utf-8'))['rm']
 data['cities']=[['Kraków',139],['Warszawa',129],['Gdańsk',124],['Poznań',121],['Katowice',114],['Wrocław',108],['Szczecin',102],['Rzeszów',95],['Toruń',95],['Bydgoszcz',94],['Opole',93],['Łódź',89],['Zielona Góra',88],['Lublin',87],['Olsztyn',83],['Kielce',81],['Białystok',81],['Gorzów Wielkopolski',80]]
 raw=json.dumps(data,ensure_ascii=False,separators=(',',':')).replace('</','<\\/').replace('<!--','<\\u0021--')
 # 2. szablon bez AI
