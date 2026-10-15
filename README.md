@@ -3,6 +3,7 @@
 Aplikacja mobilna (PWA) dla młodych ludzi: drzewo zawodów, opisy pracy, potrzebne umiejętności i plan dojścia do zawodu. Działa offline, bez serwera.
 
 - `docs/` – gotowa aplikacja (do hostowania, np. GitHub Pages: Settings → Pages → branch `main`, folder `/docs`).
+- `docs/landing/` – strona informacyjna aplikacji (pod adresem `.../landing/`), osobny plik HTML bez bundlera, przyciski prowadzą do aplikacji w `docs/`.
 - `source/` – dane i skrypty budujące (`build_tree.py` → `decorate.py` → `build_pwa.py`), szablon `page2.tmpl.html`, opisy zawodów w `gen/out/`.
 
 ## Źródła i licencje
