@@ -728,5 +728,47 @@
   ],
   "pewnosc": "średnia",
   "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Ekolog": {
+  "do": [
+   "Kierownik ds. ochrony środowiska"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Inspektor ochrony środowiska": {
+  "do": [
+   "Kierownik ds. ochrony środowiska"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Inżynier inżynierii środowiska": {
+  "do": [
+   "Kierownik ds. ochrony środowiska"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Projektant gier": {
+  "do": [
+   "Kierownik ds. rozwoju gier"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Bibliotekarz": {
+  "do": [
+   "Kierownik biblioteki"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
+ },
+ "Administrator ds. sportu": {
+  "do": [
+   "Kierownik ośrodka sportowego"
+  ],
+  "pewnosc": "średnia",
+  "zrodlo": "propozycja, do sprawdzenia przez praktyka"
  }
 }

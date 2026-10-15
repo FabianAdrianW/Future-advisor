@@ -1,0 +1,58 @@
+{
+  "Ekolog": {
+    "do": [
+      "Kierownik ds. ochrony środowiska"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Ekolog z doświadczeniem może objąć kierownicze stanowisko odpowiedzialne za programy ochrony środowiska w organizacji."
+  },
+  "Inspektor ochrony środowiska": {
+    "do": [
+      "Kierownik ds. ochrony środowiska"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inspektor ochrony środowiska po latach nadzoru może przejść na kierownika działu odpowiedzialnego za ochronę środowiska."
+  },
+  "Inżynier inżynierii środowiska": {
+    "do": [
+      "Kierownik ds. ochrony środowiska"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Inżynier inżynierii środowiska z doświadczeniem zwykle przejmuje zarządzanie zadaniami ochrony środowiska."
+  },
+  "Chemik": {
+    "do": [
+      "Kierownik zakładu w przemyśle chemicznym"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Chemik z doświadczeniem produkcyjnym może awansować na kierownika zakładu chemicznego."
+  },
+  "Fizyk": {
+    "do": [
+      "Kierownik ds. badań i rozwoju"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Fizyk po latach pracy badawczej może objąć kierowanie zespołem badań i rozwoju."
+  },
+  "Statystyk": {
+    "do": [
+      "Kierownik badania ankietowego"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Statystyk z doświadczeniem może kierować projektem badania ankietowego jako przełożony zespołu."
+  },
+  "Specjalista ds. jakości wody": {
+    "do": [
+      "Kierownik stacji uzdatniania wody"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Specjalista ds. jakości wody po latach pracy może przejąć kierowanie stacją uzdatniania wody."
+  },
+  "Biolog": {
+    "do": [
+      "Kierownik ds. badań"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Biolog z doświadczeniem badawczym może awansować na kierownika zespołu badawczego."
+  }
+}

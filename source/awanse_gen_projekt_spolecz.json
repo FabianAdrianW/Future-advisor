@@ -1,0 +1,44 @@
+{
+  "Projektant gier": {
+    "do": [
+      "Kierownik ds. rozwoju gier"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Projektant gier po kilku latach pracy może objąć kierowanie rozwojem gier w studiu."
+  },
+  "Twórca gier komputerowych": {
+    "do": [
+      "Kierownik ds. rozwoju gier"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony twórca gier może przejść na stanowisko kierownicze odpowiedzialne za rozwój gier w studiu."
+  },
+  "Projektant wzornictwa przemysłowego": {
+    "do": [
+      "Kierownik ds. rozwoju produktu"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Doświadczony projektant wzornictwa może awansować na kierownika odpowiedzialnego za rozwój produktu w firmie."
+  },
+  "Projektant wyrobów tekstylnych": {
+    "do": [
+      "Kierownik ds. rozwoju produktów w branży odzieżowej"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Projektant wyrobów tekstylnych może awansować na kierownika ds. rozwoju produktów w firmie odzieżowej."
+  },
+  "Bibliotekarz": {
+    "do": [
+      "Kierownik biblioteki"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Bibliotekarz z doświadczeniem może zostać kierownikiem biblioteki, czyli przełożonym zespołu placówki."
+  },
+  "Muzealnik": {
+    "do": [
+      "Kierownik placówki kulturalnej"
+    ],
+    "pewnosc": "średnia",
+    "uzasadnienie": "Muzealnik z doświadczeniem może awansować na kierownika placówki kulturalnej."
+  }
+}
