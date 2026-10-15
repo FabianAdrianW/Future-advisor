@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Future Advisor, drzewo zawodów</title>
-<meta name="description" content="Future Advisor opisuje zawody od środka: typowy dzień, konkretne umiejętności, rynek pracy, zarobki w Twoim mieście i plan drogi do zawodu. Bez konta, w przeglądarce.">
+<title>Kompas karier, drzewo zawodów</title>
+<meta name="description" content="Kompas karier opisuje zawody od środka: typowy dzień, konkretne umiejętności, rynek pracy, zarobki w Twoim mieście i plan drogi do zawodu. Bez konta, w przeglądarce.">
 <meta name="theme-color" content="#F4F5FA">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="icon" href="favicon.ico" sizes="any">
@@ -155,6 +155,13 @@ section{scroll-margin-top:72px}
 .note{display:grid;gap:8px;color:var(--muted);font-size:.95rem;line-height:1.5}
 .note b{color:var(--ink)}
 .note .link{min-height:32px;font-size:.95rem}
+/* końcowe wezwanie */
+.end{background:var(--ink);color:#fff;border-radius:44px;margin-inline:var(--gutter);padding:clamp(40px,7vw,88px) var(--gutter);display:grid;justify-items:center;text-align:center;gap:24px;position:relative;overflow:hidden}
+.end h2{max-width:18ch}
+.end p{color:#C9CDE0;max-width:48ch;margin-inline:auto}
+.end .mark{width:72px;height:72px;border-radius:20px}
+.end-wrap{max-width:calc(var(--maxw) + var(--gutter)*2);margin-inline:auto;padding-bottom:clamp(40px,6vw,72px)}
+
 footer{padding:8px 0 48px;color:var(--muted);font-size:.95rem}
 footer .wrap{display:grid;gap:14px}
 footer p{max-width:80ch}
@@ -224,7 +231,7 @@ footer a{font-weight:600}
 
 <header class="top" id="top">
   <div class="wrap">
-    <a class="brand" href="#" aria-label="Future Advisor, początek strony"><img src="favicon.svg" width="38" height="38" alt="">Future Advisor</a>
+    <a class="brand" href="#" aria-label="Kompas karier, początek strony"><img src="favicon.svg" width="38" height="38" alt="">Kompas karier</a>
     <nav class="nav" aria-label="Sekcje strony">
       <a href="#jak">Jak to działa</a>
       <a href="#karta">Karta zawodu</a>
@@ -240,7 +247,7 @@ footer a{font-weight:600}
   <div class="wrap">
     <div class="hero-copy">
       <h1 id="h-hero">Sprawdź, co możesz robić w życiu</h1>
-      <p class="lead">Future Advisor opisuje zawody od środka: co robi się w ciągu dnia, jakich umiejętności trzeba, ile się zarabia i jak do tego dojść. Zaznaczasz, co lubisz, a aplikacja ustawia kierunki pod Ciebie.</p>
+      <p class="lead">Kompas karier opisuje zawody od środka: co robi się w ciągu dnia, jakich umiejętności trzeba, ile się zarabia i jak do tego dojść. Zaznaczasz, co lubisz, a aplikacja ustawia kierunki pod Ciebie.</p>
       <div class="hero-actions">
         <a class="btn js-app" href="../">Otwórz aplikację</a>
         <a class="link" href="#jak">Zobacz, jak to działa</a>
@@ -263,7 +270,7 @@ footer a{font-weight:600}
     <div class="why-copy">
       <h2 id="h-why">Zrobiłem ją, bo sam nie wiedziałem, co można robić w życiu</h2>
       <p>Zwykle znamy te zawody, które wykonują rodzice, znajomi i ludzie z telewizji. Tymczasem zawodów jest tysiące, a część z nich powstała dopiero w ostatnich latach, jak inżynier AI.</p>
-      <p>Future Advisor zbiera ich ponad 2300 w jednym miejscu. Zawody wyrastają z sześciu korzeni, czyli z tego, co lubisz robić. Jeden zawód może wyrastać z kilku korzeni naraz, dlatego na kartach widać kolory.</p>
+      <p>Kompas karier zbiera ich ponad 2300 w jednym miejscu. Zawody wyrastają z sześciu korzeni, czyli z tego, co lubisz robić. Jeden zawód może wyrastać z kilku korzeni naraz, dlatego na kartach widać kolory.</p>
       <p class="sign">Fabian, autor aplikacji</p>
     </div>
     <div class="roots" role="list" aria-label="Sześć korzeni">
@@ -378,7 +385,7 @@ footer a{font-weight:600}
   <div class="wrap">
     <p>Dane o zawodach: ESCO v1.0.8, Komisja Europejska (zmodyfikowane i uzupełnione). Wykorzystanie zgodne z warunkami ESCO, z podaniem źródła.</p>
     <p>Ilustracje: Fluent Emoji, Microsoft, licencja MIT. Czcionki: Figtree i Bricolage Grotesque, licencja SIL OFL 1.1.</p>
-    <p>Future Advisor jest projektem Fabiana. <a href="https://github.com/FabianAdrianW/Future-advisor" rel="noopener">Kod na GitHubie</a></p>
+    <p>Kompas karier jest projektem Fabiana. <a href="https://github.com/FabianAdrianW/Future-advisor" rel="noopener">Kod na GitHubie</a></p>
   </div>
 </footer>
 

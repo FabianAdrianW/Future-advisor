@@ -47,7 +47,7 @@ sub("  var GEN = {};\n  var genGet = function (name) { if (GEN[name]) return GEN
     "  var GEN = JSON.parse(document.getElementById('data').textContent).gen || {};\n  var genGet = function (name) { return GEN[name] || null; };")
 a=t.index("  var sampleState = 'unknown', sampleP"); b=t.index("  function paintDetails()")
 t=t[:a]+"  var sampleState = 'none', sampleP = Promise.resolve(null);\n"+t[b:]
-sub('<title>Prototyp drzewa zawodów</title>','<title>Future Advisor</title>')
+sub('<title>Prototyp drzewa zawodów</title>','<title>Kompas karier</title>')
 art=t.replace('__DATA__',raw)
 # 3. PWA -> docs/ (obrazy, fonty i ikony zostają na miejscu)
 P=B.parent/'docs'
@@ -61,7 +61,7 @@ for fam,slug,ax,w in ff:
         css+=f"@font-face{{font-family:'{fam}';font-style:normal;font-display:swap;font-weight:{w};src:url(fonts/{n}) format('woff2');unicode-range:{ur}}}\n"
 link=re.search(r'<link rel="stylesheet" href="https://fonts.googleapis[^>]+>',t).group(0)
 page=t.replace(link,'<style>\n'+css+'</style>').replace('__DATA__',raw)
-json.dump({"name":"Future Advisor","short_name":"Future Advisor","description":"Drzewo zawodów: sprawdź, co można robić w życiu i zaplanuj drogę.","lang":"pl","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#F4F5FA","theme_color":"#F4F5FA",
+json.dump({"name":"Kompas karier","short_name":"Kompas karier","description":"Drzewo zawodów: sprawdź, co można robić w życiu i zaplanuj drogę.","lang":"pl","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#F4F5FA","theme_color":"#F4F5FA",
  "icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"},{"src":"icon-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]},open(P/'manifest.webmanifest','w'),ensure_ascii=False)
 head='<!doctype html><html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#F4F5FA"><meta name="description" content="Drzewo zawodów: sprawdź, co można robić w życiu i zaplanuj drogę."><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="icon" href="icon-192.png"><link rel="apple-touch-icon" href="apple-touch-icon.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><style>body{margin:0}[hidden]{display:none!important}.app{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom);box-sizing:border-box}html,body{overscroll-behavior:none}</style></head><body>'
 tail="<script>if('serviceWorker' in navigator)addEventListener('load',function(){var had=!!navigator.serviceWorker.controller,done=0;navigator.serviceWorker.addEventListener('controllerchange',function(){if(had&&!done){done=1;location.reload()}});navigator.serviceWorker.register('sw.js').then(function(r){r.update()})});</script></body></html>"

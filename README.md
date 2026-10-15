@@ -1,4 +1,4 @@
-# Future Advisor
+# Kompas karier
 
 Aplikacja mobilna (PWA) dla młodych ludzi: drzewo zawodów, opisy pracy, potrzebne umiejętności i plan dojścia do zawodu. Działa offline, bez serwera.
 
