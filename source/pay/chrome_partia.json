@@ -990,6 +990,30 @@
      "2026-10-06"
     ]
    ]
+  },
+  "Nauczyciel języka angielskiego": {
+   "kod_gus": "234",
+   "n_ogloszen_strona": "pracuj.pl (tylko pełny etat, brutto/mies.; mała próbka)",
+   "oferty": [
+    [
+     "Nauczyciel / Nauczycielka języka angielskiego",
+     9000,
+     11000,
+     "2026-10-07"
+    ],
+    [
+     "Nauczyciel / Nauczycielka języka angielskiego",
+     9000,
+     12000,
+     "2026-10-15"
+    ],
+    [
+     "Lektor / Lektorka języka angielskiego",
+     6300,
+     6300,
+     "2026-10-13"
+    ]
+   ]
   }
  }
 }
