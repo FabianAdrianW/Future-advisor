@@ -672,8 +672,8 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     var l = level(n.w), tr = topRoots(n.w, 3, 0.2), mine = likes(tr, 3), p = profile();
     var title = l === 2 ? 'Mocno do Ciebie pasuje' : l === 1 ? 'Pasuje do Ciebie' : 'Daleko od Twoich wyborów';
     var missing = tr.filter(function (i) { return p[i] === 0; }).map(function (i) { return ROOTS[i].n; });
-    var why = mine.length ? 'Bo lubisz: ' + mine.join(' · ') + '.' : 'Ten zawód wyrasta z korzeni, których nie ma w Twoich wyborach.';
-    if (mine.length && missing.length) why += ' Mniej Twoje: ' + missing.join(', ') + '.';
+    var why = l === 0 ? 'Ten zawód wyrasta z korzeni, których nie ma w Twoich wyborach.' : mine.length ? 'Bo lubisz: ' + mine.join(' · ') + '.' : 'Pasuje do korzeni, które zaznaczyłeś.';
+    if (l > 0 && mine.length && missing.length) why += ' Mniej Twoje: ' + missing.join(', ') + '.';
     return '<section class="sec"><div class="card fitcard"><div class="top"><b>' + title + '</b>' + (l > 0 ? '<span class="fit fit' + l + '">' + SPARK + Math.round(match(n.w) * 100) + '%</span>' : '') + '</div><p>' + esc(why) + '</p>' + rootChips(n.w, true) + '</div></section>';
   }
   function detailsHTML(d, n) {
@@ -692,7 +692,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     h += routeSection(n);
     if (x.try) h += '<section class="sec"><div class="card try">' + img('light-bulb', '', 56) + '<div><b>Spróbuj dziś</b><p>' + esc(x.try) + '</p></div></div></section>';
     if (x.try && n && !n.c) h += nextCard(n);
-    h += '<p class="small" style="padding-inline:16px">' + (d.kind === 'own' ? 'Opis przygotowany na potrzeby prototypu, do sprawdzenia z osobami z zawodu.' : (sk ? 'Cechy, plusy' : 'Umiejętności, plusy') + ', minusy i droga są typowe dla grupy zawodów „' + esc(d.g ? d.g.n : '') + '”.' + (d.kind === 'mixed' ? ' Zadania i typowy dzień napisało AI na podstawie opisu zawodu, więc mogą zawierać błędy.' : '')) + '</p>';
+    h += '<p class="small" style="padding-inline:16px">' + (d.kind === 'own' ? 'Opis przygotowany na potrzeby aplikacji, do sprawdzenia z osobami z zawodu.' : (sk ? 'Cechy, plusy' : 'Umiejętności, plusy') + ', minusy i droga są typowe dla grupy zawodów „' + esc(d.g ? d.g.n : '') + '”.' + (d.kind === 'mixed' ? ' Zadania i typowy dzień napisało AI na podstawie opisu zawodu, więc mogą zawierać błędy.' : '')) + '</p>';
     return h;
   }
   function aiSlot(n) {
