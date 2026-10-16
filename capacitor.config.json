@@ -1,0 +1,8 @@
+{
+  "appId": "pl.kompaskarier.app",
+  "appName": "Kompas karier",
+  "webDir": "docs",
+  "server": {
+    "androidScheme": "https"
+  }
+}
