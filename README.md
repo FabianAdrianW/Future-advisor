@@ -29,7 +29,7 @@ Widełki to szacunek: mediana płac GUS dla grupy zawodów („Struktura wynagro
 Przypisanie naszych grup do zawodów z Barometru (`MAP` w skrypcie) zrobiono ręcznie i nie było weryfikowane. Gdzie źródło milczy, karta mówi to wprost.
 
 ## Aplikacja Android (Capacitor)
-Opakowanie PWA z `docs/` w natywną aplikację. Plik `capacitor.config.json` ma `appId` `pl.kompaskarier.app` (placeholder): trzeba go ustalić przed pierwszą publikacją, bo późniejsza zmiana jest niemożliwa.
+Opakowanie PWA z `docs/` w natywną aplikację. Plik `capacitor.config.json` ma `appId` `pl.kompaskarier.kompas` (placeholder): trzeba go ustalić przed pierwszą publikacją, bo późniejsza zmiana jest niemożliwa.
 - Po każdej zmianie w `docs/`: `npm run sync`.
 - Otwórz w Android Studio: `npm run open:android`, potem Build → Build APK / Generate Signed Bundle.
 - iOS: `npx cap add ios` wymaga macOS z Xcode (jeszcze nie dodane).

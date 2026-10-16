@@ -1,4 +1,4 @@
-package pl.kompaskarier.app;
+package pl.kompaskarier.kompas;
 
 import com.getcapacitor.BridgeActivity;
 
