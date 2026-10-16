@@ -1,0 +1,17 @@
+{
+  "name": "kompas-karier",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kompas karier – aplikacja mobilna (Capacitor) opakowująca PWA z docs/",
+  "scripts": {
+    "sync": "cap sync android",
+    "open:android": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/core": "^8.5.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.3"
+  }
+}

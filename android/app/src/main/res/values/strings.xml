@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Kompas karier</string>
+    <string name="title_activity_main">Kompas karier</string>
+    <string name="package_name">pl.kompaskarier.app</string>
+    <string name="custom_url_scheme">pl.kompaskarier.app</string>
+</resources>
