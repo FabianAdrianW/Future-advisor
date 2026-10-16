@@ -8,3 +8,19 @@ android/app/src/main/assets/public/
 android/app/src/main/assets/capacitor.config.json
 android/app/src/main/assets/capacitor.plugins.json
 android/capacitor-cordova-android-plugins/
+
+# iOS (Capacitor) – generowane przy `cap sync`
+ios/App/App/public/
+ios/App/App/capacitor.config.json
+ios/App/App/config.xcconfig
+ios/App/capacitor-cordova-ios-plugins/
+ios/App/Pods/
+ios/App/build/
+ios/App/DerivedData/
+ios/App/App.xcworkspace/xcshareddata/
+ios/App/App.xcodeproj/xcuserdata/
+ios/App/App.xcodeproj/project.xcworkspace/xcuserdata/
+ios/debug.xcconfig
+ios/App/App/Package.resolved
+ios/App/CapApp-SPM/.build/
+ios/App/CapApp-SPM/.swiftpm/
