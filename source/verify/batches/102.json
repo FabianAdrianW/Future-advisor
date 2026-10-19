@@ -1,0 +1,1562 @@
+[
+ {
+  "name": "Operator maszyn włókienniczych",
+  "path": "Tekstylia, skóra i obuwie > Operatorzy maszyn tkackich i dziewiarskich",
+  "hook": "Nadzorujesz grupę maszyn włókienniczych i pilnujesz jakości oraz wydajności produkcji. Kontrolujesz je po ustawieniu, po uruchomieniu i w czasie pracy, żeby wyrób spełniał normy.",
+  "tasks": "Obserwujesz wydajność całej grupy maszyn | Sprawdzasz parametry produktu w czasie pracy | Zgłaszasz usterki do działu technicznego | Notujesz wyniki kontroli w dzienniku zmiany",
+  "day": "6:00 Odbierasz maszyny od poprzedniej zmiany | 7:30 Sprawdzasz, czy produkt zgadza się z normą | 10:00 Maszyna zwalnia, zgłaszasz usterkę do techników | 13:30 Wpisujesz do dziennika wyniki całej zmiany",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 26
+ },
+ {
+  "name": "Operator maszyn przędzalniczych",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do przygotowania włókien, przewijarek i skręcarek nitek > Operator maszyn przędzalniczych",
+  "hook": "Obsługujesz maszyny, które z surowych włókien robią przędzę, skręcają ją i nawijają. Przygotowujesz surowiec do przędzenia i dbasz o rutynową konserwację maszyn.",
+  "tasks": "Przygotowujesz surowe włókna do przędzenia | Zakładasz włókna w maszynie przędzalniczej | Zdejmujesz szpule z gotową przędzą | Czyścisz maszynę z kłaczków i pyłu",
+  "day": "6:00 Rozkładasz surowiec i przygotowujesz go do przędzenia | 8:00 Uruchamiasz maszynę, a włókno zamienia się w przędzę | 11:00 Nić się zrywa, więc szybko ją łączysz | 13:30 Zdejmujesz pełne szpule i czyścisz maszynę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 27
+ },
+ {
+  "name": "Operator skręcarki do przędzy",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do przygotowania włókien, przewijarek i skręcarek nitek > Operator maszyn przędzalniczych",
+  "hook": "Obsługujesz maszyny, które skręcają razem dwie lub więcej nitek w jedną mocniejszą przędzę. Przygotowujesz materiał do skręcania i regularnie konserwujesz maszyny.",
+  "tasks": "Zakładasz szpule z kilkoma nitkami | Ustawiasz skręcarkę do łączenia nitek | Sprawdzasz, czy skręt jest równy | Czyścisz i konserwujesz skręcarkę",
+  "day": "6:00 Zakładasz szpule z dwiema nitkami do skręcenia | 8:30 Uruchamiasz skręcarkę i oglądasz pierwsze metry | 11:00 Jedna nitka się kończy, wymieniasz szpulę | 13:30 Czyścisz skręcarkę i przygotowujesz ją na następną zmianę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 30
+ },
+ {
+  "name": "Operator nawijarki",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do przygotowania włókien, przewijarek i skręcarek nitek",
+  "hook": "Przewijasz sznurki, taśmy i nici z jednych szpul na inne, żeby mogły trafić do kolejnego etapu produkcji. Obsługujesz nawijarkę i przygotowujesz materiał do nawijania.",
+  "tasks": "Zakładasz pustą szpulę lub bobinę | Uruchamiasz nawijarkę i pilnujesz nici | Zdejmujesz pełne szpule i układasz je | Czyścisz i smarujesz nawijarkę",
+  "day": "6:00 Zakładasz puste bobiny na nawijarkę | 8:00 Pilnujesz, żeby nić nawijała się równo | 10:30 Nitka się plącze, zatrzymujesz maszynę | 13:00 Zdejmujesz pełne szpule i układasz na wózku",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 31
+ },
+ {
+  "name": "Operator odziarniarki",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do przygotowania włókien, przewijarek i skręcarek nitek",
+  "hook": "Obsługujesz maszynę, która oddziela włókna bawełny od nasion. Dozorujesz prasę, zdejmujesz gotowe bele i dbasz o sprawny przebieg całego procesu.",
+  "tasks": "Podajesz surową bawełnę do odziarniarki | Pilnujesz, czy włókno oddziela się od nasion | Dozorujesz prasę formującą bele | Zdejmujesz gotowe bele z odziarniarki",
+  "day": "6:00 Uruchamiasz odziarniarkę i podajesz surową bawełnę | 8:00 Sprawdzasz, czy we włóknie nie zostały nasiona | 11:00 Prasa formuje belę, ty pilnujesz jej pracy | 13:30 Zdejmujesz gotowe bele i czyścisz maszynę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 32
+ },
+ {
+  "name": "Technik ds. procesu przędzenia",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do przygotowania włókien, przewijarek i skręcarek nitek",
+  "hook": "Ustawiasz proces przędzenia tak, żeby z włókien powstawała przędza zgodna z zamówieniem. Dobierasz ustawienia maszyn do rodzaju surowca.",
+  "tasks": "Ustawiasz maszyny przędzalnicze pod zamówienie | Dobierasz ustawienia do rodzaju włókna | Oceniasz próbki przędzy po uruchomieniu | Poprawiasz proces, gdy przędza jest nierówna",
+  "day": "7:00 Czytasz zamówienie na przędzę o określonej grubości | 8:30 Ustawiasz maszyny przędzalnicze i uruchamiasz próbę | 11:00 Oglądasz próbkę, przędza jest nierówna | 13:30 Zmieniasz ustawienia i zapisujesz, co pomogło",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 33
+ },
+ {
+  "name": "Operator maszyn do produkcji odzieży ochronnej",
+  "path": "Tekstylia, skóra i obuwie > Operator maszyn do szycia",
+  "hook": "Szyjesz odzież ochronną, która chroni przed zagrożeniami, takimi jak zimno, deszcz, promieniowanie słoneczne czy substancje szkodliwe. Trzymasz się norm i oceniasz, czy gotowy wyrób je spełnia.",
+  "tasks": "Szyjesz kombinezony i kurtki ochronne | Dobierasz materiał do rodzaju zagrożenia | Przyszywasz odblaskowe pasy do odzieży | Sprawdzasz, czy wyrób spełnia normy",
+  "day": "6:00 Czytasz wymagania normy dla nowej partii | 7:30 Szyjesz kurtki ochronne na przemysłowej maszynie | 10:30 Przyszywasz odblaskowe pasy do odzieży ostrzegawczej | 13:00 Sprawdzasz szwy i porównujesz z normą",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 34
+ },
+ {
+  "name": "Operator maszyn do szycia",
+  "path": "Tekstylia, skóra i obuwie > Operator maszyn do szycia",
+  "hook": "Szyjesz odzież na przemysłowych maszynach w taśmowej produkcji. Łączysz części, wzmacniasz szwy w miejscach narażonych na zużycie i poprawiasz błędne ściegi.",
+  "tasks": "Zszywasz kolejne części odzieży na linii | Wzmacniasz szwy w miejscach narażonych na rozdarcie | Poprawiasz źle uszyte miejsca | Wymieniasz nić i igłę w maszynie",
+  "day": "6:00 Zakładasz nić i szyjesz pierwsze sztuki | 8:00 Zszywasz boki koszul w równym tempie | 11:00 Poprawiasz krzywy szew w partii spodni | 13:30 Przekazujesz stos gotowych części dalej na linii",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 35
+ },
+ {
+  "name": "Operator maszyn do szycia skóry",
+  "path": "Tekstylia, skóra i obuwie > Operator maszyn do szycia",
+  "hook": "Zszywasz wykrojone kawałki skóry w wyroby skórzane na maszynach o różnej budowie: płaskich, ramieniowych i kolumnowych. Wybierasz nici i przeciągasz je przez prowadnice i igły.",
+  "tasks": "Dobierasz nici do grubości skóry | Przeciągasz nić przez prowadnice i igłę | Szyjesz skórzane części na maszynie płaskiej lub ramieniowej | Układasz części skóry w kolejności szycia",
+  "day": "7:00 Wybierasz nić i przeciągasz ją przez prowadnice | 8:30 Szyjesz skórzane panele na maszynie płaskiej | 11:00 Przesiadasz się na maszynę ramieniową do trudnych miejsc | 14:00 Odkładasz uszyte części i sprawdzasz ściegi",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 36
+ },
+ {
+  "name": "Operator maszyny hafciarskiej",
+  "path": "Tekstylia, skóra i obuwie > Operator maszyn do szycia",
+  "hook": "Ozdabiasz odzież haftem, obsługując maszyny hafciarskie. Zakładasz materiał, pilnujesz haftowania i sprawdzasz, czy wzór wyszedł dokładnie.",
+  "tasks": "Naciągasz materiał w ramie maszyny | Zmieniasz nici w kolorach wzoru | Uruchamiasz haft i pilnujesz ściegu | Przycinasz końcówki nici po hafcie",
+  "day": "7:00 Zakładasz nici w kolorach nowego wzoru | 8:30 Naciągasz kolejne koszulki w ramie hafciarki | 11:00 Nić pęka w środku wzoru, wznawiasz haft | 13:30 Przycinasz końcówki nici i układasz gotowe sztuki",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 37
+ },
+ {
+  "name": "Pracownik szyjący pierwowzory odzieży",
+  "path": "Tekstylia, skóra i obuwie > Operator maszyn do szycia",
+  "hook": "Szyjesz pierwszy egzemplarz projektu odzieży, czyli próbkę, według której potem szyje się całą serię. Decydujesz, jak złożyć ubranie, żeby dało się je później szyć masowo.",
+  "tasks": "Szyjesz pierwszą próbkę według projektu | Ustalasz kolejność składania ubrania | Prasujesz gotową odzież | Kontrolujesz jakość wykonania próbki",
+  "day": "8:00 Dostajesz od projektanta rysunek i materiał | 9:00 Szyjesz próbkę i notujesz, co jest trudne | 12:00 Prasujesz gotową próbkę i oglądasz szwy | 14:30 Oddajesz próbkę z uwagami do produkcji",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 38
+ },
+ {
+  "name": "Pracownik wprowadzający poprawki krawieckie",
+  "path": "Tekstylia, skóra i obuwie > Operator maszyn do szycia",
+  "hook": "Poprawiasz gotową odzież, żeby spełniała wymagania firmy i klienta, na przykład skracasz lub dopasowujesz. Odpowiadasz za jakość każdej poprawki i pilnujesz zgodności z wytycznymi marki.",
+  "tasks": "Skracasz, zwężasz lub dopasowujesz ubrania | Oceniasz jakość każdej poprawki | Porównujesz wynik z wytycznymi marki | Pilnujesz stanu zapasu odzieży",
+  "day": "8:00 Czytasz zlecenia poprawek z zaznaczonymi miejscami | 9:30 Skracasz nogawki spodni według zaznaczeń | 12:00 Sprawdzasz, czy poprawione ubranie dobrze leży | 14:30 Liczysz, ile poprawionych sztuk wraca do sklepu",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 39
+ },
+ {
+  "name": "Operator maszyn i urządzeń do produkcji wyrobów skórzanych",
+  "path": "Tekstylia, skóra i obuwie > Operator maszyn i urządzeń do produkcji wyrobów skórzanych",
+  "hook": "Obsługujesz maszyny w garbarni, które obrabiają skóry według ustalonych programów. Pilnujesz, żeby dział spełniał normy produkcji, i regularnie konserwujesz maszyny.",
+  "tasks": "Uruchamiasz maszyny według programu garbarskiego | Przenosisz skóry między kolejnymi etapami obróbki | Sprawdzasz, czy skóry spełniają normy działu | Czyścisz i konserwujesz maszyny po zmianie",
+  "day": "6:00 Wybierasz program dla zamówionego rodzaju skóry | 8:00 Przekładasz skóry z palety do maszyny | 11:00 Odkładasz skórę z uszkodzeniem na bok | 13:30 Czyścisz maszynę i zapisujesz liczbę przerobionych skór",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 41
+ },
+ {
+  "name": "Operator maszyn wykończalniczych do skóry",
+  "path": "Tekstylia, skóra i obuwie > Operator maszyn i urządzeń do produkcji wyrobów skórzanych",
+  "hook": "Wykańczasz skórę na maszynach tak, żeby miała zamówiony kolor, wzór i powierzchnię, a czasem też takie cechy jak wodoodporność. Dozujesz mieszanki wykończeniowe i konserwujesz maszyny.",
+  "tasks": "Ustawiasz maszynę pod wymagania klienta | Dozujesz mieszanki wykończeniowe na skórę | Porównujesz kolor i wzór z próbką | Sprawdzasz wodoodporność wykończonej skóry",
+  "day": "6:00 Czytasz wymagania klienta dla zamówionej skóry | 7:30 Ustawiasz maszynę i dozowanie mieszanki | 10:00 Porównujesz odcień skóry z wzorcem klienta | 13:00 Czyścisz maszynę przed kolejnym zleceniem",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 42
+ },
+ {
+  "name": "Operator urządzeń do mieszania farb do skór",
+  "path": "Tekstylia, skóra i obuwie > Operator maszyn i urządzeń do produkcji wyrobów skórzanych",
+  "hook": "Przygotowujesz kolory i mieszanki wykończeniowe do skór według ściśle określonych receptur. Odmierzasz pigmenty i barwniki, mieszasz je i nanosisz na skórę.",
+  "tasks": "Czytasz recepturę i odmierzasz składniki | Mieszasz pigmenty i barwniki w urządzeniu | Nanosisz mieszankę na skórę | Porównujesz uzyskany kolor z wzorcem",
+  "day": "6:30 Czytasz recepturę nowego koloru skóry | 8:00 Odmierzasz pigmenty i uruchamiasz mieszalnik | 10:30 Nanosisz kolor na próbkę i porównujesz z wzorcem | 13:00 Zapisujesz recepturę i myjesz pojemniki",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 43
+ },
+ {
+  "name": "Barwiarz tkanin",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do bielenia, barwienia i czyszczenia wyrobów włókienniczych",
+  "hook": "Barwisz przędzę i tkaniny w maszynach barwiących. Według receptur przygotowujesz barwniki i kąpiele, robisz próbki koloru i obliczasz potrzebne ilości składników.",
+  "tasks": "Przygotowujesz barwniki i kąpiele według receptury | Barwisz próbkę i porównujesz kolor ze wzorem | Ustawiasz maszyny barwiące | Obliczasz składniki do dużej partii tkaniny",
+  "day": "6:00 Czytasz recepturę i przygotowujesz kąpiel barwiącą | 7:30 Barwisz małą próbkę i porównujesz kolor | 10:00 Ładujesz tkaninę do maszyny i uruchamiasz barwienie | 13:00 Porównujesz kolor po barwieniu ze wzorem",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 44
+ },
+ {
+  "name": "Operator maszyn wykończalniczych wyrobów włókienniczych",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do bielenia, barwienia i czyszczenia wyrobów włókienniczych",
+  "hook": "Obsługujesz maszyny, które nadają tkaninom końcowe cechy przed wysyłką, czyli poprawiają ich wygląd lub przydatność. Nadzorujesz ich pracę i dbasz o konserwację.",
+  "tasks": "Uruchamiasz maszynę wykończalniczą do tkanin | Pilnujesz przebiegu wykończenia tkaniny | Sprawdzasz wygląd i dotyk gotowej tkaniny | Czyścisz i konserwujesz maszyny",
+  "day": "6:00 Przejmujesz maszynę i sprawdzasz jej stan | 8:00 Zakładasz rolkę tkaniny i uruchamiasz wykończenie | 11:00 Dotykiem i wzrokiem oceniasz gotową tkaninę | 13:30 Czyścisz maszynę i zgłaszasz zużyte części",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 45
+ },
+ {
+  "name": "Technik ds. procesów wykończalniczych wyrobów włókienniczych",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do bielenia, barwienia i czyszczenia wyrobów włókienniczych",
+  "hook": "Ustawiasz końcowe etapy produkcji tkanin, które poprawiają ich wygląd i przydatność. Dobierasz ustawienia maszyn wykończalniczych i sprawdzasz, czy efekt zgadza się z zamówieniem.",
+  "tasks": "Ustawiasz parametry maszyn wykończalniczych | Dobierasz rodzaj wykończenia do tkaniny | Oceniasz wygląd i właściwości gotowego materiału | Poprawiasz ustawienia po wynikach kontroli",
+  "day": "7:00 Czytasz zamówienie na wykończenie tkaniny | 8:30 Ustawiasz maszynę i uruchamiasz próbny odcinek | 11:00 Oceniasz wygląd i dotyk próbnego odcinka | 13:30 Poprawiasz ustawienia po wynikach kontroli",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 47
+ },
+ {
+  "name": "Pracownik pralni",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do prania > Pracownik pralni",
+  "hook": "Obsługujesz maszyny, w których pierze się lub czyści na sucho ubrania, pościel, zasłony i dywany. Sortujesz rzeczy od klientów według rodzaju tkaniny i wybierasz technikę czyszczenia, żeby nie zniszczyć koloru.",
+  "tasks": "Sortujesz rzeczy według rodzaju tkaniny | Czytasz metki i wybierasz technikę czyszczenia | Ładujesz i uruchamiasz maszyny pralnicze | Wyjmujesz pranie i sprawdzasz plamy",
+  "day": "7:00 Rozpakowujesz worki od klientów i sortujesz rzeczy | 8:30 Ładujesz delikatne ubrania do czyszczenia na sucho | 11:00 Zasłony wymagają innego programu, więc go wybierasz | 14:00 Składasz czyste rzeczy i przygotowujesz zamówienia",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 48
+ },
+ {
+  "name": "Monter akumulatorów",
+  "path": "Monterzy maszyn i sprzętu > Monterzy sprzętu elektrycznego i elektronicznego > Monter sprzętu elektronicznego",
+  "hook": "Spawasz i montujesz części baterii, takie jak elementy elektroniczne, przewody i osłonki wokół ogniw. Pracujesz precyzyjnie, bo od jakości połączeń zależy, czy akumulator będzie działał.",
+  "tasks": "Spawasz połączenia między elementami baterii | Montujesz przewody i części elektroniczne | Zakładasz osłonki wokół ogniw | Sprawdzasz połączenia przed przekazaniem dalej",
+  "day": "6:00 Przygotowujesz stanowisko i sprawdzasz rysunek montażowy | 7:30 Montujesz przewody na ogniwach według schematu | 10:30 Spawasz łączenia i oglądasz każde z bliska | 13:30 Zakładasz osłonki i przekazujesz baterie do kontroli",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 51
+ }
+]

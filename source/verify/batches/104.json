@@ -1,0 +1,1562 @@
+[
+ {
+  "name": "Monter maszyn i urządzeń okrętowych",
+  "path": "Monterzy maszyn i sprzętu > Monterzy maszyn i urządzeń mechanicznych",
+  "hook": "Składasz ogromne silniki do statków, od wysokoprężnych po elektryczne i turbinowe. Pracujesz na rysunkach i specyfikacjach, a elementy są duże i ciężkie.",
+  "tasks": "Czytasz rysunki i specyfikacje silnika | Przenosisz ciężkie części suwnicą | Instalujesz wały, cylindry i osprzęt | Badasz silnik i odrzucasz wadliwe części",
+  "day": "6:00 Z brygadzistą ustalasz dzisiejszy etap montażu | 8:00 Suwnica podnosi ciężki blok na stanowisko | 11:00 Dopasowujesz wał i mierzysz jego ułożenie | 14:00 Silnik próbny pracuje, a ty słuchasz odgłosów",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 82
+ },
+ {
+  "name": "Monter maszyn i urządzeń przemysłowych",
+  "path": "Monterzy maszyn i sprzętu > Monterzy maszyn i urządzeń mechanicznych",
+  "hook": "Budujesz maszyny dla fabryk: roboty, maszyny do etykietowania i linie montażowe. Składasz je z części i sprawdzasz, czy wszystko ze sobą współpracuje.",
+  "tasks": "Składasz ramy i mechanizmy maszyn | Montujesz napędy, prowadnice i czujniki | Korzystasz z maszyn sterowanych komputerowo | Uruchamiasz maszynę i usuwasz usterki",
+  "day": "7:00 Czytasz dokumentację maszyny do etykietowania | 9:00 Mocujesz prowadnice i sprawdzasz poziom | 12:00 Uruchamiasz próbnie i obserwujesz ruch podajnika | 14:30 Poprawiasz ustawienie czujnika po zacięciu etykiet",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 83
+ },
+ {
+  "name": "Monter motocykli",
+  "path": "Monterzy maszyn i sprzętu > Monterzy maszyn i urządzeń mechanicznych",
+  "hook": "Składasz motocykle i skutery z ram, kół, silników i innych części. Montujesz je ręcznie i maszynowo, a potem kontrolujesz jakość montażu.",
+  "tasks": "Mocujesz silnik w ramie | Zakładasz koła, zawieszenie i hamulce | Korzystasz z zautomatyzowanych urządzeń montażowych | Kontrolujesz części i jakość montażu",
+  "day": "6:00 Na stanowisku czeka goła rama motocykla | 8:30 Osadzasz silnik w ramie i dokręcasz mocowania | 11:00 Zakładasz koło i sprawdzasz, czy nie bije | 13:30 Kontrolujesz gotowy skuter według listy",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 85
+ },
+ {
+  "name": "Monter taboru szynowego",
+  "path": "Monterzy maszyn i sprzętu > Monterzy maszyn i urządzeń mechanicznych",
+  "hook": "Budujesz wagony, tramwaje i pociągi, składając z gotowych części ich konstrukcję i wyposażenie. Pracujesz na dużych elementach z użyciem podnośników.",
+  "tasks": "Czytasz plany i interpretujesz rysunki | Montujesz podzespoły i konstrukcję nadwozia | Używasz podnośników do dużych elementów | Sprawdzasz działanie zespołów systemem kontrolnym",
+  "day": "6:00 Odprawa przy wagonie, omawiasz dzisiejszy zakres prac | 8:00 Podnośnik ustawia podwozie pod wagonem | 11:00 Montujesz drzwi pasażerskie i regulujesz ich ruch | 14:00 Testujesz zespół i notujesz odchylenia",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 86
+ },
+ {
+  "name": "Operator urządzeń do tłoczenia dysków optycznych",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów z tworzyw sztucznych > Operator wtryskarki",
+  "hook": "Pilnujesz maszyny, która topi granulat poliwęglanu i wtryskuje go do formy, tworząc płytę z cyfrowym zapisem. Obserwujesz proces i reagujesz, gdy coś odbiega od normy.",
+  "tasks": "Dozorujesz maszynę do tłoczenia | Uzupełniasz granulat w podajniku | Obserwujesz proces chłodzenia płyt | Wyławiasz wadliwe płyty z partii",
+  "day": "6:00 Przejmujesz maszynę i sprawdzasz zapas granulatu | 8:00 Płyty wyjeżdżają z formy co kilka sekund | 11:00 Na jednej widzisz bąbelki, zatrzymujesz maszynę | 13:30 Przekazujesz partię płyt do kontroli odczytu",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 87
+ },
+ {
+  "name": "Operator wtryskarki",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów z tworzyw sztucznych > Operator wtryskarki",
+  "hook": "Obsługujesz maszynę, która wtłacza stopione tworzywo do formy i odlewa z niego plastikowe produkty. Ustawiasz temperaturę i ciśnienie, zdejmujesz gotowe wyroby i obcinasz nadmiar.",
+  "tasks": "Ustawiasz temperaturę, ciśnienie i ilość tworzywa | Zdejmujesz gotowe wyroby z formy | Obcinasz nadmiar nożykiem | Monitorujesz pracę maszyny cykl po cyklu",
+  "day": "6:00 Ustawiasz parametry według karty dla nowej formy | 8:00 Zdejmujesz gorące wypraski i obcinasz zadziory | 11:30 Wypraski są niedolane, korygujesz ciśnienie | 14:00 Zmieniasz formę pod zaplanowane zamówienie",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 88
+ },
+ {
+  "name": "Laminator włóknem szklanym",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów z tworzyw sztucznych",
+  "hook": "Formujesz kadłuby i pokłady łodzi z mat szklanych nasyconych żywicą. Pracujesz w masce i rękawicach, a gotowy element musi być gładki i bez pęcherzy.",
+  "tasks": "Przygotowujesz formę woskiem i lakierem | Tniesz maty ze szkła według planu | Układasz maty i nasycasz je żywicą | Sprawdzasz gotowy element pod kątem wad",
+  "day": "6:30 Zakładasz maskę, rękawice i odzież roboczą | 7:30 Układasz maty w formie kadłuba i wygładzasz | 11:00 Wałkujesz matę, żeby wygonić pęcherze powietrza | 14:00 Oglądasz utwardzony element, szukając matowych plam",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 89
+ },
+ {
+  "name": "Operator maszyn do produkcji mebli z tworzyw sztucznych",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów z tworzyw sztucznych",
+  "hook": "Pilnujesz maszyn, które wytwarzają plastikowe krzesła i stoły. Oglądasz każdy element, usuwasz wadliwe i czasem składasz części w całość.",
+  "tasks": "Dozorujesz maszyny do obróbki tworzyw | Sprawdzasz każdy wyrób pod kątem wad | Usuwasz niewłaściwe części z linii | Montujesz nogi i oparcia z tworzywa",
+  "day": "6:00 Uruchamiasz maszynę i patrzysz na pierwsze krzesło | 8:30 Z formy wychodzi krzesło, oglądasz je z każdej strony | 11:00 Odkładasz oparcie z wypukłością do przemiału | 14:00 Zakładasz nogi i układasz krzesła na palecie",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 92
+ },
+ {
+  "name": "Operator maszyn do pultruzji",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów z tworzyw sztucznych",
+  "hook": "Obsługujesz maszynę, która przeciąga włókna szklane przez żywicę i ogrzaną matrycę, tworząc sztywne kompozytowe profile. Proces idzie bez przerwy, więc stale go obserwujesz.",
+  "tasks": "Zakładasz szpule z włóknem do maszyny | Kontrolujesz nasycenie włókien żywicą | Pilnujesz temperatury i prędkości przeciągania | Tniesz gotowy profil na zadane długości",
+  "day": "6:00 Zakładasz nowe szpule i przeciągasz włókna | 8:00 Profil wyjeżdża z matrycy, mierzysz jego wymiar | 11:00 Włókna się plączą, zatrzymujesz maszynę i poprawiasz | 13:30 Tniesz profil i odkładasz sztuki na stelaż",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 93
+ },
+ {
+  "name": "Operator nawijarki do włókien",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów z tworzyw sztucznych",
+  "hook": "Obsługujesz maszynę, która nasyca nici żywicą i nawija je na obracającą się formę. Tak powstają rury, zbiorniki i inne wydrążone przedmioty.",
+  "tasks": "Zakładasz szpule z nićmi szklanymi lub węglowymi | Kontrolujesz powlekanie nici żywicą | Pilnujesz kąta i naciągu nawijania | Zdejmujesz utwardzoną rurę z formy",
+  "day": "6:30 Mocujesz formę i zaczepiasz początek nici | 8:00 Forma się obraca, a nić układa się w siatkę | 11:30 Naciąg słabnie, poprawiasz ustawienie głowicy | 15:00 Zdejmujesz gotową rurę i mierzysz średnicę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 95
+ },
+ {
+  "name": "Operator pras do formowania tłocznego",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów z tworzyw sztucznych",
+  "hook": "Ustawiasz prasy, które w gorącej formie wytłaczają przedmioty z tworzywa. Zakładasz odpowiednią matrycę, odmierzasz porcję materiału i pilnujesz temperatury.",
+  "tasks": "Wybierasz i zakładasz matryce na prasę | Odważasz porcję materiału do formy | Regulujesz temperaturę matryc | Wyjmujesz wyprasowane wyroby i oceniasz je",
+  "day": "6:00 Zakładasz nową matrycę na prasę | 7:30 Odważasz porcję i wsypujesz ją do wgłębienia | 10:00 Prasa się zamyka, czekasz na koniec cyklu | 13:00 Wyjmujesz wypraskę i szukasz niedolanych miejsc",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 96
+ },
+ {
+  "name": "Operator prasy do form do pieczenia ciast",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów z tworzyw sztucznych",
+  "hook": "Obsługujesz prasy hydrauliczne, które zgniatają i wypiekają plastikowe wióry w arkusze tworzywa. Najważniejsze są dla ciebie właściwe ciśnienie i temperatura.",
+  "tasks": "Ustawiasz prasę hydrauliczną | Wsypujesz plastikowe wióry do formy | Regulujesz ciśnienie i temperaturę | Wyjmujesz arkusze i sprawdzasz ich wygląd",
+  "day": "6:00 Uruchamiasz prasę i czekasz na nagrzanie | 8:00 Wsypujesz wióry równą warstwą do formy | 10:30 Arkusz wychodzi pofalowany, zmieniasz ciśnienie | 13:30 Odkładasz arkusze na stos i zapisujesz parametry",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 97
+ },
+ {
+  "name": "Operator rozdmuchiwarki",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów z tworzyw sztucznych",
+  "hook": "Obsługujesz maszynę, która rozdmuchuje podgrzane tworzywo w formie, tak powstają butelki i inne puste wyroby. Obcinasz nadmiar i zbierasz odpady do ponownego użycia.",
+  "tasks": "Ustawiasz temperaturę i ciśnienie powietrza | Kontrolujesz ilość tworzywa w cyklu | Odcinasz nadmiar nożem | Mielisz odpady do ponownego użycia",
+  "day": "6:00 Uruchamiasz rozdmuchiwarkę i ustawiasz ciśnienie powietrza | 8:00 Zdejmujesz butelki i odcinasz nadmiar na dnie | 11:00 Ścianka butelki jest za cienka, zmieniasz ustawienia | 13:30 Wrzucasz odpady do młynka i odkładasz butelki",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 98
+ },
+ {
+  "name": "Operator urządzeń do natryskowego laminowania włóknem szklanym",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów z tworzyw sztucznych",
+  "hook": "Obsługujesz urządzenie, które rozpyla żywicę z włóknem szklanym na formę, tak powstają wanny czy kadłuby. Pilnujesz równej warstwy, a maszynę utrzymujesz w czystości.",
+  "tasks": "Obsługujesz urządzenie natryskowe | Kontrolujesz grubość nakładanej warstwy | Konserwujesz maszynę i czyścisz dysze | Sprawdzasz gotowy produkt pod kątem wad",
+  "day": "6:30 Zakładasz kombinezon i maskę, sprawdzasz maszynę | 8:00 Rozpylasz mieszankę na formę wanny równą warstwą | 11:00 Warstwa w rogu jest za cienka, nakładasz więcej | 14:00 Czyścisz dysze i odkładasz formę do utwardzenia",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 99
+ },
+ {
+  "name": "Operator krajarki do papieru",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów papierniczych",
+  "hook": "Obsługujesz maszynę z nożem, która tnie papier i inne materiały w arkuszach na zadany rozmiar. Mierzysz, ustawiasz stos i pilnujesz, żeby cięcia były równe.",
+  "tasks": "Ustawiasz wymiary cięcia na maszynie | Układasz stos papieru pod nóż | Tniesz i perforujesz arkusze | Mierzysz pocięte arkusze",
+  "day": "6:00 Odczytujesz z zamówienia wymiar ulotek | 7:30 Wyrównujesz stos papieru i uruchamiasz nóż | 10:30 Krawędź wyszła skośna, ustawiasz stos od nowa | 13:00 Paczkujesz pocięte arkusze i opisujesz je",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 102
+ },
+ {
+  "name": "Operator maszyn do produkcji toreb papierowych",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów papierniczych",
+  "hook": "Pilnujesz maszyny, która zagina i skleja papier w torby o różnych rozmiarach i wytrzymałości. Sprawdzasz, czy dno jest mocne i czy torba się nie rozkleja.",
+  "tasks": "Zakładasz rolki lub arkusze papieru | Ustawiasz maszynę na rozmiar toreb | Sprawdzasz dno i szwy | Układasz gotowe torby w paczkach",
+  "day": "6:30 Ustawiasz format toreb na dzisiejsze zamówienie | 8:00 Maszyna zgina rurę papieru i skleja dno | 11:00 Sprawdzasz, czy dno wytrzyma obciążenie | 13:30 Pakujesz torby po pięćdziesiąt sztuk",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 104
+ },
+ {
+  "name": "Operator maszyn do produkcji wkładów chłonnych",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów papierniczych",
+  "hook": "Pilnujesz maszyny, która rozdrabnia włókna celulozowe i prasuje je w chłonny materiał do pieluszek i środków higienicznych. Czuwasz nad jednolitością i czystością produktu.",
+  "tasks": "Zasilasz maszynę włóknami celulozowymi | Kontrolujesz grubość i gęstość materiału | Usuwasz zacięcia na linii | Pobierasz próbki do sprawdzenia chłonności",
+  "day": "6:00 Przejmujesz linię i sprawdzasz zapas celulozy | 8:00 Pobierasz próbkę wkładu i oceniasz jej grubość | 11:00 Linia staje przez zacięcie, usuwasz zator | 13:30 Notujesz parametry zmiany w dzienniku",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 105
+ },
+ {
+  "name": "Operator maszyn do składania produktów z tektury",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów papierniczych",
+  "hook": "Obsługujesz maszyny, które składają z tektury pudełka, tuby, szpule czy talerzyki. Pilnujesz, żeby produkty wychodziły z maszyny równe i bez uszkodzeń.",
+  "tasks": "Zakładasz arkusze tektury do podajnika | Ustawiasz maszynę do składania konkretnego produktu | Kontrolujesz kształt i wymiary | Układasz złożone produkty w kartonach",
+  "day": "6:00 Zmieniasz format maszyny na nowe pudełka | 8:00 Maszyna składa pudełka, ty oglądasz narożniki | 11:00 Pudełka się rozklejają, poprawiasz klejenie | 13:30 Układasz paczki po dwadzieścia pudełek",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 106
+ },
+ {
+  "name": "Operator przewijarki do papieru toaletowego",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów papierniczych",
+  "hook": "Pilnujesz maszyny, która perforuje bibułę i przewija ją w rolki papieru toaletowego. Sprawdzasz, czy rolki mają właściwą długość i czy nie ma zacięć.",
+  "tasks": "Zakładasz duże rolki bibuły | Ustawiasz długość i perforację | Obserwujesz przewijanie rolek | Wyjmujesz zgniecione i luźne rolki",
+  "day": "6:00 Zakładasz wielką rolkę bibuły i zaczepiasz początek | 8:00 Maszyna przewija rolki, a ty liczysz perforacje | 11:00 Bibuła się rwie, usuwasz zator | 13:30 Pakujesz rolki w folię po osiem sztuk",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 107
+ },
+ {
+  "name": "Operator tekturnicy",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów papierniczych",
+  "hook": "Pilnujesz maszyny, która zagina papier w fale i okleja go z obu stron, tworząc lekką, ale wytrzymałą tekturę do pakowania. Sprawdzasz grubość i wytrzymałość.",
+  "tasks": "Zakładasz rolki papieru do maszyny | Kontrolujesz fale i klejenie warstw | Mierzysz grubość gotowej tektury | Tniesz tekturę na arkusze",
+  "day": "6:00 Zmieniasz rolki papieru i łączysz ich początki | 8:00 Tektura wyjeżdża z maszyny, sprawdzasz wygląd | 11:30 Warstwy się rozwarstwiają, korygujesz klej | 14:00 Układasz arkusze na paletach",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 108
+ }
+]

@@ -1,0 +1,1562 @@
+[
+ {
+  "name": "Monter sprzętu elektronicznego",
+  "path": "Monterzy maszyn i sprzętu > Monterzy sprzętu elektrycznego i elektronicznego > Monter sprzętu elektronicznego",
+  "hook": "Składasz urządzenia elektroniczne z komponentów i przewodów według schematów i rysunków montażowych. Czasem pomagasz też przy kontroli jakości i konserwacji sprzętu.",
+  "tasks": "Czytasz schemat i rysunek montażowy | Montujesz komponenty w obudowie urządzenia | Zakładasz i mocujesz przewody według schematu | Pomagasz kontrolować jakość gotowych urządzeń",
+  "day": "7:00 Pobierasz zestaw części do montażu urządzeń | 8:30 Mocujesz płytkę i przewody w obudowie | 11:00 Porównujesz złożone urządzenie z rysunkiem montażowym | 14:00 Pomagasz przy kontroli jakości całej partii",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 54
+ },
+ {
+  "name": "Monter sprzętu fotograficznego",
+  "path": "Monterzy maszyn i sprzętu > Monterzy sprzętu elektrycznego i elektronicznego > Monter sprzętu elektronicznego",
+  "hook": "Budujesz aparaty fotograficzne, kamery filmowe i projektory z drobnych części optycznych, elektronicznych i mechanicznych. Łączysz soczewki, lustra, akumulator i procesor obrazu według specyfikacji.",
+  "tasks": "Montujesz soczewki i lustra w aparacie | Składasz drobne elementy mechaniczne narzędziami | Instalujesz akumulator i procesor obrazu | Sprawdzasz, czy aparat robi ostry obraz",
+  "day": "6:30 Rozkładasz soczewki, lustra i części według specyfikacji | 8:30 Mocujesz soczewkę w oprawie, nie dotykając szkła | 11:00 Wkładasz akumulator i procesor obrazu do korpusu | 13:30 Robisz próbne zdjęcie i oceniasz ostrość",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 55
+ },
+ {
+  "name": "Monter urządzeń elektromechanicznych",
+  "path": "Monterzy maszyn i sprzętu > Monterzy sprzętu elektrycznego i elektronicznego > Monter sprzętu elektronicznego",
+  "hook": "Czytasz plany i rysunki, a potem składasz urządzenia, w których łączą się części mechaniczne i elektryczne. Na końcu kontrolujesz i testujesz gotowy zespół, czy działa tak, jak trzeba.",
+  "tasks": "Odczytujesz plany, rysunki i instrukcje | Składasz części mechaniczne i elektryczne w całość | Przerabiasz urządzenia według nowych instrukcji | Testujesz gotowy zespół pod kątem norm",
+  "day": "7:00 Czytasz rysunki i instrukcję nowego zespołu | 8:30 Składasz części mechaniczne i elektryczne w całość | 11:00 Zmieniasz zespół według poprawionej instrukcji | 13:30 Testujesz gotowy zespół i wpisujesz wynik",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 56
+ },
+ {
+  "name": "Monter-elektronik - elektroniczne instrumenty muzyczne",
+  "path": "Monterzy maszyn i sprzętu > Monterzy sprzętu elektrycznego i elektronicznego > Monter sprzętu elektronicznego",
+  "hook": "Składasz elektroniczne instrumenty muzyczne według szczegółowych instrukcji i schematów. Instalujesz przetworniki, sprawdzasz brzmienie, a gotowy instrument czyścisz i oglądasz.",
+  "tasks": "Montujesz części instrumentu według schematu | Instalujesz przetworniki elektryczne | Sprawdzasz, jak instrument brzmi po montażu | Czyścisz i oglądasz gotowy instrument",
+  "day": "8:00 Czytasz schemat instrumentu i układasz części | 9:30 Montujesz przetworniki i prowadzisz przewody w obudowie | 12:00 Testujesz każdy dźwięk i szukasz zakłóceń | 14:30 Czyścisz gotowy instrument i oglądasz wykończenie",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 57
+ },
+ {
+  "name": "Monter aparatury rozdzielczej i kontrolnej energii elektrycznej",
+  "path": "Monterzy maszyn i sprzętu > Monterzy sprzętu elektrycznego i elektronicznego > Monter sprzętu elektrycznego",
+  "hook": "Z rysunków schematycznych składasz zespoły z przewodów, przełączników i urządzeń pomiarowych, które sterują sprzętem elektrycznym. Układasz kable i mocujesz elementy narzędziami ręcznymi.",
+  "tasks": "Odczytujesz rysunki schematyczne aparatury | Układasz przewody i kable w zespole | Montujesz przełączniki i urządzenia pomiarowe | Dokręcasz elementy narzędziami ręcznymi",
+  "day": "7:00 Rozkładasz rysunek schematyczny na stole montażowym | 8:30 Odmierzasz i układasz przewody w zespole | 11:00 Montujesz przełączniki i sprawdzasz ich położenie | 13:30 Dokręcasz połączenia i porównujesz z rysunkiem",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 58
+ },
+ {
+  "name": "Monter kabli elektrycznych",
+  "path": "Monterzy maszyn i sprzętu > Monterzy sprzętu elektrycznego i elektronicznego > Monter sprzętu elektrycznego",
+  "hook": "Przygotowujesz kable i przewody ze stali, miedzi lub aluminium tak, żeby mogły przewodzić prąd w urządzeniach. Przycinasz je, formujesz i układasz, aż pasują do konkretnego urządzenia.",
+  "tasks": "Odmierzasz i przycinasz kable na długość | Formujesz przewody z miedzi lub aluminium | Układasz kable w wiązki | Sprawdzasz, czy kabel pasuje do urządzenia",
+  "day": "6:00 Odczytujesz długości i rodzaje kabli z zamówienia | 8:00 Przycinasz miedziane przewody na zadaną długość | 11:00 Układasz kable w wiązki według rysunku | 13:30 Sprawdzasz, czy wiązka pasuje do urządzenia",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 59
+ },
+ {
+  "name": "Monter wiązek elektrycznych",
+  "path": "Monterzy maszyn i sprzętu > Monterzy sprzętu elektrycznego i elektronicznego > Monter sprzętu elektrycznego",
+  "hook": "Łączysz wiele kabli w jedną uporządkowaną wiązkę, która trafi do maszyny lub urządzenia. Pracujesz na planie, na którym każdy przewód ma swoje miejsce.",
+  "tasks": "Układasz przewody na tablicy montażowej | Odmierzasz i dobierasz kable według planu | Zaciskasz końcówki i łączysz przewody | Owijasz wiązkę rękawem lub opaską",
+  "day": "6:30 Rozkładasz plan wiązki na tablicy montażowej | 9:00 Układasz kable w kolejności i je spinasz | 12:30 Zauważasz przewód w złym kolorze, poprawiasz | 14:30 Pakujesz gotowe wiązki i opisujesz je",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 61
+ },
+ {
+  "name": "Operator maszyny do lutowania na fali",
+  "path": "Monterzy maszyn i sprzętu > Monterzy sprzętu elektrycznego i elektronicznego",
+  "hook": "Obsługujesz maszynę, przez którą płytki elektroniczne przejeżdżają nad falą płynnego lutu. Przygotowujesz ustawienia i pilnujesz, żeby wszystkie połączenia wyszły czyste.",
+  "tasks": "Ustawiasz maszynę według schematu i projektu | Mocujesz płytki w ramkach transportowych | Obserwujesz, jak płytki przechodzą przez maszynę | Oglądasz lutowane połączenia i zgłaszasz błędy",
+  "day": "6:00 Uruchamiasz maszynę i czekasz na właściwą temperaturę | 7:30 Płytki jadą przez maszynę, sprawdzasz pierwsze sztuki | 10:30 Połączenia wyglądają matowo, zmieniasz ustawienia | 13:00 Zapisujesz parametry zmiany i oddajesz stanowisko",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 64
+ },
+ {
+  "name": "Elaborant amunicji",
+  "path": "Monterzy maszyn i sprzętu > Inne: monterzy",
+  "hook": "Pracujesz w fabryce amunicji, gdzie według ścisłych procedur składa się naboje i pociski. Bezpieczeństwo i dokładność ważą tu więcej niż tempo.",
+  "tasks": "Zestawiasz komponenty naboi według instrukcji | Odmierzasz materiały na wadze | Obsługujesz maszyny składające naboje | Prowadzisz dokumentację każdej partii",
+  "day": "6:00 Odprawa bezpieczeństwa i sprawdzenie stanowiska | 7:00 Odmierzasz materiały według karty technologicznej | 10:30 Maszyna pracuje, ty kontrolujesz wymiary próbek | 13:00 Wpisujesz numer partii i podpisujesz dokumenty",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 65
+ },
+ {
+  "name": "Monter fajerwerków",
+  "path": "Monterzy maszyn i sprzętu > Inne: monterzy",
+  "hook": "Pracujesz w zakładzie pirotechnicznym, gdzie według planów składa się fajerwerki z osłonek i innych części. Obowiązują tu surowe zasady bezpieczeństwa, a pracuje się w małych, kontrolowanych porcjach.",
+  "tasks": "Czytasz plan i rysunek wyrobu | Przygotowujesz osłonki i rurki do składania | Składasz części w gotowy wyrób | Kontrolujesz produkt końcowy przed zapakowaniem",
+  "day": "7:00 Odprawa i przypomnienie zasad bezpieczeństwa w zakładzie | 8:30 Ustawiasz osłonki według rysunku | 11:00 Składasz wyrób i oklejasz go | 13:00 Kontrolujesz gotową partię i wpisujesz ją do dokumentów",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 67
+ },
+ {
+  "name": "Monter konstrukcji stalowych",
+  "path": "Monterzy maszyn i sprzętu > Inne: monterzy",
+  "hook": "Dopasowujesz i łączysz metalowe części w konstrukcje według dokładnych rysunków, w hali albo na stanowisku. Pracujesz ciężkimi elementami i elektronarzędziami, w odzieży ochronnej.",
+  "tasks": "Czytasz rysunki techniczne konstrukcji | Docinasz i dopasowujesz elementy metalowe | Łączysz części elektronarzędziami | Sprawdzasz wymiary gotowego elementu",
+  "day": "6:00 Dostajesz rysunki i listę elementów do zmontowania | 8:00 Dopasowujesz belki do siebie i mierzysz | 11:00 Dokręcasz połączenia elektronarzędziem | 13:30 Mierzysz gotową ramę i odkładasz do wysyłki",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 68
+ },
+ {
+  "name": "Monter mebli",
+  "path": "Monterzy maszyn i sprzętu > Inne: monterzy",
+  "hook": "Składasz meble z gotowych części według planu: nogi, panele, mechanizmy i poduchy. Używasz narzędzi ręcznych i wkrętarek.",
+  "tasks": "Czytasz instrukcję lub plan montażu | Łączysz korpus, nogi i fronty | Montujesz sprężyny i mechanizmy | Sprawdzasz, czy mebel stoi prosto",
+  "day": "7:00 Bierzesz zlecenie i sprawdzasz komplet części | 9:00 Łączysz korpus szafki i wkręcasz uchwyty | 12:00 Drzwiczki nie domykają się, regulujesz zawiasy | 14:30 Pakujesz mebel w folię i kartony",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 69
+ },
+ {
+  "name": "Monter rowerów",
+  "path": "Monterzy maszyn i sprzętu > Inne: monterzy",
+  "hook": "Budujesz rowery z ram, kół i osprzętu, a potem ustawiasz je tak, żeby jeździły lekko i bezpiecznie. Montujesz też dodatki, na przykład przyczepki.",
+  "tasks": "Składasz ramę, koła i kierownicę | Ustawiasz hamulce i przerzutki | Montujesz błotniki, przyczepki i inne dodatki | Sprawdzasz działanie roweru na stojaku",
+  "day": "8:00 Wyciągasz z kartonu nową ramę i koła | 10:00 Ustawiasz przerzutki, aż łańcuch przeskakuje czysto | 13:00 Dziecięcy rower dostaje boczne kółka | 15:30 Test na stojaku i etykieta z numerem",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 70
+ },
+ {
+  "name": "Monter urządzeń medycznych",
+  "path": "Monterzy maszyn i sprzętu > Inne: monterzy",
+  "hook": "Składasz sprzęt medyczny, od prostych rurek i igieł po aparaty diagnostyczne. Od twojej dokładności zależy, czy urządzenie bezpiecznie posłuży w szpitalu.",
+  "tasks": "Składasz elementy według dokumentacji | Pracujesz w czystych warunkach | Sprawdzasz szczelność i działanie wyrobu | Zapisujesz numery partii i wyniki",
+  "day": "6:30 Myjesz ręce, zakładasz fartuch i czepek | 8:00 Składasz zestaw do kroplówki z kilku części | 11:00 Test szczelności pokazuje usterkę, odkładasz sztukę | 13:00 Wpisujesz numery partii do dokumentacji",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 71
+ },
+ {
+  "name": "Monter wyrobów z drewna",
+  "path": "Monterzy maszyn i sprzętu > Inne: monterzy",
+  "hook": "Składasz drewniane wyroby z gotowych elementów, łącząc je klejem i złączami. Obsługujesz maszynę, która dociska części, i pilnujesz, żeby wszystko trafiło na swoje miejsce.",
+  "tasks": "Układasz drewniane elementy w maszynie | Nakładasz klej na złącza | Obsługujesz prasę dociskającą części | Wyłapujesz krzywe lub pęknięte elementy",
+  "day": "6:00 Układasz elementy na stole przed złożeniem | 8:00 Maszyna dociska ramę, ty odliczasz czas | 11:00 Jedna deska ma pęknięcie, odkładasz ją | 13:30 Odbierasz gotowe wyroby ze stanowiska",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 72
+ },
+ {
+  "name": "Monter wyrobów z tworzyw sztucznych",
+  "path": "Monterzy maszyn i sprzętu > Inne: monterzy",
+  "hook": "Składasz gotowe plastikowe części w produkty, a w razie potrzeby przycinasz je lub kształtujesz. Pracujesz według instrukcji, więc liczy się powtarzalność.",
+  "tasks": "Dopasowujesz części z tworzywa sztucznego | Mocujesz je zatrzaskami, wkrętami lub klejem | Przycinasz nadmiar tworzywa | Sprawdzasz, czy produkt spełnia wymagania",
+  "day": "7:00 Rozkładasz części plastikowe na stole montażowym | 9:30 Zatrzaskujesz obudowy i sprawdzasz szczeliny | 12:00 Przycinasz nadmiar tworzywa na brzegach | 14:00 Odkładasz wadliwe sztuki i liczysz gotowe",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 73
+ },
+ {
+  "name": "Operator maszyn do produkcji mebli metalowych",
+  "path": "Monterzy maszyn i sprzętu > Inne: monterzy",
+  "hook": "Wytwarzasz metalowe meble, od biurowych szaf po ogrodowe krzesła: tniesz, gniesz i łączysz elementy maszynami. Na końcu polerujesz i zabezpieczasz powierzchnię.",
+  "tasks": "Tniesz i wyginasz elementy z metalu | Łączysz części maszynami i elektronarzędziami | Polerujesz i zabezpieczasz powierzchnię | Montujesz gotowy mebel i go oglądasz",
+  "day": "6:00 Ustawiasz maszynę do cięcia rur na zmianę | 8:30 Wyginasz rury na kształt oparcia krzesła | 11:30 Polerujesz spawy, aż powierzchnia jest gładka | 14:00 Składasz gotowy stół i sprawdzasz, czy się kołysze",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 74
+ },
+ {
+  "name": "Monter nadwozi",
+  "path": "Monterzy maszyn i sprzętu > Monterzy maszyn i urządzeń mechanicznych > Monter pojazdów samochodowych",
+  "hook": "Łączysz duże elementy karoserii: ramy, drzwi, podwozie i pokrywy silnika. Pracujesz z maszynami i robotami, a po złożeniu mierzysz, czy wszystko pasuje.",
+  "tasks": "Zgrywasz drzwi, ramy i pokrywy | Łączysz blachy narzędziami i urządzeniami | Obsługujesz roboty i zautomatyzowane stanowiska | Mierzysz szczeliny i sprawdzasz zgodność z planem",
+  "day": "6:00 Odbierasz od poprzedniej zmiany stan linii nadwozi | 8:00 Mocujesz drzwi i regulujesz równą szczelinę | 11:00 Robot zgrzewa ramę, ty kontrolujesz jej ułożenie | 13:00 Mierzysz gotowe nadwozie i wpisujesz wyniki",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 77
+ },
+ {
+  "name": "Monter pojazdów samochodowych",
+  "path": "Monterzy maszyn i sprzętu > Monterzy maszyn i urządzeń mechanicznych > Monter pojazdów samochodowych",
+  "hook": "Na końcu linii instalujesz w samochodzie gotowe części i zespoły, takie jak fotele, deska rozdzielcza czy szyby. Potem sprawdzasz, czy wszystko działa i nie ma wad.",
+  "tasks": "Instalujesz prefabrykowane podzespoły w pojeździe | Sprawdzasz pojazd pod kątem wad | Testujesz zamontowane wyposażenie | Porównujesz wynik z normami jakości",
+  "day": "6:00 Do stanowiska podjeżdża kolejne nadwozie na taśmie | 8:00 Montujesz deskę rozdzielczą i fotele | 11:00 Włączasz wyposażenie i sprawdzasz, czy działa | 13:30 Znajdujesz rysę na lakierze, oznaczasz wadę",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 78
+ },
+ {
+  "name": "Monter silników pojazdów samochodowych",
+  "path": "Monterzy maszyn i sprzętu > Monterzy maszyn i urządzeń mechanicznych > Monter pojazdów samochodowych",
+  "hook": "Składasz silnik z gotowych części: spalinowy albo elektryczny. Czytasz rysunki i specyfikacje, a części niezgodne z wymogami odrzucasz.",
+  "tasks": "Czytasz rysunki techniczne i specyfikacje | Montujesz kolejne podzespoły silnika według instrukcji | Dokręcasz śruby z wymaganą siłą | Badasz gotowy silnik i odrzucasz wadliwe części",
+  "day": "6:00 Dostajesz zestaw części i rysunki silnika | 8:00 Składasz blok i dokręcasz śruby z wymaganą siłą | 11:00 Test pokazuje stuk, rozbierasz podzespół | 13:00 Odrzucasz element niezgodny z normą i opisujesz powód",
+  "skills": [
+   [
+    "Zręczne ręce",
+    "R"
+   ],
+   [
+    "Czytanie instrukcji i rysunków",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Obsługa narzędzi",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Składasz rzeczy, które potem działają",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Tempo linii produkcyjnej"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: mechanik-monter maszyn i urządzeń lub elektromechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Monterzy",
+  "pay_median_2025": 6051.96,
+  "gen_id": 79
+ }
+]

@@ -1,0 +1,1562 @@
+[
+ {
+  "name": "Operator maszyn do produkcji obuwia",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do produkcji obuwia > Operator maszyn do produkcji obuwia",
+  "hook": "Obsługujesz maszyny, które z kawałków materiału robią gotowe buty. Pilnujesz ich pracy i regularnie je konserwujesz.",
+  "tasks": "Uruchamiasz maszyny do formowania i wykańczania | Pilnujesz, czy wykroje są równo wycięte | Wyłapujesz wadliwe buty z linii | Czyścisz i smarujesz maszyny po zmianie",
+  "day": "6:00 Przejmujesz linię i sprawdzasz ustawienia maszyn | 9:00 Maszyna do formowania zacina się, usuwasz zator | 12:00 Odrzucasz buty z krzywym szwem | 13:45 Czyścisz i smarujesz maszyny przed końcem zmiany",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy produkcji odzieży i pokrewni",
+  "pay_median_2025": 5173.6,
+  "gen_id": 1
+ },
+ {
+  "name": "Operator parzaka",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do produkcji obuwia > Operator maszyn do produkcji obuwia",
+  "hook": "Przygotowujesz cholewki do formowania na kopycie, wkładasz usztywniacz pięty i przyklejasz wkładkę. Cholewka musi być przygotowana tak, żeby dała się potem ukształtować.",
+  "tasks": "Przyklejasz wkładkę do kopyta | Wkładasz usztywniacz w tylną część cholewki | Formujesz poduszki pod palce | Przygotowujesz cholewki przed naciąganiem na kopyto",
+  "day": "6:00 Układasz przy stanowisku kopyta i cholewki | 8:30 Wkładasz usztywniacze w pięty całej partii | 11:00 Przyklejasz wkładki i sprawdzasz ich położenie | 13:00 Przekazujesz przygotowane cholewki na dalszą linię",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 3
+ },
+ {
+  "name": "Operator urządzeń wykrawających elementy obuwia",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do produkcji obuwia > Operator maszyn do produkcji obuwia",
+  "hook": "Z płatów skóry i materiałów wycinasz części przyszłych butów. Zanim zetniesz, oglądasz materiał i decydujesz, które miejsca są najlepsze, a które mają skazy.",
+  "tasks": "Oglądasz skórę i szukasz skaz | Wyznaczasz, gdzie i jak kroić | Programujesz maszynę lub automatyczny nóż | Rozkładasz skórę na stole do cięcia",
+  "day": "6:00 Rozkładasz skórę i oglądasz ją pod światło | 7:30 Zaznaczasz, które części wyjdą z najlepszych miejsc | 10:00 Automatyczny nóż tnie, ty pilnujesz ułożenia | 13:00 Segregujesz wycięte elementy według rozmiarów",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 4
+ },
+ {
+  "name": "Technik utrzymania maszyn do produkcji obuwia",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do produkcji obuwia > Operator maszyn do produkcji obuwia",
+  "hook": "Dbasz o to, żeby maszyny w fabryce obuwia nie stawały. Ustawiasz je, programujesz, naprawiasz i wymieniasz zużyte części.",
+  "tasks": "Szukasz przyczyny awarii maszyny szyjącej | Wymieniasz zużyte części | Smarujesz i przeglądasz maszyny według planu | Programujesz maszyny pod nowy model buta",
+  "day": "6:00 Obchodzisz halę i słuchasz, jak pracują maszyny | 8:30 Maszyna do wykrawania staje, szukasz usterki | 11:00 Wymieniasz zużyty element i testujesz maszynę | 13:30 Zapisujesz w raporcie, co zużywa najwięcej energii",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 6
+ },
+ {
+  "name": "Operator maszyn kaletniczych i rymarskich",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do produkcji obuwia > Operator maszyn kaletniczych i rymarskich",
+  "hook": "Na maszynach przemysłowych wykrawasz, zszywasz i wykańczasz torebki, walizki, uprzęże i inne wyroby skórzane. Dbasz też o rutynową konserwację tych maszyn.",
+  "tasks": "Wykrawasz części toreb i walizek | Zszywasz paski, uchwyty i uprząż | Wykańczasz krawędzie gotowych wyrobów | Czyścisz i oliwisz maszyny po pracy",
+  "day": "6:00 Wykrawasz skórzane części na serię torebek | 8:30 Zszywasz uchwyty i paski do toreb | 11:30 Wykańczasz krawędzie i sprawdzasz zapięcia | 13:30 Czyścisz maszyny ze ścinków skóry",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 7
+ },
+ {
+  "name": "Technik utrzymania maszyn kaletniczych i rymarskich",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do produkcji obuwia > Operator maszyn kaletniczych i rymarskich",
+  "hook": "Dbasz o maszyny, na których powstają skórzane torby i uprzęże. Dostrajasz je, programujesz i naprawiasz, gdy zaczynają źle szyć lub ciąć.",
+  "tasks": "Dostrajasz maszyny tnące i szyjące | Szukasz źródła usterek w maszynach | Wymieniasz zużyte części i smarujesz mechanizmy | Informujesz kierownictwo o zużyciu energii",
+  "day": "7:00 Robisz obchód i sprawdzasz pracę maszyn | 9:00 Maszyna szyjąca gubi ściegi, szukasz powodu | 12:00 Wymieniasz część i smarujesz mechanizm | 14:00 Opisujesz w raporcie, ile energii zużywa linia",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 8
+ },
+ {
+  "name": "Operator maszyn do obróbki elementów obuwia przed zszyciem",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do produkcji obuwia",
+  "hook": "Przygotowujesz części cholewek, zanim trafią do szycia: przycinasz brzegi skóry, zaginasz je, nakłuwasz i oznaczasz miejsca szwów. Pracujesz według arkusza technicznego, który mówi, co zrobić z każdą częścią.",
+  "tasks": "Przycinasz brzegi skóry maszyną | Zaginasz krawędzie części cholewki | Oznaczasz miejsca, gdzie pójdzie szew | Naklejasz paski wzmacniające",
+  "day": "6:00 Czytasz arkusz techniczny nowego modelu buta | 7:30 Przycinasz brzegi i zaginasz części cholewek | 10:30 Znakujesz miejsca szwów i nakłuwasz skórę | 13:00 Przekazujesz przygotowane części do szycia",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 9
+ },
+ {
+  "name": "Operator zautomatyzowanych urządzeń wykrawających elementy obuwia",
+  "path": "Tekstylia, skóra i obuwie > Maszyny do produkcji obuwia",
+  "hook": "Wysyłasz z komputera plik z kształtami do maszyny, która sama wykrawa części butów. Ty kładziesz materiał, zaznaczasz na nim skazy i sprawdzasz, czy wycięte elementy zgadzają się z wymaganiami.",
+  "tasks": "Wysyłasz plik z komputera do maszyny | Kładziesz materiał na stole maszyny | Cyfrowo zaznaczasz skazy na materiale | Porównujesz wycięte elementy z wymaganiami",
+  "day": "6:00 Włączasz maszynę i sprawdzasz jej narzędzia tnące | 7:00 Wczytujesz plik z nowym zleceniem cięcia | 10:00 Zaznaczasz skazy na skórze przed cięciem | 13:00 Zbierasz wycięte części i mierzysz je",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 10
+ },
+ {
+  "name": "Monter wyrobów z płótna i brezentu",
+  "path": "Tekstylia, skóra i obuwie > Inne maszyny włókiennicze i skórzane",
+  "hook": "Z mocnych tkanin i skóry składasz takie rzeczy jak namioty, torby czy portfele. Materiał tego typu służy też artystom jako powierzchnia do malowania.",
+  "tasks": "Tniesz gruby materiał według wzoru | Zszywasz części namiotu lub torby | Przyszywasz uchwyty, paski i zapięcia | Sprawdzasz wytrzymałość szwów",
+  "day": "7:00 Rozkładasz płótno i tniesz je według szablonu | 9:30 Zszywasz ściany namiotu mocnym szwem | 12:00 Przyszywasz paski do serii toreb | 14:00 Ciągniesz za szwy, żeby sprawdzić wytrzymałość",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 11
+ },
+ {
+  "name": "Operator maszyn do produkcji materacy",
+  "path": "Tekstylia, skóra i obuwie > Inne maszyny włókiennicze i skórzane",
+  "hook": "Obsługujesz maszyny, które składają materace. Na układ sprężyn nakładasz i mocujesz warstwy wyściółki oraz pokrycie, tak żeby materac wyszedł równy.",
+  "tasks": "Tniesz warstwy wyściółki na wymiar | Rozciągasz pokrycie nad układem sprężyn | Mocujesz warstwy do sprężyn maszyną | Sprawdzasz, czy materac jest równy",
+  "day": "6:00 Ładujesz do maszyny rolki wyściółki i pokrycia | 8:00 Tniesz warstwy i układasz je na sprężynach | 11:00 Maszyna mocuje pokrycie, ty poprawiasz rogi | 13:30 Mierzysz gotowy materac i odstawiasz go na paletę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 13
+ },
+ {
+  "name": "Operator maszyn do produkcji włóknin staplowych",
+  "path": "Tekstylia, skóra i obuwie > Inne maszyny włókiennicze i skórzane",
+  "hook": "Obsługujesz maszyny, które z krótkich włókien robią włókninę, czyli materiał ani tkany, ani dziany. Wykonujesz kolejne etapy przetwarzania i pilnujesz, żeby materiał wychodził równy.",
+  "tasks": "Zasilasz maszynę włóknami | Obserwujesz, jak formuje się włóknina | Sprawdzasz grubość i równość materiału | Zdejmujesz i opisujesz gotowe rolki",
+  "day": "6:00 Zasilasz maszynę nową partią włókien | 8:00 Obserwujesz wstęgę włókniny, szukasz grubszych miejsc | 11:00 Zatrzymujesz maszynę, gdy materiał się rwie | 13:30 Zdejmujesz gotową rolkę i opisujesz ją",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 14
+ },
+ {
+  "name": "Operator urządzeń do projektowania wzorów tkanin",
+  "path": "Tekstylia, skóra i obuwie > Inne maszyny włókiennicze i skórzane",
+  "hook": "Tworzysz wzory i dekoracje na tkaniny, używając do tego maszyn i urządzeń. Decydujesz, z jakich materiałów je wykonać, i oceniasz tkaninę przed pracą i po niej.",
+  "tasks": "Projektujesz wzór na tkaninę | Wybierasz materiał pasujący do wzoru | Uruchamiasz urządzenie nanoszące wzór | Oceniasz jakość tkaniny przed i po pracy",
+  "day": "8:00 Przeglądasz próbki tkanin i szukasz pomysłów | 10:00 Rysujesz wzór, który ma się powtarzać | 12:00 Uruchamiasz maszynę i oglądasz pierwszy odcinek tkaniny | 14:30 Oglądasz gotową tkaninę i notujesz poprawki",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 16
+ },
+ {
+  "name": "Technik ds. nietkanych materiałów włókienniczych",
+  "path": "Tekstylia, skóra i obuwie > Inne maszyny włókiennicze i skórzane",
+  "hook": "Ustawiasz procesy, w których powstają materiały nietkane, czyli włókniny. Dobierasz ustawienia maszyn do rodzaju materiału i sprawdzasz, czy wynik jest zgodny z wymaganiami.",
+  "tasks": "Ustawiasz parametry procesu na maszynach | Zmieniasz ustawienia przy nowym rodzaju włókniny | Oglądasz próbki i porównujesz je z wymaganiami | Notujesz, jakie ustawienia dały dobry wynik",
+  "day": "7:00 Odbierasz od zmiany nocnej informacje o procesie | 9:00 Zmieniasz ustawienia maszyny pod nowe zamówienie | 11:30 Oglądasz próbkę włókniny i porównujesz z wymaganiami | 14:00 Zapisujesz, które ustawienia dały najlepszy wynik",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 17
+ },
+ {
+  "name": "Technik ds. procesu oplatania",
+  "path": "Tekstylia, skóra i obuwie > Inne maszyny włókiennicze i skórzane",
+  "hook": "Ustawiasz maszyny do oplatania tak, żeby wyrób wychodził zgodny z wymaganiami. Przed startem produkcji dobierasz parametry i sprawdzasz pierwsze sztuki.",
+  "tasks": "Konfigurujesz oplatarkę przed nowym zleceniem | Zakładasz szpule z nićmi na maszynę | Sprawdzasz pierwsze metry wyrobu | Poprawiasz ustawienia, gdy splot jest nierówny",
+  "day": "6:00 Czytasz zlecenie i wybierasz ustawienia oplatarki | 7:30 Zakładasz szpule z nićmi i uruchamiasz próbę | 10:00 Oglądasz pierwsze metry, splot jest nierówny | 12:30 Korygujesz ustawienia i przekazujesz maszynę operatorowi",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 18
+ },
+ {
+  "name": "Operator maszyn do tuftowania",
+  "path": "Tekstylia, skóra i obuwie > Operatorzy maszyn tkackich i dziewiarskich > Operator maszyn tkackich",
+  "hook": "Nadzorujesz grupę maszyn do tuftowania, czyli wszywania nitek w podłoże tak, że powstaje włochata powierzchnia, na przykład dywanu. Po ustawieniu maszyn i w czasie pracy sprawdzasz, czy wyrób spełnia normy.",
+  "tasks": "Pilnujesz kilku maszyn tuftujących naraz | Oceniasz jakość podłoża i nici | Oglądasz gęstość i równość wykończonej powierzchni | Zatrzymujesz maszynę, gdy pojawia się wada",
+  "day": "6:00 Przejmujesz halę i uruchamiasz swoją grupę maszyn | 8:00 Oglądasz powierzchnię i szukasz brakujących pętli | 11:00 Zatrzymujesz maszynę, bo nić się splątała | 13:30 Porównujesz próbkę z wzorcem jakości",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 19
+ },
+ {
+  "name": "Operator maszyn tkackich",
+  "path": "Tekstylia, skóra i obuwie > Operatorzy maszyn tkackich i dziewiarskich > Operator maszyn tkackich",
+  "hook": "Ustawiasz i obsługujesz maszyny, na których nitki przędzy splatają się w tkaninę na odzież, tekstylia domowe lub produkty techniczne. Pilnujesz maszyn i naprawiasz drobne usterki.",
+  "tasks": "Zakładasz przędzę i uruchamiasz maszynę | Obserwujesz tkaninę podczas tkania | Łączysz zerwane nitki | Naprawiasz drobne usterki maszyn",
+  "day": "6:00 Ustawiasz maszynę i zakładasz nowe szpule przędzy | 8:00 Obserwujesz, jak nitki splatają się w tkaninę | 10:30 Nitka się zrywa, łączysz ją i ruszasz | 13:30 Czyścisz maszynę i smarujesz ruchome części",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 20
+ },
+ {
+  "name": "Osoba nadzorująca pracę maszyn tkackich",
+  "path": "Tekstylia, skóra i obuwie > Operatorzy maszyn tkackich i dziewiarskich > Operator maszyn tkackich",
+  "hook": "Odpowiadasz za to, żeby krosna w tkalni działały bez przestojów. Naprawiasz usterki zgłaszane przez tkaczy, konserwujesz maszyny i wypełniasz arkusze kontroli krosien.",
+  "tasks": "Obchodzisz tkalnię i słuchasz pracy krosien | Naprawiasz usterki zgłoszone przez tkacza | Oceniasz jakość tkaniny i stan maszyn | Wypełniasz arkusze kontroli krosien",
+  "day": "6:00 Robisz obchód tkalni i oglądasz krosna | 8:00 Tkacz zgłasza usterkę, więc naprawiasz krosno | 11:00 Konserwujesz krosno przed dłuższą serią produkcji | 13:30 Wypełniasz arkusze kontroli i przekazujesz zmianę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 21
+ },
+ {
+  "name": "Operator maszyn dziewiarskich",
+  "path": "Tekstylia, skóra i obuwie > Operatorzy maszyn tkackich i dziewiarskich > Operator maszyn dziewiarskich",
+  "hook": "Obsługujesz maszyny dziewiarskie, które z nitek przędzy tworzą oczka, a z oczek dzianinę na odzież, dywany czy liny. Ustawiasz maszynę, pilnujesz jej pracy i naprawiasz usterki.",
+  "tasks": "Ustawiasz maszynę pod nowe zlecenie | Zakładasz szpule z przędzą | Wyłapujesz spuszczone oczka i dziury | Konserwujesz i naprawiasz dziewiarkę",
+  "day": "6:00 Ustawiasz dziewiarkę i zakładasz szpule z przędzą | 8:00 Obserwujesz, jak rośnie rolka dzianiny | 10:30 Znajdujesz dziurę w dzianinie i zatrzymujesz maszynę | 13:00 Czyścisz maszynę z kłaczków i smarujesz ją",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 23
+ },
+ {
+  "name": "Osoba nadzorująca pracę maszyn dziewiarskich",
+  "path": "Tekstylia, skóra i obuwie > Operatorzy maszyn tkackich i dziewiarskich > Operator maszyn dziewiarskich",
+  "hook": "Odpowiadasz za grupę dziewiarek. Sprawdzasz je po ustawieniu, po uruchomieniu i w czasie produkcji, czy dzianina spełnia specyfikację i normy jakości.",
+  "tasks": "Kontrolujesz grupę dziewiarek po uruchomieniu | Porównujesz dzianinę ze specyfikacją zlecenia | Sprawdzasz jakość przędzy i warunki dziania | Wstrzymujesz maszynę, gdy pojawia się wada",
+  "day": "6:00 Kontrolujesz uruchomienie całej grupy dziewiarek | 8:00 Mierzysz próbkę dzianiny i porównujesz ze specyfikacją | 11:00 Jedna maszyna daje wadę, więc wstrzymujesz ją | 13:30 Informujesz następną zmianę o stanie maszyn",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 24
+ },
+ {
+  "name": "Technik ds. procesu dziania",
+  "path": "Tekstylia, skóra i obuwie > Operatorzy maszyn tkackich i dziewiarskich > Operator maszyn dziewiarskich",
+  "hook": "Ustawiasz procesy dziewiarskie w zakładach, gdzie powstają dzianiny. Tworzysz wzory na komputerze, współpracujesz z laboratorium przy wyłapywaniu błędów i dbasz o jak najwyższą wydajność maszyn.",
+  "tasks": "Tworzysz wzór dzianiny na komputerze | Ustawiasz maszyny do dziania wątkowego lub osnowowego | Ustalasz z laboratorium, jak uniknąć błędów w dzianinie | Szukasz sposobów na wyższą wydajność",
+  "day": "8:00 Projektujesz na komputerze nowy wzór dzianiny | 10:00 Ustawiasz maszynę i uruchamiasz próbną partię | 12:00 Laboratorium zgłasza błąd w próbce, szukacie przyczyny | 14:30 Porównujesz wydajność maszyn i szukasz usprawnień",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów włókienniczych, futrzarskich i skórzanych",
+  "pay_median_2025": 4963.02,
+  "gen_id": 25
+ }
+]
