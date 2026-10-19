@@ -142,6 +142,23 @@ PAY_FIX = {
     "Operator centralnej sterowni w rafinerii ropy naftowej": "813", "Koordynator programów zatrudnienia": "242",
     "Artysta sztuki ulicznej / artystka sztuki ulicznej": "343", "Operator maszyn do produkcji obuwia": "753",
 }
+# Weryfikacja 600: zawody niemedyczne i nie-dentystyczne były przypisane do grupy "Lekarze dentyści" (226).
+PAY_FIX.update({
+    "Muzykoterapeuta": "229", "Specjalista arteterapii": "229", "Specjalista choreoterapii": "229",
+    "Terapeuta rekreacyjny": "229", "Technik diagnostyki obrazowej": "321", "Technik elektroradiolog": "321",
+    "Technik medycyny nuklearnej": "321", "Technik radioterapeuta": "321", "Asystent terapii zajęciowej/asystentka terapii zajęciowej": "325",
+    "Asystent/asystentka lekarza podiatry": "325", "Chiropraktyk": "323", "Kinezjolog": "229",
+    "Lekarz – specjalista podiatrii": "221", "Osteopata weterynaryjny": "229", "Specjalista chiropraktyk": "323",
+    "Terapeuta zajęciowy": "229", "Farmaceuta": "228", "Farmaceuta – specjalista farmacji przemysłowej": "228",
+    "Farmaceuta – specjalista farmacji przemysłowej i szpitalnej": "228", "Farmaceuta – specjalista farmacji szpitalnej": "228",
+    "Inspektor farmaceutyczny": "228", "Ergonomista": "214", "Specjalista bezpieczeństwa i higieny pracy": "214",
+    "Inspektor ochrony radiologicznej": "229", "Koordynator ds. zarządzania kryzysowego": "335",
+    "Specjalista ds. bezpieczeństwa żywności": "229", "Fizjoterapeuta": "229", "Główny fizjoterapeuta": "229",
+    "Zoofizjoterapeuta": "229", "Lekarz – specjalista audiologii i foniatrii": "221", "Logopeda": "229",
+    "Optometrysta": "229", "Ortoptysta": "229", "Specjalista ds. dietetyki": "322",
+    "Specjalista ds. żywienia człowieka - dania gotowe": "322",
+})
+
 PAY_FIX_USED = set()
 
 
@@ -161,6 +178,31 @@ ROUTE_FIX = {
     "Fotoedytor": ["Studia graficzne: szkola=Liceum=4 > studia=Studia graficzne lub fotograficzne=3 > praktyka=Portfolio i praktyka w agencji=0.5"],
     "Metrolog": ["Studia metrologiczne: szkola=Liceum=4 > studia=Studia inżynierskie lub fizyczne z metrologią=3.5 > praktyka=Praktyka w laboratorium pomiarowym=0.5"],
 }
+# Weryfikacja 600: trasy dla zawodów, których grupa przypisuje błędne ścieżki (jednolite 5 lat medycyny, grupa magazynów itd.)
+ROUTE_FIX.update({
+    "Technik radioterapeuta": [
+        "Szkoła policealna: szkola=Liceum=4 > kurs=Szkoła policealna: technik radioterapii=2.5 > praktyka=Praca w pracowni radioterapii=0",
+        "Studia: szkola=Liceum=4 > studia=Elektroradiologia, licencjat=3 > praktyka=Praca w pracowni diagnostycznej lub radioterapii=0"],
+    "Technik elektroradiolog": [
+        "Szkoła policealna: szkola=Liceum=4 > kurs=Szkoła policealna: technik elektroradiolog=2.5 > praktyka=Praca w pracowni diagnostycznej=0",
+        "Studia: szkola=Liceum=4 > studia=Elektroradiologia, licencjat=3 > praktyka=Praca w pracowni diagnostycznej=0"],
+    "Technik medycyny nuklearnej": [
+        "Szkoła policealna: szkola=Liceum=4 > kurs=Szkoła policealna w zakresie medycyny nuklearnej=2 > praktyka=Praca w pracowni medycyny nuklearnej=0",
+        "Studia: szkola=Liceum=4 > studia=Elektroradiologia, licencjat=3 > praktyka=Praca w pracowni medycyny nuklearnej=0"],
+    "Lekarz – specjalista audiologii i foniatrii": [
+        "Studia medyczne: szkola=Liceum z biologią i chemią=4 > studia=Jednolite studia magisterskie na kierunku lekarskim=6 > praktyka=Staż podyplomowy=1 > egzamin=Lekarski Egzamin Końcowy=0 > praktyka=Specjalizacja z audiologii i foniatrii=5"],
+    "Optometrysta": [
+        "Studia: szkola=Liceum=4 > studia=Studia licencjackie z optometrii=3 > praktyka=Praktyka w gabinecie optycznym=0.5"],
+    "Dyrektor szkoły podstawowej": [
+        "Nauczyciel i dyrektor: szkola=Liceum=4 > studia=Studia magisterskie z przygotowaniem pedagogicznym=5 > praktyka=Staż pedagogiczny jako nauczyciel=5"],
+    "Dyrektor szkoły średniej": [
+        "Nauczyciel i dyrektor: szkola=Liceum=4 > studia=Studia magisterskie z przygotowaniem pedagogicznym=5 > praktyka=Staż pedagogiczny jako nauczyciel=5"],
+    "Literaturoznawca": [
+        "Studia: szkola=Liceum=4 > studia=Studia licencjackie z literaturoznawstwa=3 > studia=Studia magisterskie=2"],
+    "Kontroler ruchu kolejowego": [
+        "Technikum: szkola=Liceum=4 > kurs=Szkoła policealna: technik transportu kolejowego=2.5 > praktyka=Praca na stacji jako dyżurny ruchu=0"],
+})
+
 ROUTE_FIX_USED = set()
 
 
