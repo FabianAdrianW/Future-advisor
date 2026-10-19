@@ -1,0 +1,1717 @@
+[
+ {
+  "name": "Znawca gatunków cygar",
+  "path": "Inne maszyny przetwórcze > Maszyny pakujące i rozlewnicze",
+  "hook": "Dozorujesz maszyny, które nanoszą oznaczenia handlowe na owijki cygar. Pilnujesz dostaw materiału, obserwujesz, czy proces się nie zablokował, i czyścisz wałki barwiące.",
+  "tasks": "Dozorujesz maszynę znakującą owijki cygar | Dopilnowujesz dostaw materiałów do maszyny | Obserwujesz, czy proces się nie zablokował | Czyścisz wałki barwiące zapobiegawczo",
+  "day": "6:00 Uruchamiasz maszynę i sprawdzasz zapas owijek | 8:30 Uzupełniasz materiał, bo zaczyna go brakować | 11:00 Proces się zatrzymuje, usuwasz blokadę | 13:30 Czyścisz wałki barwiące przed końcem zmiany",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy innych maszyn i urządzeń przetwórczych",
+  "pay_median_2025": 6713.74,
+  "gen_id": 260
+ },
+ {
+  "name": "Palacz kotłów parowych",
+  "path": "Inne maszyny przetwórcze > Maszyniści silników, kotłów parowych",
+  "hook": "Obsługujesz kotły parowe i silniki stacjonarne, które dostarczają media do domów lub zakładów. Pilnujesz przepisów bezpieczeństwa i robisz testy jakości.",
+  "tasks": "Obsługujesz kocioł parowy i silnik stacjonarny | Monitorujesz pracę urządzeń pod kątem bezpieczeństwa | Wykonujesz testy zapewniające jakość | Konserwujesz urządzenia mechaniczne według harmonogramu",
+  "day": "5:30 Przejmujesz zmianę i oglądasz kocioł parowy | 8:00 Sprawdzasz ciśnienie i poziom wody | 11:00 Wykonujesz test jakości i zapisujesz wynik | 13:30 Konserwujesz silnik stacjonarny według harmonogramu",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy innych maszyn i urządzeń przetwórczych",
+  "pay_median_2025": 6713.74,
+  "gen_id": 262
+ },
+ {
+  "name": "Operator maszyn do cięcia wzdłużnego",
+  "path": "Inne maszyny przetwórcze > Inne: operatorzy maszyn i urządzeń wydobywczych i przetwórczych",
+  "hook": "Obsługujesz maszynę, która tnie duże arkusze lub rolki metalu, papieru i innych materiałów na wąskie pasy. Mierzysz wyniki i pilnujesz granic tolerancji.",
+  "tasks": "Ustawiasz maszynę na zadaną szerokość pasów | Zakładasz rolkę materiału i uruchamiasz cięcie | Mierzysz pasy i porównujesz z tolerancją | Odrzucasz pasy poza dopuszczalnymi granicami",
+  "day": "6:00 Zakładasz rolkę blachy i ustawiasz szerokość | 8:00 Tniesz pierwszą rolkę na wąskie pasy | 11:00 Mierzysz pasy, szerokość jest o ułamek za duża | 13:30 Zdejmujesz zwoje i przygotowujesz kolejną rolkę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy innych maszyn i urządzeń przetwórczych",
+  "pay_median_2025": 6713.74,
+  "gen_id": 263
+ },
+ {
+  "name": "Operator okleiniarki",
+  "path": "Inne maszyny przetwórcze > Inne: operatorzy maszyn i urządzeń wydobywczych i przetwórczych",
+  "hook": "Obsługujesz maszynę, która okleja brzegi płyt drewnianych, żeby były trwalsze i ładniejsze. Ustawiasz prędkość pasa i temperaturę, a brzegi paneli pokrywasz klejem.",
+  "tasks": "Ustawiasz prędkość pasa okleiniarki | Ustawiasz kontrolę temperatury maszyny | Pokrywasz brzegi paneli klejem | Uruchamiasz maszynę i oglądasz oklejone brzegi",
+  "day": "6:00 Nagrzewasz okleiniarkę i ustawiasz prędkość pasa | 8:00 Przepuszczasz pierwsze panele i oglądasz krawędzie | 11:00 Brzeg się odkleja, więc zmieniasz temperaturę | 13:30 Układasz oklejone panele na palecie",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy innych maszyn i urządzeń przetwórczych",
+  "pay_median_2025": 6713.74,
+  "gen_id": 264
+ },
+ {
+  "name": "Kierownik ds. produkcji",
+  "path": "Kierownicy produkcji",
+  "hook": "Planujesz i nadzorujesz, jak w firmie powstają produkty, tak by zdążyć na czas i zmieścić się w budżecie. Szukasz też, co spowalnia produkcję.",
+  "tasks": "Planujesz produkcję pod terminy i budżet | Nadzorujesz pracę zmian produkcyjnych | Reagujesz, gdy proces się opóźnia | Omawiasz wyniki z dyrekcją",
+  "day": "7:00 Przeglądasz plan dnia i obsadę linii | 9:30 Linia stoi, więc ustalasz z mechanikiem obejście | 12:00 Sprawdzasz, ile sztuk powstało do tej pory | 15:00 Raportujesz dyrekcji postęp zamówień",
+  "skills": [
+   [
+    "Kierowanie zespołem",
+    "P"
+   ],
+   [
+    "Znajomość procesu produkcji",
+    "R"
+   ],
+   [
+    "Planowanie i terminy",
+    "L"
+   ],
+   [
+    "Dbałość o bezpieczeństwo",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Jasna komunikacja",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Duży wpływ na firmę",
+   "Różnorodne wyzwania",
+   "Praca z ludźmi z wielu działów"
+  ],
+  "minus": [
+   "Duża odpowiedzialność",
+   "Długie godziny pracy",
+   "Trudne decyzje o ludziach"
+  ],
+  "routes": [
+   {
+    "n": "Studia i awans",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia",
+      4
+     ],
+     [
+      "studia",
+      "Studia: kierunek techniczny, logistyka lub zarządzanie produkcją",
+      3
+     ],
+     [
+      "praktyka",
+      "Kilka lat pracy w branży",
+      4
+     ],
+     [
+      "praktyka",
+      "Awans na stanowisko kierownicze",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji lub w magazynie",
+      3
+     ],
+     [
+      "praktyka",
+      "Brygadzista lub lider zmiany",
+      2
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierownicy w górnictwie, przemyśle, budownictwie i dystrybucji",
+  "pay_median_2025": 10486.72,
+  "gen_id": 269
+ },
+ {
+  "name": "Masarz halal",
+  "path": "Przetwórstwo spożywcze > Masarze, robotnicy w przetwórstwie ryb > Rzeźnik",
+  "hook": "Kupujesz i kontrolujesz mięso, a potem je tniesz, odkostniasz, wiążesz i mielisz na produkty do sprzedaży. Pracujesz tylko z mięsem zgodnym z przepisami islamu.",
+  "tasks": "Zamawiasz i kontrolujesz mięso halal | Tniesz, przycinasz i odkostniasz mięso wołowe i drobiowe | Mielisz mięso i wiążesz je sznurkiem | Sprawdzasz zgodność mięsa z przepisami islamu",
+  "day": "6:00 Przyjmujesz dostawę mięsa i sprawdzasz dokumenty | 8:00 Odkostniasz i przycinasz mięso wołowe | 11:00 Mielisz mięso i układasz je na ladzie | 14:00 Doradzasz klientowi, jaki kawałek wybrać na obiad",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 270
+ },
+ {
+  "name": "Masarz koszerny",
+  "path": "Przetwórstwo spożywcze > Masarze, robotnicy w przetwórstwie ryb > Rzeźnik",
+  "hook": "Przygotowujesz mięso zgodne z regułami judaizmu: kupujesz je, kontrolujesz i dzielisz na kawałki do sprzedaży. Pracujesz z mięsem krów, owiec i kóz.",
+  "tasks": "Zamawiasz i kontrolujesz mięso koszerne | Tniesz i przycinasz mięso na porcje | Odkostniasz, wiążesz i mielisz mięso | Pilnujesz, żeby mięso pochodziło od dozwolonych zwierząt",
+  "day": "6:30 Odbierasz mięso i sprawdzasz, od jakich zwierząt pochodzi | 8:30 Rozbierasz jagnięcinę na mniejsze kawałki | 11:30 Mielisz wołowinę na zamówienie klienta | 14:00 Pakujesz porcje i opisujesz je",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 271
+ },
+ {
+  "name": "Ubojowy",
+  "path": "Przetwórstwo spożywcze > Masarze, robotnicy w przetwórstwie ryb > Ubojowy",
+  "hook": "Zajmujesz się ubojem zwierząt i przygotowaniem tusz do dalszego przetwarzania. To praca fizyczna i trudna psychicznie, wymaga spokoju i trzymania się procedur.",
+  "tasks": "Przeprowadzasz ubój zwierząt zgodnie z procedurą | Przygotowujesz tusze do dalszej obróbki | Myjesz narzędzia i stanowisko pracy | Przekazujesz tusze do dalszego przetwarzania",
+  "day": "5:00 Zakładasz odzież ochronną i myjesz narzędzia | 6:00 Przyjmujesz pierwsze zwierzęta zgodnie z procedurą | 9:00 Przygotowujesz tusze i przekazujesz je dalej | 12:30 Czyścisz stanowisko i narzędzia po zmianie",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 273
+ },
+ {
+  "name": "Ubojowy rytualny według reguł koszerności",
+  "path": "Przetwórstwo spożywcze > Masarze, robotnicy w przetwórstwie ryb > Ubojowy",
+  "hook": "Dokonujesz uboju zgodnie z prawem żydowskim i rytuałami, a potem przygotowujesz tusze mięsa koszernego do dalszej obróbki. Praca wymaga znajomości reguł i precyzji.",
+  "tasks": "Przeprowadzasz ubój według prawa żydowskiego | Stosujesz rytuały wymagane dla mięsa koszernego | Przygotowujesz tusze do przetwarzania | Przekazujesz mięso koszerne do dystrybucji",
+  "day": "5:30 Przygotowujesz narzędzia i sprawdzasz zgodność z regułami | 7:00 Przeprowadzasz ubój zgodnie z rytuałem | 9:30 Oglądasz tuszę i przygotowujesz ją do obróbki | 12:00 Przekazujesz mięso do przetwórstwa i dystrybucji",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 275
+ },
+ {
+  "name": "Oprawiacz ryb",
+  "path": "Przetwórstwo spożywcze > Masarze, robotnicy w przetwórstwie ryb",
+  "hook": "Odcinasz rybom głowy i usuwasz wnętrzności, a potem pakujesz oprawione ryby. To praca ręczna i powtarzalna, przy wilgotnym stole.",
+  "tasks": "Odcinasz głowy ryb | Usuwasz narządy wewnętrzne skrobaniem i przemywaniem | Wycinasz wadliwe fragmenty | Pakujesz oprawione ryby w pojemniki",
+  "day": "6:00 Zakładasz fartuch i rękawice, układasz skrzynie z rybami | 7:30 Odcinasz głowy i usuwasz wnętrzności | 10:30 Wycinasz fragmenty z wadami | 13:00 Pakujesz oprawione ryby do pojemników",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 277
+ },
+ {
+  "name": "Degustator kawy",
+  "path": "Przetwórstwo spożywcze > Degustatorzy i klasyfikatorzy żywności i napojów",
+  "hook": "Próbujesz próbki kawy i oceniasz jej cechy, klasę oraz wartość rynkową. Układasz też receptury mieszanek, które potem przygotowują inni.",
+  "tasks": "Degustujesz próbki kawy | Określasz klasę i wartość rynkową produktu | Oceniasz, czy kawa spodoba się różnym gustom | Opracowujesz receptury mieszanek dla pracowników",
+  "day": "8:00 Próbujesz pierwsze próbki świeżo zaparzonych kaw | 10:00 Zapisujesz ocenę aromatu i klasy | 12:30 Porównujesz dwie mieszanki i szukasz lepszej | 15:00 Przekazujesz recepturę pracownikom przygotowującym mieszanki",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 280
+ },
+ {
+  "name": "Klasyfikator żywności",
+  "path": "Przetwórstwo spożywcze > Degustatorzy i klasyfikatorzy żywności i napojów",
+  "hook": "Sortujesz produkty spożywcze według jakości, oceniając je wzrokiem, węchem lub z pomocą maszyny. Decydujesz, co pójdzie dalej, a co trzeba odrzucić.",
+  "tasks": "Oglądasz produkty i dzielisz je na klasy | Odrzucasz uszkodzone lub przeterminowane | Ważysz i mierzysz produkty | Zgłaszasz wyniki do dalszego przetwarzania",
+  "day": "6:00 Dostajesz partię owoców do oceny | 8:00 Sortujesz według wielkości i koloru | 11:00 Odrzucasz przeterminowane i obite sztuki | 13:30 Wpisujesz wyniki ważenia i klasy partii",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 281
+ },
+ {
+  "name": "Kontroler jakości mleka w gospodarstwie rolnym",
+  "path": "Przetwórstwo spożywcze > Degustatorzy i klasyfikatorzy żywności i napojów",
+  "hook": "Mierzysz i analizujesz, ile mleka daje gospodarstwo i jakie ono jest. Potem doradzasz rolnikowi, co poprawić.",
+  "tasks": "Pobierasz próbki mleka w gospodarstwie | Mierzysz ilość mleka | Analizujesz jakość mleka | Doradzasz rolnikowi, jak poprawić wyniki",
+  "day": "5:30 Jedziesz do gospodarstwa na poranne dojenie | 6:30 Pobierasz próbki mleka od krów | 9:00 Spisujesz wyniki ilości i jakości mleka | 12:00 Tłumaczysz rolnikowi, co oznaczają wyniki",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 282
+ },
+ {
+  "name": "Mistrz palenia kawy",
+  "path": "Przetwórstwo spożywcze > Degustatorzy i klasyfikatorzy żywności i napojów",
+  "hook": "Wymyślasz nowe rodzaje kawy i pilnujesz, żeby każda mieszanka smakowała tak samo za każdym razem. Spisujesz receptury dla pracowników, którzy robią mieszanki.",
+  "tasks": "Tworzysz nowe rodzaje kawy | Ustalasz sposób palenia ziaren | Opracowujesz receptury mieszanek | Przekazujesz receptury pracownikom produkcji",
+  "day": "7:00 Sprawdzasz, jak wypaliła się pierwsza partia | 9:30 Testujesz nową mieszankę z trzech gatunków ziaren | 12:00 Zmieniasz recepturę, bo smak odbiega od wzorca | 14:30 Tłumaczysz pracownikom nową recepturę",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 283
+ },
+ {
+  "name": "Mistrz słodowania",
+  "path": "Przetwórstwo spożywcze > Degustatorzy i klasyfikatorzy żywności i napojów",
+  "hook": "Oceniasz wzrokiem, zapachem i smakiem różne słody używane do warzenia piwa. Dobierasz mieszanki, żeby jakość była stale taka sama.",
+  "tasks": "Oceniasz wygląd, zapach i smak słodów | Klasyfikujesz słody do warzenia piwa | Sprawdzasz surowce i półfabrykaty | Przygotowujesz mieszanki przy nowych produktach",
+  "day": "7:00 Oglądasz i wąchasz próbki słodu z dostawy | 9:30 Sortujesz słody według klas | 12:00 Porównujesz półfabrykat ze wzorcem jakości | 14:30 Łączysz dwa słody w mieszankę testową",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 284
+ },
+ {
+  "name": "Operator prasy olejowej",
+  "path": "Przetwórstwo spożywcze > Robotnicy przetwórstwa surowców roślinnych",
+  "hook": "Obsługujesz młyn, który metodami rzemieślniczymi wyciska olej z nasion roślin oleistych. Patrzysz, jak nasiona zamieniają się w olej.",
+  "tasks": "Oglądasz nasiona przed tłoczeniem | Wsypujesz nasiona do młyna | Obsługujesz prasę wyciskającą olej | Zbierasz wyciśnięty olej do pojemników",
+  "day": "7:00 Oglądasz nasiona, czy nie ma w nich zanieczyszczeń | 9:00 Uruchamiasz młyn i wsypujesz pierwszą partię | 11:30 Zbierasz świeży olej do pojemników | 14:00 Czyścisz prasę przed następną partią",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 289
+ },
+ {
+  "name": "Pracownik tłoczenia oleju",
+  "path": "Przetwórstwo spożywcze > Robotnicy przetwórstwa surowców roślinnych",
+  "hook": "Obsługujesz prasy hydrauliczne, które wyciskają olej z nasion roślin oleistych. Maszyna działa dużą siłą, więc musisz trzymać się procedur.",
+  "tasks": "Napełniasz prasę hydrauliczną nasionami | Uruchamiasz cykl tłoczenia | Odbierasz wyciśnięty olej | Sprawdzasz, czy prasa pracuje bez usterek",
+  "day": "6:00 Sprawdzasz prasę hydrauliczną przed uruchomieniem | 8:00 Napełniasz prasę nasionami i uruchamiasz cykl | 10:30 Odbierasz olej do pojemników i oznaczasz je | 13:30 Zgłaszasz brygadziście wyciek z przewodu",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 290
+ },
+ {
+  "name": "Operator odbioru mleka",
+  "path": "Przetwórstwo spożywcze > Robotnicy w produkcji wyrobów mleczarskich",
+  "hook": "Przyjmujesz surowe mleko od dostawców i sprawdzasz jego jakość oraz ilość. Wstępnie je czyścisz, przechowujesz i kierujesz do zakładów przetwórczych.",
+  "tasks": "Przyjmujesz dostawy surowego mleka | Mierzysz ilość i sprawdzasz jakość mleka | Wstępnie oczyszczasz mleko | Kierujesz mleko do zakładów przetwórczych",
+  "day": "5:00 Przyjeżdża pierwsza dostawa mleka od rolników | 5:30 Pobierasz próbki i mierzysz ilość | 8:00 Mleko przechodzi wstępne czyszczenie i trafia do zbiornika | 11:00 Wysyłasz mleko do właściwego zakładu przetwórczego",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 291
+ },
+ {
+  "name": "Robotnik w produkcji wyrobów mleczarskich",
+  "path": "Przetwórstwo spożywcze > Robotnicy w produkcji wyrobów mleczarskich",
+  "hook": "Z surowego mleka robisz metodami rzemieślniczymi masło, ser, śmietanę lub mleko. Dużo pracy przy takiej produkcji wykonujesz ręcznie.",
+  "tasks": "Przerabiasz surowe mleko na ser i masło | Przygotowujesz śmietanę i mleko do sprzedaży | Formujesz sery i odsączasz je | Pakujesz gotowe wyroby mleczne",
+  "day": "5:30 Odbierasz mleko od rolnika i je przelewasz | 7:00 Przygotowujesz mleko do sera w kadzi | 10:00 Formujesz ser i odsączasz serwatkę | 13:00 Pakujesz masło i opisujesz partię",
+  "skills": [
+   [
+    "Dokładność i czystość",
+    "R"
+   ],
+   [
+    "Wyczucie smaku i zapachu",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ],
+   [
+    "Zasady higieny",
+    "N"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Robisz jedzenie, które trafia do ludzi",
+   "Fach potrzebny zawsze",
+   "Konkretny efekt"
+  ],
+  "minus": [
+   "Wczesne godziny lub zmiany",
+   "Praca na stojąco",
+   "Chłód, gorąco lub zapachy"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: przetwórca mięsa, piekarz, cukiernik lub operator maszyn przemysłu spożywczego",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik technologii żywności",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy w przetwórstwie spożywczym i pokrewni",
+  "pay_median_2025": 5710.57,
+  "gen_id": 292
+ },
+ {
+  "name": "Operator frezarki",
+  "path": "Obróbka drewna i produkcja papieru > Maszyny do obróbki drewna > Tartacznik",
+  "hook": "Obsługujesz przemysłową frezarkę do drewna, której głowica wycina w deskach zadany kształt. Zwykle maszyna jest sterowana komputerowo, więc ustawiasz wzór i pilnujesz cięcia.",
+  "tasks": "Wgrywasz wzór do sterowania maszyny | Mocujesz drewno na stole frezarki | Ustawiasz głębokość nacięcia | Mierzysz gotowe elementy",
+  "day": "6:00 Mocujesz deskę i uruchamiasz cykl frezowania | 8:00 Głowica wycina kształt, obserwujesz pierwsze sztuki | 11:00 Mierzysz element i korygujesz głębokość | 13:30 Zmieniasz wzór na kolejne zlecenie",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 293
+ }
+]

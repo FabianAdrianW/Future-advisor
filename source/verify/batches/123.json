@@ -1,0 +1,1762 @@
+[
+ {
+  "name": "Inżynier górnik - górnictwo odkrywkowe",
+  "path": "Inżynierowie > Inżynierowie górnicy, metalurdzy i inżynierowie w dziedzinach pokrewnych",
+  "hook": "Planujesz i prowadzisz kamieniołom: wybierasz sposób wydobycia, oceniasz, czy się opłaca, i na co dzień nadzorujesz pracę. Pilnujesz też bezpieczeństwa i wpływu na środowisko.",
+  "tasks": "Wybierasz metodę wydobycia: kopanie lub wiercenie | Oceniasz, czy nowy kamieniołom się opłaca | Nadzorujesz codzienną pracę załogi | Piszesz sprawozdania i oceniasz wpływ na środowisko",
+  "day": "6:00 Odprawa na wyrobisku, przydzielasz zadania | 8:30 Obchód kamieniołomu, sprawdzasz ściany i drogi dojazdowe | 11:30 Liczysz, ile kamienia wywieziono w tym tygodniu | 14:00 Wpisujesz do raportu pomiar pyłu i hałasu",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 620
+ },
+ {
+  "name": "Inżynier górnik - górnictwo paliw płynnych",
+  "path": "Inżynierowie > Inżynierowie górnicy, metalurdzy i inżynierowie w dziedzinach pokrewnych",
+  "hook": "Oceniasz, czy z podziemnego złoża opłaca się wydobywać paliwa płynne, i projektujesz sposób, jak to zrobić. Chodzi o ropę, gaz i inne paliwa, przy jak najmniejszym wpływie na środowisko.",
+  "tasks": "Oceniasz zakłady wydobycia paliw płynnych | Projektujesz metody wydobycia spod ziemi | Szukasz sposobu na większy odzysk paliwa | Liczysz koszty i wpływ na środowisko",
+  "day": "8:00 Analizujesz dane z pomiarów złoża | 10:30 Porównujesz dwie metody wydobycia w tabeli kosztów | 13:00 Spotkanie z geologiem o ilości paliwa w złożu | 15:00 Przygotowujesz ocenę oddziaływania na środowisko",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 621
+ },
+ {
+  "name": "Inżynier naftowy",
+  "path": "Inżynierowie > Inżynierowie górnicy, metalurdzy i inżynierowie w dziedzinach pokrewnych",
+  "hook": "Oceniasz pola ropy i gazu pod ziemią i wymyślasz, jak je opłacalnie wydobyć. Dużo czasu spędzasz nad danymi i modelami złoża.",
+  "tasks": "Oceniasz zasoby pól gazowych i olejowych | Projektujesz metody wydobycia ropy i gazu | Liczysz, ile da się odzyskać ze złoża | Porównujesz koszt wydobycia z wpływem na środowisko",
+  "day": "8:30 Przeglądasz dane z odwiertów na ekranie | 10:30 Budujesz model, ile ropy zostało w złożu | 13:00 Rozmowa z wiertnikami o zmianie planu | 15:30 Raport o opłacalności dla zarządu",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 623
+ },
+ {
+  "name": "Probierz",
+  "path": "Inżynierowie > Inżynierowie górnicy, metalurdzy i inżynierowie w dziedzinach pokrewnych",
+  "hook": "Sprawdzasz, ile w przedmiocie jest srebra lub złota i jakie ma właściwości. Oddzielasz metal szlachetny od innych składników.",
+  "tasks": "Testujesz złoto i srebro metodami fizycznymi | Wykonujesz badania chemiczne próbek metalu | Oddzielasz metal szlachetny od domieszek | Określasz wartość i skład badanego przedmiotu",
+  "day": "8:00 Ważysz próbki biżuterii na precyzyjnej wadze | 10:00 Przygotowujesz próbkę do badania składu | 12:30 Odczytujesz wynik i porównujesz z wymaganiem | 14:30 Wypisujesz wyniki dla zleceniodawcy",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 624
+ },
+ {
+  "name": "Specjalista ds. materiałów wybuchowych",
+  "path": "Inżynierowie > Inżynierowie górnicy, metalurdzy i inżynierowie w dziedzinach pokrewnych",
+  "hook": "Planujesz kontrolowane wybuchy w kopalni lub kamieniołomie i pilnujesz, żeby przebiegły bezpiecznie. Odpowiadasz też za magazyn materiałów wybuchowych i badasz niewypały.",
+  "tasks": "Projektujesz układ otworów do wiercenia | Obliczasz ilość potrzebnego materiału wybuchowego | Nadzorujesz kontrolowane wybuchy | Badasz niewypały i zarządzasz magazynem",
+  "day": "7:00 Sprawdzasz plan odpalenia i zapasy w magazynie | 9:30 Wyznaczasz strefę, z której wszyscy muszą wyjść | 12:00 Odpalenie zaplanowanej serii, potem kontrola terenu | 14:30 Sprawdzasz, czy wszystkie ładunki zadziałały",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 625
+ },
+ {
+  "name": "Enolog",
+  "path": "Inżynierowie > Inżynierowie chemicy > Inżynier chemik",
+  "hook": "Nadzorujesz, jak z winogron powstaje wino, i pilnujesz, żeby było dobre. Oceniasz jego jakość i doradzasz, jak je sklasyfikować.",
+  "tasks": "Śledzisz całą produkcję wina w winiarni | Koordynujesz pracę ludzi w winiarni | Kontrolujesz jakość wina na kolejnych etapach | Oceniasz i klasyfikujesz gotowe wina",
+  "day": "7:00 Winobranie, sprawdzasz dojrzałość winogron w skrzyniach | 10:00 Rozmowa z ekipą o kolejności tłoczenia | 13:00 Pobierasz próbki z kadzi do kontroli jakości | 16:00 Oceniasz partię wina i zapisujesz klasyfikację",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 626
+ },
+ {
+  "name": "Inżynier biochemik",
+  "path": "Inżynierowie > Inżynierowie chemicy > Inżynier chemik",
+  "hook": "Prowadzisz badania z nauk przyrodniczych i zamieniasz odkrycia w rozwiązania, takie jak szczepionki, naprawa tkanek czy czystsze paliwa. Dużo czasu spędzasz w laboratorium i przy wynikach.",
+  "tasks": "Prowadzisz badania w laboratorium | Zamieniasz wyniki badań w praktyczne rozwiązania | Pracujesz nad szczepionkami, uprawami lub czystszymi paliwami | Opisujesz doświadczenia i omawiasz wyniki",
+  "day": "8:30 Zakładasz doświadczenie, notujesz każdy parametr | 10:30 Sprawdzasz wyniki wczorajszej próby | 13:00 Narada o tym, czy metoda nadaje się do produkcji | 15:30 Czytasz nowe publikacje naukowe o swoim temacie",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 627
+ },
+ {
+  "name": "Inżynier gazownictwa - dystrybucja gazu",
+  "path": "Inżynierowie > Inżynierowie chemicy > Inżynier chemik",
+  "hook": "Projektujesz sieci, którymi gaz ziemny płynie do domów i firm, i dbasz o ich budowę. Szukasz rozwiązań tańszych i mniej obciążających środowisko.",
+  "tasks": "Projektujesz rurociągi rozprowadzające gaz do odbiorców | Łączysz sieć dystrybucji z przyłączami klientów | Planujesz trasę nowej instalacji | Szukasz rozwiązań tańszych i lepszych dla środowiska",
+  "day": "8:00 Oglądasz plan osiedla, gdzie ma dojść gaz | 10:30 Wyznaczasz na mapie trasę nowej rury | 13:00 Spotkanie z wykonawcą o przyłączach do domów | 15:00 Liczysz koszty dwóch wariantów trasy",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 630
+ },
+ {
+  "name": "Inżynier gazownictwa - produkcja gazu",
+  "path": "Inżynierowie > Inżynierowie chemicy > Inżynier chemik",
+  "hook": "Wymyślasz, jak wydobywać i produkować gaz dla energetyki i użyteczności publicznej. Ulepszasz działające systemy, żeby dawały więcej przy mniejszych stratach.",
+  "tasks": "Opracowujesz systemy produkcji gazu | Nadzorujesz bieżącą pracę zakładu produkcyjnego | Analizujesz wydajność istniejących instalacji | Wprowadzasz usprawnienia w działających systemach",
+  "day": "6:30 Sprawdzasz odczyty z instalacji po nocnej zmianie | 9:00 Obchód zakładu z kierownikiem zmiany | 11:30 Analizujesz, gdzie tracisz część wyprodukowanego gazu | 14:00 Projektujesz poprawkę w istniejącym układzie",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 631
+ },
+ {
+  "name": "Inżynier papiernik",
+  "path": "Inżynierowie > Inżynierowie chemicy > Inżynier chemik",
+  "hook": "Pilnujesz, żeby w papierni z surowców powstawał dobry papier. Wybierasz surowiec, ustawiasz maszyny i sprawdzasz, co z nich wychodzi.",
+  "tasks": "Wybierasz surowce pierwotne i z recyklingu | Sprawdzasz jakość masy i gotowego papieru | Optymalizujesz pracę maszyn papierniczych | Dobierasz dodatki do produkcji papieru",
+  "day": "6:00 Przejmujesz maszynę papierniczą od nocnej zmiany | 8:30 Pobierasz próbkę papieru i oceniasz grubość | 11:00 Zmieniasz dodatek, bo papier zbyt łatwo się rwie | 14:00 Sprawdzasz dostawę makulatury przed rozładunkiem",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 632
+ },
+ {
+  "name": "Mistrz produkcji cydru",
+  "path": "Inżynierowie > Inżynierowie chemicy > Inżynier chemik",
+  "hook": "Planujesz i pilnujesz, jak z jabłek powstaje cydr. Dopracowujesz receptury i szukasz nowych napojów na bazie cydru.",
+  "tasks": "Planujesz proces wytwarzania cydru | Kontrolujesz jakość na etapach produkcji | Zmieniasz receptury i techniki przetwarzania | Opracowujesz nowe napoje na bazie cydru",
+  "day": "7:00 Sprawdzasz, jak fermentuje partia w zbiornikach | 9:30 Odbierasz dostawę jabłek i oceniasz je | 12:00 Zapisujesz zmiany w recepturze nowego napoju | 15:00 Rozmowa z zespołem o terminie rozlewu",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 634
+ },
+ {
+  "name": "Inżynier inżynierii materiałów syntetycznych",
+  "path": "Inżynierowie > Inżynierowie chemicy",
+  "hook": "Opracowujesz i ulepszasz sposoby wytwarzania materiałów syntetycznych, takich jak tworzywa. Projektujesz też instalacje i maszyny, które je produkują.",
+  "tasks": "Rozwijasz nowe procesy produkcji materiałów syntetycznych | Ulepszasz istniejące procesy wytwarzania | Projektujesz instalacje i maszyny produkcyjne | Testujesz próbki surowców pod kątem jakości",
+  "day": "8:00 Odbierasz próbki surowców, zapisujesz wyniki testów | 10:00 Rysujesz maszynę do formowania nowego materiału | 13:00 Rozmowa z zakładem o problemie z partią | 15:00 Porównujesz dwa warianty procesu w raporcie",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 636
+ },
+ {
+  "name": "Inżynier mechanik",
+  "path": "Inżynierowie",
+  "hook": "Projektujesz maszyny i urządzenia mechaniczne, a potem pilnujesz, żeby powstały, działały i dało się je naprawiać. Dużo liczysz i analizujesz dane.",
+  "tasks": "Projektujesz produkty i systemy mechaniczne | Analizujesz dane z badań i pomiarów | Nadzorujesz wytwarzanie i montaż | Planujesz instalację i naprawę urządzeń",
+  "day": "8:30 Rysujesz część maszyny na ekranie | 10:30 Liczysz, czy element wytrzyma obciążenie | 13:00 Na hali sprawdzasz pierwszy zmontowany egzemplarz | 15:30 Omawiasz z serwisem usterkę u klienta",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 637
+ },
+ {
+  "name": "Technik kontroli jakości",
+  "path": "Technicy > Inni technicy > Technik kontroli jakości",
+  "hook": "Sprawdzasz, czy produkty i maszyny spełniają normy, i szukasz przyczyn defektów. Pracujesz z inżynierami i uczysz innych, jak kontrolować.",
+  "tasks": "Sprawdzasz produkty pod kątem defektów | Badasz maszyny, które mogą powodować wady | Przygotowujesz plany inspekcji | Szkolisz pracowników z technik kontrolnych",
+  "day": "7:00 Pobierasz pierwszą sztukę z linii i mierzysz | 9:30 Porównujesz wyniki pomiarów z normą | 11:30 Szukasz z inżynierem przyczyny powtarzających się wad | 14:00 Prowadzisz szkolenie z kontroli dla nowej osoby",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 638
+ },
+ {
+  "name": "Technik kontroli jakości - laboratoryjne testy obuwia",
+  "path": "Technicy > Inni technicy > Technik kontroli jakości",
+  "hook": "Badasz w laboratorium buty oraz ich materiały i elementy według norm. Na podstawie wyników doradzasz, czy partię przyjąć, czy odrzucić.",
+  "tasks": "Wykonujesz laboratoryjne badania obuwia | Analizujesz i interpretujesz wyniki testów | Przygotowujesz sprawozdania dla kierownika jakości | Uczestniczysz w audytach systemu jakości",
+  "day": "8:00 Przygotowujesz próbkę buta do badania | 9:30 Test wytrzymałości podeszwy na zginanie | 12:00 Porównujesz wynik z wymaganiem normy | 14:30 Piszesz sprawozdanie: przyjąć czy odrzucić partię",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 639
+ },
+ {
+  "name": "Technik kontroli jakości - laboratoryjne testy wyrobów skórzanych",
+  "path": "Technicy > Inni technicy > Technik kontroli jakości",
+  "hook": "Badasz w laboratorium wyroby ze skóry i ich materiały zgodnie z normami. Przygotowujesz próbki, wykonujesz testy i proponujesz poprawki.",
+  "tasks": "Przygotowujesz próbki skóry do badań | Stosujesz procedury badawcze zgodnie z normami | Porównujesz wyniki z wytycznymi | Współpracujesz z zewnętrznymi laboratoriami",
+  "day": "8:00 Wycinasz próbki z dostarczonej partii skóry | 10:00 Test odporności na ścieranie i rozciąganie | 12:30 Zlecasz badanie, którego nie zrobisz u siebie | 14:30 Opisujesz usterki i proponujesz środki naprawcze",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 640
+ },
+ {
+  "name": "Technik kontroli jakości chemicznej wyrobów włókienniczych",
+  "path": "Technicy > Inni technicy > Technik kontroli jakości",
+  "hook": "Badasz chemicznie tkaniny i inne wyroby włókiennicze i oceniasz wyniki. Pomagasz też przy farbowaniu i wykańczaniu materiałów.",
+  "tasks": "Wykonujesz chemiczne badania laboratoryjne tkanin | Interpretujesz wyniki i oceniasz materiał | Asystujesz przy farbowaniu materiałów | Uczestniczysz w wykańczaniu tkanin",
+  "day": "8:00 Przygotowujesz próbki materiału do badania | 10:00 Odczytujesz wynik i porównujesz z wymaganiem | 12:30 Asystujesz przy farbowaniu nowej partii tkaniny | 14:30 Opisujesz, czy kolor spełnia wymagania",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 641
+ },
+ {
+  "name": "Technik kontroli jakości wyrobów skórzanych",
+  "path": "Technicy > Inni technicy > Technik kontroli jakości",
+  "hook": "Kontrolujesz jakość wyrobów ze skóry, materiałów i składników, także w badaniach laboratoryjnych. Wyniki zamieniasz na sprawozdania i zalecenia.",
+  "tasks": "Kontrolujesz gotowe wyroby i używane materiały | Wykonujesz badania laboratoryjne według norm | Analizujesz wyniki i piszesz sprawozdania | Doradzasz, jak naprawić i zapobiec błędom",
+  "day": "8:00 Oglądasz torby z partii i szukasz wad | 10:00 Sprawdzasz zamki i klamry w gotowych torbach | 13:00 Zestawiasz wyniki badań materiału w sprawozdaniu | 15:00 Doradzasz szwalni, jak uniknąć powtórzenia błędu",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 643
+ },
+ {
+  "name": "Technik kontroli jakości wyrobów włókienniczych",
+  "path": "Technicy > Inni technicy > Technik kontroli jakości",
+  "hook": "Badasz fizycznie tkaniny i wyroby włókiennicze i porównujesz je z normami. Sprawdzasz w laboratorium ich właściwości, na przykład wytrzymałość.",
+  "tasks": "Wykonujesz fizyczne badania tkanin w laboratorium | Porównujesz właściwości z wymaganymi normami | Interpretujesz wyniki badań | Zapisujesz wyniki każdej partii w dokumentacji",
+  "day": "8:00 Mocujesz pasek tkaniny w urządzeniu do rozciągania | 10:00 Mierzysz, ile materiał kurczy się po praniu | 12:30 Porównujesz wynik z normą w tabeli | 14:30 Zapisujesz wyniki partii w dokumentacji",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 644
+ },
+ {
+  "name": "Inspektor bezpieczeństwa lotniczego",
+  "path": "Technicy > Inni technicy",
+  "hook": "Odpowiadasz za zasady bezpieczeństwa w firmach lotniczych: analizujesz przepisy, układasz procedury i pilnujesz, żeby ludzie je stosowali.",
+  "tasks": "Opracowujesz procedury bezpieczeństwa dla firm lotniczych | Analizujesz przepisy i ograniczenia | Organizujesz pracę personelu zgodnie z procedurami | Sprawdzasz, czy środki bezpieczeństwa są stosowane",
+  "day": "8:00 Czytasz nowe przepisy i porównujesz z procedurami | 10:00 Obchód hangaru, sprawdzasz stosowanie zasad | 13:00 Rozmowa z personelem o niejasnym punkcie procedury | 15:00 Piszesz poprawioną procedurę dla firmy",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 647
+ }
+]

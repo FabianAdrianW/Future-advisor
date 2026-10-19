@@ -1,0 +1,1572 @@
+[
+ {
+  "name": "Operator systemu pompowania ropy naftowej",
+  "path": "Energetyka i sterowanie procesami > Urządzenia do przeróbki ropy naftowej i gazu",
+  "hook": "Pilnujesz, żeby ropa i produkty z niej przepływały rurociągami w rafinerii bez zakłóceń. Obsługujesz pompy z automatycznej sterowni, testujesz je i naprawiasz drobne usterki.",
+  "tasks": "Monitorujesz przepływ w rurociągach | Koordynujesz pracę pomp z innymi pracownikami | Testujesz pompy, by ograniczać zakłócenia | Naprawiasz drobne usterki i piszesz sprawozdania",
+  "day": "6:30 Na ekranie sprawdzasz przepływ w każdym rurociągu | 9:00 Uruchamiasz dodatkową pompę, bo rośnie zapotrzebowanie | 11:30 Uruchamiasz test pompy zapasowej, żeby mieć pewność | 14:00 Naprawiasz drobną usterkę przy zaworze i piszesz raport",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 170
+ },
+ {
+  "name": "Operator w zakładzie przetwórstwa gazu",
+  "path": "Energetyka i sterowanie procesami > Urządzenia do przeróbki ropy naftowej i gazu",
+  "hook": "Obsługujesz urządzenia, które rozprowadzają gaz do zakładów użyteczności publicznej i odbiorców. Pilnujesz prawidłowego ciśnienia w gazociągach i tego, by dostawy zgadzały się z harmonogramem.",
+  "tasks": "Rozprowadzasz gaz do odbiorców | Pilnujesz ciśnienia w gazociągach | Porównujesz dostawy z harmonogramem i popytem | Utrzymujesz w ruchu maszyny dystrybucji gazu",
+  "day": "7:00 Odczytujesz ciśnienie w gazociągach na początek dnia | 10:00 Zakład ciepłowniczy zwiększa zamówienie na gaz | 12:30 Zmieniasz ustawienia zaworów, by wyrównać ciśnienie | 15:00 Sprawdzasz harmonogram dostaw na kolejny dzień",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 171
+ },
+ {
+  "name": "Kontroler procesów w przemyśle odzieżowym",
+  "path": "Energetyka i sterowanie procesami > Inne: technicy kontroli procesów przemysłowych > Operator zautomatyzowanej linii produkcyjnej",
+  "hook": "Obsługujesz kilka maszyn na linii, na której szyje się ubrania, i pilnujesz, żeby cały proces szedł płynnie. Reagujesz, gdy któraś maszyna przestaje pracować.",
+  "tasks": "Obsługujesz kilka maszyn jednocześnie | Śledzisz przebieg pracy na linii | Reagujesz, gdy maszyna się zatrzymuje | Dopasowujesz tempo kolejnych etapów produkcji",
+  "day": "6:00 Uruchamiasz maszyny na linii montażowej | 8:30 Pilnujesz, żeby elementy płynnie przechodziły do kolejnych stanowisk | 11:00 Jedna maszyna staje, szukasz przyczyny | 13:30 Dostosowujesz tempo linii do dziennego planu",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 172
+ },
+ {
+  "name": "Kontroler robotów przemysłowych",
+  "path": "Energetyka i sterowanie procesami > Inne: technicy kontroli procesów przemysłowych",
+  "hook": "Obsługujesz roboty przemysłowe, które podnoszą, zgrzewają i montują, i pilnujesz, żeby pracowały zgrane ze sobą. Gdy robot się psuje, testujesz go i wymieniasz wadliwe części.",
+  "tasks": "Monitorujesz pracę robotów na linii | Synchronizujesz roboty między sobą | Wymieniasz wadliwe części i naprawiasz | Oceniasz ryzyko i przeprowadzasz testy",
+  "day": "7:00 Obserwujesz roboty montujące elementy na linii | 9:30 Ręcznie korygujesz ruch ramienia, które nie trafia | 12:00 Wymieniasz zużytą końcówkę chwytaka | 14:00 Testujesz roboty po naprawie przed uruchomieniem produkcji",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 174
+ },
+ {
+  "name": "Kontroler urządzeń do produkcji pulpy drzewnej",
+  "path": "Energetyka i sterowanie procesami > Inne: technicy kontroli procesów przemysłowych",
+  "hook": "Obsługujesz maszyny, które przerabiają drewno, makulaturę i inne materiały celulozowe na pulpę, z której robi się papier. Analizujesz wyniki produkcji i w razie potrzeby zmieniasz ustawienia.",
+  "tasks": "Ustawiasz i uruchamiasz maszyny do pulpy | Monitorujesz proces przetwarzania surowca | Analizujesz wyniki produkcji | Konserwujesz i naprawiasz urządzenia",
+  "day": "6:00 Uruchamiasz maszyny i sprawdzasz podawanie surowca | 8:30 Na wykresie widzisz, że parametry pulpy odbiegają | 11:00 Zmieniasz ustawienia, żeby poprawić wyniki | 13:30 Czyścisz i przeglądasz maszynę podczas postoju",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 175
+ },
+ {
+  "name": "Kontroler urządzeń do wytopu metali",
+  "path": "Energetyka i sterowanie procesami",
+  "hook": "Prowadzisz piec, w którym topi się metal, zanim zostanie wlany do form. Mierzysz i regulujesz temperaturę, dodajesz składniki i pilnujesz, żeby metal miał właściwy skład.",
+  "tasks": "Sterujesz piecem do wytopu metali | Mierzysz i regulujesz temperaturę | Dodajesz żelazo i inne dodatki do wsadu | Zgłaszasz wady materiału i pomagasz je usunąć",
+  "day": "6:00 Ładujesz wsad do pieca według receptury | 8:30 Odczytujesz temperaturę i skład z komputera | 11:00 Dodajesz dodatki, żeby uzyskać właściwy stop | 13:30 Widzisz wadę materiału i zawiadamiasz przełożonego",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 176
+ },
+ {
+  "name": "Mistrz montażu w przemyśle",
+  "path": "Mistrzowie produkcji",
+  "hook": "Organizujesz i planujesz prace montażowe w fabryce i pilnujesz, żeby szły sprawnie. Rozwiązujesz problemy, takie jak straty w produkcji, i odpowiadasz przed kierownikiem produkcji.",
+  "tasks": "Planujesz kolejność prac montażowych | Koordynujesz pracę stanowisk montażu | Rozwiązujesz problemy, np. straty produkcji | Raportujesz kierownikowi produkcji",
+  "day": "6:00 Czytasz plan zleceń i układasz kolejność montażu | 8:30 Chodzisz po stanowiskach i patrzysz, gdzie brakuje części | 11:00 Zgłaszasz do magazynu brakujące śruby | 14:00 Raportujesz kierownikowi, ile sztuk zmontowano",
+  "skills": [
+   [
+    "Kierowanie zespołem",
+    "P"
+   ],
+   [
+    "Znajomość maszyn i procesu",
+    "R"
+   ],
+   [
+    "Planowanie pracy zmiany",
+    "L"
+   ],
+   [
+    "Dbałość o bezpieczeństwo",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Jasne polecenia",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Odpowiadasz za konkretny efekt",
+   "Awans z poziomu fachowca",
+   "Praca z ludźmi i techniką"
+  ],
+  "minus": [
+   "Odpowiedzialność za ludzi i terminy",
+   "Praca zmianowa",
+   "Presja z góry i z dołu"
+  ],
+  "routes": [
+   {
+    "n": "Od fachowca",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia w zawodzie",
+      3
+     ],
+     [
+      "praktyka",
+      "Kilka lat pracy na stanowisku",
+      4
+     ],
+     [
+      "egzamin",
+      "Tytuł mistrza lub kurs dla brygadzistów",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Mistrzowie produkcji w przemyśle przetwórczym i budownictwie oraz osoby dozoru ruchu w górnictwie",
+  "pay_median_2025": 9468.26,
+  "gen_id": 177
+ },
+ {
+  "name": "Osoba dozoru ruchu w górnictwie",
+  "path": "Mistrzowie produkcji",
+  "hook": "Kierujesz pracą kopalni lub kamieniołomu, głębinowej albo odkrywkowej. Nadzorujesz pracowników, harmonogramy i organizację, żeby wydobycie szło zgodnie z planem.",
+  "tasks": "Nadzorujesz pracowników w kopalni lub kamieniołomie | Układasz harmonogramy pracy zmian | Koordynujesz procesy wydobycia | Pilnujesz organizacji pracy na stanowiskach",
+  "day": "5:30 Ustalasz zadania z brygadzistami przed zmianą | 7:00 Obchodzisz wyrobisko i sprawdzasz, jak idzie praca | 10:30 Sprzęt się psuje, zmieniasz plan zmiany | 13:30 Spisujesz wynik zmiany i planujesz następny dzień",
+  "skills": [
+   [
+    "Kierowanie zespołem",
+    "P"
+   ],
+   [
+    "Znajomość maszyn i procesu",
+    "R"
+   ],
+   [
+    "Planowanie pracy zmiany",
+    "L"
+   ],
+   [
+    "Dbałość o bezpieczeństwo",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Jasne polecenia",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Odpowiadasz za konkretny efekt",
+   "Awans z poziomu fachowca",
+   "Praca z ludźmi i techniką"
+  ],
+  "minus": [
+   "Odpowiedzialność za ludzi i terminy",
+   "Praca zmianowa",
+   "Presja z góry i z dołu"
+  ],
+  "routes": [
+   {
+    "n": "Od fachowca",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia w zawodzie",
+      3
+     ],
+     [
+      "praktyka",
+      "Kilka lat pracy na stanowisku",
+      4
+     ],
+     [
+      "egzamin",
+      "Tytuł mistrza lub kurs dla brygadzistów",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Mistrzowie produkcji w przemyśle przetwórczym i budownictwie oraz osoby dozoru ruchu w górnictwie",
+  "pay_median_2025": 9468.26,
+  "gen_id": 179
+ },
+ {
+  "name": "Sztygar",
+  "path": "Mistrzowie produkcji",
+  "hook": "Nadzorujesz brygadę górników i odpowiadasz za to, żeby praca w kopalni szła zgodnie z planem i bezpiecznie. Pilnujesz ludzi, instalacji i sprzętu.",
+  "tasks": "Rozdzielasz zadania brygadzie na zmianie | Sprawdzasz stan maszyn i instalacji | Pilnujesz przestrzegania zasad bezpieczeństwa | Zgłaszasz postępy i problemy przełożonym",
+  "day": "5:30 Odprawa z brygadą przed zjazdem na dół | 7:00 Obchód stanowisk i kontrola sprzętu | 10:30 Awaria przenośnika, organizujesz naprawę | 13:30 Spisujesz raport zmiany dla następnej brygady",
+  "skills": [
+   [
+    "Kierowanie zespołem",
+    "P"
+   ],
+   [
+    "Znajomość maszyn i procesu",
+    "R"
+   ],
+   [
+    "Planowanie pracy zmiany",
+    "L"
+   ],
+   [
+    "Dbałość o bezpieczeństwo",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Jasne polecenia",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Odpowiadasz za konkretny efekt",
+   "Awans z poziomu fachowca",
+   "Praca z ludźmi i techniką"
+  ],
+  "minus": [
+   "Odpowiedzialność za ludzi i terminy",
+   "Praca zmianowa",
+   "Presja z góry i z dołu"
+  ],
+  "routes": [
+   {
+    "n": "Od fachowca",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia w zawodzie",
+      3
+     ],
+     [
+      "praktyka",
+      "Kilka lat pracy na stanowisku",
+      4
+     ],
+     [
+      "egzamin",
+      "Tytuł mistrza lub kurs dla brygadzistów",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Mistrzowie produkcji w przemyśle przetwórczym i budownictwie oraz osoby dozoru ruchu w górnictwie",
+  "pay_median_2025": 9468.26,
+  "gen_id": 181
+ },
+ {
+  "name": "Technik gospodarki odpadami",
+  "path": "Mistrzowie produkcji",
+  "hook": "Koordynujesz pracę zakładu, który odbiera, sortuje i przetwarza odpady. Pilnujesz, żeby wszystko odbywało się zgodnie z przepisami ochrony środowiska.",
+  "tasks": "Nadzorujesz pracowników na sortowni lub składowisku | Sprawdzasz zgodność z przepisami o odpadach | Szukasz sposobów na mniejszą ilość odpadów | Wypełniasz dokumentację przyjętych i wywiezionych odpadów",
+  "day": "6:30 Rozdzielasz pracowników na stanowiska sortowania | 9:00 Kontrolujesz, czy ciężarówki wwożą właściwe odpady | 12:00 Sprawdzasz papiery wywozu odpadów | 14:00 Omawiasz pomysł na mniejszą ilość odpadów",
+  "skills": [
+   [
+    "Kierowanie zespołem",
+    "P"
+   ],
+   [
+    "Znajomość maszyn i procesu",
+    "R"
+   ],
+   [
+    "Planowanie pracy zmiany",
+    "L"
+   ],
+   [
+    "Dbałość o bezpieczeństwo",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Jasne polecenia",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Odpowiadasz za konkretny efekt",
+   "Awans z poziomu fachowca",
+   "Praca z ludźmi i techniką"
+  ],
+  "minus": [
+   "Odpowiedzialność za ludzi i terminy",
+   "Praca zmianowa",
+   "Presja z góry i z dołu"
+  ],
+  "routes": [
+   {
+    "n": "Od fachowca",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia w zawodzie",
+      3
+     ],
+     [
+      "praktyka",
+      "Kilka lat pracy na stanowisku",
+      4
+     ],
+     [
+      "egzamin",
+      "Tytuł mistrza lub kurs dla brygadzistów",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Mistrzowie produkcji w przemyśle przetwórczym i budownictwie oraz osoby dozoru ruchu w górnictwie",
+  "pay_median_2025": 9468.26,
+  "gen_id": 182
+ },
+ {
+  "name": "Technik przetwórstwa nabiału",
+  "path": "Mistrzowie produkcji",
+  "hook": "Pilnujesz, żeby w mleczarni mleko zamieniało się w ser, jogurt czy lody według ustalonych norm. Koordynujesz pracę operatorów i techników utrzymania ruchu.",
+  "tasks": "Nadzorujesz linię produkcji sera lub lodów | Koordynujesz pracę operatorów maszyn | Pomagasz technologom ulepszać procesy | Tworzysz procedury produkcji i pakowania",
+  "day": "5:30 Sprawdzasz papiery dostawy mleka od kierowcy | 8:00 Obchód linii, rozmowa z operatorami maszyn | 11:00 Test nowej receptury z technologiem | 14:00 Spisujesz zasady pakowania nowego produktu",
+  "skills": [
+   [
+    "Kierowanie zespołem",
+    "P"
+   ],
+   [
+    "Znajomość maszyn i procesu",
+    "R"
+   ],
+   [
+    "Planowanie pracy zmiany",
+    "L"
+   ],
+   [
+    "Dbałość o bezpieczeństwo",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Jasne polecenia",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Odpowiadasz za konkretny efekt",
+   "Awans z poziomu fachowca",
+   "Praca z ludźmi i techniką"
+  ],
+  "minus": [
+   "Odpowiedzialność za ludzi i terminy",
+   "Praca zmianowa",
+   "Presja z góry i z dołu"
+  ],
+  "routes": [
+   {
+    "n": "Od fachowca",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia w zawodzie",
+      3
+     ],
+     [
+      "praktyka",
+      "Kilka lat pracy na stanowisku",
+      4
+     ],
+     [
+      "egzamin",
+      "Tytuł mistrza lub kurs dla brygadzistów",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Mistrzowie produkcji w przemyśle przetwórczym i budownictwie oraz osoby dozoru ruchu w górnictwie",
+  "pay_median_2025": 9468.26,
+  "gen_id": 183
+ },
+ {
+  "name": "Operator urządzeń do produkcji farb",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych > Operator urządzeń mieszających do produkcji wyrobów chemicznych",
+  "hook": "Obsługujesz maszyny, które mieszają lakiery, rozpuszczalniki i farby w gotowy produkt. Pilnujesz, żeby każda partia wyszła dokładnie według receptury.",
+  "tasks": "Ustawiasz mieszalnik według receptury | Odważasz i dodajesz składniki do partii | Konserwujesz i czyścisz maszyny | Sprawdzasz, czy gotowa partia pasuje do receptury",
+  "day": "6:00 Odczytujesz z karty, jaką partię mieszasz | 8:00 Dodajesz składniki i uruchamiasz mieszalnik | 11:00 Pobierasz próbkę i porównujesz ją z wzorem | 13:30 Czyścisz zbiornik przed następną partią",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 184
+ },
+ {
+  "name": "Operator urządzeń do produkcji lakierów żywicznych",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych > Operator urządzeń mieszających do produkcji wyrobów chemicznych",
+  "hook": "Obsługujesz mieszalniki, w których składniki chemiczne są topione, mieszane i gotowane na lakier żywiczny. Pracujesz według specyfikacji i pilnujesz każdego etapu.",
+  "tasks": "Ładujesz składniki chemiczne do mieszalnika | Topisz i gotujesz mieszaninę według specyfikacji | Obserwujesz wskazania temperatury i czasu | Spisujesz parametry każdej partii",
+  "day": "6:00 Zerkasz do specyfikacji dzisiejszej partii | 7:30 Ładujesz składniki do pustego mieszalnika | 10:00 Partia się gotuje, co chwilę sprawdzasz wskazania | 13:30 Przekazujesz zmiennikowi notatki o partii",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 186
+ },
+ {
+  "name": "Operator urządzeń do produkcji mieszanek zapalających",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych > Operator urządzeń mieszających do produkcji wyrobów chemicznych",
+  "hook": "Obsługujesz maszyny, które mieszają ciecze i suche substancje na zapalniki i proszki znakujące. Pracujesz według ścisłych procedur bezpieczeństwa, a parametry muszą zgadzać się ze specyfikacją.",
+  "tasks": "Ustawiasz wymagane parametry maszyn | Pilnujesz mieszania cieczy i suchych składników | Sprawdzasz zgodność mieszanki ze specyfikacją | Przestrzegasz procedur bezpieczeństwa na stanowisku",
+  "day": "6:00 Odprawa bezpieczeństwa przed wejściem na halę | 7:00 Sprawdzasz ustawienia maszyny na karcie | 10:00 Kontrolujesz przebieg mieszania według specyfikacji | 13:00 Przekazujesz dokumentację partii kierownikowi zmiany",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 187
+ },
+ {
+  "name": "Operator urządzeń do produkcji nawozów sztucznych",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych > Operator urządzeń mieszających do produkcji wyrobów chemicznych",
+  "hook": "Obsługujesz maszyny, które mieszają składniki chemiczne na nawóz. Pilnujesz, żeby gotowy produkt miał skład zgodny ze specyfikacją.",
+  "tasks": "Dozujesz składniki nawozu do mieszalnika | Uruchamiasz i konserwujesz maszyny mieszające | Pobierasz próbki gotowego nawozu | Zapisujesz skład i ilość partii",
+  "day": "6:00 Odbierasz zmianę i czytasz notatki | 8:00 Uruchamiasz mieszanie nowej partii nawozu | 11:00 Pobierasz próbkę do sprawdzenia składu | 14:00 Notujesz ilość i skład wyprodukowanej partii",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 188
+ },
+ {
+  "name": "Operator urządzeń do produkcji pestycydów",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych > Operator urządzeń mieszających do produkcji wyrobów chemicznych",
+  "hook": "Obsługujesz maszyny, które mieszają suche i płynne składniki w środki na owady, grzyby, gryzonie lub chwasty. Każda partia musi zgadzać się z recepturą.",
+  "tasks": "Odmierzasz składniki suche i ciekłe | Obsługujesz maszyny mieszające preparaty | Konserwujesz mieszalniki i zbiorniki | Porównujesz gotową partię z recepturą",
+  "day": "6:30 Sprawdzasz, który preparat dziś produkujesz | 8:00 Zakładasz odzież ochronną i uruchamiasz mieszanie | 11:00 Kontrolujesz mieszalnik i zapisujesz wskazania | 14:00 Czyścisz urządzenie przed zmianą receptury",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 189
+ },
+ {
+  "name": "Operator urządzeń mieszających do produkcji wyrobów chemicznych",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych > Operator urządzeń mieszających do produkcji wyrobów chemicznych",
+  "hook": "Obsługujesz zbiorniki i mieszalniki, w których surowce stają się produktem chemicznym. Trzymasz się raportu szarżowego, w którym zapisano, co i ile dodać.",
+  "tasks": "Czytasz raport szarżowy partii | Ładujesz surowce do zbiornika mieszającego | Obsługujesz i konserwujesz mieszalniki | Sprawdzasz zgodność produktu ze specyfikacją",
+  "day": "6:00 Bierzesz raport szarżowy dzisiejszej partii | 7:30 Surowce płyną do zbiornika, kontrolujesz dozowanie | 10:30 Mieszalnik hałasuje, szukasz przyczyny | 13:30 Podpisujesz raport i oddajesz zmianę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 190
+ },
+ {
+  "name": "Mydlarz",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych > Mydlarz",
+  "hook": "Obsługujesz mieszalniki i urządzenia, w których powstaje mydło. Pilnujesz, żeby każda partia powstawała według ustalonej receptury.",
+  "tasks": "Przygotowujesz składniki mydła według receptury | Obsługujesz mieszalniki do produkcji mydła | Pilnujesz parametrów pracy urządzeń | Notujesz przebieg każdej partii",
+  "day": "6:00 Przygotowujesz składniki dzisiejszej partii mydła | 8:00 Włączasz mieszalnik i obserwujesz masę mydlaną | 11:00 Porównujesz gotową partię z recepturą | 13:30 Czyścisz urządzenia i zapisujesz wyniki",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 191
+ },
+ {
+  "name": "Operator urządzeń do produkcji wiórków mydlanych",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych > Mydlarz",
+  "hook": "Obsługujesz maszyny, które zamieniają kostki mydła w wiórki. Zajmujesz się też transportem i przechowywaniem gotowych wiórków.",
+  "tasks": "Zasilasz maszynę kostkami mydła | Ustawiasz maszynę zgodnie z recepturą | Przewozisz wiórki do magazynu | Układasz wiórki w miejscu przechowywania",
+  "day": "6:30 Przywozisz paletę kostek mydła pod maszynę | 8:00 Maszyna rozdrabnia kostki, ty kontrolujesz efekt | 11:00 Wiórki jadą na wózku do magazynu | 14:00 Liczysz zapasy i zapisujesz stan magazynu",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 193
+ },
+ {
+  "name": "Dyspozytor kopalni",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych",
+  "hook": "Siedzisz w sterowni kopalni i śledzisz na monitorach i wskaźnikach, co się dzieje w całym zakładzie. Gdy coś odbiega od normy, reagujesz według procedur.",
+  "tasks": "Monitorujesz procesy na ekranach i wskaźnikach | Zmieniasz ustawienia zmiennych procesu | Łączysz się z innymi oddziałami kopalni | Uruchamiasz procedury w razie awarii",
+  "day": "6:00 Przejmujesz sterownię i czytasz notatki | 9:00 Na schemacie zapala się ostrzeżenie, dzwonisz do oddziału | 12:00 Zmieniasz ustawienia i informujesz sąsiedni oddział | 14:00 Zapisujesz zdarzenia zmiany w dzienniku",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 194
+ }
+]

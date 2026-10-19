@@ -1,0 +1,1787 @@
+[
+ {
+  "name": "Przedstawiciel handlowy",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Przedstawiciel handlowy",
+  "hook": "Sprzedajesz produkty lub usługi swojej firmy innym firmom i organizacjom. Opowiadasz o ofercie, odpowiadasz na pytania i starasz się zdobyć zamówienie.",
+  "tasks": "Umawiasz spotkania z firmami | Przedstawiasz ofertę i odpowiadasz na pytania | Dowiadujesz się, czego potrzebuje klient | Przekazujesz zamówienie do realizacji",
+  "day": "8:30 Dzwonisz do firm i umawiasz spotkania | 10:30 Jedziesz do klienta z próbkami produktów | 12:00 Prezentujesz ofertę i słuchasz zastrzeżeń | 16:00 Wpisujesz zamówienia i planujesz kolejne wizyty",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 344
+ },
+ {
+  "name": "Przedstawiciel handlowy zakładu energetycznego",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Przedstawiciel handlowy",
+  "hook": "Sprawdzasz, ile energii elektrycznej potrzebuje klient, i przekonujesz go do zakupu prądu od firmy, którą reprezentujesz. Negocjujesz z nim warunki sprzedaży.",
+  "tasks": "Pytasz klienta, na co zużywa energię | Szacujesz jego roczne zapotrzebowanie na energię | Przedstawiasz ofertę swojej firmy | Negocjujesz warunki umowy",
+  "day": "9:00 Analizujesz zużycie energii w firmie klienta | 11:00 Spotykasz właściciela małej hali produkcyjnej | 13:00 Tłumaczysz różnice między swoją ofertą a obecną | 15:30 Negocjujesz warunki i wysyłasz projekt umowy",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 345
+ },
+ {
+  "name": "Sprzedawca energii odnawialnej",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Przedstawiciel handlowy",
+  "hook": "Dowiadujesz się, ile energii potrzebuje klient, i przekonujesz go do kupowania jej ze źródeł odnawialnych, takich jak słońce czy wiatr. Promujesz dostawców zielonej energii i produkty na niej oparte.",
+  "tasks": "Oceniasz zapotrzebowanie klienta na energię | Przedstawiasz zalety energii odnawialnej | Promujesz dostawców i produkty z odnawialnych źródeł | Odpowiadasz na wątpliwości klientów co do kosztów",
+  "day": "8:30 Przygotowujesz ofertę dla firmy z dużym dachem | 10:30 Wyjaśniasz kierownikowi, skąd bierze się energia z wiatru | 13:00 Odpowiadasz na pytania o koszty i zwrot inwestycji | 15:30 Dzwonisz do klientów, którzy rozważają zmianę dostawcy",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 346
+ },
+ {
+  "name": "Dyrektor domu towarowego",
+  "path": "Kierownicy sklepów i hurtowni",
+  "hook": "Odpowiadasz za cały duży sklep z wieloma działami: za pracę ludzi, sprzedaż i obsługę klientów. Podejmujesz decyzje o pracownikach, zamówieniach i organizacji sklepu.",
+  "tasks": "Układasz grafik i zadania dla kierowników działów | Czytasz raporty sprzedaży z wszystkich działów | Rozwiązujesz poważne skargi klientów | Decydujesz o organizacji i wyglądzie sklepu",
+  "day": "8:00 Zebranie z kierownikami działów przed otwarciem | 10:00 Obchodzisz sklep i oglądasz wystawy | 13:00 Rozmawiasz z klientem, który złożył skargę | 16:00 Analizujesz sprzedaż z całego dnia",
+  "skills": [
+   [
+    "Kierowanie zespołem",
+    "P"
+   ],
+   [
+    "Obsługa klienta",
+    "P"
+   ],
+   [
+    "Planowanie zamówień",
+    "L"
+   ],
+   [
+    "Liczenie wyników",
+    "L"
+   ],
+   [
+    "Układ i wygląd sklepu",
+    "O"
+   ],
+   [
+    "Rozwiązywanie konfliktów",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Duży wpływ na firmę",
+   "Różnorodne wyzwania",
+   "Praca z ludźmi z wielu działów"
+  ],
+  "minus": [
+   "Duża odpowiedzialność",
+   "Długie godziny pracy",
+   "Trudne decyzje o ludziach"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedawcy",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia lub branżowa",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca jako sprzedawca",
+      2
+     ],
+     [
+      "praktyka",
+      "Zastępca kierownika",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Studia i awans",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Kilka lat pracy w branży",
+      4
+     ],
+     [
+      "praktyka",
+      "Awans na stanowisko kierownicze",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierownicy do spraw handlu detalicznego i hurtowego",
+  "pay_median_2025": 7100,
+  "gen_id": 347
+ },
+ {
+  "name": "Dyrektor supermarketu",
+  "path": "Kierownicy sklepów i hurtowni",
+  "hook": "Odpowiadasz za działanie całego supermarketu i jego pracowników, od dostaw przez półki po kasy. Pilnujesz, żeby półki były pełne, kasy działały, a pracownicy wiedzieli, co mają robić.",
+  "tasks": "Sprawdzasz dostawy i stan półek | Układasz grafik pracy kasjerów i magazynierów | Reagujesz na braki towaru i awarie | Rozmawiasz z dostawcami o terminach i cenach",
+  "day": "6:00 Przyjeżdżasz przed otwarciem i sprawdzasz dostawy | 8:00 Otwierasz sklep, na kasach brakuje ludzi | 12:00 Awaria chłodni, organizujesz przeniesienie towaru | 15:00 Liczysz utarg i planujesz grafik na kolejny tydzień",
+  "skills": [
+   [
+    "Kierowanie zespołem",
+    "P"
+   ],
+   [
+    "Obsługa klienta",
+    "P"
+   ],
+   [
+    "Planowanie zamówień",
+    "L"
+   ],
+   [
+    "Liczenie wyników",
+    "L"
+   ],
+   [
+    "Układ i wygląd sklepu",
+    "O"
+   ],
+   [
+    "Rozwiązywanie konfliktów",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Duży wpływ na firmę",
+   "Różnorodne wyzwania",
+   "Praca z ludźmi z wielu działów"
+  ],
+  "minus": [
+   "Duża odpowiedzialność",
+   "Długie godziny pracy",
+   "Trudne decyzje o ludziach"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedawcy",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia lub branżowa",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca jako sprzedawca",
+      2
+     ],
+     [
+      "praktyka",
+      "Zastępca kierownika",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Studia i awans",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Kilka lat pracy w branży",
+      4
+     ],
+     [
+      "praktyka",
+      "Awans na stanowisko kierownicze",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierownicy do spraw handlu detalicznego i hurtowego",
+  "pay_median_2025": 7100,
+  "gen_id": 348
+ },
+ {
+  "name": "Kierownik działu w domu towarowym",
+  "path": "Kierownicy sklepów i hurtowni",
+  "hook": "Odpowiadasz za jeden dział w domu towarowym, na przykład odzież lub zabawki: za jego ludzi, towar i wygląd. Pilnujesz, żeby dział miał towar i obsadę.",
+  "tasks": "Układasz grafik sprzedawców w swoim dziale | Zamawiasz towar i ustawiasz go na półkach | Pomagasz sprzedawcom przy trudnych klientach | Sprawdzasz, ile dział sprzedaje danego dnia",
+  "day": "8:30 Sprawdzasz wyniki wczorajszej sprzedaży i zamawiasz towar | 10:00 Razem ze sprzedawcami zmieniasz wystawę działu | 14:00 Klient żąda zwrotu, tłumaczysz zasady | 17:00 Liczysz utarg działu i zamykasz stoisko",
+  "skills": [
+   [
+    "Kierowanie zespołem",
+    "P"
+   ],
+   [
+    "Obsługa klienta",
+    "P"
+   ],
+   [
+    "Planowanie zamówień",
+    "L"
+   ],
+   [
+    "Liczenie wyników",
+    "L"
+   ],
+   [
+    "Układ i wygląd sklepu",
+    "O"
+   ],
+   [
+    "Rozwiązywanie konfliktów",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Duży wpływ na firmę",
+   "Różnorodne wyzwania",
+   "Praca z ludźmi z wielu działów"
+  ],
+  "minus": [
+   "Duża odpowiedzialność",
+   "Długie godziny pracy",
+   "Trudne decyzje o ludziach"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedawcy",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia lub branżowa",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca jako sprzedawca",
+      2
+     ],
+     [
+      "praktyka",
+      "Zastępca kierownika",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Studia i awans",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Kilka lat pracy w branży",
+      4
+     ],
+     [
+      "praktyka",
+      "Awans na stanowisko kierownicze",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierownicy do spraw handlu detalicznego i hurtowego",
+  "pay_median_2025": 7100,
+  "gen_id": 349
+ },
+ {
+  "name": "Opiekun klienta",
+  "path": "Kierownicy sklepów i hurtowni",
+  "hook": "Jesteś głównym kontaktem firmy dla wybranych klientów: sprzedajesz im produkty lub usługi i utrzymujesz z nimi relację przez lata. Znasz ich potrzeby, proponujesz rozwiązania i przygotowujesz umowy.",
+  "tasks": "Rozmawiasz z klientem o jego potrzebach | Proponujesz produkty i usługi firmy | Przygotowujesz umowy i warunki współpracy | Odpowiadasz na pytania klientów po sprzedaży",
+  "day": "9:00 Sprawdzasz notatki przed rozmową z klientem | 10:30 Dzwonisz do klienta, który ma problem z usługą | 13:00 Przedstawiasz klientowi nową ofertę na wideorozmowie | 15:30 Piszesz projekt umowy na kolejny rok",
+  "skills": [
+   [
+    "Kierowanie zespołem",
+    "P"
+   ],
+   [
+    "Obsługa klienta",
+    "P"
+   ],
+   [
+    "Planowanie zamówień",
+    "L"
+   ],
+   [
+    "Liczenie wyników",
+    "L"
+   ],
+   [
+    "Układ i wygląd sklepu",
+    "O"
+   ],
+   [
+    "Rozwiązywanie konfliktów",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Duży wpływ na firmę",
+   "Różnorodne wyzwania",
+   "Praca z ludźmi z wielu działów"
+  ],
+  "minus": [
+   "Duża odpowiedzialność",
+   "Długie godziny pracy",
+   "Trudne decyzje o ludziach"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedawcy",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia lub branżowa",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca jako sprzedawca",
+      2
+     ],
+     [
+      "praktyka",
+      "Zastępca kierownika",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Studia i awans",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Kilka lat pracy w branży",
+      4
+     ],
+     [
+      "praktyka",
+      "Awans na stanowisko kierownicze",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierownicy do spraw handlu detalicznego i hurtowego",
+  "pay_median_2025": 7100,
+  "gen_id": 351
+ },
+ {
+  "name": "Regionalny dyrektor handlowy",
+  "path": "Kierownicy sklepów i hurtowni",
+  "hook": "Odpowiadasz za wiele sklepów lub oddziałów w jednym regionie i za ich kierowników. Jeździsz po placówkach, porównujesz wyniki i decydujesz, co zmienić.",
+  "tasks": "Jeździsz po sklepach w swoim regionie | Porównujesz wyniki sprzedaży placówek | Rozmawiasz z kierownikami o problemach | Ustalasz cele sprzedaży na kolejny okres",
+  "day": "7:30 Jedziesz do pierwszego sklepu w regionie | 9:00 Oglądasz sklep razem z jego kierownikiem | 13:00 Porównujesz wyniki sprzedaży wszystkich placówek | 16:00 Na zebraniu online ustalasz cele na kolejny kwartał",
+  "skills": [
+   [
+    "Kierowanie zespołem",
+    "P"
+   ],
+   [
+    "Obsługa klienta",
+    "P"
+   ],
+   [
+    "Planowanie zamówień",
+    "L"
+   ],
+   [
+    "Liczenie wyników",
+    "L"
+   ],
+   [
+    "Układ i wygląd sklepu",
+    "O"
+   ],
+   [
+    "Rozwiązywanie konfliktów",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Duży wpływ na firmę",
+   "Różnorodne wyzwania",
+   "Praca z ludźmi z wielu działów"
+  ],
+  "minus": [
+   "Duża odpowiedzialność",
+   "Długie godziny pracy",
+   "Trudne decyzje o ludziach"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedawcy",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia lub branżowa",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca jako sprzedawca",
+      2
+     ],
+     [
+      "praktyka",
+      "Zastępca kierownika",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Studia i awans",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Kilka lat pracy w branży",
+      4
+     ],
+     [
+      "praktyka",
+      "Awans na stanowisko kierownicze",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierownicy do spraw handlu detalicznego i hurtowego",
+  "pay_median_2025": 7100,
+  "gen_id": 352
+ },
+ {
+  "name": "Asystent ds. marketingu",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu > Specjalista ds. marketingu",
+  "hook": "Pomagasz kierownikom marketingu w codziennych sprawach: przygotowujesz zestawienia dla innych działów i organizujesz ludzi do zadań. Pilnujesz, żeby na każde działanie ktoś był przydzielony.",
+  "tasks": "Przygotowujesz sprawozdania z działań marketingowych | Wysyłasz zestawienia do księgowości i finansów | Pilnujesz, żeby na zadania byli ludzie | Wspierasz kierownika przy organizacji kampanii",
+  "day": "8:30 Zbierasz wyniki wczorajszej kampanii do raportu | 10:30 Wysyłasz zestawienie kosztów do księgowości | 12:30 Ustalasz, kto z zespołu zajmie się sesją zdjęciową | 15:00 Rezerwujesz salę na spotkanie z klientem",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 353
+ },
+ {
+  "name": "Kierownik ds. usług elektronicznych",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu > Specjalista ds. marketingu",
+  "hook": "Planujesz, jak firma ma sprzedawać swoje produkty i usługi przez internet, i pilnujesz, żeby ten plan działał. Sprawdzasz, jak idzie sprzedaż w sieci, i poprawiasz to, co nie działa.",
+  "tasks": "Układasz strategię sprzedaży przez internet | Sprawdzasz, czy dane o produktach są spójne | Śledzisz wyniki sprzedaży w sklepie internetowym | Ustalasz z marketingiem i sprzedażą wspólne cele",
+  "day": "9:00 Oglądasz wyniki sklepu internetowego z weekendu | 11:00 Znajdujesz sprzeczne opisy tego samego produktu | 13:00 Spotykasz się z zespołem marketingu w sprawie promocji | 15:30 Zmieniasz plan, bo jedna strona sprzedaje słabo",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 354
+ },
+ {
+  "name": "Specjalista ds. marketingu",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu > Specjalista ds. marketingu",
+  "hook": "Doradzasz firmom, jak wprowadzić na rynek markę lub produkt i jak sprawić, żeby klienci widzieli firmę tak, jak ona chce. Najpierw badasz, jak firma jest postrzegana dzisiaj.",
+  "tasks": "Badasz, jak klienci widzą firmę | Ustalasz cel kampanii razem z klientem | Opracowujesz strategię wprowadzenia produktu | Przedstawiasz klientowi plan działania",
+  "day": "9:00 Czytasz wyniki ankiety wśród klientów firmy | 11:00 Rozmawiasz z właścicielem o celu nowej kampanii | 13:30 Szkicujesz plan wprowadzenia nowego produktu | 16:00 Prezentujesz klientowi plan na spotkaniu",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 355
+ },
+ {
+  "name": "Specjalista ds. planowania mediów",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu > Specjalista ds. marketingu",
+  "hook": "Wybierasz, gdzie reklama ma się pojawić: w telewizji, radiu, internecie czy na billboardach, żeby trafiła do właściwych ludzi. Oceniasz, który kanał najlepiej pasuje do przekazu.",
+  "tasks": "Analizujesz plan reklamowy i cel kampanii | Porównujesz kanały komunikacji i ich zasięg | Oceniasz, który kanał przyniesie najwięcej odpowiedzi | Doradzasz klientowi, gdzie kupić miejsce na reklamę",
+  "day": "9:00 Czytasz cele kampanii nowego produktu | 11:00 Porównujesz zasięg radia i serwisów internetowych | 13:30 Liczysz, ile osób z grupy docelowej zobaczy reklamę | 16:00 Przedstawiasz klientowi plan z podziałem na kanały",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 357
+ },
+ {
+  "name": "Asystent ds. promocji",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu",
+  "hook": "Wspierasz promocje w sklepach i innych punktach sprzedaży: zbierasz informacje, czy dana promocja ma sens, a jeśli tak, zdobywasz materiały do jej przeprowadzenia. Pomagasz kadrze kierowniczej podjąć decyzję.",
+  "tasks": "Zbierasz informacje o sprzedaży i cenach | Sprawdzasz, czy promocja jest potrzebna | Zamawiasz plakaty, stojaki i inne materiały | Sprawdzasz w sklepach, jak przebiega promocja",
+  "day": "8:30 Zbierasz dane o sprzedaży produktu przed promocją | 10:30 Przygotowujesz dla kierownika krótką notatkę z wnioskami | 13:00 Zamawiasz plakaty i stojaki do sklepów | 15:00 Jedziesz do sklepu i sprawdzasz, jak wygląda ekspozycja",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 358
+ },
+ {
+  "name": "Dyrektor kreatywny",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu",
+  "hook": "Kierujesz zespołem, który wymyśla reklamy, i odpowiadasz za to, jak ostatecznie wyglądają i brzmią. Pokazujesz gotowe pomysły klientowi i ich bronisz.",
+  "tasks": "Oceniasz szkice i hasła zespołu | Wskazujesz, co poprawić w projekcie | Prezentujesz kampanię klientowi | Pilnujesz, żeby reklama trzymała jeden styl",
+  "day": "9:30 Burza mózgów nad hasłem do nowej kampanii | 11:30 Przeglądasz szkice grafików i dajesz uwagi | 14:00 Prezentujesz klientowi trzy warianty reklamy | 17:00 Klient chce zmian, ustalasz je z zespołem",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 360
+ },
+ {
+  "name": "Kierownik ds. obsługi klienta",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu",
+  "hook": "Dbasz o to, żeby goście hotelu, restauracji czy parku rozrywki dobrze się czuli od wejścia do wyjścia. Szukasz miejsc, w których obsługa zawodzi, i je poprawiasz.",
+  "tasks": "Sprawdzasz, jak goście oceniają obsługę | Poprawiasz sposób witania i obsługi gości | Układasz plan zmian w obiekcie | Rozmawiasz z niezadowolonymi gośćmi",
+  "day": "8:00 Czytasz opinie gości z weekendu | 10:00 Odprawa z recepcją i obsługą sali | 13:00 Rozmawiasz z gościem, któremu zgubiono bagaż | 16:00 Układasz plan szkolenia dla nowych pracowników",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 361
+ },
+ {
+  "name": "Menedżer marki",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu",
+  "hook": "Odpowiadasz za to, jak marka jest widziana i czym wyróżnia się na tle innych. Sprawdzasz, kto ją kupuje, i planujesz, jak ją pokazać.",
+  "tasks": "Badasz, kim są klienci marki | Porównujesz markę z konkurencją | Planujesz kampanie i wygląd marki | Pilnujesz spójności komunikatów",
+  "day": "9:00 Czytasz raport o tym, kto kupuje produkt | 11:00 Spotkanie z agencją reklamową nad nową kampanią | 14:00 Oceniasz projekt opakowania i dajesz uwagi | 16:00 Sprawdzasz, jak kampania wpłynęła na sprzedaż",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 363
+ },
+ {
+  "name": "Menedżer produktów i usług",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu",
+  "hook": "Decydujesz, co firma ma w ofercie: które produkty zostają, które dochodzą, a które znikają. Dopasowujesz ofertę do tego, czego chcą klienci.",
+  "tasks": "Układasz katalog produktów firmy | Decydujesz, co dodać do oferty | Wycofujesz produkty, które się nie sprzedają | Zbierasz opinie klientów i sprzedawców",
+  "day": "9:00 Przeglądasz, które produkty sprzedają się najsłabiej | 11:00 Spotkanie z działem sprzedaży o nowej usłudze | 13:30 Rozmawiasz z dostawcą o nowej linii produktów | 15:30 Decydujesz, co wchodzi do przyszłorocznego katalogu",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 364
+ },
+ {
+  "name": "Specjalista do spraw członkowskich",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu",
+  "hook": "Dbasz o członków organizacji, np. klubu, stowarzyszenia czy związku, i szukasz nowych. Pilnujesz, żeby ludzie chcieli zostać i wiedzieli, co dzięki członkostwu dostają.",
+  "tasks": "Odpowiadasz na pytania obecnych członków | Kontaktujesz się z osobami chętnymi do wstąpienia | Układasz plan pozyskiwania nowych członków | Sprawdzasz, ilu członków odchodzi i dlaczego",
+  "day": "9:00 Odpisujesz członkom na maile z pytaniami | 11:00 Dzwonisz do firmy zainteresowanej wstąpieniem | 13:30 Czytasz zestawienie, kto nie odnowił członkostwa | 15:30 Piszesz plan akcji dla nowych członków",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 365
+ },
+ {
+  "name": "Specjalista ds. badań rynku",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu",
+  "hook": "Zbierasz informacje o tym, kto kupuje dany produkt i czego chce, a potem wyciągasz z nich wnioski. Twoje analizy pomagają firmie zdecydować, jak sprzedawać.",
+  "tasks": "Zbierasz dane z ankiet i badań | Określasz grupę docelową produktu | Porównujesz ceny i cechy produktów konkurencji | Przygotowujesz wnioski dla działu marketingu",
+  "day": "8:30 Układasz pytania do ankiety o nowym napoju | 10:30 Analizujesz wyniki badania wśród klientów | 13:00 Porównujesz produkt z trzema konkurencyjnymi | 15:00 Prezentujesz marketingowi, kto najchętniej kupuje",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 366
+ },
+ {
+  "name": "Specjalista ds. obsługi klienta",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu",
+  "hook": "Jesteś łącznikiem między firmą a klientem: odpowiadasz na pytania o usługi i rachunki oraz rozwiązujesz problemy. Tłumaczysz trudne sprawy tak, żeby klient je zrozumiał.",
+  "tasks": "Odpowiadasz na pytania klientów o rachunki | Wyjaśniasz, jak działają usługi firmy | Rozwiązujesz reklamacje i zgłoszenia | Przekazujesz problemy innym działom",
+  "day": "8:00 Logujesz się i czytasz nowe zgłoszenia | 9:30 Rozmowa z klientem, który nie rozumie rachunku | 12:30 Sprawdzasz, dlaczego opłata została naliczona dwa razy | 15:00 Piszesz do klienta mail z wyjaśnieniem",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 368
+ }
+]

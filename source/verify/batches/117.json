@@ -1,0 +1,1672 @@
+[
+ {
+  "name": "Koordynator spedycji międzynarodowej",
+  "path": "Spedytorzy",
+  "hook": "Pilnujesz, żeby przesyłki jechały przez kilka krajów bez opóźnień i bez problemów z papierami. Rozwiązujesz kłopoty z transportem i znasz przepisy przywozu i wywozu.",
+  "tasks": "Monitorujesz międzynarodowe przesyłki | Rozwiązujesz problemy z transportem | Załatwiasz formalności przywozowe i wywozowe | Koordynujesz łańcuch dostaw w kilku krajach",
+  "day": "7:30 Sprawdzasz, gdzie są dziś ciężarówki w trzech krajach | 10:00 Przesyłka stoi na granicy, szukasz brakującego dokumentu | 13:00 Rozmowa z klientem o nowych przepisach wywozu | 16:00 Zmieniasz trasę, bo prom jest odwołany",
+  "skills": [
+   [
+    "Organizacja i planowanie",
+    "L"
+   ],
+   [
+    "Języki obce",
+    "S"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość przepisów transportu",
+    "S"
+   ],
+   [
+    "Spokój pod presją czasu",
+    "P"
+   ],
+   [
+    "Arkusz kalkulacyjny",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik spedytor lub logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: logistyka lub transport",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 459
+ },
+ {
+  "name": "Spedytor",
+  "path": "Spedytorzy",
+  "hook": "Planujesz i organizujesz przewóz ładunków po kraju i za granicą. Szukasz przewoźnika, negocjujesz warunki i informujesz klienta o kosztach.",
+  "tasks": "Szukasz przewoźnika do danego ładunku | Negocjujesz cenę i sposób wysyłki | Planujesz drogę ładunku do odbiorcy | Informujesz klientów o warunkach i kosztach",
+  "day": "8:00 Klient pyta o przewóz dziesięciu palet | 10:00 Dzwonisz do trzech przewoźników i porównujesz oferty | 13:00 Dobierasz transport do ładunku wymagającego specjalnych przepisów | 16:00 Informujesz odbiorcę o planowanej godzinie dostawy",
+  "skills": [
+   [
+    "Organizacja i planowanie",
+    "L"
+   ],
+   [
+    "Języki obce",
+    "S"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość przepisów transportu",
+    "S"
+   ],
+   [
+    "Spokój pod presją czasu",
+    "P"
+   ],
+   [
+    "Arkusz kalkulacyjny",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik spedytor lub logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: logistyka lub transport",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 460
+ },
+ {
+  "name": "Doradca do spraw bezpieczeństwa przewozu towarów niebezpiecznych w zakresie transportu drogowego",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Dbasz, żeby przewóz niebezpiecznych towarów odbywał się zgodnie z europejskimi przepisami. Kontrolujesz firmy, piszesz zalecenia i badasz naruszenia bezpieczeństwa.",
+  "tasks": "Kontrolujesz, czy transport spełnia przepisy | Piszesz zalecenia dla firmy przewozowej | Przygotowujesz raporty bezpieczeństwa | Badasz naruszenia zasad bezpieczeństwa",
+  "day": "8:30 Sprawdzasz dokumenty ciężarówki z towarem niebezpiecznym | 11:00 Rozmowa z kierowcą o prawidłowym oznakowaniu ładunku | 14:00 Piszesz zalecenia po kontroli magazynu | 16:30 Analizujesz zgłoszenie o naruszeniu zasad przewozu",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 461
+ },
+ {
+  "name": "Dyspozytor lotniczy",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Zatwierdzasz i kontrolujesz loty komercyjne zgodnie z przepisami państwa i firmy. Przygotowujesz dokumenty lotu i reagujesz na opóźnienia, odwołania i zmiany planu.",
+  "tasks": "Zatwierdzasz plan lotu przed startem | Przygotowujesz dokumentację każdego lotu | Reagujesz na opóźnienia i odwołane loty | Zmieniasz rozkłady i plany lotów",
+  "day": "5:00 Sprawdzasz pogodę i plan pierwszych porannych lotów | 8:00 Zatwierdzasz dokumenty lotu przed odprawą załogi | 12:00 Burza nad lotniskiem, zmieniasz plan kilku lotów | 20:00 Przekazujesz nocnej zmianie listę opóźnionych lotów",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 462
+ },
+ {
+  "name": "Dyspozytor stacji pilotowej",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Koordynujesz wejścia i wyjścia statków z portu. Przygotowujesz zlecenia dla pilotów morskich i powiadamiasz ich, który statek mają prowadzić.",
+  "tasks": "Przyjmujesz zgłoszenia wejścia i wyjścia statków | Wpisujesz do zlecenia statek, nabrzeże i holownik | Powiadamiasz pilota morskiego o przydzielonym zleceniu | Odbierasz od pilotów rachunki po pilotażu",
+  "day": "6:00 Przyjmujesz zgłoszenie, że statek wpłynie do portu | 8:30 Piszesz zlecenie: statek, nabrzeże, holownik i godzina | 10:00 Dzwonisz do pilota, że ma prowadzić kontenerowiec | 14:00 Pilot wraca ze statku, odbierasz rachunek",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 463
+ },
+ {
+  "name": "Dyspozytor taxi",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Przyjmujesz zamówienia na przejazd, wysyłasz najbliższe taksówki i kierujesz pracą kierowców. Jednocześnie rozmawiasz z klientami, którzy czekają na auto.",
+  "tasks": "Przyjmujesz zamówienia od klientów | Wysyłasz kierowcę pod wskazany adres | Koordynujesz pracę wielu kierowców | Informujesz klientów, kiedy auto dojedzie",
+  "day": "14:00 Zaczynasz zmianę i sprawdzasz, którzy kierowcy są wolni | 18:00 Kierowca zgłasza korek, szukasz zastępstwa | 22:30 Piątkowy wieczór, telefony dzwonią bez przerwy | 2:00 Nocą wysyłasz auto po osobę wychodzącą z imprezy",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 464
+ },
+ {
+  "name": "Dyspozytor tramwajów",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Przydzielasz tramwaje i motorniczych do linii i pilnujesz, żeby jeździły zgodnie z planem. Prowadzisz też rejestr przejechanych kilometrów i wykonanych napraw.",
+  "tasks": "Przydzielasz tramwaje i motorniczych do linii | Reagujesz, gdy tramwaj jest spóźniony | Prowadzisz rejestr przebiegu pojazdów | Zapisujesz naprawy wykonane w zajezdni",
+  "day": "4:30 Wypuszczasz pierwsze tramwaje na poranne linie | 8:00 Awaria na trasie, kierujesz zastępczy tramwaj | 13:00 Wpisujesz do rejestru przejechane kilometry i naprawy | 19:00 Przydzielasz wieczornym kierowcom tramwaje na ostatnie kursy",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 465
+ },
+ {
+  "name": "Dyspozytor transportu samochodowego",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Koordynujesz ruch autobusów i innych pojazdów, ich trasy i kierowców. Czasem nadzorujesz też załadunek, rozładunek i sprawdzanie bagaży lub przesyłek wysyłanych autobusem.",
+  "tasks": "Przydzielasz kierowców do tras | Ustalasz drogę i godziny przejazdu | Kontrolujesz załadunek i rozładunek | Sprawdzasz bagaże i przesyłki ekspresowe",
+  "day": "5:00 Sprawdzasz, którzy kierowcy są dziś na dyżurze | 8:00 Jeden autobus zepsuty, szukasz zastępczego | 12:30 Nadzorujesz załadunek przesyłek do autobusu dalekobieżnego | 17:00 Ustalasz trasy i kierowców na jutro",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 466
+ },
+ {
+  "name": "Ekspedytor",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Przyjmujesz i przekazujesz komunikaty o pojazdach, sprzęcie i przesyłkach oraz planujesz, czym i którędy ładunek pojedzie. Dobierasz rodzaj transportu, wysyłasz pracowników i odpowiadasz za dokumenty.",
+  "tasks": "Planujesz wysyłkę i wybierasz rodzaj transportu | Organizujesz trasy i usługi przewozu | Wysyłasz pracowników i pojazdy do zadań | Przekazujesz dokumenty prawne stronom przewozu",
+  "day": "7:00 Odbierasz komunikaty o dzisiejszych przesyłkach | 9:30 Wybierasz kolej zamiast ciężarówki dla ciężkiego ładunku | 12:30 Wysyłasz kierowcę z ładunkiem do magazynu | 15:30 Przekazujesz umowę transportową obu stronom",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 467
+ },
+ {
+  "name": "Kierownik eksploatacji rurociągów",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Nadzorujesz codzienną pracę rurociągów, którymi płyną towary. Masz wgląd w całą sieć, wybierasz najtańsze i najwydajniejsze trasy i rozwiązujesz pojawiające się problemy.",
+  "tasks": "Śledzisz przepływ towarów w całej sieci | Planujesz najwydajniejsze trasy przewozu | Rozwiązujesz problemy w różnych punktach sieci | Sprawdzasz zgodność pracy z przepisami",
+  "day": "6:00 Odbierasz od nocnej zmiany raport z sieci | 9:00 Planujesz, którędy puścić dostawę na następny dzień | 13:00 Problem na jednym odcinku, ustalasz obejście | 16:00 Porównujesz wykonanie celów przewozowych z planem",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 468
+ },
+ {
+  "name": "Koordynator eksploatacji statków",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Zarządzasz przewozami statków czarterowych i dbasz o ich wydajność. Sprawdzasz certyfikaty, licencje i dokumenty załóg oraz prowadzisz rejestry obsługi technicznej.",
+  "tasks": "Zarządzasz przewozami statków czarterowych | Oceniasz ryzyko dla różnych ładunków | Sprawdzasz certyfikaty, paszporty i licencje załogi | Prowadzisz rejestry obsługi technicznej statków",
+  "day": "8:00 Sprawdzasz, które statki dziś wypływają z portu | 10:30 Zauważasz, że jednemu marynarzowi kończy się licencja | 13:00 Rozmowa z klientem, który zgłasza opóźnienie ładunku | 16:00 Wpisujesz do rejestru zaplanowany przegląd techniczny",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 471
+ },
+ {
+  "name": "Koordynator ruchu statków",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Zarządzasz ruchem statków w portach i na drogach wodnych. Dbasz, żeby statki firmy żeglugowej były rozmieszczone tak, by wszystko działało sprawnie.",
+  "tasks": "Śledzisz położenie statków na wodzie | Ustalasz kolejność wejścia do portu | Rozmieszczasz statki firmy w różnych portach | Informujesz porty o planowanych przybyciach",
+  "day": "6:00 Przeglądasz mapę z pozycjami statków | 10:00 Dwa statki chcą wejść na to samo nabrzeże | 14:00 Przesuwasz jeden statek do innego portu | 22:00 Dyżur nocny, statek zgłasza opóźnienie",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 472
+ },
+ {
+  "name": "Pracownik systemu przesyłowego gazu ziemnego",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Odbierasz gaz ziemny ze stacji produkcyjnej i przesyłasz go rurociągami do stacji dystrybucji. Pilnujesz, żeby dostawy docierały tam, gdzie trzeba.",
+  "tasks": "Odbierasz gaz ze stacji produkcyjnej | Przesyłasz go rurociągami do dystrybucji | Monitorujesz przepływ w sieci | Pilnujesz dostaw do stacji dystrybucyjnych",
+  "day": "6:00 Przejmujesz zmianę i czytasz stan sieci | 9:30 Rano zużycie gazu rośnie, zwiększasz przepływ | 14:00 Sprawdzasz odczyty w stacji dystrybucji | 22:00 Nocny dyżur, pilnujesz wskazań na ekranie",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 474
+ },
+ {
+  "name": "Specjalista ds. logistyki kolejowej",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Zarządzasz przewozami towarów koleją, czasem razem z innymi środkami transportu. Dbasz, żeby wagony i sprzęt były na miejscu na czas, a dostawy dla klientów szły bez przerw.",
+  "tasks": "Przydzielasz wagony i sprzęt do przewozów | Pilnujesz terminów dostaw koleją | Łączysz kolej z innymi środkami transportu | Budujesz sprawne łańcuchy dostaw dla klientów",
+  "day": "7:00 Sprawdzasz, ile wagonów czeka na stacji | 9:30 Klient prosi o dodatkowy skład z towarem | 13:00 Ustalasz, jak przeładować kontenery z pociągu na ciężarówki | 16:00 Pociąg się spóźnia, informujesz odbiorcę",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 476
+ },
+ {
+  "name": "Specjalista ds. planowania statków",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Dopasowujesz dostępne statki do dostępnych ładunków, żeby rejsy się opłacały. Pilnujesz bezpieczeństwa statku, planujesz załadunek kontenerów, naprawy i załogę.",
+  "tasks": "Dopasowujesz statki do ładunków | Planujesz rozmieszczenie kontenerów na statku | Skracasz czas postoju i koszty obsługi | Układasz plan konserwacji, napraw i załogi",
+  "day": "8:00 Sprawdzasz, jakie ładunki czekają w porcie | 10:30 Rozkładasz kontenery na planie statku | 13:30 Skracasz postój, żeby statek wypłynął szybciej | 16:00 Planujesz przegląd techniczny i dobór załogi",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 477
+ },
+ {
+  "name": "Specjalista ds. spedycji lotniczej",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Kierujesz pracą terminali ładunków lotniczych i ramp. Sprawdzasz, jakie loty nadlatują, planujesz załadunki i pilnujesz, żeby było dość ludzi i sprzętu.",
+  "tasks": "Przeglądasz dane o lotach przychodzących | Układasz plany załadunku odlatujących lotów | Ustalasz z nadzorcami obsadę i sprzęt | Kierujesz obsługą ładunków i bagażu",
+  "day": "5:30 Czytasz listę lotów, które lądują dziś rano | 8:00 Układasz plan załadunku samolotu towarowego | 12:00 Brakuje ludzi do rozładunku, dzwonisz do nadzorcy | 17:00 Przed odlotem sprawdzasz ostatnie palety",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 478
+ },
+ {
+  "name": "Specjalista ds. techniki taboru",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Pilnujesz, żeby tramwaje i autobusy w mieście przechodziły wszystkie wymagane kontrole techniczne. Planujesz, kiedy i które pojazdy trafiają na konserwację.",
+  "tasks": "Pilnujesz procedur kontroli pojazdów | Układasz harmonogram przeglądów i konserwacji | Planujesz, które pojazdy zjadą z linii | Przydzielasz mechaników i sprzęt do przeglądów",
+  "day": "6:00 Sprawdzasz, które tramwaje wracają z nocnej trasy | 9:00 Układasz harmonogram przeglądów na przyszły tydzień | 12:00 Mechanik zgłasza usterkę, planujesz zjazd pojazdu z linii | 15:00 Sprawdzasz w dokumentach, czy kontrole mają komplet wpisów",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 479
+ },
+ {
+  "name": "Zarządca portu",
+  "path": "Magazyn i ewidencja transportu > Pracownicy pomocniczy ds. transportu",
+  "hook": "Kierujesz codziennym działaniem portu: pilnujesz, żeby statki cumowały zgodnie z przepisami, a teren był uporządkowany. Dbasz też o to, żeby port zarabiał i żeby firmy żeglugowe chciały z niego korzystać.",
+  "tasks": "Egzekwujesz przepisy cumowania i przeładunku | Kontrolujesz porządek na nabrzeżach i w budynkach | Przekazujesz dokumenty o opłatach do księgowości | Doradzasz władzom portu w sprawie stawek",
+  "day": "7:00 Obchód nabrzeży, sprawdzasz porządek i sprzątanie | 9:30 Ustalasz, gdzie zacumuje statek, który właśnie wpływa | 12:00 Rozmawiasz z przedstawicielem firmy żeglugowej o opłatach | 14:30 Wysyłasz zestawienie opłat portowych do księgowości",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 480
+ },
+ {
+  "name": "Magazynier",
+  "path": "Magazyn i ewidencja transportu > Magazynier",
+  "hook": "Pilnujesz, co leży w magazynie i ile tego jest, żeby towary trafiały do sklepów, hurtowni i klientów. Duża część pracy to liczenie i dokumenty, nie samo noszenie.",
+  "tasks": "Prowadzisz ewidencję towarów na regałach | Kontrolujesz stany magazynowe | Wypełniasz dokumenty przyjęcia i wydania | Liczysz towar podczas inwentaryzacji",
+  "day": "6:00 Przyjmujesz dostawę i porównujesz ją z dokumentem | 9:00 Wpisujesz do ewidencji, co trafiło na regały | 11:30 Przygotowujesz towar do wysyłki do sklepu | 14:00 Liczysz zapasy jednej alejki i sprawdzasz braki",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 481
+ },
+ {
+  "name": "Magazynier surowców",
+  "path": "Magazyn i ewidencja transportu > Magazynier",
+  "hook": "Przyjmujesz surowce do produkcji i dbasz, żeby leżały w wymaganych warunkach. Patrzysz, ile ich zostało, żeby produkcja nie stanęła.",
+  "tasks": "Odbierasz dostawy surowców od kierowców | Układasz surowce w odpowiednich warunkach | Monitorujesz poziom zapasów | Zgłaszasz, kiedy trzeba domówić surowiec",
+  "day": "6:30 Rozładunek palet z surowcem na rampie | 8:30 Sprawdzasz temperaturę i wilgotność w hali magazynowej | 11:00 Wydajesz surowiec na linię produkcyjną | 13:00 Liczysz zapasy i zgłaszasz brak",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 482
+ }
+]

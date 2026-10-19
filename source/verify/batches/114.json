@@ -1,0 +1,1792 @@
+[
+ {
+  "name": "Specjalista ds. polityki cenowej",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu",
+  "hook": "Ustalasz, ile powinien kosztować produkt, żeby klienci chcieli go kupić, a firma na nim zarabiała. Liczysz koszty i patrzysz, ile żądają konkurenci.",
+  "tasks": "Liczysz koszt wyprodukowania produktu | Sprawdzasz ceny u konkurencji | Analizujesz, jak zmiana ceny wpływa na sprzedaż | Proponujesz nowe ceny dla działu sprzedaży",
+  "day": "8:30 Aktualizujesz tabelę kosztów produkcji | 10:30 Porównujesz ceny trzech konkurentów w tej samej kategorii | 13:00 Liczysz, co się stanie przy obniżce o dziesięć procent | 15:30 Przedstawiasz sprzedaży propozycję nowego cennika",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 369
+ },
+ {
+  "name": "Specjalista ds. reklamy",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu",
+  "hook": "Doradzasz firmom, jak się reklamować, i układasz kampanie, które łączą kreatywność z budżetem i wiedzą o ludzkich zachowaniach. Proponujesz klientom kilka różnych sposobów, żeby o nich usłyszano.",
+  "tasks": "Rozmawiasz z klientem o jego celach | Układasz plan kampanii reklamowej | Dobierasz kanały, w których reklama zadziała | Proponujesz alternatywne pomysły na promocję",
+  "day": "9:00 Rozmowa z właścicielem piekarni o nowych klientach | 11:00 Szkicujesz plan kampanii w trzech wariantach | 14:00 Liczysz, na ile kanałów starczy budżetu | 16:00 Prezentujesz klientowi propozycje i słuchasz uwag",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 370
+ },
+ {
+  "name": "Specjalista ds. rozwoju biznesu",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu",
+  "hook": "Szukasz sposobów, żeby firma sprzedawała więcej i trafiała do nowych klientów lub na nowe rynki. Analizujesz, co firma ma najlepszego, i wspierasz sprzedaż oraz marketing.",
+  "tasks": "Analizujesz, czym oferta firmy wyróżnia się | Szukasz nowych rynków i klientów | Współtworzysz kampanie marketingowe | Wspierasz handlowców w rozmowach z klientami",
+  "day": "9:00 Przeglądasz listę firm, które mogłyby kupować | 11:00 Spotkanie z marketingiem o nowej kampanii | 13:30 Przygotowujesz handlowcom prezentację mocnych stron oferty | 16:00 Rozmowa online z potencjalnym nowym klientem",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 371
+ },
+ {
+  "name": "Specjalista ds. zakupu mediów",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. reklamy i marketingu",
+  "hook": "Kupujesz dla klientów miejsce na reklamy w telewizji, radiu, prasie i internecie. Negocjujesz ceny i wybierasz kanały, w których reklama dotrze do właściwych ludzi.",
+  "tasks": "Wybierasz kanały pasujące do produktu | Negocjujesz ceny reklam z mediami | Porównujesz zasięg i skuteczność reklam | Układasz plan emisji reklam",
+  "day": "9:00 Dzwonisz do stacji radiowej w sprawie ceny | 11:00 Porównujesz zasięgi trzech portali informacyjnych | 13:30 Układasz harmonogram reklam na kolejny miesiąc | 16:00 Tłumaczysz klientowi, dlaczego te kanały są najlepsze",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 372
+ },
+ {
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży maszyn i urządzeń przemysłowych",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Sprzedaż produktów technicznych i medycznych > Doradca techniczny–przedstawiciel handlowy",
+  "hook": "Sprzedajesz fabrykom maszyny i urządzenia do produkcji i tłumaczysz, jak przyspieszą pracę linii. Rozmawiasz z inżynierami klienta i dobierasz sprzęt do ich procesu.",
+  "tasks": "Poznajesz proces produkcji w zakładzie klienta | Proponujesz maszyny pasujące do linii | Omawiasz z technikami parametry urządzeń | Przygotowujesz oferty i harmonogram dostaw",
+  "day": "8:00 Zwiedzasz halę produkcyjną razem z klientem | 10:30 Rozmowa z kierownikiem produkcji o wąskich gardłach | 13:00 Konsultujesz z inżynierem firmy dopasowanie maszyny do linii | 15:30 Piszesz ofertę z terminem dostawy i montażu",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 375
+ },
+ {
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży maszyn rolniczych",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Sprzedaż produktów technicznych i medycznych > Doradca techniczny–przedstawiciel handlowy",
+  "hook": "Sprzedajesz rolnikom traktory, kombajny i inne maszyny do pracy w polu. Jeździsz po gospodarstwach i dobierasz sprzęt do wielkości ziemi i rodzaju upraw.",
+  "tasks": "Odwiedzasz gospodarstwa rolne | Doradzasz, jaki ciągnik lub kombajn wybrać | Pokazujesz maszyny na demonstracjach w polu | Ustalasz warunki zakupu i serwisu",
+  "day": "7:00 Ruszasz do gospodarstwa za miastem | 9:00 Rolnik opowiada, co uprawia i ile ma ziemi | 12:00 Pokaz kombajnu na polu przy kilku gospodarzach | 16:00 Spisujesz ofertę dla rolnika, który wybrał model",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 376
+ },
+ {
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży maszyn włókienniczych",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Sprzedaż produktów technicznych i medycznych > Doradca techniczny–przedstawiciel handlowy",
+  "hook": "Sprzedajesz fabrykom tkanin i odzieży maszyny do tkania czy dziania. Tłumaczysz technikom, co dana maszyna potrafi i jak zmieni ich produkcję.",
+  "tasks": "Prezentujesz maszyny do tkania lub dziania | Omawiasz z klientem rodzaj produkowanych tkanin | Wyjaśniasz parametry i możliwości sprzętu | Przygotowujesz oferty dla zakładów włókienniczych",
+  "day": "8:30 Przeglądasz próbki tkanin, które szyje klient | 10:30 Pokazujesz technikom działanie maszyny do dziania | 13:00 Klient pyta, jaką dzianinę da się wykonać | 15:30 Wysyłasz ofertę i ustalasz termin dostawy",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 377
+ },
+ {
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży produktów chemicznych",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Sprzedaż produktów technicznych i medycznych > Doradca techniczny–przedstawiciel handlowy",
+  "hook": "Sprzedajesz firmom produkty chemiczne, np. dla budownictwa czy przemysłu, i tłumaczysz, do czego służą i jak się ich używa. Odpowiadasz na pytania techniczne klientów.",
+  "tasks": "Doradzasz, który produkt pasuje do zadania | Tłumaczysz właściwości i zastosowanie produktów | Odwiedzasz klientów i budowy | Przygotowujesz oferty i omawiasz dostawy",
+  "day": "8:00 Czytasz karty techniczne nowych produktów | 10:00 Wizyta u wykonawcy, który ma kłopot z wilgocią | 13:00 Tłumaczysz ekipie, jak stosować nowy preparat | 15:30 Piszesz ofertę z ilościami i terminem dostawy",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 378
+ },
+ {
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży sprzętu biurowego",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Sprzedaż produktów technicznych i medycznych > Doradca techniczny–przedstawiciel handlowy",
+  "hook": "Sprzedajesz firmom drukarki, kopiarki, meble i inne wyposażenie biur, i pokazujesz, które rozwiązanie pasuje do ich pracy. Często wracasz do tych samych klientów po kolejne zamówienia.",
+  "tasks": "Odwiedzasz biura i sprawdzasz ich potrzeby | Pokazujesz działanie drukarek i innych urządzeń | Liczysz, ile kosztuje wyposażenie biura | Odnawiasz umowy z dotychczasowymi klientami",
+  "day": "8:30 Dzwonisz do klientów, którym kończy się umowa | 10:30 Pokaz kopiarki w biurze księgowym | 13:00 Dobierasz urządzenia dla firmy z dwudziestoma pracownikami | 15:30 Wprowadzasz zamówienia i sprawdzasz terminy",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 379
+ },
+ {
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży sprzętu hydraulicznego i grzejnego",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Sprzedaż produktów technicznych i medycznych > Doradca techniczny–przedstawiciel handlowy",
+  "hook": "Sprzedajesz hydraulikom i firmom instalacyjnym rury, baterie, kotły czy grzejniki i doradzasz, co do czego pasuje. Znasz produkty na tyle dobrze, by podpowiedzieć przy konkretnej instalacji.",
+  "tasks": "Doradzasz instalatorom w doborze sprzętu | Tłumaczysz różnice między grzejnikami i kotłami | Odwiedzasz hurtownie i firmy instalacyjne | Przygotowujesz oferty na dostawy",
+  "day": "8:00 Rozmowa z instalatorem o grzejnikach do domu | 10:30 Wizyta w hurtowni i uzupełnienie próbek | 13:00 Szkolisz ekipę z montażu nowej baterii | 15:30 Sporządzasz ofertę na wyposażenie osiedla",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 380
+ },
+ {
+  "name": "Inżynier sprzedaży",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Sprzedaż produktów technicznych i medycznych",
+  "hook": "Dopasowujesz ciężki sprzęt, np. budowlany, do potrzeb klienta od strony technicznej i handlowej. Odpowiadasz też za serwis i naprawy po sprzedaży.",
+  "tasks": "Poznajesz potrzeby firmy kupującej sprzęt | Dostosowujesz techniczne wyposażenie maszyny | Negocjujesz warunki z przedsiębiorstwami | Organizujesz naprawy i konserwację sprzętu",
+  "day": "8:00 Analizujesz zamówienie firmy budowlanej na spychacz | 10:30 Konsultujesz z projektantami zmianę wyposażenia maszyny | 13:00 Negocjujesz warunki umowy serwisowej z klientem | 15:30 Ustalasz termin konserwacji dla trzech maszyn",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 382
+ },
+ {
+  "name": "Community manager",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. public relations",
+  "hook": "Prowadzisz konta firmy lub marki w mediach społecznościowych i dbasz o rozmowę z jej odbiorcami. Odpowiadasz na komentarze, moderujesz dyskusje i pilnujesz, żeby było tam spokojnie.",
+  "tasks": "Odpowiadasz na komentarze i wiadomości | Moderujesz dyskusje i usuwasz obraźliwe wpisy | Planujesz posty i konkursy dla społeczności | Sprawdzasz, które wpisy ludzie lubią najbardziej",
+  "day": "8:30 Sprawdzasz komentarze pod wczorajszym postem | 10:30 Usuwasz spam i uspokajasz kłótnię na forum | 13:00 Planujesz konkurs dla fanów na weekend | 17:00 Odpisujesz na wieczorne pytania w dniu premiery",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 390
+ },
+ {
+  "name": "Lobbysta",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. public relations",
+  "hook": "Reprezentujesz interesy klienta wobec posłów, urzędników i innych decydentów i próbujesz przekonać ich do zmiany albo zatrzymania przepisów. Przygotowujesz argumenty i negocjujesz z osobami, które mają inne cele.",
+  "tasks": "Analizujesz projekty przepisów | Spotykasz się z urzędnikami i politykami | Przygotowujesz argumenty dla klienta | Negocjujesz ze stronami o sprzecznych interesach",
+  "day": "9:00 Czytasz nowy projekt ustawy i zaznaczasz zapisy | 11:00 Konsultacja z klientem o jego oczekiwaniach | 14:00 Spotkanie z urzędnikiem w ministerstwie | 16:30 Negocjujesz kompromis ze stroną o odmiennym zdaniu",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 391
+ },
+ {
+  "name": "Specjalista ds. pozyskiwania funduszy",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. public relations",
+  "hook": "Szukasz pieniędzy dla organizacji, np. fundacji, od firm, darczyńców i instytucji. Piszesz wnioski, organizujesz zbiórki i dbasz, żeby zebrane środki poszły na właściwe cele.",
+  "tasks": "Piszesz wnioski o dofinansowanie | Kontaktujesz się z darczyńcami i sponsorami | Organizujesz zbiórki i kampanie mailowe | Opracowujesz plan wykorzystania zebranych środków",
+  "day": "8:30 Poprawiasz wniosek o dofinansowanie projektu dla dzieci | 10:30 Dzwonisz do firmy w sprawie sponsoringu | 13:00 Planujesz zbiórkę z okazji rocznicy fundacji | 16:00 Dziękujesz darczyńcom i piszesz sprawozdanie",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 394
+ },
+ {
+  "name": "Szef sztabu wyborczego",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Specjaliści ds. public relations",
+  "hook": "Kierujesz całą kampanią wyborczą kandydata i odpowiadasz za to, żeby przebiegała zgodnie z planem i zasadami. Układasz strategię i ustalasz z kandydatem, gdzie się pojawia i co mówi.",
+  "tasks": "Układasz strategię kampanii | Prowadzisz badania nad wizerunkiem kandydata | Dzielisz zadania między członków sztabu | Pilnujesz uczciwego przebiegu wyborów",
+  "day": "7:00 Poranna odprawa z kierownikami zespołów terenowych | 9:30 Analizujesz sondaż i zmieniasz plan wystąpień | 13:00 Ustalasz z kandydatem harmonogram spotkań z wyborcami | 21:00 Wieczorem czekasz na pierwsze wyniki z lokali",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 395
+ },
+ {
+  "name": "Opiekun klienta w dziedzinie technologii informacyjno-telekomunikacyjnych",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Sprzedaż w branży IT",
+  "hook": "Budujesz relacje z firmami kupującymi sprzęt, oprogramowanie lub usługi IT i dbasz, by dostały to, czego potrzebują. Pilnujesz też planu sprzedaży i tego, żeby umowy opłacały się firmie.",
+  "tasks": "Utrzymujesz stały kontakt z klientami firmowymi | Wyszukujesz okazje do kolejnej sprzedaży | Pilnujesz realizacji zamówień i dostaw | Realizujesz cele sprzedażowe",
+  "day": "8:30 Przeglądasz, którym klientom kończą się umowy | 10:00 Telefon do firmy, która potrzebuje więcej licencji | 13:00 Sprawdzasz u dostawcy status zamówionych laptopów | 15:30 Spotkanie z klientem o rozbudowie usług",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 399
+ },
+ {
+  "name": "Przedstawiciel techniczno-handlowy ds. sprzedaży urządzeń elektronicznych i telekomunikacyjnych",
+  "path": "Specjaliści marketingu, PR i sprzedaży > Sprzedaż w branży IT",
+  "hook": "Sprzedajesz firmom urządzenia elektroniczne i telekomunikacyjne, np. centrale telefoniczne czy sprzęt sieciowy, i wyjaśniasz ich możliwości. Pomagasz wybrać zestaw, który pasuje do biura lub zakładu klienta.",
+  "tasks": "Dobierasz urządzenia do potrzeb klienta | Pokazujesz możliwości sprzętu telekomunikacyjnego | Odpowiadasz na pytania o parametry | Przygotowujesz oferty i zamówienia",
+  "day": "8:30 Czytasz specyfikacje nowych urządzeń sieciowych | 10:30 Wizyta w firmie, która rozbudowuje biuro | 13:00 Pokazujesz zestaw telefonów i sprzętu sieciowego | 15:30 Wysyłasz ofertę i ustalasz dostawę",
+  "skills": [
+   [
+    "Pisanie i jasny przekaz",
+    "S"
+   ],
+   [
+    "Rozumienie klienta",
+    "P"
+   ],
+   [
+    "Pomysłowość",
+    "O"
+   ],
+   [
+    "Analiza wyników",
+    "L"
+   ],
+   [
+    "Media społecznościowe",
+    "S"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Dużo kreatywności",
+   "Szybko widać efekty",
+   "Praca z ludźmi i mediami"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Krótkie terminy",
+   "Trendy zmieniają się bardzo szybko"
+  ],
+  "routes": [
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: marketing, komunikacja, dziennikarstwo lub zarządzanie",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Własne projekty",
+    "s": [
+     [
+      "kurs",
+      "Kurs marketingu internetowego",
+      0.5
+     ],
+     [
+      "projekt",
+      "Prowadzenie profilu szkoły, klubu lub małej firmy",
+      1
+     ],
+     [
+      "praktyka",
+      "Staż w agencji lub dziale marketingu",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Specjaliści do spraw sprzedaży, marketingu i public relations",
+  "pay_median_2025": 8623.18,
+  "gen_id": 400
+ },
+ {
+  "name": "Doradca handlowy ds. części zamiennych",
+  "path": "Sprzedawcy w sklepach > Ekspedienci w sklepach",
+  "hook": "Sprzedajesz części do samochodów i pomagasz klientom znaleźć tę, która pasuje do ich auta. Gdy części nie ma na półce, zamawiasz ją albo proponujesz zamiennik.",
+  "tasks": "Dopasowujesz część do modelu auta | Zamawiasz brakujące części u dostawców | Proponujesz tańsze lub inne zamienniki | Doradzasz mechanikom i kierowcom",
+  "day": "7:30 Otwierasz sklep, mechanicy już czekają | 9:00 Klient pokazuje stary klocek hamulcowy, szukasz pasującego | 12:00 Brak części na półce, zamawiasz ją w hurtowni | 15:00 Doradzasz kierowcy, czy warto wymienić całą parę",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Znajomość towaru",
+    "L"
+   ],
+   [
+    "Liczenie i kasa",
+    "L"
+   ],
+   [
+    "Cierpliwość",
+    "P"
+   ],
+   [
+    "Dbałość o wygląd sklepu",
+    "O"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Szybki start",
+   "Pracę znajdziesz wszędzie"
+  ],
+  "minus": [
+   "Wiele godzin na nogach",
+   "Praca w weekendy",
+   "Trudni klienci"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie w sklepie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: sprzedawca",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik handlowiec",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy sprzedaży w sklepach",
+  "pay_median_2025": 5072.8,
+  "gen_id": 402
+ },
+ {
+  "name": "Przedstawiciel leasingowy",
+  "path": "Sprzedawcy w sklepach > Ekspedienci w sklepach",
+  "hook": "Oferujesz firmom i osobom finansowanie samochodu w ratach i tłumaczysz, jak działa leasing. Dbasz o dokumenty: umowę, ubezpieczenie i harmonogram rat.",
+  "tasks": "Przedstawiasz programy leasingowe klientom | Wyliczasz raty dla wybranego samochodu | Przygotowujesz umowy i dokumenty | Proponujesz dodatkowe usługi do pojazdu",
+  "day": "9:00 Klient firmowy pyta o leasing trzech aut | 10:30 Liczysz ratę dla dwuletniego okresu umowy | 13:00 Przygotowujesz umowę i polisę ubezpieczeniową | 15:30 Tłumaczysz klientowi, co się dzieje na końcu umowy",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Znajomość towaru",
+    "L"
+   ],
+   [
+    "Liczenie i kasa",
+    "L"
+   ],
+   [
+    "Cierpliwość",
+    "P"
+   ],
+   [
+    "Dbałość o wygląd sklepu",
+    "O"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Szybki start",
+   "Pracę znajdziesz wszędzie"
+  ],
+  "minus": [
+   "Wiele godzin na nogach",
+   "Praca w weekendy",
+   "Trudni klienci"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie w sklepie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: sprzedawca",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik handlowiec",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy sprzedaży w sklepach",
+  "pay_median_2025": 5072.8,
+  "gen_id": 404
+ },
+ {
+  "name": "Sprzedawca/sprzedawczyni",
+  "path": "Sprzedawcy w sklepach > Ekspedienci w sklepach",
+  "hook": "Obsługujesz klientów w sklepie: witasz, doradzasz, kasujesz i dbasz o porządek na sali. Praca jest głównie na nogach i w kontakcie z ludźmi.",
+  "tasks": "Witasz klientów i odpowiadasz na pytania | Doradzasz przy wyborze towaru | Obsługujesz kasę i przyjmujesz płatności | Układasz i porządkujesz towar",
+  "day": "8:00 Otwierasz sklep i ustawiasz promocyjne produkty | 11:00 Klient szuka prezentu, podsuwasz kilka propozycji | 14:00 Obsługujesz kolejkę przy kasie | 17:30 Sprzątasz salę i zamykasz kasę",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Znajomość towaru",
+    "L"
+   ],
+   [
+    "Liczenie i kasa",
+    "L"
+   ],
+   [
+    "Cierpliwość",
+    "P"
+   ],
+   [
+    "Dbałość o wygląd sklepu",
+    "O"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Szybki start",
+   "Pracę znajdziesz wszędzie"
+  ],
+  "minus": [
+   "Wiele godzin na nogach",
+   "Praca w weekendy",
+   "Trudni klienci"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie w sklepie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: sprzedawca",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik handlowiec",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy sprzedaży w sklepach",
+  "pay_median_2025": 5072.8,
+  "gen_id": 406
+ }
+]

@@ -1,0 +1,1762 @@
+[
+ {
+  "name": "Koordynator ds. zgodności rurociągów",
+  "path": "Technicy > Inni technicy",
+  "hook": "Pilnujesz, żeby rurociągi i prace przy nich były zgodne z przepisami. Kontrolujesz obiekty, zbierasz dowody i zgłaszasz kierownictwu, co trzeba poprawić.",
+  "tasks": "Śledzisz zgodność działań na rurociągach z przepisami | Kontrolujesz obiekty i gromadzisz dowody | Wdrażasz polityki zgodności w firmie | Zalecasz sposoby zmniejszenia ryzyka",
+  "day": "8:00 Czytasz zmiany w przepisach dotyczących rurociągów | 10:00 W terenie kontrolujesz oznakowanie i zawory rurociągu | 13:00 Robisz zdjęcia i notatki jako dowody | 15:00 Zgłaszasz kierownictwu, co wymaga poprawy",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 649
+ },
+ {
+  "name": "Specjalista ds. kontroli urządzeń użyteczności publicznej",
+  "path": "Technicy > Inni technicy",
+  "hook": "Sprawdzasz, czy turbiny i inne urządzenia w sieciach wodnych, gazowych czy elektrycznych są zbudowane i działają zgodnie z przepisami. Opisujesz usterki i zalecasz naprawy.",
+  "tasks": "Badasz turbiny i systemy użyteczności publicznej | Sprawdzasz zgodność budowy z przepisami | Sporządzasz sprawozdania z kontroli | Zalecasz ulepszenia i naprawę uszkodzonych części",
+  "day": "8:00 Czytasz dokumentację turbiny przed kontrolą | 10:00 Oglądasz urządzenie na miejscu, porównujesz z przepisami | 13:00 Fotografujesz uszkodzony element i opisujesz go | 15:00 Piszesz sprawozdanie z zaleceniami dla zarządcy",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 650
+ },
+ {
+  "name": "Technik inżynierii fotonicznej",
+  "path": "Technicy > Inni technicy",
+  "hook": "Pracujesz ze światłem w urządzeniach: laserach, soczewkach i światłowodach. Wykonujesz je, testujesz i ustawiasz według rysunków technicznych.",
+  "tasks": "Wykonujesz urządzenia optyczne według schematów | Testujesz lasery, soczewki i światłowody | Instalujesz sprzęt optyczny | Opracowujesz procedury testowania i kalibracji",
+  "day": "8:00 Czytasz schemat układu optycznego | 10:00 Składasz soczewki w obudowie według rysunku | 13:00 Test: sprawdzasz, czy światło trafia we właściwy punkt | 15:00 Piszesz procedurę kalibracji dla nowego urządzenia",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 651
+ },
+ {
+  "name": "Technik konstruktor obuwia",
+  "path": "Technicy > Inni technicy",
+  "hook": "Zamieniasz projekt buta w coś, co da się wyprodukować. Robisz wykroje, prototypy i rysunki narzędzi, a potem sprawdzasz próbki.",
+  "tasks": "Wykonujesz prototypy obuwia według projektu | Dobierasz lub przeprojektowujesz kopyta i elementy | Tworzysz wykroje cholewek i podeszew | Rysujesz narzędzia, na przykład matryce do cięcia",
+  "day": "8:00 Dostajesz szkic buta od projektanta | 10:00 Rysujesz wykrój cholewki na kartonie | 12:30 Składasz prototyp i sprawdzasz, jak leży na kopycie | 15:00 Sprawdzasz koszt i ustalasz poprawki z klientem",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 654
+ },
+ {
+  "name": "Technik konstruktor wyrobów skórzanych",
+  "path": "Technicy > Inni technicy",
+  "hook": "Zamieniasz projekt torby, paska czy portfela w wymagania techniczne i wykroje. Wybierasz materiały i rysujesz narzędzia do cięcia.",
+  "tasks": "Analizujesz specyfikację projektanta wyrobu | Określasz elementy składowe i materiały | Wykonujesz ręcznie wykroje | Rysujesz narzędzia, zwłaszcza do cięcia",
+  "day": "8:00 Czytasz projekt nowej torebki od projektanta | 10:00 Rozkładasz torebkę na elementy i wybierasz materiały | 12:30 Wykonujesz ręcznie wykrój głównego panelu | 15:00 Rysujesz narzędzie do cięcia według wykroju",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 655
+ },
+ {
+  "name": "Technik lotniskowych służb operacyjnych",
+  "path": "Technicy > Inni technicy",
+  "hook": "Dbasz, żeby wszystko, co na lotnisku musi działać, rzeczywiście działało: oświetlenie, bagaże, zabezpieczenia, odwodnienie. Naprawiasz usterki i pilnujesz stanu urządzeń.",
+  "tasks": "Utrzymujesz instalacje i pomoce wizualne lotniska | Sprawdzasz systemy bagażowe i zabezpieczeń | Pilnujesz stanu nawierzchni i odwodnienia | Pilnujesz stanu terenów nieutwardzonych",
+  "day": "5:30 Obchód oświetlenia pasa przed pierwszymi lotami | 8:30 Usterka w taśmie bagażowej, szukasz przyczyny | 12:00 Sprawdzasz odwodnienie po nocnym deszczu | 15:00 Wpisujesz naprawy do dziennika",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 656
+ },
+ {
+  "name": "Technik produkcji wyrobów skórzanych",
+  "path": "Technicy > Inni technicy",
+  "hook": "Wykonujesz wyroby ze skóry, głównie ręcznie, z pomocą prostych maszyn. Tniesz, zszywasz i wykańczasz, często na zamówienie klienta albo w bardzo małych seriach.",
+  "tasks": "Tniesz skórę według wykroju | Zszywasz elementy wyrobu | Wykańczasz krawędzie i powierzchnie | Rozmawiasz z klientem o wymaganiach zamówienia",
+  "day": "8:00 Rozmowa z klientem o kolorze i rozmiarze portfela | 9:30 Wycinasz elementy ze skóry według wykroju | 12:30 Zszywasz boki, sprawdzając równość ściegów | 15:00 Wykańczasz krawędzie i pakujesz gotowy wyrób",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 658
+ },
+ {
+  "name": "Technik żywności",
+  "path": "Technicy > Inni technicy",
+  "hook": "Pomagasz technologom opracować, jak z surowców powstaje bezpieczna żywność. Testujesz składniki, dodatki i opakowania oraz sprawdzasz, czy produkt spełnia przepisy.",
+  "tasks": "Próbujesz nowych składników i dodatków | Testujesz, jak opakowanie chroni produkt | Pobierasz próbki z linii produkcyjnej | Sprawdzasz zgodność produktu z przepisami",
+  "day": "7:00 Pobierasz próbki pierwszej partii z linii | 9:30 W laboratorium oceniasz wygląd, zapach i konsystencję | 12:00 Próbna receptura z mniejszą ilością cukru | 14:00 Zestawiasz wyniki i sprawdzasz je z przepisami",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 661
+ },
+ {
+  "name": "Inżynier analiz strukturalnych",
+  "path": "Technicy > Technik mechanik",
+  "hook": "Liczysz na komputerze, czy konstrukcja wytrzyma obciążenia i zmęczenie materiału, zanim ktoś ją zbuduje. Wyniki opisujesz w raportach dla zespołu projektowego.",
+  "tasks": "Planujesz analizy wytrzymałości konstrukcji | Liczysz obciążenia statyczne i zmęczenie materiału | Piszesz raporty techniczne z wynikami | Proponujesz zmiany w projekcie",
+  "day": "8:30 Sprawdzasz, czy wczorajsze obliczenia się zakończyły | 10:00 Analizujesz miejsca, gdzie konstrukcja najbardziej się odkształca | 13:00 Przegląd projektu z konstruktorami, bronisz swoich wyników | 15:00 Piszesz sprawozdanie i plan badań konstrukcji",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 664
+ },
+ {
+  "name": "Kierownik prac konserwacyjnych i remontowych",
+  "path": "Technicy > Technik mechanik",
+  "hook": "Organizujesz, kto i kiedy przegląda oraz naprawia maszyny w zakładzie, żeby nic nie stanęło. Pilnujesz też, żeby przeglądy były zgodne z zasadami bezpieczeństwa i higieny.",
+  "tasks": "Planujesz przeglądy maszyn na cały tydzień | Przydzielasz zadania zespołowi konserwatorów | Sprawdzasz, czy przeglądy spełniają normy bezpieczeństwa | Reagujesz, gdy maszyna się zatrzyma",
+  "day": "6:30 Odprawa z ekipą, rozdajesz zlecenia na zmianę | 8:30 Obchód hali, oglądasz maszyny z listą przeglądów | 11:00 Linia stanęła, decydujesz, kogo wysłać do naprawy | 14:00 Sprawdzasz papiery po przeglądzie i zamawiasz części",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 665
+ },
+ {
+  "name": "Specjalista ds. kontroli jakości silników pojazdów mechanicznych",
+  "path": "Technicy > Technik mechanik",
+  "hook": "Kontrolujesz silniki samochodów, autobusów i ciężarówek w zakładzie montażowym lub warsztacie. Sprawdzasz zgodność z normami i opisujesz, co trzeba naprawić.",
+  "tasks": "Kontrolujesz silniki różnych typów napędu | Robisz kontrole po przeglądzie i wypadku | Opisujesz wymagane działania naprawcze | Wspierasz warsztaty radą techniczną",
+  "day": "6:30 Odbierasz z linii pierwsze silniki do kontroli | 9:00 Sprawdzasz silnik po montażu, punkt po punkcie | 11:30 Silnik z wypadku, oceniasz, czy nadaje się do naprawy | 14:00 Dzwonisz do warsztatu i opisujesz usterkę",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 668
+ },
+ {
+  "name": "Specjalista ds. kontroli jakości taboru kolejowego",
+  "path": "Technicy > Technik mechanik",
+  "hook": "Oceniasz stan wagonów towarowych i pasażerskich, zanim pociąg ruszy w drogę. Sprawdzasz urządzenia techniczne, hamulce i dokumenty, a czasem robisz drobne naprawy od ręki.",
+  "tasks": "Oceniasz stan techniczny wagonów | Sprawdzasz urządzenia techniczne i hamulce | Wypełniasz listy kontrolne i dokumenty | Wykonujesz drobne naprawy lub wymiany",
+  "day": "5:30 Skład stoi na torze, zaczynasz obchód wagonów | 7:00 Sprawdzasz hamulce w wagonach towarowych | 10:00 Wagon pasażerski ma usterkę, zgłaszasz wymianę | 13:30 Podpisujesz dokumenty i dopuszczasz skład do jazdy",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 669
+ },
+ {
+  "name": "Specjalista ds. kontroli silników jednostek pływających",
+  "path": "Technicy > Technik mechanik",
+  "hook": "Kontrolujesz silniki statków i łodzi w zakładzie montażowym, od diesli po napędy elektryczne. Sprawdzasz zgodność z normami, także po przeglądach i po wypadkach.",
+  "tasks": "Kontrolujesz silniki statków i łodzi | Sprawdzasz zgodność z normami bezpieczeństwa | Robisz inspekcje przed oddaniem do eksploatacji | Oceniasz silnik po przeglądzie lub wypadku",
+  "day": "7:00 Nowy silnik okrętowy stoi w hali montażowej | 9:30 Oglądasz uszczelnienia i połączenia z listą wymagań | 12:00 Silnik łodzi po awarii, oceniasz uszkodzenia | 15:00 Podpisujesz protokół przed oddaniem do eksploatacji",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 671
+ },
+ {
+  "name": "Specjalista ds. testów silników jednostek pływających",
+  "path": "Technicy > Technik mechanik",
+  "hook": "Testujesz w specjalistycznym zakładzie, jak pracują silniki statków. Badasz ich parametry na stanowisku testowym i zapisujesz wyniki.",
+  "tasks": "Dajesz ekipie instrukcje ustawienia silnika | Łączysz silnik z aparaturą narzędziami ręcznymi | Badasz parametry pracy silnika okrętowego | Zapisujesz wyniki do dalszej analizy",
+  "day": "7:00 Wielki silnik okrętowy czeka na stanowisku testowym | 9:00 Dajesz ekipie instrukcje, jak go ustawić | 11:30 Badasz parametry przy rosnącym obciążeniu | 14:30 Zestawiasz pomiary w raport dla projektantów",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 674
+ },
+ {
+  "name": "Technik mechanik",
+  "path": "Technicy > Technik mechanik",
+  "hook": "Wspierasz inżynierów przy produkcji urządzeń mechanicznych: rysujesz układy, pomagasz w projektach i testujesz. Zestawiasz dane i opisujesz wyniki w sprawozdaniach.",
+  "tasks": "Rysujesz układy i rysunki techniczne | Pomagasz w projektach i modyfikacjach | Przeprowadzasz testy urządzeń | Zestawiasz dane i piszesz sprawozdania",
+  "day": "7:30 Inżynier przekazuje poprawki do rysunku mechanizmu | 9:30 Rysujesz nowy układ elementów | 11:30 Na hali testujesz prototyp i notujesz wyniki | 14:00 Zestawiasz dane w tabelę i piszesz sprawozdanie",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 675
+ },
+ {
+  "name": "Technik mechanik lotnictwa i kosmonautyki",
+  "path": "Technicy > Technik mechanik",
+  "hook": "Razem z inżynierami obsługujesz, konserwujesz i testujesz sprzęt w samolotach i statkach kosmicznych. Czytasz schematy i instrukcje, sprawdzasz, czy części działają, i zapisujesz wyniki.",
+  "tasks": "Czytasz schematy i instrukcje testów | Sprawdzasz, czy części statku działają | Konserwujesz sprzęt statków powietrznych | Zapisujesz wyniki badań i zalecenia",
+  "day": "6:00 W hangarze czytasz plan przeglądu samolotu | 8:00 Sprawdzasz część według instrukcji, krok po kroku | 11:00 Test pokazuje odchyłkę, szukasz przyczyny | 14:00 Wpisujesz wyniki i zalecasz zmianę części",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 676
+ },
+ {
+  "name": "Technik mechanik okrętowy",
+  "path": "Technicy > Technik mechanik",
+  "hook": "Wspierasz inżynierów przy projektowaniu, budowie, testowaniu i konserwacji łodzi i okrętów, od jachtów po okręty podwodne. Prowadzisz eksperymenty, zbierasz dane i opisujesz wnioski.",
+  "tasks": "Pomagasz przy projekcie i budowie łodzi | Instalujesz i testujesz urządzenia okrętowe | Prowadzisz eksperymenty i zbierasz dane | Przedstawiasz ustalenia inżynierom",
+  "day": "7:30 W stoczni omawiasz z inżynierem postęp budowy | 10:00 Przy kadłubie sprawdzasz montaż urządzeń | 12:30 Przeprowadzasz próbę i zapisujesz dane | 15:00 Przedstawiasz inżynierom wnioski z prób",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 677
+ },
+ {
+  "name": "Technik mechanik urządzeń przemysłowych",
+  "path": "Technicy > Technik mechanik",
+  "hook": "Planujesz i pilnujesz produkcji w zakładzie, a gdy coś nie działa, szukasz technicznego rozwiązania. Współpracujesz z inżynierami i technologami, kontrolujesz produkty i przeprowadzasz testy.",
+  "tasks": "Planujesz produkcję na kolejne dni | Śledzisz przebieg procesu na linii | Kontrolujesz gotowe produkty | Testujesz rozwiązania problemów technicznych",
+  "day": "6:00 Zmiana, sprawdzasz, ile linia wyprodukowała w nocy | 8:30 Linia zwalnia, szukasz przyczyny z operatorem | 11:00 Narada z technologiem o zmianie ustawień | 14:00 Kontrolujesz próbkę produktów i zapisujesz pomiary",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 679
+ },
+ {
+  "name": "Technik pojazdów samochodowych",
+  "path": "Technicy > Technik mechanik",
+  "hook": "Razem z inżynierami eksploatujesz, naprawiasz i testujesz sprzęt w pojazdach. Czytasz schematy, sprawdzasz, czy części działają, a wyniki prób zapisujesz razem z zaleceniami zmian.",
+  "tasks": "Czytasz schematy i plany pojazdu | Naprawiasz i konserwujesz sprzęt pojazdowy | Testujesz części i zapisujesz wyniki | Proponujesz zmiany po badaniach",
+  "day": "7:30 Dostajesz pojazd i schemat do próby | 9:30 Sprawdzasz, czy część działa jak w projekcie | 12:00 Wynik testu odbiega od normy, szukasz przyczyny | 14:30 Spisujesz procedurę próby i zalecenia",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 682
+ },
+ {
+  "name": "Technik projektant systemów i podzespołów pneumatycznych",
+  "path": "Technicy > Technik mechanik",
+  "hook": "Oceniasz układy na sprężone powietrze, takie jak sprężarki, i podpowiadasz, jak sprawić, by działały sprawniej. Pomagasz też projektować takie układy i ich części.",
+  "tasks": "Oceniasz działanie sprężarek i układów | Zalecasz zmiany zwiększające efektywność | Projektujesz obwody pneumatyczne | Rysujesz podzespoły układu",
+  "day": "8:00 Oglądasz na hali działającą sprężarkę i układ | 10:30 Szukasz miejsc, gdzie układ pracuje nieefektywnie | 13:00 Projektujesz nowy obwód dla maszyny klienta | 15:00 Omawiasz zalecane zmiany z inżynierem",
+  "skills": [
+   [
+    "Czytanie rysunku technicznego",
+    "L"
+   ],
+   [
+    "Obsługa urządzeń pomiarowych",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy techniczne",
+    "L"
+   ],
+   [
+    "Współpraca z inżynierami",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Konkretna, praktyczna praca",
+   "Umiejętności potrzebne w przemyśle",
+   "Dobra baza pod studia inżynierskie"
+  ],
+  "minus": [
+   "Odpowiedzialność za jakość i bezpieczeństwo",
+   "Praca czasem na zmiany",
+   "Trzeba się doszkalać z nowych urządzeń"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: zawód techniczny zgodny z branżą",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Po liceum",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "kurs",
+      "Szkoła policealna lub kurs kwalifikacyjny",
+      2
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Technicy nauk fizycznych, chemicznych i technicznych",
+  "pay_median_2025": 7920,
+  "gen_id": 683
+ }
+]

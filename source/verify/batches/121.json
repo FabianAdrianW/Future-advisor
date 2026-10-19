@@ -1,0 +1,1687 @@
+[
+ {
+  "name": "Zwrotniczy",
+  "path": "Kolej",
+  "hook": "Pomagasz dyżurnemu ruchu, przestawiając zwrotnice i sygnały tak, by pociąg pojechał właściwym torem. Pracujesz przy torach, w każdą pogodę.",
+  "tasks": "Przestawiasz zwrotnice według poleceń dyżurnego | Obsługujesz sygnały na stacji | Sprawdzasz, czy zwrotnica jest dobrze ustawiona | Zgłaszasz usterki toru i urządzeń",
+  "day": "6:00 Dyżurny przekazuje Ci plan pociągów na zmianę | 8:00 Przestawiasz zwrotnicę i kierujesz pociąg na tor boczny | 12:00 Mróz, sprawdzasz, czy nic nie blokuje zwrotnicy | 18:00 Meldujesz dyżurnemu, że droga dla pociągu jest gotowa",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów i sygnałów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Dobre zdrowie",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca",
+   "Odpowiedzialny zawód",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca zmianowa i nocna",
+   "Duża odpowiedzialność",
+   "Wysokie wymagania zdrowotne"
+  ],
+  "routes": [
+   {
+    "n": "Technikum kolejowe",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie kolejowym",
+      5
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja u przewoźnika",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Kurs u przewoźnika",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia lub branżowa",
+      3
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs na licencję i świadectwo maszynisty",
+      1.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Maszyniści kolejowi, dyżurni ruchu i pokrewni",
+  "pay_median_2025": 8851.97,
+  "gen_id": 565
+ },
+ {
+  "name": "Instruktor nauki jazdy",
+  "path": "Instruktor nauki jazdy",
+  "hook": "Uczysz kursantów prowadzić pojazd i znać przepisy ruchu, najpierw na placu, potem w mieście. Siedzisz obok, masz własne pedały i reagujesz, gdy kursant popełni błąd.",
+  "tasks": "Tłumaczysz przepisy ruchu na zajęciach | Pokazujesz podstawy obsługi pojazdu | Poprawiasz błędy kursanta w czasie jazdy | Przygotowujesz do egzaminu teoretycznego i praktycznego",
+  "day": "8:00 Zajęcia z teorii dla grupy kursantów | 10:00 Nowy kursant, pokazujesz mu ruszanie i hamowanie | 13:00 Kursant zapomina o kierunkowskazie, korygujesz spokojnie | 17:30 Omawiasz z kursantem błędy po jeździe",
+  "skills": [
+   [
+    "Spokój i cierpliwość",
+    "P"
+   ],
+   [
+    "Bardzo dobra jazda",
+    "R"
+   ],
+   [
+    "Jasne tłumaczenie",
+    "S"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Szybka reakcja",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Uczysz konkretnej umiejętności",
+   "Samodzielna praca",
+   "Kontakt z różnymi ludźmi"
+  ],
+  "minus": [
+   "Stres w ruchu ulicznym",
+   "Praca popołudniami i w weekendy",
+   "Wiele godzin w samochodzie"
+  ],
+  "routes": [
+   {
+    "n": "Kurs instruktora",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Kilka lat z prawem jazdy",
+      3
+     ],
+     [
+      "kurs",
+      "Kurs dla instruktorów",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Egzamin państwowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali pracownicy usług osobistych",
+  "pay_median_2025": 5383.08,
+  "gen_id": 566
+ },
+ {
+  "name": "Instruktor nauki jazdy autobusem",
+  "path": "Instruktor nauki jazdy",
+  "hook": "Uczysz przyszłych kierowców autobusów prowadzić duży pojazd z pasażerami. Skupiasz się na gabarytach, zakrętach, przystankach i bezpieczeństwie osób na pokładzie.",
+  "tasks": "Pokazujesz, jak pokonać ciasny zakręt długim pojazdem | Uczysz zatrzymywania autobusu przy krawędzi przystanku | Tłumaczysz obsługę drzwi i hamulców | Przygotowujesz do egzaminu na prawo jazdy autobusem",
+  "day": "7:00 Teoria o czasie pracy kierowcy i hamowaniu | 9:00 Na placu ćwiczysz z kursantem cofanie autobusem | 12:30 Jazda przez miasto, kursant za szeroko skręca | 16:00 Po jeździe omawiasz błędy i plan kolejnych zajęć",
+  "skills": [
+   [
+    "Spokój i cierpliwość",
+    "P"
+   ],
+   [
+    "Bardzo dobra jazda",
+    "R"
+   ],
+   [
+    "Jasne tłumaczenie",
+    "S"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Szybka reakcja",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Uczysz konkretnej umiejętności",
+   "Samodzielna praca",
+   "Kontakt z różnymi ludźmi"
+  ],
+  "minus": [
+   "Stres w ruchu ulicznym",
+   "Praca popołudniami i w weekendy",
+   "Wiele godzin w samochodzie"
+  ],
+  "routes": [
+   {
+    "n": "Kurs instruktora",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Kilka lat z prawem jazdy",
+      3
+     ],
+     [
+      "kurs",
+      "Kurs dla instruktorów",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Egzamin państwowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali pracownicy usług osobistych",
+  "pay_median_2025": 5383.08,
+  "gen_id": 567
+ },
+ {
+  "name": "Instruktor nauki jazdy motorem",
+  "path": "Instruktor nauki jazdy",
+  "hook": "Uczysz ludzi jazdy motocyklem, najpierw na placu, potem w ruchu. Ćwiczysz z nimi równowagę i hamowanie, pilnujesz kasku i ochraniaczy oraz tłumaczysz, jak groźne są błędy.",
+  "tasks": "Uczysz równowagi i panowania nad motocyklem | Pokazujesz hamowanie i pokonywanie łuków | Sprawdzasz kask i odzież ochronną kursanta | Omawiasz błędy po każdej jeździe",
+  "day": "8:00 Plac manewrowy, kursant uczy się płynnie ruszać | 10:00 Ćwiczycie slalom między pachołkami i hamowanie awaryjne | 13:00 Jazda po mieście, dajesz polecenia przez słuchawkę | 16:30 Omawiasz błędy i przygotowujesz do egzaminu",
+  "skills": [
+   [
+    "Spokój i cierpliwość",
+    "P"
+   ],
+   [
+    "Bardzo dobra jazda",
+    "R"
+   ],
+   [
+    "Jasne tłumaczenie",
+    "S"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Szybka reakcja",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Uczysz konkretnej umiejętności",
+   "Samodzielna praca",
+   "Kontakt z różnymi ludźmi"
+  ],
+  "minus": [
+   "Stres w ruchu ulicznym",
+   "Praca popołudniami i w weekendy",
+   "Wiele godzin w samochodzie"
+  ],
+  "routes": [
+   {
+    "n": "Kurs instruktora",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Kilka lat z prawem jazdy",
+      3
+     ],
+     [
+      "kurs",
+      "Kurs dla instruktorów",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Egzamin państwowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali pracownicy usług osobistych",
+  "pay_median_2025": 5383.08,
+  "gen_id": 568
+ },
+ {
+  "name": "Instruktor nauki jazdy samochodem ciężarowym",
+  "path": "Instruktor nauki jazdy",
+  "hook": "Uczysz prowadzić ciężarówkę: duże gabaryty, długa droga hamowania i cofanie z naczepą. Przygotowujesz kursantów do egzaminu i do pracy zawodowego kierowcy.",
+  "tasks": "Uczysz cofania i manewrów z naczepą | Tłumaczysz długą drogę hamowania ciężarówki | Pokazujesz ustawianie lusterek i martwe pola | Prowadzisz zajęcia z teorii i przepisów",
+  "day": "6:30 Z kursantem oglądasz opony, lusterka i poziom płynów | 8:00 Plac manewrowy, cofanie z naczepą między pachołkami | 12:00 Jazda drogą krajową, kursant ćwiczy bezpieczne odstępy | 15:30 Teoria o czasie jazdy i odpoczynku kierowców",
+  "skills": [
+   [
+    "Spokój i cierpliwość",
+    "P"
+   ],
+   [
+    "Bardzo dobra jazda",
+    "R"
+   ],
+   [
+    "Jasne tłumaczenie",
+    "S"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Szybka reakcja",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Uczysz konkretnej umiejętności",
+   "Samodzielna praca",
+   "Kontakt z różnymi ludźmi"
+  ],
+  "minus": [
+   "Stres w ruchu ulicznym",
+   "Praca popołudniami i w weekendy",
+   "Wiele godzin w samochodzie"
+  ],
+  "routes": [
+   {
+    "n": "Kurs instruktora",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Kilka lat z prawem jazdy",
+      3
+     ],
+     [
+      "kurs",
+      "Kurs dla instruktorów",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Egzamin państwowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali pracownicy usług osobistych",
+  "pay_median_2025": 5383.08,
+  "gen_id": 569
+ },
+ {
+  "name": "Operator drona",
+  "path": "Transport i logistyka",
+  "hook": "Sterujesz bezzałogowym statkiem powietrznym, który filmuje z góry, mierzy teren albo sprawdza trudno dostępne miejsca. Do zawodowych lotów potrzebujesz uprawnień, a pogoda często decyduje, czy w ogóle polecisz.",
+  "tasks": "Planujesz lot i sprawdzasz pogodę | Pilotujesz drona i ustawiasz kamerę | Filmujesz lub mierzysz teren z powietrza | Oglądasz z góry linie energetyczne i dachy",
+  "day": "6:00 Sprawdzasz prognozę wiatru i naładowanie baterii | 8:00 Na polu rozkładasz sprzęt i robisz próbny lot | 10:30 Lecisz nad budową i zbierasz zdjęcia do pomiarów | 15:00 Przeglądasz nagranie i odrzucasz poruszone ujęcia",
+  "skills": [
+   [
+    "Precyzyjne sterowanie",
+    "R"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "O"
+   ],
+   [
+    "Znajomość przepisów lotniczych",
+    "S"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Wyczucie kadru",
+    "O"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Nowa, rozwijająca się branża",
+   "Praca w terenie",
+   "Różne zastosowania, od filmu po pomiary"
+  ],
+  "minus": [
+   "Praca zależna od pogody",
+   "Zmieniające się przepisy",
+   "Drogi sprzęt"
+  ],
+  "routes": [
+   {
+    "n": "Uprawnienia i praktyka",
+    "s": [
+     [
+      "kurs",
+      "Szkolenie i egzamin online dla pilotów dronów",
+      0
+     ],
+     [
+      "projekt",
+      "Własne loty i materiał pokazowy",
+      0.5
+     ],
+     [
+      "kurs",
+      "Uprawnienia do lotów zawodowych",
+      0.5
+     ],
+     [
+      "praktyka",
+      "Pierwsze zlecenia",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "",
+  "pay_median_2025": null,
+  "gen_id": 571
+ },
+ {
+  "name": "Inżynier ds. energetyki cieplnej",
+  "path": "Inżynierowie > Inne: inżynierowie > Inżynier energetyki",
+  "hook": "Projektujesz systemy, które ogrzewają lub chłodzą budynki i procesy, przenosząc ciepło za pomocą płynów i gazów. Liczysz, rysujesz i testujesz instalacje, aż działają tak, jak powinny.",
+  "tasks": "Obliczasz, ile ciepła trzeba przenieść | Projektujesz instalacje ogrzewania lub chłodzenia | Dobierasz rury, pompy i wymienniki ciepła | Testujesz zbudowany system w praktyce",
+  "day": "8:00 Sprawdzasz obliczenia strat ciepła w budynku | 10:00 Rysujesz schemat rur i pomp ogrzewania | 13:00 Na budowie oglądasz zamontowaną instalację grzewczą | 15:30 Podczas testu mierzysz temperatury w różnych punktach",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 572
+ },
+ {
+  "name": "Inżynier ds. energetyki wiatrowej",
+  "path": "Inżynierowie > Inne: inżynierowie > Inżynier energetyki",
+  "hook": "Szukasz miejsc, w których wiatr wieje najrówniej, i projektujesz tam farmy wiatrowe. Testujesz sprzęt, na przykład łopaty turbin, i szukasz sposobów, by dawały więcej energii.",
+  "tasks": "Badasz wiatr i teren pod nową farmę | Testujesz łopaty i inne części turbin | Projektujesz rozmieszczenie turbin | Pracujesz nad wydajniejszą i bardziej ekologiczną produkcją",
+  "day": "8:00 Analizujesz pomiary wiatru z masztu pomiarowego | 10:30 Wybierasz na mapie miejsca dla turbin | 13:00 W hali testowej sprawdzasz wytrzymałość łopaty turbiny | 16:00 Piszesz raport o najlepszej lokalizacji farmy",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 574
+ },
+ {
+  "name": "Inżynier ds. systemów energetycznych",
+  "path": "Inżynierowie > Inne: inżynierowie > Inżynier energetyki",
+  "hook": "Zajmujesz się całą drogą energii, od wytworzenia po dotarcie do odbiorców. Szukasz miejsc, gdzie energia się marnuje, i wymyślasz tańsze oraz czystsze rozwiązania, które da się włączyć do istniejącej sieci.",
+  "tasks": "Analizujesz zużycie i dostawy energii w danych | Wyszukujesz miejsca marnowania energii | Porównujesz koszty techniczne i finansowe rozwiązań | Włączasz źródła odnawialne do istniejącej sieci",
+  "day": "8:30 Przeglądasz dobowe wykresy zużycia energii w mieście | 10:30 Sprawdzasz, o których godzinach sieć jest przeciążona | 13:00 Liczysz, czy nowy magazyn energii się opłaci | 15:30 Piszesz wnioski dla zarządu o zmianach w systemie",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 575
+ },
+ {
+  "name": "Inżynier energetyki",
+  "path": "Inżynierowie > Inne: inżynierowie > Inżynier energetyki",
+  "hook": "Szukasz sposobów, by wytwarzać, przekształcać i rozprowadzać energię wydajniej i czyściej. Pracujesz zarówno z paliwami takimi jak ropa i gaz, jak i ze źródłami odnawialnymi, a firmom doradzasz, jak zużywać mniej.",
+  "tasks": "Porównujesz różne źródła energii pod względem emisji | Projektujesz sposoby wytwarzania energii | Doradzasz firmom, jak zużywać mniej energii | Sprawdzasz sprawność urządzeń i instalacji",
+  "day": "8:00 Sprawdzasz, ile paliwa zużywa kotłownia fabryki | 10:00 Porównujesz dwa pomysły na czystsze wytwarzanie ciepła | 13:00 Rozmawiasz z właścicielem hali o izolacji i oświetleniu | 16:00 Piszesz raport, ile energii da się zaoszczędzić",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 576
+ },
+ {
+  "name": "Inżynier energetyki jądrowej",
+  "path": "Inżynierowie > Inne: inżynierowie > Inżynier energetyki",
+  "hook": "Planujesz i projektujesz urządzenia oraz procesy w elektrowniach jądrowych. Dużą część pracy zajmuje analiza ryzyka i zabezpieczenia, bo błąd w takim obiekcie ma poważne skutki.",
+  "tasks": "Projektujesz elementy instalacji elektrowni jądrowej | Analizujesz ryzyka i opracowujesz zabezpieczenia | Sprawdzasz zgodność z rygorystycznymi przepisami | Opisujesz rozwiązania w dokumentacji technicznej",
+  "day": "8:00 Czytasz raport z przeglądu układu chłodzenia | 10:00 Sprawdzasz symulacją, co się stanie przy awarii pompy | 13:00 Naradzasz się z zespołem nad dodatkowym zabezpieczeniem | 16:00 Poprawiasz dokumentację po uwagach nadzoru",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 577
+ },
+ {
+  "name": "Inżynier urządzeń i systemów energetyki odnawialnej",
+  "path": "Inżynierowie > Inne: inżynierowie > Inżynier energetyki",
+  "hook": "Badasz alternatywne źródła energii i projektujesz urządzenia, które z nich korzystają. Starasz się, żeby były wydajniejsze, tańsze w produkcji i mniej obciążały środowisko.",
+  "tasks": "Badasz alternatywne źródła energii w laboratorium | Projektujesz urządzenia do energii odnawialnej | Porównujesz wydajność różnych rozwiązań | Szukasz sposobów na obniżenie kosztów produkcji",
+  "day": "8:30 Uruchamiasz stanowisko testowe i zapisujesz pomiary | 11:00 Porównujesz w tabeli wydajność dwóch prototypów | 13:30 Narada o tym, jak obniżyć koszt urządzenia | 16:00 Wpisujesz wnioski z testów do raportu",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 578
+ },
+ {
+  "name": "Inżynier inżynierii materiałowej",
+  "path": "Inżynierowie > Inne: inżynierowie > Inżynier inżynierii materiałowej",
+  "hook": "Badasz i projektujesz materiały: metale, szkło, tworzywa, tekstylia czy beton. Sprawdzasz, z czego są zrobione i czy wytrzymają to, do czego mają służyć.",
+  "tasks": "Analizujesz skład materiałów | Prowadzisz eksperymenty wytrzymałościowe | Opracowujesz nowe materiały do zastosowań przemysłowych | Doradzasz firmom w sprawie uszkodzeń i recyklingu",
+  "day": "8:00 Oglądasz pod mikroskopem pęknięty element metalowy | 10:00 Maszyna rozciąga próbkę, aż pęknie, zapisujesz wynik | 13:00 Z klientem szukasz przyczyny szybkiego zużycia materiału | 15:30 Porównujesz wyniki trzech tworzyw w tabeli",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 579
+ },
+ {
+  "name": "Inżynier technologii drewna",
+  "path": "Inżynierowie > Inne: inżynierowie > Inżynier inżynierii materiałowej",
+  "hook": "Opracowujesz materiały i części wykonane z drewna, na przykład płyty czy elementy konstrukcji, i planujesz, jak je produkować. W zakładzie kontrolujesz jakość, a klientom doradzasz, co się nada do ich potrzeb.",
+  "tasks": "Opracowujesz materiały i części z drewna | Planujesz organizację zakładu produkcyjnego | Kontrolujesz produkcję i jakość wyrobów | Doradzasz klientom, jakiego drewna użyć",
+  "day": "7:30 Obchodzisz halę i sprawdzasz partię desek | 10:00 W laboratorium badasz wytrzymałość próbki drewna | 12:30 Planujesz ustawienie maszyn w nowej hali | 15:00 Doradzasz klientowi, jakie drewno wybrać na schody",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 580
+ },
+ {
+  "name": "Inżynier biocybernetyki i inżynierii biomedycznej",
+  "path": "Inżynierowie > Inne: inżynierowie > Bioinżynier",
+  "hook": "Łączysz inżynierię z medycyną, żeby powstawały lepsze metody leczenia i urządzenia dla pacjentów. Możesz ulepszać elementy znanych leków albo pracować nad leczeniem tkanek.",
+  "tasks": "Projektujesz urządzenia medyczne dla pacjentów | Testujesz nowe rozwiązania w laboratorium | Dopasowujesz rozwiązanie do potrzeb lekarzy i pacjentów | Analizujesz dane z badań medycznych",
+  "day": "8:00 Lekarz opowiada, czego brakuje na jego oddziale | 10:30 Rysujesz na komputerze prototyp nowego urządzenia | 13:00 Testujesz prototyp na modelu, jeszcze bez pacjentów | 16:00 Zapisujesz dane z testu i wyciągasz wnioski",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 583
+ },
+ {
+  "name": "Inżynier bezpieczeństwa i higieny pracy",
+  "path": "Inżynierowie > Inne: inżynierowie > Inżynier bezpieczeństwa i higieny pracy",
+  "hook": "Sprawdzasz, czy miejsce pracy nie zagraża ludziom, i projektujesz sposoby, żeby było bezpieczniej. Oceniasz hałas, zanieczyszczenia, niewygodne stanowiska i niebezpieczne substancje.",
+  "tasks": "Oceniasz zagrożenia na stanowiskach pracy | Projektujesz zasady i programy ochrony zdrowia | Sprawdzasz ergonomię stanowiska pracy | Proponujesz poprawki zmniejszające ryzyko wypadków",
+  "day": "8:00 Obchodzisz halę i szukasz niebezpiecznych miejsc | 10:00 Przy maszynach sprawdzasz poziom hałasu | 12:30 Oceniasz, czy biurko i krzesło nie męczą kręgosłupa | 15:00 Piszesz raport z propozycjami zmian",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 584
+ },
+ {
+  "name": "Inżynier pożarnictwa",
+  "path": "Inżynierowie > Inne: inżynierowie > Inżynier bezpieczeństwa i higieny pracy",
+  "hook": "Wymyślasz, jak zapobiegać pożarom i ograniczać ich skutki w budynkach i w przyrodzie. Dobierasz materiały, które trudniej się palą, i projektujesz systemy wykrywające ogień.",
+  "tasks": "Dobierasz materiały odporne na ogień | Projektujesz systemy wykrywania pożaru | Analizujesz drogi rozprzestrzeniania się ognia w budynku | Badasz zabezpieczenia dla ludzi i terenów przyrodniczych",
+  "day": "8:00 Czytasz plan nowego budynku pod kątem zagrożenia pożarem | 10:30 Dobierasz na ściany materiał, który trudno się pali | 13:00 Planujesz rozmieszczenie czujników dymu w pomieszczeniach | 16:00 Naradzasz się z architektem o dodatkowych wyjściach",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 585
+ },
+ {
+  "name": "Inżynier fotoniki",
+  "path": "Inżynierowie > Inne: inżynierowie > Inżynier optyk",
+  "hook": "Pracujesz ze światłem jak z narzędziem: wytwarzasz je, przesyłasz, przekształcasz i wykrywasz. Z tego powstają na przykład światłowody, czujniki i przyrządy medyczne.",
+  "tasks": "Projektujesz układy do przesyłu światła | Budujesz i testujesz elementy z użyciem światła | Mierzysz, jak światło zachowuje się w układzie | Wdrażasz rozwiązania w łączności lub czujnikach",
+  "day": "8:30 Ustawiasz na stole układ optyczny do pomiarów | 10:30 Mierzysz, ile światła dociera na koniec światłowodu | 13:30 Testujesz czujnik reagujący na światło w urządzeniu | 16:00 Opisujesz wyniki i planujesz następną wersję układu",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 586
+ },
+ {
+  "name": "Inżynier optyk",
+  "path": "Inżynierowie > Inne: inżynierowie > Inżynier optyk",
+  "hook": "Projektujesz soczewki i układy optyczne do mikroskopów, obiektywów, teleskopów i innych urządzeń. Liczysz, jak biegnie światło przez każdy element, żeby obraz był ostry.",
+  "tasks": "Projektujesz soczewki i zwierciadła | Obliczasz bieg promieni światła | Dobierasz kształt i rodzaj szkła soczewek | Testujesz ostrość obrazu w gotowym urządzeniu",
+  "day": "8:00 Na komputerze symulujesz bieg promieni w obiektywie | 10:30 Poprawiasz kształt soczewki, żeby usunąć rozmycie | 13:00 Porównujesz w laboratorium ostrość obrazu z prototypu | 16:00 Omawiasz z producentem sposób wykonania soczewek",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 587
+ },
+ {
+  "name": "Inżynier akustyk",
+  "path": "Inżynierowie > Inne: inżynierowie",
+  "hook": "Zajmujesz się dźwiękiem w pomieszczeniach i poza nimi: dobierasz materiały, by w sali było dobrze słychać, i sprawdzasz, czy hałas nie przekracza norm. Pracujesz przy studiach nagrań, salach koncertowych i budynkach.",
+  "tasks": "Mierzysz, jak dźwięk odbija się w sali | Dobierasz panele i materiały wygłuszające | Sprawdzasz poziom hałasu zgodnie z normami | Doradzasz przy budowie studia nagrań",
+  "day": "8:30 Jedziesz do sali, w której za bardzo słychać echo | 10:00 Odtwarzasz dźwięki testowe i mierzysz, jak wracają | 13:00 Dobierasz panele, które wyciszą pogłos w sali | 15:30 Mierzysz hałas przy osiedlu obok nowej hali",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 588
+ }
+]

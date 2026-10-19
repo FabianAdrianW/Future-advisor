@@ -1,0 +1,1662 @@
+[
+ {
+  "name": "Nurek techniczny",
+  "path": "Kontrolerzy jakości i inni > Nurkowie",
+  "hook": "Pracujesz pod wodą przy kanałach, śluzach i konstrukcjach portowych: instalujesz urządzenia, oglądasz konstrukcje i naprawiasz je. Pracujesz w ciężkich warunkach, więc liczy się dokładny plan.",
+  "tasks": "Instalujesz urządzenia pod wodą | Oglądasz konstrukcje hydrotechniczne | Naprawiasz uszkodzone elementy | Usuwasz przeszkody i stare konstrukcje",
+  "day": "7:00 Omawiasz plan zanurzenia z kierownikiem robót | 9:00 Schodzisz pod wodę do ściany kanału | 11:00 Oglądasz pęknięcie i fotografujesz je kamerą | 14:00 Opisujesz uszkodzenie i planujesz naprawę",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 139
+ },
+ {
+  "name": "Płetwonurek ratownik",
+  "path": "Kontrolerzy jakości i inni > Nurkowie",
+  "hook": "Wkraczasz, gdy pod wodą dzieje się coś złego: szukasz ludzi lub przedmiotów i wydobywasz je. Pracujesz w morzu, kanałach i innych trudnych miejscach.",
+  "tasks": "Szukasz ludzi i przedmiotów pod wodą | Ratujesz poszkodowanych z wody | Sprawdzasz i obsługujesz sprzęt ratowniczy | Zapobiegasz problemom podczas nurkowania",
+  "day": "6:30 Sprawdzasz butle i sprzęt ratowniczy w bazie | 9:00 Ćwiczysz akcję ratunkową z zespołem | 13:00 Dostajesz zgłoszenie, ktoś zniknął pod wodą | 14:30 Schodzisz pod wodę i szukasz poszkodowanego",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 140
+ },
+ {
+  "name": "Pracownik deratyzacji, dezynfekcji i dezynsekcji",
+  "path": "Kontrolerzy jakości i inni > Pracownik deratyzacji, dezynfekcji i dezynsekcji",
+  "hook": "Pozbywasz się szczurów, myszy, karaluchów i innych szkodników z mieszkań, magazynów i lokali. Ustawiasz pułapki, stosujesz środki i doradzasz mieszkańcom, jak zapobiegać powrotowi szkodników.",
+  "tasks": "Szukasz śladów szkodników w budynku | Ustawiasz pułapki na szlakach szkodników | Stosujesz środki zgodnie z zasadami | Doradzasz klientom, jak zapobiegać powrotowi",
+  "day": "8:00 Jedziesz do restauracji, gdzie widziano karaluchy | 9:30 Szukasz śladów i ustawiasz pułapki w kuchni | 12:00 Zabezpieczasz piwnicę przed szczurami zgodnie z procedurą | 15:00 Tłumaczysz właścicielowi, jak utrzymać porządek",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 141
+ },
+ {
+  "name": "Pracownik ochrony roślin",
+  "path": "Kontrolerzy jakości i inni > Pracownik deratyzacji, dezynfekcji i dezynsekcji",
+  "hook": "Opryskujesz drzewa, rośliny i trawniki środkami przeciw szkodnikom i chorobom roślin. Mieszasz roztwory, obsługujesz opryskiwacze i czyścisz sprzęt po pracy.",
+  "tasks": "Mieszasz środki ochrony roślin | Opryskujesz drzewa i trawniki | Czyścisz i konserwujesz opryskiwacze | Pilnujesz bezpieczeństwa w obszarze zabiegu",
+  "day": "6:00 Wcześnie rano sprawdzasz opryskiwacz i ubranie ochronne | 7:00 Przygotowujesz roztwór według instrukcji | 9:00 Opryskujesz rzędy drzew w sadzie | 13:00 Myjesz sprzęt i oznaczasz teren po zabiegu",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 142
+ },
+ {
+  "name": "Strzałowy",
+  "path": "Kontrolerzy jakości i inni",
+  "hook": "Rozmieszczasz materiały wybuchowe w wybranym miejscu i w kontrolowany sposób je detonujesz, by rozerwać skałę lub konstrukcję. Cała praca opiera się na procedurach bezpieczeństwa.",
+  "tasks": "Czytasz plan rozmieszczenia ładunków | Rozstawiasz ładunki w wyznaczonych miejscach | Odgradzasz teren i sprawdzasz, czy nikogo nie ma | Detonujesz ładunki z bezpiecznej odległości",
+  "day": "6:30 Omawiasz plan odpalenia z kierownikiem robót | 9:00 Układasz ładunki w wyznaczonych miejscach | 12:00 Po sprawdzeniu strefy odpalasz ładunki z dystansu | 14:00 Obchodzisz teren po wybuchu i szukasz niewypałów",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 143
+ },
+ {
+  "name": "Elektroenergetyk",
+  "path": "Energetyka i sterowanie procesami > Elektroenergetyk",
+  "hook": "Dbasz, żeby maszyny w elektrowni działały bez przerwy, i naprawiasz je, gdy się psują. Czasem obsługujesz je bezpośrednio, a czasem z dyspozytorni.",
+  "tasks": "Obsługujesz maszyny w elektrowni | Usuwasz awarie urządzeń | Dbasz, by energia płynęła bezpiecznie do sieci | Sterujesz pracą urządzeń z dyspozytorni",
+  "day": "6:00 Dowiadujesz się od nocnej zmiany, co się działo | 8:00 Obchodzisz maszyny i sprawdzasz wskazania | 11:00 Alarm: jeden z agregatów wyłącza się sam | 14:00 Usuwasz awarię i wpisujesz ją do dziennika",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 144
+ },
+ {
+  "name": "Elektroenergetyk elektrowni słonecznych",
+  "path": "Energetyka i sterowanie procesami > Elektroenergetyk",
+  "hook": "Pilnujesz, żeby panele i urządzenia zamieniające światło słoneczne na prąd działały sprawnie. Sprawdzasz odczyty, szukasz powodu spadku produkcji i usuwasz awarie.",
+  "tasks": "Monitorujesz odczyty z urządzeń pomiarowych | Szukasz przyczyn spadku produkcji | Usuwasz awarie instalacji | Dopasowujesz pracę elektrowni do potrzeb produkcji",
+  "day": "7:00 Czytasz wykresy produkcji z poprzedniego dnia | 9:30 Widzisz spadek w jednym rzędzie paneli | 11:00 Jedziesz na pole paneli szukać przyczyny | 14:00 Usuwasz usterkę i sprawdzasz odczyty ponownie",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 146
+ },
+ {
+  "name": "Elektroenergetyk elektrowni wodnych",
+  "path": "Energetyka i sterowanie procesami > Elektroenergetyk",
+  "hook": "Obsługujesz turbiny napędzane przepływem wody i ustawiasz, ile wody ma przez nie płynąć, żeby pokryć zapotrzebowanie na prąd. Wykonujesz też remonty i konserwację.",
+  "tasks": "Obsługujesz turbiny i generatory wodne | Regulujesz przepływ wody przez elektrownię | Odczytujesz urządzenia pomiarowe | Wykonujesz remonty i konserwację maszyn",
+  "day": "6:00 Sprawdzasz poziom wody w zbiorniku i prognozę | 8:00 Zwiększasz przepływ, bo rośnie zapotrzebowanie na energię | 11:00 Obchodzisz turbinę i smarujesz łożyska | 14:00 Prowadzisz planowy przegląd jednej z maszyn",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 147
+ },
+ {
+  "name": "Elektroenergetyk elektrowni wykorzystujących paliwa kopalne",
+  "path": "Energetyka i sterowanie procesami > Elektroenergetyk",
+  "hook": "Obsługujesz kotły, turbiny i generatory, w których z gazu lub węgla powstaje prąd. Pilnujesz, by instalacje były sprawne i zgodne z przepisami; w elektrociepłowni wykorzystujesz też ciepło odpadowe.",
+  "tasks": "Obsługujesz kotły, turbiny i generatory | Sprawdzasz zgodność instalacji z przepisami | Utrzymujesz w ruchu urządzenia energetyczne | Wykorzystujesz ciepło odpadowe w elektrociepłowni",
+  "day": "6:00 Przejmujesz zmianę i czytasz stan kotłów | 8:00 Obchodzisz halę turbin z listą kontrolną | 11:00 Wykrywasz przeciek pary i zgłaszasz usterkę | 13:30 Wpisujesz zdarzenia do dziennika i przekazujesz zmianę",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 148
+ },
+ {
+  "name": "Elektroenergetyk nastawni",
+  "path": "Energetyka i sterowanie procesami > Elektroenergetyk",
+  "hook": "Siedzisz w nastawni i czuwasz nad pracą elektrowni oraz stacji przesyłowych. Gdy dojdzie do awarii albo przerwy w dostawie prądu, wiesz, co robić według procedur.",
+  "tasks": "Monitorujesz pracę elektrowni z nastawni | Utrzymujesz maszyny i urządzenia w ruchu | Reagujesz na awarie i przerwy w dostawie | Naprawiasz urządzenia i przywracasz zasilanie",
+  "day": "7:00 Siadasz przed ekranami stacji i czytasz alerty | 10:00 Obserwujesz wskazania w czasie normalnej pracy | 13:00 Nagle w regionie znika zasilanie, włącza się alarm | 13:30 Wydajesz polecenia i krok po kroku przywracasz zasilanie",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 149
+ },
+ {
+  "name": "Maszynista turbozespołu parowego",
+  "path": "Energetyka i sterowanie procesami > Elektroenergetyk",
+  "hook": "Obsługujesz turbinę parową i generator, które wytwarzają prąd. Cały czas obserwujesz pracę maszyn, żeby wcześnie wychwycić problem.",
+  "tasks": "Uruchamiasz i zatrzymujesz turbozespół | Obserwujesz wskazania ciśnienia i temperatury | Wykrywasz nietypowe dźwięki i drgania | Reagujesz na sytuacje awaryjne",
+  "day": "6:00 Uruchamiasz turbinę po nocnym postoju | 8:00 Sprawdzasz drgania i temperaturę łożysk | 11:30 Słyszysz zmianę dźwięku i wyłączasz urządzenie | 14:00 Zapisujesz parametry pracy w dzienniku zmiany",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 150
+ },
+ {
+  "name": "Operator reaktora jądrowego",
+  "path": "Energetyka i sterowanie procesami > Elektroenergetyk",
+  "hook": "Siedzisz przy panelu sterowania i kierujesz pracą reaktora w elektrowni jądrowej. Odpowiadasz za zmiany jego mocy i przez całą zmianę pilnujesz parametrów.",
+  "tasks": "Sterujesz reaktorem z panelu kontrolnego | Zmieniasz moc reaktora zgodnie z procedurą | Monitorujesz parametry pracy na wskaźnikach | Reagujesz na alarmy i zdarzenia krytyczne",
+  "day": "6:00 Odprawa przed zmianą: omawiasz stan reaktora z kolegami | 8:00 Powoli zwiększasz moc zgodnie z harmonogramem | 11:30 Zapala się alarm, otwierasz odpowiednią procedurę | 13:30 Zapisujesz zdarzenia i przekazujesz zmianę następcy",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 151
+ },
+ {
+  "name": "Pracownik systemu przesyłowego energii elektrycznej",
+  "path": "Energetyka i sterowanie procesami > Elektroenergetyk",
+  "hook": "Zajmujesz się przesyłaniem prądu z elektrowni siecią dalekosiężną do stacji, które zasilają miasta. Pilnujesz, żeby energia płynęła tam, gdzie jest potrzebna.",
+  "tasks": "Śledzisz przepływ energii w sieci | Przełączasz połączenia między stacjami | Reagujesz na awarie linii | Koordynujesz pracę z elektrowniami",
+  "day": "7:00 Patrzysz na mapę sieci i obciążenie linii | 10:00 Rośnie zapotrzebowanie, rozmawiasz z elektrownią o mocy | 13:00 Linia się wyłącza, szukasz drogi dla prądu | 16:00 Przekazujesz zmianę i opisujesz awarię",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 152
+ },
+ {
+  "name": "Operator spalarni odpadów komunalnych",
+  "path": "Energetyka i sterowanie procesami > Urządzenia do spalania odpadów i uzdatniania wody",
+  "hook": "Obsługujesz maszyny, w których spala się odpady z domów i firm. Pilnujesz, żeby proces szedł zgodnie z przepisami bezpieczeństwa, a urządzenia były sprawne.",
+  "tasks": "Obsługujesz piece i maszyny do spalania | Sprawdzasz, czy spalanie przebiega zgodnie z przepisami | Utrzymujesz urządzenia w sprawności | Reagujesz na usterki podczas pracy",
+  "day": "6:00 Na ekranie sprawdzasz pracę pieców od nocy | 8:30 Śledzisz podawanie odpadów do pieca | 11:00 Maszyna się zacina, wzywasz mechanika | 13:30 Notujesz parametry spalania na koniec zmiany",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 154
+ },
+ {
+  "name": "Operator urządzeń do utylizacji odpadów stałych",
+  "path": "Energetyka i sterowanie procesami > Urządzenia do spalania odpadów i uzdatniania wody",
+  "hook": "Obsługujesz maszyny, które zbierają, rozdzielają i unieszkodliwiają odpady stałe, także budowlane. Pilnujesz, żeby to, co nadaje się do recyklingu, trafiło w inne miejsce niż to, co trzeba usunąć.",
+  "tasks": "Obsługujesz maszyny do przerobu odpadów | Rozdzielasz odpady do recyklingu i usunięcia | Pobierasz próbki do badania zanieczyszczeń | Pilnujesz opróżniania pojemników na odpady",
+  "day": "7:00 Uruchamiasz maszyny na hali sortowni | 9:00 Obserwujesz taśmę i wyławiasz błędnie wrzucone odpady | 11:30 Pobierasz próbkę, żeby sprawdzić zanieczyszczenie | 13:30 Sprawdzasz, czy kontenery zostały opróżnione",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 156
+ },
+ {
+  "name": "Technik oczyszczania ścieków",
+  "path": "Energetyka i sterowanie procesami > Urządzenia do spalania odpadów i uzdatniania wody",
+  "hook": "Pomagasz w oczyszczalni ścieków: obsługujesz i naprawiasz maszyny, które czyszczą ścieki, i wspierasz cały proces oczyszczania. Gdy urządzenie przestaje działać, szukasz usterki i ją usuwasz.",
+  "tasks": "Pomagasz przy obsłudze urządzeń oczyszczalni | Wykonujesz naprawy maszyn i pomp | Sprawdzasz, czy proces przebiega poprawnie | Szukasz usterki, gdy urządzenie przestaje działać",
+  "day": "7:00 Dostajesz od operatora listę zadań na dzień | 9:00 Rozkręcasz pompę, która źle pracuje | 12:00 Wymieniasz zużyte uszczelnienie w pompie | 14:00 Uruchamiasz pompę i sprawdzasz, czy działa równo",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 159
+ },
+ {
+  "name": "Technik stacji uzdatniania wody",
+  "path": "Energetyka i sterowanie procesami > Urządzenia do spalania odpadów i uzdatniania wody",
+  "hook": "Utrzymujesz w ruchu i naprawiasz urządzenia, które czyszczą wodę i rozprowadzają ją do mieszkańców. Mierzysz jakość wody, filtrujesz ją i pilnujesz, by instalacje wodne działały bez przerw.",
+  "tasks": "Mierzysz jakość wody w stacji | Obsługujesz filtry i urządzenia uzdatniające | Naprawiasz pompy i armaturę | Utrzymujesz w ruchu instalacje wodne",
+  "day": "6:30 Sprawdzasz zbiorniki i ciśnienie w sieci wodnej | 9:00 Mierzysz mętność wody po filtracji | 11:30 Wymieniasz zużyty zawór na wyjściu ze stacji | 14:00 Płuczesz filtr i zapisujesz przebieg prac",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 160
+ },
+ {
+  "name": "Brygadzista w zakładzie przetwórstwa gazu",
+  "path": "Energetyka i sterowanie procesami > Kontroler procesów w przemyśle chemicznym",
+  "hook": "Kierujesz zmianą pracowników w zakładzie, który obrabia gaz dla energetyki i zakładów użyteczności publicznej. Pilnujesz sprężarek i innych urządzeń oraz zlecasz testy, gdy coś odbiega od normy.",
+  "tasks": "Nadzorujesz sprężarki i urządzenia przetwarzające | Pilnujesz, by parametry były w normie | Nadzorujesz konserwację maszyn i urządzeń | Przeprowadzasz testy przy podejrzanych odchyleniach",
+  "day": "6:00 Odprawa z ekipą przed rozpoczęciem zmiany | 8:00 Sprawdzasz pracę sprężarek na hali | 11:00 Ciśnienie odbiega od normy, zlecasz test | 14:00 Rozdzielasz zadania na kolejną zmianę",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 161
+ },
+ {
+  "name": "Kontroler procesów w przemyśle chemicznym",
+  "path": "Energetyka i sterowanie procesami > Kontroler procesów w przemyśle chemicznym",
+  "hook": "Nadzorujesz produkcję w zakładzie chemicznym: obsługujesz maszyny i systemy, w których przebiega proces. Pilnujesz urządzeń i przyrządów sterujących oraz dbasz o ich konserwację.",
+  "tasks": "Obsługujesz maszyny i systemy produkcyjne | Kontrolujesz przebieg procesu | Odczytujesz wskazania przyrządów sterujących | Dbasz o konserwację sprzętu",
+  "day": "6:00 Zaczynasz zmianę od odczytu przyrządów | 8:30 Śledzisz przebieg procesu na schemacie instalacji | 11:00 Wskazanie wychodzi poza zakres, korygujesz ustawienie | 14:00 Przeglądasz i konserwujesz urządzenia sterujące",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 162
+ },
+ {
+  "name": "Operator urządzeń do rozdzielania powietrza",
+  "path": "Energetyka i sterowanie procesami > Kontroler procesów w przemyśle chemicznym",
+  "hook": "Obsługujesz instalację, która ze zwykłego powietrza wydziela azot i tlen. Pilnujesz ciśnienia, przepływu i temperatury, badasz czystość gazów i kierujesz je do zbiorników lub butli.",
+  "tasks": "Kontrolujesz ciśnienie, przepływ i temperaturę | Obsługujesz urządzenia pobierające azot i tlen | Badasz czystość otrzymanych gazów | Napełniasz zbiorniki i butle gazem",
+  "day": "6:00 Sprawdzasz ciśnienia w instalacji po nocy | 8:30 Pobierasz próbkę tlenu do analizy czystości | 11:00 Przełączasz przepływ gazu do zbiornika magazynowego | 13:30 Nadzorujesz napełnianie butli dla klientów",
+  "skills": [
+   [
+    "Uważne śledzenie wskaźników",
+    "L"
+   ],
+   [
+    "Znajomość instalacji",
+    "R"
+   ],
+   [
+    "Szybka reakcja na awarie",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Podstawy automatyki",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca w dużych zakładach",
+   "Odpowiedzialne stanowisko",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca na zmiany, także w nocy",
+   "Duża odpowiedzialność",
+   "Monotonia przerywana nagłymi awariami"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik energetyk, elektryk, automatyk lub technolog chemiczny",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Uprawnienia",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia",
+      3
+     ],
+     [
+      "kurs",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Uprawnienia do obsługi urządzeń",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kontrolerzy (sterowniczy) procesów przemysłowych",
+  "pay_median_2025": 7535.71,
+  "gen_id": 164
+ }
+]

@@ -1,0 +1,1672 @@
+[
+ {
+  "name": "Operator mieszarki granulatu łupkowego",
+  "path": "Górnictwo i wydobycie > Maszyny do produkcji betonu i elementów kamiennych",
+  "hook": "Obsługujesz mieszarkę, która miesza wielokolorowy granulat łupkowy. Granulat trafia potem na papę dachową powleczoną asfaltem.",
+  "tasks": "Obsługujesz mieszarkę granulatu łupkowego | Mieszasz granulat w różnych kolorach | Czyścisz i konserwujesz mieszarkę | Sprawdzasz, czy kolory są równo wymieszane",
+  "day": "6:30 Sprawdzasz zapas kolorowego granulatu przy mieszarce | 8:00 Ustawiasz proporcje kolorów w mieszarce | 11:00 Oglądasz próbkę: czy kolory są równo wymieszane | 14:00 Czyścisz mieszarkę przed zmianą koloru",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 226
+ },
+ {
+  "name": "Szlifierz kamienia",
+  "path": "Górnictwo i wydobycie > Maszyny do produkcji betonu i elementów kamiennych",
+  "hook": "Szlifujesz i polerujesz kamień narzędziami i sprzętem, aż jego powierzchnia stanie się gładka.",
+  "tasks": "Szlifujesz powierzchnię kamienia | Polerujesz kamień do połysku | Dobierasz narzędzia do rodzaju kamienia | Sprawdzasz dłonią gładkość powierzchni",
+  "day": "7:00 Układasz płytę kamienną na stole do szlifowania | 9:00 Szlifujesz krawędzie coraz drobniejszym narzędziem ściernym | 12:00 Polerujesz, aż kamień zaczyna błyszczeć | 15:00 Przesuwasz dłonią i szukasz nierówności",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 230
+ },
+ {
+  "name": "Wytwórca ogniw elektrolitycznych",
+  "path": "Górnictwo i wydobycie > Maszyny do produkcji betonu i elementów kamiennych",
+  "hook": "Tworzysz betonowe ogniwa elektrolityczne w formach, wykańczasz je i testujesz. Do pracy używasz betoniarek, narzędzi i sprzętu.",
+  "tasks": "Mieszasz beton w betoniarce | Formujesz betonowe ogniwa | Wykańczasz powierzchnię gotowego elementu | Testujesz gotowe ogniwa",
+  "day": "7:00 Mieszasz partię betonu na dzisiejsze ogniwa | 9:30 Wylewasz beton do form i go wyrównujesz | 12:00 Wykańczasz ogniwa odlane poprzedniego dnia | 14:30 Testujesz ogniwa i opisujesz wyniki",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 231
+ },
+ {
+  "name": "Górnik pracujący na powierzchni",
+  "path": "Górnictwo i wydobycie > Górnicy i robotnicy obróbki kamienia",
+  "hook": "Wykonujesz pomocnicze prace na powierzchni kopalni: pompujesz, odpylasz i przewozisz piasek, kamień czy glinę do miejsca produkcji. Dużo zależy od orientacji w przestrzeni.",
+  "tasks": "Obsługujesz pompy na terenie kopalni | Odpylasz stanowiska pracy | Przewozisz piasek, kamień i glinę | Orientujesz się w terenie wśród maszyn",
+  "day": "6:00 Dostajesz zadania od nadzorcy zmiany | 8:00 Przewozisz piasek do miejsca produkcji | 11:00 Sprawdzasz pompę w zagłębieniu terenu | 14:00 Odpylasz stanowisko przy kruszarce",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 232
+ },
+ {
+  "name": "Górnik pracujący pod ziemią",
+  "path": "Górnictwo i wydobycie > Górnicy i robotnicy obróbki kamienia",
+  "hook": "Pracujesz pod ziemią i wykonujesz prace pomocnicze: kontrolujesz miejsca pracy i przenośniki oraz przewozisz sprzęt i materiały z powierzchni do miejsca wydobycia.",
+  "tasks": "Przeprowadzasz kontrole pod ziemią | Nadzorujesz pracę przenośników | Przewozisz sprzęt do miejsca wydobycia | Dostarczasz materiały zużywalne z powierzchni",
+  "day": "5:00 Zjeżdżasz na dół razem z brygadą | 7:00 Obchodzisz trasę i kontrolujesz przenośnik | 10:00 Dowozisz sprzęt do miejsca wydobycia | 13:00 Wyjeżdżasz na powierzchnię i zdajesz notatki",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 233
+ },
+ {
+  "name": "Operator ciężkiego sprzętu górniczego",
+  "path": "Górnictwo i wydobycie > Górnicy i robotnicy obróbki kamienia",
+  "hook": "Sterujesz potężnymi maszynami górniczymi do cięcia i załadunku. Dzięki nim wydobywasz rudę i surowy minerał w kopalniach podziemnych.",
+  "tasks": "Sterujesz maszyną tnącą w kopalni | Ładujesz urobek na transport | Kontrolujesz stan ciężkiego sprzętu | Zgłaszasz usterki maszyny serwisowi",
+  "day": "5:30 Odbierasz maszynę po poprzedniej zmianie | 7:30 Tniesz skałę i ładujesz urobek na transport | 11:00 Przerwa serwisowa: sprawdzasz stan maszyny | 14:00 Zgłaszasz serwisowi drobną usterkę",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 234
+ },
+ {
+  "name": "Operator maszyn do odwadniania",
+  "path": "Górnictwo i wydobycie > Górnicy i robotnicy obróbki kamienia",
+  "hook": "Instalujesz i obsługujesz pompy, zestawy rur i systemy próżniowe, które zbierają i usuwają ciecze oraz substancje chemiczne.",
+  "tasks": "Instalujesz pompy i zestawy rur | Obsługujesz system odwadniania próżniowego | Wymieniasz części zamienne | Kontrolujesz odprowadzanie cieczy",
+  "day": "6:30 Odbierasz zlecenie: gdzie trzeba odwodnić teren | 8:00 Montujesz pompę i łączysz zestawy rur | 11:00 Uruchamiasz pompę i patrzysz, jak ciecz spływa | 14:00 Wymieniasz zużytą część i zwijasz sprzęt",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 235
+ },
+ {
+  "name": "Wiertacz",
+  "path": "Górnictwo i wydobycie > Górnicy i robotnicy obróbki kamienia",
+  "hook": "Ustawiasz wiertnie i obsługujesz je, żeby wywiercić otwory do poszukiwań złóż, do prac strzałowych i budowlanych.",
+  "tasks": "Ustawiasz wiertnię w wyznaczonym miejscu | Wiercisz otwory zgodnie z planem | Obsługujesz sprzęt do wiercenia | Przygotowujesz otwory pod prace budowlane",
+  "day": "6:30 Ustawiasz wiertnię w miejscu wskazanym na planie | 8:30 Wiercisz otwory pod badania złóż | 12:00 Zmieniasz wiertło i przenosisz sprzęt | 15:00 Sprawdzasz otwory z kierownikiem robót",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 236
+ },
+ {
+  "name": "Operator kruszarki do surowców mineralnych",
+  "path": "Górnictwo i wydobycie > Maszyny do przeróbki mechanicznej kopalin",
+  "hook": "Obsługujesz kruszarki, które rozdrabniają kamienie i minerały. Podajesz kamień do maszyn, pilnujesz procesu i sprawdzasz, czy produkt zgadza się z wymaganiami.",
+  "tasks": "Podajesz kamień do kruszarki | Napełniasz maszyny minerałami | Obserwujesz proces rozdrabniania | Sprawdzasz, czy kruszywo spełnia wymagania",
+  "day": "6:00 Sprawdzasz kruszarkę i podajesz pierwsze kamienie | 8:30 Kruszarka głośno pracuje, a ty pilnujesz podawania | 11:00 Oglądasz kruszywo i sprawdzasz rozmiar ziaren | 14:00 Zapisujesz, ile kruszywa dziś powstało",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 237
+ },
+ {
+  "name": "Operator sprzętu do obróbki kamienia",
+  "path": "Górnictwo i wydobycie > Maszyny do przeróbki mechanicznej kopalin",
+  "hook": "Obsługujesz strugarki, które wykańczają bloki i płyty kamienne. Pilnujesz, żeby wymiary i parametry kamienia zgadzały się ze specyfikacją.",
+  "tasks": "Obsługujesz strugarkę do kamienia | Układasz bloki i płyty w maszynie | Ustawiasz parametry według specyfikacji | Mierzysz gotowe płyty",
+  "day": "7:00 Ustawiasz blok kamienia w strugarce | 9:00 Wpisujesz wymiary z zamówienia w maszynę | 12:00 Mierzysz płytę i porównujesz ze specyfikacją | 15:00 Odkładasz gotowe płyty do wysyłki",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 238
+ },
+ {
+  "name": "Wiertacz w kamieniu",
+  "path": "Górnictwo i wydobycie > Maszyny do przeróbki mechanicznej kopalin",
+  "hook": "Wiercisz otwory w blokach granitu, marmuru czy piaskowca dokładnie według podanych wymiarów. Obsługujesz wiertarkę i pilnujesz, żeby kamień nie pękł.",
+  "tasks": "Odczytujesz wymiary otworów ze specyfikacji | Zaznaczasz miejsca wiercenia na bloku | Ustawiasz blok i obsługujesz wiertarkę | Mierzysz gotowe otwory i sprawdzasz krawędzie",
+  "day": "6:00 Zakładasz ochronniki słuchu i czytasz zlecenie | 8:00 Wiercisz otwory w płycie z granitu | 11:30 Mierzysz średnice i głębokość otworów | 14:00 Odsuwasz gotowe bloki i czyścisz stanowisko",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 240
+ },
+ {
+  "name": "Operator pieca do wypalania gliny",
+  "path": "Inne maszyny przetwórcze > Maszyny do produkcji wyrobów szklanych i ceramicznych > Operator pieca do wypalania gliny",
+  "hook": "Wypalasz cegły, rury i płytki ceramiczne w piecu i pilnujesz temperatury przez cały cykl. Regulujesz zawory i obserwujesz termometry.",
+  "tasks": "Ustawiasz zawory i regulujesz temperaturę pieca | Odczytujesz termometry w czasie wypału | Sprawdzasz, czy wypalone wyroby nie mają wad | Kontrolujesz piec i zgłaszasz jego usterki",
+  "day": "6:00 Przejmujesz zmianę i czytasz zapis temperatur | 8:30 Korygujesz zawory, bo wskazania odbiegają od planu | 11:00 Wyjmujesz ostudzoną partię i oglądasz pęknięcia | 13:30 Wsuwasz kolejną partię i zapisujesz godzinę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy innych maszyn i urządzeń przetwórczych",
+  "pay_median_2025": 6713.74,
+  "gen_id": 241
+ },
+ {
+  "name": "Operator suszarni do gliny",
+  "path": "Inne maszyny przetwórcze > Maszyny do produkcji wyrobów szklanych i ceramicznych > Operator pieca do wypalania gliny",
+  "hook": "Pilnujesz tuneli, w których surowe wyroby z gliny schną przed wypałem. Zbyt szybkie suszenie powoduje pęknięcia, więc pilnujesz tempa.",
+  "tasks": "Ustawiasz parametry w tunelach suszących | Wprowadzasz wyroby na wózkach do suszarni | Sprawdzasz, czy wysuszone wyroby nie pękają | Wyprowadzasz suche partie przed wypałem",
+  "day": "5:30 Odczytujesz wilgotność i temperaturę w tunelach | 8:00 Wprowadzasz świeżo uformowane wyroby na wózkach | 11:30 Znajdujesz pęknięty wyrób i zwalniasz suszenie | 14:00 Wyprowadzasz suche partie dla obsługi pieca",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy innych maszyn i urządzeń przetwórczych",
+  "pay_median_2025": 6713.74,
+  "gen_id": 243
+ },
+ {
+  "name": "Operator ceglarki",
+  "path": "Inne maszyny przetwórcze > Maszyny do produkcji wyrobów szklanych i ceramicznych",
+  "hook": "Tłoczysz glinę w cegły na prasie i układasz je na wózku do pieca. Dobierasz i mocujesz matryce, które nadają cegle kształt.",
+  "tasks": "Dobierasz matryce do rodzaju cegły | Mocujesz matryce kluczami i sprawdzasz przymiarem | Wyjmujesz świeże cegły z prasy | Układasz cegły na wózku w ustalonym wzorze",
+  "day": "6:00 Wybierasz matrycę i mocujesz ją w prasie | 7:30 Pierwsze cegły schodzą z prasy, mierzysz je | 10:00 Układasz cegły na wózku w równe warstwy | 13:00 Zmieniasz matrycę pod inny format cegły",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy innych maszyn i urządzeń przetwórczych",
+  "pay_median_2025": 6713.74,
+  "gen_id": 246
+ },
+ {
+  "name": "Operator maszyn do produkcji cegieł i płytek ceramicznych",
+  "path": "Inne maszyny przetwórcze > Maszyny do produkcji wyrobów szklanych i ceramicznych",
+  "hook": "Pilnujesz mieszalników, w których składniki zamieniają się w jednolitą masę na cegły i płytki ceramiczne. Od równego wymieszania zależy jakość gotowych wyrobów.",
+  "tasks": "Uruchamiasz i ustawiasz maszyny mieszające | Pilnujesz dopływu składników do mieszalnika | Oglądasz masę i sprawdzasz, czy jest jednolita | Czyścisz i konserwujesz mieszalniki",
+  "day": "6:00 Uruchamiasz mieszalnik i sprawdzasz, czy składniki dopływają | 8:30 Pobierasz próbkę masy i oceniasz jej konsystencję | 11:00 Mieszalnik hałasuje, szukasz przyczyny | 13:00 Czyścisz maszynę po zakończeniu partii",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy innych maszyn i urządzeń przetwórczych",
+  "pay_median_2025": 6713.74,
+  "gen_id": 248
+ },
+ {
+  "name": "Operator prasy ślimakowej do gliny",
+  "path": "Inne maszyny przetwórcze > Maszyny do produkcji wyrobów szklanych i ceramicznych",
+  "hook": "Obsługujesz prasę, która ślimakiem przepycha glinę, formuje ją, wytłacza i tnie na kawałki. Dostrajasz ustawienia, aż wyroby zgadzają się ze specyfikacją.",
+  "tasks": "Ustawiasz prasę ślimakową pod dany wyrób | Kontrolujesz wytłaczanie gliny z prasy | Nastawiasz długość cięcia wytłoczonej gliny | Mierzysz kawałki i porównujesz je ze specyfikacją",
+  "day": "6:00 Ustawiasz prasę pod nowe zamówienie | 8:00 Glina wychodzi nierówno, więc dostrajasz ustawienia | 10:30 Mierzysz pocięte kawałki i porównujesz z wymiarami | 13:00 Odbierasz wytłoczone wyroby i przekazujesz dalej",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy innych maszyn i urządzeń przetwórczych",
+  "pay_median_2025": 6713.74,
+  "gen_id": 251
+ },
+ {
+  "name": "Szkliwierz ceramiki",
+  "path": "Inne maszyny przetwórcze > Maszyny do produkcji wyrobów szklanych i ceramicznych",
+  "hook": "Wypalasz dekoracje i glazurę na ceramice w piecu. Pilnujesz, żeby temperatura była równa w całym piecu, i dajesz wskazówki pomocnikowi.",
+  "tasks": "Sprawdzasz poziom i równomierność temperatury pieca | Regulujesz temperaturę podczas wypału | Pokazujesz pomocnikowi, jak przygotować skrzynię paleniskową | Układasz ozdobioną ceramikę do wypału w piecu",
+  "day": "7:00 Układasz pomalowane naczynia w piecu | 9:00 Mówisz pomocnikowi, jak przygotować skrzynię paleniskową | 12:00 Sprawdzasz, czy w piecu wszędzie jest ta sama temperatura | 16:00 Wyjmujesz ostudzoną ceramikę i oglądasz glazurę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy innych maszyn i urządzeń przetwórczych",
+  "pay_median_2025": 6713.74,
+  "gen_id": 253
+ },
+ {
+  "name": "Napełniacz butli gazowych",
+  "path": "Inne maszyny przetwórcze > Maszyny pakujące i rozlewnicze",
+  "hook": "Obsługujesz urządzenia, którymi napełnia się butle gazem ciekłym lub sprężonym. Pilnujesz szczelności sprzętu i tego, żeby każda butla była napełniona prawidłowo.",
+  "tasks": "Podłączasz butle do urządzenia napełniającego | Napełniasz butle gazem ciekłym lub sprężonym | Sprawdzasz szczelność butli i zaworów | Konserwujesz urządzenia i pojemniki",
+  "day": "6:00 Przeglądasz sprzęt do napełniania przed zmianą | 8:00 Napełniasz partię butli i sprawdzasz zawory | 11:00 Odkładasz butlę, która nie trzyma szczelności | 13:30 Przygotowujesz napełnione butle do odbioru",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy innych maszyn i urządzeń przetwórczych",
+  "pay_median_2025": 6713.74,
+  "gen_id": 254
+ },
+ {
+  "name": "Operator linii puszkowania i butelkowania",
+  "path": "Inne maszyny przetwórcze > Maszyny pakujące i rozlewnicze",
+  "hook": "Stoisz przy taśmie i patrzysz na przejeżdżające butelki lub puszki. Wyłapujesz uszkodzone i sprawdzasz, czy poziom napełnienia jest taki, jak trzeba.",
+  "tasks": "Obserwujesz butelki i puszki na taśmie | Sprawdzasz poziom napełnienia | Zdejmujesz uszkodzone opakowania z linii | Zauważasz poważne odchylenia i zgłaszasz je",
+  "day": "6:00 Stajesz przy taśmie i patrzysz na pierwsze butelki | 8:30 Zdejmujesz wgniecioną puszkę z linii | 11:00 Poziom napoju w butelkach jest za niski, zgłaszasz brygadziście | 13:30 Zmieniasz stanowisko i dalej pilnujesz taśmy",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy innych maszyn i urządzeń przetwórczych",
+  "pay_median_2025": 6713.74,
+  "gen_id": 255
+ },
+ {
+  "name": "Operator urządzeń do pakowania wyrobów skórzanych",
+  "path": "Inne maszyny przetwórcze > Maszyny pakujące i rozlewnicze",
+  "hook": "Robisz ostatnią kontrolę wyrobów skórzanych i pakujesz je tak, by dotarły do klienta bez zagnieceń. Przygotowujesz też dokumenty dla firmy transportowej.",
+  "tasks": "Oglądasz wyrób skórzany przed spakowaniem | Zakładasz uchwyty, kłódki i etykiety | Wypełniasz wyrób papierem i wkładasz do woreczka | Układasz pudełka w paczkach i przygotowujesz dokumenty",
+  "day": "7:00 Odbierasz wyroby z produkcji i oglądasz każdy | 9:30 Zakładasz kłódki i etykiety na produkty | 12:00 Wypełniasz papierem i układasz w pudełkach | 14:30 Sprawdzasz zamówienie i przygotowujesz dokumenty dla kuriera",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy innych maszyn i urządzeń przetwórczych",
+  "pay_median_2025": 6713.74,
+  "gen_id": 257
+ }
+]

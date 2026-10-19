@@ -1,0 +1,1382 @@
+[
+ {
+  "name": "Operator prasy do formowania arkuszy z tworzywa",
+  "path": "Guma, tworzywa i papier > Maszyny do produkcji wyrobów z tworzyw sztucznych",
+  "hook": "Obsługujesz prasy hydrauliczne, które prasują plastikowe wióry w arkusze tworzywa. Najważniejsze są dla ciebie właściwe ciśnienie i temperatura.",
+  "tasks": "Ustawiasz prasę hydrauliczną | Wsypujesz plastikowe wióry do formy | Regulujesz ciśnienie i temperaturę | Wyjmujesz arkusze i sprawdzasz ich wygląd",
+  "day": "6:00 Uruchamiasz prasę i czekasz na nagrzanie | 8:00 Wsypujesz wióry równą warstwą do formy | 10:30 Arkusz wychodzi pofalowany, zmieniasz ciśnienie | 13:30 Odkładasz arkusze na stos i zapisujesz parametry",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 97
+ },
+ {
+  "name": "Operator maszyn do produkcji wyrobów gumowych",
+  "path": "Guma, tworzywa i papier",
+  "hook": "Obsługujesz maszyny, które ugniatają, mieszają i formują gumę z kauczuku. Odmierzasz składniki i pilnujesz temperatury, ciśnienia i prędkości.",
+  "tasks": "Odmierzasz składniki gumy | Ładujesz je do mieszarki lub maszyny | Pilnujesz temperatury, ciśnienia i prędkości | Wytłaczasz i utwardzasz wyroby gumowe",
+  "day": "6:00 Odmierzasz składniki mieszanki według receptury | 8:00 Mieszanka trafia do maszyny, obserwujesz wskazania | 11:00 Temperatura wzrasta ponad normę, obniżasz ustawienie | 14:00 Zdejmujesz wytłoczony profil i pobierasz próbkę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn do produkcji wyrobów gumowych, z tworzyw sztucznych i papierniczych",
+  "pay_median_2025": 6373.2,
+  "gen_id": 109
+ },
+ {
+  "name": "Inspektor budownictwa okrętowego",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Inspektor montażu wyrobów",
+  "hook": "Kontrolujesz budowane łodzie i statki, sprawdzając, czy spełniają wymagania techniczne i przepisy bezpieczeństwa. Mierzysz, szukasz uszkodzeń i opisujesz wszystko w dokumentacji.",
+  "tasks": "Mierzysz zespoły okrętu urządzeniami pomiarowymi | Szukasz uszkodzeń i nieprawidłowości | Kontrolujesz wykonane naprawy | Piszesz raport z zaleceniami",
+  "day": "7:00 Wchodzisz do stoczni i czytasz plan kontroli | 9:00 Sprawdzasz grubość spoin w kadłubie | 12:00 Znajdujesz pęknięcie przy burcie i dokumentujesz je | 15:00 Piszesz raport i zalecasz poprawki",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 110
+ },
+ {
+  "name": "Inspektor montażu pojazdów",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Inspektor montażu wyrobów",
+  "hook": "Kontrolujesz pojazdy na końcu produkcji, mierząc i testując, czy zgadzają się z normami. Jeśli coś jest nie tak, opisujesz wadę i mówisz, co trzeba poprawić.",
+  "tasks": "Mierzysz i testujesz zmontowane pojazdy | Szukasz wad lakieru, szczelin i usterek | Kontrolujesz naprawy po zgłoszeniu wad | Wypełniasz protokół i zalecasz poprawki",
+  "day": "6:00 Oglądasz kolejny samochód zjeżdżający z taśmy | 8:30 Mierzysz szczeliny między drzwiami a błotnikiem | 11:00 Wykrywasz rysę na lakierze, oznaczasz ją naklejką | 14:00 Wpisujesz wyniki do protokołu kontroli",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 111
+ },
+ {
+  "name": "Inspektor montażu statków powietrznych",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Inspektor montażu wyrobów",
+  "hook": "Kontrolujesz montaż samolotów i śmigłowców, sprawdzając urządzeniami pomiarowymi, czy każdy zespół spełnia normy bezpieczeństwa. Twoje notatki decydują, czy praca idzie dalej, czy wraca do poprawki.",
+  "tasks": "Oglądasz połączenia i mocowania | Mierzysz luzy i zgodność z planem | Kontrolujesz prace naprawcze | Prowadzisz szczegółową dokumentację kontroli",
+  "day": "7:00 Przeglądasz rysunki i listę kontrolną samolotu | 9:00 Sprawdzasz mocowania skrzydła w ustalonych punktach | 12:00 Wykrywasz luz w osłonie, wstrzymujesz zespół | 15:00 Piszesz szczegółowy raport z zaleceniem naprawy",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 112
+ },
+ {
+  "name": "Kontroler jakości sprzętu elektronicznego",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Inspektor montażu wyrobów",
+  "hook": "Sprawdzasz gotowy sprzęt elektroniczny pod kątem wad i usterek oraz tego, czy został złożony zgodnie z wymogami. Oglądasz obudowy i połączenia, porównując je z przepisami.",
+  "tasks": "Oglądasz płytki i obudowy pod powiększeniem | Porównujesz montaż z dokumentacją | Zgłaszasz wady do produkcji | Dopilnowujesz zgodności z przepisami",
+  "day": "6:30 Odbierasz pierwszą partię sprzętu z linii | 8:00 Oglądasz lutowania pod lupą i porównujesz z wzorem | 11:00 Jedna płytka ma krzywo osadzony element, zgłaszasz to | 13:30 Zamykasz zgłoszenie i wpisujesz wynik partii",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 115
+ },
+ {
+  "name": "Kontroler jakości sprzętu elektrycznego",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Inspektor montażu wyrobów",
+  "hook": "Sprawdzasz gotowe urządzenia elektryczne pod kątem wad obudowy i błędnych połączeń. Wyniki wpisujesz do rejestru, a niesprawne zespoły wracają do produkcji.",
+  "tasks": "Oglądasz obudowy i połączenia przewodów | Odnotowujesz wyniki inspekcji w rejestrze | Odsyłasz wadliwe zespoły do produkcji | Przyglądasz się oznaczeniom i wtykom",
+  "day": "7:00 Rozpakowujesz partię urządzeń z hali montażowej | 9:00 Oglądasz przewody i sprawdzasz, czy każdy jest na miejscu | 11:30 Wykrywasz pęknięcie obudowy i odsyłasz zespół | 14:00 Wpisujesz wszystko do rejestru kontroli",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 116
+ },
+ {
+  "name": "Inspektor jakości",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Inspektor jakości",
+  "hook": "Sprawdzasz, czy produkty są zgodne z normami: obserwujesz, mierzysz, testujesz i pytasz. Wyniki wpisujesz w formularz, pracując w firmie albo jako kontroler z zewnątrz.",
+  "tasks": "Obserwujesz proces i mierzysz produkty | Testujesz próbki z partii | Zadajesz pytania pracownikom produkcji | Wypełniasz formularz z uwagami",
+  "day": "8:00 Przyjeżdżasz do zakładu i oglądasz stanowiska | 10:00 Mierzysz próbki i porównujesz z normą | 12:00 Pytasz operatora, jak kontroluje swoje wyniki | 15:00 Wpisujesz poziom zgodności i uwagi do formularza",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 118
+ },
+ {
+  "name": "Inspektor jakości instrumentów precyzyjnych",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Inspektor jakości",
+  "hook": "Pilnujesz, żeby przyrządy pomiarowe, takie jak mikrometry, mierzyły dokładnie według projektu. Gdy coś się rozjeżdża, regulujesz instrument lub jego elementy.",
+  "tasks": "Sprawdzasz dokładność przyrządów pomiarowych | Porównujesz wskazania ze wzorcem | Regulujesz instrument i jego elementy | Odsyłasz przyrząd, który nie spełnia normy",
+  "day": "7:00 Rozkładasz wzorce i instrumenty do sprawdzenia | 9:00 Mierzysz wzorzec mikrometrem i porównujesz wynik | 11:30 Wskazanie odbiega o ułamek milimetra, regulujesz śrubę | 14:00 Opisujesz przyrząd i oddajesz go do użytku",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 119
+ },
+ {
+  "name": "Inspektor jakości wyrobów tekstylnych",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Inspektor jakości",
+  "hook": "Sprawdzasz, czy tkaniny i dzianiny mają taki splot, kolor i wytrzymałość, jakie zamówił klient. Szukasz plam, zaciągnięć i nierówności, zanim materiał pójdzie dalej.",
+  "tasks": "Rozwijasz zwój tkaniny na stole kontrolnym | Szukasz plam, zaciągnięć i dziur | Porównujesz kolor i gramaturę ze wzorem | Zaznaczasz miejsca z błędami",
+  "day": "6:00 Zaczynasz od zwoju tkaniny na maszynie kontrolnej | 8:30 Zaznaczasz kredą miejsce z zaciągnięciem nitki | 11:00 Porównujesz kolor partii z próbką wzorcową | 13:00 Wypełniasz kartę kontroli dla działu produkcji",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 121
+ },
+ {
+  "name": "Klasyfikator drewna",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Klasyfikator wyrobów przemysłowych",
+  "hook": "Oglądasz deski prosto z tartaku i sprawdzasz, czy mają sęki, pęknięcia lub krzywizny. Na tej podstawie przypisujesz im klasę jakości.",
+  "tasks": "Oglądasz deski z każdej strony | Wyszukujesz sęki, pęknięcia i krzywizny | Oceniasz rysunek słojów | Oznaczasz deski klasą jakości",
+  "day": "6:30 Deski wyjeżdżają z tartaku na taśmie | 8:30 Przesuwasz dłonią po desce i szukasz pęknięć | 11:00 Oznaczasz kredą klasę na czole desek | 13:00 Odsuwasz zbyt krzywe deski na osobny stos",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 123
+ },
+ {
+  "name": "Klasyfikator wyrobów drewnopochodnych",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Klasyfikator wyrobów przemysłowych",
+  "hook": "Sprawdzasz płyty, sklejki i inne gotowe wyroby z drewna pod kątem skaz, wypaczeń i słabego sklejenia. Badasz też, ile obciążenia wytrzymują, i sortujesz je według klas.",
+  "tasks": "Oglądasz płyty i sklejki z bliska | Szukasz wypaczeń i rozklejonych warstw | Sprawdzasz wytrzymałość na obciążenie | Sortujesz wyroby według wytycznych",
+  "day": "6:00 Stos płyt czeka na kontrolę przy hali | 8:30 Układasz płytę na stole i szukasz wypaczeń | 11:00 Testujesz, ile ciężaru wytrzyma deska | 13:30 Segregujesz płyty na klasy i opisujesz partię",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 125
+ },
+ {
+  "name": "Klasyfikator wyrobów przemysłowych",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Klasyfikator wyrobów przemysłowych",
+  "hook": "Sprawdzasz materiały i produkty na kolejnych etapach produkcji i oceniasz, czy spełniają normę. Gdy coś nie pasuje, odsyłasz to do naprawy lub poprawki.",
+  "tasks": "Pobierasz próbki z różnych etapów produkcji | Mierzysz i porównujesz z normą | Klasyfikujesz materiały według jakości | Odsyłasz wadliwe partie do poprawki",
+  "day": "7:00 Obchodzisz halę i pobierasz próbki z linii | 9:30 Sprawdzasz wymiary elementów suwmiarką i wzorcem | 12:00 Notujesz, że jedna partia nie spełnia normy | 14:00 Rozmawiasz z mistrzem o odesłaniu partii do poprawki",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 126
+ },
+ {
+  "name": "Kontroler jakości wyrobów",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Kontroler jakości wyrobów",
+  "hook": "Sprawdzasz produkty w fabryce przed produkcją, w jej trakcie i po niej. Gdy coś działa źle albo wygląda inaczej, niż powinno, odsyłasz to do naprawy i szukasz przyczyny.",
+  "tasks": "Sprawdzasz produkty na różnych etapach | Testujesz, czy wyrób działa poprawnie | Odsyłasz gorsze sztuki do naprawy | Szukasz przyczyny powtarzających się problemów",
+  "day": "7:00 Sprawdzasz pierwsze sztuki po uruchomieniu linii | 10:00 Testujesz losowe wyroby ze środka partii | 12:30 Odsyłasz źle działający wyrób do naprawy | 14:30 Rozmawiasz z operatorem maszyny o powtarzającej się wadzie",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 128
+ },
+ {
+  "name": "Kontroler jakości wyrobów metalowych",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Kontroler jakości wyrobów",
+  "hook": "Badasz metalowe elementy na różnych etapach produkcji i sprawdzasz, czy spełniają normę. Wadliwe sztuki testujesz i odsyłasz do naprawy.",
+  "tasks": "Mierzysz wymiary metalowych elementów | Oglądasz powierzchnię w poszukiwaniu rys | Testujesz wytrzymałość i dopasowanie | Odsyłasz wadliwe wyroby do naprawy",
+  "day": "7:00 Odbierasz skrzynię elementów z obróbki | 9:30 Mierzysz średnice otworów i grubość blachy | 12:00 Znajdujesz rysę na powierzchni i odkładasz sztukę | 14:00 Wpisujesz wyniki pomiarów do dokumentu kontroli",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 129
+ },
+ {
+  "name": "Kontroler jakości wyrobów skórzanych",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów > Kontroler jakości wyrobów",
+  "hook": "Oglądasz torebki, paski i inne wyroby ze skóry i oceniasz wygląd, kolor oraz proste szwy. Robisz też testy, które w krótkim czasie pokazują, jak produkt się zużyje.",
+  "tasks": "Sprawdzasz szwy i wykończenie krawędzi | Porównujesz kolor skóry ze wzorem | Szukasz zmarszczeń i zabrudzeń | Przeprowadzasz przyspieszone testy zużycia",
+  "day": "7:30 Rozpakowujesz partię torebek na stole kontrolnym | 9:30 Sprawdzasz, czy szwy biegną idealnie prosto | 11:30 Porównujesz kolor dwóch pasków w świetle dziennym | 13:30 Uruchamiasz test, który imituje miesiące użytkowania",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 130
+ },
+ {
+  "name": "Klasyfikator fornirów",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów",
+  "hook": "Oglądasz cienkie arkusze drewna, którymi okleja się meble, i szukasz w nich skaz i błędów produkcji. Oceniasz też, czy rysunek słojów jest ładny, i przypisujesz arkuszom klasy.",
+  "tasks": "Przeglądasz arkusze forniru pod światło | Wychwytujesz pęknięcia, dziury i przebarwienia | Oceniasz atrakcyjność rysunku słojów | Układasz arkusze w stosy według klas",
+  "day": "7:00 Dostajesz paczkę arkuszy forniru dębowego | 9:00 Przeglądasz każdy arkusz pod lampą | 11:30 Odkładasz arkusz z pęknięciem na osobny stos | 13:30 Wybierasz najładniejsze rysunki na drzwi szafy",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 132
+ },
+ {
+  "name": "Kontroler obwodów drukowanych",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów",
+  "hook": "Sprawdzasz płytki z elektroniką, takie jak te w telefonie czy pralce, i wykonujesz na nich serię testów. Drobne usterki poprawiasz od razu na stanowisku.",
+  "tasks": "Oglądasz płytki pod lupą | Wykonujesz serię testów elektrycznych | Znajdujesz przerwane ścieżki i zwarcia | Naprawiasz drobne usterki na płytce",
+  "day": "7:00 Dostajesz tacę świeżo zmontowanych płytek | 9:00 Oglądasz lutowania pod powiększeniem i szukasz błędów | 11:30 Uruchamiasz test i płytka nie przechodzi | 13:30 Naprawiasz drobny defekt i testujesz ponownie",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 134
+ },
+ {
+  "name": "Kontroler stanu akumulatorów",
+  "path": "Kontrolerzy jakości i inni > Kontrolerzy jakości produktów",
+  "hook": "Mierzysz, ile energii mieści akumulator i jak szybko traci siłę, a także badasz odrzucone baterie, by znaleźć powód usterki. Używasz do tego specjalnych przewodów i mierników.",
+  "tasks": "Podłączasz akumulator do miernika | Sprawdzasz pojemność i opór ogniwa | Badasz odrzucone baterie | Zapisujesz przyczyny usterek",
+  "day": "7:00 Zaczynasz od partii akumulatorów do przeglądu | 9:00 Mierzysz pojemność kolejnych sztuk | 11:30 Testujesz odrzuconą baterię i szukasz przyczyny usterki | 14:00 Zapisujesz, które egzemplarze nie spełniają normy",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 135
+ },
+ {
+  "name": "Nurek poławiacz zasobów morskich",
+  "path": "Kontrolerzy jakości i inni > Nurkowie",
+  "hook": "Nurkujesz niezbyt głęboko i zbierasz z dna glony, korale, jeżowce czy gąbki. Pracujesz na wstrzymanym oddechu lub z powietrzem podawanym z powierzchni.",
+  "tasks": "Nurkujesz na wstrzymanym oddechu lub z wężem | Wyszukujesz glony, jeżowce i gąbki | Zbierasz zasoby ostrożnie, bez niszczenia dna | Wynosisz zebrane okazy na powierzchnię",
+  "day": "6:00 Sprawdzasz sprzęt i pogodę przed wypłynięciem | 8:00 Schodzisz pod wodę i szukasz gąbek | 10:30 Zbierasz okazy do siatki, uważając na dno | 13:00 Wracasz na brzeg i sortujesz połów",
+  "skills": [
+   [
+    "Spostrzegawczość",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Znajomość norm",
+    "S"
+   ],
+   [
+    "Uczciwość",
+    "P"
+   ],
+   [
+    "Obsługa przyrządów pomiarowych",
+    "R"
+   ],
+   [
+    "Cierpliwość",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Pilnujesz, żeby produkt był dobry",
+   "Jasne kryteria",
+   "Odpowiedzialna rola"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Trzeba odrzucać cudzą pracę",
+   "Praca zmianowa"
+  ],
+  "routes": [
+   {
+    "n": "Od stanowiska",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia (zgodna z branżą)",
+      3
+     ],
+     [
+      "praktyka",
+      "Praca na produkcji",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenie z kontroli jakości",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni",
+  "pay_median_2025": 5441.83,
+  "gen_id": 138
+ }
+]

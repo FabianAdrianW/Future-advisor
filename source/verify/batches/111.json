@@ -1,0 +1,1562 @@
+[
+ {
+  "name": "Operator pilarki tarczowej",
+  "path": "Obróbka drewna i produkcja papieru > Maszyny do obróbki drewna > Tartacznik",
+  "hook": "Obsługujesz piłę z obrotową tarczą wbudowaną w stół i tniesz drewno na zadane wymiary. Najważniejsze jest bezpieczeństwo, bo naprężenia w drewnie potrafią szarpnąć elementem.",
+  "tasks": "Ustawiasz wysokość tarczy na głębokość cięcia | Prowadzisz drewno wzdłuż prowadnicy | Tniesz elementy na zadane wymiary | Oceniasz drewno pod kątem naprężeń",
+  "day": "6:00 Sprawdzasz osłony tarczy i ustawiasz jej wysokość | 8:00 Tniesz serię desek na te same wymiary | 11:00 Deska się skręca, zatrzymujesz maszynę | 13:30 Sprzątasz trociny i odkładasz elementy",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 294
+ },
+ {
+  "name": "Operator piły taśmowej",
+  "path": "Obróbka drewna i produkcja papieru > Maszyny do obróbki drewna > Tartacznik",
+  "hook": "Obsługujesz piłę z ciągłą, elastyczną taśmą na kołach, która najlepiej radzi sobie z nieregularnymi kształtami. Wycinasz łuki i nietypowe kontury.",
+  "tasks": "Zakładasz i ustawiasz taśmę piły | Prowadzisz drewno po narysowanej linii | Wycinasz łuki i nieregularne kształty | Sprawdzasz wycięty kształt względem wzoru",
+  "day": "6:00 Sprawdzasz napięcie i stan taśmy | 8:00 Wycinasz zakrzywione elementy według wzornika | 11:00 Porównujesz wycięty kształt ze wzorem | 13:30 Sprzątasz opiłki i odkładasz gotowe elementy",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 295
+ },
+ {
+  "name": "Operator wyrówniarko-grubościówki",
+  "path": "Obróbka drewna i produkcja papieru > Maszyny do obróbki drewna > Tartacznik",
+  "hook": "Przepuszczasz deski przez maszynę, która hebluje je do jednakowej grubości, zwykle z obu stron naraz. Podajesz je ostrożnie, żeby nie wyheblować za dużo na krawędzi.",
+  "tasks": "Podajesz deski do maszyny | Ustawiasz grubość heblowania | Mierzysz grubość deski po przejściu | Pilnujesz, by nie powstał dubelt na krawędzi",
+  "day": "6:00 Ustawiasz grubość i podajesz pierwszą deskę | 8:00 Heblujesz kilkadziesiąt desek na jedną grubość | 11:00 Mierzysz grubość i porównujesz z zamówieniem | 13:00 Odkładasz deski z dubeltem do poprawki",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 296
+ },
+ {
+  "name": "Operator łuszczarki do forniru",
+  "path": "Obróbka drewna i produkcja papieru > Maszyny do obróbki drewna > Tartacznik",
+  "hook": "Kroisz drewno na cienkie arkusze forniru, którymi pokrywa się płytę wiórową lub pilśniową. Wybierasz maszynę zależnie od tego, jaki rysunek słojów chcesz uzyskać.",
+  "tasks": "Wybierasz maszynę do danego rodzaju cięcia | Mocujesz drewno w tokarce lub maszynie krojącej | Wycinasz cienkie arkusze forniru | Oglądasz rysunek słojów na arkuszach",
+  "day": "6:00 Wybierasz maszynę i sposób cięcia drewna | 8:00 Mocujesz drewno w tokarce i zaczynasz skrawanie | 10:30 Oglądasz arkusze i wybierasz ładny rysunek słojów | 13:00 Układasz arkusze forniru w stosy",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 297
+ },
+ {
+  "name": "Tartacznik",
+  "path": "Obróbka drewna i produkcja papieru > Maszyny do obróbki drewna > Tartacznik",
+  "hook": "Obsługujesz automatyczne urządzenia, które piłują drewno na surową tarcicę, oraz pilarki tnące ją dalej na różne rozmiary. Większość procesów jest dziś sterowana komputerowo.",
+  "tasks": "Obsługujesz urządzenia piłujące drewno na tarcicę | Ustawiasz pilarki na wymiary desek | Tniesz tarcicę na zadane kształty | Pilnujesz komputerowego sterowania linią",
+  "day": "6:00 Uruchamiasz linię i sprawdzasz ustawienia pilarek | 8:00 Drewno wjeżdża do piły i staje się tarcicą | 11:00 Zmieniasz wymiary desek pod nowe zamówienie | 14:00 Odbierasz posortowaną tarcicę i układasz ją w stosy",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 298
+ },
+ {
+  "name": "Operator korowarki",
+  "path": "Obróbka drewna i produkcja papieru > Maszyny do obróbki drewna",
+  "hook": "Obsługujesz maszynę, która zdziera korę ze ściętych drzew przez ścieranie albo cięcie. Podajesz pnie do maszyny i pilnujesz, żeby nie utknęły.",
+  "tasks": "Podajesz ścięte pnie do korowarki | Obserwujesz usuwanie kory z drewna | Zatrzymujesz maszynę, gdy pień się zablokuje | Sprawdzasz, czy pnie są czyste z kory",
+  "day": "6:00 Sprawdzasz korowarkę i uruchamiasz podajnik | 8:00 Pnie wjeżdżają do maszyny, kora odpada | 11:00 Pień się blokuje, zatrzymujesz maszynę | 13:30 Oglądasz oczyszczone pnie i odkładasz te z korą",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 299
+ },
+ {
+  "name": "Operator maszyn do produkcji płyt drewnopochodnych",
+  "path": "Obróbka drewna i produkcja papieru > Maszyny do obróbki drewna",
+  "hook": "Obsługujesz maszyny, które sklejają drewniane wióry lub włókna w gładkie płyty używane do mebli i podłóg. Pilnujesz, żeby klej, temperatura i nacisk były ustawione tak, jak trzeba.",
+  "tasks": "Pilnujesz dozowania kleju do wiórów | Obserwujesz pracę prasy i panelu maszyny | Sprawdzasz grubość i wygląd gotowych płyt | Usuwasz zacięcia i odrzucasz wadliwe płyty",
+  "day": "6:00 Przejmujesz maszynę i czytasz notatki z nocy | 8:30 Zmieniasz ustawienia na płytę o innej grubości | 11:00 Wyciągasz płytę z wadą, szukasz przyczyny | 13:30 Zapisujesz w dzienniku wyniki pomiarów zmiany",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 300
+ },
+ {
+  "name": "Operator piły poprzecznej",
+  "path": "Obróbka drewna i produkcja papieru > Maszyny do obróbki drewna",
+  "hook": "Ścinasz drzewa i odcinasz konary ręczną piłą poprzeczną, a pnie tniesz na bale. To praca na świeżym powietrzu, fizyczna i zależna od pogody.",
+  "tasks": "Oceniasz, w którą stronę upadnie drzewo | Nacinasz pień i ścinasz drzewo | Odcinasz konary od powalonego pnia | Przecinasz pień na bale",
+  "day": "6:30 Jedziesz w teren i oglądasz drzewa do ścięcia | 8:00 Nacinasz pień i ścinasz pierwsze drzewo | 11:00 Odcinasz konary i tniesz pień na bale | 14:00 Układasz bale w stos i sprawdzasz piłę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 302
+ },
+ {
+  "name": "Operator rębaka",
+  "path": "Obróbka drewna i produkcja papieru > Maszyny do obróbki drewna",
+  "hook": "Pilnujesz maszyny, która rozdrabnia drewno na małe wióry do płyt, papieru lub opału. Sprawdzasz, czy drewno wchodzi równo i czy wióry mają właściwy rozmiar.",
+  "tasks": "Zasilasz rębak pniami i kawałkami drewna | Obserwujesz, czy nic nie blokuje podawania | Sprawdzasz wielkość wyprodukowanych wiórów | Zatrzymujesz maszynę, gdy coś się zaklinuje",
+  "day": "6:00 Sprawdzasz rębak i taśmy przed uruchomieniem | 8:00 Pnie wjeżdżają do rębaka, słuchasz pracy maszyny | 11:00 Zacięcie podawania, zatrzymujesz maszynę i usuwasz je | 13:00 Pobierasz próbkę wiórów i oglądasz ich rozmiar",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 303
+ },
+ {
+  "name": "Operator laminatora",
+  "path": "Obróbka drewna i produkcja papieru > Urządzenia do wyrobu masy papierniczej i produkcji drewna",
+  "hook": "Obsługujesz maszynę, która pokrywa papier cienką warstwą tworzywa, żeby był mocniejszy oraz odporny na wilgoć i plamy. Pilnujesz, żeby warstwa leżała równo.",
+  "tasks": "Zakładasz rolki papieru i folii w maszynie | Ustawiasz maszynę pod rodzaj papieru | Obserwujesz, czy warstwa nakłada się równo | Odrzucasz arkusze z bąblami lub zmarszczkami",
+  "day": "6:00 Zakładasz nową rolkę papieru do laminatora | 8:30 Test na próbce: czy warstwa trzyma się równo | 11:00 Na papierze pojawiają się zmarszczki, korygujesz ustawienia | 13:00 Zdejmujesz gotową rolkę i opisujesz ją etykietą",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 304
+ },
+ {
+  "name": "Operator maszyn do flotacyjnego odbarwiania makulatury",
+  "path": "Obróbka drewna i produkcja papieru > Urządzenia do wyrobu masy papierniczej i produkcji drewna",
+  "hook": "Obsługujesz zbiornik, w którym makulatura miesza się z wodą, a pęcherzyki powietrza wynoszą na wierzch farbę drukarską w postaci piany. Dzięki temu papier z recyklingu staje się jaśniejszy.",
+  "tasks": "Napełniasz zbiornik makulaturą i wodą | Pilnujesz temperatury roztworu | Kontrolujesz wdmuchiwanie pęcherzyków powietrza | Zbierasz i usuwasz pianę z farbą",
+  "day": "6:00 Odczytujesz temperaturę i poziom w zbiorniku | 8:00 Wsypujesz nową partię makulatury do zbiornika | 10:30 Piana z farbą zbiera się na powierzchni | 13:00 Pobierasz próbkę masy i oglądasz jej jasność",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 305
+ },
+ {
+  "name": "Operator maszyn do odbarwiania makulatury metodą mycia",
+  "path": "Obróbka drewna i produkcja papieru > Urządzenia do wyrobu masy papierniczej i produkcji drewna",
+  "hook": "Obsługujesz zbiornik, w którym makulatura jest płukana wodą z dodatkami odrywającymi farbę od włókien. Potem odwadniasz powstałą masę włóknistą, żeby wypłukać z niej farbę.",
+  "tasks": "Mieszasz makulaturę z wodą i dodatkami | Pilnujesz, żeby farba odeszła od włókien | Odwadniasz zawiesinę i płuczesz masę | Oceniasz jasność oczyszczonej masy",
+  "day": "6:00 Przejmujesz zbiornik i sprawdzasz poziom wody | 8:30 Dozujesz dodatki do nowej partii makulatury | 11:00 Płuczesz masę, ciemna woda spływa do odpływu | 13:30 Porównujesz próbkę masy ze wzorcem jasności",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 306
+ },
+ {
+  "name": "Operator maszyn do produkcji papierowych artykułów piśmiennych",
+  "path": "Obróbka drewna i produkcja papieru > Urządzenia do wyrobu masy papierniczej i produkcji drewna",
+  "hook": "Obsługujesz maszyny, które dziurkują, perforują, zaginają i zestawiają papier w gotowe produkty, na przykład bloki czy formularze z kalką. Pilnujesz, żeby każda kartka wychodziła równo.",
+  "tasks": "Ustawiasz maszynę na dany wzór papieru | Wkładasz stosy papieru do podajnika | Sprawdzasz dziurki, perforacje i zagięcia | Zbierasz gotowe zestawy i układasz je do pakowania",
+  "day": "6:00 Ustawiasz maszynę pod nowe zamówienie | 8:00 Wkładasz papier, kontrolujesz pierwsze gotowe sztuki | 10:30 Dziurki wychodzą krzywo, poprawiasz ustawienie | 13:00 Pakujesz zestawy z kalką do kartonów",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 307
+ },
+ {
+  "name": "Operator maszyn do wybielania masy papierniczej",
+  "path": "Obróbka drewna i produkcja papieru > Urządzenia do wyrobu masy papierniczej i produkcji drewna",
+  "hook": "Obsługujesz maszynę, która wybiela masę papierniczą, żeby powstał z niej biały papier. Dobierasz technikę wybielania do rodzaju masy i do tego, jak biały ma być papier.",
+  "tasks": "Kontrolujesz przepływ masy przez wybielanie | Ustawiasz sposób wybielania pod rodzaj masy | Pobierasz próbki i oceniasz stopień bieli | Zapisujesz parametry procesu w dzienniku",
+  "day": "6:00 Odczytujesz parametry i sprawdzasz zapas surowca | 8:30 Zmieniasz technikę wybielania dla nowej partii | 11:00 Pobierasz próbkę masy do oceny bieli | 14:00 Biel poniżej normy, korygujesz proces",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 308
+ },
+ {
+  "name": "Operator maszyny papierniczej",
+  "path": "Obróbka drewna i produkcja papieru > Urządzenia do wyrobu masy papierniczej i produkcji drewna",
+  "hook": "Pilnujesz długiej maszyny, na której rzadka masa celulozowa jest rozlewana na sito, odsączana, prasowana i zamieniana we wstęgę papieru. Maszyna zwykle pracuje bez przerwy, więc obsługa działa na zmiany.",
+  "tasks": "Pilnujesz rozlewania masy na sito | Kontrolujesz odsączanie i prasowanie wstęgi | Reagujesz, gdy wstęga papieru się zerwie | Sprawdzasz grubość i wygląd papieru",
+  "day": "6:00 Przejmujesz maszynę i słuchasz, jak pracuje | 8:30 Papier wychodzi za gruby, zmieniasz ustawienia | 11:00 Wstęga się zrywa, z zespołem wznawiasz produkcję | 13:30 Pobierasz próbkę i przekazujesz zmianę dalej",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 309
+ },
+ {
+  "name": "Operator pras do formowania wyrobów z masy papierniczej",
+  "path": "Obróbka drewna i produkcja papieru > Urządzenia do wyrobu masy papierniczej i produkcji drewna",
+  "hook": "Obsługujesz prasę, która formuje masę papierniczą w lekkie, ale sztywne kształty, takie jak wytłoczki na jajka. Pilnujesz, żeby każdy kształt wychodził cały i miał właściwą grubość.",
+  "tasks": "Pilnujesz zasilania prasy masą papierniczą | Sprawdzasz kształt i grubość wytłoczek | Zdejmujesz gotowe wyroby z formy | Usuwasz zniekształcone sztuki i resztki masy",
+  "day": "6:00 Uruchamiasz prasę i sprawdzasz formy | 8:30 Pierwsze wytłoczki mają dziury, zmieniasz ustawienia | 11:00 Zdejmujesz gotowe wytłoczki i układasz je w stosy | 13:00 Czyścisz formę z resztek masy",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 310
+ },
+ {
+  "name": "Technik ds. produkcji masy papierniczej",
+  "path": "Obróbka drewna i produkcja papieru > Urządzenia do wyrobu masy papierniczej i produkcji drewna",
+  "hook": "Pilnujesz, żeby linia produkcji masy papierniczej działała bez usterek i zgodnie ze specyfikacją. Konserwujesz maszyny i naprawiasz awarie, gdy tylko się pojawią.",
+  "tasks": "Przeglądasz i konserwujesz maszyny | Szukasz przyczyny usterki i ją usuwasz | Porównujesz parametry masy ze specyfikacją | Ustalasz z operatorami, co poprawić w produkcji",
+  "day": "7:00 Obchód linii, słuchasz maszyn i sprawdzasz wskazania | 9:30 Pompa pracuje głośniej niż zwykle, szukasz przyczyny | 12:00 Wymieniasz zużytą część podczas planowanej przerwy | 14:00 Omawiasz z operatorami wyniki i odchylenia od normy",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do obróbki drewna i produkcji papieru",
+  "pay_median_2025": 5826.76,
+  "gen_id": 312
+ },
+ {
+  "name": "Operator ciągarki",
+  "path": "Obróbka metalu",
+  "hook": "Obsługujesz maszynę, która przeciąga metal przez coraz węższe otwory, aż powstanie drut, pręt lub rura o właściwej grubości. Ustawiasz ją i pilnujesz, żeby wymiary się zgadzały.",
+  "tasks": "Zakładasz zwój lub pręt metalu do maszyny | Ustawiasz szereg ciągadeł do wybranej grubości | Mierzysz średnicę drutu lub pręta | Zatrzymujesz maszynę, gdy materiał pęka",
+  "day": "6:00 Zakładasz nowy zwój metalu do maszyny | 7:30 Ustawiasz ciągadła pod zamówioną średnicę drutu | 10:00 Mierzysz drut suwmiarką i porównujesz z rysunkiem | 13:00 Drut pęka, szukasz przyczyny i ruszasz od nowa",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do produkcji, przetwórstwa i obróbki wykończeniowej metalu",
+  "pay_median_2025": 6809.09,
+  "gen_id": 313
+ },
+ {
+  "name": "Operator maszyn do produkcji siatek metalowych",
+  "path": "Obróbka metalu",
+  "hook": "Ustawiasz i pilnujesz maszyny, która splata druty metalowe w siatkę. Dbasz, żeby oka siatki były regularne, a druty się nie plątały.",
+  "tasks": "Zakładasz szpule z drutem na maszynę | Ustawiasz maszynę na wymiar oczek siatki | Obserwujesz splot i szukasz błędów | Odcinasz i zwijasz gotową siatkę w rolki",
+  "day": "6:00 Zakładasz nowe szpule z drutem | 8:00 Ustawiasz maszynę na nowy rozmiar oczek | 10:30 Drut się plącze, zatrzymujesz maszynę i poprawiasz | 13:00 Zwijasz gotową siatkę w rolkę i opisujesz",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do produkcji, przetwórstwa i obróbki wykończeniowej metalu",
+  "pay_median_2025": 6809.09,
+  "gen_id": 314
+ },
+ {
+  "name": "Operator maszyn do produkcji sprężyn",
+  "path": "Obróbka metalu",
+  "hook": "Obsługujesz maszyny, które zwijają i formują drut w sprężyny różnych rodzajów. Sprawdzasz, czy każda sprężyna ma właściwy kształt i działa jak trzeba.",
+  "tasks": "Ustawiasz maszynę pod wybrany rodzaj sprężyny | Zakładasz drut i uruchamiasz formowanie | Mierzysz długość i liczbę zwojów | Sprawdzasz, czy sprężyna wraca do kształtu",
+  "day": "6:00 Zakładasz szpulę drutu i ustawiasz maszynę | 8:00 Pierwsze sprężyny są za krótkie, korygujesz ustawienia | 10:30 Ściskasz próbkę sprężyny, sprawdzasz jej sprężystość | 13:00 Pakujesz sprężyny partiami do pudełek",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do produkcji, przetwórstwa i obróbki wykończeniowej metalu",
+  "pay_median_2025": 6809.09,
+  "gen_id": 315
+ }
+]

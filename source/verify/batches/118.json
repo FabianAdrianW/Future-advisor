@@ -1,0 +1,1832 @@
+[
+ {
+  "name": "Magazynier w fabryce wyrobów skórzanych",
+  "path": "Magazyn i ewidencja transportu > Magazynier",
+  "hook": "Odpowiadasz za magazyn skór i innych materiałów, z których powstają wyroby skórzane. Rejestrujesz je, rozdzielasz do działów i pilnujesz, żeby produkcja nie czekała na materiał.",
+  "tasks": "Przyjmujesz i rejestrujesz skóry oraz dodatki | Sortujesz materiały według rodzaju | Rozdzielasz materiały do departamentów | Planujesz zakupy na podstawie zużycia",
+  "day": "7:30 Odbierasz dostawę skór i sprawdzasz ją z listą | 9:30 Układasz skóry w magazynie według rodzaju | 12:00 Dział produkcji odbiera materiał na partię portfeli | 14:30 Zapisujesz zużycie i przygotowujesz prognozę zakupów",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 484
+ },
+ {
+  "name": "Pracownik magazynu odzieżowego",
+  "path": "Magazyn i ewidencja transportu > Magazynier",
+  "hook": "Pilnujesz magazynu tkanin, guzików, zamków i innych elementów, z których szyje się ubrania. Dbasz o to, żeby produkcja dostała właściwy materiał na czas.",
+  "tasks": "Rejestrujesz rolki tkanin i akcesoria | Klasyfikujesz komponenty według rodzaju i koloru | Prognozujesz zakupy materiałów | Wydajesz tkaniny do działów produkcji",
+  "day": "7:00 Rozpakowujesz dostawę rolek tkaniny z ciężarówki | 9:00 Opisujesz każdą rolkę i wpisujesz ją do ewidencji | 11:30 Dział krojenia prosi o materiał na nową kolekcję | 14:00 Liczysz guziki i zamki, planujesz zamówienie",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 486
+ },
+ {
+  "name": "Planista produkcyjny",
+  "path": "Magazyn i ewidencja transportu",
+  "hook": "Układasz plan produkcji maszyn: co, kiedy i z jakich części ma powstać. Pilnujesz, żeby poszczególne zespoły i materiały dotarły na czas.",
+  "tasks": "Układasz harmonogram produkcji maszyn | Sprawdzasz, czy zespoły i materiały są na czas | Monitorujesz przebieg całego procesu produkcji | Zmieniasz plan, gdy coś się opóźnia",
+  "day": "7:30 Przeglądasz, co udało się wyprodukować w nocy | 9:30 Dzwonisz do dostawcy, bo część się spóźnia | 11:30 Przestawiasz kolejność zleceń na hali | 14:00 Spotkanie z kierownikiem produkcji o terminach",
+  "skills": [
+   [
+    "Organizacja",
+    "L"
+   ],
+   [
+    "Dokładność w liczeniu",
+    "L"
+   ],
+   [
+    "Obsługa programów magazynowych",
+    "L"
+   ],
+   [
+    "Sprawność fizyczna",
+    "N"
+   ],
+   [
+    "Obsługa wózka widłowego",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Praca w ruchu",
+   "Jasne zadania"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Wysiłek fizyczny",
+   "Presja czasu przy wysyłkach"
+  ],
+  "routes": [
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik logistyk lub magazynier-logistyk",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Kurs",
+    "s": [
+     [
+      "kurs",
+      "Kurs i uprawnienia na wózki widłowe",
+      0
+     ],
+     [
+      "praktyka",
+      "Przyuczenie w magazynie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy do spraw ewidencji materiałowej i transportu",
+  "pay_median_2025": 6240,
+  "gen_id": 487
+ },
+ {
+  "name": "Mechanik pokładowy",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Piloci samolotów i śmigłowców > Pilot statku powietrznego",
+  "hook": "Siedzisz w kabinie obok pilotów i pilnujesz systemów samolotu lub śmigłowca podczas całego lotu. Przed lotem i po nim sprawdzasz maszynę i robisz drobne regulacje.",
+  "tasks": "Monitorujesz systemy statku powietrznego w locie | Sprawdzasz ilość paliwa i obroty silnika | Kontrolujesz rozmieszczenie pasażerów i ładunku | Wykonujesz drobne regulacje i naprawy",
+  "day": "6:00 Inspekcja maszyny przed lotem, lista kontrolna w ręku | 7:30 Start, pilnujesz parametrów silnika i paliwa | 10:00 W trakcie lotu zgłaszasz pilotom odczyty przyrządów | 13:00 Po lądowaniu sprawdzasz maszynę i notujesz uwagi",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 489
+ },
+ {
+  "name": "Pierwszy oficer - lotnictwo",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Piloci samolotów i śmigłowców > Pilot statku powietrznego",
+  "hook": "Latasz jako drugi pilot: wspierasz kapitana, obsługujesz radio i pilnujesz przyrządów oraz ruchu w powietrzu. Gdy trzeba, przejmujesz stery.",
+  "tasks": "Monitorujesz przyrządy lotnicze w kabinie | Prowadzisz łączność radiową z kontrolą | Obserwujesz inny ruch w powietrzu | Zastępujesz kapitana przy sterach",
+  "day": "5:30 Odprawa z kapitanem, czytacie plan lotu i pogodę | 7:00 Prowadzisz korespondencję radiową przy kołowaniu | 9:00 Na trasie sprawdzasz przyrządy i ruch w powietrzu | 12:30 Podchodzisz do lądowania według procedur, kapitan nadzoruje",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 490
+ },
+ {
+  "name": "Pilot samolotowy liniowy",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Piloci samolotów i śmigłowców > Pilot statku powietrznego",
+  "hook": "Prowadzisz duży samolot pasażerski lub towarowy i odpowiadasz za bezpieczeństwo załogi i pasażerów. Dużo czasu spędzasz w podróży, a godziny pracy zmieniają się z tygodnia na tydzień.",
+  "tasks": "Planujesz trasę i zapas paliwa | Prowadzisz duży samolot na długich trasach | Dowodzisz załogą od odprawy do lądowania | Decydujesz, gdy pojawia się usterka lub zła pogoda",
+  "day": "4:30 Odprawa z załogą, omawiacie trasę i pogodę | 6:00 Sprawdzasz paliwo i dokumenty, potem kołujesz do startu | 8:30 Nad chmurami pilnujesz trasy i przyrządów | 13:00 Lądowanie, krótka kontrola maszyny, wpis do dokumentów",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 491
+ },
+ {
+  "name": "Pilot śmigłowcowy",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Piloci samolotów i śmigłowców > Pilot statku powietrznego",
+  "hook": "Latasz helikopterem i przewozisz ludzi albo ładunki z miejsca na miejsce, także tam, gdzie samolot nie wyląduje. Przed każdym lotem dokładnie sprawdzasz maszynę.",
+  "tasks": "Planujesz lot na mapach lotniczych | Sprawdzasz śmigłowiec według listy kontrolnej | Szukasz wycieków płynów i usterek sterowania | Przewozisz pasażerów i ładunki",
+  "day": "7:00 Oglądasz śmigłowiec z listą kontrolną w ręku | 8:30 Planujesz trasę na mapie i sprawdzasz paliwo | 10:00 Startujesz z pasażerami do odległego miejsca | 14:00 Przewozisz ładunek, lądujesz na małym placu",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 493
+ },
+ {
+  "name": "Astronauta",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Piloci samolotów i śmigłowców",
+  "hook": "Lecisz w kosmos i pracujesz na orbicie okołoziemskiej, prowadząc badania i eksperymenty. Zajmujesz się też wypuszczaniem satelitów i budową stacji kosmicznych.",
+  "tasks": "Przeprowadzasz eksperymenty naukowe na orbicie | Wypuszczasz satelity ze statku | Budujesz elementy stacji kosmicznej | Przygotowujesz się do misji latami na Ziemi",
+  "day": "6:00 Poranny przegląd planu dnia z centrum kontroli | 8:00 Wykonujesz eksperyment i zapisujesz wyniki | 13:00 Ćwiczysz fizycznie, bo w nieważkości słabną mięśnie | 16:00 Montujesz element stacji lub naprawiasz sprzęt",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 495
+ },
+ {
+  "name": "Technik mechanik lotniczy",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Piloci samolotów i śmigłowców",
+  "hook": "Sprawdzasz samolot przed startem i po lądowaniu, szukając wycieków i usterek instalacji. Robisz też drobne naprawy i regulacje, żeby maszyna była gotowa do bezpiecznego lotu.",
+  "tasks": "Oglądasz samolot przed startem | Szukasz wycieków oleju i usterek instalacji | Wykonujesz regulacje i małe naprawy | Sprawdzasz paliwo i wyważenie ładunku",
+  "day": "5:30 Pierwszy obchód samolotu po nocnym postoju | 7:00 Znajdujesz kropelki oleju i szukasz ich źródła | 11:00 Wymieniasz zużytą część w układzie hydraulicznym | 15:00 Po lądowaniu oglądasz maszynę i wpisujesz uwagi",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 496
+ },
+ {
+  "name": "Kontroler ruchu lotniczego",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Kontrolerzy ruchu lotniczego > Kontroler ruchu lotniczego",
+  "hook": "Prowadzisz samoloty w powietrzu głosem: podajesz pilotom kurs, wysokość i prędkość, żeby nic się nie zderzyło. Decydujesz, kto startuje, kto ląduje i w jakiej kolejności.",
+  "tasks": "Podajesz pilotom wysokość, prędkość i kurs | Zezwalasz na starty i lądowania | Pilnujesz odstępów między samolotami | Układasz kolejność, żeby ograniczyć opóźnienia",
+  "day": "6:00 Zmiana się zaczyna, przejmujesz sektor od kolegi | 8:00 Kilkanaście samolotów jednocześnie, rozdzielasz im wysokości | 10:00 Krótka przerwa, potem znowu skupienie na ekranie | 13:00 Zagęszczony ruch, zmieniasz kolejność lądowań",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 498
+ },
+ {
+  "name": "Pracownik służby informacji lotniczej",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Kontrolerzy ruchu lotniczego > Kontroler ruchu lotniczego",
+  "hook": "Pilnujesz, żeby informacje lotnicze trafiające do pilotów i agencji były wiarygodne i aktualne. Od nich zależy bezpieczeństwo i regularność lotów.",
+  "tasks": "Sprawdzasz wiarygodność informacji lotniczych | Porównujesz dane z różnych agencji | Przekazujesz aktualne komunikaty dalej | Pilnujesz, by informacje nie były spóźnione",
+  "day": "7:00 Odbierasz nowe komunikaty z lotnisk i agencji | 9:00 Porównujesz dwa źródła, jedno podaje inną godzinę | 11:30 Rozsyłasz poprawiony komunikat do zainteresowanych | 14:00 Zapisujesz w dzienniku, co i kiedy przekazano",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 500
+ },
+ {
+  "name": "Inspektor lotniczy",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Kontrolerzy ruchu lotniczego",
+  "hook": "Kontrolujesz, czy obsługa techniczna, urządzenia nawigacyjne, kontrola ruchu i łączność działają zgodnie z normami. Sprawdzasz procedury i dokumenty i opisujesz, co trzeba poprawić.",
+  "tasks": "Kontrolujesz procedury obsługi technicznej | Sprawdzasz urządzenia nawigacji i łączności | Porównujesz praktykę z normami międzynarodowymi | Opisujesz uwagi i zalecenia po kontroli",
+  "day": "8:00 Przyjeżdżasz na lotnisko z listą kontrolną | 9:30 Oglądasz, jak mechanicy wykonują przegląd według procedury | 12:00 Przeglądasz dokumenty obsługi i szukasz niezgodności | 15:00 Piszesz raport z uwagami dla zarządu lotniska",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 501
+ },
+ {
+  "name": "Pracownik lotniczych służb operacyjnych",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Kontrolerzy ruchu lotniczego",
+  "hook": "Zbierasz dane o lotach: godziny przylotów i odlotów, ilość paliwa i dopuszczalny ciężar samolotu. Dzięki temu ruch między lotniskami przebiega sprawniej.",
+  "tasks": "Zbierasz planowe godziny przylotów i odlotów | Wyliczasz potrzebną ilość paliwa na lot | Sprawdzasz maksymalny ciężar startowy i lądowania | Zestawiasz informacje o lotach w jeden komplet",
+  "day": "6:00 Zbierasz dane o dzisiejszych lotach na trasach | 8:00 Obliczasz paliwo i ciężar dla jednego rejsu | 10:30 Samolot się opóźnia, aktualizujesz godziny przylotu | 13:00 Przekazujesz gotowe zestawienie osobom zajmującym się lotem",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 502
+ },
+ {
+  "name": "Oficer pokładowy",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Oficerowie pokładowi i piloci żeglugi",
+  "hook": "Pełnisz wachty na mostku: wyznaczasz kurs i prędkość, pilnujesz pozycji statku na mapie i omijasz zagrożenia. Prowadzisz dzienniki, nadzorujesz załadunek i załogę zajmującą się utrzymaniem statku.",
+  "tasks": "Wyznaczasz kurs i prędkość statku | Śledzisz pozycję statku na mapach | Prowadzisz dziennik i rejestry ruchu | Nadzorujesz załadunek i rozładunek towarów",
+  "day": "4:00 Zaczynasz nocną wachtę, patrzysz na radar i mapę | 8:00 Kończysz wachtę i wpisujesz kurs do dziennika | 14:00 Nadzorujesz załadunek, pilnujesz mocowania towaru | 16:00 Druga wachta, mijacie zatłoczony szlak",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 505
+ },
+ {
+  "name": "Pilot morski",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Oficerowie pokładowi i piloci żeglugi",
+  "hook": "Wchodzisz na pokład cudzego statku i prowadzisz go przez trudne wody: port, ujście rzeki, zatłoczony tor. Znasz lokalne drogi wodne lepiej niż załoga, która tam dopiero przypłynęła.",
+  "tasks": "Prowadzisz statki przez zatłoczone wody | Korzystasz ze szczegółowej wiedzy o lokalnych drogach wodnych | Komunikujesz się z kapitanem i załogą | Manewrujesz statkiem w wąskich miejscach portu",
+  "day": "5:30 Dostajesz wezwanie do statku wpływającego do portu | 6:30 Na mostku ustalasz z kapitanem sposób wejścia | 8:00 Prowadzisz statek między boje i nabrzeża | 11:00 Kończysz zadanie i czekasz na kolejny statek",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 506
+ },
+ {
+  "name": "Stermotorzysta żeglugi śródlądowej",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Oficerowie pokładowi i piloci żeglugi",
+  "hook": "Masz najwyższą rangę wśród załogi na poziomie operacyjnym na statku śródlądowym. Sterujesz statkiem, cumujesz i odcumowujesz, pilnujesz pokładu i silnika.",
+  "tasks": "Sterujesz statkiem na śródlądowej drodze wodnej | Cumujesz i odcumowujesz statek | Utrzymujesz w porządku strefy pokładu | Sprawdzasz silnik i inne wyposażenie",
+  "day": "6:00 Sprawdzasz silnik i poziom oleju przed rejsem | 7:00 Odcumowujesz statek i bierzesz ster | 11:00 Pokład wymaga mycia i sprawdzenia lin | 17:00 Cumujesz do nabrzeża na nocleg",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 507
+ },
+ {
+  "name": "Mechanik urządzeń chłodniczych w rybołówstwie",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Pracownicy służb technicznych żeglugi",
+  "hook": "Konserwujesz i naprawiasz urządzenia, które chłodzą i przechowują ryby na statku rybackim. Gdy chłodzenie przestaje działać, cały połów może się zepsuć.",
+  "tasks": "Konserwujesz instalację chłodzenia ryb | Naprawiasz maszyny do przechowywania połowu | Kontrolujesz temperaturę w pomieszczeniach z rybami | Reagujesz na awarię, zanim ryby się zepsują",
+  "day": "5:00 Przed wypłynięciem sprawdzasz instalację chłodniczą | 9:00 Pierwszy połów trafia do chłodzenia, kontrolujesz temperaturę | 13:00 Urządzenie przestaje chłodzić, szukasz usterki | 18:00 Spisujesz stan maszyn i plan napraw",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 509
+ },
+ {
+  "name": "Mechanik wachtowy",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Pracownicy służb technicznych żeglugi",
+  "hook": "Na swojej wachcie odpowiadasz za większość urządzeń w kadłubie statku: silniki, ster i wytwarzanie energii. Na bieżąco ustalasz z oficerem mechanikiem, co trzeba naprawić.",
+  "tasks": "Pilnujesz pracy głównych silników na wachcie | Kontrolujesz mechanizm steru | Sprawdzasz wytwarzanie energii elektrycznej | Zgłaszasz usterki oficerowi mechanikowi",
+  "day": "0:00 Przejmujesz nocną wachtę w hałasie maszynowni | 1:30 Odczytujesz parametry silników i wpisujesz do dziennika | 3:00 Alarm temperatury, szukasz przyczyny usterki | 4:00 Zdajesz wachtę i opisujesz wszystko zmiennikowi",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 510
+ },
+ {
+  "name": "Oficer mechanik",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów > Pracownicy służb technicznych żeglugi",
+  "hook": "Kierujesz całą maszynownią statku i odpowiadasz za wszystkie prace techniczne, układy mechaniczne i elektryczne. Pilnujesz też, żeby statek spełniał krajowe i międzynarodowe normy.",
+  "tasks": "Kierujesz zespołem w maszynowni | Planujesz przeglądy i naprawy układów | Odpowiadasz za wyposażenie techniczne statku | Dopilnowujesz zgodności z normami i przepisami",
+  "day": "7:30 Odprawa z mechanikami, dzielisz zadania na dzień | 9:30 Oglądasz z zespołem część wymienioną w silniku | 13:00 Piszesz zamówienie na części zapasowe do portu | 16:00 Kontrola bezpieczeństwa, ćwiczysz z załogą alarm",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 511
+ },
+ {
+  "name": "Technik urządzeń ruchu lotniczego",
+  "path": "Piloci, oficerowie statków, kontrolerzy lotów",
+  "hook": "Dbasz o urządzenia, dzięki którym kontrolerzy prowadzą samoloty: systemy kontroli ruchu i nawigacji. Projektujesz, instalujesz i konserwujesz je na lotnisku i na pokładzie samolotu.",
+  "tasks": "Instalujesz systemy kontroli ruchu lotniczego | Konserwujesz urządzenia nawigacji lotniczej | Projektujesz zmiany w istniejących systemach | Udzielasz wsparcia technicznego przy awariach",
+  "day": "7:00 Planowy przegląd urządzeń nawigacyjnych na lotnisku | 10:00 Kontroler zgłasza błąd, jedziesz sprawdzić system | 13:00 Montujesz nowe urządzenie w wieży kontroli | 15:30 Piszesz protokół z przeglądu zgodny z przepisami",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Angielski zawodowy",
+    "S"
+   ],
+   [
+    "Fizyka i matematyka",
+    "L"
+   ],
+   [
+    "Orientacja w przestrzeni",
+    "R"
+   ],
+   [
+    "Bardzo dobre zdrowie",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Wyjątkowy, szanowany zawód",
+   "Podróże",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Długie i kosztowne szkolenie",
+   "Nieregularne godziny i wyjazdy",
+   "Regularne badania i egzaminy"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie zawodowe",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny angielski, matematyka i fizyka",
+      4
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie do zawodu",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja lub dyplom",
+      2
+     ],
+     [
+      "praktyka",
+      "Zbieranie godzin praktyki",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: lotnictwo, nawigacja lub transport ze szkoleniem zawodowym",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy transportu morskiego, żeglugi śródlądowej i lotnictwa (z wyłączeniem sił zbrojnych)",
+  "pay_median_2025": 12799.81,
+  "gen_id": 512
+ }
+]

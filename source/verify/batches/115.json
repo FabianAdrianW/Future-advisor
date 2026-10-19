@@ -1,0 +1,1792 @@
+[
+ {
+  "name": "Kierownik w sklepie",
+  "path": "Sprzedawcy w sklepach > Kierownik w sklepie",
+  "hook": "Odpowiadasz za cały sklep: ludzi, towar, budżet i sprzedaż. Rozwiązujesz problemy, układasz grafik i pilnujesz wyników.",
+  "tasks": "Układasz grafik pracowników | Pilnujesz spisu towarów i zamówień | Oceniasz wyniki pracy sprzedawców | Rozmawiasz z trudnymi klientami",
+  "day": "7:00 Otwierasz sklep i sprawdzasz, kto jest na zmianie | 9:00 Odbierasz dostawę i porównujesz ją z zamówieniem | 13:00 Omawiasz ze sprzedawcą jego wyniki | 16:30 Sprawdzasz utarg i planujesz jutrzejsze promocje",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Znajomość towaru",
+    "L"
+   ],
+   [
+    "Liczenie i kasa",
+    "L"
+   ],
+   [
+    "Cierpliwość",
+    "P"
+   ],
+   [
+    "Dbałość o wygląd sklepu",
+    "O"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Szybki start",
+   "Pracę znajdziesz wszędzie"
+  ],
+  "minus": [
+   "Wiele godzin na nogach",
+   "Praca w weekendy",
+   "Trudni klienci"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie w sklepie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: sprzedawca",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik handlowiec",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy sprzedaży w sklepach",
+  "pay_median_2025": 5072.8,
+  "gen_id": 409
+ },
+ {
+  "name": "Przedsiębiorca prowadzący jednostkę handlu detalicznego",
+  "path": "Sprzedawcy w sklepach",
+  "hook": "Prowadzisz własny sklep, kiosk albo antykwariat i decydujesz o wszystkim: co sprzedawać, od kogo kupować i za ile. Zysk i straty są twoje, więc często pracujesz także w weekendy.",
+  "tasks": "Wybierasz towary i dostawców | Ustalasz ceny i promocje | Stoisz za ladą i obsługujesz klientów | Pilnujesz rachunków i opłat za lokal",
+  "day": "6:30 Odbierasz od dostawcy pieczywo i prasę | 8:00 Otwierasz lokal i obsługujesz poranny ruch | 13:00 Siadasz do rachunków i zamawiasz towar | 17:00 Sprzątasz i liczysz dzisiejszy utarg",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Znajomość towaru",
+    "L"
+   ],
+   [
+    "Liczenie i kasa",
+    "L"
+   ],
+   [
+    "Cierpliwość",
+    "P"
+   ],
+   [
+    "Dbałość o wygląd sklepu",
+    "O"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Szybki start",
+   "Pracę znajdziesz wszędzie"
+  ],
+  "minus": [
+   "Wiele godzin na nogach",
+   "Praca w weekendy",
+   "Trudni klienci"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie w sklepie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: sprzedawca",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik handlowiec",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pracownicy sprzedaży w sklepach",
+  "pay_median_2025": 5072.8,
+  "gen_id": 410
+ },
+ {
+  "name": "Doradca ds. ochrony własności intelektualnej",
+  "path": "Agenci usług biznesowych > Inne: agenci usług biznesowych",
+  "hook": "Pomagasz twórcom i firmom chronić ich wynalazki, znaki firmowe i utwory przed kopiowaniem. Sprawdzasz, co da się zastrzec, i prowadzisz sprawy w urzędach.",
+  "tasks": "Sprawdzasz, czy pomysł można opatentować | Zgłaszasz wynalazki i znaki towarowe | Doradzasz w sprawach praw autorskich | Wyceniasz wartość praw klienta",
+  "day": "9:00 Przeszukujesz bazy, czy podobny patent już istnieje | 11:00 Rozmowa z wynalazcą, który chce zgłosić urządzenie | 13:30 Piszesz opis wynalazku do urzędu patentowego | 15:30 Tłumaczysz firmie, kto ma prawa do logo",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 411
+ },
+ {
+  "name": "Kierownik ds. imprez rozrywkowych",
+  "path": "Agenci usług biznesowych > Inne: agenci usług biznesowych",
+  "hook": "Kierujesz zespołem, który bawi gości hotelu, kurortu czy statku wycieczkowego. Układasz program zajęć i pilnujesz, żeby każdy wieczór się udał.",
+  "tasks": "Układasz program zajęć dla gości | Kierujesz animatorami i artystami | Dobierasz atrakcje do wieku gości | Sprawdzasz, czy impreza przebiega gładko",
+  "day": "9:00 Odprawa z animatorami, podział zadań na dzień | 11:00 Sprawdzasz konkursy przy basenie | 15:00 Próba wieczornego występu na scenie hotelowej | 21:00 Obserwujesz show i reagujesz na problemy",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 412
+ },
+ {
+  "name": "Kierownik organizatorów wycieczek",
+  "path": "Agenci usług biznesowych > Inne: agenci usług biznesowych",
+  "hook": "Zarządzasz zespołem, który organizuje wycieczki i inne usługi turystyczne. Rozdzielasz pracę, pilnujesz terminów i dbasz, żeby wyjazdy były dopięte od początku do końca.",
+  "tasks": "Przydzielasz zadania zespołowi organizatorów | Sprawdzasz plany wycieczek i terminy | Rozwiązujesz problemy z rezerwacjami | Kontaktujesz się z hotelami i przewoźnikami",
+  "day": "8:30 Omawiasz z zespołem wyjazdy na ten tydzień | 10:30 Hotel odwołał rezerwację dla grupy, szukasz zastępstwa | 13:00 Sprawdzasz plan wycieczki do Włoch | 16:00 Rozmawiasz z przewoźnikiem o autokarach na lato",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 413
+ },
+ {
+  "name": "Menedżer artystyczny",
+  "path": "Agenci usług biznesowych > Inne: agenci usług biznesowych",
+  "hook": "Reprezentujesz artystów, autorów czy sportowców: szukasz im pracy, występów i umów. Negocjujesz za nich warunki i dbasz, żeby ich nazwisko było widoczne.",
+  "tasks": "Promujesz swoich klientów u organizatorów | Organizujesz przesłuchania i występy | Negocjujesz umowy i honoraria | Pilnujesz terminarza artysty",
+  "day": "10:00 Wysyłasz organizatorom festiwalu nagranie swojego klienta | 12:00 Dzwonisz do teatru w sprawie przesłuchania | 15:00 Negocjujesz warunki umowy na serię występów | 20:00 Jesteś na koncercie klienta i rozmawiasz z producentem",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 415
+ },
+ {
+  "name": "Negocjator kontraktów wycieczkowych",
+  "path": "Agenci usług biznesowych > Inne: agenci usług biznesowych",
+  "hook": "Ustalasz warunki umów między biurem podróży a hotelami, przewoźnikami i innymi dostawcami usług turystycznych. Walczysz o dobre ceny i jasne zasady dla obu stron.",
+  "tasks": "Negocjujesz ceny z hotelami i przewoźnikami | Porównujesz oferty dostawców usług | Sprawdzasz zapisy umów | Uzgadniasz terminy i zasady rezygnacji",
+  "day": "9:00 Porównujesz oferty trzech hoteli nad morzem | 11:00 Telefon z hotelarzem o cenie dla grupy | 14:00 Czytasz projekt umowy z przewoźnikiem | 16:00 Uzgadniasz zasady rezygnacji i kar za odwołanie",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 416
+ },
+ {
+  "name": "Organizator koncertów",
+  "path": "Agenci usług biznesowych > Inne: agenci usług biznesowych",
+  "hook": "Ściągasz zespoły i artystów na koncerty: umawiasz termin, rezerwujesz salę i promujesz wydarzenie. W dniu koncertu pilnujesz, żeby artyści mieli wszystko, czego potrzebują.",
+  "tasks": "Umawiasz terminy i umowy z agentami | Rezerwujesz salę lub klub | Promujesz koncert w mediach | Ustalasz próbę dźwięku i przebieg występu",
+  "day": "10:00 Dzwonisz do agenta zespołu w sprawie terminu | 13:00 Zamawiasz plakaty i ogłoszenia o koncercie | 16:00 Zespół przyjeżdża, zaczyna się próba dźwięku | 20:00 Koncert startuje, a ty biegasz między sceną a wejściem",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 417
+ },
+ {
+  "name": "Specjalista ds. prawa do publikacji w formie drukowanej",
+  "path": "Agenci usług biznesowych > Inne: agenci usług biznesowych",
+  "hook": "Zajmujesz się prawami autorskimi do książek: sprzedajesz je tak, by książka mogła być przetłumaczona albo zekranizowana. Rozmawiasz z wydawcami z innych krajów i pilnujesz umów.",
+  "tasks": "Oferujesz prawa do książek zagranicznym wydawcom | Negocjujesz warunki licencji | Przygotowujesz i sprawdzasz umowy | Pilnujesz terminów i rozliczeń praw",
+  "day": "9:00 Piszesz do zagranicznego wydawcy o nowej powieści | 11:00 Rozmowa online o prawach do tłumaczenia | 14:00 Czytasz zapisy w umowie na ekranizację | 16:00 Aktualizujesz listę, które prawa już sprzedano",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 418
+ },
+ {
+  "name": "Specjalista ds. programowych",
+  "path": "Agenci usług biznesowych > Inne: agenci usług biznesowych",
+  "hook": "Układasz program artystyczny teatru, domu kultury, sali koncertowej czy festiwalu. Śledzisz nowych artystów, rozmawiasz z agentami i wybierasz występy tak, by pasowały do widzów i budżetu.",
+  "tasks": "Śledzisz nowych artystów i trendy | Rozmawiasz z impresariami i agentami | Układasz sezonowy program występów | Pilnujesz budżetu programu",
+  "day": "9:00 Oglądasz nagrania młodych zespołów i aktorów | 11:00 Rozmowa z agentem o terminach na jesień | 14:00 Układasz repertuar na kolejny sezon | 18:30 Idziesz na spektakl, żeby ocenić artystów na żywo",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 419
+ },
+ {
+  "name": "Sprzedawca reklam",
+  "path": "Agenci usług biznesowych > Inne: agenci usług biznesowych",
+  "hook": "Sprzedajesz firmom i osobom prywatnym miejsce i czas reklamowy w mediach. Prezentujesz ofertę klientom, a po sprzedaży pilnujesz, żeby wszystko poszło zgodnie z umową.",
+  "tasks": "Prezentujesz ofertę reklamową klientom | Dobierasz miejsce i czas emisji | Negocjujesz warunki umowy | Sprawdzasz po kampanii, czy klient jest zadowolony",
+  "day": "9:00 Przeglądasz listę firm, do których dzwonisz | 11:00 Prezentujesz właścicielowi sklepu pakiet reklam w radiu | 14:00 Negocjujesz cenę i daty emisji | 16:30 Wysyłasz umowę i pytasz o efekty poprzedniej kampanii",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 421
+ },
+ {
+  "name": "Inwestor w nieruchomości",
+  "path": "Agenci usług biznesowych > Pośrednicy w obrocie nieruchomościami i zarządcy nieruchomości > Pośrednik w obrocie nieruchomościami",
+  "hook": "Kupujesz mieszkania, budynki lub grunty za własne pieniądze i sprzedajesz je z zyskiem. Czasem najpierw remontujesz, żeby nieruchomość była więcej warta.",
+  "tasks": "Sprawdzasz ceny podobnych nieruchomości w okolicy | Oglądasz budynki i oceniasz ich stan | Nadzorujesz remont kupionego lokalu | Negocjujesz cenę zakupu i sprzedaży",
+  "day": "8:00 Przeglądasz nowe ogłoszenia i porównujesz ceny | 10:30 Oglądasz zaniedbane mieszkanie na parterze | 13:00 Rozmowa z ekipą remontową o terminach | 17:00 Liczysz, ile zostanie po sprzedaży",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 422
+ },
+ {
+  "name": "Pośrednik w obrocie nieruchomościami",
+  "path": "Agenci usług biznesowych > Pośrednicy w obrocie nieruchomościami i zarządcy nieruchomości > Pośrednik w obrocie nieruchomościami",
+  "hook": "Pomagasz klientom sprzedać albo wynająć mieszkanie, dom lub grunt. Wyceniasz nieruchomość, negocjujesz i dbasz, żeby transakcja była zgodna z prawem.",
+  "tasks": "Oceniasz stan i wartość nieruchomości | Pokazujesz mieszkania kupującym | Negocjujesz cenę między stronami | Sprawdzasz, czy sprzedaż nie ma prawnych przeszkód",
+  "day": "9:00 Robisz zdjęcia i mierzysz nowe mieszkanie | 11:00 Prezentujesz mieszkanie parze, która szuka pierwszego lokum | 14:00 Sprawdzasz dokumenty, czy nic nie blokuje sprzedaży | 18:00 Negocjujesz cenę z kupującym i sprzedającym przez telefon",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 423
+ },
+ {
+  "name": "Specjalista ds. wynajmu nieruchomości",
+  "path": "Agenci usług biznesowych > Pośrednicy w obrocie nieruchomościami i zarządcy nieruchomości > Pośrednik w obrocie nieruchomościami",
+  "hook": "Umawiasz oglądanie mieszkań z osobami, które chcą się wprowadzić, i pokazujesz im lokale. Dbasz też o ogłoszenia i codzienną korespondencję z lokatorami.",
+  "tasks": "Umawiasz terminy oglądania mieszkań | Pokazujesz lokale przyszłym lokatorom | Układasz ogłoszenia o wolnych mieszkaniach | Odpowiadasz na wiadomości i uzupełniasz dokumenty",
+  "day": "8:30 Odpisujesz na wiadomości o wolnych mieszkaniach | 10:00 Pokazujesz studentowi kawalerkę i wyjaśniasz warunki | 12:30 Robisz zdjęcia pustego mieszkania do ogłoszenia | 16:00 Wypełniasz papiery nowego lokatora",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 424
+ },
+ {
+  "name": "Agent do spraw pozyskiwania nieruchomości",
+  "path": "Agenci usług biznesowych > Pośrednicy w obrocie nieruchomościami i zarządcy nieruchomości > Agent ds. pozyskiwania nieruchomości",
+  "hook": "Zajmujesz się zakupem gruntów i nieruchomości dla firmy lub inwestora. Pilnujesz, żeby kupno było zgodne z prawem, dobrze policzone i udokumentowane.",
+  "tasks": "Szukasz działek i budynków do kupna | Oceniasz ryzyko finansowe zakupu | Sprawdzasz, czy zakup jest zgodny z prawem | Pilnujesz dokumentów do podpisania umowy",
+  "day": "8:30 Analizujesz mapę działek pod nową inwestycję | 10:30 Spotkanie z właścicielem gruntu o cenie | 13:30 Prawnik wskazuje braki w dokumentach | 16:00 Przygotowujesz komplet papierów na podpisanie umowy",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 425
+ },
+ {
+  "name": "Specjalista ds. finalizacji transakcji",
+  "path": "Agenci usług biznesowych > Pośrednicy w obrocie nieruchomościami i zarządcy nieruchomości > Agent ds. pozyskiwania nieruchomości",
+  "hook": "Zbierasz i sprawdzasz wszystkie dokumenty potrzebne, żeby sprzedaż nieruchomości mogła się zakończyć. Pilnujesz umów, rozliczeń, kredytu, polis i opłat.",
+  "tasks": "Zbierasz umowy, rozliczenia i polisy | Sprawdzasz zgodność papierów z przepisami | Przeglądasz opłaty związane ze sprzedażą | Przypominasz stronom o brakujących podpisach",
+  "day": "8:00 Sprawdzasz, które dokumenty jeszcze nie wpłynęły | 10:00 Czytasz umowę kredytu kupującego linijka po linijce | 12:30 Dzwonisz do ubezpieczyciela w sprawie polisy | 15:00 Rozliczasz opłaty i ustalasz datę podpisania",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 426
+ },
+ {
+  "name": "Administrator nieruchomości",
+  "path": "Agenci usług biznesowych > Pośrednicy w obrocie nieruchomościami i zarządcy nieruchomości",
+  "hook": "Opiekujesz się budynkami mieszkalnymi w imieniu wspólnoty lub właściciela. Zbierasz czynsze, kontrolujesz stan budynku, załatwiasz naprawy i łagodzisz spory między sąsiadami.",
+  "tasks": "Zbierasz opłaty czynszowe | Obchodzisz budynek i szukasz usterek | Zlecasz naprawy i pilnujesz ich wykonania | Rozmawiasz z lokatorami o problemach sąsiedzkich",
+  "day": "8:00 Dzwoni lokator, przecieka rura w piwnicy | 10:00 Obchodzisz klatki schodowe i sprawdzasz oświetlenie | 14:00 Zebranie wspólnoty, sąsiedzi kłócą się o parking | 16:30 Sprawdzasz, kto zalega z opłatami",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 427
+ },
+ {
+  "name": "Specjalista ds. zarządzania najmem",
+  "path": "Agenci usług biznesowych > Pośrednicy w obrocie nieruchomościami i zarządcy nieruchomości",
+  "hook": "Organizujesz wynajem lokali i pilnujesz umów najmu oraz wpłat czynszu. Prowadzisz budżet najmu i pokazujesz wolne lokale nowym najemcom.",
+  "tasks": "Przygotowujesz i archiwizujesz umowy najmu | Sprawdzasz wpłaty czynszu | Układasz miesięczny i roczny budżet najmu | Pokazujesz wolne lokale potencjalnym najemcom",
+  "day": "8:30 Porównujesz listę wpłat z listą najemców | 10:30 Przypominasz najemcy o zaległym czynszu | 13:00 Omawiasz z zespołem, które lokale są wolne | 15:30 Podpisujesz nową umowę przy właścicielu i najemcy",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 428
+ },
+ {
+  "name": "Zarządca nieruchomości",
+  "path": "Agenci usług biznesowych > Pośrednicy w obrocie nieruchomościami i zarządcy nieruchomości",
+  "hook": "Odpowiadasz za działanie całych budynków: biurowców, sklepów albo osiedli. Negocjujesz umowy najmu, pilnujesz utrzymania i planujesz nowe inwestycje, żeby budynek zyskiwał na wartości.",
+  "tasks": "Negocjujesz umowy najmu z firmami | Planujesz konserwację i remonty budynku | Oceniasz miejsce pod nowy budynek | Nadzorujesz sprawy administracyjne i techniczne",
+  "day": "8:00 Przegląd raportów o stanie biurowca | 10:00 Negocjujesz czynsz z firmą wynajmującą piętro | 13:00 Spotkanie z deweloperem o nowej lokalizacji | 15:30 Technik zgłasza awarię windy, planujesz naprawę",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Pośrednicy usług biznesowych",
+  "pay_median_2025": 7040,
+  "gen_id": 429
+ },
+ {
+  "name": "Demonstrator wyrobów",
+  "path": "Inni sprzedawcy",
+  "hook": "Pokazujesz w sklepie lub na stoisku, jak działa produkt, i zachęcasz ludzi do wypróbowania go. Zagadujesz przechodniów i odpowiadasz na pytania o towar.",
+  "tasks": "Zagadujesz klientów przy stoisku | Pokazujesz, jak działa produkt | Odpowiadasz na pytania o towar | Zapraszasz do wypróbowania promocyjnych produktów",
+  "day": "9:30 Rozkładasz stoisko i próbki przy wejściu do sklepu | 11:30 Pokazujesz klientom, jak działa nowa patelnia | 14:00 Zagadujesz ludzi w największym tłumie, odpowiadasz na pytania | 17:30 Składasz stoisko i liczysz rozdane próbki",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Znajomość towaru",
+    "L"
+   ],
+   [
+    "Liczenie i kasa",
+    "L"
+   ],
+   [
+    "Cierpliwość",
+    "P"
+   ],
+   [
+    "Dbałość o wygląd sklepu",
+    "O"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Szybki start",
+   "Pracę znajdziesz wszędzie"
+  ],
+  "minus": [
+   "Wiele godzin na nogach",
+   "Praca w weekendy",
+   "Trudni klienci"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie w sklepie",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: sprzedawca",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik handlowiec",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inni pracownicy sprzedaży i pokrewni",
+  "pay_median_2025": 6256.5,
+  "gen_id": 430
+ }
+]

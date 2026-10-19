@@ -1,0 +1,1642 @@
+[
+ {
+  "name": "Kontroler procesów przeróbki ropy naftowej",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych",
+  "hook": "Badasz ropę naftową w trakcie przetwarzania i przed wysyłką. Kontrolujesz pompy i regulujesz, ile ropy płynie do rurociągów.",
+  "tasks": "Pobierasz próbki ropy do badania | Sprawdzasz jakość ropy przed wysyłką | Kontrolujesz systemy pomp | Regulujesz przepływ ropy do rurociągów",
+  "day": "6:00 Odczytujesz stan pomp i zbiorników | 8:30 Pobierasz próbkę ropy do badania | 11:00 Zmniejszasz przepływ do rurociągu po wyniku | 14:00 Zapisujesz wyniki i przekazujesz zmianę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 195
+ },
+ {
+  "name": "Operator kapsułkarki",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych",
+  "hook": "Kontrolujesz maszynę, która napełnia kapsułki żelatynowe lekiem. Pilnujesz, żeby do każdej kapsułki trafiał określony preparat.",
+  "tasks": "Uruchamiasz kapsułkarkę i ustawiasz ją | Dosypujesz preparat leczniczy do maszyny | Kontrolujesz napełnienie kapsułek | Czyścisz maszynę przed zmianą preparatu",
+  "day": "6:30 Zakładasz fartuch i czepek przed wejściem na halę | 7:30 Ustawiasz kapsułkarkę pod dzisiejszy preparat | 10:00 Wyjmujesz kapsułki do kontroli napełnienia | 13:30 Czyścisz maszynę po zakończeniu serii",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 198
+ },
+ {
+  "name": "Operator prasy do mydła",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych",
+  "hook": "Obsługujesz prasę, która z rozdrobnionego mydła formuje kostki o określonym kształcie i rozmiarze. Pilnujesz, żeby kostki spełniały wymagania jakościowe.",
+  "tasks": "Zasilasz prasę rozdrobnionym mydłem | Ustawiasz formę kostki w prasie | Wyjmujesz i oceniasz gotowe kostki | Odrzucasz kostki niespełniające wymagań",
+  "day": "6:30 Zakładasz formę pod dzisiejszy rozmiar kostki | 8:00 Prasa pracuje, a ty oglądasz każdą partię | 11:00 Kostki z wgnieceniem lądują w odrzutach | 14:00 Mierzysz kilka kostek miarką",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 200
+ },
+ {
+  "name": "Operator separatora grawitacyjnego nitrogliceryny",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych",
+  "hook": "Obsługujesz separator, w którym nitrogliceryna jest oddzielana od zużytych kwasów podczas wytwarzania materiałów wybuchowych. Kontrolujesz temperaturę i przepływ cieczy.",
+  "tasks": "Konserwujesz separator grawitacyjny | Kontrolujesz temperaturę w separatorze | Pilnujesz przepływu cieczy | Przestrzegasz ścisłych procedur bezpieczeństwa",
+  "day": "6:00 Odprawa i przegląd stanowiska | 8:00 Odczytujesz temperaturę i przepływ cieczy | 11:00 Sprawdzasz, czy separator pracuje stabilnie | 14:00 Notujesz odczyty zmiany w dzienniku",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 201
+ },
+ {
+  "name": "Operator tabletkarki",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych",
+  "hook": "Dozorujesz maszynę, która wytwarza tabletki o różnych rozmiarach i kształtach. Napełniasz ją materiałem, regulujesz przepływ i temperaturę.",
+  "tasks": "Napełniasz tabletkarkę materiałem | Otwierasz zawory i regulujesz przepływ | Ustawiasz temperaturę maszyny | Dozorujesz wytwarzanie tabletek",
+  "day": "6:30 Zakładasz fartuch i czepek, wchodzisz na halę | 7:30 Wsypujesz materiał do zasobnika tabletkarki | 10:00 Korygujesz temperaturę i przepływ materiału | 13:30 Czyścisz maszynę po zakończeniu serii",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 202
+ },
+ {
+  "name": "Operator urządzeń destylacyjnych",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych",
+  "hook": "Prowadzisz i nadzorujesz destylację ropy naftowej, czyli oddzielanie jej składników i zanieczyszczeń. Kręcisz zaworami i pilnujesz temperatury, przepływu i ciśnienia.",
+  "tasks": "Prowadzisz proces destylacji ropy | Przekręcasz zawory sterujące | Pilnujesz temperatury, przepływu i ciśnienia | Pomagasz usuwać problemy w instalacji",
+  "day": "6:00 Odczytujesz mierniki temperatury i ciśnienia | 8:30 Przekręcasz zawór, żeby zmienić przepływ | 11:00 Ciśnienie rośnie, szukasz przyczyny z technikiem | 14:00 Zapisujesz dane i przekazujesz zmianę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 203
+ },
+ {
+  "name": "Operator urządzeń do bielenia wosku",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych",
+  "hook": "Obsługujesz prasy filtracyjne i zbiorniki, w których wosk jest bielony na potrzeby produkcji świec. Konserwujesz je i pilnujesz przebiegu procesu.",
+  "tasks": "Obsługujesz zbiorniki do bielenia wosku | Pilnujesz pracy prasy filtracyjnej | Konserwujesz i czyścisz sprzęt | Kontrolujesz kolor i czystość wosku",
+  "day": "6:00 Napełniasz zbiornik woskiem do bielenia | 8:30 Sprawdzasz, czy prasa filtracyjna nie przecieka | 11:00 Porównujesz kolor wosku ze wzorcem | 14:00 Czyścisz prasę i zbiorniki",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 204
+ },
+ {
+  "name": "Operator urządzeń do fermentacji",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych",
+  "hook": "Obsługujesz zbiorniki do fermentacji, w których powstają składniki do leków, takich jak antybiotyki czy witaminy. Pracujesz też przy składnikach kosmetyków.",
+  "tasks": "Kontrolujesz zbiorniki do fermentacji | Przygotowujesz urządzenia do nowej partii | Konserwujesz i czyścisz aparaturę | Notujesz parametry procesu w dzienniku",
+  "day": "6:00 Przejmujesz zmianę, czytasz stan zbiorników | 8:00 Przygotowujesz zbiornik do nowej partii | 11:00 Kontrolujesz parametry fermentacji na wyświetlaczu | 14:00 Czyścisz urządzenia i dokumentujesz zmianę",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 205
+ },
+ {
+  "name": "Operator urządzeń do produkcji perfum",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych",
+  "hook": "Dozorujesz maszyny, które produkują perfumy. Ustawiasz urządzenia, czyścisz je i trzymasz się harmonogramu produkcji.",
+  "tasks": "Ustawiasz maszyny i narzędzia | Czyścisz i konserwujesz urządzenia | Przestrzegasz harmonogramu produkcji | Dozorujesz pracę maszyny podczas serii",
+  "day": "6:30 Sprawdzasz harmonogram i ustawiasz maszynę | 8:00 Maszyna pracuje, dozorujesz serię perfum | 11:00 Wymieniasz narzędzia przed kolejną serią | 14:00 Czyścisz maszynę i odkładasz narzędzia",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 206
+ },
+ {
+  "name": "Operator urządzeń do produkcji wyrobów kosmetycznych",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych",
+  "hook": "Dozorujesz maszyny, które wytwarzają kosmetyki. Ustawiasz je, czyścisz i pracujesz według harmonogramu produkcji.",
+  "tasks": "Ustawiasz maszyny i narzędzia do serii | Czyścisz urządzenia do produkcji kosmetyków | Konserwujesz maszyny po zakończeniu pracy | Realizujesz plan harmonogramu produkcji",
+  "day": "6:30 Odczytujesz harmonogram i przygotowujesz maszynę | 8:00 Maszyna pracuje, a ty dozorujesz serię kosmetyków | 11:00 Zmieniasz ustawienia na kolejny produkt | 14:00 Dokładnie czyścisz urządzenia po serii",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 208
+ },
+ {
+  "name": "Operator urządzeń granulujących",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych",
+  "hook": "Mieszasz i granulujesz sproszkowane składniki, żeby przygotować je do tabletkowania leków. Ustawiasz wielkość serii i trzymasz się receptury.",
+  "tasks": "Mieszasz sproszkowane składniki w maszynie | Granulujesz masę przed tabletkowaniem | Ustawiasz wielkość serii | Pilnujesz zgodności z recepturą",
+  "day": "6:30 Zakładasz strój ochronny przy wejściu na halę | 8:00 Ustawiasz wielkość serii i ładujesz składniki | 10:30 Mieszarka pracuje, sprawdzasz ziarnistość masy | 13:30 Przekazujesz granulat do tabletkowania",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 210
+ },
+ {
+  "name": "Pracownik obsługi suszarni materiałów pirotechnicznych",
+  "path": "Produkcja chemiczna > Maszyny do produkcji wyrobów chemicznych",
+  "hook": "Obserwujesz i konserwujesz suszarnię, w której schną materiały pirotechniczne. Sprawdzasz, czy są dobrze osuszone i przechowywane we właściwych warunkach.",
+  "tasks": "Obserwujesz pracę suszarni | Sprawdzasz stopień osuszenia materiałów | Pilnujesz warunków przechowywania | Konserwujesz urządzenie suszące",
+  "day": "6:00 Odprawa bezpieczeństwa i odczyt parametrów suszarni | 9:00 Kontrolujesz, czy materiał jest już dość suchy | 12:00 Odnotowujesz, które partie zostały osuszone | 15:00 Sprawdzasz warunki w miejscu przechowywania",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy urządzeń do produkcji wyrobów chemicznych i fotograficznych",
+  "pay_median_2025": 7429.86,
+  "gen_id": 211
+ },
+ {
+  "name": "Mechanik wieży wiertniczej",
+  "path": "Górnictwo i wydobycie > Operatorzy urządzeń wiertniczych i wydobywczych ropy, gazu i innych surowców",
+  "hook": "Odpowiadasz za silniki napędzające urządzenia wiertnicze. Pilnujesz, żeby inne maszyny na platformie działały bez zarzutu.",
+  "tasks": "Konserwujesz silniki napędzające wiertnię | Diagnozujesz awarie maszyn na platformie | Naprawiasz uszkodzone urządzenia | Sprawdzasz stan sprzętu podczas obchodu",
+  "day": "6:00 Zaczynasz od obchodu silników | 9:00 Jeden silnik stuka, szukasz przyczyny | 12:00 Wymieniasz zużytą część w maszynie | 15:00 Wpisujesz do dziennika naprawy i przeglądy",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 217
+ },
+ {
+  "name": "Operator pompy do rurociągu",
+  "path": "Górnictwo i wydobycie > Operatorzy urządzeń wiertniczych i wydobywczych ropy, gazu i innych surowców",
+  "hook": "Dozorujesz pompy i systemy, które przesyłają ropę, gazy czy roztwory z jednego miejsca do drugiego. Pilnujesz, żeby przepływ w rurociągu był sprawny.",
+  "tasks": "Obsługujesz pompy i węże do przesyłu | Kontrolujesz przepływ towaru w rurociągu | Dobierasz sprzęt do rodzaju towaru | Wychwytujesz zakłócenia przepływu",
+  "day": "6:00 Przejmujesz zmianę, sprawdzasz stan pomp | 8:30 Uruchamiasz pompę do przesyłu towaru | 12:00 Przepływ spada, szukasz przyczyny | 15:00 Odłączasz węże po zakończeniu przesyłu",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 218
+ },
+ {
+  "name": "Operator tunelowych maszyn wiertniczych",
+  "path": "Górnictwo i wydobycie > Operatorzy urządzeń wiertniczych i wydobywczych ropy, gazu i innych surowców",
+  "hook": "Sterujesz ogromną maszyną do drążenia tuneli, znaną jako TBM. Regulujesz jej pracę, a potem zdalnie układasz betonowe kręgi, które obudowują tunel.",
+  "tasks": "Regulujesz moment obrotowy koła tnącego | Kontrolujesz pracę przenośnika śrubowego | Pilnujesz stabilności drążonego tunelu | Układasz żelbetowe kręgi zdalnym sterowaniem",
+  "day": "6:00 Zmiana pod ziemią, sprawdzasz maszynę drążącą | 8:00 Korygujesz moment obrotowy koła tnącego | 11:00 Zdalnie układasz kolejny krąg tunelu | 14:00 Przekazujesz zmianę i opisujesz postęp",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 219
+ },
+ {
+  "name": "Otworowy pomocnik wiertacza",
+  "path": "Górnictwo i wydobycie > Operatorzy urządzeń wiertniczych i wydobywczych ropy, gazu i innych surowców",
+  "hook": "Na piętrze wydobywczym łączysz i rozłączasz rury płuczkowe, gdy trafiają do otworu albo są z niego wyjmowane. Montujesz rury i wiertła oraz naprawiasz sprzęt.",
+  "tasks": "Łączysz i rozłączasz rury płuczkowe | Montujesz i demontujesz wiertła | Pobierasz próbki z odwiertu | Naprawiasz sprzęt na piętrze wydobywczym",
+  "day": "6:00 Zmiana na piętrze wydobywczym, odbiór sprzętu | 8:00 Wyciągane rury trzeba rozłączyć | 11:00 Skręcasz nowe rury i wiertło | 14:00 Naprawiasz zużyty sprzęt i pobierasz próbki",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 220
+ },
+ {
+  "name": "Robotnik na platformie wiertniczej",
+  "path": "Górnictwo i wydobycie > Operatorzy urządzeń wiertniczych i wydobywczych ropy, gazu i innych surowców",
+  "hook": "Konserwujesz i naprawiasz sprzęt na polu naftowym, używając narzędzi ręcznych i elektronarzędzi. Do tego czyścisz, kopiesz rowy, skrobiesz i malujesz elementy platformy.",
+  "tasks": "Naprawiasz maszyny narzędziami ręcznymi | Czyścisz elementy platformy | Kopiesz rowy wokół urządzeń | Skrobiesz i malujesz konstrukcje",
+  "day": "6:00 Dostajesz od brygadzisty zadania na dzień | 8:00 Skrobiesz rdzę z elementu platformy | 11:00 Malujesz oczyszczoną konstrukcję pędzlem i wałkiem | 14:00 Kopiesz rów i sprzątasz narzędzia",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 222
+ },
+ {
+  "name": "Wiertacz studni",
+  "path": "Górnictwo i wydobycie > Operatorzy urządzeń wiertniczych i wydobywczych ropy, gazu i innych surowców",
+  "hook": "Obsługujesz maszyny wiertnicze, które wiercą odwierty do wydobycia rudy, cieczy i gazów. Zapisujesz przebieg prac, konserwujesz sprzęt i uszczelniasz odwierty, których już nie używasz.",
+  "tasks": "Obsługujesz maszynę wiertniczą | Rejestrujesz przebieg wiercenia | Uszczelniasz nieużywane odwierty | Zapobiegasz zanieczyszczeniu gruntu",
+  "day": "6:30 Przygotowujesz maszynę do wiercenia nowego odwiertu | 9:00 Maszyna wierci, a ty notujesz głębokość | 12:00 Konserwujesz sprzęt po kilku godzinach pracy | 15:00 Uszczelniasz stary odwiert, żeby grunt się nie zanieczyszczał",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 223
+ },
+ {
+  "name": "Odlewacz form betonowych",
+  "path": "Górnictwo i wydobycie > Maszyny do produkcji betonu i elementów kamiennych",
+  "hook": "Ręcznie odlewasz dekoracyjne i konstrukcyjne elementy z betonu, takie jak bloczki, płytki czy moduły kominków. Beton mieszasz w przenośnej betoniarce.",
+  "tasks": "Mieszasz beton w przenośnej betoniarce | Wlewasz masę do form | Wyjmujesz gotowe bloczki i płytki | Czyścisz formy po każdym odlewie",
+  "day": "7:00 Mieszasz pierwszą porcję betonu w betoniarce | 9:00 Wlewasz beton do form na płytki | 12:00 Rozformowujesz płytki odlane wczoraj | 15:00 Myjesz formy i betoniarkę",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 224
+ },
+ {
+  "name": "Operator maszyn do produkcji prefabrykatów betonowych",
+  "path": "Górnictwo i wydobycie > Maszyny do produkcji betonu i elementów kamiennych",
+  "hook": "Obsługujesz maszyny, które formują wyroby z betonu. Smarujesz formy, montujesz je, odrywasz gotowe elementy i pomagasz przy mieszaniu cementu.",
+  "tasks": "Smarujesz formy przed odlewem | Montujesz formy w maszynie | Odrywasz gotowe elementy od form | Pomagasz mieszać cement",
+  "day": "6:00 Smarujesz formy przed pierwszym odlewem | 8:00 Maszyna formuje elementy, ty ją dozorujesz | 11:00 Odrywasz gotowe elementy od form | 14:00 Pomagasz przy mieszaniu cementu do nowej partii",
+  "skills": [
+   [
+    "Siła i kondycja",
+    "N"
+   ],
+   [
+    "Obsługa ciężkich maszyn",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Odporność na trudne warunki",
+    "N"
+   ],
+   [
+    "Czujność",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Zgrana załoga",
+   "Konkretna praca",
+   "Jasne zasady"
+  ],
+  "minus": [
+   "Ciężkie i niebezpieczne warunki",
+   "Praca zmianowa pod ziemią lub w terenie",
+   "Hałas i pył"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: górnik eksploatacji podziemnej lub wiertacz",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum: technik górnictwa lub wiertnik",
+      5
+     ],
+     [
+      "praktyka",
+      "Praktyki zawodowe w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzaminy zawodowe i matura",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń górniczych i pokrewni",
+  "pay_median_2025": 12536.71,
+  "gen_id": 225
+ }
+]

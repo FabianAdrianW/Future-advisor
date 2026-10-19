@@ -1,0 +1,1667 @@
+[
+ {
+  "name": "Operator walcarki",
+  "path": "Obróbka metalu",
+  "hook": "Ustawiasz i pilnujesz maszyny, która przepuszcza metal przez pary walców i spłaszcza go do potrzebnej grubości. Zwracasz uwagę na temperaturę metalu, bo od niej zależy, jak się odkształca.",
+  "tasks": "Ustawiasz odstęp między walcami | Prowadzisz metal przez kolejne pary walców | Kontrolujesz temperaturę metalu w procesie | Mierzysz grubość i równość gotowego wyrobu",
+  "day": "6:00 Ustawiasz walce pod grubość z zamówienia | 8:30 Metal przechodzi przez walce, sprawdzasz temperaturę | 11:00 Mierzysz grubość elementu w kilku miejscach | 13:30 Korygujesz odstęp walców, bo grubość się waha",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do produkcji, przetwórstwa i obróbki wykończeniowej metalu",
+  "pay_median_2025": 6809.09,
+  "gen_id": 317
+ },
+ {
+  "name": "Operator wytłaczarki",
+  "path": "Obróbka metalu",
+  "hook": "Obsługujesz maszynę, która topi surowiec i przeciska go przez kształtującą matrycę, tworząc ciągły profil, na przykład rurę lub folię. Ustawiasz ją, pilnujesz jej pracy i czyścisz.",
+  "tasks": "Ustawiasz maszynę i matrycę pod dany profil | Kontrolujesz nagrzewanie i przepływ surowca | Sprawdzasz wymiar i wygląd wychodzącego profilu | Czyścisz i konserwujesz maszynę",
+  "day": "6:00 Uruchamiasz maszynę i czekasz na nagrzanie | 8:00 Profil wychodzi z matrycy, mierzysz go | 11:00 Przestawiasz maszynę na inny kształt profilu | 13:30 Czyścisz urządzenie po zakończeniu serii",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do produkcji, przetwórstwa i obróbki wykończeniowej metalu",
+  "pay_median_2025": 6809.09,
+  "gen_id": 318
+ },
+ {
+  "name": "Operator wyżarzarki",
+  "path": "Obróbka metalu",
+  "hook": "Obsługujesz piece, w których metal jest nagrzewany, a potem powoli studzony, żeby stał się miększy i łatwiejszy do cięcia i formowania. Cały czas sprawdzasz, czy metal nie ma wad.",
+  "tasks": "Układasz metalowe elementy w piecu | Ustawiasz temperaturę i czas nagrzewania | Pilnujesz powolnego schładzania metalu | Oglądasz metal, szukając pęknięć i innych wad",
+  "day": "6:00 Ładujesz piec partią elementów do zmiękczenia | 8:00 Ustawiasz temperaturę i czas według specyfikacji | 11:00 Kontrolujesz, czy piec trzyma zadaną temperaturę | 14:00 Wyjmujesz ostygnięte elementy i oglądasz je pod kątem wad",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do produkcji, przetwórstwa i obróbki wykończeniowej metalu",
+  "pay_median_2025": 6809.09,
+  "gen_id": 319
+ },
+ {
+  "name": "Urządzenia do obróbki powierzchniowej metali i nakładania powłok",
+  "path": "Obróbka metalu",
+  "hook": "Obsługujesz urządzenia, które czyszczą powierzchnię metalowych elementów i nakładają na nią powłokę, na przykład ochronną lub dekoracyjną. Pilnujesz, żeby powłoka była równa i dobrze trzymała się metalu.",
+  "tasks": "Przygotowujesz elementy do obróbki powierzchni | Zawieszasz lub układasz elementy w urządzeniu | Pilnujesz ustawień i czasu procesu | Sprawdzasz grubość i wygląd powłoki",
+  "day": "6:00 Układasz metalowe elementy na stojakach | 8:00 Uruchamiasz urządzenie i pilnujesz czasu procesu | 10:30 Oglądasz pierwsze sztuki w jasnym świetle | 13:00 Odrzucasz elementy z plamami lub nierówną powłoką",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do produkcji, przetwórstwa i obróbki wykończeniowej metalu",
+  "pay_median_2025": 6809.09,
+  "gen_id": 320
+ },
+ {
+  "name": "Pakowacz ręczny/pakowaczka ręczna",
+  "path": "Pakowacze i prace proste w przemyśle",
+  "hook": "Zbierasz towary, pakujesz je do pudełek lub worków i naklejasz etykiety. Pilnujesz, żeby w każdej paczce było dokładnie to, co jest w zamówieniu.",
+  "tasks": "Zbierasz towary według listy zamówienia | Układasz je w kartonach lub workach | Naklejasz etykiety na gotowe paczki | Porównujesz zawartość paczki z instrukcją",
+  "day": "6:00 Dostajesz listę zamówień na całą zmianę | 8:00 Zbierasz towary z regałów i pakujesz | 11:00 Naklejasz etykiety i odkładasz paczki na paletę | 13:30 Sprawdzasz losowo kilka paczek przed wysyłką",
+  "skills": [
+   [
+    "Sumienność",
+    "R"
+   ],
+   [
+    "Tempo pracy",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Słuchanie poleceń",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Uczysz się fachu od ekipy",
+   "Praca w ruchu"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Praca na stojąco"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie na stanowisku u pracodawcy",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Dalej w zawodzie",
+    "s": [
+     [
+      "praktyka",
+      "Praca pomocnika",
+      1
+     ],
+     [
+      "kurs",
+      "Kurs zawodowy lub egzamin czeladniczy",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy wykonujący prace proste w przemyśle",
+  "pay_median_2025": 5600.96,
+  "gen_id": 321
+ },
+ {
+  "name": "Pracownik do wykańczania odzieży",
+  "path": "Pakowacze i prace proste w przemyśle",
+  "hook": "Przygotowujesz uszytą odzież do wysyłki: zakładasz zapięcia, zamki i wstążki oraz obcinasz zwisające nitki. Na końcu ważysz, pakujesz i etykietujesz gotowe ubrania.",
+  "tasks": "Zakładasz zamki, nasadki i wstążki | Obcinasz zwisające nitki | Ważysz i liczysz gotowe ubrania | Pakujesz i etykietujesz produkty",
+  "day": "6:00 Dostajesz kartony z uszytymi bluzami do wykończenia | 8:30 Zakładasz zamki i obcinasz nitki, jedna po drugiej | 11:30 Ważysz partię i sprawdzasz zgodność z zamówieniem | 13:30 Składasz ubrania, pakujesz i naklejasz etykiety",
+  "skills": [
+   [
+    "Sumienność",
+    "R"
+   ],
+   [
+    "Tempo pracy",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Słuchanie poleceń",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Uczysz się fachu od ekipy",
+   "Praca w ruchu"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Praca na stojąco"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie na stanowisku u pracodawcy",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Dalej w zawodzie",
+    "s": [
+     [
+      "praktyka",
+      "Praca pomocnika",
+      1
+     ],
+     [
+      "kurs",
+      "Kurs zawodowy lub egzamin czeladniczy",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy wykonujący prace proste w przemyśle",
+  "pay_median_2025": 5600.96,
+  "gen_id": 323
+ },
+ {
+  "name": "Pracownik porządkowy w fabryce",
+  "path": "Pakowacze i prace proste w przemyśle",
+  "hook": "Pomagasz operatorom maszyn i montażystom: czyścisz maszyny i stanowiska pracy oraz uzupełniasz materiały. Dzięki temu produkcja nie staje z powodu bałaganu lub braku części.",
+  "tasks": "Czyścisz maszyny i powierzchnie robocze | Zamiatasz i zbierasz odpady z hali | Uzupełniasz zapasy materiałów przy stanowiskach | Donosisz części i materiały do stanowisk",
+  "day": "6:00 Zaczynasz od odkurzania i wycierania stanowisk | 8:30 Donosisz pudełka z częściami do montażu | 11:00 Operator prosi o uzupełnienie materiału przy maszynie | 13:00 Zbierasz odpady i opróżniasz kosze na hali",
+  "skills": [
+   [
+    "Sumienność",
+    "R"
+   ],
+   [
+    "Tempo pracy",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Słuchanie poleceń",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Uczysz się fachu od ekipy",
+   "Praca w ruchu"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Praca na stojąco"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie na stanowisku u pracodawcy",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Dalej w zawodzie",
+    "s": [
+     [
+      "praktyka",
+      "Praca pomocnika",
+      1
+     ],
+     [
+      "kurs",
+      "Kurs zawodowy lub egzamin czeladniczy",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy wykonujący prace proste w przemyśle",
+  "pay_median_2025": 5600.96,
+  "gen_id": 324
+ },
+ {
+  "name": "Operatorzy maszyn w przemyśle spożywczym",
+  "path": "Przemysł i produkcja",
+  "hook": "Obsługujesz maszyny w zakładzie, który produkuje żywność, na przykład takie, które mieszają, formują lub pakują produkty. Pilnujesz, żeby produkt wychodził zgodnie z recepturą i w czystych warunkach.",
+  "tasks": "Uruchamiasz linię produkcyjną i ustawiasz ją | Dozujesz składniki lub podajesz surowiec | Kontrolujesz wygląd, wagę i opakowanie produktu | Myjesz maszynę zgodnie z zasadami higieny",
+  "day": "6:00 Zakładasz fartuch, czepek i ruszasz z linią | 8:30 Sprawdzasz wagę i wygląd pierwszych produktów | 11:00 Przestawiasz maszynę na inny produkt | 13:30 Myjesz maszynę po zakończeniu zmiany",
+  "skills": [
+   [
+    "Obsługa maszyn",
+    "R"
+   ],
+   [
+    "Uważność",
+    "L"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start w zawodzie",
+   "Jasne zadania",
+   "Stała praca w zakładzie"
+  ],
+  "minus": [
+   "Praca zmianowa",
+   "Hałas i powtarzalne czynności",
+   "Wiele godzin przy maszynie"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: operator maszyn i urządzeń zgodnych z branżą",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Szkolenie stanowiskowe w zakładzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Operatorzy maszyn i urządzeń do produkcji wyrobów spożywczych i pokrewni",
+  "pay_median_2025": 6800,
+  "gen_id": 325
+ },
+ {
+  "name": "Makler morski",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Pośrednicy handlowi > Pośrednik handlowy",
+  "hook": "Pośredniczysz między tymi, którzy kupują i sprzedają statki lub wynajmują miejsce na ładunek. Negocjujesz cenę i warunki przewozu oraz informujesz klientów, co dzieje się na rynku frachtu.",
+  "tasks": "Szukasz kupców i sprzedawców statków | Negocjujesz cenę statku lub miejsca na ładunek | Informujesz klientów o cenach frachtu na rynku | Ustalasz, jak ładunek dotrze do odbiorcy",
+  "day": "8:00 Czytasz wiadomości o cenach frachtu i statkach | 10:00 Dzwonisz do armatora, który szuka ładunku | 13:00 Negocjujesz cenę przewozu partii towaru | 16:00 Wysyłasz klientowi ofertę z warunkami dostawy",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 326
+ },
+ {
+  "name": "Pośrednik handlowy",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Pośrednicy handlowi > Pośrednik handlowy",
+  "hook": "Łączysz kupujących ze sprzedającymi, na przykład surowców, zwierząt hodowlanych albo nieruchomości, i dostajesz prowizję od zawartej transakcji. Negocjujesz cenę i liczysz, ile kosztuje cała transakcja.",
+  "tasks": "Szukasz sprzedających i kupujących towaru | Badasz aktualne ceny na rynku | Negocjujesz cenę z obiema stronami | Przygotowujesz ofertę i liczysz koszty transakcji",
+  "day": "8:30 Sprawdzasz aktualne ceny towarów na rynku | 10:30 Dzwonisz do sprzedającego z nową ofertą | 13:00 Negocjujesz cenę z kupującym, liczysz swoją prowizję | 16:00 Wysyłasz obu stronom ofertę do podpisu",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 327
+ },
+ {
+  "name": "Armator wirtualny",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Pośrednicy handlowi",
+  "hook": "Nie masz własnych statków: kupujesz miejsce na statkach od dużego przewoźnika i odsprzedajesz je mniejszym nadawcom towaru. Wystawiasz dokumenty przewozowe i publikujesz cennik.",
+  "tasks": "Kupujesz miejsce na statku od przewoźnika | Odsprzedajesz je mniejszym nadawcom towaru | Wystawiasz konosamenty, czyli dokumenty przewozu | Publikujesz cennik przewozów morskich",
+  "day": "8:00 Sprawdzasz, ile miejsca zostało na rejsie | 10:00 Odpowiadasz małej firmie, która chce wysłać towar | 13:00 Wystawiasz konosament dla kolejnej przesyłki | 15:30 Aktualizujesz cennik przewozów na nowy miesiąc",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 329
+ },
+ {
+  "name": "Hurtownik",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Pośrednicy handlowi",
+  "hook": "Szukasz firm, które chcą kupić duże ilości towaru, i firm, które mogą go dostarczyć, a potem je łączysz. Zawierasz transakcje obejmujące duże partie.",
+  "tasks": "Szukasz hurtowych nabywców i dostawców | Sprawdzasz, czego potrzebuje każda strona | Kojarzysz kupującego z odpowiednim dostawcą | Ustalasz cenę i ilość w umowie",
+  "day": "8:00 Przeglądasz zapytania od sklepów i firm | 10:00 Dzwonisz do dostawcy z pytaniem o dużą partię | 13:00 Negocjujesz cenę za paletę towaru | 15:30 Podpisujesz umowę na regularne dostawy",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 330
+ },
+ {
+  "name": "Specjalista ds. planowania zakupów",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Zaopatrzeniowcy > Zaopatrzeniowiec",
+  "hook": "Pilnujesz, żeby towary z umów z dostawcami przychodziły regularnie i na czas, zanim zabraknie ich w firmie. Planujesz, ile i kiedy zamówić.",
+  "tasks": "Sprawdzasz stan magazynu i zużycie towarów | Planujesz terminy kolejnych zamówień | Przypominasz dostawcom o umówionych dostawach | Reagujesz, gdy dostawa się opóźnia",
+  "day": "8:00 Porównujesz stan magazynu z planem produkcji | 10:00 Wysyłasz zamówienie na kolejną partię materiałów | 12:30 Dostawca zawiadamia o opóźnieniu, szukasz rozwiązania | 15:00 Aktualizujesz harmonogram dostaw na następny miesiąc",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 332
+ },
+ {
+  "name": "Specjalista ds. zakupu tkanin",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Zaopatrzeniowcy > Zaopatrzeniowiec",
+  "hook": "Kupujesz dla producentów wyrobów włókienniczych materiały na różnych etapach, od włókien po gotowe tkaniny. Oceniasz, co spełnia potrzeby produkcji.",
+  "tasks": "Oceniasz próbki tkanin dotykiem i wzrokiem | Porównujesz oferty dostawców włókien i tkanin | Zamawiasz materiały dla producenta | Pilnujesz terminów i jakości dostaw",
+  "day": "8:30 Oglądasz nowe próbki tkanin od dostawców | 10:30 Porównujesz ceny dwóch dostawców bawełny | 13:00 Dzwonisz do fabryki w sprawie opóźnionej partii | 15:00 Składasz zamówienie na materiał do nowej kolekcji",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 333
+ },
+ {
+  "name": "Specjalista ds. zakupów technologii informacyjno-telekomunikacyjnych",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Zaopatrzeniowcy > Zaopatrzeniowiec",
+  "hook": "Kupujesz dla firmy sprzęt i usługi informatyczne oraz telekomunikacyjne, od zamówienia po fakturę. Negocjujesz z dostawcami cenę, jakość i warunki dostawy.",
+  "tasks": "Przygotowujesz zamówienia na sprzęt i usługi | Porównujesz oferty dostawców technologii | Negocjujesz cenę, jakość i termin dostawy | Sprawdzasz faktury i odbiór zamówionych rzeczy",
+  "day": "8:30 Zbierasz od zespołów listę potrzebnego sprzętu | 10:30 Porównujesz oferty dwóch dostawców usług | 13:00 Negocjujesz z dostawcą cenę i poziom usług | 15:30 Zestawiasz fakturę z zamówieniem i odbiorem",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 334
+ },
+ {
+  "name": "Specjalista ds. zakupów zielonej kawy",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Zaopatrzeniowcy > Zaopatrzeniowiec",
+  "hook": "Kupujesz surowe ziarna kawy od producentów z całego świata dla palarni. Znasz drogę kawy od owocu do filiżanki i na tej podstawie wybierasz partie warte kupienia.",
+  "tasks": "Szukasz producentów kawy na świecie | Oceniasz próbki ziaren i ich jakość | Negocjujesz cenę i wielkość partii | Uzgadniasz z palarnią, jakiej kawy potrzebuje",
+  "day": "8:00 Rozpakowujesz próbki ziaren przysłane z zagranicy | 10:00 Oglądasz ziarna i oceniasz ich jakość | 13:00 Rozmawiasz z producentem o cenie partii | 16:00 Wysyłasz palarni zestawienie wybranych kaw",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 335
+ },
+ {
+  "name": "Zaopatrzeniowiec",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Zaopatrzeniowcy > Zaopatrzeniowiec",
+  "hook": "Wybierasz i kupujesz dla firmy materiały, towary lub usługi, a dostawców dobierasz w przetargach. Porównujesz oferty i sprawdzasz, kto da lepszą cenę i warunki.",
+  "tasks": "Zbierasz zapotrzebowania od działów firmy | Ogłaszasz przetarg i zbierasz oferty | Porównujesz oferty dostawców | Wybierasz dostawcę i składasz zamówienie",
+  "day": "8:00 Dostajesz listę potrzeb od magazynu | 10:00 Wysyłasz zapytanie ofertowe do kilku dostawców | 13:00 Porównujesz przysłane oferty w tabeli | 15:00 Wybierasz dostawcę i składasz zamówienie",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 336
+ },
+ {
+  "name": "Agent ds. zakupów - kostiumy",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Zaopatrzeniowcy",
+  "hook": "Kupujesz i wypożyczasz tkaniny, nici, dodatki i gotowe ubrania do kostiumów, według szkiców kostiumografa. Dzięki tobie kostiumy mogą zostać uszyte lub skompletowane na czas.",
+  "tasks": "Czytasz szkice kostiumografa i listy potrzeb | Szukasz tkanin, nici i dodatków | Kupujesz lub wypożyczasz gotowe ubrania | Pilnujesz budżetu i terminów zakupów",
+  "day": "9:00 Omawiasz z kostiumografem szkice nowych kostiumów | 11:00 Szukasz w sklepie tkaniny o właściwym kolorze | 14:00 Wypożyczasz gotowe płaszcze z wypożyczalni | 17:00 Zapisujesz wydatki i układasz paragony",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 337
+ },
+ {
+  "name": "Specjalista ds. zakupów - scenografia i rekwizyty",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Zaopatrzeniowcy",
+  "hook": "Czytasz scenariusz i ustalasz, jakie rekwizyty i dekoracje są potrzebne w każdej scenie, a potem je kupujesz, wypożyczasz lub zlecasz wykonanie. Pilnujesz, żeby wyglądały wiarygodnie w danej epoce i miejscu.",
+  "tasks": "Analizujesz scenariusz scena po scenie | Konsultujesz się ze scenografem i ekipą rekwizytorów | Kupujesz, wypożyczasz lub zlecasz wykonanie rekwizytów | Sprawdzasz, czy przedmioty pasują do epoki",
+  "day": "9:00 Czytasz scenę i zaznaczasz potrzebne przedmioty | 11:00 Omawiasz ze scenografem wygląd kuchni z lat siedemdziesiątych | 14:00 Szukasz w antykwariacie krzesła pasującego do epoki | 16:30 Zamawiasz u stolarza rekwizyt, którego nie da się kupić",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 338
+ },
+ {
+  "name": "Specjalista ds. zakupów drewna",
+  "path": "Agenci, handlowcy i zaopatrzeniowcy > Zaopatrzeniowcy",
+  "hook": "Oceniasz jakość, ilość i wartość drewna oraz wyrobów z drewna, a potem kupujesz je dla firmy lub organizujesz jego sprzedaż. Wiesz, jak rozpoznać dobre drewno i ile jest warte na rynku.",
+  "tasks": "Oceniasz jakość i ilość drewna | Sprawdzasz aktualne ceny drewna na rynku | Negocjujesz cenę zakupu z dostawcami drewna | Zamawiasz drewno i organizujesz jego odbiór",
+  "day": "7:30 Jedziesz na skład obejrzeć partię desek | 9:30 Oceniasz słoje, sęki i pęknięcia w deskach | 12:30 Negocjujesz cenę zakupu z dostawcą | 15:00 Zamawiasz transport zakupionej partii do firmy",
+  "skills": [
+   [
+    "Rozmowa i przekonywanie",
+    "P"
+   ],
+   [
+    "Negocjacje",
+    "P"
+   ],
+   [
+    "Znajomość produktu",
+    "L"
+   ],
+   [
+    "Odporność na odmowę",
+    "P"
+   ],
+   [
+    "Organizacja własnej pracy",
+    "L"
+   ],
+   [
+    "Liczenie marży",
+    "L"
+   ]
+  ],
+  "plus": [
+   "Dużo kontaktu z ludźmi",
+   "Wyniki zależą od Ciebie",
+   "Często samodzielna organizacja dnia"
+  ],
+  "minus": [
+   "Presja wyników",
+   "Dużo podróży i telefonów",
+   "Częste odmowy"
+  ],
+  "routes": [
+   {
+    "n": "Od sprzedaży",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "praktyka",
+      "Praca w sprzedaży lub obsłudze klienta",
+      1
+     ],
+     [
+      "kurs",
+      "Szkolenia z produktu i technik sprzedaży",
+      0
+     ]
+    ]
+   },
+   {
+    "n": "Przez studia",
+    "s": [
+     [
+      "szkola",
+      "Liceum",
+      4
+     ],
+     [
+      "studia",
+      "Studia: handel, zarządzanie lub ekonomia",
+      3
+     ],
+     [
+      "praktyka",
+      "Staż lub praktyki w zawodzie",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Agenci i pośrednicy handlowi",
+  "pay_median_2025": 8100,
+  "gen_id": 339
+ }
+]

@@ -1,0 +1,1602 @@
+[
+ {
+  "name": "Pracownik magazynu",
+  "path": "Ładowacze i pomocnicy transportu > Ładowacze > Pracownik magazynu",
+  "hook": "Przyjmujesz towary, etykietujesz je, sprawdzasz ich stan i układasz na regałach. Pakujesz zamówienia i opisujesz uszkodzenia.",
+  "tasks": "Przyjmujesz towary i sprawdzasz ich jakość | Etykietujesz i odkładasz produkty na regały | Opisujesz uszkodzone sztuki w dokumentach | Pakujesz i wysyłasz zamówienia",
+  "day": "6:00 Rozpakowujesz paczki z dostawy i liczysz sztuki | 8:30 Naklejasz etykiety i odkładasz towar na regały | 11:00 Znajdujesz stłuczony produkt i spisujesz uszkodzenie | 13:30 Pakujesz zamówienia dla kuriera",
+  "skills": [
+   [
+    "Sumienność",
+    "R"
+   ],
+   [
+    "Tempo pracy",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Słuchanie poleceń",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Uczysz się fachu od ekipy",
+   "Praca w ruchu"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Praca na stojąco"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie na stanowisku u pracodawcy",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Dalej w zawodzie",
+    "s": [
+     [
+      "praktyka",
+      "Praca pomocnika",
+      1
+     ],
+     [
+      "kurs",
+      "Kurs zawodowy lub egzamin czeladniczy",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy wykonujący prace proste w transporcie i proste prace magazynowe",
+  "pay_median_2025": 6000,
+  "gen_id": 513
+ },
+ {
+  "name": "Pracownik magazynu kompletujący zamówienia",
+  "path": "Ładowacze i pomocnicy transportu > Ładowacze > Pracownik magazynu",
+  "hook": "Chodzisz po magazynie z listą zamówień i zbierasz z regałów wskazane produkty w dobrej ilości i jakości. Potem odkładasz je na platformę wysyłki albo do strefy odbioru klientów.",
+  "tasks": "Zbierasz towary z regałów według zamówienia | Sprawdzasz ilość, rodzaj i jakość | Przenosisz zamówienia na platformę dostaw | Przygotowujesz towar do wysyłki",
+  "day": "6:00 Odbierasz listę zamówień na pierwszą rundę | 7:30 Szybko zbierasz produkty z wielu regałów | 10:00 Odkładasz skompletowane zamówienie na platformę wysyłki | 13:00 Brakuje jednej pozycji, zgłaszasz to przełożonemu",
+  "skills": [
+   [
+    "Sumienność",
+    "R"
+   ],
+   [
+    "Tempo pracy",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Słuchanie poleceń",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Uczysz się fachu od ekipy",
+   "Praca w ruchu"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Praca na stojąco"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie na stanowisku u pracodawcy",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Dalej w zawodzie",
+    "s": [
+     [
+      "praktyka",
+      "Praca pomocnika",
+      1
+     ],
+     [
+      "kurs",
+      "Kurs zawodowy lub egzamin czeladniczy",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy wykonujący prace proste w transporcie i proste prace magazynowe",
+  "pay_median_2025": 6000,
+  "gen_id": 514
+ },
+ {
+  "name": "Brygadzista portowej ekipy przeładunkowej",
+  "path": "Ładowacze i pomocnicy transportu > Ładowacze",
+  "hook": "Kierujesz ekipą, która ładuje i rozładowuje statki przy nabrzeżu, i pilnujesz, żeby praca szła szybko i bezpiecznie. Gdy dochodzi do wypadku, wyjaśniasz, co się stało, i piszesz sprawozdanie.",
+  "tasks": "Nadzorujesz załadunek i rozładunek statków | Monitorujesz bezpieczeństwo na obszarze roboczym | Rozdzielasz zadania w ekipie przeładunkowej | Opisujesz wypadki w sprawozdaniach",
+  "day": "6:00 Rozdzielasz ludzi do pracy przy statku | 8:00 Pilnujesz, żeby nikt nie stał pod ładunkiem | 12:00 Zmieniasz kolejność rozładunku, żeby nadrobić czas | 15:00 Po incydencie rozmawiasz ze świadkami, piszesz sprawozdanie",
+  "skills": [
+   [
+    "Sumienność",
+    "R"
+   ],
+   [
+    "Tempo pracy",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Słuchanie poleceń",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Uczysz się fachu od ekipy",
+   "Praca w ruchu"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Praca na stojąco"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie na stanowisku u pracodawcy",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Dalej w zawodzie",
+    "s": [
+     [
+      "praktyka",
+      "Praca pomocnika",
+      1
+     ],
+     [
+      "kurs",
+      "Kurs zawodowy lub egzamin czeladniczy",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy wykonujący prace proste w transporcie i proste prace magazynowe",
+  "pay_median_2025": 6000,
+  "gen_id": 515
+ },
+ {
+  "name": "Operator sprzętu intermodalnego transportu kolejowego",
+  "path": "Ładowacze i pomocnicy transportu > Ładowacze",
+  "hook": "Przeładowujesz kontenery i naczepy między wagonami a samochodami na placu kolejowym. Manewrujesz ciągnikiem z naczepą w ciasnych miejscach i dostajesz polecenia z komputera pokładowego.",
+  "tasks": "Ładujesz kontenery i naczepy na wagony | Zdejmujesz kontenery z wagonów i podwozi | Manewrujesz ciągnikiem z naczepą w ciasnych miejscach | Komunikujesz się z systemem placu przez komputer",
+  "day": "6:00 Odbierasz plan placu i identyfikujesz wagony | 8:00 Zdejmujesz naczepę z wagonu i parkujesz ją | 11:00 Ciasny narożnik, manewrujesz centymetr po centymetrze | 14:00 Ładujesz kontenery na wagon według listy",
+  "skills": [
+   [
+    "Sumienność",
+    "R"
+   ],
+   [
+    "Tempo pracy",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Słuchanie poleceń",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Uczysz się fachu od ekipy",
+   "Praca w ruchu"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Praca na stojąco"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie na stanowisku u pracodawcy",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Dalej w zawodzie",
+    "s": [
+     [
+      "praktyka",
+      "Praca pomocnika",
+      1
+     ],
+     [
+      "kurs",
+      "Kurs zawodowy lub egzamin czeladniczy",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy wykonujący prace proste w transporcie i proste prace magazynowe",
+  "pay_median_2025": 6000,
+  "gen_id": 517
+ },
+ {
+  "name": "Pracownik przeprowadzkowy",
+  "path": "Ładowacze i pomocnicy transportu > Ładowacze",
+  "hook": "Przenosisz cudze meble i rzeczy z jednego mieszkania lub biura do drugiego. Demontujesz, pakujesz, zabezpieczasz i montujesz je na miejscu.",
+  "tasks": "Demontujesz meble i urządzenia | Pakujesz i zabezpieczasz rzeczy do transportu | Układasz ładunek w samochodzie | Montujesz meble w nowym miejscu",
+  "day": "7:30 Pakujesz kuchnię w kartony i folię | 9:00 Rozkręcasz szafę i znosisz części do auta | 11:30 Układasz ładunek tak, by nic się nie przesuwało | 14:00 Wnosisz i skręcasz meble w nowym mieszkaniu",
+  "skills": [
+   [
+    "Sumienność",
+    "R"
+   ],
+   [
+    "Tempo pracy",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Słuchanie poleceń",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Uczysz się fachu od ekipy",
+   "Praca w ruchu"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Praca na stojąco"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie na stanowisku u pracodawcy",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Dalej w zawodzie",
+    "s": [
+     [
+      "praktyka",
+      "Praca pomocnika",
+      1
+     ],
+     [
+      "kurs",
+      "Kurs zawodowy lub egzamin czeladniczy",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy wykonujący prace proste w transporcie i proste prace magazynowe",
+  "pay_median_2025": 6000,
+  "gen_id": 518
+ },
+ {
+  "name": "Pracownik sortowni bagażu",
+  "path": "Ładowacze i pomocnicy transportu > Ładowacze",
+  "hook": "Przyjmujesz walizki pasażerów w terminalu lotniska, a po locie zwracasz je właścicielom. Ustawiasz bagaże na wózkach lub przenośnikach i dołączasz zlecenie kontroli bagażu.",
+  "tasks": "Przyjmujesz bagaż pasażerów w terminalu | Dołączasz zlecenie kontroli bagażu | Ustawiasz walizki na wózkach lub przenośnikach | Zwracasz bagaż po otrzymaniu wniosku",
+  "day": "5:30 Przejmujesz zmianę i patrzysz na plan lotów | 7:00 Ustawiasz walizki na wózku przed odlotem | 11:00 Pasażer zgłasza brak bagażu, sprawdzasz, gdzie jest | 15:00 Oddajesz bagaż po kontroli",
+  "skills": [
+   [
+    "Sumienność",
+    "R"
+   ],
+   [
+    "Tempo pracy",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Słuchanie poleceń",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Uczysz się fachu od ekipy",
+   "Praca w ruchu"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Praca na stojąco"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie na stanowisku u pracodawcy",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Dalej w zawodzie",
+    "s": [
+     [
+      "praktyka",
+      "Praca pomocnika",
+      1
+     ],
+     [
+      "kurs",
+      "Kurs zawodowy lub egzamin czeladniczy",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy wykonujący prace proste w transporcie i proste prace magazynowe",
+  "pay_median_2025": 6000,
+  "gen_id": 519
+ },
+ {
+  "name": "Robotnik magazynowy",
+  "path": "Ładowacze i pomocnicy transportu > Ładowacze",
+  "hook": "Przenosisz, ładujesz i rozładowujesz materiały w magazynie lub przechowalni. Pracujesz według zleceń, przekazujesz dokumenty i dbasz o bezpieczne pozbywanie się odpadów.",
+  "tasks": "Ładujesz i rozładowujesz wyroby w magazynie | Przemieszczasz materiały według zleceń | Przekazujesz dalej dokumenty do danej partii towaru | Zapewniasz bezpieczną utylizację odpadów",
+  "day": "6:00 Dostajesz zlecenie: przenieść palety do przechowalni | 8:00 Rozładowujesz ciężarówkę, odkładasz towar na miejsce | 11:00 Segregujesz puste kartony i folię do odpadów | 13:30 Aktualizujesz zapasy i przekazujesz dokumenty",
+  "skills": [
+   [
+    "Sumienność",
+    "R"
+   ],
+   [
+    "Tempo pracy",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Słuchanie poleceń",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Uczysz się fachu od ekipy",
+   "Praca w ruchu"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Praca na stojąco"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie na stanowisku u pracodawcy",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Dalej w zawodzie",
+    "s": [
+     [
+      "praktyka",
+      "Praca pomocnika",
+      1
+     ],
+     [
+      "kurs",
+      "Kurs zawodowy lub egzamin czeladniczy",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy wykonujący prace proste w transporcie i proste prace magazynowe",
+  "pay_median_2025": 6000,
+  "gen_id": 520
+ },
+ {
+  "name": "Pracownik rozkładający towar na półkach",
+  "path": "Ładowacze i pomocnicy transportu",
+  "hook": "Uzupełniasz półki w sklepie, wysuwasz do przodu starsze produkty, a przeterminowane usuwasz. Po zamknięciu sprzątasz, żeby rano półki były pełne, i podpowiadasz klientom, gdzie co leży.",
+  "tasks": "Uzupełniasz półki i rotujesz towar | Usuwasz przeterminowane produkty | Sprzątasz sklep po godzinach pracy | Wskazujesz klientom lokalizację produktów",
+  "day": "5:30 Zawozisz wózkiem skrzynie z towarem do alejek | 7:00 Sprawdzasz daty ważności i wyjmujesz stare jogurty | 11:00 Klient pyta, gdzie jest mąka | 21:00 Sklep zamknięty, uzupełniasz półki na jutro",
+  "skills": [
+   [
+    "Sumienność",
+    "R"
+   ],
+   [
+    "Tempo pracy",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Słuchanie poleceń",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Szybki start bez długiej nauki",
+   "Uczysz się fachu od ekipy",
+   "Praca w ruchu"
+  ],
+  "minus": [
+   "Powtarzalne czynności",
+   "Praca zmianowa",
+   "Praca na stojąco"
+  ],
+  "routes": [
+   {
+    "n": "Od razu do pracy",
+    "s": [
+     [
+      "praktyka",
+      "Przyuczenie na stanowisku u pracodawcy",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Dalej w zawodzie",
+    "s": [
+     [
+      "praktyka",
+      "Praca pomocnika",
+      1
+     ],
+     [
+      "kurs",
+      "Kurs zawodowy lub egzamin czeladniczy",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Robotnicy wykonujący prace proste w transporcie i proste prace magazynowe",
+  "pay_median_2025": 6000,
+  "gen_id": 523
+ },
+ {
+  "name": "Kierowca - operator tankowania statków powietrznych",
+  "path": "Kierowcy ciężarówek i autobusów > Kierowcy samochodów ciężarowych",
+  "hook": "Jeździsz cysterną po lotnisku i tankujesz samoloty przed odlotem. Konserwujesz też systemy dystrybucji paliwa.",
+  "tasks": "Prowadzisz cysternę po terenie lotniska | Tankujesz samoloty przed odlotem | Konserwujesz systemy dystrybucji paliwa | Sprawdzasz ilość paliwa zgodnie ze zleceniem",
+  "day": "5:00 Przegląd cysterny i odbiór zlecenia na tankowanie | 6:30 Podjeżdżasz pod samolot i podłączasz układ tankowania | 9:00 Kończysz tankowanie i podpisujesz kartę z ilością | 13:00 Przegląd systemu dystrybucji paliwa na lotnisku",
+  "skills": [
+   [
+    "Bezpieczna jazda dużym pojazdem",
+    "R"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Samodzielność",
+    "L"
+   ],
+   [
+    "Podstawy mechaniki",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Podróże",
+   "Zawód stale potrzebny"
+  ],
+  "minus": [
+   "Długie godziny za kierownicą",
+   "Noce poza domem",
+   "Odpowiedzialność za ładunek lub pasażerów"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy i kwalifikacja",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs i egzamin na kategorię C lub D",
+      0.5
+     ],
+     [
+      "kurs",
+      "Kwalifikacja wstępna kierowcy zawodowego",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: kierowca mechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy ciężarówek i autobusów",
+  "pay_median_2025": 7315.9,
+  "gen_id": 525
+ },
+ {
+  "name": "Kierowca betoniarki",
+  "path": "Kierowcy ciężarówek i autobusów > Kierowcy samochodów ciężarowych",
+  "hook": "Wozisz beton z wytwórni na plac budowy i obsługujesz pompę, która go rozprowadza. Po pracy czyścisz i konserwujesz ciężarówkę.",
+  "tasks": "Wozisz świeży beton na budowę | Obsługujesz pompę rozprowadzającą beton | Czyścisz ciężarówkę po każdym rozładunku | Konserwujesz mechaniczne części pojazdu",
+  "day": "5:30 Beton ładuje się do ciężarówki w wytwórni | 6:30 Dojeżdżasz na budowę, ekipa czeka z szalunkami | 8:00 Ustawiasz pompę i rozprowadzasz beton | 10:00 Myjesz ciężarówkę, zanim beton stwardnieje",
+  "skills": [
+   [
+    "Bezpieczna jazda dużym pojazdem",
+    "R"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Samodzielność",
+    "L"
+   ],
+   [
+    "Podstawy mechaniki",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Podróże",
+   "Zawód stale potrzebny"
+  ],
+  "minus": [
+   "Długie godziny za kierownicą",
+   "Noce poza domem",
+   "Odpowiedzialność za ładunek lub pasażerów"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy i kwalifikacja",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs i egzamin na kategorię C lub D",
+      0.5
+     ],
+     [
+      "kurs",
+      "Kwalifikacja wstępna kierowcy zawodowego",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: kierowca mechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy ciężarówek i autobusów",
+  "pay_median_2025": 7315.9,
+  "gen_id": 527
+ },
+ {
+  "name": "Kierowca przewożący towary niebezpieczne",
+  "path": "Kierowcy ciężarówek i autobusów > Kierowcy samochodów ciężarowych",
+  "hook": "Wozisz paliwa, płyny luzem i substancje chemiczne ciężarówką po drogach. Pracujesz tak, żeby niebezpieczny ładunek dojechał bez wycieku.",
+  "tasks": "Przewozisz paliwa i ciecze luzem | Transportujesz substancje chemiczne drogą | Sprawdzasz dokumenty ładunku niebezpiecznego | Kontrolujesz zabezpieczenie cysterny przed jazdą",
+  "day": "5:00 Kontrolujesz cysternę i dokumenty ładunku | 6:30 Nadzorujesz napełnienie cysterny w bazie | 9:00 Jedziesz trasą wyznaczoną dla niebezpiecznych ładunków | 14:00 Rozładunek u odbiorcy, sprawdzasz szczelność",
+  "skills": [
+   [
+    "Bezpieczna jazda dużym pojazdem",
+    "R"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Samodzielność",
+    "L"
+   ],
+   [
+    "Podstawy mechaniki",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Podróże",
+   "Zawód stale potrzebny"
+  ],
+  "minus": [
+   "Długie godziny za kierownicą",
+   "Noce poza domem",
+   "Odpowiedzialność za ładunek lub pasażerów"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy i kwalifikacja",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs i egzamin na kategorię C lub D",
+      0.5
+     ],
+     [
+      "kurs",
+      "Kwalifikacja wstępna kierowcy zawodowego",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: kierowca mechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy ciężarówek i autobusów",
+  "pay_median_2025": 7315.9,
+  "gen_id": 528
+ },
+ {
+  "name": "Kierowca samochodu ciężarowego",
+  "path": "Kierowcy ciężarówek i autobusów > Kierowcy samochodów ciężarowych",
+  "hook": "Prowadzisz ciężarówkę lub samochód dostawczy z towarem do klienta, a czasem też ładujesz i rozładowujesz. Dużo czasu spędzasz w kabinie.",
+  "tasks": "Prowadzisz ciężarówkę lub samochód dostawczy | Układasz trasę i pilnujesz godzin dostaw | Ładujesz i rozładowujesz towary | Sprawdzasz stan pojazdu przed wyjazdem",
+  "day": "5:00 Obchodzisz pojazd, sprawdzasz opony i światła | 6:00 Ładujesz towar i zapinasz go pasami | 10:00 Postój po kilku godzinach jazdy | 14:00 Rozładunek u klienta i podpis na dokumencie",
+  "skills": [
+   [
+    "Bezpieczna jazda dużym pojazdem",
+    "R"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Samodzielność",
+    "L"
+   ],
+   [
+    "Podstawy mechaniki",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Podróże",
+   "Zawód stale potrzebny"
+  ],
+  "minus": [
+   "Długie godziny za kierownicą",
+   "Noce poza domem",
+   "Odpowiedzialność za ładunek lub pasażerów"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy i kwalifikacja",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs i egzamin na kategorię C lub D",
+      0.5
+     ],
+     [
+      "kurs",
+      "Kwalifikacja wstępna kierowcy zawodowego",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: kierowca mechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy ciężarówek i autobusów",
+  "pay_median_2025": 7315.9,
+  "gen_id": 529
+ },
+ {
+  "name": "Kierowca wozu strażackiego",
+  "path": "Kierowcy ciężarówek i autobusów > Kierowcy samochodów ciężarowych",
+  "hook": "Prowadzisz wóz strażacki w drodze do zdarzenia i pomagasz przy gaszeniu. Pilnujesz, żeby cały sprzęt w wozie był na miejscu, sprawny i gotowy do użycia.",
+  "tasks": "Prowadzisz wóz strażacki podczas wyjazdu alarmowego | Wspierasz akcję gaśniczą na miejscu | Układasz i zabezpieczasz sprzęt w wozie | Sprawdzasz, czy sprzęt jest gotowy do użycia",
+  "day": "6:00 Zaczynasz zmianę od przeglądu wozu i sprzętu | 10:00 Alarm, w kilka minut jedziesz na miejsce | 10:30 Ustawiasz wóz i obsługujesz pompę przy gaszeniu | 13:00 Po akcji uzupełniasz i układasz sprzęt na nowo",
+  "skills": [
+   [
+    "Bezpieczna jazda dużym pojazdem",
+    "R"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Samodzielność",
+    "L"
+   ],
+   [
+    "Podstawy mechaniki",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Podróże",
+   "Zawód stale potrzebny"
+  ],
+  "minus": [
+   "Długie godziny za kierownicą",
+   "Noce poza domem",
+   "Odpowiedzialność za ładunek lub pasażerów"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy i kwalifikacja",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs i egzamin na kategorię C lub D",
+      0.5
+     ],
+     [
+      "kurs",
+      "Kwalifikacja wstępna kierowcy zawodowego",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: kierowca mechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy ciężarówek i autobusów",
+  "pay_median_2025": 7315.9,
+  "gen_id": 530
+ },
+ {
+  "name": "Kierowca-ładowacz",
+  "path": "Kierowcy ciężarówek i autobusów > Kierowcy samochodów ciężarowych",
+  "hook": "Jeździsz śmieciarką po osiedlach, odbierasz odpady z domów i obiektów i wozisz je do zakładu utylizacji. Pracę zaczynasz wcześnie rano.",
+  "tasks": "Prowadzisz śmieciarkę po trasie odbioru odpadów | Opróżniasz pojemniki do pojazdu | Wozisz odpady do zakładu utylizacji | Zgłaszasz źle wystawione lub uszkodzone pojemniki",
+  "day": "5:30 Odbierasz pojazd z bazy i sprawdzasz go | 6:00 Ruszasz na trasę, pojemnik po pojemniku | 10:00 Pełna śmieciarka jedzie do zakładu utylizacji | 12:30 Wracasz na trasę, potem myjesz pojazd",
+  "skills": [
+   [
+    "Bezpieczna jazda dużym pojazdem",
+    "R"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Samodzielność",
+    "L"
+   ],
+   [
+    "Podstawy mechaniki",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Podróże",
+   "Zawód stale potrzebny"
+  ],
+  "minus": [
+   "Długie godziny za kierownicą",
+   "Noce poza domem",
+   "Odpowiedzialność za ładunek lub pasażerów"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy i kwalifikacja",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs i egzamin na kategorię C lub D",
+      0.5
+     ],
+     [
+      "kurs",
+      "Kwalifikacja wstępna kierowcy zawodowego",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: kierowca mechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy ciężarówek i autobusów",
+  "pay_median_2025": 7315.9,
+  "gen_id": 531
+ },
+ {
+  "name": "Pracownik ds. transportu żywych zwierząt",
+  "path": "Kierowcy ciężarówek i autobusów > Kierowcy samochodów ciężarowych",
+  "hook": "Przewozisz żywe zwierzęta i pilnujesz ich zdrowia oraz dobrostanu od załadunku po rozładunek. Planujesz podróż zgodnie z przepisami krajowymi i międzynarodowymi.",
+  "tasks": "Planujesz podróż i przygotowujesz transport | Ładujesz i rozładowujesz zwierzęta | Obserwujesz zdrowie i zachowanie zwierząt w drodze | Stosujesz przepisy krajowe i międzynarodowe",
+  "day": "5:00 Sprawdzasz pojazd, wodę i dokumenty dla zwierząt | 6:30 Ładujesz zwierzęta spokojnie, bez pośpiechu | 10:00 Na postoju oglądasz, czy zwierzęta są spokojne | 16:00 Rozładunek na miejscu i kontrola stanu zwierząt",
+  "skills": [
+   [
+    "Bezpieczna jazda dużym pojazdem",
+    "R"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Samodzielność",
+    "L"
+   ],
+   [
+    "Podstawy mechaniki",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Podróże",
+   "Zawód stale potrzebny"
+  ],
+  "minus": [
+   "Długie godziny za kierownicą",
+   "Noce poza domem",
+   "Odpowiedzialność za ładunek lub pasażerów"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy i kwalifikacja",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs i egzamin na kategorię C lub D",
+      0.5
+     ],
+     [
+      "kurs",
+      "Kwalifikacja wstępna kierowcy zawodowego",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: kierowca mechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy ciężarówek i autobusów",
+  "pay_median_2025": 7315.9,
+  "gen_id": 532
+ },
+ {
+  "name": "Kierowca autobusu",
+  "path": "Kierowcy ciężarówek i autobusów > Kierowcy autobusów i motorniczowie tramwajów > Kierowca autobusu",
+  "hook": "Prowadzisz autobus miejski lub autokar według rozkładu i pomagasz pasażerom. Odpowiadasz za ludzi na pokładzie i w razie potrzeby pobierasz opłaty za przejazd.",
+  "tasks": "Jeździsz autobusem według rozkładu | Pobierasz opłaty za przejazd | Odpowiadasz na pytania pasażerów | Pilnujesz bezpieczeństwa pasażerów w pojeździe",
+  "day": "4:45 Odbierasz autobus z zajezdni i sprawdzasz go | 5:30 Pierwszy kurs, pasażerowie jadą do pracy | 11:00 Pasażer pyta, na którym przystanku wysiąść | 14:00 Kończysz zmianę i zostawiasz autobus w zajezdni",
+  "skills": [
+   [
+    "Bezpieczna jazda dużym pojazdem",
+    "R"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Samodzielność",
+    "L"
+   ],
+   [
+    "Podstawy mechaniki",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Podróże",
+   "Zawód stale potrzebny"
+  ],
+  "minus": [
+   "Długie godziny za kierownicą",
+   "Noce poza domem",
+   "Odpowiedzialność za ładunek lub pasażerów"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy i kwalifikacja",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs i egzamin na kategorię C lub D",
+      0.5
+     ],
+     [
+      "kurs",
+      "Kwalifikacja wstępna kierowcy zawodowego",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: kierowca mechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy ciężarówek i autobusów",
+  "pay_median_2025": 7315.9,
+  "gen_id": 533
+ },
+ {
+  "name": "Kierowca trolejbusu",
+  "path": "Kierowcy ciężarówek i autobusów > Kierowcy autobusów i motorniczowie tramwajów > Kierowca autobusu",
+  "hook": "Prowadzisz trolejbus zasilany z sieci nad ulicą i dowozisz pasażerów na przystanki. Pobierasz opłaty i odpowiadasz za ludzi w pojeździe.",
+  "tasks": "Prowadzisz trolejbus po trasie pod siecią | Zatrzymujesz się na przystankach według rozkładu | Pobierasz opłaty za przejazd | Opiekujesz się pasażerami podczas jazdy",
+  "day": "5:00 Wyjazd z zajezdni, sprawdzasz trolejbus przed trasą | 6:30 Poranny szczyt, pełne przystanki i pasażerowie z biletami | 11:00 Krótki postój na pętli, pijesz herbatę | 14:30 Przekazujesz pojazd kierowcy z kolejnej zmiany",
+  "skills": [
+   [
+    "Bezpieczna jazda dużym pojazdem",
+    "R"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Samodzielność",
+    "L"
+   ],
+   [
+    "Podstawy mechaniki",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Podróże",
+   "Zawód stale potrzebny"
+  ],
+  "minus": [
+   "Długie godziny za kierownicą",
+   "Noce poza domem",
+   "Odpowiedzialność za ładunek lub pasażerów"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy i kwalifikacja",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs i egzamin na kategorię C lub D",
+      0.5
+     ],
+     [
+      "kurs",
+      "Kwalifikacja wstępna kierowcy zawodowego",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: kierowca mechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy ciężarówek i autobusów",
+  "pay_median_2025": 7315.9,
+  "gen_id": 534
+ },
+ {
+  "name": "Kierujący tramwajem",
+  "path": "Kierowcy ciężarówek i autobusów > Kierowcy autobusów i motorniczowie tramwajów",
+  "hook": "Prowadzisz tramwaj po szynach według rozkładu, pobierasz opłaty i opiekujesz się pasażerami. Jeździsz stałą trasą i musisz uważać na ruch wokół torowiska.",
+  "tasks": "Prowadzisz tramwaj po szynach | Zatrzymujesz skład na przystankach według rozkładu | Pobierasz opłaty od pasażerów | Obserwujesz ruch wokół torowiska",
+  "day": "4:30 Obejmujesz tramwaj w zajezdni i sprawdzasz hamulce | 6:00 Kurs przez miasto, zatrzymujesz się na każdym przystanku | 12:00 Na pętli zmieniasz kabinę i wracasz | 14:00 Oddajesz tramwaj kolejnej zmianie",
+  "skills": [
+   [
+    "Bezpieczna jazda dużym pojazdem",
+    "R"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Samodzielność",
+    "L"
+   ],
+   [
+    "Podstawy mechaniki",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Podróże",
+   "Zawód stale potrzebny"
+  ],
+  "minus": [
+   "Długie godziny za kierownicą",
+   "Noce poza domem",
+   "Odpowiedzialność za ładunek lub pasażerów"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy i kwalifikacja",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs i egzamin na kategorię C lub D",
+      0.5
+     ],
+     [
+      "kurs",
+      "Kwalifikacja wstępna kierowcy zawodowego",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Szkoła branżowa",
+    "s": [
+     [
+      "szkola",
+      "Szkoła branżowa I stopnia: kierowca mechanik",
+      3
+     ],
+     [
+      "praktyka",
+      "Praktyki u pracodawcy w trakcie szkoły",
+      0
+     ],
+     [
+      "egzamin",
+      "Egzamin zawodowy",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy ciężarówek i autobusów",
+  "pay_median_2025": 7315.9,
+  "gen_id": 535
+ },
+ {
+  "name": "Asystent lotu",
+  "path": "Stewardzi i konduktorzy > Steward/stewardessa",
+  "hook": "Witasz pasażerów w samolocie, wskazujesz miejsca i pilnujesz ich bezpieczeństwa oraz komfortu w trakcie lotu. Po lądowaniu piszesz raport o przebiegu lotu.",
+  "tasks": "Witasz pasażerów i sprawdzasz bilety | Kierujesz pasażerów na przydzielone miejsca | Wyjaśniasz zasady bezpieczeństwa | Piszesz sprawozdanie po lądowaniu",
+  "day": "4:30 Odprawa załogi przed porannym lotem | 6:00 Witasz pasażerów przy drzwiach samolotu | 8:00 W trakcie lotu rozdajesz napoje i odpowiadasz na prośby | 11:30 Po lądowaniu spisujesz raport z lotu",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Języki obce",
+    "S"
+   ],
+   [
+    "Opanowanie w trudnych sytuacjach",
+    "P"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Podróże w ramach pracy",
+   "Dużo kontaktu z ludźmi",
+   "Każdy kurs jest inny"
+  ],
+  "minus": [
+   "Nieregularne godziny i noce poza domem",
+   "Praca w święta",
+   "Trudni pasażerowie"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie przewoźnika",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny język obcy",
+      4
+     ],
+     [
+      "egzamin",
+      "Rekrutacja i badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie u przewoźnika",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Stewardzi, konduktorzy i przewodnicy",
+  "pay_median_2025": 7918.51,
+  "gen_id": 536
+ },
+ {
+  "name": "Asystent obsługi podróżnego",
+  "path": "Stewardzi i konduktorzy > Steward/stewardessa",
+  "hook": "Pracujesz w pociągu i opiekujesz się pasażerami: witasz ich, odpowiadasz na pytania i serwujesz posiłki. Cały dzień jedziesz razem z pociągiem po trasie.",
+  "tasks": "Witasz pasażerów przy wejściu do wagonu | Odpowiadasz na pytania o trasę i przesiadki | Serwujesz posiłki i napoje | Sprawdzasz bilety podczas jazdy",
+  "day": "5:00 Sprawdzasz zapasy posiłków i napojów w wagonie | 6:30 Witasz wsiadających na stacji początkowej | 9:00 Idziesz wagonami z wózkiem, serwujesz napoje i przekąski | 14:00 Pasażer pyta o przesiadkę, sprawdzasz rozkład",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Języki obce",
+    "S"
+   ],
+   [
+    "Opanowanie w trudnych sytuacjach",
+    "P"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Podróże w ramach pracy",
+   "Dużo kontaktu z ludźmi",
+   "Każdy kurs jest inny"
+  ],
+  "minus": [
+   "Nieregularne godziny i noce poza domem",
+   "Praca w święta",
+   "Trudni pasażerowie"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie przewoźnika",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny język obcy",
+      4
+     ],
+     [
+      "egzamin",
+      "Rekrutacja i badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie u przewoźnika",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Stewardzi, konduktorzy i przewodnicy",
+  "pay_median_2025": 7918.51,
+  "gen_id": 537
+ }
+]

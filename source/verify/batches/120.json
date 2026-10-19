@@ -1,0 +1,1522 @@
+[
+ {
+  "name": "Steward/stewardessa",
+  "path": "Stewardzi i konduktorzy > Steward/stewardessa",
+  "hook": "Zajmujesz się obsługą gastronomiczną podczas podróży pociągiem, statkiem lub samolotem. Podajesz posiłki i napoje ludziom, którzy w tym czasie siedzą w drodze.",
+  "tasks": "Przygotowujesz posiłki do podania w podróży | Serwujesz jedzenie i napoje pasażerom | Pilnujesz zapasów żywności na trasie | Sprzątasz po posiłkach",
+  "day": "5:30 Układasz tace z posiłkami przed podróżą | 7:00 Rozdajesz jedzenie i napoje na pokładzie | 10:00 Zbierasz tace i odkładasz naczynia | 12:30 Liczysz, ile zostało zapasów, i zapisujesz",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Języki obce",
+    "S"
+   ],
+   [
+    "Opanowanie w trudnych sytuacjach",
+    "P"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Podróże w ramach pracy",
+   "Dużo kontaktu z ludźmi",
+   "Każdy kurs jest inny"
+  ],
+  "minus": [
+   "Nieregularne godziny i noce poza domem",
+   "Praca w święta",
+   "Trudni pasażerowie"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie przewoźnika",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny język obcy",
+      4
+     ],
+     [
+      "egzamin",
+      "Rekrutacja i badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie u przewoźnika",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Stewardzi, konduktorzy i przewodnicy",
+  "pay_median_2025": 7918.51,
+  "gen_id": 539
+ },
+ {
+  "name": "Konduktor",
+  "path": "Stewardzi i konduktorzy > Konduktor",
+  "hook": "Jesteś w pociągu razem z pasażerami: sprawdzasz bilety, odpowiadasz na pytania o połączenia i reagujesz, gdy coś idzie nie tak. Pomagasz też przy zamykaniu drzwi i odjeździe.",
+  "tasks": "Sprawdzasz bilety i pobierasz opłaty za przejazd | Odpowiadasz na pytania o rozkład i przesiadki | Pomagasz kierownikowi przy zamykaniu drzwi | Reagujesz, gdy pociąg się psuje lub ktoś zasłabnie",
+  "day": "5:30 Zaczynasz zmianę od odprawy i sprawdzenia składu | 7:00 Wsiadają pasażerowie, pomagasz i zamykasz drzwi | 10:30 Idziesz przez wagony i sprawdzasz bilety | 14:00 Opóźnienie, tłumaczysz pasażerom, co się dzieje",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Języki obce",
+    "S"
+   ],
+   [
+    "Opanowanie w trudnych sytuacjach",
+    "P"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Podróże w ramach pracy",
+   "Dużo kontaktu z ludźmi",
+   "Każdy kurs jest inny"
+  ],
+  "minus": [
+   "Nieregularne godziny i noce poza domem",
+   "Praca w święta",
+   "Trudni pasażerowie"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie przewoźnika",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny język obcy",
+      4
+     ],
+     [
+      "egzamin",
+      "Rekrutacja i badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie u przewoźnika",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Stewardzi, konduktorzy i przewodnicy",
+  "pay_median_2025": 7918.51,
+  "gen_id": 540
+ },
+ {
+  "name": "Kontroler biletów",
+  "path": "Stewardzi i konduktorzy > Konduktor",
+  "hook": "Przechodzisz przez wagony i sprawdzasz, czy każdy ma ważny bilet. Gdy go brakuje, pobierasz opłatę i spokojnie rozmawiasz ze zdenerwowanymi ludźmi.",
+  "tasks": "Oglądasz bilety papierowe i elektroniczne | Pobierasz opłaty od osób bez biletu | Wyjaśniasz przepisy przewozowe | Podpowiadasz, jak dojechać do stacji",
+  "day": "8:00 Wsiadasz do pociągu i zaczynasz pierwszy obchód | 9:30 Pasażer nie ma biletu, wystawiasz opłatę dodatkową | 12:00 Tłumaczysz babci, jak działa bilet okresowy | 15:30 Kończysz obchód i wypełniasz raport z kontroli",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Języki obce",
+    "S"
+   ],
+   [
+    "Opanowanie w trudnych sytuacjach",
+    "P"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Podróże w ramach pracy",
+   "Dużo kontaktu z ludźmi",
+   "Każdy kurs jest inny"
+  ],
+  "minus": [
+   "Nieregularne godziny i noce poza domem",
+   "Praca w święta",
+   "Trudni pasażerowie"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie przewoźnika",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny język obcy",
+      4
+     ],
+     [
+      "egzamin",
+      "Rekrutacja i badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie u przewoźnika",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Stewardzi, konduktorzy i przewodnicy",
+  "pay_median_2025": 7918.51,
+  "gen_id": 541
+ },
+ {
+  "name": "Kierownik pociągu",
+  "path": "Stewardzi i konduktorzy",
+  "hook": "Odpowiadasz za bezpieczeństwo na pokładzie pociągu poza kabiną maszynisty. Pilnujesz odjazdu, łączysz się z maszynistą i kontrolą ruchu, a w razie awarii decydujesz, co robić.",
+  "tasks": "Nadzorujesz otwieranie i zamykanie drzwi | Utrzymujesz łączność z maszynistą i kontrolą ruchu | Kierujesz pracą zespołu konduktorów | Organizujesz pomoc pasażerom podczas awarii",
+  "day": "4:45 Odprawa z maszynistą, sprawdzenie dokumentów i składu | 6:00 Sprawdzasz zamknięcie drzwi i zgłaszasz gotowość do odjazdu | 11:00 Pociąg staje w polu, informujesz kontrolę ruchu | 13:30 Przydzielasz konduktorom wagony na kolejny kurs",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Języki obce",
+    "S"
+   ],
+   [
+    "Opanowanie w trudnych sytuacjach",
+    "P"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Podróże w ramach pracy",
+   "Dużo kontaktu z ludźmi",
+   "Każdy kurs jest inny"
+  ],
+  "minus": [
+   "Nieregularne godziny i noce poza domem",
+   "Praca w święta",
+   "Trudni pasażerowie"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie przewoźnika",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny język obcy",
+      4
+     ],
+     [
+      "egzamin",
+      "Rekrutacja i badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie u przewoźnika",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Stewardzi, konduktorzy i przewodnicy",
+  "pay_median_2025": 7918.51,
+  "gen_id": 542
+ },
+ {
+  "name": "Pracownik obsługi podróżnych na stacjach kolejowych",
+  "path": "Stewardzi i konduktorzy",
+  "hook": "Pracujesz na dworcu i pomagasz podróżnym: mówisz, z którego peronu odjedzie pociąg, pomagasz zaplanować trasę i reagujesz, gdy coś się dzieje.",
+  "tasks": "Podajesz godziny i perony pociągów | Pomagasz zaplanować podróż z przesiadkami | Pomagasz osobom z niepełnosprawnością wsiąść do pociągu | Reagujesz na zgubione rzeczy i zasłabnięcia",
+  "day": "6:00 Otwierasz punkt informacji, sprawdzasz zmiany w rozkładzie | 8:30 Szczyt, ludzie pytają o perony i opóźnienia | 12:00 Pomagasz osobie niewidomej dojść do pociągu | 17:00 Znaleziony plecak bez właściciela, zgłaszasz go służbom",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Języki obce",
+    "S"
+   ],
+   [
+    "Opanowanie w trudnych sytuacjach",
+    "P"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Podróże w ramach pracy",
+   "Dużo kontaktu z ludźmi",
+   "Każdy kurs jest inny"
+  ],
+  "minus": [
+   "Nieregularne godziny i noce poza domem",
+   "Praca w święta",
+   "Trudni pasażerowie"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie przewoźnika",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny język obcy",
+      4
+     ],
+     [
+      "egzamin",
+      "Rekrutacja i badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie u przewoźnika",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Stewardzi, konduktorzy i przewodnicy",
+  "pay_median_2025": 7918.51,
+  "gen_id": 543
+ },
+ {
+  "name": "Szef pokładu / szefowa pokładu",
+  "path": "Stewardzi i konduktorzy",
+  "hook": "Kierujesz załogą pokładową samolotu. Odprawiasz ją przed lotem, pilnujesz przepisów bezpieczeństwa i dbasz o to, by pasażerowie byli obsłużeni.",
+  "tasks": "Prowadzisz odprawę załogi przed lotem | Sprawdzasz wyposażenie awaryjne na pokładzie | Przekazujesz pasażerom komunikaty z kabiny | Rozwiązujesz problemy z pasażerami i załogą",
+  "day": "5:00 Odprawa załogi, omawiasz trasę i zadania | 6:30 Sprawdzasz wyjścia awaryjne i sprzęt ratunkowy | 8:00 Wsiadają pasażerowie, pilnujesz zapięcia pasów i bagaży | 11:00 Pasażerowi robi się słabo, koordynujesz pomoc",
+  "skills": [
+   [
+    "Uprzejma obsługa",
+    "P"
+   ],
+   [
+    "Języki obce",
+    "S"
+   ],
+   [
+    "Opanowanie w trudnych sytuacjach",
+    "P"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Podróże w ramach pracy",
+   "Dużo kontaktu z ludźmi",
+   "Każdy kurs jest inny"
+  ],
+  "minus": [
+   "Nieregularne godziny i noce poza domem",
+   "Praca w święta",
+   "Trudni pasażerowie"
+  ],
+  "routes": [
+   {
+    "n": "Szkolenie przewoźnika",
+    "s": [
+     [
+      "szkola",
+      "Liceum; ważny język obcy",
+      4
+     ],
+     [
+      "egzamin",
+      "Rekrutacja i badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie u przewoźnika",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Stewardzi, konduktorzy i przewodnicy",
+  "pay_median_2025": 7918.51,
+  "gen_id": 544
+ },
+ {
+  "name": "Kierowca bankowozu",
+  "path": "Kierowcy aut osobowych i motocykli",
+  "hook": "Prowadzisz opancerzony samochód z pieniędzmi i innymi cennymi rzeczami. Nigdy nie wysiadasz, a ładunek do odbiorcy zanosi strażnik.",
+  "tasks": "Prowadzisz opancerzony pojazd po ustalonej trasie | Pilnujesz pojazdu przez cały czas | Utrzymujesz łączność ze strażnikami i centralą | Sprawdzasz stan techniczny auta przed wyjazdem",
+  "day": "6:00 Przegląd auta i odprawa ze strażnikami | 7:30 Wyjazd na trasę, zatrzymujesz się pod bankiem | 11:00 Strażnik wchodzi do środka, ty zostajesz za kierownicą | 15:00 Wracasz do bazy i zdajesz auto",
+  "skills": [
+   [
+    "Bezpieczna jazda",
+    "R"
+   ],
+   [
+    "Znajomość miasta i przepisów",
+    "S"
+   ],
+   [
+    "Uprzejmość",
+    "P"
+   ],
+   [
+    "Punktualność",
+    "L"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Cierpliwość w korkach",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Szybki start",
+   "Elastyczne godziny"
+  ],
+  "minus": [
+   "Wiele godzin za kierownicą",
+   "Korki i stres na drodze",
+   "Praca wieczorami i w weekendy"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "praktyka",
+      "Doświadczenie za kierownicą",
+      1
+     ],
+     [
+      "egzamin",
+      "Dodatkowe uprawnienia, np. na przewóz osób",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy samochodów osobowych, dostawczych i motocykli",
+  "pay_median_2025": 5692.05,
+  "gen_id": 545
+ },
+ {
+  "name": "Kierowca karawanu",
+  "path": "Kierowcy aut osobowych i motocykli",
+  "hook": "Przewozisz osoby zmarłe z domu, szpitala lub zakładu pogrzebowego na miejsce pochówku. Ta praca wymaga spokoju i taktu, bo masz kontakt z rodzinami w bardzo trudnym momencie.",
+  "tasks": "Prowadzisz karawan spokojnie i płynnie | Pomagasz przy przenoszeniu trumny | Myjesz i konserwujesz specjalny pojazd | Przyjeżdżasz punktualnie na ceremonię",
+  "day": "7:00 Przygotowujesz karawan, myjesz go i sprawdzasz | 9:00 Odbierasz zmarłą osobę ze szpitala z pracownikami zakładu | 11:30 Jedziesz powoli na czele konduktu do cmentarza | 14:00 Pomagasz wnieść trumnę i wracasz do firmy",
+  "skills": [
+   [
+    "Bezpieczna jazda",
+    "R"
+   ],
+   [
+    "Znajomość miasta i przepisów",
+    "S"
+   ],
+   [
+    "Uprzejmość",
+    "P"
+   ],
+   [
+    "Punktualność",
+    "L"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Cierpliwość w korkach",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Szybki start",
+   "Elastyczne godziny"
+  ],
+  "minus": [
+   "Wiele godzin za kierownicą",
+   "Korki i stres na drodze",
+   "Praca wieczorami i w weekendy"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "praktyka",
+      "Doświadczenie za kierownicą",
+      1
+     ],
+     [
+      "egzamin",
+      "Dodatkowe uprawnienia, np. na przewóz osób",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy samochodów osobowych, dostawczych i motocykli",
+  "pay_median_2025": 5692.05,
+  "gen_id": 546
+ },
+ {
+  "name": "Kierowca samochodu dostawczego",
+  "path": "Kierowcy aut osobowych i motocykli",
+  "hook": "Rozwozisz paczki i towary furgonetką pod wyznaczone adresy. Układasz trasę, ładujesz i rozładowujesz, a w ciągu dnia robisz dziesiątki przystanków.",
+  "tasks": "Układasz paczki w aucie według trasy | Planujesz najkrótszą kolejność dostaw | Wnosisz paczki do klientów i sklepów | Zbierasz podpisy potwierdzające odbiór",
+  "day": "6:30 Ładujesz furgonetkę w magazynie według listy | 8:00 Pierwsze dostawy do sklepów w centrum | 12:00 Krótka przerwa, zmieniasz trasę przez korek | 16:00 Zwroty paczek i rozliczenie dnia w bazie",
+  "skills": [
+   [
+    "Bezpieczna jazda",
+    "R"
+   ],
+   [
+    "Znajomość miasta i przepisów",
+    "S"
+   ],
+   [
+    "Uprzejmość",
+    "P"
+   ],
+   [
+    "Punktualność",
+    "L"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Cierpliwość w korkach",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Szybki start",
+   "Elastyczne godziny"
+  ],
+  "minus": [
+   "Wiele godzin za kierownicą",
+   "Korki i stres na drodze",
+   "Praca wieczorami i w weekendy"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "praktyka",
+      "Doświadczenie za kierownicą",
+      1
+     ],
+     [
+      "egzamin",
+      "Dodatkowe uprawnienia, np. na przewóz osób",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy samochodów osobowych, dostawczych i motocykli",
+  "pay_median_2025": 5692.05,
+  "gen_id": 547
+ },
+ {
+  "name": "Kurier motocyklowy",
+  "path": "Kierowcy aut osobowych i motocykli",
+  "hook": "Wozisz pilne przesyłki motocyklem: dokumenty, leki, gorące posiłki. Liczy się szybkość, ale też to, żeby delikatna paczka dojechała w całości.",
+  "tasks": "Odbierasz paczkę i sprawdzasz adres | Pakujesz przesyłkę, by się nie uszkodziła | Wybierasz najszybszą trasę przez miasto | Przekazujesz paczkę i bierzesz potwierdzenie",
+  "day": "7:30 Odbierasz pierwszą pilną kopertę z kancelarii | 9:00 Wieziesz dokumenty do urzędu na drugim końcu miasta | 12:30 Rozwozisz gorące zamówienia w torbie termicznej na plecach | 17:00 Deszcz, jedziesz wolniej z ostatnią przesyłką",
+  "skills": [
+   [
+    "Bezpieczna jazda",
+    "R"
+   ],
+   [
+    "Znajomość miasta i przepisów",
+    "S"
+   ],
+   [
+    "Uprzejmość",
+    "P"
+   ],
+   [
+    "Punktualność",
+    "L"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Cierpliwość w korkach",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Szybki start",
+   "Elastyczne godziny"
+  ],
+  "minus": [
+   "Wiele godzin za kierownicą",
+   "Korki i stres na drodze",
+   "Praca wieczorami i w weekendy"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "praktyka",
+      "Doświadczenie za kierownicą",
+      1
+     ],
+     [
+      "egzamin",
+      "Dodatkowe uprawnienia, np. na przewóz osób",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy samochodów osobowych, dostawczych i motocykli",
+  "pay_median_2025": 5692.05,
+  "gen_id": 549
+ },
+ {
+  "name": "Prywatny kierowca",
+  "path": "Kierowcy aut osobowych i motocykli",
+  "hook": "Wozisz jedną osobę lub rodzinę, dla której pracujesz, tam gdzie potrzebuje, i zawsze na czas. Z góry sprawdzasz trasę, pogodę i stan auta, a w sprawach pasażera zachowujesz dyskrecję.",
+  "tasks": "Planujesz trasę z wyprzedzeniem | Sprawdzasz pogodę i warunki na drodze | Utrzymujesz auto w czystości i gotowe do jazdy | Zachowujesz dyskrecję w sprawach pasażera",
+  "day": "6:30 Myjesz auto i sprawdzasz trasę oraz korki | 7:45 Odbierasz pracodawcę spod domu i wieziesz do biura | 12:00 Czekasz w aucie, aż skończy się spotkanie | 19:00 Wieziesz pracodawcę na kolację, potem odwozisz do domu",
+  "skills": [
+   [
+    "Bezpieczna jazda",
+    "R"
+   ],
+   [
+    "Znajomość miasta i przepisów",
+    "S"
+   ],
+   [
+    "Uprzejmość",
+    "P"
+   ],
+   [
+    "Punktualność",
+    "L"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Cierpliwość w korkach",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Szybki start",
+   "Elastyczne godziny"
+  ],
+  "minus": [
+   "Wiele godzin za kierownicą",
+   "Korki i stres na drodze",
+   "Praca wieczorami i w weekendy"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "praktyka",
+      "Doświadczenie za kierownicą",
+      1
+     ],
+     [
+      "egzamin",
+      "Dodatkowe uprawnienia, np. na przewóz osób",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy samochodów osobowych, dostawczych i motocykli",
+  "pay_median_2025": 5692.05,
+  "gen_id": 551
+ },
+ {
+  "name": "Taksówkarz",
+  "path": "Kierowcy aut osobowych i motocykli",
+  "hook": "Wozisz pasażerów po mieście na zamówienie albo spod postoju i odpowiadasz za swój samochód. Każdy kurs to nowa osoba, nowy adres i nowa rozmowa.",
+  "tasks": "Odbierasz zamówienia i dojeżdżasz pod adres | Pobierasz opłatę za kurs | Pomagasz pasażerom z bagażami | Pilnujesz przeglądów i czystości taksówki",
+  "day": "5:30 Zaczynasz zmianę, czyścisz auto i tankujesz | 7:00 Pierwszy kurs na dworzec z walizkami pasażera | 14:00 Czekasz na postoju, aż pojawi się zamówienie | 23:00 Nocny kurs, odwozisz ludzi z imprez do domów",
+  "skills": [
+   [
+    "Bezpieczna jazda",
+    "R"
+   ],
+   [
+    "Znajomość miasta i przepisów",
+    "S"
+   ],
+   [
+    "Uprzejmość",
+    "P"
+   ],
+   [
+    "Punktualność",
+    "L"
+   ],
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Cierpliwość w korkach",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Samodzielna praca",
+   "Szybki start",
+   "Elastyczne godziny"
+  ],
+  "minus": [
+   "Wiele godzin za kierownicą",
+   "Korki i stres na drodze",
+   "Praca wieczorami i w weekendy"
+  ],
+  "routes": [
+   {
+    "n": "Prawo jazdy",
+    "s": [
+     [
+      "egzamin",
+      "Prawo jazdy kategorii B",
+      0
+     ],
+     [
+      "praktyka",
+      "Doświadczenie za kierownicą",
+      1
+     ],
+     [
+      "egzamin",
+      "Dodatkowe uprawnienia, np. na przewóz osób",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Kierowcy samochodów osobowych, dostawczych i motocykli",
+  "pay_median_2025": 5692.05,
+  "gen_id": 552
+ },
+ {
+  "name": "Bosman",
+  "path": "Marynarze",
+  "hook": "Kierujesz załogą na pokładzie statku rybackiego, przydzielasz zadania i pilnujesz bezpieczeństwa. Zamieniasz polecenia kapitana na konkretną pracę ludzi.",
+  "tasks": "Przydzielasz załodze zadania na pokładzie | Nadzorujesz naprawę sieci i innych narzędzi połowowych | Pilnujesz sortowania i konserwowania połowu | Pilnujesz przepisów bezpieczeństwa i higieny",
+  "day": "4:30 Pobudka, odbierasz polecenia od kapitana | 5:30 Załoga wyciąga sieci, ty kierujesz pracą | 10:00 Sortowanie ryb w ładowni, pilnujesz czystości i porządku | 16:00 Uszkodzona sieć, rozdzielasz załodze zadania naprawcze",
+  "skills": [
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Obsługa sprzętu pokładowego",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odporność na rozłąkę",
+    "P"
+   ],
+   [
+    "Angielski",
+    "S"
+   ]
+  ],
+  "plus": [
+   "Podróże po świecie",
+   "Zgrana załoga",
+   "Długie przerwy między rejsami"
+  ],
+  "minus": [
+   "Wiele miesięcy poza domem",
+   "Ciężka praca fizyczna",
+   "Trudne warunki na morzu"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła morska",
+    "s": [
+     [
+      "szkola",
+      "Technikum morskie lub żeglugi śródlądowej",
+      5
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie i świadectwa morskie",
+      0
+     ],
+     [
+      "praktyka",
+      "Praktyka na statku",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Kursy",
+    "s": [
+     [
+      "kurs",
+      "Podstawowe szkolenia bezpieczeństwa",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Świadectwo marynarza",
+      0
+     ],
+     [
+      "praktyka",
+      "Pierwszy rejs jako młodszy marynarz",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Marynarze i pokrewni",
+  "pay_median_2025": 10409,
+  "gen_id": 553
+ },
+ {
+  "name": "Marynarz motorzysta żeglugi śródlądowej",
+  "path": "Marynarze",
+  "hook": "Pracujesz na barce lub statku po rzekach i kanałach, głównie na pokładzie. Oprócz zwykłych prac załogi znasz podstawy silników i pomagasz przy ich obsłudze.",
+  "tasks": "Odcumowujesz i cumujesz statek przy nabrzeżu | Zmywasz pokład i konserwujesz sprzęt | Sprawdzasz poziom oleju i pracę silnika | Pomagasz mechanikowi przy drobnych usterkach",
+  "day": "6:00 Obchód maszynowni, sprawdzasz olej i temperaturę silnika | 7:00 Odcumowujesz statek i wypływacie z portu | 12:00 Szorujesz i konserwujesz pokład w trakcie rejsu | 18:00 Cumujesz statek na noc przy nabrzeżu",
+  "skills": [
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Obsługa sprzętu pokładowego",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odporność na rozłąkę",
+    "P"
+   ],
+   [
+    "Angielski",
+    "S"
+   ]
+  ],
+  "plus": [
+   "Podróże po świecie",
+   "Zgrana załoga",
+   "Długie przerwy między rejsami"
+  ],
+  "minus": [
+   "Wiele miesięcy poza domem",
+   "Ciężka praca fizyczna",
+   "Trudne warunki na morzu"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła morska",
+    "s": [
+     [
+      "szkola",
+      "Technikum morskie lub żeglugi śródlądowej",
+      5
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie i świadectwa morskie",
+      0
+     ],
+     [
+      "praktyka",
+      "Praktyka na statku",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Kursy",
+    "s": [
+     [
+      "kurs",
+      "Podstawowe szkolenia bezpieczeństwa",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Świadectwo marynarza",
+      0
+     ],
+     [
+      "praktyka",
+      "Pierwszy rejs jako młodszy marynarz",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Marynarze i pokrewni",
+  "pay_median_2025": 10409,
+  "gen_id": 554
+ },
+ {
+  "name": "Młodszy marynarz żeglugi śródlądowej",
+  "path": "Marynarze",
+  "hook": "Jesteś na początku drogi do zawodu marynarza rzecznego. Pod okiem załogi uczysz się cumowania, pracy przy silniku i utrzymania statku, a czasem dostajesz do przytrzymania ster.",
+  "tasks": "Podajesz liny starszym marynarzom przy cumowaniu | Sprzątasz i konserwujesz pokład | Pomagasz przy silniku i sprzęcie | Uczysz się sterowania pod nadzorem",
+  "day": "5:30 Zaczynasz dzień od mycia pokładu | 7:30 Starszy marynarz pokazuje Ci, jak zrobić węzeł cumowniczy | 11:00 Pod nadzorem trzymasz ster na prostym odcinku | 16:30 Porządkujesz schowek ze sprzętem i liny",
+  "skills": [
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Obsługa sprzętu pokładowego",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odporność na rozłąkę",
+    "P"
+   ],
+   [
+    "Angielski",
+    "S"
+   ]
+  ],
+  "plus": [
+   "Podróże po świecie",
+   "Zgrana załoga",
+   "Długie przerwy między rejsami"
+  ],
+  "minus": [
+   "Wiele miesięcy poza domem",
+   "Ciężka praca fizyczna",
+   "Trudne warunki na morzu"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła morska",
+    "s": [
+     [
+      "szkola",
+      "Technikum morskie lub żeglugi śródlądowej",
+      5
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie i świadectwa morskie",
+      0
+     ],
+     [
+      "praktyka",
+      "Praktyka na statku",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Kursy",
+    "s": [
+     [
+      "kurs",
+      "Podstawowe szkolenia bezpieczeństwa",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Świadectwo marynarza",
+      0
+     ],
+     [
+      "praktyka",
+      "Pierwszy rejs jako młodszy marynarz",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Marynarze i pokrewni",
+  "pay_median_2025": 10409,
+  "gen_id": 558
+ },
+ {
+  "name": "Rybak",
+  "path": "Marynarze",
+  "hook": "Wypływasz kutrem na połów i pracujesz fizycznie na pokładzie: wyciągasz sieci, sortujesz ryby, pilnujesz sprzętu. Dni są nieregularne i zależą od pogody.",
+  "tasks": "Zarzucasz i wyciągasz sieci | Sortujesz i chłodzisz złowione ryby | Naprawiasz sprzęt połowowy | Pilnujesz łączności radiowej i zapasów na statku",
+  "day": "3:00 Pobudka w porcie, wypływacie przed świtem | 5:00 Zarzucacie sieci i wyciągasz pierwszy połów | 9:00 Sortujesz ryby i układasz je w lodzie | 15:00 Wracacie do portu, rozładowujecie i łatacie sieci",
+  "skills": [
+   [
+    "Kondycja",
+    "N"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ],
+   [
+    "Obsługa sprzętu pokładowego",
+    "R"
+   ],
+   [
+    "Zasady bezpieczeństwa",
+    "R"
+   ],
+   [
+    "Odporność na rozłąkę",
+    "P"
+   ],
+   [
+    "Angielski",
+    "S"
+   ]
+  ],
+  "plus": [
+   "Podróże po świecie",
+   "Zgrana załoga",
+   "Długie przerwy między rejsami"
+  ],
+  "minus": [
+   "Wiele miesięcy poza domem",
+   "Ciężka praca fizyczna",
+   "Trudne warunki na morzu"
+  ],
+  "routes": [
+   {
+    "n": "Szkoła morska",
+    "s": [
+     [
+      "szkola",
+      "Technikum morskie lub żeglugi śródlądowej",
+      5
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie i świadectwa morskie",
+      0
+     ],
+     [
+      "praktyka",
+      "Praktyka na statku",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Kursy",
+    "s": [
+     [
+      "kurs",
+      "Podstawowe szkolenia bezpieczeństwa",
+      0.5
+     ],
+     [
+      "egzamin",
+      "Świadectwo marynarza",
+      0
+     ],
+     [
+      "praktyka",
+      "Pierwszy rejs jako młodszy marynarz",
+      0.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Marynarze i pokrewni",
+  "pay_median_2025": 10409,
+  "gen_id": 559
+ },
+ {
+  "name": "Dróżnik przejazdowy",
+  "path": "Kolej",
+  "hook": "Pilnujesz przejazdu, w którym droga przecina tory. Obsługujesz zapory i sygnalizację, obserwujesz teren i dajesz znać maszynistom i dyżurnym, gdy coś jest nie tak.",
+  "tasks": "Opuszczasz i podnosisz zapory przejazdu | Obserwujesz samochody, pieszych i tory | Rozmawiasz przez radio z dyżurnym ruchu | Alarmujesz, gdy coś blokuje przejazd",
+  "day": "6:00 Zaczynasz dyżur, sprawdzasz działanie zapór | 8:15 Dyżurny zapowiada pociąg, opuszczasz zapory | 13:00 Samochód stoi na torach, ostrzegasz maszynistę | 18:00 Wpisujesz do dziennika przejazdy pociągów",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów i sygnałów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Dobre zdrowie",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca",
+   "Odpowiedzialny zawód",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca zmianowa i nocna",
+   "Duża odpowiedzialność",
+   "Wysokie wymagania zdrowotne"
+  ],
+  "routes": [
+   {
+    "n": "Technikum kolejowe",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie kolejowym",
+      5
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja u przewoźnika",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Kurs u przewoźnika",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia lub branżowa",
+      3
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs na licencję i świadectwo maszynisty",
+      1.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Maszyniści kolejowi, dyżurni ruchu i pokrewni",
+  "pay_median_2025": 8851.97,
+  "gen_id": 560
+ },
+ {
+  "name": "Dyżurny ruchu",
+  "path": "Kolej",
+  "hook": "Siedzisz w nastawni i decydujesz, który pociąg wjedzie na stację, a który musi poczekać. Odpowiadasz za to, żeby pociągi nie spotkały się na tym samym torze.",
+  "tasks": "Przyjmujesz i wypuszczasz pociągi ze stacji | Ustawiasz drogi przejazdu dla pociągów | Rozmawiasz z maszynistami przez radio | Sprawdzasz sygnały i rozkład jazdy",
+  "day": "6:00 Przejmujesz dyżur i czytasz polecenia dla pociągów | 8:00 Towarowy wjeżdża na stację, ekspres czeka na sygnał | 14:00 Awaria zwrotnicy, ustalasz objazd z sąsiednią stacją | 22:00 Nocą kilka pociągów, rozmawiasz z maszynistami przez radio",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów i sygnałów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Dobre zdrowie",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca",
+   "Odpowiedzialny zawód",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca zmianowa i nocna",
+   "Duża odpowiedzialność",
+   "Wysokie wymagania zdrowotne"
+  ],
+  "routes": [
+   {
+    "n": "Technikum kolejowe",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie kolejowym",
+      5
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja u przewoźnika",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Kurs u przewoźnika",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia lub branżowa",
+      3
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs na licencję i świadectwo maszynisty",
+      1.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Maszyniści kolejowi, dyżurni ruchu i pokrewni",
+  "pay_median_2025": 8851.97,
+  "gen_id": 561
+ },
+ {
+  "name": "Manewrowy",
+  "path": "Kolej",
+  "hook": "Na stacji rozrządowej łączysz i rozłączasz wagony, układając z nich pociągi. Pracujesz na dworze, przy lokomotywie manewrowej, często na zmianach.",
+  "tasks": "Układasz pociągi z wagonów według zlecenia | Rozłączasz wagony na stacji rozrządowej | Dajesz maszyniście sygnały ręką lub radiem | Przechodzisz po torach i sprawdzasz sprzęgi",
+  "day": "5:00 Odbierasz zlecenie, które wagony trzeba przestawić | 7:00 Dajesz sygnały maszyniście, lokomotywa podsuwa wagony | 12:00 Rozłączasz wagony i układasz z nich nowy pociąg | 20:00 Nocą kończysz składanie pociągu na bocznicy",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów i sygnałów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Dobre zdrowie",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca",
+   "Odpowiedzialny zawód",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca zmianowa i nocna",
+   "Duża odpowiedzialność",
+   "Wysokie wymagania zdrowotne"
+  ],
+  "routes": [
+   {
+    "n": "Technikum kolejowe",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie kolejowym",
+      5
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja u przewoźnika",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Kurs u przewoźnika",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia lub branżowa",
+      3
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs na licencję i świadectwo maszynisty",
+      1.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Maszyniści kolejowi, dyżurni ruchu i pokrewni",
+  "pay_median_2025": 8851.97,
+  "gen_id": 562
+ },
+ {
+  "name": "Przygotowujący pociąg",
+  "path": "Kolej",
+  "hook": "Zanim pociąg wyjedzie z peronu, sprawdzasz, czy wszystko działa: drzwi, światła, hamulce, wyposażenie wagonów. Dopilnowujesz też, żeby skład pasował do trasy.",
+  "tasks": "Testujesz drzwi, światła i systemy w wagonach | Sprawdzasz hamulce przed wyjazdem | Sprawdzasz, czy wagony mają wymagane wyposażenie | Potwierdzasz, że skład pasuje do trasy",
+  "day": "4:00 Obchodzisz zaparkowany pociąg i sprawdzasz każdy wagon | 5:00 Test drzwi, oświetlenia i hamulców w składzie | 6:00 Wykryta usterka oświetlenia, zgłaszasz ją do naprawy | 7:00 Potwierdzasz gotowość i oddajesz pociąg obsłudze",
+  "skills": [
+   [
+    "Koncentracja",
+    "L"
+   ],
+   [
+    "Znajomość przepisów i sygnałów",
+    "S"
+   ],
+   [
+    "Odpowiedzialność",
+    "P"
+   ],
+   [
+    "Opanowanie",
+    "P"
+   ],
+   [
+    "Dobre zdrowie",
+    "N"
+   ],
+   [
+    "Obsługa urządzeń",
+    "R"
+   ]
+  ],
+  "plus": [
+   "Stabilna praca",
+   "Odpowiedzialny zawód",
+   "Jasne procedury"
+  ],
+  "minus": [
+   "Praca zmianowa i nocna",
+   "Duża odpowiedzialność",
+   "Wysokie wymagania zdrowotne"
+  ],
+  "routes": [
+   {
+    "n": "Technikum kolejowe",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie kolejowym",
+      5
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Szkolenie i licencja u przewoźnika",
+      1
+     ]
+    ]
+   },
+   {
+    "n": "Kurs u przewoźnika",
+    "s": [
+     [
+      "szkola",
+      "Szkoła średnia lub branżowa",
+      3
+     ],
+     [
+      "egzamin",
+      "Badania lekarskie",
+      0
+     ],
+     [
+      "kurs",
+      "Kurs na licencję i świadectwo maszynisty",
+      1.5
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Maszyniści kolejowi, dyżurni ruchu i pokrewni",
+  "pay_median_2025": 8851.97,
+  "gen_id": 564
+ }
+]

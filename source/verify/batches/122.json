@@ -1,0 +1,1762 @@
+[
+ {
+  "name": "Inżynier ds. demontażu i wyburzania obiektów",
+  "path": "Inżynierowie > Inne: inżynierowie",
+  "hook": "Planujesz, jak bezpiecznie rozebrać budynek, maszynę lub instalację, która kończy służbę. Liczysz etapy, harmonogram i kolejność prac, a polecenia przekazujesz kierownikom ekip, których pracę nadzorujesz.",
+  "tasks": "Badasz konstrukcję budynku przed rozbiórką | Planujesz kolejność i harmonogram prac | Przekazujesz instrukcje kierownikom ekip | Nadzorujesz przebieg rozbiórki na miejscu",
+  "day": "7:00 Obchodzisz obiekt i sprawdzasz, co trzyma konstrukcję | 9:00 Odprawa z kierownikami ekip i podział zadań | 12:00 Nadzorujesz rozbiórkę ściany ze stanowiska poza strefą | 15:30 Zmieniasz harmonogram po odkryciu nieznanej instalacji",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 590
+ },
+ {
+  "name": "Inżynier ds. lotniczych urządzeń naziemnych",
+  "path": "Inżynierowie > Inne: inżynierowie",
+  "hook": "Nadzorujesz utrzymanie wyposażenia lotniska: oświetlenia, systemu bagażowego, nawierzchni, odwodnienia i pojazdów obsługi. Pilnujesz, żeby wszystko działało, a samoloty mogły bezpiecznie startować i lądować.",
+  "tasks": "Nadzorujesz przeglądy oświetlenia i znaków na lotnisku | Kontrolujesz stan nawierzchni i odwodnienia | Planujesz naprawy systemu bagażowego | Zarządzasz przeglądami pojazdów i sprzętu",
+  "day": "5:30 Przed pierwszymi lotami sprawdzasz światła na płycie | 9:00 Stoi taśma bagażowa, ustalasz z ekipą naprawę | 12:00 Po ulewie sprawdzasz odpływ wody z pasa | 15:00 Z technikiem robisz przegląd pojazdów obsługi lotniska",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 591
+ },
+ {
+  "name": "Inżynier ds. rozliczeń",
+  "path": "Inżynierowie > Inne: inżynierowie",
+  "hook": "Pilnujesz kosztów projektu budowlanego od pierwszego planu do oddania obiektu. Liczysz, ile co kosztuje, porównujesz z budżetem i pilnujesz, żeby pieniądze nie uciekały, a jakość się nie pogorszyła.",
+  "tasks": "Liczysz koszty materiałów i robót | Porównujesz wydatki z budżetem projektu | Rozliczasz wykonane prace z wykonawcami | Zgłaszasz, gdy koszty wychodzą poza plan",
+  "day": "8:00 Porównujesz faktury wykonawców z zapisami umów | 10:00 Na budowie mierzysz, ile prac faktycznie wykonano | 13:00 Aktualizujesz tabelę kosztów całego projektu | 15:30 Omawiasz z kierownikiem rosnące koszty fundamentów",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 592
+ },
+ {
+  "name": "Inżynier ds. wdrożeń",
+  "path": "Inżynierowie > Inne: inżynierowie",
+  "hook": "Odpowiadasz za to, żeby nowe rozwiązanie techniczne naprawdę zaczęło działać u klienta. Wdrażasz ulepszenia, odpowiadasz na pytania o to, jak coś działa, i pomagasz zespołowi sprzedaży.",
+  "tasks": "Wdrażasz ulepszenie projektu lub procesu | Udzielasz wsparcia technicznego klientom | Tłumaczysz klientom, jak działa produkt | Pomagasz sprzedawcom w sprawach technicznych",
+  "day": "8:30 Przeglądasz zgłoszenia klientów z problemami z produktem | 10:30 U klienta uruchamiasz nowy system na miejscu | 13:30 Pokazujesz pracownikom klienta, jak obsługiwać urządzenie | 16:00 Przygotowujesz sprzedawców do spotkania z technicznym klientem",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 595
+ },
+ {
+  "name": "Inżynier patentowy",
+  "path": "Inżynierowie > Inne: inżynierowie",
+  "hook": "Pomagasz firmom chronić ich wynalazki. Analizujesz pomysł, sprawdzasz, czy ktoś nie dostał już patentu na coś podobnego, i oceniasz, czy wynalazek ma szansę zarabiać.",
+  "tasks": "Analizujesz opisy wynalazków | Szukasz istniejących patentów w bazach | Oceniasz potencjał rynkowy wynalazku | Doradzasz, czy ktoś nie narusza cudzych praw",
+  "day": "8:30 Wynalazca opisuje swoje urządzenie, ty robisz notatki | 10:30 Szukasz w bazach, czy podobny pomysł już istnieje | 13:00 Porównujesz opis rozwiązania z cudzymi patentami | 16:00 Piszesz firmie opinię, czy warto zgłaszać wynalazek",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 596
+ },
+ {
+  "name": "Inżynier robotyki",
+  "path": "Inżynierowie > Inne: inżynierowie",
+  "hook": "Projektujesz roboty i sprawiasz, że poruszają się i reagują na otoczenie. Łączysz mechanikę, elektronikę i programowanie, a wiele czasu spędzasz na testowaniu prototypów.",
+  "tasks": "Projektujesz mechanikę i ruch robota | Dobierasz czujniki i silniki do robota | Piszesz programy sterujące robotem | Testujesz prototypy i poprawiasz błędy",
+  "day": "8:30 Szukasz, dlaczego ramię robota drży przy chwytaniu | 10:30 Poprawiasz program, który steruje chwytakiem | 13:30 Montujesz w prototypie nowy czujnik odległości | 16:00 Testujesz robota na torze z przeszkodami",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 597
+ },
+ {
+  "name": "Inżynier automatyki i robotyki",
+  "path": "Inżynierowie > Inżynierowie ds. przemysłu i produkcji > Inżynier przemysłowy",
+  "hook": "Automatyzujesz produkcję: projektujesz systemy, w których maszyny i roboty wykonują powtarzalne zadania zamiast ludzi. Pilnujesz, żeby cała linia działała sprawnie i bezpiecznie.",
+  "tasks": "Projektujesz zautomatyzowane linie produkcyjne | Dobierasz roboty przemysłowe i sterowniki | Programujesz sekwencje pracy maszyn | Wyszukujesz przyczyny przestojów linii",
+  "day": "6:30 Linia stoi od nocy, szukasz przyczyny awarii | 9:00 Programujesz nową kolejność ruchów robota pakującego | 12:30 Testujesz, czy maszyna staje po otwarciu osłony | 15:00 Spotkanie z produkcją o kolejnych zadaniach do automatyzacji",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 598
+ },
+ {
+  "name": "Inżynier powierzchni",
+  "path": "Inżynierowie > Inżynierowie ds. przemysłu i produkcji > Inżynier przemysłowy",
+  "hook": "Dbasz o to, żeby powierzchnia metalowych części wolniej rdzewiała i się zużywała. Badasz i dobierasz sposoby jej zabezpieczania.",
+  "tasks": "Badasz, jak metal ulega korozji i zużyciu | Dobierasz powłoki chroniące powierzchnię części | Testujesz próbki po obróbce powierzchni | Szukasz metod z mniejszą ilością odpadów",
+  "day": "8:00 Oglądasz próbki po teście zużycia | 10:00 Spotkanie z produkcją o rdzewiejących częściach | 12:30 Zmieniasz sposób obróbki, żeby powstawało mniej odpadów | 15:00 Piszesz wnioski z badań dla kierownika",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 600
+ },
+ {
+  "name": "Inżynier produkcji",
+  "path": "Inżynierowie > Inżynierowie ds. przemysłu i produkcji > Inżynier przemysłowy",
+  "hook": "Planujesz, jak krok po kroku ma powstawać produkt w fabryce. Dopasowujesz proces do tego, co produkujesz, i do ograniczeń danej branży.",
+  "tasks": "Projektujesz kolejność etapów produkcji | Dobierasz maszyny i stanowiska pracy | Sprawdzasz, czy proces da się wykonać | Poprawiasz miejsca, które spowalniają linię",
+  "day": "7:30 Obchód hali, sprawdzasz, gdzie linia stoi | 9:30 Rysujesz nowy układ stanowisk przy montażu | 12:00 Rozmowa z kierownikiem zmiany o problemach | 14:30 Test zmienionego procesu na próbnej serii",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 601
+ },
+ {
+  "name": "Inżynier produkcji żywności",
+  "path": "Inżynierowie > Inżynierowie ds. przemysłu i produkcji > Inżynier przemysłowy",
+  "hook": "Dbasz, żeby maszyny w zakładzie spożywczym działały sprawnie i higienicznie. Pilnujesz przeglądów, bezpieczeństwa pracy i tego, żeby produkcja nie stawała.",
+  "tasks": "Nadzorujesz pracę maszyn do produkcji żywności | Planujesz rutynowe przeglądy i konserwację | Pilnujesz zasad higieny i bezpieczeństwa | Reagujesz na awarie na linii",
+  "day": "6:00 Poranny obchód linii, sprawdzasz maszyny | 9:00 Awaria taśmy, szukasz przyczyny z mechanikiem | 12:00 Kontrola higieny przed następną partią | 14:00 Układasz harmonogram przeglądów na miesiąc",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 602
+ },
+ {
+  "name": "Inżynier technologii przetwórstwa skóry",
+  "path": "Inżynierowie > Inżynierowie ds. przemysłu i produkcji",
+  "hook": "Pilnujesz, żeby zamówienia na wyroby skórzane powstawały na czas. Łączysz plan produkcji z magazynem, sprzedażą i wymaganiami klienta.",
+  "tasks": "Planujesz harmonogram produkcji wyrobów ze skóry | Śledzisz postępy w realizacji zamówień | Sprawdzasz z magazynem ilość i jakość materiałów | Ustalasz z działem sprzedaży wymagania klienta",
+  "day": "8:00 Sprawdzasz harmonogram i postęp zamówień | 10:00 Rozmowa z magazynem o brakującej skórze | 12:30 Dział sprzedaży zmienia termin u klienta | 14:30 Przestawiasz plan produkcji na kolejny tydzień",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 606
+ },
+ {
+  "name": "Specjalista ds. logistyki",
+  "path": "Inżynierowie > Inżynierowie ds. przemysłu i produkcji",
+  "hook": "Układasz drogę towaru od producenta do klienta: transport, magazyn i dostawę. Szukasz rozwiązań, które są szybsze i tańsze.",
+  "tasks": "Analizujesz łańcuch dostaw i znajdujesz problemy | Porównujesz koszty różnych sposobów transportu | Planujesz magazynowanie i dystrybucję towarów | Doradzasz kierownikom, jak usprawnić dostawy",
+  "day": "8:00 Sprawdzasz, które dostawy mają opóźnienie | 10:00 Dzwonisz do przewoźnika w sprawie zmiany trasy | 12:30 Porównujesz dwa warianty magazynowania towaru | 15:00 Przedstawiasz kierownikowi tańszy plan dostaw",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 608
+ },
+ {
+  "name": "Specjalista ds. pakowania i opakowań",
+  "path": "Inżynierowie > Inżynierowie ds. przemysłu i produkcji",
+  "hook": "Projektujesz opakowania tak, żeby towar dojechał do klienta w całości i dobrze wyglądał. Gdy coś psuje się w transporcie, szukasz przyczyny w opakowaniu.",
+  "tasks": "Projektujesz opakowania do konkretnych produktów | Testujesz, czy towar przetrwa transport | Analizujesz uszkodzone przesyłki | Dobierasz kształt i materiał opakowania",
+  "day": "8:30 Oglądasz zwrócone paczki z uszkodzonym towarem | 10:30 Projektujesz wkładkę, która unieruchomi szklany słoik | 13:00 Sprawdzasz, jak opakowanie znosi wstrząsy i upadki | 15:00 Ustalasz z klientem wymiary i wygląd pudełka",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 609
+ },
+ {
+  "name": "Technolog odzieży",
+  "path": "Inżynierowie > Inżynierowie ds. przemysłu i produkcji",
+  "hook": "Odpowiadasz za to, żeby ubranie z projektu stało się produktem, który da się uszyć i który trzyma wymagania. Sprawdzasz próbki, szwy i materiały.",
+  "tasks": "Sprawdzasz próbki odzieży pod kątem wad | Dopasowujesz specyfikację do możliwości produkcji | Kontrolujesz materiały i wykonanie szwów | Rozmawiasz ze szwalnią o poprawkach",
+  "day": "8:00 Oglądasz próbną koszulę od szwalni | 10:00 Mierzysz elementy i porównujesz z tabelą wymiarów | 13:00 Rozmowa ze szwalnią o krzywym szwie | 15:00 Zatwierdzasz zmiany w specyfikacji produktu",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 611
+ },
+ {
+  "name": "Technolog pakowania żywności i napojów",
+  "path": "Inżynierowie > Inżynierowie ds. przemysłu i produkcji",
+  "hook": "Dbasz o to, żeby jedzenie i napoje miały opakowanie bezpieczne, trwałe i zgodne z wymaganiami firmy. Czasem opracowujesz też projekt nowego opakowania.",
+  "tasks": "Oceniasz opakowania różnych produktów spożywczych | Sprawdzasz, czy opakowanie chroni żywność | Pilnujesz specyfikacji i wymagań firmy | Opracowujesz projekty nowych opakowań",
+  "day": "8:00 Oglądasz próbki opakowań z nowej partii | 10:00 Sprawdzasz, czy zgrzew torebki jest szczelny | 12:30 Spotkanie o zmianie opakowania napoju | 15:00 Rysujesz wymiary butelki dla nowego produktu",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 612
+ },
+ {
+  "name": "Metalurg",
+  "path": "Inżynierowie > Inżynierowie górnicy, metalurdzy i inżynierowie w dziedzinach pokrewnych > Metalurg",
+  "hook": "Zajmujesz się metalami: jak je pozyskać, przetworzyć i połączyć w stopy o potrzebnych właściwościach. Pracujesz w hucie, zakładzie albo laboratorium badawczym.",
+  "tasks": "Badasz właściwości metali i ich stopów | Dobierasz skład stopu do zastosowania | Nadzorujesz przetwarzanie i formowanie metalu | Sprawdzasz próbki pod kątem wytrzymałości",
+  "day": "7:00 Odbierasz próbki z nocnego wytopu | 9:00 Test twardości i wytrzymałości kawałka stopu | 12:00 Zmieniasz skład stopu po wynikach badań | 14:00 Omawiasz z klientem wymagania wobec metalu",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 613
+ },
+ {
+  "name": "Specjalista ds. metalurgii chemicznej",
+  "path": "Inżynierowie > Inżynierowie górnicy, metalurdzy i inżynierowie w dziedzinach pokrewnych > Metalurg",
+  "hook": "Pomagasz odzyskiwać wartościowe składniki z rud i materiałów z recyklingu. Badasz też, jak metal się psuje, na przykład koroduje lub ulega zmęczeniu.",
+  "tasks": "Uczestniczysz w odzyskiwaniu składników z rud | Przetwarzasz materiały z recyklingu | Badasz korozję metalu w laboratorium | Sprawdzasz zmęczenie materiału po wielu obciążeniach",
+  "day": "8:00 Przygotowujesz próbki rudy do badań | 10:30 Obserwujesz, jak metal koroduje w komorze testowej | 13:00 Zapisujesz wyniki zmęczenia materiału w tabeli | 15:00 Rozmowa z zespołem o odzysku z odpadów",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 614
+ },
+ {
+  "name": "Specjalista ds. metalurgii procesowej",
+  "path": "Inżynierowie > Inżynierowie górnicy, metalurdzy i inżynierowie w dziedzinach pokrewnych > Metalurg",
+  "hook": "Badasz rudy miedzi, niklu czy żelaza i sprawdzasz, ile metalu da się z nich uzyskać. Porównujesz też, jak zachowują się różne metale i stopy.",
+  "tasks": "Badasz właściwości rud w laboratorium | Porównujesz wydajność różnych metali i stopów | Analizujesz wyniki prób i pomiarów | Proponujesz zmiany w procesie przetwarzania rudy",
+  "day": "8:00 Dostajesz nową próbkę rudy miedzi | 10:00 Analizujesz, ile metalu da się z niej uzyskać | 13:00 Porównujesz dwa stopy w tabeli wyników | 15:00 Piszesz zalecenia dla huty",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 615
+ },
+ {
+  "name": "Inżynier bezpieczeństwa i higieny pracy w górnictwie",
+  "path": "Inżynierowie > Inżynierowie górnicy, metalurdzy i inżynierowie w dziedzinach pokrewnych",
+  "hook": "Chronisz górników przed wypadkami i chorobami w kopalni. Tworzysz zasady, sprawdzasz, czy są przestrzegane, i szukasz zagrożeń, zanim komuś stanie się krzywda.",
+  "tasks": "Opracowujesz procedury bezpiecznej pracy w kopalni | Wyszukujesz zagrożenia dla zdrowia pracowników | Badasz przyczyny wypadków i uszkodzeń sprzętu | Sprawdzasz, czy zasady są przestrzegane",
+  "day": "6:00 Odprawa ze zmianą przed zjazdem pod ziemię | 8:00 Obchód wyrobiska, szukasz zagrożeń | 11:30 Wyjaśniasz przyczyny wczorajszego incydentu przy maszynie | 14:00 Piszesz nową instrukcję dla brygady",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 616
+ },
+ {
+  "name": "Inżynier ds. rozwoju kopalni",
+  "path": "Inżynierowie > Inżynierowie górnicy, metalurdzy i inżynierowie w dziedzinach pokrewnych",
+  "hook": "Projektujesz i koordynujesz prace, dzięki którym kopalnia sięga nowych miejsc: drążenie tuneli i przekopów, prowadzenie wyrobisk, usuwanie skał nad złożem.",
+  "tasks": "Projektujesz drążenie tuneli i przekopów | Planujesz wyrobiska i dojścia do nowych pokładów | Koordynujesz brygady pracujące przy rozbudowie kopalni | Planujesz usuwanie skał leżących nad złożem",
+  "day": "7:00 Odprawa z brygadą drążącą nowy tunel | 9:30 Zjeżdżasz sprawdzić postęp prac w wyrobisku | 12:30 Poprawiasz rysunek przekroju tunelu po pomiarach | 14:30 Ustalasz z zaopatrzeniem terminy dostaw materiałów",
+  "skills": [
+   [
+    "Matematyka i fizyka",
+    "L"
+   ],
+   [
+    "Rysunek techniczny",
+    "R"
+   ],
+   [
+    "Rozwiązywanie problemów",
+    "L"
+   ],
+   [
+    "Programy do projektowania",
+    "L"
+   ],
+   [
+    "Dokładność",
+    "R"
+   ],
+   [
+    "Praca w zespole",
+    "P"
+   ]
+  ],
+  "plus": [
+   "Widzisz, jak projekt staje się rzeczą",
+   "Umiejętności potrzebne w wielu branżach",
+   "Różne specjalizacje"
+  ],
+  "minus": [
+   "Duża odpowiedzialność za bezpieczeństwo",
+   "Trudne studia",
+   "Presja terminów"
+  ],
+  "routes": [
+   {
+    "n": "Studia inżynierskie",
+    "s": [
+     [
+      "szkola",
+      "Liceum z mocną matematyką i fizyką",
+      4
+     ],
+     [
+      "studia",
+      "Studia inżynierskie na wybranym kierunku",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praktyki w zakładzie lub biurze projektowym",
+      0.5
+     ]
+    ]
+   },
+   {
+    "n": "Przez technikum",
+    "s": [
+     [
+      "szkola",
+      "Technikum w zawodzie technicznym",
+      5
+     ],
+     [
+      "studia",
+      "Studia inżynierskie, także zaoczne",
+      3.5
+     ],
+     [
+      "praktyka",
+      "Praca jako technik w trakcie studiów",
+      0
+     ]
+    ]
+   }
+  ],
+  "pay_group": "Inżynierowie (z wyłączeniem elektrotechnologii)",
+  "pay_median_2025": 9728.22,
+  "gen_id": 619
+ }
+]
