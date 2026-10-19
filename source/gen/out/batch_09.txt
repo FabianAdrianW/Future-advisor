@@ -89,10 +89,10 @@ D: 6:00 Obchód maszynowni, sprawdzasz olej i temperaturę silnika | 7:00 Odcumo
 Y: Zawiąż sznurek na poręczy krzesła węzłem cumowniczym według opisu z internetu i rozwiąż go.
 
 @555
-H: Pracujesz na pokładzie statku, który pływa po morzach, i pomagasz kapitanowi oraz oficerom. Sprzątasz, polerujesz, naprawiasz olinowanie i żagle, a pogodę i przebytą trasę zapisujesz w dzienniku.
-T: Szorujesz pokłady i polerujesz mosiądz | Kontrolujesz i naprawiasz żagle i olinowanie | Malujesz i lakierujesz powierzchnie statku | Zapisujesz pogodę i dystans w dzienniku
-D: 4:00 Wachta nocna na pokładzie, zapisujesz pogodę | 8:00 Szorujesz pokład i polerujesz mosiądz | 13:00 Sprawdzasz olinowanie i naprawiasz naderwany żagiel | 17:00 Lakierujesz drewniane wykończenia, potem odkładasz sprzęt
-Y: Zapisz w zeszycie jak w dzienniku okrętowym pogodę za oknem trzy razy co pięć minut.
+H: Pracujesz na statku handlowym i pomagasz wachtowemu oficerowi oraz bosmanowi przy pracach na pokładzie. Cumujesz statek, sprawdzasz sprzęt ratunkowy i pilnujesz porządku na pokładzie.
+T: Cumujesz i odcumowujesz statek przy nabrzeżu | Sprawdzasz sprzęt ratunkowy i włazy | Szorujesz pokłady i pomieszczenia załogi | Pilnujesz wachty na mostku i obserwujesz morze
+D: 4:00 Wachta nocna na mostku, obserwujesz radar i horyzont | 8:00 Szorujesz pokład i sprawdzasz linki cumownicze | 13:00 Sprawdzasz sprzęt ratunkowy i zapisujesz odczyty w dzienniku | 17:00 Konserwujesz pokład i pomieszczenia załogi
+Y: Zapisz w zeszycie pogodę za oknem trzy razy co godzinę, jak w dzienniku okrętowym.
 
 @556
 H: Należysz do załogi barki lub statku rzecznego i robisz po trochu wszystko: stoisz przy kole sterowym, pracujesz na pokładzie i w ładowni. Znasz też sprzęt ratunkowy i wiesz, jak go użyć.

@@ -113,10 +113,10 @@ D: 6:30 Zakładasz fartuch i czepek przed wejściem na halę | 7:30 Ustawiasz ka
 Y: Nasyp łyżeczką ryż do dziesięciu małych pojemników i sprawdź, czy w każdym jest tyle samo.
 
 @199
-H: Kontrolujesz piec, w którym wapień jest wypalany na wapno lub dwutlenek węgla. Śledzisz przepływ materiału, paliwa i powietrza, wprowadzasz korekty i prowadzisz dokumentację.
-T: Regulujesz dopływ wapienia, paliwa i powietrza | Obserwujesz wykresy temperatury i paliwa | Odczytujesz mierniki tlenu w piecu | Prowadzisz dokumentację produkcji
-D: 6:00 Przejmujesz piec i czytasz dziennik poprzedniej zmiany | 8:00 Wskazania tlenu spadają, korygujesz dopływ powietrza | 11:00 Sprawdzasz wykresy temperatury i paliwa | 14:00 Uzupełniasz dokumentację produkcyjną i oddajesz zmianę
-Y: Zmierz temperaturę w pokoju trzy razy w odstępie pięciu minut i narysuj z tego prosty wykres.
+H: Pilnujesz pieca, w którym wypala się wapień na wapno palone. Kontrolujesz temperaturę, paliwo i przepływ materiału, a w razie odchyleń wprowadzasz korekty na panelu sterowania.
+T: Dozujesz wapień i paliwo do pieca | Kontrolujesz temperaturę i przepływ powietrza | Odczytujesz mierniki i wykresy na panelu | Prowadzisz dziennik produkcji i pomiarów
+D: 5:00 Przejmujesz zmianę i odczyty z pieca | 9:00 Sprawdzasz temperaturę i poziom materiału | 13:00 Korygujesz przepływ powietrza przy panelu | 18:00 Zapisujesz wyniki produkcji w dzienniku
+Y: Przez godzinę zapisuj, ile razy zmienia się temperatura w domu, i narysuj prosty wykres.
 
 @200
 H: Obsługujesz prasę, która z rozdrobnionego mydła formuje kostki o określonym kształcie i rozmiarze. Pilnujesz, żeby kostki spełniały wymagania jakościowe.

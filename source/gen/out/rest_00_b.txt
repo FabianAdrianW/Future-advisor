@@ -17,10 +17,10 @@ D: 5:30 Przejmujesz piece, czytasz zapis temperatur z nocy | 7:00 Ładujesz now�
 Y: Zapisz co pięć minut temperaturę ciepłej wody w kubku i narysuj wykres stygnięcia.
 
 @843
-H: Obsługujesz urządzenia, które suszą, mieszają i sprasowują zrębki w twarde brykiety dla huty. Pilnujesz, żeby materiał miał odpowiednią wilgotność, a prasa pracowała bez przerw.
-T: Wsypujesz zrębki do suszarki | Sprawdzasz wilgotność i skład mieszanki | Obsługujesz prasę formującą brykiety | Układasz gotowe brykiety na palecie
-D: 6:00 Włączasz suszarnię, kontrolujesz, czy zrębki są suche | 8:00 Mieszanka trafia do prasy, ustawiasz docisk | 11:00 Oglądasz brykiety, kruszące się odrzucasz | 13:00 Układasz brykiety na palety i czyścisz stanowisko
-Y: Ściśnij mocno w dłoniach garść podartego papieru w zwartą kulkę i sprawdź, czy trzyma kształt.
+H: Obsługujesz prasę, która suszy i sprasowuje zrębki lub trociny w brykiety opałowe. Ustawiasz parametry maszyny i pilnujesz, żeby brykiety wychodziły równe i suche.
+T: Ustawiasz parametry prasy i podajnika | Kontrolujesz wilgotność i suszenie surowca | Sprawdzasz jakość gotowych brykietów | Czyścisz i konserwujesz zespoły prasy
+D: 6:00 Sprawdzasz pracę prasy po nocnej zmianie | 9:00 Ustawiasz wilgotność zrębków w suszarni | 13:00 Kontrolujesz kształt i twardość brykietów | 17:00 Czyścisz podajnik i zapisujesz przestoje
+Y: Zważ na kuchennej wadze kawałek suchego i mokrego drewna i porównaj, ile waży każdy.
 
 @844
 H: Obsługujesz prasę, w której matryca opada na blachę i wytłacza z niej mniejsze metalowe części. Ustawiasz maszynę i pilnujesz, żeby każda sztuka wychodziła taka sama.

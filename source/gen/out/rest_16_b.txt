@@ -113,10 +113,10 @@ D: 9:30 Dzwonisz do osób z listy badania | 12:00 Wypytujesz klienta o wrażenia
 Y: Wymyśl trzy pytania, dzięki którym dowiesz się, co ludzie myślą o szkolnej stołówce, bez podpowiadania odpowiedzi.
 
 @2209
-H: Odbierasz alarmowe telefony i decydujesz, jaki zespół ratunkowy trzeba wysłać. W stresie szybko zbierasz adres i najważniejsze informacje.
-T: Odbierasz pilne zgłoszenia | Zbierasz adres i opis zdarzenia | Przekazujesz dane najbliższej karetce | Utrzymujesz kontakt z dzwoniącym do przyjazdu pomocy
-D: 6:00 Przejmujesz zmianę w centrum dyspozytorskim | 9:00 Przyjmujesz zgłoszenie o osobie, która zasłabła | 14:00 Kierujesz karetkę do wypadku na drodze | 18:00 Przekazujesz zmianę i wpisujesz raport
-Y: Naucz się na pamięć trzech informacji, które trzeba podać przy zgłoszeniu zdarzenia, i powtórz je domownikowi.
+H: Odbierasz zgłoszenia alarmowe w centrum dyspozytorskim, zadajesz pytania o stan poszkodowanego i kierujesz najbliższy zespół ratunkowy. Od Twojej decyzji zależy, czy karetka wyjedzie od razu.
+T: Odbierasz zgłoszenia pod numerem alarmowym | Zadajesz pytania i zapisujesz dane zdarzenia | Wybierasz zespół ratunkowy i kierujesz go | Podajesz instrukcje osobie na miejscu zdarzenia
+D: 6:00 Przejmujesz zmianę i stanowisko od nocnego dyspozytora | 9:00 Odbierasz zgłoszenie o upadku z drabiny | 13:00 Kierujesz karetkę do wypadku na drodze | 18:00 Zapisujesz przebieg zdarzeń w karcie i raporcie
+Y: Napisz na kartce trzy pytania, które zadałbyś osobie dzwoniącej po pomoc.
 
 @2210
 H: Łączysz rozmowy do właściwych osób w firmie i odpowiadasz na pytania dzwoniących. Zgłaszasz też problemy z połączeniami.
