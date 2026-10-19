@@ -728,7 +728,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   // ---- filtry zawodów ----
   var RMAP = DATA.rm || {};
   var FOPT = {
-    edu: [['nostud', 'Bez studiów'], ['kurs', 'Po kursie'], ['nomat', 'Bez matury'], ['mat', 'Po maturze'], ['stud', 'Po studiach']],
+    edu: [['nostud', 'Bez studiów'], ['kurs', 'Po kursie'], ['nomat', 'Bez matury'], ['mat', 'Po maturze'], ['stud', 'Przez studia']],
     rm: [['2', 'Całkowicie zdalnie'], ['1', 'Hybrydowo'], ['0', 'Na miejscu']],
     mk: [['up', 'Rośnie'], ['flat', 'Stabilnie'], ['down', 'Trudniej']],
     tm: [[1, 'do roku'], [3, 'do 3 lat'], [5, 'do 5 lat']]
@@ -833,8 +833,8 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     for (var i = 0; i < INDEX.length; i++) {
       var e = INDEX[i], ok = true;
       for (var j = 0; j < words.length; j++) {
-        // krótkie hasła (np. „AI”) muszą być całym słowem, inaczej trafiają w środek innych wyrazów
-        var found = words[j].length <= 2 ? (' ' + e.h.replace(/[^a-z0-9]+/g, ' ') + ' ').indexOf(' ' + words[j] + ' ') >= 0 : e.h.indexOf(words[j]) >= 0;
+        // zapytanie dopasowuje początek słowa (np. „ryb” trafia w „rybak”, ale nie w „przybory”); dłuższe frazy również w środku
+        var found = (' ' + e.h.replace(/[^a-z0-9]+/g, ' ') + ' ').indexOf(' ' + words[j]) >= 0 || (words[j].length > 4 && e.h.indexOf(words[j]) >= 0);
         if (!found) { ok = false; break; }
       }
       if (!ok) continue;
