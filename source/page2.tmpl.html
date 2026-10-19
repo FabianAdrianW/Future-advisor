@@ -668,7 +668,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     var ci = fixed ? -1 : S.city, city = ci >= 0 && CITIES[ci], r = payRange(p.med, ci, p.q), base = payRange(p.med, -1, p.q), LO = 4000, HI = 26000;
     var why = fixed ? 'w tym zawodzie płace ustalają przepisy i siatki płac, a nie rynek pracy.' : p.digits < 3 ? 'nie mamy danych dla tego konkretnego zawodu, więc pokazujemy średnią dla szerszej grupy.' : 'mamy dane dla grupy zawodów, do której należy ten zawód, a nie dla tego jednego zawodu.';
     var pos = function (x) { return Math.max(0, Math.min(100, (x - LO) / (HI - LO) * 100)); };
-    var h = '<section class="sec"><div class="sec-h"><h2>Zarobki</h2><p>Typowe widełki na etacie, brutto miesięcznie.</p></div><div class="card pay">' +
+    var h = '<section class="sec"><div class="sec-h"><h2>Zarobki</h2><p>Typowe widełki na etacie, brutto miesięcznie. To szacunek dla grupy zawodów, nie dla tego jednego zawodu.</p></div><div class="card pay">' +
       '<span class="eyebrow">' + esc(city ? city[0] : 'Cała Polska') + '</span><b class="amt">' + money(r[0]) + ' – ' + money(r[1]) + ' <span>zł brutto</span></b>' +
       '<div class="track" role="img" aria-label="Widełki od ' + r[0] + ' do ' + r[1] + ' zł"><i style="left:' + pos(r[0]) + '%;width:' + Math.max(3, pos(r[1]) - pos(r[0])) + '%"></i>' + (city ? '<u style="left:' + pos((base[0] + base[1]) / 2) + '%" title="Środek widełek w całej Polsce"></u>' : '') + '</div>' +
       '<div class="scale"><span>4 tys.</span><span>15 tys.</span><span>26 tys. zł</span></div>';
