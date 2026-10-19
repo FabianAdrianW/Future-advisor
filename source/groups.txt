@@ -75,7 +75,7 @@ R ST biologia, ochrona środowiska, biotechnologia lub rolnictwo 5
 S Matematyka i fizyka/L, Rysunek techniczny/R, Rozwiązywanie problemów/L, Programy do projektowania/L, Dokładność/R, Praca w zespole/P
 P Widzisz, jak projekt staje się rzeczą; Umiejętności potrzebne w wielu branżach; Różne specjalizacje
 M Duża odpowiedzialność za bezpieczeństwo; Trudne studia; Presja terminów
-R Studia inżynierskie: szkola=Liceum lub technikum z mocną matematyką i fizyką=4 > studia=Studia inżynierskie na wybranym kierunku=3.5 > praktyka=Praktyki w zakładzie lub biurze projektowym=0.5
+R Studia inżynierskie: szkola=Liceum z mocną matematyką i fizyką=4 > studia=Studia inżynierskie na wybranym kierunku=3.5 > praktyka=Praktyki w zakładzie lub biurze projektowym=0.5
 R Przez technikum: szkola=Technikum w zawodzie technicznym=5 > studia=Studia inżynierskie, także zaoczne=3.5 > praktyka=Praca jako technik w trakcie studiów=0
 #215 =214 Inżynierowie elektrycy i elektronicy
 S Matematyka i fizyka/L, Czytanie schematów/L, Elektronika i pomiary/R, Programowanie urządzeń/L, Dokładność/R, Dbałość o bezpieczeństwo/R
@@ -86,7 +86,7 @@ M Wiele poprawek po uwagach klienta; Presja terminów; Efekt zależy też od bud
 R ST architektura, wzornictwo lub projektowanie 3.5
 R Portfolio: kurs=Kurs rysunku i programów do projektowania=1 > projekt=Własne projekty i portfolio=1 > praktyka=Staż w pracowni projektowej=0.5
 #2161 =216 Architekci budowlani
-R Studia i uprawnienia: szkola=Liceum lub technikum; przyda się rysunek i matematyka=4 > kurs=Kurs rysunku przed egzaminem na studia=0.5 > studia=Studia z architektury=5 > praktyka=Praktyka w pracowni i na budowie=2 > egzamin=Uprawnienia budowlane=0
+R Studia i uprawnienia: szkola=Liceum; przyda się rysunek i matematyka=4 > kurs=Kurs rysunku przed egzaminem na studia=0.5 > studia=Studia z architektury=5 > praktyka=Praktyka w pracowni i na budowie=2 > egzamin=Uprawnienia budowlane=0
 #2162 =2161 Architekci krajobrazu
 #2164 =216 Urbaniści i inżynierowie ruchu
 R ST gospodarka przestrzenna, architektura lub transport 5
@@ -182,7 +182,7 @@ R Własne projekty: kurs=Kurs marketingu internetowego=0.5 > projekt=Prowadzenie
 S Logiczne myślenie/L, Programowanie/L, Angielski techniczny/S, Cierpliwość do błędów/L, Praca w zespole/P, Samodzielna nauka/L
 P Widzisz efekt swojej pracy na ekranie; Często możliwa praca zdalna; Ciągle uczysz się nowych rzeczy
 M Wiele godzin przed ekranem; Technologie szybko się zmieniają; Błędy potrafią frustrować
-R Przez studia: szkola=Liceum lub technikum z mocną matematyką=4 > projekt=Własne małe projekty pokazane w sieci=0 > studia=Studia informatyczne=3.5 > praktyka=Staż w firmie technologicznej=0.5
+R Przez studia: szkola=Liceum z mocną matematyką=4 > projekt=Własne małe projekty pokazane w sieci=0 > studia=Studia informatyczne=3.5 > praktyka=Staż w firmie technologicznej=0.5
 R Przez technikum: szkola=Technikum informatyczne lub programistyczne=5 > projekt=Portfolio własnych projektów=0 > praktyka=Staż lub pierwsza praca na młodszym stanowisku=0.5
 R Samodzielnie: kurs=Kurs podstaw z wybranej dziedziny=0.5 > projekt=Trzy własne projekty, coraz trudniejsze=1 > praktyka=Staż albo zlecenia dla małych firm=0.5
 #252 =251 Bazy danych i sieci
@@ -247,13 +247,13 @@ R TE technik budownictwa
 S Kierowanie zespołem/P, Znajomość maszyn i procesu/R, Planowanie pracy zmiany/L, Dbałość o bezpieczeństwo/R, Rozwiązywanie problemów/L, Jasne polecenia/P
 P Odpowiadasz za konkretny efekt; Awans z poziomu fachowca; Praca z ludźmi i techniką
 M Odpowiedzialność za ludzi i terminy; Praca zmianowa; Presja z góry i z dołu
-R Od fachowca: szkola=Szkoła branżowa lub technikum w zawodzie=4 > praktyka=Kilka lat pracy na stanowisku=4 > egzamin=Tytuł mistrza lub kurs dla brygadzistów=0.5
+R Od fachowca: szkola=Szkoła branżowa I stopnia w zawodzie=3 > praktyka=Kilka lat pracy na stanowisku=4 > egzamin=Tytuł mistrza lub kurs dla brygadzistów=0.5
 #313 Energetyka i sterowanie procesami
 S Uważne śledzenie wskaźników/L, Znajomość instalacji/R, Szybka reakcja na awarie/R, Zasady bezpieczeństwa/R, Odpowiedzialność/P, Podstawy automatyki/L
 P Stabilna praca w dużych zakładach; Odpowiedzialne stanowisko; Jasne procedury
 M Praca na zmiany, także w nocy; Duża odpowiedzialność; Monotonia przerywana nagłymi awariami
 R TE technik energetyk, elektryk, automatyk lub technolog chemiczny
-R Uprawnienia: szkola=Szkoła branżowa lub technikum=4 > kurs=Szkolenie stanowiskowe w zakładzie=0.5 > egzamin=Uprawnienia do obsługi urządzeń=0
+R Uprawnienia: szkola=Szkoła branżowa I stopnia=3 > kurs=Szkolenie stanowiskowe w zakładzie=0.5 > egzamin=Uprawnienia do obsługi urządzeń=0
 #314 Technicy biologii, rolnictwa i leśnictwa
 S Wiedza przyrodnicza/N, Praca w terenie/N, Dokładność pomiarów/L, Obsługa sprzętu/R, Obserwacja/N, Prowadzenie dokumentacji/S
 P Praca blisko przyrody; Konkretne, praktyczne zadania; Różne miejsca pracy
@@ -353,7 +353,7 @@ R Portfolio: kurs=Kurs fotografii i obróbki zdjęć=0.5 > projekt=Własne sesje
 R TE technik fotografii i multimediów
 #3432 =216 Projektanci i dekoratorzy wnętrz
 #3434 =512 Szefowie kuchni
-R Od kucharza: szkola=Szkoła branżowa lub technikum gastronomiczne=4 > praktyka=Praca jako kucharz na kolejnych stanowiskach=4 > praktyka=Zastępca szefa kuchni=1
+R Od kucharza: szkola=Szkoła branżowa I stopnia (gastronomiczna)=3 > praktyka=Praca jako kucharz na kolejnych stanowiskach=4 > praktyka=Zastępca szefa kuchni=1
 #351 Technicy IT i wsparcie użytkowników
 S Znajomość sprzętu i systemów/L, Cierpliwe tłumaczenie/P, Szukanie przyczyn usterek/L, Dokładność/L, Angielski techniczny/S, Spokój przy awariach/P
 P Pomagasz ludziom od ręki; Dobry start do branży IT; Potrzebni w każdej firmie
@@ -599,7 +599,7 @@ R TE technik przemysłu mody
 S Spostrzegawczość/L, Dokładność/R, Znajomość norm/S, Uczciwość/P, Obsługa przyrządów pomiarowych/R, Cierpliwość/L
 P Pilnujesz, żeby produkt był dobry; Jasne kryteria; Odpowiedzialna rola
 M Powtarzalne czynności; Trzeba odrzucać cudzą pracę; Praca zmianowa
-R Od stanowiska: szkola=Szkoła branżowa lub technikum zgodne z branżą=4 > praktyka=Praca na produkcji=1 > kurs=Szkolenie z kontroli jakości=0
+R Od stanowiska: szkola=Szkoła branżowa I stopnia (zgodna z branżą)=3 > praktyka=Praca na produkcji=1 > kurs=Szkolenie z kontroli jakości=0
 
 #811 Górnictwo i wydobycie
 S Siła i kondycja/N, Obsługa ciężkich maszyn/R, Zasady bezpieczeństwa/R, Praca w zespole/P, Odporność na trudne warunki/N, Czujność/L
@@ -726,4 +726,4 @@ S Wyczucie koloru i formy/O, Zręczne ręce/R, Wiedza o roślinach/N, Rozmowa z 
 P Tworzysz piękne rzeczy z natury; Efekt widać od razu; Możliwa własna kwiaciarnia
 M Wczesne poranki i praca w święta; Chłód i wilgoć; Sezonowe szczyty
 R Kurs: kurs=Kurs florystyczny=0.5 > praktyka=Praca w kwiaciarni=1
-R Szkoła: szkola=Szkoła branżowa lub technikum florystyczne=3 > egzamin=Egzamin zawodowy=0
+R Szkoła: szkola=Szkoła branżowa I stopnia (florystyka)=3 > egzamin=Egzamin zawodowy=0

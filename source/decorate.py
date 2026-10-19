@@ -33,7 +33,7 @@ def macro_route(kind, arg):
     if kind == "TE":
         return {"n": "Technikum", "s": [["szkola", "Technikum: " + arg, 5], ["praktyka", "Praktyki zawodowe w trakcie szkoły", 0], ["egzamin", "Egzaminy zawodowe i matura", 0]]}
     if kind == "ST":
-        return {"n": "Przez studia", "s": [["szkola", "Liceum lub technikum", 4], ["studia", "Studia: " + arg, years or 3], ["praktyka", "Staż lub praktyki w zawodzie", 0.5]]}
+        return {"n": "Przez studia", "s": [["szkola", "Liceum", 4], ["studia", "Studia: " + arg, years or 3], ["praktyka", "Staż lub praktyki w zawodzie", 0.5]]}
     if kind == "PO":
         return {"n": "Szkoła policealna", "s": [["szkola", "Szkoła średnia", 4], ["kurs", "Szkoła policealna: " + arg, 2], ["egzamin", "Egzamin zawodowy", 0]]}
     if kind == "KU":

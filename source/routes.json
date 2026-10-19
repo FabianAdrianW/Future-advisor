@@ -1,6 +1,6 @@
 {
   "Twórca oprogramowania": [
-    {"n": "Przez studia", "s": [["szkola", "Liceum lub technikum z mocną matematyką", 4], ["projekt", "Dwa lub trzy własne małe programy pokazane w sieci", 0], ["studia", "Studia informatyczne (inżynierskie)", 3.5], ["praktyka", "Staż lub praktyki w firmie programistycznej", 0.5]]},
+    {"n": "Przez studia", "s": [["szkola", "Liceum z mocną matematyką", 4], ["projekt", "Dwa lub trzy własne małe programy pokazane w sieci", 0], ["studia", "Studia informatyczne (inżynierskie)", 3.5], ["praktyka", "Staż lub praktyki w firmie programistycznej", 0.5]]},
     {"n": "Przez technikum", "s": [["szkola", "Technikum na kierunku technik programista", 5], ["projekt", "Portfolio: własne aplikacje i kod w sieci", 0], ["praktyka", "Staż albo pierwsza praca jako młodszy programista", 0.5]]},
     {"n": "Samodzielnie", "s": [["kurs", "Kurs podstaw programowania, np. Python lub JavaScript", 0.5], ["projekt", "Trzy własne projekty, każdy trudniejszy od poprzedniego", 1], ["praktyka", "Staż albo zlecenia dla znajomych i małych firm", 0.5]]}
   ],
@@ -10,15 +10,15 @@
   ],
   "Projektant interfejsu użytkownika": [
     {"n": "Kursy i portfolio", "s": [["kurs", "Kurs projektowania interfejsów i obsługi Figmy", 0.5], ["projekt", "Przeprojektuj trzy istniejące aplikacje", 0.5], ["projekt", "Portfolio z opisem, dlaczego tak, a nie inaczej", 0], ["praktyka", "Staż w zespole produktowym lub agencji", 0.5]]},
-    {"n": "Przez studia", "s": [["szkola", "Liceum (także plastyczne) lub technikum", 4], ["studia", "Studia: grafika, wzornictwo, informatyka lub psychologia", 3], ["projekt", "Portfolio z projektami aplikacji", 0], ["praktyka", "Staż w zespole produktowym", 0.5]]}
+    {"n": "Przez studia", "s": [["szkola", "Liceum (także plastyczne)", 4], ["studia", "Studia: grafika, wzornictwo, informatyka lub psychologia", 3], ["projekt", "Portfolio z projektami aplikacji", 0], ["praktyka", "Staż w zespole produktowym", 0.5]]}
   ],
   "Projektant grafiki": [
     {"n": "Szkoła plastyczna", "s": [["szkola", "Liceum sztuk plastycznych", 5], ["projekt", "Portfolio: plakaty, logo, identyfikacje", 0], ["praktyka", "Praktyki w studiu graficznym lub drukarni", 0.5]]},
-    {"n": "Przez studia", "s": [["szkola", "Liceum lub technikum", 4], ["studia", "Studia graficzne lub projektowe", 3], ["projekt", "Portfolio z najlepszymi pracami", 0], ["praktyka", "Staż w agencji lub studiu", 0.5]]},
+    {"n": "Przez studia", "s": [["szkola", "Liceum", 4], ["studia", "Studia graficzne lub projektowe", 3], ["projekt", "Portfolio z najlepszymi pracami", 0], ["praktyka", "Staż w agencji lub studiu", 0.5]]},
     {"n": "Samodzielnie", "s": [["kurs", "Kurs programów graficznych", 0.5], ["projekt", "Zlecenia dla szkoły, znajomych i lokalnych firm", 1], ["projekt", "Portfolio w sieci", 0]]}
   ],
   "Twórca gier komputerowych": [
-    {"n": "Przez studia", "s": [["szkola", "Liceum lub technikum informatyczne", 4], ["studia", "Studia informatyczne lub kierunek związany z grami", 3.5], ["projekt", "Ukończona mała gra i udział w game jamie", 0], ["praktyka", "Staż w studiu gier, często jako tester", 0.5]]},
+    {"n": "Przez studia", "s": [["szkola", "Liceum informatyczne", 4], ["studia", "Studia informatyczne lub kierunek związany z grami", 3.5], ["projekt", "Ukończona mała gra i udział w game jamie", 0], ["praktyka", "Staż w studiu gier, często jako tester", 0.5]]},
     {"n": "Samodzielnie", "s": [["kurs", "Kurs darmowego silnika gier", 0.5], ["projekt", "Trzy małe, ukończone gry", 1], ["projekt", "Game jam: gra zrobiona w weekend, w zespole", 0], ["praktyka", "Pierwsza praca w studiu, np. jako tester", 0.5]]}
   ],
   "Operator dźwięku": [
@@ -76,7 +76,7 @@
     {"n": "Studia lotnicze", "s": [["szkola", "Szkoła średnia; ważny angielski, matematyka i fizyka", 4], ["egzamin", "Badania lotniczo-lekarskie", 0], ["studia", "Studia lotnicze ze szkoleniem pilota", 3.5], ["praktyka", "Zbieranie godzin w powietrzu i rekrutacja do linii", 1]]}
   ],
   "Inżynier AI": [
-    {"n": "Przez studia", "s": [["szkola", "Liceum lub technikum z mocną matematyką", 4], ["studia", "Studia informatyczne lub pokrewne", 3.5], ["projekt", "Własny asystent lub narzędzie oparte na modelu AI", 0], ["praktyka", "Staż w zespole budującym produkty z AI", 0.5]]},
+    {"n": "Przez studia", "s": [["szkola", "Liceum z mocną matematyką", 4], ["studia", "Studia informatyczne lub pokrewne", 3.5], ["projekt", "Własny asystent lub narzędzie oparte na modelu AI", 0], ["praktyka", "Staż w zespole budującym produkty z AI", 0.5]]},
     {"n": "Samodzielnie", "s": [["kurs", "Podstawy programowania w Pythonie", 0.5], ["kurs", "Kurs budowania aplikacji z modelami językowymi", 0.5], ["projekt", "Trzy działające projekty pokazane w sieci", 0.5], ["praktyka", "Staż albo zlecenia dla małych firm", 0.5]]}
   ]
 }
