@@ -627,6 +627,20 @@ assert not missing_details, missing_details
 print("drogi niedopasowane:", sorted(set(ROUTE_FIX) - ROUTE_FIX_USED))
 print("korekty grup niedopasowane:", sorted(set(PAY_FIX) - PAY_FIX_USED))
 tree["stats"]["detailed"] = len(details)
+# Zdublowane nazwy krotkie (np. kilka "Asystent") zastepujemy pelna nazwa, jesli ja mamy.
+import collections as _col
+_lv = []
+def _collect(x):
+    if "c" in x:
+        for c in x["c"]: _collect(c)
+    else: _lv.append(x)
+for _a in tree["areas"]: _collect(_a)
+_cnt = _col.Counter(x["n"] for x in _lv)
+_dups = 0
+for x in _lv:
+    if _cnt[x["n"]] > 1 and x.get("fn"):
+        x["n"] = x["fn"]; _dups += 1
+print("zdublowane nazwy poprawione:", _dups)
 tree["groups"] = {k: G[k] for k in sorted(USED_G)}
 tree["stats"]["groups"] = len(USED_G)
 
