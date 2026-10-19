@@ -155,6 +155,16 @@ ROUTE_FIX = {
 }
 ROUTE_FIX_USED = set()
 
+
+# Zmiana nazwy wyswietlanej zawodu. Pelna (stara) nazwa zostaje w polu fn, zeby dzialaly wpisy generowane i szczegoly.
+DISPLAY_FIX = {
+    "Technik ds. procesu tkania": "Operator krosien",
+    "Technik przenoszenia zarodków zwierzęcych": "Asystent przy transferze zarodków",
+    "Technik technologii wyrobów skórzanych": "Inżynier technologii wyrobów skórzanych",
+    "Asystent / asystentka chirurga": "Instrumentariusz chirurgiczny",
+    "Pracownik ds. wsparcia dla osób z zaburzeniami psychicznym": "Asystent osoby z zaburzeniami psychicznymi",
+}
+
 def slug(name):
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
@@ -587,6 +597,9 @@ def deco(n, parent_img):
         for c in n["c"]:
             deco(c, img)
     else:
+        if full in DISPLAY_FIX and not n.get("fn"):
+            n["fn"] = full
+            n["n"] = DISPLAY_FIX[full]
         _pf = next((k for k in (full, n.get("n")) if k in PAY_FIX), None)
         if _pf: PAY_FIX_USED.add(_pf)
         n["gk"] = n.get("gk") or gkey(n.get("u"))
