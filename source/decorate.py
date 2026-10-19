@@ -137,10 +137,10 @@ PAY_FIX = {
     "Operator urządzeń do utylizacji odpadów płynnych": "818", "Specjalista w zakresie substancji roślinnych": "314",
     "Technik przenoszenia zarodków zwierzęcych": "324", "Projektant makiet scenograficznych": "265",
     "Wykonawca mebli wyplatanych": "752", "Specjalista ds. sprzedaży egzekucyjnej nieruchomości": "244",
-    "Pracownik ds. wsparcia dla osób z zaburzeniami psychicznymi": "532", "Asystent nauczyciela dla dzieci o specjalnych potrzebach edukacyjnych": "531",
-    "Nauczyciel przedszkolny dzieci ze SPE": "234", "Doradca edukacyjny": "263", "Konsultant podróży": "332",
-    "Operator centralnej sterowni w rafinerii": "813", "Koordynator programów zatrudnienia": "242",
-    "Artysta sztuki ulicznej": "343", "Operator maszyn do produkcji obuwia": "753",
+    "Pracownik ds. wsparcia dla osób z zaburzeniami psychicznym": "532", "Asystent nauczyciela dla dzieci o specjalnych potrzebach edukacyjnych": "531",
+    "Nauczyciel nauczania przedszkolnego dzieci ze specjalnymi potrzebami edukacyjnymi/nauczycielka nauczania przedszkolnego dzieci ze specjalnymi potrzebami edukacyjnymi": "234", "Doradca edukacyjny": "263", "Konsultant podróży": "332",
+    "Operator centralnej sterowni w rafinerii ropy naftowej": "813", "Koordynator programów zatrudnienia": "242",
+    "Artysta sztuki ulicznej / artystka sztuki ulicznej": "343", "Operator maszyn do produkcji obuwia": "753",
 }
 PAY_FIX_USED = set()
 
