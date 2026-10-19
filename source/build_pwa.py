@@ -20,9 +20,12 @@ import csv as _csv
 for l in open(B/'pay_raw.txt',encoding='utf-8'):
     if '|' in l: n_,m_=l.strip().rsplit('|',1); names.setdefault(int(m_),n_)
 pay={}
+_gus=json.loads((B/'pay_gus2024.json').read_text(encoding='utf-8'))['grupy']
 for l in open(B/'pay_codes.txt'):
     for x in l.strip().split('|'):
-        c_,m_=x.split(); pay[c_]=[int(m_),names[int(m_)]]
+        c_,m_=x.split()
+        # 952 nie ma w GUS 2024; mediana jak 951, nazwa z ISCO-08 (sprzedawcy uliczni)
+        pay[c_]=[int(m_),(_gus[c_]['n'] if c_ in _gus else ('Sprzedawcy uliczni i pracownicy świadczący usługi na ulicach' if c_=='952' else names[int(m_)]))]
 data['pay']=pay; data['minpay']=4806
 # kwartyle (P25/P75) z GUS 2024 przeliczone na 2025 tym samym przelicznikiem co mediany; tylko grupy z pay_codes
 _gq=json.loads((B/'pay_gus2024.json').read_text(encoding='utf-8'))
