@@ -1,4 +1,4 @@
-<title>Prototyp drzewa zawodów</title>
+<title>Kompas karier, drzewo zawodów</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=Figtree:wght@400..800&display=swap">
 <style>
 /* Układ: kolumna telefonu, ilustrowane kafle w kolorach sześciu korzeni; kafel dwukolorowy = zawód wyrasta z dwóch korzeni. */
@@ -483,9 +483,10 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   }
   function kursSlot(key) {
     var K = (DATA.kursy || {})[key] || {}, offers = K.oferty || [];
+    if (!offers.length) return '';
     var body = offers.length
       ? offers.map(function (o) { return '<a class="row" href="' + esc(o.url) + '" target="_blank" rel="sponsored noopener"><span class="txt"><b>' + esc(o.nazwa) + '</b><span class="small">' + esc(o.opis || '') + '</span><span class="small">Reklama · partner</span></span></a>'; }).join('')
-      : '<p class="small">Oferty kursów od partnerów pojawią się tutaj. Na razie nie współpracujemy z żadnym dostawcą kursów.</p>';
+      : '';
     return '<section class="sec"><div class="sec-h"><h2>Kursy w tej drodze</h2>' + (K.wymaga ? '<p>' + esc(K.wymaga) + '</p>' : '') + '</div><div class="list">' + body + '</div></section>';
   }
   function planSteps(plan, n) {
@@ -567,7 +568,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
       h += '<section class="sec"><button type="button" class="rowi" data-tab="plan"><span class="tile" style="' + tint(n0.w) + '">' + img(n0.i, '', 40) + '</span><span class="txt"><span class="sub">Twój plan: ' + esc(n0.n) + '</span><span class="name">' + (nx0 ? 'Następny krok: ' + esc(nx0.s[1]) : 'Wszystkie kroki zrobione') + '</span></span>' + CHEV + '</button></section>';
     }
     if (hasProfile()) {
-      var top = sorted(AREAS).slice(0, 6);
+      var top = sorted(AREAS).filter(function (a) { return a.k > 0; }).slice(0, 6);
       h += '<section class="sec"><div class="sec-h"><h2>Dla Ciebie</h2><p>Bo lubisz: ' + esc(likes(null, 3).join(' · ')) + '. <button type="button" class="link" data-act="edit">Zmień</button></p></div><div class="hscroll">' + top.map(areaCard).join('') + '</div></section>';
     } else {
       h += '<section class="sec"><div class="card banner">' + img('bullseye', '', 64) + '<div class="txt"><b>Ustaw kierunki pod siebie</b><span class="small">Zaznacz, co lubisz, a pokażę, co do Ciebie pasuje.</span><button type="button" class="btn sm" data-act="edit">Zaczynam</button></div></div></section>';
@@ -622,7 +623,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     for (k in g) m[k] = g[k];
     if (j) for (k in j) m[k] = j[k];
     var lab = m.label || 'none', ico = { up: 'chart-increasing', flat: 'balance-scale', down: 'magnifying-glass-tilted-left', none: 'magnifying-glass-tilted-left' }[lab];
-    var note = j ? 'Dane dla tego zawodu, a o zarobkach i AI dla grupy „' + esc(g.n) + '”.' : n.own && /^\d+$/.test(String(n.gk)) ? 'To nowy zawód i nie ma dla niego osobnych danych. Pokazujemy grupę „' + esc(g.n) + '”.' : 'Dane dla grupy zawodów „' + esc(g.n) + '”, nie dla pojedynczego zawodu.';
+    var note = n.own && /^\d+$/.test(String(n.gk)) ? 'To nowy zawód i nie ma dla niego osobnych danych. Pokazujemy grupę „' + esc(g.n) + '”.' : 'Dane dla grupy zawodów „' + esc(g.n) + '”, nie dla pojedynczego zawodu.';
     var h = '<section class="sec" id="market"><div class="sec-h"><h2>Rynek pracy w ' + MK.year + '</h2><p>' + note + '</p></div><div class="card mk">' +
       '<span class="tag ' + lab + '">' + img(ico, '', 26) + esc(MK.labels[lab]) + '</span>' +
       '<p>' + esc({ up: 'Pracodawcom brakuje ludzi.', flat: 'Chętnych i ofert jest mniej więcej tyle samo.', down: 'Chętnych jest więcej niż ofert.', none: 'Brak danych do oceny.' }[lab]) + '</p>' +
@@ -665,9 +666,9 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   function fitCard(n) {
     if (!hasProfile()) return '<section class="sec"><div class="card banner">' + img('bullseye', '', 64) + '<div class="txt"><b>Czy to zawód dla Ciebie?</b><span class="small">Zaznacz, co lubisz, a odpowiem przy każdym zawodzie.</span><button type="button" class="btn sm" data-act="edit">Zaznacz</button></div></div></section>';
     var l = level(n.w), tr = topRoots(n.w, 3, 0.2), mine = likes(tr, 3), p = profile();
-    var title = l === 2 ? 'Mocno do Ciebie pasuje' : l === 1 ? 'Pasuje do Ciebie' : 'Daleko od Twoich wyborów';
+    var title = l === 2 ? 'Mocno do Ciebie pasuje' : l === 1 ? 'Pasuje do Ciebie' : mine.length ? 'Częściowo do Ciebie' : 'Daleko od Twoich wyborów';
     var missing = tr.filter(function (i) { return p[i] === 0; }).map(function (i) { return ROOTS[i].n; });
-    var why = l === 0 ? 'Ten zawód wyrasta z korzeni, których nie ma w Twoich wyborach.' : mine.length ? 'Bo lubisz: ' + mine.join(' · ') + '.' : 'Pasuje do korzeni, które zaznaczyłeś.';
+    var why = mine.length ? 'Bo lubisz: ' + mine.join(' · ') + '.' : 'Ten zawód wyrasta z korzeni, których nie zaznaczyłeś.';
     if (l > 0 && mine.length && missing.length) why += ' Mniej Twoje: ' + missing.join(', ') + '.';
     return '<section class="sec"><div class="card fitcard"><div class="top"><b>' + title + '</b>' + (l > 0 ? '<span class="fit fit' + l + '">' + SPARK + Math.round(match(n.w) * 100) + '%</span>' : '') + '</div><p>' + esc(why) + '</p>' + rootChips(n.w, true) + '</div></section>';
   }

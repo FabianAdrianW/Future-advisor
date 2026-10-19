@@ -55,7 +55,6 @@ sub("  var GEN = {};\n  var genGet = function (name) { if (GEN[name]) return GEN
     "  var GEN = JSON.parse(document.getElementById('data').textContent).gen || {};\n  var genGet = function (name) { return GEN[name] || null; };")
 a=t.index("  var sampleState = 'unknown', sampleP"); b=t.index("  function paintDetails()")
 t=t[:a]+"  var sampleState = 'none', sampleP = Promise.resolve(null);\n"+t[b:]
-sub('<title>Prototyp drzewa zawodów</title>','<title>Kompas karier</title>')
 art=t.replace('__DATA__',raw)
 # 3. PWA -> docs/ (obrazy, fonty i ikony zostają na miejscu)
 P=B.parent/'docs'
