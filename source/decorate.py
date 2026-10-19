@@ -125,6 +125,25 @@ OWN_G = {
     "Podolog": "325", "Instruktor jogi": "342", "Florysta": "X-florysta", "Technik cyberbezpieczeństwa": "252", "Inspektor ochrony danych": "242",
 }
 
+
+# Korekty grupy płacowej (GUS) dla zawodów z błędnym przypisaniem z tabeli kodów (wykryte w weryfikacji próbki 100 zawodów).
+PAY_FIX = {
+    "Specjalista zooterapii": "323", "Koordynator programu oświatowego": "235", "Koordynator ds. publikacji": "264",
+    "Preparator zwierząt": "731", "Cegielnik": "754", "Dziekan": "231", "Dyrektor elektrowni": "132", "Dyrektor kopalni": "132",
+    "Dyrektor archiwum": "262", "Genealog": "262", "Metrolog": "311", "Asystent ds. nieruchomości": "333",
+    "Dyspozytor medyczny": "321", "Operator kamery": "343", "Annotator danych": "351", "Kierownik urzędu pracy": "335",
+    "Fotoedytor": "265", "Analityk ds. efektywności energetycznej": "214", "Kontroler urządzeń koksowniczych": "313",
+    "Operator zautomatyzowanej linii produkcyjnej": "812", "Operator prasy brykietowej": "812",
+    "Operator urządzeń do utylizacji odpadów płynnych": "818", "Specjalista w zakresie substancji roślinnych": "314",
+    "Technik przenoszenia zarodków zwierzęcych": "324", "Projektant makiet scenograficznych": "265",
+    "Wykonawca mebli wyplatanych": "752", "Specjalista ds. sprzedaży egzekucyjnej nieruchomości": "244",
+    "Pracownik ds. wsparcia dla osób z zaburzeniami psychicznymi": "532", "Asystent nauczyciela dla dzieci o specjalnych potrzebach edukacyjnych": "531",
+    "Nauczyciel przedszkolny dzieci ze SPE": "234", "Doradca edukacyjny": "263", "Konsultant podróży": "332",
+    "Operator centralnej sterowni w rafinerii": "813", "Koordynator programów zatrudnienia": "242",
+    "Artysta sztuki ulicznej": "343", "Operator maszyn do produkcji obuwia": "753",
+}
+PAY_FIX_USED = set()
+
 def slug(name):
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
@@ -557,7 +576,10 @@ def deco(n, parent_img):
         for c in n["c"]:
             deco(c, img)
     else:
+        _pf = next((k for k in (full, n.get("n")) if k in PAY_FIX), None)
+        if _pf: PAY_FIX_USED.add(_pf)
         n["gk"] = n.get("gk") or gkey(n.get("u"))
+        if _pf: n["pk"] = PAY_FIX[_pf]
         assert n["gk"] in G, n["gk"]
         USED_G.add(n["gk"])
         if n.get("fam"):
@@ -576,6 +598,7 @@ for a in tree["areas"]:
     deco(a, None)
 
 assert not missing_details, missing_details
+print("korekty grup niedopasowane:", sorted(set(PAY_FIX) - PAY_FIX_USED))
 tree["stats"]["detailed"] = len(details)
 tree["groups"] = {k: G[k] for k in sorted(USED_G)}
 tree["stats"]["groups"] = len(USED_G)
