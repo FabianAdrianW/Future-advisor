@@ -4,6 +4,10 @@ Cel: sprawdzić wszystkie zawody (2370) pod kątem nazwy, opisu, umiejętności,
 
 Gałąź robocza: `verify-all` (NIE pushować na `main`; wynik to PR do przeglądu).
 
+## Status (2026-10-19)
+- Automatyzacja łańcuchowa WSTRZYMANA (zadanie wyłączone) z powodu limitu tygodniowego (87% zużyte, reset środa 17:00).
+- Wznowienie: po resecie limitu, zgodnie z AUTOMATYZACJA.md.
+
 ## Liczniki
 - zweryfikowane (done.txt): 700 (próbka 100 + 600 z partii 01–30)
 - partie z automatyzacji: 0 (następna: 101)
