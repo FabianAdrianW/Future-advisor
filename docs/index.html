@@ -636,6 +636,8 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   var PAY = DATA.pay || {}, CITIES = DATA.cities || [], NOCITY = DATA.nocity || { g: [], re: '' }, NOCITY_RE = NOCITY.re ? new RegExp(NOCITY.re) : null, MINPAY = DATA.minpay || 0, PAYQ = DATA.payq || {}, cityOpen = false;
   var money = function (x) { return String(x).replace(/\B(?=(\d{3})+$)/g, '\u00a0'); };
   function payOf(n) {
+    // Au pair dostaje kieszonkowe, pokój i wyżywienie, a nie pensję: nie pokazujemy mediany grupy opiekunów
+    if (n.n === 'Au pair') return null;
     var k = String(n.pk || n.gk || ''); if (!/^\d+$/.test(k)) return null;
     for (var len = Math.min(k.length, 3); len >= 1; len--) { var c = k.slice(0, len), p = PAY[c]; if (p) return { med: p[0], name: p[1], q: PAYQ[c] || null, digits: len }; }
     return null;
