@@ -59,10 +59,10 @@ D: 8:00 Przeglądasz listę spraw z terminami na dziś | 10:00 Wyłapujesz braku
 Y: Zrób listę kontrolną zadań na jutro z terminami i odhaczaj je wieczorem.
 
 @1990
-H: Przygotowujesz formalne przeniesienie własności nieruchomości z jednej osoby na drugą. Pilnujesz, żeby umowy, tytuły i prawa trafiły do właściwych rąk.
-T: Przygotowujesz dokumenty przeniesienia własności | Sprawdzasz tytuły prawne do nieruchomości | Wymieniasz umowy między stronami transakcji | Dbasz o przekazanie wszystkich praw
-D: 8:30 Sprawdzasz dokumenty do dzisiejszej transakcji | 10:00 Porównujesz dane w umowie z księgą | 12:00 Spotykasz kupującego i sprzedającego | 15:00 Składasz komplet papierów do rejestru
-Y: Sprawdź w domowych dokumentach, czy imię, nazwisko i data na jednym piśmie się zgadzają.
+H: Pracujesz w sądzie, w wydziale ksiąg wieczystych: przyjmujesz wnioski o wpis, sprawdzasz dokumenty i wpisujesz zmiany do księgi wieczystej. Wydajesz też odpisy z ksiąg.
+T: Przyjmujesz i rejestrujesz wnioski o wpis | Sprawdzasz, czy dokumenty spełniają wymogi | Wpisujesz zmiany do księgi wieczystej | Wydajesz odpisy i informacje z ksiąg
+D: 8:00 Otwierasz wydział i przyjmujesz wnioski | 9:30 Sprawdzasz, czy akt notarialny ma wymagane dane | 11:30 Wpisujesz nowego właściciela do księgi | 14:00 Wydajesz odpis księgi wieczystej osobie z wnioskiem
+Y: Sprawdź w elektronicznym dostępie do ksiąg wieczystych, kto jest właścicielem wybranej nieruchomości w Twojej okolicy.
 
 @1991
 H: Dbasz o porządek i bezpieczeństwo w sądzie: pilnujesz sali, sprawdzasz osoby i wzywasz świadków. Możesz też doprowadzać zatrzymanych na rozprawę i z powrotem.
