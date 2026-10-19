@@ -1,0 +1,35 @@
+# Weryfikacja batch_21 (20 zawodów)
+
+Legenda: OK = bez zastrzeżeń; POPRAW = konkretna zmiana; NIE WIEM = nie udało się zweryfikować.
+Limit WebSearch/WebFetch (8 wywołań) wyczerpany. Zweryfikowano tylko czas studiów elektroradiologii i (częściowo) wymogi EASA. Pozostałe ustalenia opierają się na znajomości polskiego prawa i KZiS, bez źródeł.
+
+| name | verdict | reason | source |
+|---|---|---|---|
+| Menedżer ds. przychodów z hotelarstwa | OK | Nazwa, hook, zadania i dzień są spójne. Trasa: liceum 4 + studia licencjackie 3 + praktyka 0,5 zgodna z prawem. Grupa płacowa (sprzedaż, marketing, PR) wygląda rozsądnie. Mediany nie sprawdzono. | — |
+| Prowadzący grę bingo | POPRAW | pay_group "Pracownicy obrotu pieniężnego" to grupa pracowników obsługujących pieniądze (kasjerzy), a prowadzący bingo nie obsługuje gotówki. Zmienić na grupę krupierów lub pokrewnych przy grach (np. "Kasjerzy i pokrewni" jako najbliższą). Dokładnej nazwy KZiS nie potwierdzono. Trasa "Technikum: technik ekonomista" nie jest wymagana, ale nie jest błędna. | — (nie udało się potwierdzić nazwy grupy KZiS) |
+| Meteorolog lotniczy | OK | Liceum 4 + studia 5 (licencjat 3 + magisterskie 2, zgodnie z prawem) + praktyka 0,5. Doktorat 4 lata jest w normie. Etykieta "Studia ... 5,0" jest niejednoznaczna, można dopisać "licencjat 3 + magisterskie 2". | — |
+| Bioinżynier | OK | Studia inżynierskie 3,5 lat zgodne z prawem. Trasa przez technikum 5 + 3,5 spójna. Grupa "Inżynierowie (z wyłączeniem elektrotechnologii)" wygląda rozsądnie. Opis modyfikacji genetycznej jest rzeczowy. | — |
+| Komiwojażer | OK | Szkoła branżowa I stopnia 3 lata, technikum 5 lat, zgodne z prawem. Opis i dzień są realistyczne. | — |
+| Inżynier ds. energetyki słonecznej | POPRAW | (1) pay_group "Inżynierowie (z wyłączeniem elektrotechnologii)" wyklucza elektrotechnikę, a projektowanie instalacji PV to inżynieria elektryczna. Należy przypisać grupę inżynierów elektryków (dokładna nazwa KZiS NIE WIEM). Mediana 10573 wymaga przeliczenia dla nowej grupy. (2) skills, plus, minus, routes i pay_group są identyczne z "Bioinżynier", co jest kopią. Profil grupy powinien odpowiadać energetyce (np. elektryka, projektowanie PV, pomiary nasłonecznienia). | — |
+| Technik radioterapeuta | POPRAW | (1) Trasa "Studia medyczne" z jednolitymi studiami magisterskimi 5 lat jest błędna. Zawód to elektroradiolog: studia pierwszego stopnia (licencjat) 3 lata (6 semestrów). Zamienić na: liceum 4 + studia licencjackie elektroradiologia 3 + staż 0,5 + prawo wykonywania zawodu 0. (2) pay_group "Lekarze dentyści" i mediana 11253 dotyczą lekarzy dentystów, nie techników. Zmienić na grupę techników medycznych (dokładna nazwa KZiS NIE WIEM) i przeliczyć medianę. (3) Nazwa "Technik radioterapeuta" nie jest tytułem ustawowym; ustawowy tytuł to "elektroradiolog" (path już go zawiera). Można zmienić na "Elektroradiolog (radioterapia)". | https://wnbikp.umed.lodz.pl/wp-content/uploads/2026/05/Program-i-plan-studiow-elektroradiologia-I-stopnia-od-cyklu-ksztalcenia-2026_2027.pdf |
+| Ubojowy rytualny halal | NIE WIEM | Opis dnia jest rzeczowy i legalny. Trasy zgodne z prawem (branżowa 3, technikum 5). Nie sprawdzono, czy ubój rytualny wymaga zaświadczenia/uprawnień (weterynaryjnych lub religijnych) i czy wymóg trasy to uwzględnia. Nazwa jest nieformalna. | — |
+| Konsultant ds. internetowej obsługi klienta | OK | Technikum 5 lat zgodne z prawem, opis i dzień pasują do pracy pisemnej z klientami. Skill "Obsługa systemów rezerwacji" jest szerszy, ale nie błędny. | — |
+| Kierownik restauracji | OK | Trasy zgodne z prawem (technikum 5, liceum 4 + studia 3). Lata praktyki są wyraźnie oznaczone jako praktyka. Grupa "Kierownicy w gastronomii i hotelarstwie" wygląda rozsądnie. Mediany nie sprawdzono. | — |
+| Kierownik działu obsługi pokoi | OK | Opis i dzień są spójne z zawodem. Routes, skills, plus/minus i pay_group są identyczne z "Kierownik restauracji". Nie jest to błąd merytoryczny, ale warto rozważyć zróżnicowanie. | — |
+| Technik awionik | POPRAW | Trasy pomijają licencję EASA Part-66 (B1/B2). Bez niej nie można podpisywać kart prac lądowych ani wykonywać zadań z dopuszczeniem do obsługi (day: "podpisujesz kartę prac"). Dodać krok "Szkolenie Part-147 + praktyka + licencja EASA Part-66 (B1)" z czasem NIE WIEM (nie udało się odczytać dokumentu EASA). | https://www.easa.europa.eu/en/node/19069 (pobrano, bez treści wymogów) |
+| Inspektor jakości konfekcji | NIE WIEM | Trasa (branżowa 3, praca 1, szkolenie) wygląda poprawnie. Grupa "Pozostali robotnicy przemysłowi, rzemieślnicy i pokrewni" to kategoria zbiorcza. Nie sprawdzono, czy istnieje dokładniejsza grupa kontrolerów jakości. | — |
+| Monter sprzętu elektrycznego | OK | Branżowa 3 lata zgodna z prawem, szkolenie stanowiskowe 0,5. Grupa "Monterzy" i opis pracy są spójne. | — |
+| Tester bezpieczeństwa pożarowego | POPRAW | Skill "Pomiary i kosztorysy" nie pasuje do testów laboratoryjnych (kosztorysy to wycena budowlana). Zmienić na "Pomiary laboratoryjne". Reszta (technikum 5, opis dnia, grupa techników) jest zgodna. | — |
+| Kręgarz zwierząt | POPRAW | Hook mówi "Leczysz zwierzęta" i "Kręgarz zwierząt", co sugeruje zawód pozaweterynaryjny. Terapia manualna zwierząt jest zwykle praktyką weterynaryjną (wymagany dyplom lekarza weterynarii, a osoby bez dyplomu działają tylko pod nadzorem lekarza). Trasa (studia weterynaryjne 5,5) jest zgodna z prawem, więc problemem jest nazwa i opis. Zmienić nazwę na np. "Lekarz weterynarii – terapia manualna" i w hooku doprecyzować, że to zabieg lekarski. Ta zasada wymaga potwierdzenia w ustawie o zawodzie lekarza weterynarii (wynik wyszukiwania, nie otwarto treści). | https://api.sejm.gov.pl/eli/acts/DU/2023/154/text/U/D20230154Lj.pdf (tylko wynik wyszukiwania, nieodczytany) |
+| Informator służby informacji powietrznej | NIE WIEM | Ścieżka "Szkolenie zawodowe" (liceum 4, szkolenie i licencja 2, praktyka 1) wygląda sensownie, ale nie zweryfikowano wymogów licencji AIS. Ścieżka "Kontrolerzy ruchu lotniczego" w path jest bliska, lecz nie tożsama z AIS. Grupa płacowa dotyczy transportu i lotnictwa, co jest możliwe, ale nie potwierdzono. Etykieta "Studia ... 3,5" nie precyzuje stopnia. | — |
+| Analityk biznesowy | OK | Trasy zgodne z prawem (liceum 4 + studia 3 lata, kurs i staż). Opis i dzień są spójne. Skill "Znajomość prawa pracy" jest słabym dopasowaniem, ale nie jest błędem krytycznym. | — |
+| Analityk żywności | OK | Technikum 5 lat i trasa przez studia (liceum 4 + licencjat 3) są zgodne z prawem. Grupa techników nauk chemicznych i fizycznych jest zgodna z zadaniami laboratoryjnymi. | — |
+| Operator młota hydraulicznego | POPRAW | Nazwa mówi o "młocie", czyli urządzeniu uderzającym. Hook i dzień opisują prasę: "ściska", "tłok", "formujesz rurę prasą". Zmienić nazwę na "Operator prasy hydraulicznej kuźniczej" albo słowo "młot" zamienić na "prasa hydrauliczna" w hooku. Trasy są zgodne z prawem. | — |
+
+## Podsumowanie
+
+- OK: 9
+- POPRAW: 8
+- NIE WIEM: 3
+
+Najpoważniejszy problem: "Technik radioterapeuta" ma trasę jednolitych studiów medycznych 5 lat (elektroradiologia to licencjat 3 lata) i grupę płacową "Lekarze dentyści" z medianą dentystów.
