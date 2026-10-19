@@ -563,7 +563,7 @@ R TE technik procesów drukowania lub grafiki i poligrafii cyfrowej
 S Dokładność/R, Czytanie schematów/L, Zręczne ręce/R, Zasady bezpieczeństwa/R, Logiczne myślenie/L, Brak lęku wysokości/N
 P Fach potrzebny wszędzie; Konkretny, widoczny efekt; Łatwo pracować na swoim
 M Błąd może być groźny dla życia; Praca na budowach i wysokości; Trzeba odnawiać uprawnienia
-R Szkoła branżowa: szkola=Szkoła branżowa I stopnia w zawodzie elektryk lub elektromechanik=3 > egzamin=Egzamin zawodowy=0 > egzamin=Uprawnienia elektryczne=0 > praktyka=Praca pod okiem doświadczonego elektryka=1
+R Szkoła branżowa: szkola=Szkoła branżowa I stopnia w zawodzie elektryk=3 > egzamin=Egzamin zawodowy=0 > egzamin=Uprawnienia elektryczne=0 > praktyka=Praca pod okiem doświadczonego elektryka=1
 R Technikum: szkola=Technikum w zawodzie technik elektryk=5 > egzamin=Egzaminy zawodowe i uprawnienia elektryczne=0 > praktyka=Praca pod okiem doświadczonego elektryka=1
 #742 Elektronicy i monterzy telekomunikacji
 S Precyzja rąk/R, Czytanie schematów/L, Szukanie usterek/L, Obsługa mierników/R, Cierpliwość/R, Rozmowa z klientem/P
