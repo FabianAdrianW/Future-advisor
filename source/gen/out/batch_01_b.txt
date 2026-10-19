@@ -41,7 +41,7 @@ D: 6:00 Zakładasz nową matrycę na prasę | 7:30 Odważasz porcję i wsypujesz
 Y: Odważ trzy porcje mąki lub kaszy po pięćdziesiąt gramów i zapisz, o ile ważenia się różnią.
 
 @97
-H: Obsługujesz prasy hydrauliczne, które zgniatają i wypiekają plastikowe wióry w arkusze tworzywa. Najważniejsze są dla ciebie właściwe ciśnienie i temperatura.
+H: Obsługujesz prasy hydrauliczne, które prasują plastikowe wióry w arkusze tworzywa. Najważniejsze są dla ciebie właściwe ciśnienie i temperatura.
 T: Ustawiasz prasę hydrauliczną | Wsypujesz plastikowe wióry do formy | Regulujesz ciśnienie i temperaturę | Wyjmujesz arkusze i sprawdzasz ich wygląd
 D: 6:00 Uruchamiasz prasę i czekasz na nagrzanie | 8:00 Wsypujesz wióry równą warstwą do formy | 10:30 Arkusz wychodzi pofalowany, zmieniasz ciśnienie | 13:30 Odkładasz arkusze na stos i zapisujesz parametry
 Y: Ugnieć kulkę plasteliny, dociśnij ją deską do płaskiej płytki i sprawdź, czy ma wszędzie tę samą grubość.

@@ -237,6 +237,7 @@ ROUTE_FIX_USED = set()
 
 # Zmiana nazwy wyswietlanej zawodu. Pelna (stara) nazwa zostaje w polu fn, zeby dzialaly wpisy generowane i szczegoly.
 DISPLAY_FIX = {
+    "Operator prasy do form do pieczenia ciast": "Operator prasy do formowania arkuszy z tworzywa",
     "Technik ds. procesu tkania": "Operator krosien",
     "Technik przenoszenia zarodków zwierzęcych": "Asystent przy transferze zarodków",
     "Technik technologii wyrobów skórzanych": "Inżynier technologii wyrobów skórzanych",
