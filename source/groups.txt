@@ -6,13 +6,13 @@
 S Dowodzenie ludźmi/P, Odporność na stres/P, Sprawność fizyczna/N, Planowanie działań/L, Znajomość sprzętu/R, Dyscyplina/P
 P Jasna ścieżka awansu; Silny, zgrany zespół; Stabilne zatrudnienie
 M Ścisła hierarchia i rozkazy; Częste przeprowadzki i wyjazdy; Ryzyko podczas misji
-R Akademia wojskowa: szkola=Szkoła średnia z maturą=4 > egzamin=Rekrutacja z testami sprawnościowymi i badaniami=0 > studia=Studia w akademii wojskowej=5
-R Po studiach cywilnych: szkola=Szkoła średnia z maturą=4 > studia=Studia cywilne=3 > kurs=Szkolenie oficerskie=1
+R Akademia wojskowa: szkola=Liceum z maturą=4 > egzamin=Rekrutacja z testami sprawnościowymi i badaniami=0 > studia=Studia w akademii wojskowej=5
+R Po studiach cywilnych: szkola=Liceum z maturą=4 > studia=Studia cywilne=3 > kurs=Szkolenie oficerskie=1
 #021 Podoficerowie
 S Sprawność fizyczna/N, Kierowanie małym zespołem/P, Obsługa sprzętu/R, Dyscyplina/P, Odporność na stres/P, Praca w terenie/N
 P Stabilne zatrudnienie; Zgrany zespół; Możliwość zdobycia specjalizacji
 M Ścisła hierarchia; Służba o różnych porach i w różnych miejscach; Wysiłek fizyczny i ryzyko
-R Służba wojskowa: szkola=Szkoła średnia=4 > egzamin=Rekrutacja z testami sprawnościowymi i badaniami=0 > kurs=Szkolenie podstawowe=0.5 > kurs=Szkoła podoficerska=1
+R Służba wojskowa: szkola=Liceum=4 > egzamin=Rekrutacja z testami sprawnościowymi i badaniami=0 > kurs=Szkolenie podstawowe=0.5 > kurs=Szkoła podoficerska=1
 #031 =021 Żołnierze
 R Służba wojskowa: szkola=Szkoła średnia lub branżowa=3 > egzamin=Rekrutacja z testami sprawnościowymi i badaniami=0 > kurs=Szkolenie podstawowe=0.5 > kurs=Szkolenie specjalistyczne=0.5
 
@@ -38,7 +38,7 @@ R Od praktyki: szkola=Technikum rolnicze=5 > praktyka=Praca w gospodarstwie=3 > 
 #132 =112 Kierownicy produkcji
 S Kierowanie zespołem/P, Znajomość procesu produkcji/R, Planowanie i terminy/L, Dbałość o bezpieczeństwo/R, Rozwiązywanie problemów/L, Jasna komunikacja/P
 R AW kierunek techniczny, logistyka lub zarządzanie produkcją
-R Od stanowiska: szkola=Technikum lub szkoła branżowa=4 > praktyka=Praca na produkcji lub w magazynie=3 > praktyka=Brygadzista lub lider zmiany=2
+R Od stanowiska: szkola=Szkoła branżowa I stopnia=3 > praktyka=Praca na produkcji lub w magazynie=3 > praktyka=Brygadzista lub lider zmiany=2
 #133 =112 Kierownicy IT
 S Kierowanie zespołem/P, Rozumienie technologii/L, Planowanie projektów/L, Rozmowa z biznesem/P, Budżet i priorytety/L, Zarządzanie ryzykiem/L
 R AW informatyka lub pokrewny
@@ -162,7 +162,7 @@ S Liczby i dokładność/L, Rozumienie przepisów/S, Arkusz kalkulacyjny/L, Uczc
 P Potrzebni w każdej firmie; Stabilna praca; Możliwe własne biuro
 M Gorące okresy przed terminami; Przepisy często się zmieniają; Dużo pracy przy komputerze
 R ST finanse i rachunkowość lub ekonomia
-R Kurs i praktyka: szkola=Technikum ekonomiczne lub liceum=4 > kurs=Kurs księgowości=0.5 > praktyka=Praca w biurze rachunkowym=1
+R Kurs i praktyka: szkola=Liceum profilowane ekonomicznie=4 > kurs=Kurs księgowości=0.5 > praktyka=Praca w biurze rachunkowym=1
 #2631 =241 Ekonomiści
 R ST ekonomia lub pokrewny 5
 #242 Specjaliści HR i organizacji
@@ -170,7 +170,7 @@ S Rozmowa z ludźmi/P, Słuchanie/P, Organizacja/L, Znajomość prawa pracy/S, D
 P Pomagasz ludziom rozwijać się w pracy; Dużo kontaktu z ludźmi; Potrzebni w każdej większej firmie
 M Trudne rozmowy, np. o zwolnieniach; Presja z dwóch stron; Dużo dokumentów
 R ST zarządzanie, psychologia, socjologia lub prawo
-R Kurs i staż: szkola=Szkoła średnia=4 > kurs=Kurs z wybranej specjalizacji=0.5 > praktyka=Staż w dziale kadr lub agencji=0.5
+R Kurs i staż: szkola=Liceum=4 > kurs=Kurs z wybranej specjalizacji=0.5 > praktyka=Staż w dziale kadr lub agencji=0.5
 #243 Specjaliści marketingu, PR i sprzedaży
 S Pisanie i jasny przekaz/S, Rozumienie klienta/P, Pomysłowość/O, Analiza wyników/L, Media społecznościowe/S, Odporność na odmowę/P
 P Dużo kreatywności; Szybko widać efekty; Praca z ludźmi i mediami
@@ -214,7 +214,7 @@ R Studia psychologiczne: szkola=Liceum; przyda się biologia=4 > studia=Jednolit
 S Słuchanie i rozmowa/P, Wiedza religijna/S, Przemawianie/S, Empatia/P, Organizowanie wspólnoty/P, Dyskrecja/P
 P Towarzyszysz ludziom w ważnych chwilach; Silna wspólnota; Poczucie sensu
 M Wymaga osobistego powołania; Dyspozycyjność także w święta; Trudne rozmowy o stracie
-R Formacja: szkola=Szkoła średnia z maturą=4 > studia=Studia teologiczne lub formacja we wspólnocie=5
+R Formacja: szkola=Liceum z maturą=4 > studia=Studia teologiczne lub formacja we wspólnocie=5
 #264 Pisarze, dziennikarze, tłumacze
 S Pisanie/S, Języki/S, Ciekawość/S, Sprawdzanie faktów/L, Rozmawianie z ludźmi/P, Terminowość/L
 P Pracujesz ze słowem; Każdy temat jest inny; Możliwa praca na własny rachunek
@@ -264,7 +264,7 @@ R ST rolnictwo, leśnictwo lub biologia
 S Koncentracja/L, Opanowanie/P, Angielski zawodowy/S, Fizyka i matematyka/L, Orientacja w przestrzeni/R, Bardzo dobre zdrowie/N
 P Wyjątkowy, szanowany zawód; Podróże; Jasne procedury
 M Długie i kosztowne szkolenie; Nieregularne godziny i wyjazdy; Regularne badania i egzaminy
-R Szkolenie zawodowe: szkola=Szkoła średnia; ważny angielski, matematyka i fizyka=4 > egzamin=Badania lekarskie do zawodu=0 > kurs=Szkolenie i licencja lub dyplom=2 > praktyka=Zbieranie godzin praktyki=1
+R Szkolenie zawodowe: szkola=Liceum; ważny angielski, matematyka i fizyka=4 > egzamin=Badania lekarskie do zawodu=0 > kurs=Szkolenie i licencja lub dyplom=2 > praktyka=Zbieranie godzin praktyki=1
 R ST lotnictwo, nawigacja lub transport ze szkoleniem zawodowym 3.5
 #321 Technicy medyczni i farmaceutyczni
 S Dokładność/L, Obsługa aparatury/R, Wiedza o ciele i lekach/N, Kontakt z pacjentem/P, Zasady higieny/N, Odpowiedzialność/P
@@ -297,12 +297,12 @@ S Liczby i dokładność/L, Rozumienie rynku/L, Rozmowa z klientem/P, Uczciwoś�
 P Praca z pieniędzmi i liczbami; Jasne wyniki; Możliwość awansu
 M Presja wyników; Odpowiedzialność za cudze pieniądze; Stres przy wahaniach rynku
 R ST finanse, ekonomia lub bankowość
-R Od stanowiska: szkola=Technikum ekonomiczne lub liceum=4 > praktyka=Praca w banku lub biurze=1 > egzamin=Kursy i licencje zawodowe=0.5
+R Od stanowiska: szkola=Liceum profilowane ekonomicznie=4 > praktyka=Praca w banku lub biurze=1 > egzamin=Kursy i licencje zawodowe=0.5
 #332 Agenci, handlowcy i zaopatrzeniowcy
 S Rozmowa i przekonywanie/P, Negocjacje/P, Znajomość produktu/L, Odporność na odmowę/P, Organizacja własnej pracy/L, Liczenie marży/L
 P Dużo kontaktu z ludźmi; Wyniki zależą od Ciebie; Często samodzielna organizacja dnia
 M Presja wyników; Dużo podróży i telefonów; Częste odmowy
-R Od sprzedaży: szkola=Szkoła średnia=4 > praktyka=Praca w sprzedaży lub obsłudze klienta=1 > kurs=Szkolenia z produktu i technik sprzedaży=0
+R Od sprzedaży: szkola=Liceum=4 > praktyka=Praca w sprzedaży lub obsłudze klienta=1 > kurs=Szkolenia z produktu i technik sprzedaży=0
 R ST handel, zarządzanie lub ekonomia
 #333 =332 Agenci usług biznesowych
 #3331 =332 Spedytorzy
@@ -324,14 +324,14 @@ S Znajomość przepisów/S, Dokładność/L, Uczciwość/P, Asertywność/P, Pis
 P Stabilna praca w administracji; Jasne zasady; Pilnujesz, by prawo działało
 M Trudne rozmowy z kontrolowanymi; Dużo dokumentów; Sztywne procedury
 R ST administracja, prawo lub ekonomia
-R Służba: szkola=Szkoła średnia z maturą=4 > egzamin=Nabór do urzędu lub służby=0 > kurs=Szkolenie zawodowe po przyjęciu=1
+R Służba: szkola=Liceum z maturą=4 > egzamin=Nabór do urzędu lub służby=0 > kurs=Szkolenie zawodowe po przyjęciu=1
 #3355 =541 Policjanci służby kryminalnej
 #341 Pomoc społeczna, prawo, religia
 S Empatia/P, Słuchanie/P, Cierpliwość/P, Znajomość przepisów o pomocy/S, Odporność psychiczna/P, Organizacja wsparcia/L
 P Realnie zmieniasz czyjeś życie; Dużo kontaktu z ludźmi; Poczucie sensu
 M Trudne ludzkie historie; Efekty nie zawsze widać; Obciążenie psychiczne
 R ST praca socjalna, pedagogika lub pokrewny
-R Szkoła policealna: szkola=Szkoła średnia=4 > kurs=Szkoła policealna, np. opiekun lub asystent osoby niepełnosprawnej=1 > praktyka=Wolontariat lub praktyki w ośrodku pomocy=0
+R Szkoła policealna: szkola=Liceum=4 > kurs=Szkoła policealna, np. opiekun lub asystent osoby niepełnosprawnej=1 > praktyka=Wolontariat lub praktyki w ośrodku pomocy=0
 #3411 =334 Asystenci prawni
 S Dokładność/L, Poprawne pisanie pism/S, Znajomość procedur/S, Dyskrecja/P, Organizacja dokumentów/L, Terminowość/L
 #3413 =2636 Pracownicy działalności religijnej
@@ -371,7 +371,7 @@ R Od praktyki: praktyka=Pomoc przy nagłośnieniu w szkole lub domu kultury=1 > 
 S Dokładność/L, Programy biurowe/L, Poprawne pisanie/S, Organizacja dokumentów/L, Uprzejmość/P, Terminowość/L
 P Regularne godziny; Spokojne warunki pracy; Potrzebni w każdej firmie
 M Dużo rutyny; Wiele godzin przy komputerze; Praca pod cudze terminy
-R Po szkole średniej: szkola=Szkoła średnia=4 > kurs=Kurs programów biurowych=0.5 > praktyka=Staż w biurze=0.5
+R Po szkole średniej: szkola=Liceum=4 > kurs=Kurs programów biurowych=0.5 > praktyka=Staż w biurze=0.5
 R TE technik administracji lub ekonomista
 #412 =411 Sekretarze
 #413 =411 Wprowadzanie danych
@@ -391,7 +391,7 @@ R PR Szkolenie stanowiskowe i nauka języka
 #4224 =422 Recepcjoniści hotelowi
 #431 =241 Pracownicy księgowości i statystyki
 R TE technik rachunkowości lub ekonomista
-R Kurs: szkola=Szkoła średnia=4 > kurs=Kurs księgowości lub kadr i płac=0.5 > praktyka=Praca w biurze rachunkowym=0.5
+R Kurs: szkola=Liceum=4 > kurs=Kurs księgowości lub kadr i płac=0.5 > praktyka=Praca w biurze rachunkowym=0.5
 #432 Magazyn i ewidencja transportu
 S Organizacja/L, Dokładność w liczeniu/L, Obsługa programów magazynowych/L, Sprawność fizyczna/N, Obsługa wózka widłowego/R, Praca w zespole/P
 P Szybki start bez długiej nauki; Praca w ruchu; Jasne zadania
@@ -404,7 +404,7 @@ R Kurs: kurs=Kurs i uprawnienia na wózki widłowe=0 > praktyka=Przyuczenie w ma
 S Uprzejma obsługa/P, Języki obce/S, Opanowanie w trudnych sytuacjach/P, Zasady bezpieczeństwa/R, Kondycja/N, Praca w zespole/P
 P Podróże w ramach pracy; Dużo kontaktu z ludźmi; Każdy kurs jest inny
 M Nieregularne godziny i noce poza domem; Praca w święta; Trudni pasażerowie
-R Szkolenie przewoźnika: szkola=Szkoła średnia; ważny język obcy=4 > egzamin=Rekrutacja i badania lekarskie=0 > kurs=Szkolenie u przewoźnika=0.5
+R Szkolenie przewoźnika: szkola=Liceum; ważny język obcy=4 > egzamin=Rekrutacja i badania lekarskie=0 > kurs=Szkolenie u przewoźnika=0.5
 #5113 Przewodnicy
 S Opowiadanie/S, Wiedza o regionie i historii/S, Języki obce/S, Prowadzenie grupy/P, Kondycja/N, Organizacja/L
 P Pokazujesz ludziom ciekawe miejsca; Praca w ruchu; Poznajesz ludzi z całego świata
@@ -451,7 +451,7 @@ R TE technik weterynarii lub hodowca koni
 S Spokój i cierpliwość/P, Bardzo dobra jazda/R, Jasne tłumaczenie/S, Znajomość przepisów/S, Szybka reakcja/R, Odpowiedzialność/P
 P Uczysz konkretnej umiejętności; Samodzielna praca; Kontakt z różnymi ludźmi
 M Stres w ruchu ulicznym; Praca popołudniami i w weekendy; Wiele godzin w samochodzie
-R Kurs instruktora: szkola=Szkoła średnia=4 > praktyka=Kilka lat z prawem jazdy=3 > kurs=Kurs dla instruktorów=0.5 > egzamin=Egzamin państwowy=0
+R Kurs instruktora: szkola=Liceum=4 > praktyka=Kilka lat z prawem jazdy=3 > kurs=Kurs dla instruktorów=0.5 > egzamin=Egzamin państwowy=0
 #521 =522 Sprzedawcy uliczni i targowi
 #522 Sprzedawcy w sklepach
 S Uprzejma obsługa/P, Znajomość towaru/L, Liczenie i kasa/L, Cierpliwość/P, Dbałość o wygląd sklepu/O, Kondycja/N
@@ -472,7 +472,7 @@ R Agencja: projekt=Pierwsze zdjęcia próbne=0 > egzamin=Zgłoszenie do sprawdzo
 S Cierpliwość/P, Uważność na dziecko/P, Pomysłowość w zabawie/O, Odpowiedzialność/P, Pierwsza pomoc/N, Spokój w trudnych chwilach/P
 P Widzisz, jak dzieci się rozwijają; Dużo ruchu i zabawy; Poczucie sensu
 M Hałas i ciągła czujność; Duża odpowiedzialność; Wysiłek fizyczny
-R Kurs opiekuna: szkola=Szkoła średnia=4 > kurs=Kurs opiekuna dziecięcego lub szkoła policealna=1 > kurs=Kurs pierwszej pomocy=0 > praktyka=Praktyki w żłobku lub przedszkolu=0
+R Kurs opiekuna: szkola=Liceum=4 > kurs=Kurs opiekuna dziecięcego lub szkoła policealna=1 > kurs=Kurs pierwszej pomocy=0 > praktyka=Praktyki w żłobku lub przedszkolu=0
 R Od praktyki: praktyka=Opieka nad dziećmi w rodzinie i u znajomych=1 > kurs=Kurs pierwszej pomocy=0
 #5312 =531 Pomocnicy nauczycieli
 #532 Opiekunowie medyczni
@@ -485,7 +485,7 @@ R KU Kurs opiekuna osób starszych
 S Sprawność fizyczna/N, Opanowanie w stresie/P, Praca w zespole/P, Znajomość procedur/S, Pierwsza pomoc/N, Odwaga z rozsądkiem/P
 P Chronisz ludzi; Zgrana ekipa; Stabilna służba
 M Realne ryzyko; Służby całodobowe; Trudne sytuacje zostają w głowie
-R Nabór do służby: szkola=Szkoła średnia=4 > praktyka=Regularny trening kondycji=0 > egzamin=Nabór z testami sprawnościowymi i rozmową=0 > kurs=Szkolenie podstawowe=0.5
+R Nabór do służby: szkola=Liceum=4 > praktyka=Regularny trening kondycji=0 > egzamin=Nabór z testami sprawnościowymi i rozmową=0 > kurs=Szkolenie podstawowe=0.5
 R Ochrona: kurs=Kurs pracownika ochrony=0.5 > egzamin=Wpis na listę kwalifikowanych pracowników ochrony=0
 
 #611 Rolnicy, sadownicy, ogrodnicy
@@ -698,19 +698,19 @@ S Opowiadanie i pisanie/S, Nagrywanie i montaż/O, Regularność/L, Kontakt z od
 P Robisz własne rzeczy; Zaczynasz bez pytania kogokolwiek o zgodę; Praca z dowolnego miejsca
 M Niepewne dochody, zwłaszcza na początku; Hejt i ciągła ocena; Trudno odciąć się od pracy
 R Własny kanał: projekt=Wybierz temat i publikuj regularnie przez trzy miesiące=0.5 > kurs=Naucz się montażu i podstaw dźwięku=0.5 > projekt=Sprawdzaj statystyki i poprawiaj format=1 > praktyka=Pierwsze współprace z markami=0
-R Z zawodem w tle: szkola=Szkoła średnia=4 > studia=Studia lub zawód, o którym będziesz opowiadać=3 > projekt=Kanał prowadzony równolegle=0
+R Z zawodem w tle: szkola=Liceum=4 > studia=Studia lub zawód, o którym będziesz opowiadać=3 > projekt=Kanał prowadzony równolegle=0
 #X-esport E-sport
 S Refleks i precyzja/R, Analiza gry/L, Praca w drużynie/P, Odporność na presję/P, Systematyczny trening/N, Angielski/S
 P Zawodowo zajmujesz się grami; Emocje turniejów; Międzynarodowe środowisko
 M Kariera zawodnika jest krótka; Bardzo duża konkurencja; Wiele godzin przy ekranie
 R Od amatora: praktyka=Regularny trening w jednej grze=2 > praktyka=Amatorska drużyna i turnieje online=1 > egzamin=Testy do organizacji e-sportowej=0
-R Zaplecze e-sportu: szkola=Szkoła średnia=4 > praktyka=Wolontariat przy turniejach=0.5 > studia=Studia, np. zarządzanie, sport lub informatyka=3
+R Zaplecze e-sportu: szkola=Liceum=4 > praktyka=Wolontariat przy turniejach=0.5 > studia=Studia, np. zarządzanie, sport lub informatyka=3
 #X-startup Założyciele firm
 S Sprzedawanie pomysłu/P, Liczenie pieniędzy/L, Szybkie uczenie się/L, Odporność na porażki/P, Budowanie zespołu/P, Rozumienie klienta/P
 P Budujesz coś własnego; Sam decydujesz, co robisz; Uczysz się bardzo szybko
 M Większość startupów się nie udaje; Niepewne dochody; Praca bez wyraźnych godzin
 R Mały projekt: projekt=Mały własny biznes lub projekt jeszcze w szkole=1 > praktyka=Praca w startupie lub małej firmie=2 > projekt=Własny produkt i pierwsi klienci=1
-R Przez studia: szkola=Szkoła średnia=4 > studia=Studia z dziedziny, w której chcesz działać=3 > projekt=Projekt w inkubatorze przedsiębiorczości=1
+R Przez studia: szkola=Liceum=4 > studia=Studia z dziedziny, w której chcesz działać=3 > projekt=Projekt w inkubatorze przedsiębiorczości=1
 #X-dron Operatorzy dronów
 S Precyzyjne sterowanie/R, Orientacja w przestrzeni/O, Znajomość przepisów lotniczych/S, Koncentracja/L, Wyczucie kadru/O, Odpowiedzialność/P
 P Nowa, rozwijająca się branża; Praca w terenie; Różne zastosowania, od filmu po pomiary
