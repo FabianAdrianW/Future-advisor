@@ -7,7 +7,7 @@ Y: Obejrzyj swoje buty i sprawdź, jak podeszwa i obcas są połączone, klejem,
 @1
 H: Obsługujesz maszyny, które z kawałków materiału robią gotowe buty. Pilnujesz ich pracy i regularnie je konserwujesz.
 T: Uruchamiasz maszyny do formowania i wykańczania | Pilnujesz, czy wykroje są równo wycięte | Wyłapujesz wadliwe buty z linii | Czyścisz i smarujesz maszyny po zmianie
-D: 6:00 Przejmujesz linię i sprawdzasz ustawienia maszyn | 9:00 Maszyna do formowania zacina się, usuwasz zator | 12:00 Odrzucasz buty z krzywym szwem | 13:45 Czyścisz i smarujesz maszyny przed końcem zmiany
+D: 6:00 Przejmujesz linię i sprawdzasz ustawienia maszyn | 9:00 Maszyna do formowania zacina się, zatrzymujesz ją i usuwasz zator | 12:00 Odrzucasz buty z krzywym szwem | 13:45 Czyścisz i smarujesz maszyny przed końcem zmiany
 Y: Obejrzyj parę swoich butów i porównaj, czy oba są identyczne w kształcie, szwach i wykończeniu.
 
 @2
@@ -25,7 +25,7 @@ Y: Naciśnij palcami tylną część swojego buta i sprawdź, co sprawia, że pi
 @4
 H: Z płatów skóry i materiałów wycinasz części przyszłych butów. Zanim zetniesz, oglądasz materiał i decydujesz, które miejsca są najlepsze, a które mają skazy.
 T: Oglądasz skórę i szukasz skaz | Wyznaczasz, gdzie i jak kroić | Programujesz maszynę lub automatyczny nóż | Rozkładasz skórę na stole do cięcia
-D: 6:00 Rozkładasz skórę i oglądasz ją pod światło | 7:30 Zaznaczasz, które części wyjdą z najlepszych miejsc | 10:00 Automatyczny nóż tnie, ty pilnujesz ułożenia | 13:00 Segregujesz wycięte elementy według rozmiarów
+D: 6:00 Rozkładasz skórę i oglądasz ją pod światło | 7:30 Zaznaczasz, które części wyjdą z najlepszych miejsc | 10:00 Automatyczny nóż tnie, a ty z bezpiecznej odległości pilnujesz ułożenia | 13:00 Segregujesz wycięte elementy według rozmiarów
 Y: Narysuj na kartce kontur swojej stopy trzy razy obok siebie i wytnij je tak, by zmarnować jak najmniej papieru.
 
 @5
@@ -61,7 +61,7 @@ Y: Zaznacz linijką i ołówkiem na kartce linię szwu równo pół centymetra o
 @10
 H: Wysyłasz z komputera plik z kształtami do maszyny, która sama wykrawa części butów. Ty kładziesz materiał, zaznaczasz na nim skazy i sprawdzasz, czy wycięte elementy zgadzają się z wymaganiami.
 T: Wysyłasz plik z komputera do maszyny | Kładziesz materiał na stole maszyny | Cyfrowo zaznaczasz skazy na materiale | Porównujesz wycięte elementy z wymaganiami
-D: 6:00 Włączasz maszynę i sprawdzasz jej narzędzia tnące | 7:00 Wczytujesz plik z nowym zleceniem cięcia | 10:00 Zaznaczasz skazy na skórze przed cięciem | 13:00 Zbierasz wycięte części i mierzysz je
+D: 6:00 Sprawdzasz narzędzia tnące, a potem włączasz maszynę | 7:00 Wczytujesz plik z nowym zleceniem cięcia | 10:00 Zaznaczasz skazy na skórze przed cięciem | 13:00 Zbierasz wycięte części i mierzysz je
 Y: Zmierz linijką trzy przedmioty w domu i zapisz ich wymiary w tabelce o kolumnach nazwa, długość, szerokość.
 
 @11
@@ -79,7 +79,7 @@ Y: Obrysuj na kartce w kratkę swoją dłoń i policz kratki w środku, by oszac
 @13
 H: Obsługujesz maszyny, które składają materace. Na układ sprężyn nakładasz i mocujesz warstwy wyściółki oraz pokrycie, tak żeby materac wyszedł równy.
 T: Tniesz warstwy wyściółki na wymiar | Rozciągasz pokrycie nad układem sprężyn | Mocujesz warstwy do sprężyn maszyną | Sprawdzasz, czy materac jest równy
-D: 6:00 Ładujesz do maszyny rolki wyściółki i pokrycia | 8:00 Tniesz warstwy i układasz je na sprężynach | 11:00 Maszyna mocuje pokrycie, ty poprawiasz rogi | 13:30 Mierzysz gotowy materac i odstawiasz go na paletę
+D: 6:00 Ładujesz do maszyny rolki wyściółki i pokrycia | 8:00 Tniesz warstwy i układasz je na sprężynach | 11:00 Maszyna mocuje pokrycie, a ty poprawiasz rogi po jej zatrzymaniu | 13:30 Mierzysz gotowy materac i odstawiasz go na paletę
 Y: Naciśnij dłonią materac w trzech miejscach i sprawdź, czy wszędzie jest tak samo twardy.
 
 @14
@@ -121,7 +121,7 @@ Y: Obejrzyj dywanik od spodu i od wierzchu i opisz, jak nitki są w nim zamocowa
 @20
 H: Ustawiasz i obsługujesz maszyny, na których nitki przędzy splatają się w tkaninę na odzież, tekstylia domowe lub produkty techniczne. Pilnujesz maszyn i naprawiasz drobne usterki.
 T: Zakładasz przędzę i uruchamiasz maszynę | Obserwujesz tkaninę podczas tkania | Łączysz zerwane nitki | Naprawiasz drobne usterki maszyn
-D: 6:00 Ustawiasz maszynę i zakładasz nowe szpule przędzy | 8:00 Obserwujesz, jak nitki splatają się w tkaninę | 10:30 Nitka się zrywa, łączysz ją i ruszasz | 13:30 Czyścisz maszynę i smarujesz ruchome części
+D: 6:00 Ustawiasz maszynę i zakładasz nowe szpule przędzy | 8:00 Obserwujesz, jak nitki splatają się w tkaninę | 10:30 Nitka się zrywa, zatrzymujesz maszynę, łączysz ją i ruszasz | 13:30 Czyścisz maszynę i smarujesz ruchome części
 Y: Policz, ile nitek wzdłuż i w poprzek mieści się na jednym centymetrze w tkaninie koszuli.
 
 @21

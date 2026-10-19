@@ -13,3 +13,5 @@ Zostaje do zrobienia z backlogu 235: opisy skopiowane (Monter precyzyjny, Inżyn
 - Partia 102 (20/20 POPRAW): pay_group nie istnieje w KZiS (np. 8159, 8157, 8213 – do potwierdzenia kodów GUS i przeliczenia median). NIE ZROBIONE.
 - Partia 104 (15 OK, 1 POPRAW, 4 NIE WIEM): „Operator prasy do form do pieczenia ciast” – nazwa i opis piekarnicze, a nie tworzywa. Monterzy – grupa „Monterzy” niepotwierdzona. NIE ZROBIONE.
 - Partia 101 (7 OK, 10 POPRAW, 3 NIE WIEM): technicy (ID 6, 8, 17, 18, 20, 25) mają ścieżki operatorskie i grupy operatorów, a nie technikum/policealną; część opisów dnia opisuje niebezpieczne czynności przy pracujących maszynach (do przeglądu bezpieczeństwa). NIE ZROBIONE.
+- Partia 101 — ZROBIONE: opisy dnia przy maszynach (gen 1, 4, 10, 13, 20) przeformułowane tak, by czynności przy pracującej maszynie odbywały się po zatrzymaniu; pięć „Techników” (gen 6, 8, 17, 18, 25) ma teraz trasę technikum i policealną zamiast operatorskiej.
+- Partia 101 — NIE ZROBIONE: pay_group operatorów obuwia/tkaczy (do potwierdzenia kodów GUS), gen 3 „Operator parzaka” (znaczenie zawodu do sprawdzenia), gen 21 i 24 (grupa nadzorców).

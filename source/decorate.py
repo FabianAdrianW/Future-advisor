@@ -218,6 +218,20 @@ _PA = {
 _PA["Nauczyciel kształcenia zawodowego w zakresie gastronomii/nauczycielka kształcenia zawodowego w zakresie gastronomii"] = _PA["Nauczyciel kształcenia zawodowego w zakresie gastronomii"]
 ROUTE_FIX.update(_PA)
 
+# Partia 101: technicy nie mogą mieć ścieżek operatorskich (technik = technikum albo policealna)
+_T101 = {
+    "Technik utrzymania maszyn do produkcji obuwia": "Technik mechanik obuwniczy",
+    "Technik utrzymania maszyn kaletniczych i rymarskich": "Technik mechanik",
+    "Technik ds. nietkanych materiałów włókienniczych": "Technik włókiennik",
+    "Technik ds. procesu oplatania": "Technik włókiennik",
+    "Technik ds. procesu dziania": "Technik włókiennik",
+}
+for _k, _zawod in _T101.items():
+    ROUTE_FIX[_k] = [
+        "Technikum: szkola=Technikum=5 > egzamin=Egzamin zawodowy=0 > praktyka=Praca w zakładzie produkcyjnym jako %s=1" % _zawod,
+        "Szkoła policealna: szkola=Liceum=4 > kurs=Szkoła policealna: %s=2.5 > praktyka=Praca w zakładzie produkcyjnym=0" % _zawod.lower(),
+    ]
+
 ROUTE_FIX_USED = set()
 
 
