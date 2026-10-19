@@ -424,7 +424,6 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     return steps.map(function (s) {
       var y = +s[2] || 0;
       if (s[0] === 'szkola') { if (st >= 2) return 0; if (st === 1) return Math.min(y, 2); }
-      if (s[0] === 'studia' && st === 2 && !mat) { mat = true; y += 1; }
       return y;
     });
   }
@@ -454,7 +453,14 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
   function skillList(items, cls, c) { return '<div class="card"><ul class="skl' + cls + '" style="--c:' + c + '">' + items.map(function (s) { return '<li><div><b>' + esc(s[0]) + '</b><span>' + esc(s[1]) + '</span></div></li>'; }).join('') + '</ul></div>'; }
   function routesOf(n) {
     var x = detailOf(n).x;
-    return x.routes && x.routes.length ? x.routes : null;
+    if (!x.routes || !x.routes.length) return null;
+    // Po szkole bez matury najpierw jest matura, a dopiero potem studia. Pokazujemy ją jako osobny krok, a czas studiów zostaje taki, jaki jest w opisie drogi.
+    return x.routes.map(function (r) {
+      var s = r.s, i = -1;
+      if (stg() === 2 && !s.some(function (st) { return /matur/i.test(st[1]); })) i = s.findIndex(function (st) { return st[0] === 'studia'; });
+      if (i >= 0) s = s.slice(0, i).concat([['egzamin', 'Matura (rok przygotowawczy)', 1]], s.slice(i));
+      return s === r.s ? r : Object.assign({}, r, { s: s });
+    });
   }
   function yearsTxt(y) {
     if (!y) return '';
