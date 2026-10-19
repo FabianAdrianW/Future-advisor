@@ -203,6 +203,21 @@ ROUTE_FIX.update({
         "Technikum: szkola=Liceum=4 > kurs=Szkoła policealna: technik transportu kolejowego=2.5 > praktyka=Praca na stacji jako dyżurny ruchu=0"],
 })
 
+# Faza A (weryfikacja 600): jednoznaczne poprawki tras
+_PA = {
+    "Nauczyciel kształcenia zawodowego w zakresie gastronomii": [
+        "Zawód i pedagogika: szkola=Technikum gastronomiczne=5 > praktyka=Kilka lat pracy w zawodzie=3 > kurs=Przygotowanie pedagogiczne=1",
+        "Zawód i pedagogika: szkola=Szkoła branżowa I stopnia=3 > praktyka=Kilka lat pracy w zawodzie=3 > kurs=Przygotowanie pedagogiczne=1",
+        "Przez studia: szkola=Liceum=4 > studia=Studia: kierunek zgodny z zawodem z przygotowaniem pedagogicznym=5 > praktyka=Staż lub praktyki w zawodzie=0.5"],
+    "Komendant policji": [
+        "Studia i praca w urzędzie: szkola=Liceum=4 > studia=Studia, np. prawo, administracja, politologia lub ekonomia=5 > praktyka=Staż w urzędzie=0.5 > praktyka=Kilka lat pracy i awans=5"],
+    "Robotnik górniczy": [
+        "Od razu do pracy: praktyka=Przyuczenie na stanowisku u pracodawcy (po 18. roku życia, praca pod ziemią)=0.5",
+        "Dalej w zawodzie: praktyka=Praca pomocnika=1 > kurs=Kurs zawodowy lub egzamin czeladniczy=0.5"],
+}
+_PA["Nauczyciel kształcenia zawodowego w zakresie gastronomii/nauczycielka kształcenia zawodowego w zakresie gastronomii"] = _PA["Nauczyciel kształcenia zawodowego w zakresie gastronomii"]
+ROUTE_FIX.update(_PA)
+
 ROUTE_FIX_USED = set()
 
 
