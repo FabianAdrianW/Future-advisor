@@ -152,6 +152,14 @@ ROUTE_FIX = {
     "Asystent / asystentka chirurga": ["Szkoła policealna: szkola=Liceum=4 > kurs=Szkoła policealna: technik sterylizacji medycznej=1 > egzamin=Egzamin zawodowy=0"],
     "Psychoterapeuta": ["Psychoterapia: szkola=Liceum=4 > studia=Jednolite studia magisterskie z psychologii=5 > kurs=Szkolenie psychoterapeutyczne akredytowane=4"],
     "Preparator zwierząt": ["Od praktyki: kurs=Kurs taksydermii=0.5 > praktyka=Praktyka u doświadczonego preparatora=2"],
+    "Kierownik działu prawnego": ["Studia prawnicze: szkola=Liceum=4 > studia=Jednolite studia magisterskie z prawa=5 > praktyka=Praca w dziale prawnym lub kancelarii=2"],
+    "Wyplatacz koszyków": ["Od praktyki: kurs=Kurs plecionkarstwa=0.5 > praktyka=Nauka w pracowni plecionkarskiej=2"],
+    "Asystent / asystentka fizjoterapii": ["Szkoła policealna: szkola=Liceum=4 > kurs=Szkoła policealna: technik masażysta=2 > praktyka=Praktyka w gabinecie fizjoterapii=0.5"],
+    "Doradca edukacyjny": ["Studia z doradztwa: szkola=Liceum=4 > studia=Studia pedagogiczne lub psychologiczne=5 > kurs=Studia podyplomowe z doradztwa zawodowego=1"],
+    "Nauczyciel nauczania przedszkolnego dzieci ze specjalnymi potrzebami edukacyjnymi/nauczycielka nauczania przedszkolnego dzieci ze specjalnymi potrzebami edukacyjnymi": ["Studia pedagogiczne: szkola=Liceum=4 > studia=Studia pedagogiczne ze specjalnością przedszkolną=3 > studia=Magisterium z pedagogiki specjalnej=2"],
+    "Dyrektor archiwum": ["Studia archiwistyczne: szkola=Liceum=4 > studia=Studia historyczne lub archiwistyczne=3 > studia=Magisterskie=2 > praktyka=Praca w archiwum=2"],
+    "Fotoedytor": ["Studia graficzne: szkola=Liceum=4 > studia=Studia graficzne lub fotograficzne=3 > praktyka=Portfolio i praktyka w agencji=0.5"],
+    "Metrolog": ["Studia metrologiczne: szkola=Liceum=4 > studia=Studia inżynierskie lub fizyczne z metrologią=3.5 > praktyka=Praktyka w laboratorium pomiarowym=0.5"],
 }
 ROUTE_FIX_USED = set()
 
@@ -162,6 +170,7 @@ DISPLAY_FIX = {
     "Technik przenoszenia zarodków zwierzęcych": "Asystent przy transferze zarodków",
     "Technik technologii wyrobów skórzanych": "Inżynier technologii wyrobów skórzanych",
     "Asystent / asystentka chirurga": "Instrumentariusz chirurgiczny",
+    "Doradca edukacyjny": "Doradca zawodowy",
     "Pracownik ds. wsparcia dla osób z zaburzeniami psychicznym": "Asystent osoby z zaburzeniami psychicznymi",
 }
 
