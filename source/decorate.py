@@ -144,6 +144,17 @@ PAY_FIX = {
 }
 PAY_FIX_USED = set()
 
+
+# Nadpisanie drog edukacji dla konkretnego zawodu (wspoldzielone grupy nie moga zmieniac jednego zawodu). Format jak w groups.txt.
+ROUTE_FIX = {
+    "Dziekan": ["Droga akademicka: szkola=Liceum=4 > studia=Studia licencjackie i magisterskie=5 > studia=Doktorat=4 > praktyka=Habilitacja i kariera naukowa=0"],
+    "Rzeczoznawca majątkowy": ["Studia i uprawnienia: szkola=Liceum=4 > studia=Studia licencjackie lub magisterskie z finansów lub gospodarki nieruchomościami=5 > kurs=Studia podyplomowe z wyceny nieruchomości=1 > praktyka=Praktyka w zawodzie rzeczoznawcy=2 > egzamin=Egzamin państwowy na rzeczoznawcę majątkowego=0"],
+    "Asystent / asystentka chirurga": ["Szkoła policealna: szkola=Liceum=4 > kurs=Szkoła policealna: technik sterylizacji medycznej=1 > egzamin=Egzamin zawodowy=0"],
+    "Psychoterapeuta": ["Psychoterapia: szkola=Liceum=4 > studia=Jednolite studia magisterskie z psychologii=5 > kurs=Szkolenie psychoterapeutyczne akredytowane=4"],
+    "Preparator zwierząt": ["Od praktyki: kurs=Kurs taksydermii=0.5 > praktyka=Praktyka u doświadczonego preparatora=2"],
+}
+ROUTE_FIX_USED = set()
+
 def slug(name):
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
@@ -580,6 +591,8 @@ def deco(n, parent_img):
         if _pf: PAY_FIX_USED.add(_pf)
         n["gk"] = n.get("gk") or gkey(n.get("u"))
         if _pf: n["pk"] = PAY_FIX[_pf]
+        _rk = next((k for k in (full, n.get("n")) if k in ROUTE_FIX), None)
+        if _rk: n["rx"] = [parse_route(r) for r in ROUTE_FIX[_rk]]; ROUTE_FIX_USED.add(_rk)
         assert n["gk"] in G, n["gk"]
         USED_G.add(n["gk"])
         if n.get("fam"):
@@ -598,6 +611,7 @@ for a in tree["areas"]:
     deco(a, None)
 
 assert not missing_details, missing_details
+print("drogi niedopasowane:", sorted(set(ROUTE_FIX) - ROUTE_FIX_USED))
 print("korekty grup niedopasowane:", sorted(set(PAY_FIX) - PAY_FIX_USED))
 tree["stats"]["detailed"] = len(details)
 tree["groups"] = {k: G[k] for k in sorted(USED_G)}

@@ -446,6 +446,7 @@ h2 { font-family: var(--display); font-size: 20px; line-height: 24px; font-weigh
     if (n.x) return { x: n.x, kind: 'own' };
     var g = GROUPS[n.gk], gen = genGet(n.fn || n.n), x = {};
     if (g) { x.skills = g.s; x.plus = g.p; x.minus = g.m; x.routes = g.r; }
+    if (n.rx) x.routes = n.rx;
     if (gen) { x.hook = gen.hook; x.tasks = gen.tasks; x.day = gen.day; x.try = gen.try; }
     return { x: x, kind: gen ? 'mixed' : 'base', g: g };
   }
