@@ -60,7 +60,7 @@ S Matematyka/L, Dociekliwość/L, Praca w laboratorium lub terenie/N, Dokładno�
 P Odkrywasz, jak działa świat; Praca w nauce lub przemyśle; Dużo samodzielnego myślenia
 M Długa nauka; Wyniki przychodzą powoli; Praca zależna od grantów lub projektów
 R ST fizyka, chemia, geologia lub pokrewny 5
-R Kariera naukowa: szkola=Liceum z rozszerzoną matematyką i przedmiotem ścisłym=4 > studia=Studia magisterskie=5 > studia=Doktorat=4
+R Kariera naukowa: szkola=Liceum z rozszerzoną matematyką i przedmiotem ścisłym=4 > studia=Studia licencjackie i magisterskie=5 > studia=Doktorat=4
 #212 Matematycy i statystycy
 S Matematyka/L, Logiczne myślenie/L, Programowanie/L, Dokładność/L, Tłumaczenie wyników/S, Cierpliwość do trudnych zadań/L
 P Umiejętności potrzebne w wielu branżach; Dużo samodzielnego myślenia; Możliwa praca zdalna
@@ -137,7 +137,7 @@ R Studia medyczne: szkola=Liceum z biologią i chemią=4 > studia=Jednolite stud
 S Głęboka wiedza z dziedziny/L, Prowadzenie zajęć/P, Pisanie tekstów naukowych/S, Dociekliwość/L, Angielski naukowy/S, Cierpliwość/P
 P Zajmujesz się tym, co Cię pasjonuje; Praca z młodymi dorosłymi; Dużo swobody w wyborze tematów
 M Bardzo długa droga; Presja publikacji i grantów; Mało etatów
-R Kariera naukowa: szkola=Liceum=4 > studia=Studia magisterskie=5 > studia=Doktorat=4 > praktyka=Prowadzenie zajęć w trakcie doktoratu=0
+R Kariera naukowa: szkola=Liceum=4 > studia=Studia licencjackie i magisterskie=5 > studia=Doktorat=4 > praktyka=Prowadzenie zajęć w trakcie doktoratu=0
 #232 Nauczyciele zawodu
 S Doświadczenie w zawodzie/R, Tłumaczenie krok po kroku/P, Cierpliwość/P, Pokaz praktyczny/R, Dbałość o bezpieczeństwo/R, Ocenianie postępów/L
 P Przekazujesz fach młodym; Łączysz praktykę z nauczaniem; Wolne w wakacje

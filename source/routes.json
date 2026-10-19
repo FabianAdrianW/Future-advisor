@@ -30,7 +30,7 @@
     {"n": "Od redakcji", "s": [["projekt", "Gazetka szkolna, blog albo podcast", 1], ["praktyka", "Praktyki lub współpraca z lokalną redakcją", 1], ["projekt", "Teczka opublikowanych materiałów", 0]]}
   ],
   "Radca prawny": [
-    {"n": "Studia i aplikacja", "s": [["szkola", "Liceum z mocną historią, WOS-em i polskim", 4], ["studia", "Studia prawnicze", 5], ["egzamin", "Egzamin wstępny na aplikację", 0], ["praktyka", "Aplikacja radcowska", 3], ["egzamin", "Egzamin radcowski i wpis na listę", 0.5]]}
+    {"n": "Studia i aplikacja", "s": [["szkola", "Liceum z mocną historią, WOS-em i polskim", 4], ["studia", "Studia prawnicze", 5], ["egzamin", "Egzamin wstępny na aplikację", 0], ["praktyka", "Aplikacja radcowska", 3.5], ["egzamin", "Egzamin radcowski i wpis na listę", 0.5]]}
   ],
   "Psycholog": [
     {"n": "Studia psychologiczne", "s": [["szkola", "Liceum; przyda się biologia", 4], ["studia", "Jednolite studia magisterskie z psychologii", 5], ["praktyka", "Staż lub wolontariat w poradni, szkole albo szpitalu", 1], ["kurs", "Szkolenia w wybranej dziedzinie, np. klinicznej lub szkolnej", 1]]}
